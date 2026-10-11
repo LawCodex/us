@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–210, title I, § 142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted “PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL” for “PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS” in item for subchapter III.
+2025—Pub. L. 118–210, title I, § 142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted “PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL” for “PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS” in item for subchapter III.
 
-2022—Pub. L. 117–328, div. U, title I, § 112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
+2022—Pub. L. 117–328, div. U, title I, § 112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
 
-Pub. L. 117–168, § 1(b)(2), title IX, § 906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
+Pub. L. 117–168, § 1(b)(2), title IX, § 906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
 
-2019—Pub. L. 116–12, § 1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted “PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS” for “PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III.
+2019—Pub. L. 116–12, § 1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted “PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS” for “PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III.
 
-2018—Pub. L. 115–182, title V, § 502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+2018—Pub. L. 115–182, title V, § 502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
-2014—Pub. L. 113–146, § 301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
+2014—Pub. L. 113–146, § 301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
 
-2010—Pub. L. 111–163, title VI, § 602(a)(2), May 5, 2010, 124 Stat. 1173, added item 7459.
+2010—Pub. L. 111–163, title VI, § 602(a)(2), May 5, 2010, 124 Stat. 1173, added item 7459.
 
-2004—Pub. L. 108–445, §§ 3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
+2004—Pub. L. 108–445, §§ 3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
 
-1991—Pub. L. 102–40, title I, §§ 102, 103(a)(2), title II, § 203(b), title IV, § 401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
+1991—Pub. L. 102–40, title I, §§ 102, 103(a)(2), title II, § 203(b), title IV, § 401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
 
 ## SUBCHAPTER I—APPOINTMENTS
 
-### § 7401. Appointments in Veterans Health Administration
+### § 7401. Appointments in Veterans Health Administration
 
 There may be appointed by the Secretary such personnel as the Secretary may find necessary for the health care of veterans (in addition to those in the Office of the Under Secretary for Health appointed under section 7306 of this title), as follows:
 
@@ -47,9 +47,9 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 **(2)** Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-**(3)** Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and 1
+**(3)** Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
@@ -69,7 +69,7 @@ such other classes of health care occupations as the Secretary considers necessa
 
 **(4)** Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§ 301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, § 502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, § 201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, § 601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, § 601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, § 4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, § 207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, § 183, Dec. 29, 2022, 136 Stat. 5436.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§ 301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, § 502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, § 201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, § 601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, § 601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, § 4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, § 207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, § 183, Dec. 29, 2022, 136 Stat. 5436.)
 
 **Editorial Notes**
 
@@ -93,13 +93,13 @@ Provisions similar to those in this section were contained in section 4104 of th
 
 2004—Par. (3). Pub. L. 108–422 substituted “technologists, dental hygienists, dental assistants” for “and dental technologists” and “technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists” for “technicians, therapeutic radiologic technicians, and social workers”.
 
-2003—Pub. L. 108–170, § 302(a)(1), substituted “health” for “medical” in introductory provisions.
+2003—Pub. L. 108–170, § 302(a)(1), substituted “health” for “medical” in introductory provisions.
 
-Par. (1). Pub. L. 108–170, § 302(a)(2), inserted “chiropractors,” after “podiatrists,”.
+Par. (1). Pub. L. 108–170, § 302(a)(2), inserted “chiropractors,” after “podiatrists,”.
 
-Par. (2). Pub. L. 108–170, § 301(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.”
+Par. (2). Pub. L. 108–170, § 301(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.”
 
-Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
+Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -111,7 +111,7 @@ Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day per
 
 **Limitation on Detail of Directors of Medical Centers of Department of Veterans Affairs to Different Positions**
 
-Pub. L. 118–210, title I, § 148, Jan. 2, 2025, 138 Stat. 2754, provided that:
+Pub. L. 118–210, title I, § 148, Jan. 2, 2025, 138 Stat. 2754, provided that:
 
 > **“(a) Notification.—**
 
@@ -147,7 +147,7 @@ Pub. L. 118–210, title I, § 148, Jan. 2, 2025, 138 Stat. 2754, provided tha
 
 **Third Party Review of Appointees in Veterans Health Administration Who Had a License Terminated for Cause and Notice to Individuals Treated by Those Appointees if Determined That an Episode of Care or Services That They Received Was Below the Standard of Care**
 
-Pub. L. 117–328, div. U, title I, § 111, Dec. 29, 2022, 136 Stat. 5410, provided that:
+Pub. L. 117–328, div. U, title I, § 111, Dec. 29, 2022, 136 Stat. 5410, provided that:
 
 > **“(a) Third Party Review.—**
 
@@ -169,7 +169,7 @@ Pub. L. 117–328, div. U, title I, § 111, Dec. 29, 2022, 136 Stat. 5410, pro
 
 **Modification of Resource Allocation System To Include Peer Specialists**
 
-Pub. L. 117–328, div. U, title I, § 192, Dec. 29, 2022, 136 Stat. 5439, provided that:
+Pub. L. 117–328, div. U, title I, § 192, Dec. 29, 2022, 136 Stat. 5439, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall modify the Veterans Equitable Resource Allocation system, or successor system, to ensure that resource allocations under such system, or successor system, include peer specialists appointed under section 7402(b)(13) of title 38, United States Code.
 
@@ -177,7 +177,7 @@ Pub. L. 117–328, div. U, title I, § 192, Dec. 29, 2022, 136 Stat. 5439, pro
 
 **Expansion of Mental Health Training for Department of Veterans Affairs**
 
-Pub. L. 117–328, div. V, title I, § 103, Dec. 29, 2022, 136 Stat. 5500, provided that:
+Pub. L. 117–328, div. V, title I, § 103, Dec. 29, 2022, 136 Stat. 5500, provided that:
 
 > **“(a) In General.—** Not later than three years after the date of the enactment of this Act [Dec. 29, 2022] and subject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
 
@@ -185,7 +185,7 @@ Pub. L. 117–328, div. V, title I, § 103, Dec. 29, 2022, 136 Stat. 5500, pro
 
 **Outreach**
 
-Pub. L. 117–328, div. V, title I, § 104(c), Dec. 29, 2022, 136 Stat. 5501, provided that:
+Pub. L. 117–328, div. V, title I, § 104(c), Dec. 29, 2022, 136 Stat. 5501, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary shall develop a public awareness campaign to encourage veterans and mental health professionals to choose the Department for their mental health career.
 
@@ -197,7 +197,7 @@ Pub. L. 117–328, div. V, title I, § 104(c), Dec. 29, 2022, 136 Stat. 5501, 
 
 **National Rural Recruitment and Hiring Plan for Veterans Health Administration**
 
-Pub. L. 117–168, title IX, § 901, Aug. 10, 2022, 136 Stat. 1808, provided that:
+Pub. L. 117–168, title IX, § 901, Aug. 10, 2022, 136 Stat. 1808, provided that:
 
 > **“(a) In General.—** Not later than 18 months after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs, in collaboration with the directors of each community-based outpatient clinic and medical center of the Department of Veterans Affairs, shall develop and implement a national rural recruitment and hiring plan for the Veterans Health Administration to—
 
@@ -227,7 +227,7 @@ Pub. L. 117–168, title IX, § 901, Aug. 10, 2022, 136 Stat. 1808, provided t
 
 **Authority To Buy Out Service Contracts for Certain Health Care Professionals in Exchange for Employment at Rural or Highly Rural Facilities of Department of Veterans Affairs**
 
-Pub. L. 117–168, title IX, § 902, Aug. 10, 2022, 136 Stat. 1808, provided that:
+Pub. L. 117–168, title IX, § 902, Aug. 10, 2022, 136 Stat. 1808, provided that:
 
 > **“(a) In General.—** For any covered health care professional to whom the Secretary of Veterans Affairs has offered employment with the Department of Veterans Affairs, the Secretary may buy out the non-Department service contract of such individual in exchange for such individual agreeing to be employed at a rural or highly rural facility of the Department for a period of obligated service specified in subsection (c).
 
@@ -279,7 +279,7 @@ Pub. L. 117–168, title IX, § 902, Aug. 10, 2022, 136 Stat. 1808, provided t
 
 **Qualifications for Human Resources Positions Within Department of Veterans Affairs and Plan To Recruit and Retain Human Resources Employees**
 
-Pub. L. 117–168, title IX, § 903, Aug. 10, 2022, 136 Stat. 1810, provided that:
+Pub. L. 117–168, title IX, § 903, Aug. 10, 2022, 136 Stat. 1810, provided that:
 
 > **“(a) Establishment of Qualifications.—** Not later than 180 days after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall—
 
@@ -305,7 +305,7 @@ Pub. L. 117–168, title IX, § 903, Aug. 10, 2022, 136 Stat. 1810, provided t
 
 **Emergency Department of Veterans Affairs Employee Leave Fund**
 
-Pub. L. 117–2, title VIII, § 8008, Mar. 11, 2021, 135 Stat. 116, provided that:
+Pub. L. 117–2, title VIII, § 8008, Mar. 11, 2021, 135 Stat. 116, provided that:
 
 > **“(a) Establishment; Appropriation.—** There is established in the Treasury the Emergency Department of Veterans Affairs Employee Leave Fund (in this section referred to as the ‘Fund’), to be administered by the Secretary of Veterans Affairs, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $80,000,000, which shall be deposited into the Fund and remain available through September 20, 2022.
 
@@ -351,7 +351,7 @@ Pub. L. 117–2, title VIII, § 8008, Mar. 11, 2021, 135 Stat. 116, provided t
 
 **Department of Veterans Affairs Pilot Program for Clinical Observation by Undergraduate Students**
 
-Pub. L. 116–315, title III, § 3010, Jan. 5, 2021, 134 Stat. 4997, provided that:
+Pub. L. 116–315, title III, § 3010, Jan. 5, 2021, 134 Stat. 4997, provided that:
 
 > **“(a) Establishment.—** The Secretary of Veterans Affairs shall carry out a pilot program for a one-year period, beginning not later than August 15, 2021, to provide certain students described in subsection (d) a clinical observation experience at medical centers of the Department of Veterans Affairs.
 
@@ -445,11 +445,11 @@ Pub. L. 116–315, title III, § 3010, Jan. 5, 2021, 134 Stat. 4997, provided 
 
 **Occupational Series for Certain Mental Health Providers**
 
-Pub. L. 116–171, title V, § 501(b), Oct. 17, 2020, 134 Stat. 815, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental health counselors and marriage and family therapists of the Department of Veterans Affairs.”
+Pub. L. 116–171, title V, § 501(b), Oct. 17, 2020, 134 Stat. 815, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental health counselors and marriage and family therapists of the Department of Veterans Affairs.”
 
 **Identification and Referral of Members of the Armed Forces With a Health Care Occupation for Potential Employment With the Department of Veterans Affairs During Separation From the Armed Forces**
 
-Pub. L. 115–46, title II, § 207, Aug. 12, 2017, 131 Stat. 964, as amended by Pub. L. 117–67, § 2, Nov. 30, 2021, 135 Stat. 1491, provided that:
+Pub. L. 115–46, title II, § 207, Aug. 12, 2017, 131 Stat. 964, as amended by Pub. L. 117–67, § 2, Nov. 30, 2021, 135 Stat. 1491, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall establish a program to identify and refer members of the Armed Forces with a health care occupation for employment with the Department of Veterans Affairs during the separation of such members from the Armed Forces.
 
@@ -475,7 +475,7 @@ Pub. L. 115–46, title II, § 207, Aug. 12, 2017, 131 Stat. 964, as amended b
 
 **Training for Human Resources Professionals of Veterans Health Administration on Recruitment and Retention**
 
-Pub. L. 115–46, title II, § 209, Aug. 12, 2017, 131 Stat. 965, provided that:
+Pub. L. 115–46, title II, § 209, Aug. 12, 2017, 131 Stat. 965, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall provide to human resources professionals of the Veterans Health Administration training on how to best recruit and retain employees of the Veterans Health Administration, including with respect to any recruitment and retention matters that are unique to the Veterans Health Administration pursuant to chapter 74 of title 38, United States Code, or other provisions of law.
 
@@ -493,7 +493,7 @@ Pub. L. 115–46, title II, § 209, Aug. 12, 2017, 131 Stat. 965, provided tha
 
 **Plan To Hire Directors of Medical Centers of Department of Veterans Affairs**
 
-Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided that:
+Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided that:
 
 > **“(a) Plan.—** Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
 
@@ -513,7 +513,7 @@ Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided tha
 
 **Licensed Hearing Aid Specialists Appointment and Services**
 
-Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that:
+Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that:
 
 > **“(b) Requirements.—** With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary [of Veterans Affairs] shall ensure that—
 
@@ -527,9 +527,9 @@ Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided
 
 **Prior Appointments of Certain Personnel**
 
-Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act [Dec. 6, 2003] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection [amending this section] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
+Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act [Dec. 6, 2003] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection [amending this section] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
 
-### § 7402. Qualifications of appointees
+### § 7402. Qualifications of appointees
 
 **(a)** To be eligible for appointment to the positions in the Administration covered by subsection (b), a person must have the applicable qualifications set forth in that subsection.
 
@@ -641,7 +641,7 @@ Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, prov
 
 **(2)** certification for veterans under subsection (b)(13)(B)(i).
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, § 305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, § 209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, § 205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, § 302(b), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 109–461, title II, § 201(b), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 110–387, title IV, § 405, Oct. 10, 2008, 122 Stat. 4129; Pub. L. 114–256, § 4(a)(2), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 114–315, title VI, § 613, Dec. 16, 2016, 130 Stat. 1576.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, § 305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, § 209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, § 205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, § 302(b), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 109–461, title II, § 201(b), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 110–387, title IV, § 405, Oct. 10, 2008, 122 Stat. 4129; Pub. L. 114–256, § 4(a)(2), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 114–315, title VI, § 613, Dec. 16, 2016, 130 Stat. 1576.)
 
 **Editorial Notes**
 
@@ -653,15 +653,15 @@ Provisions similar to those in this section were contained in sections 4105 and 
 
 2016—Subsec. (b)(11)(A). Pub. L. 114–315 inserted “or doctoral degree” after “master’s degree”.
 
-Subsec. (b)(14). Pub. L. 114–256 inserted “, hearing aid specialist” after “dental technologist”.
+Subsec. (b)(14). Pub. L. 114–256 inserted “, hearing aid specialist” after “dental technologist”.
 
-2008—Subsec. (b)(11). Pub. L. 110–387, § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
+2008—Subsec. (b)(11). Pub. L. 110–387, § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
-Subsec. (b)(13). Pub. L. 110–387, § 405(a)(2), added par. (13).
+Subsec. (b)(13). Pub. L. 110–387, § 405(a)(2), added par. (13).
 
-Subsec. (b)(14). Pub. L. 110–387, § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
+Subsec. (b)(14). Pub. L. 110–387, § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
-Subsec. (g). Pub. L. 110–387, § 405(b), added subsec. (g).
+Subsec. (g). Pub. L. 110–387, § 405(b), added subsec. (g).
 
 2006—Subsec. (b)(10) to (12). Pub. L. 109–461 added par. (10) and the par. (11) relating to licensed professional health counselor and redesignated former par. (10) as (12).
 
@@ -683,11 +683,11 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–86, title III, § 305(b), Aug. 14, 1991, 105 Stat. 417, provided that: “The amendment made by subsection (a) [amending this section] does not apply to any person employed as a social worker by the Department of Veterans Affairs on or before the date of the enactment of this Act [Aug. 14, 1991].”
+Pub. L. 102–86, title III, § 305(b), Aug. 14, 1991, 105 Stat. 417, provided that: “The amendment made by subsection (a) [amending this section] does not apply to any person employed as a social worker by the Department of Veterans Affairs on or before the date of the enactment of this Act [Aug. 14, 1991].”
 
 **Prescription of Technical Qualifications for Licensed Hearing Aid Specialists and Requirement for Appointment of Such Specialists**
 
-Pub. L. 116–171, title VII, § 703, Oct. 17, 2020, 134 Stat. 829, provided that:
+Pub. L. 116–171, title VII, § 703, Oct. 17, 2020, 134 Stat. 829, provided that:
 
 > **“(a) Technical Qualifications.—**
 
@@ -719,9 +719,9 @@ Pub. L. 116–171, title VII, § 703, Oct. 17, 2020, 134 Stat. 829, provided t
 
 **Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After November 23, 1977**
 
-Pub. L. 95–201, § 4(a)(3), Nov. 23, 1977, 91 Stat. 1430, provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code [former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act [Nov. 23, 1977] in the Department of Medicine and Surgery in the Veterans’ Administration [now Veterans Health Administration of the Department of Veterans Affairs] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs], upon the recommendation of the Chief Medical Director [now Under Secretary for Health], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
+Pub. L. 95–201, § 4(a)(3), Nov. 23, 1977, 91 Stat. 1430, provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code [former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act [Nov. 23, 1977] in the Department of Medicine and Surgery in the Veterans’ Administration [now Veterans Health Administration of the Department of Veterans Affairs] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs], upon the recommendation of the Chief Medical Director [now Under Secretary for Health], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
 
-### § 7403. Period of appointments; promotions
+### § 7403. Period of appointments; promotions
 
 **(a)**
 
@@ -837,7 +837,7 @@ Pub. L. 95–201, § 4(a)(3), Nov. 23, 1977, 91 Stat. 1430, provided that: “
 
 **(9)** In this subsection, the term “congressional veterans’ affairs committees” means the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§ 301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058; Pub. L. 111–163, title VI, § 601(b), May 5, 2010, 124 Stat. 1168.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§ 301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058; Pub. L. 111–163, title VI, § 601(b), May 5, 2010, 124 Stat. 1168.)
 
 **Editorial Notes**
 
@@ -847,15 +847,15 @@ Provisions similar to those in this section were contained in section 4106 of th
 
 **Amendments**
 
-2010—Subsec. (b)(1). Pub. L. 111–163, § 601(b)(1), substituted “Except as otherwise provided in this subsection, appointments” for “Appointments”.
+2010—Subsec. (b)(1). Pub. L. 111–163, § 601(b)(1), substituted “Except as otherwise provided in this subsection, appointments” for “Appointments”.
 
-Subsec. (b)(2) to (4). Pub. L. 111–163, § 601(b)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (b)(2) to (4). Pub. L. 111–163, § 601(b)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-2003—Subsec. (a)(2)(H). Pub. L. 108–170, § 302(c), added subpar. (H).
+2003—Subsec. (a)(2)(H). Pub. L. 108–170, § 302(c), added subpar. (H).
 
-Subsec. (f)(3). Pub. L. 108–170, § 301(b)(1), inserted “reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees,” after “adverse actions,”, “, whether appointed under this section or section 7405(a)(1)(B) of this title” after “such positions”, and comma after “status)”.
+Subsec. (f)(3). Pub. L. 108–170, § 301(b)(1), inserted “reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees,” after “adverse actions,”, “, whether appointed under this section or section 7405(a)(1)(B) of this title” after “such positions”, and comma after “status)”.
 
-Subsec. (h). Pub. L. 108–170, § 301(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 108–170, § 301(b)(2), added subsec. (h).
 
 1992—Subsec. (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -865,15 +865,15 @@ Subsec. (h). Pub. L. 108–170, § 301(b)(2), added subsec. (h).
 
 Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
-### § 7404. Grades and pay scales
+### § 7404. Grades and pay scales
 
 **(a)**
 
 **(1)**
 
-**(A)** The annual rates or ranges of rates of basic pay for positions provided in section 1
+**(A)** The annual rates or ranges of rates of basic pay for positions provided in section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
 
@@ -905,7 +905,7 @@ Physician and surgeon grade.
 
 Podiatrist grade optometrist grade.2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 Dentist grade.
 
@@ -943,7 +943,7 @@ Associate grade.
 
 **(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid basic pay at a rate determined by the Secretary, not to exceed the maximum rates established under subchapter IV of this chapter.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, § 206, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, § 301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, § 302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, § 3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643; Pub. L. 109–461, title II, § 202, Dec. 22, 2006, 120 Stat. 3410; Pub. L. 111–163, title VI, § 601(d)(1), May 5, 2010, 124 Stat. 1169; Pub. L. 115–41, title II, § 207(b), June 23, 2017, 131 Stat. 877; Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475; Pub. L. 116–12, § 1(a), Apr. 8, 2019, 133 Stat. 845; Pub. L. 116–146, § 1(a), July 2, 2020, 134 Stat. 658; Pub. L. 117–96, § 1(b), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–103, div. S, title I, § 102(b), Mar. 15, 2022, 136 Stat. 822; Pub. L. 117–168, title IX, §§ 904(b), 906(a), Aug. 10, 2022, 136 Stat. 1811; Pub. L. 118–210, title I, § 142(b), Jan. 2, 2025, 138 Stat. 2746.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, § 206, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, § 301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, § 302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, § 3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643; Pub. L. 109–461, title II, § 202, Dec. 22, 2006, 120 Stat. 3410; Pub. L. 111–163, title VI, § 601(d)(1), May 5, 2010, 124 Stat. 1169; Pub. L. 115–41, title II, § 207(b), June 23, 2017, 131 Stat. 877; Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475; Pub. L. 116–12, § 1(a), Apr. 8, 2019, 133 Stat. 845; Pub. L. 116–146, § 1(a), July 2, 2020, 134 Stat. 658; Pub. L. 117–96, § 1(b), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–103, div. S, title I, § 102(b), Mar. 15, 2022, 136 Stat. 822; Pub. L. 117–168, title IX, §§ 904(b), 906(a), Aug. 10, 2022, 136 Stat. 1811; Pub. L. 118–210, title I, § 142(b), Jan. 2, 2025, 138 Stat. 2746.)
 
 **Editorial Notes**
 
@@ -955,7 +955,7 @@ Level II of the Executive Schedule, referred to in subsec. (a)(3)(B)(ii), is set
 
 **Codification**
 
-Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which directed amendment of “section 7404(b) of such title” without specifying the Code title to be amended, was executed to this section, which is section 7404 of Title 38, Veterans’ Benefits, to reflect the probable intent of Congress. See 2018 Amendment note below.
+Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which directed amendment of “section 7404(b) of such title” without specifying the Code title to be amended, was executed to this section, which is section 7404 of Title 38, Veterans’ Benefits, to reflect the probable intent of Congress. See 2018 Amendment note below.
 
 **Prior Provisions**
 
@@ -963,23 +963,23 @@ Provisions similar to those in this section were contained in section 4107(a)–
 
 **Amendments**
 
-2025—Subsec. (a)(2)(A). Pub. L. 118–210, § 142(b)(1), substituted “podiatrists, optometrists, and dentists” for “podiatrists, and dentists”.
+2025—Subsec. (a)(2)(A). Pub. L. 118–210, § 142(b)(1), substituted “podiatrists, optometrists, and dentists” for “podiatrists, and dentists”.
 
-Subsec. (b). Pub. L. 118–210, § 142(b)(2)(A), (C), substituted “podiatrist (dpm), optometrist (od), and dentist” for “podiatrist (dpm), and dentist” in first heading in table and inserted “optometrist grade” after “Podiatrist grade” in second item under that heading.
+Subsec. (b). Pub. L. 118–210, § 142(b)(2)(A), (C), substituted “podiatrist (dpm), optometrist (od), and dentist” for “podiatrist (dpm), and dentist” in first heading in table and inserted “optometrist grade” after “Podiatrist grade” in second item under that heading.
 
-Pub. L. 118–210, § 142(b)(2)(B), which directed substitution of “clinical chiropractor schedule” for “clinical chiropractor and optometrist schedule,” in third heading in table, was executed by making the substitution for “clinical chiropractor and optometrist schedule”, to reflect the probable intent of Congress.
+Pub. L. 118–210, § 142(b)(2)(B), which directed substitution of “clinical chiropractor schedule” for “clinical chiropractor and optometrist schedule,” in third heading in table, was executed by making the substitution for “clinical chiropractor and optometrist schedule”, to reflect the probable intent of Congress.
 
-2022—Subsec. (a)(1)(B). Pub. L. 117–168, § 904(b), inserted “7306 or” before “7401(4)”.
+2022—Subsec. (a)(1)(B). Pub. L. 117–168, § 904(b), inserted “7306 or” before “7401(4)”.
 
-Subsec. (a)(2). Pub. L. 117–103, § 102(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(2). Pub. L. 117–103, § 102(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 117–96, § 1(b)(1), inserted “, podiatrists,” after “physicians”.
+Pub. L. 117–96, § 1(b)(1), inserted “, podiatrists,” after “physicians”.
 
-Subsec. (b). Pub. L. 117–96, § 1(b)(2), substituted “podiatrist (dpm)” for “podiatrist” in first heading in table.
+Subsec. (b). Pub. L. 117–96, § 1(b)(2), substituted “podiatrist (dpm)” for “podiatrist” in first heading in table.
 
-Subsec. (c). Pub. L. 117–168, § 906(a), designated existing provisions as par. (1), inserted “or 7401(4)” after “section 7306”, substituted “or in a covered executive position under section 7401(1) of this title” for “who is not eligible for pay under subchapter III” and “section 4507” for “sections 4507 and 5384”, and added par. (2).
+Subsec. (c). Pub. L. 117–168, § 906(a), designated existing provisions as par. (1), inserted “or 7401(4)” after “section 7306”, substituted “or in a covered executive position under section 7401(1) of this title” for “who is not eligible for pay under subchapter III” and “section 4507” for “sections 4507 and 5384”, and added par. (2).
 
-Subsec. (e). Pub. L. 117–103, § 102(b)(2), inserted “basic pay” after “paid” and substituted “rates established under subchapter IV of this chapter” for “rate established for the Senior Executive Service under section 5382 of title 5”.
+Subsec. (e). Pub. L. 117–103, § 102(b)(2), inserted “basic pay” after “paid” and substituted “rates established under subchapter IV of this chapter” for “rate established for the Senior Executive Service under section 5382 of title 5”.
 
 2020—Subsec. (d). Pub. L. 116–146 inserted “and except for individuals appointed under sections 7401(4) and 7306 of this title,” after “section 7457 of this title,”.
 
@@ -991,17 +991,17 @@ Subsec. (e). Pub. L. 117–103, § 102(b)(2), inserted “basic pay” after �
 
 2010—Subsec. (a). Pub. L. 111–163 designated first sentence as par. (1) and second sentence as par. (2), substituted “under paragraph (1)” for “under the preceding sentence” in par. (2), and added par. (3).
 
-2006—Subsec. (d). Pub. L. 109–461, § 202(1), substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
+2006—Subsec. (d). Pub. L. 109–461, § 202(1), substituted “subsection (e), subchapter III, and” for “subchapter III and in”.
 
-Subsec. (e). Pub. L. 109–461, § 202(2), added subsec. (e).
+Subsec. (e). Pub. L. 109–461, § 202(2), added subsec. (e).
 
-2004—Subsec. (a). Pub. L. 108–445, § 3(a)(2), inserted at end “The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.”
+2004—Subsec. (a). Pub. L. 108–445, § 3(a)(2), inserted at end “The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.”
 
-Subsec. (b). Pub. L. 108–445, § 3(a)(1), struck out “(1)” after “(b)”, inserted items relating to Physician grade and Dentist grade under heading “physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
+Subsec. (b). Pub. L. 108–445, § 3(a)(1), struck out “(1)” after “(b)”, inserted items relating to Physician grade and Dentist grade under heading “physician and dentist schedule” and struck out former items under that heading, which read “Director grade”, “Executive grade”, “Chief grade”, “Senior grade”, “Intermediate grade”, “Full grade”, and “Associate grade”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.”
 
-Subsec. (c). Pub. L. 108–445, § 3(f)(1), substituted “pay” for “special pay”.
+Subsec. (c). Pub. L. 108–445, § 3(f)(1), substituted “pay” for “special pay”.
 
-Subsec. (d). Pub. L. 108–445, § 3(f)(2), substituted “pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.” for “pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
+Subsec. (d). Pub. L. 108–445, § 3(f)(2), substituted “pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.” for “pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
 
 “(1) Level IV for the Deputy Under Secretary for Health.
 
@@ -1011,15 +1011,15 @@ Subsec. (d). Pub. L. 108–445, § 3(f)(2), substituted “pay for positions f
 
 1992—Subsec. (b)(1). Pub. L. 102–585 inserted items relating to Nurse V through I under heading “nurse schedule” and struck out former items under that heading, “Director grade”, “Senior grade”, “Intermediate grade”, and “Entry grade”.
 
-Subsec. (b)(2). Pub. L. 102–405, § 206, inserted “, or comparable position” before period at end of first sentence.
+Subsec. (b)(2). Pub. L. 102–405, § 206, inserted “, or comparable position” before period at end of first sentence.
 
-Subsec. (d)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
+Subsec. (d)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–163, title VI, § 601(d)(2), May 5, 2010, 124 Stat. 1169, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the first day of the first pay period beginning after the day that is 180 days after the date of the enactment of this Act [May 5, 2010].”
+Pub. L. 111–163, title VI, § 601(d)(2), May 5, 2010, 124 Stat. 1169, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the first day of the first pay period beginning after the day that is 180 days after the date of the enactment of this Act [May 5, 2010].”
 
 **Effective Date of 2003 Amendment**
 
@@ -1027,11 +1027,11 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–585, title III, § 308, Nov. 4, 1992, 106 Stat. 4953, provided that: “The amendments made by sections 301, 302, 303, and 304 [amending this section and sections 7451 and 7452 of this title] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act [Nov. 4, 1992].”
+Pub. L. 102–585, title III, § 308, Nov. 4, 1992, 106 Stat. 4953, provided that: “The amendments made by sections 301, 302, 303, and 304 [amending this section and sections 7451 and 7452 of this title] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act [Nov. 4, 1992].”
 
 **Waivers**
 
-Pub. L. 116–146, § 1(b), July 2, 2020, 134 Stat. 658, provided that:
+Pub. L. 116–146, § 1(b), July 2, 2020, 134 Stat. 658, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs may waive the limitation described in section 7404(d) of such title [38 U.S.C. 7404(d)], as in effect on the day before the date of the enactment of this Act [July 2, 2020], on the amount of basic pay payable to individuals appointed under section 7401(4) or 7306 of such title [38 U.S.C. 7401(4), 7306] for basic pay payable during the period—
 
@@ -1045,7 +1045,7 @@ Pub. L. 116–146, § 1(b), July 2, 2020, 134 Stat. 658, provided that:
 
 **Application**
 
-Pub. L. 115–182, title V, § 502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act [June 6, 2018].”
+Pub. L. 115–182, title V, § 502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act [June 6, 2018].”
 
 **Executive Documents**
 
@@ -1057,7 +1057,7 @@ For adjustment of pay rates under this section, see the executive order detailin
 
 Ex. Ord. No. 12438, Aug. 23, 1983, 48 F.R. 39205, which related to review of increases in rates of basic pay for employees of the Veterans’ Administration, was revoked by Ex. Ord. No. 12797, Apr. 3, 1992, 57 F.R. 11671, set out as a note under section 7455 of this title.
 
-### § 7404A. Awards
+### § 7404A. Awards
 
 **(a) Superior Accomplishments and Performance Awards Program.—** The Secretary may establish an awards program for personnel listed in section 7421(b) of this title consistent with chapter 45 of title 5, to the extent practicable.
 
@@ -1073,15 +1073,15 @@ Ex. Ord. No. 12438, Aug. 23, 1983, 48 F.R. 39205, which related to review of inc
 
 **(e) Regulations.—** The Secretary may prescribe regulations for the administration of this section.
 
-(Added Pub. L. 117–168, title IX, § 906(b)(1), Aug. 10, 2022, 136 Stat. 1812.)
+(Added Pub. L. 117–168, title IX, § 906(b)(1), Aug. 10, 2022, 136 Stat. 1812.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitation on Past Awards**
 
-Pub. L. 117–168, title IX, § 906(b)(2), Aug. 10, 2022, 136 Stat. 1812, provided that: “Notwithstanding any other provision of law, awards made by the Secretary of Veterans Affairs for any period on or after January 1, 2017, and before the date of the enactment of this Act [Aug. 10, 2022] for an employee under section 7306 or 7401(4) of title 38, United States Code, or for a position described in section 7401(1) of such title that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5, United States Code), may be subject to section 7404A of title 38, United States Code, as added by paragraph (1).”
+Pub. L. 117–168, title IX, § 906(b)(2), Aug. 10, 2022, 136 Stat. 1812, provided that: “Notwithstanding any other provision of law, awards made by the Secretary of Veterans Affairs for any period on or after January 1, 2017, and before the date of the enactment of this Act [Aug. 10, 2022] for an employee under section 7306 or 7401(4) of title 38, United States Code, or for a position described in section 7401(1) of such title that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5, United States Code), may be subject to section 7404A of title 38, United States Code, as added by paragraph (1).”
 
-### § 7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
+### § 7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
 
 **(a)** The Secretary, upon the recommendation of the Under Secretary for Health, may employ, without regard to civil service or classification laws, rules, or regulations, personnel as follows:
 
@@ -1163,7 +1163,7 @@ Pub. L. 117–168, title IX, § 906(b)(2), Aug. 10, 2022, 136 Stat. 1812, prov
 
 **(C)** nurses who are not citizens of the United States and appointed under section 7407(a) of this title.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, § 204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, § 301(c), Dec. 6, 2003, 117 Stat. 2057; Pub. L. 111–163, title VI, § 601(c), May 5, 2010, 124 Stat. 1168.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 226; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title II, § 204, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, § 301(c), Dec. 6, 2003, 117 Stat. 2057; Pub. L. 111–163, title VI, § 601(c), May 5, 2010, 124 Stat. 1168.)
 
 **Editorial Notes**
 
@@ -1175,19 +1175,19 @@ Provisions similar to those in this section were contained in section 4114(a) of
 
 2010—Subsec. (g). Pub. L. 111–163 added subsec. (g).
 
-2003—Subsec. (a)(1)(B), (C). Pub. L. 108–170, § 301(c)(1)(A), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+2003—Subsec. (a)(1)(B), (C). Pub. L. 108–170, § 301(c)(1)(A), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
 
 “(C) Dietitians, social workers, and librarians.”
 
-Subsec. (a)(2)(B). Pub. L. 108–170, § 301(c)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
+Subsec. (a)(2)(B). Pub. L. 108–170, § 301(c)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
 
-Subsec. (c)(1). Pub. L. 108–170, § 301(c)(2), substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
+Subsec. (c)(1). Pub. L. 108–170, § 301(c)(2), substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
 
-2000—Subsec. (c)(2). Pub. L. 106–419, § 204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
+2000—Subsec. (c)(2). Pub. L. 106–419, § 204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
 
-Subsec. (c)(3), (4). Pub. L. 106–419, § 204(b), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 106–419, § 204(b), added par. (3) and redesignated former par. (3) as (4).
 
 1992—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -1195,7 +1195,7 @@ Subsec. (c)(3), (4). Pub. L. 106–419, § 204(b), added par. (3) and redesign
 
 **Recruitment of Mental Health Providers for Furnishing Mental Health Services on Behalf of the Department of Veterans Affairs Without Compensation From the Department**
 
-Pub. L. 112–239, div. A, title VII, § 729, Jan. 2, 2013, 126 Stat. 1813, provided that:
+Pub. L. 112–239, div. A, title VII, § 729, Jan. 2, 2013, 126 Stat. 1813, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall carry out a national program of outreach to societies, community organizations, nonprofit organizations, and government entities in order to recruit mental health providers who meet the quality standards and requirements of the Department of Veterans Affairs to provide mental health services for the Department on a part-time, without-compensation basis, under section 7405 of title 38, United States Code.
 
@@ -1203,7 +1203,7 @@ Pub. L. 112–239, div. A, title VII, § 729, Jan. 2, 2013, 126 Stat. 1813, pr
 
 > **“(c) Military Culture Training.—** In carrying out the program required by subsection (a), the Secretary shall provide training to mental health providers to ensure that clinicians who provide mental health services as described in such subsection have sufficient understanding of military-specific and service-specific culture, combat experience, and other factors that are unique to the experience of veterans who served in Operation Enduring Freedom, Operating Iraqi Freedom, or Operation New Dawn.”
 
-### § 7406. Residencies and internships
+### § 7406. Residencies and internships
 
 **(a)**
 
@@ -1253,13 +1253,13 @@ Pub. L. 112–239, div. A, title VII, § 729, Jan. 2, 2013, 126 Stat. 1813, pr
 
 **(5)** Leave described in paragraph (4)(C) may be pooled, and the intern or resident may be afforded leave by the facility in which such person is serving at the time the leave is to be used to the extent of such person’s total accumulated leave, whether or not earned at the facility in which such person is serving at the time the leave is to be afforded.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 227; amended Pub. L. 104–262, title III, § 345, Oct. 9, 1996, 110 Stat. 3208.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 227; amended Pub. L. 104–262, title III, § 345, Oct. 9, 1996, 110 Stat. 3208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 21 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)(C), is classified to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code.
+Chapter 21 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)(C), is classified to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code.
 
 **Prior Provisions**
 
@@ -1267,25 +1267,25 @@ Provisions similar to those in this section were contained in section 4114(b) of
 
 **Amendments**
 
-1996—Subsec. (c)(2), (3)(B). Pub. L. 104–262, § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
+1996—Subsec. (c)(2), (3)(B). Pub. L. 104–262, § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital” wherever appearing.
 
-Subsec. (c)(4)(C). Pub. L. 104–262, § 345(2), substituted “participating facility” for “participating hospital”.
+Subsec. (c)(4)(C). Pub. L. 104–262, § 345(2), substituted “participating facility” for “participating hospital”.
 
-Pub. L. 104–262, § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital”.
+Pub. L. 104–262, § 345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital”.
 
-Subsec. (c)(5). Pub. L. 104–262, § 345(3), substituted “facility” for “hospital” in two places.
+Subsec. (c)(5). Pub. L. 104–262, § 345(3), substituted “facility” for “hospital” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Training in Telemedicine**
 
-Pub. L. 112–154, title I, § 108(b), Aug. 6, 2012, 126 Stat. 1174, provided that:
+Pub. L. 112–154, title I, § 108(b), Aug. 6, 2012, 126 Stat. 1174, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs shall, to the extent feasible, offer medical residents opportunities in training in telemedicine for medical residency programs. The Secretary shall consult with the Accreditation Council for Graduate Medical Education and with universities with which facilities of the Department have a major affiliation to determine the feasibility and advisability of making telehealth a mandatory component of medical residency programs.
 
 > **“(2) Telemedicine defined.—** In this subsection, the term ‘telemedicine’ means the use by a health care provider of telecommunications to assist in the diagnosis or treatment of a patient’s medical condition.”
 
-### § 7407. Administrative provisions for section 7405 and 7406 appointments
+### § 7407. Administrative provisions for section 7405 and 7406 appointments
 
 **(a)** When the Under Secretary for Health determines that it is not possible to recruit qualified citizens for the necessary services, appointments under sections 7405 and 7406 of this title may be made without regard to the citizenship requirements of section 7402(c) of this title or of any other law prohibiting the employment of, or payment of compensation to, a person who is not a citizen of the United States.
 
@@ -1311,7 +1311,7 @@ Pub. L. 112–154, title I, § 108(b), Aug. 6, 2012, 126 Stat. 1174, provided 
 
 **(e)** In accordance with the provisions of section 7425(b) of this title, the provisions of chapter 34 of title 5 pertaining to part-time career employment shall not apply to part-time appointments under sections 7405 and 7406 of this title.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 228; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 228; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -1323,13 +1323,13 @@ Provisions similar to those in this section were contained in section 4114(c)–
 
 1992—Subsecs. (a), (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-### § 7408. Appointment of additional employees
+### § 7408. Appointment of additional employees
 
 **(a)** There shall be appointed by the Secretary under civil service laws, rules, and regulations, such additional employees, other than those provided in section 7306 and paragraphs (1) and (3) of section 7401 of this title and those specified in sections 7405 and 7406 of this title, as may be necessary to carry out the provisions of this chapter.
 
 **(b)** The Secretary, after considering an individual’s existing pay, higher or unique qualifications, or the special needs of the Department, may appoint the individual to a position in the Administration providing direct patient-care services or services incident to direct patient-services at a rate of pay above the minimum rate of the appropriate grade.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 229; amended Pub. L. 103–446, title XII, § 1201(e)(21), Nov. 2, 1994, 108 Stat. 4686.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 229; amended Pub. L. 103–446, title XII, § 1201(e)(21), Nov. 2, 1994, 108 Stat. 4686.)
 
 **Editorial Notes**
 
@@ -1341,7 +1341,7 @@ Provisions similar to those in this section were contained in section 4111 of th
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “civil service” for “civil-service”.
 
-### § 7409. Contracts for scarce medical specialist services
+### § 7409. Contracts for scarce medical specialist services
 
 **(a)** The Secretary may enter into contracts with institutions and persons described in subsection (b) to provide scarce medical specialist services at Department facilities. Such services may include the services of physicians, dentists, podiatrists, optometrists, chiropractors, nurses, physician assistants, expanded-function dental auxiliaries, technicians, and other medical support personnel.
 
@@ -1353,7 +1353,7 @@ Provisions similar to those in this section were contained in section 4111 of th
 
 **(3)** Any other group or individual capable of furnishing such scarce medical specialist services.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 229; amended Pub. L. 108–170, title III, § 302(f), Dec. 6, 2003, 117 Stat. 2058.)
+(Added Pub. L. 102–40, title IV, § 401(b)(2), May 7, 1991, 105 Stat. 229; amended Pub. L. 108–170, title III, § 302(f), Dec. 6, 2003, 117 Stat. 2058.)
 
 **Editorial Notes**
 
@@ -1371,13 +1371,13 @@ Provisions similar to those in this section were contained in section 4117 of th
 
 Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
-### § 7410. Additional pay authorities
+### § 7410. Additional pay authorities
 
 **(a) In General.—**
 
 **(1)** The Secretary may authorize the Under Secretary for Health to pay advance payments, recruitment or relocation bonuses, and retention allowances to personnel appointed under section 7306 of this title or section 7401(4) of this title, or personnel described in section 7401(1) of this title,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or interview expenses to candidates for appointment as such personnel, in a manner consistent with the authority provided under sections 5524a, 5706b, 5753, and 5754 of title 5.
 
@@ -1407,7 +1407,7 @@ or interview expenses to candidates for appointment as such personnel, in a mann
 
 **(6)** Special incentive pay under paragraph (1) may not be awarded to an individual in an amount that would result in an aggregate amount of pay (including bonuses and awards) received by such individual in a year under this title that is greater than the annual pay of the President.
 
-(Added Pub. L. 102–40, title I, § 103(a)[(1)], May 7, 1991, 105 Stat. 198; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 111–163, title VI, § 601(e), May 5, 2010, 124 Stat. 1169; Pub. L. 117–168, title IX, § 906(c)(3), Aug. 10, 2022, 136 Stat. 1813.)
+(Added Pub. L. 102–40, title I, § 103(a)[(1)], May 7, 1991, 105 Stat. 198; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 111–163, title VI, § 601(e), May 5, 2010, 124 Stat. 1169; Pub. L. 117–168, title IX, § 906(c)(3), Aug. 10, 2022, 136 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -1423,27 +1423,27 @@ or interview expenses to candidates for appointment as such personnel, in a mann
 
 **Treatment of Pay Authority Changes**
 
-Pub. L. 117–168, title IX, § 906(c)(4), Aug. 10, 2022, 136 Stat. 1813, provided that: “For the purposes of the amendments made by paragraph (3) [amending this section], the Secretary of Veterans Affairs shall treat any award or payment made by the Secretary between January 1, 2017, and the date of the enactment of this Act [Aug. 10, 2022] to employees appointed under sections 7306, 7401(1), and 7401(4) of title 38, United States Code, that the Secretary has determined are of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5, United States Code), as if such amendments had been in effect at the time of such award or payment.”
+Pub. L. 117–168, title IX, § 906(c)(4), Aug. 10, 2022, 136 Stat. 1813, provided that: “For the purposes of the amendments made by paragraph (3) [amending this section], the Secretary of Veterans Affairs shall treat any award or payment made by the Secretary between January 1, 2017, and the date of the enactment of this Act [Aug. 10, 2022] to employees appointed under sections 7306, 7401(1), and 7401(4) of title 38, United States Code, that the Secretary has determined are of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5, United States Code), as if such amendments had been in effect at the time of such award or payment.”
 
-### § 7411. Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses
+### § 7411. Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses
 
 The Secretary shall reimburse any full-time board-certified physician or dentist appointed under section 7401(1) of this title for expenses incurred, up to $1,000 per year, for continuing professional education.
 
-(Added Pub. L. 102–40, title I, § 103(a)[(1)], May 7, 1991, 105 Stat. 199.)
+(Added Pub. L. 102–40, title I, § 103(a)[(1)], May 7, 1991, 105 Stat. 199.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that: “Section 7411 of title 38, United States Code, as added by subsection (a), shall apply with respect to expenses incurred for continuing professional education that is pursued after September 30, 1991.”
+Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that: “Section 7411 of title 38, United States Code, as added by subsection (a), shall apply with respect to expenses incurred for continuing professional education that is pursued after September 30, 1991.”
 
-### § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
+### § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
 
 **(a) In General.—** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, at a minimum, the five clinical occupations and the five nonclinical occupations of personnel of this title of the Department covered under section 7401 of this title for which there are the largest staffing shortages with respect to each medical center of the Department, as calculated over the five-year period preceding the determination.
 
 **(b) Recruitment and Appointment.—** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under subsection (a) that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
 
-(Added Pub. L. 113–146, title III, § 301(a)(1), Aug. 7, 2014, 128 Stat. 1784; amended Pub. L. 114–315, title VIII, § 802(4), Dec. 16, 2016, 130 Stat. 1592; Pub. L. 115–46, title II, § 201, Aug. 12, 2017, 131 Stat. 959.)
+(Added Pub. L. 113–146, title III, § 301(a)(1), Aug. 7, 2014, 128 Stat. 1784; amended Pub. L. 114–315, title VIII, § 802(4), Dec. 16, 2016, 130 Stat. 1592; Pub. L. 115–46, title II, § 201, Aug. 12, 2017, 131 Stat. 959.)
 
 **Editorial Notes**
 
@@ -1457,15 +1457,15 @@ Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided tha
 
 **Deadline for First Determination**
 
-Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provided that: “Notwithstanding the deadline under section 7412 of title 38, United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act [Aug. 7, 2014].”
+Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provided that: “Notwithstanding the deadline under section 7412 of title 38, United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act [Aug. 7, 2014].”
 
-### § 7413. Treatment of podiatrists; clinical oversight standards
+### § 7413. Treatment of podiatrists; clinical oversight standards
 
 **(a) Podiatrists.—** Except as provided by subsection (b), a doctor of podiatric medicine who is appointed as a podiatrist under section 7401(1) of this title is eligible for any supervisory position in the Veterans Health Administration to the same degree that a physician appointed under such section is eligible for the position.
 
 **(b) Establishment of Clinical Oversight Standards.—** The Secretary, in consultation with appropriate stakeholders, shall establish standards to ensure that specialists appointed in the Veterans Health Administration to supervisory positions do not provide direct clinical oversight for purposes of peer review or practice evaluation for providers of other clinical specialties.
 
-(Added Pub. L. 115–182, title V, § 502(a)(1), June 6, 2018, 132 Stat. 1475.)
+(Added Pub. L. 115–182, title V, § 502(a)(1), June 6, 2018, 132 Stat. 1475.)
 
 **Editorial Notes**
 
@@ -1473,7 +1473,7 @@ Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, prov
 
 Section 502(a)(1) of Pub. L. 115–182, which directed that this section be added at the end of subchapter I of chapter 74, without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
-### § 7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals
+### § 7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals
 
 **(a) Compliance With Credentialing Requirements.—** The Secretary shall ensure that each medical center of the Department, in a consistent manner—
 
@@ -1561,19 +1561,19 @@ Section 502(a)(1) of Pub. L. 115–182, which directed that this section be adde
 
 **(4)** The term “health care professional of the Department” means an individual working for the Department in a position described in section 7401 of this title, including a contractor of the Department serving in such a position.
 
-(Added Pub. L. 117–328, div. U, title I, § 112(a), Dec. 29, 2022, 136 Stat. 5411.)
+(Added Pub. L. 117–328, div. U, title I, § 112(a), Dec. 29, 2022, 136 Stat. 5411.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Health Care Quality Improvement Act of 1986, referred to in subsec. (d)(3), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§ 11101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of Title 42 and Tables.
+The Health Care Quality Improvement Act of 1986, referred to in subsec. (d)(3), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§ 11101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Implementation**
 
-Pub. L. 117–328, div. U, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5414, provided that:
+Pub. L. 117–328, div. U, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5414, provided that:
 
 > “The Secretary of Veterans Affairs shall commence the implementation of section 7414 of title 38, United States Code, as added by subsection (a), by the following dates:
 
@@ -1585,7 +1585,7 @@ Pub. L. 117–328, div. U, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5414, 
 
 **Audits and Reports**
 
-Pub. L. 117–328, div. U, title I, § 112(d), Dec. 29, 2022, 136 Stat. 5414, provided that:
+Pub. L. 117–328, div. U, title I, § 112(d), Dec. 29, 2022, 136 Stat. 5414, provided that:
 
 > **“(1) Audits.—**
 
@@ -1611,7 +1611,7 @@ Pub. L. 117–328, div. U, title I, § 112(d), Dec. 29, 2022, 136 Stat. 5414, 
 
 ## SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION
 
-### § 7421. Personnel administration: in general
+### § 7421. Personnel administration: in general
 
 **(a)** Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this title in positions in the Veterans Health Administration listed in subsection (b).
 
@@ -1635,7 +1635,7 @@ Pub. L. 117–328, div. U, title I, § 112(d), Dec. 29, 2022, 136 Stat. 5414, 
 
 **(9)** Any position for which the employee is appointed under section 7306 or 7401(4) of this title.
 
-(Added Pub. L. 102–40, title II, § 202, May 7, 1991, 105 Stat. 200; amended Pub. L. 108–170, title III, § 302(g), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 117–168, title IX, § 906(c)(1), Aug. 10, 2022, 136 Stat. 1812.)
+(Added Pub. L. 102–40, title II, § 202, May 7, 1991, 105 Stat. 200; amended Pub. L. 108–170, title III, § 302(g), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 117–168, title IX, § 906(c)(1), Aug. 10, 2022, 136 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -1645,9 +1645,9 @@ Provisions similar to those in this section were contained in section 4108(a) of
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–168, § 906(c)(1)(A), substituted “this title” for “this chapter”.
+2022—Subsec. (a). Pub. L. 117–168, § 906(c)(1)(A), substituted “this title” for “this chapter”.
 
-Subsec. (b)(9). Pub. L. 117–168, § 906(c)(1)(B), added par. (9).
+Subsec. (b)(9). Pub. L. 117–168, § 906(c)(1)(B), added par. (9).
 
 2003—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
 
@@ -1659,17 +1659,17 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 **Treatment of Prior Leave Balances**
 
-Pub. L. 117–168, title IX, § 906(c)(5), Aug. 10, 2022, 136 Stat. 1813, provided that: “Notwithstanding any other provision of law, the Secretary [of Veterans Affairs] may adjust the leave balance and carryover leave balance of any employee described in section 7421(b)(9) of title 38, United States Code, as amended by paragraph (1)(B), to ensure any leave accrued or carried over before the date of the enactment of this Act [Aug. 10, 2022] remains available to such employee.”
+Pub. L. 117–168, title IX, § 906(c)(5), Aug. 10, 2022, 136 Stat. 1813, provided that: “Notwithstanding any other provision of law, the Secretary [of Veterans Affairs] may adjust the leave balance and carryover leave balance of any employee described in section 7421(b)(9) of title 38, United States Code, as amended by paragraph (1)(B), to ensure any leave accrued or carried over before the date of the enactment of this Act [Aug. 10, 2022] remains available to such employee.”
 
 **Preservation of Existing Collective-Bargaining Arrangements and Pending Actions**
 
-Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that:
+Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that:
 
 > **“(a) Existing Collective-Bargaining Arrangements.—** Any determination under chapter 71 of title 5, United States Code, of a collective bargaining unit within the Veterans Health Administration of the Department of Veterans Affairs, and any recognition under that chapter of an employee labor organization as the exclusive bargaining representative for employees in a collective bargaining unit of the Department of Veterans Affairs, that is in effect on the date of the enactment of this Act [May 7, 1991] shall not be affected by the amendments made by this Act [see Tables for classification] and shall continue in effect in accordance with the terms of such determination or regulation.
 
 > **“(b) Pending Cases.—** With respect to cases pending on the date of the enactment of this Act [May 7, 1991], or those cases which are brought before the establishment of either an administrative grievance procedure pursuant to section 7463 of title 38, United States Code (as added by the amendments made by this title), or a negotiated grievance procedure established under a collective bargaining agreement, such cases shall proceed in the same manner as they would have if this Act [see Tables for classification] had not been enacted.”
 
-### § 7422. Collective bargaining
+### § 7422. Collective bargaining
 
 **(a)** Except as otherwise specifically provided in this title, the authority of the Secretary to prescribe regulations under section 7421 of this title is subject to the right of Federal employees to engage in collective bargaining with respect to conditions of employment through representatives chosen by them in accordance with chapter 71 of title 5 (relating to labor-management relations).
 
@@ -1685,9 +1685,9 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that:
 
 **(e)** A petition for judicial review or petition for enforcement under section 7123 of title 5 in any case involving employees described in section 7421(b) of this title or arising out of the applicability of chapter 71 of title 5 to employees in those positions, shall be taken only in the United States Court of Appeals for the District of Columbia Circuit.
 
-(Added Pub. L. 102–40, title II, § 202, May 7, 1991, 105 Stat. 200.)
+(Added Pub. L. 102–40, title II, § 202, May 7, 1991, 105 Stat. 200.)
 
-### § 7423. Personnel administration: full-time employees
+### § 7423. Personnel administration: full-time employees
 
 **(a)**
 
@@ -1749,13 +1749,13 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that:
 
 **(f)** The Secretary may purchase promotional items of nominal value for use in the recruitment of individuals for employment under this chapter. The Secretary shall prescribe guidelines for the administration of the preceding sentence.
 
-(Added and amended Pub. L. 102–40, title II, § 202, title IV, § 401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, § 203, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 104–262, title III, § 347, Oct. 9, 1996, 110 Stat. 3208; Pub. L. 114–315, title VI, § 614, Dec. 16, 2016, 130 Stat. 1577; Pub. L. 117–168, title IX, § 906(c)(2), Aug. 10, 2022, 136 Stat. 1812.)
+(Added and amended Pub. L. 102–40, title II, § 202, title IV, § 401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, § 203, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 104–262, title III, § 347, Oct. 9, 1996, 110 Stat. 3208; Pub. L. 114–315, title VI, § 614, Dec. 16, 2016, 130 Stat. 1577; Pub. L. 117–168, title IX, § 906(c)(2), Aug. 10, 2022, 136 Stat. 1812.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1763,21 +1763,21 @@ Provisions similar to those in this section were contained in section 4108(a), (
 
 **Amendments**
 
-2022—Subsec. (a)(2)(D). Pub. L. 117–168, § 906(c)(2)(A), added subpar. (D).
+2022—Subsec. (a)(2)(D). Pub. L. 117–168, § 906(c)(2)(A), added subpar. (D).
 
-Subsec. (e)(1). Pub. L. 117–168, § 906(c)(2)(B), substituted “7421(b)” for “7401(1)”.
+Subsec. (e)(1). Pub. L. 117–168, § 906(c)(2)(B), substituted “7421(b)” for “7401(1)”.
 
 2016—Subsec. (a). Pub. L. 114–315 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the hours” for “The hours”, and added par. (2).
 
-1996—Subsec. (b). Pub. L. 104–262, § 347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
+1996—Subsec. (b). Pub. L. 104–262, § 347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
 
-Subsec. (c). Pub. L. 104–262, § 347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
+Subsec. (c). Pub. L. 104–262, § 347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
 
-1992—Subsec. (b)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
+1992—Subsec. (b)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-Subsec. (f). Pub. L. 102–405, § 203, added subsec. (f).
+Subsec. (f). Pub. L. 102–405, § 203, added subsec. (f).
 
-1991—Subsec. (e). Pub. L. 102–40, § 401(b)(3)(A), added subsec. (e).
+1991—Subsec. (e). Pub. L. 102–40, § 401(b)(3)(A), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1785,7 +1785,7 @@ Subsec. (f). Pub. L. 102–405, § 203, added subsec. (f).
 
 For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title [now covered by subsec. (e) of this section] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
 
-### § 7424. Travel expenses of certain employees
+### § 7424. Travel expenses of certain employees
 
 **(a)** The Secretary may pay the expenses (other than membership fees) of persons described in sections 7306 and 7401(1) of this title (including persons in positions described in section 7401(1) of this title who are appointed on a temporary full-time basis or a part-time basis under section 7405 of this title) who are detailed by the Under Secretary for Health to attend meetings of associations for the promotion of medical and related science.
 
@@ -1799,7 +1799,7 @@ For provision authorizing the establishment of a leave bank program for health-c
 
 **(2)** Any such payment may be retained by such officers and employees to cover the cost of such expenses or shall be deposited to the credit of the appropriation from which the cost of such expenses is paid, as may be provided in such regulations.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 230; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 230; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -1811,7 +1811,7 @@ Provisions similar to those in this section were contained in sections 4108(d) a
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-### § 7425. Employees: laws not applicable
+### § 7425. Employees: laws not applicable
 
 **(a)** Physicians, dentists, nurses, and other health-care professionals employed by the Administration and appointed under section 7306, 7401(1), 7405, or 7406 of this chapter are not subject to the following provisions of law:
 
@@ -1835,7 +1835,7 @@ Provisions similar to those in this section were contained in sections 4108(d) a
 
 **(c)** Notwithstanding any other provision of this subchapter, the Administration shall provide to individuals appointed to any position described in section 7421(b) who are employed for compensation by the Administration, family and medical leave in the same manner and subject to the same limitations to the maximum extent practicable, as family and medical leave is provided under subchapter V of chapter 63 of title 5 to employees, as defined in section 6381(1) of such title.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 116–283, div. A, title XI, § 1103(d)(1), Jan. 1, 2021, 134 Stat. 3887.)
+(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 116–283, div. A, title XI, § 1103(d)(1), Jan. 1, 2021, 134 Stat. 3887.)
 
 **Editorial Notes**
 
@@ -1849,21 +1849,21 @@ Provisions similar to those in this section were contained in sections 4101(e) a
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 116–283, § 1103(d)(1)(A), substituted “Except as provided in subsection (c), and notwithstanding” for “Notwithstanding”.
+2021—Subsec. (b). Pub. L. 116–283, § 1103(d)(1)(A), substituted “Except as provided in subsection (c), and notwithstanding” for “Notwithstanding”.
 
-Subsec. (c). Pub. L. 116–283, § 1103(d)(1)(B), added subsec. (c).
+Subsec. (c). Pub. L. 116–283, § 1103(d)(1)(B), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title XI, § 1103(d)(2), Jan. 1, 2021, 134 Stat. 3888, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to any event for which leave may be taken under subchapter V of chapter 63 of title 5, United States Code, occurring on or after October 1, 2020.”
+Pub. L. 116–283, div. A, title XI, § 1103(d)(2), Jan. 1, 2021, 134 Stat. 3888, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to any event for which leave may be taken under subchapter V of chapter 63 of title 5, United States Code, occurring on or after October 1, 2020.”
 
 **Department of Veterans Affairs: Including Military Service in Determining Family and Medical Leave Eligibility**
 
-Pub. L. 118–31, div. A, title XI, § 1114(c), Dec. 22, 2023, 137 Stat. 432, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 22, 2023], the Secretary of Veterans Affairs shall modify the family and medical leave program provided by operation of section 7425(c) of title 38, United States Code, to conform with the requirements of the amendment made by subsection (a) [amending section 6381 of Title 5, Government Organization and Employees] with respect to military service in section 6381(1)(B)(ii) of title 5, United States Code, as added by such subsection.”
+Pub. L. 118–31, div. A, title XI, § 1114(c), Dec. 22, 2023, 137 Stat. 432, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 22, 2023], the Secretary of Veterans Affairs shall modify the family and medical leave program provided by operation of section 7425(c) of title 38, United States Code, to conform with the requirements of the amendment made by subsection (a) [amending section 6381 of Title 5, Government Organization and Employees] with respect to military service in section 6381(1)(B)(ii) of title 5, United States Code, as added by such subsection.”
 
-### § 7426. Retirement rights
+### § 7426. Retirement rights
 
 **(a)** Except as provided in subsection (b), persons appointed to the Administration shall be subject to the provisions of and entitled to benefits under subchapter III of chapter 83 of title 5 or subchapter II of chapter 84 of title 5, whichever is applicable.
 
@@ -1881,7 +1881,7 @@ Pub. L. 118–31, div. A, title XI, § 1114(c), Dec. 22, 2023, 137 Stat. 432, 
 
 **(c)** The provisions of subsection (b) shall not apply to the part-time service before April 7, 1986, of a registered nurse, physician assistant, or expanded-function dental auxiliary. In computing the annuity under the applicable provision of law specified in that subsection of an individual covered by the preceding sentence, the service described in that sentence shall be credited as full-time service.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 102–585, title V, § 522, Nov. 4, 1992, 106 Stat. 4959; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–135, title I, § 132, Jan. 23, 2002, 115 Stat. 2454.)
+(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 102–585, title V, § 522, Nov. 4, 1992, 106 Stat. 4959; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–135, title I, § 132, Jan. 23, 2002, 115 Stat. 2454.)
 
 **Editorial Notes**
 
@@ -1903,17 +1903,17 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 **Codification**
 
-This subchapter was originally added by Pub. L. 102–40, May 7, 1991, 105 Stat. 187, and amended by Pub. L. 102–405, Oct. 9, 1992, 106 Stat. 1972; Pub. L. 104–262, Oct. 9, 1996, 110 Stat. 3177; Pub. L. 103–446, Nov. 2, 1994, 108 Stat. 4645; Pub. L. 106–419, Nov. 1, 2000, 114 Stat. 1822. This subchapter is shown here, however, as having been added by Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636, without reference to those intervening amendments because of the general amendment of this subchapter by Pub. L. 108–445.
+This subchapter was originally added by Pub. L. 102–40, May 7, 1991, 105 Stat. 187, and amended by Pub. L. 102–405, Oct. 9, 1992, 106 Stat. 1972; Pub. L. 104–262, Oct. 9, 1996, 110 Stat. 3177; Pub. L. 103–446, Nov. 2, 1994, 108 Stat. 4645; Pub. L. 106–419, Nov. 1, 2000, 114 Stat. 1822. This subchapter is shown here, however, as having been added by Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636, without reference to those intervening amendments because of the general amendment of this subchapter by Pub. L. 108–445.
 
 **Amendments**
 
-2024—Pub. L. 118–210, title I, § 142(a)(4)(A), Jan. 2, 2025, 138 Stat. 2746, inserted “OPTOMETRISTS,” after “PODIATRISTS,” in subchapter heading.
+2024—Pub. L. 118–210, title I, § 142(a)(4)(A), Jan. 2, 2025, 138 Stat. 2746, inserted “OPTOMETRISTS,” after “PODIATRISTS,” in subchapter heading.
 
-2019—Pub. L. 116–12, § 1(b)(3), Apr. 8, 2019, 133 Stat. 845, inserted “, PODIATRISTS,” after “PHYSICIANS” in subchapter heading.
+2019—Pub. L. 116–12, § 1(b)(3), Apr. 8, 2019, 133 Stat. 845, inserted “, PODIATRISTS,” after “PHYSICIANS” in subchapter heading.
 
-2004—Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in subchapter heading.
+2004—Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in subchapter heading.
 
-### § 7431. Pay
+### § 7431. Pay
 
 **(a) Elements of Pay.—** Pay of physicians, podiatrists, optometrists, and dentists in the Veterans Health Administration shall consist of three elements as follows:
 
@@ -1931,7 +1931,7 @@ This subchapter was originally added by Pub. L. 102–40, May 7, 1991, 105 Stat.
 
 **(3)** The rate of base pay payable to a physician, podiatrist, optometrist or dentist is based on the total number of the years of the service of the physician, podiatrist, optometrist or dentist in the Veterans Health Administration as follows:
 
-| **For a physician, podiatrist, optometrist or dentist with total**   **service of:** | **The rate of base pay is the rate payable for:** |
+| **For a physician, podiatrist, optometrist or dentist with total** **service of:** | **The rate of base pay is the rate payable for:** |
 |---|---|
 | two years or less | step 1 |
 | more than 2 years and not more than 4 years | step 2 |
@@ -2101,7 +2101,7 @@ This subchapter was originally added by Pub. L. 102–40, May 7, 1991, 105 Stat.
 
 **(h) Delegation of Responsibilities.—** The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
 
-(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636; amended Pub. L. 111–163, title VI, § 601(f), May 5, 2010, 124 Stat. 1170; Pub. L. 114–315, title VI, § 615, Dec. 16, 2016, 130 Stat. 1577; Pub. L. 116–12, § 1(b)(1), Apr. 8, 2019, 133 Stat. 845; Pub. L. 117–168, title IX, § 906(e), Aug. 10, 2022, 136 Stat. 1813; Pub. L. 118–210, title I, § 142(a)(1), Jan. 2, 2025, 138 Stat. 2744.)
+(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2636; amended Pub. L. 111–163, title VI, § 601(f), May 5, 2010, 124 Stat. 1170; Pub. L. 114–315, title VI, § 615, Dec. 16, 2016, 130 Stat. 1577; Pub. L. 116–12, § 1(b)(1), Apr. 8, 2019, 133 Stat. 845; Pub. L. 117–168, title IX, § 906(e), Aug. 10, 2022, 136 Stat. 1813; Pub. L. 118–210, title I, § 142(a)(1), Jan. 2, 2025, 138 Stat. 2744.)
 
 **Editorial Notes**
 
@@ -2111,27 +2111,27 @@ The date of the enactment of the Senator Elizabeth Dole 21st Century Veterans He
 
 **Prior Provisions**
 
-A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
+A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–210, § 142(a)(1)(A), inserted “optometrists,” after “podiatrists,” in introductory provisions.
+2025—Subsec. (a). Pub. L. 118–210, § 142(a)(1)(A), inserted “optometrists,” after “podiatrists,” in introductory provisions.
 
-Subsec. (b). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in introductory provisions and par. (5) and “optometrist” after “podiatrist,” wherever appearing.
+Subsec. (b). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in introductory provisions and par. (5) and “optometrist” after “podiatrist,” wherever appearing.
 
-Subsec. (c). Pub. L. 118–210, § 142(a)(1)(A)–(C), inserted “optometrists,” after “podiatrists,” in introductory provisions and “optometrist” after “podiatrist,” wherever appearing, inserted at end of par. (5) “Such a notice shall include a statement of whether the market pay will increase, decrease, or remain unchanged following such evaluation.”, and added pars. (7) and (8).
+Subsec. (c). Pub. L. 118–210, § 142(a)(1)(A)–(C), inserted “optometrists,” after “podiatrists,” in introductory provisions and “optometrist” after “podiatrist,” wherever appearing, inserted at end of par. (5) “Such a notice shall include a statement of whether the market pay will increase, decrease, or remain unchanged following such evaluation.”, and added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in par. (1) and “optometrist” after “podiatrist,” wherever appearing.
+Subsec. (d). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in par. (1) and “optometrist” after “podiatrist,” wherever appearing.
 
-Subsec. (e). Pub. L. 118–210, § 142(a)(1)(A), (B), (D), inserted “optometrists,” after “podiatrists,” in subpar. (B) of par. (1) and “optometrist” after “podiatrist,” wherever appearing, and added pars. (5) and (6).
+Subsec. (e). Pub. L. 118–210, § 142(a)(1)(A), (B), (D), inserted “optometrists,” after “podiatrists,” in subpar. (B) of par. (1) and “optometrist” after “podiatrist,” wherever appearing, and added pars. (5) and (6).
 
-Subsec. (g). Pub. L. 118–210, § 142(a)(1)(B), inserted “optometrist” after “podiatrist,” wherever appearing.
+Subsec. (g). Pub. L. 118–210, § 142(a)(1)(B), inserted “optometrist” after “podiatrist,” wherever appearing.
 
 2022—Subsec. (e)(4). Pub. L. 117–168 substituted “Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case” for “In no case”.
 
-2019—Pub. L. 116–12, § 1(b)(1)(A)–(E), substituted “physician, podiatrist, or dentist” for “physician or dentist”, “physicians, podiatrists, or dentists” for “physicians or dentists”, “physician, podiatrist, and dentist” for “physician and dentist”, “physicians, podiatrists, and dentists” for “physicians and dentists”, and “Physician, Podiatrist, and Dentist” for “Physician and Dentist” wherever appearing.
+2019—Pub. L. 116–12, § 1(b)(1)(A)–(E), substituted “physician, podiatrist, or dentist” for “physician or dentist”, “physicians, podiatrists, or dentists” for “physicians or dentists”, “physician, podiatrist, and dentist” for “physician and dentist”, “physicians, podiatrists, and dentists” for “physicians and dentists”, and “Physician, Podiatrist, and Dentist” for “Physician and Dentist” wherever appearing.
 
-Subsec. (e)(1)(A). Pub. L. 116–12, § 1(b)(1)(F), inserted “podiatrists and” before “dentists.”
+Subsec. (e)(1)(A). Pub. L. 116–12, § 1(b)(1)(F), inserted “podiatrists and” before “dentists.”
 
 2016—Subsec. (c)(4) to (7). Pub. L. 114–315 redesignated pars. (5) to (7) as (4) to (6), respectively, substituted “under paragraph (5)” for “under paragraph (6)” in par. (6), and struck out former par. (4) which read as follows:
 
@@ -2143,21 +2143,21 @@ Subsec. (e)(1)(A). Pub. L. 116–12, § 1(b)(1)(F), inserted “podiatrists an
 
 “(iii) The Secretary should, to the extent practicable, ensure that a panel or board consulted under this subparagraph includes physicians or dentists (as applicable) who are practicing clinicians and who do not hold management positions in the medical facility of the Department at which the physician or dentist subject to the consultation is employed.”
 
-2010—Subsec. (b)(5). Pub. L. 111–163, § 601(f)(1), added par. (5).
+2010—Subsec. (b)(5). Pub. L. 111–163, § 601(f)(1), added par. (5).
 
-Subsec. (c)(4)(B)(i). Pub. L. 111–163, § 601(f)(2), inserted at end “The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.”
+Subsec. (c)(4)(B)(i). Pub. L. 111–163, § 601(f)(2), inserted at end “The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.”
 
-Subsec. (c)(7). Pub. L. 111–163, § 601(f)(3), substituted “concerned, unless there is a change in board certification or reduction of privileges.” for “concerned.”
+Subsec. (c)(7). Pub. L. 111–163, § 601(f)(3), substituted “concerned, unless there is a change in board certification or reduction of privileges.” for “concerned.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title I, § 142(a)(5), Jan. 2, 2025, 138 Stat. 2746, provided that: “The amendments made by this subsection [amending this section and sections 7432, 7433, and 7451 of this title] shall apply to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 142(a)(5), Jan. 2, 2025, 138 Stat. 2746, provided that: “The amendments made by this subsection [amending this section and sections 7432, 7433, and 7451 of this title] shall apply to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
 
 **Effective Date**
 
-Pub. L. 108–445, § 3(d), Dec. 3, 2004, 118 Stat. 2641, provided that:
+Pub. L. 108–445, § 3(d), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 > **“(1)** Notwithstanding the 60-day waiting requirement in section 7431(e)(1)(C) of title 38, United States Code (as amended by subsection (b)), pay provided for a physician or dentist under subchapter III of chapter 74 of such title, as amended by subsection (b), shall take effect on the first day of the first pay period applicable to such physician or dentist that begins on or after January 1, 2006.
 
@@ -2165,7 +2165,7 @@ Pub. L. 108–445, § 3(d), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 **Retroactive Authority for Compensation**
 
-Pub. L. 118–210, title I, § 142(c), Jan. 2, 2025, 138 Stat. 2747, provided that:
+Pub. L. 118–210, title I, § 142(c), Jan. 2, 2025, 138 Stat. 2747, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs may pay retroactive compensation to a covered employee in an amount that equals the amount of compensation that was authorized to be paid to such covered employee during the period specified in paragraph (2), but was deferred and paid to such employee in the calendar year following the calender [sic] year in which such compensation was authorized because the payment [of] such compensation would have exceeded an applicable cap on annual compensation.
 
@@ -2187,7 +2187,7 @@ Pub. L. 118–210, title I, § 142(c), Jan. 2, 2025, 138 Stat. 2747, provided 
 
 **Pilot Program on Incentives for Physicians Who Assume Inpatient Responsibilities at Community Hospitals in Health Professional Shortage Areas**
 
-Pub. L. 111–163, title III, § 306, May 5, 2010, 124 Stat. 1152, provided that:
+Pub. L. 111–163, title III, § 306, May 5, 2010, 124 Stat. 1152, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability [sic] and advisability of each of the following:
 
@@ -2259,7 +2259,7 @@ Pub. L. 111–163, title III, § 306, May 5, 2010, 124 Stat. 1152, provided th
 
 **Transition Provisions**
 
-Pub. L. 108–445, § 3(e), Dec. 3, 2004, 118 Stat. 2641, provided that:
+Pub. L. 108–445, § 3(e), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 > **“(1) Physicians and dentists.—**
 
@@ -2299,7 +2299,7 @@ Pub. L. 108–445, § 3(e), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 **Initial Rates of Base Pay for Physicians and Dentists**
 
-Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that:
+Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 > “The initial rates of base pay established for the base pay steps under the Physician and Dentist Base and Longevity Pay Schedule provided in section 7431(b) of title 38, United States Code (as added by subsection (b)), are as follows:
 
@@ -2321,7 +2321,7 @@ Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that:
 > | 14 | $129,000 |
 > | 15 | $132,000.” |
 
-### § 7432. Pay of Under Secretary for Health
+### § 7432. Pay of Under Secretary for Health
 
 **(a) Base Pay.—** The base pay of the Under Secretary for Health shall be the annual rate of basic pay for positions at Level III of the Executive Schedule under section 5314 of title 5.
 
@@ -2335,17 +2335,17 @@ Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that:
 
 **(c) Treatment of Pay.—** Pay under this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 
-(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 118–210, title I, § 142(a)(3)(A), Jan. 2, 2025, 138 Stat. 2746.)
+(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 118–210, title I, § 142(a)(3)(A), Jan. 2, 2025, 138 Stat. 2746.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7432, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, § 346, Oct. 9, 1996, 110 Stat. 3208, related to written agreements for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
+A prior section 7432, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, § 346, Oct. 9, 1996, 110 Stat. 3208, related to written agreements for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 118–210 inserted “, podiatrist, optometrist,” after “physician”.
+2025—Subsec. (b)(1). Pub. L. 118–210 inserted “, podiatrist, optometrist,” after “physician”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2353,13 +2353,13 @@ A prior section 7432, added Pub. L. 102–40, title I, § 102, May 7, 1991, 10
 
 Amendment by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025, see section 142(a)(5) of Pub. L. 118–210, set out as a note under section 7431 of this title.
 
-### § 7433. Administrative matters
+### § 7433. Administrative matters
 
 **(a) Regulations.—** The Secretary shall prescribe regulations relating to the pay of physicians, optometrists, podiatrists, and dentists in the Veterans Health Administration under this subchapter.
 
 **(b) Recommendations and Views.—** In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this subsection, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians, optometrists, podiatrists, and dentists of the Department and the views of representatives of professional organizations of physicians, optometrists, podiatrists, and dentists of the Department.
 
-(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 116–12, § 1(b)(2), (5), Apr. 8, 2019, 133 Stat. 845; Pub. L. 118–210, title I, § 142(a)(3)(B), Jan. 2, 2025, 138 Stat. 2746.)
+(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 116–12, § 1(b)(2), (5), Apr. 8, 2019, 133 Stat. 845; Pub. L. 118–210, title I, § 142(a)(3)(B), Jan. 2, 2025, 138 Stat. 2746.)
 
 **Editorial Notes**
 
@@ -2367,33 +2367,33 @@ Amendment by Pub. L. 118–210 applicable to any pay period of the Department of
 
 Prior sections 7433 to 7440 were omitted in the general amendment of this subchapter by Pub. L. 108–445.
 
-Section 7433, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 191; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686, related to special pay for full-time physicians.
+Section 7433, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 191; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686, related to special pay for full-time physicians.
 
-Section 7434, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 192, related to special pay of part-time physicians.
+Section 7434, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 192, related to special pay of part-time physicians.
 
-Section 7435, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 193; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title II, § 202(a)–(f), Nov. 1, 2000, 114 Stat. 1840, 1841, related to special pay of full-time dentists.
+Section 7435, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 193; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title II, § 202(a)–(f), Nov. 1, 2000, 114 Stat. 1840, 1841, related to special pay of full-time dentists.
 
-Section 7436, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194, related to special pay of part-time dentists.
+Section 7436, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194, related to special pay of part-time dentists.
 
-Section 7437, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194; amended Pub. L. 102–405, title II, § 204(a), title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984, related to general provisions concerning special pay of physicians and dentists.
+Section 7437, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194; amended Pub. L. 102–405, title II, § 204(a), title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984, related to general provisions concerning special pay of physicians and dentists.
 
-Section 7438, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 196; amended Pub. L. 106–419, title II, § 202(g), Nov. 1, 2000, 114 Stat. 1841, related to coordination of special pay with other benefits laws.
+Section 7438, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 196; amended Pub. L. 106–419, title II, § 202(g), Nov. 1, 2000, 114 Stat. 1841, related to coordination of special pay with other benefits laws.
 
-Section 7439, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 197, related to periodic review and quadrennial reports regarding pay of physicians and dentists.
+Section 7439, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 197, related to periodic review and quadrennial reports regarding pay of physicians and dentists.
 
-Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, § 1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
+Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, § 1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
 
 **Amendments**
 
 2025—Pub. L. 118–210 inserted “optometrists,” after “physicians,” wherever appearing.
 
-2019—Pub. L. 116–12, § 1(b)(2), substituted “physicians, podiatrists, and dentists” for “physicians and dentists” wherever appearing.
+2019—Pub. L. 116–12, § 1(b)(2), substituted “physicians, podiatrists, and dentists” for “physicians and dentists” wherever appearing.
 
-Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation before “The Secretary” and redesignated par. (2) as subsec. (b).
+Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation before “The Secretary” and redesignated par. (2) as subsec. (b).
 
-Subsec. (b). Pub. L. 116–12, § 1(b)(5)(C), inserted heading and substituted “this subsection” for “this paragraph”.
+Subsec. (b). Pub. L. 116–12, § 1(b)(5)(C), inserted heading and substituted “this subsection” for “this paragraph”.
 
-Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and struck out former subsec. (b) which required reports on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
+Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and struck out former subsec. (b) which required reports on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2403,7 +2403,7 @@ Amendment by Pub. L. 118–210 applicable to any pay period of the Department of
 
 ## SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL
 
-### § 7451. Nurses and other health-care personnel: competitive pay
+### § 7451. Nurses and other health-care personnel: competitive pay
 
 **(a)**
 
@@ -2435,7 +2435,7 @@ Amendment by Pub. L. 118–210 applicable to any pay period of the Department of
 
 **(1)** For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
@@ -2547,13 +2547,13 @@ provide justification for doing so to the Committees on Veterans’ Affairs of t
 
 **(f)** For the purposes of this section, the term “health-care facility” means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, § 102(b), Aug. 15, 1990, 104 Stat. 431, § 4141; renumbered § 7451 and amended Pub. L. 102–40, title III, § 301(b), (c), title IV, § 401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§ 301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, § 1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, § 101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, § 201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, § 133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, § 501(a), title VI, § 601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, § 212, Aug. 12, 2017, 131 Stat. 967; Pub. L. 117–103, div. S, title I, § 102(a), Mar. 15, 2022, 136 Stat. 822; Pub. L. 117–263, div. E, title LI, § 5122, Dec. 23, 2022, 136 Stat. 3210; Pub. L. 118–210, title I, § 142(a)(3)(C), Jan. 2, 2025, 138 Stat. 2746.)
+(Added Pub. L. 101–366, title I, § 102(b), Aug. 15, 1990, 104 Stat. 431, § 4141; renumbered § 7451 and amended Pub. L. 102–40, title III, § 301(b), (c), title IV, § 401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§ 301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, § 1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, § 101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, § 201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, § 133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, § 501(a), title VI, § 601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, § 212, Aug. 12, 2017, 131 Stat. 967; Pub. L. 117–103, div. S, title I, § 102(a), Mar. 15, 2022, 136 Stat. 822; Pub. L. 117–263, div. E, title LI, § 5122, Dec. 23, 2022, 136 Stat. 3210; Pub. L. 118–210, title I, § 142(a)(3)(C), Jan. 2, 2025, 138 Stat. 2746.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by Pub. L. 106–419, title II, § 201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
+Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by Pub. L. 106–419, title II, § 201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
 
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -2561,101 +2561,101 @@ The General Schedule, referred to in subsec. (d)(1)(A), is set out under section
 
 2025—Subsec. (a)(2)(C). Pub. L. 118–210 inserted “optometrist,” after “physician,”.
 
-2022—Subsec. (a)(2)(C). Pub. L. 117–103, § 102(a)(1), substituted “physician assistant, and podiatrist” for “and physician assistant”.
+2022—Subsec. (a)(2)(C). Pub. L. 117–103, § 102(a)(1), substituted “physician assistant, and podiatrist” for “and physician assistant”.
 
-Subsec. (c)(2). Pub. L. 117–103, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
+Subsec. (c)(2). Pub. L. 117–103, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
 
 Subsec. (c)(4). Pub. L. 117–263 added par. (4).
 
 2017—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted “registered nurse, and physician assistant” for “and registered nurse”.
 
-2010—Subsec. (c)(2). Pub. L. 111–163, § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
+2010—Subsec. (c)(2). Pub. L. 111–163, § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
 
-Subsec. (d)(3)(F). Pub. L. 111–163, § 601(j)(1), added subpar. (F).
+Subsec. (d)(3)(F). Pub. L. 111–163, § 601(j)(1), added subpar. (F).
 
-Subsec. (e)(4)(D), (E). Pub. L. 111–163, § 601(j)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (e)(4)(D), (E). Pub. L. 111–163, § 601(j)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (e)(6). Pub. L. 111–163, § 601(j)(3), added par. (6).
+Subsec. (e)(6). Pub. L. 111–163, § 601(j)(3), added par. (6).
 
-Subsecs. (f), (g). Pub. L. 111–163, § 501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase.”
+Subsecs. (f), (g). Pub. L. 111–163, § 501(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding any pay adjustments under the authority of subsection (d) effective during the 12 months preceding the submission of the report. Each such report shall set forth, by health-care facility, the percentage of such increases and, in any case in which no increase was made, the basis for not providing an increase.”
 
-2002—Subsec. (d)(3)(A). Pub. L. 107–135, § 133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
+2002—Subsec. (d)(3)(A). Pub. L. 107–135, § 133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
 
-Subsec. (d)(3)(B). Pub. L. 107–135, § 133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
+Subsec. (d)(3)(B). Pub. L. 107–135, § 133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
 
-Subsec. (d)(3)(C)(i). Pub. L. 107–135, § 133(1)(C), struck out “beginning rates of” before “compensation” in introductory provisions and in subcl. (I).
+Subsec. (d)(3)(C)(i). Pub. L. 107–135, § 133(1)(C), struck out “beginning rates of” before “compensation” in introductory provisions and in subcl. (I).
 
-Subsec. (d)(4). Pub. L. 107–135, § 133(2), struck out “or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection” after “paragraph (3)(B)” and “Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.” at end.
+Subsec. (d)(4). Pub. L. 107–135, § 133(2), struck out “or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection” after “paragraph (3)(B)” and “Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.” at end.
 
-Subsec. (e)(4). Pub. L. 107–135, § 133(3), struck out “grade in a” before “covered position” in subpar. (A), struck out “grade of a” before “covered position” and substituted “that position” for “that grade” in subpar. (B), and struck out “grade of a” before “covered position” in subpar. (D).
+Subsec. (e)(4). Pub. L. 107–135, § 133(3), struck out “grade in a” before “covered position” in subpar. (A), struck out “grade of a” before “covered position” and substituted “that position” for “that grade” in subpar. (B), and struck out “grade of a” before “covered position” in subpar. (D).
 
-2000—Subsec. (d)(1). Pub. L. 106–419, § 201(a)(1)(A)(i), substituted “Subject to subsection (e), the rates” for “The rates” in introductory provisions.
+2000—Subsec. (d)(1). Pub. L. 106–419, § 201(a)(1)(A)(i), substituted “Subject to subsection (e), the rates” for “The rates” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 106–419, § 201(a)(1)(A)(ii), substituted “section 5303” for “section 5305” and inserted “and to be by the same percentage” after “to have the same effective date”.
+Subsec. (d)(1)(A). Pub. L. 106–419, § 201(a)(1)(A)(ii), substituted “section 5303” for “section 5305” and inserted “and to be by the same percentage” after “to have the same effective date”.
 
-Subsec. (d)(2). Pub. L. 106–419, § 201(a)(1)(B), substituted “Except as provided in paragraph (1)(A), such” for “Such” in second sentence.
+Subsec. (d)(2). Pub. L. 106–419, § 201(a)(1)(B), substituted “Except as provided in paragraph (1)(A), such” for “Such” in second sentence.
 
-Subsec. (d)(3)(B). Pub. L. 106–419, § 201(a)(1)(C), inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
+Subsec. (d)(3)(B). Pub. L. 106–419, § 201(a)(1)(C), inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
 
-Subsec. (d)(3)(C)(iii). Pub. L. 106–419, § 201(a)(1)(D), struck out cl. (iii) which read as follows: “The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.”
+Subsec. (d)(3)(C)(iii). Pub. L. 106–419, § 201(a)(1)(D), struck out cl. (iii) which read as follows: “The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.”
 
-Subsec. (e). Pub. L. 106–419, § 201(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Adjustments in rates of basic pay under subsection (d) may increase or reduce the rates of basic pay applicable to any grade of a covered position. In the case of such an adjustment that reduces the rates of pay for a grade, an employee serving at a Department health-care facility on the day before the effective date of that adjustment in a position affected by the adjustment may not (by reason of that adjustment) incur a reduction in the rate of basic pay applicable to that employee so long as the employee continues to serve in that covered position at that facility. If such an employee is subsequently promoted to a higher grade, or advanced to a higher step within the employee’s grade, for which the rate of pay as so adjusted is lower than the employee’s rate of basic pay on the day before the effective date of the promotion, the employee shall continue to be paid at a rate of basic pay not less than the rate of basic pay applicable to the employee before the promotion so long as the employee continues to serve in that covered position at that facility.”
+Subsec. (e). Pub. L. 106–419, § 201(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Adjustments in rates of basic pay under subsection (d) may increase or reduce the rates of basic pay applicable to any grade of a covered position. In the case of such an adjustment that reduces the rates of pay for a grade, an employee serving at a Department health-care facility on the day before the effective date of that adjustment in a position affected by the adjustment may not (by reason of that adjustment) incur a reduction in the rate of basic pay applicable to that employee so long as the employee continues to serve in that covered position at that facility. If such an employee is subsequently promoted to a higher grade, or advanced to a higher step within the employee’s grade, for which the rate of pay as so adjusted is lower than the employee’s rate of basic pay on the day before the effective date of the promotion, the employee shall continue to be paid at a rate of basic pay not less than the rate of basic pay applicable to the employee before the promotion so long as the employee continues to serve in that covered position at that facility.”
 
-Subsec. (f). Pub. L. 106–419, § 201(a)(3), substituted “March 1 of each year” for “February 1 of 1991, 1992, and 1993” and “subsection (d)” for “subsection (d)(1)(A)”.
+Subsec. (f). Pub. L. 106–419, § 201(a)(3), substituted “March 1 of each year” for “February 1 of 1991, 1992, and 1993” and “subsection (d)” for “subsection (d)(1)(A)”.
 
-Subsecs. (g), (h). Pub. L. 106–419, § 201(a)(4), redesignated subsec. (h) as (g) and struck out former subsec. (g) which directed that not later than Dec. 1 of 1991, 1992, and 1993, the Secretary was to submit to Congress a report regarding the exercise of authorities provided in this section for the preceding fiscal year and listed items to be included in report.
+Subsecs. (g), (h). Pub. L. 106–419, § 201(a)(4), redesignated subsec. (h) as (g) and struck out former subsec. (g) which directed that not later than Dec. 1 of 1991, 1992, and 1993, the Secretary was to submit to Congress a report regarding the exercise of authorities provided in this section for the preceding fiscal year and listed items to be included in report.
 
 1996—Subsec. (d)(3)(C)(iii). Pub. L. 104–110 substituted “January 1, 1998” for “April 1, 1995”.
 
-1994—Subsec. (d)(3)(C)(i)(I). Pub. L. 103–446, § 1201(e)(23), substituted “labor-market area” for “labor market area”.
+1994—Subsec. (d)(3)(C)(i)(I). Pub. L. 103–446, § 1201(e)(23), substituted “labor-market area” for “labor market area”.
 
-Subsec. (g)(1). Pub. L. 103–446, § 1201(c)(7), substituted “Under Secretary for Health’s actions” for “Chief Medical Director’s actions”.
+Subsec. (g)(1). Pub. L. 103–446, § 1201(c)(7), substituted “Under Secretary for Health’s actions” for “Chief Medical Director’s actions”.
 
 1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (a)(3). Pub. L. 102–585, § 302, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 102–585, § 302, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
 
 Subsec. (a)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (b). Pub. L. 102–585, § 301(b), substituted “five” for “four”.
+Subsec. (b). Pub. L. 102–585, § 301(b), substituted “five” for “four”.
 
 Subsec. (d)(1)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (d)(3)(C). Pub. L. 102–585, § 303(2), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (d)(3)(C). Pub. L. 102–585, § 303(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (d)(3)(D). Pub. L. 102–585, § 303(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+Subsec. (d)(3)(D). Pub. L. 102–585, § 303(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (d)(3)(E). Pub. L. 102–585, § 303(1), redesignated subpar. (D) as (E).
+Subsec. (d)(3)(E). Pub. L. 102–585, § 303(1), redesignated subpar. (D) as (E).
 
 Subsec. (d)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-Subsec. (g)(9). Pub. L. 102–585, § 304(b), added par. (9).
+Subsec. (g)(9). Pub. L. 102–585, § 304(b), added par. (9).
 
-Subsec. (g)(10). Pub. L. 102–585, § 307, added par. (10).
+Subsec. (g)(10). Pub. L. 102–585, § 307, added par. (10).
 
-1991—Pub. L. 102–40, § 401(c)(1)(A), renumbered section 4141 of this title as this section.
+1991—Pub. L. 102–40, § 401(c)(1)(A), renumbered section 4141 of this title as this section.
 
-Subsec. (a)(2)(B). Pub. L. 102–40, § 401(c)(2)(A)(i), substituted “paragraphs (1) and (3) of section 7401” for “clauses (1) and (3) of section 4104”.
+Subsec. (a)(2)(B). Pub. L. 102–40, § 401(c)(2)(A)(i), substituted “paragraphs (1) and (3) of section 7401” for “clauses (1) and (3) of section 4104”.
 
-Subsec. (a)(3). Pub. L. 102–40, §§ 301(c), 401(c)(2)(A)(ii), substituted “7404” for “4107” and inserted before period at end “or chapter 53 of title 5”.
+Subsec. (a)(3). Pub. L. 102–40, §§ 301(c), 401(c)(2)(A)(ii), substituted “7404” for “4107” and inserted before period at end “or chapter 53 of title 5”.
 
-Subsec. (a)(4). Pub. L. 102–40, § 401(c)(2)(A)(iii), substituted “7452” for “4142”.
+Subsec. (a)(4). Pub. L. 102–40, § 401(c)(2)(A)(iii), substituted “7452” for “4142”.
 
-Subsec. (b). Pub. L. 102–40, § 401(c)(2)(B), substituted “7401(1)” for “4104(1)” and “7404(b)” for “4107(b)”.
+Subsec. (b). Pub. L. 102–40, § 401(c)(2)(B), substituted “7401(1)” for “4104(1)” and “7404(b)” for “4107(b)”.
 
-Subsec. (d)(1)(B). Pub. L. 102–40, § 301(b)(1), inserted “or the Chief Medical Director, with respect to covered Regional and Central Office employees in that grade,” before “determines”.
+Subsec. (d)(1)(B). Pub. L. 102–40, § 301(b)(1), inserted “or the Chief Medical Director, with respect to covered Regional and Central Office employees in that grade,” before “determines”.
 
-Subsec. (d)(3)(C). Pub. L. 102–40, § 301(b)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (d)(3)(C). Pub. L. 102–40, § 301(b)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (d)(3)(D). Pub. L. 102–40, § 301(b)(2)(A), redesignated subpar. (C) as (D) and inserted “or Chief Medical Director” after “facility”.
+Subsec. (d)(3)(D). Pub. L. 102–40, § 301(b)(2)(A), redesignated subpar. (C) as (D) and inserted “or Chief Medical Director” after “facility”.
 
-Subsec. (d)(4). Pub. L. 102–40, § 301(b)(3), inserted “, or the Chief Medical Director with respect to Regional and Central Office employees,” after “facility”.
+Subsec. (d)(4). Pub. L. 102–40, § 301(b)(3), inserted “, or the Chief Medical Director with respect to Regional and Central Office employees,” after “facility”.
 
-Subsec. (g)(8). Pub. L. 102–40, § 401(c)(2)(C), substituted “7452(b)(2)” for “4142(b)(2)”.
+Subsec. (g)(8). Pub. L. 102–40, § 401(c)(2)(C), substituted “7452(b)(2)” for “4142(b)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2669,7 +2669,7 @@ Amendment by sections 301(b) to 303 and 304(b) of Pub. L. 102–585 effective wi
 
 **Effective Date**
 
-Pub. L. 101–366, title I, § 104, Aug. 15, 1990, 104 Stat. 437, as amended by Pub. L. 102–40, title III, § 301(e), May 7, 1991, 105 Stat. 208, provided that:
+Pub. L. 101–366, title I, § 104, Aug. 15, 1990, 104 Stat. 437, as amended by Pub. L. 102–40, title III, § 301(e), May 7, 1991, 105 Stat. 208, provided that:
 
 > **“(a) In General.—**
 
@@ -2681,23 +2681,23 @@ Pub. L. 101–366, title I, § 104, Aug. 15, 1990, 104 Stat. 437, as amended b
 
 **Savings Provision**
 
-Pub. L. 102–40, title III, § 301(a), May 7, 1991, 105 Stat. 208, provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 [former section 4107(b) of this title], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
+Pub. L. 102–40, title III, § 301(a), May 7, 1991, 105 Stat. 208, provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 [former section 4107(b) of this title], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
 
 **Pilot Program To Study Innovative Recruitment Tools To Address Nursing Shortages at Department of Veterans Affairs Health Care Facilities**
 
-Pub. L. 108–422, title V, § 501, Nov. 30, 2004, 118 Stat. 2395, required the Secretary of Veterans Affairs, not later than 90 days after Nov. 30, 2004, to designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs were adversely affected by a shortage of qualified nurses, to conduct a pilot program in the region to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment and retention of qualified nurses for positions at these Department health care facilities, and, not later than one year after Nov. 30, 2004, to submit to Congress a report on the extent to which the pilot program achieved its goals.
+Pub. L. 108–422, title V, § 501, Nov. 30, 2004, 118 Stat. 2395, required the Secretary of Veterans Affairs, not later than 90 days after Nov. 30, 2004, to designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs were adversely affected by a shortage of qualified nurses, to conduct a pilot program in the region to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment and retention of qualified nurses for positions at these Department health care facilities, and, not later than one year after Nov. 30, 2004, to submit to Congress a report on the extent to which the pilot program achieved its goals.
 
 **Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions**
 
-Pub. L. 107–135, title I, § 103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
+Pub. L. 107–135, title I, § 103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
 
 **National Commission on VA Nursing**
 
-Pub. L. 107–135, title I, subtitle D (§§ 141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
+Pub. L. 107–135, title I, subtitle D (§§ 141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
 **Report on Nurse Locality Pay**
 
-Pub. L. 105–368, title IX, § 905, Nov. 11, 1998, 112 Stat. 3361, provided that:
+Pub. L. 105–368, title IX, § 905, Nov. 11, 1998, 112 Stat. 3361, provided that:
 
 > **“(a) Report Required.—**
 
@@ -2723,7 +2723,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Nursing Personnel Qualification Standards**
 
-Pub. L. 102–585, title III, § 305, Nov. 4, 1992, 106 Stat. 4952, provided that:
+Pub. L. 102–585, title III, § 305, Nov. 4, 1992, 106 Stat. 4952, provided that:
 
 > **“(a) Revision.—** The Secretary of Veterans Affairs shall conduct a review of the qualification standards used for nursing personnel at Department health-care facilities and the relationship between those standards and the compression of nursing personnel in the existing intermediate and senior grades. Based upon that review, the Secretary shall revise those qualification standards—
 
@@ -2737,9 +2737,9 @@ Pub. L. 102–585, title III, § 305, Nov. 4, 1992, 106 Stat. 4952, provided t
 
 **Report on Pay for Chief Nurse Position**
 
-Pub. L. 102–585, title III, § 306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to be submitted to Congress not later than 12 months after Nov. 4, 1992.
+Pub. L. 102–585, title III, § 306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to be submitted to Congress not later than 12 months after Nov. 4, 1992.
 
-### § 7452. Nurses and other health-care personnel: administration of pay
+### § 7452. Nurses and other health-care personnel: administration of pay
 
 **(a)**
 
@@ -2753,9 +2753,9 @@ Pub. L. 102–585, title III, § 306, Nov. 4, 1992, 106 Stat. 4952, required t
 
 **(1)** Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary job achievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
 
-**(2)** The Secretary shall include in the annual report under section 7451(g) 1
+**(2)** The Secretary shall include in the annual report under section 7451(g) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title a discussion of the use during the period covered by the report of the payment of bonuses under this subsection and other job performance incentives available to the Secretary.
 
@@ -2777,7 +2777,7 @@ of this title a discussion of the use during the period covered by the report of
 
 **(d)** Whenever the director of a health-care facility makes an appointment described in subsection (c)(1), the director may (without a regard to any requirement for prior approval at any higher level of authority within the Department) increase the rate of pay of other employees in the same covered position at that facility who are in the grade in which the appointment is made and are serving in a position requiring the specialized skills with respect to which the determination under subsection (c)(2) concerning the appointment was made. Any such increase shall continue in effect with respect to any employee only so long as the employee continues to serve in such a position.
 
-**(e)** An employee in a covered position employed under section 7401(1) of this title who (without a break in employment) transfers from one Department health-care facility to another may not be reduced in grade or step within grade (except pursuant to a disciplinary action otherwise authorized by law) if the duties of the position to which the employee transfers are similar to the duties of the position from which the employee transferred. The rate of basic pay of such employee shall be established at the new health-care facility in a manner consistent with the practices at that facility for an employee of that grade and step, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) <sup>1</sup> of this title, provide justification for doing so.
+**(e)** An employee in a covered position employed under section 7401(1) of this title who (without a break in employment) transfers from one Department health-care facility to another may not be reduced in grade or step within grade (except pursuant to a disciplinary action otherwise authorized by law) if the duties of the position to which the employee transfers are similar to the duties of the position from which the employee transferred. The rate of basic pay of such employee shall be established at the new health-care facility in a manner consistent with the practices at that facility for an employee of that grade and step, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) <sup>1</sup> of this title, provide justification for doing so.
 
 **(f)** In this section, the term “covered position” has the meaning given that term in section 7451 of this title.
 
@@ -2795,13 +2795,13 @@ of this title a discussion of the use during the period covered by the report of
 
 **(4)** Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
 
-(Added Pub. L. 101–366, title I, § 102(b), Aug. 15, 1990, 104 Stat. 435, § 4142; renumbered § 7452 and amended Pub. L. 102–40, title III, § 301(d), title IV, § 401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, § 304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, § 5, Dec. 3, 2004, 118 Stat. 2645; Pub. L. 111–163, title VI, § 601(i), May 5, 2010, 124 Stat. 1170.)
+(Added Pub. L. 101–366, title I, § 102(b), Aug. 15, 1990, 104 Stat. 435, § 4142; renumbered § 7452 and amended Pub. L. 102–40, title III, § 301(d), title IV, § 401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, § 304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, § 5, Dec. 3, 2004, 118 Stat. 2645; Pub. L. 111–163, title VI, § 601(i), May 5, 2010, 124 Stat. 1170.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repealed and subsec. (h) of section 7451 was redesignated (g) by Pub. L. 106–419, title II, § 201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
+Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repealed and subsec. (h) of section 7451 was redesignated (g) by Pub. L. 106–419, title II, § 201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
 
 **Amendments**
 
@@ -2809,23 +2809,23 @@ Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repea
 
 2004—Subsec. (g). Pub. L. 108–445 added subsec. (g).
 
-1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
+1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
 
-1991—Pub. L. 102–40, § 401(c)(1)(A), renumbered section 4142 of this title as this section.
+1991—Pub. L. 102–40, § 401(c)(1)(A), renumbered section 4142 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–40, § 401(c)(3)(A)(i), substituted “7451(a)” for “4141(a)”.
+Subsec. (a)(1). Pub. L. 102–40, § 401(c)(3)(A)(i), substituted “7451(a)” for “4141(a)”.
 
-Subsec. (a)(2). Pub. L. 102–40, § 401(c)(3)(A)(ii), substituted “7451(c)(1)” for “4141(c)(1)”.
+Subsec. (a)(2). Pub. L. 102–40, § 401(c)(3)(A)(ii), substituted “7451(c)(1)” for “4141(c)(1)”.
 
-Subsec. (a)(3). Pub. L. 102–40, § 301(d), substituted “paid” for “appointed”.
+Subsec. (a)(3). Pub. L. 102–40, § 301(d), substituted “paid” for “appointed”.
 
-Subsec. (b)(2). Pub. L. 102–40, § 401(c)(3)(B), substituted “7451(g)” for “4141(g)”.
+Subsec. (b)(2). Pub. L. 102–40, § 401(c)(3)(B), substituted “7451(g)” for “4141(g)”.
 
-Subsec. (c)(1). Pub. L. 102–40, § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
+Subsec. (c)(1). Pub. L. 102–40, § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
 
-Subsec. (e). Pub. L. 102–40, § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
+Subsec. (e). Pub. L. 102–40, § 401(c)(3)(C), substituted “7401(1)” for “4104(1)”.
 
-Subsec. (f). Pub. L. 102–40, § 401(c)(3)(D), substituted “7451” for “4141”.
+Subsec. (f). Pub. L. 102–40, § 401(c)(3)(D), substituted “7451” for “4141”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2833,7 +2833,7 @@ Subsec. (f). Pub. L. 102–40, § 401(c)(3)(D), substituted “7451” for “
 
 Amendment by Pub. L. 102–585 effective with respect to first pay period beginning on or after end of six-month period beginning on Nov. 4, 1992, see section 308 of Pub. L. 102–585, set out as a note under section 7404 of this title.
 
-### § 7453. Nurses: additional pay
+### § 7453. Nurses: additional pay
 
 **(a)** In addition to the rate of basic pay provided for nurses, a full-time nurse or part-time nurse shall receive additional pay as provided by this section.
 
@@ -2891,7 +2891,7 @@ Amendment by Pub. L. 102–585 effective with respect to first pay period beginn
 
 **(B)** may be made on a nationwide, local, or other geographic basis if the Secretary finds that such an increase is justified on the basis of a review of the need for such increase (based upon a reasonably representative sampling of non-Federal health-care facilities in the geographic area involved).
 
-(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 232; amended Pub. L. 103–446, title XII, § 1201(e)(24), (g)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 111–163, title VI, § 601(k)(1), May 5, 2010, 124 Stat. 1171.)
+(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 232; amended Pub. L. 103–446, title XII, § 1201(e)(24), (g)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 111–163, title VI, § 601(k)(1), May 5, 2010, 124 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -2901,21 +2901,21 @@ Provisions similar to those in this section were contained in section 4107(e) of
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–163, § 601(k)(1)(A), substituted “a full-time nurse or part-time nurse” for “a nurse”.
+2010—Subsec. (a). Pub. L. 111–163, § 601(k)(1)(A), substituted “a full-time nurse or part-time nurse” for “a nurse”.
 
-Subsec. (b). Pub. L. 111–163, § 601(k)(1)(B), struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service on such tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
+Subsec. (b). Pub. L. 111–163, § 601(k)(1)(B), struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service on such tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
 
-Subsec. (c). Pub. L. 111–163, § 601(k)(1)(C), struck out “on a tour of duty” after “performing service” and substituted “such service” for “service on such tour”.
+Subsec. (c). Pub. L. 111–163, § 601(k)(1)(C), struck out “on a tour of duty” after “performing service” and substituted “such service” for “service on such tour”.
 
-Subsec. (e)(1). Pub. L. 111–163, § 601(k)(1)(D)(i), substituted “eight consecutive hours” for “eight hours in a day”.
+Subsec. (e)(1). Pub. L. 111–163, § 601(k)(1)(D)(i), substituted “eight consecutive hours” for “eight hours in a day”.
 
-Subsec. (e)(5)(A). Pub. L. 111–163, § 601(k)(1)(D)(ii), substituted “period of service” for “tour of duty”.
+Subsec. (e)(5)(A). Pub. L. 111–163, § 601(k)(1)(D)(ii), substituted “period of service” for “tour of duty”.
 
-1994—Subsecs. (f), (g). Pub. L. 103–446, § 1201(e)(24), substituted “subsection (b), (c), (d), or (e)” for “subsections (b), (c), (d), or (e)”.
+1994—Subsecs. (f), (g). Pub. L. 103–446, § 1201(e)(24), substituted “subsection (b), (c), (d), or (e)” for “subsections (b), (c), (d), or (e)”.
 
-Subsec. (i)(3). Pub. L. 103–446, § 1201(g)(6), struck out “of title 5” before period at end.
+Subsec. (i)(3). Pub. L. 103–446, § 1201(g)(6), struck out “of title 5” before period at end.
 
-### § 7454. Physician assistants and other health care professionals: additional pay
+### § 7454. Physician assistants and other health care professionals: additional pay
 
 **(a)** Physician assistants and expanded-function dental auxiliaries shall be entitled to additional pay on the same basis as provided for nurses in section 7453 of this title.
 
@@ -2929,7 +2929,7 @@ Subsec. (i)(3). Pub. L. 103–446, § 1201(g)(6), struck out “of title 5” 
 
 **(c)** The Secretary shall prescribe by regulation standards for compensation and payment under this section.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 107–135, title I, § 121(a), Jan. 23, 2002, 115 Stat. 2450; Pub. L. 108–170, title III, §§ 301(d), 303(a), Dec. 6, 2003, 117 Stat. 2057, 2058; Pub. L. 111–163, title VI, § 601(k)(2), May 5, 2010, 124 Stat. 1171.)
+(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 107–135, title I, § 121(a), Jan. 23, 2002, 115 Stat. 2450; Pub. L. 108–170, title III, §§ 301(d), 303(a), Dec. 6, 2003, 117 Stat. 2057, 2058; Pub. L. 111–163, title VI, § 601(k)(2), May 5, 2010, 124 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -2941,9 +2941,9 @@ Provisions similar to those in this section were contained in section 4107(f) of
 
 2010—Subsec. (b)(3). Pub. L. 111–163 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Employees appointed under section 7408 of this title shall be entitled to additional pay on the same basis as provided for nurses in section 7453(c) of this title.”
 
-2003—Subsec. (b)(1). Pub. L. 108–170, § 301(d), substituted “individuals in positions listed in section 7401(3) of this title,” for “certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, or occupational therapists,”.
+2003—Subsec. (b)(1). Pub. L. 108–170, § 301(d), substituted “individuals in positions listed in section 7401(3) of this title,” for “certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, or occupational therapists,”.
 
-Subsec. (b)(3). Pub. L. 108–170, § 303(a), added par. (3).
+Subsec. (b)(3). Pub. L. 108–170, § 303(a), added par. (3).
 
 2002—Subsec. (b). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
 
@@ -2951,13 +2951,13 @@ Subsec. (b)(3). Pub. L. 108–170, § 303(a), added par. (3).
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–170, title III, § 303(b), Dec. 6, 2003, 117 Stat. 2058, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to the first pay period beginning on or after January 1, 2004.”
+Pub. L. 108–170, title III, § 303(b), Dec. 6, 2003, 117 Stat. 2058, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to the first pay period beginning on or after January 1, 2004.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Jan. 23, 2002].”
+Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Jan. 23, 2002].”
 
-### § 7455. Increases in rates of basic pay
+### § 7455. Increases in rates of basic pay
 
 **(a)**
 
@@ -2967,9 +2967,9 @@ Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided
 
 **(B)** may be made—
 
-**(i)** for one or more of the grades listed in the schedules in subsection (b)(1) of section 7404 1
+**(i)** for one or more of the grades listed in the schedules in subsection (b)(1) of section 7404 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -3021,13 +3021,13 @@ of this title;
 
 **(3)** If, before that effective date, the President approves such increase, the Secretary may advance the effective date to any date not earlier than the date of the President’s approval.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, § 2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, § 201, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, § 203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, § 601(*l*), May 5, 2010, 124 Stat. 1172; Pub. L. 117–168, title IX, § 904(a), Aug. 10, 2022, 136 Stat. 1811.)
+(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, § 2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, § 201, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, § 203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, § 601(*l*), May 5, 2010, 124 Stat. 1172; Pub. L. 117–168, title IX, § 904(a), Aug. 10, 2022, 136 Stat. 1811.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7404(b) of this title, referred to in subsec. (a)(1)(B)(i), was amended by Pub. L. 108–445, § 3(a)(1), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer contains paragraphs. Schedules appear under section 7404(b).
+Section 7404(b) of this title, referred to in subsec. (a)(1)(B)(i), was amended by Pub. L. 108–445, § 3(a)(1), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer contains paragraphs. Schedules appear under section 7404(b).
 
 Level II of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5313 of Title 5, Government Organization and Employees.
 
@@ -3039,11 +3039,11 @@ Provisions similar to those in this section were contained in section 4107(g) of
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–168, § 904(a)(1), substituted “50 percent” for “30 percent”.
+2022—Subsec. (c)(1). Pub. L. 117–168, § 904(a)(1), substituted “50 percent” for “30 percent”.
 
-Subsec. (c)(2). Pub. L. 117–168, § 904(a)(2), substituted “level II” for “level IV”.
+Subsec. (c)(2). Pub. L. 117–168, § 904(a)(2), substituted “level II” for “level IV”.
 
-Subsec. (c)(3). Pub. L. 117–168, § 904(a)(3), added par. (3).
+Subsec. (c)(3). Pub. L. 117–168, § 904(a)(3), added par. (3).
 
 2010—Subsec. (c). Pub. L. 111–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -3051,11 +3051,11 @@ Subsec. (c)(3). Pub. L. 117–168, § 904(a)(3), added par. (3).
 
 “(2) Whenever the amount of an increase under subsection (a) results in a rate of basic pay for a position being equal to or greater than the amount that is 94 percent of the maximum amount permitted under paragraph (1), the Secretary shall promptly notify the Committees on Veterans’ Affairs of the Senate and House of Representatives of the increase and the amount thereof.”
 
-2000—Subsec. (c)(1). Pub. L. 106–419 inserted “, pharmacists,” after “anesthetists”.
+2000—Subsec. (c)(1). Pub. L. 106–419 inserted “, pharmacists,” after “anesthetists”.
 
-1992—Subsec. (c). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
+1992—Subsec. (c). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
 
-Pub. L. 102–405, § 201, designated existing provisions as par. (1), inserted “by two times” after first reference to “exceed”, and added par. (2).
+Pub. L. 102–405, § 201, designated existing provisions as par. (1), inserted “by two times” after first reference to “exceed”, and added par. (2).
 
 1991—Subsec. (a)(2)(C). Pub. L. 102–83 substituted “902” for “218”.
 
@@ -3089,7 +3089,7 @@ Sec. 7. This order shall be effective upon publication in the Federal Register.
 
 George Bush.
 
-### § 7456. Nurses: special rules for weekend duty
+### § 7456. Nurses: special rules for weekend duty
 
 **(a)** Subject to subsection (b), if the Secretary determines it to be necessary in order to obtain or retain the services of nurses at any Department health-care facility, the Secretary may provide, in the case of nurses appointed under this chapter and employed at such facility, that such nurses who work two regularly scheduled 12-hour tours of duty within the period commencing at midnight Friday and ending at midnight the following Sunday shall be considered for all purposes (except computation of full-time equivalent employees for the purposes of determining compliance with personnel ceilings) to have worked a full 40-hour basic workweek.
 
@@ -3109,7 +3109,7 @@ George Bush.
 
 **(c)** The Secretary shall prescribe regulations for the implementation of this section.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 235; amended Pub. L. 111–163, title VI, § 602(b), May 5, 2010, 124 Stat. 1173.)
+(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 235; amended Pub. L. 111–163, title VI, § 602(b), May 5, 2010, 124 Stat. 1173.)
 
 **Editorial Notes**
 
@@ -3121,7 +3121,7 @@ Provisions similar to those in this section were contained in section 4107(h) of
 
 2010—Subsecs. (c), (d). Pub. L. 111–163 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “A nurse described in subsection (b)(1) who is absent on approved sick leave or annual leave during a regularly scheduled 12-hour tour of duty shall be charged for such leave at a rate of five hours of leave for three hours of absence.”
 
-### § 7456A. Nurses: alternate work schedules
+### § 7456A. Nurses: alternate work schedules
 
 **(a) Applicability.—** This section applies to registered nurses appointed under this chapter.
 
@@ -3169,21 +3169,21 @@ Provisions similar to those in this section were contained in section 4107(h) of
 
 **(f) Regulations.—** The Secretary shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 108–445, § 4(a)(1), Dec. 3, 2004, 118 Stat. 2643; amended Pub. L. 111–163, title VI, § 602(c), May 5, 2010, 124 Stat. 1173.)
+(Added Pub. L. 108–445, § 4(a)(1), Dec. 3, 2004, 118 Stat. 2643; amended Pub. L. 111–163, title VI, § 602(c), May 5, 2010, 124 Stat. 1173.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–163, § 602(c)(2)(A), substituted “72/80” for “36/40” in heading.
+2010—Subsec. (b). Pub. L. 111–163, § 602(c)(2)(A), substituted “72/80” for “36/40” in heading.
 
-Subsec. (b)(1)(A). Pub. L. 111–163, § 602(c)(1), substituted “six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.” for “three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.”
+Subsec. (b)(1)(A). Pub. L. 111–163, § 602(c)(1), substituted “six regularly scheduled 12-hour tours of duty within a 14-day period shall be considered for all purposes to have worked a full 80-hour pay period.” for “three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.”
 
-Subsec. (b)(2)(A). Pub. L. 111–163, § 602(c)(2)(B), substituted “80-hour pay period” for “40-hour basic work week”.
+Subsec. (b)(2)(A). Pub. L. 111–163, § 602(c)(2)(B), substituted “80-hour pay period” for “40-hour basic work week”.
 
-Subsec. (b)(3). Pub. L. 111–163, § 602(c)(2)(C), struck out “regularly” before “scheduled 12-hour tour”.
+Subsec. (b)(3). Pub. L. 111–163, § 602(c)(2)(C), struck out “regularly” before “scheduled 12-hour tour”.
 
-### § 7457. On-call pay
+### § 7457. On-call pay
 
 **(a)** The Secretary may pay an employee to whom this section applies pay at the rate provided in section 7453(h) of this title except for such time as the employee may be called back to work.
 
@@ -3201,7 +3201,7 @@ Subsec. (b)(3). Pub. L. 111–163, § 602(c)(2)(C), struck out “regularly”
 
 **(2)** the rate of pay which such employee is entitled to receive including on-call premium pay described in subsection (a).
 
-(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 236.)
+(Added Pub. L. 102–40, title IV, § 401(b)(4), May 7, 1991, 105 Stat. 236.)
 
 **Editorial Notes**
 
@@ -3209,7 +3209,7 @@ Subsec. (b)(3). Pub. L. 111–163, § 602(c)(2)(C), struck out “regularly”
 
 Provisions similar to those in this section were contained in section 4107(j) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
-### § 7458. Recruitment and retention bonus pay
+### § 7458. Recruitment and retention bonus pay
 
 **(a)**
 
@@ -3261,7 +3261,7 @@ Provisions similar to those in this section were contained in section 4107(j) of
 
 **(h)** The Secretary shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 100–322, title II, § 212(a)[(1)], May 20, 1988, 102 Stat. 514, § 4120; renumbered § 7458 and amended Pub. L. 102–40, title IV, § 401(c)(4), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(h)(4), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 110–387, title IX, § 901(a)(6), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 100–322, title II, § 212(a)[(1)], May 20, 1988, 102 Stat. 514, § 4120; renumbered § 7458 and amended Pub. L. 102–40, title IV, § 401(c)(4), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(h)(4), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 110–387, title IX, § 901(a)(6), Oct. 10, 2008, 122 Stat. 4142.)
 
 **Editorial Notes**
 
@@ -3275,19 +3275,19 @@ Provisions similar to those in this section were contained in section 4107(j) of
 
 1991—Pub. L. 102–40 renumbered section 4120 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsecs. (b)(1), (c)(2), (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (b)(1), (c)(2), (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places and “Secretary’s” for “Administrator’s”.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places and “Secretary’s” for “Administrator’s”.
 
 Pub. L. 102–40 substituted “subchapter III” for “section 4118 of this title”.
 
-Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-### § 7459. Nursing staff: special rules for overtime duty
+### § 7459. Nursing staff: special rules for overtime duty
 
 **(a) Limitation.—** Except as provided in subsection (c), the Secretary may not require nursing staff to work more than 40 hours (or 24 hours if such staff is covered under section 7456 of this title) in an administrative work week or more than eight consecutive hours (or 12 hours if such staff is covered under section 7456 or 7456A of this title).
 
@@ -3329,11 +3329,11 @@ Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted �
 
 **(4)** Any other nurse position designated by the Secretary for purposes of this section.
 
-(Added Pub. L. 111–163, title VI, § 602(a)(1), May 5, 2010, 124 Stat. 1172.)
+(Added Pub. L. 111–163, title VI, § 602(a)(1), May 5, 2010, 124 Stat. 1172.)
 
 ## SUBCHAPTER V—DISCIPLINARY AND GRIEVANCE PROCEDURES
 
-### § 7461. Adverse actions: section 7401(1) employees
+### § 7461. Adverse actions: section 7401(1) employees
 
 **(a)** Whenever the Under Secretary for Health (or an official designated by the Under Secretary for Health) brings charges based on conduct or performance against a section 7401(1) employee and as a result of those charges an adverse personnel action is taken against the employee, the employee shall have the right to appeal the action.
 
@@ -3369,7 +3369,7 @@ Subsecs. (g)(1), (2), (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted �
 
 **(e)** Whenever the Secretary proposes to prescribe regulations under this subchapter, the Secretary shall publish the proposed regulations in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.
 
-(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 202; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, §§ 201(b), 208(a), June 23, 2017, 131 Stat. 869, 878.)
+(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 202; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, §§ 201(b), 208(a), June 23, 2017, 131 Stat. 869, 878.)
 
 **Editorial Notes**
 
@@ -3379,9 +3379,9 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 **Amendments**
 
-2017—Subsec. (b)(2). Pub. L. 115–41, § 208(a), amended par. (2) generally. Prior to amendment, par. (2) related to the appeals procedure for cases not described in par. (1).
+2017—Subsec. (b)(2). Pub. L. 115–41, § 208(a), amended par. (2) generally. Prior to amendment, par. (2) related to the appeals procedure for cases not described in par. (1).
 
-Subsec. (c)(1). Pub. L. 115–41, § 201(b), inserted “employees in senior executive positions (as defined in section 713(d) of this title) and” before “interns”.
+Subsec. (c)(1). Pub. L. 115–41, § 201(b), inserted “employees in senior executive positions (as defined in section 713(d) of this title) and” before “interns”.
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
@@ -3389,9 +3389,9 @@ Subsec. (c)(1). Pub. L. 115–41, § 201(b), inserted “employees in senior e
 
 **Regulations**
 
-Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act [May 7, 1991]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.”
+Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act [May 7, 1991]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.”
 
-### § 7462. Major adverse actions involving professional conduct or competence
+### § 7462. Major adverse actions involving professional conduct or competence
 
 **(a)**
 
@@ -3475,7 +3475,7 @@ Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that:
 
 **(C)** unsupported by substantial evidence.
 
-(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 203; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, § 208(b), June 23, 2017, 131 Stat. 878; Pub. L. 116–61, § 6(7), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 203; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 115–41, title II, § 208(b), June 23, 2017, 131 Stat. 878; Pub. L. 116–61, § 6(7), Sept. 30, 2019, 133 Stat. 1117.)
 
 **Editorial Notes**
 
@@ -3487,23 +3487,23 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 2019—Subsec. (b)(4)(A). Pub. L. 116–61 inserted “notice” after “written”.
 
-2017—Subsec. (b)(1). Pub. L. 115–41, § 208(b)(1)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (5)(A),” after “is entitled”.
+2017—Subsec. (b)(1). Pub. L. 115–41, § 208(b)(1)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (5)(A),” after “is entitled”.
 
-Subsec. (b)(1)(A). Pub. L. 115–41, § 208(b)(1)(B), substituted “Advance written notice” for “At least 30 days advance written notice” and “a statement” for “and a statement” and inserted “and a file containing all the evidence in support of each charge,” after “with respect to each charge,”.
+Subsec. (b)(1)(A). Pub. L. 115–41, § 208(b)(1)(B), substituted “Advance written notice” for “At least 30 days advance written notice” and “a statement” for “and a statement” and inserted “and a file containing all the evidence in support of each charge,” after “with respect to each charge,”.
 
-Subsec. (b)(1)(B). Pub. L. 115–41, § 208(b)(1)(C), substituted “The opportunity, within the time period provided for in paragraph (4)(A)” for “A reasonable time, but not less than seven days”.
+Subsec. (b)(1)(B). Pub. L. 115–41, § 208(b)(1)(C), substituted “The opportunity, within the time period provided for in paragraph (4)(A)” for “A reasonable time, but not less than seven days”.
 
-Subsec. (b)(3). Pub. L. 115–41, § 208(b)(2), added par. (3) and struck out former par. (3) which related to requirement that deciding official render a written decision within 21 days of receipt of the employee’s answer.
+Subsec. (b)(3). Pub. L. 115–41, § 208(b)(2), added par. (3) and struck out former par. (3) which related to requirement that deciding official render a written decision within 21 days of receipt of the employee’s answer.
 
-Subsec. (b)(4)(A). Pub. L. 115–41, § 208(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.”
+Subsec. (b)(4)(A). Pub. L. 115–41, § 208(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.”
 
-Subsec. (b)(4)(B). Pub. L. 115–41, § 208(b)(3)(B), substituted “seven business days” for “30 days”.
+Subsec. (b)(4)(B). Pub. L. 115–41, § 208(b)(3)(B), substituted “seven business days” for “30 days”.
 
-Subsec. (b)(5), (6). Pub. L. 115–41, § 208(b)(4), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 115–41, § 208(b)(4), added pars. (5) and (6).
 
 1992—Subsec. (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subpars. (A) and (B).
 
-### § 7463. Other adverse actions
+### § 7463. Other adverse actions
 
 **(a)** The Secretary shall prescribe by regulation procedures for the consideration of grievances of section 7401(1) employees arising from adverse personnel actions in which each action taken either—
 
@@ -3543,7 +3543,7 @@ Disciplinary Appeals Boards shall not have jurisdiction to review such matters, 
 
 **(e)** In any review of an adverse action under the grievance procedures prescribed under subsection (a), the employee is entitled to be represented by an attorney or other representative of the employee’s choice at all stages of the case.
 
-(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 205; amended Pub. L. 115–41, title II, § 208(c), June 23, 2017, 131 Stat. 878; Pub. L. 115–407, title VII, § 702(a)(2), Dec. 31, 2018, 132 Stat. 5381.)
+(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 205; amended Pub. L. 115–41, title II, § 208(c), June 23, 2017, 131 Stat. 878; Pub. L. 115–407, title VII, § 702(a)(2), Dec. 31, 2018, 132 Stat. 5381.)
 
 **Editorial Notes**
 
@@ -3555,17 +3555,17 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 2018—Subsec. (c)(2)(B). Pub. L. 115–407 substituted “to answer” for “to answer to answer”.
 
-2017—Subsec. (c)(1). Pub. L. 115–41, § 208(c)(1), substituted “notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of section 7462(b)(1) of this title, but within the time periods specified in paragraph (3)” for “the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of section 7462(b)(1) of this title”.
+2017—Subsec. (c)(1). Pub. L. 115–41, § 208(c)(1), substituted “notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of section 7462(b)(1) of this title, but within the time periods specified in paragraph (3)” for “the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of section 7462(b)(1) of this title”.
 
-Subsec. (c)(2). Pub. L. 115–41, § 208(c)(2)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (3)(A),” after “is entitled”.
+Subsec. (c)(2). Pub. L. 115–41, § 208(c)(2)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (3)(A),” after “is entitled”.
 
-Subsec. (c)(2)(A). Pub. L. 115–41, § 208(c)(2)(B), substituted “written notice” for “an advance written notice”.
+Subsec. (c)(2)(A). Pub. L. 115–41, § 208(c)(2)(B), substituted “written notice” for “an advance written notice”.
 
-Subsec. (c)(2)(B). Pub. L. 115–41, § 208(c)(2)(C), substituted “time to answer” for “a reasonable time”.
+Subsec. (c)(2)(B). Pub. L. 115–41, § 208(c)(2)(C), substituted “time to answer” for “a reasonable time”.
 
-Subsec. (c)(3). Pub. L. 115–41, § 208(c)(3), added par. (3).
+Subsec. (c)(3). Pub. L. 115–41, § 208(c)(3), added par. (3).
 
-### § 7464. Disciplinary Appeals Boards
+### § 7464. Disciplinary Appeals Boards
 
 **(a)** The Secretary shall from time to time appoint boards to hear appeals of major adverse actions described in section 7462 of this title. Such boards shall be known as Disciplinary Appeals Boards. Each board shall consist of three employees of the Department, each of whom shall be of the same grade as, or be senior in grade to, the employee who is appealing an adverse action. At least two of the members of each board shall be employed in the same category of position as the employee who is appealing the adverse action. Members of a board shall be appointed from individuals on the panel established under subsection (d).
 
@@ -3589,7 +3589,7 @@ Subsec. (c)(3). Pub. L. 115–41, § 208(c)(3), added par. (3).
 
 **(3)** The Secretary shall provide training in the functions and duties of Disciplinary Appeals Boards and grievance procedures under section 7463 of this title for employees selected to be on the panel.
 
-(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 206.)
+(Added Pub. L. 102–40, title II, § 203(a), May 7, 1991, 105 Stat. 206.)
 
 **Editorial Notes**
 
@@ -3599,7 +3599,7 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 ## SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS
 
-### § 7471. Designation of Regional Medical Education Centers
+### § 7471. Designation of Regional Medical Education Centers
 
 **(a)** In carrying out the Secretary’s functions under section 7302 of this title with regard to the training of health personnel, the Secretary shall implement a program under which the Secretary shall designate as Regional Medical Education Centers such Department hospitals as the Secretary determines appropriate to carry out the provisions of this subchapter.
 
@@ -3615,7 +3615,7 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 **(5)** Routine verification of basic medical skills and, where determined necessary, remediation of any deficiency in such skills.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237.)
+(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237.)
 
 **Editorial Notes**
 
@@ -3623,7 +3623,7 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 Provisions similar to those in this section were contained in section 4121 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
-### § 7472. Supervision and staffing of Centers
+### § 7472. Supervision and staffing of Centers
 
 **(a)** Centers shall be operated under the supervision of the Under Secretary for Health and shall be staffed with personnel qualified to provide the highest quality instruction and training in various medical and health care disciplines.
 
@@ -3631,7 +3631,7 @@ Provisions similar to those in this section were contained in section 4121 of th
 
 **(c)** Whenever the Under Secretary for Health considers it necessary for the effective conduct of the program provided for under this subchapter, the Under Secretary for Health may contract for the services of highly qualified medical and health personnel from outside the Department to serve as instructors at such Centers.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -3643,13 +3643,13 @@ Provisions similar to those in this section were contained in section 4122 of th
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-### § 7473. Personnel eligible for training
+### § 7473. Personnel eligible for training
 
 **(a)** The Under Secretary for Health shall determine the manner in which personnel are to be selected for training in the Centers. Preference shall be given to career personnel of the Administration.
 
 **(b)** To the extent that facilities are available medical and health personnel from outside the Administration may, on a reimbursable basis, be provided training in the Centers. Such reimbursement may include reciprocal training of personnel of the Administration provided under sharing arrangements entered into by the Under Secretary for Health and the heads of the entities providing such reciprocal training. Any amounts received by the United States as reimbursement under this subsection shall be credited to the applicable Department medical appropriation account.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 237; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -3661,11 +3661,11 @@ Provisions similar to those in this section were contained in section 4123 of th
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsecs. (a) and (b).
 
-### § 7474. Consultation
+### § 7474. Consultation
 
 The Under Secretary for Health shall carry out this subchapter after consultation with the special medical advisory group established pursuant to section 7312(a) of this title.
 
-(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(b)(5), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 

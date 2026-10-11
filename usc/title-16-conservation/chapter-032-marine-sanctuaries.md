@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—MARINE SANCTUARIES
 
-## § 1431. Findings, purposes, and policies; establishment of system
+## § 1431. Findings, purposes, and policies; establishment of system
 
 **(a) Findings** The Congress finds that—
 
@@ -57,19 +57,19 @@ retrieved: 2026-10-11
 
 There is established the National Marine Sanctuary System, which shall consist of national marine sanctuaries designated by the Secretary in accordance with this chapter.
 
-(Pub. L. 92–532, title III, § 301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, § 1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, § 2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, § 9(a), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 3, Nov. 13, 2000, 114 Stat. 2381.)
+(Pub. L. 92–532, title III, § 301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, § 1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, § 2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, § 9(a), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 3, Nov. 13, 2000, 114 Stat. 2381.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–513, § 3(a), inserted “; establishment of system” at end of section catchline.
+2000—Pub. L. 106–513, § 3(a), inserted “; establishment of system” at end of section catchline.
 
-Subsec. (a)(2). Pub. L. 106–513, § 3(b)(1), substituted “scientific, educational, cultural, archeological, or esthetic” for “research, educational, or esthetic”.
+Subsec. (a)(2). Pub. L. 106–513, § 3(b)(1), substituted “scientific, educational, cultural, archeological, or esthetic” for “research, educational, or esthetic”.
 
-Subsec. (a)(3). Pub. L. 106–513, § 3(b)(2), inserted “and” at end.
+Subsec. (a)(3). Pub. L. 106–513, § 3(b)(2), inserted “and” at end.
 
-Subsec. (a)(4) to (6). Pub. L. 106–513, § 3(b)(3), added par. (4) and struck out former pars. (4) to (6) which read as follows:
+Subsec. (a)(4) to (6). Pub. L. 106–513, § 3(b)(3), added par. (4) and struck out former pars. (4) to (6) which read as follows:
 
 “(4) a Federal program which identifies special areas of the marine environment will contribute positively to marine resources conservation, research, and management;
 
@@ -77,29 +77,29 @@ Subsec. (a)(4) to (6). Pub. L. 106–513, § 3(b)(3), added par. (4) and struc
 
 “(6) protection of these special areas can contribute to maintaining a natural assemblage of living resources for future generations.”
 
-Subsec. (b)(1). Pub. L. 106–513, § 3(c)(1), substituted “significance and to manage these areas as the National Marine Sanctuary System;” for “significance;”.
+Subsec. (b)(1). Pub. L. 106–513, § 3(c)(1), substituted “significance and to manage these areas as the National Marine Sanctuary System;” for “significance;”.
 
-Subsec. (b)(3). Pub. L. 106–513, § 3(c)(2), (4), added par. (3) and struck out former par. (3) which read as follows: “to support, promote, and coordinate scientific research on, and monitoring of, the resources of these marine areas, especially long-term monitoring and research of these areas;”.
+Subsec. (b)(3). Pub. L. 106–513, § 3(c)(2), (4), added par. (3) and struck out former par. (3) which read as follows: “to support, promote, and coordinate scientific research on, and monitoring of, the resources of these marine areas, especially long-term monitoring and research of these areas;”.
 
-Subsec. (b)(4). Pub. L. 106–513, § 3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows: “to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
+Subsec. (b)(4). Pub. L. 106–513, § 3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows: “to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
 
-Subsec. (b)(5) to (7). Pub. L. 106–513, § 3(c)(3), (4), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+Subsec. (b)(5) to (7). Pub. L. 106–513, § 3(c)(3), (4), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 106–513, § 3(c)(3), (5), redesignated par. (7) as (8) and substituted “areas, including the application of innovative management techniques; and” for “areas;”. Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 106–513, § 3(c)(3), (5), redesignated par. (7) as (8) and substituted “areas, including the application of innovative management techniques; and” for “areas;”. Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 106–513, § 3(c)(2), (3), (6), redesignated par. (8) as (9), substituted a period for “; and”, and struck out former par. (9) which read as follows: “to maintain, restore, and enhance living resources by providing places for species that depend upon these marine areas to survive and propagate.”
+Subsec. (b)(9). Pub. L. 106–513, § 3(c)(2), (3), (6), redesignated par. (8) as (9), substituted a period for “; and”, and struck out former par. (9) which read as follows: “to maintain, restore, and enhance living resources by providing places for species that depend upon these marine areas to survive and propagate.”
 
-Subsec. (c). Pub. L. 106–513, § 3(d), added subsec. (c).
+Subsec. (c). Pub. L. 106–513, § 3(d), added subsec. (c).
 
 1996—Subsec. (b)(2). Pub. L. 104–283 substituted a semicolon for a period at end.
 
-1992—Subsec. (a)(2). Pub. L. 102–587, § 2101(a)(1), inserted “, and in some cases international,” after “national”.
+1992—Subsec. (a)(2). Pub. L. 102–587, § 2101(a)(1), inserted “, and in some cases international,” after “national”.
 
-Subsec. (a)(4). Pub. L. 102–587, § 2101(a)(2), inserted “, research,” after “conservation” and struck out “and” at end.
+Subsec. (a)(4). Pub. L. 102–587, § 2101(a)(2), inserted “, research,” after “conservation” and struck out “and” at end.
 
-Subsec. (a)(6). Pub. L. 102–587, § 2101(a)(3), (4), added par. (6).
+Subsec. (a)(6). Pub. L. 102–587, § 2101(a)(3), (4), added par. (6).
 
-Subsec. (b). Pub. L. 102–587, § 2101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The purposes and policies of this chapter are—
+Subsec. (b). Pub. L. 102–587, § 2101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The purposes and policies of this chapter are—
 
 “(1) to identify areas of the marine environment of special national significance due to their resource or human-use values;
 
@@ -119,29 +119,29 @@ Subsec. (b). Pub. L. 102–587, § 2101(b), amended subsec. (b) generally. Pri
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–513, § 1, Nov. 13, 2000, 114 Stat. 2381, provided that: “This Act [enacting section 1445c of this title and amending this section and sections 1432 to 1434, 1436, 1437, and 1439 to 1445b of this title] may be cited as the ‘National Marine Sanctuaries Amendments Act of 2000’.”
+Pub. L. 106–513, § 1, Nov. 13, 2000, 114 Stat. 2381, provided that: “This Act [enacting section 1445c of this title and amending this section and sections 1432 to 1434, 1436, 1437, and 1439 to 1445b of this title] may be cited as the ‘National Marine Sanctuaries Amendments Act of 2000’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–283, § 1, Oct. 11, 1996, 110 Stat. 3363, provided that: “This Act [amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
+Pub. L. 104–283, § 1, Oct. 11, 1996, 110 Stat. 3363, provided that: “This Act [amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–587, § 1, Nov. 4, 1992, 106 Stat. 5039, provided that: “This Act [see Tables for classification] may be cited as the ‘Oceans Act of 1992’.”
+Pub. L. 102–587, § 1, Nov. 4, 1992, 106 Stat. 5039, provided that: “This Act [see Tables for classification] may be cited as the ‘Oceans Act of 1992’.”
 
-Pub. L. 102–587, title II, § 2001, Nov. 4, 1992, 106 Stat. 5039, provided that: “This title [enacting section 1445a of this title, amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
+Pub. L. 102–587, title II, § 2001, Nov. 4, 1992, 106 Stat. 5039, provided that: “This title [enacting section 1445a of this title, amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–498, title I, § 101, Oct. 19, 1984, 98 Stat. 2296, provided that: “This title [enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title] may be cited as the ‘Marine Sanctuaries Amendments of 1984’.”
+Pub. L. 98–498, title I, § 101, Oct. 19, 1984, 98 Stat. 2296, provided that: “This title [enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title] may be cited as the ‘Marine Sanctuaries Amendments of 1984’.”
 
 **Short Title**
 
-Pub. L. 92–532, title III, § 317, formerly § 316, as added by Pub. L. 102–587, title II, § 2112, Nov. 4, 1992, 106 Stat. 5047; renumbered § 317 of title III, Pub. L. 104–283, §§ 6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, § 307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title [enacting this chapter] may be cited as the ‘National Marine Sanctuaries Act’.”
+Pub. L. 92–532, title III, § 317, formerly § 316, as added by Pub. L. 102–587, title II, § 2112, Nov. 4, 1992, 106 Stat. 5047; renumbered § 317 of title III, Pub. L. 104–283, §§ 6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, § 307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title [enacting this chapter] may be cited as the ‘National Marine Sanctuaries Act’.”
 
 **Safe Vessel Operation in the Great Lakes**
 
-Pub. L. 113–281, title VI, § 610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, § 602(1), Feb. 8, 2016, 130 Stat. 79, provided that: “The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary.”
+Pub. L. 113–281, title VI, § 610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, § 602(1), Feb. 8, 2016, 130 Stat. 79, provided that: “The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary.”
 
 **Congressional Findings, Policy, and Declaration of Purpose**
 
@@ -269,13 +269,13 @@ Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-## § 1432. Definitions
+## § 1432. Definitions
 
 As used in this chapter, the term—
 
-**(1)** “draft management plan” means the plan described in section 1434(a)(1)(C)(v) 1
+**(1)** “draft management plan” means the plan described in section 1434(a)(1)(C)(v) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -315,45 +315,45 @@ of this title;
 
 **(10)** “System” means the National Marine Sanctuary System established by section 1431 of this title.
 
-(Pub. L. 92–532, title III, § 302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, § 2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, § 202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, title II, § 204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, § 2102, Nov. 4, 1992, 106 Stat. 5040; Pub. L. 104–283, § 9(b), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§ 4, 19(b)(1), (2), Nov. 13, 2000, 114 Stat. 2382, 2392, 2393.)
+(Pub. L. 92–532, title III, § 302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, § 2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, § 202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, title II, § 204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, § 2102, Nov. 4, 1992, 106 Stat. 5040; Pub. L. 104–283, § 9(b), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§ 4, 19(b)(1), (2), Nov. 13, 2000, 114 Stat. 2382, 2392, 2393.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1434(a)(1)(C) of this title, referred to in par. (1), was amended generally by Pub. L. 106–513, § 6(a), Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
+Section 1434(a)(1)(C) of this title, referred to in par. (1), was amended generally by Pub. L. 106–513, § 6(a), Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
-2000—Par. (2). Pub. L. 106–513, § 19(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Magnuson Act’ means the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.);”.
+2000—Par. (2). Pub. L. 106–513, § 19(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Magnuson Act’ means the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.);”.
 
-Par. (6)(D), (E). Pub. L. 106–513, § 4(a), added subpars. (D) and (E).
+Par. (6)(D), (E). Pub. L. 106–513, § 4(a), added subpars. (D) and (E).
 
-Par. (7). Pub. L. 106–513, § 4(b), inserted “, including costs related to seizure, forfeiture, storage, or disposal arising from liability under section 1443 of this title” after “loss, or injury”.
+Par. (7). Pub. L. 106–513, § 4(b), inserted “, including costs related to seizure, forfeiture, storage, or disposal arising from liability under section 1443 of this title” after “loss, or injury”.
 
-Par. (8). Pub. L. 106–513, § 4(c), substituted “educational, cultural, archeological, scientific,” for “research, educational,”.
+Par. (8). Pub. L. 106–513, § 4(c), substituted “educational, cultural, archeological, scientific,” for “research, educational,”.
 
-Par. (9). Pub. L. 106–513, § 19(b)(2), substituted “Magnuson-Stevens Act” for “Magnuson Fishery Conservation and Management Act”.
+Par. (9). Pub. L. 106–513, § 19(b)(2), substituted “Magnuson-Stevens Act” for “Magnuson Fishery Conservation and Management Act”.
 
-Par. (10). Pub. L. 106–513, § 4(d), added par. (10).
+Par. (10). Pub. L. 106–513, § 4(d), added par. (10).
 
-1996—Par. (6)(C). Pub. L. 104–283, § 9(b)(1), which directed substitution of a semicolon for “, and” at end, was executed by substituting a semicolon for the comma at end to reflect the probable intent of Congress.
+1996—Par. (6)(C). Pub. L. 104–283, § 9(b)(1), which directed substitution of a semicolon for “, and” at end, was executed by substituting a semicolon for the comma at end to reflect the probable intent of Congress.
 
-Par. (7). Pub. L. 104–283, § 9(b)(2), struck out “and” after “injury;”.
+Par. (7). Pub. L. 104–283, § 9(b)(2), struck out “and” after “injury;”.
 
-1992—Par. (1). Pub. L. 102–587, § 2102(e)(1), substituted “1434(a)(1)(C)(v)” for “1434(a)(1)(E)”.
+1992—Par. (1). Pub. L. 102–587, § 2102(e)(1), substituted “1434(a)(1)(C)(v)” for “1434(a)(1)(E)”.
 
-Par. (3). Pub. L. 102–587, § 2102(a), inserted “including the exclusive economic zone,” after “jurisdiction,”.
+Par. (3). Pub. L. 102–587, § 2102(a), inserted “including the exclusive economic zone,” after “jurisdiction,”.
 
-Par. (5). Pub. L. 102–587, § 2102(e)(2), struck out “and” at end.
+Par. (5). Pub. L. 102–587, § 2102(e)(2), struck out “and” at end.
 
-Par. (6)(C). Pub. L. 102–587, § 2102(b), added subpar. (C).
+Par. (6)(C). Pub. L. 102–587, § 2102(b), added subpar. (C).
 
-Par. (7). Pub. L. 102–587, § 2102(c), inserted “or authorized” after “taken”.
+Par. (7). Pub. L. 102–587, § 2102(c), inserted “or authorized” after “taken”.
 
-Par. (9). Pub. L. 102–587, § 2102(d), added par. (9).
+Par. (9). Pub. L. 102–587, § 2102(d), added par. (9).
 
 1988—Pars. (6) to (8). Pub. L. 100–627 added pars. (6) to (8).
 
@@ -361,17 +361,17 @@ Par. (9). Pub. L. 102–587, § 2102(d), added par. (9).
 
 1982—Subsec. (d). Pub. L. 97–375 substituted provision that Secretary submit a biennial report on or before March 1 of every other year beginning in 1984 for provision that Secretary submit an annual report on or before November 1 of each year, and substituted reference to previous two fiscal years for reference to previous fiscal year.
 
-1980—Subsec. (b). Pub. L. 96–332, § 2(1), designated existing provisions as par. (1), struck out provision that a designation under this section would become effective sixty days after it was published unless the Governor of any State involved, before the expiration of the sixty-day period, certified to Secretary that the designation, or a specified portion thereof, was unacceptable to his State, in which case the designated sanctuary would not include the area certified as unacceptable until such time as the Governor withdrew his certification of unacceptability, and added par. (2).
+1980—Subsec. (b). Pub. L. 96–332, § 2(1), designated existing provisions as par. (1), struck out provision that a designation under this section would become effective sixty days after it was published unless the Governor of any State involved, before the expiration of the sixty-day period, certified to Secretary that the designation, or a specified portion thereof, was unacceptable to his State, in which case the designated sanctuary would not include the area certified as unacceptable until such time as the Governor withdrew his certification of unacceptability, and added par. (2).
 
-Subsec. (f). Pub. L. 96–332, § 2(2), designated existing provisions as par. (2), added pars. (1), (3), and (4), and, in par. (2) as so designated, substituted “The Secretary, after consultation with other interested Federal and State agencies, shall issue necessary and reasonable regulations to implement the terms of the designation and control the activities described in it, except that all permits, licenses, and other authorizations issued pursuant to any other authority shall be valid unless such regulations otherwise provide” for “After a marine sanctuary has been designated under this section, the Secretary, after consultation with other interested Federal agencies, shall issue necessary and reasonable regulations to control any activities permitted within the designated marine sanctuary, and no permit, license, or other authorization issued pursuant to any other authority shall be valid unless the Secretary shall certify that the permitted activity is consistent with the purposes of this chapter and can be carried out within the regulations promulgated under this section”.
+Subsec. (f). Pub. L. 96–332, § 2(2), designated existing provisions as par. (2), added pars. (1), (3), and (4), and, in par. (2) as so designated, substituted “The Secretary, after consultation with other interested Federal and State agencies, shall issue necessary and reasonable regulations to implement the terms of the designation and control the activities described in it, except that all permits, licenses, and other authorizations issued pursuant to any other authority shall be valid unless such regulations otherwise provide” for “After a marine sanctuary has been designated under this section, the Secretary, after consultation with other interested Federal agencies, shall issue necessary and reasonable regulations to control any activities permitted within the designated marine sanctuary, and no permit, license, or other authorization issued pursuant to any other authority shall be valid unless the Secretary shall certify that the permitted activity is consistent with the purposes of this chapter and can be carried out within the regulations promulgated under this section”.
 
-Subsec. (h). Pub. L. 96–332, § 2(3), added subsec. (h).
+Subsec. (h). Pub. L. 96–332, § 2(3), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 100–627, title II, § 210, Nov. 7, 1988, 102 Stat. 3223, provided that:
+Pub. L. 100–627, title II, § 210, Nov. 7, 1988, 102 Stat. 3223, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Nov. 7, 1988], the Secretary of Commerce—
 
@@ -381,9 +381,9 @@ Pub. L. 100–627, title II, § 210, Nov. 7, 1988, 102 Stat. 3223, provided th
 
 **Additional Definitions**
 
-Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
+Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
 
-## § 1433. Sanctuary designation standards
+## § 1433. Sanctuary designation standards
 
 **(a) Standards** The Secretary may designate any discrete area of the marine environment as a national marine sanctuary and promulgate regulations implementing the designation if the Secretary determines that—
 
@@ -443,7 +443,7 @@ Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052, which is classified to s
 
 **(E)** other interested persons.
 
-(Pub. L. 92–532, title III, § 303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, § 2103, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 106–513, §§ 5, 19(a)(1), (b)(3), Nov. 13, 2000, 114 Stat. 2383, 2392, 2393; Pub. L. 106–555, title II, § 205(a), Dec. 21, 2000, 114 Stat. 2769.)
+(Pub. L. 92–532, title III, § 303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, § 2103, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 106–513, §§ 5, 19(a)(1), (b)(3), Nov. 13, 2000, 114 Stat. 2383, 2392, 2393; Pub. L. 106–555, title II, § 205(a), Dec. 21, 2000, 114 Stat. 2769.)
 
 **Editorial Notes**
 
@@ -479,21 +479,21 @@ Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052, which is classified to s
 
 “(D) the area is of a size and nature that will permit comprehensive and coordinated conservation and management.”
 
-Subsec. (a)(1). Pub. L. 106–513, § 5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “determines that the designation will fulfill the purposes and policies of this chapter; and”.
+Subsec. (a)(1). Pub. L. 106–513, § 5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “determines that the designation will fulfill the purposes and policies of this chapter; and”.
 
-Subsec. (b)(1)(J) to (L). Pub. L. 106–513, § 5(b)(1), added subpars. (J) to (L).
+Subsec. (b)(1)(J) to (L). Pub. L. 106–513, § 5(b)(1), added subpars. (J) to (L).
 
-Subsec. (b)(2)(A). Pub. L. 106–513, § 19(a)(1), substituted “Resources” for “Merchant Marine and Fisheries”.
+Subsec. (b)(2)(A). Pub. L. 106–513, § 19(a)(1), substituted “Resources” for “Merchant Marine and Fisheries”.
 
-Subsec. (b)(2)(D). Pub. L. 106–513, § 19(b)(3), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
+Subsec. (b)(2)(D). Pub. L. 106–513, § 19(b)(3), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
 
-Subsec. (b)(3). Pub. L. 106–513, § 5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+Subsec. (b)(3). Pub. L. 106–513, § 5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
-1992—Subsec. (a)(2)(B). Pub. L. 102–587, § 2103(a), inserted “or should be supplemented” after “inadequate”.
+1992—Subsec. (a)(2)(B). Pub. L. 102–587, § 2103(a), inserted “or should be supplemented” after “inadequate”.
 
-Subsec. (b)(1)(A). Pub. L. 102–587, § 2103(b)(1), inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
+Subsec. (b)(1)(A). Pub. L. 102–587, § 2103(b)(1), inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
 
-Subsec. (b)(3). Pub. L. 102–587, § 2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+Subsec. (b)(3). Pub. L. 102–587, § 2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
 
@@ -505,33 +505,33 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–555, title II, § 205(c), Dec. 21, 2000, 114 Stat. 2770, provided that: “This section [amending this section and section 1434 of this title] shall take effect immediately after the National Marine Sanctuaries Amendments Act of 2000 [Pub. L. 106–513] takes effect.”
+Pub. L. 106–555, title II, § 205(c), Dec. 21, 2000, 114 Stat. 2770, provided that: “This section [amending this section and section 1434 of this title] shall take effect immediately after the National Marine Sanctuaries Amendments Act of 2000 [Pub. L. 106–513] takes effect.”
 
 <table>
 <tr><th>Marine Sanctuaries</th></tr>
 <tr><th></th></tr>
 <tr><td>Channel Islands National Marine Sanctuary.—45 F.R. 65198, Oct. 2, 1980; 15 C.F.R. part 922, subpart G.</td></tr>
-<tr><td>Cordell Bank National Marine Sanctuary.—54 F.R. 22417, May 24, 1989; 15 C.F.R. part 922, subpart K; Pub. L. 100–627, title II, § 205(a)(1), Nov. 7, 1988, 102 Stat. 3217.</td></tr>
-<tr><td>Florida Keys National Marine Sanctuary.—15 C.F.R. part 922, subpart P; Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§ 2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.</td></tr>
-<tr><td>Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, § 205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, § 101, Mar. 9, 1992, 106 Stat. 60; Pub. L. 104–283, § 8, Oct. 11, 1996, 110 Stat. 3366.</td></tr>
-<tr><td>Gerry E. Studds Stellwagen Bank National Marine Sanctuary (former Stellwagen Bank National Marine Sanctuary).—58 F.R. 53865, Oct. 19, 1993; 59 F.R. 53348, Oct. 24, 1994; 15 C.F.R. 922, subpart N; Pub. L. 102–587, title II, § 2202, Nov. 4, 1992, 106 Stat. 5048; Pub. L. 104–283, §§ 9(g), 11, Oct. 11, 1996, 110 Stat. 3368, 3369.</td></tr>
+<tr><td>Cordell Bank National Marine Sanctuary.—54 F.R. 22417, May 24, 1989; 15 C.F.R. part 922, subpart K; Pub. L. 100–627, title II, § 205(a)(1), Nov. 7, 1988, 102 Stat. 3217.</td></tr>
+<tr><td>Florida Keys National Marine Sanctuary.—15 C.F.R. part 922, subpart P; Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§ 2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.</td></tr>
+<tr><td>Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, § 205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, § 101, Mar. 9, 1992, 106 Stat. 60; Pub. L. 104–283, § 8, Oct. 11, 1996, 110 Stat. 3366.</td></tr>
+<tr><td>Gerry E. Studds Stellwagen Bank National Marine Sanctuary (former Stellwagen Bank National Marine Sanctuary).—58 F.R. 53865, Oct. 19, 1993; 59 F.R. 53348, Oct. 24, 1994; 15 C.F.R. 922, subpart N; Pub. L. 102–587, title II, § 2202, Nov. 4, 1992, 106 Stat. 5048; Pub. L. 104–283, §§ 9(g), 11, Oct. 11, 1996, 110 Stat. 3368, 3369.</td></tr>
 <tr><td>Gray’s Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R. part 922, subpart I.</td></tr>
 <tr><td>Greater Farallones National Marine Sanctuary (former Gulf of the Farallones National Marine Sanctuary; former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997; 80 F.R. 34047, June 15, 2015.</td></tr>
-<tr><td>Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§ 2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, § 7, Oct. 11, 1996, 110 Stat. 3365.</td></tr>
+<tr><td>Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§ 2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, § 7, Oct. 11, 1996, 110 Stat. 3365.</td></tr>
 <tr><td>Mallows Bay-Potomac River National Marine Sanctuary.—84 F.R. 32586, July 8, 2019; 15 C.F.R. part 922, subpart S.</td></tr>
 <tr><td>MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.</td></tr>
-<tr><td>Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, § 205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, § 102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, § 2203, Nov. 4, 1992, 106 Stat. 5048.</td></tr>
+<tr><td>Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, § 205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, § 102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, § 2203, Nov. 4, 1992, 106 Stat. 5048.</td></tr>
 <tr><td>National Marine Sanctuary of American Samoa (former Fagatele Bay National Marine Sanctuary).—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R. part 922, subpart J; 77 F.R. 43942, July 26, 2012, effective Oct. 15, 2012 (see 77 F.R. 65815).</td></tr>
-<tr><td>Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, § 205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, § 2207, Nov. 4, 1992, 106 Stat. 5053.</td></tr>
+<tr><td>Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, § 205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, § 2207, Nov. 4, 1992, 106 Stat. 5053.</td></tr>
 <tr><td>Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, June 19, 2000; 15 C.F.R. part 922, subpart R.</td></tr>
 <tr><td>Wisconsin Shipwreck Coast National Marine Sanctuary.—86 F.R. 32737, June 23, 2021; 15 C.F.R. part 922, subpart T.</td></tr>
 </table>
 
 **Northwest Straits**
 
-Pub. L. 104–283, § 10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act [16 U.S.C. 1431 et seq.] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act [Oct. 11, 1996].”
+Pub. L. 104–283, § 10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act [16 U.S.C. 1431 et seq.] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act [Oct. 11, 1996].”
 
-## § 1434. Procedures for designation and implementation
+## § 1434. Procedures for designation and implementation
 
 **(a) Sanctuary proposal**
 
@@ -665,43 +665,43 @@ If the Secretary does not submit the findings required by paragraph (1) before F
 
 **(B)** a Northwestern Hawaiian Islands National Marine Sanctuary.
 
-(Pub. L. 92–532, title III, § 304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, § 4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, § 3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, § 202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, § 2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, § 9(h), Oct. 11, 1996, 110 Stat. 3368; Pub. L. 106–513, §§ 6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, 114 Stat. 2383–2385, 2392, 2393; Pub. L. 106–555, title II, § 205(b), Dec. 21, 2000, 114 Stat. 2769; Pub. L. 106–562, title III, § 307(a), Dec. 23, 2000, 114 Stat. 2807.)
+(Pub. L. 92–532, title III, § 304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, § 4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, § 3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, § 202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, § 2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, § 9(h), Oct. 11, 1996, 110 Stat. 3368; Pub. L. 106–513, §§ 6(a)–(f), 19(a)(2), (b)(4), Nov. 13, 2000, 114 Stat. 2383–2385, 2392, 2393; Pub. L. 106–555, title II, § 205(b), Dec. 21, 2000, 114 Stat. 2769; Pub. L. 106–562, title III, § 307(a), Dec. 23, 2000, 114 Stat. 2807.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
+The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
 
-This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§ 1447 et seq.) of this title, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters.
+This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§ 1447 et seq.) of this title, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
 **Amendments**
 
-2000—Subsec. (a)(1)(C). Pub. L. 106–555, § 205(b)(1), struck out “the Secretary shall” before “submit a copy”.
+2000—Subsec. (a)(1)(C). Pub. L. 106–555, § 205(b)(1), struck out “the Secretary shall” before “submit a copy”.
 
-Pub. L. 106–513, § 6(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) required the Secretary to submit certain documents to committees of the House and Senate.
+Pub. L. 106–513, § 6(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) required the Secretary to submit certain documents to committees of the House and Senate.
 
-Subsec. (a)(2). Pub. L. 106–513, § 6(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Secretary shall—
+Subsec. (a)(2). Pub. L. 106–513, § 6(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Secretary shall—
 
 “(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
 
 “(B) make copies of the draft environmental impact statement available to the public.”
 
-Subsec. (a)(2)(E). Pub. L. 106–555, § 205(b)(2), substituted “determinations” for “findings”.
+Subsec. (a)(2)(E). Pub. L. 106–555, § 205(b)(2), substituted “determinations” for “findings”.
 
-Subsec. (a)(5). Pub. L. 106–513, § 19(b)(4), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
+Subsec. (a)(5). Pub. L. 106–513, § 19(b)(4), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
 
-Subsec. (a)(6). Pub. L. 106–513, § 19(a)(2), substituted “Resources” for “Merchant Marine and Fisheries”.
+Subsec. (a)(6). Pub. L. 106–513, § 19(a)(2), substituted “Resources” for “Merchant Marine and Fisheries”.
 
-Subsec. (b)(2). Pub. L. 106–513, § 6(c), inserted “or System” after “of the sanctuary”.
+Subsec. (b)(2). Pub. L. 106–513, § 6(c), inserted “or System” after “of the sanctuary”.
 
-Subsec. (d)(4). Pub. L. 106–513, § 6(d), added par. (4).
+Subsec. (d)(4). Pub. L. 106–513, § 6(d), added par. (4).
 
-Subsec. (e). Pub. L. 106–513, § 6(e), substituted “management techniques and strategies,” for “management techniques,” and inserted at end “This review shall include a prioritization of management objectives.”
+Subsec. (e). Pub. L. 106–513, § 6(e), substituted “management techniques and strategies,” for “management techniques,” and inserted at end “This review shall include a prioritization of management objectives.”
 
-Subsec. (f). Pub. L. 106–513, § 6(f), added subsec. (f).
+Subsec. (f). Pub. L. 106–513, § 6(f), added subsec. (f).
 
 Subsec. (f)(2). Pub. L. 106–562 substituted “subparagraphs (A) and (B) of paragraph (1)” for “paragraph (2)”.
 
@@ -711,29 +711,29 @@ Subsec. (f)(2). Pub. L. 106–562 substituted “subparagraphs (A) and (B) of pa
 
 “(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–587, § 2104(a)(2), substituted “documents, including an executive summary, consisting of—” for “a prospectus on the proposal which shall contain—”.
+1992—Subsec. (a)(1)(C). Pub. L. 102–587, § 2104(a)(2), substituted “documents, including an executive summary, consisting of—” for “a prospectus on the proposal which shall contain—”.
 
-Subsec. (a)(5). Pub. L. 102–587, § 2104(a)(3), substituted “Exclusive Economic Zone” for “United States Fishery Conservation Zone” and inserted at end “The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.”
+Subsec. (a)(5). Pub. L. 102–587, § 2104(a)(3), substituted “Exclusive Economic Zone” for “United States Fishery Conservation Zone” and inserted at end “The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.”
 
-Subsec. (a)(6). Pub. L. 102–587, § 2104(a)(1), substituted “documents” for “prospectus” wherever appearing.
+Subsec. (a)(6). Pub. L. 102–587, § 2104(a)(1), substituted “documents” for “prospectus” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 102–587, § 2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 102–587, § 2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
 
 “(A) the designation or any of its terms is disapproved by enactment of a joint resolution of disapproval described in paragraph (3); or
 
 “(B) in the case of a natural marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.”
 
-Subsec. (b)(2). Pub. L. 102–587, § 2104(b)(2), substituted “actions taken under paragraph (1)” for “actions taken under paragraph (1)(A) or (B)” and “terms of the designation not certified under paragraph (1)” for “terms of the designation not disapproved under paragraph (1)(A) or not certified under paragraph (1)(B)”.
+Subsec. (b)(2). Pub. L. 102–587, § 2104(b)(2), substituted “actions taken under paragraph (1)” for “actions taken under paragraph (1)(A) or (B)” and “terms of the designation not certified under paragraph (1)” for “terms of the designation not disapproved under paragraph (1)(A) or not certified under paragraph (1)(B)”.
 
-Subsec. (b)(3), (4). Pub. L. 102–587, § 2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which defined a Congressional resolution of disapproval for purposes of this subsection.
+Subsec. (b)(3), (4). Pub. L. 102–587, § 2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which defined a Congressional resolution of disapproval for purposes of this subsection.
 
-Subsec. (c)(1). Pub. L. 102–587, § 2104(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access if the lease, permit, license, or right—
+Subsec. (c)(1). Pub. L. 102–587, § 2104(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access if the lease, permit, license, or right—
 
 “(A) was in existence on October 19, 1984, with respect to any national marine sanctuary designated before that date; or
 
 “(B) is in existence on the date of designation of any national marine sanctuary, with respect to any national marine sanctuary designated after October 19, 1984.”
 
-Subsecs. (d), (e). Pub. L. 102–587, § 2104(d), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 102–587, § 2104(d), added subsecs. (d) and (e).
 
 1988—Subsec. (b)(1). Pub. L. 100–627 inserted requirement that notice be published in the Federal Register of proposed marine sanctuary site designation within 30 months after notice of active candidacy of site for sanctuary designation or that within such period findings be published why notice has not been published.
 
@@ -757,11 +757,11 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 2000 Amendments**
 
-Pub. L. 106–562, title III, § 307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: “Subsection (a) [amending this section] shall take effect January 1, 2001.”
+Pub. L. 106–562, title III, § 307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: “Subsection (a) [amending this section] shall take effect January 1, 2001.”
 
 Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section 205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
 
-## § 1435. Application of regulations; international negotiations and cooperation
+## § 1435. Application of regulations; international negotiations and cooperation
 
 **(a) Regulations** This chapter and the regulations issued under section 1434 of this title shall be applied in accordance with generally recognized principles of international law, and in accordance with treaties, conventions, and other agreements to which the United States is a party. No regulation shall apply to or be enforced against a person who is not a citizen, national, or resident alien of the United States, unless in accordance with—
 
@@ -777,23 +777,23 @@ The Secretary of State, in consultation with the Secretary, shall take appropria
 
 **(c) International cooperation**
 
-The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral 1
+The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral 1
 
-<sup>1</sup>  So in original. Probably should be “multilateral”.
+<sup>1</sup> So in original. Probably should be “multilateral”.
 
 arrangements for the protection and management of special marine areas.
 
-(Pub. L. 92–532, title III, § 305, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, § 2105, Nov. 4, 1992, 106 Stat. 5043.)
+(Pub. L. 92–532, title III, § 305, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, § 2105, Nov. 4, 1992, 106 Stat. 5043.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–587, § 2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
+1992—Pub. L. 102–587, § 2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
 
-Subsec. (a). Pub. L. 102–587, § 2105(a)(1), substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
+Subsec. (a). Pub. L. 102–587, § 2105(a)(1), substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
 
-Subsec. (c). Pub. L. 102–587, § 2105(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 102–587, § 2105(a)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -801,7 +801,7 @@ Subsec. (c). Pub. L. 102–587, § 2105(a)(2), added subsec. (c).
 
 For direction that the Secretary of State seek effective international action and cooperation through the development of appropriate international rules and regulations in support of the policy of this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see section 1419 of Title 33.
 
-## § 1436. Prohibited activities
+## § 1436. Prohibited activities
 
 It is unlawful for any person to—
 
@@ -819,17 +819,17 @@ It is unlawful for any person to—
 
 **(4)** violate any provision of this chapter or any regulation or permit issued pursuant to this chapter.
 
-(Pub. L. 92–532, title III, § 306, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, § 2106, Nov. 4, 1992, 106 Stat. 5043; Pub. L. 106–513, § 7, Nov. 13, 2000, 114 Stat. 2386.)
+(Pub. L. 92–532, title III, § 306, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, § 2106, Nov. 4, 1992, 106 Stat. 5043; Pub. L. 106–513, § 7, Nov. 13, 2000, 114 Stat. 2386.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–513, § 7(1), inserted “for any person” after “unlawful” in introductory provision.
+2000—Pub. L. 106–513, § 7(1), inserted “for any person” after “unlawful” in introductory provision.
 
-Par. (2). Pub. L. 106–513, § 7(2), inserted “offer for sale, purchase, import, export,” after “sell,”.
+Par. (2). Pub. L. 106–513, § 7(2), inserted “offer for sale, purchase, import, export,” after “sell,”.
 
-Par. (3). Pub. L. 106–513, § 7(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “interfere with the enforcement of this chapter; or”.
+Par. (3). Pub. L. 106–513, § 7(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “interfere with the enforcement of this chapter; or”.
 
 1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct research and educational programs as are necessary and reasonable to carry out the purposes and policies of this chapter.”
 
@@ -839,7 +839,7 @@ Par. (3). Pub. L. 106–513, § 7(3), amended par. (3) generally. Prior to ame
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1437. Enforcement
+## § 1437. Enforcement
 
 **(a) In general**
 
@@ -945,9 +945,9 @@ The Secretary shall, whenever appropriate, use by agreement the personnel, servi
 
 **(i) Coast Guard authority not limited**
 
-Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 1
+Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
@@ -963,43 +963,43 @@ The area of application and enforceability of this chapter includes the territor
 
 In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
-(Pub. L. 92–532, title III, § 307, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, § 207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, § 2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, § 9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 8, Nov. 13, 2000, 114 Stat. 2387.)
+(Pub. L. 92–532, title III, § 307, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, § 207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, § 2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, § 9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 8, Nov. 13, 2000, 114 Stat. 2387.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 89 of title 14, referred to in subsec. (i), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 89 of title 14, referred to in subsec. (i), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (k), is set out as a note under section 1331 of Title 43, Public Lands.
 
 **Amendments**
 
-2000—Subsec. (b)(6). Pub. L. 106–513, § 8(a), added par. (6).
+2000—Subsec. (b)(6). Pub. L. 106–513, § 8(a), added par. (6).
 
-Subsecs. (c) to (f). Pub. L. 106–513, § 8(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+Subsecs. (c) to (f). Pub. L. 106–513, § 8(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 106–513, § 8(b), (c), redesignated subsec. (f) as (g) and inserted “electronic files,” after “books,”. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 106–513, § 8(b), (c), redesignated subsec. (f) as (g) and inserted “electronic files,” after “books,”. Former subsec. (g) redesignated (h).
 
-Subsecs. (h) to (k). Pub. L. 106–513, § 8(b), redesignated subsecs. (g) to (j) as (h) to (k), respectively.
+Subsecs. (h) to (k). Pub. L. 106–513, § 8(b), redesignated subsecs. (g) to (j) as (h) to (k), respectively.
 
-Subsec. (*l*). Pub. L. 106–513, § 8(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 106–513, § 8(c), added subsec. (*l*).
 
 1996—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
 
-1992—Subsec. (c)(1). Pub. L. 102–587, § 2107(a)(1), substituted “$100,000” for “$50,000”.
+1992—Subsec. (c)(1). Pub. L. 102–587, § 2107(a)(1), substituted “$100,000” for “$50,000”.
 
-Subsec. (c)(3). Pub. L. 102–587, § 2107(a)(2), struck out “and may be proceeded against in any district court of the United States having jurisdiction” after “assessed for such violation” and inserted at end “Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.”
+Subsec. (c)(3). Pub. L. 102–587, § 2107(a)(2), struck out “and may be proceeded against in any district court of the United States having jurisdiction” after “assessed for such violation” and inserted at end “Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.”
 
-Subsec. (d)(1). Pub. L. 102–587, § 2107(b), inserted at end “The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.”
+Subsec. (d)(1). Pub. L. 102–587, § 2107(b), inserted at end “The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.”
 
-Subsec. (e)(1). Pub. L. 102–587, § 2107(c), added par. (1) and struck out former par. (1) which read as follows: “In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
+Subsec. (e)(1). Pub. L. 102–587, § 2107(c), added par. (1) and struck out former par. (1) which read as follows: “In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
 
 “(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care, and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
 
 “(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter.”
 
-Subsec. (j). Pub. L. 102–587, § 2107(e), added subsec. (j).
+Subsec. (j). Pub. L. 102–587, § 2107(e), added subsec. (j).
 
 1988—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
 
@@ -1011,17 +1011,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Study of Joint Enforcement of Marine Sanctuary Regulations**
 
-Pub. L. 102–241, § 51, Dec. 19, 1991, 105 Stat. 2227, directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
+Pub. L. 102–241, § 51, Dec. 19, 1991, 105 Stat. 2227, directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
 
-## § 1438. Repealed. Pub. L. 100–627, title II, § 203(1), Nov. 7, 1988, 102 Stat. 3214
+## § 1438. Repealed. Pub. L. 100–627, title II, § 203(1), Nov. 7, 1988, 102 Stat. 3214
 
-Section, Pub. L. 92–532, title III, § 308, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2303, authorized appropriations for fiscal years 1985 to 1988.
+Section, Pub. L. 92–532, title III, § 308, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2303, authorized appropriations for fiscal years 1985 to 1988.
 
-## § 1439. Regulations
+## § 1439. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out this chapter.
 
-(Pub. L. 92–532, title III, § 308, formerly § 309, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2303; renumbered § 308, Pub. L. 100–627, title II, § 203(2), Nov. 7, 1988, 102 Stat. 3214; Pub. L. 106–513, § 9, Nov. 13, 2000, 114 Stat. 2387.)
+(Pub. L. 92–532, title III, § 308, formerly § 309, as added Pub. L. 98–498, title I, § 102, Oct. 19, 1984, 98 Stat. 2303; renumbered § 308, Pub. L. 100–627, title II, § 203(2), Nov. 7, 1988, 102 Stat. 3214; Pub. L. 106–513, § 9, Nov. 13, 2000, 114 Stat. 2387.)
 
 **Editorial Notes**
 
@@ -1033,7 +1033,7 @@ A prior section 308 of Pub. L. 92–532 was classified to section 1438 of this t
 
 2000—Pub. L. 106–513 amended section catchline and text generally. Prior to amendment, text read as follows: “If any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
-## § 1440. Research, monitoring, and education
+## § 1440. Research, monitoring, and education
 
 **(a) In general**
 
@@ -1077,7 +1077,7 @@ Any facility developed under this subsection must emphasize the conservation goa
 
 In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
 
-(Pub. L. 92–532, title III, § 309, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 102–587, title II, § 2108, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 106–513, § 10, Nov. 13, 2000, 114 Stat. 2388.)
+(Pub. L. 92–532, title III, § 309, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 102–587, title II, § 2108, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 106–513, § 10, Nov. 13, 2000, 114 Stat. 2388.)
 
 **Editorial Notes**
 
@@ -1099,7 +1099,7 @@ A prior section 309 of Pub. L. 92–532 was renumbered section 308 and is classi
 
 “(2) consulting with other Federal and State agencies to promote use by such agencies of one or more sanctuaries for marine research.”
 
-## § 1441. Special use permits
+## § 1441. Special use permits
 
 **(a) Issuance of permits** The Secretary may issue special use permits which authorize the conduct of specific activities in a national marine sanctuary if the Secretary determines such authorization is necessary—
 
@@ -1161,27 +1161,27 @@ Each person issued a permit under this section shall submit an annual report to 
 
 Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
 
-(Pub. L. 92–532, title III, § 310, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 106–513, § 11, Nov. 13, 2000, 114 Stat. 2389.)
+(Pub. L. 92–532, title III, § 310, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 106–513, § 11, Nov. 13, 2000, 114 Stat. 2389.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (b). Pub. L. 106–513, § 11(1), added subsec. (b). Former subsec. (b) redesignated (c).
+2000—Subsec. (b). Pub. L. 106–513, § 11(1), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–513, § 11(1), (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 106–513, § 11(1), (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–513, § 11(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 106–513, § 11(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2)(C). Pub. L. 106–513, § 11(3), substituted “resource.” for “resource and a reasonable return to the United States Government.”
+Subsec. (d)(2)(C). Pub. L. 106–513, § 11(3), substituted “resource.” for “resource and a reasonable return to the United States Government.”
 
-Subsec. (d)(3)(B). Pub. L. 106–513, § 11(4), struck out “designating and” after “expenses of”.
+Subsec. (d)(3)(B). Pub. L. 106–513, § 11(4), struck out “designating and” after “expenses of”.
 
-Subsec. (d)(4). Pub. L. 106–513, § 11(5), added par. (4).
+Subsec. (d)(4). Pub. L. 106–513, § 11(5), added par. (4).
 
-Subsecs. (e) to (g). Pub. L. 106–513, § 11(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (e) to (g). Pub. L. 106–513, § 11(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
-## § 1442. Cooperative agreements, donations, and acquisitions
+## § 1442. Cooperative agreements, donations, and acquisitions
 
 **(a) Agreements and grants**
 
@@ -1207,15 +1207,15 @@ The Secretary may, whenever appropriate, enter into an agreement with a State or
 
 Notwithstanding any other provision of law that prohibits a Federal agency from receiving assistance, the Secretary may apply for, accept, and use grants from other Federal agencies, States, local governments, regional agencies, interstate agencies, foundations, or other persons, to carry out the purposes and policies of this chapter.
 
-(Pub. L. 92–532, title III, § 311, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, § 2109, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 104–283, § 9(d), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 12, Nov. 13, 2000, 114 Stat. 2389.)
+(Pub. L. 92–532, title III, § 311, as added Pub. L. 100–627, title II, § 203(3), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, § 2109, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 104–283, § 9(d), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, § 12, Nov. 13, 2000, 114 Stat. 2389.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–513, § 12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter.”
+2000—Subsec. (a). Pub. L. 106–513, § 12(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may enter into cooperative agreements, financial agreements, grants, contracts, or other agreements with States, local governments, regional agencies, interstate agencies, or other persons to carry out the purposes and policies of this chapter.”
 
-Subsecs. (e), (f). Pub. L. 106–513, § 12(b), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 106–513, § 12(b), added subsecs. (e) and (f).
 
 1996—Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587. See 1992 Amendment note below.
 
@@ -1233,9 +1233,9 @@ Subsecs. (e), (f). Pub. L. 106–513, § 12(b), added subsecs. (e) and (f).
 
 **Enhancing Support for National Marine Sanctuaries**
 
-Section 2204 of title II of Pub. L. 102–587, which was formerly set out as a note under this section, was renumbered section 316 of Pub. L. 92–532, The National Marine Sanctuaries Act, by Pub. L. 104–283, § 6(a), Oct. 11, 1996, 110 Stat. 3364, and is classified to section 1445b of this title.
+Section 2204 of title II of Pub. L. 102–587, which was formerly set out as a note under this section, was renumbered section 316 of Pub. L. 92–532, The National Marine Sanctuaries Act, by Pub. L. 104–283, § 6(a), Oct. 11, 1996, 110 Stat. 3364, and is classified to section 1445b of this title.
 
-## § 1443. Destruction or loss of, or injury to, sanctuary resources
+## § 1443. Destruction or loss of, or injury to, sanctuary resources
 
 **(a) Liability**
 
@@ -1307,25 +1307,25 @@ Amounts recovered under this section with respect to sanctuary resources lying w
 
 An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
-(Pub. L. 92–532, title III, § 312, as added Pub. L. 100–627, title II, § 204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§ 2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, § 9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§ 13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
+(Pub. L. 92–532, title III, § 312, as added Pub. L. 100–627, title II, § 204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§ 2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, § 9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§ 13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by act Oct. 9, 1940, ch. 777, § 7, 54 Stat. 1028. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by act Oct. 9, 1940, ch. 777, § 7, 54 Stat. 1028. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 **Codification**
 
-In subsec. (a)(4), “section 30706 of title 46” substituted for “section 3 of the Act of February 13, 1893,” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30706 of Title 46, Shipping.
+In subsec. (a)(4), “section 30706 of title 46” substituted for “section 3 of the Act of February 13, 1893,” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30706 of Title 46, Shipping.
 
 **Amendments**
 
-2000—Subsec. (a)(1). Pub. L. 106–513, § 19(c), amended par. (1) heading.
+2000—Subsec. (a)(1). Pub. L. 106–513, § 19(c), amended par. (1) heading.
 
-Subsec. (c). Pub. L. 106–513, § 13(a), designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
+Subsec. (c). Pub. L. 106–513, § 13(a), designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
 
-Subsec. (d)(1), (2). Pub. L. 106–513, § 13(b), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (d)(1), (2). Pub. L. 106–513, § 13(b), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Response costs and damage assessments.—Twenty percent of amounts recovered under this section, up to a maximum balance of $750,000, shall be used to finance response actions and damage assessments by the Secretary.
 
@@ -1337,29 +1337,29 @@ Subsec. (d)(1), (2). Pub. L. 106–513, § 13(b), added pars. (1) and (2) and 
 
 “(C) to manage and improve any other national marine sanctuary.”
 
-Subsec. (e). Pub. L. 106–513, § 13(c), added subsec. (e).
+Subsec. (e). Pub. L. 106–513, § 13(c), added subsec. (e).
 
-1996—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, § 2110(d). See 1992 Amendment note below.
+1996—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, § 2110(d). See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–587, § 2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
+1992—Subsec. (a)(1). Pub. L. 102–587, § 2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
 
-Subsec. (a)(2). Pub. L. 102–587, § 2110(b), inserted at end “The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.”
+Subsec. (a)(2). Pub. L. 102–587, § 2110(b), inserted at end “The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.”
 
-Subsec. (a)(4). Pub. L. 102–587, § 2110(c), added par. (4).
+Subsec. (a)(4). Pub. L. 102–587, § 2110(c), added par. (4).
 
-Subsec. (b)(1). Pub. L. 102–587, § 2110(d), as amended by Pub. L. 104–283, inserted “or authorize” after “undertake”.
+Subsec. (b)(1). Pub. L. 102–587, § 2110(d), as amended by Pub. L. 104–283, inserted “or authorize” after “undertake”.
 
-Subsec. (d). Pub. L. 102–587, § 2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
+Subsec. (d). Pub. L. 102–587, § 2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 
-Subsec. (d)(3), (4). Pub. L. 102–587, §§ 2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
+Subsec. (d)(3), (4). Pub. L. 102–587, §§ 2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–627, title II, § 204(c), Nov. 7, 1988, 102 Stat. 3217, provided that: “Amounts in the form of damages received by the United States after November 30, 1986, for destruction or loss of, or injury to, a sanctuary resource (as that term is defined in section 302(8) of the Act [16 U.S.C. 1432(8)] (as amended by this Act)) shall be subject to section 312 of the Act [16 U.S.C. 1443] (as amended by this Act).”
+Pub. L. 100–627, title II, § 204(c), Nov. 7, 1988, 102 Stat. 3217, provided that: “Amounts in the form of damages received by the United States after November 30, 1986, for destruction or loss of, or injury to, a sanctuary resource (as that term is defined in section 302(8) of the Act [16 U.S.C. 1432(8)] (as amended by this Act)) shall be subject to section 312 of the Act [16 U.S.C. 1443] (as amended by this Act).”
 
-## § 1444. Authorization of appropriations
+## § 1444. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary—
 
@@ -1377,7 +1377,7 @@ There are authorized to be appropriated to the Secretary—
 
 **(2)** for construction projects at national marine sanctuaries, $6,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
 
-(Pub. L. 92–532, title III, § 313, as added Pub. L. 100–627, title II, § 208, Nov. 7, 1988, 102 Stat. 3221; amended Pub. L. 101–605, § 10(a), Nov. 16, 1990, 104 Stat. 3095; Pub. L. 102–587, title II, § 2111, Nov. 4, 1992, 106 Stat. 5046; Pub. L. 104–283, § 3, Oct. 11, 1996, 110 Stat. 3363; Pub. L. 106–513, § 14, Nov. 13, 2000, 114 Stat. 2390.)
+(Pub. L. 92–532, title III, § 313, as added Pub. L. 100–627, title II, § 208, Nov. 7, 1988, 102 Stat. 3221; amended Pub. L. 101–605, § 10(a), Nov. 16, 1990, 104 Stat. 3095; Pub. L. 102–587, title II, § 2111, Nov. 4, 1992, 106 Stat. 5046; Pub. L. 104–283, § 3, Oct. 11, 1996, 110 Stat. 3363; Pub. L. 106–513, § 14, Nov. 13, 2000, 114 Stat. 2390.)
 
 **Editorial Notes**
 
@@ -1391,7 +1391,7 @@ There are authorized to be appropriated to the Secretary—
 
 1990—Par. (2)(C). Pub. L. 101–605 substituted “$4,000,000” for “$3,000,000”.
 
-## § 1445. U.S.S. Monitor artifacts and materials
+## § 1445. U.S.S. Monitor artifacts and materials
 
 **(a) Congressional policy**
 
@@ -1407,7 +1407,7 @@ The responsibilities of the Secretary to provide for the protection, conservatio
 
 The authority of the Secretary to designate the Mariner’s Museum, located at Newport News, Virginia, as the principal museum for coordination of activities referred to in paragraph (1).
 
-(Pub. L. 92–532, title III, § 314, as added Pub. L. 100–627, title II, § 208, Nov. 7, 1988, 102 Stat. 3222; amended Pub. L. 106–513, § 15, Nov. 13, 2000, 114 Stat. 2391.)
+(Pub. L. 92–532, title III, § 314, as added Pub. L. 100–627, title II, § 208, Nov. 7, 1988, 102 Stat. 3222; amended Pub. L. 106–513, § 15, Nov. 13, 2000, 114 Stat. 2391.)
 
 **Editorial Notes**
 
@@ -1419,11 +1419,11 @@ The authority of the Secretary to designate the Mariner’s Museum, located at N
 
 **Management, Recovery, and Preservation Plan for U.S.S. MONITOR**
 
-Pub. L. 104–283, § 4, Oct. 11, 1996, 110 Stat. 3363, provided that: “The Secretary of Commerce shall, within 12 months after the date of the enactment of this Act [Oct. 11, 1996], prepare and submit to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-range, comprehensive plan for the management, stabilization, preservation, and recovery of artifacts and materials of the U.S.S. MONITOR. In preparing and implementing the plan, the Secretary shall to the extent feasible utilize the resources of other Federal and private entities with expertise and capabilities that are helpful.”
+Pub. L. 104–283, § 4, Oct. 11, 1996, 110 Stat. 3363, provided that: “The Secretary of Commerce shall, within 12 months after the date of the enactment of this Act [Oct. 11, 1996], prepare and submit to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-range, comprehensive plan for the management, stabilization, preservation, and recovery of artifacts and materials of the U.S.S. MONITOR. In preparing and implementing the plan, the Secretary shall to the extent feasible utilize the resources of other Federal and private entities with expertise and capabilities that are helpful.”
 
 **Graveyard of the Atlantic Artifacts**
 
-Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided that:
+Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided that:
 
 > **“(a) Acquisition of Space.—** Pursuant to section 314 of the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1445) and consistent with the Cooperative Agreement entered into in October, 1989, between the National Oceanic and Atmospheric Administration and the Mariner’s Museum of Newport News, Virginia, the Secretary of Commerce shall make a grant for the acquisition of space in Hatteras Village, North Carolina, for—
 
@@ -1435,7 +1435,7 @@ Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided t
 
 > **“(c) Federal Share.—** Not more than two-thirds of the cost of space acquired under this section may be paid with amounts provided pursuant to this section.”
 
-## § 1445a. Advisory Councils
+## § 1445a. Advisory Councils
 
 **(a) Establishment**
 
@@ -1467,7 +1467,7 @@ The Secretary may make available to an Advisory Council any staff, information, 
 
 **(4)** Minutes of each meeting shall be kept and contain a summary of the attendees and matters discussed.
 
-(Pub. L. 92–532, title III, § 315, as added Pub. L. 102–587, title II, § 2112, Nov. 4, 1992, 106 Stat. 5046; amended Pub. L. 104–283, §§ 5, 9(f), Oct. 11, 1996, 110 Stat. 3363, 3368; Pub. L. 106–513, §§ 16, 19(b)(5), Nov. 13, 2000, 114 Stat. 2391, 2393; Pub. L. 117–286, § 4(a)(112), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 92–532, title III, § 315, as added Pub. L. 102–587, title II, § 2112, Nov. 4, 1992, 106 Stat. 5046; amended Pub. L. 104–283, §§ 5, 9(f), Oct. 11, 1996, 110 Stat. 3363, 3368; Pub. L. 106–513, §§ 16, 19(b)(5), Nov. 13, 2000, 114 Stat. 2391, 2393; Pub. L. 117–286, § 4(a)(112), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -1475,15 +1475,15 @@ The Secretary may make available to an Advisory Council any staff, information, 
 
 2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
-2000—Subsec. (a). Pub. L. 106–513, § 16, substituted “advise and make recommendations” for “provide assistance”.
+2000—Subsec. (a). Pub. L. 106–513, § 16, substituted “advise and make recommendations” for “provide assistance”.
 
-Subsec. (b)(2). Pub. L. 106–513, § 19(b)(5), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+Subsec. (b)(2). Pub. L. 106–513, § 19(b)(5), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1996—Pub. L. 104–283, § 9(f), made technical amendment to directory language of Pub. L. 102–587, § 2112, which added this section.
+1996—Pub. L. 104–283, § 9(f), made technical amendment to directory language of Pub. L. 102–587, § 2112, which added this section.
 
-Subsec. (e)(3). Pub. L. 104–283, § 5, inserted before period at end “, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
+Subsec. (e)(3). Pub. L. 104–283, § 5, inserted before period at end “, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
 
-## § 1445b. Enhancing support for national marine sanctuaries
+## § 1445b. Enhancing support for national marine sanctuaries
 
 **(a) Authority** The Secretary may establish a program consisting of—
 
@@ -1547,7 +1547,7 @@ Under the agreement entered into under paragraph (1), the Secretary may authoriz
 
 **(B)** is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
 
-(Pub. L. 92–532, title III, § 316, formerly Pub. L. 102–587, title II, § 2204, Nov. 4, 1992, 106 Stat. 5049; renumbered § 316 of Pub. L. 92–532 and amended Pub. L. 104–283, § 6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, § 17, Nov. 13, 2000, 114 Stat. 2391.)
+(Pub. L. 92–532, title III, § 316, formerly Pub. L. 102–587, title II, § 2204, Nov. 4, 1992, 106 Stat. 5049; renumbered § 316 of Pub. L. 92–532 and amended Pub. L. 104–283, § 6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, § 17, Nov. 13, 2000, 114 Stat. 2391.)
 
 **Editorial Notes**
 
@@ -1557,55 +1557,55 @@ Section was set out as a note under section 1442 of this title prior to renumber
 
 **Amendments**
 
-2000—Subsec. (a)(1). Pub. L. 106–513, § 17(1), inserted “or the System” after “sanctuaries”.
+2000—Subsec. (a)(1). Pub. L. 106–513, § 17(1), inserted “or the System” after “sanctuaries”.
 
-Subsec. (a)(4). Pub. L. 106–513, § 17(2), substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
+Subsec. (a)(4). Pub. L. 106–513, § 17(2), substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
 
-Subsec. (e)(3). Pub. L. 106–513, § 17(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and”.
+Subsec. (e)(3). Pub. L. 106–513, § 17(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and”.
 
-Subsecs. (f), (g). Pub. L. 106–513, § 17(4), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 106–513, § 17(4), added subsecs. (f) and (g).
 
-1996—Subsec. (a). Pub. L. 104–283, § 6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
+1996—Subsec. (a). Pub. L. 104–283, § 6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
 
-Pub. L. 104–283, § 6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
+Pub. L. 104–283, § 6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
 
-Pub. L. 104–283, § 6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
+Pub. L. 104–283, § 6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
 
-Subsec. (a)(5). Pub. L. 104–283, § 6(b)(6), added par. (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 104–283, § 6(b)(6), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 104–283, § 6(b)(3), substituted “solicitation” for “establishment” and “monetary or in-kind contributions” for “fees”.
+Pub. L. 104–283, § 6(b)(3), substituted “solicitation” for “establishment” and “monetary or in-kind contributions” for “fees”.
 
-Subsec. (a)(6). Pub. L. 104–283, § 6(b)(6), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 104–283, § 6(b)(6), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 104–283, § 6(b)(4), substituted “monetary or in-kind contributions collected” for “fees assessed” and “paragraphs (5) and (6)” for “paragraph (5)” and struck out “in an interest-bearing revolving fund” after “by the Secretary”.
+Pub. L. 104–283, § 6(b)(4), substituted “monetary or in-kind contributions collected” for “fees assessed” and “paragraphs (5) and (6)” for “paragraph (5)” and struck out “in an interest-bearing revolving fund” after “by the Secretary”.
 
-Subsec. (a)(7). Pub. L. 104–283, § 6(b)(6), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 104–283, § 6(b)(6), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Pub. L. 104–283, § 6(b)(5), inserted “and use” after “expenditure”, substituted “monetary and in-kind contributions” for “fees”, and struck out “and any interest in the fund established under paragraph (6)” before “, without appropriation”.
+Pub. L. 104–283, § 6(b)(5), inserted “and use” after “expenditure”, substituted “monetary and in-kind contributions” for “fees”, and struck out “and any interest in the fund established under paragraph (6)” before “, without appropriation”.
 
-Subsec. (a)(8). Pub. L. 104–283, § 6(b)(6), redesignated par. (7) as (8).
+Subsec. (a)(8). Pub. L. 104–283, § 6(b)(6), redesignated par. (7) as (8).
 
-Subsec. (b). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
+Subsec. (b). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-Pub. L. 104–283, § 6(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Pub. L. 104–283, § 6(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
+Subsec. (c). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-Pub. L. 104–283, § 6(b)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Pub. L. 104–283, § 6(b)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
+Subsec. (d). Pub. L. 104–283, § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-Pub. L. 104–283, § 6(b)(1), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Pub. L. 104–283, § 6(b)(1), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 104–283, § 6(b)(8), struck out “(1)” before “It is unlawful”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, in par. (3), substituted “monetary or in-kind contribution” for “fee”, and struck out former par. (2) which read as follows: “Violation of this subsection shall be considered a violation of this chapter.”
+Subsec. (e). Pub. L. 104–283, § 6(b)(8), struck out “(1)” before “It is unlawful”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, in par. (3), substituted “monetary or in-kind contribution” for “fee”, and struck out former par. (2) which read as follows: “Violation of this subsection shall be considered a violation of this chapter.”
 
-Pub. L. 104–283, § 6(b)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Pub. L. 104–283, § 6(b)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 104–283, § 6(b)(1), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 104–283, § 6(b)(1), redesignated subsec. (f) as (e).
 
-Subsec. (g). Pub. L. 104–283, § 6(b)(1), struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project to Congress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
+Subsec. (g). Pub. L. 104–283, § 6(b)(1), struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project to Congress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
 
-Subsec. (h). Pub. L. 104–283, § 6(b)(1), struck out heading and text of subsec. (h). Text read as follows: “In this section—
+Subsec. (h). Pub. L. 104–283, § 6(b)(1), struck out heading and text of subsec. (h). Text read as follows: “In this section—
 
 “(1) the term ‘national marine sanctuary’ or ‘national marine sanctuaries’ means a national marine sanctuary or sanctuaries designated under this chapter, or by other law in accordance with this chapter;
 
@@ -1613,7 +1613,7 @@ Subsec. (h). Pub. L. 104–283, § 6(b)(1), struck out heading and text of sub
 
 “(3) the term ‘Secretary’ means the Secretary of Commerce.”
 
-## § 1445c. Dr. Nancy Foster Scholarship Program
+## § 1445c. Dr. Nancy Foster Scholarship Program
 
 **(a) Establishment**
 
@@ -1647,7 +1647,7 @@ The Secretary shall require an individual receiving a scholarship under this sec
 
 In this section the term “maritime archeology” includes the curation, preservation, and display of maritime artifacts.
 
-(Pub. L. 92–532, title III, § 318, as added Pub. L. 106–513, § 18, Nov. 13, 2000, 114 Stat. 2392.)
+(Pub. L. 92–532, title III, § 318, as added Pub. L. 106–513, § 18, Nov. 13, 2000, 114 Stat. 2392.)
 
 **Editorial Notes**
 
@@ -1655,7 +1655,7 @@ In this section the term “maritime archeology” includes the curation, preser
 
 For similar provisions relating to the Dr. Nancy Foster Scholarship Program, see section 1445c–1 of this title.
 
-## § 1445c–1. Dr. Nancy Foster Scholarship Program
+## § 1445c–1. Dr. Nancy Foster Scholarship Program
 
 **(a) Establishment**
 
@@ -1683,7 +1683,7 @@ The Secretary shall make 1 percent of the amount appropriated each fiscal year t
 
 Repayment of the award shall be made to the Secretary in the case of fraud or noncompliance.
 
-(Pub. L. 106–553, § 1(a)(2) [title II, § 210], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.)
+(Pub. L. 106–553, § 1(a)(2) [title II, § 210], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.)
 
 **Editorial Notes**
 

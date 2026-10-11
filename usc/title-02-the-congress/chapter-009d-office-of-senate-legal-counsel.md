@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9D—OFFICE OF SENATE LEGAL COUNSEL
 
-## § 288. Office of Senate Legal Counsel
+## § 288. Office of Senate Legal Counsel
 
 **(a) Establishment; appointment of Counsel and Deputy Counsel; Senate approval; reappointment; compensation**
 
@@ -45,9 +45,9 @@ The Counsel may establish such policies and procedures as may be necessary to ca
 
 **(e) Delegation of duties**
 
-The counsel 1
+The counsel 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 may delegate authority for the performance of any function imposed by this chapter except any function imposed upon the Counsel under section 288e(b) of this title.
 
@@ -55,7 +55,7 @@ may delegate authority for the performance of any function imposed by this chapt
 
 The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
 
-(Pub. L. 95–521, title VII, § 701, Oct. 26, 1978, 92 Stat. 1875; Pub. L. 116–94, div. E, title II, § 212(a)(3)(I), Dec. 20, 2019, 133 Stat. 2776.)
+(Pub. L. 95–521, title VII, § 701, Oct. 26, 1978, 92 Stat. 1875; Pub. L. 116–94, div. E, title II, § 212(a)(3)(I), Dec. 20, 2019, 133 Stat. 2776.)
 
 **Editorial Notes**
 
@@ -65,9 +65,9 @@ This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original 
 
 **Amendments**
 
-2019—Subsec. (a)(4). Pub. L. 116–94, § 212(a)(3)(I)(i), struck out par. (4) which read as follows: “The Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5. The Deputy Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.”
+2019—Subsec. (a)(4). Pub. L. 116–94, § 212(a)(3)(I)(i), struck out par. (4) which read as follows: “The Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5. The Deputy Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.”
 
-Subsec. (b)(1). Pub. L. 116–94, § 212(a)(3)(I)(ii), struck out “The compensation fixed for each Assistant Counsel shall not be in excess of a rate equal to the annual rate of basic pay for level V of the Executive Schedule under section 5316 of title 5.” before “Any selection”.
+Subsec. (b)(1). Pub. L. 116–94, § 212(a)(3)(I)(ii), struck out “The compensation fixed for each Assistant Counsel shall not be in excess of a rate equal to the annual rate of basic pay for level V of the Executive Schedule under section 5316 of title 5.” before “Any selection”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,17 +77,17 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date**
 
-Pub. L. 95–521, title VII, § 717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title [enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] shall take effect on January 3, 1979.”
+Pub. L. 95–521, title VII, § 717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title [enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] shall take effect on January 3, 1979.”
 
 **Separability**
 
-Pub. L. 95–521, title VII, § 715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title [enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
+Pub. L. 95–521, title VII, § 715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title [enacting this chapter, section 5504 of this title, section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
 
 **Increases in Compensation**
 
 Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-## § 288a. Senate Joint Leadership Group
+## § 288a. Senate Joint Leadership Group
 
 **(a) Accountability of Office**
 
@@ -107,7 +107,7 @@ The Office shall be directly accountable to the Joint Leadership Group in the pe
 
 The Joint Leadership Group shall be assisted in the performance of its duties by the Secretary of the Senate.
 
-(Pub. L. 95–521, title VII, § 702, Oct. 26, 1978, 92 Stat. 1877.)
+(Pub. L. 95–521, title VII, § 702, Oct. 26, 1978, 92 Stat. 1877.)
 
 **Editorial Notes**
 
@@ -121,7 +121,7 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288b. Requirements for authorizing representation activity
+## § 288b. Requirements for authorizing representation activity
 
 **(a) Direction of Joint Leadership Group or Senate resolution**
 
@@ -145,7 +145,7 @@ The Counsel shall intervene or appear as amicus curiae under section 288e of thi
 
 The Office shall make no recommendation with respect to the consideration of a resolution under this section.
 
-(Pub. L. 95–521, title VII, § 703, Oct. 26, 1978, 92 Stat. 1877.)
+(Pub. L. 95–521, title VII, § 703, Oct. 26, 1978, 92 Stat. 1877.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,7 +153,7 @@ The Office shall make no recommendation with respect to the consideration of a r
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288c. Defending the Senate, committee, subcommittee, member, officer, or employee of Senate
+## § 288c. Defending the Senate, committee, subcommittee, member, officer, or employee of Senate
 
 **(a)** Except as otherwise provided in subsection (b), when directed to do so pursuant to section 288b(a) of this title, the Counsel shall—
 
@@ -163,7 +163,7 @@ Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as 
 
 **(b)** Representation of a Member, officer, or employee under subsection (a) shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
 
-(Pub. L. 95–521, title VII, § 704, Oct. 26, 1978, 92 Stat. 1877.)
+(Pub. L. 95–521, title VII, § 704, Oct. 26, 1978, 92 Stat. 1877.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -171,7 +171,7 @@ Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as 
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288d. Enforcement of Senate subpena or order
+## § 288d. Enforcement of Senate subpena or order
 
 **(a) Institution of civil actions**
 
@@ -213,7 +213,7 @@ A report filed pursuant to subsection (c)(2) shall not be receivable in any cour
 
 **(2)** the Senate to hold any individual or entity in contempt of the Senate.
 
-(Pub. L. 95–521, title VII, § 705, Oct. 26, 1978, 92 Stat. 1878; Pub. L. 99–336, § 6(a)(2), June 19, 1986, 100 Stat. 639.)
+(Pub. L. 95–521, title VII, § 705, Oct. 26, 1978, 92 Stat. 1878; Pub. L. 99–336, § 6(a)(2), June 19, 1986, 100 Stat. 639.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288e. Intervention or appearance
+## § 288e. Intervention or appearance
 
 **(a) Actions or proceedings**
 
@@ -245,7 +245,7 @@ The Counsel shall notify the Joint Leadership Group of any legal action or proce
 
 The Counsel shall limit any intervention or appearance as amicus curiae in an action or proceeding to issues relating to the powers and responsibilities of Congress.
 
-(Pub. L. 95–521, title VII, § 706, Oct. 26, 1978, 92 Stat. 1880.)
+(Pub. L. 95–521, title VII, § 706, Oct. 26, 1978, 92 Stat. 1880.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -253,11 +253,11 @@ The Counsel shall limit any intervention or appearance as amicus curiae in an ac
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288f. Immunity proceedings
+## § 288f. Immunity proceedings
 
 When directed to do so pursuant to section 288b(d) of this title, the Counsel shall serve as the duly authorized representative of the Senate or a committee or subcommittee of the Senate in requesting a United States district court to issue an order granting immunity pursuant to section 6005 of title 18.
 
-(Pub. L. 95–521, title VII, § 707, Oct. 26, 1978, 92 Stat. 1880.)
+(Pub. L. 95–521, title VII, § 707, Oct. 26, 1978, 92 Stat. 1880.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,7 +265,7 @@ When directed to do so pursuant to section 288b(d) of this title, the Counsel sh
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288g. Advisory and other functions
+## § 288g. Advisory and other functions
 
 **(a) Cooperation with persons, committees, subcommittees, and offices** The Counsel shall advise, consult, and cooperate with—
 
@@ -277,9 +277,9 @@ Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as 
 
 **(4)** any Member, officer, or employee of the Senate not represented under section 288c of this title with regard to obtaining private legal counsel for such Member, officer, or employee;
 
-**(5)** the President pro tempore of the Senate, the Secretary of 1
+**(5)** the President pro tempore of the Senate, the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Senate, the Sergeant-at-Arms of the Senate, and the Parliamentarian of the Senate, regarding any subpena, order, or request for withdrawal of papers presented to the Senate which raises a question of the privileges of the Senate; and
 
@@ -293,7 +293,7 @@ The Counsel shall compile and maintain legal research files of materials from co
 
 The Counsel shall perform such other duties consistent with the purposes and limitations of this chapter as the Senate may direct.
 
-(Pub. L. 95–521, title VII, § 708, Oct. 26, 1978, 92 Stat. 1880; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–521, title VII, § 708, Oct. 26, 1978, 92 Stat. 1880; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original “thi
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288h. Defense of certain constitutional powers
+## § 288h. Defense of certain constitutional powers
 
 In performing any function under this chapter, the Counsel shall defend vigorously when placed in issue—
 
@@ -329,7 +329,7 @@ In performing any function under this chapter, the Counsel shall defend vigorous
 
 **(7)** the constitutionality of Acts and joint resolutions of the Congress.
 
-(Pub. L. 95–521, title VII, § 709, Oct. 26, 1978, 92 Stat. 1881.)
+(Pub. L. 95–521, title VII, § 709, Oct. 26, 1978, 92 Stat. 1881.)
 
 **Editorial Notes**
 
@@ -343,7 +343,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288i. Representation conflict or inconsistency
+## § 288i. Representation conflict or inconsistency
 
 **(a) Notification**
 
@@ -363,7 +363,7 @@ Upon receipt of such notification, the members of the Joint Leadership Group sha
 
 The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys’ fees, reasonably incurred in obtaining representation. Such reimbursement shall be from funds appropriated to the contingent fund of the Senate.
 
-(Pub. L. 95–521, title VII, § 710, Oct. 26, 1978, 92 Stat. 1882.)
+(Pub. L. 95–521, title VII, § 710, Oct. 26, 1978, 92 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -377,7 +377,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288j. Consideration of resolutions to direct counsel
+## § 288j. Consideration of resolutions to direct counsel
 
 **(a) Procedure; rules**
 
@@ -401,7 +401,7 @@ For purposes of this chapter, other than section 288b of this title, the term �
 
 **(2)** with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 
-(Pub. L. 95–521, title VII, § 711, Oct. 26, 1978, 92 Stat. 1882.)
+(Pub. L. 95–521, title VII, § 711, Oct. 26, 1978, 92 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -415,7 +415,7 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288k. Attorney General relieved of responsibility
+## § 288k. Attorney General relieved of responsibility
 
 **(a)** Upon receipt of written notice that the Counsel has undertaken, pursuant to section 288c(a) of this title, to perform any representational service with respect to any designated party in any action or proceeding pending or to be instituted, the Attorney General shall—
 
@@ -427,7 +427,7 @@ Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as 
 
 **(b)** The Attorney General shall notify Counsel as required by section 530D of title 28.
 
-(Pub. L. 95–521, title VII, § 712, Oct. 26, 1978, 92 Stat. 1883; Pub. L. 107–273, div. A, title II, § 202(b)(2), Nov. 2, 2002, 116 Stat. 1774; Pub. L. 108–7, div. H, title I, § 110(b), Feb. 20, 2003, 117 Stat. 355.)
+(Pub. L. 95–521, title VII, § 712, Oct. 26, 1978, 92 Stat. 1883; Pub. L. 107–273, div. A, title II, § 202(b)(2), Nov. 2, 2002, 116 Stat. 1774; Pub. L. 108–7, div. H, title I, § 110(b), Feb. 20, 2003, 117 Stat. 355.)
 
 **Editorial Notes**
 
@@ -447,7 +447,7 @@ Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288l. Procedural provisions
+## § 288l. Procedural provisions
 
 **(a) Intervention or appearance**
 
@@ -461,7 +461,7 @@ The Counsel, the Deputy Counsel, or any designated Assistant Counsel or counsel 
 
 Nothing in this chapter shall be construed to confer standing on any party seeking to bring, or jurisdiction on any court with respect to, any civil or criminal action against Congress, either House of Congress, a Member of Congress, a committee or subcommittee of a House of Congress, any office or agency of Congress, or any officer or employee of a House of Congress or any office or agency of Congress.
 
-(Pub. L. 95–521, title VII, § 713, Oct. 26, 1978, 92 Stat. 1883.)
+(Pub. L. 95–521, title VII, § 713, Oct. 26, 1978, 92 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -475,11 +475,11 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this t
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288m. Contingent fund
+## § 288m. Contingent fund
 
 The expenses of the Office shall be paid from the contingent fund of the Senate in accordance with section 6503 of this title, and upon vouchers approved by the Counsel.
 
-(Pub. L. 95–521, title VII, § 716, Oct. 26, 1978, 92 Stat. 1885.)
+(Pub. L. 95–521, title VII, § 716, Oct. 26, 1978, 92 Stat. 1885.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -487,11 +487,11 @@ The expenses of the Office shall be paid from the contingent fund of the Senate 
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-## § 288n. Travel and related expenses
+## § 288n. Travel and related expenses
 
 Funds expended by the Senate Legal Counsel for travel and related expenses shall be subject to the same regulations and limitations (insofar as they are applicable) as those which the Senate Committee on Rules and Administration prescribes for application to travel and related expenses for which payment is authorized to be made from the contingent fund of the Senate.
 
-(Pub. L. 98–51, title I, § 106, July 14, 1983, 97 Stat. 267.)
+(Pub. L. 98–51, title I, § 106, July 14, 1983, 97 Stat. 267.)
 
 **Editorial Notes**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1533—NATIONAL SOCIETY OF THE SONS OF THE AMERICAN REVOLUTION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1533—NATIONAL SOCIETY OF THE SONS OF THE AMERICAN REVOLUTION"
 identifier: "/us/usc/t36/stII/ptB/ch1533"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1533—NATIONAL SOCIETY OF THE SONS OF THE AMERICAN REVOLUTION
 
-## § 153301. Organization
+## § 153301. Organization
 
 National Society of the Sons of the American Revolution (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -25,12 +25,12 @@ National Society of the Sons of the American Revolution (in this chapter, the �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153301 | 36:20a. | June 9, 1906, ch. 3065, §§ 1, 5, 6, 34 Stat. 227, 228. |
+| 153301 | 36:20a. | June 9, 1906, ch. 3065, §§ 1, 5, 6, 34 Stat. 227, 228. |
 |  | 36:20e. 36:20f. |  |
 
 This section is substituted for 36:20a for consistency in the revised title and to eliminate unnecessary and executed words. The text of 36:20e and 20f is omitted as obsolete.
 
-## § 153302. Purposes
+## § 153302. Purposes
 
 The purposes of the corporation are patriotic, historical, and educational, and include those intended or designed—
 
@@ -60,11 +60,11 @@ The purposes of the corporation are patriotic, historical, and educational, and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153302 | 36:20b. | June 9, 1906, ch. 3065, § 2, 34 Stat. 227. |
+| 153302 | 36:20b. | June 9, 1906, ch. 3065, § 2, 34 Stat. 227. |
 
 Before clause (1), the words “objects” and “declared to be” are omitted as unnecessary.
 
-## § 153303. Powers
+## § 153303. Powers
 
 The corporation may—
 
@@ -86,7 +86,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153303 | 36:20c. | June 9, 1906, ch. 3065, § 3, 34 Stat. 228; Sept. 8, 1961, Pub. L. 87–214, 75 Stat. 489. |
+| 153303 | 36:20c. | June 9, 1906, ch. 3065, § 3, 34 Stat. 228; Sept. 8, 1961, Pub. L. 87–214, 75 Stat. 489. |
 
 In clause (1), the words “make and” and “rules” are omitted as unnecessary. The word “amend” is substituted for “and from time to time to alter and repeal such constitution, by-laws, rules, and regulations, and to adopt others in their places” for consistency in the revised title and to eliminate unnecessary words. The words “*Provided always*, That such constitution, by-laws, rules, and regulations be not inconsistent with the laws of the United States or any of the States thereof” are omitted as unnecessary.
 
@@ -98,7 +98,7 @@ Clause (5) is substituted for “receive, purchase, hold, sell, and convey real 
 
 In clause (6), the words “complain and defend in any court” are omitted as unnecessary.
 
-## § 153304. Trustees
+## § 153304. Trustees
 
 The property and affairs of the corporation shall be managed by at least 40 trustees. The trustees shall be elected annually at the time provided in the bylaws. At least one trustee shall be elected annually from a list of nominees to be made by each of the State societies and submitted to the corporation at least 30 days before the annual meeting, in accordance with provisions adopted by the corporation to regulate nominations.
 
@@ -108,6 +108,6 @@ The property and affairs of the corporation shall be managed by at least 40 trus
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153304 | 36:20d. | June 9, 1906, ch. 3065, § 4, 34 Stat. 228; Feb. 6, 1925, ch. 142, 43 Stat. 808. |
+| 153304 | 36:20d. | June 9, 1906, ch. 3065, § 4, 34 Stat. 228; Feb. 6, 1925, ch. 142, 43 Stat. 808. |
 
 The word “corporation” is substituted for “society” for consistency.

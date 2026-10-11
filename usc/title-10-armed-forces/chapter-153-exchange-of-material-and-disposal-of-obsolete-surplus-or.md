@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 “Military equipment identified on United States munitions list: annual report of public sales”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 “Military equipment identified on United States munitions list: annual report of public sales”.
 
-Pub. L. 111–383, div. A, title X, § 1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in item 2576.
+Pub. L. 111–383, div. A, title X, § 1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in item 2576.
 
-2006—Pub. L. 109–364, div. A, title III, § 352(b), div. B, title XXVIII, § 2825(d)(1)(B), Oct. 17, 2006, 120 Stat. 2161, 2477, substituted “supplies” for “property” in item 2571 and “animals” for “working dogs” in item 2583.
+2006—Pub. L. 109–364, div. A, title III, § 352(b), div. B, title XXVIII, § 2825(d)(1)(B), Oct. 17, 2006, 120 Stat. 2161, 2477, substituted “supplies” for “property” in item 2571 and “animals” for “working dogs” in item 2583.
 
-Pub. L. 109–163, div. A, title V, § 599(d), Jan. 6, 2006, 119 Stat. 3284, struck out “at end of useful working life” after “adoption” in item 2583.
+Pub. L. 109–163, div. A, title V, § 599(d), Jan. 6, 2006, 119 Stat. 3284, struck out “at end of useful working life” after “adoption” in item 2583.
 
-2001—Pub. L. 107–107, div. A, title X, § 1048(a)(25), Dec. 28, 2001, 115 Stat. 1224, redesignated item 2582 relating to military working dogs as item 2583.
+2001—Pub. L. 107–107, div. A, title X, § 1048(a)(25), Dec. 28, 2001, 115 Stat. 1224, redesignated item 2582 relating to military working dogs as item 2583.
 
-2000—Pub. L. 106–446, § 1(b), Nov. 6, 2000, 114 Stat. 1933, added item 2582 relating to military working dogs.
+2000—Pub. L. 106–446, § 1(b), Nov. 6, 2000, 114 Stat. 1933, added item 2582 relating to military working dogs.
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 381(b), title XVII, § 1706(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, 1654A–367, added items 2576b and 2582 relating to military equipment identified on United States munitions list.
+Pub. L. 106–398, § 1 [[div. A], title III, § 381(b), title XVII, § 1706(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, 1654A–367, added items 2576b and 2582 relating to military equipment identified on United States munitions list.
 
-1998—Pub. L. 105–261, div. A, title XII, § 1234(b), Oct. 17, 1998, 112 Stat. 2157, added item 2581.
+1998—Pub. L. 105–261, div. A, title XII, § 1234(b), Oct. 17, 1998, 112 Stat. 2157, added item 2581.
 
-1997—Pub. L. 105–85, div. A, title X, § 1063(b), Nov. 18, 1997, 111 Stat. 1893, added item 2580.
+1997—Pub. L. 105–85, div. A, title X, § 1063(b), Nov. 18, 1997, 111 Stat. 1893, added item 2580.
 
-1996—Pub. L. 104–201, div. A, title X, § 1033(a)(2), Sept. 23, 1996, 110 Stat. 2640, added item 2576a.
+1996—Pub. L. 104–201, div. A, title X, § 1033(a)(2), Sept. 23, 1996, 110 Stat. 2640, added item 2576a.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1171(a)(2), Nov. 30, 1993, 107 Stat. 1766, added item 2579.
+1993—Pub. L. 103–160, div. A, title XI, § 1171(a)(2), Nov. 30, 1993, 107 Stat. 1766, added item 2579.
 
-1988—Pub. L. 100–456, div. A, title III, § 324(b), Sept. 29, 1988, 102 Stat. 1954, substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in item 2572.
+1988—Pub. L. 100–456, div. A, title III, § 324(b), Sept. 29, 1988, 102 Stat. 1954, substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in item 2572.
 
-Pub. L. 100–370, § 1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
+Pub. L. 100–370, § 1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 
-1982—Pub. L. 97–214, § 6(b)(2), July 12, 1982, 96 Stat. 172, added item 2577.
+1982—Pub. L. 97–214, § 6(b)(2), July 12, 1982, 96 Stat. 172, added item 2577.
 
-1980—Pub. L. 96–513, title V, § 511(83)(B), Dec. 12, 1980, 94 Stat. 2927, struck out item 2573 “Excess property: transfers to Canal Zone Government”.
+1980—Pub. L. 96–513, title V, § 511(83)(B), Dec. 12, 1980, 94 Stat. 2927, struck out item 2573 “Excess property: transfers to Canal Zone Government”.
 
-1968—Pub. L. 90–500, title IV, § 403(b), Sept. 20, 1968, 82 Stat. 851, added item 2576.
+1968—Pub. L. 90–500, title IV, § 403(b), Sept. 20, 1968, 82 Stat. 851, added item 2576.
 
-1958—Pub. L. 85–861, § 1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
+1958—Pub. L. 85–861, § 1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
 
 **Identification and Replacement of Obsolete Electronic Parts**
 
-Pub. L. 113–66, div. A, title VIII, § 803, Dec. 26, 2013, 127 Stat. 805, provided that:
+Pub. L. 113–66, div. A, title VIII, § 803, Dec. 26, 2013, 127 Stat. 805, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall implement a process for the expedited identification and replacement of obsolete electronic parts included in acquisition programs of the Department of Defense.
 
@@ -89,7 +89,7 @@ Pub. L. 113–66, div. A, title VIII, § 803, Dec. 26, 2013, 127 Stat. 805, pr
 
 > **“(B)** the part is or will be available in sufficient quantity to meet the requirements of such an acquisition program.”
 
-## § 2571. Interchange of supplies and services
+## § 2571. Interchange of supplies and services
 
 **(a)** If either of the Secretaries concerned requests it and the other approves, supplies may be transferred, without compensation, from one armed force to another.
 
@@ -109,7 +109,7 @@ Pub. L. 113–66, div. A, title VIII, § 803, Dec. 26, 2013, 127 Stat. 805, pr
 
 **(2)** Amounts received as reimbursement shall be credited in accordance with section 2205 of this title to the appropriation of the supporting department or organization used in incurring the obligation in the year or years that support is provided.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 85–861, § 1(49), Sept. 2, 1958, 72 Stat. 1459; Pub. L. 99–167, title VIII, § 821, Dec. 3, 1985, 99 Stat. 991; Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(1), (d)(1)(A), Oct. 17, 2006, 120 Stat. 2477; Pub. L. 117–81, div. A, title XII, § 1202, Dec. 27, 2021, 135 Stat. 1958.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 85–861, § 1(49), Sept. 2, 1958, 72 Stat. 1459; Pub. L. 99–167, title VIII, § 821, Dec. 3, 1985, 99 Stat. 991; Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(1), (d)(1)(A), Oct. 17, 2006, 120 Stat. 2477; Pub. L. 117–81, div. A, title XII, § 1202, Dec. 27, 2021, 135 Stat. 1958.)
 
 **Historical and Revision Notes**
 
@@ -117,7 +117,7 @@ Pub. L. 113–66, div. A, title VIII, § 803, Dec. 26, 2013, 127 Stat. 805, pr
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2571(a) [now (b)] | 5:171t (less clause (2)). | Oct. 29, 1949, ch. 787, § 621, 63 Stat. 1020. |
+| 2571(a) [now (b)] | 5:171t (less clause (2)). | Oct. 29, 1949, ch. 787, § 621, 63 Stat. 1020. |
 | 2571(b) [now (c)] | 5:171t (clause 2)). |  |
 
 In subsection (a), the words “After June 30, 1949” are omitted as executed. The words “may perform work and services for, or furnish supplies to” are substituted for the words “services, work, supplies, materials, and equipment may be rendered or supplied”, since the word “supplies”, as defined in section 101(26) of this title, includes “equipment” and “material”. The words “upon request” are inserted for clarity.
@@ -130,37 +130,37 @@ In subsection (b), the words “on a reimbursable or other basis as authorized b
 |---|---|---|
 | 2571(a) | 14:640. | June 15, 1955, ch. 142, 69 Stat. 134. |
 
-In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
+In subsection (a), the first 12 words are substituted for 14:640 (last 20 words). The words “may be transferred” are substituted for the words “The interchange . . . is authorized”, since the words “without compensation” authorize a simple one-way transfer, while the word “interchange” normally means a mutual exchange. The words “military stores . . . and equipment of every character” are omitted as covered by the word “supplies” as defined in section 101(26) of this title. The words “armed force” are substituted for the enumeration of the armed forces.
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 117–81, § 1202(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.”
+2021—Subsec. (b). Pub. L. 117–81, § 1202(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.”
 
-Subsec. (e). Pub. L. 117–81, § 1202(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–81, § 1202(2), added subsec. (e).
 
-2006—Pub. L. 109–364, § 2825(d)(1)(A), substituted “supplies” for “property” in section catchline.
+2006—Pub. L. 109–364, § 2825(d)(1)(A), substituted “supplies” for “property” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 2825(c)(1), struck out “and real estate” after “supplies”.
+Subsec. (a). Pub. L. 109–364, § 2825(c)(1), struck out “and real estate” after “supplies”.
 
 1985—Subsec. (d). Pub. L. 99–167 added subsec. (d).
 
-1958—Pub. L. 85–861, § 1(49)(A), substituted “property” for “supplies” in section catchline.
+1958—Pub. L. 85–861, § 1(49)(A), substituted “property” for “supplies” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 85–861, § 1(49)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+Subsecs. (a) to (c). Pub. L. 85–861, § 1(49)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Distribution to Indian Health Service Facilities and Certain Health Centers; Property Disposal Priority**
 
-Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, provided that:
+Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, provided that:
 
 > **“(a)** During the current fiscal year and hereafter, the Secretary of Defense, in coordination with the Secretary of Health and Human Services, may carry out a program to distribute surplus dental and medical equipment of the Department of Defense, at no cost to the Department of Defense, to Indian Health Service facilities and to federally-qualified health centers (within the meaning of section 1905(*l*)(2)(B) of the Social Security Act (42 U.S.C. 1396d(*l*)(2)(B))).
 
 > **“(b)** In carrying out this provision, the Secretary of Defense shall give the Indian Health Service a property disposal priority equal to the priority given to the Department of Defense and its twelve special screening programs in distribution of surplus dental and medical supplies and equipment.”
 
-## § 2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
+## § 2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
 
 **(a)** The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Homeland Security), to any of the following:
 
@@ -228,13 +228,13 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638
 
 **(B)** the transfer is made after September 30, 2022.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, § 511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, § 324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, § 325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, § 373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, § 1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, § 372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, § 1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, § 3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, § 369, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 110–417, [div. A], title III, § 352, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 112–239, div. A, title III, § 355(a), Jan. 2, 2013, 126 Stat. 1702; Pub. L. 115–91, div. B, title XXVIII, § 2864(a), (b), Dec. 12, 2017, 131 Stat. 1869; Pub. L. 116–283, div. A, title XVIII, § 1870(d)(4), Jan. 1, 2021, 134 Stat. 4286; Pub. L. 117–81, div. A, title XVII, § 1701(t)(4), Dec. 27, 2021, 135 Stat. 2150.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, § 511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, § 324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, § 325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, § 373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, § 1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, § 372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, § 1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, § 3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, § 369, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 110–417, [div. A], title III, § 352, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 112–239, div. A, title III, § 355(a), Jan. 2, 2013, 126 Stat. 1702; Pub. L. 115–91, div. B, title XXVIII, § 2864(a), (b), Dec. 12, 2017, 131 Stat. 1869; Pub. L. 116–283, div. A, title XVIII, § 1870(d)(4), Jan. 1, 2021, 134 Stat. 4286; Pub. L. 117–81, div. A, title XVII, § 1701(t)(4), Dec. 27, 2021, 135 Stat. 2150.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2572 | 5:150p. | May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, ch. 137; restated June 19, 1940, ch. 398; July 31, 1947, ch. 421; restated Feb. 27, 1948, ch. 76, § 1, 62 Stat. 37; Oct. 31, 1951, ch. 654, § 2(2), 65 Stat. 706. |
+| 2572 | 5:150p. | May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, ch. 137; restated June 19, 1940, ch. 398; July 31, 1947, ch. 421; restated Feb. 27, 1948, ch. 76, § 1, 62 Stat. 37; Oct. 31, 1951, ch. 654, § 2(2), 65 Stat. 706. |
 
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
@@ -242,17 +242,17 @@ The word “may” is substituted for the words “are each authorized, in their
 
 **Amendments**
 
-2021—Subsec. (e)(2)(A). Pub. L. 116–283, § 1870(d)(4), as amended by Pub. L. 117–81, § 1701(t)(4), substituted “section 4874(c)(1)” for “section 2536(c)(1)”.
+2021—Subsec. (e)(2)(A). Pub. L. 116–283, § 1870(d)(4), as amended by Pub. L. 117–81, § 1701(t)(4), substituted “section 4874(c)(1)” for “section 2536(c)(1)”.
 
-2017—Subsec. (e)(2)(B)(iii). Pub. L. 115–91, § 2864(a), substituted “from abroad before 1907” for “from abroad”.
+2017—Subsec. (e)(2)(B)(iii). Pub. L. 115–91, § 2864(a), substituted “from abroad before 1907” for “from abroad”.
 
-Subsec. (e)(3)(B). Pub. L. 115–91, § 2864(b), substituted “September 30, 2022” for “September 30, 2017”.
+Subsec. (e)(3)(B). Pub. L. 115–91, § 2864(b), substituted “September 30, 2022” for “September 30, 2017”.
 
 2013—Subsec. (e). Pub. L. 112–239 added subsec. (e).
 
-2008—Subsec. (d)(1). Pub. L. 110–417, § 352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary’s delegee.”
+2008—Subsec. (d)(1). Pub. L. 110–417, § 352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary’s delegee.”
 
-Subsec. (d)(2)(A). Pub. L. 110–417, § 352(2), inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
+Subsec. (d)(2)(A). Pub. L. 110–417, § 352(2), inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
 
@@ -260,11 +260,11 @@ Subsec. (a)(3). Pub. L. 107–314 inserted before period at end “or a nonprofi
 
 Subsec. (d)(1). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, § 1043(d)(1), inserted “, county, or other political subdivision of a State” before period at end.
+2001—Subsec. (a)(1). Pub. L. 107–107, § 1043(d)(1), inserted “, county, or other political subdivision of a State” before period at end.
 
-Subsec. (a)(2). Pub. L. 107–107, § 1043(d)(2), substituted “servicemen’s monument” for “soldiers’ monument”.
+Subsec. (a)(2). Pub. L. 107–107, § 1043(d)(2), substituted “servicemen’s monument” for “soldiers’ monument”.
 
-Subsec. (a)(4). Pub. L. 107–107, § 1043(d)(3), inserted “or memorial” after “An incorporated museum”.
+Subsec. (a)(4). Pub. L. 107–107, § 1043(d)(3), inserted “or memorial” after “An incorporated museum”.
 
 1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
@@ -272,9 +272,9 @@ Subsec. (a)(4). Pub. L. 107–107, § 1043(d)(3), inserted “or memorial” a
 
 1992—Subsec. (d)(2). Pub. L. 102–484 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, and added subpar. (B).
 
-1990—Subsec. (b)(1). Pub. L. 101–510, § 325(1), inserted before period at end “or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces”.
+1990—Subsec. (b)(1). Pub. L. 101–510, § 325(1), inserted before period at end “or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces”.
 
-Subsec. (b)(2). Pub. L. 101–510, § 325(2), inserted “, or services provided,” after “monetary value of property transferred” in first sentence and “in the case of an exchange of property for property” after “preceding sentence” in second sentence.
+Subsec. (b)(2). Pub. L. 101–510, § 325(2), inserted “, or services provided,” after “monetary value of property transferred” in first sentence and “in the case of an exchange of property for property” after “preceding sentence” in second sentence.
 
 1988—Pub. L. 100–456 substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department, or the Secretary of Transportation, under regulations to be prescribed by him, may lend or give, without expense to the United States, books, manuscripts, works of art, drawings, plans, models, and condemned or obsolete combat material that are not needed by that department to—
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. B, title XXVIII, § 2864(d), Dec. 12, 2017, 131 Stat. 1869, provided that: “The amendments made by this section [amending this section] shall take effect October 1, 2017.”
+Pub. L. 115–91, div. B, title XXVIII, § 2864(d), Dec. 12, 2017, 131 Stat. 1869, provided that: “The amendments made by this section [amending this section] shall take effect October 1, 2017.”
 
 **Effective Date of 2002 Amendment**
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Prohibition on Destruction or Scrapping of World War II–Era Aircraft**
 
-Pub. L. 119–60, div. A, title X, § 1051, Dec. 18, 2025, 139 Stat. 1042, provided that:
+Pub. L. 119–60, div. A, title X, § 1051, Dec. 18, 2025, 139 Stat. 1042, provided that:
 
 > **“(a) Prohibition.—** The Secretary of Defense may not destroy, dismantle, scrap, cannibalize, or otherwise render permanently inoperable any aircraft that—
 
@@ -356,13 +356,13 @@ Pub. L. 119–60, div. A, title X, § 1051, Dec. 18, 2025, 139 Stat. 1042, pro
 
 **Acquisition of Historical Artifacts Through Exchange of Obsolete or Surplus Property**
 
-Pub. L. 108–136, div. A, title X, § 1052, Nov. 24, 2003, 117 Stat. 1614, provided that, during fiscal years 2004 and 2005, the Secretary of a military department could use the authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
+Pub. L. 108–136, div. A, title X, § 1052, Nov. 24, 2003, 117 Stat. 1614, provided that, during fiscal years 2004 and 2005, the Secretary of a military department could use the authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
 
 **Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law**
 
-Pub. L. 106–65, div. A, title X, § 1051, Oct. 5, 1999, 113 Stat. 763, as amended by Pub. L. 109–163, div. A, title X, § 1061, Jan. 6, 2006, 119 Stat. 3445, established a moratorium period during which the President was prohibited from transferring a veterans memorial object to a foreign country or an entity controlled by a foreign government unless specifically authorized by law, prior to repeal by Pub. L. 112–239, div. A, title III, § 355(b), Jan. 2, 2013, 126 Stat. 1702.
+Pub. L. 106–65, div. A, title X, § 1051, Oct. 5, 1999, 113 Stat. 763, as amended by Pub. L. 109–163, div. A, title X, § 1061, Jan. 6, 2006, 119 Stat. 3445, established a moratorium period during which the President was prohibited from transferring a veterans memorial object to a foreign country or an entity controlled by a foreign government unless specifically authorized by law, prior to repeal by Pub. L. 112–239, div. A, title III, § 355(b), Jan. 2, 2013, 126 Stat. 1702.
 
-## [§ 2573. Repealed. Pub. L. 96–513, title V, § 511(83)(A), Dec. 12, 1980, 94 Stat. 2927]
+## [§ 2573. Repealed. Pub. L. 96–513, title V, § 511(83)(A), Dec. 12, 1980, 94 Stat. 2927]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 143, related to transfer of excess property to the Canal Zone Government.
 
@@ -372,7 +372,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 143, related to transfer of exce
 
 Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
-## § 2574. Armament: sale of individual pieces
+## § 2574. Armament: sale of individual pieces
 
 A piece of armament that can be advantageously replaced, and that is not needed for its historical value, may be sold by the military department having jurisdiction over it for not less than cost, if the Secretary concerned considers that there are adequate sentimental reasons for the sale.
 
@@ -384,9 +384,9 @@ A piece of armament that can be advantageously replaced, and that is not needed 
 |---|---|---|
 | 2574 | 10:1262b. 34:545. 50:69. | Mar. 2, 1905, ch. 1307 (last 55 words of last par. under “Ordnance Department”), 33 Stat. 841. |
 
-The words “by the military department having jurisdiction over it” are inserted for clarity. The words “if the Secretary concerned considers” are substituted for the words “when there exist \* \* \* in the judgment of the Secretary”.
+The words “by the military department having jurisdiction over it” are inserted for clarity. The words “if the Secretary concerned considers” are substituted for the words “when there exist \* \* \* in the judgment of the Secretary”.
 
-## § 2575. Disposition of unclaimed property
+## § 2575. Disposition of unclaimed property
 
 **(a)** The Secretary of any military department, and the Secretary of Homeland Security, under such regulations as they may respectively prescribe, may each by public or private sale or otherwise, dispose of all lost, abandoned, or unclaimed personal property that comes into the custody or control of the Secretary’s department, other than property subject to section 7712, 8392, or 9712 of this title or subject to subsection (c). However, property may not be disposed of until diligent effort has been made to find the owner (or the heirs, next of kin, or legal representative of the owner). The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days. If the owner (or the heirs, next of kin, or legal representative of the owner) is determined but not found, the property may not be disposed of until the expiration of 45 days after the date when notice, giving the time and place of the intended sale or other disposition, has been sent by certified or registered mail to that person at his last known address. When diligent effort to determine the owner (or heirs, next of kin, or legal representative of the owner) is unsuccessful, the property may be disposed of without delay, except that if it has a fair market value of more than $300, the Secretary may not dispose of the property until 45 days after the date it is received at a storage point designated by the Secretary.
 
@@ -410,23 +410,23 @@ The words “by the military department having jurisdiction over it” are inser
 
 **(3)** Unless a claim is filed under this subsection within 5 years after the date of the disposal of the property to which the claim relates, the claim may not be considered by a court, the Secretary of Defense (in the case of a claim filed under paragraph (1)), or the Secretary of Defense (in the case of a claim filed under paragraph (2)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, § 511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, § 322(a), (b), title XVI, § 1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, § 1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, § 374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, § 202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, § 511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, § 322(a), (b), title XVI, § 1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, § 1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, § 374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, § 202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 2575(a) | 5:150e. 5:150h. | Apr. 14, 1949, ch. 50, 63 Stat. 45. |
-|  | [Uncodified: Apr. 14, 1949, ch. 50, § 6, 63 Stat. 45]. |  |
+|  | [Uncodified: Apr. 14, 1949, ch. 50, § 6, 63 Stat. 45]. |  |
 | 2575(b) | 5:150f. |  |
 |  | 5:150g. |  |
 | 2575(c) | 5:150i. |  |
 
-In subsection (a), the words “under such regulations as they may respectively prescribe” are substituted for 5:150h. The words “other than property \* \* \* subject to subsection (c)” of this section are substituted for the words “subject to the provisions of section 150i of this title”. The words “other than property subject to sections 4712, 4713, 6522, 9712, or 9713 of this title” are inserted, since uncodified section 6 of the source statute provided that the source statute for this revised section did not repeal or amend the source statutes for those revised sections. The words “that comes into” are substituted for the words “which is now or may hereafter come into”. The word “possession” is omitted as covered by the words “custody or control”. The words “However, property may not be disposed of until” are inserted for clarity. The word “find” is substituted for the words “determine and locate”. The words “until the expiration” are substituted for the words “prior to the expiration of a period”. The words “determined but not found” are substituted for the words “have or has been determined”. The words “or owners”, “or representatives”, and “sold or otherwise” are omitted as surplusage.
+In subsection (a), the words “under such regulations as they may respectively prescribe” are substituted for 5:150h. The words “other than property \* \* \* subject to subsection (c)” of this section are substituted for the words “subject to the provisions of section 150i of this title”. The words “other than property subject to sections 4712, 4713, 6522, 9712, or 9713 of this title” are inserted, since uncodified section 6 of the source statute provided that the source statute for this revised section did not repeal or amend the source statutes for those revised sections. The words “that comes into” are substituted for the words “which is now or may hereafter come into”. The word “possession” is omitted as covered by the words “custody or control”. The words “However, property may not be disposed of until” are inserted for clarity. The word “find” is substituted for the words “determine and locate”. The words “until the expiration” are substituted for the words “prior to the expiration of a period”. The words “determined but not found” are substituted for the words “have or has been determined”. The words “or owners”, “or representatives”, and “sold or otherwise” are omitted as surplusage.
 
-In subsection (b), the words “may file \* \* \* within five years” are substituted for the words “may be filed \* \* \* at any time prior to the expiration of five years”, in 5:150g, since the claim must be disallowed if not filed within that period. The words “If not filed within that period” are substituted for the words “If claims are not filed prior to the expiration of five years from the date of the disposal of the property”, in 5:150g. The words “such a claim may not be considered” are substituted for the words “they shall be barred from being acted on”, in 5:150g.
+In subsection (b), the words “may file \* \* \* within five years” are substituted for the words “may be filed \* \* \* at any time prior to the expiration of five years”, in 5:150g, since the claim must be disallowed if not filed within that period. The words “If not filed within that period” are substituted for the words “If claims are not filed prior to the expiration of five years from the date of the disposal of the property”, in 5:150g. The words “such a claim may not be considered” are substituted for the words “they shall be barred from being acted on”, in 5:150g.
 
-In subsection (c), the words “No property \* \* \* may \* \* \* except” are substituted for the words “Any property \* \* \* shall be limited”. The last sentence is substituted for 5:150i (proviso).
+In subsection (c), the words “No property \* \* \* may \* \* \* except” are substituted for the words “Any property \* \* \* shall be limited”. The last sentence is substituted for 5:150i (proviso).
 
 **Editorial Notes**
 
@@ -436,37 +436,37 @@ In subsection (c), the words “No property \* \* \* may \* \* \* except
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
+1996—Subsec. (b). Pub. L. 104–106, § 374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
 
-Subsec. (d). Pub. L. 104–106, § 374(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 374(a)(2), added subsec. (d).
 
 Subsec. (d)(2), (3). Pub. L. 104–316 substituted “Secretary of Defense” for “Comptroller General of the United States”.
 
-1990—Subsec. (a). Pub. L. 101–510, § 1533(a)(2)(A), substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
+1990—Subsec. (a). Pub. L. 101–510, § 1533(a)(2)(A), substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
 
-Subsec. (c). Pub. L. 101–510, § 1533(a)(2)(B), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home” and “Secretary of a military department” for “Secretary of the Army or the Secretary of the Air Force” and struck out at end “The Home shall deliver the property to the owner (or the heirs, next of kin, or legal representative of the owner), if that person establishes a right to it within two years after its receipt by the Home.”
+Subsec. (c). Pub. L. 101–510, § 1533(a)(2)(B), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home” and “Secretary of a military department” for “Secretary of the Army or the Secretary of the Air Force” and struck out at end “The Home shall deliver the property to the owner (or the heirs, next of kin, or legal representative of the owner), if that person establishes a right to it within two years after its receipt by the Home.”
 
-1989—Subsec. (a). Pub. L. 101–189, § 1622(f)(1), struck out “of this section” after “subsection (c)”.
+1989—Subsec. (a). Pub. L. 101–189, § 1622(f)(1), struck out “of this section” after “subsection (c)”.
 
-Pub. L. 101–189, § 322(b)(2)(A), substituted “the Secretary’s department” for “his department”.
+Pub. L. 101–189, § 322(b)(2)(A), substituted “the Secretary’s department” for “his department”.
 
-Pub. L. 101–189, § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative” in two places.
+Pub. L. 101–189, § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative” in two places.
 
-Pub. L. 101–189, § 322(a)(3), inserted after second sentence: “The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days.”
+Pub. L. 101–189, § 322(a)(3), inserted after second sentence: “The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days.”
 
-Pub. L. 101–189, § 322(a)(1), substituted “45 days” for “120 days”.
+Pub. L. 101–189, § 322(a)(1), substituted “45 days” for “120 days”.
 
-Pub. L. 101–189, § 322(b)(2)(B), substituted “owner (or heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representatives” after “When diligent effort to determine the”.
+Pub. L. 101–189, § 322(b)(2)(B), substituted “owner (or heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representatives” after “When diligent effort to determine the”.
 
-Pub. L. 101–189, § 322(a)(2), substituted “more than $300, the Secretary may not dispose of the property until 45 days” for “$25 or more the property may not be disposed of until three months”.
+Pub. L. 101–189, § 322(a)(2), substituted “more than $300, the Secretary may not dispose of the property until 45 days” for “$25 or more the property may not be disposed of until three months”.
 
-Subsec. (b). Pub. L. 101–189, § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”.
+Subsec. (b). Pub. L. 101–189, § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”.
 
-Subsec. (c). Pub. L. 101–189, § 322(b)(1), (3), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”, and “that person” for “he” before “establishes a right”.
+Subsec. (c). Pub. L. 101–189, § 322(b)(1), (3), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”, and “that person” for “he” before “establishes a right”.
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(84)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(84)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-Subsec. (c). Pub. L. 96–513, § 511(84)(B), substituted “United States Soldiers’ and Airmen’s Home” for “Soldiers’ Home”.
+Subsec. (c). Pub. L. 96–513, § 511(84)(B), substituted “United States Soldiers’ and Airmen’s Home” for “Soldiers’ Home”.
 
 1965—Subsec. (a). Pub. L. 89–143 provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
 
@@ -486,31 +486,31 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title III, § 322(c), Nov. 29, 1989, 103 Stat. 1414, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to property that comes into the custody or control of the Secretary of a military department or the Secretary of Transportation after the date of the enactment of this Act [Nov. 29, 1989].”
+Pub. L. 101–189, div. A, title III, § 322(c), Nov. 29, 1989, 103 Stat. 1414, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to property that comes into the custody or control of the Secretary of a military department or the Secretary of Transportation after the date of the enactment of this Act [Nov. 29, 1989].”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2576. Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies
+## § 2576. Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies
 
 **(a)** The Secretary of Defense, under regulations prescribed by him, may sell to State and local law enforcement, firefighting, homeland security, and emergency management agencies, at fair market value, pistols, revolvers, shotguns, rifles of a caliber not exceeding .30, ammunition for such firearms, gas masks, personal protective equipment, and other appropriate equipment which (1) are suitable for use by such agencies in carrying out law enforcement, firefighting, homeland security, and emergency management activities, and (2) have been determined to be surplus property under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 **(b)** Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
-(Added Pub. L. 90–500, title IV, § 403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, § 511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, § 3(b)(10), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, § 5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, § 1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
+(Added Pub. L. 90–500, title IV, § 403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, § 511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, § 3(b)(10), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, § 5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, § 1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 111–383, § 1072(c)(1), substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in section catchline.
+2011—Pub. L. 111–383, § 1072(c)(1), substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in section catchline.
 
-Subsec. (a). Pub. L. 111–383, § 1072(a)(1), (b), substituted “State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “State and local law enforcement and firefighting agencies”, “personal protective equipment, and other appropriate equipment” for “and protective body armor”, and “in carrying out law enforcement, firefighting, homeland security, and emergency management activities” for “in carrying out law enforcement and firefighting activities”.
+Subsec. (a). Pub. L. 111–383, § 1072(a)(1), (b), substituted “State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “State and local law enforcement and firefighting agencies”, “personal protective equipment, and other appropriate equipment” for “and protective body armor”, and “in carrying out law enforcement, firefighting, homeland security, and emergency management activities” for “in carrying out law enforcement and firefighting activities”.
 
 Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-Subsec. (b). Pub. L. 111–383, § 1072(a)(2), substituted “State or local law enforcement, firefighting, homeland security, or emergency management agency” for “State or local law enforcement or firefighting agency” in two places.
+Subsec. (b). Pub. L. 111–383, § 1072(a)(2), substituted “State or local law enforcement, firefighting, homeland security, or emergency management agency” for “State or local law enforcement or firefighting agency” in two places.
 
 2002—Subsec. (a). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
@@ -524,7 +524,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Transfer of Excess Aircraft to Other Departments of the Federal Government and to States**
 
-Pub. L. 112–239, div. A, title X, § 1091, Jan. 2, 2013, 126 Stat. 1971, as amended by Pub. L. 117–263, div. A, title X, § 1060, Dec. 23, 2022, 136 Stat. 2781, provided that:
+Pub. L. 112–239, div. A, title X, § 1091, Jan. 2, 2013, 126 Stat. 1971, as amended by Pub. L. 117–263, div. A, title X, § 1060, Dec. 23, 2022, 136 Stat. 2781, provided that:
 
 > **“(a) Transfer.—** The Secretary of Defense may transfer excess aircraft specified in subsection (b) to the Secretary of Agriculture for use by the Forest Service, to the Secretary of Homeland Security for use by the United States Coast Guard, and to the Governor of a State. The transfer of any excess aircraft under this subsection shall be without reimbursement.
 
@@ -566,7 +566,7 @@ Pub. L. 112–239, div. A, title X, § 1091, Jan. 2, 2013, 126 Stat. 1971, as 
 
 **Commercial Sale of Small Arms Ammunition and Small Arms Ammunition Components in Excess of Military Requirements, and Fired Cartridge Cases**
 
-Pub. L. 111–383, div. A, title III, § 346, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 112–81, div. A, title III, § 361, Dec. 31, 2011, 125 Stat. 1377, provided that:
+Pub. L. 111–383, div. A, title III, § 346, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 112–81, div. A, title III, § 361, Dec. 31, 2011, 125 Stat. 1377, provided that:
 
 > **“(a) Commercial Sale of Small Arms Ammunition, Small [Arms] Ammunition Components, and Fired Cartridge Cases.—** Small arms ammunition and small [arms] ammunition components which are in excess of military requirements, and intact fired small arms cartridge cases shall be made available for commercial sale. Such small arms ammunition, small arms ammunition components, and intact fired cartridge cases shall not be demilitarized, destroyed, or disposed of, unless in excess of commercial demands or certified by the Secretary of Defense as unserviceable or unsafe. This provision shall not apply to ammunition, ammunition components, or fired cartridge cases stored or expended outside the continental United States (OCONUS).
 
@@ -586,7 +586,7 @@ Pub. L. 111–383, div. A, title III, § 346, Jan. 7, 2011, 124 Stat. 4191, as
 
 **Authority To Sell Aircraft and Aircraft Parts for Use in Responding to Oil Spills**
 
-Pub. L. 106–181, title VII, § 740, Apr. 5, 2000, 114 Stat. 173, as amended by Pub. L. 107–296, title XVII, § 1704(e)(6), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title X, §§ 1051, 1062(i), Dec. 2, 2002, 116 Stat. 2648, 2651, provided that:
+Pub. L. 106–181, title VII, § 740, Apr. 5, 2000, 114 Stat. 173, as amended by Pub. L. 107–296, title XVII, § 1704(e)(6), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title X, §§ 1051, 1062(i), Dec. 2, 2002, 116 Stat. 2648, 2651, provided that:
 
 > **“(a) Authority.—**
 
@@ -644,7 +644,7 @@ Pub. L. 106–181, title VII, § 740, Apr. 5, 2000, 114 Stat. 173, as amended 
 
 **Sale of Aircraft for Wildfire Suppression Purposes**
 
-Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, § 1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, § 1 [[div. A], title III, § 388], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, § 1062(k), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 112–239, div. A, title X, § 1090, Jan. 2, 2013, 126 Stat. 1971; Pub. L. 119–18, § 2, June 12, 2025, 139 Stat. 68, provided that:
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, § 1067(23), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–398, § 1 [[div. A], title III, § 388], Oct. 30, 2000, 114 Stat. 1654, 1654A–89; Pub. L. 107–314, div. A, title X, § 1062(k), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 112–239, div. A, title X, § 1090, Jan. 2, 2013, 126 Stat. 1971; Pub. L. 119–18, § 2, June 12, 2025, 139 Stat. 68, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -694,7 +694,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 > **“(h) Construction.—** Nothing in this section may be construed as affecting the authority of the Administrator of the Federal Aviation Administration under any other provision of law.”
 
-## § 2576a. Excess personal property: sale or donation for law enforcement activities
+## § 2576a. Excess personal property: sale or donation for law enforcement activities
 
 **(a) Transfer Authorized.—**
 
@@ -748,7 +748,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 **(g) Controlled Property.—** In this section, the term “controlled property” means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, “Defense Materiel Disposition Manual”, or any successor document.
 
-(Added Pub. L. 104–201, div. A, title X, § 1033(a)(1), Sept. 23, 1996, 110 Stat. 2639; amended Pub. L. 114–92, div. A, title X, §§ 1051(a)–(c), 1052, Nov. 25, 2015, 129 Stat. 979–981; Pub. L. 115–91, div. A, title X, § 1081(a)(43), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–283, div. A, title X, § 1053, Jan. 1, 2021, 134 Stat. 3850.)
+(Added Pub. L. 104–201, div. A, title X, § 1033(a)(1), Sept. 23, 1996, 110 Stat. 2639; amended Pub. L. 114–92, div. A, title X, §§ 1051(a)–(c), 1052, Nov. 25, 2015, 129 Stat. 979–981; Pub. L. 115–91, div. A, title X, § 1081(a)(43), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–283, div. A, title X, § 1053, Jan. 1, 2021, 134 Stat. 3850.)
 
 **Editorial Notes**
 
@@ -758,37 +758,37 @@ Section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, 
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, § 1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, § 1033(b)(1). Section 372 of this title was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, § 1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, § 1033(b)(1). Section 372 of this title was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Amendments**
 
-2021—Subsec. (a)(1)(A). Pub. L. 116–283, § 1053(a)(1), inserted “disaster-related emergency preparedness,” after “counterterrorism,”.
+2021—Subsec. (a)(1)(A). Pub. L. 116–283, § 1053(a)(1), inserted “disaster-related emergency preparedness,” after “counterterrorism,”.
 
-Subsec. (b)(6). Pub. L. 116–283, § 1053(b)(1), inserted “, including respect for the rights of citizens under the Constitution of the United States and de-escalation of force” before period at end.
+Subsec. (b)(6). Pub. L. 116–283, § 1053(b)(1), inserted “, including respect for the rights of citizens under the Constitution of the United States and de-escalation of force” before period at end.
 
-Subsec. (d). Pub. L. 116–283, § 1053(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.”
+Subsec. (d). Pub. L. 116–283, § 1053(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counterdrug, counterterrorism, or border security activities of the recipient agency.”
 
-Subsecs. (e) to (g). Pub. L. 116–283, § 1053(b)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 116–283, § 1053(b)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 2017—Subsec. (b)(4). Pub. L. 115–91 struck out “and” at end.
 
-2015—Subsec. (a)(1)(A). Pub. L. 114–92, § 1052(1)(A), substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
+2015—Subsec. (a)(1)(A). Pub. L. 114–92, § 1052(1)(A), substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
 
-Subsec. (a)(2). Pub. L. 114–92, § 1052(1)(B), substituted “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate” for “the Attorney General and the Director of National Drug Control Policy”.
+Subsec. (a)(2). Pub. L. 114–92, § 1052(1)(B), substituted “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate” for “the Attorney General and the Director of National Drug Control Policy”.
 
-Subsec. (b)(5), (6). Pub. L. 114–92, § 1051(b), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 114–92, § 1051(b), added pars. (5) and (6).
 
-Subsec. (d). Pub. L. 114–92, § 1052(2), substituted “counterdrug, counterterrorism, or border security activities” for “counter-drug or counter-terrorism activities”.
+Subsec. (d). Pub. L. 114–92, § 1052(2), substituted “counterdrug, counterterrorism, or border security activities” for “counter-drug or counter-terrorism activities”.
 
-Subsec. (e). Pub. L. 114–92, § 1051(a), added subsec. (e).
+Subsec. (e). Pub. L. 114–92, § 1051(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 114–92, § 1051(c), added subsec. (f).
+Subsec. (f). Pub. L. 114–92, § 1051(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Plan for Use of Excess Construction Materials on Southwest Border**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2890, Dec. 22, 2023, 137 Stat. 785, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2890, Dec. 22, 2023, 137 Stat. 785, provided that:
 
 > **“(a) Plan.—** Not later than 75 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall submit to Congress a plan to use, transfer, or donate to States on the southern border of the United States all covered materials, with prioritization given to the refurbishment and or maintenance of ports of entry along the southwest border and construction projects aimed at stopping illicit human and vehicle traffic along the border of the United States with Mexico.
 
@@ -816,13 +816,13 @@ Pub. L. 118–31, div. B, title XXVIII, § 2890, Dec. 22, 2023, 137 Stat. 785,
 
 **Process for Communicating Availability of Surplus Ammunition**
 
-Pub. L. 114–328, div. A, title III, § 344, Dec. 23, 2016, 130 Stat. 2084, provided that:
+Pub. L. 114–328, div. A, title III, § 344, Dec. 23, 2016, 130 Stat. 2084, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall implement a formal process to provide Federal Government agencies outside the Department of Defense with information on the availability of surplus, serviceable ammunition from the Department of Defense for the purpose of reducing costs relating to the storage and disposal of such ammunition.
 
 > **“(b) Implementation Deadline.—** The Secretary shall implement the process described in subsection (a) beginning not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016].”
 
-## § 2576b. Excess personal property: sale or donation to assist firefighting agencies
+## § 2576b. Excess personal property: sale or donation to assist firefighting agencies
 
 **(a) Transfer Authorized.—** Subject to subsection (b), the Secretary of Defense shall transfer to a firefighting agency in a State any personal property of the Department of Defense that the Secretary determines is—
 
@@ -848,7 +848,7 @@ Pub. L. 114–328, div. A, title III, § 344, Dec. 23, 2016, 130 Stat. 2084, p
 
 **(2) Firefighting agency.—** The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title XVII, § 1706(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–367; amended Pub. L. 108–375, div. A, title III, § 354, Oct. 28, 2004, 118 Stat. 1861.)
+(Added Pub. L. 106–398, § 1 [[div. A], title XVII, § 1706(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–367; amended Pub. L. 108–375, div. A, title III, § 354, Oct. 28, 2004, 118 Stat. 1861.)
 
 **Editorial Notes**
 
@@ -860,7 +860,7 @@ Pub. L. 114–328, div. A, title III, § 344, Dec. 23, 2016, 130 Stat. 2084, p
 
 **Identification of Defense Technologies Suitable for Use, or Conversion for Use, in Providing Fire and Emergency Medical Services**
 
-Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 Stat. 1654, 1654A–367, provided that:
+Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 Stat. 1654, 1654A–367, provided that:
 
 > **“(a) Appointment of Task Force; Purpose.—** The Secretary of Defense shall appoint a task force consisting of representatives from the Department of Defense and each of the seven major fire organizations identified in subsection (b) to identify defense technologies and equipment that—
 
@@ -886,7 +886,7 @@ Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 
 
 > **“(c) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary of Defense for activities of the task force $1,000,000 for fiscal year 2001.”
 
-## § 2577. Disposal of recyclable materials
+## § 2577. Disposal of recyclable materials
 
 **(a)**
 
@@ -906,15 +906,15 @@ Pub. L. 106–398, § 1 [[div. A], title XVII, § 1707], Oct. 30, 2000, 114 
 
 **(c)** If the balance available to a military installation under this section at the end of any fiscal year is in excess of $10,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 97–214, § 6(b)(1), July 12, 1982, 96 Stat. 172; amended Pub. L. 98–525, title XIV, § 1405(37), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 107–217, § 3(b)(11), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 116–92, div. A, title III, §§ 313, 314, Dec. 20, 2019, 133 Stat. 1303.)
+(Added Pub. L. 97–214, § 6(b)(1), July 12, 1982, 96 Stat. 172; amended Pub. L. 98–525, title XIV, § 1405(37), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 107–217, § 3(b)(11), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 116–92, div. A, title III, §§ 313, 314, Dec. 20, 2019, 133 Stat. 1303.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a)(3). Pub. L. 116–92, § 314, added par. (3).
+2019—Subsec. (a)(3). Pub. L. 116–92, § 314, added par. (3).
 
-Subsec. (c). Pub. L. 116–92, § 313, substituted “$10,000,000” for “$2,000,000”.
+Subsec. (c). Pub. L. 116–92, § 313, substituted “$10,000,000” for “$2,000,000”.
 
 2002—Subsec. (a)(2). Pub. L. 107–217 substituted “sections 541–555 of title 40” for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”.
 
@@ -928,7 +928,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 **Policy To Increase Disposition of Spent Advanced Batteries Through Recycling**
 
-Pub. L. 117–263, div. A, title III, § 325, Dec. 23, 2022, 136 Stat. 2518, provided that:
+Pub. L. 117–263, div. A, title III, § 325, Dec. 23, 2022, 136 Stat. 2518, provided that:
 
 > **“(a) Policy Required.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Assistant Secretary of Defense for Energy, Installations, and Environment, in coordination with the Director of the Defense Logistics Agency, shall establish a policy to increase the disposition of spent advanced batteries of the Department of Defense through recycling (including by updating the Department of Defense Manual 4160.21, titled ‘Defense Material Disposition: Disposal Guidance and Procedures’, or such successor document, accordingly), for the purpose of supporting the reclamation and return of precious metals, rare earth metals, and elements of strategic importance (such as cobalt and lithium) into the supply chain or strategic reserves of the United States.
 
@@ -940,15 +940,15 @@ Pub. L. 117–263, div. A, title III, § 325, Dec. 23, 2022, 136 Stat. 2518, p
 
 > **“(3)** Direct cathode recycling, relithiation, and upcycling.”
 
-## § 2578. Vessels: transfer between departments
+## § 2578. Vessels: transfer between departments
 
 A vessel under the jurisdiction of a military department may be transferred or otherwise made available without reimbursement to another military department or to the Department of Homeland Security, and a vessel under the jurisdiction of the Department of Homeland Security may be transferred or otherwise made available without reimbursement to a military department. Any such transfer may be made only upon the request of the Secretary of the military department concerned or the Secretary of Homeland Security, as the case may be, and with the approval of the Secretary of the department having jurisdiction of the vessel.
 
-(Added Pub. L. 100–370, § 1(k)(1), July 19, 1988, 102 Stat. 848; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 100–370, § 1(k)(1), July 19, 1988, 102 Stat. 848; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8012], Dec. 19, 1985, 99 Stat. 1185, 1204.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8012], Dec. 19, 1985, 99 Stat. 1185, 1204.
 
 **Editorial Notes**
 
@@ -962,7 +962,7 @@ Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8012], Dec. 
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 2579. War booty: procedures for handling and retaining battlefield objects
+## § 2579. War booty: procedures for handling and retaining battlefield objects
 
 **(a) Policy.—** The United States recognizes that battlefield souvenirs have traditionally provided military personnel with a valued memento of service in a national cause. At the same time, it is the policy and tradition of the United States that the desire for souvenirs in a combat theater not blemish the conduct of combat operations or result in the mistreatment of enemy personnel, the dishonoring of the dead, distraction from the conduct of operations, or other unbecoming activities.
 
@@ -984,13 +984,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(C)** A charge may be assessed in connection with each weapon in an amount sufficient to cover the full cost of rendering the weapon unserviceable.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1171(a)(1), Nov. 30, 1993, 107 Stat. 1765.)
+(Added Pub. L. 103–160, div. A, title XI, § 1171(a)(1), Nov. 30, 1993, 107 Stat. 1765.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 103–160, div. A, title XI, § 1171(b), Nov. 30, 1993, 107 Stat. 1766, provided that:
+Pub. L. 103–160, div. A, title XI, § 1171(b), Nov. 30, 1993, 107 Stat. 1766, provided that:
 
 > “The initial regulations required by section 2579 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act [Nov. 30, 1993]. Such regulations shall specifically address the following, consistent with section 2579 of title 10, United States Code, as added by subsection (a):
 
@@ -1008,7 +1008,7 @@ Pub. L. 103–160, div. A, title XI, § 1171(b), Nov. 30, 1993, 107 Stat. 1766
 
 > **“(7)** The criteria and procedures necessary to ensure that servicemembers who have obtained battlefield souvenirs in a manner consistent with military customs, traditions, and regulations have a reasonable opportunity to obtain possession of such souvenirs, consistent with the needs of the service.”
 
-## § 2580. Donation of excess chapel property
+## § 2580. Donation of excess chapel property
 
 **(a) Authority To Donate.—** The Secretary of a military department may donate personal property specified in subsection (b) to an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 that is a religious organization in order to assist the organization in restoring or replacing property of the organization that has been damaged or destroyed as a result of an act of arson or terrorism, as determined pursuant to procedures prescribed by the Secretary of Defense.
 
@@ -1024,7 +1024,7 @@ Pub. L. 103–160, div. A, title XI, § 1171(b), Nov. 30, 1993, 107 Stat. 1766
 
 **(c) Donees Not To Be Charged.—** No charge may be imposed by the Secretary of a military department on a donee of property under this section in connection with the donation. However, the donee shall agree to defray any expense for shipping or other transportation of property donated under this section from the location of the property when donated to any other location.
 
-(Added Pub. L. 105–85, div. A, title X, § 1063(a), Nov. 18, 1997, 111 Stat. 1892.)
+(Added Pub. L. 105–85, div. A, title X, § 1063(a), Nov. 18, 1997, 111 Stat. 1892.)
 
 **Editorial Notes**
 
@@ -1032,7 +1032,7 @@ Pub. L. 103–160, div. A, title XI, § 1171(b), Nov. 30, 1993, 107 Stat. 1766
 
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
-## § 2581. Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries
+## § 2581. Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries
 
 **(a) Requirements.—**
 
@@ -1042,11 +1042,11 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **(b) Exception.—** Subsection (a) does not apply with respect to salvage helicopters provided to the foreign country solely as a source for spare parts.
 
-(Added Pub. L. 105–261, div. A, title XII, § 1234(a), Oct. 17, 1998, 112 Stat. 2156.)
+(Added Pub. L. 105–261, div. A, title XII, § 1234(a), Oct. 17, 1998, 112 Stat. 2156.)
 
-## [§ 2582. Repealed. Pub. L. 112–81, div. A, title X, § 1061(19)(A), Dec. 31, 2011, 125 Stat. 1584]
+## [§ 2582. Repealed. Pub. L. 112–81, div. A, title X, § 1061(19)(A), Dec. 31, 2011, 125 Stat. 1584]
 
-Section, added Pub. L. 106–398, § 1 [[div. A], title III, § 381(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–84, related to annual report of public sales of military equipment identified on United States munitions list.
+Section, added Pub. L. 106–398, § 1 [[div. A], title III, § 381(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–84, related to annual report of public sales of military equipment identified on United States munitions list.
 
 **Editorial Notes**
 
@@ -1054,7 +1054,7 @@ Section, added Pub. L. 106–398, § 1 [[div. A], title III, § 381(a)], Oct
 
 Another section 2582 was renumbered section 2583 of this title.
 
-## § 2583. Military animals: transfer and adoption
+## § 2583. Military animals: transfer and adoption
 
 **(a) Availability for Transfer or Adoption.—** The Secretary of the military department concerned shall make a military animal of such military department available for transfer or adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for transfer or adoption under subsection (b), under circumstances as follows:
 
@@ -1126,7 +1126,7 @@ Another section 2582 was renumbered section 2583 of this title.
 
 **(2)** An equid (horse, mule, or donkey) owned by the Department of Defense.
 
-(Added Pub. L. 106–446, § 1(a), Nov. 6, 2000, 114 Stat. 1932, § 2582; renumbered § 2583, Pub. L. 107–107, div. A, title X, § 1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, § 599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, § 352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, § 1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, § 351, title X, § 1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, § 371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, § 1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, § 342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, § 342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, § 352, Aug. 13, 2018, 132 Stat. 1731; Pub. L. 116–92, div. A, title III, § 372(a)–(e), Dec. 20, 2019, 133 Stat. 1330, 1331; Pub. L. 116–283, div. A, title X, § 1081(a)(42), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3873, 4294; Pub. L. 117–81, div. A, title III, § 373(a), Dec. 27, 2021, 135 Stat. 1667.)
+(Added Pub. L. 106–446, § 1(a), Nov. 6, 2000, 114 Stat. 1932, § 2582; renumbered § 2583, Pub. L. 107–107, div. A, title X, § 1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, § 599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, § 352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, § 1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, § 351, title X, § 1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, § 371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, § 1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, § 342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, § 342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, § 352, Aug. 13, 2018, 132 Stat. 1731; Pub. L. 116–92, div. A, title III, § 372(a)–(e), Dec. 20, 2019, 133 Stat. 1330, 1331; Pub. L. 116–283, div. A, title X, § 1081(a)(42), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3873, 4294; Pub. L. 117–81, div. A, title III, § 373(a), Dec. 27, 2021, 135 Stat. 1667.)
 
 **Editorial Notes**
 
@@ -1134,89 +1134,89 @@ Another section 2582 was renumbered section 2583 of this title.
 
 2021—Subsec. (d). Pub. L. 117–81 substituted “shall” for “may”.
 
-Subsec. (f)(1)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
+Subsec. (f)(1)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
 
-Subsec. (g)(2)(A). Pub. L. 116–283, § 1081(a)(42), inserted “or” after semicolon at end.
+Subsec. (g)(2)(A). Pub. L. 116–283, § 1081(a)(42), inserted “or” after semicolon at end.
 
-Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
+Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 2387” for “section 2410r”.
 
-2019—Subsec. (a). Pub. L. 116–92, § 372(a)(1), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” wherever appearing.
+2019—Subsec. (a). Pub. L. 116–92, § 372(a)(1), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” wherever appearing.
 
-Subsec. (b). Pub. L. 116–92, § 372(a)(2), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” in first sentence and “transferability or adoptability” for “adoptability” in second sentence.
+Subsec. (b). Pub. L. 116–92, § 372(a)(2), inserted “Transfer or” before “Adoption” in heading and substituted “transfer or adoption” for “adoption” in first sentence and “transferability or adoptability” for “adoptability” in second sentence.
 
-Subsec. (c)(1). Pub. L. 116–92, § 372(a)(3)(A), inserted “transfer or” before “adoption” and “, by” after “recommended priority” in introductory provisions.
+Subsec. (c)(1). Pub. L. 116–92, § 372(a)(3)(A), inserted “transfer or” before “adoption” and “, by” after “recommended priority” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 116–92, § 372(a)(3)(B), inserted “adoption” before “by”.
+Subsec. (c)(1)(A). Pub. L. 116–92, § 372(a)(3)(B), inserted “adoption” before “by”.
 
-Subsec. (c)(1)(B). Pub. L. 116–92, § 372(a)(3)(B), (C), inserted “adoption” before “by” and “or organizations” after “persons”.
+Subsec. (c)(1)(B). Pub. L. 116–92, § 372(a)(3)(B), (C), inserted “adoption” before “by” and “or organizations” after “persons”.
 
-Subsec. (c)(1)(C). Pub. L. 116–92, § 372(a)(3)(D), substituted “transfer to” for “by”.
+Subsec. (c)(1)(C). Pub. L. 116–92, § 372(a)(3)(D), substituted “transfer to” for “by”.
 
-Subsec. (e). Pub. L. 116–92, § 372(a)(4), inserted “or Adopted” after “Transferred” in heading and substituted “transferred or adopted” for “transferred” in pars. (1) and (2), and “transfer or adoption” for “transfer” in two places in par. (2).
+Subsec. (e). Pub. L. 116–92, § 372(a)(4), inserted “or Adopted” after “Transferred” in heading and substituted “transferred or adopted” for “transferred” in pars. (1) and (2), and “transfer or adoption” for “transfer” in two places in par. (2).
 
-Subsec. (f). Pub. L. 116–92, § 372(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 116–92, § 372(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 116–92, § 372(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. consisted of pars. (1) to (3) relating to transfer of retired military working dogs. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 116–92, § 372(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. consisted of pars. (1) to (3) relating to transfer of retired military working dogs. Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(3). Pub. L. 116–92, § 372(d), substituted “transfer of military working dogs to law enforcement agencies before the end of the dogs’ useful working lives.” for “adoption of military working dogs by law enforcement agencies before the end of the dogs’ useful lives.”
+Subsec. (h)(3). Pub. L. 116–92, § 372(d), substituted “transfer of military working dogs to law enforcement agencies before the end of the dogs’ useful working lives.” for “adoption of military working dogs by law enforcement agencies before the end of the dogs’ useful lives.”
 
-Subsec. (i). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 116–92, § 372(b)(1), redesignated subsec. (h) as (i).
 
-Subsec. (i)(2). Pub. L. 116–92, § 372(e), added par. (2) and struck out former par. (2) which read as follows: “A horse owned by the Department of Defense.”
+Subsec. (i)(2). Pub. L. 116–92, § 372(e), added par. (2) and struck out former par. (2) which read as follows: “A horse owned by the Department of Defense.”
 
 2018—Subsec. (f)(3). Pub. L. 115–232 added par. (3).
 
 2016—Subsec. (h)(1). Pub. L. 114–328 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A military working dog.”
 
-2015—Subsec. (a). Pub. L. 114–92, § 342(a), substituted “shall make” for “may make” in introductory provisions.
+2015—Subsec. (a). Pub. L. 114–92, § 342(a), substituted “shall make” for “may make” in introductory provisions.
 
-Subsec. (c). Pub. L. 114–92, § 342(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”
+Subsec. (c). Pub. L. 114–92, § 342(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”
 
-Subsec. (f). Pub. L. 114–92, § 342(d)(1), (2), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 114–92, § 342(d)(1), (2), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Pub. L. 114–92, § 342(c), substituted “shall transfer” for “may transfer” in introductory provisions.
+Pub. L. 114–92, § 342(c), substituted “shall transfer” for “may transfer” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 114–92, § 342(d)(3)(A), struck out “, and no suitable adoption is available at the military facility where the dog is located,” after “should be retired” in introductory provisions.
+Subsec. (f)(1). Pub. L. 114–92, § 342(d)(3)(A), struck out “, and no suitable adoption is available at the military facility where the dog is located,” after “should be retired” in introductory provisions.
 
-Subsec. (f)(1)(B). Pub. L. 114–92, § 342(d)(3)(B), inserted “within the United States” after “to another location”.
+Subsec. (f)(1)(B). Pub. L. 114–92, § 342(d)(3)(B), inserted “within the United States” after “to another location”.
 
-Subsecs. (g), (h). Pub. L. 114–92, § 342(e), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 114–92, § 342(e), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2013—Subsecs. (f), (g). Pub. L. 112–239, § 371(a), as amended by Pub. L. 113–66, § 1091(b)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
+2013—Subsecs. (f), (g). Pub. L. 112–239, § 371(a), as amended by Pub. L. 113–66, § 1091(b)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2011—Subsec. (a)(2). Pub. L. 112–81, § 351(1), inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
+2011—Subsec. (a)(2). Pub. L. 112–81, § 351(1), inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
 
-Subsec. (c). Pub. L. 112–81, § 351(2), inserted at end “If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”.
+Subsec. (c). Pub. L. 112–81, § 351(2), inserted at end “If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”.
 
-Subsecs. (f), (g). Pub. L. 112–81, § 1061(20), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year, the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section.”
+Subsecs. (f), (g). Pub. L. 112–81, § 1061(20), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The Secretary of Defense shall submit to Congress an annual report specifying the number of military animals adopted under this section during the preceding year, the number of these animals currently awaiting adoption, and the number of these animals euthanized during the preceding year. With respect to each euthanized military animal, the report shall contain an explanation of the reasons why the animal was euthanized rather than retained for adoption under this section.”
 
 2008—Subsec. (e). Pub. L. 110–181 substituted “Animals” for “Dogs” in heading.
 
-2006—Pub. L. 109–364, § 352(a)(1), substituted “animals” for “working dogs” in section catchline.
+2006—Pub. L. 109–364, § 352(a)(1), substituted “animals” for “working dogs” in section catchline.
 
-Pub. L. 109–163, § 599(d), struck out “at end of useful working life” after “adoption” in section catchline.
+Pub. L. 109–163, § 599(d), struck out “at end of useful working life” after “adoption” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 352(a)(2)–(4), substituted “animal’s” for “dog’s” in pars. (1) and (2) and “animal” for “dog” wherever appearing, and struck out “working” after “may make a military” in introductory provisions and after “useful” in pars. (1) and (2).
+Subsec. (a). Pub. L. 109–364, § 352(a)(2)–(4), substituted “animal’s” for “dog’s” in pars. (1) and (2) and “animal” for “dog” wherever appearing, and struck out “working” after “may make a military” in introductory provisions and after “useful” in pars. (1) and (2).
 
-Pub. L. 109–163, § 599(a), (b), substituted “Secretary of the military department concerned may” for “Secretary of Defense may”, “such military department” for “the Department of Defense”, and “, unless the dog has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:” and pars. (1) to (3) for “at the end of the dog’s useful working life or when the dog is otherwise excess to the needs of the Department, unless the dog has been determined to be unsuitable for adoption under subsection (b).”
+Pub. L. 109–163, § 599(a), (b), substituted “Secretary of the military department concerned may” for “Secretary of Defense may”, “such military department” for “the Department of Defense”, and “, unless the dog has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:” and pars. (1) to (3) for “at the end of the dog’s useful working life or when the dog is otherwise excess to the needs of the Department, unless the dog has been determined to be unsuitable for adoption under subsection (b).”
 
-Subsec. (b). Pub. L. 109–364, § 352(a)(2), (3), (5), substituted “the adoptability of the animal” for “a dog’s adoptability” and “animal” for “dog” in two places and struck out “working” after “military”.
+Subsec. (b). Pub. L. 109–364, § 352(a)(2), (3), (5), substituted “the adoptability of the animal” for “a dog’s adoptability” and “animal” for “dog” in two places and struck out “working” after “military”.
 
-Subsec. (c). Pub. L. 109–364, § 352(a)(2), (3), substituted “animals” for “dogs” wherever appearing and struck out “working” after “Military”.
+Subsec. (c). Pub. L. 109–364, § 352(a)(2), (3), substituted “animals” for “dogs” wherever appearing and struck out “working” after “Military”.
 
-Subsec. (d). Pub. L. 109–364, § 352(a)(2), (3), substituted “animal” for “dog” and struck out “working” after “military”.
+Subsec. (d). Pub. L. 109–364, § 352(a)(2), (3), substituted “animal” for “dog” and struck out “working” after “military”.
 
-2006—Subsec. (e). Pub. L. 109–364, § 352(a)(3), substituted “animal” for “dog” wherever appearing in text.
+2006—Subsec. (e). Pub. L. 109–364, § 352(a)(3), substituted “animal” for “dog” wherever appearing in text.
 
-Pub. L. 109–364, § 352(a)(2), struck out “working” after “military” wherever appearing.
+Pub. L. 109–364, § 352(a)(2), struck out “working” after “military” wherever appearing.
 
-Subsec. (f). Pub. L. 109–364, § 352(a)(2), (3), substituted “animal” for “dog” in two places and “animals” for “dogs” wherever appearing and struck out “working” after “military” in two places.
+Subsec. (f). Pub. L. 109–364, § 352(a)(2), (3), substituted “animal” for “dog” in two places and “animals” for “dogs” wherever appearing and struck out “working” after “military” in two places.
 
-Pub. L. 109–163, § 599(c), inserted “of Defense” after “Secretary”.
+Pub. L. 109–163, § 599(c), inserted “of Defense” after “Secretary”.
 
-Subsec. (g). Pub. L. 109–364, § 352(a)(6), added subsec. (g).
+Subsec. (g). Pub. L. 109–364, § 352(a)(6), added subsec. (g).
 
 2001—Pub. L. 107–107 renumbered section 2582 of this title as this section.
 
@@ -1228,4 +1228,4 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.

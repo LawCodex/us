@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 62—BEEF RESEARCH AND INFORMATION
 
-## § 2901. Congressional findings and declaration of policy
+## § 2901. Congressional findings and declaration of policy
 
 **(a)** Congress finds that—
 
@@ -33,7 +33,7 @@ retrieved: 2026-10-11
 
 **(b)** It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all cattle sold in the United States and on cattle, beef, and beef products imported into the United States) and carrying out a coordinated program of promotion and research designed to strengthen the beef industry’s position in the marketplace and to maintain and expand domestic and foreign markets and uses for beef and beef products. Nothing in this chapter shall be construed to limit the right of individual producers to raise cattle.
 
-(Pub. L. 94–294, § 2, May 28, 1976, 90 Stat. 529; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1597.)
+(Pub. L. 94–294, § 2, May 28, 1976, 90 Stat. 529; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1597.)
 
 **Editorial Notes**
 
@@ -45,25 +45,25 @@ retrieved: 2026-10-11
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVI, § 1601(c), Dec. 23, 1985, 99 Stat. 1606, provided that: “The amendments made by this section [amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section] shall take effect on January 1, 1986.”
+Pub. L. 99–198, title XVI, § 1601(c), Dec. 23, 1985, 99 Stat. 1606, provided that: “The amendments made by this section [amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section] shall take effect on January 1, 1986.”
 
 **Effective Date**
 
-Pub. L. 94–294, § 21, May 28, 1976, 90 Stat. 538, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] shall take effect upon enactment [May 28, 1976]”.
+Pub. L. 94–294, § 21, May 28, 1976, 90 Stat. 538, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] shall take effect upon enactment [May 28, 1976]”.
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–198, title XVI, § 1601(a), Dec. 23, 1985, 99 Stat. 1597, provided that: “This section [amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
+Pub. L. 99–198, title XVI, § 1601(a), Dec. 23, 1985, 99 Stat. 1597, provided that: “This section [amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
 
 **Short Title**
 
-Pub. L. 94–294, § 1, May 28, 1976, 90 Stat. 529, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] shall be known as the ‘Beef Research and Information Act’.”
+Pub. L. 94–294, § 1, May 28, 1976, 90 Stat. 529, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] shall be known as the ‘Beef Research and Information Act’.”
 
 **Separability**
 
-Pub. L. 94–294, § 19, May 28, 1976, 90 Stat. 537, which provided that if any provision of this Act [enacting this chapter and provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, § 1601(b), Dec. 28, 1985, 99 Stat. 1597.
+Pub. L. 94–294, § 19, May 28, 1976, 90 Stat. 537, which provided that if any provision of this Act [enacting this chapter and provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, § 1601(b), Dec. 28, 1985, 99 Stat. 1597.
 
-## § 2902. Definitions
+## § 2902. Definitions
 
 For purposes of this chapter—
 
@@ -81,15 +81,15 @@ For purposes of this chapter—
 
 **(7)** the term “Department” means the Department of Agriculture.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(8)** the term “importer” means any person who imports cattle, beef, or beef products from outside the United States;
 
 **(9)** the term “industry information” means information and programs that will lead to the development of new markets, marketing strategies, increased efficiency, and activities to enhance the image of the cattle industry;
 
-**(10)** The 2
+**(10)** The 2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 term “order” means a beef promotion and research order issued under section 2903 of this title.<sup>1</sup>
 
@@ -105,11 +105,11 @@ term “order” means a beef promotion and research order issued under section 
 
 **(16)** the term “Secretary” means the Secretary of Agriculture;
 
-**(17)** The <sup>2</sup> term “State” means each of the 50 States; and
+**(17)** The <sup>2</sup> term “State” means each of the 50 States; and
 
 **(18)** the term “United States” means the several States and the District of Columbia.
 
-(Pub. L. 94–294, § 3, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1598.)
+(Pub. L. 94–294, § 3, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1598.)
 
 **Editorial Notes**
 
@@ -123,13 +123,13 @@ term “order” means a beef promotion and research order issued under section 
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2903. Issuance of orders
+## § 2903. Issuance of orders
 
 **(a)** During the period beginning on January 1, 1986, and ending thirty days after receipt of a proposal for a beef promotion and research order, the Secretary shall publish such proposed order and give due notice and opportunity for public comment on such proposed order. Such proposal may be submitted by any organization meeting the requirements for certification under section 2905 of this title or any interested person, including the Secretary.
 
 **(b)** After notice and opportunity for public comment are given, as provided for in subsection (a), the Secretary shall issue a beef promotion and research order. The order shall become effective not later than one hundred and twenty days following publication of the proposed order.
 
-(Pub. L. 94–294, § 4, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1599.)
+(Pub. L. 94–294, § 4, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1599.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2904. Required terms in orders
+## § 2904. Required terms in orders
 
 An order issued under section 2903(b) of this title shall contain the following terms and conditions:
 
@@ -205,9 +205,9 @@ In addition, the order shall determine the circumstances under which special mee
 
 **(B)** If an appropriate qualified State beef council does not exist to collect an assessment in accordance with paragraph (1), such assessment shall be collected by the Board.
 
-**(C)** The order also shall provide that each importer of cattle, beef, or beef products shall pay an assessment, in the manner prescribed by the order, to the Board. The assessments shall be used for payment of the costs of plans and projects, as provided for in paragraph (4), and expenses in administering the order, including more administrative costs incurred by the Secretary after the order has been promulgated under this chapter, and to establish a reasonable reserve. The rate of assessment prescribed by the order shall be one dollar per head of cattle, or the equivalent thereof in the case of imported beef and beef products. A producer who can establish that the producer is participating in a program of an established qualified State beef council shall receive credit, in determining the assessment due from such producer, for contributions to such program of up to 50 cents per head of cattle or the equivalent thereof. There shall be only one qualified State beef council in each State. Any person marketing from 1
+**(C)** The order also shall provide that each importer of cattle, beef, or beef products shall pay an assessment, in the manner prescribed by the order, to the Board. The assessments shall be used for payment of the costs of plans and projects, as provided for in paragraph (4), and expenses in administering the order, including more administrative costs incurred by the Secretary after the order has been promulgated under this chapter, and to establish a reasonable reserve. The rate of assessment prescribed by the order shall be one dollar per head of cattle, or the equivalent thereof in the case of imported beef and beef products. A producer who can establish that the producer is participating in a program of an established qualified State beef council shall receive credit, in determining the assessment due from such producer, for contributions to such program of up to 50 cents per head of cattle or the equivalent thereof. There shall be only one qualified State beef council in each State. Any person marketing from 1
 
-<sup>1</sup>  So in original. The word “from” probably should not appear.
+<sup>1</sup> So in original. The word “from” probably should not appear.
 
 beef from cattle of the person’s own production shall remit the assessment to the Board in the manner prescribed by the order.
 
@@ -225,7 +225,7 @@ No information obtained under the authority of this chapter may be made availabl
 
 **(12)** The order shall contain terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order.
 
-(Pub. L. 94–294, § 5, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1599.)
+(Pub. L. 94–294, § 5, May 28, 1976, 90 Stat. 530; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1599.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ No information obtained under the authority of this chapter may be made availabl
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2905. Certification of organizations to nominate
+## § 2905. Certification of organizations to nominate
 
 **(a) Eligibility of State organization certified by Secretary; eligibility criteria**
 
@@ -263,7 +263,7 @@ Certification of State cattle associations and State general farm organizations 
 
 If more than one State organization is certified in a State (or in a unit referred to in section 2904(1) of this title), such organizations may caucus to determine any of such State’s (or such unit’s) nominations under section 2904(1) of this title.
 
-(Pub. L. 94–294, § 6, May 28, 1976, 90 Stat. 531; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1603.)
+(Pub. L. 94–294, § 6, May 28, 1976, 90 Stat. 531; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1603.)
 
 **Editorial Notes**
 
@@ -277,7 +277,7 @@ If more than one State organization is certified in a State (or in a unit referr
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2906. Requirement of referendum
+## § 2906. Requirement of referendum
 
 **(a) Continuation or termination of order**
 
@@ -291,7 +291,7 @@ After the initial referendum, the Secretary may conduct a referendum on the requ
 
 The Department shall be reimbursed from assessments collected by the Board for any expenses incurred by the Department in connection with conducting any referendum under this section, except for the salaries of Government employees. Any referendum conducted under this section shall be conducted on a date established by the Secretary, whereby producers shall certify that they were engaged in the production of cattle during the representative period and, on the same day, shall be provided an opportunity to vote in the referendum. Each referendum shall be conducted at county extension offices, and there shall be provision for an absentee mail ballot on request.
 
-(Pub. L. 94–294, § 7, May 28, 1976, 90 Stat. 531; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1604.)
+(Pub. L. 94–294, § 7, May 28, 1976, 90 Stat. 531; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1604.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ The Department shall be reimbursed from assessments collected by the Board for a
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2907. Refunds
+## § 2907. Refunds
 
 **(a) Establishment of escrow account** During the period prior to the approval of the continuation of an order pursuant to the referendum required under section 2906(a) of this title, subject to subsection (f), the Board shall—
 
@@ -327,7 +327,7 @@ Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub
 
 **(c) Demand and receipt of one-time refund** Subject to subsections (d), (e), and (f) and notwithstanding any other provision of this chapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 any person shall have the right to demand and receive from the Board a one-time refund of all assessments collected under section 2906 of this title from such person during the period referred to in subsection (a) if such person—
 
@@ -347,7 +347,7 @@ Such demand shall be made in accordance with regulations, on a form, and within 
 
 **(f) Insufficiency of funds in escrow account; pro­ration of funds among eligible persons**
 
-**(1)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is approved pursuant to the referendum required under section 2906(a) <sup>1</sup> of this title, the Board shall—
+**(1)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is approved pursuant to the referendum required under section 2906(a) <sup>1</sup> of this title, the Board shall—
 
 **(A)** continue to place in such account, from assessments collected under section 2904 of this title, the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
 
@@ -355,7 +355,7 @@ Such demand shall be made in accordance with regulations, on a form, and within 
 
 **(2)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is not approved pursuant to the referendum required under section 2906(a) of this title, the Board shall prorate the amount of such refunds among all eligible persons who demand such refund.
 
-(Pub. L. 94–294, § 8, May 28, 1976, 90 Stat. 532; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1604.)
+(Pub. L. 94–294, § 8, May 28, 1976, 90 Stat. 532; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1604.)
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ Section 2906(a) of this title, referred to in subsec. (f)(1), was in the origina
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2908. Enforcement
+## § 2908. Enforcement
 
 **(a) Restraining order; civil penalty** If the Secretary believes that the administration and enforcement of this chapter or an order would be adequately served by such procedure, following an opportunity for an administrative hearing on the record, the Secretary may—
 
@@ -391,7 +391,7 @@ The district courts of the United States are vested with jurisdiction specifical
 
 A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action.
 
-(Pub. L. 94–294, § 9, May 28, 1976, 90 Stat. 534; Pub. L. 95–334, title III, § 302, Aug. 4, 1978, 92 Stat. 433; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1605.)
+(Pub. L. 94–294, § 9, May 28, 1976, 90 Stat. 534; Pub. L. 95–334, title III, § 302, Aug. 4, 1978, 92 Stat. 433; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1605.)
 
 **Editorial Notes**
 
@@ -407,11 +407,11 @@ A civil action authorized to be brought under this section shall be referred to 
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2909. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process
+## § 2909. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process
 
 The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this chapter or to determine whether any person subject to this chapter has engaged or is about to engage in any act that constitutes or will constitute a violation of this chapter, the order, or any rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpoena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of the person and the production of records. The court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony regarding the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. Process in any such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
-(Pub. L. 94–294, § 10, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
+(Pub. L. 94–294, § 10, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
 
 **Editorial Notes**
 
@@ -425,13 +425,13 @@ The Secretary may make such investigations as the Secretary deems necessary for 
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2910. Preemption of other Federal and State programs; applicability of provisions to amendments to orders
+## § 2910. Preemption of other Federal and State programs; applicability of provisions to amendments to orders
 
 **(a)** Nothing in this chapter may be construed to preempt or supersede any other program relating to beef promotion organized and operated under the laws of the United States or any State.
 
 **(b)** The provisions of this chapter applicable to the order shall be applicable to amendments to the order.
 
-(Pub. L. 94–294, § 11, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
+(Pub. L. 94–294, § 11, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
 
 **Editorial Notes**
 
@@ -445,11 +445,11 @@ Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## § 2911. Authorization of appropriations
+## § 2911. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter. Sums appropriated to carry out this chapter shall not be available for payment of the expenses or expenditures of the Board or the Committee in administering any provisions of the order issued under section 2903(b) of this title.
 
-(Pub. L. 94–294, § 12, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
+(Pub. L. 94–294, § 12, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
 
 **Editorial Notes**
 
@@ -463,24 +463,24 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-## §§ 2912 to 2918. Omitted
+## §§ 2912 to 2918. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 2912 to 2918 of this title were omitted in the general revision of this chapter by Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1597.
+Sections 2912 to 2918 of this title were omitted in the general revision of this chapter by Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1597.
 
-Section 2912, Pub. L. 94–294, § 13, May 28, 1976, 90 Stat. 535, related to administrative review of orders, petition for such review, a hearing, and judicial review.
+Section 2912, Pub. L. 94–294, § 13, May 28, 1976, 90 Stat. 535, related to administrative review of orders, petition for such review, a hearing, and judicial review.
 
-Section 2913, Pub. L. 94–294, § 14, May 28, 1976, 90 Stat. 536, related to enforcement of orders, referral of civil actions to Attorney General, penalties for willful violations, and availability of additional remedies. See section 2908 of this title.
+Section 2913, Pub. L. 94–294, § 14, May 28, 1976, 90 Stat. 536, related to enforcement of orders, referral of civil actions to Attorney General, penalties for willful violations, and availability of additional remedies. See section 2908 of this title.
 
-Section 2914, Pub. L. 94–294, § 15, May 28, 1976, 90 Stat. 536, related to certification of organizations and contents of a factual report as criteria. See section 2905 of this title.
+Section 2914, Pub. L. 94–294, § 15, May 28, 1976, 90 Stat. 536, related to certification of organizations and contents of a factual report as criteria. See section 2905 of this title.
 
-Section 2915, Pub. L. 94–294, § 16, May 28, 1976, 90 Stat. 537, provided that nothing in this chapter be construed to interfere with workings of any State beef board, council, or other promotion entity. See section 2910(a) of this title.
+Section 2915, Pub. L. 94–294, § 16, May 28, 1976, 90 Stat. 537, provided that nothing in this chapter be construed to interfere with workings of any State beef board, council, or other promotion entity. See section 2910(a) of this title.
 
 Section 2916, Pub. L. 94–294, § 17, May 28, 1976, 90 Stat. 537, authorized Secretary to promulgate regulations to carry out this chapter.
 
-Section 2917, Pub. L. 94–294, § 18, May 28, 1976, 90 Stat. 537, related to investigations by Secretary, oaths and affirmations, subpenas, judicial enforcement, contempt proceedings, and service of process. See section 2909 of this title.
+Section 2917, Pub. L. 94–294, § 18, May 28, 1976, 90 Stat. 537, related to investigations by Secretary, oaths and affirmations, subpenas, judicial enforcement, contempt proceedings, and service of process. See section 2909 of this title.
 
-Section 2918, Pub. L. 94–294, § 20, May 28, 1976, 90 Stat. 538, authorized appropriations to carry out this chapter. See section 2911 of this title.
+Section 2918, Pub. L. 94–294, § 20, May 28, 1976, 90 Stat. 538, authorized appropriations to carry out this chapter. See section 2911 of this title.

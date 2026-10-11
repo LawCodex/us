@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 65—CONTRACTS FOR MATERIALS, SUPPLIES, ARTICLES, AND EQUIPMENT EXCEEDING $10,000
 
-## § 6501. Definitions
+## § 6501. Definitions
 
 In this chapter—
 
@@ -25,14 +25,14 @@ In this chapter—
 
 **(3) Secretary.—** The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3807.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3807.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6501(1) | 41:35 (matter before subsec. (a) related to definition of “agency of the United States”). | June 30, 1936, ch. 881, § 1 (matter before subsec. (a) related to definition of “agency of the United States”), 49 Stat. 2036; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
-| 6501(2) | 41:41. | June 30, 1936, ch. 881, § 7, 49 Stat. 2039; Pub. L. 95–598, title III, § 326, Nov. 6, 1978, 92 Stat. 2679. |
+| 6501(1) | 41:35 (matter before subsec. (a) related to definition of “agency of the United States”). | June 30, 1936, ch. 881, § 1 (matter before subsec. (a) related to definition of “agency of the United States”), 49 Stat. 2036; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
+| 6501(2) | 41:41. | June 30, 1936, ch. 881, § 7, 49 Stat. 2039; Pub. L. 95–598, title III, § 326, Nov. 6, 1978, 92 Stat. 2679. |
 | 6501(3) | no source. |  |
 
 **Executive Documents**
@@ -95,7 +95,7 @@ Sec. 7. *Judicial Review*. This order is intended only to improve the internal m
 
 William J. Clinton.
 
-## § 6502. Required contract terms
+## § 6502. Required contract terms
 
 A contract made by an agency of the United States for the manufacture or furnishing of materials, supplies, articles, or equipment, in an amount exceeding $10,000, shall include the following representations and stipulations:
 
@@ -107,16 +107,16 @@ A contract made by an agency of the United States for the manufacture or furnish
 
 **(4) Standards of places and working conditions where contract performed.—** No part of the contract will be performed, and no materials, supplies, articles, or equipment will be manufactured or fabricated under the contract, in plants, factories, buildings, or surroundings, or under working conditions, that are unsanitary, hazardous, or dangerous to the health and safety of employees engaged in the performance of the contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part of the work is to be performed is prima facie evidence of compliance with this paragraph.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3807.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3807.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6502 (matter before par. (1)) | 41:35 (matter before subsec. (a) less words related to definition of “agency of the United States”). | June 30, 1936, ch. 881, § 1 (matter before subsec. (a) less words related to definition of “agency of the United States”), (a), 49 Stat. 2036; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
+| 6502 (matter before par. (1)) | 41:35 (matter before subsec. (a) less words related to definition of “agency of the United States”). | June 30, 1936, ch. 881, § 1 (matter before subsec. (a) less words related to definition of “agency of the United States”), (a), 49 Stat. 2036; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
 | 6502(1) | 41:35(a). |  |
-|  | 41:45. | June 30, 1936, ch. 881, § 13, formerly § 11, 49 Stat. 2039; renumbered § 12, June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; renumbered § 13, Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675. |
-| 6502(2)–(4) | 41:35(b)–(d). | June 30, 1936, ch. 881, § 1(b)–(d), 49 Stat. 2036; May 13, 1942, ch. 306, 56 Stat. 277; Pub. L. 90–351, title I, § 819(b), formerly § 827(b), as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1215 and renumbered § 819(b), Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 99–145, title XII, § 1241(b), Nov. 8, 1985, 99 Stat. 734; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
+|  | 41:45. | June 30, 1936, ch. 881, § 13, formerly § 11, 49 Stat. 2039; renumbered § 12, June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; renumbered § 13, Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675. |
+| 6502(2)–(4) | 41:35(b)–(d). | June 30, 1936, ch. 881, § 1(b)–(d), 49 Stat. 2036; May 13, 1942, ch. 306, 56 Stat. 277; Pub. L. 90–351, title I, § 819(b), formerly § 827(b), as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1215 and renumbered § 819(b), Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 99–145, title XII, § 1241(b), Nov. 8, 1985, 99 Stat. 734; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. |
 
 In the matter before paragraph (1), the words “and entered into” are omitted as unnecessary.
 
@@ -126,7 +126,7 @@ In paragraph (2), the words “under the contract” are substituted for “used
 
 In paragraph (3), the words “No individual under 16 years of age” are substituted for “no male person under sixteen years of age and no female person under eighteen years of age” to reflect the interpretation of this provision subsequent to enactment of civil rights laws such as section 703 of the Civil Rights Act of 1964 (42:2000e–2), as carried out by the Department of Labor through 41 C.F.R. Part 50–201.104. The words “incarcerated individual” are substituted for “convict labor” the first time the words appear because the term “convict labor” is ambiguous and may be interpreted to include individuals who are not incarcerated. This would be an inappropriate interpretation because 41:35(c) provides an exception for “convict labor” that satisfies the conditions of 18:1761(c) regarding certain non-Federal prison work projects. The words “or production” are omitted for consistency with the source provisions for paragraphs (1) and (2) and because, in this context, the concept of “production” is included in the words “manufacture or furnishing”. The words “under the contract” are substituted for “included in such contract” for consistency in the chapter.
 
-## § 6503. Breach or violation of required contract terms
+## § 6503. Breach or violation of required contract terms
 
 **(a) Applicable Breach or Violation.—** This section applies in case of breach or violation of a representation or stipulation included in a contract under section 6502 of this title.
 
@@ -142,13 +142,13 @@ In paragraph (3), the words “No individual under 16 years of age” are substi
 
 **(e) Employee Reimbursement for Underpayment of Wages.—** An amount withheld or recovered under subsection (d) that is based on an underpayment of wages as described in subsection (b)(2) shall be held in a special deposit account. On order of the Secretary, the amount shall be paid directly to the underpaid employee on whose account the amount was withheld or recovered. However, an employee’s claim for payment under this subsection may be entertained only if made within one year from the date of actual notice to the contractor of the withholding or recovery.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3808.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3808.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6503 | 41:36. | June 30, 1936, ch. 881, § 2, 49 Stat. 2037. |
+| 6503 | 41:36. | June 30, 1936, ch. 881, § 2, 49 Stat. 2037. |
 
 In subsection (b)(1), the words “individual under 16 years of age” are substituted for “male person under sixteen years of age or each female person under eighteen years of age” to reflect the interpretation of this provision subsequent to enactment of civil rights laws such as section 703 of the Civil Rights Act of 1964 (42:2000e–2), as carried out by the Department of Labor through 41 C.F.R. Part 50–201.104. The words “incarcerated individual” are substituted for “convict laborer” because of the exception to convict labor that satisfies the conditions of 18:1761(c). Section 1761 does not apply to non-incarcerated convicts.
 
@@ -156,21 +156,21 @@ Subsection (b)(2) is substituted for “a sum equal to the amount of any deducti
 
 In subsection (c), the words “made the contract” and “make other contracts” are substituted for “entering into such contract” and “enter into other contracts”, respectively, for consistency in the revised title.
 
-In subsection (d), the words “suit brought by the Attorney General” are substituted for “suits brought in the name of the United States of America by the Attorney General thereof ” to eliminate unnecessary words.
+In subsection (d), the words “suit brought by the Attorney General” are substituted for “suits brought in the name of the United States of America by the Attorney General thereof ” to eliminate unnecessary words.
 
-## § 6504. Three-year prohibition on new contracts in case of breach or violation
+## § 6504. Three-year prohibition on new contracts in case of breach or violation
 
 **(a) Distribution of List.—** The Comptroller General shall distribute to each agency of the United States a list containing the names of persons found by the Secretary to have breached or violated a representation or stipulation included in a contract under section 6502 of this title.
 
 **(b) Three-Year Prohibition.—** Unless the Secretary recommends otherwise, a contract described in section 6502 of this title may not be awarded to a person named on the list under subsection (a), or to a firm, corporation, partnership, or association in which the person has a controlling interest, until 3 years have elapsed from the date of the determination by the Secretary that a breach or violation occurred.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3808.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3808.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6504 | 41:37. | June 30, 1936, ch. 881, § 3, 49 Stat. 2037. |
+| 6504 | 41:37. | June 30, 1936, ch. 881, § 3, 49 Stat. 2037. |
 
 In this section, the words “or firms” are omitted because of the definition of “person” in 41:41, restated in section 6501 of the revised title.
 
@@ -178,7 +178,7 @@ In subsection (a), the words “or violated” are added for consistency in the 
 
 In subsection (b), the words “contract described in section 6502 of this title” are substituted for “contracts” to clarify the scope of the prohibition. The words “the date of the determination by the Secretary that a breach or violation occurred” are substituted for “the date the Secretary of Labor determines such breach to have occurred” to clarify that the three-year period begins with the date of the Secretary’s determination and not with the date of the breach or violation. The words “or violation” are added for consistency in the chapter.
 
-## § 6505. Exclusions
+## § 6505. Exclusions
 
 **(a) Items Available in the Open Market.—** This chapter does not apply to the purchase of materials, supplies, articles, or equipment that may usually be bought in the open market.
 
@@ -196,21 +196,21 @@ In subsection (b), the words “contract described in section 6502 of this title
 
 **(2)** common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6505 | 41:43. | June 30, 1936, ch. 881, § 9, 49 Stat. 2039. |
+| 6505 | 41:43. | June 30, 1936, ch. 881, § 9, 49 Stat. 2039. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Communications Act of 1934, referred to in subsec. (c)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (c)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-## § 6506. Administrative provisions
+## § 6506. Administrative provisions
 
 **(a) In General.—** The Secretary shall administer this chapter.
 
@@ -222,21 +222,21 @@ The Communications Act of 1934, referred to in subsec. (c)(2), is act June 19, 1
 
 **(e) Investigations.—** The Secretary, or an authorized representative of the Secretary, may make investigations and findings as provided in this chapter and may, in any part of the United States, prosecute an inquiry necessary to carry out this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6506 | 41:38. | June 30, 1936, ch. 881, § 4, 49 Stat. 2038. |
+| 6506 | 41:38. | June 30, 1936, ch. 881, § 4, 49 Stat. 2038. |
 
 In subsection (b), the word “rules” is omitted as included in “regulations”.
 
 In subsection (c), the words “and to prescribe rules and regulations with respect thereto” are omitted as unnecessary because of subsection (b).
 
-In subsection (d), the words “without regard to the provisions of the civil-service laws”, which appear in section 4 of the Walsh-Healey Act (June 30, 1936, ch. 881, 49 Stat. 2038), are omitted as obsolete because of Executive Order 8743, April 23, 1941 (5 U.S.C. 3301 note), issued by the President pursuant to the Act of November 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211. The words “the Classification Act of 1923”, which appear in section 4 of the Walsh-Healey Act (June 30, 1936, ch. 881, 49 Stat. 2038), are considered to be a reference to the Classification Act of 1949 because of section 1106(a) of the Classification Act of 1949 (Oct. 28, 1949, ch. 782, 63 Stat. 972). The words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for the reference to the Classification Act of 1949 because of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
+In subsection (d), the words “without regard to the provisions of the civil-service laws”, which appear in section 4 of the Walsh-Healey Act (June 30, 1936, ch. 881, 49 Stat. 2038), are omitted as obsolete because of Executive Order 8743, April 23, 1941 (5 U.S.C. 3301 note), issued by the President pursuant to the Act of November 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211. The words “the Classification Act of 1923”, which appear in section 4 of the Walsh-Healey Act (June 30, 1936, ch. 881, 49 Stat. 2038), are considered to be a reference to the Classification Act of 1949 because of section 1106(a) of the Classification Act of 1949 (Oct. 28, 1949, ch. 782, 63 Stat. 972). The words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for the reference to the Classification Act of 1949 because of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
 
-## § 6507. Hearing authority and procedures
+## § 6507. Hearing authority and procedures
 
 **(a) Record and Hearing Requirements for Wage Determinations.—** A wage determination under section 6502(1) of this title shall be made on the record after opportunity for a hearing.
 
@@ -250,20 +250,20 @@ In subsection (d), the words “without regard to the provisions of the civil-se
 
 **(f) Decisions.—** The Secretary or an impartial representative designated by the Secretary may make decisions, based on findings of fact, that are considered necessary to enforce this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3809.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6507(a) | 41:43a(b) (1st sentence). | June 30, 1936, ch. 881, § 10(b) (1st sentence), as added June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; Pub. L. 104–106, div. D, title XLIII, § 4321(f)(2), Feb. 10, 1996, 110 Stat. 675. |
-| 6507(b)–(f) | 41:39. | June 30, 1936, ch. 881, § 5, 49 Stat. 2038. |
+| 6507(a) | 41:43a(b) (1st sentence). | June 30, 1936, ch. 881, § 10(b) (1st sentence), as added June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; Pub. L. 104–106, div. D, title XLIII, § 4321(f)(2), Feb. 10, 1996, 110 Stat. 675. |
+| 6507(b)–(f) | 41:39. | June 30, 1936, ch. 881, § 5, 49 Stat. 2038. |
 
 In subsection (d), the word “contumacy” is omitted as included in “refuses or fails”. The words “may bring an action to enforce the order” are substituted for “upon the application by” for consistency in the revised title and with other titles of the United States Code. The words “the United States District Court for the District of Columbia” in section 5 of the Act of June 30, 1936 (which were substituted for “the Supreme Court of the District of Columbia” by section 32(b) of the Act of June 25, 1948 (ch. 646, 62 Stat. 991), as amended by section 127 of the Act of May 24, 1949 (ch. 139, 63 Stat. 107), and which were editorially omitted from 41:39) are omitted as included in “a district court of the United States” because of sections 88 and 132(a) of title 28, United States Code. The words “within the court’s judicial district”’ are substituted for “within the jurisdiction of which” for clarity and for consistency in the revised title and with other titles of the United States Code. The words “requiring the person to obey the order issued under subsection (c)” are substituted for “requiring such person to appear before him or representative designated by him, to produce evidence if, as, and when so ordered, and to give testimony relating to the matter under investigation or in question” for clarity and to eliminate unnecessary words.
 
-In subsection (e), the duty to make findings of fact is restated as a duty of the Secretary (or the Secretary’s representative). The grammatical structure of the last sentence of 41:39 seems to suggest that the court, rather than the Secretary (or the Secretary’s representative), serves as fact finder. However, the provision taken as a whole indicates that it is the Secretary (or the Secretary’s representative) who serves as fact finder. It is the Secretary (or the Secretary’s representative) before whom hearings are held, witnesses testify, and evidence is produced. The court’s involvement is limited to compelling recalcitrant witnesses “to appear before him [the Secretary] or representative designated by him”. The restatement clarifies the generally accepted understanding that the Secretary (or the Secretary’s representative) serves as fact finder (see, e.g., *United States v. Sweet Briar*, 92 F. Supp. 777, 780 (W.D.S.C. 1950) (“the Secretary ‘shall make findings of fact’ ”); *Ready-Mix Concrete Company v. United States*, 158 F. Supp. 571, 578 (Cl. Ct. 1958) (“the findings of the Department of Labor”)).
+In subsection (e), the duty to make findings of fact is restated as a duty of the Secretary (or the Secretary’s representative). The grammatical structure of the last sentence of 41:39 seems to suggest that the court, rather than the Secretary (or the Secretary’s representative), serves as fact finder. However, the provision taken as a whole indicates that it is the Secretary (or the Secretary’s representative) who serves as fact finder. It is the Secretary (or the Secretary’s representative) before whom hearings are held, witnesses testify, and evidence is produced. The court’s involvement is limited to compelling recalcitrant witnesses “to appear before him [the Secretary] or representative designated by him”. The restatement clarifies the generally accepted understanding that the Secretary (or the Secretary’s representative) serves as fact finder (see, e.g., *United States v. Sweet Briar*, 92 F. Supp. 777, 780 (W.D.S.C. 1950) (“the Secretary ‘shall make findings of fact’ ”); *Ready-Mix Concrete Company v. United States*, 158 F. Supp. 571, 578 (Cl. Ct. 1958) (“the findings of the Department of Labor”)).
 
-## § 6508. Authority to make exceptions
+## § 6508. Authority to make exceptions
 
 **(a) Duty of the Secretary To Make Exceptions.—** When the head of an agency of the United States makes a written finding that the inclusion of representations or stipulations under section 6502 of this title in a proposal or contract will seriously impair the conduct of Federal Government business, the Secretary shall make exceptions, in specific cases or otherwise, when justice or the public interest will be served.
 
@@ -275,13 +275,13 @@ In subsection (e), the duty to make findings of fact is restated as a duty of th
 
 **(e) Authority of the President To Suspend.—** The President may suspend any of the representations and stipulations contained in section 6502 of this title whenever, in the President’s judgment, suspension is in the public interest.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3810.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3810.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6508(a) | 41:40 (1st sentence). | June 30, 1936, ch. 881, § 6, 49 Stat. 2038; June 28, 1940, ch. 440, title I, § 13, 54 Stat. 681. |
+| 6508(a) | 41:40 (1st sentence). | June 30, 1936, ch. 881, § 6, 49 Stat. 2038; June 28, 1940, ch. 440, title I, § 13, 54 Stat. 681. |
 | 6508(b) | 41:40 (2d sentence). |  |
 | 6508(c) | 41:40 (3d sentence). |  |
 | 6508(d) | 41:40 (last sentence less proviso). |  |
@@ -297,7 +297,7 @@ In subsection (d), the words “received by any employee affected” are omitted
 
 In subsection (e), the words “or all” are omitted as unnecessary.
 
-## § 6509. Other procedures
+## § 6509. Other procedures
 
 **(a) Applicability of Certain Administrative Provisions.—** Notwithstanding section 553 of title 5, subchapter II of chapter 5 and chapter 7 of title 5 are applicable in the administration of sections 6501 to 6507 and 6511 of this title.
 
@@ -305,37 +305,37 @@ In subsection (e), the words “or all” are omitted as unnecessary.
 
 **(c) Judicial Review of Wage Determinations.—** A person adversely affected or aggrieved by a wage determination under section 6502(1) of this title has the right of judicial review of the determination, or of the applicability of the determination, within 90 days after the determination is made, in the manner provided by chapter 7 of title 5. A person adversely affected or aggrieved by a wage determination is deemed to include a person in an industry to which the determination applies that is a supplier of materials, supplies, articles, or equipment that are purchased or intended to be purchased by the Federal Government from any source.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3810.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3810.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6509(a) | 41:43a(a). | June 30, 1936, ch. 881, § 10(a), (b) (last sentence), (c), as added June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; Pub. L. 103–355, title VII, § 7201(2), (3), Oct. 13, 1994, 108 Stat. 3378. |
+| 6509(a) | 41:43a(a). | June 30, 1936, ch. 881, § 10(a), (b) (last sentence), (c), as added June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; Pub. L. 103–355, title VII, § 7201(2), (3), Oct. 13, 1994, 108 Stat. 3378. |
 | 6509(b) | 41:43a(c). |  |
 | 6509(c) | 41:43a(b) (last sentence). |  |
 
 Subsection (a) is substituted for “Notwithstanding any provision of section 4 of the Administrative Procedure Act, such Act shall be applicable in the administration of sections 1 to 5 and 7 to 9 of this Act” in section 10 of the Act of June 30, 1936 (ch. 881), for consistency in the revised title and because of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
 
-In subsection (c), the words “has the right of judicial review” are substituted for “Review . . . may be had” for consistency with subsection (b) and with section 6510(b) of the revised title and because the review provided for in chapter 7 of title 5 is denominated as judicial review. The words “chapter 7 of title 5” are substituted for “section 10 of the Administrative Procedure Act” on authority of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
+In subsection (c), the words “has the right of judicial review” are substituted for “Review . . . may be had” for consistency with subsection (b) and with section 6510(b) of the revised title and because the review provided for in chapter 7 of title 5 is denominated as judicial review. The words “chapter 7 of title 5” are substituted for “section 10 of the Administrative Procedure Act” on authority of section 7(b) of Public Law 89–554 (5 U.S.C. note prec. 101).
 
-## § 6510. Manufacturers and regular dealers
+## § 6510. Manufacturers and regular dealers
 
 **(a) Prescribing Standards.—** The Secretary may prescribe, in regulations, standards for determining whether a contractor is a manufacturer or regular dealer with respect to materials, supplies, articles, or equipment to be manufactured or furnished under, or used in the performance of, a contract entered into by an agency of the United States.
 
 **(b) Judicial Review.—** An interested person has the right of judicial review of any legal question relating to interpretation of the terms “regular dealer” and “manufacturer” as defined pursuant to subsection (a).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6510 | 41:43b. | June 30, 1936, ch. 881, § 11, as added Pub. L. 103–355, title VII, § 7201(4), Oct. 13, 1994, 108 Stat. 3378; Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(A), Feb. 10, 1996, 110 Stat. 675. |
+| 6510 | 41:43b. | June 30, 1936, ch. 881, § 11, as added Pub. L. 103–355, title VII, § 7201(4), Oct. 13, 1994, 108 Stat. 3378; Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(A), Feb. 10, 1996, 110 Stat. 675. |
 
 In subsection (a), the words “an agency of the United States” are substituted for “any executive department, independent establishment, or other agency or instrumentality of the United States, or by the District of Columbia, or by any corporation all the stock of which is beneficially owned by the United States” because of the definition in section 6501 of the revised title.
 
-## § 6511. Effect on other law
+## § 6511. Effect on other law
 
 This chapter may not be construed to modify or amend the following provisions:
 
@@ -345,13 +345,13 @@ This chapter may not be construed to modify or amend the following provisions:
 
 **(3)** Chapter 307 of title 18.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6511 | 41:42. | June 30, 1936, ch. 881, § 8, 49 Stat. 2039. |
+| 6511 | 41:42. | June 30, 1936, ch. 881, § 8, 49 Stat. 2039. |
 
 Paragraph (1) is substituted for “Title III of the act entitled ‘An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes’, approved May 3, 1933 (commonly known as the Buy American Act)” for consistency in the revised title and to correct an error in the source, which incorrectly gives May 3, 1933, rather than March 3, 1933, as the date of approval.
 

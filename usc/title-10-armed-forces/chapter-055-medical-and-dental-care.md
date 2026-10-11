@@ -19,113 +19,113 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VII, § 712(1), Dec. 18, 2025, 139 Stat. 919, inserted “; medical surge program” after “program” in item 1096. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VII, § 712(1), Dec. 18, 2025, 139 Stat. 919, inserted “; medical surge program” after “program” in item 1096. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title VII, § 711, Dec. 23, 2024, 138 Stat. 1947, added item 1091a. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title VII, § 711, Dec. 23, 2024, 138 Stat. 1947, added item 1091a. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title VII, §§ 701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a “Commanding officer and supervisor referrals of members for mental health evaluations” and 1110 “Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions”.
+2021—Pub. L. 117–81, div. A, title VII, §§ 701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a “Commanding officer and supervisor referrals of members for mental health evaluations” and 1110 “Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions”.
 
-Pub. L. 116–283, div. A, title VII, § 712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
+Pub. L. 116–283, div. A, title VII, § 712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
 
-2019—Pub. L. 116–92, div. A, title VII, § 702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a “TRICARE Prime: automatic enrollments; payment options” and 1099 “Health care enrollment system”.
+2019—Pub. L. 116–92, div. A, title VII, § 702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a “TRICARE Prime: automatic enrollments; payment options” and 1099 “Health care enrollment system”.
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(a)(13), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 1077a.
+2018—Pub. L. 115–232, div. A, title X, § 1081(a)(13), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 1077a.
 
-2017—Pub. L. 115–91, div. A, title VII, § 703(a)(2), Dec. 12, 2017, 131 Stat. 1435, added item 1074*o.*
+2017—Pub. L. 115–91, div. A, title VII, § 703(a)(2), Dec. 12, 2017, 131 Stat. 1435, added item 1074*o.*
 
-2016—Pub. L. 114–328, div. A, title VII, §§ 702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted “Recurring reports and publication of certain data” for “Recurring reports” in item 1073b.
+2016—Pub. L. 114–328, div. A, title VII, §§ 702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted “Recurring reports and publication of certain data” for “Recurring reports” in item 1073b.
 
-Pub. L. 114–328, div. A, title VII, §§ 701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted “TRICARE Reserve Select” for “TRICARE Standard” in item 1076d, “TRICARE Retired Reserve” for “TRICARE Standard” in item 1076e, “TRICARE program” for “CHAMPUS” in item 1079a, and “and preauthorizations under TRICARE Prime” for “for specialty health care” in item 1095f.
+Pub. L. 114–328, div. A, title VII, §§ 701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted “TRICARE Reserve Select” for “TRICARE Standard” in item 1076d, “TRICARE Retired Reserve” for “TRICARE Standard” in item 1076e, “TRICARE program” for “CHAMPUS” in item 1079a, and “and preauthorizations under TRICARE Prime” for “for specialty health care” in item 1095f.
 
-2015—Pub. L. 114–92, div. A, title VII, § 711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
+2015—Pub. L. 114–92, div. A, title VII, § 711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
 
-2014—Pub. L. 113–291, div. A, title VII, §§ 701(a)(2), 704(b), 711(b), Dec. 19, 2014, 128 Stat. 3408, 3413, 3414, added items 1074n, 1079c, and 1097d.
+2014—Pub. L. 113–291, div. A, title VII, §§ 701(a)(2), 704(b), 711(b), Dec. 19, 2014, 128 Stat. 3408, 3413, 3414, added items 1074n, 1079c, and 1097d.
 
-2011—Pub. L. 112–81, div. A, title VII, §§ 702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, 125 Stat. 1471, 1473, 1476, added items 1074m, 1078b, and 1090a.
+2011—Pub. L. 112–81, div. A, title VII, §§ 702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, 125 Stat. 1471, 1473, 1476, added items 1074m, 1078b, and 1090a.
 
-Pub. L. 111–383, div. A, title VII, § 702(a)(2), Jan. 7, 2011, 124 Stat. 4245, added item 1110b.
+Pub. L. 111–383, div. A, title VII, § 702(a)(2), Jan. 7, 2011, 124 Stat. 4245, added item 1110b.
 
-2009—Pub. L. 111–84, div. A, title VII, §§ 705(b), 707(b), Oct. 28, 2009, 123 Stat. 2375, 2376, added items 1076e and 1110a.
+2009—Pub. L. 111–84, div. A, title VII, §§ 705(b), 707(b), Oct. 28, 2009, 123 Stat. 2375, 2376, added items 1076e and 1110a.
 
-2008—Pub. L. 110–181, div. A, title XVI, § 1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074*l*.
+2008—Pub. L. 110–181, div. A, title XVI, § 1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074*l*.
 
-2006—Pub. L. 109–364, div. A, title VII, § 707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
+2006—Pub. L. 109–364, div. A, title VII, § 707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
 
-Pub. L. 109–364, div. A, title VII, § 706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” and substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in item 1076d, effective Oct. 1, 2007.
+Pub. L. 109–364, div. A, title VII, § 706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” and substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in item 1076d, effective Oct. 1, 2007.
 
-Pub. L. 109–163, div. A, title VII, §§ 701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
+Pub. L. 109–163, div. A, title VII, §§ 701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
 
-2004—Pub. L. 108–375, div. A, title V, § 555(a)(2), title VI, § 607(a)(2), title VII, §§ 701(a)(2), 733(a)(2), 739(a)(2), title X, § 1084(d)(7), Oct. 28, 2004, 118 Stat. 1914, 1946, 1981, 1998, 2002, 2061, added items 1073b, 1074b, 1076d, and 1092a, reenacted item 1076b without change, and struck out item 1075 “Officers and certain enlisted members: subsistence charges”.
+2004—Pub. L. 108–375, div. A, title V, § 555(a)(2), title VI, § 607(a)(2), title VII, §§ 701(a)(2), 733(a)(2), 739(a)(2), title X, § 1084(d)(7), Oct. 28, 2004, 118 Stat. 1914, 1946, 1981, 1998, 2002, 2061, added items 1073b, 1074b, 1076d, and 1092a, reenacted item 1076b without change, and struck out item 1075 “Officers and certain enlisted members: subsistence charges”.
 
-2003—Pub. L. 108–136, div. A, title XVI, § 1603(b)(2), Nov. 24, 2003, 117 Stat. 1690, added item 1107a.
+2003—Pub. L. 108–136, div. A, title XVI, § 1603(b)(2), Nov. 24, 2003, 117 Stat. 1690, added item 1107a.
 
-Pub. L. 108–106, title I, § 1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 1076b.
+Pub. L. 108–106, title I, § 1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 1076b.
 
-2001—Pub. L. 107–107, div. A, title VII, §§ 701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, § 1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck out item 1074b “Transitional medical and dental care: members on active duty in support of contingency operations”, transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
+2001—Pub. L. 107–107, div. A, title VII, §§ 701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, § 1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck out item 1074b “Transitional medical and dental care: members on active duty in support of contingency operations”, transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VII, §§ 706(a)(2), 728(a)(2), 751(b)(2), 758(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
+2000—Pub. L. 106–398, § 1 [[div. A], title VII, §§ 706(a)(2), 728(a)(2), 751(b)(2), 758(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
 
-1999—Pub. L. 106–65, div. A, title VII, §§ 701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a “Dependents’ dental program” and 1076b “Selected Reserve dental insurance”.
+1999—Pub. L. 106–65, div. A, title VII, §§ 701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a “Dependents’ dental program” and 1076b “Selected Reserve dental insurance”.
 
-1998—Pub. L. 105–261, div. A, title VII, §§ 711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
+1998—Pub. L. 105–261, div. A, title VII, §§ 711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
 
-1997—Pub. L. 105–85, div. A, title VII, §§ 738(b), 764(b), 765(a)(2), 766(b), Nov. 18, 1997, 111 Stat. 1815, 1826–1828, added items 1074e, 1074f, 1106, and 1107 and struck out former item 1106 “Submittal of claims under CHAMPUS”.
+1997—Pub. L. 105–85, div. A, title VII, §§ 738(b), 764(b), 765(a)(2), 766(b), Nov. 18, 1997, 111 Stat. 1815, 1826–1828, added items 1074e, 1074f, 1106, and 1107 and struck out former item 1106 “Submittal of claims under CHAMPUS”.
 
-1996—Pub. L. 104–201, div. A, title VII, §§ 701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
+1996—Pub. L. 104–201, div. A, title VII, §§ 701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
 
-Pub. L. 104–106, div. A, title VII, §§ 705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
+Pub. L. 104–106, div. A, title VII, §§ 705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
-1993—Pub. L. 103–160, div. A, title VII, §§ 701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
+1993—Pub. L. 103–160, div. A, title VII, §§ 701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
-1992—Pub. L. 102–484, div. D, title XLIV, § 4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
+1992—Pub. L. 102–484, div. D, title XLIV, § 4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
 
-1991—Pub. L. 102–190, div. A, title VI, § 640(b), title VII, §§ 715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403, 1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
+1991—Pub. L. 102–190, div. A, title VI, § 640(b), title VII, §§ 715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403, 1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
 
-1990—Pub. L. 101–510, div. A, title VII, § 713(d)(2)[(3)], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in item 1095.
+1990—Pub. L. 101–510, div. A, title VII, § 713(d)(2)[(3)], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in item 1095.
 
-1989—Pub. L. 101–189, div. A, title VII, §§ 722(b), 731(b)(2), Nov. 29, 1989, 103 Stat. 1478, 1482, added items 1086a and 1104.
+1989—Pub. L. 101–189, div. A, title VII, §§ 722(b), 731(b)(2), Nov. 29, 1989, 103 Stat. 1478, 1482, added items 1086a and 1104.
 
-1987—Pub. L. 100–180, div. A, title VII, § 725(a)(2), Dec. 4, 1987, 101 Stat. 1116, added item 1103.
+1987—Pub. L. 100–180, div. A, title VII, § 725(a)(2), Dec. 4, 1987, 101 Stat. 1116, added item 1103.
 
-Pub. L. 100–26, § 7(e)(2), Apr. 21, 1987, 101 Stat. 281, redesignated item 1095 “Medical care: members held as captives and their dependents” as item 1095a.
+Pub. L. 100–26, § 7(e)(2), Apr. 21, 1987, 101 Stat. 281, redesignated item 1095 “Medical care: members held as captives and their dependents” as item 1095a.
 
-1986—Pub. L. 99–661, div. A, title VI, § 604(a)(2), title VII, §§ 701(a)(2), 705(a)(2), Nov. 14, 1986, 100 Stat. 3875, 3897, 3904 substituted “active duty for a period of more than 30 days” for “active duty; injuries, diseases, and illnesses incident to duty” in item 1074a and added items 1096 to 1102.
+1986—Pub. L. 99–661, div. A, title VI, § 604(a)(2), title VII, §§ 701(a)(2), 705(a)(2), Nov. 14, 1986, 100 Stat. 3875, 3897, 3904 substituted “active duty for a period of more than 30 days” for “active duty; injuries, diseases, and illnesses incident to duty” in item 1074a and added items 1096 to 1102.
 
-Pub. L. 99–399, title VIII, § 801(c)(2), Aug. 27, 1986, 100 Stat. 886, added item 1095 “Medical care: members held as captives and their dependents”.
+Pub. L. 99–399, title VIII, § 801(c)(2), Aug. 27, 1986, 100 Stat. 886, added item 1095 “Medical care: members held as captives and their dependents”.
 
-Pub. L. 99–272, title II, § 2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
+Pub. L. 99–272, title II, § 2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
 
-1985—Pub. L. 99–145, title VI, §§ 651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
+1985—Pub. L. 99–145, title VI, §§ 651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
-1984—Pub. L. 98–525, title VI, § 631(a)(2), title XIV, § 1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a “Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty” for “Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” and added items 1074b and 1093.
+1984—Pub. L. 98–525, title VI, § 631(a)(2), title XIV, § 1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a “Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty” for “Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” and added items 1074b and 1093.
 
-1983—Pub. L. 98–94, title IX, §§ 932(a)(2), 933(a)(2), title X, § 1012(a)(2), title XII, § 1268(5)(B), Sept. 24, 1983, 97 Stat. 650, 651, 665, 706, added items 1074a, 1091, and 1092, and struck out “; reports” at end of item 1081.
+1983—Pub. L. 98–94, title IX, §§ 932(a)(2), 933(a)(2), title X, § 1012(a)(2), title XII, § 1268(5)(B), Sept. 24, 1983, 97 Stat. 650, 651, 665, 706, added items 1074a, 1091, and 1092, and struck out “; reports” at end of item 1081.
 
-1982—Pub. L. 97–295, § 1(15)(B), Oct. 12, 1982, 96 Stat. 1290, added item 1090.
+1982—Pub. L. 97–295, § 1(15)(B), Oct. 12, 1982, 96 Stat. 1290, added item 1090.
 
-1980—Pub. L. 96–513, title V, § 511(34)(D), Dec. 12, 1980, 94 Stat. 2923, in items 1071 and 1073 substituted “this chapter” for “sections 1071–1087 of this title”, and in item 1086 substituted “benefits” for “care”.
+1980—Pub. L. 96–513, title V, § 511(34)(D), Dec. 12, 1980, 94 Stat. 2923, in items 1071 and 1073 substituted “this chapter” for “sections 1071–1087 of this title”, and in item 1086 substituted “benefits” for “care”.
 
-1976—Pub. L. 94–464, § 1(b), Oct. 8, 1976, 90 Stat. 1986, added item 1089.
+1976—Pub. L. 94–464, § 1(b), Oct. 8, 1976, 90 Stat. 1986, added item 1089.
 
-1970—Pub. L. 91–481, § 2(2), Oct. 21, 1970, 84 Stat. 1082, added item 1088.
+1970—Pub. L. 91–481, § 2(2), Oct. 21, 1970, 84 Stat. 1082, added item 1088.
 
-1966—Pub. L. 89–614, § 2(9), Sept. 30, 1966, 80 Stat. 866, substituted “1087” for “1085” in items 1071 and 1073, “Medical care” and “authorized care in facilities of uniformed services” for “Medical and dental care” and “specific inclusions and exclusions” in item 1077, “Contracts for health care” for “Contracts for medical care for spouses and children” in item 1082, and added items 1086 and 1087.
+1966—Pub. L. 89–614, § 2(9), Sept. 30, 1966, 80 Stat. 866, substituted “1087” for “1085” in items 1071 and 1073, “Medical care” and “authorized care in facilities of uniformed services” for “Medical and dental care” and “specific inclusions and exclusions” in item 1077, “Contracts for health care” for “Contracts for medical care for spouses and children” in item 1082, and added items 1086 and 1087.
 
-1965—Pub. L. 89–264, § 2, Oct. 19, 1965, 79 Stat. 989, substituted “executive department” for “uniformed service” in item 1085.
+1965—Pub. L. 89–264, § 2, Oct. 19, 1965, 79 Stat. 989, substituted “executive department” for “uniformed service” in item 1085.
 
-1958—Pub. L. 85–861, § 1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted “Medical and Dental Care” for “Voting by Members of Armed Forces” in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
+1958—Pub. L. 85–861, § 1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted “Medical and Dental Care” for “Voting by Members of Armed Forces” in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
 
-## § 1071. Purpose of this chapter
+## § 1071. Purpose of this chapter
 
 The purpose of this chapter is to create and maintain high morale in the uniformed services by providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(34)(A), (B), Dec. 12, 1980, 94 Stat. 2922.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(34)(A), (B), Dec. 12, 1980, 94 Stat. 2922.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1071 | 37:401. | June 7, 1956, ch. 374, § 101, 70 Stat. 250. |
+| 1071 | 37:401. | June 7, 1956, ch. 374, § 101, 70 Stat. 250. |
 
 The words “and certain former members” are inserted to reflect the fact that many of the persons entitled to retired pay are former members only. The words “and dental” are inserted to reflect the fact that members and, in certain limited situations, dependents are entitled to dental care under sections 1071–1085 of this title.
 
@@ -133,7 +133,7 @@ The words “and certain former members” are inserted to reflect the fact that
 
 **Prior Provisions**
 
-A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which was classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930.
+A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which was classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930.
 
 **Amendments**
 
@@ -149,23 +149,23 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–614, § 3, Sept. 30, 1966, 80 Stat. 866, provided that: “The amendments made by this Act [see Short Title of 1966 Amendment note below] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
+Pub. L. 89–614, § 3, Sept. 30, 1966, 80 Stat. 866, provided that: “The amendments made by this Act [see Short Title of 1966 Amendment note below] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1601, Jan. 28, 2008, 122 Stat. 431, provided that: “This title [enacting sections 1074*l*, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and section 6333 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074*l*, 1212, and 1554a of this title, and section 6333 of Title 5] may be cited as the ‘Wounded Warrior Act’.”
+Pub. L. 110–181, div. A, title XVI, § 1601, Jan. 28, 2008, 122 Stat. 431, provided that: “This title [enacting sections 1074*l*, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and section 6333 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074*l*, 1212, and 1554a of this title, and section 6333 of Title 5] may be cited as the ‘Wounded Warrior Act’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title VII, § 701, Dec. 4, 1987, 101 Stat. 1108, provided that: “This title [enacting sections 1103, 2128 to 2130 [now 16201 to 16203], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 [now 16302], 3353, 3855, 5600, 8353, and 8855 of this title, section 302 of Title 37, Pay and Allowances of the Uniformed Services, and section 3809 of Title 50, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title] may be cited as the ‘Military Health Care Amendments of 1987’.”
+Pub. L. 100–180, div. A, title VII, § 701, Dec. 4, 1987, 101 Stat. 1108, provided that: “This title [enacting sections 1103, 2128 to 2130 [now 16201 to 16203], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 [now 16302], 3353, 3855, 5600, 8353, and 8855 of this title, section 302 of Title 37, Pay and Allowances of the Uniformed Services, and section 3809 of Title 50, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title] may be cited as the ‘Military Health Care Amendments of 1987’.”
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–614, § 1, Sept. 30, 1966, 80 Stat. 862, provided: “That this Act [enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+Pub. L. 89–614, § 1, Sept. 30, 1966, 80 Stat. 862, provided: “That this Act [enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
 **Pilot Program on Wastewater Surveillance System of Department of Defense**
 
-Pub. L. 119–60, div. A, title VII, § 733, Dec. 18, 2025, 139 Stat. 932, provided that:
+Pub. L. 119–60, div. A, title VII, § 733, Dec. 18, 2025, 139 Stat. 932, provided that:
 
 > **“(a) Pilot Program Required.—** Commencing not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall carry out a pilot program under which the Secretary shall develop and implement a comprehensive wastewater surveillance system at not fewer than four installations of a military department at which the Secretary seeks to identify the prevalence of infectious diseases among members of the Armed Forces at the installation (in this section referred to as the ‘pilot program’).
 
@@ -183,7 +183,7 @@ Pub. L. 119–60, div. A, title VII, § 733, Dec. 18, 2025, 139 Stat. 932, pro
 
 **Pilot Program To Assist Certain Members of the Armed Forces and Dependents With Additional Supplemental Coverage Relating to Cancer**
 
-Pub. L. 119–60, div. A, title VII, § 734, Dec. 18, 2025, 139 Stat. 933, provided that:
+Pub. L. 119–60, div. A, title VII, § 734, Dec. 18, 2025, 139 Stat. 933, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2027, the Secretary of Defense shall establish a pilot program under which a covered individual may obtain supplemental insurance for noncovered expenses under a fixed indemnity supplemental benefit plan described in subsection (b)(1) (in this section referred to as the ‘pilot program’). The Secretary shall carry out such program until the date on which the last agreement terminates pursuant to subsection (b)(2).
 
@@ -247,7 +247,7 @@ Pub. L. 119–60, div. A, title VII, § 734, Dec. 18, 2025, 139 Stat. 933, pro
 
 **Program To Prevent Perinatal Mental Health Conditions in Pregnant and Postpartum Members of the Armed Forces**
 
-Pub. L. 118–159, div. A, title VII, § 705, Dec. 23, 2024, 138 Stat. 1943, provided that:
+Pub. L. 118–159, div. A, title VII, § 705, Dec. 23, 2024, 138 Stat. 1943, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall carry out a program to improve clinical and nonclinical services targeting mental health conditions in pregnant and postpartum members of the Armed Forces and spouses of members during the perinatal period.
 
@@ -287,7 +287,7 @@ Pub. L. 118–159, div. A, title VII, § 705, Dec. 23, 2024, 138 Stat. 1943, p
 
 **Establishment of Defense Intrepid Network for Traumatic Brain Injury and Brain Health as Program of Record**
 
-Pub. L. 118–159, div. A, title VII, § 721, Dec. 23, 2024, 138 Stat. 1951, provided that:
+Pub. L. 118–159, div. A, title VII, § 721, Dec. 23, 2024, 138 Stat. 1951, provided that:
 
 > **“(a) In General.—** Not later than January 1, 2026, the Secretary of Defense shall establish the Defense Intrepid Network for Traumatic Brain Injury and Brain Health (in this section referred to as the ‘Network’) headquartered at the National Intrepid Center of Excellence as a program of record subject to milestone reviews and compliance with the requirements under this section.
 
@@ -311,7 +311,7 @@ Pub. L. 118–159, div. A, title VII, § 721, Dec. 23, 2024, 138 Stat. 1951, p
 
 **Brain Health and Trauma Program**
 
-Pub. L. 118–159, div. A, title VII, § 722, Dec. 23, 2024, 138 Stat. 1951, provided that:
+Pub. L. 118–159, div. A, title VII, § 722, Dec. 23, 2024, 138 Stat. 1951, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish an intensive comprehensive brain health and trauma program to—
 
@@ -341,7 +341,7 @@ Pub. L. 118–159, div. A, title VII, § 722, Dec. 23, 2024, 138 Stat. 1951, p
 
 **Blast Overpressure and Traumatic Brain Injury Oversight Strategy and Action Plan**
 
-Pub. L. 118–159, div. A, title VII, § 724, Dec. 23, 2024, 138 Stat. 1954, provided that:
+Pub. L. 118–159, div. A, title VII, § 724, Dec. 23, 2024, 138 Stat. 1954, provided that:
 
 > **“(a) Strategy and Plan Required.—** The Secretary of Defense shall develop and implement a traumatic brain injury oversight strategy and action plan that includes, at a minimum, the following:
 
@@ -363,7 +363,7 @@ Pub. L. 118–159, div. A, title VII, § 724, Dec. 23, 2024, 138 Stat. 1954, p
 
 **Establishment of Requirements Relating to Blast Overpressure Exposure**
 
-Pub. L. 118–159, div. A, title VII, § 725, Dec. 23, 2024, 138 Stat. 1955, provided that:
+Pub. L. 118–159, div. A, title VII, § 725, Dec. 23, 2024, 138 Stat. 1955, provided that:
 
 > “Not later than two years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish—
 
@@ -375,7 +375,7 @@ Pub. L. 118–159, div. A, title VII, § 725, Dec. 23, 2024, 138 Stat. 1955, p
 
 **Medical Countermeasures for Overseas Personnel of the Department of Defense for Acute Radiation Syndrome and Thermal Burns**
 
-Pub. L. 118–159, div. A, title VII, § 734, Dec. 23, 2024, 138 Stat. 1956, provided that:
+Pub. L. 118–159, div. A, title VII, § 734, Dec. 23, 2024, 138 Stat. 1956, provided that:
 
 > **“(a) Program Required.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a program to develop requirements for the procurement, pre-positioning, and maintenance of medical countermeasures approved, cleared, licensed, or authorized by the Food and Drug Administration to diagnose, prevent, and treat acute radiation syndrome and thermal burns for use by covered personnel.
 
@@ -399,7 +399,7 @@ Pub. L. 118–159, div. A, title VII, § 734, Dec. 23, 2024, 138 Stat. 1956, p
 
 **Accountability for Wounded Warriors Undergoing Disability Evaluation**
 
-Pub. L. 117–263, div. A, title VII, § 711, Dec. 23, 2022, 136 Stat. 2656, provided that:
+Pub. L. 117–263, div. A, title VII, § 711, Dec. 23, 2022, 136 Stat. 2656, provided that:
 
 > **“(a) Policy.—** Not later than April 1, 2023, the Secretary of Defense, in consultation with the Secretaries concerned, shall establish a policy to ensure accountability for actions taken under the authorities of the Defense Health Agency and the Armed Forces, respectively, concerning wounded, ill, and injured members of the Armed Forces during the integrated disability evaluation system process. Such policy shall include the following:
 
@@ -431,7 +431,7 @@ Pub. L. 117–263, div. A, title VII, § 711, Dec. 23, 2022, 136 Stat. 2656, p
 
 **Access to Certain Dependent Medical Records by Remarried Former Spouses**
 
-Pub. L. 117–263, div. A, title VII, § 721, Dec. 23, 2022, 136 Stat. 2663, provided that:
+Pub. L. 117–263, div. A, title VII, § 721, Dec. 23, 2022, 136 Stat. 2663, provided that:
 
 > **“(a) Access.—** The Secretary of Defense may authorize a remarried former spouse who is a custodial parent of a dependent child to retain electronic access to the privileged medical records of such dependent child, notwithstanding that the former spouse is no longer a dependent under section 1072(2) of title 10, United States Code.
 
@@ -445,7 +445,7 @@ Pub. L. 117–263, div. A, title VII, § 721, Dec. 23, 2022, 136 Stat. 2663, p
 
 **Brain Health Initiative of Department of Defense**
 
-Pub. L. 117–263, div. A, title VII, § 735, Dec. 23, 2022, 136 Stat. 2668, as amended by Pub. L. 118–159, div. A, title VII, § 723, Dec. 23, 2024, 138 Stat. 1952, provided that:
+Pub. L. 117–263, div. A, title VII, § 735, Dec. 23, 2022, 136 Stat. 2668, as amended by Pub. L. 118–159, div. A, title VII, § 723, Dec. 23, 2024, 138 Stat. 1952, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Secretaries concerned, shall establish a comprehensive initiative for brain health to be known as the ‘Warfighter Brain Health Initiative’ (in this section referred to as the ‘Initiative’) for the purpose of unifying efforts and programs across the Department of Defense to improve the cognitive performance and brain health of members of the Armed Forces.
 
@@ -547,7 +547,7 @@ Pub. L. 117–263, div. A, title VII, § 735, Dec. 23, 2022, 136 Stat. 2668, a
 
 **Establishment of Partnership Program Between United States and Ukraine for Military Trauma Care and Research**
 
-Pub. L. 117–263, div. A, title VII, § 736, Dec. 23, 2022, 136 Stat. 2670, as amended by Pub. L. 118–31, div. A, title VII, § 721, Dec. 22, 2023, 137 Stat. 305, provided that:
+Pub. L. 117–263, div. A, title VII, § 736, Dec. 23, 2022, 136 Stat. 2670, as amended by Pub. L. 118–31, div. A, title VII, § 721, Dec. 22, 2023, 137 Stat. 305, provided that:
 
 > “Not later than February 24, 2023, the Secretary of Defense shall seek to enter into a partnership with the appropriate counterpart from the Government of Ukraine for the establishment of a joint program on military trauma care and research. Such program shall consist of the following:
 
@@ -587,7 +587,7 @@ Pub. L. 117–263, div. A, title VII, § 736, Dec. 23, 2022, 136 Stat. 2670, a
 
 **Biennial Briefing on Individual Longitudinal Exposure Record**
 
-Pub. L. 117–168, title VIII, § 802, Aug. 10, 2022, 136 Stat. 1801, provided that:
+Pub. L. 117–168, title VIII, § 802, Aug. 10, 2022, 136 Stat. 1801, provided that:
 
 > **“(a) In General.—** Not later than one year after the date on which the Individual Longitudinal Exposure Record achieves full operational capability, as determined by the Secretary of Defense, and every two years thereafter, the Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall provide the appropriate committees of Congress a briefing on—
 
@@ -613,7 +613,7 @@ Pub. L. 117–168, title VIII, § 802, Aug. 10, 2022, 136 Stat. 1801, provided
 
 **Appeals to Physical Evaluation Board Determinations of Fitness for Duty**
 
-Pub. L. 117–81, div. A, title V, § 524, Dec. 27, 2021, 135 Stat. 1687, as amended by Pub. L. 119–60, div. A, title V, § 524(a), Dec. 18, 2025, 139 Stat. 865, provided that:
+Pub. L. 117–81, div. A, title V, § 524, Dec. 27, 2021, 135 Stat. 1687, as amended by Pub. L. 119–60, div. A, title V, § 524(a), Dec. 18, 2025, 139 Stat. 865, provided that:
 
 > “The Secretary of Defense shall incorporate a formal appeals process (including timelines established by the Secretary of Defense) into the policies and procedures applicable to the implementation of the Integrated Disability Evaluation System of the Department of Defense. The appeals process shall include the following:
 
@@ -625,7 +625,7 @@ Pub. L. 117–81, div. A, title V, § 524, Dec. 27, 2021, 135 Stat. 1687, as a
 
 **Improvement of Postpartum Care for Members of the Armed Forces and Dependents**
 
-Pub. L. 117–81, div. A, title VII, § 707, Dec. 27, 2021, 135 Stat. 1782, provided that:
+Pub. L. 117–81, div. A, title VII, § 707, Dec. 27, 2021, 135 Stat. 1782, provided that:
 
 > **“(a) Clinical Practice Guidelines for Postpartum Care in Military Medical Treatment Facilities.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall establish clinical practice guidelines for the provision of postpartum care in military medical treatment facilities. Such guidelines shall take into account the recommendations of established professional medical associations and address the following matters:
 
@@ -649,7 +649,7 @@ Pub. L. 117–81, div. A, title VII, § 707, Dec. 27, 2021, 135 Stat. 1782, pr
 
 **Implementation of Integrated Product for Management of Population Health Across Military Health System**
 
-Pub. L. 117–81, div. A, title VII, § 722, Dec. 27, 2021, 135 Stat. 1792, provided that:
+Pub. L. 117–81, div. A, title VII, § 722, Dec. 27, 2021, 135 Stat. 1792, provided that:
 
 > **“(a) Integrated Product.—** The Secretary of Defense shall develop and implement an integrated product for the management of population health across the military health system. Such integrated product shall serve as a repository for the health care, demographic, and other relevant data of all covered beneficiaries, including with respect to data on health care services furnished to such beneficiaries through the purchased care and direct care components of the TRICARE program, and shall—
 
@@ -669,11 +669,11 @@ Pub. L. 117–81, div. A, title VII, § 722, Dec. 27, 2021, 135 Stat. 1792, pr
 
 **Mandatory Training on Health Effects of Burn Pits**
 
-Pub. L. 117–81, div. A, title VII, § 725, Dec. 27, 2021, 135 Stat. 1795, provided that: “The Secretary of Defense shall provide to each medical provider of the Department of Defense mandatory training with respect to the potential health effects of burn pits.”
+Pub. L. 117–81, div. A, title VII, § 725, Dec. 27, 2021, 135 Stat. 1795, provided that: “The Secretary of Defense shall provide to each medical provider of the Department of Defense mandatory training with respect to the potential health effects of burn pits.”
 
 **Access by Covered Individuals to Certain Facilities of Department of Defense for Assessment and Treatment of Anomalous Health Conditions**
 
-Pub. L. 117–81, div. A, title VII, § 732, Dec. 27, 2021, 135 Stat. 1797, as amended by Pub. L. 117–263, div. A, title X, § 1044(b), Dec. 23, 2022, 136 Stat. 2772, provided that:
+Pub. L. 117–81, div. A, title VII, § 732, Dec. 27, 2021, 135 Stat. 1797, as amended by Pub. L. 117–263, div. A, title X, § 1044(b), Dec. 23, 2022, 136 Stat. 2772, provided that:
 
 > **“(a) Assessment.—** The Secretary of Defense shall provide to covered individuals whom the Secretary determines are experiencing symptoms of certain anomalous health conditions, as defined by the Secretary for purposes of this section, timely access for medical assessment, subject to space availability, to the National Intrepid Center of Excellence, an Intrepid Spirit Center, or an appropriate military medical treatment facility, as determined by the Secretary.
 
@@ -691,7 +691,7 @@ Pub. L. 117–81, div. A, title VII, § 732, Dec. 27, 2021, 135 Stat. 1797, as
 
 **Military Health System Clinical Quality Management Program**
 
-Pub. L. 116–283, div. A, title VII, § 744, Jan. 1, 2021, 134 Stat. 3708, provided that:
+Pub. L. 116–283, div. A, title VII, § 744, Jan. 1, 2021, 134 Stat. 3708, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Director of the Defense Health Agency, shall implement a comprehensive program to be known as the ‘Military Health System Clinical Quality Management Program’ (in this section referred to as the ‘Program’).
 
@@ -733,7 +733,7 @@ Pub. L. 116–283, div. A, title VII, § 744, Jan. 1, 2021, 134 Stat. 3708, pr
 
 **Wounded Warrior Service Dog Program**
 
-Pub. L. 116–283, div. A, title VII, § 745, Jan. 1, 2021, 134 Stat. 3710, provided that:
+Pub. L. 116–283, div. A, title VII, § 745, Jan. 1, 2021, 134 Stat. 3710, provided that:
 
 > **“(a) Program.—** The Secretary of Defense shall establish a program, to be known as the ‘Wounded Warrior Service Dog Program’, to provide assistance dogs to covered members and covered veterans.
 
@@ -767,7 +767,7 @@ Pub. L. 116–283, div. A, title VII, § 745, Jan. 1, 2021, 134 Stat. 3710, pr
 
 **Inclusion of Blast Exposure History in Medical Records of Members of the Armed Forces**
 
-Pub. L. 116–92, div. A, title VII, § 717, Dec. 20, 2019, 133 Stat. 1453, provided that:
+Pub. L. 116–92, div. A, title VII, § 717, Dec. 20, 2019, 133 Stat. 1453, provided that:
 
 > **“(a) Requirement.—** If a covered incident occurs with respect to a member of the Armed Forces, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall document blast exposure history in the medical record of the member to assist in determining whether a future illness or injury of the member is service-connected and inform future blast exposure risk mitigation efforts of the Department of Defense.
 
@@ -785,11 +785,11 @@ Pub. L. 116–92, div. A, title VII, § 717, Dec. 20, 2019, 133 Stat. 1453, pr
 
 **Modification to Referrals for Mental Health Services**
 
-Pub. L. 116–92, div. A, title VII, § 722, Dec. 20, 2019, 133 Stat. 1457, provided that: “If the Secretary of Defense is unable to provide mental health services in a military medical treatment facility to a member of the Armed Forces within 15 days of the date on which such services are first requested by the member, the Secretary may refer the member to a provider under the TRICARE program (as that term is defined in section 1072 of title 10, United States Code) to receive such services.”
+Pub. L. 116–92, div. A, title VII, § 722, Dec. 20, 2019, 133 Stat. 1457, provided that: “If the Secretary of Defense is unable to provide mental health services in a military medical treatment facility to a member of the Armed Forces within 15 days of the date on which such services are first requested by the member, the Secretary may refer the member to a provider under the TRICARE program (as that term is defined in section 1072 of title 10, United States Code) to receive such services.”
 
 **Medical Simulation Technology and Live Tissue Training**
 
-Pub. L. 115–232, div. A, title VII, § 718, Aug. 13, 2018, 132 Stat. 1816, provided that:
+Pub. L. 115–232, div. A, title VII, § 718, Aug. 13, 2018, 132 Stat. 1816, provided that:
 
 > **“(a) In General.—**
 
@@ -813,7 +813,7 @@ Pub. L. 115–232, div. A, title VII, § 718, Aug. 13, 2018, 132 Stat. 1816, p
 
 **Inclusion of Gambling Disorder in Health Assessments of Members of the Armed Forces and Related Research Efforts**
 
-Pub. L. 115–232, div. A, title VII, § 733, Aug. 13, 2018, 132 Stat. 1818, provided that:
+Pub. L. 115–232, div. A, title VII, § 733, Aug. 13, 2018, 132 Stat. 1818, provided that:
 
 > **“(a) Inclusion in Next Annual Periodic Health Assessments.—** The Secretary of Defense shall incorporate medical screening questions specific to gambling disorder into the Annual Periodic Health Assessments of members of the Armed Forces conducted by the Department of Defense during the one-year period beginning 180 days after the date of the enactment of this Act [Aug. 13, 2018].
 
@@ -827,7 +827,7 @@ Pub. L. 115–232, div. A, title VII, § 733, Aug. 13, 2018, 132 Stat. 1818, p
 
 **Joint Trauma System**
 
-Pub. L. 114–328, div. A, title VII, § 707, Dec. 23, 2016, 130 Stat. 2208, provided that:
+Pub. L. 114–328, div. A, title VII, § 707, Dec. 23, 2016, 130 Stat. 2208, provided that:
 
 > **“(a) Plan.—**
 
@@ -855,7 +855,7 @@ Pub. L. 114–328, div. A, title VII, § 707, Dec. 23, 2016, 130 Stat. 2208, p
 
 **Joint Trauma Education and Training Directorate**
 
-Pub. L. 116–92, div. A, title VII, § 721, Dec. 20, 2019, 133 Stat. 1456, provided that:
+Pub. L. 116–92, div. A, title VII, § 721, Dec. 20, 2019, 133 Stat. 1456, provided that:
 
 > **“(a) Partnerships.—**
 
@@ -867,7 +867,7 @@ Pub. L. 116–92, div. A, title VII, § 721, Dec. 20, 2019, 133 Stat. 1456, pr
 
 > **“(c) Level I Civilian Trauma Center Defined.—** In this section, the term ‘level I civilian trauma center’ has the meaning given that term in section 708 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 1071 note).”
 
-Pub. L. 114–328, div. A, title VII, § 708, Dec. 23, 2016, 130 Stat. 2209, as amended by Pub. L. 115–232, div. A, title VII, § 719, Aug. 13, 2018, 132 Stat. 1817; Pub. L. 117–81, div. A, title III, § 373(b), Dec. 27, 2021, 135 Stat. 1667, provided that:
+Pub. L. 114–328, div. A, title VII, § 708, Dec. 23, 2016, 130 Stat. 2209, as amended by Pub. L. 115–232, div. A, title VII, § 719, Aug. 13, 2018, 132 Stat. 1817; Pub. L. 117–81, div. A, title III, § 373(b), Dec. 27, 2021, 135 Stat. 1667, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a Joint Trauma Education and Training Directorate (in this section referred to as the ‘Directorate’) to ensure that the traumatologists of the Armed Forces maintain readiness and are able to be rapidly deployed for future armed conflicts. The Secretary shall carry out this section in collaboration with the Secretaries of the military departments.
 
@@ -935,7 +935,7 @@ Pub. L. 114–328, div. A, title VII, § 708, Dec. 23, 2016, 130 Stat. 2209, a
 
 **Standardized System for Scheduling Medical Appointments at Military Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 709, Dec. 23, 2016, 130 Stat. 2211, provided that:
+Pub. L. 114–328, div. A, title VII, § 709, Dec. 23, 2016, 130 Stat. 2211, provided that:
 
 > **“(a) Standardized System.—**
 
@@ -1015,7 +1015,7 @@ Pub. L. 114–328, div. A, title VII, § 709, Dec. 23, 2016, 130 Stat. 2211, p
 
 **Evaluation and Treatment of Veterans and Civilians at Military Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 717, Dec. 23, 2016, 130 Stat. 2223, as amended by Pub. L. 115–91, div. A, title VII, § 712, Dec. 12, 2017, 131 Stat. 1437, provided that:
+Pub. L. 114–328, div. A, title VII, § 717, Dec. 23, 2016, 130 Stat. 2223, as amended by Pub. L. 115–91, div. A, title VII, § 712, Dec. 12, 2017, 131 Stat. 1437, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall authorize a veteran (in consultation with the Secretary of Veterans Affairs) or civilian to be evaluated and treated at a military treatment facility if the Secretary of Defense determines that—
 
@@ -1047,7 +1047,7 @@ Pub. L. 114–328, div. A, title VII, § 717, Dec. 23, 2016, 130 Stat. 2223, a
 
 **Enhancement of Use of Telehealth Services in Military Health System**
 
-Pub. L. 114–328, div. A, title VII, § 718, Dec. 23, 2016, 130 Stat. 2224, provided that:
+Pub. L. 114–328, div. A, title VII, § 718, Dec. 23, 2016, 130 Stat. 2224, provided that:
 
 > **“(a) Incorporation of Telehealth.—**
 
@@ -1131,7 +1131,7 @@ Pub. L. 114–328, div. A, title VII, § 718, Dec. 23, 2016, 130 Stat. 2224, p
 
 **Program To Eliminate Variability in Health Outcomes and Improve Quality of Health Care Services Delivered in Military Medical Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 726, Dec. 23, 2016, 130 Stat. 2231, provided that:
+Pub. L. 114–328, div. A, title VII, § 726, Dec. 23, 2016, 130 Stat. 2231, provided that:
 
 > **“(a) Program.—** Beginning not later than January 1, 2018, the Secretary of Defense shall implement a program—
 
@@ -1155,7 +1155,7 @@ Pub. L. 114–328, div. A, title VII, § 726, Dec. 23, 2016, 130 Stat. 2231, p
 
 **Adoption of Core Quality Performance Metrics**
 
-Pub. L. 114–328, div. A, title VII, § 728(a), Dec. 23, 2016, 130 Stat. 2233, provided that:
+Pub. L. 114–328, div. A, title VII, § 728(a), Dec. 23, 2016, 130 Stat. 2233, provided that:
 
 > **“(a) Adoption.—**
 
@@ -1183,7 +1183,7 @@ Pub. L. 114–328, div. A, title VII, § 728(a), Dec. 23, 2016, 130 Stat. 2233
 
 **Accountability for the Performance of the Military Health System of Certain Leaders Within the System**
 
-Pub. L. 114–328, div. A, title VII, § 730, Dec. 23, 2016, 130 Stat. 2235, provided that:
+Pub. L. 114–328, div. A, title VII, § 730, Dec. 23, 2016, 130 Stat. 2235, provided that:
 
 > **“(a) In General.—** Commencing not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense, in consultation with the Secretaries of the military departments, shall incorporate into the annual performance review of each military and civilian leader in the military health system, as determined by the Secretary of Defense, measures of accountability for the performance of the military health system described in subsection (b).
 
@@ -1211,7 +1211,7 @@ Pub. L. 114–328, div. A, title VII, § 730, Dec. 23, 2016, 130 Stat. 2235, p
 
 **Establishment of Advisory Committees for Military Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 731, Dec. 23, 2016, 130 Stat. 2236, provided that:
+Pub. L. 114–328, div. A, title VII, § 731, Dec. 23, 2016, 130 Stat. 2236, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish, under such regulations as the Secretary may prescribe, an advisory committee for each military treatment facility.
 
@@ -1221,7 +1221,7 @@ Pub. L. 114–328, div. A, title VII, § 731, Dec. 23, 2016, 130 Stat. 2236, p
 
 **Provision of Information to Members of the Armed Forces on Privacy Rights Relating to Receipt of Mental Health Services**
 
-Pub. L. 113–291, div. A, title V, § 523, Dec. 19, 2014, 128 Stat. 3361, provided that:
+Pub. L. 113–291, div. A, title V, § 523, Dec. 19, 2014, 128 Stat. 3361, provided that:
 
 > **“(a) Provision of Information Required.—** The Secretaries of the military departments shall ensure that the information described in subsection (b) is provided—
 
@@ -1235,27 +1235,27 @@ Pub. L. 113–291, div. A, title V, § 523, Dec. 19, 2014, 128 Stat. 3361, pro
 
 **Antimicrobial Stewardship Program at Medical Facilities of the Department of Defense**
 
-Pub. L. 113–291, div. A, title VII, § 727, Dec. 19, 2014, 128 Stat. 3420, required the Secretary of Defense, no later than 180 days after Dec. 19, 2014, to carry out and report to Congress on an antimicrobial stewardship program at medical facilities of the Department of Defense.
+Pub. L. 113–291, div. A, title VII, § 727, Dec. 19, 2014, 128 Stat. 3420, required the Secretary of Defense, no later than 180 days after Dec. 19, 2014, to carry out and report to Congress on an antimicrobial stewardship program at medical facilities of the Department of Defense.
 
 **Comprehensive Policy on Improvements to Care and Transition of Members of the Armed Forces With Urotrauma**
 
-Pub. L. 113–66, div. A, title VII, § 703, Dec. 26, 2013, 127 Stat. 791, required development and implementation of a comprehensive policy on improvements to the care, management, and transition of recovering Armed Forces members with urotrauma no later than 180 days after Dec. 26, 2013, with a report to Congress no later than one year after the implementation of the policy.
+Pub. L. 113–66, div. A, title VII, § 703, Dec. 26, 2013, 127 Stat. 791, required development and implementation of a comprehensive policy on improvements to the care, management, and transition of recovering Armed Forces members with urotrauma no later than 180 days after Dec. 26, 2013, with a report to Congress no later than one year after the implementation of the policy.
 
 **Electronic Health Records of the Department of Defense and the Department of Veterans Affairs**
 
-Pub. L. 113–66, div. A, title VII, § 713, Dec. 26, 2013, 127 Stat. 794, which required the Secretaries of Defense and Veterans Affairs to ensure that the electronic health records systems of their departments were interoperable and met certain standards and requirements and adhered to certain principles, was repealed by Pub. L. 116–92, div. A, title VII, § 715(i), Dec. 20, 2019, 133 Stat. 1453. See section 1635 of Pub. L. 110–181, set out in a note below.
+Pub. L. 113–66, div. A, title VII, § 713, Dec. 26, 2013, 127 Stat. 794, which required the Secretaries of Defense and Veterans Affairs to ensure that the electronic health records systems of their departments were interoperable and met certain standards and requirements and adhered to certain principles, was repealed by Pub. L. 116–92, div. A, title VII, § 715(i), Dec. 20, 2019, 133 Stat. 1453. See section 1635 of Pub. L. 110–181, set out in a note below.
 
 **Research and Medical Practice on Mental Health Conditions**
 
-Pub. L. 112–239, div. A, title VII, § 725, Jan. 2, 2013, 126 Stat. 1806, required the Secretary of Defense to create a policy on medical practices from research on the diagnosis and treatment of mental health conditions and to submit a report to Congress no later than 180 days after Jan. 2, 2013.
+Pub. L. 112–239, div. A, title VII, § 725, Jan. 2, 2013, 126 Stat. 1806, required the Secretary of Defense to create a policy on medical practices from research on the diagnosis and treatment of mental health conditions and to submit a report to Congress no later than 180 days after Jan. 2, 2013.
 
 **Plan for Reform of the Administration of the Military Health System**
 
-Pub. L. 112–239, div. A, title VII, § 731, Jan. 2, 2013, 126 Stat. 1815, required the Secretary of Defense to develop a detailed plan to carry out reforms to the governance of the military health system and to submit a series of reports to Congress, with the final report due on Sept. 30, 2013.
+Pub. L. 112–239, div. A, title VII, § 731, Jan. 2, 2013, 126 Stat. 1815, required the Secretary of Defense to develop a detailed plan to carry out reforms to the governance of the military health system and to submit a series of reports to Congress, with the final report due on Sept. 30, 2013.
 
 **Performance Metrics and Reports on Warriors in Transition Programs of the Military Departments**
 
-Pub. L. 112–239, div. A, title VII, § 738, Jan. 2, 2013, 126 Stat. 1820, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(3), Dec. 12, 2017, 131 Stat. 1565, provided that:
+Pub. L. 112–239, div. A, title VII, § 738, Jan. 2, 2013, 126 Stat. 1820, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(3), Dec. 12, 2017, 131 Stat. 1565, provided that:
 
 > **“(a) Metrics Required.—** The Secretary of Defense shall establish a policy containing uniform performance outcome measurements to be used by each Secretary of a military department in tracking and monitoring members of the Armed Forces in Warriors in Transition programs.
 
@@ -1297,7 +1297,7 @@ Pub. L. 112–239, div. A, title VII, § 738, Jan. 2, 2013, 126 Stat. 1820, as
 
 **Suicide Prevention Policies and Programs**
 
-Pub. L. 114–92, div. A, title V, § 591, Nov. 25, 2015, 129 Stat. 832, provided that:
+Pub. L. 114–92, div. A, title V, § 591, Nov. 25, 2015, 129 Stat. 832, provided that:
 
 > **“(a) Development of Policy.—** The Secretary of Defense, in consultation with the Secretaries of the military departments, may develop a policy to coordinate the efforts of the Department of Defense and non-government suicide prevention organizations regarding—
 
@@ -1311,7 +1311,7 @@ Pub. L. 114–92, div. A, title V, § 591, Nov. 25, 2015, 129 Stat. 832, provi
 
 > **“(b) Suicide Prevention Efforts.—** The Secretary of Defense is authorized to take any necessary measures to prevent suicides by members of the Armed Forces, including by facilitating the access of members of the Armed Forces to successful non-governmental treatment regimen.”
 
-Pub. L. 113–291, div. A, title V, § 567, Dec. 19, 2014, 128 Stat. 3385, provided that:
+Pub. L. 113–291, div. A, title V, § 567, Dec. 19, 2014, 128 Stat. 3385, provided that:
 
 > **“(a) Policy for Standard Suicide Data Collection, Reporting, and Assessment.—**
 
@@ -1337,7 +1337,7 @@ Pub. L. 113–291, div. A, title V, § 567, Dec. 19, 2014, 128 Stat. 3385, pro
 
 > **“(c) Dependent Defined.—** In this section, the term ‘dependent’, with respect to a member of the Armed Forces, means a person described in section 1072(2) of title 10, United States Code, except that, in the case of a parent or parent-in-law of the member, the income requirements of subparagraph (E) of such section do not apply.”
 
-Pub. L. 112–239, div. A, title V, § 580, Jan. 2, 2013, 126 Stat. 1764, provided that:
+Pub. L. 112–239, div. A, title V, § 580, Jan. 2, 2013, 126 Stat. 1764, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, establish within the Office of the Secretary of Defense a position with responsibility for oversight of all suicide prevention and resilience programs of the Department of Defense (including those of the military departments and the Armed Forces).
 
@@ -1347,7 +1347,7 @@ Pub. L. 112–239, div. A, title V, § 580, Jan. 2, 2013, 126 Stat. 1764, prov
 
 > **“(2)** To oversee the implementation of the comprehensive policy on the prevention of suicide among members of the Armed Forces required by section 582.”
 
-Pub. L. 112–239, div. A, title V, § 582, Jan. 2, 2013, 126 Stat. 1766, provided that:
+Pub. L. 112–239, div. A, title V, § 582, Jan. 2, 2013, 126 Stat. 1766, provided that:
 
 > **“(a) Comprehensive Policy Required.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
 
@@ -1377,7 +1377,7 @@ Pub. L. 112–239, div. A, title V, § 582, Jan. 2, 2013, 126 Stat. 1766, prov
 
 > **“(12)** Such other matters as the Secretary considers appropriate in connection with the prevention of suicide among members.”
 
-Pub. L. 112–81, div. A, title V, § 533(a), (b), Dec. 31, 2011, 125 Stat. 1404, provided that:
+Pub. L. 112–81, div. A, title V, § 533(a), (b), Dec. 31, 2011, 125 Stat. 1404, provided that:
 
 > **“(a) Program Enhancement.—** The Secretary of Defense shall take appropriate actions to enhance the suicide prevention program of the Department of Defense through the provision of suicide prevention information and resources to members of the Armed Forces from their initial enlistment or appointment through their final retirement or separation.
 
@@ -1389,15 +1389,15 @@ Pub. L. 112–81, div. A, title V, § 533(a), (b), Dec. 31, 2011, 125 Stat. 14
 
 **Treatment of Wounded Warriors**
 
-Pub. L. 112–81, div. A, title VII, § 722, Dec. 31, 2011, 125 Stat. 1479, provided that: “The Secretary of Defense may establish a program to enter into partnerships to enable coordinated, rapid clinical evaluation and the application of evidence-based treatment strategies for wounded service members, with an emphasis on the most common musculoskeletal injuries, that will address the priorities of the Armed Forces with respect to retention and readiness.”
+Pub. L. 112–81, div. A, title VII, § 722, Dec. 31, 2011, 125 Stat. 1479, provided that: “The Secretary of Defense may establish a program to enter into partnerships to enable coordinated, rapid clinical evaluation and the application of evidence-based treatment strategies for wounded service members, with an emphasis on the most common musculoskeletal injuries, that will address the priorities of the Armed Forces with respect to retention and readiness.”
 
 **Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders and Disposition of Substance Abuse Offenders in the Armed Forces**
 
-Pub. L. 111–84, div. A, title V, § 596, Oct. 28, 2009, 123 Stat. 2339, provided for a comprehensive review of programs and policies regarding substance abuse disorders in members of the Armed Forces and the development of a plan for improvement and enhancement of such programs and policies by the Secretary of Defense and for a report to Congress on modification and improvements made following an independent study of the programs that was to be completed no later than two years after Oct. 28, 2009.
+Pub. L. 111–84, div. A, title V, § 596, Oct. 28, 2009, 123 Stat. 2339, provided for a comprehensive review of programs and policies regarding substance abuse disorders in members of the Armed Forces and the development of a plan for improvement and enhancement of such programs and policies by the Secretary of Defense and for a report to Congress on modification and improvements made following an independent study of the programs that was to be completed no later than two years after Oct. 28, 2009.
 
 **Comprehensive Policy on Pain Management by the Military Health Care System**
 
-Pub. L. 111–84, div. A, title VII, § 711, Oct. 28, 2009, 123 Stat. 2378, provided that:
+Pub. L. 111–84, div. A, title VII, § 711, Oct. 28, 2009, 123 Stat. 2378, provided that:
 
 > **“(a) Comprehensive Policy Required.—** Not later than March 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on pain management by the military health care system.
 
@@ -1441,11 +1441,11 @@ Pub. L. 111–84, div. A, title VII, § 711, Oct. 28, 2009, 123 Stat. 2378, pr
 
 **Plan To Increase the Mental Health Capabilities of the Department of Defense**
 
-Pub. L. 111–84, div. A, title VII, § 714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, directed each military department to increase by a specified amount the number of active duty mental health personnel no later than 180 days after Oct. 28, 2009, and required the Secretary of Defense to report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents; to develop and implement a plan to significantly increase the number of military and civilian mental health personnel by Sept. 30, 2013; and to report on an assessment of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces.
+Pub. L. 111–84, div. A, title VII, § 714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, directed each military department to increase by a specified amount the number of active duty mental health personnel no later than 180 days after Oct. 28, 2009, and required the Secretary of Defense to report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents; to develop and implement a plan to significantly increase the number of military and civilian mental health personnel by Sept. 30, 2013; and to report on an assessment of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces.
 
 **Study and Plan To Improve Military Health Care**
 
-Pub. L. 111–84, div. A, title VII, § 721, Oct. 28, 2009, 123 Stat. 2385, provided that:
+Pub. L. 111–84, div. A, title VII, § 721, Oct. 28, 2009, 123 Stat. 2385, provided that:
 
 > **“(a) Study and Report Required.—** Not later than one year after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the health care needs of dependents (as defined in section 1072(2) of title 10, United States Code). The report shall include, at a minimum, the following:
 
@@ -1529,7 +1529,7 @@ Pub. L. 111–84, div. A, title VII, § 721, Oct. 28, 2009, 123 Stat. 2385, pr
 
 **Program for Health Care Delivery at Military Installations With Projected Growth**
 
-Pub. L. 110–417, [div. A], title VII, § 705, Oct. 14, 2008, 122 Stat. 4499, provided that:
+Pub. L. 110–417, [div. A], title VII, § 705, Oct. 14, 2008, 122 Stat. 4499, provided that:
 
 > **“(a) Program.—** The Secretary of Defense is authorized to develop a plan to establish a program to build cooperative health care arrangements and agreements between military installations projected to grow and local and regional non-military health care systems.
 
@@ -1569,7 +1569,7 @@ Pub. L. 110–417, [div. A], title VII, § 705, Oct. 14, 2008, 122 Stat. 4499,
 
 **Center of Excellence in Prevention, Diagnosis, Mitigation, Treatment, and Rehabilitation of Hearing Loss and Auditory System Injuries**
 
-Pub. L. 110–417, [div. A], title VII, § 721, Oct. 14, 2008, 122 Stat. 4506, provided that:
+Pub. L. 110–417, [div. A], title VII, § 721, Oct. 14, 2008, 122 Stat. 4506, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of hearing loss and auditory system injury to carry out the responsibilities specified in subsection (c).
 
@@ -1607,7 +1607,7 @@ Pub. L. 110–417, [div. A], title VII, § 721, Oct. 14, 2008, 122 Stat. 4506,
 
 **Wounded Warrior Health Care Improvements**
 
-Pub. L. 115–232, div. A, title VII, § 717, Aug. 13, 2018, 132 Stat. 1815, provided that:
+Pub. L. 115–232, div. A, title VII, § 717, Aug. 13, 2018, 132 Stat. 1815, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall review and update policies and procedures relating to the care and management of recovering service members. In conducting such review, the Secretary shall consider best practices—
 
@@ -1643,7 +1643,7 @@ Pub. L. 115–232, div. A, title VII, § 717, Aug. 13, 2018, 132 Stat. 1815, p
 
 > **“(d) Definitions.—** In this section, the terms ‘disability evaluation system’, ‘outpatient status’, and ‘recovering service members’ have the meaning given those terms in section 1602 of the Wounded Warrior Act (title XVI of Public Law 110–181; 10 U.S.C. 1071 note).”
 
-Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, [div. A], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, § 231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), title VII, § 707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–175, title I, § 105, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–291, div. A, title V, § 591, title VII, § 724, Dec. 19, 2014, 128 Stat. 3394, 3418; Pub. L. 114–58, title II, § 204, title IV, § 411, Sept. 30, 2015, 129 Stat. 533, 536; Pub. L. 114–92, div. A, title X, § 1072(e), (f), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–228, title II, § 204, title IV, § 414, Sept. 29, 2016, 130 Stat. 938, 941; Pub. L. 115–62, title II, § 203, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 126, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–92, div. A, title VII, § 715(a)–(g), Dec. 20, 2019, 133 Stat. 1446–1451, provided that:
+Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, [div. A], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, § 231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), title VII, § 707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–175, title I, § 105, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–291, div. A, title V, § 591, title VII, § 724, Dec. 19, 2014, 128 Stat. 3394, 3418; Pub. L. 114–58, title II, § 204, title IV, § 411, Sept. 30, 2015, 129 Stat. 533, 536; Pub. L. 114–92, div. A, title X, § 1072(e), (f), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–228, title II, § 204, title IV, § 414, Sept. 29, 2016, 130 Stat. 938, 941; Pub. L. 115–62, title II, § 203, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 126, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–92, div. A, title VII, § 715(a)–(g), Dec. 20, 2019, 133 Stat. 1446–1451, provided that:
 
 > **“SEC. 1602. GENERAL DEFINITIONS.**
 
@@ -1677,7 +1677,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(8) Serious injury or illness.—** The term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.
 
-> **“(9) TRICARE program.—** The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code. [As amended Pub. L. 110–417, [div. A], title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.]
+> **“(9) TRICARE program.—** The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code. [As amended Pub. L. 110–417, [div. A], title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.]
 
 > **“SEC. 1603. CONSIDERATION OF GENDER-SPECIFIC NEEDS OF RECOVERING SERVICE MEMBERS AND VETERANS.**
 
@@ -2091,7 +2091,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(1) Toll-free telephone number.—** The toll-free telephone number required to be established by subsection (a), shall be fully operational not later than April 1, 2008.
 
-> **“(2) Internet website.—** The Internet website required to be established by subsection (a), shall be fully operational not later than July 1, 2008. [As amended Pub. L. 110–417, [div. A], title VII, § 724, Oct. 14, 2008, 122 Stat. 4509.]
+> **“(2) Internet website.—** The Internet website required to be established by subsection (a), shall be fully operational not later than July 1, 2008. [As amended Pub. L. 110–417, [div. A], title VII, § 724, Oct. 14, 2008, 122 Stat. 4509.]
 
 > **“SEC. 1618. COMPREHENSIVE PLAN ON PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF, AND RESEARCH ON, TRAUMATIC BRAIN INJURY, POST-TRAUMATIC STRESS DISORDER, AND OTHER MENTAL HEALTH CONDITIONS IN MEMBERS OF THE ARMED FORCES.**
 
@@ -2261,7 +2261,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(e) Inclusion of Records of OIF/OEF Veterans.—** The Secretary of Defense shall take appropriate actions to include in the Registry such records of members of the Armed Forces who incurred an eye injury while serving on active duty on or after September 11, 2001, but before the establishment of the Registry, as the Secretary considers appropriate for purposes of the Registry.
 
-> **“(f) Traumatic Brain Injury Post Traumatic Visual Syndrome.—** In carrying out the program at Walter Reed Army Medical Center, District of Columbia, on traumatic brain injury post traumatic visual syndrome, the Secretary of Defense and the Department of Veterans Affairs shall jointly provide for the conduct of a cooperative program for members of the Armed Forces and veterans with traumatic brain injury by military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs selected for purposes of this subsection for purposes of vision screening, diagnosis, rehabilitative management, and vision research, including research on prevention, on visual dysfunction related to traumatic brain injury. [As amended Pub. L. 110–417, [div. A], title VII, § 722, Oct. 14, 2008, 122 Stat. 4508.]
+> **“(f) Traumatic Brain Injury Post Traumatic Visual Syndrome.—** In carrying out the program at Walter Reed Army Medical Center, District of Columbia, on traumatic brain injury post traumatic visual syndrome, the Secretary of Defense and the Department of Veterans Affairs shall jointly provide for the conduct of a cooperative program for members of the Armed Forces and veterans with traumatic brain injury by military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs selected for purposes of this subsection for purposes of vision screening, diagnosis, rehabilitative management, and vision research, including research on prevention, on visual dysfunction related to traumatic brain injury. [As amended Pub. L. 110–417, [div. A], title VII, § 722, Oct. 14, 2008, 122 Stat. 4508.]
 
 > **“SEC. 1631. MEDICAL CARE AND OTHER BENEFITS FOR MEMBERS AND FORMER MEMBERS OF THE ARMED FORCES WITH SEVERE INJURIES OR ILLNESSES.**
 
@@ -2277,7 +2277,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(1) In general.—** Subject to the availability of appropriations for such purpose, the Secretary of Defense may provide an active duty member of the Armed Forces with a severe injury or illness with rehabilitative equipment, including recreational sports equipment that provide an adaption or accommodation for the member, regardless of whether such equipment is intentionally designed to be adaptive equipment.
 
-> **“(2) Consultation.—** In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding similar programs carried out by the Secretary of Veterans Affairs. [As amended Pub. L. 112–56, title II, § 231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VII, § 707, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title VII, § 724, Dec. 19, 2014, 128 Stat. 3418; Pub. L. 114–58, title II, § 204, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 204, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 203, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 126, Sept. 29, 2018, 132 Stat. 3169.]
+> **“(2) Consultation.—** In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding similar programs carried out by the Secretary of Veterans Affairs. [As amended Pub. L. 112–56, title II, § 231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VII, § 707, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title VII, § 724, Dec. 19, 2014, 128 Stat. 3418; Pub. L. 114–58, title II, § 204, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 204, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 203, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 126, Sept. 29, 2018, 132 Stat. 3169.]
 
 > **“SEC. 1635. FULLY INTEROPERABLE ELECTRONIC PERSONAL HEALTH INFORMATION FOR THE DEPARTMENT OF DEFENSE AND DEPARTMENT OF VETERANS AFFAIRS.**
 
@@ -2493,7 +2493,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(C)** the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 
-> **“(8)** The term ‘TRICARE program’ has the meaning given that term in section 1072 of title 10, United States Code. [As amended Pub. L. 110–417, [div. A], title II, § 252, Oct. 14, 2008, 122 Stat. 4400; Pub. L. 113–175, title I, § 105, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, § 411, Sept. 30, 2015, 129 Stat. 536; Pub. L. 114–228, title IV, § 414, Sept. 29, 2016, 130 Stat. 941; Pub. L. 116–92, div. A, title VII, § 715(a)–(g), Dec. 20, 2019, 133 Stat. 1446–1451.]
+> **“(8)** The term ‘TRICARE program’ has the meaning given that term in section 1072 of title 10, United States Code. [As amended Pub. L. 110–417, [div. A], title II, § 252, Oct. 14, 2008, 122 Stat. 4400; Pub. L. 113–175, title I, § 105, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, § 411, Sept. 30, 2015, 129 Stat. 536; Pub. L. 114–228, title IV, § 414, Sept. 29, 2016, 130 Stat. 941; Pub. L. 116–92, div. A, title VII, § 715(a)–(g), Dec. 20, 2019, 133 Stat. 1446–1451.]
 
 > **“SEC. 1644. AUTHORIZATION OF PILOT PROGRAMS TO IMPROVE THE DISABILITY EVALUATION SYSTEM FOR MEMBERS OF THE ARMED FORCES.**
 
@@ -2635,7 +2635,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“(ii)** a description of any deficiency or noncompliance in each facility with the standards.
 
-> **“(C)** A description of the investment to be allocated to address each deficiency or noncompliance identified under subparagraph (B)(ii). [As amended Pub. L. 114–92, div. A, title X, § 1072(e), Nov. 25, 2015, 129 Stat. 995.]
+> **“(C)** A description of the investment to be allocated to address each deficiency or noncompliance identified under subparagraph (B)(ii). [As amended Pub. L. 114–92, div. A, title X, § 1072(e), Nov. 25, 2015, 129 Stat. 995.]
 
 > **“SEC. 1651. HANDBOOK FOR MEMBERS OF THE ARMED FORCES ON COMPENSATION AND BENEFITS AVAILABLE FOR SERIOUS INJURIES AND ILLNESSES.**
 
@@ -2651,7 +2651,7 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 > **“SEC. 1662. ACCESS OF RECOVERING SERVICE MEMBERS TO ADEQUATE OUTPATIENT RESIDENTIAL FACILITIES.**
 
-> “All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands. [As amended Pub. L. 113–291, div. A, title V, § 591, Dec. 19, 2014, 128 Stat. 3394; Pub. L. 114–92, div. A, title X, § 1072(f), Nov. 25, 2015, 129 Stat. 995.]
+> “All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands. [As amended Pub. L. 113–291, div. A, title V, § 591, Dec. 19, 2014, 128 Stat. 3394; Pub. L. 114–92, div. A, title X, § 1072(f), Nov. 25, 2015, 129 Stat. 995.]
 
 > **“SEC. 1671. PROHIBITION ON TRANSFER OF RESOURCES FROM MEDICAL CARE.**
 
@@ -2717,15 +2717,15 @@ Pub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618
 
 **Disease and Chronic Care Management**
 
-Pub. L. 109–364, div. A, title VII, § 734, Oct. 17, 2006, 120 Stat. 2299, required the Secretary of Defense to develop a fully integrated program on disease and chronic care management for the military health care system with uniform policies and practices throughout the system and an implementation plan for the program and to report to Congress no later than Mar. 1, 2008.
+Pub. L. 109–364, div. A, title VII, § 734, Oct. 17, 2006, 120 Stat. 2299, required the Secretary of Defense to develop a fully integrated program on disease and chronic care management for the military health care system with uniform policies and practices throughout the system and an implementation plan for the program and to report to Congress no later than Mar. 1, 2008.
 
 **Prevention, Mitigation, and Treatment of Blast Injuries**
 
-Pub. L. 109–163, div. A, title II, § 256, Jan. 6, 2006, 119 Stat. 3181, as amended by Pub. L. 112–239, div. A, title X, § 1076(c)(2)(C), Jan. 2, 2013, 126 Stat. 1950, provided for medical research efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries, including the designation of an executive agent to coordinate and manage such efforts and programs, conduct studies, and develop training protocols, and required an annual report to Congress through 2008.
+Pub. L. 109–163, div. A, title II, § 256, Jan. 6, 2006, 119 Stat. 3181, as amended by Pub. L. 112–239, div. A, title X, § 1076(c)(2)(C), Jan. 2, 2013, 126 Stat. 1950, provided for medical research efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries, including the designation of an executive agent to coordinate and manage such efforts and programs, conduct studies, and develop training protocols, and required an annual report to Congress through 2008.
 
 **Access to Health Care Services for Beneficiaries Eligible for TRICARE and Department of Veterans Affairs Health Care**
 
-Pub. L. 107–314, div. A, title VII, § 708, Dec. 2, 2002, 116 Stat. 2585, provided that:
+Pub. L. 107–314, div. A, title VII, § 708, Dec. 2, 2002, 116 Stat. 2585, provided that:
 
 > **“(a) Requirement To Establish Process.—**
 
@@ -2765,15 +2765,15 @@ Pub. L. 107–314, div. A, title VII, § 708, Dec. 2, 2002, 116 Stat. 2585, pr
 
 **Pilot Program Providing for Department of Veterans Affairs Support in the Performance of Separation Physical Examinations**
 
-Pub. L. 107–107, div. A, title VII, § 734, Dec. 28, 2001, 115 Stat. 1170, authorized the Secretary of Defense and the Secretary of Veterans Affairs to jointly carry out a pilot program, to begin not later than July 1, 2002, and terminate on Dec. 31, 2005, under which the Secretary of Veterans Affairs, in one or more geographic areas, could perform the physical examinations required for separation of members from the uniformed services, and directed the Secretaries to jointly submit to Congress interim and final reports not later than Mar. 1, 2005.
+Pub. L. 107–107, div. A, title VII, § 734, Dec. 28, 2001, 115 Stat. 1170, authorized the Secretary of Defense and the Secretary of Veterans Affairs to jointly carry out a pilot program, to begin not later than July 1, 2002, and terminate on Dec. 31, 2005, under which the Secretary of Veterans Affairs, in one or more geographic areas, could perform the physical examinations required for separation of members from the uniformed services, and directed the Secretaries to jointly submit to Congress interim and final reports not later than Mar. 1, 2005.
 
 **Health Care Management Demonstration Program**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 733], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, as amended by Pub. L. 107–107, div. A, title VII, § 737, Dec. 28, 2001, 115 Stat. 1173, directed the Secretary of Defense to carry out a demonstration program on health care management, to begin not later than 180 days after Oct. 30, 2000, and terminate on Dec. 31, 2003, to explore opportunities for improving the planning, programming, budgeting systems, and management of the Department of Defense health care system, and directed the Secretary to submit a report on such program to committees of Congress not later than Mar. 15, 2004.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 733], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, as amended by Pub. L. 107–107, div. A, title VII, § 737, Dec. 28, 2001, 115 Stat. 1173, directed the Secretary of Defense to carry out a demonstration program on health care management, to begin not later than 180 days after Oct. 30, 2000, and terminate on Dec. 31, 2003, to explore opportunities for improving the planning, programming, budgeting systems, and management of the Department of Defense health care system, and directed the Secretary to submit a report on such program to committees of Congress not later than Mar. 15, 2004.
 
 **Processes for Patient Safety in Military and Veterans Health Care Systems**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 742], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 742], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
 
 > **“(a) Error Tracking Process.—** The Secretary of Defense shall implement a centralized process for reporting, compilation, and analysis of errors in the provision of health care under the defense health program that endanger patients beyond the normal risks associated with the care and treatment of such patients. To the extent practicable, that process shall emulate the system established by the Secretary of Veterans Affairs for reporting, compilation, and analysis of errors in the provision of health care under the Department of Veterans Affairs health care system that endanger patients beyond such risks.
 
@@ -2785,11 +2785,11 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 742], Oct. 30, 2000, 114 St
 
 **Cooperation in Developing Pharmaceutical Identification Technology**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 743], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that: “The Secretary of Defense and the Secretary of Veterans Affairs shall cooperate in developing systems for the use of bar codes for the identification of pharmaceuticals in the health care programs of the Department of Defense and the Department of Veterans Affairs. In any case in which a common pharmaceutical is used in such programs, the bar codes for those pharmaceuticals shall, to the maximum extent practicable, be identical.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 743], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that: “The Secretary of Defense and the Secretary of Veterans Affairs shall cooperate in developing systems for the use of bar codes for the identification of pharmaceuticals in the health care programs of the Department of Defense and the Department of Veterans Affairs. In any case in which a common pharmaceutical is used in such programs, the bar codes for those pharmaceuticals shall, to the maximum extent practicable, be identical.”
 
 **Patient Care Reporting and Management System**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 754], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, as amended by Pub. L. 109–163, div. A, title VII, § 741, Jan. 6, 2006, 119 Stat. 3360, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 754], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, as amended by Pub. L. 109–163, div. A, title VII, § 741, Jan. 6, 2006, 119 Stat. 3360, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a patient care error reporting and management system.
 
@@ -2835,11 +2835,11 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 754], Oct. 30, 2000, 114 St
 
 **Confidentiality of Communications With Professionals Providing Therapeutic or Related Services Regarding Sexual or Domestic Abuse**
 
-Pub. L. 106–65, div. A, title V, § 585, Oct. 5, 1999, 113 Stat. 636, required the Secretary of Defense to prescribe in regulations policies and procedures to provide maximum protections for the confidentiality of communications between dependents of Armed Forces members and professionals providing therapeutic or related services regarding sexual or domestic abuse and to report to Congress no later than Jan. 21, 2000.
+Pub. L. 106–65, div. A, title V, § 585, Oct. 5, 1999, 113 Stat. 636, required the Secretary of Defense to prescribe in regulations policies and procedures to provide maximum protections for the confidentiality of communications between dependents of Armed Forces members and professionals providing therapeutic or related services regarding sexual or domestic abuse and to report to Congress no later than Jan. 21, 2000.
 
 **Health Care Quality Information and Technology Enhancement**
 
-Pub. L. 106–65, div. A, title VII, § 723, Oct. 5, 1999, 113 Stat. 695, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 753(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 109–163, div. A, title VII, § 742, Jan. 6, 2006, 119 Stat. 3360; Pub. L. 109–364, div. A, title X, § 1046(e), Oct. 17, 2006, 120 Stat. 2394; Pub. L. 112–81, div. A, title X, § 1062(j)(1), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 117–286, § 4(a)(47), Dec. 27, 2022, 136 Stat. 4310, provided that:
+Pub. L. 106–65, div. A, title VII, § 723, Oct. 5, 1999, 113 Stat. 695, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 753(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 109–163, div. A, title VII, § 742, Jan. 6, 2006, 119 Stat. 3360; Pub. L. 109–364, div. A, title X, § 1046(e), Oct. 17, 2006, 120 Stat. 2394; Pub. L. 112–81, div. A, title X, § 1062(j)(1), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 117–286, § 4(a)(47), Dec. 27, 2022, 136 Stat. 4310, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to ensure that the Department of Defense addresses issues of medical quality surveillance and implements solutions for those issues in a timely manner that is consistent with national policy and industry standards.
 
@@ -2913,11 +2913,11 @@ Pub. L. 106–65, div. A, title VII, § 723, Oct. 5, 1999, 113 Stat. 695, as a
 
 **Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care**
 
-Pub. L. 105–261, div. A, title VII, § 745, Oct. 17, 1998, 112 Stat. 2075, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(g)(1), Nov. 24, 2003, 117 Stat. 1604, (1) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly conduct a survey of their respective medical care beneficiary populations to identify the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care, and to submit a report on the results of the survey to committees of Congress not later than Jan. 1, 2000; (2) directed the same Secretaries to jointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care and to submit a report on the results of the review to committees of Congress not later than Mar. 1, 1999; (3) directed the Secretary of Defense to review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program; (4) directed the Department of Defense-Department of Veterans Affairs Federal Pharmacy Executive Steering Committee to examine existing pharmaceutical benefits and programs for beneficiaries and review existing methods for contracting for and distributing medical supplies and services and to submit a report on the results of the examination to committees of Congress not later than 60 days after its completion; and (5) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly submit to committees of Congress a report, not later than Mar. 1, 1999, on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
+Pub. L. 105–261, div. A, title VII, § 745, Oct. 17, 1998, 112 Stat. 2075, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(g)(1), Nov. 24, 2003, 117 Stat. 1604, (1) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly conduct a survey of their respective medical care beneficiary populations to identify the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care, and to submit a report on the results of the survey to committees of Congress not later than Jan. 1, 2000; (2) directed the same Secretaries to jointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care and to submit a report on the results of the review to committees of Congress not later than Mar. 1, 1999; (3) directed the Secretary of Defense to review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program; (4) directed the Department of Defense-Department of Veterans Affairs Federal Pharmacy Executive Steering Committee to examine existing pharmaceutical benefits and programs for beneficiaries and review existing methods for contracting for and distributing medical supplies and services and to submit a report on the results of the examination to committees of Congress not later than 60 days after its completion; and (5) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly submit to committees of Congress a report, not later than Mar. 1, 1999, on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
 
 **External Peer Review for Defense Health Program Extramural Medical Research Involving Human Subjects**
 
-Pub. L. 104–201, div. A, title VII, § 742, Sept. 23, 1996, 110 Stat. 2600, provided that:
+Pub. L. 104–201, div. A, title VII, § 742, Sept. 23, 1996, 110 Stat. 2600, provided that:
 
 > **“(a) Establishment of External Peer Review Process.—** The Secretary of Defense shall establish a peer review process that will use persons who are not officers or employees of the Government to review the research protocols of medical research projects.
 
@@ -2941,7 +2941,7 @@ Pub. L. 104–201, div. A, title VII, § 742, Sept. 23, 1996, 110 Stat. 2600, 
 
 **Annual Beneficiary Survey**
 
-Pub. L. 102–484, div. A, title VII, § 724, Oct. 23, 1992, 106 Stat. 2440, as amended by Pub. L. 103–337, div. A, title VII, § 717, Oct. 5, 1994, 108 Stat. 2804, provided that:
+Pub. L. 102–484, div. A, title VII, § 724, Oct. 23, 1992, 106 Stat. 2440, as amended by Pub. L. 103–337, div. A, title VII, § 717, Oct. 5, 1994, 108 Stat. 2804, provided that:
 
 > **“(a) Survey Required.—** The administering Secretaries shall conduct annually a formal survey of persons receiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
 
@@ -2961,15 +2961,15 @@ Pub. L. 102–484, div. A, title VII, § 724, Oct. 23, 1992, 106 Stat. 2440, a
 
 **Comprehensive Study of Military Medical Care System**
 
-Pub. L. 102–190, div. A, title VII, § 733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, § 723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
+Pub. L. 102–190, div. A, title VII, § 733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, § 723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
 
 **Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces**
 
-Pub. L. 92–129, title V, § 501, Sept. 28, 1971, 85 Stat. 361, which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by Pub. L. 97–295, §§ 1(14)(A), (15)(A), 6(b), Oct. 12, 1982, 96 Stat. 1289, 1290, 1314.
+Pub. L. 92–129, title V, § 501, Sept. 28, 1971, 85 Stat. 361, which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by Pub. L. 97–295, §§ 1(14)(A), (15)(A), 6(b), Oct. 12, 1982, 96 Stat. 1289, 1290, 1314.
 
 **Definitions**
 
-Pub. L. 114–328, div. A, title VII, § 728(c), Dec. 23, 2016, 130 Stat. 2234, provided that:
+Pub. L. 114–328, div. A, title VII, § 728(c), Dec. 23, 2016, 130 Stat. 2234, provided that:
 
 > “In this section [amending section 1073b of this title and enacting provisions set out as a note under this section]:
 
@@ -3059,7 +3059,7 @@ Barack Obama.
 
 [Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
 
-## § 1072. Definitions
+## § 1072. Definitions
 
 In this chapter:
 
@@ -3159,13 +3159,13 @@ In this chapter:
 
 **(15)** The term “TRICARE Standard” means the TRICARE program made available prior to January 1, 2018, covering health benefits contracted for under the authority of section 1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, § 115(b), title V, § 511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, § 1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, § 645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, § 19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, § 701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, § 731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, § 706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, § 702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, § 701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, § 711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, § 701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, § 592(b), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, § 708(a), Jan. 28, 2008, 122 Stat. 190; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(A), Dec. 23, 2016, 130 Stat. 2191; Pub. L. 115–91, div. A, title VII, § 739(a), Dec. 12, 2017, 131 Stat. 1446.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, § 115(b), title V, § 511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, § 1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, § 645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, § 19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, § 701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, § 731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, § 706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, § 702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, § 701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, § 711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, § 701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, § 592(b), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, § 708(a), Jan. 28, 2008, 122 Stat. 190; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(A), Dec. 23, 2016, 130 Stat. 2191; Pub. L. 115–91, div. A, title VII, § 739(a), Dec. 12, 2017, 131 Stat. 1446.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1072(1) 1072(2) | 37:402(a)(1). 37:402(a)(4). | June 7, 1956, ch. 374, § 102(a)(1), (4), 70 Stat. 250. |
+| 1072(1) 1072(2) | 37:402(a)(1). 37:402(a)(4). | June 7, 1956, ch. 374, § 102(a)(1), (4), 70 Stat. 250. |
 
 In clause (1), the words “the armed forces” are substituted for the words “the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard” to reflect section 101(4) of this title.
 
@@ -3177,7 +3177,7 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 
 **Prior Provisions**
 
-A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -3187,23 +3187,23 @@ A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms u
 
 “(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.”
 
-2016—Par. (7). Pub. L. 114–328, § 701(j)(1)(A)(i), added par. (7) and struck out former par. (7) which read as follows: “The term ‘TRICARE program’ means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
+2016—Par. (7). Pub. L. 114–328, § 701(j)(1)(A)(i), added par. (7) and struck out former par. (7) which read as follows: “The term ‘TRICARE program’ means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
 
-Pars. (11) to (15). Pub. L. 114–328, § 701(j)(1)(A)(ii), added pars. (11) to (15).
+Pars. (11) to (15). Pub. L. 114–328, § 701(j)(1)(A)(ii), added pars. (11) to (15).
 
 2008—Par. (10). Pub. L. 110–181 added par. (10).
 
-2006—Par. (2)(I)(i). Pub. L. 109–163, § 1057(a)(2), struck out “or a Territory” before “or possession”.
+2006—Par. (2)(I)(i). Pub. L. 109–163, § 1057(a)(2), struck out “or a Territory” before “or possession”.
 
-Par. (6)(D)(i). Pub. L. 109–163, § 592(b), inserted “, or by any other source authorized by State or local law to provide adoption placement,” after “(recognized by the Secretary of Defense)”.
+Par. (6)(D)(i). Pub. L. 109–163, § 592(b), inserted “, or by any other source authorized by State or local law to provide adoption placement,” after “(recognized by the Secretary of Defense)”.
 
 2001—Pars. (8), (9). Pub. L. 107–107 added pars. (8) and (9).
 
 1997—Par. (7). Pub. L. 105–85 added par. (7).
 
-1994—Par. (2)(D). Pub. L. 103–337, § 701(a)(1), substituted “a child who” for “an unmarried legitimate child, including an adopted child or stepchild, who” in introductory provisions.
+1994—Par. (2)(D). Pub. L. 103–337, § 701(a)(1), substituted “a child who” for “an unmarried legitimate child, including an adopted child or stepchild, who” in introductory provisions.
 
-Par. (6). Pub. L. 103–337, § 701(a)(2), added par. (6).
+Par. (6). Pub. L. 103–337, § 701(a)(2), added par. (6).
 
 1993—Par. (2)(I). Pub. L. 103–160 added subpar. (I).
 
@@ -3217,27 +3217,27 @@ Par. (6). Pub. L. 103–337, § 701(a)(2), added par. (6).
 
 1989—Par. (2)(H). Pub. L. 101–189 added subpar. (H).
 
-1986—Par. (1). Pub. L. 99–661, § 701(b)(1), substituted “The term ‘uniformed services’ means” for “ ‘Uniformed services’ means”.
+1986—Par. (1). Pub. L. 99–661, § 701(b)(1), substituted “The term ‘uniformed services’ means” for “ ‘Uniformed services’ means”.
 
-Par. (2). Pub. L. 99–661, § 701(b)(2), substituted “The term ‘dependent’, with respect to” for “ ‘Dependent’, with respect to”.
+Par. (2). Pub. L. 99–661, § 701(b)(2), substituted “The term ‘dependent’, with respect to” for “ ‘Dependent’, with respect to”.
 
-Par. (3). Pub. L. 99–661, § 701(b)(3), substituted “The term ‘administering Secretaries’ means” for “ ‘Administering Secretaries’ means”.
+Par. (3). Pub. L. 99–661, § 701(b)(3), substituted “The term ‘administering Secretaries’ means” for “ ‘Administering Secretaries’ means”.
 
-Pars. (4), (5). Pub. L. 99–661, § 701(b)(4), added pars. (4) and (5).
+Pars. (4), (5). Pub. L. 99–661, § 701(b)(4), added pars. (4) and (5).
 
-1984—Par. (2)(D)(iii). Pub. L. 98–557, § 19(1)(A), substituted reference to the administering Secretary for reference to the Secretary of Defense or the Secretary of Health and Human Services.
+1984—Par. (2)(D)(iii). Pub. L. 98–557, § 19(1)(A), substituted reference to the administering Secretary for reference to the Secretary of Defense or the Secretary of Health and Human Services.
 
 Par. (2)(G). Pub. L. 98–525 added subpar. (G).
 
-Par. (3). Pub. L. 98–557, § 19(1)(B), added par. (3).
+Par. (3). Pub. L. 98–557, § 19(1)(B), added par. (3).
 
 1982—Par. (2)(F). Pub. L. 97–252 added cl. (F).
 
-1980—Pub. L. 96–513, § 511(34)(A), substituted in introductory material reference to this chapter for reference to sections 1071–1087 of this title.
+1980—Pub. L. 96–513, § 511(34)(A), substituted in introductory material reference to this chapter for reference to sections 1071–1087 of this title.
 
-Par. (1). Pub. L. 96–513, § 511(35), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+Par. (1). Pub. L. 96–513, § 511(35), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Par. (2). Pub. L. 96–513, §§ 115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Par. (2). Pub. L. 96–513, §§ 115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (1).
 
@@ -3247,15 +3247,15 @@ Pub. L. 89–614 substituted “1087” for “1085” in introductory phrase.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title VII, § 701(k), Dec. 23, 2016, 130 Stat. 2193, provided that: “The amendments made by this section [enacting sections 1075 and 1075a of this title and amending this section and sections 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title] shall apply with respect to the provision of health care under the TRICARE program beginning on January 1, 2018.”
+Pub. L. 114–328, div. A, title VII, § 701(k), Dec. 23, 2016, 130 Stat. 2193, provided that: “The amendments made by this section [enacting sections 1075 and 1075a of this title and amending this section and sections 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title] shall apply with respect to the provision of health care under the TRICARE program beginning on January 1, 2018.”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title VII, § 702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: “Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
+Pub. L. 103–160, div. A, title VII, § 702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: “Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VII, § 731(d), Nov. 29, 1989, 103 Stat. 1482, provided that:
+Pub. L. 101–189, div. A, title VII, § 731(d), Nov. 29, 1989, 103 Stat. 1482, provided that:
 
 > **“(1)** The amendments made by this section [enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act [Nov. 29, 1989].
 
@@ -3263,7 +3263,7 @@ Pub. L. 101–189, div. A, title VII, § 731(d), Nov. 29, 1989, 103 Stat. 1482
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 645(d), Oct. 19, 1984, 98 Stat. 2549, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and provisions set out as a note under section 1408 of this title and enacting provisions set out as a note under this section] shall be effective on January 1, 1985, and shall apply with respect to health care furnished on or after that date.”
+Pub. L. 98–525, title VI, § 645(d), Oct. 19, 1984, 98 Stat. 2549, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and provisions set out as a note under section 1408 of this title and enacting provisions set out as a note under this section] shall be effective on January 1, 1985, and shall apply with respect to health care furnished on or after that date.”
 
 **Effective Date of 1982 Amendment; Transition Provisions**
 
@@ -3279,11 +3279,11 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Continuation of Individual Case Management Services for Certain Eligible Beneficiaries**
 
-Pub. L. 107–107, div. A, title VII, § 701(d), Dec. 28, 2001, 115 Stat. 1160, provided that:
+Pub. L. 107–107, div. A, title VII, § 701(d), Dec. 28, 2001, 115 Stat. 1160, provided that:
 
 > **“(1)** Notwithstanding the termination of the Individual Case Management Program by subsection (g) [amending section 1079 of this title and repealing provisions set out as a note under section 1077 of this title], the Secretary of Defense shall, in any case in which the Secretary makes the determination described in paragraph (2), continue to provide payment as if such program were in effect for home health care or custodial care services provided to an eligible beneficiary that would otherwise be excluded from coverage under regulations implementing chapter 55 of title 10, United States Code.
 
@@ -3293,7 +3293,7 @@ Pub. L. 107–107, div. A, title VII, § 701(d), Dec. 28, 2001, 115 Stat. 1160
 
 **Improvements in Administration of the TRICARE Program; Flexibility of Contracting**
 
-Pub. L. 107–107, div. A, title VII, § 708(a), Dec. 28, 2001, 115 Stat. 1164, provided that:
+Pub. L. 107–107, div. A, title VII, § 708(a), Dec. 28, 2001, 115 Stat. 1164, provided that:
 
 > **“(1)** During the one-year period following the date of the enactment of this Act [Dec. 28, 2001], section 1072(7) of title 10, United States Code, shall be deemed to be amended by striking ‘the competitive selection of contractors to financially underwrite’.
 
@@ -3301,7 +3301,7 @@ Pub. L. 107–107, div. A, title VII, § 708(a), Dec. 28, 2001, 115 Stat. 1164
 
 **Transitional Provisions for Qualification for Conversion Health Policies; Preexisting Conditions**
 
-Pub. L. 101–189, div. A, title VII, § 731(e), Nov. 29, 1989, 103 Stat. 1483, provided that:
+Pub. L. 101–189, div. A, title VII, § 731(e), Nov. 29, 1989, 103 Stat. 1483, provided that:
 
 > **“(1)** In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat. 2549) [set out below], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
 
@@ -3315,9 +3315,9 @@ Pub. L. 101–189, div. A, title VII, § 731(e), Nov. 29, 1989, 103 Stat. 1483
 
 **Dependent; Qualification as; Effective Date**
 
-Pub. L. 98–525, title VI, § 645(c), Oct. 19, 1984, 98 Stat. 2549, as amended by Pub. L. 99–661, div. A, title VI, § 646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, § 1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, § 1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person’s final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, § 651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
+Pub. L. 98–525, title VI, § 645(c), Oct. 19, 1984, 98 Stat. 2549, as amended by Pub. L. 99–661, div. A, title VI, § 646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, § 1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, § 1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person’s final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, § 651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
 
-## § 1073. Administration of this chapter
+## § 1073. Administration of this chapter
 
 **(a) Responsible Officials.—**
 
@@ -3327,13 +3327,13 @@ Pub. L. 98–525, title VI, § 645(c), Oct. 19, 1984, 98 Stat. 2549, as amende
 
 **(b) Stability in Program of Benefits.—** The Secretary of Defense shall, to the maximum extent practicable, provide a stable program of benefits under this chapter throughout each fiscal year. To achieve the stability in the case of managed care support contracts entered into under this chapter, the contracts shall be administered so as to implement all changes in benefits and administration on a quarterly basis. However, the Secretary of Defense may implement any such change prior to the next fiscal quarter if the Secretary determines that the change would significantly improve the provision of care to eligible beneficiaries under this chapter.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(34)(A), (C), (35), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, § 19(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 105–12, § 9(h), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–65, div. A, title VII, § 725, title X, § 1066(a)(7), Oct. 5, 1999, 113 Stat. 698, 770; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title VII, § 711, Jan. 7, 2011, 124 Stat. 4246.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(34)(A), (C), (35), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, § 19(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 105–12, § 9(h), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–65, div. A, title VII, § 725, title X, § 1066(a)(7), Oct. 5, 1999, 113 Stat. 698, 770; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title VII, § 711, Jan. 7, 2011, 124 Stat. 4246.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1073 | 37:402(b). | June 7, 1956, ch. 374, § 102(b), 70 Stat. 251. |
+| 1073 | 37:402(b). | June 7, 1956, ch. 374, § 102(b), 70 Stat. 251. |
 
 The words “armed forces under his jurisdiction” are substituted for the words “Army, Navy, Air Force, and Marine Corps and for the Coast Guard when it is operating as a service in the Navy” to reflect section 101(4) of this title.
 
@@ -3341,11 +3341,11 @@ The words “armed forces under his jurisdiction” are substituted for the word
 
 **References in Text**
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)(1), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)(1), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to right to vote in war-time presidential and congressional election, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to right to vote in war-time presidential and congressional election, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -3353,9 +3353,9 @@ A prior section 1073, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to righ
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Pub. L. 106–65, § 725, designated existing provisions, as amended by Pub. L. 106–65, § 1066(a)(7), as subsec. (a), inserted heading, and added subsec. (b).
+1999—Pub. L. 106–65, § 725, designated existing provisions, as amended by Pub. L. 106–65, § 1066(a)(7), as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 106–65, § 1066(a)(7), inserted “(42 U.S.C. 14401 et seq.)” after “Act of 1997”.
+Pub. L. 106–65, § 1066(a)(7), inserted “(42 U.S.C. 14401 et seq.)” after “Act of 1997”.
 
 1997—Pub. L. 105–12 inserted at end “This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
@@ -3387,15 +3387,15 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Real-Time Data Sharing Agreement Regarding Medical Care Provided to Members of the Coast Guard**
 
-Pub. L. 118–31, div. A, title VII, § 715, Dec. 22, 2023, 137 Stat. 304, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security with respect to policies, mechanisms, and processes that the Secretaries concerned shall establish to allow ongoing use by the Coast Guard for access to data, records, and information regarding access by members of the Coast Guard and beneficiaries of such members to military medical facilities or care provided through the TRICARE program that will enhance the ability to monitor, assess, and optimize healthcare services.”
+Pub. L. 118–31, div. A, title VII, § 715, Dec. 22, 2023, 137 Stat. 304, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security with respect to policies, mechanisms, and processes that the Secretaries concerned shall establish to allow ongoing use by the Coast Guard for access to data, records, and information regarding access by members of the Coast Guard and beneficiaries of such members to military medical facilities or care provided through the TRICARE program that will enhance the ability to monitor, assess, and optimize healthcare services.”
 
 **Pilot Program on Assistance for Mental Health Appointment Scheduling at Military Medical Treatment Facilities**
 
-Pub. L. 117–81, div. A, title VII, § 734, Dec. 27, 2021, 135 Stat. 1799, provided that:
+Pub. L. 117–81, div. A, title VII, § 734, Dec. 27, 2021, 135 Stat. 1799, provided that:
 
 > **“(a) Pilot Program.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall commence a pilot program, to be carried out for at least a one-year period, to provide direct assistance for mental health appointment scheduling under the direct care and purchased care components of the TRICARE program, through facilities and clinics selected by the Secretary for participation in the pilot program in a number determined by the Secretary.
 
@@ -3413,7 +3413,7 @@ Pub. L. 117–81, div. A, title VII, § 734, Dec. 27, 2021, 135 Stat. 1799, pr
 
 **Extramedical Maternal Health Providers Demonstration Project**
 
-Pub. L. 116–283, div. A, title VII, § 746, Jan. 1, 2021, 134 Stat. 3710, provided that:
+Pub. L. 116–283, div. A, title VII, § 746, Jan. 1, 2021, 134 Stat. 3710, provided that:
 
 > **“(a) Demonstration Project Required.—** Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall commence carrying out a demonstration project designed to evaluate the cost, quality of care, and impact on maternal and fetal outcomes of using extramedical maternal health providers under the TRICARE program to determine the appropriateness of making coverage of such providers under the TRICARE program permanent.
 
@@ -3495,7 +3495,7 @@ Pub. L. 116–283, div. A, title VII, § 746, Jan. 1, 2021, 134 Stat. 3710, pr
 
 **Residency Requirements for Podiatrists**
 
-Pub. L. 115–91, div. A, title VII, § 720, Dec. 12, 2017, 131 Stat. 1440, provided that:
+Pub. L. 115–91, div. A, title VII, § 720, Dec. 12, 2017, 131 Stat. 1440, provided that:
 
 > **“(a) Requirement.—** In addition to any other qualification required by law or regulation, the Secretary of Defense shall ensure that to serve as a podiatrist in the Armed Forces, an individual must have successfully completed a three-year podiatric medicine and surgical residency.
 
@@ -3503,7 +3503,7 @@ Pub. L. 115–91, div. A, title VII, § 720, Dec. 12, 2017, 131 Stat. 1440, pr
 
 **Authorization of Physical Therapist Assistants and Occupational Therapy Assistants To Provide Services Under the TRICARE Program**
 
-Pub. L. 115–91, div. A, title VII, § 721, Dec. 12, 2017, 131 Stat. 1440, provided that:
+Pub. L. 115–91, div. A, title VII, § 721, Dec. 12, 2017, 131 Stat. 1440, provided that:
 
 > **“(a) Addition to List of Authorized Professional Providers of Care.—** The Secretary of Defense shall revise section 199.6(c) of title 32, Code of Federal Regulations, as in effect on the date of the enactment of this Act [Dec. 12, 2017], to add to the list of individual professional providers of care who are authorized to provide services to beneficiaries under the TRICARE program, as defined in section 1072 of title 10, United States Code, the following types of health care practitioners:
 
@@ -3517,17 +3517,17 @@ Pub. L. 115–91, div. A, title VII, § 721, Dec. 12, 2017, 131 Stat. 1440, pr
 
 **Termination of TRICARE Standard and TRICARE Extra**
 
-Pub. L. 114–328, div. A, title VII, § 701(e), Dec. 23, 2016, 130 Stat. 2187, provided that: “Beginning on January 1, 2018, the Secretary of Defense may not carry out TRICARE Standard and TRICARE Extra under the TRICARE program. The Secretary shall ensure that any individual who is covered under TRICARE Standard or TRICARE Extra as of December 31, 2017, enrolls in TRICARE Prime or TRICARE Select, as the case may be, as of January 1, 2018, for the individual to continue coverage under the TRICARE program.”
+Pub. L. 114–328, div. A, title VII, § 701(e), Dec. 23, 2016, 130 Stat. 2187, provided that: “Beginning on January 1, 2018, the Secretary of Defense may not carry out TRICARE Standard and TRICARE Extra under the TRICARE program. The Secretary shall ensure that any individual who is covered under TRICARE Standard or TRICARE Extra as of December 31, 2017, enrolls in TRICARE Prime or TRICARE Select, as the case may be, as of January 1, 2018, for the individual to continue coverage under the TRICARE program.”
 
 [For definitions of terms used in section 701(e) of Pub. L. 114–328, set out above, see section 703(i) of Pub. L. 114–328, set out as a note below.]
 
 **Pilot Program on Incorporation of Value-Based Health Care in Purchased Care Component of TRICARE Program**
 
-Pub. L. 114–328, div. A, title VII, § 701(h), Dec. 23, 2016, 130 Stat. 2188, authorized the Secretary of Defense to carry out a pilot program to demonstrate and assess the feasibility of incorporating value-based health care methodology in the purchased care component of the TRICARE program. The Secretary would submit a report on value-based health care methodology to the Committees on Armed Services of the Senate and the House of Representatives no later than 180 days after Dec. 23, 2016. The Comptroller General of the United States would submit a review and assessment of the preliminary results of the pilot program to the Committees on Armed Services of the Senate and the House of Representatives no later than Mar. 1, 2021. The Secretary would submit a review and assessment of the pilot program to the Committees on Armed Services of the Senate and the House of Representatives no later than Jan. 1, 2023. The Secretary could no longer carry out the pilot program after Dec. 31, 2022.
+Pub. L. 114–328, div. A, title VII, § 701(h), Dec. 23, 2016, 130 Stat. 2188, authorized the Secretary of Defense to carry out a pilot program to demonstrate and assess the feasibility of incorporating value-based health care methodology in the purchased care component of the TRICARE program. The Secretary would submit a report on value-based health care methodology to the Committees on Armed Services of the Senate and the House of Representatives no later than 180 days after Dec. 23, 2016. The Comptroller General of the United States would submit a review and assessment of the preliminary results of the pilot program to the Committees on Armed Services of the Senate and the House of Representatives no later than Mar. 1, 2021. The Secretary would submit a review and assessment of the pilot program to the Committees on Armed Services of the Senate and the House of Representatives no later than Jan. 1, 2023. The Secretary could no longer carry out the pilot program after Dec. 31, 2022.
 
 **Improvement of Health Outcomes and Control of Costs of Health Care Under TRICARE Program Through Programs To Involve Covered Beneficiaries**
 
-Pub. L. 114–328, div. A, title VII, § 729, Dec. 23, 2016, 130 Stat. 2234, as amended by Pub. L. 117–81, div. A, title VII, § 719, Dec. 27, 2021, 135 Stat. 1790, provided that:
+Pub. L. 114–328, div. A, title VII, § 729, Dec. 23, 2016, 130 Stat. 2234, as amended by Pub. L. 117–81, div. A, title VII, § 719, Dec. 27, 2021, 135 Stat. 1790, provided that:
 
 > **“(a) Medical Intervention Incentive Program.—**
 
@@ -3559,7 +3559,7 @@ Pub. L. 114–328, div. A, title VII, § 729, Dec. 23, 2016, 130 Stat. 2234, a
 
 **Access to Health Care Under the TRICARE Program for Beneficiaries of TRICARE Prime**
 
-Pub. L. 114–92, div. A, title VII, § 704, Nov. 25, 2015, 129 Stat. 863, as amended by Pub. L. 118–159, div. A, title VII, § 701, Dec. 23, 2024, 138 Stat. 1941, provided that:
+Pub. L. 114–92, div. A, title VII, § 704, Nov. 25, 2015, 129 Stat. 863, as amended by Pub. L. 118–159, div. A, title VII, § 701, Dec. 23, 2024, 138 Stat. 1941, provided that:
 
 > **“(a) Access to Health Care.—** The Secretary of Defense shall ensure that beneficiaries under TRICARE Prime who are seeking an appointment for health care under TRICARE Prime shall obtain such an appointment within the health care access standards established under subsection (b), including through the use of health care providers in the preferred provider network of TRICARE Prime.
 
@@ -3605,7 +3605,7 @@ Pub. L. 114–92, div. A, title VII, § 704, Nov. 25, 2015, 129 Stat. 863, as 
 
 **Portability of Health Plans Under the TRICARE Program**
 
-Pub. L. 114–92, div. A, title VII, § 714, Nov. 25, 2015, 129 Stat. 865, provided that:
+Pub. L. 114–92, div. A, title VII, § 714, Nov. 25, 2015, 129 Stat. 865, provided that:
 
 > **“(a) Health Plan Portability.—**
 
@@ -3635,7 +3635,7 @@ Pub. L. 114–92, div. A, title VII, § 714, Nov. 25, 2015, 129 Stat. 865, pro
 
 **Licensure of Mental Health Professionals in TRICARE Program**
 
-Pub. L. 114–92, div. A, title VII, § 716, Nov. 25, 2015, 129 Stat. 867, provided that:
+Pub. L. 114–92, div. A, title VII, § 716, Nov. 25, 2015, 129 Stat. 867, provided that:
 
 > **“(a) Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—** During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that is accredited by the Council for Accreditation of Counseling and Related Educational Programs.
 
@@ -3667,7 +3667,7 @@ Pub. L. 114–92, div. A, title VII, § 716, Nov. 25, 2015, 129 Stat. 867, pro
 
 **Designation of Certain Non-Department Mental Health Care Providers With Knowledge Relating to Treatment of Members of the Armed Forces**
 
-Pub. L. 114–92, div. A, title VII, § 717, Nov. 25, 2015, 129 Stat. 868, provided that:
+Pub. L. 114–92, div. A, title VII, § 717, Nov. 25, 2015, 129 Stat. 868, provided that:
 
 > **“(a) Mental Health Provider Readiness Designation.—**
 
@@ -3699,11 +3699,11 @@ Pub. L. 114–92, div. A, title VII, § 717, Nov. 25, 2015, 129 Stat. 868, pro
 
 **Pilot Program on Urgent Care Under TRICARE Program**
 
-Pub. L. 114–92, div. A, title VII, § 725, Nov. 25, 2015, 129 Stat. 870, provided for a three-year pilot program to allow TRICARE beneficiaries access to urgent care visits without the need for preauthorization and to a nurse advice line and required submission of a final report to Congress no later than 180 days after the program was completed.
+Pub. L. 114–92, div. A, title VII, § 725, Nov. 25, 2015, 129 Stat. 870, provided for a three-year pilot program to allow TRICARE beneficiaries access to urgent care visits without the need for preauthorization and to a nurse advice line and required submission of a final report to Congress no later than 180 days after the program was completed.
 
 **Cooperative Health Care Agreements Between Military Installations and Non-Military Health Care Systems**
 
-Pub. L. 111–84, div. A, title VII, § 713, Oct. 28, 2009, 123 Stat. 2380, provided that:
+Pub. L. 111–84, div. A, title VII, § 713, Oct. 28, 2009, 123 Stat. 2380, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may establish cooperative health care agreements between military installations and local or regional health care systems.
 
@@ -3735,11 +3735,11 @@ Pub. L. 111–84, div. A, title VII, § 713, Oct. 28, 2009, 123 Stat. 2380, pr
 
 **Inpatient Mental Health Service**
 
-Pub. L. 110–329, div. C, title VIII, § 8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act [div. C of Pub. L. 110–329, see Tables for classification], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: *Provided,* That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
+Pub. L. 110–329, div. C, title VIII, § 8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act [div. C of Pub. L. 110–329, see Tables for classification], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: *Provided,* That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
 
 **Surveys on Continued Viability of TRICARE Standard and TRICARE Extra**
 
-Pub. L. 110–181, div. A, title VII, § 711, Jan. 28, 2008, 122 Stat. 190, as amended by Pub. L. 112–81, div. A, title VII, § 721, Dec. 31, 2011, 125 Stat. 1478; Pub. L. 113–291, div. A, title VII, § 712, Dec. 19, 2014, 128 Stat. 3414, provided that:
+Pub. L. 110–181, div. A, title VII, § 711, Jan. 28, 2008, 122 Stat. 190, as amended by Pub. L. 112–81, div. A, title VII, § 721, Dec. 31, 2011, 125 Stat. 1478; Pub. L. 113–291, div. A, title VII, § 712, Dec. 19, 2014, 128 Stat. 3414, provided that:
 
 > **“(a) Requirement for Surveys.—**
 
@@ -3833,13 +3833,13 @@ Pub. L. 110–181, div. A, title VII, § 711, Jan. 28, 2008, 122 Stat. 190, as
 
 **Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE**
 
-Pub. L. 111–383, div. A, title VII, § 724, Jan. 7, 2011, 124 Stat. 4252, provided that: “Not later than June 20, 2011, the Secretary of Defense shall prescribe the regulations required by section 717 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 1073 note).”
+Pub. L. 111–383, div. A, title VII, § 724, Jan. 7, 2011, 124 Stat. 4252, provided that: “Not later than June 20, 2011, the Secretary of Defense shall prescribe the regulations required by section 717 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 1073 note).”
 
-Pub. L. 110–181, div. A, title VII, § 717(a), Jan. 28, 2008, 122 Stat. 196, provided that: “The Secretary of Defense shall prescribe regulations to establish criteria that licensed or certified mental health counselors shall meet in order to be able to independently provide care to TRICARE beneficiaries and receive payment under the TRICARE program for such services. The criteria shall include requirements for education level, licensure, certification, and clinical experience as considered appropriate by the Secretary.”
+Pub. L. 110–181, div. A, title VII, § 717(a), Jan. 28, 2008, 122 Stat. 196, provided that: “The Secretary of Defense shall prescribe regulations to establish criteria that licensed or certified mental health counselors shall meet in order to be able to independently provide care to TRICARE beneficiaries and receive payment under the TRICARE program for such services. The criteria shall include requirements for education level, licensure, certification, and clinical experience as considered appropriate by the Secretary.”
 
 **Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel**
 
-Pub. L. 110–28, title III, § 3307, May 25, 2007, 121 Stat. 137, as amended by Pub. L. 114–92, div. A, title X, § 1072(g), Nov. 25, 2015, 129 Stat. 995, provided that:
+Pub. L. 110–28, title III, § 3307, May 25, 2007, 121 Stat. 137, as amended by Pub. L. 114–92, div. A, title X, § 1072(g), Nov. 25, 2015, 129 Stat. 995, provided that:
 
 > **“(a) Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel.—**
 
@@ -3881,7 +3881,7 @@ Pub. L. 110–28, title III, § 3307, May 25, 2007, 121 Stat. 137, as amended 
 
 **Requirements for Support of Military Treatment Facilities by Civilian Contractors Under TRICARE**
 
-Pub. L. 109–364, div. A, title VII, § 732, Oct. 17, 2006, 120 Stat. 2296, as amended by Pub. L. 112–81, div. A, title X, § 1062(d)(3), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 109–364, div. A, title VII, § 732, Oct. 17, 2006, 120 Stat. 2296, as amended by Pub. L. 112–81, div. A, title X, § 1062(d)(3), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 > **“(a) Annual Integrated Regional Requirements on Support.—** The Regional Director of each region under the TRICARE program shall develop each year integrated, comprehensive requirements for the support of military treatment facilities in such region that is provided by contract civilian health care and administrative personnel under the TRICARE program.
 
@@ -3931,13 +3931,13 @@ Pub. L. 109–364, div. A, title VII, § 732, Oct. 17, 2006, 120 Stat. 2296, a
 
 > **“(F)** provide for a system for monitoring the performance of significant projects for support of military treatment facilities by a civilian contractor under the TRICARE program.
 
-> **“[(d)** Repealed. Pub. L. 112–81, div. A, title X, § 1062(d)(3), Dec. 31, 2011, 125 Stat. 1585.]
+> **“[(d)** Repealed. Pub. L. 112–81, div. A, title X, § 1062(d)(3), Dec. 31, 2011, 125 Stat. 1585.]
 
 > **“(e) Effective Date.—** This section shall take effect on October 1, 2006.”
 
 **TRICARE Standard in TRICARE Regional Offices**
 
-Pub. L. 109–163, div. A, title VII, § 716, Jan. 6, 2006, 119 Stat. 3345, as amended by Pub. L. 112–81, div. A, title X, § 1062(e), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 109–163, div. A, title VII, § 716, Jan. 6, 2006, 119 Stat. 3345, as amended by Pub. L. 112–81, div. A, title X, § 1062(e), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 > **“(a) Responsibilities of TRICARE Regional Office.—** The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
@@ -3953,7 +3953,7 @@ Pub. L. 109–163, div. A, title VII, § 716, Jan. 6, 2006, 119 Stat. 3345, as
 
 **Qualifications for Individuals Serving as TRICARE Regional Directors**
 
-Pub. L. 109–163, div. A, title VII, § 717, Jan. 6, 2006, 119 Stat. 3345, provided that:
+Pub. L. 109–163, div. A, title VII, § 717, Jan. 6, 2006, 119 Stat. 3345, provided that:
 
 > **“(a) Qualifications.—** Effective as of the date of the enactment of this Act [Jan. 6, 2006], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
@@ -3971,15 +3971,15 @@ Pub. L. 109–163, div. A, title VII, § 717, Jan. 6, 2006, 119 Stat. 3345, pr
 
 **Pilot Projects on Pediatric Early Literacy Among Children of Members of the Armed Forces**
 
-Pub. L. 109–163, div. A, title VII, § 740, Jan. 6, 2006, 119 Stat. 3359, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(8), Oct. 17, 2006, 120 Stat. 2402, provided for pilot projects related to encouraging pediatric early literacy among children of members of the Armed Forces conducted at military medical treatment facilites and required a report to Congress on the projects no later than Mar. 1, 2007.
+Pub. L. 109–163, div. A, title VII, § 740, Jan. 6, 2006, 119 Stat. 3359, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(8), Oct. 17, 2006, 120 Stat. 2402, provided for pilot projects related to encouraging pediatric early literacy among children of members of the Armed Forces conducted at military medical treatment facilites and required a report to Congress on the projects no later than Mar. 1, 2007.
 
 **Surveys on Continued Viability of TRICARE Standard**
 
-Pub. L. 108–136, div. A, title VII, § 723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, § 711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, § 711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
+Pub. L. 108–136, div. A, title VII, § 723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, § 711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, § 711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
 
 **Modernization of TRICARE Business Practices and Increase of Use of Military Treatment Facilities**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 723], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 723], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that:
 
 > **“(a) Requirement To Implement Internet-Based System.—** Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet, through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
 
@@ -4015,9 +4015,9 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 723], Oct. 30, 2000, 114 St
 
 **Improvement of Access to Health Care Under the TRICARE Program**
 
-Pub. L. 107–107, div. A, title VII, § 735(e), Dec. 28, 2001, 115 Stat. 1172, directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report on the Secretary’s plans for implementing Pub. L. 106–398, § 1 [[div. A], title VII, § 721], as amended, set out below.
+Pub. L. 107–107, div. A, title VII, § 735(e), Dec. 28, 2001, 115 Stat. 1172, directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report on the Secretary’s plans for implementing Pub. L. 106–398, § 1 [[div. A], title VII, § 721], as amended, set out below.
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 721], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, as amended by Pub. L. 107–107, div. A, title VII, § 735(a)–(d), Dec. 28, 2001, 115 Stat. 1171, 1172; Pub. L. 113–291, div. A, title VII, § 703(b), Dec. 19, 2014, 128 Stat. 3411, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 721], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, as amended by Pub. L. 107–107, div. A, title VII, § 735(a)–(d), Dec. 28, 2001, 115 Stat. 1171, 1172; Pub. L. 113–291, div. A, title VII, § 703(b), Dec. 19, 2014, 128 Stat. 3411, provided that:
 
 > **“(a) Waiver of Nonavailability Statement or Preauthorization.—** In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services under such chapter that the beneficiary—
 
@@ -4049,23 +4049,23 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 721], Oct. 30, 2000, 114 St
 
 > **“(2)** The date that is two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 [Dec. 28, 2001].”.
 
-Pub. L. 106–65, div. A, title VII, § 712(a), (b), Oct. 5, 1999, 113 Stat. 687, required the Secretary of Defense to minimize the authorization and certification requirements to access benefits under the TRICARE program and to submit a report to Congress on actions taken no later than Mar. 31, 2000.
+Pub. L. 106–65, div. A, title VII, § 712(a), (b), Oct. 5, 1999, 113 Stat. 687, required the Secretary of Defense to minimize the authorization and certification requirements to access benefits under the TRICARE program and to submit a report to Congress on actions taken no later than Mar. 31, 2000.
 
 **TRICARE Managed Care Support Contracts**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 724], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, provided for the four-year extension of certain TRICARE managed care support contracts in effect, or in the final stages of acquisition, on Sept. 30, 1999.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 724], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, provided for the four-year extension of certain TRICARE managed care support contracts in effect, or in the final stages of acquisition, on Sept. 30, 1999.
 
-Pub. L. 106–259, title VIII, § 8090, Aug. 9, 2000, 114 Stat. 694, provided for the 2-year extension of certain TRICARE managed care support contracts in effect, or in final stages of acquisition as of Sept. 30, 2000, and authorized future replacement contracts to include a base contract period for transition and up to seven 1-year option periods.
+Pub. L. 106–259, title VIII, § 8090, Aug. 9, 2000, 114 Stat. 694, provided for the 2-year extension of certain TRICARE managed care support contracts in effect, or in final stages of acquisition as of Sept. 30, 2000, and authorized future replacement contracts to include a base contract period for transition and up to seven 1-year option periods.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–79, title VIII, § 8095, Oct. 25, 1999, 113 Stat. 1254.
+Pub. L. 106–79, title VIII, § 8095, Oct. 25, 1999, 113 Stat. 1254.
 
-Pub. L. 105–262, title VIII, § 8107, Oct. 17, 1998, 112 Stat. 2321.
+Pub. L. 105–262, title VIII, § 8107, Oct. 17, 1998, 112 Stat. 2321.
 
 **Redesign of Military Pharmacy System**
 
-Pub. L. 105–261, div. A, title VII, § 703, Oct. 17, 1998, 112 Stat. 2057, provided that:
+Pub. L. 105–261, div. A, title VII, § 703, Oct. 17, 1998, 112 Stat. 2057, provided that:
 
 > **“(a) Plan Required.—** The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retail and mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
 
@@ -4087,7 +4087,7 @@ Pub. L. 105–261, div. A, title VII, § 703, Oct. 17, 1998, 112 Stat. 2057, p
 
 > **“(2)** the Secretary implements cost-saving reforms with respect to the military and contractor retail and mail order pharmacy system.”
 
-Pub. L. 105–261, div. A, title VII, § 723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title VII, § 711(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
+Pub. L. 105–261, div. A, title VII, § 723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title VII, § 711(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
 
 > **“(a) In General.—** Not later than April 1, 2001, the Secretary of Defense shall implement, with respect to eligible individuals described in subsection (e), the redesign of the pharmacy system under TRICARE (including the mail-order and retail pharmacy benefit under TRICARE) to incorporate ‘best business practices’ of the private sector in providing pharmaceuticals, as developed under the plan described in section 703 [set out as a note above].
 
@@ -4121,23 +4121,23 @@ Pub. L. 105–261, div. A, title VII, § 723, Oct. 17, 1998, 112 Stat. 2068, a
 
 **System for Tracking Data and Measuring Performance in Meeting TRICARE Access Standards**
 
-Pub. L. 105–261, div. A, title VII, § 713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for tracking data and measuring performance in meeting primary care access standards under the TRICARE program.
+Pub. L. 105–261, div. A, title VII, § 713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for tracking data and measuring performance in meeting primary care access standards under the TRICARE program.
 
 **TRICARE as Supplement to Medicare Demonstration**
 
-Pub. L. 105–261, div. A, title VII, § 722, Oct. 17, 1998, 112 Stat. 2065, as amended by Pub. L. 106–65, div. A, title X, §§ 1066(b)(6), 1067(3), Oct. 5, 1999, 113 Stat. 773, 774, required the Secretary of Defense to carry out a demonstration project (known as the TRICARE Senior Supplement) in order to assess the feasibility and advisability of providing medical care coverage under the TRICARE program to certain members and former members of the uniformed services and their dependents and further required the Secretary to evaluate and terminate the project and submit a report on the evaluation to Congress not later than Dec. 31, 2002.
+Pub. L. 105–261, div. A, title VII, § 722, Oct. 17, 1998, 112 Stat. 2065, as amended by Pub. L. 106–65, div. A, title X, §§ 1066(b)(6), 1067(3), Oct. 5, 1999, 113 Stat. 773, 774, required the Secretary of Defense to carry out a demonstration project (known as the TRICARE Senior Supplement) in order to assess the feasibility and advisability of providing medical care coverage under the TRICARE program to certain members and former members of the uniformed services and their dependents and further required the Secretary to evaluate and terminate the project and submit a report on the evaluation to Congress not later than Dec. 31, 2002.
 
 **Study Concerning Provision of Comparative Information**
 
-Pub. L. 105–85, div. A, title VII, § 703, Nov. 18, 1997, 111 Stat. 1807, directed the Secretary of Defense to conduct a study on the provision to TRICARE beneficiaries of comparative information on the medical assistance provided by a managed care entity and to submit a report to Congress.
+Pub. L. 105–85, div. A, title VII, § 703, Nov. 18, 1997, 111 Stat. 1807, directed the Secretary of Defense to conduct a study on the provision to TRICARE beneficiaries of comparative information on the medical assistance provided by a managed care entity and to submit a report to Congress.
 
 **Disclosure of Cautionary Information on Prescription Medications**
 
-Pub. L. 105–85, div. A, title VII, § 744, Nov. 18, 1997, 111 Stat. 1820, directed prescription of regulations, no later than 180 days after Nov. 18, 1997, requiring pharmacies and other pharmaceutical dispensers to provide written cautionary information about usage with the medication.
+Pub. L. 105–85, div. A, title VII, § 744, Nov. 18, 1997, 111 Stat. 1820, directed prescription of regulations, no later than 180 days after Nov. 18, 1997, requiring pharmacies and other pharmaceutical dispensers to provide written cautionary information about usage with the medication.
 
 **Competitive Procurement of Ophthalmic Services**
 
-Pub. L. 105–85, div. A, title VII, § 745, Nov. 18, 1997, 111 Stat. 1820, provided that:
+Pub. L. 105–85, div. A, title VII, § 745, Nov. 18, 1997, 111 Stat. 1820, provided that:
 
 > **“(a) Competitive Procurement Required.—** Beginning not later than October 1, 1998, the Secretary of Defense shall competitively procure from private-sector sources, or other sources outside of the Department of Defense, all ophthalmic services related to the provision of single vision and multivision eyeware [sic] for members of the Armed Forces, retired members, and certain covered beneficiaries under chapter 55 of title 10, United States Code, who would otherwise receive such ophthalmic services through the Department of Defense.
 
@@ -4151,7 +4151,7 @@ Pub. L. 105–85, div. A, title VII, § 745, Nov. 18, 1997, 111 Stat. 1820, pr
 
 **Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System**
 
-Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8131(a)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§ 721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, § 707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, § 1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, § 714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, § 109, Jan. 23, 2004, 118 Stat. 438; Pub. L. 112–81, div. A, title VII, § 708, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 113–291, div. A, title X, § 1071(b)(11), Dec. 19, 2014, 128 Stat. 3507, provided that:
+Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8131(a)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117; Pub. L. 105–85, div. A, title VII, §§ 721–723, Nov. 18, 1997, 111 Stat. 1809, 1810; Pub. L. 106–65, div. A, title VII, § 707, Oct. 5, 1999, 113 Stat. 684; Pub. L. 107–296, title XVII, § 1704(e)(2), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–136, div. A, title VII, § 714, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 108–199, div. H, § 109, Jan. 23, 2004, 118 Stat. 438; Pub. L. 112–81, div. A, title VII, § 708, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 113–291, div. A, title X, § 1071(b)(11), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 > **“SEC. 721. DEFINITIONS.**
 
@@ -4301,17 +4301,17 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 > **“(b) Effective Date.—** The amendments made by paragraphs (1), (2), and (3) of subsection (a) shall take effect on October 1, 1997.”
 
-[Pub. L. 108–199, div. H, § 109, Jan. 23, 2004, 118 Stat. 438, provided that the amendment made by section 109, amending section 724 of Pub. L. 104–201, set out above, is effective immediately after the enactment of Pub. L. 108–136.
+[Pub. L. 108–199, div. H, § 109, Jan. 23, 2004, 118 Stat. 438, provided that the amendment made by section 109, amending section 724 of Pub. L. 104–201, set out above, is effective immediately after the enactment of Pub. L. 108–136.
 
-[Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8131(b)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117, provided that: “The amendments made by subsection (a) [amending section 722 of Pub. L. 104–201, set out above] shall take effect as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 [Sept. 23, 1996] as if section 722 of such Act had been enacted as so amended.” ]
+[Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8131(b)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117, provided that: “The amendments made by subsection (a) [amending section 722 of Pub. L. 104–201, set out above] shall take effect as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 [Sept. 23, 1996] as if section 722 of such Act had been enacted as so amended.” ]
 
 **Definition of TRICARE Program**
 
-Pub. L. 104–106, div. A, title VII, § 711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle [subtitle B (§§ 711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
+Pub. L. 104–106, div. A, title VII, § 711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle [subtitle B (§§ 711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
 
 **Training in Health Care Management and Administration for TRICARE Lead Agents**
 
-Pub. L. 104–106, div. A, title VII, § 715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 760(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
+Pub. L. 104–106, div. A, title VII, § 715, Feb. 10, 1996, 110 Stat. 375, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 760(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
 
 > **“(a) Provision of Training.—** The Secretary of Defense shall implement a professional educational program to provide appropriate training in health care management and administration—
 
@@ -4321,7 +4321,7 @@ Pub. L. 104–106, div. A, title VII, § 715, Feb. 10, 1996, 110 Stat. 375, as
 
 > **“(b) Limitation on Assignment Until Completion of Training.—** No person may be assigned as the commander, deputy commander, or managed care coordinator of a military medical treatment facility or as a TRICARE lead agent or senior member of the staff of a TRICARE lead agent office until the Secretary of the military department concerned submits a certification to the Secretary of Defense that such person has completed the training described in subsection (a).”
 
-[Pub. L. 106–398, § 1 [[div. A], title VII, § 760(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
+[Pub. L. 106–398, § 1 [[div. A], title VII, § 760(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, provided that:
 
 > “The amendments made by subsection (a) to section 715 of such Act [section 715 of Pub. L. 104–106, set out above]—
 
@@ -4333,11 +4333,11 @@ Pub. L. 104–106, div. A, title VII, § 715, Feb. 10, 1996, 110 Stat. 375, as
 
 **Pilot Program of Individualized Residential Mental Health Services**
 
-Pub. L. 104–106, div. A, title VII, § 716, Feb. 10, 1996, 110 Stat. 375, directed the Secretary of Defense to implement a pilot program to provide residential and wraparound services to certain children who are in need of mental health services and to report to Congress no later than Mar. 1, 1998.
+Pub. L. 104–106, div. A, title VII, § 716, Feb. 10, 1996, 110 Stat. 375, directed the Secretary of Defense to implement a pilot program to provide residential and wraparound services to certain children who are in need of mental health services and to report to Congress no later than Mar. 1, 1998.
 
 **Evaluation and Report on TRICARE Program Effectiveness**
 
-Pub. L. 104–106, div. A, title VII, § 717, Feb. 10, 1996, 110 Stat. 376, as amended by Pub. L. 112–239, div. A, title VII, § 714, Jan. 2, 2013, 126 Stat. 1803; Pub. L. 114–92, div. A, title VII, § 713, Nov. 25, 2015, 129 Stat. 865, provided that:
+Pub. L. 104–106, div. A, title VII, § 717, Feb. 10, 1996, 110 Stat. 376, as amended by Pub. L. 112–239, div. A, title VII, § 714, Jan. 2, 2013, 126 Stat. 1803; Pub. L. 114–92, div. A, title VII, § 713, Nov. 25, 2015, 129 Stat. 865, provided that:
 
 > **“(a) Evaluation Required.—** The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically—
 
@@ -4369,7 +4369,7 @@ Pub. L. 104–106, div. A, title VII, § 717, Feb. 10, 1996, 110 Stat. 376, as
 
 **Use of Health Maintenance Organization Model as Option for Military Health Care**
 
-Pub. L. 103–160, div. A, title VII, § 731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, § 715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, § 714, Feb. 10, 1996, 110 Stat. 374, provided that:
+Pub. L. 103–160, div. A, title VII, § 731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, § 715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, § 714, Feb. 10, 1996, 110 Stat. 374, provided that:
 
 > **“(a) Use of Model.—** The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
 
@@ -4391,39 +4391,39 @@ Pub. L. 103–160, div. A, title VII, § 731, Nov. 30, 1993, 107 Stat. 1696, a
 
 Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of the nation-wide managed care military health services system would be extended to Sept. 30, 1997.
 
-Pub. L. 103–139, title VIII, § 8025, Nov. 11, 1993, 107 Stat. 1443, provided that: “Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: *Provided*, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including ‘gatekeeping’ and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: *Provided further*, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: *Provided further*, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs’ medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: *Provided further*, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: *Provided further*, That the Department shall competitively award within 13 months after the date of enactment of this Act [Nov. 11, 1993] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: *Provided further*, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994.”
+Pub. L. 103–139, title VIII, § 8025, Nov. 11, 1993, 107 Stat. 1443, provided that: “Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: *Provided*, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including ‘gatekeeping’ and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: *Provided further*, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: *Provided further*, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs’ medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: *Provided further*, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: *Provided further*, That the Department shall competitively award within 13 months after the date of enactment of this Act [Nov. 11, 1993] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: *Provided further*, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994.”
 
 **Alternative Health Care Delivery Methodologies**
 
-Pub. L. 102–484, div. A, title VII, § 713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, § 719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, § 713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, § 719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 **Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned**
 
-Pub. L. 102–484, div. A, title VII, § 722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, § 726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, § 1063(i), Jan. 28, 2008, 122 Stat. 324; Pub. L. 117–286, § 4(a)(48), Dec. 27, 2022, 136 Stat. 4310, directed the Secretary of Defense to establish a working group on the provision of military health care to persons who rely on health care facilities at military installations selected for closure or realignment and provided that the working group would terminate on Dec. 31, 2006.
+Pub. L. 102–484, div. A, title VII, § 722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, § 726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, § 1063(i), Jan. 28, 2008, 122 Stat. 324; Pub. L. 117–286, § 4(a)(48), Dec. 27, 2022, 136 Stat. 4310, directed the Secretary of Defense to establish a working group on the provision of military health care to persons who rely on health care facilities at military installations selected for closure or realignment and provided that the working group would terminate on Dec. 31, 2006.
 
 **Requirements Prior to Termination of Medical Services at Military Medical Treatment Facilities**
 
-Pub. L. 101–510, div. A, title VII, § 716, Nov. 5, 1990, 104 Stat. 1585, prohibited the Secretary of a military department, during the period beginning on Nov. 5, 1990, and ending on Sept. 30, 1995, from taking any action to close a military medical facility or reduce the level of care provided at such a facility until 90 days after the Secretary had submitted to Congress a report describing the reason for the action, projected savings, impact on costs, and alternative methods of providing care.
+Pub. L. 101–510, div. A, title VII, § 716, Nov. 5, 1990, 104 Stat. 1585, prohibited the Secretary of a military department, during the period beginning on Nov. 5, 1990, and ending on Sept. 30, 1995, from taking any action to close a military medical facility or reduce the level of care provided at such a facility until 90 days after the Secretary had submitted to Congress a report describing the reason for the action, projected savings, impact on costs, and alternative methods of providing care.
 
 **Requirement for Availability of Additional Insurance Coverage; Funding Limitations; Definition**
 
-Pub. L. 100–180, div. A, title VII, § 732(e)–(g), Dec. 4, 1987, 101 Stat. 1120, 1121, required the Secretary of Defense to enter into an agreement that would provide individuals losing health care coverage under CHAMPUS an option to purchase an insurance plan that provided similar benefits to CHAMPUS.
+Pub. L. 100–180, div. A, title VII, § 732(e)–(g), Dec. 4, 1987, 101 Stat. 1120, 1121, required the Secretary of Defense to enter into an agreement that would provide individuals losing health care coverage under CHAMPUS an option to purchase an insurance plan that provided similar benefits to CHAMPUS.
 
 **CHAMPUS Reform Initiative**
 
-Pub. L. 102–484, div. A, title VII, § 712, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, § 720, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, § 714(c), Oct. 5, 1994, 108 Stat. 2803, provided that the Secretary of Defense could not expand the CHAMPUS reform initiative beyond California and Hawaii until not less than 90 days after the date on which the Secretary certified that expansion to another location was the most efficient method of providing health care to beneficiaries, with an exception for locations adversely affected by military installation closures or realignments.
+Pub. L. 102–484, div. A, title VII, § 712, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, § 720, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, § 714(c), Oct. 5, 1994, 108 Stat. 2803, provided that the Secretary of Defense could not expand the CHAMPUS reform initiative beyond California and Hawaii until not less than 90 days after the date on which the Secretary certified that expansion to another location was the most efficient method of providing health care to beneficiaries, with an exception for locations adversely affected by military installation closures or realignments.
 
-Pub. L. 102–190, div. A, title VII, § 722, Dec. 5, 1991, 105 Stat. 1406, authorized the Secretary of Defense to enter into a replacement or successor contract upon the termination of the Department of Defense contract in effect on Dec. 5, 1991, under the CHAMPUS reform initiative.
+Pub. L. 102–190, div. A, title VII, § 722, Dec. 5, 1991, 105 Stat. 1406, authorized the Secretary of Defense to enter into a replacement or successor contract upon the termination of the Department of Defense contract in effect on Dec. 5, 1991, under the CHAMPUS reform initiative.
 
-Pub. L. 102–172, title VIII, § 8032, Nov. 26, 1991, 105 Stat. 1178, extended the CHAMPUS reform initiative contract for California and Hawaii until Feb. 1, 1994, and required contracts to be competitively awarded for the geographic expansion of the reform initiative in certain other states and regions.
+Pub. L. 102–172, title VIII, § 8032, Nov. 26, 1991, 105 Stat. 1178, extended the CHAMPUS reform initiative contract for California and Hawaii until Feb. 1, 1994, and required contracts to be competitively awarded for the geographic expansion of the reform initiative in certain other states and regions.
 
-Pub. L. 101–510, div. A, title VII, § 715, Nov. 5, 1990, 104 Stat. 1584, required the Secretary of Defense to make certain cost-effectiveness certifications to Congress before the CHAMPUS reform initiative underway in California and Hawaii could expand.
+Pub. L. 101–510, div. A, title VII, § 715, Nov. 5, 1990, 104 Stat. 1584, required the Secretary of Defense to make certain cost-effectiveness certifications to Congress before the CHAMPUS reform initiative underway in California and Hawaii could expand.
 
-Pub. L. 99–661, div. A, title VII, § 702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, § 732(a), (c), Dec. 4, 1987, 101 Stat. 1119, directed the Secretary of Defense to conduct a project, beginning no later than Sept. 30, 1988, to test new approaches for delivering health care to beneficiaries of the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) through the competitive selection of contractors to financially underwrite the delivery of health care services.
+Pub. L. 99–661, div. A, title VII, § 702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, § 732(a), (c), Dec. 4, 1987, 101 Stat. 1119, directed the Secretary of Defense to conduct a project, beginning no later than Sept. 30, 1988, to test new approaches for delivering health care to beneficiaries of the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) through the competitive selection of contractors to financially underwrite the delivery of health care services.
 
 **Definitions**
 
-Pub. L. 114–328, div. A, title VII, § 701(i), Dec. 23, 2016, 130 Stat. 2190, provided that:
+Pub. L. 114–328, div. A, title VII, § 701(i), Dec. 23, 2016, 130 Stat. 2190, provided that:
 
 > “In this section [enacting sections 1075 and 1075a of this title, amending sections 1072, 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title, and enacting provisions set out as notes under this section and sections 1072 and 1099 of this title]:
 
@@ -4439,7 +4439,7 @@ Pub. L. 114–328, div. A, title VII, § 701(i), Dec. 23, 2016, 130 Stat. 2190
 
 > **“(6)** The term ‘value-based health care methodology’ means a methodology for identifying specific prescription medications and clinical services provided under the TRICARE program for which reduction of copayments, cost shares, or both, would improve the management of specific chronic conditions because of the high value and clinical effectiveness of such medications and services for such chronic conditions.”
 
-## § 1073a. Contracts for health care: best value contracting
+## § 1073a. Contracts for health care: best value contracting
 
 **(a) Authority.—** Under regulations prescribed by the administering Secretaries, health care contracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
 
@@ -4451,13 +4451,13 @@ Pub. L. 114–328, div. A, title VII, § 701(i), Dec. 23, 2016, 130 Stat. 2190
 
 **(c) Applicability.—** The authority under the regulations prescribed under subsection (a) shall apply to any contract in excess of $5,000,000.
 
-(Added Pub. L. 106–65, div. A, title VII, § 722(a), Oct. 5, 1999, 113 Stat. 695.)
+(Added Pub. L. 106–65, div. A, title VII, § 722(a), Oct. 5, 1999, 113 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Comptroller General Review of Defense Health Agency Oversight of Transition Between Managed Care Support Contractors for the TRICARE Program**
 
-Pub. L. 115–232, div. A, title VII, § 737, Aug. 13, 2018, 132 Stat. 1821, provided that:
+Pub. L. 115–232, div. A, title VII, § 737, Aug. 13, 2018, 132 Stat. 1821, provided that:
 
 > **“(a) Briefing and Report on Current Transition.—**
 
@@ -4483,13 +4483,13 @@ Pub. L. 115–232, div. A, title VII, § 737, Aug. 13, 2018, 132 Stat. 1821, p
 
 **Value-Based Purchasing and Acquisition of Managed Care Support Contracts for TRICARE Program**
 
-Pub. L. 118–31, div. A, title VII, § 707, Dec. 22, 2023, 137 Stat. 301, provided that:
+Pub. L. 118–31, div. A, title VII, § 707, Dec. 22, 2023, 137 Stat. 301, provided that:
 
 > **“(a) Authority.—** To the extent practicable, the Secretary of Defense shall seek to expand the TRICARE Competitive Plans Demonstration Project to not fewer than five locations not later than one year after the date of the enactment of this Act [Dec. 22, 2023].
 
 > **“(b) TRICARE Competitive Plans Demonstration Project Defined.—** In this section, the term ‘TRICARE Competitive Plans Demonstration Project’ means the project designed to test the contract acquisition strategy of providing an opportunity for local, regional, and national health plans to participate in the competition for managed care support functions under the TRICARE program, in accordance with section 705(c)(3) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 1073a note).”
 
-Pub. L. 114–328, div. A, title VII, § 705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, § 715, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 116–92, div. A, title VII, § 716, Dec. 20, 2019, 133 Stat. 1453, provided that:
+Pub. L. 114–328, div. A, title VII, § 705, Dec. 23, 2016, 130 Stat. 2201, as amended by Pub. L. 115–91, div. A, title VII, § 715, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 116–92, div. A, title VII, § 716, Dec. 20, 2019, 133 Stat. 1453, provided that:
 
 > **“(a) Value-based Health Care.—**
 
@@ -4691,7 +4691,7 @@ Pub. L. 114–328, div. A, title VII, § 705, Dec. 23, 2016, 130 Stat. 2201, a
 
 > **“(H)** Use evidence-based treatment protocols that improve the consistency of health care and eliminate ineffective, wasteful health care practices.”
 
-## § 1073b. Recurring reports and publication of certain data
+## § 1073b. Recurring reports and publication of certain data
 
 **(a) Annual Report on Recording of Health Assessment Data in Military Health Records.—** The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with section 1074f(c) of this title. The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
 
@@ -4705,7 +4705,7 @@ Pub. L. 114–328, div. A, title VII, § 705, Dec. 23, 2016, 130 Stat. 2201, a
 
 **(4)** The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
 
-(Added Pub. L. 108–375, div. A, title VII, § 739(a)(1), Oct. 28, 2004, 118 Stat. 2001; amended Pub. L. 114–92, div. A, title VII, § 712, Nov. 25, 2015, 129 Stat. 864; Pub. L. 114–328, div. A, title VII, § 728(b)(1), Dec. 23, 2016, 130 Stat. 2234; Pub. L. 115–91, div. A, title X, §§ 1051(a)(5), 1081(d)(3), Dec. 12, 2017, 131 Stat. 1560, 1600.)
+(Added Pub. L. 108–375, div. A, title VII, § 739(a)(1), Oct. 28, 2004, 118 Stat. 2001; amended Pub. L. 114–92, div. A, title VII, § 712, Nov. 25, 2015, 129 Stat. 864; Pub. L. 114–328, div. A, title VII, § 728(b)(1), Dec. 23, 2016, 130 Stat. 2234; Pub. L. 115–91, div. A, title X, §§ 1051(a)(5), 1081(d)(3), Dec. 12, 2017, 131 Stat. 1560, 1600.)
 
 **Editorial Notes**
 
@@ -4715,13 +4715,13 @@ Section 728 of the National Defense Authorization Act for Fiscal Year 2017, refe
 
 **Amendments**
 
-2017—Pub. L. 115–91, § 1081(d)(3), amended directory language of Pub. L. 114–328, § 728(b)(1). See 2016 Amendment notes below.
+2017—Pub. L. 115–91, § 1081(d)(3), amended directory language of Pub. L. 114–328, § 728(b)(1). See 2016 Amendment notes below.
 
-Subsecs. (a) to (c). Pub. L. 115–91, § 1051(a)(5), redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to annual report on the Force Health Protection Quality Assurance Program.
+Subsecs. (a) to (c). Pub. L. 115–91, § 1051(a)(5), redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to annual report on the Force Health Protection Quality Assurance Program.
 
-2016—Pub. L. 114–328, § 728(b)(1)(B), as amended by Pub. L. 115–91, § 1081(d)(3), inserted “and publication of certain data” after “reports” in section catchline. Amendment was executed as the probable intent of Congress, notwithstanding directory language amending the section heading of section “1073b(c)”.
+2016—Pub. L. 114–328, § 728(b)(1)(B), as amended by Pub. L. 115–91, § 1081(d)(3), inserted “and publication of certain data” after “reports” in section catchline. Amendment was executed as the probable intent of Congress, notwithstanding directory language amending the section heading of section “1073b(c)”.
 
-Subsec. (c)(1). Pub. L. 114–328, § 728(b)(1)(A), as amended by Pub. L. 115–91, § 1081(d)(3), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, the Secretary” and inserted at end “Such data shall include the core quality performance metrics adopted by the Secretary under section 728 of the National Defense Authorization Act for Fiscal Year 2017.”
+Subsec. (c)(1). Pub. L. 114–328, § 728(b)(1)(A), as amended by Pub. L. 115–91, § 1081(d)(3), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, the Secretary” and inserted at end “Such data shall include the core quality performance metrics adopted by the Secretary under section 728 of the National Defense Authorization Act for Fiscal Year 2017.”
 
 2015—Subsec. (c). Pub. L. 114–92 added subsec. (c).
 
@@ -4729,7 +4729,7 @@ Subsec. (c)(1). Pub. L. 114–328, § 728(b)(1)(A), as amended by Pub. L. 115�
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(3) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(3) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Inclusion of Dental Care**
 
@@ -4737,9 +4737,9 @@ For purposes of amendment by Pub. L. 108–375 adding this section, references t
 
 **Initial Reports**
 
-Pub. L. 108–375, div. A, title VII, § 739(a)(3), Oct. 28, 2004, 118 Stat. 2002, directed that the first reports under this section be completed not later than 180 days after Oct. 28, 2004.
+Pub. L. 108–375, div. A, title VII, § 739(a)(3), Oct. 28, 2004, 118 Stat. 2002, directed that the first reports under this section be completed not later than 180 days after Oct. 28, 2004.
 
-## § 1073c. Administration of Defense Health Agency and military medical treatment facilities
+## § 1073c. Administration of Defense Health Agency and military medical treatment facilities
 
 **(a) Director of the Defense Health Agency.—**
 
@@ -4911,101 +4911,101 @@ Pub. L. 108–375, div. A, title VII, § 739(a)(3), Oct. 28, 2004, 118 Stat. 2
 
 **(B)** any other location used for purposes of providing health care services as designated by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title VII, § 702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, § 713, title X, § 1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, § 711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, § 711, title XVII, § 1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, § 1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§ 711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§ 711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663; Pub. L. 118–31, div. A, title VII, § 711(a), Dec. 22, 2023, 137 Stat. 301; Pub. L. 118–159, div. A, title XVII, § 1701(a)(18), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. A, title VII, § 711(a), Dec. 18, 2025, 139 Stat. 919.)
+(Added Pub. L. 114–328, div. A, title VII, § 702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, § 713, title X, § 1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, § 711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, § 711, title XVII, § 1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, § 1081(a)(24), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title VII, §§ 711, 712(a), Dec. 27, 2021, 135 Stat. 1783; Pub. L. 117–263, div. A, title VII, §§ 711(b), 720(c), Dec. 23, 2022, 136 Stat. 2656, 2663; Pub. L. 118–31, div. A, title VII, § 711(a), Dec. 22, 2023, 137 Stat. 301; Pub. L. 118–159, div. A, title XVII, § 1701(a)(18), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. A, title VII, § 711(a), Dec. 18, 2025, 139 Stat. 919.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsecs. (a), (b). Pub. L. 119–60, § 711(a)(1), (2), added subsec. (a) and redesignated former subsec. (a) as (b). Former subsec. (b) redesignated (c).
+2025—Subsecs. (a), (b). Pub. L. 119–60, § 711(a)(1), (2), added subsec. (a) and redesignated former subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1). Pub. L. 119–60, § 711(a)(3)(A), struck out “, by not later than September 30, 2021” after “paragraph (5)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 119–60, § 711(a)(3)(A), struck out “, by not later than September 30, 2021” after “paragraph (5)” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 119–60, § 711(a)(3)(B), struck out “, commencing when the Director begins to exercise responsibilities under that paragraph,” after “shall” in introductory provisions.
+Subsec. (b)(2). Pub. L. 119–60, § 711(a)(3)(B), struck out “, commencing when the Director begins to exercise responsibilities under that paragraph,” after “shall” in introductory provisions.
 
-Subsec. (b)(6). Pub. L. 119–60, § 711(a)(3)(C), substituted “subsections (c) and (d)” for “subsections (b) and (c)”.
+Subsec. (b)(6). Pub. L. 119–60, § 711(a)(3)(C), substituted “subsections (c) and (d)” for “subsections (b) and (c)”.
 
-Subsecs. (c) to (e). Pub. L. 119–60, § 711(a)(1), redesignated subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
+Subsecs. (c) to (e). Pub. L. 119–60, § 711(a)(1), redesignated subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 119–60, § 711(a)(1), (4), redesignated subsec. (e) as (f) and substituted “Subject to subsection (g)” for “Not later than September 30, 2024, and subject to subsection (f)” in introductory provisions. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 119–60, § 711(a)(1), (4), redesignated subsec. (e) as (f) and substituted “Subject to subsection (g)” for “Not later than September 30, 2024, and subject to subsection (f)” in introductory provisions. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 119–60, § 711(a)(1), (5), redesignated subsec. (f) as (g) and substituted “subsection (f)” for “subsection (e)” in introductory provisions. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 119–60, § 711(a)(1), (5), redesignated subsec. (f) as (g) and substituted “subsection (f)” for “subsection (e)” in introductory provisions. Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 119–60, § 711(a)(1), (6), redesignated subsec. (g) as (h) and substituted “subsection (f)(1)” for “subsection (e)(1)”. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 119–60, § 711(a)(1), (6), redesignated subsec. (g) as (h) and substituted “subsection (f)(1)” for “subsection (e)(1)”. Former subsec. (h) redesignated (i).
 
-Subsecs. (i) to (k). Pub. L. 119–60, § 711(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+Subsecs. (i) to (k). Pub. L. 119–60, § 711(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
 
 2024—Subsecs. (h) to (j). Pub. L. 118–159 redesignated subsec. (h) relating to rule of construction regarding Secretaries concerned and medical evaluation boards as (i) and former subsec. (i) as (j).
 
-2023—Subsec. (e). Pub. L. 118–31, § 711(a)(1), substituted “Not later than September 30, 2024, and subject to subsection (f),” for “Not later than September 30, 2022,” in introductory provisions.
+2023—Subsec. (e). Pub. L. 118–31, § 711(a)(1), substituted “Not later than September 30, 2024, and subject to subsection (f),” for “Not later than September 30, 2022,” in introductory provisions.
 
-Subsecs. (f) to (h). Pub. L. 118–31, § 711(a)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g) and former subsec. (g) as (h) relating to treatment of Department of Defense for purposes of personnel assignment.
+Subsecs. (f) to (h). Pub. L. 118–31, § 711(a)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g) and former subsec. (g) as (h) relating to treatment of Department of Defense for purposes of personnel assignment.
 
-2022—Subsec. (e)(2)(B). Pub. L. 117–263, § 720(c), substituted “Army Public Health Center, the Navy–Marine Corps Public Health Center” for “Army Public Health Command, the Navy–Marine Corps Public Health Command”.
+2022—Subsec. (e)(2)(B). Pub. L. 117–263, § 720(c), substituted “Army Public Health Center, the Navy–Marine Corps Public Health Center” for “Army Public Health Command, the Navy–Marine Corps Public Health Command”.
 
-Subsecs. (h), (i). Pub. L. 117–263, § 711(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 117–263, § 711(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 2021—Subsec. (a)(4), (6). Pub. L. 116–283 redesignated par. (6) relating to authorization of military director or other senior military officer to serve as a commanding officer as (4) and moved it to appear before par. (5).
 
-Subsec. (c)(5). Pub. L. 117–81, § 711, substituted “paragraph (3) or (4)” for “paragraphs (1) through (4)”.
+Subsec. (c)(5). Pub. L. 117–81, § 711, substituted “paragraph (3) or (4)” for “paragraphs (1) through (4)”.
 
-Subsecs. (f) to (h). Pub. L. 117–81, § 712(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 117–81, § 712(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 711(f)(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 711(f)(1), substituted “paragraph (5)” for “paragraph (4)” in introductory provisions.
 
-Pub. L. 116–92, § 711(a)(1), added subpars. (A), (B), and (F) and redesignated former subpars. (A), (B), (C), (D), (E), and (F) as (C), (D), (E), (G), (H), and (I), respectively.
+Pub. L. 116–92, § 711(a)(1), added subpars. (A), (B), and (F) and redesignated former subpars. (A), (B), (C), (D), (E), and (F) as (C), (D), (E), (G), (H), and (I), respectively.
 
-Subsec. (a)(2)(D) to (I). Pub. L. 116–92, § 711(a)(2), added subpars. (D), (F), and (G), redesignated former subpars. (D), (E), (F), and (G) as (E), (F), (H), and (I), respectively, and struck out subpar. (F) as so redesignated. Prior to repeal, the redesignated subpar. (F) read as follows: “to direct joint manning at military medical treatment facilities and intermediary organizations;”.
+Subsec. (a)(2)(D) to (I). Pub. L. 116–92, § 711(a)(2), added subpars. (D), (F), and (G), redesignated former subpars. (D), (E), (F), and (G) as (E), (F), (H), and (I), respectively, and struck out subpar. (F) as so redesignated. Prior to repeal, the redesignated subpar. (F) read as follows: “to direct joint manning at military medical treatment facilities and intermediary organizations;”.
 
-Subsec. (a)(3)(A). Pub. L. 116–92, § 711(a)(3)(A), inserted “on behalf of the military departments,” before “ensuring” and struck out “and civilian employees” after “armed forces”.
+Subsec. (a)(3)(A). Pub. L. 116–92, § 711(a)(3)(A), inserted “on behalf of the military departments,” before “ensuring” and struck out “and civilian employees” after “armed forces”.
 
-Subsec. (a)(3)(B). Pub. L. 116–92, § 711(a)(3)(B), inserted “on behalf of the Defense Health Agency,” before “furnishing”.
+Subsec. (a)(3)(B). Pub. L. 116–92, § 711(a)(3)(B), inserted “on behalf of the Defense Health Agency,” before “furnishing”.
 
-Subsec. (a)(4). Pub. L. 116–92, § 711(f)(4), which directed moving the second par. (4) so as to appear before par. (5), could not be executed because of the intervening amendment by Pub. L. 116–92, § 1731(a)(22). See below.
+Subsec. (a)(4). Pub. L. 116–92, § 711(f)(4), which directed moving the second par. (4) so as to appear before par. (5), could not be executed because of the intervening amendment by Pub. L. 116–92, § 1731(a)(22). See below.
 
-Pub. L. 116–92, § 711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5).
+Pub. L. 116–92, § 711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5).
 
-Pub. L. 116–92, § 1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6). Amendment executed before amendment by section 711(f)(4) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+Pub. L. 116–92, § 1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6). Amendment executed before amendment by section 711(f)(4) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
-Subsec. (a)(5). Pub. L. 116–92, § 711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5). Former par. (5) redesignated (6) relating to establishment of professional staff.
+Subsec. (a)(5). Pub. L. 116–92, § 711(f)(3), redesignated par. (4) relating to timeline for transition of administration of military medical treatment facilities as (5). Former par. (5) redesignated (6) relating to establishment of professional staff.
 
-Subsec. (a)(6). Pub. L. 116–92, § 711(f)(2), redesignated par. (5) as (6) relating to establishment of professional staff.
+Subsec. (a)(6). Pub. L. 116–92, § 711(f)(2), redesignated par. (5) as (6) relating to establishment of professional staff.
 
-Pub. L. 116–92, § 1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6).
+Pub. L. 116–92, § 1731(a)(22), redesignated par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer as (6).
 
-Subsec. (b)(2). Pub. L. 116–92, § 711(b), substituted “the education and experience to perform the responsibilities of the position.” for “equivalent education and experience as a chief executive officer leading a large, civilian health care system.”
+Subsec. (b)(2). Pub. L. 116–92, § 711(b), substituted “the education and experience to perform the responsibilities of the position.” for “equivalent education and experience as a chief executive officer leading a large, civilian health care system.”
 
-Subsec. (c)(2)(B). Pub. L. 116–92, § 711(c)(1), substituted “at military medical treatment facilities” for “across the military health system”.
+Subsec. (c)(2)(B). Pub. L. 116–92, § 711(c)(1), substituted “at military medical treatment facilities” for “across the military health system”.
 
-Subsec. (c)(4)(B). Pub. L. 116–92, § 711(c)(2), inserted “at military medical treatment facilities” before period at end.
+Subsec. (c)(4)(B). Pub. L. 116–92, § 711(c)(2), inserted “at military medical treatment facilities” before period at end.
 
-Subsecs. (f), (g). Pub. L. 116–92, § 711(d), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 116–92, § 711(d), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-Subsec. (g)(3). Pub. L. 116–92, § 711(e), added par. (3).
+Subsec. (g)(3). Pub. L. 116–92, § 711(e), added par. (3).
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 711(a)(1)(A), substituted “In accordance with paragraph (4), by not later than September 30, 2021,” for “Beginning October 1, 2018,” in introductory provisions.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 711(a)(1)(A), substituted “In accordance with paragraph (4), by not later than September 30, 2021,” for “Beginning October 1, 2018,” in introductory provisions.
 
-Subsec. (a)(2), (3). Pub. L. 115–232, § 711(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
+Subsec. (a)(2), (3). Pub. L. 115–232, § 711(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
 
-Subsec. (a)(4). Pub. L. 115–232, § 711(a)(1)(D), added par. (4) relating to timeline for transition of administration of military medical treatment facilities.
+Subsec. (a)(4). Pub. L. 115–232, § 711(a)(1)(D), added par. (4) relating to timeline for transition of administration of military medical treatment facilities.
 
-Subsec. (a)(5). Pub. L. 115–232, § 711(a)(1)(B), (E), redesignated par. (3) as (5) and substituted “paragraphs (1) and (2)” for “subsection (a)”.
+Subsec. (a)(5). Pub. L. 115–232, § 711(a)(1)(B), (E), redesignated par. (3) as (5) and substituted “paragraphs (1) and (2)” for “subsection (a)”.
 
-Subsec. (d)(2)(C). Pub. L. 115–232, § 711(a)(2), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 115–232, § 711(a)(2), added subpar. (C).
 
-Subsecs. (e), (f). Pub. L. 115–232, § 711(b)(1), added subsec. (e) and redesginated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 115–232, § 711(b)(1), added subsec. (e) and redesginated former subsec. (e) as (f).
 
-2017—Subsec. (a)(1)(E). Pub. L. 115–91, §§ 713(1), 1081(a)(23), amended subpar. (E) identically, substituting “military” for “miliary”.
+2017—Subsec. (a)(1)(E). Pub. L. 115–91, §§ 713(1), 1081(a)(23), amended subpar. (E) identically, substituting “military” for “miliary”.
 
-Subsec. (a)(2). Pub. L. 115–91, § 713(2), substituted “military commander or director” for “commander” in introductory provisions.
+Subsec. (a)(2). Pub. L. 115–91, § 713(2), substituted “military commander or director” for “commander” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 115–91, § 713(3), added par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer.
+Subsec. (a)(4). Pub. L. 115–91, § 713(3), added par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Plan for Priority Assignment of Medical Personnel of Department of Defense**
 
-Pub. L. 119–60, div. A, title VII, § 717, Dec. 18, 2025, 139 Stat. 923, provided that:
+Pub. L. 119–60, div. A, title VII, § 717, Dec. 18, 2025, 139 Stat. 923, provided that:
 
 > **“(a) Plan.—**
 
@@ -5059,7 +5059,7 @@ Pub. L. 119–60, div. A, title VII, § 717, Dec. 18, 2025, 139 Stat. 923, pro
 
 **Expansion of Recognition by the Defense Health Agency of Certifying Bodies for Physicians**
 
-Pub. L. 118–159, div. A, title VII, § 715, Dec. 23, 2024, 138 Stat. 1948, provided that:
+Pub. L. 118–159, div. A, title VII, § 715, Dec. 23, 2024, 138 Stat. 1948, provided that:
 
 > **“(a) Expansion.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Defense Health Agency shall revise the policy of the Defense Health Agency regarding the credentialing and privileging under the military health system to expand the recognition of certifying bodies for physicians under such policy to a wide range of additional board certifications in medical specialties and subspecialties. Subject to subsection (b), the following certifying bodies shall be so recognized:
 
@@ -5093,7 +5093,7 @@ Pub. L. 118–159, div. A, title VII, § 715, Dec. 23, 2024, 138 Stat. 1948, p
 
 **Waiver With Respect to Experienced Nurses at Military Medical Treatment Facilities**
 
-Pub. L. 118–159, div. A, title VII, § 716, Dec. 23, 2024, 138 Stat. 1949, provided that:
+Pub. L. 118–159, div. A, title VII, § 716, Dec. 23, 2024, 138 Stat. 1949, provided that:
 
 > **“(a) In General.—** The hiring manager of a military medical treatment facility or other health care facility of the Department of Defense may waive any General Schedule qualification standard related to work experience established by the Director of the Office of Personnel Management in the case of any applicant for a nursing or practical nurse position in a military medical treatment facility or other health care facility of the Department of Defense who—
 
@@ -5109,7 +5109,7 @@ Pub. L. 118–159, div. A, title VII, § 716, Dec. 23, 2024, 138 Stat. 1949, p
 
 **Modification of Requirement To Transfer Research and Development and Public Health Functions to Defense Health Agency**
 
-Pub. L. 117–263, div. A, title VII, § 720, Dec. 23, 2022, 136 Stat. 2662, provided that:
+Pub. L. 117–263, div. A, title VII, § 720, Dec. 23, 2022, 136 Stat. 2662, provided that:
 
 > **“(a) Temporary Retention.—** Notwithstanding section 1073c(e) of title 10, United States Code [now 10 U.S.C. 1073c(f)], at the discretion of the Secretary of Defense, a military department may retain, until not later than February 1, 2024, a covered function if the Secretary of Defense determines the covered function—
 
@@ -5141,7 +5141,7 @@ Pub. L. 117–263, div. A, title VII, § 720, Dec. 23, 2022, 136 Stat. 2662, p
 
 **Requirements for Consultations Relating to Military Medical Research and Defense Health Agency Research and Development**
 
-Pub. L. 117–81, div. A, title VII, § 712(b), (c), Dec. 27, 2021, 135 Stat. 1783, 1784, provided that:
+Pub. L. 117–81, div. A, title VII, § 712(b), (c), Dec. 27, 2021, 135 Stat. 1783, 1784, provided that:
 
 > **“(b) Requirements for Consultations.—** The Secretary of Defense shall ensure that consultations are carried out under section 1073c(f) of title 10, United States Code [now 10 U.S.C. 1073c(g)] (as added by subsection (a)), to include the plans of each military department to ensure a comprehensive transition of any military medical research organizations of the military department with respect to the establishment of the Defense Health Agency Research and Development.
 
@@ -5149,7 +5149,7 @@ Pub. L. 117–81, div. A, title VII, § 712(b), (c), Dec. 27, 2021, 135 Stat. 
 
 **Limitation on Closures and Downsizings in Connection With Transition of Administration**
 
-Pub. L. 115–232, div. A, title VII, § 711(a)(3), Aug. 13, 2018, 132 Stat. 1807, provided that:
+Pub. L. 115–232, div. A, title VII, § 711(a)(3), Aug. 13, 2018, 132 Stat. 1807, provided that:
 
 > “In carrying out the transition of responsibility for the administration of military medical treatment facilities pursuant to subsection (a) of section 1073c of title 10, United States Code [now 10 U.S.C. 1073c(b)] (as amended by paragraph (1)), and in addition to any other applicable requirements under section 1073d of that title, the Secretary of Defense may not close any military medical treatment facility, or downsize any medical center, hospital, or ambulatory care center (as specified in section 1073d of that title), that addresses the medical needs of beneficiaries and the community in the vicinity of such facility, center, hospital, or care center until the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the following:
 
@@ -5159,9 +5159,9 @@ Pub. L. 115–232, div. A, title VII, § 711(a)(3), Aug. 13, 2018, 132 Stat. 1
 
 **Support by Military Healthcare System of Medical Requirements of Combatant Commands**
 
-Pub. L. 117–81, div. A, title VII, § 731(b)(1), Dec. 27, 2021, 135 Stat. 1796, provided that: “The Secretaries of the military departments shall ensure that the Surgeons General of the Armed Forces carry out fully the requirements of section 712(b)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 1073c note) [set out below] by not later than September 30, 2022.”
+Pub. L. 117–81, div. A, title VII, § 731(b)(1), Dec. 27, 2021, 135 Stat. 1796, provided that: “The Secretaries of the military departments shall ensure that the Surgeons General of the Armed Forces carry out fully the requirements of section 712(b)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 1073c note) [set out below] by not later than September 30, 2022.”
 
-Pub. L. 115–232, div. A, title VII, § 712, Aug. 13, 2018, 132 Stat. 1809, as amended by Pub. L. 116–92, div. A, title VII, § 712(a), (b)(1), Dec. 20, 2019, 133 Stat. 1443–1445; Pub. L. 118–31, div. A, title VII, § 714(c), Dec. 22, 2023, 137 Stat. 303, provided that:
+Pub. L. 115–232, div. A, title VII, § 712, Aug. 13, 2018, 132 Stat. 1809, as amended by Pub. L. 116–92, div. A, title VII, § 712(a), (b)(1), Dec. 20, 2019, 133 Stat. 1443–1445; Pub. L. 118–31, div. A, title VII, § 714(c), Dec. 22, 2023, 137 Stat. 303, provided that:
 
 > **“(a) Organizational Framework Required.—**
 
@@ -5259,7 +5259,7 @@ Pub. L. 115–232, div. A, title VII, § 712, Aug. 13, 2018, 132 Stat. 1809, a
 
 **Selection of Military Commanders and Directors of Military Medical Treatment Facilities**
 
-Pub. L. 115–91, div. A, title VII, § 722, Dec. 12, 2017, 131 Stat. 1441, provided that:
+Pub. L. 115–91, div. A, title VII, § 722, Dec. 12, 2017, 131 Stat. 1441, provided that:
 
 > **“(a) In General.—** Not later than January 1, 2019, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish the common qualifications and core competencies required for an individual to serve as a military commander or director of a military medical treatment facility.
 
@@ -5277,7 +5277,7 @@ Pub. L. 115–91, div. A, title VII, § 722, Dec. 12, 2017, 131 Stat. 1441, pr
 
 **Appointments**
 
-Pub. L. 114–328, div. A, title VII, § 702(c), Dec. 23, 2016, 130 Stat. 2196, provided that:
+Pub. L. 114–328, div. A, title VII, § 702(c), Dec. 23, 2016, 130 Stat. 2196, provided that:
 
 > “The Secretary of Defense shall make appointments of the positions under section 1073c of title 10, United States Code, as added by subsection (a)—
 
@@ -5285,7 +5285,7 @@ Pub. L. 114–328, div. A, title VII, § 702(c), Dec. 23, 2016, 130 Stat. 2196
 
 > **“(2)** by not increasing the number of full-time equivalent employees of the Defense Health Agency.”
 
-## § 1073d. Military medical treatment facilities
+## § 1073d. Military medical treatment facilities
 
 **(a) In General.—** To support the medical readiness of the armed forces and the readiness of medical personnel, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall maintain the military medical treatment facilities described in subsections (b), (c), and (d).
 
@@ -5447,7 +5447,7 @@ Pub. L. 114–328, div. A, title VII, § 702(c), Dec. 23, 2016, 130 Stat. 2196
 
 **(C)** An assessment from the Director of the Defense Health Agency that explains how members of the armed forces and covered beneficiaries receiving services at the facility will continue to receive care.
 
-(Added Pub. L. 114–328, div. A, title VII, § 703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, § 711, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 117–263, div. A, title VII, §§ 712, 713(a), 714(a), 715, Dec. 23, 2022, 136 Stat. 2657, 2659, 2660; Pub. L. 118–159, div. A, title XVII, § 1701(a)(19), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. A, title VII, § 714, Dec. 18, 2025, 139 Stat. 922.)
+(Added Pub. L. 114–328, div. A, title VII, § 703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, § 711, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 117–263, div. A, title VII, §§ 712, 713(a), 714(a), 715, Dec. 23, 2022, 136 Stat. 2657, 2659, 2660; Pub. L. 118–159, div. A, title XVII, § 1701(a)(19), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. A, title VII, § 714, Dec. 18, 2025, 139 Stat. 922.)
 
 **Editorial Notes**
 
@@ -5461,13 +5461,13 @@ Section 706 of the National Defense Authorization Act for Fiscal Year 2017, refe
 
 2024—Subsec. (b)(5)(C)(ii). Pub. L. 118–159 substituted “fulfill” for “fulfil”.
 
-2022—Subsec. (b)(3)(D). Pub. L. 117–263, § 712, substituted “, level two, or level three” for “or level two”.
+2022—Subsec. (b)(3)(D). Pub. L. 117–263, § 712, substituted “, level two, or level three” for “or level two”.
 
-Subsec. (b)(4). Pub. L. 117–263, § 713(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary may designate a medical center as a regional center of excellence for unique and highly specialized health care services, including with respect to polytrauma, organ transplantation, and burn care.”
+Subsec. (b)(4). Pub. L. 117–263, § 713(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary may designate a medical center as a regional center of excellence for unique and highly specialized health care services, including with respect to polytrauma, organ transplantation, and burn care.”
 
-Subsec. (b)(5). Pub. L. 117–263, § 714(a), added par. (5).
+Subsec. (b)(5). Pub. L. 117–263, § 714(a), added par. (5).
 
-Subsec. (f). Pub. L. 117–263, § 715, added subsec. (f).
+Subsec. (f). Pub. L. 117–263, § 715, added subsec. (f).
 
 2017—Subsec. (e). Pub. L. 115–91 added subsec. (e).
 
@@ -5475,11 +5475,11 @@ Subsec. (f). Pub. L. 117–263, § 715, added subsec. (f).
 
 **Deadline**
 
-Pub. L. 117–263, div. A, title VII, § 713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: “The Secretary of Defense shall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title VII, § 713(b), Dec. 23, 2022, 136 Stat. 2658, provided that: “The Secretary of Defense shall designate certain major medical centers as regional centers of excellence in accordance with section 1073d(b)(4)(A) of title 10, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Timeline for Establishment**
 
-Pub. L. 117–263, div. A, title VII, § 714(b), Dec. 23, 2022, 136 Stat. 2660, provided that:
+Pub. L. 117–263, div. A, title VII, § 714(b), Dec. 23, 2022, 136 Stat. 2660, provided that:
 
 > **“(1) Designation.—** Not later than October 1, 2024, the Secretary of Defense shall designate four military medical treatment facilities as core casualty receiving facilities under section 1073d(b)(5) of title 10, United States Code (as added by subsection (a)).
 
@@ -5487,7 +5487,7 @@ Pub. L. 117–263, div. A, title VII, § 714(b), Dec. 23, 2022, 136 Stat. 2660
 
 **Establishment of Centers of Excellence for Enhanced Treatment of Ocular Injuries**
 
-Pub. L. 117–81, div. A, title VII, § 721, Dec. 27, 2021, 135 Stat. 1791, provided that:
+Pub. L. 117–81, div. A, title VII, § 721, Dec. 27, 2021, 135 Stat. 1791, provided that:
 
 > **“(a) In General.—** Not later than October 1, 2023, the Secretary of Defense, acting through the Director of the Defense Health Agency, shall establish within the Defense Health Agency not fewer than four regional centers of excellence for the enhanced treatment of—
 
@@ -5515,7 +5515,7 @@ Pub. L. 117–81, div. A, title VII, § 721, Dec. 27, 2021, 135 Stat. 1791, pr
 
 **Satellite Centers**
 
-Pub. L. 114–328, div. A, title VII, § 703(a)(3), Dec. 23, 2016, 130 Stat. 2198, provided that:
+Pub. L. 114–328, div. A, title VII, § 703(a)(3), Dec. 23, 2016, 130 Stat. 2198, provided that:
 
 > “In addition to the centers of excellence designated under section 1073d(b)(4) of title 10, United States Code, as added by paragraph (1), the Secretary of Defense may establish satellite centers of excellence to provide specialty care for certain conditions, including with respect to—
 
@@ -5527,13 +5527,13 @@ Pub. L. 114–328, div. A, title VII, § 703(a)(3), Dec. 23, 2016, 130 Stat. 2
 
 **Limitation on Restructure and Realignment of Military Medical Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 703(b), (e), Dec. 23, 2016, 130 Stat. 2198, 2200, provided that:
+Pub. L. 114–328, div. A, title VII, § 703(b), (e), Dec. 23, 2016, 130 Stat. 2198, 2200, provided that:
 
 > **“(b) Exception.—** In carrying out section 1073d of title 10, United States Code, as added by subsection (a)(1), the Secretary of Defense may not restructure or realign the infrastructure of, or modify the health care services provided by, a military medical treatment facility unless the Secretary determines that, if such a restructure, realignment, or modification will eliminate the ability of a covered beneficiary to access health care services at a military medical treatment facility, the covered beneficiary will be able to access such health care services through the purchased care component of the TRICARE program.”
 
 “(e) Definitions.—In this section [enacting this section and provisions set out as notes under this section], the terms ‘covered beneficiary’ and ‘TRICARE program’ have the meaning given those terms in section 1072 of title 10, United States Code.”
 
-## § 1073e. Protection of armed forces from infectious diseases
+## § 1073e. Protection of armed forces from infectious diseases
 
 **(a) Protection.—** The Secretary of Defense shall develop and implement a plan to ensure that the armed forces have the diagnostic equipment, testing capabilities, and personal protective equipment necessary to protect members of the armed forces from the threat of infectious diseases and to treat members who contract infectious diseases.
 
@@ -5553,23 +5553,23 @@ Pub. L. 114–328, div. A, title VII, § 703(b), (e), Dec. 23, 2016, 130 Stat.
 
 **(c) Research and Development.—**
 
-**(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) 1
+**(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
 
 **(2)** The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.
 
-(Added Pub. L. 116–283, div. A, title VII, § 712(a), Jan. 1, 2021, 134 Stat. 3691.)
+(Added Pub. L. 116–283, div. A, title VII, § 712(a), Jan. 1, 2021, 134 Stat. 3691.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 231(f) of this title, referred to in subsec. (c)(1), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
+Section 231(f) of this title, referred to in subsec. (c)(1), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
 
-## § 1073f. Health care fraud and abuse prevention program
+## § 1073f. Health care fraud and abuse prevention program
 
 **(a) Program Authorized.—**
 
@@ -5595,9 +5595,9 @@ Section 231(f) of this title, referred to in subsec. (c)(1), was redesignated as
 
 **(e) Fraud and Abuse Defined.—** In this section, the term “fraud and abuse” means any conduct specified in subsection (a) or (b) of section 1128A of the Social Security Act (42 U.S.C. 1320a–7a).
 
-(Added Pub. L. 117–81, div. A, title VII, § 713(a), Dec. 27, 2021, 135 Stat. 1784.)
+(Added Pub. L. 117–81, div. A, title VII, § 713(a), Dec. 27, 2021, 135 Stat. 1784.)
 
-## § 1074. Medical and dental care for members and certain former members
+## § 1074. Medical and dental care for members and certain former members
 
 **(a)**
 
@@ -5675,13 +5675,13 @@ Section 231(f) of this title, referred to in subsec. (c)(1), was redesignated as
 
 **(2)** In this subsection, the term “delayed-effective-date active-duty order” means an order to active duty for a period of more than 30 days under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, § 1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, § 19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, § 729, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, § 1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, § 723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, § 725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, § 731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, § 1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§ 703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, § 703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, § 743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, § 647(b), title XVI, § 1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, § 702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, § 511(a), Dec. 12, 2017, 131 Stat. 1376.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, § 2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, § 1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, § 19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, § 729, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, § 1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, § 723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, § 725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, § 731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, § 1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§ 703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, § 703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, § 743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, § 647(b), title XVI, § 1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, § 702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, § 511(a), Dec. 12, 2017, 131 Stat. 1376.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1074(a) 1074(b) | 37:421(a). 37:402(a)(3) (as applicable to 37:421(b)). 37:421(b). | June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), (b), 70 Stat. 250, 253. |
+| 1074(a) 1074(b) | 37:421(a). 37:402(a)(3) (as applicable to 37:421(b)). 37:421(b). | June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), (b), 70 Stat. 250, 253. |
 
 In subsection (a), words of entitlement are substituted for the correlative words of obligation.
 
@@ -5691,9 +5691,9 @@ In subsection (b), the words “active duty (other than for training)” are sub
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, § 735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 [now 114] of this title, and which was amended by Pub. L. 98–525, title XIV, §§ 1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
+Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, § 735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 [now 114] of this title, and which was amended by Pub. L. 98–525, title XIV, §§ 1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
 
-A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -5701,17 +5701,17 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 2009—Subsec. (d)(1)(B). Pub. L. 111–84 substituted “180 days” for “90 days”.
 
-2008—Subsec. (b). Pub. L. 110–181, § 647(b), designated existing provisions as par. (1) and added par. (2).
+2008—Subsec. (b). Pub. L. 110–181, § 647(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(4). Pub. L. 110–181, § 1633(a), added par. (4).
+Subsec. (c)(4). Pub. L. 110–181, § 1633(a), added par. (4).
 
 2006—Subsec. (a)(2)(B)(iii). Pub. L. 109–163 inserted “or the orders have been issued but the member has not entered active duty” before semicolon at end.
 
 2004—Subsec. (d)(3). Pub. L. 108–375 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
 
-2003—Subsec. (a). Pub. L. 108–136, § 708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
+2003—Subsec. (a). Pub. L. 108–136, § 708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
 
-Subsec. (d). Pub. L. 108–136, § 703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+Subsec. (d). Pub. L. 108–136, § 703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
 
@@ -5727,13 +5727,13 @@ Pub. L. 108–106 added subsec. (d).
 
 2002—Subsec. (c)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(A)], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
+2000—Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(A)], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
 
-Subsec. (c)(1). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(B)], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
+Subsec. (c)(1). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(B)], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
 
-Subsec. (c)(2)(C). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(C)], added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(C)], added subpar. (C).
 
-Subsec. (c)(3)(A). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(D)], substituted “A member of the uniformed services described in subparagraph (B) may not be required” for “The Secretary of Defense may not require a member of the armed forces described in subparagraph (B)”.
+Subsec. (c)(3)(A). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(1)(D)], substituted “A member of the uniformed services described in subparagraph (B) may not be required” for “The Secretary of Defense may not require a member of the armed forces described in subparagraph (B)”.
 
 1997—Subsec. (c). Pub. L. 105–85 designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -5753,17 +5753,17 @@ Pub. L. 104–106 added subsec. (d).
 
 1990—Subsec. (b). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Administrator” after “operated by the”.
 
-1989—Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1989—Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (c). Pub. L. 101–189, § 729, inserted at end “If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.”
+Subsec. (c). Pub. L. 101–189, § 729, inserted at end “If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.”
 
 1984—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services wherever appearing.
 
 Subsec. (c). Pub. L. 98–525 added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (b). Pub. L. 96–513, § 511(36), (37), substituted “Secretary of Health and Human Services” and “President” for “Secretary of Health, Education, and Welfare” and “Bureau of the Budget”, respectively.
+Subsec. (b). Pub. L. 96–513, § 511(36), (37), substituted “Secretary of Health and Human Services” and “President” for “Secretary of Health, Education, and Welfare” and “Bureau of the Budget”, respectively.
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
@@ -5771,11 +5771,11 @@ Subsec. (b). Pub. L. 96–513, § 511(36), (37), substituted “Secretary of H
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1633(b), Jan. 28, 2008, 122 Stat. 459, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2008.”
+Pub. L. 110–181, div. A, title XVI, § 1633(b), Jan. 28, 2008, 122 Stat. 459, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2008.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VII, § 743(b), Jan. 6, 2006, 119 Stat. 3360, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of November 24, 2003, and as if included in the enactment of paragraph (2) of section 1074(a) of title 10, United States Code, by section 708 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1530).”
+Pub. L. 109–163, div. A, title VII, § 743(b), Jan. 6, 2006, 119 Stat. 3360, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of November 24, 2003, and as if included in the enactment of paragraph (2) of section 1074(a) of title 10, United States Code, by section 708 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1530).”
 
 **Effective Date of 2002 Amendment**
 
@@ -5783,11 +5783,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 722(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that: “The amendments made by subsections (a)(1) and (b)(1) [amending this section and section 1079 of this title] shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 722(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that: “The amendments made by subsections (a)(1) and (b)(1) [amending this section and section 1079 of this title] shall take effect on October 1, 2001.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title VII, § 731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that:
+Pub. L. 105–85, div. A, title VII, § 731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that:
 
 > “The amendments made by paragraph (1) [amending this section] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
 
@@ -5809,7 +5809,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Establishment of Indo-Pacific Medical Readiness Program**
 
-Pub. L. 118–159, div. A, title VII, § 735, Dec. 23, 2024, 138 Stat. 1957, provided that:
+Pub. L. 118–159, div. A, title VII, § 735, Dec. 23, 2024, 138 Stat. 1957, provided that:
 
 > **“(a) Establishment.—**
 
@@ -5917,7 +5917,7 @@ Pub. L. 118–159, div. A, title VII, § 735, Dec. 23, 2024, 138 Stat. 1957, p
 
 **Program of the Department of Defense To Study Treatment of Certain Conditions Using Certain Psychedelic Substances**
 
-Pub. L. 118–31, div. A, title VII, § 723, Dec. 22, 2023, 137 Stat. 306, provided that:
+Pub. L. 118–31, div. A, title VII, § 723, Dec. 22, 2023, 137 Stat. 306, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall establish a process to fund eligible entities to conduct research on the treatment of eligible members of the Armed Forces with a covered condition using covered psychedelic substances. Not later than 180 days after the date of the enactment of this Act, the Secretary shall designate a lead administrator to carry out the program under this section.
 
@@ -5969,7 +5969,7 @@ Pub. L. 118–31, div. A, title VII, § 723, Dec. 22, 2023, 137 Stat. 306, pro
 
 **Guidance for Addressing Healthy Relationships and Intimate Partner Violence Through TRICARE Program**
 
-Pub. L. 117–263, div. A, title VII, § 748, Dec. 23, 2022, 136 Stat. 2689, provided that:
+Pub. L. 117–263, div. A, title VII, § 748, Dec. 23, 2022, 136 Stat. 2689, provided that:
 
 > **“(a) Guidance.—** The Secretary of Defense shall disseminate guidance on the implementation through the TRICARE program of—
 
@@ -5985,7 +5985,7 @@ Pub. L. 117–263, div. A, title VII, § 748, Dec. 23, 2022, 136 Stat. 2689, p
 
 **Registry of Certain TRICARE Beneficiaries Diagnosed With COVID–19**
 
-Pub. L. 116–283, div. A, title VII, § 734, Jan. 1, 2021, 134 Stat. 3702, provided that:
+Pub. L. 116–283, div. A, title VII, § 734, Jan. 1, 2021, 134 Stat. 3702, provided that:
 
 > **“(a) Establishment.—** Not later than June 1, 2021, and subject to subsection (b), the Secretary of Defense shall establish and maintain a registry of covered TRICARE beneficiaries who have been diagnosed with COVID–19.
 
@@ -6025,11 +6025,11 @@ Pub. L. 116–283, div. A, title VII, § 734, Jan. 1, 2021, 134 Stat. 3702, pr
 
 **Coverage of Testing for COVID–19: Application With Respect to TRICARE**
 
-Pub. L. 116–127, div. F, § 6006(a), Mar. 18, 2020, 134 Stat. 207, provided that: “The Secretary of Defense may not require any copayment or other cost sharing under chapter 55 of title 10, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
+Pub. L. 116–127, div. F, § 6006(a), Mar. 18, 2020, 134 Stat. 207, provided that: “The Secretary of Defense may not require any copayment or other cost sharing under chapter 55 of title 10, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
 
 **Provision of Blood Testing for Firefighters of Department of Defense to Determine Exposure to Perfluoroalkyl and Polyfluoroalkyl Substances**
 
-Pub. L. 116–92, div. A, title VII, § 707, Dec. 20, 2019, 133 Stat. 1441, provided that:
+Pub. L. 116–92, div. A, title VII, § 707, Dec. 20, 2019, 133 Stat. 1441, provided that:
 
 > **“(a) In General.—** Beginning on October 1, 2020, the Secretary of Defense shall provide blood testing to determine and document potential exposure to perfluoroalkyl and polyfluoroalkyl substances (commonly known as ‘PFAS’) for each firefighter of the Department of Defense during the annual physical exam conducted by the Department for each such firefighter.
 
@@ -6037,7 +6037,7 @@ Pub. L. 116–92, div. A, title VII, § 707, Dec. 20, 2019, 133 Stat. 1441, pr
 
 **Comprehensive Policy for Provision of Mental Health Care to Members of the Armed Forces**
 
-Pub. L. 116–92, div. A, title VII, § 718, Dec. 20, 2019, 133 Stat. 1453, provided that:
+Pub. L. 116–92, div. A, title VII, § 718, Dec. 20, 2019, 133 Stat. 1453, provided that:
 
 > **“(a) Policy Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall develop and implement a comprehensive policy for the provision of mental health care to members of the Armed Forces.
 
@@ -6069,7 +6069,7 @@ Pub. L. 116–92, div. A, title VII, § 718, Dec. 20, 2019, 133 Stat. 1453, pr
 
 **Declassification by Department of Defense of Certain Incidents of Exposure of Members of the Armed Forces to Toxic Substances**
 
-Pub. L. 115–91, div. A, title VII, § 737, Dec. 12, 2017, 131 Stat. 1445, provided that:
+Pub. L. 115–91, div. A, title VII, § 737, Dec. 12, 2017, 131 Stat. 1445, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall conduct a declassification review of documents related to any known incident in which not fewer than 100 members of the Armed Forces were intentionally exposed to a toxic substance that resulted in at least one case of a disability that a member of the medical profession has determined to be associated with that toxic substance.
 
@@ -6095,7 +6095,7 @@ Pub. L. 115–91, div. A, title VII, § 737, Dec. 12, 2017, 131 Stat. 1445, pr
 
 **Adjustment of Medical Services, Personnel Authorized Strengths, and Infrastructure in Military Health System To Maintain Readiness and Core Competencies of Health Care Providers**
 
-Pub. L. 114–328, div. A, title VII, § 725, Dec. 23, 2016, 130 Stat. 2230, provided that:
+Pub. L. 114–328, div. A, title VII, § 725, Dec. 23, 2016, 130 Stat. 2230, provided that:
 
 > **“(a) In General.—** Except as provided by subsection (c), not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall implement measures to maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces.
 
@@ -6153,7 +6153,7 @@ Pub. L. 114–328, div. A, title VII, § 725, Dec. 23, 2016, 130 Stat. 2230, p
 
 **Requirement To Review and Monitor Prescribing Practices at Military Treatment Facilities of Pharmaceutical Agents for Treatment of Post-Traumatic Stress**
 
-Pub. L. 114–328, div. A, title VII, § 745, Dec. 23, 2016, 130 Stat. 2240, provided that:
+Pub. L. 114–328, div. A, title VII, § 745, Dec. 23, 2016, 130 Stat. 2240, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall—
 
@@ -6167,7 +6167,7 @@ Pub. L. 114–328, div. A, title VII, § 745, Dec. 23, 2016, 130 Stat. 2240, p
 
 **Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder**
 
-Pub. L. 113–66, div. A, title VII, § 704, Dec. 26, 2013, 127 Stat. 792, provided that:
+Pub. L. 113–66, div. A, title VII, § 704, Dec. 26, 2013, 127 Stat. 792, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Secretary of Defense shall carry out a pilot program under which the Secretary shall establish a process for randomized placebo-controlled clinical trials of investigational treatments (including diagnostic testing) of traumatic brain injury or post-traumatic stress disorder received by members of the Armed Forces in health care facilities other than military treatment facilities.
 
@@ -6189,7 +6189,7 @@ Pub. L. 113–66, div. A, title VII, § 704, Dec. 26, 2013, 127 Stat. 792, pro
 
 **Department of Defense Guidance on Environmental Exposures at Military Installations**
 
-Pub. L. 112–239, div. A, title III, § 313(a), Jan. 2, 2013, 126 Stat. 1692, provided that:
+Pub. L. 112–239, div. A, title III, § 313(a), Jan. 2, 2013, 126 Stat. 1692, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall issue guidance to the military departments and appropriate defense agencies regarding environmental exposures on military installations.
 
@@ -6205,7 +6205,7 @@ Pub. L. 112–239, div. A, title III, § 313(a), Jan. 2, 2013, 126 Stat. 1692,
 
 **Smoking Cessation Program Under TRICARE**
 
-Pub. L. 110–417, [div. A], title VII, § 713, Oct. 14, 2008, 122 Stat. 4503, as amended by Pub. L. 114–92, div. A, title VII, § 705, Nov. 25, 2015, 129 Stat. 863, provided that:
+Pub. L. 110–417, [div. A], title VII, § 713, Oct. 14, 2008, 122 Stat. 4503, as amended by Pub. L. 114–92, div. A, title VII, § 705, Nov. 25, 2015, 129 Stat. 863, provided that:
 
 > **“(a) TRICARE Smoking Cessation Program.—** Not later than 180 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of Defense shall establish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
 
@@ -6261,7 +6261,7 @@ Pub. L. 110–417, [div. A], title VII, § 713, Oct. 14, 2008, 122 Stat. 4503,
 
 **Longitudinal Study on Traumatic Brain Injury Incurred by Members of the Armed Forces in Operation Iraqi Freedom and Operation Enduring Freedom**
 
-Pub. L. 109–364, div. A, title VII, § 721, Oct. 17, 2006, 120 Stat. 2294, provided that:
+Pub. L. 109–364, div. A, title VII, § 721, Oct. 17, 2006, 120 Stat. 2294, provided that:
 
 > **“(a) Study Required.—** The Secretary of Defense shall conduct a longitudinal study on the effects of traumatic brain injury incurred by members of the Armed Forces serving in Operation Iraqi Freedom or Operation Enduring Freedom on the members who incur such an injury and their families.
 
@@ -6287,7 +6287,7 @@ Pub. L. 109–364, div. A, title VII, § 721, Oct. 17, 2006, 120 Stat. 2294, p
 
 **Standards and Tracking of Access to Health Care Services for Wounded, Injured, or Ill Servicemembers Returning to the United States From a Combat Zone**
 
-Pub. L. 109–364, div. A, title VII, § 733, Oct. 17, 2006, 120 Stat. 2298, provided that:
+Pub. L. 109–364, div. A, title VII, § 733, Oct. 17, 2006, 120 Stat. 2298, provided that:
 
 > **“(a) Report on Uniform Standards for Access.—** Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on uniform standards for the access of wounded, injured, or ill members of the Armed Forces to health care services in the United States following return from a combat zone.
 
@@ -6313,7 +6313,7 @@ Pub. L. 109–364, div. A, title VII, § 733, Oct. 17, 2006, 120 Stat. 2298, p
 
 **Training Curricula for Family Caregivers on Care and Assistance for Members and Former Members of the Armed Forces With Traumatic Brain Injury**
 
-Pub. L. 109–364, div. A, title VII, § 744, Oct. 17, 2006, 120 Stat. 2308, provided that:
+Pub. L. 109–364, div. A, title VII, § 744, Oct. 17, 2006, 120 Stat. 2308, provided that:
 
 > **“(a) Traumatic Brain Injury Family Caregiver Panel.—**
 
@@ -6377,19 +6377,19 @@ Pub. L. 109–364, div. A, title VII, § 744, Oct. 17, 2006, 120 Stat. 2308, p
 
 **Pilot Projects on Early Diagnosis and Treatment of Post Traumatic Stress Disorder and Other Mental Health Conditions**
 
-Pub. L. 109–364, div. A, title VII, § 741, Oct. 17, 2006, 120 Stat. 2304, required the Secretary of Defense to carry out not less than three pilot projects, to end by Sept. 30, 2008, to evaluate various approaches to improving the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and to report to Congress no later than Dec. 31, 2008.
+Pub. L. 109–364, div. A, title VII, § 741, Oct. 17, 2006, 120 Stat. 2304, required the Secretary of Defense to carry out not less than three pilot projects, to end by Sept. 30, 2008, to evaluate various approaches to improving the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and to report to Congress no later than Dec. 31, 2008.
 
-Pub. L. 109–163, div. A, title VII, § 722, Jan. 6, 2006, 119 Stat. 3347, authorized the Secretary of Defense to carry out pilot projects on improving the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and required a progress report to be submitted to Congress no later than Sept. 1, 2006.
+Pub. L. 109–163, div. A, title VII, § 722, Jan. 6, 2006, 119 Stat. 3347, authorized the Secretary of Defense to carry out pilot projects on improving the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and required a progress report to be submitted to Congress no later than Sept. 1, 2006.
 
 **Cooperative Outreach to Members and Former Members of the Naval Service Exposed to Environmental Factors Related to Sarcoidosis**
 
-Pub. L. 109–163, div. A, title VII, § 746, Jan. 6, 2006, 119 Stat. 3362, directed the Secretary of the Navy, within six months after Jan. 6, 2006, to begin an outreach program to contact as many members and former members of the naval service as possible who may have been exposed to aerosolized particles resulting from the removal of nonskid coating used on Navy ships and to report to Congress on the program results within one year after the beginning of the program.
+Pub. L. 109–163, div. A, title VII, § 746, Jan. 6, 2006, 119 Stat. 3362, directed the Secretary of the Navy, within six months after Jan. 6, 2006, to begin an outreach program to contact as many members and former members of the naval service as possible who may have been exposed to aerosolized particles resulting from the removal of nonskid coating used on Navy ships and to report to Congress on the program results within one year after the beginning of the program.
 
 **Medical Readiness Plan and Joint Medical Readiness Oversight Committee**
 
-Pub. L. 108–375, div. A, title VII, § 731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, § 1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, § 1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 108–375, div. A, title VII, § 731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237; Pub. L. 109–364, div. A, title X, § 1071(g)(8), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 112–81, div. A, title X, § 1062(f)(1), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
-> **“(a) Requirement for Plan.—** The Secretary of Defense shall develop a comprehensive plan to improve medical readiness, and Department of Defense tracking of the health status, of members of the Armed Forces throughout their service in the Armed Forces, and to strengthen medical readiness and tracking before, during, and after deployment of members of the Armed Forces overseas. The matters covered by the comprehensive plan shall include all elements that are described in this subtitle [subtitle D [§§ 731 to 740] of title VII of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title] and the amendments made by this subtitle and shall comply with requirements in law.
+> **“(a) Requirement for Plan.—** The Secretary of Defense shall develop a comprehensive plan to improve medical readiness, and Department of Defense tracking of the health status, of members of the Armed Forces throughout their service in the Armed Forces, and to strengthen medical readiness and tracking before, during, and after deployment of members of the Armed Forces overseas. The matters covered by the comprehensive plan shall include all elements that are described in this subtitle [subtitle D [§§ 731 to 740] of title VII of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title] and the amendments made by this subtitle and shall comply with requirements in law.
 
 > **“(b) Joint Medical Readiness Oversight Committee.—**
 
@@ -6457,7 +6457,7 @@ Pub. L. 108–375, div. A, title VII, § 731, Oct. 28, 2004, 118 Stat. 1993, a
 
 **Accountability for Medical Readiness of Individuals and Units of the Reserve Components**
 
-Pub. L. 108–375, div. A, title VII, § 732(b), Oct. 28, 2004, 118 Stat. 1997, provided that:
+Pub. L. 108–375, div. A, title VII, § 732(b), Oct. 28, 2004, 118 Stat. 1997, provided that:
 
 > **“(1) Policy.—** The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
 
@@ -6475,7 +6475,7 @@ Pub. L. 108–375, div. A, title VII, § 732(b), Oct. 28, 2004, 118 Stat. 1997
 
 **Uniform Policy on Deferral of Medical Treatment Pending Deployment to Theaters of Operations**
 
-Pub. L. 108–375, div. A, title VII, § 732(c), Oct. 28, 2004, 118 Stat. 1997, provided that:
+Pub. L. 108–375, div. A, title VII, § 732(c), Oct. 28, 2004, 118 Stat. 1997, provided that:
 
 > **“(1) Requirement for policy.—** The Secretary of Defense shall prescribe, for uniform applicability throughout the Armed Forces, a policy on deferral of medical treatment of members pending deployment.
 
@@ -6487,7 +6487,7 @@ Pub. L. 108–375, div. A, title VII, § 732(c), Oct. 28, 2004, 118 Stat. 1997
 
 **Medical Care and Tracking and Health Surveillance in the Theater of Operations**
 
-Pub. L. 108–375, div. A, title VII, § 734, Oct. 28, 2004, 118 Stat. 1998, provided that:
+Pub. L. 108–375, div. A, title VII, § 734, Oct. 28, 2004, 118 Stat. 1998, provided that:
 
 > **“(a) Recordkeeping Policy.—** The Secretary of Defense shall prescribe a policy that requires the records of all medical care provided to a member of the Armed Forces in a theater of operations to be maintained as part of a complete health record for the member.
 
@@ -6519,7 +6519,7 @@ Pub. L. 108–375, div. A, title VII, § 734, Oct. 28, 2004, 118 Stat. 1998, p
 
 **Declassification of Information on Exposures to Environmental Hazards**
 
-Pub. L. 108–375, div. A, title VII, § 735, Oct. 28, 2004, 118 Stat. 1999, provided that:
+Pub. L. 108–375, div. A, title VII, § 735, Oct. 28, 2004, 118 Stat. 1999, provided that:
 
 > **“(a) Requirement for Review.—** The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the Armed Forces who have been exposed to environmental hazards during deployments overseas, including the following data:
 
@@ -6533,7 +6533,7 @@ Pub. L. 108–375, div. A, title VII, § 735, Oct. 28, 2004, 118 Stat. 1999, p
 
 **Uniform Policy for Meeting Mobilization-Related Medical Care Needs at Military Installations**
 
-Pub. L. 108–375, div. A, title VII, § 737, Oct. 28, 2004, 118 Stat. 2000, provided that:
+Pub. L. 108–375, div. A, title VII, § 737, Oct. 28, 2004, 118 Stat. 2000, provided that:
 
 > **“(a) Health Care at Mobilization Installations.—** The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwise available to the Secretary, include the following with respect to any such installation:
 
@@ -6569,7 +6569,7 @@ Pub. L. 108–375, div. A, title VII, § 737, Oct. 28, 2004, 118 Stat. 2000, p
 
 **Full Implementation of Medical Readiness Tracking and Health Surveillance Program and Force Health Protection and Readiness Program**
 
-Pub. L. 108–375, div. A, title VII, § 738, Oct. 28, 2004, 118 Stat. 2001, provided that:
+Pub. L. 108–375, div. A, title VII, § 738, Oct. 28, 2004, 118 Stat. 2001, provided that:
 
 > **“(a) Implementation at All Levels.—** The Secretary of Defense, in conjunction with the Secretaries of the military departments, shall take such actions as are necessary to ensure that the Army, Navy, Air Force, and Marine Corps fully implement at all levels—
 
@@ -6581,7 +6581,7 @@ Pub. L. 108–375, div. A, title VII, § 738, Oct. 28, 2004, 118 Stat. 2001, p
 
 **Internet Accessibility of Health Assessment Information for Members of the Armed Forces**
 
-Pub. L. 108–375, div. A, title VII, § 739(b), Oct. 28, 2004, 118 Stat. 2002, provided that:
+Pub. L. 108–375, div. A, title VII, § 739(b), Oct. 28, 2004, 118 Stat. 2002, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Oct. 28, 2004], the Chief Information Officer of each military department shall ensure that the online portal website of that military department includes the following information relating to health assessments:
 
@@ -6607,19 +6607,19 @@ Pub. L. 108–375, div. A, title VII, § 739(b), Oct. 28, 2004, 118 Stat. 2002
 
 **Inclusion of Dental Care**
 
-Pub. L. 108–375, div. A, title VII, § 740, as added by Pub. L. 109–163, div. A, title VII, § 745(a), Jan. 6, 2006, 119 Stat. 3362, provided that: “For purposes of the plan, this subtitle [subtitle D (§§ 731–740) of title VII of div. A of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title], and the amendments made by this subtitle, references to medical readiness, health status, and health care shall be considered to include dental readiness, dental status, and dental care.”
+Pub. L. 108–375, div. A, title VII, § 740, as added by Pub. L. 109–163, div. A, title VII, § 745(a), Jan. 6, 2006, 119 Stat. 3362, provided that: “For purposes of the plan, this subtitle [subtitle D (§§ 731–740) of title VII of div. A of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title], and the amendments made by this subtitle, references to medical readiness, health status, and health care shall be considered to include dental readiness, dental status, and dental care.”
 
 **Limitation on Fiscal Year 2004 Outlays for Temporary Reserve Health Care Programs**
 
-Pub. L. 108–136, div. A, title VII, § 706, Nov. 24, 2003, 117 Stat. 1529, as amended by Pub. L. 110–181, div. A, title X, § 1063(g)(1), Jan. 28, 2008, 122 Stat. 323, limited fiscal year 2004 expenditures for the administration of the temporary Reserve health care programs to $400,000,000.
+Pub. L. 108–136, div. A, title VII, § 706, Nov. 24, 2003, 117 Stat. 1529, as amended by Pub. L. 110–181, div. A, title X, § 1063(g)(1), Jan. 28, 2008, 122 Stat. 323, limited fiscal year 2004 expenditures for the administration of the temporary Reserve health care programs to $400,000,000.
 
 **Disclosure of Information on Project 112 to Department of Veterans Affairs**
 
-Pub. L. 107–314, div. A, title VII, § 709, Dec. 2, 2002, 116 Stat. 2586, directed the Secretary of Defense to submit to Congress and the Secretary of Veterans Affairs a plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information on Project 112, a chemical and biological weapons vulnerability-testing program, relevant to the provision of benefits to members of the Armed Forces who participated in that project; provided that the plan was to be completed no later than one year after Dec. 2, 2002; and required implementation reports to Congress and the Secretary of Veterans Affairs.
+Pub. L. 107–314, div. A, title VII, § 709, Dec. 2, 2002, 116 Stat. 2586, directed the Secretary of Defense to submit to Congress and the Secretary of Veterans Affairs a plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information on Project 112, a chemical and biological weapons vulnerability-testing program, relevant to the provision of benefits to members of the Armed Forces who participated in that project; provided that the plan was to be completed no later than one year after Dec. 2, 2002; and required implementation reports to Congress and the Secretary of Veterans Affairs.
 
 **Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations**
 
-Pub. L. 106–65, div. A, title VII, § 706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
+Pub. L. 106–65, div. A, title VII, § 706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
 
 > **“(a) Authority.—** Health care may be furnished by a designated provider pursuant to any contract entered into by the designated provider under section 722(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 1073 note) to eligible members who reside within the service area of the designated provider.
 
@@ -6631,7 +6631,7 @@ Pub. L. 106–65, div. A, title VII, § 706, Oct. 5, 1999, 113 Stat. 684, as a
 
 **Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations; “TRICARE Program” and “TRICARE Prime Plan” Defined**
 
-Pub. L. 105–85, div. A, title VII, § 731(b)–(f), Nov. 18, 1997, 111 Stat. 1811, 1812, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(2), (b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, 1654A–186, provided that:
+Pub. L. 105–85, div. A, title VII, § 731(b)–(f), Nov. 18, 1997, 111 Stat. 1811, 1812, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 722(a)(2), (b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, 1654A–186, provided that:
 
 > **“(b) Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations.—**
 
@@ -6677,7 +6677,7 @@ Pub. L. 105–85, div. A, title VII, § 731(b)–(f), Nov. 18, 1997, 111 Stat.
 
 > **“(3)** The terms ‘uniformed services’ and ‘administering Secretaries’ have the meanings given those terms in section 1072 of title 10, United States Code.”
 
-[Pub. L. 106–398, § 1 [[div. A], title VII, § 722(c)(2), (3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that:
+[Pub. L. 106–398, § 1 [[div. A], title VII, § 722(c)(2), (3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that:
 
 [“(2) The amendments made by subsection (a)(2) [amending section 731(b)–(f) of Pub. L. 105–85, set out above], with respect to members of the uniformed services, and the amendments made by subsection (b)(2) [amending section 731(b)–(f) of Pub. L. 105–85, set out above], with respect to dependents of members, shall take effect on the date of the enactment of this Act [Oct. 30, 2000] and shall expire with respect to a member or the dependents of a member, respectively, on the later of the following:
 
@@ -6689,15 +6689,15 @@ Pub. L. 105–85, div. A, title VII, § 731(b)–(f), Nov. 18, 1997, 111 Stat.
 
 **Independent Research Regarding Gulf War Syndrome**
 
-Pub. L. 104–201, div. A, title VII, § 743, Sept. 23, 1996, 110 Stat. 2601, directed the Secretary of Defense to provide for scientific research by independent entities on possible causal relationships between Gulf War syndrome and possible exposures of military personnel to chemical warfare agents or other hazardous materials during Gulf War service and use of inoculations and investigational new drugs.
+Pub. L. 104–201, div. A, title VII, § 743, Sept. 23, 1996, 110 Stat. 2601, directed the Secretary of Defense to provide for scientific research by independent entities on possible causal relationships between Gulf War syndrome and possible exposures of military personnel to chemical warfare agents or other hazardous materials during Gulf War service and use of inoculations and investigational new drugs.
 
 **Persian Gulf Illness**
 
-Pub. L. 105–85, div. A, title VII, §§ 761, 762, 770, Nov. 18, 1997, 111 Stat. 1824, 1829, provided that:
+Pub. L. 105–85, div. A, title VII, §§ 761, 762, 770, Nov. 18, 1997, 111 Stat. 1824, 1829, provided that:
 
 > **“SEC. 761. DEFINITIONS.**
 
-> “For purposes of this subtitle [subtitle F (§§ 761–771) of title VII of Pub. L. 105–85, enacting sections 1074e, 1074f, and 1107 of this title and this note]:
+> “For purposes of this subtitle [subtitle F (§§ 761–771) of title VII of Pub. L. 105–85, enacting sections 1074e, 1074f, and 1107 of this title and this note]:
 
 > **“(1)** The term ‘Gulf War illness’ means any one of the complex of illnesses and symptoms that might have been contracted by members of the Armed Forces as a result of service in the Southwest Asia theater of operations during the Persian Gulf War.
 
@@ -6735,7 +6735,7 @@ Pub. L. 105–85, div. A, title VII, §§ 761, 762, 770, Nov. 18, 1997, 111 St
 
 > **“(c) Funding.—** Of the funds authorized to be appropriated in section 201(1) [111 Stat. 1655] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
 
-Pub. L. 103–337, div. A, title VII, §§ 721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, § 1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 103–337, div. A, title VII, §§ 721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, § 1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 > **“SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.**
 
@@ -6797,7 +6797,7 @@ Pub. L. 103–337, div. A, title VII, §§ 721, 722, Oct. 5, 1994, 108 Stat. 2
 
 > **“(g) Persian Gulf Illness Medical Referral Centers.—** The Secretary of Defense shall evaluate the feasibility of establishing one or more medical referral centers to provide uniform, coordinated medical care for Persian Gulf veterans on active duty who are or may be suffering from a Persian Gulf-related illness. The Secretary shall submit a report on such feasibility to the Committees on Armed Services of the Senate and House of Representatives not later than six months after the date of the enactment of this Act [Oct. 5, 1994].
 
-> **“[(h)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(e), Nov. 24, 2003, 117 Stat. 1604.]
+> **“[(h)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(e), Nov. 24, 2003, 117 Stat. 1604.]
 
 > **“(i) Persian Gulf Veteran.—** For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
 
@@ -6869,19 +6869,19 @@ Pub. L. 103–337, div. A, title VII, §§ 721, 722, Oct. 5, 1994, 108 Stat. 2
 
 **Funding of Fisher Houses Associated With Army Medical Treatment Facilities**
 
-Pub. L. 103–335, title VIII, § 8017, Sept. 30, 1994, 108 Stat. 2620, which provided that during fiscal year 1995 and thereafter, proceeds from investment of Fisher House Investment Trust Fund were to be used to support operation and maintenance of Fisher Houses associated with Army medical treatment facilities, was repealed and restated in section 2221(c)(1) of this title by Pub. L. 104–106, div. A, title IX, § 914(a)(1), (d)(4), Feb. 10, 1996, 110 Stat. 412, 413.
+Pub. L. 103–335, title VIII, § 8017, Sept. 30, 1994, 108 Stat. 2620, which provided that during fiscal year 1995 and thereafter, proceeds from investment of Fisher House Investment Trust Fund were to be used to support operation and maintenance of Fisher Houses associated with Army medical treatment facilities, was repealed and restated in section 2221(c)(1) of this title by Pub. L. 104–106, div. A, title IX, § 914(a)(1), (d)(4), Feb. 10, 1996, 110 Stat. 412, 413.
 
 **Mental Health Evaluations of Members of Armed Forces**
 
-Pub. L. 102–484, div. A, title V, § 546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, § 711(b), Dec. 31, 2011, 125 Stat. 1476.
+Pub. L. 102–484, div. A, title V, § 546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, § 711(b), Dec. 31, 2011, 125 Stat. 1476.
 
 **Study on Risk-Sharing Contracts for Health Care**
 
-Pub. L. 102–484, div. A, title VII, § 725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary’s determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
+Pub. L. 102–484, div. A, title VII, § 725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary’s determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
 
 **Registry of Members of Armed Forces Serving in Operation Desert Storm**
 
-Pub. L. 102–190, div. A, title VII, § 734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, § 704, Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, § 1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 102–190, div. A, title VII, § 734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, § 704, Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, § 1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 > **“(a) Establishment of Registry.—** The Secretary of Defense shall establish and maintain a special record (in this section referred to as the ‘Registry’) relating to the following members of the Armed Forces:
 
@@ -6903,7 +6903,7 @@ Pub. L. 102–190, div. A, title VII, § 734, Dec. 5, 1991, 105 Stat. 1411, as
 
 > **“(2)** The Secretary shall establish the Registry with the advice of an independent scientific organization.
 
-> **“[(c)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(c)(1), Nov. 24, 2003, 117 Stat. 1604.]
+> **“[(c)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(c)(1), Nov. 24, 2003, 117 Stat. 1604.]
 
 > **“(d) Medical Examination.—** Upon the request of any member listed in the Registry pursuant to subsection (a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
 
@@ -6919,17 +6919,17 @@ Pub. L. 102–190, div. A, title VII, § 734, Dec. 5, 1991, 105 Stat. 1411, as
 
 **Advisory Committee on Mental Health Evaluation Protections**
 
-Pub. L. 101–510, div. A, title V, § 554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, § 546(j)[(i)], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
+Pub. L. 101–510, div. A, title V, § 554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, § 546(j)[(i)], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
 
 **Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities**
 
-Pub. L. 101–189, div. A, title VII, § 721, Nov. 29, 1989, 103 Stat. 1477, provided that during fiscal years 1990 and 1991, the Secretary of Defense could not impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility. Similar provisions were contained in the following prior authorization act:
+Pub. L. 101–189, div. A, title VII, § 721, Nov. 29, 1989, 103 Stat. 1477, provided that during fiscal years 1990 and 1991, the Secretary of Defense could not impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility. Similar provisions were contained in the following prior authorization act:
 
-Pub. L. 100–180, div. A, title VII, § 722, Dec. 4, 1987, 101 Stat. 1116.
+Pub. L. 100–180, div. A, title VII, § 722, Dec. 4, 1987, 101 Stat. 1116.
 
 **Restriction on Use of Information Obtained During Certain Epidemiologic-Assessment Interviews**
 
-Pub. L. 99–661, div. A, title VII, § 705(c), Nov. 14, 1986, 100 Stat. 3904, provided that:
+Pub. L. 99–661, div. A, title VII, § 705(c), Nov. 14, 1986, 100 Stat. 3904, provided that:
 
 > **“(1)** Information obtained by the Department of Defense during or as a result of an epidemiologic-assessment interview with a serum-positive member of the Armed Forces may not be used to support any adverse personnel action against the member.
 
@@ -6959,7 +6959,7 @@ Pub. L. 99–661, div. A, title VII, § 705(c), Nov. 14, 1986, 100 Stat. 3904,
 
 **Study of Medical Needs of Armed Forces; Report to President and Congress**
 
-Pub. L. 92–129, title I, § 101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+Pub. L. 92–129, title I, § 101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
 
 **Executive Documents**
 
@@ -6969,9 +6969,9 @@ Authority of President under subsec. (b) to approve uniform rates of reimburseme
 
 **Executive Order No. 13075**
 
-Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents, was revoked by Ex. Ord. No. 13225, § 3(e), Sept. 28, 2001, 66 F.R. 50292.
+Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents, was revoked by Ex. Ord. No. 13225, § 3(e), Sept. 28, 2001, 66 F.R. 50292.
 
-## § 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days
+## § 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days
 
 **(a)** Under joint regulations prescribed by the administering Secretaries, the following persons are entitled to the benefits described in subsection (b):
 
@@ -7047,19 +7047,19 @@ Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special O
 
 **(i)** Amounts available for operation and maintenance of a reserve component of the armed forces may be available for purposes of this section to ensure the medical, dental, and behavioral health readiness of members of such reserve component.
 
-(Added Pub. L. 98–94, title X, § 1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, § 631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, § 19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, § 1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, § 604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§ 702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, § 513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, § 578(i)(1), title VII, § 705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, § 513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, § 1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, § 701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, [div. A], title VII, § 735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, § 703(a), Dec. 31, 2011, 125 Stat. 1471.)
+(Added Pub. L. 98–94, title X, § 1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, § 631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, § 19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, § 1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, § 604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§ 702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, § 513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, § 578(i)(1), title VII, § 705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, § 513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, § 1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, § 701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, [div. A], title VII, § 735(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 112–81, div. A, title VII, § 703(a), Dec. 31, 2011, 125 Stat. 1471.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (h). Pub. L. 112–81, § 703(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+2011—Subsec. (h). Pub. L. 112–81, § 703(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 112–81, § 703(a)(1), (3), redesignated subsec. (h) as (i) and substituted “medical, dental, and behavioral health readiness” for “medical and dental readiness”.
+Subsec. (i). Pub. L. 112–81, § 703(a)(1), (3), redesignated subsec. (h) as (i) and substituted “medical, dental, and behavioral health readiness” for “medical and dental readiness”.
 
-2008—Subsec. (d)(1). Pub. L. 110–417, § 735(a)(1), substituted “The Secretary concerned shall provide to members of the Selected Reserve” for “The Secretary of the Army shall provide to members of the Selected Reserve of the Army”.
+2008—Subsec. (d)(1). Pub. L. 110–417, § 735(a)(1), substituted “The Secretary concerned shall provide to members of the Selected Reserve” for “The Secretary of the Army shall provide to members of the Selected Reserve of the Army”.
 
-Subsecs. (g), (h). Pub. L. 110–417, § 735(a)(2), (3), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 110–417, § 735(a)(2), (3), added subsecs. (g) and (h).
 
 2003—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -7073,25 +7073,25 @@ Subsecs. (g), (h). Pub. L. 110–417, § 735(a)(2), (3), added subsecs. (g) an
 
 Pub. L. 108–106 added subsec. (f).
 
-2001—Subsec. (a)(3). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member’s residence” before period at end.
+2001—Subsec. (a)(3). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member’s residence” before period at end.
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–65, § 578(i)(1)(A), added subpar. (C).
+1999—Subsec. (a)(1)(C). Pub. L. 106–65, § 578(i)(1)(A), added subpar. (C).
 
-Subsec. (a)(2)(C). Pub. L. 106–65, § 578(i)(1)(A), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 106–65, § 578(i)(1)(A), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 106–65, § 578(i)(1)(B), added par. (4).
+Subsec. (a)(4). Pub. L. 106–65, § 578(i)(1)(B), added par. (4).
 
-Subsec. (e). Pub. L. 106–65, § 705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title.”
+Subsec. (e). Pub. L. 106–65, § 705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title.”
 
-1997—Subsec. (a)(3). Pub. L. 105–85, § 513(a)(1), inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in the line of duty”.
+1997—Subsec. (a)(3). Pub. L. 105–85, § 513(a)(1), inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in the line of duty”.
 
-Subsec. (e). Pub. L. 105–85, § 513(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 105–85, § 513(a)(2), added subsec. (e).
 
-1996—Subsec. (a)(3). Pub. L. 104–106, § 702(a), added par. (3).
+1996—Subsec. (a)(3). Pub. L. 104–106, § 702(a), added par. (3).
 
-Subsec. (c). Pub. L. 104–106, § 704(a)(1), substituted “subsection (b)” for “this section”.
+Subsec. (c). Pub. L. 104–106, § 704(a)(1), substituted “subsection (b)” for “this section”.
 
-Subsec. (d). Pub. L. 104–106, § 704(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 704(a)(2), added subsec. (d).
 
 1986—Pub. L. 99–661 amended section generally substituting “active duty for a period of more than 30 days” for “active duty; injuries, diseases and illnesses incident to duty” in section catchline and new text for prior text which read as follows:
 
@@ -7125,17 +7125,17 @@ Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, thereby including t
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VI, § 604(g), Nov. 14, 1986, 100 Stat. 3878, provided that: “The amendments made by this section [amending this section, sections 1076, 1086, 1204–1206, 1475, 1476, 1481, 3723, and 8723 of this title, and sections 204 and 206 of Title 37, Pay and Allowances of the Uniformed Services and repealing sections 3687, 3721, 3722, 6148, 8687, 8721, and 8722 of this title and sections 318–321 of Title 32, National Guard] shall apply with respect to persons who, after the date of enactment of this Act [Nov. 14, 1986], incur or aggravate an injury, illness, or disease or die.”
+Pub. L. 99–661, div. A, title VI, § 604(g), Nov. 14, 1986, 100 Stat. 3878, provided that: “The amendments made by this section [amending this section, sections 1076, 1086, 1204–1206, 1475, 1476, 1481, 3723, and 8723 of this title, and sections 204 and 206 of Title 37, Pay and Allowances of the Uniformed Services and repealing sections 3687, 3721, 3722, 6148, 8687, 8721, and 8722 of this title and sections 318–321 of Title 32, National Guard] shall apply with respect to persons who, after the date of enactment of this Act [Nov. 14, 1986], incur or aggravate an injury, illness, or disease or die.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 631(c), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this section [amending this section and section 6148 of this title] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
+Pub. L. 98–525, title VI, § 631(c), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this section [amending this section and section 6148 of this title] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
 
 **Effective Date**
 
-Pub. L. 98–94, title X, § 1012(c), Sept. 24, 1983, 97 Stat. 665, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title X, § 1012(c), Sept. 24, 1983, 97 Stat. 665, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act [Sept. 24, 1983].”
 
-## § 1074b. Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC
+## § 1074b. Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC
 
 **(a) Eligibility.—** Under joint regulations prescribed by the administering Secretaries, the following persons are, except as provided in subsection (c), entitled to the benefits described in subsection (b):
 
@@ -7157,21 +7157,21 @@ Pub. L. 98–94, title X, § 1012(c), Sept. 24, 1983, 97 Stat. 665, provided t
 
 **(c) Exception for Gross Negligence or Misconduct.—** A person is not entitled to benefits under subsection (b) for an injury, illness, or disease, or the aggravation of an injury, illness, or disease that is a result of the gross negligence or the misconduct of that person.
 
-(Added Pub. L. 108–375, div. A, title V, § 555(a)(1), Oct. 28, 2004, 118 Stat. 1913.)
+(Added Pub. L. 108–375, div. A, title V, § 555(a)(1), Oct. 28, 2004, 118 Stat. 1913.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1074b, added Pub. L. 102–190, div. A, title VI, § 640(a)(2), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(10), Feb. 10, 1996, 110 Stat. 499, which related to transitional medical and dental care for members on active duty in support of contingency operations, was repealed by Pub. L. 107–107, div. A, title VII, § 736(c)(1), (d), Dec. 28, 2001, 115 Stat. 1173, with provision that the section, as in effect before Dec. 28, 2001, was to continue to apply to a member of the Armed Forces who was released from active duty in support of a contingency operation before that date.
+A prior section 1074b, added Pub. L. 102–190, div. A, title VI, § 640(a)(2), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(10), Feb. 10, 1996, 110 Stat. 499, which related to transitional medical and dental care for members on active duty in support of contingency operations, was repealed by Pub. L. 107–107, div. A, title VII, § 736(c)(1), (d), Dec. 28, 2001, 115 Stat. 1173, with provision that the section, as in effect before Dec. 28, 2001, was to continue to apply to a member of the Armed Forces who was released from active duty in support of a contingency operation before that date.
 
 Another prior section 1074b was renumbered section 1074c of this title.
 
-## § 1074c. Medical care: authority to provide a wig
+## § 1074c. Medical care: authority to provide a wig
 
 A person entitled to medical care under this chapter who has alopecia resulting from the treatment of a malignant disease may be furnished a wig if the person has not previously been furnished one at the expense of the United States.
 
-(Added Pub. L. 98–525, title XIV, § 1401(e)(2)(A), Oct. 19, 1984, 98 Stat. 2616, § 1074b; renumbered § 1074c, Pub. L. 102–190, div. A, title VI, § 640(a)(1), Dec. 5, 1991, 105 Stat. 1385.)
+(Added Pub. L. 98–525, title XIV, § 1401(e)(2)(A), Oct. 19, 1984, 98 Stat. 2616, § 1074b; renumbered § 1074c, Pub. L. 102–190, div. A, title VI, § 640(a)(1), Dec. 5, 1991, 105 Stat. 1385.)
 
 **Editorial Notes**
 
@@ -7179,15 +7179,15 @@ A person entitled to medical care under this chapter who has alopecia resulting 
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8033], Oct. 12, 1984, 98 Stat. 1904, 1929.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8033], Oct. 12, 1984, 98 Stat. 1904, 1929.
 
-Pub. L. 98–212, title VII, § 739, Dec. 8, 1983, 97 Stat. 1445.
+Pub. L. 98–212, title VII, § 739, Dec. 8, 1983, 97 Stat. 1445.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 742], Dec. 21, 1982, 96 Stat. 1833, 1858.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 742], Dec. 21, 1982, 96 Stat. 1833, 1858.
 
-Pub. L. 97–114, title VII, § 743, Dec. 29, 1981, 95 Stat. 1586.
+Pub. L. 97–114, title VII, § 743, Dec. 29, 1981, 95 Stat. 1586.
 
-Pub. L. 96–527, title VII, § 744, Dec. 15, 1980, 94 Stat. 3089.
+Pub. L. 96–527, title VII, § 744, Dec. 15, 1980, 94 Stat. 3089.
 
 **Amendments**
 
@@ -7199,7 +7199,7 @@ Pub. L. 96–527, title VII, § 744, Dec. 15, 1980, 94 Stat. 3089.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 1074d. Certain primary and preventive health care services
+## § 1074d. Certain primary and preventive health care services
 
 **(a) Services Available.—**
 
@@ -7225,31 +7225,31 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(8)** Colon cancer screening, at the intervals and using the screening methods prescribed under subsection (a)(2).
 
-(Added Pub. L. 103–160, div. A, title VII, § 701(a)(1), Nov. 30, 1993, 107 Stat. 1685; amended Pub. L. 104–201, div. A, title VII, § 701(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 109–364, div. A, title VII, § 703(a), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 116–283, div. A, title VII, § 701, Jan. 1, 2021, 134 Stat. 3686.)
+(Added Pub. L. 103–160, div. A, title VII, § 701(a)(1), Nov. 30, 1993, 107 Stat. 1685; amended Pub. L. 104–201, div. A, title VII, § 701(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 109–364, div. A, title VII, § 703(a), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 116–283, div. A, title VII, § 701, Jan. 1, 2021, 134 Stat. 3686.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(2). Pub. L. 116–283 inserted “, including through the use of digital breast tomosynthesis” before period at end.
+2021—Subsec. (b)(2). Pub. L. 116–283 inserted “, including through the use of digital breast tomosynthesis” before period at end.
 
-2006—Subsec. (a)(1). Pub. L. 109–364, § 703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
+2006—Subsec. (a)(1). Pub. L. 109–364, § 703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
 
-Subsec. (b)(1). Pub. L. 109–364, § 703(a)(2)(A), substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
+Subsec. (b)(1). Pub. L. 109–364, § 703(a)(2)(A), substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
 
-Subsec. (b)(2). Pub. L. 109–364, § 703(a)(2)(B), substituted “Breast cancer screening” for “Breast examinations and mammography”.
+Subsec. (b)(2). Pub. L. 109–364, § 703(a)(2)(B), substituted “Breast cancer screening” for “Breast examinations and mammography”.
 
-1996—Pub. L. 104–201, § 701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
+1996—Pub. L. 104–201, § 701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
 
-Subsec. (a). Pub. L. 104–201, § 701(a)(1)(A), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 104–201, § 701(a)(1)(A), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(8). Pub. L. 104–201, § 701(a)(1)(B), added par. (8).
+Subsec. (b)(8). Pub. L. 104–201, § 701(a)(1)(B), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Demonstration Program on Cryopreservation and Storage of Gametes of Certain Members of the Armed Forces**
 
-Pub. L. 118–159, div. A, title VII, § 709, Dec. 23, 2024, 138 Stat. 1945, provided that:
+Pub. L. 118–159, div. A, title VII, § 709, Dec. 23, 2024, 138 Stat. 1945, provided that:
 
 > **“(a) Demonstration Program.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall carry out a demonstration program to reimburse covered members for expenses incurred in the retrieval, testing, cryopreservation, shipping, and storage of gametes of such covered members in a private storage facility determined appropriate by the Secretary.
 
@@ -7325,7 +7325,7 @@ Pub. L. 118–159, div. A, title VII, § 709, Dec. 23, 2024, 138 Stat. 1945, p
 
 **Expedited Evaluation and Treatment for Prenatal Surgery Under the TRICARE Program**
 
-Pub. L. 115–91, div. A, title VII, § 708, Dec. 12, 2017, 131 Stat. 1436, provided that:
+Pub. L. 115–91, div. A, title VII, § 708, Dec. 12, 2017, 131 Stat. 1436, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall implement processes and procedures to ensure that a covered beneficiary under the TRICARE program whose pregnancy is complicated with (or suspected of complication with) a fetal condition may elect to receive expedited evaluation, nondirective counseling, and medical treatment from a perinatal or pediatric specialist capable of providing surgical management and intervention in utero.
 
@@ -7333,7 +7333,7 @@ Pub. L. 115–91, div. A, title VII, § 708, Dec. 12, 2017, 131 Stat. 1436, pr
 
 **Comprehensive Standards and Access to Contraception Counseling for Members of the Armed Forces**
 
-Pub. L. 114–92, div. A, title VII, § 718, Nov. 25, 2015, 129 Stat. 868, provided that:
+Pub. L. 114–92, div. A, title VII, § 718, Nov. 25, 2015, 129 Stat. 868, provided that:
 
 > **“(a) Clinical Practice Guidelines.—**
 
@@ -7359,15 +7359,15 @@ Pub. L. 114–92, div. A, title VII, § 718, Nov. 25, 2015, 129 Stat. 868, pro
 
 **Defense Women’s Health Research Program**
 
-Pub. L. 103–337, div. A, title II, § 241, Oct. 5, 1994, 108 Stat. 2701, provided for the continuance of the Defense Women’s Health Research Program established pursuant to the authority in section 251 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1606, formerly set out below) and appropriated funds to the program for fiscal year 1995.
+Pub. L. 103–337, div. A, title II, § 241, Oct. 5, 1994, 108 Stat. 2701, provided for the continuance of the Defense Women’s Health Research Program established pursuant to the authority in section 251 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1606, formerly set out below) and appropriated funds to the program for fiscal year 1995.
 
-Pub. L. 103–160, div. A, title II, § 251, Nov. 30, 1993, 107 Stat. 1606, authorized the Secretary of Defense to establish a Defense Women’s Health Research Center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women’s health issues related to service in the Armed Forces and required the Secretary to report to Congress on the decision to establish the Center no later than May 1, 1994.
+Pub. L. 103–160, div. A, title II, § 251, Nov. 30, 1993, 107 Stat. 1606, authorized the Secretary of Defense to establish a Defense Women’s Health Research Center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women’s health issues related to service in the Armed Forces and required the Secretary to report to Congress on the decision to establish the Center no later than May 1, 1994.
 
 **Report on Provision of Primary and Preventative Health Care Services for Women**
 
-Pub. L. 103–160, div. A, title VII, § 735, Nov. 30, 1993, 107 Stat. 1698, directed the Secretary of Defense to prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Services to female members of the uniformed services and female covered beneficiaries eligible for health care under this chapter, and directed the Secretary, as part of such report, to conduct a study to determine the health care needs of female members and female covered beneficiaries, and to submit such report to Congress not later than Oct. 1, 1994, and a revised report not later than Oct. 1, 1999.
+Pub. L. 103–160, div. A, title VII, § 735, Nov. 30, 1993, 107 Stat. 1698, directed the Secretary of Defense to prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Services to female members of the uniformed services and female covered beneficiaries eligible for health care under this chapter, and directed the Secretary, as part of such report, to conduct a study to determine the health care needs of female members and female covered beneficiaries, and to submit such report to Congress not later than Oct. 1, 1994, and a revised report not later than Oct. 1, 1999.
 
-## § 1074e. Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict
+## § 1074e. Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict
 
 **(a) Entitlement to Medical Care.—** A member of the armed forces described in subsection (b) is entitled to medical care for a qualifying Persian Gulf symptom or illness to the same extent and under the same conditions (other than the requirement that the member be on active duty) as a member of a uniformed service who is entitled to such care under section 1074(a) of this title.
 
@@ -7389,7 +7389,7 @@ Pub. L. 103–160, div. A, title VII, § 735, Nov. 30, 1993, 107 Stat. 1698, d
 
 **(B)** that the member registered before September 1, 1997, in the Persian Gulf War Veterans Health Registry maintained by the Department of Veterans Affairs pursuant to section 702 of the Persian Gulf War Veterans’ Health Status Act (38 U.S.C. 527 note).
 
-(Added Pub. L. 105–85, div. A, title VII, § 764(a), Nov. 18, 1997, 111 Stat. 1825.)
+(Added Pub. L. 105–85, div. A, title VII, § 764(a), Nov. 18, 1997, 111 Stat. 1825.)
 
 **Editorial Notes**
 
@@ -7399,7 +7399,7 @@ Section 721(d) of the National Defense Authorization Act for Fiscal Year 1995, r
 
 Section 702 of the Persian Gulf War Veterans’ Health Status Act, referred to in subsec. (c)(2)(B), is section 702 of Pub. L. 102–585, which is set out as a note under section 527 of Title 38, Veterans’ Benefits.
 
-## § 1074f. Medical tracking system for members deployed overseas
+## § 1074f. Medical tracking system for members deployed overseas
 
 **(a) System Required.—** The Secretary of Defense shall establish a system to assess the medical condition of members of the armed forces (including members of the reserve components) who are deployed outside the United States or its territories or possessions as part of a contingency operation (including a humanitarian operation, peacekeeping operation, or similar operation) or combat operation.
 
@@ -7491,57 +7491,57 @@ Section 702 of the Persian Gulf War Veterans’ Health Status Act, referred to i
 
 **(2)** The Secretary, to the extent practicable, shall ensure that the medical record of a member includes information on the external cause relating to a diagnosis of the member, including by associating an external cause code (as issued under the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (or any successor revision)).
 
-(Added Pub. L. 105–85, div. A, title VII, § 765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, § 738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, § 1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, § 1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, § 712, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 116–92, div. A, title VII, §§ 704(c), 705(a), (b), Dec. 20, 2019, 133 Stat. 1438–1440.)
+(Added Pub. L. 105–85, div. A, title VII, § 765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, § 738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, § 1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, § 1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, § 712, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 116–92, div. A, title VII, §§ 704(c), 705(a), (b), Dec. 20, 2019, 133 Stat. 1438–1440.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (b)(1)(A)(iv). Pub. L. 116–92, § 705(a)(1), added cl. (iv).
+2019—Subsec. (b)(1)(A)(iv). Pub. L. 116–92, § 705(a)(1), added cl. (iv).
 
-Subsec. (b)(2)(D). Pub. L. 116–92, § 704(c), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 116–92, § 704(c), added subpar. (D).
 
-Subsec. (c). Pub. L. 116–92, § 705(a)(2), inserted “(including the results of any assessment performed by the Secretary of occupational and environmental health risks for such area)” after “deployment area”.
+Subsec. (c). Pub. L. 116–92, § 705(a)(2), inserted “(including the results of any assessment performed by the Secretary of occupational and environmental health risks for such area)” after “deployment area”.
 
-Subsec. (g). Pub. L. 116–92, § 705(b), added subsec. (g).
+Subsec. (g). Pub. L. 116–92, § 705(b), added subsec. (g).
 
-2011—Subsec. (b)(1). Pub. L. 111–383, § 712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).”
+2011—Subsec. (b)(1). Pub. L. 111–383, § 712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).”
 
-Subsec. (b)(2). Pub. L. 111–383, § 712(b), substituted “medical examination, postdeployment medical examination, and postdeployment health reassessment” for “and postdeployment medical examination” in introductory provisions.
+Subsec. (b)(2). Pub. L. 111–383, § 712(b), substituted “medical examination, postdeployment medical examination, and postdeployment health reassessment” for “and postdeployment medical examination” in introductory provisions.
 
-Subsec. (c). Pub. L. 111–383, § 712(c), inserted “and reassessments” after “medical examinations” and “and the prescription and administration of psychotropic medications” after “including immunizations”.
+Subsec. (c). Pub. L. 111–383, § 712(c), inserted “and reassessments” after “medical examinations” and “and the prescription and administration of psychotropic medications” after “including immunizations”.
 
-Subsec. (d)(1). Pub. L. 111–383, § 712(d)(1), substituted “, postdeployment medical examinations, and postdeployment health reassessments” for “and postdeployment medical examinations”.
+Subsec. (d)(1). Pub. L. 111–383, § 712(d)(1), substituted “, postdeployment medical examinations, and postdeployment health reassessments” for “and postdeployment medical examinations”.
 
-Subsec. (d)(2)(A). Pub. L. 111–383, § 712(d)(2)(A), inserted “and reassessments” after “postdeployment health assessments”.
+Subsec. (d)(2)(A). Pub. L. 111–383, § 712(d)(2)(A), inserted “and reassessments” after “postdeployment health assessments”.
 
-Subsec. (d)(2)(B). Pub. L. 111–383, § 712(d)(2)(B), inserted “and reassessments” after “such assessments”.
+Subsec. (d)(2)(B). Pub. L. 111–383, § 712(d)(2)(B), inserted “and reassessments” after “such assessments”.
 
 2009—Subsec. (f)(3). Pub. L. 111–84 substituted “contingency” for “continency”.
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–181, § 1673(a)(1)(A), added subpar. (C).
+2008—Subsec. (b)(2)(C). Pub. L. 110–181, § 1673(a)(1)(A), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 110–181, § 1673(a)(1)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 110–181, § 1673(a)(1)(B), added par. (3).
 
-Subsec. (d)(2)(F). Pub. L. 110–181, § 1673(b), added subpar. (F).
+Subsec. (d)(2)(F). Pub. L. 110–181, § 1673(b), added subpar. (F).
 
-Subsec. (f). Pub. L. 110–181, § 1673(c)(1), struck out “Mental Health” after “Minimum” in heading.
+Subsec. (f). Pub. L. 110–181, § 1673(c)(1), struck out “Mental Health” after “Minimum” in heading.
 
-Subsec. (f)(2)(B). Pub. L. 110–181, § 1673(c)(2), substituted “, traumatic brain injury, or” for “or”.
+Subsec. (f)(2)(B). Pub. L. 110–181, § 1673(c)(2), substituted “, traumatic brain injury, or” for “or”.
 
-2006—Subsec. (b). Pub. L. 109–364, § 738(a), designated existing provisions as par. (1) and added par. (2).
+2006—Subsec. (b). Pub. L. 109–364, § 738(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 109–364, § 738(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 109–364, § 738(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 109–364, § 738(b), added subsec. (e).
+Subsec. (e). Pub. L. 109–364, § 738(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 109–364, § 738(c), added subsec. (f).
+Subsec. (f). Pub. L. 109–364, § 738(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Inclusion of Information on Exposure to Open Burn Pits in Postdeployment Health Reassessments**
 
-Pub. L. 116–283, div. A, title VII, § 721, Jan. 1, 2021, 134 Stat. 3698, provided that:
+Pub. L. 116–283, div. A, title VII, § 721, Jan. 1, 2021, 134 Stat. 3698, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall include in postdeployment health reassessments conducted under section 1074f of title 10, United States Code, pursuant to a Department of Defense Form 2796, or successor form, an explicit question regarding exposure of members of the Armed Forces to open burn pits.
 
@@ -7551,7 +7551,7 @@ Pub. L. 116–283, div. A, title VII, § 721, Jan. 1, 2021, 134 Stat. 3698, pr
 
 **Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Periodic Health Assessments and Other Physical Examinations**
 
-Pub. L. 116–92, div. A, title VII, § 704, Dec. 20, 2019, 133 Stat. 1438, provided that:
+Pub. L. 116–92, div. A, title VII, § 704, Dec. 20, 2019, 133 Stat. 1438, provided that:
 
 > **“(a) Periodic Health Assessment.—** The Secretary of Defense shall ensure that any periodic health assessment provided to members of the Armed Forces includes an evaluation of whether the member has been—
 
@@ -7591,7 +7591,7 @@ Pub. L. 116–92, div. A, title VII, § 704, Dec. 20, 2019, 133 Stat. 1438, pr
 
 **Sharing Between Department of Defense and Department of Veterans Affairs of Records and Information Retained Under the Medical Tracking System for Members of the Armed Forces Deployed Overseas**
 
-Pub. L. 112–239, div. A, title VII, § 723, Jan. 2, 2013, 126 Stat. 1805, provided that:
+Pub. L. 112–239, div. A, title VII, § 723, Jan. 2, 2013, 126 Stat. 1805, provided that:
 
 > **“(a) In General.—** The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for the sharing by the Department of Defense with the Department of Veterans Affairs of the results of examinations and other records on members of the Armed Forces that are retained and maintained with respect to the medical tracking system for members deployed overseas under section 1074f(c) of title 10, United States Code.
 
@@ -7599,7 +7599,7 @@ Pub. L. 112–239, div. A, title VII, § 723, Jan. 2, 2013, 126 Stat. 1805, pr
 
 **Comprehensive Policy on Consistent Neurological Cognitive Assessments of Members of the Armed Forces Before and After Deployment**
 
-Pub. L. 111–383, div. A, title VII, § 722, Jan. 7, 2011, 124 Stat. 4251, provided that:
+Pub. L. 111–383, div. A, title VII, § 722, Jan. 7, 2011, 124 Stat. 4251, provided that:
 
 > **“(a) Comprehensive Policy Required.—** Not later than January 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on consistent neurological cognitive assessments of members of the Armed Forces before and after deployment.
 
@@ -7607,11 +7607,11 @@ Pub. L. 111–383, div. A, title VII, § 722, Jan. 7, 2011, 124 Stat. 4251, pr
 
 **Mental Health Assessments for Members of the Armed Forces Deployed in Connection With a Contingency Operation**
 
-Pub. L. 111–84, div. A, title VII, § 708, Oct. 28, 2009, 123 Stat. 2376, which required the Secretary of Defense to issue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by Pub. L. 112–81, div. A, title VII, § 702(b), Dec. 31, 2011, 125 Stat. 1471.
+Pub. L. 111–84, div. A, title VII, § 708, Oct. 28, 2009, 123 Stat. 2376, which required the Secretary of Defense to issue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by Pub. L. 112–81, div. A, title VII, § 702(b), Dec. 31, 2011, 125 Stat. 1471.
 
 **Administration and Prescription of Psychotropic Medications for Members of the Armed Forces Before and During Deployment**
 
-Pub. L. 111–84, div. A, title VII, § 712, Oct. 28, 2009, 123 Stat. 2379, provided that:
+Pub. L. 111–84, div. A, title VII, § 712, Oct. 28, 2009, 123 Stat. 2379, provided that:
 
 > **“(a) Report Required.—** Not later than October 1, 2010, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the implementation of policy guidance dated November 7, 2006, regarding deployment-limiting psychiatric conditions and medications.
 
@@ -7627,15 +7627,15 @@ Pub. L. 111–84, div. A, title VII, § 712, Oct. 28, 2009, 123 Stat. 2379, pr
 
 **Pilot Projects**
 
-Pub. L. 110–181, div. A, title XVI, § 1673(a)(2), Jan. 28, 2008, 122 Stat. 482, directed the Secretary of Defense to conduct three pilot projects to evaluate mechanisms for use in developing the traumatic brain injury assessment protocol required by section 1074f(b)(3) of this title and, upon the completion of the projects, required a report to Congress within 60 days and implementation of the selected mechanism within 180 days.
+Pub. L. 110–181, div. A, title XVI, § 1673(a)(2), Jan. 28, 2008, 122 Stat. 482, directed the Secretary of Defense to conduct three pilot projects to evaluate mechanisms for use in developing the traumatic brain injury assessment protocol required by section 1074f(b)(3) of this title and, upon the completion of the projects, required a report to Congress within 60 days and implementation of the selected mechanism within 180 days.
 
 **Implementation**
 
-Pub. L. 109–364, div. A, title VII, § 738(f), Oct. 17, 2006, 120 Stat. 2304, provided that: “The Secretary of Defense shall implement the requirements of the amendments made by this section [amending this section] not later than six months after the date of the enactment of this Act [Oct. 17, 2006].”
+Pub. L. 109–364, div. A, title VII, § 738(f), Oct. 17, 2006, 120 Stat. 2304, provided that: “The Secretary of Defense shall implement the requirements of the amendments made by this section [amending this section] not later than six months after the date of the enactment of this Act [Oct. 17, 2006].”
 
 **Interim Standards for Blood Sampling**
 
-Pub. L. 108–375, div. A, title VII, § 733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
+Pub. L. 108–375, div. A, title VII, § 733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
 
 > **“(1) Time requirements.—** Subject to paragraph (2), the Secretary of Defense shall require that—
 
@@ -7645,7 +7645,7 @@ Pub. L. 108–375, div. A, title VII, § 733(b), Oct. 28, 2004, 118 Stat. 1998
 
 > **“(2) Contingent applicability.—** The standards under paragraph (1) shall apply unless the Joint Medical Readiness Oversight Committee established by section 731(b) [10 U.S.C. 1074 note] recommends, and the Secretary approves, different standards for blood sampling.”
 
-## § 1074g. Pharmacy benefits program
+## § 1074g. Pharmacy benefits program
 
 **(a) Pharmacy Benefits.—**
 
@@ -7808,7 +7808,7 @@ Pub. L. 108–375, div. A, title VII, § 733(b), Oct. 28, 2004, 118 Stat. 1998
 
 **(j) Regulations.—** The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, § 701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, § 1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, § 725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, § 714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, § 703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, § 1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§ 702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, § 702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§ 702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§ 702(a), (b)(1), 714, title X, § 1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, § 715(a), Aug. 13, 2018, 132 Stat. 1813; Pub. L. 116–92, div. A, title VII, § 713(a), (b), Dec. 20, 2019, 133 Stat. 1446; Pub. L. 118–159, div. A, title VII, §§ 702, 707(a), Dec. 23, 2024, 138 Stat. 1942, 1944.)
+(Added Pub. L. 106–65, div. A, title VII, § 701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, § 1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, § 725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, § 714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, § 703(a), Jan. 28, 2008, 122 Stat. 188; Pub. L. 111–84, div. A, title X, § 1073(a)(10), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §§ 702, 712(a), Jan. 2, 2013, 126 Stat. 1798, 1802; Pub. L. 113–291, div. A, title VII, § 702(a)–(c)(1), Dec. 19, 2014, 128 Stat. 3410; Pub. L. 114–92, div. A, title VII, §§ 702, 715(f), Nov. 25, 2015, 129 Stat. 860, 867; Pub. L. 115–91, div. A, title VII, §§ 702(a), (b)(1), 714, title X, § 1081(a)(24), Dec. 12, 2017, 131 Stat. 1433, 1434, 1438, 1595; Pub. L. 115–232, div. A, title VII, § 715(a), Aug. 13, 2018, 132 Stat. 1813; Pub. L. 116–92, div. A, title VII, § 713(a), (b), Dec. 20, 2019, 133 Stat. 1446; Pub. L. 118–159, div. A, title VII, §§ 702, 707(a), Dec. 23, 2024, 138 Stat. 1942, 1944.)
 
 **Editorial Notes**
 
@@ -7818,105 +7818,105 @@ Section 715 of the National Defense Authorization Act for Fiscal Year 2016, refe
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(C), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
-2024—Subsec. (a)(6)(D). Pub. L. 118–159, § 702, added subpar. (D).
+2024—Subsec. (a)(6)(D). Pub. L. 118–159, § 702, added subpar. (D).
 
-Subsec. (a)(6)(E). Pub. L. 118–159, § 707(a), added subpar. (E).
+Subsec. (a)(6)(E). Pub. L. 118–159, § 707(a), added subpar. (E).
 
-2019—Subsec. (b)(1). Pub. L. 116–92, § 713(b), substituted “under subsection (j)” for “under subsection (h)”.
+2019—Subsec. (b)(1). Pub. L. 116–92, § 713(b), substituted “under subsection (j)” for “under subsection (h)”.
 
-Subsecs. (h) to (j). Pub. L. 116–92, § 713(a), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (h) to (j). Pub. L. 116–92, § 713(a), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 2018—Subsecs. (g) to (i). Pub. L. 115–232 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-2017—Subsec. (a)(6). Pub. L. 115–91, § 702(a), amended par. (6) generally, substituting provisions relating to cost-sharing amounts for the years 2018 through 2027 and for any year after 2027 for provisions relating to cost-sharing amounts, limitation on requirements for medicare-eligible beneficiaries, and increases beginning on Oct. 1, 2016.
+2017—Subsec. (a)(6). Pub. L. 115–91, § 702(a), amended par. (6) generally, substituting provisions relating to cost-sharing amounts for the years 2018 through 2027 and for any year after 2027 for provisions relating to cost-sharing amounts, limitation on requirements for medicare-eligible beneficiaries, and increases beginning on Oct. 1, 2016.
 
-Subsec. (a)(9)(B), (C). Pub. L. 115–91, § 1081(a)(24), realigned margins.
+Subsec. (a)(9)(B), (C). Pub. L. 115–91, § 1081(a)(24), realigned margins.
 
-Subsec. (a)(10). Pub. L. 115–91, § 702(b)(1), added par. (10).
+Subsec. (a)(10). Pub. L. 115–91, § 702(b)(1), added par. (10).
 
-Subsec. (d)(3). Pub. L. 115–91, § 714, added par. (3).
+Subsec. (d)(3). Pub. L. 115–91, § 714, added par. (3).
 
-2015—Subsec. (a)(2)(A). Pub. L. 114–92, § 715(f), inserted at end “With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.”
+2015—Subsec. (a)(2)(A). Pub. L. 114–92, § 715(f), inserted at end “With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.”
 
-Subsec. (a)(6)(A)(i)(I). Pub. L. 114–92, § 702(a)(1)(A), substituted “$10” for “$8”.
+Subsec. (a)(6)(A)(i)(I). Pub. L. 114–92, § 702(a)(1)(A), substituted “$10” for “$8”.
 
-Subsec. (a)(6)(A)(i)(II). Pub. L. 114–92, § 702(a)(1)(B), substituted “$24” for “$20”.
+Subsec. (a)(6)(A)(i)(II). Pub. L. 114–92, § 702(a)(1)(B), substituted “$24” for “$20”.
 
-Subsec. (a)(6)(A)(ii)(II). Pub. L. 114–92, § 702(a)(2)(A), substituted “$20” for “$16”.
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 114–92, § 702(a)(2)(A), substituted “$20” for “$16”.
 
-Subsec. (a)(6)(A)(ii)(III). Pub. L. 114–92, § 702(a)(2)(B), substituted “$49” for “$46”.
+Subsec. (a)(6)(A)(ii)(III). Pub. L. 114–92, § 702(a)(2)(B), substituted “$49” for “$46”.
 
-Subsec. (a)(6)(C)(i). Pub. L. 114–92, § 702(b)(1), substituted “Beginning October 1, 2016,” for “Beginning October 1, 2013,”.
+Subsec. (a)(6)(C)(i). Pub. L. 114–92, § 702(b)(1), substituted “Beginning October 1, 2016,” for “Beginning October 1, 2013,”.
 
-Subsec. (a)(6)(C)(ii). Pub. L. 114–92, § 702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.”
+Subsec. (a)(6)(C)(ii). Pub. L. 114–92, § 702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.”
 
-2014—Subsec. (a)(5). Pub. L. 113–291, § 702(a), substituted “the national mail-order pharmacy program” for “at least one of the means described in paragraph (2)(E)” and “shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).” for “may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.”
+2014—Subsec. (a)(5). Pub. L. 113–291, § 702(a), substituted “the national mail-order pharmacy program” for “at least one of the means described in paragraph (2)(E)” and “shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).” for “may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.”
 
-Subsec. (a)(6)(A)(i)(I). Pub. L. 113–291, § 702(b)(1)(A), substituted “$8” for “$5”.
+Subsec. (a)(6)(A)(i)(I). Pub. L. 113–291, § 702(b)(1)(A), substituted “$8” for “$5”.
 
-Subsec. (a)(6)(A)(i)(II). Pub. L. 113–291, § 702(b)(1)(B), substituted “$20.” for “$17; and”.
+Subsec. (a)(6)(A)(i)(II). Pub. L. 113–291, § 702(b)(1)(B), substituted “$20.” for “$17; and”.
 
-Subsec. (a)(6)(A)(i)(III). Pub. L. 113–291, § 702(b)(1)(C), struck out subcl. (III) which read as follows: “in the case of nonformulary agents, $44.”
+Subsec. (a)(6)(A)(i)(III). Pub. L. 113–291, § 702(b)(1)(C), struck out subcl. (III) which read as follows: “in the case of nonformulary agents, $44.”
 
-Subsec. (a)(6)(A)(ii)(II). Pub. L. 113–291, § 702(b)(2)(A), substituted “$16” for “$13”.
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 113–291, § 702(b)(2)(A), substituted “$16” for “$13”.
 
-Subsec. (a)(6)(A)(ii)(III). Pub. L. 113–291, § 702(b)(2)(B), substituted “$46” for “$43”.
+Subsec. (a)(6)(A)(ii)(III). Pub. L. 113–291, § 702(b)(2)(B), substituted “$46” for “$43”.
 
-Subsec. (a)(9). Pub. L. 113–291, § 702(c)(1), which directed amendment of such section by adding par. (9) at the end, was executed by adding par. (9) at the end of subsec. (a), to reflect the probable intent of Congress.
+Subsec. (a)(9). Pub. L. 113–291, § 702(c)(1), which directed amendment of such section by adding par. (9) at the end, was executed by adding par. (9) at the end of subsec. (a), to reflect the probable intent of Congress.
 
-2013—Subsec. (a)(2)(D). Pub. L. 112–239, § 702(a)(1), (c)(2)(A), substituted “Except as provided in subparagraph (F), no pharmaceutical agent may be excluded” for “No pharmaceutical agent may be excluded” and struck out at end “The Secretary shall begin to implement the uniform formulary not later than October 1, 2000.”.
+2013—Subsec. (a)(2)(D). Pub. L. 112–239, § 702(a)(1), (c)(2)(A), substituted “Except as provided in subparagraph (F), no pharmaceutical agent may be excluded” for “No pharmaceutical agent may be excluded” and struck out at end “The Secretary shall begin to implement the uniform formulary not later than October 1, 2000.”.
 
-Subsec. (a)(2)(F). Pub. L. 112–239, § 702(a)(2), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 112–239, § 702(a)(2), added subpar. (F).
 
-Subsec. (a)(6)(A). Pub. L. 112–239, § 712(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.”
+Subsec. (a)(6)(A). Pub. L. 112–239, § 712(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.”
 
-Subsec. (a)(6)(C). Pub. L. 112–239, § 712(a)(2), added subpar. (C).
+Subsec. (a)(6)(C). Pub. L. 112–239, § 712(a)(2), added subpar. (C).
 
-Subsec. (b)(1). Pub. L. 112–239, § 702(c)(1), substituted “subsection (h)” for “subsection (g)”.
+Subsec. (b)(1). Pub. L. 112–239, § 702(c)(1), substituted “subsection (h)” for “subsection (g)”.
 
-Subsec. (b)(2). Pub. L. 112–239, § 702(c)(2)(B), substituted “The committee” for “Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee”.
+Subsec. (b)(2). Pub. L. 112–239, § 702(c)(2)(B), substituted “The committee” for “Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee”.
 
-Subsec. (d)(2). Pub. L. 112–239, § 702(c)(2)(C), substituted “The Secretary” for “Effective not later than April 5, 2000, the Secretary” and “the managed care support contracts current as of October 5, 1999,” for “the current managed care support contracts”.
+Subsec. (d)(2). Pub. L. 112–239, § 702(c)(2)(C), substituted “The Secretary” for “Effective not later than April 5, 2000, the Secretary” and “the managed care support contracts current as of October 5, 1999,” for “the current managed care support contracts”.
 
-Subsec. (g)(3), (4). Pub. L. 112–239, § 702(b), added pars. (3) and (4).
+Subsec. (g)(3), (4). Pub. L. 112–239, § 702(b), added pars. (3) and (4).
 
 2009—Subsec. (f). Pub. L. 111–84 substituted “after January 28, 2008” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
 2008—Subsecs. (f) to (h). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2004—Subsec. (a)(2)(E)(i). Pub. L. 108–375, § 714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
+2004—Subsec. (a)(2)(E)(i). Pub. L. 108–375, § 714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
 
-Subsec. (a)(6). Pub. L. 108–375, § 714(a), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(6). Pub. L. 108–375, § 714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
 
-Subsec. (c)(2). Pub. L. 108–136, § 725(2), substituted “represent—” for “represent nongovernmental”, inserted “(A) nongovernmental” before “organizations”, substituted “beneficiaries;” for “beneficiaries.”, and added subpars. (B) to (D).
+Subsec. (c)(2). Pub. L. 108–136, § 725(2), substituted “represent—” for “represent nongovernmental”, inserted “(A) nongovernmental” before “organizations”, substituted “beneficiaries;” for “beneficiaries.”, and added subpars. (B) to (D).
 
 2001—Subsec. (a)(8). Pub. L. 107–107 substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
-2000—Subsec. (a)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(A)], substituted “in the regulations prescribed” for “as part of the regulations established”.
+2000—Subsec. (a)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(A)], substituted “in the regulations prescribed” for “as part of the regulations established”.
 
-Subsec. (a)(7). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(B)], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
+Subsec. (a)(7). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(B)], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(C)], substituted “prescribed under” for “required by” in last sentence.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(C)], substituted “prescribed under” for “required by” in last sentence.
 
-Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(D)], substituted “Effective not later than April 5, 2000, the Secretary shall use” for “Not later than 6 months after the date of the enactment of this section, the Secretary shall utilize”.
+Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(D)], substituted “Effective not later than April 5, 2000, the Secretary shall use” for “Not later than 6 months after the date of the enactment of this section, the Secretary shall utilize”.
 
-Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(E)], substituted “The” for “Not later than April 1, 2000, the” and inserted “in” before “the TRICARE” and before “the national”.
+Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(E)], substituted “The” for “Not later than April 1, 2000, the” and inserted “in” before “the TRICARE” and before “the national”.
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(F)], substituted “In this section:” for “As used in this section—” in introductory provisions, “The term” for “the term” in pars. (1) and (2), and a period for “; and” at end of par. (1).
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(F)], substituted “In this section:” for “As used in this section—” in introductory provisions, “The term” for “the term” in pars. (1) and (2), and a period for “; and” at end of par. (1).
 
-Subsec. (g). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(G)], substituted “prescribe” for “promulgate”.
+Subsec. (g). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(5)(G)], substituted “prescribe” for “promulgate”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title VII, § 712(b), Jan. 2, 2013, 126 Stat. 1802, provided that:
+Pub. L. 112–239, div. A, title VII, § 712(b), Jan. 2, 2013, 126 Stat. 1802, provided that:
 
 > **“(1) In general.—** The cost-sharing requirements under subparagraph (A) of section 1074g(a)(6) of title 10, United States Code, as amended by subsection (a)(1), shall apply with respect to prescriptions obtained under the TRICARE pharmacy benefits program on or after such date as the Secretary of Defense shall specify, but not later than the date that is 45 days after the date of the enactment of this Act [Jan. 2, 2013].
 
@@ -7924,7 +7924,7 @@ Pub. L. 112–239, div. A, title VII, § 712(b), Jan. 2, 2013, 126 Stat. 1802,
 
 **Regulations**
 
-Pub. L. 115–91, div. A, title VII, § 702(b)(3), Dec. 12, 2017, 131 Stat. 1434, provided that:
+Pub. L. 115–91, div. A, title VII, § 702(b)(3), Dec. 12, 2017, 131 Stat. 1434, provided that:
 
 > “In order to implement expeditiously the reforms authorized by the amendments made by paragraphs (1) and (2) [amending this section and section 1079 of this title], the Secretary of Defense may prescribe such changes to the regulations implementing the TRICARE program (as defined in section 1072 of title 10, United States Code) as the Secretary considers appropriate—
 
@@ -7932,9 +7932,9 @@ Pub. L. 115–91, div. A, title VII, § 702(b)(3), Dec. 12, 2017, 131 Stat. 14
 
 > **“(B)** not later than one year after prescribing such interim final rule and considering public comments with respect to such interim final rule, by prescribing a final rule.”
 
-Pub. L. 110–181, div. A, title VII, § 703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, § 1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) [now subsection (j)] of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
+Pub. L. 110–181, div. A, title VII, § 703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(3), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title X, § 1073(c)(12), Oct. 28, 2009, 123 Stat. 2475, provided that: “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) [now subsection (j)] of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
 
-[Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.]
+[Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(12) to section 1061(b)(3) of Pub. L. 110–417, included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.]
 
 **Termination of Advisory Panels**
 
@@ -7942,7 +7942,7 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 **Pilot Program on Receipt of Non-Generic Prescription Maintenance Medications Under TRICARE Pharmacy Benefits Program**
 
-Pub. L. 116–283, div. A, title VII, § 706, Jan. 1, 2021, 134 Stat. 3689, as amended by Pub. L. 117–81, div. A, title VII, § 706, Dec. 27, 2021, 135 Stat. 1781, provided that:
+Pub. L. 116–283, div. A, title VII, § 706, Jan. 1, 2021, 134 Stat. 3689, as amended by Pub. L. 117–81, div. A, title VII, § 706, Dec. 27, 2021, 135 Stat. 1781, provided that:
 
 > **“(a) Pilot Program.—**
 
@@ -8002,7 +8002,7 @@ Pub. L. 116–283, div. A, title VII, § 706, Jan. 1, 2021, 134 Stat. 3689, as
 
 **Policy To Address Prescription Opioid Safety**
 
-Pub. L. 116–283, div. A, title VII, § 719, Jan. 1, 2021, 134 Stat. 3696, provided that:
+Pub. L. 116–283, div. A, title VII, § 719, Jan. 1, 2021, 134 Stat. 3696, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense shall develop a policy and tracking mechanism to monitor and provide oversight of opioid prescribing to ensure that the provider practices of medication-prescribing health professionals across the military health system conform with—
 
@@ -8028,11 +8028,11 @@ Pub. L. 116–283, div. A, title VII, § 719, Jan. 1, 2021, 134 Stat. 3696, pr
 
 **Implementation**
 
-Pub. L. 116–92, div. A, title VII, § 713(c), Dec. 20, 2019, 133 Stat. 1446, provided that: “Beginning not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall implement subsection (h) of section 1074g of title 10, United States Code, as added by subsection (a).”
+Pub. L. 116–92, div. A, title VII, § 713(c), Dec. 20, 2019, 133 Stat. 1446, provided that: “Beginning not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall implement subsection (h) of section 1074g of title 10, United States Code, as added by subsection (a).”
 
 **Reimbursement by Department of Defense to Entities Carrying Out State Vaccination Programs for Costs of Vaccines Provided to Covered Beneficiaries**
 
-Pub. L. 114–328, div. A, title VII, § 719, Dec. 23, 2016, 130 Stat. 2226, as amended by Pub. L. 115–91, div. A, title VII, § 718, Dec. 12, 2017, 131 Stat. 1440, provided that:
+Pub. L. 114–328, div. A, title VII, § 719, Dec. 23, 2016, 130 Stat. 2226, as amended by Pub. L. 115–91, div. A, title VII, § 718, Dec. 12, 2017, 131 Stat. 1440, provided that:
 
 > **“(a) Reimbursement.—**
 
@@ -8052,7 +8052,7 @@ Pub. L. 114–328, div. A, title VII, § 719, Dec. 23, 2016, 130 Stat. 2226, a
 
 **Pilot Program for Prescription Drug Acquisition Cost Parity in the TRICARE Pharmacy Benefits Program**
 
-Pub. L. 114–328, div. A, title VII, § 743, Dec. 23, 2016, 130 Stat. 2238, provided that:
+Pub. L. 114–328, div. A, title VII, § 743, Dec. 23, 2016, 130 Stat. 2238, provided that:
 
 > **“(a) Authority to Establish Pilot Program.—** The Secretary of Defense may conduct a pilot program to evaluate whether, in carrying out the TRICARE pharmacy benefits program under section 1074g of title 10, United States Code, extending additional discounts for prescription drugs filled at retail pharmacies will maintain or reduce prescription drug costs for the Department of Defense.
 
@@ -8088,7 +8088,7 @@ Pub. L. 114–328, div. A, title VII, § 743, Dec. 23, 2016, 130 Stat. 2238, p
 
 **Joint Uniform Formulary for Transition of Care**
 
-Pub. L. 114–92, div. A, title VII, § 715, Nov. 25, 2015, 129 Stat. 866, provided that:
+Pub. L. 114–92, div. A, title VII, § 715, Nov. 25, 2015, 129 Stat. 866, provided that:
 
 > **“(a) Joint Formulary.—** Not later than June 1, 2016, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a joint uniform formulary for the Department of Veterans Affairs and the Department of Defense with respect to pharmaceutical agents that are critical for the transition of an individual from receiving treatment furnished by the Secretary of Defense to treatment furnished by the Secretary of Veterans Affairs.
 
@@ -8118,7 +8118,7 @@ Pub. L. 114–92, div. A, title VII, § 715, Nov. 25, 2015, 129 Stat. 866, pro
 
 **Pilot Program on Medication Therapy Management Under TRICARE Program**
 
-Pub. L. 113–291, div. A, title VII, § 726, Dec. 19, 2014, 128 Stat. 3419, provided that:
+Pub. L. 113–291, div. A, title VII, § 726, Dec. 19, 2014, 128 Stat. 3419, provided that:
 
 > **“(a) Establishment.—** In accordance with section 1092 of title 10, United States Code, the Secretary of Defense shall carry out a pilot program to evaluate the feasibility and desirability of including medication therapy management as part of the TRICARE program.
 
@@ -8180,7 +8180,7 @@ Pub. L. 113–291, div. A, title VII, § 726, Dec. 19, 2014, 128 Stat. 3419, p
 
 **Pilot Program for Refills of Maintenance Medications for TRICARE for Life Beneficiaries Through the TRICARE Mail-Order Pharmacy Program**
 
-Pub. L. 112–239, div. A, title VII, § 716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, § 702(c)(2), Dec. 19, 2014, 128 Stat. 3411; Pub. L. 115–91, div. A, title X, § 1051(r)(2), Dec. 12, 2017, 131 Stat. 1565, provided that:
+Pub. L. 112–239, div. A, title VII, § 716, Jan. 2, 2013, 126 Stat. 1804, as amended by Pub. L. 113–291, div. A, title VII, § 702(c)(2), Dec. 19, 2014, 128 Stat. 3411; Pub. L. 115–91, div. A, title X, § 1051(r)(2), Dec. 12, 2017, 131 Stat. 1565, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall conduct a pilot program to refill prescription maintenance medications for each TRICARE for Life beneficiary through the national mail-order pharmacy program under section 1074g(a)(2)(E)(iii) of title 10, United States Code.
 
@@ -8226,7 +8226,7 @@ Pub. L. 112–239, div. A, title VII, § 716, Jan. 2, 2013, 126 Stat. 1804, as
 
 **Education and Training on Use of Pharmaceuticals in Rehabilitation Programs for Wounded Warriors**
 
-Pub. L. 111–383, div. A, title VII, § 716, Jan. 7, 2011, 124 Stat. 4250, provided that:
+Pub. L. 111–383, div. A, title VII, § 716, Jan. 7, 2011, 124 Stat. 4250, provided that:
 
 > **“(a) Education and Training Required.—** The Secretary of Defense shall develop and implement training, available through the Internet or other means, on the use of pharmaceuticals in rehabilitation programs for seriously ill or injured members of the Armed Forces.
 
@@ -8264,7 +8264,7 @@ Pub. L. 111–383, div. A, title VII, § 716, Jan. 7, 2011, 124 Stat. 4250, pr
 
 **Demonstration Project on Coverage of Selected Over-the-Counter Drugs Under the Pharmacy Benefits Program**
 
-Pub. L. 109–364, div. A, title VII, § 705, Oct. 17, 2006, 120 Stat. 2280, as amended by Pub. L. 111–383, div. A, title X, § 1075(g)(5), Jan. 7, 2011, 124 Stat. 4377, provided that:
+Pub. L. 109–364, div. A, title VII, § 705, Oct. 17, 2006, 120 Stat. 2280, as amended by Pub. L. 111–383, div. A, title X, § 1075(g)(5), Jan. 7, 2011, 124 Stat. 4377, provided that:
 
 > **“(a) Requirement to Conduct Demonstration.—** The Secretary of Defense shall conduct a demonstration project under section 1092 of title 10, United States Code, to allow particular over-the-counter drugs to be included on the uniform formulary under section 1074g of such title.
 
@@ -8320,7 +8320,7 @@ Pub. L. 109–364, div. A, title VII, § 705, Oct. 17, 2006, 120 Stat. 2280, a
 
 **Interoperability of Department of Veterans Affairs and Department of Defense Pharmacy Data Systems**
 
-Pub. L. 107–314, div. A, title VII, § 724, Dec. 2, 2002, 116 Stat. 2598, provided that:
+Pub. L. 107–314, div. A, title VII, § 724, Dec. 2, 2002, 116 Stat. 2598, provided that:
 
 > **“(a) Interoperability.—** The Secretary of Veterans Affairs and the Secretary of Defense shall seek to ensure that on or before October 1, 2004, the Department of Veterans Affairs pharmacy data system and the Department of Defense pharmacy data system (known as the ‘Pharmacy Data Transaction System’) are interoperable for both Department of Defense beneficiaries and Department of Veterans Affairs beneficiaries by achieving real-time interface, data exchange, and checking of prescription drug data of outpatients, and using national standards for the exchange of outpatient medication information.
 
@@ -8330,17 +8330,17 @@ Pub. L. 107–314, div. A, title VII, § 724, Dec. 2, 2002, 116 Stat. 2598, pr
 
 **Deadline for Establishment of Committee**
 
-Pub. L. 106–65, div. A, title VII, § 701(b), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to establish the Pharmacy and Therapeutics Committee required by subsec. (b) of this section not later than 30 days after Oct. 5, 1999.
+Pub. L. 106–65, div. A, title VII, § 701(b), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to establish the Pharmacy and Therapeutics Committee required by subsec. (b) of this section not later than 30 days after Oct. 5, 1999.
 
 **Reports Required**
 
-Pub. L. 106–65, div. A, title VII, § 701(c), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) of this section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
+Pub. L. 106–65, div. A, title VII, § 701(c), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) of this section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
 
 **Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries**
 
-Pub. L. 106–65, div. A, title VII, § 701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, § 723, Dec. 28, 2001, 115 Stat. 1168.
+Pub. L. 106–65, div. A, title VII, § 701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, § 723, Dec. 28, 2001, 115 Stat. 1168.
 
-## § 1074h. Medical and dental care: medal of honor recipients; dependents
+## § 1074h. Medical and dental care: medal of honor recipients; dependents
 
 **(a) Medal of Honor Recipients.—** A former member of the armed forces who is a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if entitled to retired pay.
 
@@ -8352,13 +8352,13 @@ Pub. L. 106–65, div. A, title VII, § 701(d), Oct. 5, 1999, 113 Stat. 680, r
 
 **(2)** The term “immediate dependent” means a dependent described in subparagraph (A), (B), (C), or (D) of section 1072(2) of this title.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 706(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(11), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 706(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(11), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (c)(1). Pub. L. 118–31, § 1801(a)(11), substituted “section 2732 of title 14” for “section 491 of title 14”.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 1801(a)(11), substituted “section 2732 of title 14” for “section 491 of title 14”.
 
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “section 7271, 8291, or 9271” for “section 3741, 6241, or 8741”.
 
@@ -8370,9 +8370,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 706(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: “Section 1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 706(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: “Section 1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 1074i. Reimbursement for certain travel expenses
+## § 1074i. Reimbursement for certain travel expenses
 
 **(a) In General.—** Except as provided by subsection (b), in any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
 
@@ -8396,27 +8396,27 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 706(b)], Oct. 30, 2000, 114
 
 **(3)** The term “combat-related disability” has the meaning given that term in section 1413a of this title.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 758(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, § 706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, § 712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, § 1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, § 634, Oct. 28, 2009, 123 Stat. 2363; Pub. L. 113–66, div. A, title VI, § 621(d), Dec. 26, 2013, 127 Stat. 784; Pub. L. 119–60, div. A, title VII, § 701(a), Dec. 18, 2025, 139 Stat. 918.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 758(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, § 706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, § 712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, § 1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, § 634, Oct. 28, 2009, 123 Stat. 2363; Pub. L. 113–66, div. A, title VI, § 621(d), Dec. 26, 2013, 127 Stat. 784; Pub. L. 119–60, div. A, title VII, § 701(a), Dec. 18, 2025, 139 Stat. 918.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 701(a)(1), substituted “Except as provided by subsection (b), in any case” for “In any case”.
+2025—Subsec. (a). Pub. L. 119–60, § 701(a)(1), substituted “Except as provided by subsection (b), in any case” for “In any case”.
 
-Subsec. (b). Pub. L. 119–60, § 701(a)(2), substituted “Special Rules for Certain Members and Dependents” for “Allowable Travel and Transportation Under Exceptional Circumstances” in heading, designated existing provisions as par. (1), and added par. (2).
+Subsec. (b). Pub. L. 119–60, § 701(a)(2), substituted “Special Rules for Certain Members and Dependents” for “Allowable Travel and Transportation Under Exceptional Circumstances” in heading, designated existing provisions as par. (1), and added par. (2).
 
-2013—Subsec. (a). Pub. L. 113–66, § 621(d)(1), substituted “travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “reimbursement for reasonable travel expenses”.
+2013—Subsec. (a). Pub. L. 113–66, § 621(d)(1), substituted “travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “reimbursement for reasonable travel expenses”.
 
-Subsec. (b). Pub. L. 113–66, § 621(d)(2), substituted “Allowable Travel and Transportation Under Exceptional Circumstances.—The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for” for “Reimbursement for Travel Under Exceptional Circumstances.—The Secretary of Defense may provide reimbursement for reasonable travel expenses of”.
+Subsec. (b). Pub. L. 113–66, § 621(d)(2), substituted “Allowable Travel and Transportation Under Exceptional Circumstances.—The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for” for “Reimbursement for Travel Under Exceptional Circumstances.—The Secretary of Defense may provide reimbursement for reasonable travel expenses of”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 634(b), inserted “of Defense” after “the Secretary”.
+2009—Subsec. (a). Pub. L. 111–84, § 634(b), inserted “of Defense” after “the Secretary”.
 
-Subsecs. (b) to (d). Pub. L. 111–84, § 634(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 111–84, § 634(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-2008—Subsecs. (b), (c). Pub. L. 110–181, § 1632(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+2008—Subsecs. (b), (c). Pub. L. 110–181, § 1632(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Subsec. (c)(3). Pub. L. 110–181, § 1632(b), added par. (3).
+Subsec. (c)(3). Pub. L. 110–181, § 1632(b), added par. (3).
 
 2003—Pub. L. 108–136 inserted “(a) In General.—” before “In any case” and added subsec. (b).
 
@@ -8426,13 +8426,13 @@ Subsec. (c)(3). Pub. L. 110–181, § 1632(b), added par. (3).
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: “Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies.”
+Pub. L. 110–181, div. A, title XVI, § 1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: “Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies.”
 
 **Guidance on Authority To Provide Travel and Transportation Allowances for Specialty Care Under Exceptional Circumstances**
 
-Pub. L. 118–159, div. A, title VII, § 706, Dec. 23, 2024, 138 Stat. 1944, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue guidance with respect to the authority of the Secretary under section 1074i(b) of title 10, United States Code.”
+Pub. L. 118–159, div. A, title VII, § 706, Dec. 23, 2024, 138 Stat. 1944, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue guidance with respect to the authority of the Secretary under section 1074i(b) of title 10, United States Code.”
 
-## § 1074j. Sub-acute care program
+## § 1074j. Sub-acute care program
 
 **(a) Establishment.—** The Secretary of Defense shall establish an effective, efficient, and integrated sub-acute care benefits program under this chapter (hereinafter referred to in this section as the “program”). Except as otherwise provided in this section, the types of health care authorized under the program shall be the same as those provided under section 1079 of this title. The Secretary, after consultation with the other administering Secretaries, shall promulgate regulations to carry out this section.
 
@@ -8450,7 +8450,7 @@ Pub. L. 118–159, div. A, title VII, § 706, Dec. 23, 2024, 138 Stat. 1944, p
 
 **(4)** The Secretary of Defense may take such actions as are necessary to ensure that there is an effective transition in the furnishing of part-time or intermittent home health care benefits for covered beneficiaries who were receiving such benefits before the establishment of the program under this section. The actions taken under this paragraph may include the continuation of such benefits on an extended basis for such time as the Secretary determines appropriate.
 
-(Added Pub. L. 107–107, div. A, title VII, § 701(a)(1), Dec. 28, 2001, 115 Stat. 1158; amended Pub. L. 108–375, div. A, title VII, § 713, Oct. 28, 2004, 118 Stat. 1985.)
+(Added Pub. L. 107–107, div. A, title VII, § 701(a)(1), Dec. 28, 2001, 115 Stat. 1158; amended Pub. L. 108–375, div. A, title VII, § 713, Oct. 28, 2004, 118 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -8458,13 +8458,13 @@ Pub. L. 118–159, div. A, title VII, § 706, Dec. 23, 2024, 138 Stat. 1944, p
 
 2004—Subsec. (b)(4). Pub. L. 108–375 added par. (4).
 
-## § 1074k. Long-term care insurance
+## § 1074k. Long-term care insurance
 
 Provisions regarding long-term care insurance for members and certain former members of the uniformed services and their families are set forth in chapter 90 of title 5.
 
-(Added Pub. L. 107–107, div. A, title VII, § 701(f)(1), Dec. 28, 2001, 115 Stat. 1161.)
+(Added Pub. L. 107–107, div. A, title VII, § 701(f)(1), Dec. 28, 2001, 115 Stat. 1161.)
 
-## § 1074l. Notification to Congress of hospitalization of combat wounded members
+## § 1074l. Notification to Congress of hospitalization of combat wounded members
 
 **(a) Notification Required.—** The Secretary concerned shall provide notification of the hospitalization of any member of the armed forces evacuated from a theater of combat and admitted to any military medical treatment facility to the appropriate Members of Congress.
 
@@ -8472,7 +8472,7 @@ Provisions regarding long-term care insurance for members and certain former mem
 
 **(c) Consent of Member Required.—** The notification under subsection (a) may be provided only with the consent of the member of the armed forces about whom notification is to be made. In the case of a member who is unable to provide consent, information and consent may be provided by next of kin.
 
-(Added Pub. L. 110–181, div. A, title XVI, § 1617(a)(1), Jan. 28, 2008, 122 Stat. 449; amended Pub. L. 115–232, div. A, title VII, § 720, Aug. 13, 2018, 132 Stat. 1817.)
+(Added Pub. L. 110–181, div. A, title XVI, § 1617(a)(1), Jan. 28, 2008, 122 Stat. 449; amended Pub. L. 115–232, div. A, title VII, § 720, Aug. 13, 2018, 132 Stat. 1817.)
 
 **Editorial Notes**
 
@@ -8484,9 +8484,9 @@ Provisions regarding long-term care insurance for members and certain former mem
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1617(a)(2), Jan. 28, 2008, 122 Stat. 449, provided that: “The notification requirement under section 1074l(a) of title 10, United States Code, as added by paragraph (1), shall apply beginning 60 days after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title XVI, § 1617(a)(2), Jan. 28, 2008, 122 Stat. 449, provided that: “The notification requirement under section 1074l(a) of title 10, United States Code, as added by paragraph (1), shall apply beginning 60 days after the date of the enactment of this Act [Jan. 28, 2008].”
 
-## § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation
+## § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation
 
 **(a) Mental Health Assessments.—**
 
@@ -8556,7 +8556,7 @@ Pub. L. 110–181, div. A, title XVI, § 1617(a)(2), Jan. 28, 2008, 122 Stat. 
 
 **(2)** Not later than 270 days after the date of the issuance of the regulations prescribed under paragraph (1), the Secretary shall notify the congressional defense committees of the implementation of the regulations by the military departments.
 
-(Added Pub. L. 112–81, div. A, title VII, § 702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, § 703, Jan. 2, 2013, 126 Stat. 1800; Pub. L. 113–291, div. A, title VII, § 701(a)(5), (b), title X, § 1071(f)(13), Dec. 19, 2014, 128 Stat. 3409, 3510; Pub. L. 115–232, div. A, title VII, § 701, Aug. 13, 2018, 132 Stat. 1804; Pub. L. 116–92, div. A, title VII, § 706(a)–(c), Dec. 20, 2019, 133 Stat. 1440, 1441.)
+(Added Pub. L. 112–81, div. A, title VII, § 702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, § 703, Jan. 2, 2013, 126 Stat. 1800; Pub. L. 113–291, div. A, title VII, § 701(a)(5), (b), title X, § 1071(f)(13), Dec. 19, 2014, 128 Stat. 3409, 3510; Pub. L. 115–232, div. A, title VII, § 701, Aug. 13, 2018, 132 Stat. 1804; Pub. L. 116–92, div. A, title VII, § 706(a)–(c), Dec. 20, 2019, 133 Stat. 1440, 1441.)
 
 **Editorial Notes**
 
@@ -8566,9 +8566,9 @@ The date of the enactment of this section, referred to in subsec. (e)(1), is the
 
 **Amendments**
 
-2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 706(c), substituted “Once” for “Until January 1, 2019, once”.
+2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 706(c), substituted “Once” for “Until January 1, 2019, once”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 116–92, § 706(a), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
+Subsec. (a)(1)(C), (D). Pub. L. 116–92, § 706(a), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) Subject to subsection (d), once during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after such redeployment date.
 
@@ -8578,25 +8578,25 @@ Subsec. (a)(1)(C), (D). Pub. L. 116–92, § 706(a), added subpars. (C) and (D
 
 “(ii) the period beginning 18 months after such redeployment date and ending 30 months after such redeployment date.”
 
-Subsec. (a)(2), (3). Pub. L. 116–92, § 706(b), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A mental health assessment is not required for a member of the armed forces under subparagraphs (C) and (D) of paragraph (1) if the Secretary determines that—
+Subsec. (a)(2), (3). Pub. L. 116–92, § 706(b), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A mental health assessment is not required for a member of the armed forces under subparagraphs (C) and (D) of paragraph (1) if the Secretary determines that—
 
 “(A) the member was not subjected or exposed to operational risk factors during deployment in the contingency operation concerned; or
 
 “(B) providing such assessment to the member during the time periods under such subparagraphs would remove the member from forward deployment or put members or operational objectives at risk.”
 
-2018—Subsec. (a)(1)(C). Pub. L. 115–232, § 701(1), substituted “Subject to subsection (d), once” for “Once”.
+2018—Subsec. (a)(1)(C). Pub. L. 115–232, § 701(1), substituted “Subject to subsection (d), once” for “Once”.
 
-Subsec. (d). Pub. L. 115–232, § 701(2), which directed substitution of “subparagraph (C) or (D) of subsection (a)(1)” for “subsection (a)(1)(D)”, was executed by making the substitution for “subsection (a)(1)(C)” to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 115–232, § 701(2), which directed substitution of “subparagraph (C) or (D) of subsection (a)(1)” for “subsection (a)(1)(D)”, was executed by making the substitution for “subsection (a)(1)(C)” to reflect the probable intent of Congress.
 
-2014—Subsec. (a)(1)(B) to (D). Pub. L. 113–291, § 701(b)(1)(A), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+2014—Subsec. (a)(1)(B) to (D). Pub. L. 113–291, § 701(b)(1)(A), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (a)(2). Pub. L. 113–291, § 1071(f)(13), which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, § 701(b)(2). See below.
+Subsec. (a)(2). Pub. L. 113–291, § 1071(f)(13), which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, § 701(b)(2). See below.
 
-Pub. L. 113–291, § 701(b)(2), substituted “subparagraphs (C) and (D)” for “subparagraph (B) and (C)” in introductory provisions.
+Pub. L. 113–291, § 701(b)(2), substituted “subparagraphs (C) and (D)” for “subparagraph (B) and (C)” in introductory provisions.
 
-Subsec. (c)(1)(A)(ii), (iii). Pub. L. 113–291, § 701(b)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 113–291, § 701(b)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (e)(1). Pub. L. 113–291, § 701(a)(5), inserted “and section 1074n of this title” after “pursuant to this section”.
+Subsec. (e)(1). Pub. L. 113–291, § 701(a)(5), inserted “and section 1074n of this title” after “pursuant to this section”.
 
 2013—Subsec. (a)(1)(C)(i). Pub. L. 112–239 substituted “18 months” for “one year”.
 
@@ -8604,13 +8604,13 @@ Subsec. (e)(1). Pub. L. 113–291, § 701(a)(5), inserted “and section 1074n
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VII, § 706(d), Dec. 20, 2019, 133 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to a date of redeployment that is on or after January 1, 2020.”
+Pub. L. 116–92, div. A, title VII, § 706(d), Dec. 20, 2019, 133 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to a date of redeployment that is on or after January 1, 2020.”
 
 **Regulations**
 
-Pub. L. 112–81, div. A, title VII, § 702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: “The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) [enacting this section], effective not later than 90 days after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. A, title VII, § 702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: “The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) [enacting this section], effective not later than 90 days after the date of the enactment of this Act [Dec. 31, 2011].”
 
-## § 1074n. Annual mental health assessments for members of the armed forces
+## § 1074n. Annual mental health assessments for members of the armed forces
 
 **(a) Mental Health Assessments.—** Subject to subsection (c), not less frequently than once each calendar year (and before separation from active duty pursuant to section 1145(a)(5)(A) of this title), the Secretary of Defense shall provide a person-to-person mental health assessment for—
 
@@ -8634,7 +8634,7 @@ Pub. L. 112–81, div. A, title VII, § 702(a)(3), Dec. 31, 2011, 125 Stat. 14
 
 **(e) Regulations.—** The Secretary of Defense shall, in consultation with the other administering Secretaries, prescribe regulations for the administration of this section.
 
-(Added Pub. L. 113–291, div. A, title VII, § 701(a)(1), Dec. 19, 2014, 128 Stat. 3408; amended Pub. L. 115–91, div. A, title VII, § 706(b), Dec. 12, 2017, 131 Stat. 1436.)
+(Added Pub. L. 113–291, div. A, title VII, § 701(a)(1), Dec. 19, 2014, 128 Stat. 3408; amended Pub. L. 115–91, div. A, title VII, § 706(b), Dec. 12, 2017, 131 Stat. 1436.)
 
 **Editorial Notes**
 
@@ -8646,9 +8646,9 @@ Pub. L. 112–81, div. A, title VII, § 702(a)(3), Dec. 31, 2011, 125 Stat. 14
 
 **Implementation of Regulations**
 
-Pub. L. 113–291, div. A, title VII, § 701(a)(3), Dec. 19, 2014, 128 Stat. 3409, provided that: “Not later than 180 days after the date of the issuance of the regulations prescribed under section 1074n(e) of title 10, United States Code, as added by paragraph (1), the Secretary of Defense shall implement such regulations.”
+Pub. L. 113–291, div. A, title VII, § 701(a)(3), Dec. 19, 2014, 128 Stat. 3409, provided that: “Not later than 180 days after the date of the issuance of the regulations prescribed under section 1074n(e) of title 10, United States Code, as added by paragraph (1), the Secretary of Defense shall implement such regulations.”
 
-## § 1074o. Provision of hyperbaric oxygen therapy for certain members
+## § 1074o. Provision of hyperbaric oxygen therapy for certain members
 
 **(a) In General.—** The Secretary may furnish hyperbaric oxygen therapy available at a military medical treatment facility to a covered member if such therapy is prescribed by a physician to treat post-traumatic stress disorder or traumatic brain injury.
 
@@ -8658,15 +8658,15 @@ Pub. L. 113–291, div. A, title VII, § 701(a)(3), Dec. 19, 2014, 128 Stat. 3
 
 **(2)** diagnosed with post-traumatic stress disorder or traumatic brain injury.
 
-(Added Pub. L. 115–91, div. A, title VII, § 703(a)(1), Dec. 12, 2017, 131 Stat. 1435.)
+(Added Pub. L. 115–91, div. A, title VII, § 703(a)(1), Dec. 12, 2017, 131 Stat. 1435.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 115–91, div. A, title VII, § 703(b), Dec. 12, 2017, 131 Stat. 1435, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect 90 days after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title VII, § 703(b), Dec. 12, 2017, 131 Stat. 1435, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect 90 days after the date of the enactment of this Act [Dec. 12, 2017].”
 
-## § 1075. TRICARE Select
+## § 1075. TRICARE Select
 
 **(a) Establishment.—**
 
@@ -8806,7 +8806,7 @@ Pub. L. 115–91, div. A, title VII, § 703(b), Dec. 12, 2017, 131 Stat. 1435,
 
 **(3)** The term “out-of-network” means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, § 701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, § 739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, § 1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, § 703(a), Dec. 27, 2021, 135 Stat. 1779; Pub. L. 118–31, div. A, title VII, § 701(a), Dec. 22, 2023, 137 Stat. 299; Pub. L. 118–159, div. A, title VII, § 707(b), (d)(1), Dec. 23, 2024, 138 Stat. 1944, 1945.)
+(Added Pub. L. 114–328, div. A, title VII, § 701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, § 739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, § 1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, § 703(a), Dec. 27, 2021, 135 Stat. 1779; Pub. L. 118–31, div. A, title VII, § 701(a), Dec. 22, 2023, 137 Stat. 299; Pub. L. 118–159, div. A, title VII, § 707(b), (d)(1), Dec. 23, 2024, 138 Stat. 1944, 1945.)
 
 **Editorial Notes**
 
@@ -8816,19 +8816,19 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-A prior section 1075, added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 97–22, § 10(b)(2), July 10, 1981, 95 Stat. 137; Pub. L. 108–87, title VIII, § 8146(a), Sept. 30, 2003, 117 Stat. 1109; Pub. L. 108–106, title I, § 1112(a), Nov. 6, 2003, 117 Stat. 1215, related to subsistence charges for officers and certain enlisted members, prior to repeal by Pub. L. 108–375, div. A, title VI, § 607(a)(1), Oct. 28, 2004, 118 Stat. 1946.
+A prior section 1075, added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 97–22, § 10(b)(2), July 10, 1981, 95 Stat. 137; Pub. L. 108–87, title VIII, § 8146(a), Sept. 30, 2003, 117 Stat. 1109; Pub. L. 108–106, title I, § 1112(a), Nov. 6, 2003, 117 Stat. 1215, related to subsistence charges for officers and certain enlisted members, prior to repeal by Pub. L. 108–375, div. A, title VI, § 607(a)(1), Oct. 28, 2004, 118 Stat. 1946.
 
-Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to post card requests for absentee ballots, and for printing and transmission thereof, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2024—Subsec. (c)(4). Pub. L. 118–159, § 707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
+2024—Subsec. (c)(4). Pub. L. 118–159, § 707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
 
-Subsec. (f). Pub. L. 118–159, § 707(b)(2), (3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 118–159, § 707(b)(2), (3), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 118–159, § 707(b)(1), substituted “Other Exceptions to Cost-sharing Requirements” for “Exception to Cost-sharing Requirements for TRICARE for Life Beneficiaries” in heading.
+Pub. L. 118–159, § 707(b)(1), substituted “Other Exceptions to Cost-sharing Requirements” for “Exception to Cost-sharing Requirements for TRICARE for Life Beneficiaries” in heading.
 
-Subsec. (f)(3). Pub. L. 118–159, § 707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
+Subsec. (f)(3). Pub. L. 118–159, § 707(d)(1), redesignated par. (4) of subsec. (c) as par. (3) of subsec. (f).
 
 2023—Subsec. (c)(4). Pub. L. 118–31 added par. (4).
 
@@ -8836,9 +8836,9 @@ Subsec. (f)(3). Pub. L. 118–159, § 707(d)(1), redesignated par. (4) of subs
 
 2019—Subsec. (d)(1). Pub. L. 116–92 substituted “25% out of network” for “25% of out of network” in third column of table row relating to Outpatient visit civilian network.
 
-2017—Subsec. (d)(1). Pub. L. 115–91, § 739(b)(1)(B), substituted “Ground ambulance civilian network” for “Ambulance civilian network” in first column of table.
+2017—Subsec. (d)(1). Pub. L. 115–91, § 739(b)(1)(B), substituted “Ground ambulance civilian network” for “Ambulance civilian network” in first column of table.
 
-Subsec. (d)(4). Pub. L. 115–91, § 739(b)(1)(A), added par. (4).
+Subsec. (d)(4). Pub. L. 115–91, § 739(b)(1)(A), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8848,7 +8848,7 @@ Section applicable with respect to the provision of health care under the TRICAR
 
 **Pilot Program on Health Care Assistance System**
 
-Pub. L. 115–91, div. A, title VII, § 731, Dec. 12, 2017, 131 Stat. 1441, as amended by Pub. L. 117–81, div. A, title VII, § 705, Dec. 27, 2021, 135 Stat. 1781, provided that:
+Pub. L. 115–91, div. A, title VII, § 731, Dec. 12, 2017, 131 Stat. 1441, as amended by Pub. L. 117–81, div. A, title VII, § 705, Dec. 27, 2021, 135 Stat. 1781, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense shall carry out a pilot program to provide a health care assistance service to certain covered beneficiaries enrolled in TRICARE Select using purchased care to improve the health outcomes and patient experience for covered beneficiaries with complex medical conditions.
 
@@ -8874,7 +8874,7 @@ Pub. L. 115–91, div. A, title VII, § 731, Dec. 12, 2017, 131 Stat. 1441, as
 
 > **“(e) Definitions.—** In this section, the terms ‘covered beneficiary’, ‘TRICARE program’, and ‘TRICARE Select’ have the meaning given those terms in section 1072 of title 10, United States Code.”
 
-## § 1075a. TRICARE Prime: cost sharing
+## § 1075a. TRICARE Prime: cost sharing
 
 **(a) Cost-sharing Requirements.—** The cost-sharing requirements under TRICARE Prime are as follows:
 
@@ -8929,7 +8929,7 @@ Pub. L. 115–91, div. A, title VII, § 731, Dec. 12, 2017, 131 Stat. 1441, as
 
 **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 
-(Added Pub. L. 114–328, div. A, title VII, § 701(b)(1), Dec. 23, 2016, 130 Stat. 2184; amended Pub. L. 115–91, div. A, title VII, § 739(b)(2), (e)(2), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 118–31, div. A, title VII, § 701(b), Dec. 22, 2023, 137 Stat. 299; Pub. L. 118–159, div. A, title VII, § 707(c), (d)(2), Dec. 23, 2024, 138 Stat. 1944, 1945.)
+(Added Pub. L. 114–328, div. A, title VII, § 701(b)(1), Dec. 23, 2016, 130 Stat. 2184; amended Pub. L. 115–91, div. A, title VII, § 739(b)(2), (e)(2), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 118–31, div. A, title VII, § 701(b), Dec. 22, 2023, 137 Stat. 299; Pub. L. 118–159, div. A, title VII, § 707(c), (d)(2), Dec. 23, 2024, 138 Stat. 1944, 1945.)
 
 **Editorial Notes**
 
@@ -8939,19 +8939,19 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2024—Subsec. (a)(4). Pub. L. 118–159, § 707(d)(2), redesignated par. (4) of subsec. (a) as par. (2) of subsec. (d).
+2024—Subsec. (a)(4). Pub. L. 118–159, § 707(d)(2), redesignated par. (4) of subsec. (a) as par. (2) of subsec. (d).
 
-Subsec. (d). Pub. L. 118–159, § 707(c), added subsec. (d).
+Subsec. (d). Pub. L. 118–159, § 707(c), added subsec. (d).
 
-Subsec. (d)(2). Pub. L. 118–159, § 707(d)(2), redesignated par. (4) of subsec. (a) as par. (2) of subsec. (d).
+Subsec. (d)(2). Pub. L. 118–159, § 707(d)(2), redesignated par. (4) of subsec. (a) as par. (2) of subsec. (d).
 
 2023—Subsec. (a)(4). Pub. L. 118–31 added par. (4).
 
-2017—Subsec. (b)(1). Pub. L. 115–91, § 739(b)(2)(B), which directed amendment of “Paragraph (1) of such section” by substituting “Ground ambulance civilian network” for “Ambulance civilian network” in first column of table, was executed by making the substitution in par. (1) of subsec. (b) of this section, to reflect the probable intent of Congress.
+2017—Subsec. (b)(1). Pub. L. 115–91, § 739(b)(2)(B), which directed amendment of “Paragraph (1) of such section” by substituting “Ground ambulance civilian network” for “Ambulance civilian network” in first column of table, was executed by making the substitution in par. (1) of subsec. (b) of this section, to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 115–91, § 739(b)(2)(A), added par. (4).
+Subsec. (b)(4). Pub. L. 115–91, § 739(b)(2)(A), added par. (4).
 
-Subsec. (c). Pub. L. 115–91, § 739(e)(2), substituted “section 1095f(a)” for “section 1075f(a)”.
+Subsec. (c). Pub. L. 115–91, § 739(e)(2), substituted “section 1095f(a)” for “section 1075f(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8959,7 +8959,7 @@ Subsec. (c). Pub. L. 115–91, § 739(e)(2), substituted “section 1095f(a)�
 
 Section applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 1072 of this title.
 
-## § 1076. Medical and dental care for dependents: general rule
+## § 1076. Medical and dental care for dependents: general rule
 
 **(a)**
 
@@ -9033,13 +9033,13 @@ may, upon request, be given the medical and dental care prescribed by section 10
 
 **(3)** Nothing in paragraph (2) may be construed to prohibit the furnishing of a school-required physical examination to any dependent who, except for not satisfying the age requirement under that paragraph, would otherwise be eligible for a physical examination required to be furnished under this subsection.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, § 2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, § 301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, § 1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, § 19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, § 652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§ 604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, § 651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, § 653(a)(4), title VII, § 731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§ 704(a), (b), title XVI, § 1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, § 703, title XV, § 1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, § 513(b), title X, § 1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, § 732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, § 578(i)(2), title VII, § 705(c), Oct. 5, 1999, 113 Stat. 629, 684; Pub. L. 106–398, § 1 [[div. A], title VII, § 703], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–107, div. A, title V, § 513(a), Dec. 28, 2001, 115 Stat. 1093.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, § 2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, § 301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, § 1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, § 19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, § 652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§ 604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, § 651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, § 653(a)(4), title VII, § 731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§ 704(a), (b), title XVI, § 1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, § 703, title XV, § 1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, § 513(b), title X, § 1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, § 732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, § 578(i)(2), title VII, § 705(c), Oct. 5, 1999, 113 Stat. 629, 684; Pub. L. 106–398, § 1 [[div. A], title VII, § 703], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–107, div. A, title V, § 513(a), Dec. 28, 2001, 115 Stat. 1093.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1076(a)     1076(b) | 37:402(a)(2) (as applicable to 37:403(a)). 37:403(a) (1st sentence). 37:402(a)(3) (as applicable to 37:421(c)). 37:421(c) (less last 28 words). | June 7, 1956, ch. 374, §§ 102(a)(2) (as applicable to § 103(a)), (3) (as applicable to § 301(c)), 103(a), (b), 301(c), 70 Stat. 250, 251, 253. |
+| 1076(a) 1076(b) | 37:402(a)(2) (as applicable to 37:403(a)). 37:403(a) (1st sentence). 37:402(a)(3) (as applicable to 37:421(c)). 37:421(c) (less last 28 words). | June 7, 1956, ch. 374, §§ 102(a)(2) (as applicable to § 103(a)), (3) (as applicable to § 301(c)), 103(a), (b), 301(c), 70 Stat. 250, 251, 253. |
 | 1076(c) | 37:403(a) (less 1st sentence). |  |
 |  | 37:421(c) (last 28 words). |  |
 | 1076(d) | 37:403(b). |  |
@@ -9058,27 +9058,27 @@ In subsection (d), the words “because the facility concerned is that of a unif
 
 **References in Text**
 
-Chapter 67 of this title as in effect before December 1, 1994, referred to in subsec. (b)(2), means chapter 67 (§ 1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
+Chapter 67 of this title as in effect before December 1, 1994, referred to in subsec. (b)(2), means chapter 67 (§ 1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
 
 **Prior Provisions**
 
-A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2001—Subsec. (a)(2)(C). Pub. L. 107–107 struck out “, if the site was outside reasonable commuting distance from the member’s residence” before period at end.
+2001—Subsec. (a)(2)(C). Pub. L. 107–107 struck out “, if the site was outside reasonable commuting distance from the member’s residence” before period at end.
 
 2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
-1999—Subsec. (a)(2)(D). Pub. L. 106–65, § 705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member’s orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
+1999—Subsec. (a)(2)(D). Pub. L. 106–65, § 705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member’s orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
 
-Subsec. (a)(2)(E). Pub. L. 106–65, § 578(i)(2), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 106–65, § 578(i)(2), added subpar. (E).
 
-1998—Subsec. (e)(1). Pub. L. 105–261, § 732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+1998—Subsec. (e)(1). Pub. L. 105–261, § 732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
-Subsec. (e)(3). Pub. L. 105–261, § 732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
+Subsec. (e)(3). Pub. L. 105–261, § 732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
 
-1997—Subsec. (a)(2). Pub. L. 105–85, § 513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+1997—Subsec. (a)(2). Pub. L. 105–85, § 513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
 
 “(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
 
@@ -9088,17 +9088,17 @@ Subsec. (e)(3). Pub. L. 105–261, § 732(2), inserted “and” at end of sub
 
 “(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.”
 
-Subsec. (b). Pub. L. 105–85, § 1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, § 703(b). See 1996 Amendment note below.
+Subsec. (b). Pub. L. 105–85, § 1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, § 703(b). See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–106, § 703(b), as amended by Pub. L. 105–85, § 1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
+1996—Subsec. (b). Pub. L. 104–106, § 703(b), as amended by Pub. L. 105–85, § 1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
 
-Subsec. (b)(2). Pub. L. 104–106, § 703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
+Subsec. (b)(2). Pub. L. 104–106, § 703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
 
-Pub. L. 104–106, § 1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
+Pub. L. 104–106, § 1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337, § 1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
+1994—Subsec. (b)(2)(A). Pub. L. 103–337, § 1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
 
-Subsec. (e)(1). Pub. L. 103–337, § 704(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
+Subsec. (e)(1). Pub. L. 103–337, § 704(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
 
 “(A) a member of a uniformed service receives a dishonorable or bad-conduct discharge or is dismissed from a uniformed service as a result of a court-martial conviction for an offense involving abuse of a dependent of the member, as determined in accordance with regulations prescribed by the administering Secretary for such uniformed service; and
 
@@ -9106,15 +9106,15 @@ Subsec. (e)(1). Pub. L. 103–337, § 704(a)(1), added par. (1) and struck out
 
 the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
-Subsec. (e)(2). Pub. L. 103–337, § 704(b)(1), (2), inserted “former” before “member” and substituted “paragraph (4)” for “paragraph (1)(A)”.
+Subsec. (e)(2). Pub. L. 103–337, § 704(b)(1), (2), inserted “former” before “member” and substituted “paragraph (4)” for “paragraph (1)(A)”.
 
-Subsec. (e)(3). Pub. L. 103–337, § 704(b)(1), (3), inserted “former” before “member” in introductory provisions and in subpar. (C) and substituted “was” for “is” and “paragraph (4)” for “paragraph (1)(A)” in subpar. (C).
+Subsec. (e)(3). Pub. L. 103–337, § 704(b)(1), (3), inserted “former” before “member” in introductory provisions and in subpar. (C) and substituted “was” for “is” and “paragraph (4)” for “paragraph (1)(A)” in subpar. (C).
 
-Subsec. (e)(4). Pub. L. 103–337, § 704(a)(2), added par. (4).
+Subsec. (e)(4). Pub. L. 103–337, § 704(a)(2), added par. (4).
 
-1989—Subsec. (e)(3)(C). Pub. L. 101–189, § 653(a)(4), substituted “one year” for “1 year”.
+1989—Subsec. (e)(3)(C). Pub. L. 101–189, § 653(a)(4), substituted “one year” for “1 year”.
 
-Subsec. (f). Pub. L. 101–189, § 731(c)(1), struck out subsec. (f) which read as follows:
+Subsec. (f). Pub. L. 101–189, § 731(c)(1), struck out subsec. (f) which read as follows:
 
 “(1) A person described in paragraph (2) shall be considered a dependent for purposes of this section for a period of one year after the date of the person’s final decree of divorce, dissolution, or annulment. In addition, if such a person purchases a conversion health policy within the one-year period referred to in the preceding sentence, such person shall be entitled, upon request, to medical and dental care prescribed by section 1077 of this title for a period of one year after the purchase of the policy for any condition of the person that existed on the date on which coverage under the policy begins and for which care is not provided under that policy.
 
@@ -9124,9 +9124,9 @@ Subsec. (f). Pub. L. 101–189, § 731(c)(1), struck out subsec. (f) which rea
 
 1988—Subsec. (f). Pub. L. 100–456 added subsec. (f).
 
-1986—Subsec. (a)(2)(B). Pub. L. 99–661, § 604(f)(1)(C), inserted reference to disease.
+1986—Subsec. (a)(2)(B). Pub. L. 99–661, § 604(f)(1)(C), inserted reference to disease.
 
-Subsec. (e). Pub. L. 99–661, § 652(c), added subsec. (e).
+Subsec. (e). Pub. L. 99–661, § 652(c), added subsec. (e).
 
 1985—Subsec. (a). Pub. L. 99–145 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
 
@@ -9144,11 +9144,11 @@ Subsec. (e). Pub. L. 99–661, § 652(c), added subsec. (e).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1073(d)(1), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, Pub. L. 104–106, as enacted.
+Pub. L. 105–85, div. A, title X, § 1073(d)(1), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, Pub. L. 104–106, as enacted.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -9160,17 +9160,17 @@ Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person refer
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VI, § 651(d), Sept. 29, 1988, 102 Stat. 1990, provided that: “Section 1076(f) of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act [Sept. 29, 1988] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
+Pub. L. 100–456, div. A, title VI, § 651(d), Sept. 29, 1988, 102 Stat. 1990, provided that: “Section 1076(f) of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act [Sept. 29, 1988] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-Pub. L. 99–661, div. A, title VI, § 652(e)(3), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (c) [amending this section] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VI, § 652(e)(3), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (c) [amending this section] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title VI, § 652(c), Nov. 8, 1985, 99 Stat. 657, provided that: “The amendments made by this section [amending this section and section 1086 of this title] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
+Pub. L. 99–145, title VI, § 652(c), Nov. 8, 1985, 99 Stat. 657, provided that: “The amendments made by this section [amending this section and section 1086 of this title] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
 
 **Effective Date of 1982 Amendment; Transition Provisions**
 
@@ -9182,7 +9182,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–397, title III, § 302, Sept. 30, 1978, 92 Stat. 849, provided that: “The amendment made by section 301 [amending this section] shall become effective on October 1, 1978, or on the date of the enactment of this Act [Sept. 30, 1978], whichever is later.”
+Pub. L. 95–397, title III, § 302, Sept. 30, 1978, 92 Stat. 849, provided that: “The amendment made by section 301 [amending this section] shall become effective on October 1, 1978, or on the date of the enactment of this Act [Sept. 30, 1978], whichever is later.”
 
 **Effective Date of 1966 Amendment**
 
@@ -9190,7 +9190,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Stipend for Members of Reserve Components for Health Care for Certain Dependents**
 
-Pub. L. 110–181, div. A, title VII, § 704, Jan. 28, 2008, 122 Stat. 188, provided that:
+Pub. L. 110–181, div. A, title VII, § 704, Jan. 28, 2008, 122 Stat. 188, provided that:
 
 > “The Secretary of Defense may, pursuant to regulations prescribed by the Secretary, pay a stipend to a member of a reserve component of the Armed Forces who is called or ordered to active duty for a period of more than 30 days for purposes of maintaining civilian health care coverage for a dependant whom the Secretary determines to possess a special health care need that would be best met by remaining in the member’s civilian health plan. In making such determination, the Secretary shall consider whether—
 
@@ -9200,7 +9200,7 @@ Pub. L. 110–181, div. A, title VII, § 704, Jan. 28, 2008, 122 Stat. 188, pr
 
 **Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm**
 
-Pub. L. 102–25, title III, § 313, Apr. 6, 1991, 105 Stat. 85, provided that:
+Pub. L. 102–25, title III, § 313, Apr. 6, 1991, 105 Stat. 85, provided that:
 
 > **“(a) Health Care Provided.—** A member of the Armed Forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the release of the member from active duty in connection with Operation Desert Storm until the earlier of—
 
@@ -9226,9 +9226,9 @@ Pub. L. 102–25, title III, § 313, Apr. 6, 1991, 105 Stat. 85, provided that
 
 **Dependent; Qualification As; Transition**
 
-Pub. L. 100–456, div. A, title VI, § 651(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 [Pub. L. 98–525, formerly set out as a note under section 1072 of this title], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with section 1076(f) of title 10, United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
+Pub. L. 100–456, div. A, title VI, § 651(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 [Pub. L. 98–525, formerly set out as a note under section 1072 of this title], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with section 1076(f) of title 10, United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
 
-## § 1076a. TRICARE dental program
+## § 1076a. TRICARE dental program
 
 **(a) Establishment of Dental Plans.—** The Secretary of Defense may establish, and in the case of the dental plan described in paragraph (1) shall establish, the following voluntary enrollment dental plans:
 
@@ -9394,13 +9394,13 @@ Pub. L. 100–456, div. A, title VI, § 651(c), Sept. 29, 1988, 102 Stat. 1990
 
 **(2)** The term “standard option plan” means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2027.
 
-(Added Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, § 1 [[div. A], title VII, § 704(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, § 703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, § 711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, § 713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, [div. A], title VII, § 735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, § 704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, § 703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, § 701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, § 713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, § 711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, § 701(a), Dec. 23, 2022, 136 Stat. 2644; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(12), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VII, § 704(a), Dec. 23, 2024, 138 Stat. 1942.)
+(Added Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, § 1 [[div. A], title VII, § 704(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, § 703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, § 711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, § 713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, [div. A], title VII, § 735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, § 704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, § 703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, § 701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, § 713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, § 711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, § 701(a), Dec. 23, 2022, 136 Stat. 2644; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(12), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VII, § 704(a), Dec. 23, 2024, 138 Stat. 1942.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1076a, added Pub. L. 99–145, title VI, § 651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, § 707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, § 701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, § 701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§ 702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, § 732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, § 701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, § 1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685.
+A prior section 1076a, added Pub. L. 99–145, title VI, § 651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, § 707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, § 701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, § 701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§ 702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, § 732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, § 701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, § 1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685.
 
 **Amendments**
 
@@ -9408,29 +9408,29 @@ A prior section 1076a, added Pub. L. 99–145, title VI, § 651(a)(1), Nov. 8,
 
 2023—Subsec. (d)(1)(E)(i). Pub. L. 118–31 substituted “subsection (e)(3))” for “subsection (e)(3)”.
 
-2022—Subsec. (b). Pub. L. 117–263, § 701(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2022—Subsec. (b). Pub. L. 117–263, § 701(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (d)(1)(B). Pub. L. 117–263, § 701(a)(2)(A), substituted “During the period preceding January 1, 2026, the member’s” for “The member’s”.
+Subsec. (d)(1)(B). Pub. L. 117–263, § 701(a)(2)(A), substituted “During the period preceding January 1, 2026, the member’s” for “The member’s”.
 
-Subsec. (d)(1)(C). Pub. L. 117–263, § 701(a)(2)(B), substituted “of each year during the period preceding January 1, 2026,” for “of each year,” in introductory provisions.
+Subsec. (d)(1)(C). Pub. L. 117–263, § 701(a)(2)(B), substituted “of each year during the period preceding January 1, 2026,” for “of each year,” in introductory provisions.
 
-Subsec. (d)(1)(D). Pub. L. 117–263, § 701(a)(2)(C), substituted “During the period preceding January 1, 2026, the Secretary of Defense” for “The Secretary of Defense”.
+Subsec. (d)(1)(D). Pub. L. 117–263, § 701(a)(2)(C), substituted “During the period preceding January 1, 2026, the Secretary of Defense” for “The Secretary of Defense”.
 
-Subsec. (d)(1)(E), (F). Pub. L. 117–263, § 701(a)(2)(D), added subpars. (E) and (F).
+Subsec. (d)(1)(E), (F). Pub. L. 117–263, § 701(a)(2)(D), added subpars. (E) and (F).
 
-Subsec. (e)(3). Pub. L. 117–263, § 701(a)(3), added par. (3).
+Subsec. (e)(3). Pub. L. 117–263, § 701(a)(3), added par. (3).
 
-Subsec. (j). Pub. L. 117–263, § 701(a)(4), substituted “During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reduce benefits provided under a standard option plan under this section, until” for “The Secretary of Defense may not reduce benefits provided under a plan established under this section until” in introductory provisions.
+Subsec. (j). Pub. L. 117–263, § 701(a)(4), substituted “During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reduce benefits provided under a standard option plan under this section, until” for “The Secretary of Defense may not reduce benefits provided under a plan established under this section until” in introductory provisions.
 
-Subsec. (*l*). Pub. L. 117–263, § 701(a)(5), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 117–263, § 701(a)(5), added subsec. (*l*).
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 711(d), struck out at end “During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.”
+2021—Subsec. (a)(1). Pub. L. 116–283, § 711(d), struck out at end “During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.”
 
-Subsec. (b). Pub. L. 116–283, § 711(c), repealed Pub. L. 115–232, § 713(b). See 2018 Amendment note below.
+Subsec. (b). Pub. L. 116–283, § 711(c), repealed Pub. L. 115–232, § 713(b). See 2018 Amendment note below.
 
-Pub. L. 116–283, § 711(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The plans established under this section shall be administered by the Secretary of Defense through an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (a) to enroll in an insurance plan under chapter 89A of title 5, in accordance with terms prescribed by the Secretary, including terms, to the extent practical, as defined by the Director through regulation, consistent with subsection (d) and, to the extent practicable in relation to such chapter 89A, other provisions of this section.”
+Pub. L. 116–283, § 711(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The plans established under this section shall be administered by the Secretary of Defense through an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (a) to enroll in an insurance plan under chapter 89A of title 5, in accordance with terms prescribed by the Secretary, including terms, to the extent practical, as defined by the Director through regulation, consistent with subsection (d) and, to the extent practicable in relation to such chapter 89A, other provisions of this section.”
 
-2018—Subsec. (b). Pub. L. 115–232, § 713(b), which amended subsec. (b) generally, applicable with respect to the first contract year for chapter 89A of Title 5, Government Organization and Employees, that was to begin on or after Jan. 1, 2022, was repealed by Pub. L. 116–283, § 711(c).
+2018—Subsec. (b). Pub. L. 115–232, § 713(b), which amended subsec. (b) generally, applicable with respect to the first contract year for chapter 89A of Title 5, Government Organization and Employees, that was to begin on or after Jan. 1, 2022, was repealed by Pub. L. 116–283, § 711(c).
 
 2013—Subsec. (a)(1). Pub. L. 112–239 inserted at end “During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.”
 
@@ -9468,7 +9468,7 @@ Pub. L. 116–283, § 711(b), amended subsec. (b) generally. Prior to amendmen
 
 **Rulemaking**
 
-Pub. L. 117–263, div. A, title VII, § 701(b), Dec. 23, 2022, 136 Stat. 2646, as amended by Pub. L. 118–159, div. A, title VII, § 704(b)(1), Dec. 23, 2024, 138 Stat. 1942, provided that:
+Pub. L. 117–263, div. A, title VII, § 701(b), Dec. 23, 2022, 136 Stat. 2646, as amended by Pub. L. 118–159, div. A, title VII, § 704(b)(1), Dec. 23, 2024, 138 Stat. 1942, provided that:
 
 > “Pursuant to the authority under section 1076a(b)(1) of title 10, United States Code, as amended by subsection (a), the Secretary of Defense shall—
 
@@ -9478,11 +9478,11 @@ Pub. L. 117–263, div. A, title VII, § 701(b), Dec. 23, 2022, 136 Stat. 2646
 
 **Transition of Administration of TRICARE Dental Plans**
 
-Pub. L. 115–232, div. A, title VII, § 713(d), Aug. 13, 2018, 132 Stat. 1812, which related to transition of administration of TRICARE dental plans, was repealed by Pub. L. 116–283, div. A, title VII, § 711(c), Jan. 1, 2021, 134 Stat. 3691.
+Pub. L. 115–232, div. A, title VII, § 713(d), Aug. 13, 2018, 132 Stat. 1812, which related to transition of administration of TRICARE dental plans, was repealed by Pub. L. 116–283, div. A, title VII, § 711(c), Jan. 1, 2021, 134 Stat. 3691.
 
 **Authorization To Expand Enrollment in Dependents’ Dental Program to Certain Members Returning From Overseas Assignments**
 
-Pub. L. 103–160, div. A, title VII, § 703, Nov. 30, 1993, 107 Stat. 1687, provided that:
+Pub. L. 103–160, div. A, title VII, § 703, Nov. 30, 1993, 107 Stat. 1687, provided that:
 
 > **“(a) Authority To Expand Program.—** After March 31, 1994, the Secretary of Defense may expand the dependents’ dental program established under section 1076a of title 10, United States Code, to permit a member of the uniformed services described in subsection (b) to enroll dependents described in subsection (a) of such section in a dental benefits plan under the program without regard to the length of the uncompleted portion of the member’s period of obligated service.
 
@@ -9496,19 +9496,19 @@ Pub. L. 103–160, div. A, title VII, § 703, Nov. 30, 1993, 107 Stat. 1687, p
 
 > **“(d) Notification of Exercise of Authority.—** The Secretary shall notify Congress of any decision to expand the enrollment eligibility of dependents in the dependents’ dental program as provided in subsection (a) not later than 30 days before such expansion takes effect.”
 
-## [§ 1076b. Repealed. Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282]
+## [§ 1076b. Repealed. Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282]
 
-Section, added Pub. L. 108–106, title I, § 1115(a), Nov. 6, 2003, 117 Stat. 1216; amended Pub. L. 108–136, div. A, title VII, § 702, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 109–163, div. A, title VII, § 702(a)(1), Jan. 6, 2006, 119 Stat. 3340; Pub. L. 109–364, div. A, title VII, § 704(d), Oct. 17, 2006, 120 Stat. 2280, related to TRICARE Standard coverage for members of the Selected Reserve.
+Section, added Pub. L. 108–106, title I, § 1115(a), Nov. 6, 2003, 117 Stat. 1216; amended Pub. L. 108–136, div. A, title VII, § 702, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 109–163, div. A, title VII, § 702(a)(1), Jan. 6, 2006, 119 Stat. 3340; Pub. L. 109–364, div. A, title VII, § 704(d), Oct. 17, 2006, 120 Stat. 2280, related to TRICARE Standard coverage for members of the Selected Reserve.
 
-A prior section 1076b, added Pub. L. 104–106, div. A, title VII, § 705(a)(1), Feb. 10, 1996, 110 Stat. 372; amended Pub. L. 104–201, div. A, title VII, § 702(a), (b), Sept. 23, 1996, 110 Stat. 2588; Pub. L. 105–85, div. A, title VII, § 733(a), Nov. 18, 1997, 111 Stat. 1812, related to Selected Reserve dental insurance, prior to repeal by Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685.
+A prior section 1076b, added Pub. L. 104–106, div. A, title VII, § 705(a)(1), Feb. 10, 1996, 110 Stat. 372; amended Pub. L. 104–201, div. A, title VII, § 702(a), (b), Sept. 23, 1996, 110 Stat. 2588; Pub. L. 105–85, div. A, title VII, § 733(a), Nov. 18, 1997, 111 Stat. 1812, related to Selected Reserve dental insurance, prior to repeal by Pub. L. 106–65, div. A, title VII, § 711(a), Oct. 5, 1999, 113 Stat. 685.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282, provided that the repeal made by section 706(d) is effective Oct. 1, 2007.
+Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282, provided that the repeal made by section 706(d) is effective Oct. 1, 2007.
 
-## § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
+## § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
 
 **(a) Requirement for Plan.—**
 
@@ -9598,7 +9598,7 @@ Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282
 
 **(3)** The term “retired pay” includes retainer pay.
 
-(Added Pub. L. 104–201, div. A, title VII, § 703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§ 701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, § 702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, § 704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, § 1 [[div. A], title VII, § 726, title X, § 1087(a)(6)], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290; Pub. L. 114–328, div. A, title VII, § 715(b)(3), Dec. 23, 2016, 130 Stat. 2222.)
+(Added Pub. L. 104–201, div. A, title VII, § 703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§ 701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, § 702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, § 704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, § 1 [[div. A], title VII, § 726, title X, § 1087(a)(6)], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290; Pub. L. 114–328, div. A, title VII, § 715(b)(3), Dec. 23, 2016, 130 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -9606,29 +9606,29 @@ Pub. L. 109–364, div. A, title VII, § 706(d), Oct. 17, 2006, 120 Stat. 2282
 
 2016—Subsec. (a). Pub. L. 114–328 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.”
 
-2000—Subsec. (b)(5)(C). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(6)], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
+2000—Subsec. (b)(5)(C). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(6)], struck out “pursuant to subsection (i)(2) of such section” after “section 1076a of this title”.
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title VII, § 726(b)], substituted “Required Terminations” for “Termination” in heading.
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title VII, § 726(b)], substituted “Required Terminations” for “Termination” in heading.
 
-Subsecs. (i), (j). Pub. L. 106–398, § 1 [[div. A], title VII, § 726(a)], added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 106–398, § 1 [[div. A], title VII, § 726(a)], added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–261, § 702(a), added par. (4) and redesignated former par. (4) as (5).
+1998—Subsec. (b)(4), (5). Pub. L. 105–261, § 702(a), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f)(3). Pub. L. 105–261, § 702(b), substituted “(b)(5)” for “(b)(4)”.
+Subsec. (f)(3). Pub. L. 105–261, § 702(b), substituted “(b)(5)” for “(b)(4)”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
+1997—Subsec. (a). Pub. L. 105–85, § 734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
 
-Subsec. (b)(1). Pub. L. 105–85, § 734(a)(2), substituted “uniformed services” for “Armed Forces”.
+Subsec. (b)(1). Pub. L. 105–85, § 734(a)(2), substituted “uniformed services” for “Armed Forces”.
 
-Subsec. (b)(4)(A). Pub. L. 105–85, § 701(1)(A), substituted “died” for “dies”.
+Subsec. (b)(4)(A). Pub. L. 105–85, § 701(1)(A), substituted “died” for “dies”.
 
-Subsec. (b)(4)(C). Pub. L. 105–85, § 701(1)(B), (2), (3), added subpar. (C).
+Subsec. (b)(4)(C). Pub. L. 105–85, § 701(1)(B), (2), (3), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 105–85, § 733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
+Subsec. (c)(2). Pub. L. 105–85, § 733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
 
-Subsec. (h). Pub. L. 105–85, § 734(b)(2), substituted “other administering Secretaries” for “Secretary of Transportation”.
+Subsec. (h). Pub. L. 105–85, § 734(b)(2), substituted “other administering Secretaries” for “Secretary of Transportation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9638,11 +9638,11 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 **Limitation on Implementation of Alternative Collection Procedures**
 
-Pub. L. 105–85, div. A, title VII, § 733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defense may not implement procedures for collecting premiums under [former] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
+Pub. L. 105–85, div. A, title VII, § 733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defense may not implement procedures for collecting premiums under [former] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
 
 **Implementation of Dental Plan**
 
-Pub. L. 104–201, div. A, title VII, § 703(b), Sept. 23, 1996, 110 Stat. 2590, as amended by Pub. L. 105–85, div. A, title VII, § 733(e), Nov. 18, 1997, 111 Stat. 1813, provided that:
+Pub. L. 104–201, div. A, title VII, § 703(b), Sept. 23, 1996, 110 Stat. 2590, as amended by Pub. L. 105–85, div. A, title VII, § 733(e), Nov. 18, 1997, 111 Stat. 1813, provided that:
 
 > “Beginning not later than April 1, 1998, the Secretary of Defense shall—
 
@@ -9650,7 +9650,7 @@ Pub. L. 104–201, div. A, title VII, § 703(b), Sept. 23, 1996, 110 Stat. 259
 
 > **“(2)** begin to provide benefits under the plan.”
 
-## § 1076d. TRICARE program: TRICARE Reserve Select coverage for members of the Selected Reserve
+## § 1076d. TRICARE program: TRICARE Reserve Select coverage for members of the Selected Reserve
 
 **(a) Eligibility.—**
 
@@ -9694,7 +9694,7 @@ Pub. L. 104–201, div. A, title VII, § 703(b), Sept. 23, 1996, 110 Stat. 259
 
 **(B)** health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
 
-(Added Pub. L. 108–375, div. A, title VII, § 701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, § 701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§ 704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, § 701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, [div. A], title VII, § 704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, § 1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, § 701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 701(a), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title VII, § 701, title XVII, § 1731(a)(24), Dec. 20, 2019, 133 Stat. 1436, 1813; Pub. L. 118–31, div. A, title VII, § 702(a), Dec. 22, 2023, 137 Stat. 300.)
+(Added Pub. L. 108–375, div. A, title VII, § 701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, § 701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§ 704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, § 701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, [div. A], title VII, § 704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, § 1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, § 701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 701(a), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title VII, § 701, title XVII, § 1731(a)(24), Dec. 20, 2019, 133 Stat. 1436, 1813; Pub. L. 118–31, div. A, title VII, § 702(a), Dec. 22, 2023, 137 Stat. 300.)
 
 **Editorial Notes**
 
@@ -9706,17 +9706,17 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(2), prob
 
 2023—Subsec. (c). Pub. L. 118–31 substituted “three years” for “six months”.
 
-2019—Subsec. (a)(2). Pub. L. 116–92, § 701, substituted “During the period preceding January 1, 2030, paragraph (1) does not apply” for “Paragraph (1) does not apply”.
+2019—Subsec. (a)(2). Pub. L. 116–92, § 701, substituted “During the period preceding January 1, 2030, paragraph (1) does not apply” for “Paragraph (1) does not apply”.
 
-Subsec. (d)(1). Pub. L. 116–92, § 1731(a)(24), substituted “section 1075 of this title” for “section 1075 of this section”.
+Subsec. (d)(1). Pub. L. 116–92, § 1731(a)(24), substituted “section 1075 of this title” for “section 1075 of this section”.
 
 2017—Subsec. (f)(2). Pub. L. 115–91 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘TRICARE Reserve Select’ means the TRICARE Select self-managed, preferred-provider network option under section 1075 made available to beneficiaries by reason of this section and in accordance with subsection (d)(1).”
 
-2016—Pub. L. 114–328, § 701(j)(1)(B)(iii), substituted “TRICARE Reserve Select” for “TRICARE Standard” in section catchline and wherever appearing in text.
+2016—Pub. L. 114–328, § 701(j)(1)(B)(iii), substituted “TRICARE Reserve Select” for “TRICARE Standard” in section catchline and wherever appearing in text.
 
-Subsec. (d)(1). Pub. L. 114–328, § 701(j)(1)(B)(i), inserted at end “Such premium shall apply instead of any enrollment fees required under section 1075 of this section.”
+Subsec. (d)(1). Pub. L. 114–328, § 701(j)(1)(B)(i), inserted at end “Such premium shall apply instead of any enrollment fees required under section 1075 of this section.”
 
-Subsec. (f)(2). Pub. L. 114–328, § 701(j)(1)(B)(ii), added par. (2) and struck out former par. (2) which defined the term “TRICARE Standard”.
+Subsec. (f)(2). Pub. L. 114–328, § 701(j)(1)(B)(ii), added par. (2) and struck out former par. (2) which defined the term “TRICARE Standard”.
 
 2013—Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), eligibility” for “Eligibility”, and added par. (2).
 
@@ -9726,45 +9726,45 @@ Subsec. (f)(2). Pub. L. 114–328, § 701(j)(1)(B)(ii), added par. (2) and str
 
 Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007”.
 
-2006—Pub. L. 109–364, § 706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
+2006—Pub. L. 109–364, § 706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
 
-Pub. L. 109–163, § 701(f)(1), substituted “active duty in support of a contingency operation” for “active duty” in section catchline.
+Pub. L. 109–163, § 701(f)(1), substituted “active duty in support of a contingency operation” for “active duty” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 706(a), designated introductory provisions as par. (1), substituted “Except as provided in paragraph (2), a member” for “A member”, substituted period at end for “after the member completes service on active duty to which the member was called or ordered for a period of more than 30 days on or after September 11, 2001, under a provision of law referred to in section 101(a)(13)(B), if the member—”, added par. (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (a). Pub. L. 109–364, § 706(a), designated introductory provisions as par. (1), substituted “Except as provided in paragraph (2), a member” for “A member”, substituted period at end for “after the member completes service on active duty to which the member was called or ordered for a period of more than 30 days on or after September 11, 2001, under a provision of law referred to in section 101(a)(13)(B), if the member—”, added par. (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) served continuously on active duty for 90 or more days pursuant to such call or order; and
 
 “(2) not later than 90 days after release from such active-duty service, entered into an agreement with the Secretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
 
-Subsec. (a)(2). Pub. L. 109–163, § 701(d), substituted “not later than 90 days after release” for “on or before the date of the release”.
+Subsec. (a)(2). Pub. L. 109–163, § 701(d), substituted “not later than 90 days after release” for “on or before the date of the release”.
 
-Subsec. (b). Pub. L. 109–364, § 706(b), substituted “Termination of Eligibility Upon Termination of Service” for “Period of Coverage” in heading, struck out “(4)” before “Eligibility”, and struck out pars. (1) to (3) and (5), which related to beginning of period of coverage, length of coverage period, period of coverage in the case of a member recalled to active duty, and coverage for a member of the Individual Ready Reserve.
+Subsec. (b). Pub. L. 109–364, § 706(b), substituted “Termination of Eligibility Upon Termination of Service” for “Period of Coverage” in heading, struck out “(4)” before “Eligibility”, and struck out pars. (1) to (3) and (5), which related to beginning of period of coverage, length of coverage period, period of coverage in the case of a member recalled to active duty, and coverage for a member of the Individual Ready Reserve.
 
-Subsec. (b)(2). Pub. L. 109–163, § 701(a)(2), substituted “Subject to paragraph (3) and unless earlier terminated under paragraph (4)” for “Unless earlier terminated under paragraph (3)”.
+Subsec. (b)(2). Pub. L. 109–163, § 701(a)(2), substituted “Subject to paragraph (3) and unless earlier terminated under paragraph (4)” for “Unless earlier terminated under paragraph (3)”.
 
-Subsec. (b)(3), (4). Pub. L. 109–163, § 701(a)(1), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (b)(3), (4). Pub. L. 109–163, § 701(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(5). Pub. L. 109–163, § 701(b), added par. (5).
+Subsec. (b)(5). Pub. L. 109–163, § 701(b), added par. (5).
 
-Subsec. (c). Pub. L. 109–163, § 701(c), inserted at end “If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member.”
+Subsec. (c). Pub. L. 109–163, § 701(c), inserted at end “If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member.”
 
-Subsec. (d)(3). Pub. L. 109–364, § 704(c), inserted at end “During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”
+Subsec. (d)(3). Pub. L. 109–364, § 704(c), inserted at end “During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”
 
-Subsec. (e). Pub. L. 109–364, § 706(c)(1)(A), (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.”.
+Subsec. (e). Pub. L. 109–364, § 706(c)(1)(A), (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.”.
 
-Subsec. (f)(2). Pub. L. 109–163, § 701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘TRICARE Standard’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
+Subsec. (f)(2). Pub. L. 109–163, § 701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘TRICARE Standard’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
 
-Subsec. (f)(3). Pub. L. 109–364, § 706(c)(1)(C), struck out par. (3) which read as follows: “The term ‘member recalled to active duty’ means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based.”
+Subsec. (f)(3). Pub. L. 109–364, § 706(c)(1)(C), struck out par. (3) which read as follows: “The term ‘member recalled to active duty’ means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based.”
 
-Pub. L. 109–163, § 701(a)(3), added par. (3).
+Pub. L. 109–163, § 701(a)(3), added par. (3).
 
-Subsec. (g). Pub. L. 109–364, § 706(c)(1)(B), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 109–364, § 706(c)(1)(B), redesignated subsec. (g) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title VII, § 702(b), Dec. 22, 2023, 137 Stat. 300, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2025.”
+Pub. L. 118–31, div. A, title VII, § 702(b), Dec. 22, 2023, 137 Stat. 300, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2025.”
 
 **Effective Date of 2016 Amendment**
 
@@ -9772,25 +9772,25 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title VII, § 704(c), Oct. 14, 2008, 122 Stat. 4499, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 2008.”
+Pub. L. 110–417, [div. A], title VII, § 704(c), Oct. 14, 2008, 122 Stat. 4499, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 2008.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VII, § 706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: “The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007.”
+Pub. L. 109–364, div. A, title VII, § 706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: “The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007.”
 
 **Savings Provision**
 
-Pub. L. 109–364, div. A, title VII, § 706(f), Oct. 17, 2006, 120 Stat. 2282, as amended by Pub. L. 110–181, div. A, title VII, § 706(a), Jan. 28, 2008, 122 Stat. 189, provided that:
+Pub. L. 109–364, div. A, title VII, § 706(f), Oct. 17, 2006, 120 Stat. 2282, as amended by Pub. L. 110–181, div. A, title VII, § 706(a), Jan. 28, 2008, 122 Stat. 189, provided that:
 
 > **“(1)** Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act [Oct. 17, 2006] under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
 
 > **“(2)** The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) [set out as an Effective Date of 2006 Amendment note above] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006.”
 
-[Pub. L. 110–181, div. A, title VII, § 706(b), Jan. 28, 2008, 122 Stat. 189, provided that: “The amendments made by subsection (a) [amending section 706(f) of Pub. L. 109–364, set out above] shall take effect on October 1, 2007.” ]
+[Pub. L. 110–181, div. A, title VII, § 706(b), Jan. 28, 2008, 122 Stat. 189, provided that: “The amendments made by subsection (a) [amending section 706(f) of Pub. L. 109–364, set out above] shall take effect on October 1, 2007.” ]
 
 **Commercial Health Insurance Coverage Pilot Program for Eligible Reserve Component Members**
 
-Pub. L. 114–328, div. A, title VII, § 712(b), (c), Dec. 23, 2016, 130 Stat. 2215, 2219, provided that:
+Pub. L. 114–328, div. A, title VII, § 712(b), (c), Dec. 23, 2016, 130 Stat. 2215, 2219, provided that:
 
 > **“(b) Pilot Program.—**
 
@@ -9970,11 +9970,11 @@ Pub. L. 114–328, div. A, title VII, § 712(b), (c), Dec. 23, 2016, 130 Stat.
 
 **Calculation of Monthly Premiums for 2009**
 
-Pub. L. 110–417, [div. A], title VII, § 704(b), Oct. 14, 2008, 122 Stat. 4499, provided that: “For purposes of section 1076d(d)(3) of title 10, United States Code, the appropriate actuarial basis for purposes of subparagraph (A) of that section shall be determined for calendar year 2009 by utilizing the reported cost of providing benefits under that section to members and their dependents during calendar years 2006 and 2007, except that the monthly amount of the premium determined pursuant to this subsection may not exceed the amount in effect for the month of March 2007.”
+Pub. L. 110–417, [div. A], title VII, § 704(b), Oct. 14, 2008, 122 Stat. 4499, provided that: “For purposes of section 1076d(d)(3) of title 10, United States Code, the appropriate actuarial basis for purposes of subparagraph (A) of that section shall be determined for calendar year 2009 by utilizing the reported cost of providing benefits under that section to members and their dependents during calendar years 2006 and 2007, except that the monthly amount of the premium determined pursuant to this subsection may not exceed the amount in effect for the month of March 2007.”
 
 **Implementation**
 
-Pub. L. 108–375, div. A, title VII, § 701(b), Oct. 28, 2004, 118 Stat. 1981, provided that:
+Pub. L. 108–375, div. A, title VII, § 701(b), Oct. 28, 2004, 118 Stat. 1981, provided that:
 
 > **“(1)** The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than 180 days after the date of the enactment of this Act [Oct. 28, 2004].
 
@@ -9988,7 +9988,7 @@ Pub. L. 108–375, div. A, title VII, § 701(b), Oct. 28, 2004, 118 Stat. 1981
 
 > **“(B)** The Secretary of Defense shall take such action as is necessary to ensure, to the maximum extent practicable, that members of the reserve components eligible to enter into an agreement as provided in subparagraph (A) actually receive information on the opportunity and procedures for entering into such an agreement together with a clear explanation of the benefits that the members are eligible to receive as a result of entering into such an agreement under section 1076d of title 10, United States Code.”
 
-## § 1076e. TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
+## § 1076e. TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
 
 **(a) Eligibility.—**
 
@@ -10024,7 +10024,7 @@ Pub. L. 108–375, div. A, title VII, § 701(b), Oct. 28, 2004, 118 Stat. 1981
 
 **(B)** health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
 
-(Added Pub. L. 111–84, div. A, title VII, § 705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 701(b), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title XVII, § 1731(a)(25), Dec. 20, 2019, 133 Stat. 1813.)
+(Added Pub. L. 111–84, div. A, title VII, § 705(a), Oct. 28, 2009, 123 Stat. 2374; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(C), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 701(b), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title XVII, § 1731(a)(25), Dec. 20, 2019, 133 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -10032,21 +10032,21 @@ Pub. L. 108–375, div. A, title VII, § 701(b), Oct. 28, 2004, 118 Stat. 1981
 
 2019—Subsec. (d)(1). Pub. L. 116–92 substituted “section 1075 of this title” for “section 1075 of this section”.
 
-2017—Subsec. (b). Pub. L. 115–91, § 701(b)(1), struck out “Retired Reserve” after “TRICARE” in heading. See first 2016 Amendment note for subsec. (b) below.
+2017—Subsec. (b). Pub. L. 115–91, § 701(b)(1), struck out “Retired Reserve” after “TRICARE” in heading. See first 2016 Amendment note for subsec. (b) below.
 
-Subsec. (c). Pub. L. 115–91, § 701(b)(2), struck out “Retired Reserve” before “coverage under such section” in last sentence.
+Subsec. (c). Pub. L. 115–91, § 701(b)(2), struck out “Retired Reserve” before “coverage under such section” in last sentence.
 
-Subsec. (f)(2). Pub. L. 115–91, § 701(b)(3), added par. (2) and struck out former par. (2) which read as follows: “The term ‘TRICARE Retired Reserve’ means the TRICARE Select self-managed, preferred-provider network option under section 1075 made available to beneficiaries by reason of this section and in accordance with subsection (d)(1).”
+Subsec. (f)(2). Pub. L. 115–91, § 701(b)(3), added par. (2) and struck out former par. (2) which read as follows: “The term ‘TRICARE Retired Reserve’ means the TRICARE Select self-managed, preferred-provider network option under section 1075 made available to beneficiaries by reason of this section and in accordance with subsection (d)(1).”
 
-2016—Pub. L. 114–328, § 701(j)(1)(C)(iv), substituted “TRICARE Retired Reserve” for “TRICARE Standard” in section catchline and wherever appearing in text.
+2016—Pub. L. 114–328, § 701(j)(1)(C)(iv), substituted “TRICARE Retired Reserve” for “TRICARE Standard” in section catchline and wherever appearing in text.
 
-Subsec. (b). Pub. L. 114–328, § 701(j)(1)(C)(iv), which directed substitution of “TRICARE Retired Reserve” for “TRICARE Standard” wherever appearing in text, was also executed to heading of subsec. (b) to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 115–91, § 701(b)(1), which could be executed only if the substitution had taken place.
+Subsec. (b). Pub. L. 114–328, § 701(j)(1)(C)(iv), which directed substitution of “TRICARE Retired Reserve” for “TRICARE Standard” wherever appearing in text, was also executed to heading of subsec. (b) to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 115–91, § 701(b)(1), which could be executed only if the substitution had taken place.
 
-Pub. L. 114–328, § 701(j)(1)(C)(iii), substituted “TRICARE coverage at” for “TRICARE Standard coverage at”.
+Pub. L. 114–328, § 701(j)(1)(C)(iii), substituted “TRICARE coverage at” for “TRICARE Standard coverage at”.
 
-Subsec. (d)(1). Pub. L. 114–328, § 701(j)(1)(C)(i), inserted at end “Such premium shall apply instead of any enrollment fees required under section 1075 of this section.”
+Subsec. (d)(1). Pub. L. 114–328, § 701(j)(1)(C)(i), inserted at end “Such premium shall apply instead of any enrollment fees required under section 1075 of this section.”
 
-Subsec. (f)(2). Pub. L. 114–328, § 701(j)(1)(C)(ii), added par. (2) and struck out former par. (2) which defined the term “TRICARE Standard”.
+Subsec. (f)(2). Pub. L. 114–328, § 701(j)(1)(C)(ii), added par. (2) and struck out former par. (2) which defined the term “TRICARE Standard”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10056,9 +10056,9 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **Effective Date**
 
-Pub. L. 111–84, div. A, title VII, § 705(c), Oct. 28, 2009, 123 Stat. 2375, provided that: “Section 1076e of title 10, United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify.”
+Pub. L. 111–84, div. A, title VII, § 705(c), Oct. 28, 2009, 123 Stat. 2375, provided that: “Section 1076e of title 10, United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify.”
 
-## § 1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty
+## § 1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty
 
 **(a) Extended Coverage.—** During a period in which a member of the National Guard is performing disaster response duty, the member may be treated as being on active duty for a period of more than 30 days for purposes of the eligibility of the member and dependents of the member for health care benefits under the TRICARE program if such period immediately follows a period in which the member served on full-time National Guard duty under section 502(f) of title 32, including pursuant to chapter 9 of such title, unless the Governor of the State (or, with respect to the District of Columbia, the mayor of the District of Columbia) determines that such extended eligibility is not in the best interest of the member or the State.
 
@@ -10074,9 +10074,9 @@ Pub. L. 111–84, div. A, title VII, § 705(c), Oct. 28, 2009, 123 Stat. 2375,
 
 **(2)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Pub. L. 114–328, div. A, title VII, § 711(a), Dec. 23, 2016, 130 Stat. 2213.)
+(Added Pub. L. 114–328, div. A, title VII, § 711(a), Dec. 23, 2016, 130 Stat. 2213.)
 
-## § 1077. Medical care for dependents: authorized care in facilities of uniformed services
+## § 1077. Medical care for dependents: authorized care in facilities of uniformed services
 
 **(a)** Only the following types of health care may be provided under section 1076 of this title:
 
@@ -10246,13 +10246,13 @@ Pub. L. 111–84, div. A, title VII, § 705(c), Oct. 28, 2009, 123 Stat. 2375,
 
 **(E)** such other diseases or conditions the Secretary determines appropriate.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, § 2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, § 633(a), title XIV, §§ 1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, § 651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§ 702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, § 701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§ 703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, § 701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, § 702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§ 702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, § 715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§ 713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, § 739(c), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 116–283, div. A, title VII, § 705, Jan. 1, 2021, 134 Stat. 3689; Pub. L. 118–31, div. A, title VII, §§ 703, 704, Dec. 22, 2023, 137 Stat. 300.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, § 2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, § 633(a), title XIV, §§ 1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, § 651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§ 702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, § 701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§ 703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, § 701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, § 702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§ 702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, § 715, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 114–328, div. A, title VII, §§ 713, 714(a), Dec. 23, 2016, 130 Stat. 2220; Pub. L. 115–91, div. A, title VII, § 739(c), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 116–283, div. A, title VII, § 705, Jan. 1, 2021, 134 Stat. 3689; Pub. L. 118–31, div. A, title VII, §§ 703, 704, Dec. 22, 2023, 137 Stat. 300.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1077(a) 1077(b) 1077(c) | 37:403(f). 37:403(g). 37:403(h) (less clause (4)). | June 7, 1956, ch. 374, § 103(f), (g), (h), 70 Stat. 251, 252. |
+| 1077(a) 1077(b) 1077(c) | 37:403(f). 37:403(g). 37:403(h) (less clause (4)). | June 7, 1956, ch. 374, § 103(f), (g), (h), 70 Stat. 251, 252. |
 | 1077(d) | 37:403(h) (clause (4)). |  |
 
 In subsection (a), clause (6) is inserted to reflect subsection (b).
@@ -10263,61 +10263,61 @@ In subsection (a), clause (6) is inserted to reflect subsection (b).
 
 Provisions similar to those in subsec. (b)(3) of this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8045], Oct. 12, 1984, 98 Stat. 1904, 1931.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8045], Oct. 12, 1984, 98 Stat. 1904, 1931.
 
-Pub. L. 98–212, title VII, § 752, Dec. 8, 1983, 97 Stat. 1447.
+Pub. L. 98–212, title VII, § 752, Dec. 8, 1983, 97 Stat. 1447.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 756], Dec. 21, 1982, 96 Stat. 1833, 1860.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 756], Dec. 21, 1982, 96 Stat. 1833, 1860.
 
-Pub. L. 97–114, title VII, § 759, Dec. 29, 1981, 95 Stat. 1588.
+Pub. L. 97–114, title VII, § 759, Dec. 29, 1981, 95 Stat. 1588.
 
-Pub. L. 96–527, title VII, § 763, Dec. 15, 1980, 94 Stat. 3092.
+Pub. L. 96–527, title VII, § 763, Dec. 15, 1980, 94 Stat. 3092.
 
-Pub. L. 96–154, title VII, § 769, Dec. 21, 1979, 93 Stat. 1163.
+Pub. L. 96–154, title VII, § 769, Dec. 21, 1979, 93 Stat. 1163.
 
-A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2023—Subsec. (a)(16). Pub. L. 118–31, § 703, amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.”
+2023—Subsec. (a)(16). Pub. L. 118–31, § 703, amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.”
 
-Subsec. (c)(1). Pub. L. 118–31, § 704(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (c)(1). Pub. L. 118–31, § 704(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (c)(3). Pub. L. 118–31, § 704(2), added par. (3).
+Subsec. (c)(3). Pub. L. 118–31, § 704(2), added par. (3).
 
 2021—Subsec. (g). Pub. L. 116–283 designated existing provisions as par. (1) and added par. (2).
 
-2017—Subsec. (a)(3), (18). Pub. L. 115–91, § 739(c)(1), substituted “subsection (h)” for “subsection (g)”.
+2017—Subsec. (a)(3), (18). Pub. L. 115–91, § 739(c)(1), substituted “subsection (h)” for “subsection (g)”.
 
-Subsec. (g). Pub. L. 115–91, § 739(c)(2), substituted “dependents eligible for care under this section” for “dependents of former members of the uniformed services”.
+Subsec. (g). Pub. L. 115–91, § 739(c)(2), substituted “dependents eligible for care under this section” for “dependents of former members of the uniformed services”.
 
-2016—Subsec. (a)(3). Pub. L. 114–328, § 714(a)(1)(A), inserted before period at end “, including, in accordance with subsection (g), medically necessary vitamins”.
+2016—Subsec. (a)(3). Pub. L. 114–328, § 714(a)(1)(A), inserted before period at end “, including, in accordance with subsection (g), medically necessary vitamins”.
 
-Subsec. (a)(16). Pub. L. 114–328, § 713(1), substituted “Except as provided by subsection (g), a hearing aid” for “A hearing aid”.
+Subsec. (a)(16). Pub. L. 114–328, § 713(1), substituted “Except as provided by subsection (g), a hearing aid” for “A hearing aid”.
 
-Subsec. (a)(18). Pub. L. 114–328, § 714(a)(1)(B), added par. (18).
+Subsec. (a)(18). Pub. L. 114–328, § 714(a)(1)(B), added par. (18).
 
-Subsec. (g). Pub. L. 114–328, § 713(2), added subsec. (g).
+Subsec. (g). Pub. L. 114–328, § 713(2), added subsec. (g).
 
-Subsec. (h). Pub. L. 114–328, § 714(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 114–328, § 714(a)(2), added subsec. (h).
 
 2004—Subsec. (c). Pub. L. 108–375 designated existing provisions as par. (1), substituted “Except as specified in paragraph (2), a” for “A”, and added par. (2).
 
-2001—Subsec. (a)(12). Pub. L. 107–107, § 703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
+2001—Subsec. (a)(12). Pub. L. 107–107, § 703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
 
-Subsec. (a)(16). Pub. L. 107–107, § 702(1), added par. (16).
+Subsec. (a)(16). Pub. L. 107–107, § 702(1), added par. (16).
 
-Subsec. (a)(17). Pub. L. 107–107, § 704, added par. (17).
+Subsec. (a)(17). Pub. L. 107–107, § 704, added par. (17).
 
-Subsec. (b)(2). Pub. L. 107–107, § 702(2), substituted “Orthopedic footwear” for “Hearing aids, orthopedic footwear,”.
+Subsec. (b)(2). Pub. L. 107–107, § 702(2), substituted “Orthopedic footwear” for “Hearing aids, orthopedic footwear,”.
 
-Subsec. (e). Pub. L. 107–107, § 702(3), added subsec. (e).
+Subsec. (e). Pub. L. 107–107, § 702(3), added subsec. (e).
 
-Subsec. (f). Pub. L. 107–107, § 703(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 107–107, § 703(a)(2), added subsec. (f).
 
-1997—Subsec. (a)(15). Pub. L. 105–85, § 702(a), added cl. (15).
+1997—Subsec. (a)(15). Pub. L. 105–85, § 702(a), added cl. (15).
 
-Subsec. (b)(2). Pub. L. 105–85, § 702(b), added par. (2) and struck out former par. (2) which read as follows: “Prosthetic devices, hearing aids, orthopedic footwear, and spectacles except that—
+Subsec. (b)(2). Pub. L. 105–85, § 702(b), added par. (2) and struck out former par. (2) which read as follows: “Prosthetic devices, hearing aids, orthopedic footwear, and spectacles except that—
 
 “(A) outside the United States and at stations inside the United States where adequate civilian facilities are unavailable, such items may be sold to dependents at cost to the United States, and
 
@@ -10325,29 +10325,29 @@ Subsec. (b)(2). Pub. L. 105–85, § 702(b), added par. (2) and struck out for
 
 1996—Subsec. (a)(14). Pub. L. 104–201 added cl. (14).
 
-1994—Subsec. (b)(2)(B). Pub. L. 103–337, § 705, inserted “, voice prostheses,” after “artificial limbs”.
+1994—Subsec. (b)(2)(B). Pub. L. 103–337, § 705, inserted “, voice prostheses,” after “artificial limbs”.
 
-Subsec. (c). Pub. L. 103–337, § 703(b), substituted “, dental care provided outside the United States, and dental care” for “and care”.
+Subsec. (c). Pub. L. 103–337, § 703(b), substituted “, dental care provided outside the United States, and dental care” for “and care”.
 
 1993—Subsec. (a)(13). Pub. L. 103–160 added cl. (13).
 
-1991—Subsec. (a)(8). Pub. L. 102–190, § 703, inserted before period at end “, including well-baby care that includes one screening of an infant for the level of lead in the blood of the infant”.
+1991—Subsec. (a)(8). Pub. L. 102–190, § 703, inserted before period at end “, including well-baby care that includes one screening of an infant for the level of lead in the blood of the infant”.
 
-Subsec. (d). Pub. L. 102–190, § 702(a), added subsec. (d).
+Subsec. (d). Pub. L. 102–190, § 702(a), added subsec. (d).
 
 1985—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 
-1984—Pub. L. 98–525, § 1405(22), substituted a colon for the semicolon in section catchline.
+1984—Pub. L. 98–525, § 1405(22), substituted a colon for the semicolon in section catchline.
 
-Subsec. (a)(10). Pub. L. 98–525, § 633(a)(1), added cl. (10). Former cl. (10) “Emergency dental care worldwide.” was struck out.
+Subsec. (a)(10). Pub. L. 98–525, § 633(a)(1), added cl. (10). Former cl. (10) “Emergency dental care worldwide.” was struck out.
 
-Subsec. (a)(11). Pub. L. 98–525, § 633(a)(1), redesignated cl. (13) as (11). Former cl. (11) “Routine dental care outside the United States and at stations in the United States where adequate civilian facilities are unavailable.” was struck out.
+Subsec. (a)(11). Pub. L. 98–525, § 633(a)(1), redesignated cl. (13) as (11). Former cl. (11) “Routine dental care outside the United States and at stations in the United States where adequate civilian facilities are unavailable.” was struck out.
 
-Subsec. (a)(12). Pub. L. 98–525, § 633(a)(1), redesignated cl. (14) as (12). Former cl. (12) “Dental care worldwide as a necessary adjunct of medical, surgical, or preventive treatment.” was struck out.
+Subsec. (a)(12). Pub. L. 98–525, § 633(a)(1), redesignated cl. (14) as (12). Former cl. (12) “Dental care worldwide as a necessary adjunct of medical, surgical, or preventive treatment.” was struck out.
 
-Subsec. (a)(13), (14). Pub. L. 98–525, § 633(a)(2), redesignated cls. (13) and (14) as cls. (11) and (12), respectively.
+Subsec. (a)(13), (14). Pub. L. 98–525, § 633(a)(2), redesignated cls. (13) and (14) as cls. (11) and (12), respectively.
 
-Subsec. (b)(3). Pub. L. 98–525, § 1401(e)(3), added par. (3).
+Subsec. (b)(3). Pub. L. 98–525, § 1401(e)(3), added par. (3).
 
 1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
@@ -10355,11 +10355,11 @@ Subsec. (b)(3). Pub. L. 98–525, § 1401(e)(3), added par. (3).
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title VII, § 714(b), Dec. 23, 2016, 130 Stat. 2221, provided that: “The amendments made by subsection (a) [amending this section] shall apply to health care provided under chapter 55 of such title [meaning title 10, United States Code] on or after the date that is one year after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title VII, § 714(b), Dec. 23, 2016, 130 Stat. 2221, provided that: “The amendments made by subsection (a) [amending this section] shall apply to health care provided under chapter 55 of such title [meaning title 10, United States Code] on or after the date that is one year after the date of the enactment of this Act [Dec. 23, 2016].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 633(b), Oct. 19, 1984, 98 Stat. 2544, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 1985.”
+Pub. L. 98–525, title VI, § 633(b), Oct. 19, 1984, 98 Stat. 2544, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 1985.”
 
 Amendment by section 1401(e)(3) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
@@ -10369,7 +10369,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Lead Level Screening and Testing for Children**
 
-Pub. L. 116–92, div. A, title VII, § 703, Dec. 20, 2019, 133 Stat. 1437, provided that:
+Pub. L. 116–92, div. A, title VII, § 703, Dec. 20, 2019, 133 Stat. 1437, provided that:
 
 > **“(a) Comprehensive Screening, Testing, and Reporting Guidelines.—**
 
@@ -10413,7 +10413,7 @@ Pub. L. 116–92, div. A, title VII, § 703, Dec. 20, 2019, 133 Stat. 1437, pr
 
 **Study, Plan, and Pilot for the Mental Health Care Needs of Dependent Children of Members of the Armed Forces**
 
-Pub. L. 111–84, div. A, title VII, § 722, Oct. 28, 2009, 123 Stat. 2387, provided that:
+Pub. L. 111–84, div. A, title VII, § 722, Oct. 28, 2009, 123 Stat. 2387, provided that:
 
 > **“(a) Report and Plan on the Mental Health Care and Counseling Services Available to Military Children.—**
 
@@ -10469,17 +10469,17 @@ Pub. L. 111–84, div. A, title VII, § 722, Oct. 28, 2009, 123 Stat. 2387, pr
 
 **Program for Mental Health Awareness for Dependents and Pilot Project on Post Traumatic Stress Disorder**
 
-Pub. L. 109–163, div. A, title VII, § 721, Jan. 6, 2006, 119 Stat. 3346, directed the Secretary of Defense, no later than one year after Jan. 6, 2006, to develop a program to increase awareness of mental health services for, and warning signs about mental health problems in, dependents of service members who have served or will serve in combat theaters and directed the Secretary to carry out a pilot project to evaluate internet-based early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and report to Congress no later than June 1, 2006.
+Pub. L. 109–163, div. A, title VII, § 721, Jan. 6, 2006, 119 Stat. 3346, directed the Secretary of Defense, no later than one year after Jan. 6, 2006, to develop a program to increase awareness of mental health services for, and warning signs about mental health problems in, dependents of service members who have served or will serve in combat theaters and directed the Secretary to carry out a pilot project to evaluate internet-based early diagnosis and treatment of post traumatic stress disorder and other mental health conditions and report to Congress no later than June 1, 2006.
 
 **Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries**
 
-Pub. L. 106–65, div. A, title VII, § 703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, §  701(a), (b), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, § 701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
+Pub. L. 106–65, div. A, title VII, § 703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, § 1 [[div. A], title VII, § 701(a), (b), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, § 701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
 
 **Obstetrical Care Facilities**
 
-Pub. L. 89–188, title VI, § 610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, § 7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+Pub. L. 89–188, title VI, § 610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, § 7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
 
-## § 1077a. Access to military medical treatment facilities and other facilities
+## § 1077a. Access to military medical treatment facilities and other facilities
 
 **(a) Urgent Care.—**
 
@@ -10515,13 +10515,13 @@ Pub. L. 89–188, title VI, § 610, Sept. 16, 1965, 79 Stat. 818, required tha
 
 **(B)** The primary care clinic hours at a military medical treatment facility determined under subparagraph (A) shall include expanded hours beyond regular business hours during weekdays and the weekend if the Secretary determines under such subparagraph that sufficient demand exists at the military medical treatment facility for such expanded primary care clinic hours.
 
-(Added Pub. L. 114–328, div. A, title VII, § 704(a), Dec. 23, 2016, 130 Stat. 2200.)
+(Added Pub. L. 114–328, div. A, title VII, § 704(a), Dec. 23, 2016, 130 Stat. 2200.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 114–328, div. A, title VII, § 704(c), Dec. 23, 2016, 130 Stat. 2201, provided that:
+Pub. L. 114–328, div. A, title VII, § 704(c), Dec. 23, 2016, 130 Stat. 2201, provided that:
 
 > “The Secretary of Defense shall implement—
 
@@ -10529,7 +10529,7 @@ Pub. L. 114–328, div. A, title VII, § 704(c), Dec. 23, 2016, 130 Stat. 2201
 
 > **“(2)** subsection (c) of such section by not later than 180 days after the date of the enactment of this Act.”
 
-## § 1078. Medical and dental care for dependents: charges
+## § 1078. Medical and dental care for dependents: charges
 
 **(a)** The Secretary of Defense, after consulting the other administering Secretaries, shall prescribe fair charges for inpatient medical and dental care given to dependents under section 1076 of this title. The charge or charges prescribed shall be applied equally to all classes of dependents.
 
@@ -10537,13 +10537,13 @@ Pub. L. 114–328, div. A, title VII, § 704(c), Dec. 23, 2016, 130 Stat. 2201
 
 **(c)** Amounts received for subsistence and medical and dental care given under section 1076 of this title shall be deposited to the credit of the appropriation supporting the maintenance and operation of the facility furnishing the care.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, § 2(5), Sept. 30, 1966, 80 Stat. 863; Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(6), Oct. 30, 1984, 98 Stat. 2869.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, § 2(5), Sept. 30, 1966, 80 Stat. 863; Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(6), Oct. 30, 1984, 98 Stat. 2869.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1078(a) 1078(b) 1078(c) | 37:403(c). 37:403(d). 37:403(e). | June 7, 1956, ch. 374, § 103(c)(d), (e), 70 Stat. 251. |
+| 1078(a) 1078(b) 1078(c) | 37:403(c). 37:403(d). 37:403(e). | June 7, 1956, ch. 374, § 103(c)(d), (e), 70 Stat. 251. |
 
 Appropriate references are made to dental care throughout the section to reflect the fact that in certain limited situations, dependents are entitled to dental care under 37:403(h)(4), restated as section 1077(d) of this title.
 
@@ -10553,7 +10553,7 @@ In subsection (b), the word “special” is omitted as surplusage.
 
 **Prior Provisions**
 
-A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed instructions for marking ballots, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed instructions for marking ballots, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -10573,7 +10573,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
-## § 1078a. Continued health benefits coverage
+## § 1078a. Continued health benefits coverage
 
 **(a) Provision of Continued Health Coverage.—** The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under section 8905a of title 5.
 
@@ -10627,7 +10627,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **(4)** In the case of a former spouse of a member or former member who becomes eligible for continued coverage under subsection (b)(4), the regulations shall provide appropriate notification provisions and a 60-day election period under subsection (d)(3).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(d) Election of Coverage.—** In order to obtain continued coverage under this section, an appropriate written election (submitted in such manner as the Secretary of Defense may prescribe) shall be made as follows:
 
@@ -10715,55 +10715,55 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **(h) TRICARE Reserve Select Defined.—** In this section, the term “TRICARE Reserve Select” means TRICARE Standard coverage provided under section 1076d of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, § 4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, § 201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, § 702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, § 1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, § 1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, § 713(a), Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title VII, § 705, Jan. 28, 2008, 122 Stat. 189; Pub. L. 114–92, div. A, title VII, § 703, Nov. 25, 2015, 129 Stat. 861.)
+(Added Pub. L. 102–484, div. D, title XLIV, § 4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, § 201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, § 702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, § 1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, § 1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, § 713(a), Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title VII, § 705, Jan. 28, 2008, 122 Stat. 189; Pub. L. 114–92, div. A, title VII, § 703, Nov. 25, 2015, 129 Stat. 861.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (d)(3), referred to in subsec. (c)(4), was redesignated subsec. (d)(4) by Pub. L. 114–92, div. A, title VII, § 703(c)(1), Nov. 25, 2015, 129 Stat. 861.
+Subsection (d)(3), referred to in subsec. (c)(4), was redesignated subsec. (d)(4) by Pub. L. 114–92, div. A, title VII, § 703(c)(1), Nov. 25, 2015, 129 Stat. 861.
 
 **Amendments**
 
-2015—Subsec. (b)(2) to (5). Pub. L. 114–92, § 703(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+2015—Subsec. (b)(2) to (5). Pub. L. 114–92, § 703(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (c)(2). Pub. L. 114–92, § 703(b), inserted “or subsection (b)(2)” after “subsection (b)(1)”.
+Subsec. (c)(2). Pub. L. 114–92, § 703(b), inserted “or subsection (b)(2)” after “subsection (b)(1)”.
 
-Subsec. (c)(3). Pub. L. 114–92, § 703(g)(1)(A), substituted “subsection (b)(3)” for “subsection (b)(2)” in introductory provisions.
+Subsec. (c)(3). Pub. L. 114–92, § 703(g)(1)(A), substituted “subsection (b)(3)” for “subsection (b)(2)” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 114–92, § 703(g)(1)(B), substituted “subsection (b)(4)” for “subsection (b)(3)”.
+Subsec. (c)(4). Pub. L. 114–92, § 703(g)(1)(B), substituted “subsection (b)(4)” for “subsection (b)(3)”.
 
-Subsec. (d)(2). Pub. L. 114–92, § 703(c)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (d)(2). Pub. L. 114–92, § 703(c)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 114–92, § 703(c)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 114–92, § 703(c)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (d)(3)(A). Pub. L. 114–92, § 703(g)(2)(A), substituted “subsection (b)(3)” for “subsection (b)(2)” in introductory provisions.
+Subsec. (d)(3)(A). Pub. L. 114–92, § 703(g)(2)(A), substituted “subsection (b)(3)” for “subsection (b)(2)” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 114–92, § 703(c)(1), (g)(2)(B), redesignated par. (3) as (4) and substituted “subsection (b)(4)” for “subsection (b)(3)” in introductory provisions. Former par. (4) redesignated (5).
+Subsec. (d)(4). Pub. L. 114–92, § 703(c)(1), (g)(2)(B), redesignated par. (3) as (4) and substituted “subsection (b)(4)” for “subsection (b)(3)” in introductory provisions. Former par. (4) redesignated (5).
 
-Subsec. (d)(5). Pub. L. 114–92, § 703(c)(1), (g)(2)(C), redesignated par. (4) as (5) and substituted “subsection (b)(5)” for “subsection (b)(4)”.
+Subsec. (d)(5). Pub. L. 114–92, § 703(c)(1), (g)(2)(C), redesignated par. (4) as (5) and substituted “subsection (b)(5)” for “subsection (b)(4)”.
 
-Subsec. (e). Pub. L. 114–92, § 703(d), (g)(3), inserted “or subsection (b)(2)” after “subsection (b)(1)” and substituted “subsection (b)(3) or subsection (b)(4)” for “subsection (b)(2) or subsection (b)(3)”.
+Subsec. (e). Pub. L. 114–92, § 703(d), (g)(3), inserted “or subsection (b)(2)” after “subsection (b)(1)” and substituted “subsection (b)(3) or subsection (b)(4)” for “subsection (b)(2) or subsection (b)(3)”.
 
-Subsec. (g)(1)(B). Pub. L. 114–92, § 703(e)(2), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (g)(1)(B). Pub. L. 114–92, § 703(e)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (g)(1)(C). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(i), redesignated subpar. (B) as (C) and substituted “subsection (b)(3)” for “subsection (b)(2)”. Former subpar. (C) redesignated (D).
+Subsec. (g)(1)(C). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(i), redesignated subpar. (B) as (C) and substituted “subsection (b)(3)” for “subsection (b)(2)”. Former subpar. (C) redesignated (D).
 
-Subsec. (g)(1)(D). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(ii), redesignated subpar. (C) as (D) and substituted “subsection (b)(4)” for “subsection (b)(3)” in introductory provisions. Former subpar. (D) redesignated (E).
+Subsec. (g)(1)(D). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(ii), redesignated subpar. (C) as (D) and substituted “subsection (b)(4)” for “subsection (b)(3)” in introductory provisions. Former subpar. (D) redesignated (E).
 
-Subsec. (g)(1)(E). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(iii), redesignated subpar. (D) as (E) and substituted “subsection (b)(5)” for “subsection (b)(4)”.
+Subsec. (g)(1)(E). Pub. L. 114–92, § 703(e)(1), (g)(4)(A)(iii), redesignated subpar. (D) as (E) and substituted “subsection (b)(5)” for “subsection (b)(4)”.
 
-Subsec. (g)(2). Pub. L. 114–92, § 703(g)(4)(B), substituted “paragraph (1)(C)” for “paragraph (1)(B)” and “subsection (b)(3)” for “subsection (b)(2)”.
+Subsec. (g)(2). Pub. L. 114–92, § 703(g)(4)(B), substituted “paragraph (1)(C)” for “paragraph (1)(B)” and “subsection (b)(3)” for “subsection (b)(2)”.
 
-Subsec. (g)(3). Pub. L. 114–92, § 703(g)(4)(C), substituted “paragraph (1)(D)” for “paragraph (1)(C)” and “subsection (b)(4)” for “subsection (b)(3)”.
+Subsec. (g)(3). Pub. L. 114–92, § 703(g)(4)(C), substituted “paragraph (1)(D)” for “paragraph (1)(C)” and “subsection (b)(4)” for “subsection (b)(3)”.
 
-Subsec. (h). Pub. L. 114–92, § 703(f), added subsec. (h).
+Subsec. (h). Pub. L. 114–92, § 703(f), added subsec. (h).
 
-2008—Subsec. (b)(4). Pub. L. 110–181, § 705(a), added par. (4).
+2008—Subsec. (b)(4). Pub. L. 110–181, § 705(a), added par. (4).
 
-Subsec. (d)(4). Pub. L. 110–181, § 705(b), added par. (4).
+Subsec. (d)(4). Pub. L. 110–181, § 705(b), added par. (4).
 
-Subsec. (g)(1)(D). Pub. L. 110–181, § 705(c), added subpar. (D).
+Subsec. (g)(1)(D). Pub. L. 110–181, § 705(c), added subpar. (D).
 
 2003—Subsec. (b)(1), (2)(A), (3)(A). Pub. L. 108–136 substituted “uniformed services” for “armed forces”.
 
@@ -10771,29 +10771,29 @@ Subsec. (g)(1)(D). Pub. L. 110–181, § 705(c), added subpar. (D).
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “The Secretary” for “Beginning on October 1, 1994, the Secretary”.
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337, § 702(c)(1), inserted before semicolon “or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title”.
+1994—Subsec. (b)(2)(A). Pub. L. 103–337, § 702(c)(1), inserted before semicolon “or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title”.
 
-Subsec. (c)(3). Pub. L. 103–337, § 702(c)(2), substituted “dependent” for “child” in two places and “dependent’s” for “child’s” wherever appearing.
+Subsec. (c)(3). Pub. L. 103–337, § 702(c)(2), substituted “dependent” for “child” in two places and “dependent’s” for “child’s” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 103–337, § 702(c)(3), substituted “a dependent” for “a child” in introductory provisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
+Subsec. (d)(2)(A). Pub. L. 103–337, § 702(c)(3), substituted “a dependent” for “a child” in introductory provisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
 
-Subsec. (d)(2)(B). Pub. L. 103–337, § 702(c)(4), substituted “dependent’s” for “child’s” and “dependent” for “child”.
+Subsec. (d)(2)(B). Pub. L. 103–337, § 702(c)(4), substituted “dependent’s” for “child’s” and “dependent” for “child”.
 
-Subsec. (g)(1)(B). Pub. L. 103–337, § 702(c)(5), substituted “a dependent under subparagraph (D) or (I) of section 1072(2) of this title” for “an unmarried dependent child under section 1072(2)(D) of this title”.
+Subsec. (g)(1)(B). Pub. L. 103–337, § 702(c)(5), substituted “a dependent under subparagraph (D) or (I) of section 1072(2) of this title” for “an unmarried dependent child under section 1072(2)(D) of this title”.
 
-Subsec. (g)(2). Pub. L. 103–337, § 702(c)(6), substituted “dependent” for “child” in two places.
+Subsec. (g)(2). Pub. L. 103–337, § 702(c)(6), substituted “dependent” for “child” in two places.
 
-1993—Subsec. (b)(3)(C). Pub. L. 103–35, § 201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
+1993—Subsec. (b)(3)(C). Pub. L. 103–35, § 201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
 
-Subsec. (d)(2)(A). Pub. L. 103–35, § 201(g)(1)(B), inserted “under” after “coverage”.
+Subsec. (d)(2)(A). Pub. L. 103–35, § 201(g)(1)(B), inserted “under” after “coverage”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title VII, § 713(b), Nov. 24, 2003, 117 Stat. 1531, provided that: “The amendments made by subsection (a) [amending this section] shall apply to members of the uniformed services who are not otherwise covered by section 1078a of title 10, United States Code, before the date of the enactment of this Act [Nov. 24, 2003] and who, on or after such date, first meet the eligibility criteria specified in subsection (b) of that section.”
+Pub. L. 108–136, div. A, title VII, § 713(b), Nov. 24, 2003, 117 Stat. 1531, provided that: “The amendments made by subsection (a) [amending this section] shall apply to members of the uniformed services who are not otherwise covered by section 1078a of title 10, United States Code, before the date of the enactment of this Act [Nov. 24, 2003] and who, on or after such date, first meet the eligibility criteria specified in subsection (b) of that section.”
 
-## § 1078b. Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities
+## § 1078b. Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities
 
 **(a) In General.—**
 
@@ -10819,23 +10819,23 @@ Pub. L. 108–136, div. A, title VII, § 713(b), Nov. 24, 2003, 117 Stat. 1531
 
 **(b) Regulations.—** The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
 
-(Added Pub. L. 112–81, div. A, title VII, § 704(a), Dec. 31, 2011, 125 Stat. 1472; amended Pub. L. 113–291, div. A, title VII, § 705, Dec. 19, 2014, 128 Stat. 3413.)
+(Added Pub. L. 112–81, div. A, title VII, § 704(a), Dec. 31, 2011, 125 Stat. 1472; amended Pub. L. 113–291, div. A, title VII, § 705, Dec. 19, 2014, 128 Stat. 3413.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a)(2). Pub. L. 113–291, § 705(1), substituted “A member or former member” for “A member” wherever appearing.
+2014—Subsec. (a)(2). Pub. L. 113–291, § 705(1), substituted “A member or former member” for “A member” wherever appearing.
 
-Subsec. (a)(2)(C). Pub. L. 113–291, § 705(2), substituted “member, former member, or dependent” for “member or dependent”.
+Subsec. (a)(2)(C). Pub. L. 113–291, § 705(2), substituted “member, former member, or dependent” for “member or dependent”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–81, div. A, title VII, § 704(c), Dec. 31, 2011, 125 Stat. 1473, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. A, title VII, § 704(c), Dec. 31, 2011, 125 Stat. 1473, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 31, 2011].”
 
-## § 1079. Contracts for medical care for spouses and children: plans
+## § 1079. Contracts for medical care for spouses and children: plans
 
 **(a)** To assure that medical care is available for dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title, of members of the uniformed services who are on active duty for a period of more than 30 days, the Secretary of Defense, after consulting with the other administering Secretaries, shall contract, under the authority of this section, for medical care for those persons under such insurance, medical service, or health plans as he considers appropriate. The types of health care authorized under this section shall be the same as those provided under section 1076 of this title, except as follows:
 
@@ -11129,15 +11129,15 @@ in which case the coverage may include the cost of the equipment, hard copy anal
 
 **(3)** In this section, the term “eating disorder” has the meaning given the term “feeding and eating disorders” in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, § 2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, § 1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, § 806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, § 810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§ 501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, § 11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, § 906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, § 931(a), title XII, § 1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, § 632(a)(1), title XIV, §§ 1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, § 19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, § 652(d), title VII, § 703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§ 721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, § 646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, § 730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§ 701(a), 702(a), 703(a), (b), 712(a), title XIV, § 1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, § 316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§ 702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, § 704, title X, §§ 1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, § 202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§ 711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§ 702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§ 701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§ 701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, § 735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, § 1 [[div. A], title VII, §§ 701(c)(1), 704(b), 722(b)(1), 757(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§ 701(b), (g)(2), 703(b), 707(a), (b), title X, § 1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§ 701(a), § 702, § 705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, § 705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§ 714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§ 701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, [div. A], title VII, § 732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, § 1073(a)(12), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 113–291, div. A, title VII, §§ 703(a), (c)(1), 706, Dec. 19, 2014, 128 Stat. 3411–3413; Pub. L. 114–328, div. A, title VI, § 618(b), title VII, § 748(b), Dec. 23, 2016, 130 Stat. 2160, 2242; Pub. L. 115–91, div. A, title VII, §§ 702(b)(2), 704, 739(d)(1), Dec. 12, 2017, 131 Stat. 1434, 1435, 1447; Pub. L. 115–232, div. A, title VII, § 715(b), Aug. 13, 2018, 132 Stat. 1814; Pub. L. 116–283, div. A, title VII, §§ 703–704(b), title X, § 1081(a)(25), Jan. 1, 2021, 134 Stat. 3687, 3688, 3872; Pub. L. 117–81, div. A, title VII, §§ 701(a), 702, Dec. 27, 2021, 135 Stat. 1777, 1779; Pub. L. 118–159, div. A, title VII, § 708, Dec. 23, 2024, 138 Stat. 1945.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, § 2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, § 1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, § 806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, § 810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§ 501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, § 11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, § 906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, § 931(a), title XII, § 1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, § 632(a)(1), title XIV, §§ 1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, § 19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, § 652(d), title VII, § 703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§ 721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, § 646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, § 730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§ 701(a), 702(a), 703(a), (b), 712(a), title XIV, § 1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, § 316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§ 702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, § 704, title X, §§ 1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, § 202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§ 711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§ 702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§ 701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§ 701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, § 735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, § 1 [[div. A], title VII, §§ 701(c)(1), 704(b), 722(b)(1), 757(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§ 701(b), (g)(2), 703(b), 707(a), (b), title X, § 1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§ 701(a), § 702, § 705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, § 705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§ 714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§ 701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, [div. A], title VII, § 732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, § 1073(a)(12), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 113–291, div. A, title VII, §§ 703(a), (c)(1), 706, Dec. 19, 2014, 128 Stat. 3411–3413; Pub. L. 114–328, div. A, title VI, § 618(b), title VII, § 748(b), Dec. 23, 2016, 130 Stat. 2160, 2242; Pub. L. 115–91, div. A, title VII, §§ 702(b)(2), 704, 739(d)(1), Dec. 12, 2017, 131 Stat. 1434, 1435, 1447; Pub. L. 115–232, div. A, title VII, § 715(b), Aug. 13, 2018, 132 Stat. 1814; Pub. L. 116–283, div. A, title VII, §§ 703–704(b), title X, § 1081(a)(25), Jan. 1, 2021, 134 Stat. 3687, 3688, 3872; Pub. L. 117–81, div. A, title VII, §§ 701(a), 702, Dec. 27, 2021, 135 Stat. 1777, 1779; Pub. L. 118–159, div. A, title VII, § 708, Dec. 23, 2024, 138 Stat. 1945.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1079(a)     1079(b) | 37:402(a)(2) (as applicable to 37:411(a)). 37:411(a). 37:411(b). 37:414. | June 7, 1956, ch. 374, §§ 102(a)(2) (as applicable to § 201(a)), 201(a), (b), 204, 70 Stat. 250, 252, 253. |
+| 1079(a) 1079(b) | 37:402(a)(2) (as applicable to 37:411(a)). 37:411(a). 37:411(b). 37:414. | June 7, 1956, ch. 374, §§ 102(a)(2) (as applicable to § 201(a)), 201(a), (b), 204, 70 Stat. 250, 252, 253. |
 
-In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
+In subsection (a), the words “appointed, enlisted, inducted or called, ordered or conscripted in a uniformed service”, in 37:402(a)(2) are omitted as surplusage, since it does not matter how a member became a member. The words “active duty for a period of more than 30 days” are substituted for the words “active duty or active duty for training pursuant to a call or order that does not specify a period of thirty days or less”, in 37:402(a)(2), to reflect section 101(22) and (23) of this title. The words “, under the authority of this section,” are substituted for the words “pursuant to the provisions of this title” to make clear that the section provides independent procurement authority. The words “all”, “by the hospital”, and “a period of”, in 37:411(a), are omitted as surplusage.
 
 In subsection (a)(1), the word “rooms”, in 37:411(a), is substituted for the word “accommodations”.
 
@@ -11149,71 +11149,71 @@ In subsection (b), the word “variances” is substituted for the words “limi
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (h)(1), (4)(A), (B)(i), (i)(1), (2), (n)(2), and (r)(2)(A), is act Aug. 13, 1935, ch. 531, 49 Stat. 620. Part B of title XI of the Act is classified generally to part B (§ 1320c et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (h)(1), (4)(A), (B)(i), (i)(1), (2), (n)(2), and (r)(2)(A), is act Aug. 13, 1935, ch. 531, 49 Stat. 620. Part B of title XI of the Act is classified generally to part B (§ 1320c et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
 Provisions similar to those in subsec. (a)(7) to (14) of this section were contained in the following appropriation acts, with the exception of the provisions similar to par. (14) which first appeared in Pub. L. 96–154:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, §§ 8031, 8032, 8045], Oct. 12, 1984, 98 Stat. 1904, 1929, 1931.
+Pub. L. 98–473, title I, § 101(h) [title VIII, §§ 8031, 8032, 8045], Oct. 12, 1984, 98 Stat. 1904, 1929, 1931.
 
-Pub. L. 98–212, title VII, §§ 737, 738, 752, Dec. 8, 1983, 97 Stat. 1445, 1447.
+Pub. L. 98–212, title VII, §§ 737, 738, 752, Dec. 8, 1983, 97 Stat. 1445, 1447.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, §§ 740, 741, 756], Dec. 21, 1982, 96 Stat. 1833, 1857, 1860.
+Pub. L. 97–377, title I, § 101(c) [title VII, §§ 740, 741, 756], Dec. 21, 1982, 96 Stat. 1833, 1857, 1860.
 
-Pub. L. 97–114, title VII, §§ 741, 742, 759, Dec. 29, 1981, 95 Stat. 1585, 1588.
+Pub. L. 97–114, title VII, §§ 741, 742, 759, Dec. 29, 1981, 95 Stat. 1585, 1588.
 
-Pub. L. 96–527, title VII, §§ 742, 743, 763, Dec. 15, 1980, 94 Stat. 3088, 3092.
+Pub. L. 96–527, title VII, §§ 742, 743, 763, Dec. 15, 1980, 94 Stat. 3088, 3092.
 
-Pub. L. 96–154, title VII, §§ 744, 745, 769, Dec. 21, 1979, 93 Stat. 1159, 1163.
+Pub. L. 96–154, title VII, §§ 744, 745, 769, Dec. 21, 1979, 93 Stat. 1159, 1163.
 
-Pub. L. 95–457, title VIII, §§ 844, 845, Oct. 13, 1978, 92 Stat. 1251.
+Pub. L. 95–457, title VIII, §§ 844, 845, Oct. 13, 1978, 92 Stat. 1251.
 
-Pub. L. 95–111, title VIII, §§ 843, 844, Sept. 21, 1977, 91 Stat. 907.
+Pub. L. 95–111, title VIII, §§ 843, 844, Sept. 21, 1977, 91 Stat. 907.
 
-Pub. L. 94–419, title VII, §§ 742, 743, Sept. 22, 1976, 90 Stat. 1298.
+Pub. L. 94–419, title VII, §§ 742, 743, Sept. 22, 1976, 90 Stat. 1298.
 
-Pub. L. 94–212, title VII, §§ 750, 751, Feb. 9, 1976, 90 Stat. 176.
+Pub. L. 94–212, title VII, §§ 750, 751, Feb. 9, 1976, 90 Stat. 176.
 
 Provisions similar to those added to subsec. (h)(2) of this section by section 1401(e)(4)(B) of Pub. L. 98–525 were contained in the following prior appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8077], Oct. 12, 1984, 98 Stat. 1904, 1938.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8077], Oct. 12, 1984, 98 Stat. 1904, 1938.
 
-Pub. L. 98–212, title VII, § 785, Dec. 8, 1983, 97 Stat. 1453.
+Pub. L. 98–212, title VII, § 785, Dec. 8, 1983, 97 Stat. 1453.
 
-A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
 2024—Subsec. (a)(20). Pub. L. 118–159 added par. (20).
 
-2021—Subsec. (a)(12). Pub. L. 116–283, § 703, substituted “certified clinical social worker, or other class of provider as designated by the Secretary of Defense,” for “or certified clinical social worker,”.
+2021—Subsec. (a)(12). Pub. L. 116–283, § 703, substituted “certified clinical social worker, or other class of provider as designated by the Secretary of Defense,” for “or certified clinical social worker,”.
 
-Subsec. (a)(18). Pub. L. 117–81, § 701(a)(1), which directed adding par. (18) at the end of subsec. (a), effective after the addition of par. (19), was executed by adding it before par. (19) to reflect the probable intent of Congress.
+Subsec. (a)(18). Pub. L. 117–81, § 701(a)(1), which directed adding par. (18) at the end of subsec. (a), effective after the addition of par. (19), was executed by adding it before par. (19) to reflect the probable intent of Congress.
 
-Subsec. (a)(19). Pub. L. 117–81, § 702, added par. (19).
+Subsec. (a)(19). Pub. L. 117–81, § 702, added par. (19).
 
-Subsec. (e). Pub. L. 116–283, § 704(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to extended benefits for eligible dependents.
+Subsec. (e). Pub. L. 116–283, § 704(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to extended benefits for eligible dependents.
 
-Subsec. (f)(2), (4). Pub. L. 116–283, § 704(b), substituted “subparagraph (C), (E), (F), or (G) of subsection (e)(1)” for “paragraph (3) or (4) of subsection (e)”.
+Subsec. (f)(2), (4). Pub. L. 116–283, § 704(b), substituted “subparagraph (C), (E), (F), or (G) of subsection (e)(1)” for “paragraph (3) or (4) of subsection (e)”.
 
-Subsec. (q). Pub. L. 116–283, § 1081(a)(25), substituted “section 1074g(i)” for “section 1074g(h)”.
+Subsec. (q). Pub. L. 116–283, § 1081(a)(25), substituted “section 1074g(i)” for “section 1074g(h)”.
 
-Subsec. (r). Pub. L. 117–81, § 701(a)(2), added subsec. (r).
+Subsec. (r). Pub. L. 117–81, § 701(a)(2), added subsec. (r).
 
 2018—Subsec. (q). Pub. L. 115–232 substituted “section 1074g(h)” for “section 1074g(g)”.
 
-2017—Subsec. (a)(15). Pub. L. 115–91, § 704, inserted “, except that hospice care may be provided to an individual under the age of 21 concurrently with health care services or hospitalization for the same condition” before period at end.
+2017—Subsec. (a)(15). Pub. L. 115–91, § 704, inserted “, except that hospice care may be provided to an individual under the age of 21 concurrently with health care services or hospitalization for the same condition” before period at end.
 
-Subsec. (b). Pub. L. 115–91, § 739(d)(1), substituted “calendar year” for “fiscal year” wherever appearing.
+Subsec. (b). Pub. L. 115–91, § 739(d)(1), substituted “calendar year” for “fiscal year” wherever appearing.
 
-Subsec. (q). Pub. L. 115–91, § 702(b)(2), added subsec. (q).
+Subsec. (q). Pub. L. 115–91, § 702(b)(2), added subsec. (q).
 
-2016—Subsec. (g)(1). Pub. L. 114–328, § 618(b), inserted “or 351” after “section 310”.
+2016—Subsec. (g)(1). Pub. L. 114–328, § 618(b), inserted “or 351” after “section 310”.
 
-Subsec. (h)(4)(C)(ii). Pub. L. 114–328, § 748(b), struck out “in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title” after “30 days”.
+Subsec. (h)(4)(C)(ii). Pub. L. 114–328, § 748(b), struck out “in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title” after “30 days”.
 
-2014—Subsec. (a)(6) to (16). Pub. L. 113–291, § 703(a)(1), redesignated pars. (7) to (17) as (6) to (16), respectively, and struck out former par. (6) which read as follows: “Inpatient mental health services may not (except as provided in subsection (i)) be provided to a patient in excess of—
+2014—Subsec. (a)(6) to (16). Pub. L. 113–291, § 703(a)(1), redesignated pars. (7) to (17) as (6) to (16), respectively, and struck out former par. (6) which read as follows: “Inpatient mental health services may not (except as provided in subsection (i)) be provided to a patient in excess of—
 
 “(A) 30 days in any year, in the case of a patient 19 years of age or older;
 
@@ -11221,181 +11221,181 @@ Subsec. (h)(4)(C)(ii). Pub. L. 114–328, § 748(b), struck out “in support 
 
 “(C) 150 days in any year, in the case of inpatient mental health services provided as residential treatment care.”
 
-Subsec. (a)(17). Pub. L. 113–291, § 706, added par. (17). Former par. (17) redesignated (16).
+Subsec. (a)(17). Pub. L. 113–291, § 706, added par. (17). Former par. (17) redesignated (16).
 
-Subsec. (e)(7). Pub. L. 113–291, § 703(c)(1), substituted “subsection (a)(12)” for “subsection (a)(13)”.
+Subsec. (e)(7). Pub. L. 113–291, § 703(c)(1), substituted “subsection (a)(12)” for “subsection (a)(13)”.
 
-Subsecs. (i) to (q). Pub. L. 113–291, § 703(a)(2), (3), redesignated subsecs. (j) to (q) as (i) to (p), respectively, and struck out former subsec. (i) which related to limitation in former subsec. (a)(6) of this section as being inapplicable to inpatient mental health services in certain instances.
+Subsecs. (i) to (q). Pub. L. 113–291, § 703(a)(2), (3), redesignated subsecs. (j) to (q) as (i) to (p), respectively, and struck out former subsec. (i) which related to limitation in former subsec. (a)(6) of this section as being inapplicable to inpatient mental health services in certain instances.
 
 2009—Subsec. (f)(2)(B). Pub. L. 111–84 struck out period after “year”.
 
 2008—Subsec. (f)(2). Pub. L. 110–417 substituted “year shall not exceed $36,000, prorated as determined by the Secretary of Defense,” for “month shall not exceed $2,500,” in subpar. (A) and “year.” for “month” in subpar. (B).
 
-2006—Subsec. (a)(1). Pub. L. 109–364, § 702, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.”
+2006—Subsec. (a)(1). Pub. L. 109–364, § 702, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.”
 
-Subsec. (a)(2). Pub. L. 109–364, § 703(b)(1), substituted “the schedule and method of cervical cancer screenings and breast cancer screenings” for “the schedule of pap smears and mammograms” in introductory provisions.
+Subsec. (a)(2). Pub. L. 109–364, § 703(b)(1), substituted “the schedule and method of cervical cancer screenings and breast cancer screenings” for “the schedule of pap smears and mammograms” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 109–364, § 703(b)(2), substituted “cervical and breast cancer screenings” for “pap smears and mammograms”.
+Subsec. (a)(2)(B). Pub. L. 109–364, § 703(b)(2), substituted “cervical and breast cancer screenings” for “pap smears and mammograms”.
 
-Subsec. (a)(17). Pub. L. 109–364, § 701, added par. (17).
+Subsec. (a)(17). Pub. L. 109–364, § 701, added par. (17).
 
-Subsec. (g). Pub. L. 109–163, § 715(a), designated existing provisions as par. (1), struck out last sentence which read “In addition, when a member dies while on active duty for a period of more than 30 days, the member’s dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the three-year period beginning on the date of the death of the member.”, and added pars. (2) to (5).
+Subsec. (g). Pub. L. 109–163, § 715(a), designated existing provisions as par. (1), struck out last sentence which read “In addition, when a member dies while on active duty for a period of more than 30 days, the member’s dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the three-year period beginning on the date of the death of the member.”, and added pars. (2) to (5).
 
-Subsec. (p)(4), (5). Pub. L. 109–163, § 714, added par. (4) and redesignated former par. (4) as (5).
+Subsec. (p)(4), (5). Pub. L. 109–163, § 714, added par. (4) and redesignated former par. (4) as (5).
 
 2004—Subsec. (h)(4)(C). Pub. L. 108–375 added subpar. (C).
 
-2002—Subsec. (i)(3). Pub. L. 107–314, § 701(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B),” for “Except in the case of an emergency,”, and added subpars. (B) and (C).
+2002—Subsec. (i)(3). Pub. L. 107–314, § 701(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B),” for “Except in the case of an emergency,”, and added subpars. (B) and (C).
 
-Subsec. (p)(1). Pub. L. 107–314, § 702(1), substituted “dependents described in paragraph (3)” for “dependents referred to in subsection (a) of a member of the uniformed services referred to in section 1074(c)(3) of this title who are residing with the member”.
+Subsec. (p)(1). Pub. L. 107–314, § 702(1), substituted “dependents described in paragraph (3)” for “dependents referred to in subsection (a) of a member of the uniformed services referred to in section 1074(c)(3) of this title who are residing with the member”.
 
-Subsec. (p)(3), (4). Pub. L. 107–314, § 702(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (p)(3), (4). Pub. L. 107–314, § 702(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (q). Pub. L. 107–314, § 705(a), added subsec. (q).
+Subsec. (q). Pub. L. 107–314, § 705(a), added subsec. (q).
 
-2001—Subsec. (a)(5). Pub. L. 107–107, § 703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, iron lungs and hospital beds may be provided on a rental basis.”
+2001—Subsec. (a)(5). Pub. L. 107–107, § 703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, iron lungs and hospital beds may be provided on a rental basis.”
 
-Subsec. (a)(17). Pub. L. 107–107, § 701(g)(2), struck out par. (17) which read as follows:
+Subsec. (a)(17). Pub. L. 107–107, § 701(g)(2), struck out par. (17) which read as follows:
 
 “(17)(A) The Secretary of Defense may establish a program for the individual case management of a person covered by this section or section 1086 of this title who has extraordinary medical or psychological disorders and, under such a program, may waive benefit limitations contained in paragraphs (5) and (13) of this subsection or section 1077(b)(1) of this title and authorize the payment for comprehensive home health care services, supplies, and equipment if the Secretary determines that such a waiver is cost-effective and appropriate.
 
 “(B) The total amount expended under subparagraph (A) for a fiscal year may not exceed $100,000,000.”
 
-Subsec. (d) to (f). Pub. L. 107–107, § 701(b), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to medical care provided for retarded or handicapped dependents, the requirement of members sharing in cost of benefits provided, and the requirement that members use public facilities to the extent available and adequate, respectively.
+Subsec. (d) to (f). Pub. L. 107–107, § 701(b), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to medical care provided for retarded or handicapped dependents, the requirement of members sharing in cost of benefits provided, and the requirement that members use public facilities to the extent available and adequate, respectively.
 
-Subsec. (h)(2). Pub. L. 107–107, § 1048(c)(5), substituted “February 10, 1996,” for “the date of the enactment of this paragraph”.
+Subsec. (h)(2). Pub. L. 107–107, § 1048(c)(5), substituted “February 10, 1996,” for “the date of the enactment of this paragraph”.
 
-Subsec. (h)(4). Pub. L. 107–107, § 707(b), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (h)(4). Pub. L. 107–107, § 707(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j)(2) to (4). Pub. L. 107–107, § 707(a), designated existing provisions of subpar. (A) of par. (2) as par. (2) and substituted “shall be determined under joint regulations” for “may be determined under joint regulations”, redesignated subpar. (B) of par. (2) as par. (4) and substituted therein “this subsection,” for “subparagraph (A),”, and added par. (3).
+Subsec. (j)(2) to (4). Pub. L. 107–107, § 707(a), designated existing provisions of subpar. (A) of par. (2) as par. (2) and substituted “shall be determined under joint regulations” for “may be determined under joint regulations”, redesignated subpar. (B) of par. (2) as par. (4) and substituted therein “this subsection,” for “subparagraph (A),”, and added par. (3).
 
-2000—Subsec. (a)(17). Pub. L. 106–398, § 1 [[div. A], title VII, § 701(c)(1)], designated existing provisions as subpar. (A) and added subpar. (B).
+2000—Subsec. (a)(17). Pub. L. 106–398, § 1 [[div. A], title VII, § 701(c)(1)], designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (g). Pub. L. 106–398, § 1 [[div. A], title VII, § 704(b)], substituted “three-year period” for “one-year period”.
+Subsec. (g). Pub. L. 106–398, § 1 [[div. A], title VII, § 704(b)], substituted “three-year period” for “one-year period”.
 
-Subsec. (h)(5). Pub. L. 106–398, § 1 [[div. A], title VII, § 757(a)], added par. (5).
+Subsec. (h)(5). Pub. L. 106–398, § 1 [[div. A], title VII, § 757(a)], added par. (5).
 
-Subsec. (p). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(b)(1)], added subsec. (p).
+Subsec. (p). Pub. L. 106–398, § 1 [[div. A], title VII, § 722(b)(1)], added subsec. (p).
 
-1997—Subsec. (h)(1). Pub. L. 105–85, § 735(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health care professional (or other noninstitutional health care provider) for which a claim is submitted under a plan contracted for under subsection (a) may not exceed the lesser of—
+1997—Subsec. (h)(1). Pub. L. 105–85, § 735(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health care professional (or other noninstitutional health care provider) for which a claim is submitted under a plan contracted for under subsection (a) may not exceed the lesser of—
 
 “(A) the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period; or
 
 “(B) an amount determined to be appropriate, to the extent practicable, in accordance with the same reimbursement rules as apply to payments for similar services under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).”
 
-Subsec. (h)(2). Pub. L. 105–85, § 735(c)(2), redesignated par. (4) as (2).
+Subsec. (h)(2). Pub. L. 105–85, § 735(c)(2), redesignated par. (4) as (2).
 
-Pub. L. 105–85, § 735(a), struck out par. (2) which read as follows: “For the purposes of paragraph (1)(A), the 80th percentile of charges shall be determined by the Secretary of Defense, in consultation with the other administering Secretaries, and the base period shall be a period of twelve calendar months. The Secretary of Defense shall adjust the base period as frequently as he considers appropriate.”
+Pub. L. 105–85, § 735(a), struck out par. (2) which read as follows: “For the purposes of paragraph (1)(A), the 80th percentile of charges shall be determined by the Secretary of Defense, in consultation with the other administering Secretaries, and the base period shall be a period of twelve calendar months. The Secretary of Defense shall adjust the base period as frequently as he considers appropriate.”
 
-Subsec. (h)(3). Pub. L. 105–85, § 735(c)(2), redesignated par. (5) as (3).
+Subsec. (h)(3). Pub. L. 105–85, § 735(c)(2), redesignated par. (5) as (3).
 
-Pub. L. 105–85, § 735(a), struck out par. (3) which read as follows: “For the purposes of paragraph (1)(B), the appropriate payment amount shall be determined by the Secretary of Defense, in consultation with the other administering Secretaries.”
+Pub. L. 105–85, § 735(a), struck out par. (3) which read as follows: “For the purposes of paragraph (1)(B), the appropriate payment amount shall be determined by the Secretary of Defense, in consultation with the other administering Secretaries.”
 
-Subsec. (h)(4). Pub. L. 105–85, § 735(c)(2), redesignated par. (4) as (2).
+Subsec. (h)(4). Pub. L. 105–85, § 735(c)(2), redesignated par. (4) as (2).
 
-Subsec. (h)(5). Pub. L. 105–85, § 735(c)(2), redesignated par. (5) as (3).
+Subsec. (h)(5). Pub. L. 105–85, § 735(c)(2), redesignated par. (5) as (3).
 
-Pub. L. 105–85, § 735(b), (c)(1), substituted “paragraph (2), the Secretary of Defense” for “paragraph (4), the Secretary” and inserted at end “With the consent of the health care provider, the Secretary is also authorized to reduce the authorized payment for certain health care services below the amount otherwise required by the payment limitations under paragraph (1).”
+Pub. L. 105–85, § 735(b), (c)(1), substituted “paragraph (2), the Secretary of Defense” for “paragraph (4), the Secretary” and inserted at end “With the consent of the health care provider, the Secretary is also authorized to reduce the authorized payment for certain health care services below the amount otherwise required by the payment limitations under paragraph (1).”
 
-Subsec. (h)(6). Pub. L. 105–85, § 735(c)(2), redesignated par. (6) as (4).
+Subsec. (h)(6). Pub. L. 105–85, § 735(c)(2), redesignated par. (6) as (4).
 
-1996—Subsec. (a). Pub. L. 104–201, § 731(b)(1), substituted “except as follows:” for “except that—” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–201, § 731(b)(1), substituted “except as follows:” for “except that—” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
+Subsec. (a)(1). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
-Subsec. (a)(2). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
+Subsec. (a)(2). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
-Pub. L. 104–201, § 701(b)(2), inserted “the schedule and method of colon and prostate cancer screenings,” after “pap smears and mammograms,” in introductory provisions and “or colon and prostate cancer screenings” after “pap smears and mammograms” in subpar. (B).
+Pub. L. 104–201, § 701(b)(2), inserted “the schedule and method of colon and prostate cancer screenings,” after “pap smears and mammograms,” in introductory provisions and “or colon and prostate cancer screenings” after “pap smears and mammograms” in subpar. (B).
 
-Pub. L. 104–106, § 701, added par. (2) and struck out former par. (2) which read as follows: “routine physical examinations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member’s duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
+Pub. L. 104–106, § 701, added par. (2) and struck out former par. (2) which read as follows: “routine physical examinations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member’s duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
 
-Subsec. (a)(3) to (12). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
+Subsec. (a)(3) to (12). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
-Subsec. (a)(13). Pub. L. 104–201, § 731(a), (b)(2), substituted “Any service” for “any service” and “paragraph (4).” for “paragraph (4);” and inserted at end “Pursuant to an agreement with the Secretary of Health and Human Services and under such regulations as the Secretary of Defense may prescribe, the Secretary of Defense may waive the operation of this paragraph in connection with clinical trials sponsored or approved by the National Institutes of Health if the Secretary of Defense determines that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments.”
+Subsec. (a)(13). Pub. L. 104–201, § 731(a), (b)(2), substituted “Any service” for “any service” and “paragraph (4).” for “paragraph (4);” and inserted at end “Pursuant to an agreement with the Secretary of Health and Human Services and under such regulations as the Secretary of Defense may prescribe, the Secretary of Defense may waive the operation of this paragraph in connection with clinical trials sponsored or approved by the National Institutes of Health if the Secretary of Defense determines that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments.”
 
-Subsec. (a)(14), (15). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
+Subsec. (a)(14), (15). Pub. L. 104–201, § 731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
-Subsec. (a)(16). Pub. L. 104–201, § 731(b)(2), (4), capitalized first letter of first word and substituted a period for “; and” at end.
+Subsec. (a)(16). Pub. L. 104–201, § 731(b)(2), (4), capitalized first letter of first word and substituted a period for “; and” at end.
 
-Subsec. (a)(17). Pub. L. 104–201, § 731(b)(2), capitalized first letter of first word.
+Subsec. (a)(17). Pub. L. 104–201, § 731(b)(2), capitalized first letter of first word.
 
-Subsec. (h)(1). Pub. L. 104–106, § 731(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health-care professional (or other noninstitutional health-care provider) for which a claim is submitted under a plan contracted for under subsection (a) may be denied only to the extent that the charge exceeds the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period.”
+Subsec. (h)(1). Pub. L. 104–106, § 731(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health-care professional (or other noninstitutional health-care provider) for which a claim is submitted under a plan contracted for under subsection (a) may be denied only to the extent that the charge exceeds the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period.”
 
-Subsec. (h)(2). Pub. L. 104–106, § 731(d), substituted “paragraph (1)(A)” for “paragraph (1)”.
+Subsec. (h)(2). Pub. L. 104–106, § 731(d), substituted “paragraph (1)(A)” for “paragraph (1)”.
 
-Subsec. (h)(3). Pub. L. 104–106, § 731(b), added par. (3).
+Subsec. (h)(3). Pub. L. 104–106, § 731(b), added par. (3).
 
-Subsec. (h)(4). Pub. L. 104–201, § 711, struck out “emergency” before “services from nonparticipating providers.”
+Subsec. (h)(4). Pub. L. 104–201, § 711, struck out “emergency” before “services from nonparticipating providers.”
 
-Pub. L. 104–106, § 731(c), added par. (4).
+Pub. L. 104–106, § 731(c), added par. (4).
 
-Subsec. (h)(5). Pub. L. 104–201, § 732(2), added par. (5). Former par. (5) redesignated (6).
+Subsec. (h)(5). Pub. L. 104–201, § 732(2), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 104–106, § 731(c), added par. (5).
+Pub. L. 104–106, § 731(c), added par. (5).
 
-Subsec. (h)(6). Pub. L. 104–201, § 732(1), redesignated par. (5) as (6).
+Subsec. (h)(6). Pub. L. 104–201, § 732(1), redesignated par. (5) as (6).
 
-Subsec. (j)(1). Pub. L. 104–201, § 735(c), inserted “, including any plan offered by a third-party payer (as defined in section 1095(h)(1) of this title),” after “or health plan”.
+Subsec. (j)(1). Pub. L. 104–201, § 735(c), inserted “, including any plan offered by a third-party payer (as defined in section 1095(h)(1) of this title),” after “or health plan”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 702(a)(1), substituted “dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title,” for “spouses and children”.
+1994—Subsec. (a). Pub. L. 103–337, § 702(a)(1), substituted “dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title,” for “spouses and children”.
 
-Subsec. (d). Pub. L. 103–337, § 702(a)(2), substituted “as described in subparagraph (A), (D), or (I) of section 1072(2)” for “as defined in section 1072(2)(A) or (D)”.
+Subsec. (d). Pub. L. 103–337, § 702(a)(2), substituted “as described in subparagraph (A), (D), or (I) of section 1072(2)” for “as defined in section 1072(2)(A) or (D)”.
 
-Subsec. (g). Pub. L. 103–337, § 707(a), inserted at end “In addition, when a member dies while on active duty for a period of more than 30 days, the member’s dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
+Subsec. (g). Pub. L. 103–337, § 707(a), inserted at end “In addition, when a member dies while on active duty for a period of more than 30 days, the member’s dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
 
-1993—Subsec. (a)(7). Pub. L. 103–160, § 716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
+1993—Subsec. (a)(7). Pub. L. 103–160, § 716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
 
 “(A) those services may be provided in any case in which another insurance plan or program provides primary coverage for those services; and
 
 “(B) the Secretary of Defense may waive the 40-mile radius restriction with regard to the provision of a particular service before October 1, 1993, if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service;”.
 
-Subsec. (a)(15). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 704(1). See 1992 Amendment note below.
+Subsec. (a)(15). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 704(1). See 1992 Amendment note below.
 
-Subsec. (*o*). Pub. L. 103–160, § 711, added subsec. (*o*).
+Subsec. (*o*). Pub. L. 103–160, § 711, added subsec. (*o*).
 
-1992—Subsec. (a)(15). Pub. L. 102–484, § 1053(3), made technical amendment to directory language of Pub. L. 102–190, § 702(b)(1)(C). See 1991 Amendment note below.
+1992—Subsec. (a)(15). Pub. L. 102–484, § 1053(3), made technical amendment to directory language of Pub. L. 102–190, § 702(b)(1)(C). See 1991 Amendment note below.
 
-Pub. L. 102–484, § 704(1), as amended by Pub. L. 103–35, struck out “and” at end of par. (15).
+Pub. L. 102–484, § 704(1), as amended by Pub. L. 103–35, struck out “and” at end of par. (15).
 
-Subsec. (a)(16). Pub. L. 102–484, § 704(2), substituted “; and” for period at end.
+Subsec. (a)(16). Pub. L. 102–484, § 704(2), substituted “; and” for period at end.
 
-Subsec. (a)(17). Pub. L. 102–484, § 704(3), added par. (17).
+Subsec. (a)(17). Pub. L. 102–484, § 704(3), added par. (17).
 
-Subsec. (j)(2)(B). Pub. L. 102–484, § 1052(13), inserted a close parenthesis after “1395x(dd)(2)”.
+Subsec. (j)(2)(B). Pub. L. 102–484, § 1052(13), inserted a close parenthesis after “1395x(dd)(2)”.
 
-1991—Subsec. (a)(6). Pub. L. 102–25, § 316(b), revived par. (6) as in effect on Feb. 14, 1991, thus negating amendment to par. (6) by Pub. L. 101–510, § 703(a), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
+1991—Subsec. (a)(6). Pub. L. 102–25, § 316(b), revived par. (6) as in effect on Feb. 14, 1991, thus negating amendment to par. (6) by Pub. L. 101–510, § 703(a), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
 
-Subsec. (a)(7). Pub. L. 102–190, § 711, substituted “except that—” and subpars. (A) and (B), for “except that such services may be provided in any case in which another insurance plan or program provides primary coverage for the services;”.
+Subsec. (a)(7). Pub. L. 102–190, § 711, substituted “except that—” and subpars. (A) and (B), for “except that such services may be provided in any case in which another insurance plan or program provides primary coverage for the services;”.
 
-Subsec. (a)(13). Pub. L. 102–190, § 702(b)(1)(A), substituted “paragraph (4)” for “clause (4)”.
+Subsec. (a)(13). Pub. L. 102–190, § 702(b)(1)(A), substituted “paragraph (4)” for “clause (4)”.
 
-Subsec. (a)(14). Pub. L. 102–190, § 702(b)(1)(B), struck out “and” at end.
+Subsec. (a)(14). Pub. L. 102–190, § 702(b)(1)(B), struck out “and” at end.
 
-Subsec. (a)(15). Pub. L. 102–190, § 702(b)(1)(C), as amended by Pub. L. 102–484, § 1053(3), substituted “; and” for period at end.
+Subsec. (a)(15). Pub. L. 102–190, § 702(b)(1)(C), as amended by Pub. L. 102–484, § 1053(3), substituted “; and” for period at end.
 
-Subsec. (a)(16). Pub. L. 102–190, § 702(b)(1)(D), added par. (16).
+Subsec. (a)(16). Pub. L. 102–190, § 702(b)(1)(D), added par. (16).
 
-Subsec. (i). Pub. L. 102–25, § 316(b), revived subsec. (i) as in effect on Feb. 14, 1991, thus negating amendment to subsec. (i) by Pub. L. 101–510, § 703(b), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
+Subsec. (i). Pub. L. 102–25, § 316(b), revived subsec. (i) as in effect on Feb. 14, 1991, thus negating amendment to subsec. (i) by Pub. L. 101–510, § 703(b), from its original effective date (Feb. 15, 1991) to the effective date as amended (Oct. 1, 1991). See 1990 Amendment note and Effective Date of 1990 Amendment note below.
 
-Subsec. (j)(1). Pub. L. 102–190, § 713, inserted “, or covered by,” after “person enrolled in”.
+Subsec. (j)(1). Pub. L. 102–190, § 713, inserted “, or covered by,” after “person enrolled in”.
 
-Subsec. (j)(2)(B). Pub. L. 102–190, § 702(b)(2), inserted “hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2)),”.
+Subsec. (j)(2)(B). Pub. L. 102–190, § 702(b)(2), inserted “hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2)),”.
 
-Subsec. (n). Pub. L. 102–190, § 712(a), added subsec. (n).
+Subsec. (n). Pub. L. 102–190, § 712(a), added subsec. (n).
 
-1990—Subsec. (a)(2). Pub. L. 101–510, § 701(a), inserted before the semicolon “, except that pap smears and mammograms may be provided on a diagnostic or preventive basis”.
+1990—Subsec. (a)(2). Pub. L. 101–510, § 701(a), inserted before the semicolon “, except that pap smears and mammograms may be provided on a diagnostic or preventive basis”.
 
-Subsec. (a)(6). Pub. L. 101–510, § 703(a), substituted “in excess of—” for “in excess of 60 days in any year;” and added subpars. (A) to (C).
+Subsec. (a)(6). Pub. L. 101–510, § 703(a), substituted “in excess of—” for “in excess of 60 days in any year;” and added subpars. (A) to (C).
 
-Subsec. (a)(8). Pub. L. 101–510, § 702(a)(1), inserted “(other than certified marriage and family therapists)” after “marital counselors” and inserted before semicolon “and services of certified marriage and family therapists may be provided consistent with such rules as may be prescribed by the Secretary of Defense, including credentialing criteria and a requirement that the therapists accept payment under this section as full payment for all services provided”.
+Subsec. (a)(8). Pub. L. 101–510, § 702(a)(1), inserted “(other than certified marriage and family therapists)” after “marital counselors” and inserted before semicolon “and services of certified marriage and family therapists may be provided consistent with such rules as may be prescribed by the Secretary of Defense, including credentialing criteria and a requirement that the therapists accept payment under this section as full payment for all services provided”.
 
-Subsec. (a)(13). Pub. L. 101–510, § 702(a)(2), inserted “certified marriage and family therapist,” after “psychologist,”.
+Subsec. (a)(13). Pub. L. 101–510, § 702(a)(2), inserted “certified marriage and family therapist,” after “psychologist,”.
 
-Subsec. (b)(2). Pub. L. 101–510, § 712(a)(1), substituted “$150” for “$50” and inserted at end “Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.”
+Subsec. (b)(2). Pub. L. 101–510, § 712(a)(1), substituted “$150” for “$50” and inserted at end “Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.”
 
-Subsec. (b)(3). Pub. L. 101–510, § 712(a)(2), substituted “$300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100)” for “$100”.
+Subsec. (b)(3). Pub. L. 101–510, § 712(a)(2), substituted “$300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100)” for “$100”.
 
-Subsec. (i). Pub. L. 101–510, § 703(b), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The limitation in subsection (a)(6) does not apply in the case of inpatient mental health services—
+Subsec. (i). Pub. L. 101–510, § 703(b), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The limitation in subsection (a)(6) does not apply in the case of inpatient mental health services—
 
 “(1) provided under the program for the handicapped under subsection (d);
 
@@ -11405,81 +11405,81 @@ Subsec. (i). Pub. L. 101–510, § 703(b), amended subsec. (i) generally. Prio
 
 “(4) provided pursuant to a waiver authorized by the Secretary of Defense because of extraordinary medical or psychological circumstances that are confirmed by review by a non-Federal health professional pursuant to regulations prescribed by the Secretary of Defense.”
 
-Subsec. (j)(2)(B). Pub. L. 101–510, § 1484(g)(1), inserted “the term” after “In subparagraph (A),”.
+Subsec. (j)(2)(B). Pub. L. 101–510, § 1484(g)(1), inserted “the term” after “In subparagraph (A),”.
 
 1989—Subsec. (h)(1), (2). Pub. L. 101–189 substituted “80th percentile” for “90th percentile”.
 
-1988—Subsec. (b)(1). Pub. L. 100–456, § 646(a)(1), inserted provisions authorizing Secretary of Defense to exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+1988—Subsec. (b)(1). Pub. L. 100–456, § 646(a)(1), inserted provisions authorizing Secretary of Defense to exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
-Subsec. (m). Pub. L. 100–456, § 646(a)(2), added subsec. (m).
+Subsec. (m). Pub. L. 100–456, § 646(a)(2), added subsec. (m).
 
-1987—Subsec. (a)(15). Pub. L. 100–180, § 726(a), added par. (15).
+1987—Subsec. (a)(15). Pub. L. 100–180, § 726(a), added par. (15).
 
-Subsec. (b)(5). Pub. L. 100–180, § 721(a), added par. (5).
+Subsec. (b)(5). Pub. L. 100–180, § 721(a), added par. (5).
 
-1986—Subsec. (a)(7). Pub. L. 99–661, § 703, substituted “provides primary coverage for the services” for “pays for at least 75 percent of the services”.
+1986—Subsec. (a)(7). Pub. L. 99–661, § 703, substituted “provides primary coverage for the services” for “pays for at least 75 percent of the services”.
 
-Subsec. (*l*). Pub. L. 99–661, § 652(d), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 99–661, § 652(d), added subsec. (*l*).
 
-1984—Subsec. (a). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services in provisions preceding cl. (1).
+1984—Subsec. (a). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services in provisions preceding cl. (1).
 
-Subsec. (a)(3). Pub. L. 98–525, § 632(a)(1), substituted “not more than one eye examination may be provided to a patient in any calendar year” for “eye examinations may not be provided”.
+Subsec. (a)(3). Pub. L. 98–525, § 632(a)(1), substituted “not more than one eye examination may be provided to a patient in any calendar year” for “eye examinations may not be provided”.
 
-Subsec. (a)(4). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsec. (a)(4). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-Subsec. (a)(7) to (14). Pub. L. 98–525, § 1401(e)(4)(A), added cls. (7) to (14).
+Subsec. (a)(7) to (14). Pub. L. 98–525, § 1401(e)(4)(A), added cls. (7) to (14).
 
-Subsecs. (b)(4), (c), (d). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsecs. (b)(4), (c), (d). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-Subsec. (e). Pub. L. 98–525, § 1405(23), substituted “under subsection (d) as follows:” for “under subsection (d).” in provisions preceding cl. (1).
+Subsec. (e). Pub. L. 98–525, § 1405(23), substituted “under subsection (d) as follows:” for “under subsection (d).” in provisions preceding cl. (1).
 
-Subsecs. (e)(1), (f). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsecs. (e)(1), (f). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-Subsec. (h)(2). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+Subsec. (h)(2). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-Pub. L. 98–525, § 1401(e)(4)(B), substituted “The Secretary of Defense shall adjust the base period as frequently as he considers appropriate” for “The base period shall be adjusted at least once a year”.
+Pub. L. 98–525, § 1401(e)(4)(B), substituted “The Secretary of Defense shall adjust the base period as frequently as he considers appropriate” for “The base period shall be adjusted at least once a year”.
 
-Subsec. (j)(2)(A). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsec. (j)(2)(A). Pub. L. 98–557, § 19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-Subsec. (k)(1), (2). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+Subsec. (k)(1), (2). Pub. L. 98–557, § 19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-1983—Subsec. (a). Pub. L. 98–94, § 1268(4)(A), substituted “30” for “thirty” in provisions preceding par. (1).
+1983—Subsec. (a). Pub. L. 98–94, § 1268(4)(A), substituted “30” for “thirty” in provisions preceding par. (1).
 
-Subsec. (a)(6). Pub. L. 98–94, § 931(a)(1), added par. (6).
+Subsec. (a)(6). Pub. L. 98–94, § 931(a)(1), added par. (6).
 
-Subsec. (d). Pub. L. 98–94, § 1268(4)(A), substituted “30” for “thirty”.
+Subsec. (d). Pub. L. 98–94, § 1268(4)(A), substituted “30” for “thirty”.
 
-Subsec. (g). Pub. L. 98–94, § 1268(4)(B), struck out “of this section” after “subsection (d)”.
+Subsec. (g). Pub. L. 98–94, § 1268(4)(B), struck out “of this section” after “subsection (d)”.
 
-Subsecs. (i) to (k). Pub. L. 98–94, § 931(a)(2), added subsecs. (i) to (k).
+Subsecs. (i) to (k). Pub. L. 98–94, § 931(a)(2), added subsecs. (i) to (k).
 
 1981—Subsec. (b)(4). Pub. L. 97–22 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Subsec. (h). Pub. L. 97–86 substituted reference to services of individual health-care professionals for former reference to physician services, struck out provisions that had used the concept of a predetermined charge level based upon customary charges, and inserted provisions requiring a readjustment of the base period at least once a year.
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(36), (38)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing, and “that—” for “that:”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(36), (38)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing, and “that—” for “that:”.
 
-Subsec. (a)(2). Pub. L. 96–342, § 810(a)(1), inserted “of dependents over two years of age” after “immunizations”.
+Subsec. (a)(2). Pub. L. 96–342, § 810(a)(1), inserted “of dependents over two years of age” after “immunizations”.
 
-Subsec. (a)(3). Pub. L. 96–342, § 810(a)(2), struck out “routine care of the newborn, well-baby care, and” after “(3)”.
+Subsec. (a)(3). Pub. L. 96–342, § 810(a)(2), struck out “routine care of the newborn, well-baby care, and” after “(3)”.
 
 Subsec. (b)(4). Pub. L. 96–552 added par. (4).
 
-Pub. L. 96–513, § 511(38)(B), substituted “percent” for “per centum” wherever appearing.
+Pub. L. 96–513, § 511(38)(B), substituted “percent” for “per centum” wherever appearing.
 
-Subsec. (c). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (c). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (d). Pub. L. 96–513, §§ 501(13), 511(36), substituted “section 1072(2)(A) or (D) of this title” for “section 1072(2)(A), (C), or (E) of this title”, and “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (d). Pub. L. 96–513, §§ 501(13), 511(36), substituted “section 1072(2)(A) or (D) of this title” for “section 1072(2)(A), (C), or (E) of this title”, and “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (e). Pub. L. 96–513, § 511(36), (38)(C), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”, and “(d) as follows:” for “(d).”.
+Subsec. (e). Pub. L. 96–513, § 511(36), (38)(C), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”, and “(d) as follows:” for “(d).”.
 
-Subsec. (e)(2). Pub. L. 96–342, § 810(b), substituted “$1,000” for “$350”.
+Subsec. (e)(2). Pub. L. 96–342, § 810(b), substituted “$1,000” for “$350”.
 
-Subsec. (f). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (f). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (g). Pub. L. 96–513, § 511(38)(D), struck out “, United States Code,” after “37”.
+Subsec. (g). Pub. L. 96–513, § 511(38)(D), struck out “, United States Code,” after “37”.
 
-Subsec. (h). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (h). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 1978—Subsec. (h). Pub. L. 95–485 added subsec. (h).
 
@@ -11495,31 +11495,31 @@ Subsecs. (c) to (f). Pub. L. 89–614 added subsecs. (c) to (f).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title VII, § 701(d), Dec. 27, 2021, 135 Stat. 1779, provided that: “The amendments made by this section [enacting section 1090a of this title, transferring former section 1090a of this title to section 1090b of this title, and amending this section and section 1086 of this title] shall take effect on October 1, 2022.”
+Pub. L. 117–81, div. A, title VII, § 701(d), Dec. 27, 2021, 135 Stat. 1779, provided that: “The amendments made by this section [enacting section 1090a of this title, transferring former section 1090a of this title to section 1090b of this title, and amending this section and section 1086 of this title] shall take effect on October 1, 2022.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VII, § 715(b), Jan. 6, 2006, 119 Stat. 3345, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 7, 2001, and shall apply with respect to deaths occurring on or after that date.”
+Pub. L. 109–163, div. A, title VII, § 715(b), Jan. 6, 2006, 119 Stat. 3345, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 7, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VII, § 701(b), Dec. 2, 2002, 116 Stat. 2583, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 2003.”
+Pub. L. 107–314, div. A, title VII, § 701(b), Dec. 2, 2002, 116 Stat. 2583, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 2003.”
 
-Pub. L. 107–314, div. A, title VII, § 705(b), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any contract under the TRICARE program entered into on or after the date of the enactment of this Act [Dec. 2, 2002].”
+Pub. L. 107–314, div. A, title VII, § 705(b), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any contract under the TRICARE program entered into on or after the date of the enactment of this Act [Dec. 2, 2002].”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VII, § 707(c), Dec. 28, 2001, 115 Stat. 1164, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title VII, § 707(c), Dec. 28, 2001, 115 Stat. 1164, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 28, 2001].”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 701(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and provisions set out as a note under section 1077 of this title] shall apply to fiscal years after fiscal year 1999.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 701(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and provisions set out as a note under section 1077 of this title] shall apply to fiscal years after fiscal year 1999.”
 
-Amendment by section 1 [[div. A], title VII, § 722(b)(1)] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 [[div. A], title VII, § 722(c)(1)] of Pub. L. 106–398, set out as a note under section 1074 of this title.
+Amendment by section 1 [[div. A], title VII, § 722(b)(1)] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 [[div. A], title VII, § 722(c)(1)] of Pub. L. 106–398, set out as a note under section 1074 of this title.
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VII, § 707(c), Oct. 5, 1994, 108 Stat. 2801, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1076a of this title] shall apply with respect to the dependents described in such amendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
+Pub. L. 103–337, div. A, title VII, § 707(c), Oct. 5, 1994, 108 Stat. 2801, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1076a of this title] shall apply with respect to the dependents described in such amendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
 
 **Effective Date of 1993 Amendment**
 
@@ -11527,49 +11527,49 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title X, § 1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
+Pub. L. 102–484, div. A, title X, § 1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–25, title III, § 316(b), Apr. 6, 1991, 105 Stat. 87, provided that the amendment made by that section is effective Feb. 15, 1991.
+Pub. L. 102–25, title III, § 316(b), Apr. 6, 1991, 105 Stat. 87, provided that the amendment made by that section is effective Feb. 15, 1991.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title VII, § 701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title VII, § 701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 5, 1990].”
 
-Pub. L. 101–510, div. A, title VII, § 702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title VII, § 702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 5, 1990].”
 
-Pub. L. 101–510, div. A, title VII, § 703(d), Nov. 5, 1990, 104 Stat. 1582, as amended by Pub. L. 102–25, title III, § 316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section [amending this section] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
+Pub. L. 101–510, div. A, title VII, § 703(d), Nov. 5, 1990, 104 Stat. 1582, as amended by Pub. L. 102–25, title III, § 316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section [amending this section] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
 
-Pub. L. 101–510, div. A, title VII, § 712(c), Nov. 5, 1990, 104 Stat. 1583, provided that: “The amendments made by this section [amending this section and section 1086 of this title] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
+Pub. L. 101–510, div. A, title VII, § 712(c), Nov. 5, 1990, 104 Stat. 1583, provided that: “The amendments made by this section [amending this section and section 1086 of this title] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VII, § 730(b), Nov. 29, 1989, 103 Stat. 1481, provided that: “The amendment made by subsection (a) [amending this section] shall apply to services provided on or after October 1, 1989.”
+Pub. L. 101–189, div. A, title VII, § 730(b), Nov. 29, 1989, 103 Stat. 1481, provided that: “The amendment made by subsection (a) [amending this section] shall apply to services provided on or after October 1, 1989.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VI, § 646(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1086 of this title] shall apply with respect to medical care received after September 30, 1988.”
+Pub. L. 100–456, div. A, title VI, § 646(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1086 of this title] shall apply with respect to medical care received after September 30, 1988.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title VII, § 721(c), Dec. 4, 1987, 101 Stat. 1115, provided that: “Paragraph (5) of section 1079(b) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
+Pub. L. 100–180, div. A, title VII, § 721(c), Dec. 4, 1987, 101 Stat. 1115, provided that: “Paragraph (5) of section 1079(b) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
 
-Pub. L. 100–180, div. A, title VII, § 726(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Paragraph (15) of section 1079(a) of such title, as added by subsection (a), shall apply with respect to costs incurred for home monitoring equipment after the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. A, title VII, § 726(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Paragraph (15) of section 1079(a) of such title, as added by subsection (a), shall apply with respect to costs incurred for home monitoring equipment after the date of the enactment of this Act [Dec. 4, 1987].”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VI, § 652(e)(4), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (d) [amending this section] shall apply only with respect to care furnished under section 1079 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VI, § 652(e)(4), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (d) [amending this section] shall apply only with respect to care furnished under section 1079 of title 10, United States Code, on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 632(a)(3), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this subsection [amending this section and section 1086 of this title] shall apply only to health care furnished after September 30, 1984.”
+Pub. L. 98–525, title VI, § 632(a)(3), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this subsection [amending this section and section 1086 of this title] shall apply only to health care furnished after September 30, 1984.”
 
 Amendment by section 1401(e)(4) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 931(c), Sept. 24, 1983, 97 Stat. 649, provided that:
+Pub. L. 98–94, title IX, § 931(c), Sept. 24, 1983, 97 Stat. 649, provided that:
 
 > “The amendments made by this section [amending this section and section 1086 of this title] shall take effect on October 1, 1983, except that—
 
@@ -11579,7 +11579,7 @@ Pub. L. 98–94, title IX, § 931(c), Sept. 24, 1983, 97 Stat. 649, provided t
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–86, title IX, § 906(b), Dec. 1, 1981, 95 Stat. 1117, provided that: “The amendments made by subsection (a) [amending this section and section 1086 of this title] shall apply with respect to claims submitted for payment for services provided after the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 1, 1981].”
+Pub. L. 97–86, title IX, § 906(b), Dec. 1, 1981, 95 Stat. 1117, provided that: “The amendments made by subsection (a) [amending this section and section 1086 of this title] shall apply with respect to claims submitted for payment for services provided after the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 1, 1981].”
 
 **Effective Date of 1980 Amendments**
 
@@ -11587,15 +11587,15 @@ Amendment by section 501(13) of Pub. L. 96–513 effective Sept. 15, 1981, see s
 
 Amendment by section 511 of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 
-Pub. L. 96–342, title VIII, § 810(c), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendments made by this section [amending this section] shall apply to medical care provided after September 30, 1980.”
+Pub. L. 96–342, title VIII, § 810(c), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendments made by this section [amending this section] shall apply to medical care provided after September 30, 1980.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–485, title VIII, § 806(b), Oct. 20, 1978, 92 Stat. 1622, provided that: “the amendments made by subsection (a) [amending this section and section 1086 of this title] shall apply with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after the date of enactment of this Act [Oct. 20, 1978].”
+Pub. L. 95–485, title VIII, § 806(b), Oct. 20, 1978, 92 Stat. 1622, provided that: “the amendments made by subsection (a) [amending this section and section 1086 of this title] shall apply with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after the date of enactment of this Act [Oct. 20, 1978].”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–58, § 2, July 29, 1971, 85 Stat. 157, provided that: “This Act [amending this section] becomes effective as of January 1, 1967. However, no person is entitled to any benefits because of this Act for any period before the date of enactment [July 29, 1971].”
+Pub. L. 92–58, § 2, July 29, 1971, 85 Stat. 157, provided that: “This Act [amending this section] becomes effective as of January 1, 1967. However, no person is entitled to any benefits because of this Act for any period before the date of enactment [July 29, 1971].”
 
 **Effective Date of 1966 Amendment**
 
@@ -11603,7 +11603,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 **Waiver of Copayments for Preventive Services for Certain TRICARE Beneficiaries**
 
-Pub. L. 110–417, [div. A], title VII, § 711, Oct. 14, 2008, 122 Stat. 4500, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(11), Jan. 7, 2011, 124 Stat. 4375, provided that:
+Pub. L. 110–417, [div. A], title VII, § 711, Oct. 14, 2008, 122 Stat. 4500, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(11), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 > **“(a) Waiver of Certain Copayments.—** Subject to subsection (b) and under regulations prescribed by the Secretary of Defense, the Secretary shall—
 
@@ -11645,7 +11645,7 @@ Pub. L. 110–417, [div. A], title VII, § 711, Oct. 14, 2008, 122 Stat. 4500,
 
 **Plan for Providing Health Coverage Information to Members, Former Members, and Dependents Eligible for Certain Health Benefits**
 
-Pub. L. 108–136, div. A, title VII, § 724, Nov. 24, 2003, 117 Stat. 1534, provided that:
+Pub. L. 108–136, div. A, title VII, § 724, Nov. 24, 2003, 117 Stat. 1534, provided that:
 
 > **“(a) Health Information Plan Required.—** The Secretary of Defense shall develop a plan to—
 
@@ -11685,33 +11685,33 @@ Pub. L. 108–136, div. A, title VII, § 724, Nov. 24, 2003, 117 Stat. 1534, p
 
 **Report on Actions To Establish Special Reimbursement Rates**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 757(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 757(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
 
 **Programs Relating to Sale of Pharmaceuticals**
 
-Pub. L. 102–484, div. A, title VII, § 702, Oct. 23, 1992, 106 Stat. 2431, as amended by Pub. L. 103–160, div. A, title VII, § 721, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, § 706, Oct. 5, 1994, 108 Stat. 2800; Pub. L. 106–398, § 1 [[div. A], title VII, § 711(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, directed the Secretary of Defense to conduct a demonstration project that would permit eligible persons to obtain prescription pharmaceuticals by mail, directed the Secretary to include in each managed health care program awarded or renewed after Jan. 1, 1993, a program to supply prescription pharmaceuticals through a managed care network of retail pharmacies, directed the Secretary to submit to Congress a report regarding the demonstration project not later than two years after its establishment and an additional report regarding the programs not later than Jan. 1, 1994, and provided for termination of section 702 of Pub. L. 102–484 no later than one year after Oct. 30, 2000.
+Pub. L. 102–484, div. A, title VII, § 702, Oct. 23, 1992, 106 Stat. 2431, as amended by Pub. L. 103–160, div. A, title VII, § 721, Nov. 30, 1993, 107 Stat. 1695; Pub. L. 103–337, div. A, title VII, § 706, Oct. 5, 1994, 108 Stat. 2800; Pub. L. 106–398, § 1 [[div. A], title VII, § 711(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, directed the Secretary of Defense to conduct a demonstration project that would permit eligible persons to obtain prescription pharmaceuticals by mail, directed the Secretary to include in each managed health care program awarded or renewed after Jan. 1, 1993, a program to supply prescription pharmaceuticals through a managed care network of retail pharmacies, directed the Secretary to submit to Congress a report regarding the demonstration project not later than two years after its establishment and an additional report regarding the programs not later than Jan. 1, 1994, and provided for termination of section 702 of Pub. L. 102–484 no later than one year after Oct. 30, 2000.
 
 **Correction of Omission in Delay of Increase of CHAMPUS Deductibles Related to Operation Desert Storm**
 
-Pub. L. 102–484, div. A, title VII, § 721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
+Pub. L. 102–484, div. A, title VII, § 721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
 
 **Temporary CHAMPUS Provisions for Dependents of Operation Desert Shield/Desert Storm Active Duty Personnel**
 
-Pub. L. 102–172, title VIII, § 8085, Nov. 26, 1991, 105 Stat. 1192, provided that any CHAMPUS health care provider could voluntarily waive the patient copayment for medical services provided from Aug. 2, 1990, until the termination of Operation Desert Shield/Desert Storm for dependents of active duty personnel, provided that the Government’s share of medical services was not increased during such time period.
+Pub. L. 102–172, title VIII, § 8085, Nov. 26, 1991, 105 Stat. 1192, provided that any CHAMPUS health care provider could voluntarily waive the patient copayment for medical services provided from Aug. 2, 1990, until the termination of Operation Desert Shield/Desert Storm for dependents of active duty personnel, provided that the Government’s share of medical services was not increased during such time period.
 
-Similar provisions were contained in Pub. L. 102–28, § 105, Apr. 10, 1991, 105 Stat. 165.
+Similar provisions were contained in Pub. L. 102–28, § 105, Apr. 10, 1991, 105 Stat. 165.
 
-Pub. L. 102–25, title III, § 312, Apr. 6, 1991, 105 Stat. 85, provided that the annual deductibles specified in subsec. (b) of this section, as in effect on Nov. 4, 1990, would apply until Oct. 1, 1991, in the case of health care provided under that section to the dependents of a member of the uniformed services who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm, and that patient copayment requirements could be waived upon the provider’s certification to the Secretary of Defense that the amount charged the Federal Government for such health care had not been increased above the amount that the provider would have charged the Federal Government for such health care had the payment not been waived.
+Pub. L. 102–25, title III, § 312, Apr. 6, 1991, 105 Stat. 85, provided that the annual deductibles specified in subsec. (b) of this section, as in effect on Nov. 4, 1990, would apply until Oct. 1, 1991, in the case of health care provided under that section to the dependents of a member of the uniformed services who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm, and that patient copayment requirements could be waived upon the provider’s certification to the Secretary of Defense that the amount charged the Federal Government for such health care had not been increased above the amount that the provider would have charged the Federal Government for such health care had the payment not been waived.
 
 **Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm**
 
 For provision authorizing transitional health care, including health benefits contracted for under subsec. (a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
 
-## § 1079a. TRICARE program: treatment of refunds and other amounts collected
+## § 1079a. TRICARE program: treatment of refunds and other amounts collected
 
 All refunds and other amounts collected in the administration of the TRICARE program shall be credited to the appropriation available for that program for the fiscal year in which the refund or amount is collected.
 
-(Added Pub. L. 104–201, div. A, title VII, § 733(a)(1), Sept. 23, 1996, 110 Stat. 2597; amended Pub. L. 114–328, div. A, title VII, § 701(j)(1)(D), Dec. 23, 2016, 130 Stat. 2192.)
+(Added Pub. L. 104–201, div. A, title VII, § 733(a)(1), Sept. 23, 1996, 110 Stat. 2597; amended Pub. L. 114–328, div. A, title VII, § 701(j)(1)(D), Dec. 23, 2016, 130 Stat. 2192.)
 
 **Editorial Notes**
 
@@ -11719,9 +11719,9 @@ All refunds and other amounts collected in the administration of the TRICARE pro
 
 Provisions similar to those in this section were contained in the following appropriations acts:
 
-Pub. L. 104–61, title VIII, § 8094, Dec. 1, 1995, 109 Stat. 671.
+Pub. L. 104–61, title VIII, § 8094, Dec. 1, 1995, 109 Stat. 671.
 
-Pub. L. 103–335, title VIII, § 8144, Sept. 30, 1994, 108 Stat. 2656.
+Pub. L. 103–335, title VIII, § 8144, Sept. 30, 1994, 108 Stat. 2656.
 
 **Amendments**
 
@@ -11733,7 +11733,7 @@ Pub. L. 103–335, title VIII, § 8144, Sept. 30, 1994, 108 Stat. 2656.
 
 Amendment by Pub. L. 114–328 applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as a note under section 1072 of this title.
 
-## § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
+## § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
 
 **(a) Requirement To Implement Procedures.—** The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who are not covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
 
@@ -11771,21 +11771,21 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **(2)** The terms “third-party payer” and “insurance, medical service, or health plan” have the meaning given those terms in section 1095(h) of this title.
 
-(Added Pub. L. 107–107, div. A, title VII, § 732(a)(1), Dec. 28, 2001, 115 Stat. 1169; amended Pub. L. 116–283, div. A, title VII, § 702, Jan. 1, 2021, 134 Stat. 3686; Pub. L. 117–263, div. A, title VII, § 716(a), (b), Dec. 23, 2022, 136 Stat. 2661.)
+(Added Pub. L. 107–107, div. A, title VII, § 732(a)(1), Dec. 28, 2001, 115 Stat. 1169; amended Pub. L. 116–283, div. A, title VII, § 702, Jan. 1, 2021, 134 Stat. 3686; Pub. L. 117–263, div. A, title VII, § 716(a), (b), Dec. 23, 2022, 136 Stat. 2661.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b). Pub. L. 117–263, § 716(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
+2022—Subsec. (b). Pub. L. 117–263, § 716(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
 
 “(1) the civilian is unable to pay for the costs of the trauma or other medical care provided to the civilian (including any such costs remaining after the Secretary receives payment from an insurer for such care, as applicable); and
 
 “(2) the provision of such care enhances the knowledge, skills, and abilities of health care providers, as determined by the Secretary.”
 
-Subsecs. (c), (d). Pub. L. 117–263, § 716(a)(2), (b)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 117–263, § 716(a)(2), (b)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 117–263, § 716(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–263, § 716(b)(2), added subsec. (e).
 
 2021—Subsecs. (b), (c). Pub. L. 116–283 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -11793,11 +11793,11 @@ Subsec. (e). Pub. L. 117–263, § 716(b)(2), added subsec. (e).
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title VII, § 716(c), Dec. 23, 2022, 136 Stat. 2661, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to care provided on or after the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title VII, § 716(c), Dec. 23, 2022, 136 Stat. 2661, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to care provided on or after the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Improved Implementation of Financial Relief for Civilians Treated in Military Medical Treatment Facilities**
 
-Pub. L. 118–159, div. A, title VII, § 717, Dec. 23, 2024, 138 Stat. 1949, provided that:
+Pub. L. 118–159, div. A, title VII, § 717, Dec. 23, 2024, 138 Stat. 1949, provided that:
 
 > **“(a) Final Rule Required.—** The Secretary of Defense shall issue a final rule (or interim final rule) to implement as soon as possible after the date of the enactment of this Act [Dec. 23, 2024] section 1079b of title 10, United States Code.
 
@@ -11813,9 +11813,9 @@ Pub. L. 118–159, div. A, title VII, § 717, Dec. 23, 2024, 138 Stat. 1949, p
 
 **Deadline for Implementation**
 
-Pub. L. 107–107, div. A, title VII, § 732(b), Dec. 28, 2001, 115 Stat. 1170, directed the Secretary of Defense to begin to implement the procedures required by subsec. (a) of this section not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title VII, § 732(b), Dec. 28, 2001, 115 Stat. 1170, directed the Secretary of Defense to begin to implement the procedures required by subsec. (a) of this section not later than one year after Dec. 28, 2001.
 
-## § 1079c. Provisional coverage for emerging services and supplies
+## § 1079c. Provisional coverage for emerging services and supplies
 
 **(a) Provisional Coverage.—** In carrying out the TRICARE program, including pursuant to section 1079(a)(12) of this title, the Secretary of Defense, acting through the Assistant Secretary of Defense for Health Affairs, may provide provisional coverage for the provision of a service or supply if the Secretary determines that such service or supply is widely recognized in the United States as being safe and effective.
 
@@ -11853,9 +11853,9 @@ Pub. L. 107–107, div. A, title VII, § 732(b), Dec. 28, 2001, 115 Stat. 1170
 
 **(f) Finality of Determinations.—** Any determination to approve or disapprove a service or supply under subsection (a) and any action made under subsection (d)(3) shall be final.
 
-(Added Pub. L. 113–291, div. A, title VII, § 704(a), Dec. 19, 2014, 128 Stat. 3412.)
+(Added Pub. L. 113–291, div. A, title VII, § 704(a), Dec. 19, 2014, 128 Stat. 3412.)
 
-## § 1080. Contracts for medical care for spouses and children: election of facilities
+## § 1080. Contracts for medical care for spouses and children: election of facilities
 
 **(a) Election.—** A dependent covered by section 1079 of this title may elect to receive inpatient medical care either in (1) the facilities of the uniformed services, under the conditions prescribed by sections 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under section 1079 of this title. However, under such regulations as the Secretary of Defense, after consulting the other administering Secretaries, may prescribe, the right to make this election may be limited for dependents residing in the area where the member concerned is assigned, if adequate medical facilities of the uniformed services are available in that area for those dependents.
 
@@ -11867,13 +11867,13 @@ Pub. L. 107–107, div. A, title VII, § 732(b), Dec. 28, 2001, 115 Stat. 1170
 
 **(2)** The Secretary of Defense may waive the requirement to obtain nonavailability-of-health-care statements following an evaluation of the effectiveness of such statements in optimizing the use of facilities of the uniformed services.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, § 716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII, § 734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, § 712(c), Oct. 5, 1999, 113 Stat. 687.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, § 716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII, § 734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, § 712(c), Oct. 5, 1999, 113 Stat. 687.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1080 | 37:411(c). | June 7, 1956, ch. 374, § 201(c), 70 Stat. 252. |
+| 1080 | 37:411(c). | June 7, 1956, ch. 374, § 201(c), 70 Stat. 252. |
 
 The words “a plan contracted for under section 1079 of this title” are substituted for the words “such insurance, medical service, or health plan or plans as may be provided by the authority contained in this section”. The words “under the terms of this chapter” are omitted as surplusage.
 
@@ -11881,17 +11881,17 @@ The words “a plan contracted for under section 1079 of this title” are subst
 
 **Prior Provisions**
 
-A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1080, act Aug. 10, 1956, ch. 1041, 70A Stat. 85, related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
 1999—Subsec. (b). Pub. L. 106–65 inserted at end “Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.”
 
-1996—Subsec. (a). Pub. L. 104–201, § 734(a)(1), inserted “inpatient” before “medical care” in first sentence.
+1996—Subsec. (a). Pub. L. 104–201, § 734(a)(1), inserted “inpatient” before “medical care” in first sentence.
 
-Subsec. (b). Pub. L. 104–201, § 734(c), substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
+Subsec. (b). Pub. L. 104–201, § 734(c), substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
 
-Subsec. (c). Pub. L. 104–201, § 734(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 104–201, § 734(b)(1), added subsec. (c).
 
 1993—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -11905,17 +11905,17 @@ Subsec. (c). Pub. L. 104–201, § 734(b)(1), added subsec. (c).
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1081. Contracts for medical care for spouses and children: review and adjustment of payments
+## § 1081. Contracts for medical care for spouses and children: review and adjustment of payments
 
 Each plan under section 1079 of this title shall provide for a review, and if necessary an adjustment of payments, by the appropriate administering Secretary, not later than 120 days after the close of each year the plan is in effect.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–375, title I, § 104(a), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–94, title XII, § 1268(5)(A), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, § 19(9), Oct. 30, 1984, 98 Stat. 2870.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–375, title I, § 104(a), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–94, title XII, § 1268(5)(A), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, § 19(9), Oct. 30, 1984, 98 Stat. 2870.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1081 | 37:412. | June 7, 1956, ch. 374, § 202, 70 Stat. 253. |
+| 1081 | 37:412. | June 7, 1956, ch. 374, § 202, 70 Stat. 253. |
 
 The words “Each plan under section 1079 of this title” are substituted for the words “Any insurance, medical service, or health plan or plans which may be entered into by the Secretary of Defense with respect to medical care under the provisions of this chapter”. The words “after the close of each year the plan is in effect” are substituted for the words “after the first year the plan or plans have been in effect and each year thereafter”. The words “Not later than” are substituted for the word “within”.
 
@@ -11923,13 +11923,13 @@ The words “Each plan under section 1079 of this title” are substituted for t
 
 **Prior Provisions**
 
-A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to notification of elections, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to notification of elections, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
 1984—Pub. L. 98–557 substituted reference to appropriate administering Secretary for reference to Secretary of Defense and Secretary of Health and Human Services.
 
-1983—Pub. L. 98–94 struck out “; reports” after “adjustment of payments” in section catchline.
+1983—Pub. L. 98–94 struck out “; reports” after “adjustment of payments” in section catchline.
 
 1982—Pub. L. 97–375 struck out requirement that the Secretary of Defense report to the Committees on Armed Services of the Congress amounts paid and adjustments made during the year covered by the review not later than 90 days after such review.
 
@@ -11941,17 +11941,17 @@ A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to noti
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1082. Contracts for health care: advisory committees
+## § 1082. Contracts for health care: advisory committees
 
 To carry out sections 1079–1081 and 1086 of this title, the Secretary of Defense may establish advisory committees on insurance, medical service, and health plans, to advise and make recommendations to him. He shall prescribe regulations defining their scope, activities, and procedures. Each committee shall consist of the Secretary, or his designee, as chairman, and such other persons as the Secretary may select. So far as possible, the members shall be representative of the organizations in the field of insurance, medical service, and health plans. They shall serve without compensation but may be allowed transportation and a per diem payment in place of subsistence and other expenses.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 89–614, § 2(8), Sept. 30, 1966, 80 Stat. 866.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 89–614, § 2(8), Sept. 30, 1966, 80 Stat. 866.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1082 | 37:413. | June 7, 1956, ch. 374, § 203, 70 Stat. 253. |
+| 1082 | 37:413. | June 7, 1956, ch. 374, § 203, 70 Stat. 253. |
 
 The word “organizations” is inserted for clarity. The words “consult” and “or plans” are omitted as surplusage.
 
@@ -11959,7 +11959,7 @@ The word “organizations” is inserted for clarity. The words “consult” an
 
 **Prior Provisions**
 
-A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to extension of time limit for making ballots available, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to extension of time limit for making ballots available, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -11975,17 +11975,17 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 1083. Contracts for medical care for spouses and children: additional hospitalization
+## § 1083. Contracts for medical care for spouses and children: additional hospitalization
 
 If a dependent covered by a plan under section 1079 of this title needs hospitalization beyond the time limits in that plan, and if the hospitalization is authorized in medical facilities of the uniformed services, he may be transferred to such a facility for additional hospitalization. If transfer is not feasible, the expenses of additional hospitalization in the civilian facility may be paid under such regulations as the Secretary of Defense may prescribe after consulting the other administering Secretaries.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(10), Oct. 30, 1984, 98 Stat. 2870.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, § 511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, § 19(10), Oct. 30, 1984, 98 Stat. 2870.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1083 | 37:423. | June 7, 1956, ch. 374, § 303, 70 Stat. 254. |
+| 1083 | 37:423. | June 7, 1956, ch. 374, § 303, 70 Stat. 254. |
 
 The words “dependent covered by a plan under section 1079 of this title” are substituted for the words “person who is covered under an insurance, medical service, or health plan or plans, as provided in this chapter”. The words “period of”, “or plans”, and “required by such person in a civilian facility” are omitted as surplusage.
 
@@ -11993,7 +11993,7 @@ The words “dependent covered by a plan under section 1079 of this title” are
 
 **Prior Provisions**
 
-A prior section 1083, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to transmission, delivery, and return of post cards, ballots, etc., prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1083, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to transmission, delivery, and return of post cards, ballots, etc., prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -12007,17 +12007,17 @@ A prior section 1083, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to tran
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1084. Determinations of dependency
+## § 1084. Determinations of dependency
 
 A determination of dependency by an administering Secretary under this chapter is conclusive. However, the administering Secretary may change a determination because of new evidence or for other good cause. The Secretary’s determination may not be reviewed in any court or by the Comptroller General, unless there has been fraud or gross negligence.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(34)(A), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, § 19(11), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 108–375, div. A, title X, § 1084(c)(1), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(34)(A), (36), Dec. 12, 1980, 94 Stat. 2922, 2923; Pub. L. 98–557, § 19(11), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 108–375, div. A, title X, § 1084(c)(1), Oct. 28, 2004, 118 Stat. 2061.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1084 | 37:404. | June 7, 1956, ch. 374, § 304, 70 Stat. 254. |
+| 1084 | 37:404. | June 7, 1956, ch. 374, § 304, 70 Stat. 254. |
 
 The words “the General Accounting Office” are substituted for the words “any accounting officer of the Government” for clarity. The words “All” and “for all purposes” are omitted as surplusage.
 
@@ -12025,7 +12025,7 @@ The words “the General Accounting Office” are substituted for the words “a
 
 **Prior Provisions**
 
-A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to administration of former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to administration of former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -12047,17 +12047,17 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
-## § 1085. Medical and dental care from another executive department: reimbursement
+## § 1085. Medical and dental care from another executive department: reimbursement
 
 If a member or former member of a uniformed service under the jurisdiction of one executive department (or a dependent of such a member or former member) receives inpatient medical or dental care in a facility under the jurisdiction of another executive department, the appropriation for maintaining and operating the facility furnishing the care shall be reimbursed at rates established by the President to reflect the average cost of providing the care.
 
-(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–264, § 1, Oct. 19, 1965, 79 Stat. 989; Pub. L. 96–513, title V, § 511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–94, title XII, § 1268(6), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, § 19(12), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title XIII, § 1303(a)(8), Nov. 8, 1985, 99 Stat. 739.)
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1450; amended Pub. L. 89–264, § 1, Oct. 19, 1965, 79 Stat. 989; Pub. L. 96–513, title V, § 511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–94, title XII, § 1268(6), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, § 19(12), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title XIII, § 1303(a)(8), Nov. 8, 1985, 99 Stat. 739.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1085 | 37:421(d). | June 7, 1956, ch. 374, § 301(d), 70 Stat. 253. |
+| 1085 | 37:421(d). | June 7, 1956, ch. 374, § 301(d), 70 Stat. 253. |
 
 The words “other than that of the member or former member concerned” are substituted for the words “that is not the service of which he is a member or retired member, or that is not the service of the member or retired member upon whom he is dependent”. The word “medical” before the word “facility” is omitted to make clear that the provision also relates to dental care. The words “pursuant to the provisions of this chapter” are omitted as surplusage.
 
@@ -12065,7 +12065,7 @@ The words “other than that of the member or former member concerned” are sub
 
 **Prior Provisions**
 
-A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
@@ -12087,7 +12087,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Transfer of Funds Necessary To Provide Medical Care**
 
-Pub. L. 114–120, title II, § 217, Feb. 8, 2016, 130 Stat. 46, related to transfer of funds from the Secretary of Homeland Security to the Secretary of Defense in lieu of reimbursement required under section 1085 of title 10, prior to repeal by Pub. L. 114–328, div. A, title VII, § 722(c), Dec. 23, 2016, 130 Stat. 2229.
+Pub. L. 114–120, title II, § 217, Feb. 8, 2016, 130 Stat. 46, related to transfer of funds from the Secretary of Homeland Security to the Secretary of Defense in lieu of reimbursement required under section 1085 of title 10, prior to repeal by Pub. L. 114–328, div. A, title VII, § 722(c), Dec. 23, 2016, 130 Stat. 2229.
 
 **Executive Documents**
 
@@ -12095,7 +12095,7 @@ Pub. L. 114–120, title II, § 217, Feb. 8, 2016, 130 Stat. 46, related to tr
 
 Authority of President under this section to establish uniform rates of reimbursement for inpatient medical or dental care delegated to Secretary of Health and Human Services in respect of such care in a facility under his jurisdiction and to Secretary of Defense in respect of such care in a facility of an armed force under jurisdiction of a military department, see section 6 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-## § 1086. Contracts for health benefits for certain members, former members, and their dependents
+## § 1086. Contracts for health benefits for certain members, former members, and their dependents
 
 **(a)** To assure that health benefits are available for the persons covered by subsection (c), the Secretary of Defense, after consulting with the other administering Secretaries, shall contract under the authority of this section for health benefits for those persons under the same insurance, medical service, or health plans he contracts for under section 1079(a) of this title. However, eye examinations and (except as provided in subsection (i)) treatments for eating disorders may not be provided under such plans for persons covered by subsection (c).
 
@@ -12185,49 +12185,49 @@ Authority of President under this section to establish uniform rates of reimburs
 
 **(i)** If, prior to October 1, 2022, a category of persons covered by this section was eligible to receive a specific type of treatment for eating disorders under a plan contracted for under subsection (a), the general prohibition on the provision of treatments for eating disorders specified in such subsection shall not apply with respect to the provision of the specific type of treatment to such category of persons.
 
-(Added Pub. L. 89–614, § 2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, § 806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, § 1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§ 501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, § 906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, § 1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, § 931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, § 632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, § 19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, § 652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, § 604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, § 721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, § 646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, § 731(c)(2), title XVI, § 1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, § 712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, § 704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§ 703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, § 203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, § 716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, § 711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, § 732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, § 734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, § 1 [[div. A], title VII, §§ 712(a)(1), 759], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, § 900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, § 704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, § 701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, [div. A], title VII, § 701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§ 706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, § 701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, § 1076(f)(11), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title VII, § 703(c)(2), Dec. 19, 2014, 128 Stat. 3412; Pub. L. 115–91, div. A, title VII, § 739(d)(2), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 117–81, div. A, title VII, § 701(b), Dec. 27, 2021, 135 Stat. 1778.)
+(Added Pub. L. 89–614, § 2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, § 806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, § 1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§ 501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, § 906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, § 1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, § 931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, § 632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, § 19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, § 652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, § 604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, § 721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, § 646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, § 731(c)(2), title XVI, § 1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, § 712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, § 704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§ 703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, § 203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, § 716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, § 711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, § 732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, § 734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, § 1 [[div. A], title VII, §§ 712(a)(1), 759], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, § 900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, § 704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, § 701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, [div. A], title VII, § 701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§ 706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, § 701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, § 1076(f)(11), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title VII, § 703(c)(2), Dec. 19, 2014, 128 Stat. 3412; Pub. L. 115–91, div. A, title VII, § 739(d)(2), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 117–81, div. A, title VII, § 701(b), Dec. 27, 2021, 135 Stat. 1778.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, § 36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, § 36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–81, § 701(b)(1), inserted “and (except as provided in subsection (i)) treatments for eating disorders” after “eye examinations”.
+2021—Subsec. (a). Pub. L. 117–81, § 701(b)(1), inserted “and (except as provided in subsection (i)) treatments for eating disorders” after “eye examinations”.
 
-Subsec. (i). Pub. L. 117–81, § 701(b)(2), added subsec. (i).
+Subsec. (i). Pub. L. 117–81, § 701(b)(2), added subsec. (i).
 
 2017—Subsec. (b). Pub. L. 115–91 substituted “calendar year” for “fiscal year” wherever appearing.
 
-2014—Subsec. (d)(4)(A)(ii). Pub. L. 113–291, § 703(c)(2)(A), substituted “section 1079(i)(1)” for “section 1079(j)(1)”.
+2014—Subsec. (d)(4)(A)(ii). Pub. L. 113–291, § 703(c)(2)(A), substituted “section 1079(i)(1)” for “section 1079(j)(1)”.
 
-Subsec. (g). Pub. L. 113–291, § 703(c)(2)(B), substituted “Section 1079(i)” for “Section 1079(j)”.
+Subsec. (g). Pub. L. 113–291, § 703(c)(2)(B), substituted “Section 1079(i)” for “Section 1079(j)”.
 
 2013—Subsec. (b)(1). Pub. L. 112–239 substituted “paragraph (2)” for “clause (2)”.
 
 2011—Subsec. (b)(3). Pub. L. 111–383 substituted “September 30, 2011” for “September 30, 2010”.
 
-2009—Subsec. (b)(3). Pub. L. 111–84, § 709, substituted “September 30, 2010” for “September 30, 2009”.
+2009—Subsec. (b)(3). Pub. L. 111–84, § 709, substituted “September 30, 2010” for “September 30, 2009”.
 
-Subsec. (d)(4), (5). Pub. L. 111–84, § 706, added par. (4) and redesignated former par. (4) as (5).
+Subsec. (d)(4), (5). Pub. L. 111–84, § 706, added par. (4) and redesignated former par. (4) as (5).
 
 2008—Subsec. (b)(3). Pub. L. 110–417 substituted “September 30, 2009” for “September 30, 2008”.
 
 Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007.”
 
-2006—Subsec. (b)(3). Pub. L. 109–364 inserted “, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007.” after “charges for inpatient care”.
+2006—Subsec. (b)(3). Pub. L. 109–364 inserted “, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007.” after “charges for inpatient care”.
 
 2003—Subsec. (d)(4). Pub. L. 108–173 substituted “Administrator of the Centers for Medicare & Medicaid Services” for “administrator of the Health Care Financing Administration” in last sentence.
 
-2000—Subsec. (b)(4). Pub. L. 106–398, § 1 [[div. A], title VII, § 759], substituted “$3,000” for “$7,500”.
+2000—Subsec. (b)(4). Pub. L. 106–398, § 1 [[div. A], title VII, § 759], substituted “$3,000” for “$7,500”.
 
-Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(1)(A)], added par. (2) and struck out former par. (2) which read as follows: “The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
+Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(1)(A)], added par. (2) and struck out former par. (2) which read as follows: “The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
 
 “(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
 
@@ -12235,7 +12235,7 @@ Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(1)(A
 
 “(C) is enrolled in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.).”
 
-Subsec. (d)(4). Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(1)(B)], substituted “subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph” for “paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph,”.
+Subsec. (d)(4). Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(1)(B)], substituted “subparagraph (B) of paragraph (2) who do not satisfy the condition specified in subparagraph (A) of such paragraph” for “paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph,”.
 
 1996—Subsec. (d)(4). Pub. L. 104–106 added par. (4).
 
@@ -12247,29 +12247,29 @@ Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “b
 
 “(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan.”
 
-1993—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, § 704(a). See 1991 Amendment note below.
+1993—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, § 704(a). See 1991 Amendment note below.
 
 Subsec. (e). Pub. L. 103–160 inserted at end “In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.”
 
-1992—Subsec. (b)(4). Pub. L. 102–484, § 703(a), substituted “$7,500” for “$10,000”.
+1992—Subsec. (b)(4). Pub. L. 102–484, § 703(a), substituted “$7,500” for “$10,000”.
 
-Subsec. (d)(2)(A). Pub. L. 102–484, § 705(a), inserted before semicolon “or section 226A(a) of such Act (42 U.S.C. 426–1(a))”.
+Subsec. (d)(2)(A). Pub. L. 102–484, § 705(a), inserted before semicolon “or section 226A(a) of such Act (42 U.S.C. 426–1(a))”.
 
-1991—Subsec. (c). Pub. L. 102–190, § 704(b)(1)(A), substituted “Except as provided in subsection (d), the following” for “The following” in introductory provisions and struck out at end “However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.”
+1991—Subsec. (c). Pub. L. 102–190, § 704(b)(1)(A), substituted “Except as provided in subsection (d), the following” for “The following” in introductory provisions and struck out at end “However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.”
 
-Subsec. (d). Pub. L. 102–190, § 704(a), as amended by Pub. L. 103–35, added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of section 1079(j) of this title shall apply to a plan covered by this section.”
+Subsec. (d). Pub. L. 102–190, § 704(a), as amended by Pub. L. 103–35, added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of section 1079(j) of this title shall apply to a plan covered by this section.”
 
-Subsec. (g). Pub. L. 102–190, § 704(b)(1)(B), substituted “Section 1079(j) of this title shall apply to a plan contracted for under this section, except that” for “Notwithstanding subsection (d) or any other provision of this chapter,”.
+Subsec. (g). Pub. L. 102–190, § 704(b)(1)(B), substituted “Section 1079(j) of this title shall apply to a plan contracted for under this section, except that” for “Notwithstanding subsection (d) or any other provision of this chapter,”.
 
 1990—Subsec. (b)(1), (2). Pub. L. 101–510 substituted “$150” for “$50” in par. (1) and “$300” for “$100” in par. (2).
 
-1989—Subsec. (c)(3). Pub. L. 101–189, § 731(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A dependent covered by section 1072(2)(F) of this title.”
+1989—Subsec. (c)(3). Pub. L. 101–189, § 731(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A dependent covered by section 1072(2)(F) of this title.”
 
-Subsec. (g). Pub. L. 101–189, § 1621(a)(3), substituted “facilities of the Department of Veterans Affairs” for “Veterans’ Administration facilities”.
+Subsec. (g). Pub. L. 101–189, § 1621(a)(3), substituted “facilities of the Department of Veterans Affairs” for “Veterans’ Administration facilities”.
 
-1988—Subsec. (b)(3). Pub. L. 100–456, § 646(b)(1), inserted provision authorizing Secretary of Defense to exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+1988—Subsec. (b)(3). Pub. L. 100–456, § 646(b)(1), inserted provision authorizing Secretary of Defense to exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
-Subsec. (h). Pub. L. 100–456, § 646(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 100–456, § 646(b)(2), added subsec. (h).
 
 1987—Subsec. (b)(4). Pub. L. 100–180 added par. (4).
 
@@ -12277,11 +12277,11 @@ Subsec. (h). Pub. L. 100–456, § 646(b)(2), added subsec. (h).
 
 1985—Subsec. (c)(2). Pub. L. 99–145 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A dependent of a member of a uniformed service who died while on active duty for a period of more than thirty days, except a dependent covered by section 1072(2)(E) of this title.”
 
-1984—Subsec. (a). Pub. L. 98–557, § 19(13)(A), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+1984—Subsec. (a). Pub. L. 98–557, § 19(13)(A), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
 Pub. L. 98–525 inserted “However, eye examinations may not be provided under such plans for persons covered by subsection (c).”
 
-Subsec. (e). Pub. L. 98–557, § 19(13)(B), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsec. (e). Pub. L. 98–557, § 19(13)(B), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
 1983—Subsec. (d). Pub. L. 98–94 substituted “The provisions of section 1079(j) of this title shall apply to a plan covered by this section” for “No benefits shall be payable under any plan covered by this section in the case of a person enrolled in any other insurance, medical service, or health plan provided by law or through employment unless that person certifies that the particular benefit he is claiming is not payable under the other plan”.
 
@@ -12289,11 +12289,11 @@ Subsec. (e). Pub. L. 98–557, § 19(13)(B), substituted reference to the admi
 
 1981—Subsec. (f). Pub. L. 97–86 substituted “services by an individual health-care professional (or other noninstitutional health-care provider)” for “physician services”.
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (b). Pub. L. 96–513, § 511(39)(A), substituted “percent” for “per centum” wherever appearing.
+Subsec. (b). Pub. L. 96–513, § 511(39)(A), substituted “percent” for “per centum” wherever appearing.
 
-Subsec. (c). Pub. L. 96–513, §§ 501(14), 511(39)(B), substituted “section 1072(2)(E)” for “section 1072(2)(F)” in pars. (1) and (2) and, in provisions following par. (2), substituted “part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)” for “title I of the Social Security Amendments of 1965 (79 Stat. 286)”.
+Subsec. (c). Pub. L. 96–513, §§ 501(14), 511(39)(B), substituted “section 1072(2)(E)” for “section 1072(2)(F)” in pars. (1) and (2) and, in provisions following par. (2), substituted “part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)” for “title I of the Social Security Amendments of 1965 (79 Stat. 286)”.
 
 1979—Subsec. (g). Pub. L. 96–173 added subsec. (g).
 
@@ -12307,15 +12307,15 @@ Amendment by Pub. L. 117–81 effective Oct. 1, 2022, see section 701(d) of Pub.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 1395ggg of Title 42, The Public Health and Welfare] shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 712(a)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 1395ggg of Title 42, The Public Health and Welfare] shall take effect on October 1, 2001.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title VII, § 703(b), Oct. 23, 1992, 106 Stat. 2432, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–484, div. A, title VII, § 703(b), Oct. 23, 1992, 106 Stat. 2432, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after September 30, 1992.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title VII, § 704(c), Dec. 5, 1991, 105 Stat. 1402, which provided that subsection (d) of this section was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, § 705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
+Pub. L. 102–190, div. A, title VII, § 704(c), Dec. 5, 1991, 105 Stat. 1402, which provided that subsection (d) of this section was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, § 705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
 
 **Effective Date of 1990 Amendment**
 
@@ -12363,7 +12363,7 @@ Amendment by section 501(14) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–173, § 2, Dec. 29, 1979, 93 Stat. 1287, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on October 1, 1979.”
+Pub. L. 96–173, § 2, Dec. 29, 1979, 93 Stat. 1287, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on October 1, 1979.”
 
 **Effective Date of 1978 Amendment**
 
@@ -12375,29 +12375,29 @@ For effective date of section, see section 3 of Pub. L. 89–614, set out as a n
 
 **Temporary Authority for Waiver of Collection of Payments Due for CHAMPUS Benefits Received by Certain Persons Unaware of Loss of CHAMPUS Eligibility**
 
-Pub. L. 108–375, div. A, title VII, § 716, Oct. 28, 2004, 118 Stat. 1986, authorized the Secretary of Defense to waive the collection of payments otherwise due for health benefits from certain persons described in subsec. (d) of this section who were unaware of the loss of eligibility to receive health benefits under such subsection and authorized a continuation of benefits for such persons during the period beginning on July 1, 1999, and ending on Dec. 31, 2004.
+Pub. L. 108–375, div. A, title VII, § 716, Oct. 28, 2004, 118 Stat. 1986, authorized the Secretary of Defense to waive the collection of payments otherwise due for health benefits from certain persons described in subsec. (d) of this section who were unaware of the loss of eligibility to receive health benefits under such subsection and authorized a continuation of benefits for such persons during the period beginning on July 1, 1999, and ending on Dec. 31, 2004.
 
 Similar provisions were contained in the following prior authorization acts:
 
-Pub. L. 105–261, div. A, title VII, § 704, Oct. 17, 1998, 112 Stat. 2057.
+Pub. L. 105–261, div. A, title VII, § 704, Oct. 17, 1998, 112 Stat. 2057.
 
-Pub. L. 104–106, div. A, title VII, § 743, Feb. 10, 1996, 110 Stat. 385.
+Pub. L. 104–106, div. A, title VII, § 743, Feb. 10, 1996, 110 Stat. 385.
 
 **Minimum Amount Payable for Services Provided Under This Section**
 
-Pub. L. 103–335, title VIII, § 8052, Sept. 30, 1994, 108 Stat. 2629, provided that: “Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) [42 U.S.C. 1395c et seq.] solely on the grounds of physical disability, or end stage renal disease: *Provided*, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.] and are otherwise covered under CHAMPUS: *Provided further*, That no reimbursement shall be made for services provided prior to October 1, 1991.”
+Pub. L. 103–335, title VIII, § 8052, Sept. 30, 1994, 108 Stat. 2629, provided that: “Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) [42 U.S.C. 1395c et seq.] solely on the grounds of physical disability, or end stage renal disease: *Provided*, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.] and are otherwise covered under CHAMPUS: *Provided further*, That no reimbursement shall be made for services provided prior to October 1, 1991.”
 
 **Authorization To Apply Section 1079 Payment Rules for Spouse and Children of Member Who Dies While on Active Duty**
 
-Pub. L. 103–160, div. A, title VII, § 704, Nov. 30, 1993, 107 Stat. 1687, provided that in the case of an eligible dependent of a member of a uniformed service who died while on active duty for a period of more than 30 days, the administering Secretary could apply the payment provisions set forth in section 1079(b) of this title (in lieu of the payment provisions set forth in section 1086(b) of this title), with respect to health benefits received by the dependent under such section 1086 in connection with an illness or medical condition for which the dependent was receiving treatment under chapter 55 of this title at time of death of the member, prior to repeal by Pub. L. 103–337, div. A, title VII, § 707(d), Oct. 5, 1994, 108 Stat. 2801.
+Pub. L. 103–160, div. A, title VII, § 704, Nov. 30, 1993, 107 Stat. 1687, provided that in the case of an eligible dependent of a member of a uniformed service who died while on active duty for a period of more than 30 days, the administering Secretary could apply the payment provisions set forth in section 1079(b) of this title (in lieu of the payment provisions set forth in section 1086(b) of this title), with respect to health benefits received by the dependent under such section 1086 in connection with an illness or medical condition for which the dependent was receiving treatment under chapter 55 of this title at time of death of the member, prior to repeal by Pub. L. 103–337, div. A, title VII, § 707(d), Oct. 5, 1994, 108 Stat. 2801.
 
-[Pub. L. 103–337, div. A, title VII, § 707(d), Oct. 5, 1994, 108 Stat. 2801, provided in part that: “The repeal of such section [section 704 of Pub. L. 103–160, formerly set out above] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act [Oct. 5, 1994].” ]
+[Pub. L. 103–337, div. A, title VII, § 707(d), Oct. 5, 1994, 108 Stat. 2801, provided in part that: “The repeal of such section [section 704 of Pub. L. 103–160, formerly set out above] shall not terminate the special payment rules provided in such section with respect to any person eligible for such payment rules on the date of the enactment of this Act [Oct. 5, 1994].” ]
 
 **Coverage of Care Provided Since September 30, 1991**
 
-Pub. L. 102–484, div. A, title VII, § 705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
+Pub. L. 102–484, div. A, title VII, § 705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
 
-## § 1086a. Certain former spouses: extension of period of eligibility for health benefits
+## § 1086a. Certain former spouses: extension of period of eligibility for health benefits
 
 **(a) Availability of Conversion Health Policies.—** The Secretary of Defense shall inform each person who has been a dependent for a period of one year or more under section 1072(2)(H) of this title of the availability of a conversion health policy for purchase by the person. A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.
 
@@ -12429,19 +12429,19 @@ Pub. L. 102–484, div. A, title VII, § 705(b), Oct. 23, 1992, 106 Stat. 2433
 
 **(d) Conversion Health Policy Defined.—** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and the private insurer, that is available for purchase by or for the use of a person who is a dependent for a one-year period under section 1072(2)(H) of this title.
 
-(Added Pub. L. 101–189, div. A, title VII, § 731(b)(1), Nov. 29, 1989, 103 Stat. 1482; amended Pub. L. 102–484, div. D, title XLIV, § 4407(b), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–35, title II, § 202(a)(16), May 31, 1993, 107 Stat. 102.)
+(Added Pub. L. 101–189, div. A, title VII, § 731(b)(1), Nov. 29, 1989, 103 Stat. 1482; amended Pub. L. 102–484, div. D, title XLIV, § 4407(b), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–35, title II, § 202(a)(16), May 31, 1993, 107 Stat. 102.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 4407(b)(2). See 1992 Amendment note below.
+1993—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 4407(b)(2). See 1992 Amendment note below.
 
-1992—Subsec. (a). Pub. L. 102–484, § 4407(b)(1), inserted at end “A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.”
+1992—Subsec. (a). Pub. L. 102–484, § 4407(b)(1), inserted at end “A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.”
 
-Subsec. (b)(1). Pub. L. 102–484, § 4407(b)(2), as amended by Pub. L. 103–35, substituted “24-month period” for “one-year period” the second place appearing in the introductory provisions of par. (1).
+Subsec. (b)(1). Pub. L. 102–484, § 4407(b)(2), as amended by Pub. L. 103–35, substituted “24-month period” for “one-year period” the second place appearing in the introductory provisions of par. (1).
 
-Subsecs. (c), (d). Pub. L. 102–484, § 4407(b)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 102–484, § 4407(b)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12455,7 +12455,7 @@ Section applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree 
 
 **Application of Amendments by Pub. L. 102–484 to Existing Contracts**
 
-Pub. L. 102–484, div. D, title XLIV, § 4407(c), Oct. 23, 1992, 106 Stat. 2708, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4407(c), Oct. 23, 1992, 106 Stat. 2708, provided that:
 
 > “In the case of conversion health policies provided under section 1145(b) or 1086a(a) of title 10, United States Code, and in effect on the date of the enactment of this Act [Oct. 23, 1992], the Secretary of Defense shall—
 
@@ -12465,19 +12465,19 @@ Pub. L. 102–484, div. D, title XLIV, § 4407(c), Oct. 23, 1992, 106 Stat. 27
 
 **Termination of Applicability of Other Conversion Health Policies**
 
-Pub. L. 102–484, div. D, title XLIV, § 4408(c), Oct. 23, 1992, 106 Stat. 2712, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4408(c), Oct. 23, 1992, 106 Stat. 2712, provided that:
 
 > **“(1)** No person may purchase a conversion health policy under section 1145(b) or 1086a of title 10, United States Code, on or after October 1, 1994. A person covered by such a conversion health policy on that date may cancel that policy and enroll in a health benefits plan under section 1078a of such title.
 
 > **“(2)** No person may be covered concurrently by a conversion health policy under section 1145(b) or 1086a of such title and a health benefits plan under section 1078a of such title.”
 
-## § 1086b. Prohibition against requiring retired members to receive health care solely through the Department of Defense
+## § 1086b. Prohibition against requiring retired members to receive health care solely through the Department of Defense
 
 The Secretary of Defense may not take any action that would require, or have the effect of requiring, a member or former member of the armed forces who is entitled to retired or retainer pay to enroll to receive health care from the Federal Government only through the Department of Defense.
 
-(Added Pub. L. 107–107, div. A, title VII, § 731(a), Dec. 28, 2001, 115 Stat. 1169.)
+(Added Pub. L. 107–107, div. A, title VII, § 731(a), Dec. 28, 2001, 115 Stat. 1169.)
 
-## § 1087. Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services
+## § 1087. Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services
 
 **(a)** Space for inpatient and outpatient care may be programed in facilities of the uniformed services for persons covered by sections 1074(b) and 1076(b) of this title. The maximum amount of space that may be so programed for a facility is the greater of—
 
@@ -12495,13 +12495,13 @@ The Secretary of Defense may not take any action that would require, or have the
 
 **(2)** In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis (including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under section 1086 of this title or under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)).
 
-(Added Pub. L. 89–614, § 2(7), Sept. 30, 1966, 80 Stat. 866; amended Pub. L. 97–337, § 1, Oct. 15, 1982, 96 Stat. 1631; Pub. L. 98–525, title XIV, § 1405(24), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(4), Nov. 14, 1986, 100 Stat. 3992.)
+(Added Pub. L. 89–614, § 2(7), Sept. 30, 1966, 80 Stat. 866; amended Pub. L. 97–337, § 1, Oct. 15, 1982, 96 Stat. 1631; Pub. L. 98–525, title XIV, § 1405(24), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(4), Nov. 14, 1986, 100 Stat. 3992.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act, is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act, is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -12509,29 +12509,29 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 1984—Subsec. (b)(2). Pub. L. 98–525 which directed that “(42 U.S.C. 1395c et seq.)” be inserted after “the Social Security Act.”, was executed by inserting parenthetical after “the Social Security Act” to reflect the probable intent of Congress. See 1986 Amendment note above.
 
-1982—Subsec. (a). Pub. L. 97–337, § 1(1), designated existing provisions as subsec. (a).
+1982—Subsec. (a). Pub. L. 97–337, § 1(1), designated existing provisions as subsec. (a).
 
-Pub. L. 97–337, § 1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
+Pub. L. 97–337, § 1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 
-Subsec. (b). Pub. L. 97–337, § 1(2), added subsec. (b).
+Subsec. (b). Pub. L. 97–337, § 1(2), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–337, § 2, Oct. 15, 1982, 96 Stat. 1632, provided that: “The amendment made by paragraph (2) of the first section of this Act [amending this section] shall apply only with respect to a facility for which funds for construction (or a major alteration) are first appropriated for a fiscal year after fiscal year 1983.”
+Pub. L. 97–337, § 2, Oct. 15, 1982, 96 Stat. 1632, provided that: “The amendment made by paragraph (2) of the first section of this Act [amending this section] shall apply only with respect to a facility for which funds for construction (or a major alteration) are first appropriated for a fiscal year after fiscal year 1983.”
 
 **Effective Date**
 
 For effective date of section, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
-## § 1088. Air evacuation patients: furnished subsistence
+## § 1088. Air evacuation patients: furnished subsistence
 
 Notwithstanding any other provision of law, and under regulations to be prescribed by the Secretary concerned, a person entitled to medical and dental care under this chapter may be furnished subsistence without charge while being evacuated as a patient by military aircraft of the United States.
 
-(Added Pub. L. 91–481, § 2(1), Oct. 21, 1970, 84 Stat. 1081.)
+(Added Pub. L. 91–481, § 2(1), Oct. 21, 1970, 84 Stat. 1081.)
 
-## § 1089. Defense of certain suits arising out of medical malpractice
+## § 1089. Defense of certain suits arising out of medical malpractice
 
 **(a)** The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for personal injury, including death, caused by the negligent or wrongful act or omission of any physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (including medical and dental technicians, nursing assistants, and therapists) of the armed forces, the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32, the Department of Defense, the Armed Forces Retirement Home, or the Central Intelligence Agency in the performance of medical, dental, or related health care functions (including clinical studies and investigations) while acting within the scope of his duties or employment therein or therefor shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against such physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) whose act or omission gave rise to such action or proceeding. This subsection shall also apply to such a physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) serving under a personal services contract entered into under section 1091 of this title or a subcontract at any tier under such a contract that is authorized in accordance with the requirements of such section 1091.
 
@@ -12559,7 +12559,7 @@ Notwithstanding any other provision of law, and under regulations to be prescrib
 
 **(4)** the Secretary of Defense, in all other cases.
 
-(Added Pub. L. 94–464, § 1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, § 2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, § 934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, § 1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, § 736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, § 931(b)(3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 112–81, div. A, title V, § 567(b)(2)(A), Dec. 31, 2011, 125 Stat. 1425; Pub. L. 112–239, div. A, title VII, § 713(a), Jan. 2, 2013, 126 Stat. 1803.)
+(Added Pub. L. 94–464, § 1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, § 2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, § 934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, § 1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, § 736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, § 931(b)(3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 112–81, div. A, title V, § 567(b)(2)(A), Dec. 31, 2011, 125 Stat. 1425; Pub. L. 112–239, div. A, title VII, § 713(a), Jan. 2, 2013, 126 Stat. 1803.)
 
 **Editorial Notes**
 
@@ -12573,21 +12573,21 @@ Notwithstanding any other provision of law, and under regulations to be prescrib
 
 2002—Subsec. (g)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 736(b)(1), inserted at end “This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title.”
+1997—Subsec. (a). Pub. L. 105–85, § 736(b)(1), inserted at end “This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title.”
 
-Subsec. (f). Pub. L. 105–85, § 736(b)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 105–85, § 736(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-1990—Subsec. (a). Pub. L. 101–510, § 1533(a)(1)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home”.
+1990—Subsec. (a). Pub. L. 101–510, § 1533(a)(1)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home”.
 
-Subsec. (g)(3). Pub. L. 101–510, § 1533(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Board of Commissioners of the United States Soldiers’ and Airmen’s home, in the case of an employee of the United States Soldiers’ and Airmen’s Home; and”.
+Subsec. (g)(3). Pub. L. 101–510, § 1533(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Board of Commissioners of the United States Soldiers’ and Airmen’s home, in the case of an employee of the United States Soldiers’ and Airmen’s Home; and”.
 
 1987—Subsec. (g). Pub. L. 100–180 inserted “the term” after “In this section,”.
 
-1983—Subsec. (a). Pub. L. 98–94, § 934(a), inserted “the United States Soldiers’ and Airmen’s Home,”.
+1983—Subsec. (a). Pub. L. 98–94, § 934(a), inserted “the United States Soldiers’ and Airmen’s Home,”.
 
-Subsec. (f). Pub. L. 98–94, § 934(b), substituted “may, to the extent that the head of the agency concerned considers” for “or his designee may, to the extent that he or his designee deems”.
+Subsec. (f). Pub. L. 98–94, § 934(b), substituted “may, to the extent that the head of the agency concerned considers” for “or his designee may, to the extent that he or his designee deems”.
 
-Subsec. (g)(3), (4). Pub. L. 98–94, § 934(c)(3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (g)(3), (4). Pub. L. 98–94, § 934(c)(3), added par. (3) and redesignated former par. (3) as (4).
 
 1981—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
 
@@ -12603,19 +12603,19 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 934(d), Sept. 24, 1983, 97 Stat. 652, provided that: “The amendments made by this section [amending this section] shall apply only to claims accruing on or after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title IX, § 934(d), Sept. 24, 1983, 97 Stat. 652, provided that: “The amendments made by this section [amending this section] shall apply only to claims accruing on or after the date of the enactment of this Act [Sept. 24, 1983].”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–124, § 4, Dec. 29, 1981, 95 Stat. 1666, provided that: “The amendments made by this Act [amending this section and section 2671 of Title 28, Judiciary and Judicial Procedure] and the repeal made by section 3 of this Act [repealing section 334 of Title 32, National Guard] shall apply only with respect to claims arising on or after the date of enactment of this Act [Dec. 29, 1981].”
+Pub. L. 97–124, § 4, Dec. 29, 1981, 95 Stat. 1666, provided that: “The amendments made by this Act [amending this section and section 2671 of Title 28, Judiciary and Judicial Procedure] and the repeal made by section 3 of this Act [repealing section 334 of Title 32, National Guard] shall apply only with respect to claims arising on or after the date of enactment of this Act [Dec. 29, 1981].”
 
 **Effective Date**
 
-Pub. L. 94–464, § 4, Oct. 8, 1976, 90 Stat. 1989, provided that: “This Act [enacting this section, section 334 of Title 32, National Guard, section 2458a of Title 42, The Public Health and Welfare, and provisions set out as notes under this section and section 334 of Title 32] shall become effective on the date of its enactment [Oct. 8, 1976] and shall apply only to those claims accruing on or after such date of enactment.”
+Pub. L. 94–464, § 4, Oct. 8, 1976, 90 Stat. 1989, provided that: “This Act [enacting this section, section 334 of Title 32, National Guard, section 2458a of Title 42, The Public Health and Welfare, and provisions set out as notes under this section and section 334 of Title 32] shall become effective on the date of its enactment [Oct. 8, 1976] and shall apply only to those claims accruing on or after such date of enactment.”
 
 **Congressional Findings**
 
-Pub. L. 94–464, § 2(a), Oct. 8, 1976, 90 Stat. 1986, provided that:
+Pub. L. 94–464, § 2(a), Oct. 8, 1976, 90 Stat. 1986, provided that:
 
 > “The Congress finds—
 
@@ -12627,17 +12627,17 @@ Pub. L. 94–464, § 2(a), Oct. 8, 1976, 90 Stat. 1986, provided that:
 
 > **“(4)** that in order to insure that such medical personnel will continue to be available to the National Guard, it is necessary for the Federal Government to assume responsibility for the payment of malpractice claims made against such personnel arising out of actions or omissions on the part of such personnel while they are performing certain training exercises.”
 
-## § 1090. Identifying and treating drug and alcohol dependence
+## § 1090. Identifying and treating drug and alcohol dependence
 
 The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who are dependent on drugs or alcohol.
 
-(Added Pub. L. 97–295, § 1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII, § 1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, § 553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–295, § 1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII, § 1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, § 553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1090 | 10:1071 (note). | Sept. 28, 1971, Pub. L. 92–129, § 501(a)(1), 85 Stat. 361. |
+| 1090 | 10:1071 (note). | Sept. 28, 1971, Pub. L. 92–129, § 501(a)(1), 85 Stat. 361. |
 
 The word “regulations” is added for consistency. The word “persons” is omitted as surplus.
 
@@ -12647,7 +12647,7 @@ The word “regulations” is added for consistency. The word “persons” is o
 
 2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1990—Pub. L. 101–510 inserted “, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense”.
+1990—Pub. L. 101–510 inserted “, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense”.
 
 1983—Pub. L. 98–94 struck out “(a)” before “The Secretary of Defense”.
 
@@ -12659,7 +12659,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Naloxone and Fentanyl: Regulations; Briefing**
 
-Pub. L. 118–31, div. A, title VII, § 706, Dec. 22, 2023, 137 Stat. 301, provided that:
+Pub. L. 118–31, div. A, title VII, § 706, Dec. 22, 2023, 137 Stat. 301, provided that:
 
 > **“(a) Regulations.—** Not later than January 1, 2025, the Secretary of Defense, in coordination with the Secretaries of the military departments shall prescribe regulations regarding naloxone and fentanyl on military installations. Such regulations shall—
 
@@ -12687,7 +12687,7 @@ Pub. L. 118–31, div. A, title VII, § 706, Dec. 22, 2023, 137 Stat. 301, pro
 
 **Pilot Program on Opioid Management in the Military Health System**
 
-Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, as amended by Pub. L. 117–263, div. A, title VII, § 719, Dec. 23, 2022, 136 Stat. 2662, provided that:
+Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, as amended by Pub. L. 117–263, div. A, title VII, § 719, Dec. 23, 2022, 136 Stat. 2662, provided that:
 
 > **“(a) Pilot Program.—**
 
@@ -12735,7 +12735,7 @@ Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, a
 
 > **“(f) TRICARE Program Defined.—** In this section, the term ‘TRICARE program’ has the meaning given that term in section 1072 of title 10, United States Code.”
 
-## § 1090a. Identifying and treating eating disorders
+## § 1090a. Identifying and treating eating disorders
 
 **(a) Identification, Treatment, and Rehabilitation.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who have an eating disorder.
 
@@ -12747,7 +12747,7 @@ Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, a
 
 **(c) Eating Disorder Defined.—** In this section, the term “eating disorder” has the meaning given that term in section 1079(r) of this title.
 
-(Added Pub. L. 117–81, div. A, title VII, § 701(c)(1)(B), Dec. 27, 2021, 135 Stat. 1778; amended Pub. L. 118–31, div. A, title XVIII, § 1801(a)(13), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 117–81, div. A, title VII, § 701(c)(1)(B), Dec. 27, 2021, 135 Stat. 1778; amended Pub. L. 118–31, div. A, title XVIII, § 1801(a)(13), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
@@ -12765,7 +12765,7 @@ A prior section 1090a was renumbered section 1090b of this title.
 
 Section effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under section 1079 of this title.
 
-## § 1090b. Commanding officer and supervisor referrals of members for mental health evaluations
+## § 1090b. Commanding officer and supervisor referrals of members for mental health evaluations
 
 **(a) Regulations.—** The Secretary of Defense shall prescribe and maintain regulations relating to commanding officer and supervisor referrals of members of the armed forces for mental health evaluations. The regulations shall incorporate the requirements set forth in subsections (b), (c), and (d) and such other matters as the Secretary considers appropriate.
 
@@ -12831,7 +12831,7 @@ Section effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out 
 
 **(B)** in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
 
-(Added Pub. L. 112–81, div. A, title VII, § 711(a)(1), Dec. 31, 2011, 125 Stat. 1475, § 1090a; renumbered § 1090b and amended Pub. L. 117–81, div. A, title VII, §§ 701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780; Pub. L. 118–31, div. A, title VII, § 705, title XVIII, § 1801(a)(14), Dec. 22, 2023, 137 Stat. 300, 684.)
+(Added Pub. L. 112–81, div. A, title VII, § 711(a)(1), Dec. 31, 2011, 125 Stat. 1475, § 1090a; renumbered § 1090b and amended Pub. L. 117–81, div. A, title VII, §§ 701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780; Pub. L. 118–31, div. A, title VII, § 705, title XVIII, § 1801(a)(14), Dec. 22, 2023, 137 Stat. 300, 684.)
 
 **Editorial Notes**
 
@@ -12841,17 +12841,17 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 **Amendments**
 
-2023—Subsec. (e)(1). Pub. L. 118–31, § 705(1), inserted “described in paragraph (3)” after “member of the armed forces” in introductory provisions.
+2023—Subsec. (e)(1). Pub. L. 118–31, § 705(1), inserted “described in paragraph (3)” after “member of the armed forces” in introductory provisions.
 
-Subsec. (e)(1)(B)(ii). Pub. L. 118–31, § 1801(a)(14), substituted “ensuring” for “ensure”.
+Subsec. (e)(1)(B)(ii). Pub. L. 118–31, § 1801(a)(14), substituted “ensuring” for “ensure”.
 
-Subsec. (e)(3). Pub. L. 118–31, § 705(2), added par. (3).
+Subsec. (e)(3). Pub. L. 118–31, § 705(2), added par. (3).
 
-2021—Pub. L. 117–81, § 701(c)(1)(A), renumbered section 1090a of this title as this section.
+2021—Pub. L. 117–81, § 701(c)(1)(A), renumbered section 1090a of this title as this section.
 
-Subsec. (c). Pub. L. 117–81, § 704(1), inserted “or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)” after “mental health evaluation” in introductory provisions.
+Subsec. (c). Pub. L. 117–81, § 704(1), inserted “or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)” after “mental health evaluation” in introductory provisions.
 
-Subsecs. (e) to (g). Pub. L. 117–81, § 704(2), (3), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+Subsecs. (e) to (g). Pub. L. 117–81, § 704(2), (3), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12861,7 +12861,7 @@ Transfer of section by section 701(c)(1)(A) of Pub. L. 117–81 effective Oct. 1
 
 **Confidentiality Requirements for Mental Health Care Services for Members of the Armed Forces**
 
-Pub. L. 117–263, div. A, title VII, § 704, Dec. 23, 2022, 136 Stat. 2648, provided that:
+Pub. L. 117–263, div. A, title VII, § 704, Dec. 23, 2022, 136 Stat. 2648, provided that:
 
 > **“(a) In General.—** In order to reinforce the policies of eliminating stigma in obtaining mental health care services and further encouraging help-seeking behavior by members of the Armed Forces, not later than July 1, 2023, the Secretary of Defense shall—
 
@@ -12905,7 +12905,7 @@ Pub. L. 117–263, div. A, title VII, § 704, Dec. 23, 2022, 136 Stat. 2648, p
 
 > **“(e) Exigent Circumstance Defined.—** In this section, the term ‘exigent circumstance’ means a circumstance in which the Secretary of Defense determines the need to prevent serious harm to an individual or essential military function clearly outweighs the need for confidentiality of information obtained by a health care provider incident to mental health care services voluntarily sought by a member of the Armed Forces.”
 
-## § 1091. Personal services contracts
+## § 1091. Personal services contracts
 
 **(a) Authority.—**
 
@@ -12923,9 +12923,9 @@ Pub. L. 117–263, div. A, title VII, § 704, Dec. 23, 2022, 136 Stat. 2648, p
 
 **(B)** consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
 
-**(2)** Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 1
+**(2)** Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or any other similar requirements of law.
 
@@ -12937,13 +12937,13 @@ of this title or any other similar requirements of law.
 
 **(d) Exceptions.—** The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, § 932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, § 714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, § 712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, § 733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, § 736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, § 733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, § 1 [[div. A], title VII, § 705], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, § 707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, § 721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, § 713(b), Jan. 2, 2013, 126 Stat. 1803; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 98–94, title IX, § 932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, § 714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, § 712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, § 733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, § 736(a), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, § 733(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 106–398, § 1 [[div. A], title VII, § 705], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, § 707, Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–136, div. A, title VII, § 721, Nov. 24, 2003, 117 Stat. 1531; Pub. L. 112–239, div. A, title VII, § 713(b), Jan. 2, 2013, 126 Stat. 1803; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2304 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
+Section 2304 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 **Amendments**
 
@@ -12963,7 +12963,7 @@ Subsec. (a)(2). Pub. L. 107–314 substituted “December 31, 2003” for “Dec
 
 1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
+1996—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
 
 1993—Pub. L. 103–160 substituted “Personal services contracts” for “Contracts for direct health care providers” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -12985,15 +12985,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title VII, § 733(c), Feb. 10, 1996, 110 Stat. 381, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1995.”
+Pub. L. 104–106, div. A, title VII, § 733(c), Feb. 10, 1996, 110 Stat. 381, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1995.”
 
 **Effective Date**
 
-Pub. L. 98–94, title IX, § 932(f), Sept. 24, 1983, 97 Stat. 650, provided that: “The amendments made by this section [enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
+Pub. L. 98–94, title IX, § 932(f), Sept. 24, 1983, 97 Stat. 650, provided that: “The amendments made by this section [enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
 
 **Acquisition Strategy for Health Care Professional Staffing Services**
 
-Pub. L. 114–328, div. A, title VII, § 727(a)–(c), Dec. 23, 2016, 130 Stat. 2232, 2233, provided that:
+Pub. L. 114–328, div. A, title VII, § 727(a)–(c), Dec. 23, 2016, 130 Stat. 2232, 2233, provided that:
 
 > **“(a) Acquisition Strategy.—**
 
@@ -13033,19 +13033,19 @@ Pub. L. 114–328, div. A, title VII, § 727(a)–(c), Dec. 23, 2016, 130 Stat
 
 **Acquisition Strategy for Health Care Professional Staffing Services**
 
-Pub. L. 113–291, div. A, title VII, § 725, Dec. 19, 2014, 128 Stat. 3418, required the Secretary of Defense to develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities, prior to repeal by Pub. L. 114–328, div. A, title VII, § 727(d), Dec. 23, 2016, 130 Stat. 2233.
+Pub. L. 113–291, div. A, title VII, § 725, Dec. 19, 2014, 128 Stat. 3418, required the Secretary of Defense to develop and carry out an acquisition strategy with respect to entering into contracts for the services of health care professional staff at military medical treatment facilities, prior to repeal by Pub. L. 114–328, div. A, title VII, § 727(d), Dec. 23, 2016, 130 Stat. 2233.
 
 **Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification**
 
-Pub. L. 105–261, div. A, title VII, § 733(b), Oct. 17, 1998, 112 Stat. 2072, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
+Pub. L. 105–261, div. A, title VII, § 733(b), Oct. 17, 1998, 112 Stat. 2072, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
 
 **Ratification of Existing Contracts**
 
-Pub. L. 104–106, div. A, title VII, § 733(b), Feb. 10, 1996, 110 Stat. 381, provided that: “Any exercise of authority under section 1091 of title 10, United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) [Oct. 1, 1995] is hereby ratified.”
+Pub. L. 104–106, div. A, title VII, § 733(b), Feb. 10, 1996, 110 Stat. 381, provided that: “Any exercise of authority under section 1091 of title 10, United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) [Oct. 1, 1995] is hereby ratified.”
 
 **Personal Service Contracts To Provide Care**
 
-Pub. L. 103–337, div. A, title VII, § 704(c), Oct. 5, 1994, 108 Stat. 2799, as amended by Pub. L. 108–375, div. A, title VII, § 717(a), Oct. 28, 2004, 118 Stat. 1986, provided that:
+Pub. L. 103–337, div. A, title VII, § 704(c), Oct. 5, 1994, 108 Stat. 2799, as amended by Pub. L. 108–375, div. A, title VII, § 717(a), Oct. 28, 2004, 118 Stat. 1986, provided that:
 
 > **“(1)** The Secretary of Defense may enter into personal service contracts under the authority of section 1091 of title 10, United States Code, with persons described in paragraph (2) to provide the services of clinical counselors, family advocacy program staff, and victim’s services representatives to members of the Armed Forces and covered beneficiaries who require such services. Notwithstanding subsection (a) of such section, such services may be provided in medical treatment facilities of the Department of Defense or elsewhere as determined appropriate by the Secretary.
 
@@ -13053,9 +13053,9 @@ Pub. L. 103–337, div. A, title VII, § 704(c), Oct. 5, 1994, 108 Stat. 2799,
 
 **Report on Compensation by Medical Specialty**
 
-Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689, directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by Pub. L. 103–160, specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number of specialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
+Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689, directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by Pub. L. 103–160, specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number of specialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
 
-## § 1091a. Identification in patient medical records of affiliation of certain non-Department of Defense health care providers
+## § 1091a. Identification in patient medical records of affiliation of certain non-Department of Defense health care providers
 
 **(a) Requirement.—** The Secretary of Defense shall ensure that medical records of the Department of Defense include the organizational affiliation of any independent health care contractor identified in such medical records.
 
@@ -13065,7 +13065,7 @@ Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689
 
 **(2)** The health care provider provides health care services under this chapter in any military medical treatment facility (as defined in section 1073c(j) of this title) or other location under the jurisdiction of the Secretary of Defense, including an operational clinic.
 
-(Added Pub. L. 118–159, div. A, title VII, § 711, Dec. 23, 2024, 138 Stat. 1947; amended Pub. L. 119–60, div. A, title VII, § 711(b), Dec. 18, 2025, 139 Stat. 919.)
+(Added Pub. L. 118–159, div. A, title VII, § 711, Dec. 23, 2024, 138 Stat. 1947; amended Pub. L. 119–60, div. A, title VII, § 711(b), Dec. 18, 2025, 139 Stat. 919.)
 
 **Editorial Notes**
 
@@ -13073,7 +13073,7 @@ Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689
 
 2025—Subsec. (b)(2). Pub. L. 119–60 substituted “section 1073c(j)” for “section 1073c(i)”.
 
-## § 1092. Studies and demonstration projects relating to delivery of health and medical care
+## § 1092. Studies and demonstration projects relating to delivery of health and medical care
 
 **(a)**
 
@@ -13109,7 +13109,7 @@ Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689
 
 **(c)** The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other on­going or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, § 933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, § 19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, § 1031(a), Oct. 17, 1998, 112 Stat. 2123; Pub. L. 110–417, [div. A], title VII, § 715, Oct. 14, 2008, 122 Stat. 4505; Pub. L. 117–263, div. A, title VII, § 717(a), Dec. 23, 2022, 136 Stat. 2662.)
+(Added Pub. L. 98–94, title IX, § 933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, § 19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, § 1031(a), Oct. 17, 1998, 112 Stat. 2123; Pub. L. 110–417, [div. A], title VII, § 715, Oct. 14, 2008, 122 Stat. 4505; Pub. L. 117–263, div. A, title VII, § 717(a), Dec. 23, 2022, 136 Stat. 2662.)
 
 **Editorial Notes**
 
@@ -13127,11 +13127,11 @@ Pub. L. 103–160, div. A, title VII, § 712(b), Nov. 30, 1993, 107 Stat. 1689
 
 **Effective Date**
 
-Pub. L. 98–94, title IX, § 933(b), Sept. 24, 1983, 97 Stat. 651, provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, § 933(b), Sept. 24, 1983, 97 Stat. 651, provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 **Pilot Program on Treatment of Members of the Armed Forces for Post-Traumatic Stress Disorder Related to Military Sexual Trauma**
 
-Pub. L. 115–232, div. A, title VII, § 702, Aug. 13, 2018, 132 Stat. 1804, provided that:
+Pub. L. 115–232, div. A, title VII, § 702, Aug. 13, 2018, 132 Stat. 1804, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using intensive outpatient programs to treat members of the Armed Forces suffering from post-traumatic stress disorder resulting from military sexual trauma, including treatment for substance abuse, depression, and other issues related to such conditions.
 
@@ -13173,7 +13173,7 @@ Pub. L. 115–232, div. A, title VII, § 702, Aug. 13, 2018, 132 Stat. 1804, p
 
 **Pilot Program on Expansion of Use of Physician Assistants To Provide Mental Health Care to Members of the Armed Forces**
 
-Pub. L. 114–328, div. A, title VII, § 742, Dec. 23, 2016, 130 Stat. 2237, provided that:
+Pub. L. 114–328, div. A, title VII, § 742, Dec. 23, 2016, 130 Stat. 2237, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may conduct a pilot program to assess the feasibility and advisability of expanding the use by the Department of Defense of physician assistants specializing in psychiatric medicine at medical facilities of the Department of Defense in order to meet the increasing demand for mental health care providers at such facilities through the use of a psychiatry fellowship program for physician assistants.
 
@@ -13193,7 +13193,7 @@ Pub. L. 114–328, div. A, title VII, § 742, Dec. 23, 2016, 130 Stat. 2237, p
 
 **Pilot Program on Display of Wait Times at Urgent Care Clinics and Pharmacies of Military Medical Treatment Facilities**
 
-Pub. L. 114–328, div. A, title VII, § 744, Dec. 23, 2016, 130 Stat. 2239, as amended by Pub. L. 115–91, div. A, title VII, § 717, Dec. 12, 2017, 131 Stat. 1439, provided that:
+Pub. L. 114–328, div. A, title VII, § 744, Dec. 23, 2016, 130 Stat. 2239, as amended by Pub. L. 115–91, div. A, title VII, § 717, Dec. 12, 2017, 131 Stat. 1439, provided that:
 
 > **“(a) Pilot Program Authorized.—** Beginning not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall carry out a pilot program for the display of wait times in urgent care clinics and pharmacies of military medical treatment facilities selected under subsection (b).
 
@@ -13247,7 +13247,7 @@ Pub. L. 114–328, div. A, title VII, § 744, Dec. 23, 2016, 130 Stat. 2239, a
 
 **Pilot Program on Incentive Programs To Improve Health Care Provided Under the TRICARE Program**
 
-Pub. L. 114–92, div. A, title VII, § 726, Nov. 25, 2015, 129 Stat. 871, provided that:
+Pub. L. 114–92, div. A, title VII, § 726, Nov. 25, 2015, 129 Stat. 871, provided that:
 
 > **“(a) Pilot Program.—** Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall commence the conduct of a pilot program under section 1092 of title 10, United States Code, to assess whether a reduction in the rate of increase in health care spending by the Department of Defense and an enhancement of the operation of the military health system may be achieved by developing and implementing value-based incentive programs to encourage health care providers under the TRICARE program (including physicians, hospitals, and others involved in providing health care to patients) to improve the following:
 
@@ -13303,7 +13303,7 @@ Pub. L. 114–92, div. A, title VII, § 726, Nov. 25, 2015, 129 Stat. 871, pro
 
 **Pilot Program on Certain Treatments of Autism Under the TRICARE Program**
 
-Pub. L. 112–239, div. A, title VII, § 705, Jan. 2, 2013, 126 Stat. 1800, provided that:
+Pub. L. 112–239, div. A, title VII, § 705, Jan. 2, 2013, 126 Stat. 1800, provided that:
 
 > **“(a) Pilot Program.—**
 
@@ -13335,7 +13335,7 @@ Pub. L. 112–239, div. A, title VII, § 705, Jan. 2, 2013, 126 Stat. 1800, pr
 
 **Military Health Risk Management Demonstration Project**
 
-Pub. L. 110–417, [div. A], title VII, § 712, Oct. 14, 2008, 122 Stat. 4501, provided that:
+Pub. L. 110–417, [div. A], title VII, § 712, Oct. 14, 2008, 122 Stat. 4501, provided that:
 
 > **“(a) Demonstration Project Required.—** The Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing incentives to encourage healthy behaviors on the part of eligible military health system beneficiaries.
 
@@ -13399,7 +13399,7 @@ Pub. L. 110–417, [div. A], title VII, § 712, Oct. 14, 2008, 122 Stat. 4501,
 
 **Availability of Chiropractic Health Care Services**
 
-Pub. L. 109–163, div. A, title VII, § 712, Jan. 6, 2006, 119 Stat. 3343, provided that:
+Pub. L. 109–163, div. A, title VII, § 712, Jan. 6, 2006, 119 Stat. 3343, provided that:
 
 > **“(a) Availability of Chiropractic Health Care Services.—** The Secretary of the Air Force shall ensure that chiropractic health care services are available at all medical treatment facilities listed in table 5 of the report to Congress dated August 16, 2001, titled ‘Chiropractic Health Care Implementation Plan’. If the Secretary determines that it is not necessary or feasible to provide chiropractic health care services at any such facility, the Secretary shall provide such services at an alternative site for each such facility.
 
@@ -13411,7 +13411,7 @@ Pub. L. 109–163, div. A, title VII, § 712, Jan. 6, 2006, 119 Stat. 3343, pr
 
 **Pilot Program for Health Care Delivery**
 
-Pub. L. 108–375, div. A, title VII, § 721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, title VII, § 707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, [div. A], title X, § 1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
+Pub. L. 108–375, div. A, title VII, § 721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, title VII, § 707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, [div. A], title X, § 1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense may conduct a pilot program at two or more military installations for purposes of testing initiatives that build cooperative health care arrangements and agreements between military installations and local and regional non-military health care systems.
 
@@ -13455,27 +13455,27 @@ Pub. L. 108–375, div. A, title VII, § 721, Oct. 28, 2004, 118 Stat. 1988, a
 
 **Demonstration Project for Expanded Access to Mental Health Counselors**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 731], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to committees of Congress a plan to carry out a demonstration project under which licensed and certified professional mental health counselors who had met eligibility requirements for participation as providers under CHAMPUS or the TRICARE program could provide services to covered beneficiaries under this chapter without referral by physicians or adherence to supervision requirements, and directed the Secretary to conduct such project during the 2-year period beginning Oct. 1, 2001, and to submit to Congress a report on such project not later than Feb. 1, 2003.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 731], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to committees of Congress a plan to carry out a demonstration project under which licensed and certified professional mental health counselors who had met eligibility requirements for participation as providers under CHAMPUS or the TRICARE program could provide services to covered beneficiaries under this chapter without referral by physicians or adherence to supervision requirements, and directed the Secretary to conduct such project during the 2-year period beginning Oct. 1, 2001, and to submit to Congress a report on such project not later than Feb. 1, 2003.
 
 **Teleradiology Demonstration Project**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 732], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, authorized the Secretary of Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 732], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, authorized the Secretary of Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
 
 **Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs**
 
-Pub. L. 106–65, div. A, title VII, § 724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X, § 1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
+Pub. L. 106–65, div. A, title VII, § 724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X, § 1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
 
 **Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units**
 
-Pub. L. 104–106, div. A, title VII, § 744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
+Pub. L. 104–106, div. A, title VII, § 744, Feb. 10, 1996, 110 Stat. 386, directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
 
 **Demonstration Project on Management of Health Care in Catchment Areas and Other Demonstration Projects**
 
-Pub. L. 100–180, div. A, title VII, § 731, Dec. 4, 1987, 101 Stat. 1117, directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
+Pub. L. 100–180, div. A, title VII, § 731, Dec. 4, 1987, 101 Stat. 1117, directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
 
 **Chiropractic Health Care**
 
-Pub. L. 108–375, div. A, title VII, § 718, Oct. 28, 2004, 118 Stat. 1987, as amended by Pub. L. 117–286, § 4(a)(49), Dec. 27, 2022, 136 Stat. 4310, provided that:
+Pub. L. 108–375, div. A, title VII, § 718, Oct. 28, 2004, 118 Stat. 1987, as amended by Pub. L. 117–286, § 4(a)(49), Dec. 27, 2022, 136 Stat. 4310, provided that:
 
 > **“(a) Establishment.—** Not later than 120 days after the date of the enactment of this Act [Oct. 28, 2004], the Secretary of Defense shall establish an oversight advisory committee to provide the Secretary with advice and recommendations regarding the continued development and implementation of an effective program of chiropractic health care benefits for members of the uniformed services on active duty.
 
@@ -13513,9 +13513,9 @@ Pub. L. 108–375, div. A, title VII, § 718, Oct. 28, 2004, 118 Stat. 1987, a
 
 > **“(h) Termination.—** The advisory committee shall terminate 90 days after the date on which the Secretary submits the report under subsection (f).”
 
-Pub. L. 108–136, div. A, title VII, § 711, Nov. 24, 2003, 117 Stat. 1530, provided that: “The Secretary of Defense shall accelerate the implementation of the plan required by section 702 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 114 Stat. 1654A–173) [set out below] (relating to chiropractic health care services and benefits), with a goal of completing implementation of the plan by October 1, 2005.”
+Pub. L. 108–136, div. A, title VII, § 711, Nov. 24, 2003, 117 Stat. 1530, provided that: “The Secretary of Defense shall accelerate the implementation of the plan required by section 702 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 114 Stat. 1654A–173) [set out below] (relating to chiropractic health care services and benefits), with a goal of completing implementation of the plan by October 1, 2005.”
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 702], Oct. 30, 2000, 114 Stat. 1654, 1654A–173, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 702], Oct. 30, 2000, 114 Stat. 1654, 1654A–173, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -13549,11 +13549,11 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 702], Oct. 30, 2000, 114 St
 
 > **“(e) GAO Reports.—** The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation.”
 
-Pub. L. 103–337, div. A, title VII, § 731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, § 739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, § 702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary’s recommendation.
+Pub. L. 103–337, div. A, title VII, § 731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, § 739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, § 702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary’s recommendation.
 
-Pub. L. 98–525, title VI, § 632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
+Pub. L. 98–525, title VI, § 632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
 
-## § 1092a. Persons entering the armed forces: baseline health data
+## § 1092a. Persons entering the armed forces: baseline health data
 
 **(a) Program Required.—** The Secretary of Defense shall carry out a program—
 
@@ -13567,21 +13567,21 @@ Pub. L. 98–525, title VI, § 632(b), Oct. 19, 1984, 98 Stat. 2543, provided 
 
 **(2)** To facilitate development of early intervention and prevention programs to protect health and readiness.
 
-(Added Pub. L. 108–375, div. A, title VII, § 733(a)(1), Oct. 28, 2004, 118 Stat. 1997.)
+(Added Pub. L. 108–375, div. A, title VII, § 733(a)(1), Oct. 28, 2004, 118 Stat. 1997.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Time for Implementation**
 
-Pub. L. 108–375, div. A, title VII, § 733(a)(3), Oct. 28, 2004, 118 Stat. 1998, provided that: “The Secretary of Defense shall implement the program required under section 1092a of title 10, United States Code (as added by paragraph (1)), not later than two years after the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title VII, § 733(a)(3), Oct. 28, 2004, 118 Stat. 1998, provided that: “The Secretary of Defense shall implement the program required under section 1092a of title 10, United States Code (as added by paragraph (1)), not later than two years after the date of the enactment of this Act [Oct. 28, 2004].”
 
-## § 1093. Performance of abortions: restrictions
+## § 1093. Performance of abortions: restrictions
 
 **(a) Restriction on Use of Funds.—** Funds available to the Department of Defense may not be used to perform abortions except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
 
 **(b) Restriction on Use of Facilities.—** No medical treatment facility or other facility of the Department of Defense may be used to perform an abortion except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
 
-(Added Pub. L. 98–525, title XIV, § 1401(e)(5)(A), Oct. 19, 1984, 98 Stat. 2617; amended Pub. L. 104–106, div. A, title VII, § 738(a), (b)(1), Feb. 10, 1996, 110 Stat. 383; Pub. L. 112–239, div. A, title VII, § 704, Jan. 2, 2013, 126 Stat. 1800.)
+(Added Pub. L. 98–525, title XIV, § 1401(e)(5)(A), Oct. 19, 1984, 98 Stat. 2617; amended Pub. L. 104–106, div. A, title VII, § 738(a), (b)(1), Feb. 10, 1996, 110 Stat. 383; Pub. L. 112–239, div. A, title VII, § 704, Jan. 2, 2013, 126 Stat. 1800.)
 
 **Editorial Notes**
 
@@ -13589,27 +13589,27 @@ Pub. L. 108–375, div. A, title VII, § 733(a)(3), Oct. 28, 2004, 118 Stat. 1
 
 Provisions similar to those in subsec. (a) of this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8044], Oct. 12, 1984, 98 Stat. 1904, 1931.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8044], Oct. 12, 1984, 98 Stat. 1904, 1931.
 
-Pub. L. 98–212, title VII, § 751, Dec. 8, 1983, 97 Stat. 1447.
+Pub. L. 98–212, title VII, § 751, Dec. 8, 1983, 97 Stat. 1447.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 755], Dec. 21, 1982, 96 Stat. 1833, 1860.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 755], Dec. 21, 1982, 96 Stat. 1833, 1860.
 
-Pub. L. 97–114, title VII, § 757, Dec. 29, 1981, 95 Stat. 1588.
+Pub. L. 97–114, title VII, § 757, Dec. 29, 1981, 95 Stat. 1588.
 
-Pub. L. 96–527, title VII, § 760, Dec. 15, 1980, 94 Stat. 3091.
+Pub. L. 96–527, title VII, § 760, Dec. 15, 1980, 94 Stat. 3091.
 
-Pub. L. 96–154, title VII, § 762, Dec. 21, 1979, 93 Stat. 1162.
+Pub. L. 96–154, title VII, § 762, Dec. 21, 1979, 93 Stat. 1162.
 
-Pub. L. 95–457, title VIII, § 863, Oct. 13, 1978, 92 Stat. 1254.
+Pub. L. 95–457, title VIII, § 863, Oct. 13, 1978, 92 Stat. 1254.
 
 **Amendments**
 
 2013—Subsec. (a). Pub. L. 112–239 inserted “or in a case in which the pregnancy is the result of an act of rape or incest” before period at end.
 
-1996—Pub. L. 104–106, § 738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
+1996—Pub. L. 104–106, § 738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
 
-Pub. L. 104–106, § 738(a), designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+Pub. L. 104–106, § 738(a), designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13631,7 +13631,7 @@ You are hereby authorized and directed to publish this memorandum in the Federal
 
 William J. Clinton.
 
-## § 1094. Licensure requirement for health-care professionals
+## § 1094. Licensure requirement for health-care professionals
 
 **(a)**
 
@@ -13697,33 +13697,33 @@ William J. Clinton.
 
 **(E)** Any other country designated as a partner country by the Secretary of Defense for the purposes of this section.
 
-(Added Pub. L. 99–145, title VI, § 653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, § 653(e)(1), title XVI, § 1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, § 737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, § 734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, § 717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, § 713, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 112–81, div. A, title VII, § 713(a), Dec. 31, 2011, 125 Stat. 1476; Pub. L. 117–263, div. A, title VII, § 718, Dec. 23, 2022, 136 Stat. 2662; Pub. L. 118–159, div. A, title VII, §§ 713, 714(a), Dec. 23, 2024, 138 Stat. 1947; Pub. L. 119–60, div. A, title VII, § 716, Dec. 18, 2025, 139 Stat. 923.)
+(Added Pub. L. 99–145, title VI, § 653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, § 653(e)(1), title XVI, § 1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, § 737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, § 734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, § 717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, § 713, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 112–81, div. A, title VII, § 713(a), Dec. 31, 2011, 125 Stat. 1476; Pub. L. 117–263, div. A, title VII, § 718, Dec. 23, 2022, 136 Stat. 2662; Pub. L. 118–159, div. A, title VII, §§ 713, 714(a), Dec. 23, 2024, 138 Stat. 1947; Pub. L. 119–60, div. A, title VII, § 716, Dec. 18, 2025, 139 Stat. 923.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (e)(1)(A). Pub. L. 119–60, § 716(1), substituted “, or the official agency of the government of a partner country; and” for “; and”.
+2025—Subsec. (e)(1)(A). Pub. L. 119–60, § 716(1), substituted “, or the official agency of the government of a partner country; and” for “; and”.
 
-Subsec. (e)(3). Pub. L. 119–60, § 716(2), added par. (3).
+Subsec. (e)(3). Pub. L. 119–60, § 716(2), added par. (3).
 
-2024—Subsec. (d)(1). Pub. L. 118–159, § 714(a)(1), substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)”.
+2024—Subsec. (d)(1). Pub. L. 118–159, § 714(a)(1), substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)”.
 
-Subsec. (d)(2). Pub. L. 118–159, § 713, inserted “an examination or assessment under section 10206 of this title or” after “section 1091 of this title who is providing” in introductory provisions.
+Subsec. (d)(2). Pub. L. 118–159, § 713, inserted “an examination or assessment under section 10206 of this title or” after “section 1091 of this title who is providing” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 118–159, § 714(a)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 118–159, § 714(a)(2), added par. (4).
 
 2022—Subsec. (d)(2). Pub. L. 117–263 inserted “contractor not covered under section 1091 of this title who is providing medical treatment as part of a mission relating to emergency, humanitarian, or refugee assistance,” after “section 1091 of this title,” in introductory provisions.
 
-2011—Subsec. (d)(1). Pub. L. 112–81, § 713(a)(1), inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.”
+2011—Subsec. (d)(1). Pub. L. 112–81, § 713(a)(1), inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.”
 
-Pub. L. 111–383, § 713(1), inserted “or (3)” after “paragraph (2)”.
+Pub. L. 111–383, § 713(1), inserted “or (3)” after “paragraph (2)”.
 
-Subsec. (d)(2). Pub. L. 112–81, § 713(a)(2), substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”.
+Subsec. (d)(2). Pub. L. 112–81, § 713(a)(2), substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”.
 
-Pub. L. 111–383, § 713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
+Pub. L. 111–383, § 713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
 
-Subsec. (d)(3). Pub. L. 111–383, § 713(3), added par. (3).
+Subsec. (d)(3). Pub. L. 111–383, § 713(3), added par. (3).
 
 2004—Subsec. (e)(2). Pub. L. 108–375 inserted “marriage and family therapist certified as such by a certification recognized by the Secretary of Defense,” after “psychologist,”.
 
@@ -13731,11 +13731,11 @@ Subsec. (d)(3). Pub. L. 111–383, § 713(3), added par. (3).
 
 1997—Subsecs. (d), (e). Pub. L. 105–85 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1989—Subsec. (c)(2). Pub. L. 101–189, § 653(e)(1), substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”.
+1989—Subsec. (c)(2). Pub. L. 101–189, § 653(e)(1), substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”.
 
-Subsec. (d)(1). Pub. L. 101–189, § 1622(e)(3)(A), substituted “The term ‘license” for “ ‘License” in introductory provisions.
+Subsec. (d)(1). Pub. L. 101–189, § 1622(e)(3)(A), substituted “The term ‘license” for “ ‘License” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(3)(B), substituted “The term ‘health-care” for “ ‘Health-care”.
+Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(3)(B), substituted “The term ‘health-care” for “ ‘Health-care”.
 
 1986—Subsec. (d)(2). Pub. L. 99–661 realigned margin of par. (2) to conform to margin of par. (1).
 
@@ -13743,21 +13743,21 @@ Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(3)(B), substituted “The term �
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title VII, § 734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
+Pub. L. 105–261, div. A, title VII, § 734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
 
 **Effective Date**
 
-Pub. L. 99–145, title VI, § 653(b), Nov. 8, 1985, 99 Stat. 658, provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act [Nov. 8, 1985] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
+Pub. L. 99–145, title VI, § 653(b), Nov. 8, 1985, 99 Stat. 658, provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act [Nov. 8, 1985] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
 
 **Regulations**
 
-Pub. L. 118–159, div. A, title VII, § 714(b), Dec. 23, 2024, 138 Stat. 1948, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue an interim final regulation to implement the amendments made by subsection (a) [amending this section].”
+Pub. L. 118–159, div. A, title VII, § 714(b), Dec. 23, 2024, 138 Stat. 1948, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue an interim final regulation to implement the amendments made by subsection (a) [amending this section].”
 
-Pub. L. 112–81, div. A, title VII, § 713(b), Dec. 31, 2011, 125 Stat. 1476, provided that: “The Secretary of Defense shall prescribe regulations to carry out the amendments made by this section [amending this section].”
+Pub. L. 112–81, div. A, title VII, § 713(b), Dec. 31, 2011, 125 Stat. 1476, provided that: “The Secretary of Defense shall prescribe regulations to carry out the amendments made by this section [amending this section].”
 
 **Review of Disclosure Requirements Under Processes and Forms Relating to Health Care Provider Credentialing and Privileging of Department of Defense**
 
-Pub. L. 119–60, div. A, title VII, § 720, Dec. 18, 2025, 139 Stat. 927, provided that:
+Pub. L. 119–60, div. A, title VII, § 720, Dec. 18, 2025, 139 Stat. 927, provided that:
 
 > **“(a) Review.—**
 
@@ -13781,21 +13781,21 @@ Pub. L. 119–60, div. A, title VII, § 720, Dec. 18, 2025, 139 Stat. 927, pro
 
 > **“(B)** through the civilian network of the TRICARE program (as defined in section 1072 of title 10, United States Code).”
 
-## § 1094a. Continuing medical education requirements: system for monitoring physician compliance
+## § 1094a. Continuing medical education requirements: system for monitoring physician compliance
 
 The Secretary of Defense shall establish a mechanism for ensuring that each person under the jurisdiction of the Secretary of a military department who provides health care under this chapter as a physician satisfies the continuing medical education requirements applicable to the physician.
 
-(Added Pub. L. 105–261, div. A, title VII, § 734(b)(1), Oct. 17, 1998, 112 Stat. 2073.)
+(Added Pub. L. 105–261, div. A, title VII, § 734(b)(1), Oct. 17, 1998, 112 Stat. 2073.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title VII, § 734(c)(2), Oct. 17, 1998, 112 Stat. 2073, provided that: “The system required by section 1094a of title 10, United States Code (as added by subsection (b)), shall take effect on the date that is three years after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title VII, § 734(c)(2), Oct. 17, 1998, 112 Stat. 2073, provided that: “The system required by section 1094a of title 10, United States Code (as added by subsection (b)), shall take effect on the date that is three years after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Oversight of Graduate Medical Education Programs of Military Departments**
 
-Pub. L. 114–328, div. A, title VII, § 749, Dec. 23, 2016, 130 Stat. 2242, provided that:
+Pub. L. 114–328, div. A, title VII, § 749, Dec. 23, 2016, 130 Stat. 2242, provided that:
 
 > **“(a) Process.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall establish and implement a process to provide oversight of the graduate medical education programs of the military departments to ensure that such programs fully support the operational medical force readiness requirements for health care providers of the Armed Forces and the medical readiness of the Armed Forces. The process shall include the following:
 
@@ -13831,21 +13831,21 @@ Pub. L. 114–328, div. A, title VII, § 749, Dec. 23, 2016, 130 Stat. 2242, p
 
 **Joint Pilot Program for Providing Graduate Medical Education and Training for Physicians**
 
-Pub. L. 107–314, div. A, title VII, § 725(a)–(d), Dec. 2, 2002, 116 Stat. 2599, provided that:
+Pub. L. 107–314, div. A, title VII, § 725(a)–(d), Dec. 2, 2002, 116 Stat. 2599, provided that:
 
 > **“(a) In General.—** The Secretary of Defense and the Secretary of Veterans Affairs shall jointly carry out a pilot program under which graduate medical education and training is provided to military physicians and physician employees of the Department of Defense and the Department of Veterans Affairs through one or more programs carried out in military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs. The pilot program shall begin not later than January 1, 2003.
 
 > **“(b) Cost-Sharing Agreement.—** The Secretaries shall enter into an agreement for carrying out the pilot program. The agreement shall establish means for each Secretary to assist in paying the costs, with respect to individuals under the jurisdiction of that Secretary, incurred by the other Secretary in providing medical education and training under the pilot program.
 
-> **“(c) Use of Existing Authorities.—** To carry out the pilot program, the Secretary of Defense and the Secretary of Veterans Affairs may use authorities provided to them under this subtitle [subtitle C (§§ 721–726) of title VII of div. A of Pub. L. 107–314, amending section 1104 of this title and sections 8110 and 8111 of Title 38, Veterans’ Benefits, enacting provisions set out as notes under section 1074g of this title and sections 8110 and 8111 of Title 38, and repealing provisions set out as a note under this section], section 8111 of title 38, United States Code (as amended by section 721(a)), and other laws relating to the furnishing or support of medical education and the cooperative use of facilities.
+> **“(c) Use of Existing Authorities.—** To carry out the pilot program, the Secretary of Defense and the Secretary of Veterans Affairs may use authorities provided to them under this subtitle [subtitle C (§§ 721–726) of title VII of div. A of Pub. L. 107–314, amending section 1104 of this title and sections 8110 and 8111 of Title 38, Veterans’ Benefits, enacting provisions set out as notes under section 1074g of this title and sections 8110 and 8111 of Title 38, and repealing provisions set out as a note under this section], section 8111 of title 38, United States Code (as amended by section 721(a)), and other laws relating to the furnishing or support of medical education and the cooperative use of facilities.
 
 > **“(d) Termination of Program.—** The pilot program under this section shall terminate on July 31, 2008.”
 
 **Joint DOD–VA Pilot Program for Providing Graduate Medical Education and Training for Physicians**
 
-Pub. L. 107–107, div. A, title VII, § 738, Dec. 28, 2001, 115 Stat. 1173, authorized a pilot program providing graduate medical education and training for physicians to be carried out jointly by the Secretary of Defense and the Secretary of Veterans Affairs, prior to repeal by Pub. L. 107–314, div. A, title VII, § 725(e), Dec. 2, 2002, 116 Stat. 2599.
+Pub. L. 107–107, div. A, title VII, § 738, Dec. 28, 2001, 115 Stat. 1173, authorized a pilot program providing graduate medical education and training for physicians to be carried out jointly by the Secretary of Defense and the Secretary of Veterans Affairs, prior to repeal by Pub. L. 107–314, div. A, title VII, § 725(e), Dec. 2, 2002, 116 Stat. 2599.
 
-## § 1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
+## § 1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
 **(a)**
 
@@ -13903,9 +13903,9 @@ Pub. L. 107–107, div. A, title VII, § 738, Dec. 28, 2001, 115 Stat. 1173, a
 
 **(k)**
 
-**(1)** To improve the administration of this section and sections 1079(j)(1) 1
+**(1)** To improve the administration of this section and sections 1079(j)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
@@ -13915,19 +13915,19 @@ and 1086(d) of this title, the Secretary of Defense, in consultation with the ot
 
 **(4)** The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
 
-**(5)** Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
+**(5)** Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
 
-(Added Pub. L. 99–272, title II, § 2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, § 727(a), title XVI, § 1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, § 713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, § 701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, § 714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, § 713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, § 714(b), title X, § 1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, § 734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, § 735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, § 716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, § 1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, § 900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
+(Added Pub. L. 99–272, title II, § 2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, § 727(a), title XVI, § 1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, § 713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, § 701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, § 714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, § 713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, § 714(b), title X, § 1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, § 734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, § 735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, § 716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, § 1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, § 900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
 
-Section 1079(j) of this title, referred to in subsec. (k)(1), (5), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, § 703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
+Section 1079(j) of this title, referred to in subsec. (k)(1), (5), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, § 703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
 
 **Codification**
 
@@ -13939,91 +13939,91 @@ Another section 1095 was renumbered section 1095a of this title.
 
 2002—Subsec. (g). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: “Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 716(c)(1)(A), substituted “reasonable charges for” for “the reasonable costs of”, “such charges” for “such costs”, and “a reasonable charge for” for “the reasonable cost of”.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 716(c)(1)(A), substituted “reasonable charges for” for “the reasonable costs of”, “such charges” for “such costs”, and “a reasonable charge for” for “the reasonable cost of”.
 
-Subsec. (g)(1). Pub. L. 106–65, § 716(c)(1)(B), struck out “the costs of” after “any other payer for”.
+Subsec. (g)(1). Pub. L. 106–65, § 716(c)(1)(B), struck out “the costs of” after “any other payer for”.
 
-Subsec. (h)(1). Pub. L. 106–65, § 716(c)(1)(C), substituted “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier, and any other plan or program that is designed to provide compensation or coverage for expenses incurred by a beneficiary for health care services or products.” for “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan.”
+Subsec. (h)(1). Pub. L. 106–65, § 716(c)(1)(C), substituted “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier, and any other plan or program that is designed to provide compensation or coverage for expenses incurred by a beneficiary for health care services or products.” for “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan.”
 
-1996—Subsec. (g)(1). Pub. L. 104–201, § 735(a), inserted “or through” after “provided at”.
+1996—Subsec. (g)(1). Pub. L. 104–201, § 735(a), inserted “or through” after “provided at”.
 
-Subsec. (h)(1). Pub. L. 104–201, § 735(b)(1), inserted “and a workers’ compensation program or plan” after “insurance carrier”.
+Subsec. (h)(1). Pub. L. 104–201, § 735(b)(1), inserted “and a workers’ compensation program or plan” after “insurance carrier”.
 
-Subsec. (h)(2). Pub. L. 104–201, § 735(b)(2), substituted “organization,” for “organization and” and inserted before period at end “, and a personal injury protection plan or medical payments benefit plan for personal injuries resulting from the operation of a motor vehicle”.
+Subsec. (h)(2). Pub. L. 104–201, § 735(b)(2), substituted “organization,” for “organization and” and inserted before period at end “, and a personal injury protection plan or medical payments benefit plan for personal injuries resulting from the operation of a motor vehicle”.
 
 Subsec. (k). Pub. L. 104–106 added subsec. (k).
 
-1994—Subsec. (b). Pub. L. 103–337, § 714(b)(1), substituted “shall operate to prevent collection by the United States under subsection (a) if that care is provided—” and pars. (1) to (4) for “if that care is provided through a facility of the uniformed services shall operate to prevent collection by the United States under subsection (a).”
+1994—Subsec. (b). Pub. L. 103–337, § 714(b)(1), substituted “shall operate to prevent collection by the United States under subsection (a) if that care is provided—” and pars. (1) to (4) for “if that care is provided through a facility of the uniformed services shall operate to prevent collection by the United States under subsection (a).”
 
-Subsec. (d). Pub. L. 103–337, § 714(b)(2), inserted “and except as provided in subsection (j),” after “(b),”.
+Subsec. (d). Pub. L. 103–337, § 714(b)(2), inserted “and except as provided in subsection (j),” after “(b),”.
 
-Subsec. (g). Pub. L. 103–337, § 1070(b)(6), made technical correction to directory language of Pub. L. 103–160, § 713(a)(1). See 1993 Amendment note below.
+Subsec. (g). Pub. L. 103–337, § 1070(b)(6), made technical correction to directory language of Pub. L. 103–160, § 713(a)(1). See 1993 Amendment note below.
 
-Subsec. (h)(1). Pub. L. 103–337, § 714(b)(3), inserted at end “Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.”
+Subsec. (h)(1). Pub. L. 103–337, § 714(b)(3), inserted at end “Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.”
 
-Subsec. (j). Pub. L. 103–337, § 714(b)(4), added subsec. (j).
+Subsec. (j). Pub. L. 103–337, § 714(b)(4), added subsec. (j).
 
-1993—Subsec. (g). Pub. L. 103–160, § 713(c), designated existing provisions as par. (1) and added par. (2).
+1993—Subsec. (g). Pub. L. 103–160, § 713(c), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 103–160, § 713(a)(2), inserted before period “and shall not be taken into consideration in establishing the operating budget of the facility”.
+Pub. L. 103–160, § 713(a)(2), inserted before period “and shall not be taken into consideration in establishing the operating budget of the facility”.
 
-Pub. L. 103–160, § 713(a)(1), as amended by Pub. L. 103–337, § 1070(b)(6), inserted “or under any other provision of law from any other payer” after “third-party payer”.
+Pub. L. 103–160, § 713(a)(1), as amended by Pub. L. 103–337, § 1070(b)(6), inserted “or under any other provision of law from any other payer” after “third-party payer”.
 
-Subsec. (h). Pub. L. 103–160, § 713(b), inserted “a preferred provider organization and” after “includes” in par. (2) and added par. (3).
+Subsec. (h). Pub. L. 103–160, § 713(b), inserted “a preferred provider organization and” after “includes” in par. (2) and added par. (3).
 
 1991—Subsec. (a)(1). Pub. L. 102–25 inserted “a” before “covered beneficiary”.
 
 Subsec. (i)(2). Pub. L. 102–190 struck out “or no fault insurance” before “carrier”.
 
-1990—Pub. L. 101–510, § 713(d)(2), substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in section catchline.
+1990—Pub. L. 101–510, § 713(d)(2), substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–510, § 713(d)(1)(A), substituted “covered beneficiary” for “covered by section 1074(b), 1076(a), or 1076(b) of this title”.
+Subsec. (a)(1). Pub. L. 101–510, § 713(d)(1)(A), substituted “covered beneficiary” for “covered by section 1074(b), 1076(a), or 1076(b) of this title”.
 
-Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
+Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
 
-Subsec. (a)(2). Pub. L. 101–510, § 713(d)(1)(B), substituted “covered beneficiary” for “person covered by section 1074(b), 1076(a), or 1076(b) of this title”.
+Subsec. (a)(2). Pub. L. 101–510, § 713(d)(1)(B), substituted “covered beneficiary” for “person covered by section 1074(b), 1076(a), or 1076(b) of this title”.
 
-Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
+Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
 
-Subsec. (c). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
+Subsec. (c). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
 
-Subsec. (f). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care” in introductory provisions.
+Subsec. (f). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care” in introductory provisions.
 
-Subsec. (f)(2) to (4). Pub. L. 101–510, § 713(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (f)(2) to (4). Pub. L. 101–510, § 713(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (g). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
+Subsec. (g). Pub. L. 101–510, § 713(a)(1), substituted “health care services” for “inpatient hospital care”.
 
-Subsecs. (h), (i). Pub. L. 101–510, § 713(c), added subsecs. (h) and (i) and struck out former subsec. (h) which read as follows: “In this section, the term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement.”
+Subsecs. (h), (i). Pub. L. 101–510, § 713(c), added subsecs. (h) and (i) and struck out former subsec. (h) which read as follows: “In this section, the term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement.”
 
-1989—Subsec. (g). Pub. L. 101–189, § 727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
+1989—Subsec. (g). Pub. L. 101–189, § 727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 101–189, § 1622(e)(5), which directed amendment of subsec. (g) by insertion of “the term” after “In this section,” was executed by making the insertion in subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, § 727(a)(1), see below.
+Subsec. (h). Pub. L. 101–189, § 1622(e)(5), which directed amendment of subsec. (g) by insertion of “the term” after “In this section,” was executed by making the insertion in subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, § 727(a)(1), see below.
 
-Pub. L. 101–189, § 727(a)(1), redesignated subsec. (g) as (h).
+Pub. L. 101–189, § 727(a)(1), redesignated subsec. (g) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title VII, § 713(e), Nov. 5, 1990, 104 Stat. 1584, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act [Nov. 5, 1990], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date.”
+Pub. L. 101–510, div. A, title VII, § 713(e), Nov. 5, 1990, 104 Stat. 1584, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act [Nov. 5, 1990], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VII, § 727(b), Nov. 29, 1989, 103 Stat. 1480, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1989, and shall apply to amounts collected under section 1095 of title 10, United States Code, on or after that date.”
+Pub. L. 101–189, div. A, title VII, § 727(b), Nov. 29, 1989, 103 Stat. 1480, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1989, and shall apply to amounts collected under section 1095 of title 10, United States Code, on or after that date.”
 
 **Effective Date**
 
-Pub. L. 99–272, title II, § 2001(b), Apr. 7, 1986, 100 Stat. 101, provided that: “Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act [Apr. 7, 1986].”
+Pub. L. 99–272, title II, § 2001(b), Apr. 7, 1986, 100 Stat. 101, provided that: “Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act [Apr. 7, 1986].”
 
 **Pilot Program on Increased Third-Party Collection Reimbursements in Military Medical Treatment Facilities**
 
-Pub. L. 113–66, div. A, title VII, § 712, Dec. 26, 2013, 127 Stat. 793, required the Secretary of Defense, in coordination with the Secretaries of the military departments, to conduct a three-year pilot program to demonstrate and assess the feasibility of implementing commercially available enhanced recovery practices to increase reimbursement from third-party payers in military medical treatment facilities and report the results to Congress not later than 180 days after the program’s completion.
+Pub. L. 113–66, div. A, title VII, § 712, Dec. 26, 2013, 127 Stat. 793, required the Secretary of Defense, in coordination with the Secretaries of the military departments, to conduct a three-year pilot program to demonstrate and assess the feasibility of implementing commercially available enhanced recovery practices to increase reimbursement from third-party payers in military medical treatment facilities and report the results to Congress not later than 180 days after the program’s completion.
 
-## § 1095a. Medical care: members held as captives and their dependents
+## § 1095a. Medical care: members held as captives and their dependents
 
 **(a)** Under regulations prescribed by the President, the Secretary concerned shall pay (by advancement or reimbursement) any person who is a former captive, and any dependent of that person or of a person who is in a captive status, for health care and other expenses related to such care, to the extent that such care—
 
@@ -14043,19 +14043,19 @@ Pub. L. 113–66, div. A, title VII, § 712, Dec. 26, 2013, 127 Stat. 793, req
 
 **(2)** The term “dependent” has the meaning given that term in section 551 of that title.
 
-(Added Pub. L. 99–399, title VIII, § 806(c)(1), Aug. 27, 1986, 100 Stat. 886, § 1095; renumbered § 1095a, Pub. L. 100–26, § 7(e)(2), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 100–526, title I, § 106(b)(1), Oct. 24, 1988, 102 Stat. 2625.)
+(Added Pub. L. 99–399, title VIII, § 806(c)(1), Aug. 27, 1986, 100 Stat. 886, § 1095; renumbered § 1095a, Pub. L. 100–26, § 7(e)(2), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 100–526, title I, § 106(b)(1), Oct. 24, 1988, 102 Stat. 2625.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (c). Pub. L. 100–526 substituted “The terms ‘captive status’ ” for “ ‘Captive status’ ” in par. (1), and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
+1988—Subsec. (c). Pub. L. 100–526 substituted “The terms ‘captive status’ ” for “ ‘Captive status’ ” in par. (1), and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date; Regulations**
 
-Pub. L. 99–399, title VIII, § 806(c)(3), Aug. 27, 1986, 100 Stat. 886, provided that:
+Pub. L. 99–399, title VIII, § 806(c)(3), Aug. 27, 1986, 100 Stat. 886, provided that:
 
 > **“(A)** Section 1095 [now 1095a] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any person whose captive status begins after January 21, 1981.
 
@@ -14067,7 +14067,7 @@ Pub. L. 99–399, title VIII, § 806(c)(3), Aug. 27, 1986, 100 Stat. 886, prov
 
 Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
-## § 1095b. TRICARE program: contractor payment of certain claims
+## § 1095b. TRICARE program: contractor payment of certain claims
 
 **(a) Payment of Claims.—**
 
@@ -14083,7 +14083,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(c) Definition of Third-Party Payer.—** In this section, the term “third-party payer” has the meaning given that term in section 1095(h) of this title, except that such term excludes primary medical insurers.
 
-(Added Pub. L. 105–261, div. A, title VII, § 711(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–65, div. A, title VII, § 716(c)(2), Oct. 5, 1999, 113 Stat. 692.)
+(Added Pub. L. 105–261, div. A, title VII, § 711(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–65, div. A, title VII, § 716(c)(2), Oct. 5, 1999, 113 Stat. 692.)
 
 **Editorial Notes**
 
@@ -14091,7 +14091,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “The United States shall have the same right to collect charges related to claims described in subsection (a) as charges for claims under section 1095 of this title.” for “A contractor for the provision of health care services under the TRICARE program that pays a claim described in subsection (a)(2) shall have the right to collect from the third-party payer the costs incurred by such contractor on behalf of the covered beneficiary. The contractor shall have the same right to collect such costs under this subsection as the right of the United States to collect costs under section 1095 of this title.”
 
-## § 1095c. TRICARE program: facilitation of processing of claims
+## § 1095c. TRICARE program: facilitation of processing of claims
 
 **(a) Reduction of Processing Time.—**
 
@@ -14129,35 +14129,35 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(d) Correspondence to Medicare Claims Information Requirements.—** The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is excepted under this provision, and the justification for that exception.
 
-(Added Pub. L. 106–65, div. A, title VII, § 713(a)(1), Oct. 5, 1999, 113 Stat. 688; amended Pub. L. 107–107, div. A, title VII, § 708(b), Dec. 28, 2001, 115 Stat. 1164; Pub. L. 107–314, div. A, title VII, § 711(a), Dec. 2, 2002, 116 Stat. 2588.)
+(Added Pub. L. 106–65, div. A, title VII, § 713(a)(1), Oct. 5, 1999, 113 Stat. 688; amended Pub. L. 107–107, div. A, title VII, § 708(b), Dec. 28, 2001, 115 Stat. 1164; Pub. L. 107–314, div. A, title VII, § 711(a), Dec. 2, 2002, 116 Stat. 2588.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2002—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
-2001—Subsec. (b)(1). Pub. L. 107–107, § 708(b)(1), substituted “Except as provided in paragraph (3), the Secretary” for “The Secretary” and struck out “contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the” before “contract, but in no case”.
+2001—Subsec. (b)(1). Pub. L. 107–107, § 708(b)(1), substituted “Except as provided in paragraph (3), the Secretary” for “The Secretary” and struck out “contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the” before “contract, but in no case”.
 
-Subsec. (b)(3). Pub. L. 107–107, § 708(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 107–107, § 708(b)(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title VII, § 713(d), Oct. 5, 1999, 113 Stat. 689, provided that: “Section 1095c(b) of title 10, United States Code (as added by subsection (a)), shall apply with respect to any contract to provide managed care support under the TRICARE program negotiated after the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title VII, § 713(d), Oct. 5, 1999, 113 Stat. 689, provided that: “Section 1095c(b) of title 10, United States Code (as added by subsection (a)), shall apply with respect to any contract to provide managed care support under the TRICARE program negotiated after the date of the enactment of this Act [Oct. 5, 1999].”
 
 **Applicability**
 
-Pub. L. 107–314, div. A, title VII, § 711(b), Dec. 2, 2002, 116 Stat. 2588, provided that: “The Secretary of Defense, in consultation with the other administering Secretaries referred to in section 1072(3) of title 10, United States Code, shall apply the limitations required under subsection (d) of section 1095c of such title (as added by subsection (a)) with respect to contracts entered into under the TRICARE program on or after October 1, 2002.”
+Pub. L. 107–314, div. A, title VII, § 711(b), Dec. 2, 2002, 116 Stat. 2588, provided that: “The Secretary of Defense, in consultation with the other administering Secretaries referred to in section 1072(3) of title 10, United States Code, shall apply the limitations required under subsection (d) of section 1095c of such title (as added by subsection (a)) with respect to contracts entered into under the TRICARE program on or after October 1, 2002.”
 
 **Standardization of Claims Processing Under TRICARE Program and Medicare Program**
 
-Pub. L. 109–364, div. A, title VII, § 731, Oct. 17, 2006, 120 Stat. 2295, as amended by Pub. L. 112–81, div. A, title X, § 1062(d)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
+Pub. L. 109–364, div. A, title VII, § 731, Oct. 17, 2006, 120 Stat. 2295, as amended by Pub. L. 112–81, div. A, title X, § 1062(d)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
 
 > **“(a) In General.—** Effective beginning with the next contract option period for managed care support contracts under the TRICARE program, the claims processing requirements under the TRICARE program on the matters described in subsection (b) shall be identical to the claims processing requirements under the Medicare program on such matters.
 
@@ -14191,7 +14191,7 @@ Pub. L. 109–364, div. A, title VII, § 731, Oct. 17, 2006, 120 Stat. 2295, a
 
 **Claims Processing Improvements**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 727], Oct. 30, 2000, 114 Stat. 1654, 1654A–188, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 727], Oct. 30, 2000, 114 Stat. 1654, 1654A–188, provided that:
 
 > “Beginning on the date of the enactment of this Act [Oct. 30, 2000], the Secretary of Defense shall, to the maximum extent practicable, take all necessary actions to implement the following improvements with respect to processing of claims under the TRICARE program:
 
@@ -14207,9 +14207,9 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 727], Oct. 30, 2000, 114 St
 
 **Deadline for Implementation**
 
-Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, provided that the system for processing claims required under subsec. (a) of this section was to be implemented not later than 6 months after Oct. 5, 1999.
+Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, provided that the system for processing claims required under subsec. (a) of this section was to be implemented not later than 6 months after Oct. 5, 1999.
 
-## § 1095d. TRICARE program: waiver of certain deductibles
+## § 1095d. TRICARE program: waiver of certain deductibles
 
 **(a) Waiver Authorized.—** The Secretary of Defense may waive the deductible payable for medical care provided under the TRICARE program to an eligible dependent of—
 
@@ -14219,7 +14219,7 @@ Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, p
 
 **(b) Eligible Dependent.—** As used in this section, the term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
 
-(Added Pub. L. 106–65, div. A, title VII, § 714(a), Oct. 5, 1999, 113 Stat. 689; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(7)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 108–375, div. A, title VII, § 704, Oct. 28, 2004, 118 Stat. 1983.)
+(Added Pub. L. 106–65, div. A, title VII, § 714(a), Oct. 5, 1999, 113 Stat. 689; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(7)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 108–375, div. A, title VII, § 704, Oct. 28, 2004, 118 Stat. 1983.)
 
 **Editorial Notes**
 
@@ -14229,7 +14229,7 @@ Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, p
 
 2000—Subsec. (b). Pub. L. 106–398 substituted “subparagraph” for “subparagraphs”.
 
-## § 1095e. TRICARE program: beneficiary counseling and assistance coordinators
+## § 1095e. TRICARE program: beneficiary counseling and assistance coordinators
 
 **(a) Establishment of Positions.—** The Secretary of Defense shall require in regulations that—
 
@@ -14245,7 +14245,7 @@ Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, p
 
 **(b) Duties.—** The Secretary shall prescribe the duties of the position of beneficiary counseling and assistance coordinator in the regulations required by subsection (a).
 
-(Added Pub. L. 106–65, div. A, title VII, § 715(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 108–136, div. A, title VII, § 707, Nov. 24, 2003, 117 Stat. 1529.)
+(Added Pub. L. 106–65, div. A, title VII, § 715(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 108–136, div. A, title VII, § 707, Nov. 24, 2003, 117 Stat. 1529.)
 
 **Editorial Notes**
 
@@ -14257,9 +14257,9 @@ Pub. L. 106–65, div. A, title VII, § 713(c), Oct. 5, 1999, 113 Stat. 689, p
 
 **Deadline for Initial Designations**
 
-Pub. L. 106–65, div. A, title VII, § 715(b), Oct. 5, 1999, 113 Stat. 690, directed that each beneficiary counseling and assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
+Pub. L. 106–65, div. A, title VII, § 715(b), Oct. 5, 1999, 113 Stat. 690, directed that each beneficiary counseling and assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
 
-## § 1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime
+## § 1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime
 
 **(a) Referrals.—**
 
@@ -14295,7 +14295,7 @@ Pub. L. 106–65, div. A, title VII, § 715(b), Oct. 5, 1999, 113 Stat. 690, d
 
 **(c) Prohibition Regarding Prior Authorization for Certain Referrals.—** The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 728(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189; amended Pub. L. 114–328, div. A, title VII, § 701(c), Dec. 23, 2016, 130 Stat. 2186; Pub. L. 115–91, div. A, title VII, § 739(e)(1), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 118–159, div. A, title VII, § 703, Dec. 23, 2024, 138 Stat. 1942.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 728(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189; amended Pub. L. 114–328, div. A, title VII, § 701(c), Dec. 23, 2016, 130 Stat. 2186; Pub. L. 115–91, div. A, title VII, § 739(e)(1), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 118–159, div. A, title VII, § 703, Dec. 23, 2024, 138 Stat. 1942.)
 
 **Editorial Notes**
 
@@ -14315,11 +14315,11 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 728(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, provided that: “Section 1095f of title 10, United States Code, as added by subsection (a), shall apply with respect to a TRICARE managed care support contract entered into by the Department of Defense after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 728(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, provided that: “Section 1095f of title 10, United States Code, as added by subsection (a), shall apply with respect to a TRICARE managed care support contract entered into by the Department of Defense after the date of the enactment of this Act [Oct. 30, 2000].”
 
 **Streamlining of TRICARE Prime Beneficiary Referral Process**
 
-Pub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, as amended by Pub. L. 117–263, div. A, title VII, § 703(a), Dec. 23, 2022, 136 Stat. 2647, provided that:
+Pub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, as amended by Pub. L. 117–263, div. A, title VII, § 703(a), Dec. 23, 2022, 136 Stat. 2647, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall streamline the process under section 1095f of title 10, United States Code, by which beneficiaries enrolled in TRICARE Prime are referred to the civilian provider network for inpatient or outpatient care under the TRICARE program.
 
@@ -14345,7 +14345,7 @@ Pub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, a
 
 > **“(f) Definitions.—** In this section, the terms ‘TRICARE program’ and ‘TRICARE Prime’ have the meaning given such terms in section 1072 of title 10, United States Code.”
 
-## § 1095g. TRICARE program: waiver of recoupment of erroneous payments caused by administrative error
+## § 1095g. TRICARE program: waiver of recoupment of erroneous payments caused by administrative error
 
 **(a) Waiver of Recoupment.—** The Secretary of Defense may waive recoupment from an individual who has benefitted from an erroneous TRICARE payment in a case in which each of the following applies:
 
@@ -14361,9 +14361,9 @@ Pub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, a
 
 **(c) Finality of Determinations.—** Any determination by the Secretary under this section to waive or decline to waive recoupment under subsection (a) is a final determination and shall not be subject to appeal or judicial review.
 
-(Added Pub. L. 114–92, div. A, title VII, § 711(a), Nov. 25, 2015, 129 Stat. 864.)
+(Added Pub. L. 114–92, div. A, title VII, § 711(a), Nov. 25, 2015, 129 Stat. 864.)
 
-## § 1096. Military-civilian health services partnership program; medical surge program
+## § 1096. Military-civilian health services partnership program; medical surge program
 
 **(a) Resources Sharing Agreements.—** The Secretary of Defense may enter into an agreement providing for the sharing of resources between facilities of the uniformed services and facilities of a civilian health care provider or providers that the Secretary contracts with under section 1079, 1086, or 1097 of this title if the Secretary determines that such an agreement would result in the delivery of health care to which covered beneficiaries are entitled under this chapter in a more effective, efficient, or economical manner.
 
@@ -14391,9 +14391,9 @@ Pub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, a
 
 **(2)**
 
-**(A)** The Secretary of Defense, acting through the Institute 1
+**(A)** The Secretary of Defense, acting through the Institute 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “National”.
+<sup>1</sup> So in original. Probably should be preceded by “National”.
 
 for Defense Health Cooperation at the Uniformed Services University of the Health Sciences (or such successor center), shall oversee the management, staffing, and deployment of the Program, in coordination with the Chairman of the Joint Chiefs of Staff, the Director of the Defense Health Agency, and, for purposes of ensuring that the Program is carried out in a manner that is consistent with paragraph (6), the Secretary of Health and Human Services.
 
@@ -14415,9 +14415,9 @@ for Defense Health Cooperation at the Uniformed Services University of the Healt
 
 **(4)** The Secretary of Defense and the Secretary of Health and Human Services shall ensure that the partnerships under paragraph (3)(A) allow for civilian medical personnel to quickly and effectively mobilize direct support to military medical treatment facilities and provide support to other requirements of the military health system pursuant to the following:
 
-**(A)** A declaration of a national emergency under the National Emergencies Act (50 U.S.C. 1621 2
+**(A)** A declaration of a national emergency under the National Emergencies Act (50 U.S.C. 1621 2
 
-<sup>2</sup>  So in original. Probably should be “1601”.
+<sup>2</sup> So in original. Probably should be “1601”.
 
 et seq.).
 
@@ -14443,23 +14443,23 @@ et seq.).
 
 **(C)** The term “Program” means the Military-Civilian Medical Surge Program established under paragraph (1).
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3894; amended Pub. L. 103–337, div. A, title VII, § 712, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 108–375, div. A, title VI, § 607(b), Oct. 28, 2004, 118 Stat. 1946; Pub. L. 119–60, div. A, title VII, § 712, Dec. 18, 2025, 139 Stat. 919.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3894; amended Pub. L. 103–337, div. A, title VII, § 712, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 108–375, div. A, title VI, § 607(b), Oct. 28, 2004, 118 Stat. 1946; Pub. L. 119–60, div. A, title VII, § 712, Dec. 18, 2025, 139 Stat. 919.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (e)(4)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (e)(4)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The War Powers Resolution, referred to in subsec. (e)(4)(E), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (e)(4)(E), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (e)(5), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 712(1), inserted “; medical surge program” after “program” in section catchline.
+2025—Pub. L. 119–60, § 712(1), inserted “; medical surge program” after “program” in section catchline.
 
-Subsec. (e). Pub. L. 119–60, § 712(2), added subsec. (e).
+Subsec. (e). Pub. L. 119–60, § 712(2), added subsec. (e).
 
 2004—Subsec. (c). Pub. L. 108–375 inserted “who is a dependent” after “covered beneficiary” and substituted “shall pay the charges prescribed by section 1078 of this title.” for “shall pay—
 
@@ -14473,7 +14473,7 @@ Subsec. (e). Pub. L. 119–60, § 712(2), added subsec. (e).
 
 **Development and Update of Certain Policies Relating to Military Health System and Integrated Medical Operations**
 
-Pub. L. 117–81, div. A, title VII, § 724, Dec. 27, 2021, 135 Stat. 1793, provided that:
+Pub. L. 117–81, div. A, title VII, § 724, Dec. 27, 2021, 135 Stat. 1793, provided that:
 
 > **“(a) In General.—** By not later than October 1, 2022, the Secretary of Defense, in coordination with the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff, shall develop and update certain policies relating to the military health system and integrated medical operations of the Department of Defense as follows:
 
@@ -14521,7 +14521,7 @@ Pub. L. 117–81, div. A, title VII, § 724, Dec. 27, 2021, 135 Stat. 1793, pr
 
 **Pilot Program on Civilian and Military Partnerships To Enhance Interoperability and Medical Surge Capability and Capacity of National Disaster Medical System**
 
-Pub. L. 116–92, div. A, title VII, § 740, Dec. 20, 2019, 133 Stat. 1465, as amended by Pub. L. 116–283, div. A, title VII, § 741, Jan. 1, 2021, 134 Stat. 3705, provided that:
+Pub. L. 116–92, div. A, title VII, § 740, Dec. 20, 2019, 133 Stat. 1465, as amended by Pub. L. 116–283, div. A, title VII, § 741, Jan. 1, 2021, 134 Stat. 3705, provided that:
 
 > **“(a) In General.—** Beginning not later than September 30, 2021, the Secretary of Defense shall carry out a pilot program to establish partnerships with public, private, and nonprofit health care organizations, health care institutions, health care entities, academic medical centers of institutions of higher education, and hospitals in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation to enhance the interoperability and medical surge capability and capacity of the National Disaster Medical System under section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11).
 
@@ -14607,7 +14607,7 @@ Pub. L. 116–92, div. A, title VII, § 740, Dec. 20, 2019, 133 Stat. 1465, as
 
 **Establishment of High Performance Military-Civilian Integrated Health Delivery Systems**
 
-Pub. L. 114–328, div. A, title VII, § 706, Dec. 23, 2016, 130 Stat. 2206, provided that:
+Pub. L. 114–328, div. A, title VII, § 706, Dec. 23, 2016, 130 Stat. 2206, provided that:
 
 > **“(a) In General.—** Not later than January 1, 2018, the Secretary of Defense shall establish military-civilian integrated health delivery systems through partnerships with other health systems, including local or regional health systems in the private sector—
 
@@ -14667,7 +14667,7 @@ Pub. L. 114–328, div. A, title VII, § 706, Dec. 23, 2016, 130 Stat. 2206, p
 
 > **“(d) Covered Beneficiary Defined.—** In this section, the term ‘covered beneficiary’ has the meaning given that term in section 1072 of title 10, United States Code.”
 
-## § 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care
+## § 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care
 
 **(a) In General.—** The Secretary of Defense, after consulting with the other administering Secretaries, may contract for the delivery of health care to which covered beneficiaries are entitled under this chapter. The Secretary may enter into a contract under this section with any of the following:
 
@@ -14697,7 +14697,7 @@ Pub. L. 114–328, div. A, title VII, § 706, Dec. 23, 2016, 130 Stat. 2206, p
 
 **(2)** Beginning October 1, 2012, the Secretary of Defense may only increase in any year the annual enrollment fees described in paragraph (1) by an amount equal to the percentage by which retired pay is increased under section 1401a of this title.
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 103–337, div. A, title VII, §§ 713, 714(a), Oct. 5, 1994, 108 Stat. 2802; Pub. L. 104–106, div. A, title VII, §§ 712, 713, Feb. 10, 1996, 110 Stat. 374; Pub. L. 109–364, div. A, title VII, § 704(a), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, § 701(a), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, [div. A], title VII, § 701(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–383, div. A, title VII, § 701(a), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–81, div. A, title VII, § 701(a), Dec. 31, 2011, 125 Stat. 1469.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 103–337, div. A, title VII, §§ 713, 714(a), Oct. 5, 1994, 108 Stat. 2802; Pub. L. 104–106, div. A, title VII, §§ 712, 713, Feb. 10, 1996, 110 Stat. 374; Pub. L. 109–364, div. A, title VII, § 704(a), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, § 701(a), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, [div. A], title VII, § 701(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–383, div. A, title VII, § 701(a), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–81, div. A, title VII, § 701(a), Dec. 31, 2011, 125 Stat. 1469.)
 
 **Editorial Notes**
 
@@ -14713,23 +14713,23 @@ Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007
 
 2006—Subsec. (e). Pub. L. 109–364 inserted at end “A premium, deductible, copayment, or other charge prescribed by the Secretary under this subsection may not be increased during the period beginning on April 1, 2006, and ending on September 30, 2007.”
 
-1996—Subsec. (c). Pub. L. 104–106, § 712, substituted “Notwithstanding the preferences established by sections 1074(b) and 1076 of this title, the Secretary shall” for “However, the Secretary may”.
+1996—Subsec. (c). Pub. L. 104–106, § 712, substituted “Notwithstanding the preferences established by sections 1074(b) and 1076 of this title, the Secretary shall” for “However, the Secretary may”.
 
-Subsec. (e). Pub. L. 104–106, § 713, inserted at end “Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under section 1099 of this title, the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation.”
+Subsec. (e). Pub. L. 104–106, § 713, inserted at end “Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under section 1099 of this title, the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation.”
 
-1994—Subsec. (c). Pub. L. 103–337, § 714(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
+1994—Subsec. (c). Pub. L. 103–337, § 714(a)(2), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Pub. L. 103–337, § 713, inserted at end “In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans.”
+Pub. L. 103–337, § 713, inserted at end “In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans.”
 
-Subsecs. (d), (e). Pub. L. 103–337, § 714(a), added subsec. (d) and redesignated former subsec. (c) as (e).
+Subsecs. (d), (e). Pub. L. 103–337, § 714(a), added subsec. (d) and redesignated former subsec. (c) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Clarification of Application for Fiscal Year 2013**
 
-Pub. L. 112–81, div. A, title VII, § 701(b), Dec. 31, 2011, 125 Stat. 1469, provided that: “The Secretary of Defense shall determine the maximum enrollment fees for TRICARE Prime under section 1097(e)(2) of title 10, United States Code, as added by subsection (a), for fiscal year 2013 and thereafter as if the enrollment fee for each enrollee during fiscal year 2012 was the amount charged to an enrollee who enrolled for the first time during such fiscal year.”
+Pub. L. 112–81, div. A, title VII, § 701(b), Dec. 31, 2011, 125 Stat. 1469, provided that: “The Secretary of Defense shall determine the maximum enrollment fees for TRICARE Prime under section 1097(e)(2) of title 10, United States Code, as added by subsection (a), for fiscal year 2013 and thereafter as if the enrollment fee for each enrollee during fiscal year 2012 was the amount charged to an enrollee who enrolled for the first time during such fiscal year.”
 
-## § 1097a. TRICARE Prime: automatic enrollments
+## § 1097a. TRICARE Prime: automatic enrollments
 
 **(a) Automatic Enrollment of Certain Dependents.—**
 
@@ -14761,7 +14761,7 @@ Pub. L. 112–81, div. A, title VII, § 701(b), Dec. 31, 2011, 125 Stat. 1469,
 
 **(2)** The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, § 712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, § 1 [[div. A], title VII, § 752(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, § 1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, § 711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, § 723, Dec. 23, 2016, 130 Stat. 2229; Pub. L. 116–92, div. A, title VII, § 702(b)(1), (2)(A), Dec. 20, 2019, 133 Stat. 1436; Pub. L. 117–81, div. A, title VII, § 703(b), Dec. 27, 2021, 135 Stat. 1779.)
+(Added Pub. L. 105–261, div. A, title VII, § 712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, § 1 [[div. A], title VII, § 752(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, § 1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, § 711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, § 723, Dec. 23, 2016, 130 Stat. 2229; Pub. L. 116–92, div. A, title VII, § 702(b)(1), (2)(A), Dec. 20, 2019, 133 Stat. 1436; Pub. L. 117–81, div. A, title VII, § 703(b), Dec. 27, 2021, 135 Stat. 1779.)
 
 **Editorial Notes**
 
@@ -14769,9 +14769,9 @@ Pub. L. 112–81, div. A, title VII, § 701(b), Dec. 31, 2011, 125 Stat. 1469,
 
 2021—Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2019—Pub. L. 116–92, § 702(b)(2)(A), struck out “; payment options” after “enrollments” in section catchline.
+2019—Pub. L. 116–92, § 702(b)(2)(A), struck out “; payment options” after “enrollments” in section catchline.
 
-Subsecs. (c) to (f). Pub. L. 116–92, § 702(b)(1), redesignated subsecs. (d), (e), and (f) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member’s retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.”
+Subsecs. (c) to (f). Pub. L. 116–92, § 702(b)(1), redesignated subsecs. (d), (e), and (f) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member’s retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.”
 
 2016—Subsec. (b). Pub. L. 114–328 struck out par. (1) designation before “An enrollment” and struck out par. (2) which read as follows: “Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
 
@@ -14789,19 +14789,19 @@ Subsecs. (c) to (f). Pub. L. 116–92, § 702(b)(1), redesignated subsecs. (d)
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VII, § 702(c), Dec. 20, 2019, 133 Stat. 1437, provided that: “The amendments made by this section [amending this section and section 1099 of this title] shall apply to health care coverage beginning on or after January 1, 2021.”
+Pub. L. 116–92, div. A, title VII, § 702(c), Dec. 20, 2019, 133 Stat. 1437, provided that: “The amendments made by this section [amending this section and section 1099 of this title] shall apply to health care coverage beginning on or after January 1, 2021.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 752(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Oct. 30, 2000], and shall apply with respect to care provided on or after that date.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 752(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Oct. 30, 2000], and shall apply with respect to care provided on or after that date.”
 
 **Effective Date**
 
-Pub. L. 105–261, div. A, title VII, § 712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: “The regulations required under subsection (d) [now (c)] of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
+Pub. L. 105–261, div. A, title VII, § 712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: “The regulations required under subsection (d) [now (c)] of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
 
 **Future Availability of TRICARE Prime Throughout the United States**
 
-Pub. L. 112–239, div. A, title VII, § 732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, § 701, Dec. 26, 2013, 127 Stat. 789; Pub. L. 113–291, div. A, title VII, § 723, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 114–92, div. A, title VII, § 701, Nov. 25, 2015, 129 Stat. 860, provided that:
+Pub. L. 112–239, div. A, title VII, § 732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, § 701, Dec. 26, 2013, 127 Stat. 789; Pub. L. 113–291, div. A, title VII, § 723, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 114–92, div. A, title VII, § 701, Nov. 25, 2015, 129 Stat. 860, provided that:
 
 > **“(a) Report Required.—**
 
@@ -14881,9 +14881,9 @@ Pub. L. 112–239, div. A, title VII, § 732, Jan. 2, 2013, 126 Stat. 1816, as
 
 > **“(4)** The term ‘TRICARE Standard’ means the fee-for-service option of the TRICARE Program.”
 
-[Pub. L. 113–291, div. A, title VII, § 723(b), Dec. 19, 2014, 128 Stat. 3418, which directed amendment of subsec. (b)(3)(A) of section 732 of Pub. L. 112–239, set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of section 732 of Pub. L. 112–239, to reflect the probable intent of Congress and the prior amendment by section 723(a)(1) of Pub. L. 113–291, which redesignated subsec. (b) as (c).]
+[Pub. L. 113–291, div. A, title VII, § 723(b), Dec. 19, 2014, 128 Stat. 3418, which directed amendment of subsec. (b)(3)(A) of section 732 of Pub. L. 112–239, set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of section 732 of Pub. L. 112–239, to reflect the probable intent of Congress and the prior amendment by section 723(a)(1) of Pub. L. 113–291, which redesignated subsec. (b) as (c).]
 
-## § 1097b. TRICARE program: financial management
+## § 1097b. TRICARE program: financial management
 
 **(a) Reimbursement of Providers.—**
 
@@ -14927,7 +14927,7 @@ Pub. L. 112–239, div. A, title VII, § 732, Jan. 2, 2013, 126 Stat. 1816, as
 
 **(c) Consultation Requirement.—** The Secretary of Defense shall carry out the responsibilities under this section after consultation with the other administering Secretaries.
 
-(Added Pub. L. 106–65, div. A, title VII, § 716(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 112–81, div. A, title VII, § 715, Dec. 31, 2011, 125 Stat. 1477.)
+(Added Pub. L. 106–65, div. A, title VII, § 716(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 112–81, div. A, title VII, § 715, Dec. 31, 2011, 125 Stat. 1477.)
 
 **Editorial Notes**
 
@@ -14939,19 +14939,19 @@ Pub. L. 112–239, div. A, title VII, § 732, Jan. 2, 2013, 126 Stat. 1816, as
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title VII, § 716(d), Oct. 5, 1999, 113 Stat. 692, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect one year after the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title VII, § 716(d), Oct. 5, 1999, 113 Stat. 692, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect one year after the date of the enactment of this Act [Oct. 5, 1999].”
 
 **Report on Implementation**
 
-Pub. L. 106–65, div. A, title VII, § 716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
+Pub. L. 106–65, div. A, title VII, § 716(b), Oct. 5, 1999, 113 Stat. 691, directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
 
-## § 1097c. TRICARE program: relationship with employer-sponsored group health plans
+## § 1097c. TRICARE program: relationship with employer-sponsored group health plans
 
 **(a) Prohibition on Financial Incentives Not to Enroll in a Group Health Plan.—**
 
-**(1)** Except as provided in this subsection, the provisions of section 1862(b)(3)(C) of the Social Security Act shall apply with respect to financial or other incentives for a TRICARE-eligible employee not to enroll (or to terminate enrollment) under a health plan which would (in the case of such enrollment) be a primary plan under sections 1079(j)(1) 1
+**(1)** Except as provided in this subsection, the provisions of section 1862(b)(3)(C) of the Social Security Act shall apply with respect to financial or other incentives for a TRICARE-eligible employee not to enroll (or to terminate enrollment) under a health plan which would (in the case of such enrollment) be a primary plan under sections 1079(j)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 1086(g) of this title in the same manner as such section 1862(b)(3)(C) applies to financial or other incentives for an individual entitled to benefits under title XVIII of the Social Security Act not to enroll (or to terminate enrollment) under a group health plan or a large group health plan which would (in the case of enrollment) be a primary plan (as defined in section 1862(b)(2)(A) of such Act).
 
@@ -14985,19 +14985,19 @@ and 1086(g) of this title in the same manner as such section 1862(b)(3)(C) appli
 
 **(g) Effective Date.—** This section shall take effect on January 1, 2008.
 
-(Added Pub. L. 109–364, div. A, title VII, § 707(a), Oct. 17, 2006, 120 Stat. 2283.)
+(Added Pub. L. 109–364, div. A, title VII, § 707(a), Oct. 17, 2006, 120 Stat. 2283.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1079(j) of this title, referred to in subsec. (a)(1), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, § 703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
+Section 1079(j) of this title, referred to in subsec. (a)(1), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, § 703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
 
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1862 of the Act is classified to section 1395y of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1862 of the Act is classified to section 1395y of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2), is classified to section 5000 of Title 26, Internal Revenue Code.
 
-## § 1097d. TRICARE program: notice of change to benefits
+## § 1097d. TRICARE program: notice of change to benefits
 
 **(a) Provision of Notice.—**
 
@@ -15021,9 +15021,9 @@ Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 **(2)** in beneficiary cost-share rates of more than 20 percent.
 
-(Added Pub. L. 113–291, div. A, title VII, § 711(a), Dec. 19, 2014, 128 Stat. 3413.)
+(Added Pub. L. 113–291, div. A, title VII, § 711(a), Dec. 19, 2014, 128 Stat. 3413.)
 
-## § 1098. Incentives for participation in cost-effective health care plans
+## § 1098. Incentives for participation in cost-effective health care plans
 
 **(a) Waiver of Limitations and Copayments.—** Subject to subsection (b), the Secretary of Defense, with respect to any plan contracted for under the authority of section 1079 or 1086 of this title, may waive, in whole or in part—
 
@@ -15047,7 +15047,7 @@ Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 **(3)** A waiver under paragraph (1) may not take effect until the end of the 180-day period beginning on the date on which the Secretary submits the report required by paragraph (2) with respect to such waiver.
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, § 1484(h)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, § 1484(h)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 **Editorial Notes**
 
@@ -15059,7 +15059,7 @@ Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 1990—Subsec. (a). Pub. L. 101–510 substituted “subsection (b)” for “subsections (b) and (c)” in introductory provisions.
 
-## § 1099. Health care enrollment system and payment options
+## § 1099. Health care enrollment system and payment options
 
 **(a) Establishment of System.—** The Secretary of Defense, after consultation with the other administering Secretaries, shall establish a system of health care enrollment for covered beneficiaries who reside in the United States.
 
@@ -15091,19 +15091,19 @@ Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 **(e) Regulations.—** The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 114–328, div. A, title VII, § 701(d)(1), (j)(1)(E), Dec. 23, 2016, 130 Stat. 2186, 2192; Pub. L. 116–92, div. A, title VII, § 702(a), (b)(2)(B), Dec. 20, 2019, 133 Stat. 1436.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 114–328, div. A, title VII, § 701(d)(1), (j)(1)(E), Dec. 23, 2016, 130 Stat. 2186, 2192; Pub. L. 116–92, div. A, title VII, § 702(a), (b)(2)(B), Dec. 20, 2019, 133 Stat. 1436.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 702(b)(2)(B), inserted “and payment options” after “system” in section catchline.
+2019—Pub. L. 116–92, § 702(b)(2)(B), inserted “and payment options” after “system” in section catchline.
 
-Subsecs. (d), (e). Pub. L. 116–92, § 702(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 116–92, § 702(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2016—Subsec. (b)(1). Pub. L. 114–328, § 701(d)(1), amended par. (1) generally. Prior to amendment, text read as follows: “allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or”.
+2016—Subsec. (b)(1). Pub. L. 114–328, § 701(d)(1), amended par. (1) generally. Prior to amendment, text read as follows: “allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or”.
 
-Subsec. (c)(2). Pub. L. 114–328, § 701(j)(1)(E), added par. (2) and struck out former par. (2) which read as follows: “The Civilian Health and Medical Program of the Uniformed Services.”
+Subsec. (c)(2). Pub. L. 114–328, § 701(j)(1)(E), added par. (2) and struck out former par. (2) which read as follows: “The Civilian Health and Medical Program of the Uniformed Services.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15117,7 +15117,7 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **Regulations**
 
-Pub. L. 99–661, div. A, title VII, § 701(d)(1), (2), Nov. 14, 1986, 100 Stat. 3898, provided that:
+Pub. L. 99–661, div. A, title VII, § 701(d)(1), (2), Nov. 14, 1986, 100 Stat. 3898, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the Secretary of Defense shall prescribe regulations as required by section 1099(d) [now 1099(e)] of title 10, United States Code (as added by subsection (a)(1)) to implement the system of health care enrollment for covered beneficiaries—
 
@@ -15133,7 +15133,7 @@ Pub. L. 99–661, div. A, title VII, § 701(d)(1), (2), Nov. 14, 1986, 100 Sta
 
 **Initial Annual Open Enrollment Period**
 
-Pub. L. 114–328, div. A, title VII, § 701(d)(2), (3), Dec. 23, 2016, 130 Stat. 2186, provided that:
+Pub. L. 114–328, div. A, title VII, § 701(d)(2), (3), Dec. 23, 2016, 130 Stat. 2186, provided that:
 
 > **“(2) Application.—** The Secretary of Defense shall implement the initial annual open enrollment period pursuant to section 1099(b)(1) of title 10, United States Code, as amended by paragraph (1), during 2018.
 
@@ -15149,9 +15149,9 @@ Pub. L. 114–328, div. A, title VII, § 701(d)(2), (3), Dec. 23, 2016, 130 St
 
 **Reports to Congress**
 
-Pub. L. 99–661, div. A, title VII, § 701(c)(1), Nov. 14, 1986, 100 Stat. 3898, required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
+Pub. L. 99–661, div. A, title VII, § 701(c)(1), Nov. 14, 1986, 100 Stat. 3898, required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
 
-## § 1100. Defense Health Program Account
+## § 1100. Defense Health Program Account
 
 **(a) Establishment of Account.—**
 
@@ -15163,29 +15163,29 @@ Pub. L. 99–661, div. A, title VII, § 701(c)(1), Nov. 14, 1986, 100 Stat. 38
 
 **(c) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 104–106, div. A, title VII, § 735(a)–(d)(1), Feb. 10, 1996, 110 Stat. 382.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 104–106, div. A, title VII, § 735(a)–(d)(1), Feb. 10, 1996, 110 Stat. 382.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–106, § 735(d)(1), amended section catchline generally, substituting “Defense Health Program Account” for “Military Health Care Account”.
+1996—Pub. L. 104–106, § 735(d)(1), amended section catchline generally, substituting “Defense Health Program Account” for “Military Health Care Account”.
 
-Subsec. (a)(1). Pub. L. 104–106, § 735(a)(1), substituted “Defense Health Program Account” for “Military Health Care Account” and “medical and health care programs of the Department of Defense” for “the Civilian Health and Medical Program of the Uniformed Services”.
+Subsec. (a)(1). Pub. L. 104–106, § 735(a)(1), substituted “Defense Health Program Account” for “Military Health Care Account” and “medical and health care programs of the Department of Defense” for “the Civilian Health and Medical Program of the Uniformed Services”.
 
-Subsec. (a)(2). Pub. L. 104–106, § 735(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Amounts appropriated to the account shall remain available until obligated or expended under subsection (b) or (c).”
+Subsec. (a)(2). Pub. L. 104–106, § 735(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Amounts appropriated to the account shall remain available until obligated or expended under subsection (b) or (c).”
 
-Subsec. (b). Pub. L. 104–106, § 735(a)(2), substituted “conducting programs and activities under this chapter, including contracts entered into” for “entering into a contract” and inserted comma after “title”.
+Subsec. (b). Pub. L. 104–106, § 735(a)(2), substituted “conducting programs and activities under this chapter, including contracts entered into” for “entering into a contract” and inserted comma after “title”.
 
-Subsec. (c). Pub. L. 104–106, § 735(c), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Allocation of Amounts in Account for Provision of Medical Care by Service Secretaries.—(1) The Secretary of a military department shall, before the beginning of a fiscal year quarter, provide to the Secretary of Defense an estimate of the amounts necessary to pay for charges for benefits under the program for covered beneficiaries under the jurisdiction of the Secretary for that quarter.
+Subsec. (c). Pub. L. 104–106, § 735(c), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Allocation of Amounts in Account for Provision of Medical Care by Service Secretaries.—(1) The Secretary of a military department shall, before the beginning of a fiscal year quarter, provide to the Secretary of Defense an estimate of the amounts necessary to pay for charges for benefits under the program for covered beneficiaries under the jurisdiction of the Secretary for that quarter.
 
 “(2) The Secretary of Defense shall, subject to amounts provided in advance in appropriation Acts, make available to each Secretary of a military department the amount from the account that the Secretary of Defense determines is necessary to pay for charges for benefits under the program for covered beneficiaries under the jurisdiction of such Secretary for that quarter.”
 
-Subsec. (d). Pub. L. 104–106, § 735(c)(1), struck out subsec. (d) which read as follows: “Expenditure of Amounts From Account by Service Secretaries.—The Secretary of a military department shall provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for a fiscal year quarter from amounts appropriated to the Secretary and from amounts from the account made available for that quarter to the Secretary by the Secretary of Defense. If the Secretary of a military department exhausts the amounts from the account made available to the Secretary for a fiscal year quarter, the Secretary shall transfer to the account from amounts appropriated to the Secretary an amount sufficient to provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for the remainder of the fiscal year quarter.”
+Subsec. (d). Pub. L. 104–106, § 735(c)(1), struck out subsec. (d) which read as follows: “Expenditure of Amounts From Account by Service Secretaries.—The Secretary of a military department shall provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for a fiscal year quarter from amounts appropriated to the Secretary and from amounts from the account made available for that quarter to the Secretary by the Secretary of Defense. If the Secretary of a military department exhausts the amounts from the account made available to the Secretary for a fiscal year quarter, the Secretary shall transfer to the account from amounts appropriated to the Secretary an amount sufficient to provide medical and dental care to covered beneficiaries under the jurisdiction of the Secretary for the remainder of the fiscal year quarter.”
 
-Subsec. (e). Pub. L. 104–106, § 735(c)(2), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 104–106, § 735(c)(2), redesignated subsec. (e) as (c).
 
-Subsec. (f). Pub. L. 104–106, § 735(c)(1), struck out subsec. (f) which read as follows: “Definitions.—In this section:
+Subsec. (f). Pub. L. 104–106, § 735(c)(1), struck out subsec. (f) which read as follows: “Definitions.—In this section:
 
 “(1) The term ‘account’ means the Military Health Care Account established in subsection (a).
 
@@ -15195,13 +15195,13 @@ Subsec. (f). Pub. L. 104–106, § 735(c)(1), struck out subsec. (f) which rea
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title VII, § 701(d)(3), Nov. 14, 1986, 100 Stat. 3898, provided that: “Section 1100 of such title (as added by subsection (a)(1)) shall take effect on October 1, 1987.”
+Pub. L. 99–661, div. A, title VII, § 701(d)(3), Nov. 14, 1986, 100 Stat. 3898, provided that: “Section 1100 of such title (as added by subsection (a)(1)) shall take effect on October 1, 1987.”
 
 **Reports to Congress**
 
-Pub. L. 99–661, div. A, title VII, § 701(c)(2), Nov. 14, 1986, 100 Stat. 3898, required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a) of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
+Pub. L. 99–661, div. A, title VII, § 701(c)(2), Nov. 14, 1986, 100 Stat. 3898, required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a) of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
 
-## § 1101. Resource allocation methods: capitation or diagnosis-related groups
+## § 1101. Resource allocation methods: capitation or diagnosis-related groups
 
 **(a) Establishment of Capitation or DRG Method.—** The Secretary of Defense, after consultation with the other administering Secretaries, shall establish by regulation the use of capitation or diagnosis-related groups as the primary criteria for allocation of resources to facilities of the uniformed services.
 
@@ -15217,19 +15217,19 @@ Pub. L. 99–661, div. A, title VII, § 701(c)(2), Nov. 14, 1986, 100 Stat. 38
 
 **(4)** An appropriate method for calculating or estimating the annual per capita costs of providing comprehensive health care services to members of the uniformed services on active duty and covered beneficiaries.
 
-(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3897; amended Pub. L. 100–456, div. A, title XII, § 1233(e)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 103–160, div. A, title VII, § 714(a), (b)(1), Nov. 30, 1993, 107 Stat. 1690.)
+(Added Pub. L. 99–661, div. A, title VII, § 701(a)(1), Nov. 14, 1986, 100 Stat. 3897; amended Pub. L. 100–456, div. A, title XII, § 1233(e)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 103–160, div. A, title VII, § 714(a), (b)(1), Nov. 30, 1993, 107 Stat. 1690.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–160, § 714(b)(1), substituted “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” as section catchline.
+1993—Pub. L. 103–160, § 714(b)(1), substituted “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” as section catchline.
 
-Subsec. (a). Pub. L. 103–160, § 714(a)(1), substituted “Capitation or DRG Method” for “DRGs” in heading and inserted “capitation or” before “diagnosis-related groups” in text.
+Subsec. (a). Pub. L. 103–160, § 714(a)(1), substituted “Capitation or DRG Method” for “DRGs” in heading and inserted “capitation or” before “diagnosis-related groups” in text.
 
-Subsec. (b). Pub. L. 103–160, § 714(a)(2), substituted “Capitation or diagnosis-related groups” for “Diagnosis-related groups”.
+Subsec. (b). Pub. L. 103–160, § 714(a)(2), substituted “Capitation or diagnosis-related groups” for “Diagnosis-related groups”.
 
-Subsec. (c). Pub. L. 103–160, § 714(a)(3), substituted “may” for “shall” in two places in introductory provisions and added par. (4).
+Subsec. (c). Pub. L. 103–160, § 714(a)(3), substituted “may” for “shall” in two places in introductory provisions and added par. (4).
 
 1988—Subsec. (c). Pub. L. 100–456 struck out “(1)” before “Such regulations” in introductory provisions.
 
@@ -15237,9 +15237,9 @@ Subsec. (c). Pub. L. 103–160, § 714(a)(3), substituted “may” for “sha
 
 **Regulations**
 
-Pub. L. 101–189, div. A, title VII, § 724, Nov. 29, 1989, 103 Stat. 1478, as amended by Pub. L. 102–190, div. A, title VII, § 719, Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1101(a) of title 10, United States Code, to establish the use of diagnosis-related groups as the primary criteria for the allocation of resources to health care facilities of the uniformed services shall be prescribed to take effect not later than October 1, 1993, in the case of outpatient treatments.”
+Pub. L. 101–189, div. A, title VII, § 724, Nov. 29, 1989, 103 Stat. 1478, as amended by Pub. L. 102–190, div. A, title VII, § 719, Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1101(a) of title 10, United States Code, to establish the use of diagnosis-related groups as the primary criteria for the allocation of resources to health care facilities of the uniformed services shall be prescribed to take effect not later than October 1, 1993, in the case of outpatient treatments.”
 
-Pub. L. 99–661, div. A, title VII, § 701(d)(4), Nov. 14, 1986, 100 Stat. 3898, as amended by Pub. L. 100–180, div. A, title VII, § 724, Dec. 4, 1987, 101 Stat. 1116, provided that:
+Pub. L. 99–661, div. A, title VII, § 701(d)(4), Nov. 14, 1986, 100 Stat. 3898, as amended by Pub. L. 100–180, div. A, title VII, § 724, Dec. 4, 1987, 101 Stat. 1116, provided that:
 
 > “The Secretary of Defense shall prescribe regulations as required by section 1101(a) of such title (as added by subsection (a)(1)) to take effect—
 
@@ -15247,7 +15247,7 @@ Pub. L. 99–661, div. A, title VII, § 701(d)(4), Nov. 14, 1986, 100 Stat. 38
 
 > **“(B)** in the case of outpatient treatments, not later than October 1, 1989.”
 
-## § 1102. Confidentiality of medical quality assurance records: qualified immunity for participants
+## § 1102. Confidentiality of medical quality assurance records: qualified immunity for participants
 
 **(a) Confidentiality of Records.—** Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed to any person or entity, except as provided in subsection (c).
 
@@ -15305,33 +15305,33 @@ Pub. L. 99–661, div. A, title VII, § 701(d)(4), Nov. 14, 1986, 100 Stat. 38
 
 **(k) Penalty.—** Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added Pub. L. 99–661, div. A, title VII, § 705(a)[(1)], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, § 1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, § 653(f), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 108–375, div. A, title X, § 1084(c)(2), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title VII, § 714(a), Dec. 31, 2011, 125 Stat. 1476.)
+(Added Pub. L. 99–661, div. A, title VII, § 705(a)[(1)], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, § 1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, § 653(f), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 108–375, div. A, title X, § 1084(c)(2), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title VII, § 714(a), Dec. 31, 2011, 125 Stat. 1476.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (j)(1). Pub. L. 112–81, § 714(a)(1), substituted “any peer review activity carried out” for “any activity carried out”.
+2011—Subsec. (j)(1). Pub. L. 112–81, § 714(a)(1), substituted “any peer review activity carried out” for “any activity carried out”.
 
-Subsec. (j)(4). Pub. L. 112–81, § 714(a)(2), added par. (4).
+Subsec. (j)(4). Pub. L. 112–81, § 714(a)(2), added par. (4).
 
 2004—Subsec. (d)(2). Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
 
 1989—Subsec. (j)(1). Pub. L. 101–189 substituted “November 14, 1986” for “the date of the enactment of this section”.
 
-1987—Subsec. (c)(2). Pub. L. 100–180 struck out “, United States Code” after “title 5” in second sentence.
+1987—Subsec. (c)(2). Pub. L. 100–180 struck out “, United States Code” after “title 5” in second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title VII, § 714(b), Dec. 31, 2011, 125 Stat. 1477, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2012.”
+Pub. L. 112–81, div. A, title VII, § 714(b), Dec. 31, 2011, 125 Stat. 1477, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2012.”
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title VII, § 705(b), Nov. 14, 1986, 100 Stat. 3904, provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act [Nov. 14, 1986] by or for the Department of Defense as part of a medical quality assurance program.”
+Pub. L. 99–661, div. A, title VII, § 705(b), Nov. 14, 1986, 100 Stat. 3904, provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act [Nov. 14, 1986] by or for the Department of Defense as part of a medical quality assurance program.”
 
-## § 1103. Contracts for medical and dental care: State and local preemption
+## § 1103. Contracts for medical and dental care: State and local preemption
 
 **(a) Occurrence of Preemption.—** A law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery or financing methods shall not apply to any contract entered into pursuant to this chapter by the Secretary of Defense or the administering Secretaries to the extent that the Secretary of Defense or the administering Secretaries determine that—
 
@@ -15343,7 +15343,7 @@ Pub. L. 99–661, div. A, title VII, § 705(b), Nov. 14, 1986, 100 Stat. 3904,
 
 **(c) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
-(Added Pub. L. 100–180, div. A, title VII, § 725(a)(1), Dec. 4, 1987, 101 Stat. 1116; amended Pub. L. 103–160, div. A, title VII, § 715(a), Nov. 30, 1993, 107 Stat. 1690; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 100–180, div. A, title VII, § 725(a)(1), Dec. 4, 1987, 101 Stat. 1116; amended Pub. L. 103–160, div. A, title VII, § 715(a), Nov. 30, 1993, 107 Stat. 1690; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Editorial Notes**
 
@@ -15361,23 +15361,23 @@ Pub. L. 99–661, div. A, title VII, § 705(b), Nov. 14, 1986, 100 Stat. 3904,
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title VII, § 715(b), Nov. 30, 1993, 107 Stat. 1691, provided that: “Section 1103 of title 10, United States Code, as amended by subsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title VII, § 715(b), Nov. 30, 1993, 107 Stat. 1691, provided that: “Section 1103 of title 10, United States Code, as amended by subsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **Effective Date**
 
-Pub. L. 100–180, div. A, title VII, § 725(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Section 1103 of such title, as added by subsection (a), shall apply with respect to any contract entered into after October 1, 1987.”
+Pub. L. 100–180, div. A, title VII, § 725(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Section 1103 of such title, as added by subsection (a), shall apply with respect to any contract entered into after October 1, 1987.”
 
 **Applicability of Preemption Provisions to Certain Contracts**
 
-Pub. L. 102–396, title IX, § 9032, Oct. 6, 1992, 106 Stat. 1908, as amended by Pub. L. 103–50, ch. III, § 301, July 2, 1993, 107 Stat. 250, provided in part “That the preemption provisions of section 1103(a) of title 10, United States Code, shall not be limited to contractual provisions relating to coverage of benefits, but shall apply to all contracts entered into pursuant to this general provision, the California and Hawaii recompetition contract, and Solicitation Number MDA 906–92–R–0004 and shall preempt any and all State and local laws and regulations which relate to health insurance or health care plans”.
+Pub. L. 102–396, title IX, § 9032, Oct. 6, 1992, 106 Stat. 1908, as amended by Pub. L. 103–50, ch. III, § 301, July 2, 1993, 107 Stat. 250, provided in part “That the preemption provisions of section 1103(a) of title 10, United States Code, shall not be limited to contractual provisions relating to coverage of benefits, but shall apply to all contracts entered into pursuant to this general provision, the California and Hawaii recompetition contract, and Solicitation Number MDA 906–92–R–0004 and shall preempt any and all State and local laws and regulations which relate to health insurance or health care plans”.
 
 **Applicability to Contracts Entered Into Pursuant to Solicitation Number MDA–903–87–R–0047**
 
-Pub. L. 100–463, title VIII, § 8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10 U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 100–463, title VIII, § 8078(b), Oct. 1, 1988, 102 Stat. 2270–30, provided that preemption provisions of 10 U.S.C. 1103 shall apply to contracts entered into pursuant to Solicitation Number MDA–903–87–R–0047 and shall preempt State and local laws or regulations which relate to health insurance or prepaid health care plans. Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8104(b)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
+Pub. L. 100–202, § 101(b) [title VIII, § 8104(b)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
 
-## § 1104. Sharing of health-care resources with the Department of Veterans Affairs
+## § 1104. Sharing of health-care resources with the Department of Veterans Affairs
 
 **(a) Sharing of Health-Care Resources.—** Health-care resources of the Department of Defense shall be shared with health-care resources of the Department of Veterans Affairs in accordance with section 8111 of title 38 or under section 1535 of title 31.
 
@@ -15387,7 +15387,7 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8104(b)], Dec. 22, 1987, 101 St
 
 **(d) Provision of Services During War or National Emergency.—** Members of the armed forces on active duty during and immediately following a period of war, or during and immediately following a national emergency involving the use of the armed forces in armed conflict, may be provided health-care services by the Department of Veterans Affairs in accordance with section 8111A of title 38.
 
-(Added Pub. L. 101–189, div. A, title VII, § 722(a), Nov. 29, 1989, 103 Stat. 1477; amended Pub. L. 102–484, div. A, title X, § 1052(14), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–35, title II, § 201(c)(1), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title VII, § 721(b), Dec. 2, 2002, 116 Stat. 2595.)
+(Added Pub. L. 101–189, div. A, title VII, § 722(a), Nov. 29, 1989, 103 Stat. 1477; amended Pub. L. 102–484, div. A, title X, § 1052(14), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–35, title II, § 201(c)(1), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title VII, § 721(b), Dec. 2, 2002, 116 Stat. 2595.)
 
 **Editorial Notes**
 
@@ -15395,13 +15395,13 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8104(b)], Dec. 22, 1987, 101 St
 
 2002—Subsec. (a). Pub. L. 107–314 substituted “shall” for “may”.
 
-1993—Subsecs. (a) to (c). Pub. L. 103–35, § 201(c)(1)(A), substituted “section 8111 of title 38” for “section 8011 of title 38”.
+1993—Subsecs. (a) to (c). Pub. L. 103–35, § 201(c)(1)(A), substituted “section 8111 of title 38” for “section 8011 of title 38”.
 
-Subsec. (d). Pub. L. 103–35, § 201(c)(1)(B), substituted “section 8111A of title 38” for “section 8011A of title 38”.
+Subsec. (d). Pub. L. 103–35, § 201(c)(1)(B), substituted “section 8111A of title 38” for “section 8011A of title 38”.
 
-1992—Subsecs. (a) to (c). Pub. L. 102–484, § 1052(14)(A), substituted “section 8011 of title 38” for “section 5011 of title 38”.
+1992—Subsecs. (a) to (c). Pub. L. 102–484, § 1052(14)(A), substituted “section 8011 of title 38” for “section 5011 of title 38”.
 
-Subsec. (d). Pub. L. 102–484, § 1052(14)(B), substituted “section 8011A of title 38” for “section 5011A of title 38”.
+Subsec. (d). Pub. L. 102–484, § 1052(14)(B), substituted “section 8011A of title 38” for “section 5011A of title 38”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15409,7 +15409,7 @@ Subsec. (d). Pub. L. 102–484, § 1052(14)(B), substituted “section 8011A o
 
 Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub. L. 107–314, set out as a note under section 8111 of Title 38, Veterans’ Benefits.
 
-## § 1104a. Shared medical facilities with Department of Veterans Affairs
+## § 1104a. Shared medical facilities with Department of Veterans Affairs
 
 **(a) Agreements.—** Secretary of Defense may enter into agreements with the Secretary of Veterans Affairs for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 
@@ -15447,17 +15447,17 @@ Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub
 
 **(2)** includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
 
-(Added Pub. L. 117–81, div. A, title VII, § 714(a)(1), Dec. 27, 2021, 135 Stat. 1785; amended Pub. L. 117–168, title VII, § 706(a), Aug. 10, 2022, 136 Stat. 1800.)
+(Added Pub. L. 117–81, div. A, title VII, § 714(a)(1), Dec. 27, 2021, 135 Stat. 1785; amended Pub. L. 117–168, title VII, § 706(a), Aug. 10, 2022, 136 Stat. 1800.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsecs. (a), (b)(1)(B), (c)(1). Pub. L. 117–168, § 706(a)(1), inserted “, or the leasing,” after “design, and construction”.
+2022—Subsecs. (a), (b)(1)(B), (c)(1). Pub. L. 117–168, § 706(a)(1), inserted “, or the leasing,” after “design, and construction”.
 
-Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasing,” after “design”.
+Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasing,” after “design”.
 
-## § 1105. Specialized treatment facility program
+## § 1105. Specialized treatment facility program
 
 **(a) Program Authorized.—** The Secretary of Defense may conduct a specialized treatment facility program pursuant to regulations prescribed by the Secretary of Defense. The Secretary shall consult with the other administering Secretaries in prescribing regulations for the program and in conducting the program.
 
@@ -15483,7 +15483,7 @@ Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasin
 
 **(g) Covered Beneficiary Defined.—** In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
 
-(Added Pub. L. 102–190, div. A, title VII, § 715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, § 716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, § 706, Feb. 10, 1996, 110 Stat. 373; Pub. L. 113–291, div. A, title VII, § 703(c)(3), Dec. 19, 2014, 128 Stat. 3412.)
+(Added Pub. L. 102–190, div. A, title VII, § 715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, § 716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, § 706, Feb. 10, 1996, 110 Stat. 373; Pub. L. 113–291, div. A, title VII, § 703(c)(3), Dec. 19, 2014, 128 Stat. 3412.)
 
 **Editorial Notes**
 
@@ -15495,7 +15495,7 @@ Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasin
 
 1993—Pub. L. 103–160 substituted “Specialized treatment facility program” for “Issuance of nonavailability of health care statements” as section catchline and amended text generally. Prior to amendment, text read as follows: “In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility.”
 
-## § 1106. Submittal of claims: standard form; time limits
+## § 1106. Submittal of claims: standard form; time limits
 
 **(a) Standard Form.—** The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe by regulation a standard form for the submission of claims for the payment of health care services provided under this chapter.
 
@@ -15505,7 +15505,7 @@ Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasin
 
 **(2)** In the case of any other services, by not later than one year after the services are provided.
 
-(Added Pub. L. 102–190, div. A, title VII, § 716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, § 738(a), Nov. 18, 1997, 111 Stat. 1815; Pub. L. 112–81, div. A, title VII, § 712, Dec. 31, 2011, 125 Stat. 1476.)
+(Added Pub. L. 102–190, div. A, title VII, § 716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, § 738(a), Nov. 18, 1997, 111 Stat. 1815; Pub. L. 112–81, div. A, title VII, § 712, Dec. 31, 2011, 125 Stat. 1476.)
 
 **Editorial Notes**
 
@@ -15513,7 +15513,7 @@ Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasin
 
 2011—Subsec. (b). Pub. L. 112–81 substituted “as follows:” for “not later than one year after the services are provided.” and added pars. (1) and (2).
 
-1997—Pub. L. 105–85 substituted “: standard form; time limits” for “under CHAMPUS” in section catchline and amended text generally. Prior to amendment, text read as follows:
+1997—Pub. L. 105–85 substituted “: standard form; time limits” for “under CHAMPUS” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Submittal to Claims Processing Office.—Each provider of services under the Civilian Health and Medical Program of the Uniformed Services shall submit claims for payment for such services directly to the claims processing office designated pursuant to regulations prescribed under subsection (b). A claim for payment for services shall be submitted in a standard form (as prescribed in the regulations) not later than one year after the services are provided.
 
@@ -15525,11 +15525,11 @@ Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasin
 
 **Regulations**
 
-Pub. L. 102–190, div. A, title VII, § 716(b), Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1106 of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title VII, § 716(b), Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1106 of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Establishment of Appeals Process for ClaimCheck Denials**
 
-Pub. L. 105–261, div. A, title VII, § 714, Oct. 17, 1998, 112 Stat. 2060, provided that:
+Pub. L. 105–261, div. A, title VII, § 714, Oct. 17, 1998, 112 Stat. 2060, provided that:
 
 > **“(a) Establishment of Appeals Process.—** Not later than January 1, 1999, the Secretary of Defense shall establish an appeals process in cases of denials through the ClaimCheck computer software system (or any other claims processing system that may be used by the Secretary) of claims by civilian providers for payment for health care services provided under the TRICARE program.
 
@@ -15537,7 +15537,7 @@ Pub. L. 105–261, div. A, title VII, § 714, Oct. 17, 1998, 112 Stat. 2060, p
 
 **National Claims Processing System for CHAMPUS**
 
-Pub. L. 102–484, div. A, title VII, § 711, Oct. 23, 1992, 106 Stat. 2433, provided that:
+Pub. L. 102–484, div. A, title VII, § 711, Oct. 23, 1992, 106 Stat. 2433, provided that:
 
 > **“(a) Claims Processing System Required.—**
 
@@ -15575,7 +15575,7 @@ Pub. L. 102–484, div. A, title VII, § 711, Oct. 23, 1992, 106 Stat. 2433, p
 
 > **“(3)** The term ‘covered beneficiary’ has the meaning given that term in paragraph (5) of such section.”
 
-## § 1107. Notice of use of an investigational new drug or a drug unapproved for its applied use
+## § 1107. Notice of use of an investigational new drug or a drug unapproved for its applied use
 
 **(a) Notice Required.—**
 
@@ -15627,13 +15627,13 @@ Pub. L. 102–484, div. A, title VII, § 711, Oct. 23, 1992, 106 Stat. 2433, p
 
 **(2)** The term “drug unapproved for its applied use” means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355).
 
-(Added Pub. L. 105–85, div. A, title VII, § 766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, § 731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(7), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VII, § 726(a), Oct. 28, 2004, 118 Stat. 1992.)
+(Added Pub. L. 105–85, div. A, title VII, § 766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, § 731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(7), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VII, § 726(a), Oct. 28, 2004, 118 Stat. 1992.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (f)(1). Pub. L. 108–375, § 726(a)(1), substituted “obtaining consent is” for “obtaining consent—
+2004—Subsec. (f)(1). Pub. L. 108–375, § 726(a)(1), substituted “obtaining consent is” for “obtaining consent—
 
 “(A) is not feasible;
 
@@ -15641,7 +15641,7 @@ Pub. L. 102–484, div. A, title VII, § 711, Oct. 23, 1992, 106 Stat. 2433, p
 
 “(C) is”.
 
-Subsec. (f)(2). Pub. L. 108–375, § 726(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
+Subsec. (f)(2). Pub. L. 108–375, § 726(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
 
 2003—Subsec. (f)(4)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “The term ‘congressional defense committee’ means each of the following:
 
@@ -15651,21 +15651,21 @@ Subsec. (f)(2). Pub. L. 108–375, § 726(a)(2), added par. (2) and struck out
 
 1999—Subsec. (f)(4)(C)(ii). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1998—Subsec. (b). Pub. L. 105–261, § 731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
+1998—Subsec. (b). Pub. L. 105–261, § 731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
 
-Subsec. (c). Pub. L. 105–261, § 731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
+Subsec. (c). Pub. L. 105–261, § 731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
 
-Subsecs. (f), (g). Pub. L. 105–261, § 731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 105–261, § 731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title VII, § 731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: “Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member’s participation in a particular military operation on or after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title VII, § 731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: “Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member’s participation in a particular military operation on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Waivers of Requirement for Prior Consent Granted Before October 17, 1998**
 
-Pub. L. 105–261, div. A, title VII, § 731(a)(3), Oct. 17, 1998, 112 Stat. 2071, provided that:
+Pub. L. 105–261, div. A, title VII, § 731(a)(3), Oct. 17, 1998, 112 Stat. 2071, provided that:
 
 > “A waiver of the requirement for prior consent imposed under the regulations required under paragraph (4) of section 505(i) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355(i)(4)] (or under any antecedent provision of law or regulations) that has been granted under that section (or antecedent provision of law or regulations) before the date of the enactment of this Act [Oct. 17, 1998] for the administration of a drug to a member of the Armed Forces in connection with the member’s participation in a particular military operation may be applied in that case after that date only if—
 
@@ -15765,7 +15765,7 @@ Sec. 6. *Scope*. (a) This order applies to the consideration and Presidential ap
 
 William J. Clinton.
 
-## § 1107a. Emergency use products
+## § 1107a. Emergency use products
 
 **(a) Waiver by the President.—**
 
@@ -15777,7 +15777,7 @@ William J. Clinton.
 
 **(c) Applicability of Other Provisions.—** In the case of an authorization by the Secretary of Health and Human Services under section 564(a)(1) of the Federal Food, Drug, and Cosmetic Act based on a determination by the Secretary of Defense under section 564(b)(1)(B) of such Act, subsections (a) through (f) of section 1107 shall not apply to the use of a product that is the subject of such authorization, within the scope of such authorization and while such authorization is effective.
 
-(Added Pub. L. 108–136, div. A, title XVI, § 1603(b)(1), Nov. 24, 2003, 117 Stat. 1689; amended Pub. L. 108–375, div. A, title VII, § 726(b), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title X, § 1071(a)(5), (g)(7), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 115–91, div. A, title VII, § 716, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 115–92, § 1(c), Dec. 12, 2017, 131 Stat. 2025.)
+(Added Pub. L. 108–136, div. A, title XVI, § 1603(b)(1), Nov. 24, 2003, 117 Stat. 1689; amended Pub. L. 108–375, div. A, title VII, § 726(b), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title X, § 1071(a)(5), (g)(7), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 115–91, div. A, title VII, § 716, Dec. 12, 2017, 131 Stat. 1438; Pub. L. 115–92, § 1(c), Dec. 12, 2017, 131 Stat. 2025.)
 
 **Editorial Notes**
 
@@ -15791,31 +15791,31 @@ Section 564 of the Federal Food, Drug, and Cosmetic Act, referred to in text, is
 
 Pub. L. 115–91 added subsec. (d).
 
-2006—Subsec. (a). Pub. L. 109–364, § 1071(g)(7), made technical correction to directory language of Pub. L. 108–375, § 726(b)(1). See 2004 Amendment note below.
+2006—Subsec. (a). Pub. L. 109–364, § 1071(g)(7), made technical correction to directory language of Pub. L. 108–375, § 726(b)(1). See 2004 Amendment note below.
 
-Pub. L. 109–364, § 1071(a)(5), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in par. (2), substituted “paragraph (1)” for “subparagraph (A)”.
+Pub. L. 109–364, § 1071(a)(5), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in par. (2), substituted “paragraph (1)” for “subparagraph (A)”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 726(b)(1), as amended by Pub. L. 109–364, § 1071(g)(7), inserted “(A)” after “President.—”.
+2004—Subsec. (a). Pub. L. 108–375, § 726(b)(1), as amended by Pub. L. 109–364, § 1071(g)(7), inserted “(A)” after “President.—”.
 
-Subsec. (a)(A). Pub. L. 108–375, § 726(b)(2), struck out “is not feasible, is contrary to the best interests of the members affected, or” after “such requirement”.
+Subsec. (a)(A). Pub. L. 108–375, § 726(b)(2), struck out “is not feasible, is contrary to the best interests of the members affected, or” after “such requirement”.
 
-Subsec. (a)(B). Pub. L. 108–375, § 726(b)(3), added subpar. (B).
+Subsec. (a)(B). Pub. L. 108–375, § 726(b)(3), added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–92, § 1(c), Dec. 12, 2017, 131 Stat. 2025, provided that the amendment made by section 1(c) is effective as of the enactment of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91].
+Pub. L. 115–92, § 1(c), Dec. 12, 2017, 131 Stat. 2025, provided that the amendment made by section 1(c) is effective as of the enactment of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91].
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(7) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(7) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 **Termination Date**
 
-Pub. L. 108–136, div. A, title XVI, § 1603(d), Nov. 24, 2003, 117 Stat. 1690, which provided that section 1603 of Pub. L. 108–136 (enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21) would not be in effect (and the law was to read as if that section had never been enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces, was repealed by Pub. L. 108–276, § 4(b), July 21, 2004, 118 Stat. 859. [The Project Bioshield Act of 2003 was not enacted.]
+Pub. L. 108–136, div. A, title XVI, § 1603(d), Nov. 24, 2003, 117 Stat. 1690, which provided that section 1603 of Pub. L. 108–136 (enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21) would not be in effect (and the law was to read as if that section had never been enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces, was repealed by Pub. L. 108–276, § 4(b), July 21, 2004, 118 Stat. 859. [The Project Bioshield Act of 2003 was not enacted.]
 
-## § 1108. Health care coverage through Federal Employees Health Benefits program: demonstration project
+## § 1108. Health care coverage through Federal Employees Health Benefits program: demonstration project
 
 **(a) FEHBP Option Demonstration.—** The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the “demonstration project”) under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
 
@@ -15853,9 +15853,9 @@ Pub. L. 108–136, div. A, title XVI, § 1603(d), Nov. 24, 2003, 117 Stat. 169
 
 **(2)** an area that is not located in the catchment area of a military medical treatment facility;
 
-**(3)** an area in which there is a Medicare Subvention Demonstration project area under section 1896 1
+**(3)** an area in which there is a Medicare Subvention Demonstration project area under section 1896 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title XVIII of the Social Security Act (42 U.S.C. 1395ggg); and
 
@@ -15889,11 +15889,11 @@ of title XVIII of the Social Security Act (42 U.S.C. 1395ggg); and
 
 **(j) Application of Medigap Protections to Demonstration Project Enrollees.—**
 
-**(1)** Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice 2
+**(1)** Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice 2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
-organization in a Medicare+Choice 2 plan.
+organization in a Medicare+Choice 2 plan.
 
 **(2)** In applying paragraph (1)—
 
@@ -15901,13 +15901,13 @@ organization in a Medicare+Choice 2 plan.
 
 **(B)** the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defense in consultation with the Director of the Office of Personnel Management.
 
-(Added Pub. L. 105–261, div. A, title VII, § 721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, § 1084(d)(8), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–239, div. A, title X, § 1076(g)(1), Jan. 2, 2013, 126 Stat. 1955.)
+(Added Pub. L. 105–261, div. A, title VII, § 721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, § 1084(d)(8), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–239, div. A, title X, § 1076(g)(1), Jan. 2, 2013, 126 Stat. 1955.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was classified to section 1395ggg of Title 42, The Public Health and Welfare, and was omitted from the Code.
 
@@ -15925,9 +15925,9 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 **Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign**
 
-Pub. L. 105–261, div. A, title VII, § 724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under Pub. L. 105–261, § 722, formerly set out as a note under section 1073 of this title, and the redesign of the TRICARE pharmacy system under section Pub. L. 105–261, § 723, set out as a note under section 1073 of this title.
+Pub. L. 105–261, div. A, title VII, § 724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under Pub. L. 105–261, § 722, formerly set out as a note under section 1073 of this title, and the redesign of the TRICARE pharmacy system under section Pub. L. 105–261, § 723, set out as a note under section 1073 of this title.
 
-## § 1109. Organ and tissue donor program
+## § 1109. Organ and tissue donor program
 
 **(a) Responsibilities of the Secretary of Defense.—** The Secretary of Defense shall ensure that the advanced systems developed for recording armed forces members’ personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
 
@@ -15953,7 +15953,7 @@ Pub. L. 105–261, div. A, title VII, § 724, Oct. 17, 1998, 112 Stat. 2069, a
 
 **(2)** medical logistical activities can, to the extent possible without jeopardizing operational requirements, support an effective organ and tissue donation program.
 
-(Added Pub. L. 105–261, div. A, title VII, § 741(b)(1), Oct. 17, 1998, 112 Stat. 2073; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(8)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 105–261, div. A, title VII, § 741(b)(1), Oct. 17, 1998, 112 Stat. 2073; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(8)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 **Editorial Notes**
 
@@ -15965,7 +15965,7 @@ Pub. L. 105–261, div. A, title VII, § 724, Oct. 17, 1998, 112 Stat. 2069, a
 
 **Findings**
 
-Pub. L. 105–261, div. A, title VII, § 741(a), Oct. 17, 1998, 112 Stat. 2073, provided that:
+Pub. L. 105–261, div. A, title VII, § 741(a), Oct. 17, 1998, 112 Stat. 2073, provided that:
 
 > “Congress makes the following findings:
 
@@ -15979,9 +15979,9 @@ Pub. L. 105–261, div. A, title VII, § 741(a), Oct. 17, 1998, 112 Stat. 2073
 
 **Report on Implementation**
 
-Pub. L. 105–261, div. A, title VII, § 741(c), Oct. 17, 1998, 112 Stat. 2074, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to submit to committees of Congress a report on the implementation of this section not later than Sept. 1, 1999.
+Pub. L. 105–261, div. A, title VII, § 741(c), Oct. 17, 1998, 112 Stat. 2074, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to submit to committees of Congress a report on the implementation of this section not later than Sept. 1, 1999.
 
-## § 1110. System for tracking and recording vaccine information; anthrax vaccine immunization program
+## § 1110. System for tracking and recording vaccine information; anthrax vaccine immunization program
 
 **(a) Overall System to Track and Record Vaccine Information.—**
 
@@ -16027,29 +16027,29 @@ Pub. L. 105–261, div. A, title VII, § 741(c), Oct. 17, 1998, 112 Stat. 2074
 
 **(3)** The Secretary shall establish guidelines under which members of the armed forces who are determined by an independent expert panel to be experiencing unexplained adverse reactions may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193; amended Pub. L. 117–81, div. A, title VII, § 716(a), (b), Dec. 27, 2021, 135 Stat. 1788.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193; amended Pub. L. 117–81, div. A, title VII, § 716(a), (b), Dec. 27, 2021, 135 Stat. 1788.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 716(b)(1), substituted “System for tracking and recording vaccine information; anthrax vaccine immunization program” for “Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions” in section catchline.
+2021—Pub. L. 117–81, § 716(b)(1), substituted “System for tracking and recording vaccine information; anthrax vaccine immunization program” for “Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions” in section catchline.
 
-Subsec. (a). Pub. L. 117–81, § 716(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+Subsec. (a). Pub. L. 117–81, § 716(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 117–81, § 716(a)(1), (b)(2), redesignated subsec. (a) as (b), inserted “From Anthrax Vaccine Immunization Program” after “Exemptions” in heading, and substituted “Secretary” for “Secretary of Defense” in par. (1). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 117–81, § 716(a)(1), (b)(2), redesignated subsec. (a) as (b), inserted “From Anthrax Vaccine Immunization Program” after “Exemptions” in heading, and substituted “Secretary” for “Secretary of Defense” in par. (1). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 117–81, § 716(a)(1), (b)(3), redesignated subsec. (b) as (c) and inserted “to Anthrax Vaccine” after “Reactions” in heading.
+Subsec. (c). Pub. L. 117–81, § 716(a)(1), (b)(3), redesignated subsec. (b) as (c) and inserted “to Anthrax Vaccine” after “Reactions” in heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Establishment of System**
 
-Pub. L. 117–81, div. A, title VII, § 716(d), Dec. 27, 2021, 135 Stat. 1789, provided that: “The Secretary of Defense shall establish the system under section 1110 of title 10, United States Code, as added by subsection (a), by not later than January 1, 2023.”
+Pub. L. 117–81, div. A, title VII, § 716(d), Dec. 27, 2021, 135 Stat. 1789, provided that: “The Secretary of Defense shall establish the system under section 1110 of title 10, United States Code, as added by subsection (a), by not later than January 1, 2023.”
 
 **Department of Defense Standards for Exemptions From Mandatory COVID–19 Vaccines**
 
-Pub. L. 117–81, div. A, title VII, § 720, Dec. 27, 2021, 135 Stat. 1791, provided that:
+Pub. L. 117–81, div. A, title VII, § 720, Dec. 27, 2021, 135 Stat. 1791, provided that:
 
 > **“(a) Standards.—** The Secretary of Defense shall establish uniform standards under which covered members may be exempted from receiving an otherwise mandated COVID–19 vaccine for administrative, medical, or religious reasons.
 
@@ -16061,7 +16061,7 @@ Pub. L. 117–81, div. A, title VII, § 720, Dec. 27, 2021, 135 Stat. 1791, pr
 
 **Deadlines for Establishment and Implementation**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that:
 
 > “The Secretary of Defense shall—
 
@@ -16073,7 +16073,7 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114
 
 > **“(4)** not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a) of section 1580a of such title (as added by subsection (c)).”
 
-## § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B
+## § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B
 
 **(a) In General.—**
 
@@ -16097,15 +16097,15 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114
 
 **(3)** eligible to enroll in the supplementary medical insurance program under part B of such title (42 U.S.C. 1395j et seq.).
 
-(Added Pub. L. 111–84, div. A, title VII, § 707(a), Oct. 28, 2009, 123 Stat. 2376.)
+(Added Pub. L. 111–84, div. A, title VII, § 707(a), Oct. 28, 2009, 123 Stat. 2376.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(1)(B) and (b)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1)(B) and (b)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-## § 1110b. TRICARE program: extension of dependent coverage
+## § 1110b. TRICARE program: extension of dependent coverage
 
 **(a) In General.—** In accordance with subsection (c), an individual described in subsection (b) shall be deemed to be a dependent (as described in section 1072(2)(D) of this title) for purposes of coverage under the TRICARE program.
 
@@ -16131,7 +16131,7 @@ The Social Security Act, referred to in subsecs. (a)(1)(B) and (b)(2), (3), is a
 
 **(4)** Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
-(Added Pub. L. 111–383, div. A, title VII, § 702(a)(1), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(F), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 739(f), Dec. 12, 2017, 131 Stat. 1447.)
+(Added Pub. L. 111–383, div. A, title VII, § 702(a)(1), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 114–328, div. A, title VII, § 701(j)(1)(F), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, § 739(f), Dec. 12, 2017, 131 Stat. 1447.)
 
 **Editorial Notes**
 
@@ -16155,4 +16155,4 @@ Amendment by Pub. L. 114–328 applicable with respect to the provision of healt
 
 **Effective Date and Regulations**
 
-Pub. L. 111–383, div. A, title VII, § 702(b), Jan. 7, 2011, 124 Stat. 4245, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2011. The Secretary of Defense shall prescribe an interim final rule with respect to such amendments, effective not later than January 1, 2011.”
+Pub. L. 111–383, div. A, title VII, § 702(b), Jan. 7, 2011, 124 Stat. 4245, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2011. The Secretary of Defense shall prescribe an interim final rule with respect to such amendments, effective not later than January 1, 2011.”

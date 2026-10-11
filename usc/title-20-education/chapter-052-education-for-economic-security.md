@@ -15,21 +15,21 @@ retrieved: 2026-10-11
 
 # CHAPTER 52—EDUCATION FOR ECONOMIC SECURITY
 
-## § 3901. Statement of purpose
+## § 3901. Statement of purpose
 
 It is the purpose of this chapter to improve the quality of mathematics and science teaching and instruction in the United States.
 
-(Pub. L. 98–377, § 2, Aug. 11, 1984, 98 Stat. 1267.)
+(Pub. L. 98–377, § 2, Aug. 11, 1984, 98 Stat. 1267.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–159, § 1, Nov. 22, 1985, 99 Stat. 887, provided: “That this Act [enacting sections 366, 1221e–1c, and 3911 to 3922 of this title, and section 1886 of Title 42, The Public Health and Welfare, amending sections 351a, 351c, 351d, 353, 1134h, 1221e–1b, 1411, 2007, 2311, 2312, 2322, 2323, 2333, 2361 to 2363, 2383, 2392, 2417, 2462, 2464, 2471, 2763, 3902, 3963 to 3973, 3982, 3983, 3985 to 3988, 4003, 4033, 4051, 4053, 4056, and 4059 of this title, sections 1503 and 1753 of Title 29, Labor, and sections 1862 to 1864, 1868 to 1872, 1873, 1874, 1881a, 1882, and 1885 to 1885d of Title 42, omitting sections 3911 to 3915, 3921 to 3923, 3931 to 3933, 3941, and 3951 to 3954 of this title, repealing sections 1873a and 1884 of Title 42, enacting provisions set out as notes under sections 351f, 1087bb, 1411, and 2311 of this title and section 1861 of Title 42, and amending provisions set out as notes under sections 1087bb and 2301 of this title and sections 1861 and 1882 of Title 42] may be cited as the ‘National Science, Engineering, and Mathematics Authorization Act of 1986’.”
+Pub. L. 99–159, § 1, Nov. 22, 1985, 99 Stat. 887, provided: “That this Act [enacting sections 366, 1221e–1c, and 3911 to 3922 of this title, and section 1886 of Title 42, The Public Health and Welfare, amending sections 351a, 351c, 351d, 353, 1134h, 1221e–1b, 1411, 2007, 2311, 2312, 2322, 2323, 2333, 2361 to 2363, 2383, 2392, 2417, 2462, 2464, 2471, 2763, 3902, 3963 to 3973, 3982, 3983, 3985 to 3988, 4003, 4033, 4051, 4053, 4056, and 4059 of this title, sections 1503 and 1753 of Title 29, Labor, and sections 1862 to 1864, 1868 to 1872, 1873, 1874, 1881a, 1882, and 1885 to 1885d of Title 42, omitting sections 3911 to 3915, 3921 to 3923, 3931 to 3933, 3941, and 3951 to 3954 of this title, repealing sections 1873a and 1884 of Title 42, enacting provisions set out as notes under sections 351f, 1087bb, 1411, and 2311 of this title and section 1861 of Title 42, and amending provisions set out as notes under sections 1087bb and 2301 of this title and sections 1861 and 1882 of Title 42] may be cited as the ‘National Science, Engineering, and Mathematics Authorization Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 98–377, § 1, Aug. 11, 1984, 98 Stat. 1267, provided: “That this Act [enacting this chapter] may be cited as the ‘Education for Economic Security Act’.”
+Pub. L. 98–377, § 1, Aug. 11, 1984, 98 Stat. 1267, provided: “That this Act [enacting this chapter] may be cited as the ‘Education for Economic Security Act’.”
 
 Part A of title III of Pub. L. 98–377, as amended, which enacted part A of subchapter III of this chapter, is known as “Partnerships in Education for Mathematics, Science, and Engineering Act”, see note set out under section 3981 of this title.
 
@@ -189,7 +189,7 @@ Sec. 9. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 3902. Definitions
+## § 3902. Definitions
 
 For the purpose of this chapter—
 
@@ -213,15 +213,15 @@ For the purpose of this chapter—
 
 **(10)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands.
 
-**(11)** The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 1
+**(11)** The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 by the Governor or by State law.
 
 **(12)** The term “State educational agency” has the meaning given that term under section 7801 of this title.
 
-(Pub. L. 98–377, § 3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, § 221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, § 102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, § 1076(*l*)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, § 2(d), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, § 9215(dd)(1), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 98–377, § 3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, § 221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, § 102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, § 1076(*l*)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, § 2(d), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, § 9215(dd)(1), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
@@ -231,19 +231,19 @@ This chapter, referred to in par. (11), was in the original “this title” and
 
 **Amendments**
 
-2015—Pars. (3), (7). Pub. L. 114–95, § 9215(dd)(1)(A), (B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+2015—Pars. (3), (7). Pub. L. 114–95, § 9215(dd)(1)(A), (B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
-Par. (8). Pub. L. 114–95, § 9215(dd)(1)(C), substituted “section 7801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+Par. (8). Pub. L. 114–95, § 9215(dd)(1)(C), substituted “section 7801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (12). Pub. L. 114–95, § 9215(dd)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Par. (12). Pub. L. 114–95, § 9215(dd)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 2006—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocational education school” and “section 2302(3) of this title.” for “section 2471(3) of this title..”
 
-2002—Par. (3). Pub. L. 107–110, § 1076(*l*)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+2002—Par. (3). Pub. L. 107–110, § 1076(*l*)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (7). Pub. L. 107–110, § 1076(*l*)(1)(B), substituted “7801 of this title” for “198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+Par. (7). Pub. L. 107–110, § 1076(*l*)(1)(B), substituted “7801 of this title” for “198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (12). Pub. L. 107–110, § 1076(*l*)(1)(C), substituted “7801 of this title” for “198(a)(17) of the Elementary and Secondary Education Act of 1965”.
+Par. (12). Pub. L. 107–110, § 1076(*l*)(1)(C), substituted “7801 of this title” for “198(a)(17) of the Elementary and Secondary Education Act of 1965”.
 
 1998—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -271,7 +271,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER I—NATIONAL SCIENCE FOUNDATION SCIENCE AND ENGINEERING EDUCATION
 
-### § 3911. Congressional declaration of policy
+### § 3911. Congressional declaration of policy
 
 **(a)** The Congress declares that the science and engineering education responsibilities of the National Science Foundation are—
 
@@ -287,19 +287,19 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b)** In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.
 
-(Pub. L. 98–377, title I, § 101, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 893.)
+(Pub. L. 98–377, title I, § 101, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 893.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3911, Pub. L. 98–377, title I, § 101, Aug. 11, 1984, 98 Stat. 1268, related to grants for teacher institutes, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913 of this title.
+A prior section 3911, Pub. L. 98–377, title I, § 101, Aug. 11, 1984, 98 Stat. 1268, related to grants for teacher institutes, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Undergraduate Science Improvement**
 
-Pub. L. 100–570, title I, § 112, Oct. 31, 1988, 102 Stat. 2870, provided that:
+Pub. L. 100–570, title I, § 112, Oct. 31, 1988, 102 Stat. 2870, provided that:
 
 > **“(a)** The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation’s future supply of scientists and engineers.
 
@@ -307,7 +307,7 @@ Pub. L. 100–570, title I, § 112, Oct. 31, 1988, 102 Stat. 2870, provided th
 
 > **“(c)** In carrying out the provisions of this section, the Foundation shall take into account the special needs of two-year and four-year colleges and universities.”
 
-### § 3912. Functional objectives; uses of funds
+### § 3912. Functional objectives; uses of funds
 
 **(a)** In carrying out its science and engineering education responsibilities, the Foundation shall have the following functional objectives: public understanding of science and technology, faculty enhancement, student education and training, instructional development and instrumentation, and materials development and dissemination.
 
@@ -331,15 +331,15 @@ Pub. L. 100–570, title I, § 112, Oct. 31, 1988, 102 Stat. 2870, provided th
 
 **(9)** development of science, engineering, and education networks to aid in the development and dissemination of successful curricula, methods, and materials.
 
-(Pub. L. 98–377, title I, § 102, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 894.)
+(Pub. L. 98–377, title I, § 102, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 894.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3912, Pub. L. 98–377, title I, § 102, Aug. 11, 1984, 98 Stat. 1268, related to submission, contents, etc., of applications, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159.
+A prior section 3912, Pub. L. 98–377, title I, § 102, Aug. 11, 1984, 98 Stat. 1268, related to submission, contents, etc., of applications, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159.
 
-### § 3913. Teacher institutes
+### § 3913. Teacher institutes
 
 **(a) Authorization to make competitive grants; covered institutions, businesses, etc.; purpose**
 
@@ -357,15 +357,15 @@ Institutes assisted under this subchapter may, to the extent possible, involve t
 
 In making grants under this subchapter, the Foundation shall require assurances that local education agencies will be involved in the planning and development of the institute in the case of applications submitted by other eligible applicants described in subsection (a) of this section, or that one or more such applicants will be involved in the planning and development of the institute in the case of applications submitted by State or local education agencies.
 
-(Pub. L. 98–377, title I, § 103, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 894.)
+(Pub. L. 98–377, title I, § 103, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 894.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3913, Pub. L. 98–377, title I, § 113, Aug., 11, 1984, 98 Stat. 1269, related to distribution of assistance and limitation on grants, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See subsec. (b) of this section.
+A prior section 3913, Pub. L. 98–377, title I, § 113, Aug., 11, 1984, 98 Stat. 1269, related to distribution of assistance and limitation on grants, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See subsec. (b) of this section.
 
-### § 3914. Materials development and methods research for mathematics, science, and engineering
+### § 3914. Materials development and methods research for mathematics, science, and engineering
 
 **(a) Authorization to award competitive grants; covered institutions, businesses, etc.; purposes** The Foundation is authorized, in accordance with the provisions of this subchapter, to award competitive grants to institutions of higher education, businesses, nonprofit private organizations, local education agencies, professional engineering and scientific associations, museums, libraries, public broadcasting entities (as defined in section 397(11) of title 47), and appropriate State agencies—
 
@@ -393,27 +393,27 @@ Funds awarded for such competitive grants shall be expended through a system req
 
 In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3), the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a), or that one or more of such other entities will be consulted in the case of applications submitted by State or local education agencies.
 
-(Pub. L. 98–377, title I, § 104, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 895.)
+(Pub. L. 98–377, title I, § 104, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 895.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3914, Pub. L. 98–377, title I, § 114, Aug. 11, 1984, 98 Stat. 1269, related to cooperation with business concerns, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913(c) of this title.
+A prior section 3914, Pub. L. 98–377, title I, § 114, Aug. 11, 1984, 98 Stat. 1269, related to cooperation with business concerns, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913(c) of this title.
 
-### § 3915. Graduate fellowships
+### § 3915. Graduate fellowships
 
 The Foundation is authorized, in accordance with the provisions of this subchapter, to establish and carry out a program of graduate fellowships for the purpose of encouraging and assisting promising students to continue their education and research in mathematics, science, and engineering.
 
-(Pub. L. 98–377, title I, § 105, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
+(Pub. L. 98–377, title I, § 105, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3915, Pub. L. 98–377, title I, § 115, Aug. 11, 1984, 98 Stat. 1269, related to special consideration for applications meeting the needs of under­represented and underserved populations, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3919 of this title.
+A prior section 3915, Pub. L. 98–377, title I, § 115, Aug. 11, 1984, 98 Stat. 1269, related to special consideration for applications meeting the needs of under­represented and underserved populations, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3919 of this title.
 
-### § 3916. Other functional activities
+### § 3916. Other functional activities
 
 **(a)** The Foundation is authorized to expend up to 15 per centum of the funds available for science and engineering education for applications which the Foundation determines will meet one or more of the functional objectives described in section 3912(b) of this title.
 
@@ -425,29 +425,29 @@ A prior section 3915, Pub. L. 98–377, title I, § 115, Aug. 11, 1984, 98 Sta
 
 **(3)** demonstrates a commitment to meet the special educational needs of students who are members of a minority group or are economically or educationally disadvantaged.
 
-(Pub. L. 98–377, title I, § 106, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
+(Pub. L. 98–377, title I, § 106, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
 
-### § 3917. Repealed. Pub. L. 104–66, title II, § 2141(a), Dec. 21, 1995, 109 Stat. 731
+### § 3917. Repealed. Pub. L. 104–66, title II, § 2141(a), Dec. 21, 1995, 109 Stat. 731
 
-Section, Pub. L. 98–377, title I, § 107, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896; amended Pub. L. 103–437, § 7(c), Nov. 2, 1994, 108 Stat. 4588, related to developing and annual update of a strategic plan for science and engineering education.
+Section, Pub. L. 98–377, title I, § 107, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896; amended Pub. L. 103–437, § 7(c), Nov. 2, 1994, 108 Stat. 4588, related to developing and annual update of a strategic plan for science and engineering education.
 
-### § 3918. Approval of proposals
+### § 3918. Approval of proposals
 
 The Foundation shall adopt approval procedures designed to assure that awards are made on the basis of the scientific and educational merit as determined by the peer review process. To the maximum extent possible, the Foundation shall assure that there is an equitable distribution of resources with respect to institutions and geographical areas.
 
-(Pub. L. 98–377, title I, § 108, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
+(Pub. L. 98–377, title I, § 108, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 896.)
 
-### § 3919. Special consideration of underrepresented and underserved population
+### § 3919. Special consideration of underrepresented and underserved population
 
 In providing financial assistance under this subchapter, the Foundation shall make every effort to ensure that consideration is given to proposals which contain provisions designed to meet the needs of underrepresented and underserved populations.
 
-(Pub. L. 98–377, title I, § 109, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
+(Pub. L. 98–377, title I, § 109, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
 
-### § 3920. Availability of funds
+### § 3920. Availability of funds
 
 Funds to carry out this subchapter for any fiscal year shall be made available from amounts appropriated pursuant to annual authorizations of appropriations for the National Science Foundation for Science and Engineering Education. For fiscal year 1986, funds to carry out this subchapter shall be available from amounts authorized by section 102(a)(8) of the National Science Foundation Authorization Act for fiscal year 1986.
 
-(Pub. L. 98–377, title I, § 110, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
+(Pub. L. 98–377, title I, § 110, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
 
 **Editorial Notes**
 
@@ -455,31 +455,31 @@ Funds to carry out this subchapter for any fiscal year shall be made available f
 
 Section 102(a)(8) of the National Science Foundation Authorization Act for fiscal year 1986, referred to in text, is section 102(a)(8) of Pub. L. 99–159, title I, Nov. 22, 1985, 99 Stat. 887, which is not classified to the Code.
 
-### § 3921. Prohibition against the Federal control of education
+### § 3921. Prohibition against the Federal control of education
 
-The provisions of section 1232a 1
+The provisions of section 1232a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, relating to prohibition against Federal control of education, shall apply to each program and award authorized by this subchapter.
 
-(Pub. L. 98–377, title I, § 111, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
+(Pub. L. 98–377, title I, § 111, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1232a of this title, referred to in text, was in the original a reference to section 432 of the General Education Provisions Act. Sections 425 and 432 of that Act were renumbered as sections 432 and 438, respectively, by Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and are classified to sections 1231b–2 and 1232a, respectively, of this title.
+Section 1232a of this title, referred to in text, was in the original a reference to section 432 of the General Education Provisions Act. Sections 425 and 432 of that Act were renumbered as sections 432 and 438, respectively, by Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and are classified to sections 1231b–2 and 1232a, respectively, of this title.
 
 **Prior Provisions**
 
-A prior section 3921, Pub. L. 98–377, title I, § 121, Aug. 11, 1984, 98 Stat. 1269, related to programs authorized for mathematics and science education development, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3914 of this title.
+A prior section 3921, Pub. L. 98–377, title I, § 121, Aug. 11, 1984, 98 Stat. 1269, related to programs authorized for mathematics and science education development, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3914 of this title.
 
-### § 3922. Participation of teachers from private schools
+### § 3922. Participation of teachers from private schools
 
 The Foundation shall, after consultation with appropriate private school representatives, make provision for the benefit of teachers in private elementary and secondary schools in the programs authorized by this subchapter, in order to assure equitable participation of such teachers.
 
-(Pub. L. 98–377, title I, § 112, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
+(Pub. L. 98–377, title I, § 112, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 897.)
 
 **Editorial Notes**
 
@@ -487,55 +487,55 @@ The Foundation shall, after consultation with appropriate private school represe
 
 Prior sections 3922 to 3954 were omitted in the general revision of this subchapter by section 201 of Pub. L. 99–159.
 
-Prior section 3922, Pub. L. 98–377, title I, § 122, Aug. 11, 1984, 98 Stat. 1269, related to requirements, contents, etc., for applications and defined “eligible applicant”.
+Prior section 3922, Pub. L. 98–377, title I, § 122, Aug. 11, 1984, 98 Stat. 1269, related to requirements, contents, etc., for applications and defined “eligible applicant”.
 
-Prior section 3923, Pub. L. 98–377, title I, § 123, Aug. 11, 1984, 98 Stat. 1270, related to special consideration for applications meeting the needs of underrepresented and underserved populations. See section 3919 of this title.
+Prior section 3923, Pub. L. 98–377, title I, § 123, Aug. 11, 1984, 98 Stat. 1270, related to special consideration for applications meeting the needs of underrepresented and underserved populations. See section 3919 of this title.
 
-Prior section 3931, Pub. L. 98–377, title I, § 132, Aug. 11, 1984, 98 Stat. 1270, related to establishment, etc., of the merit scholarship program.
+Prior section 3931, Pub. L. 98–377, title I, § 132, Aug. 11, 1984, 98 Stat. 1270, related to establishment, etc., of the merit scholarship program.
 
-Prior section 3932, Pub. L. 98–377, title I, § 133, Aug. 11, 1984, 98 Stat. 1271, related to criteria, etc., for selection of merit scholars.
+Prior section 3932, Pub. L. 98–377, title I, § 133, Aug. 11, 1984, 98 Stat. 1271, related to criteria, etc., for selection of merit scholars.
 
-Prior section 3933, Pub. L. 98–377, title I, § 134, Aug. 11, 1984, 98 Stat. 1271, related to amount of stipends and conditions for scholarships.
+Prior section 3933, Pub. L. 98–377, title I, § 134, Aug. 11, 1984, 98 Stat. 1271, related to amount of stipends and conditions for scholarships.
 
-Prior section 3941, Pub. L. 98–377, title I, § 141, Aug. 11, 1984, 98 Stat. 1272, related to authority, etc., of the Director to make grants, to enter into contracts, and to conduct programs from discretionary funds. See section 3916 of this title.
+Prior section 3941, Pub. L. 98–377, title I, § 141, Aug. 11, 1984, 98 Stat. 1272, related to authority, etc., of the Director to make grants, to enter into contracts, and to conduct programs from discretionary funds. See section 3916 of this title.
 
-Prior section 3951, Pub. L. 98–377, title I, § 161, Aug. 11, 1984, 98 Stat. 1272, related to the administrative authorities of the Foundation and reporting requirements.
+Prior section 3951, Pub. L. 98–377, title I, § 161, Aug. 11, 1984, 98 Stat. 1272, related to the administrative authorities of the Foundation and reporting requirements.
 
-Prior section 3952, Pub. L. 98–377, title I, § 162, Aug. 11, 1984, 98 Stat. 1273, related to participation of teachers from private schools. See section 3922 of this title.
+Prior section 3952, Pub. L. 98–377, title I, § 162, Aug. 11, 1984, 98 Stat. 1273, related to participation of teachers from private schools. See section 3922 of this title.
 
-Prior section 3953, Pub. L. 98–377, title I, § 163, Aug. 11, 1984, 98 Stat. 1273, related to prohibition against Federal control of education. See section 3921 of this title.
+Prior section 3953, Pub. L. 98–377, title I, § 163, Aug. 11, 1984, 98 Stat. 1273, related to prohibition against Federal control of education. See section 3921 of this title.
 
-Prior section 3954, Pub. L. 98–377, title I, § 164, Aug. 11, 1984, 98 Stat. 1273, related to authorization of appropriations for purposes of former provisions. See section 3920 of this title.
+Prior section 3954, Pub. L. 98–377, title I, § 164, Aug. 11, 1984, 98 Stat. 1273, related to authorization of appropriations for purposes of former provisions. See section 3920 of this title.
 
 ## SUBCHAPTER II—EDUCATION FOR ECONOMIC SECURITY
 
-### §§ 3961 to 3973. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
+### §§ 3961 to 3973. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
 
-Section 3961, Pub. L. 98–377, title II, § 201, Aug. 11, 1984, 98 Stat. 1273, related to purpose of subchapter.
+Section 3961, Pub. L. 98–377, title II, § 201, Aug. 11, 1984, 98 Stat. 1273, related to purpose of subchapter.
 
-Section 3962, Pub. L. 98–377, title II, § 202, Aug. 11, 1984, 98 Stat. 1274, defined “junior or community college”.
+Section 3962, Pub. L. 98–377, title II, § 202, Aug. 11, 1984, 98 Stat. 1274, defined “junior or community college”.
 
-Section 3963, Pub. L. 98–377, title II, § 203, Aug. 11, 1984, 98 Stat. 1274; Pub. L. 99–159, title II, § 222(a), Nov. 22, 1985, 99 Stat. 897; Pub. L. 100–418, title VI, § 6005, Aug. 23, 1988, 102 Stat. 1471, related to program authorized.
+Section 3963, Pub. L. 98–377, title II, § 203, Aug. 11, 1984, 98 Stat. 1274; Pub. L. 99–159, title II, § 222(a), Nov. 22, 1985, 99 Stat. 897; Pub. L. 100–418, title VI, § 6005, Aug. 23, 1988, 102 Stat. 1471, related to program authorized.
 
-Section 3964, Pub. L. 98–377, title II, § 204, Aug. 11, 1984, 98 Stat. 1274; Pub. L. 99–159, title II, § 223, Nov. 22, 1985, 99 Stat. 897, related to allotment to States.
+Section 3964, Pub. L. 98–377, title II, § 204, Aug. 11, 1984, 98 Stat. 1274; Pub. L. 99–159, title II, § 223, Nov. 22, 1985, 99 Stat. 897, related to allotment to States.
 
-Section 3965, Pub. L. 98–377, title II, § 205, Aug. 11, 1984, 98 Stat. 1275; Pub. L. 99–159, title II, § 222(b), Nov. 22, 1985, 99 Stat. 897, related to in-State apportionment.
+Section 3965, Pub. L. 98–377, title II, § 205, Aug. 11, 1984, 98 Stat. 1275; Pub. L. 99–159, title II, § 222(b), Nov. 22, 1985, 99 Stat. 897, related to in-State apportionment.
 
-Section 3966, Pub. L. 98–377, title II, § 206, Aug. 11, 1984, 98 Stat. 1275; Pub. L. 99–159, title II, § 224, Nov. 22, 1985, 99 Stat. 898, related to elementary and secondary education programs.
+Section 3966, Pub. L. 98–377, title II, § 206, Aug. 11, 1984, 98 Stat. 1275; Pub. L. 99–159, title II, § 224, Nov. 22, 1985, 99 Stat. 898, related to elementary and secondary education programs.
 
-Section 3967, Pub. L. 98–377, title II, § 207, Aug. 11, 1984, 98 Stat. 1277; Pub. L. 99–159, title II, § 225, Nov. 22, 1985, 99 Stat. 899, related to higher education programs.
+Section 3967, Pub. L. 98–377, title II, § 207, Aug. 11, 1984, 98 Stat. 1277; Pub. L. 99–159, title II, § 225, Nov. 22, 1985, 99 Stat. 899, related to higher education programs.
 
-Section 3968, Pub. L. 98–377, title II, § 208, Aug. 11, 1984, 98 Stat. 1278; Pub. L. 99–159, title II, § 226, Nov. 22, 1985, 99 Stat. 899, related to State assessments of mathematics, science, foreign languages, and computer learning.
+Section 3968, Pub. L. 98–377, title II, § 208, Aug. 11, 1984, 98 Stat. 1278; Pub. L. 99–159, title II, § 226, Nov. 22, 1985, 99 Stat. 899, related to State assessments of mathematics, science, foreign languages, and computer learning.
 
-Section 3969, Pub. L. 98–377, title II, § 209, Aug. 11, 1984, 98 Stat. 1279; Pub. L. 99–159, title II, § 227, Nov. 22, 1985, 99 Stat. 899, related to State applications.
+Section 3969, Pub. L. 98–377, title II, § 209, Aug. 11, 1984, 98 Stat. 1279; Pub. L. 99–159, title II, § 227, Nov. 22, 1985, 99 Stat. 899, related to State applications.
 
-Section 3970, Pub. L. 98–377, title II, § 210, Aug. 11, 1984, 98 Stat. 1280; Pub. L. 99–159, title II, § 228, Nov. 22, 1985, 99 Stat. 900, related to local educational agency assessments.
+Section 3970, Pub. L. 98–377, title II, § 210, Aug. 11, 1984, 98 Stat. 1280; Pub. L. 99–159, title II, § 228, Nov. 22, 1985, 99 Stat. 900, related to local educational agency assessments.
 
-Section 3971, Pub. L. 98–377, title II, § 211, Aug. 11, 1984, 98 Stat. 1281; Pub. L. 99–159, title II, § 228A, Nov. 22, 1985, 99 Stat. 900, related to participation of children and teachers from private nonprofit schools.
+Section 3971, Pub. L. 98–377, title II, § 211, Aug. 11, 1984, 98 Stat. 1281; Pub. L. 99–159, title II, § 228A, Nov. 22, 1985, 99 Stat. 900, related to participation of children and teachers from private nonprofit schools.
 
-Section 3972, Pub. L. 98–377, title II, § 212, Aug. 11, 1984, 98 Stat. 1281; Pub. L. 99–159, title II, § 229, Nov. 22, 1985, 99 Stat. 900, related to Secretary’s discretionary fund for programs of national significance.
+Section 3972, Pub. L. 98–377, title II, § 212, Aug. 11, 1984, 98 Stat. 1281; Pub. L. 99–159, title II, § 229, Nov. 22, 1985, 99 Stat. 900, related to Secretary’s discretionary fund for programs of national significance.
 
-Section 3973, Pub. L. 98–377, title II, § 213, Aug. 11, 1984, 98 Stat. 1282; Pub. L. 99–159, title II, § 230, Nov. 22, 1985, 99 Stat. 900, related to payments.
+Section 3973, Pub. L. 98–377, title II, § 213, Aug. 11, 1984, 98 Stat. 1282; Pub. L. 99–159, title II, § 230, Nov. 22, 1985, 99 Stat. 900, related to payments.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -547,7 +547,7 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 ### Part A—Higher Education Partnerships
 
-#### § 3981. Statement of purpose
+#### § 3981. Statement of purpose
 
 It is the purpose of this part to supplement State and local resources to—
 
@@ -557,7 +557,7 @@ It is the purpose of this part to supplement State and local resources to—
 
 **(3)** encourage partnerships in education between the business community, institutions of higher education, and elementary and secondary schools in the community.
 
-(Pub. L. 98–377, title III, § 302, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 302, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -569,9 +569,9 @@ It is the purpose of this part to supplement State and local resources to—
 
 **Short Title**
 
-Pub. L. 98–377, title III, § 301, Aug. 11, 1984, 98 Stat. 1283, as amended by Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483, provided that: “This part [part A (§§ 301–309) of title III of Pub. L. 98–377 enacting this part] may be cited as the ‘Partnerships in Education for Mathematics, Science, and Engineering Act’.”
+Pub. L. 98–377, title III, § 301, Aug. 11, 1984, 98 Stat. 1283, as amended by Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483, provided that: “This part [part A (§§ 301–309) of title III of Pub. L. 98–377 enacting this part] may be cited as the ‘Partnerships in Education for Mathematics, Science, and Engineering Act’.”
 
-#### § 3982. Definitions
+#### § 3982. Definitions
 
 As used in this part—
 
@@ -581,7 +581,7 @@ As used in this part—
 
 **(3)** the term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-(Pub. L. 98–377, title III, § 303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99–159, title II, § 232, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99–159, title II, § 232, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -591,7 +591,7 @@ As used in this part—
 
 1985—Pub. L. 99–159 struck out pars. (3), (4), and (5) which defined “Foundation”, “institution of higher education”, and “States”, respectively, and redesignated par. (6) as (3).
 
-#### § 3983. Program authorized
+#### § 3983. Program authorized
 
 **(a) Authority of Secretary**
 
@@ -601,7 +601,7 @@ The Secretary is authorized, in accordance with the provisions of this part, to 
 
 There are authorized to be appropriated $50,000,000 for each of the fiscal years 1986 and 1987. There are authorized to be appropriated to carry out the provisions of this part $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-(Pub. L. 98–377, title III, § 304, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 99–159, title II, §§ 231, 233, Nov. 22, 1985, 99 Stat. 900, 901; Pub. L. 100–297, title II, § 2301, Apr. 28, 1988, 102 Stat. 319; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 304, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 99–159, title II, §§ 231, 233, Nov. 22, 1985, 99 Stat. 900, 901; Pub. L. 100–297, title II, § 2301, Apr. 28, 1988, 102 Stat. 319; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -611,9 +611,9 @@ There are authorized to be appropriated $50,000,000 for each of the fiscal years
 
 Subsec. (b). Pub. L. 100–297 substituted “1986 and 1987” for “1986, 1987, and 1988, to carry out the provisions of this subchapter” and inserted provision authorizing appropriations to carry out provisions of this part of $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-1985—Subsec. (a). Pub. L. 99–159, § 231, substituted “Secretary” for “Foundation”.
+1985—Subsec. (a). Pub. L. 99–159, § 231, substituted “Secretary” for “Foundation”.
 
-Subsec. (b). Pub. L. 99–159, § 233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
+Subsec. (b). Pub. L. 99–159, § 233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -621,7 +621,7 @@ Subsec. (b). Pub. L. 99–159, § 233, amended subsec. (b) generally, substitu
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-#### § 3984. Authorized activities
+#### § 3984. Authorized activities
 
 **(a) Higher education partnership in education programs and activities; eligible applicants**
 
@@ -661,7 +661,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 **(3)** Partnerships under this subsection may include local educational agencies, business concerns, nonprofit private organizations, institutions of higher education, professional mathematic and scientific associations, museums, libraries, educational television stations, and, if the State so desires, appropriate State agencies.
 
-(Pub. L. 98–377, title III, § 305, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 305, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -669,7 +669,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 1988—Subsecs. (a)(1), (b)(1). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
-#### § 3985. Application
+#### § 3985. Application
 
 **(a) Requirements; terms, assurances, and conditions** Any applicant which desires to receive a grant under this part shall submit an application approved under section 3986 of this title to the Secretary, at such time, in such manner, and accompanied by such additional information as the Secretary may reasonably require. Each such application shall—
 
@@ -707,7 +707,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 A regional consortium of applicants in two or more States may file a joint application under the provisions of subsection (a) of this section.
 
-(Pub. L. 98–377, title III, § 306, Aug. 11, 1984, 98 Stat. 1285; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 306, Aug. 11, 1984, 98 Stat. 1285; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -717,15 +717,15 @@ A regional consortium of applicants in two or more States may file a joint appli
 
 1985—Subsec. (a). Pub. L. 99–159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
 
-#### § 3986. Submission of applications
+#### § 3986. Submission of applications
 
-Each applicant within a State which desires to receive a grant under this part shall submit the application prepared in accordance with section 3985 of this title to the State agency on 1
+Each applicant within a State which desires to receive a grant under this part shall submit the application prepared in accordance with section 3985 of this title to the State agency on 1
 
-<sup>1</sup>  So in original. Probably should be “for”.
+<sup>1</sup> So in original. Probably should be “for”.
 
 higher education or the State educational agency, as the case may be, for approval and shall submit the approved application to the Secretary under section 3985 of this title. Each such application shall be submitted jointly by the local educational agency in the case of activities described in section 3984(a) of this title, or an institution of higher education in the case of activities described in section 3984(b) of this title, and each business concern or other party that is to participate in the program for which assistance is sought.
 
-(Pub. L. 98–377, title III, § 307, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 307, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -735,7 +735,7 @@ higher education or the State educational agency, as the case may be, for approv
 
 1985—Pub. L. 99–159 substituted “Secretary” for “Foundation”.
 
-#### § 3987. Approval of applications
+#### § 3987. Approval of applications
 
 **(a) Criteria; consistency of applications with State plans**
 
@@ -747,7 +747,7 @@ higher education or the State educational agency, as the case may be, for approv
 
 The Secretary shall adopt approval procedures designed to assure that there is equitable distribution of grants among the States.
 
-(Pub. L. 98–377, title III, § 308, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 308, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -757,7 +757,7 @@ The Secretary shall adopt approval procedures designed to assure that there is e
 
 1985—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
 
-#### § 3988. Payments; Federal share; limitation
+#### § 3988. Payments; Federal share; limitation
 
 **(a) Federal and non-Federal shares**
 
@@ -771,7 +771,7 @@ The Secretary shall adopt approval procedures designed to assure that there is e
 
 Not more than 15 per centum of the funds appropriated under this part in any fiscal year may be paid to applicants in any single State.
 
-(Pub. L. 98–377, title III, § 309, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, § 309, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 **Editorial Notes**
 
@@ -783,7 +783,7 @@ Not more than 15 per centum of the funds appropriated under this part in any fis
 
 ### Part B—Elementary and Secondary Education Partnerships
 
-#### § 3991. Purpose
+#### § 3991. Purpose
 
 It is the purpose of this part to supplement State and local resources to—
 
@@ -793,7 +793,7 @@ It is the purpose of this part to supplement State and local resources to—
 
 **(3)** encourage partnerships in science and mathematics education between the business community, museums, libraries, professional mathematics and scientific associations, private nonprofit organizations, appropriate State agencies and elementary and secondary schools.
 
-(Pub. L. 98–377, title III, § 321, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1479.)
+(Pub. L. 98–377, title III, § 321, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1479.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,7 +817,7 @@ Pub. L. 85–875, Sept. 2, 1958, 72 Stat. 1700, provided:
 
 > **“(b)** The Commissioner of Education [now Secretary of Education] may utilize any of the personnel and facilities of the Office of Education [now Department of Education] in carrying out this Act.”
 
-#### § 3992. Programs authorized
+#### § 3992. Programs authorized
 
 **(a) Grants**
 
@@ -825,13 +825,13 @@ The Secretary may make grants to States to pay the Federal share of the cost of 
 
 **(b) Authorization of appropriations**
 
-There are authorized to be appropriated for purposes of carrying out this part 1
+There are authorized to be appropriated for purposes of carrying out this part 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 $20,000,000 for fiscal year 1988.
 
-(Pub. L. 98–377, title III, § 322, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, § 322, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
 **Editorial Notes**
 
@@ -839,13 +839,13 @@ $20,000,000 for fiscal year 1988.
 
 This part, referred to in subsec. (b), was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
 
-#### § 3993. Amendment to State application
+#### § 3993. Amendment to State application
 
 **(a) Application** A State shall be eligible to receive a grant under this part if—
 
-**(1)** the State submits to the Secretary as part of its application under section 209 1
+**(1)** the State submits to the Secretary as part of its application under section 209 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 such information and assurances as the Secretary may require at such time as the Secretary shall establish; and
 
@@ -859,15 +859,15 @@ such information and assurances as the Secretary may require at such time as the
 
 **(3)** an assurance that the State will, to the extent possible, assist local school districts in economically depressed areas to obtain matching funds from business concerns.
 
-(Pub. L. 98–377, title III, § 323, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, § 323, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
+Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
 
-#### § 3994. Eligible programs
+#### § 3994. Eligible programs
 
 **(a) In general**
 
@@ -893,15 +893,15 @@ A State may use funds from grants received in any fiscal year under this part fo
 
 **(ii)** the instruction time such students receive under the program.
 
-(Pub. L. 98–377, title III, § 324, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
+(Pub. L. 98–377, title III, § 324, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
-#### § 3995. Local applications
+#### § 3995. Local applications
 
 **(a) Eligibility**
 
 An applicant that desires to receive a grant under this part shall submit an application to the State educational agency, at such time, and in such manner, as the State may require. Such application may take the form of an amendment to an assessment submitted by the local educational agency under section 210,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 if appropriate.
 
@@ -939,23 +939,23 @@ if appropriate.
 
 A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a).
 
-(Pub. L. 98–377, title III, § 325, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1481.)
+(Pub. L. 98–377, title III, § 325, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1481.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1280, which was classified to section 3970 of this title prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
+Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1280, which was classified to section 3970 of this title prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
 
-#### § 3996. Submission of applications
+#### § 3996. Submission of applications
 
-An applicant within a State that desires to receive a grant under this part 1
+An applicant within a State that desires to receive a grant under this part 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall submit an application prepared in accordance with section 3995 of this title to the State educational agency for approval. Each application with respect to funds for improvement of elementary and secondary resources under section 3994(b)(1) of this title shall be submitted jointly by the local educational agency and each business concern or other party that is to participate in the activities for which assistance is sought.
 
-(Pub. L. 98–377, title III, § 326, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
+(Pub. L. 98–377, title III, § 326, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
 
 **Editorial Notes**
 
@@ -963,7 +963,7 @@ shall submit an application prepared in accordance with section 3995 of this tit
 
 This part, referred to in text, was in the original “this chapter” and was translated as reading “this part” to reflect the probable intent of Congress because title III of Pub. L. 98–377, which comprises this subchapter, does not contain chapters.
 
-#### § 3997. Approval of applications
+#### § 3997. Approval of applications
 
 **(a) Criteria** The State shall establish criteria for approval of applications under this section. Such criteria shall include—
 
@@ -979,9 +979,9 @@ This part, referred to in text, was in the original “this chapter” and was t
 
 **(2)** small, medium, and large local educational agencies.
 
-(Pub. L. 98–377, title III, § 327, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
+(Pub. L. 98–377, title III, § 327, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
 
-#### § 3998. Computation of grant amounts
+#### § 3998. Computation of grant amounts
 
 **(a) Payments to grantees**
 
@@ -1009,23 +1009,23 @@ The non-Federal share of payments under this part may be in cash or in kind, fai
 
 If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b), the amount of such grants shall be ratably reduced.
 
-(Pub. L. 98–377, title III, § 328, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
+(Pub. L. 98–377, title III, § 328, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D [§§ 551 to 596] of title V of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 463. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by Pub. L. 100–297, title I, § 1003(a), Apr. 28, 1988, 102 Stat. 293. For complete classification of this Act to the Code, see Tables.
+The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D [§§ 551 to 596] of title V of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 463. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by Pub. L. 100–297, title I, § 1003(a), Apr. 28, 1988, 102 Stat. 293. For complete classification of this Act to the Code, see Tables.
 
 ## SUBCHAPTER IV—PRESIDENTIAL AWARDS FOR TEACHING EXCELLENCE IN MATHEMATICS AND SCIENCE
 
-### §§ 4001 to 4003. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
+### §§ 4001 to 4003. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
 
-Section 4001, Pub. L. 98–377, title IV, § 401, Aug. 11, 1984, 98 Stat. 1287, related to Presidential awards.
+Section 4001, Pub. L. 98–377, title IV, § 401, Aug. 11, 1984, 98 Stat. 1287, related to Presidential awards.
 
-Section 4002, Pub. L. 98–377, title IV, § 402, Aug. 11, 1984, 98 Stat. 1287, related to administrative provisions.
+Section 4002, Pub. L. 98–377, title IV, § 402, Aug. 11, 1984, 98 Stat. 1287, related to administrative provisions.
 
-Section 4003, Pub. L. 98–377, title IV, § 403, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 99–159, title II, § 241, Nov. 22, 1985, 99 Stat. 901, related to authorization of appropriations.
+Section 4003, Pub. L. 98–377, title IV, § 403, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 99–159, title II, § 241, Nov. 22, 1985, 99 Stat. 901, related to authorization of appropriations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1035,7 +1035,7 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 ## SUBCHAPTER V—ASBESTOS SCHOOL HAZARD ABATEMENT
 
-### § 4011. Findings and purpose
+### § 4011. Findings and purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -1069,29 +1069,29 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 **(4)** assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-(Pub. L. 98–377, title V, § 502, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 101–637, § 14(a)(2), (b)(1), (2), Nov. 28, 1990, 104 Stat. 4594, 4595.)
+(Pub. L. 98–377, title V, § 502, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 101–637, § 14(a)(2), (b)(1), (2), Nov. 28, 1990, 104 Stat. 4594, 4595.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(2), made technical amendment to section catchline.
+1990—Pub. L. 101–637, § 14(a)(2), made technical amendment to section catchline.
 
-Subsecs. (a), (b). Pub. L. 101–637, § 14(b)(1), (2), inserted headings.
+Subsecs. (a), (b). Pub. L. 101–637, § 14(b)(1), (2), inserted headings.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–637, § 1, Nov. 28, 1990, 104 Stat. 4589, provided that: “This Act [enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
+Pub. L. 101–637, § 1, Nov. 28, 1990, 104 Stat. 4589, provided that: “This Act [enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
 
 **Short Title**
 
-SPub. L. 98–377, title V, § 501, Aug. 11, 1984, 98 Stat. 1287, as amended by Pub. L. 101–637, § 14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title [enacting this subchapter] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
+SPub. L. 98–377, title V, § 501, Aug. 11, 1984, 98 Stat. 1287, as amended by Pub. L. 101–637, § 14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title [enacting this subchapter] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
 
 **Findings and Purposes**
 
-Pub. L. 101–637, § 2, Nov. 28, 1990, 104 Stat. 4589, provided that:
+Pub. L. 101–637, § 2, Nov. 28, 1990, 104 Stat. 4589, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -1117,7 +1117,7 @@ Pub. L. 101–637, § 2, Nov. 28, 1990, 104 Stat. 4589, provided that:
 
 > **“(4)** To assure that no employee of a local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.”
 
-### § 4012. Asbestos hazard abatement program
+### § 4012. Asbestos hazard abatement program
 
 **(a) Abatement program**
 
@@ -1139,23 +1139,23 @@ There is hereby established a program within the Environmental Protection Agency
 
 **(4)** the review of applications for financial assistance, and the approval or disapproval of such applications, in accordance with the provisions of section 4014 of this title.
 
-(Pub. L. 98–377, title V, § 503, Aug. 11, 1984, 98 Stat. 1288; Pub. L. 101–637, §§ 4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
+(Pub. L. 98–377, title V, § 503, Aug. 11, 1984, 98 Stat. 1288; Pub. L. 101–637, §§ 4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(3), made technical amendment to section catchline.
+1990—Pub. L. 101–637, § 14(a)(3), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 101–637, § 14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
+Subsec. (a). Pub. L. 101–637, § 14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
 
-Subsec. (b). Pub. L. 101–637, § 14(b)(4), inserted heading.
+Subsec. (b). Pub. L. 101–637, § 14(b)(4), inserted heading.
 
-Subsec. (b)(2). Pub. L. 101–637, § 4(1), (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
+Subsec. (b)(2). Pub. L. 101–637, § 4(1), (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
 
-Subsec. (b)(3). Pub. L. 101–637, § 4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
+Subsec. (b)(3). Pub. L. 101–637, § 4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
 
-### § 4013. State records and priority lists
+### § 4013. State records and priority lists
 
 **(a) Records** The Governor of each State shall maintain records on—
 
@@ -1171,9 +1171,9 @@ Subsec. (b)(3). Pub. L. 101–637, § 4(3), amended par. (3) generally. Prior 
 
 **(A)** submit to the Administrator a priority list of all schools under the authority of a local educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
 
-**(B)** forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and 1
+**(B)** forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and 1
 
-<sup>1</sup>  So in original. Probably should end with a period instead of “; and”.
+<sup>1</sup> So in original. Probably should end with a period instead of “; and”.
 
 **(2)** The priority list shall rank the potential candidates for abatement action based on the nature and magnitude of the existing and potential exposure presented by the asbestos materials.
 
@@ -1195,37 +1195,37 @@ Subsec. (b)(3). Pub. L. 101–637, § 4(3), amended par. (3) generally. Prior 
 
 **(G)** Any other factor that demonstrates that the local educational agency has limited financial resources.
 
-(Pub. L. 98–377, title V, § 504, Aug. 11, 1984, 98 Stat. 1289; Pub. L. 101–637, §§ 5, 14(a)(4), (b)(5), (6), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
+(Pub. L. 98–377, title V, § 504, Aug. 11, 1984, 98 Stat. 1289; Pub. L. 101–637, §§ 5, 14(a)(4), (b)(5), (6), Nov. 28, 1990, 104 Stat. 4590, 4594, 4595.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(4), substituted “State records and priority lists” for “State plans” in section catchline.
+1990—Pub. L. 101–637, § 14(a)(4), substituted “State records and priority lists” for “State plans” in section catchline.
 
-Subsec. (a). Pub. L. 101–637, §§ 5(a)(1), 14(b)(5), inserted heading and substituted “The Governor of each State shall maintain records on” for “Not later than three months after August 11, 1984, the Governor of each State shall submit to the Administrator a plan which describes the procedures to be used by the State for maintaining records on” in introductory provisions.
+Subsec. (a). Pub. L. 101–637, §§ 5(a)(1), 14(b)(5), inserted heading and substituted “The Governor of each State shall maintain records on” for “Not later than three months after August 11, 1984, the Governor of each State shall submit to the Administrator a plan which describes the procedures to be used by the State for maintaining records on” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 101–637, § 5(a)(2), (3), inserted “and other response actions” after “abatement activities” and inserted “and” after semicolon at end.
+Subsec. (a)(2). Pub. L. 101–637, § 5(a)(2), (3), inserted “and other response actions” after “abatement activities” and inserted “and” after semicolon at end.
 
-Subsec. (a)(3). Pub. L. 101–637, § 5(a)(4), substituted “paragraph (2)” for “subparagraph (B)”.
+Subsec. (a)(3). Pub. L. 101–637, § 5(a)(4), substituted “paragraph (2)” for “subparagraph (B)”.
 
-Subsec. (b). Pub. L. 101–637, § 14(b)(6)(A), inserted heading.
+Subsec. (b). Pub. L. 101–637, § 14(b)(6)(A), inserted heading.
 
-Subsec. (b)(1). Pub. L. 101–637, § 5(b)(1), substituted “Each year, in accordance with procedures established by the Administrator,” for “Not later than six months after August 11, 1984, and annually thereafter,” in introductory provisions.
+Subsec. (b)(1). Pub. L. 101–637, § 5(b)(1), substituted “Each year, in accordance with procedures established by the Administrator,” for “Not later than six months after August 11, 1984, and annually thereafter,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 101–637, §§ 5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
+Subsec. (b)(1)(A). Pub. L. 101–637, §§ 5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
 
-Subsec. (b)(1)(B). Pub. L. 101–637, §§ 5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
+Subsec. (b)(1)(B). Pub. L. 101–637, §§ 5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
 
-Subsec. (b)(1)(C). Pub. L. 101–637, § 5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
+Subsec. (b)(1)(C). Pub. L. 101–637, § 5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
 
-Subsec. (b)(4)(C). Pub. L. 101–637, § 14(b)(6)(D), inserted a comma after “per capita income”.
+Subsec. (b)(4)(C). Pub. L. 101–637, § 14(b)(6)(D), inserted a comma after “per capita income”.
 
-Subsec. (b)(4)(F), (G). Pub. L. 101–637, § 5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (b)(4)(F), (G). Pub. L. 101–637, § 5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (c). Pub. L. 101–637, § 5(d), struck out subsec. (c) which read as follows: “Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection.”
+Subsec. (c). Pub. L. 101–637, § 5(d), struck out subsec. (c) which read as follows: “Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection.”
 
-### § 4014. Financial assistance
+### § 4014. Financial assistance
 
 **(a) Assistance Program**
 
@@ -1317,65 +1317,65 @@ There is hereby established within the Environmental Protection Agency an Asbest
 
 **(4)** Except as provided in section 4021(b)(1) of this title, in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.
 
-(Pub. L. 98–377, title V, § 505, Aug. 11, 1984, 98 Stat. 1290; Pub. L. 99–519, § 3(a), Oct. 22, 1986, 100 Stat. 2988; Pub. L. 100–368, § 6(b), July 18, 1988, 102 Stat. 833; Pub. L. 101–637, §§ 6, 14(a)(5), (b)(7), (c)(1)–(4), Nov. 28, 1990, 104 Stat. 4591, 4594–4596.)
+(Pub. L. 98–377, title V, § 505, Aug. 11, 1984, 98 Stat. 1290; Pub. L. 99–519, § 3(a), Oct. 22, 1986, 100 Stat. 2988; Pub. L. 100–368, § 6(b), July 18, 1988, 102 Stat. 833; Pub. L. 101–637, §§ 6, 14(a)(5), (b)(7), (c)(1)–(4), Nov. 28, 1990, 104 Stat. 4591, 4594–4596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(5), made technical amendment to section catchline.
+1990—Pub. L. 101–637, § 14(a)(5), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 101–637, § 14(b)(7)(A), inserted heading.
+Subsec. (a). Pub. L. 101–637, § 14(b)(7)(A), inserted heading.
 
-Subsec. (b). Pub. L. 101–637, § 14(b)(7)(B), inserted heading.
+Subsec. (b). Pub. L. 101–637, § 14(b)(7)(B), inserted heading.
 
-Subsec. (b)(1). Pub. L. 101–637, § 14(c)(1), struck out comma after “educational agency”.
+Subsec. (b)(1). Pub. L. 101–637, § 14(c)(1), struck out comma after “educational agency”.
 
-Subsec. (b)(2). Pub. L. 101–637, § 6(a)(1), (2), substituted “the Governor shall submit applications,” for “applications shall be submitted,” and inserted “The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.”
+Subsec. (b)(2). Pub. L. 101–637, § 6(a)(1), (2), substituted “the Governor shall submit applications,” for “applications shall be submitted,” and inserted “The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.”
 
-Subsec. (b)(3). Pub. L. 101–637, § 6(a)(3), struck out par. (3) which read as follows: “Within sixty days of receipt of the information described in section 4013(b)(1) of this title, the Secretary of the Department of Education shall review such information and, in the Secretary’s discretion, provide to the Administrator comments and recommendations based upon the needs of local educational agencies for financial assistance. Within sixty days of receipt of the Secretary’s report, or expiration of the time allowed for such report, the Administrator shall approve or disapprove applications for financial assistance.”
+Subsec. (b)(3). Pub. L. 101–637, § 6(a)(3), struck out par. (3) which read as follows: “Within sixty days of receipt of the information described in section 4013(b)(1) of this title, the Secretary of the Department of Education shall review such information and, in the Secretary’s discretion, provide to the Administrator comments and recommendations based upon the needs of local educational agencies for financial assistance. Within sixty days of receipt of the Secretary’s report, or expiration of the time allowed for such report, the Administrator shall approve or disapprove applications for financial assistance.”
 
-Subsec. (c). Pub. L. 101–637, § 14(b)(7)(C), inserted heading.
+Subsec. (c). Pub. L. 101–637, § 14(b)(7)(C), inserted heading.
 
-Subsec. (c)(2)(A). Pub. L. 101–637, § 14(c)(2)(A), inserted “and” after semicolon at end.
+Subsec. (c)(2)(A). Pub. L. 101–637, § 14(c)(2)(A), inserted “and” after semicolon at end.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 101–637, § 14(c)(2)(B), inserted a comma after “confined space”.
+Subsec. (c)(2)(B)(ii). Pub. L. 101–637, § 14(c)(2)(B), inserted a comma after “confined space”.
 
-Subsec. (c)(2)(B)(iv). Pub. L. 101–637, § 14(c)(2)(B), which directed the insertion of a comma after “techniques”, could not be executed because of the intervening amendment by Pub. L. 101–637, § 6(b). See below.
+Subsec. (c)(2)(B)(iv). Pub. L. 101–637, § 14(c)(2)(B), which directed the insertion of a comma after “techniques”, could not be executed because of the intervening amendment by Pub. L. 101–637, § 6(b). See below.
 
-Pub. L. 101–637, § 6(b), substituted “uses the least burdensome methods which protect human health and the environment” for “is cost-effective compared to other techniques including management of material containing asbestos”.
+Pub. L. 101–637, § 6(b), substituted “uses the least burdensome methods which protect human health and the environment” for “is cost-effective compared to other techniques including management of material containing asbestos”.
 
-Subsec. (c)(3). Pub. L. 101–637, § 6(c), substituted “shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.” for “shall consider—
+Subsec. (c)(3). Pub. L. 101–637, § 6(c), substituted “shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.” for “shall consider—
 
 “(A) the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title; and
 
 “(B) the report, if any, of the Secretary of Education pursuant to section 4013(b)(5) of this title.”
 
-Subsec. (d). Pub. L. 101–637, § 6(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “In no event shall financial assistance be provided under this subchapter to an applicant if the Administrator determines that such applicant has resources adequate to support an appropriate asbestos materials abatement program. In making such a determination, the Administrator may consult with the Secretary of Education.”
+Subsec. (d). Pub. L. 101–637, § 6(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “In no event shall financial assistance be provided under this subchapter to an applicant if the Administrator determines that such applicant has resources adequate to support an appropriate asbestos materials abatement program. In making such a determination, the Administrator may consult with the Secretary of Education.”
 
-Subsec. (e). Pub. L. 101–637, § 14(b)(7)(D), inserted heading.
+Subsec. (e). Pub. L. 101–637, § 14(b)(7)(D), inserted heading.
 
-Subsec. (e)(1). Pub. L. 101–637, § 14(c)(3), substituted “percent” for “per centum” in two places.
+Subsec. (e)(1). Pub. L. 101–637, § 14(c)(3), substituted “percent” for “per centum” in two places.
 
-Subsec. (f). Pub. L. 101–637, § 14(b)(7)(E), inserted heading.
+Subsec. (f). Pub. L. 101–637, § 14(b)(7)(E), inserted heading.
 
-Subsec. (f)(3). Pub. L. 101–637, § 6(e), substituted “for deposit in the Asbestos Trust Fund established by section 4022 of this title” for “for deposit in the general fund”.
+Subsec. (f)(3). Pub. L. 101–637, § 6(e), substituted “for deposit in the Asbestos Trust Fund established by section 4022 of this title” for “for deposit in the general fund”.
 
-Subsec. (g). Pub. L. 101–637, § 14(b)(7)(F), inserted heading.
+Subsec. (g). Pub. L. 101–637, § 14(b)(7)(F), inserted heading.
 
-Subsec. (g)(1). Pub. L. 101–637, § 6(f)(1), substituted “in accordance with such procedures as may be developed by the Administrator” for “within the five-year period beginning on August 11, 1984”.
+Subsec. (g)(1). Pub. L. 101–637, § 6(f)(1), substituted “in accordance with such procedures as may be developed by the Administrator” for “within the five-year period beginning on August 11, 1984”.
 
-Subsec. (g)(2)(B)(i), (ii). Pub. L. 101–637, § 6(f)(2), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+Subsec. (g)(2)(B)(i), (ii). Pub. L. 101–637, § 6(f)(2), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
 “(i) any employee engaged in an asbestos material abatement program will be trained and equipped pursuant to section 4015(b)(2)(B) of this title; and
 
 “(ii) no child or inadequately informed or protected school employee will be permitted in the vicinity of any asbestos abatement activity;”.
 
-Subsec. (g)(3), (4). Pub. L. 101–637, §§ 6(f)(3), 14(c)(4), redesignated subpar. (B) appearing after par. (3) as par. (4), inserted a comma after “section 4021(b)(1) of this title”, and struck out former par. (4) which read as follows:
+Subsec. (g)(3), (4). Pub. L. 101–637, §§ 6(f)(3), 14(c)(4), redesignated subpar. (B) appearing after par. (3) as par. (4), inserted a comma after “section 4021(b)(1) of this title”, and struck out former par. (4) which read as follows:
 
 “(A) No financial assistance may be provided under this section to any school—
 
@@ -1389,9 +1389,9 @@ Subsec. (g)(3), (4). Pub. L. 101–637, §§ 6(f)(3), 14(c)(4), redesignated s
 
 “(ii) In the case of activities performed by laboratories, after the date which is 180 days after the date on which a laboratory accreditation program is completed under section 2646(d) of title 15.”
 
-1988—Subsec. (g)(4)(B)(i). Pub. L. 100–368, § 6(b)(1), substituted reference to October 22, 1986, for reference to August 11, 1984.
+1988—Subsec. (g)(4)(B)(i). Pub. L. 100–368, § 6(b)(1), substituted reference to October 22, 1986, for reference to August 11, 1984.
 
-Subsec. (g)(4)(B)(ii). Pub. L. 100–368, § 6(b)(2), substituted “section 2646(d) of title 15” for “subsection (d)”.
+Subsec. (g)(4)(B)(ii). Pub. L. 100–368, § 6(b)(2), substituted “section 2646(d) of title 15” for “subsection (d)”.
 
 1986—Subsec. (g)(4). Pub. L. 99–519 added par. (4).
 
@@ -1399,9 +1399,9 @@ Subsec. (g)(4)(B)(ii). Pub. L. 100–368, § 6(b)(2), substituted “section 2
 
 **Financial Assistance To Carry Out Inspections for Asbestos-Containing Material**
 
-Pub. L. 99–519, § 4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section, for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
+Pub. L. 99–519, § 4(b), Oct. 22, 1986, 100 Stat. 2989, provided that, notwithstanding subsec. (c) of this section, for fiscal years 1988 and 1989 the Administrator would provide financial assistance under this section in the form of grants to States or local educational agencies to carry out inspections for asbestos-containing material in school buildings and preparation of management plans for school buildings under title II of the Toxic Substances Control Act (15 U.S.C. 2641 et seq.).
 
-### § 4015. Administrative provisions
+### § 4015. Administrative provisions
 
 **(a) Regulations**
 
@@ -1427,7 +1427,7 @@ Nothing contained in this subchapter shall be construed, interpreted, or applied
 
 **(3)** periodic reporting with respect to the activities that have taken place using funds loaned or granted under this subchapter.
 
-(Pub. L. 98–377, title V, § 506, Aug. 11, 1984, 98 Stat. 1292; Pub. L. 101–637, §§ 7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, 104 Stat. 4592, 4594, 4595.)
+(Pub. L. 98–377, title V, § 506, Aug. 11, 1984, 98 Stat. 1292; Pub. L. 101–637, §§ 7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, 104 Stat. 4592, 4594, 4595.)
 
 **Editorial Notes**
 
@@ -1435,9 +1435,9 @@ Nothing contained in this subchapter shall be construed, interpreted, or applied
 
 1990—Pub. L. 101–637 inserted section catchline.
 
-Subsec. (a). Pub. L. 101–637, § 14(b)(8), inserted heading.
+Subsec. (a). Pub. L. 101–637, § 14(b)(8), inserted heading.
 
-Subsec. (b). Pub. L. 101–637, § 7(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
+Subsec. (b). Pub. L. 101–637, § 7(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
 
 “(1) procedures to be used by local educational agencies, in programs for which financial assistance is made available under section 4014 of this title for—
 
@@ -1455,11 +1455,11 @@ Subsec. (b). Pub. L. 101–637, § 7(2), added subsec. (b) and struck out form
 
 “(3) nothing contained in this subchapter shall be construed, interpreted or applied to diminish in any way the level of protection required under State or Federal worker protection laws.”
 
-Subsec. (c). Pub. L. 101–637, § 7(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 101–637, § 7(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 101–637, §§ 7(1), 14(b)(9), redesignated subsec. (c) as (d), inserted heading, and inserted a comma after “standards” in introductory provisions.
+Subsec. (d). Pub. L. 101–637, §§ 7(1), 14(b)(9), redesignated subsec. (c) as (d), inserted heading, and inserted a comma after “standards” in introductory provisions.
 
-### § 4016. Annual report
+### § 4016. Annual report
 
 During each calendar year until 1999, the Administrator shall prepare and submit, not later than June 1 of each year, to the Committee on Environment and Public Works of the Senate and to the Committee on Energy and Commerce of the House of Representatives a report on the loan and grant program authorized by section 4014 of this title.
 
@@ -1475,17 +1475,17 @@ During each calendar year until 1999, the Administrator shall prepare and submit
 
 **(6)** estimate the number of schools still in need of assistance and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards.
 
-(Pub. L. 98–377, title V, § 507, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§ 8, 14(a)(7), Nov. 28, 1990, 104 Stat. 4592, 4594.)
+(Pub. L. 98–377, title V, § 507, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§ 8, 14(a)(7), Nov. 28, 1990, 104 Stat. 4592, 4594.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(7), made technical amendment to section catchline.
+1990—Pub. L. 101–637, § 14(a)(7), made technical amendment to section catchline.
 
-Pub. L. 101–637, § 8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title.”
+Pub. L. 101–637, § 8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title.”
 
-Par. (6). Pub. L. 101–637, § 8(b), inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
+Par. (6). Pub. L. 101–637, § 8(b), inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1493,7 +1493,7 @@ Par. (6). Pub. L. 101–637, § 8(b), inserted before period at end “and the
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### § 4017. Recovery of costs
+### § 4017. Recovery of costs
 
 **(a) Loan condition**
 
@@ -1509,27 +1509,27 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 The Attorney General shall, where appropriate, proceed in an expeditious manner to recover the amounts expended by the United States to carry out this subchapter from the persons identified by the Attorney General as being liable for such costs.
 
-(Pub. L. 98–377, title V, § 508, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§ 9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, 104 Stat. 4592, 4594–4596.)
+(Pub. L. 98–377, title V, § 508, Aug. 11, 1984, 98 Stat. 1293; Pub. L. 101–637, §§ 9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, 104 Stat. 4592, 4594–4596.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(8), inserted section catchline.
+1990—Pub. L. 101–637, § 14(a)(8), inserted section catchline.
 
-Subsec. (a). Pub. L. 101–637, § 14(b)(10), inserted heading.
+Subsec. (a). Pub. L. 101–637, § 14(b)(10), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101–637, § 14(c)(5), substituted “section” for “sections” after “such”.
+Subsec. (a)(1). Pub. L. 101–637, § 14(c)(5), substituted “section” for “sections” after “such”.
 
-Subsec. (a)(2). Pub. L. 101–637, § 9, inserted “by deposit in the Asbestos Trust Fund established by section 4022 of this title,” after “repay to the United States,”.
+Subsec. (a)(2). Pub. L. 101–637, § 9, inserted “by deposit in the Asbestos Trust Fund established by section 4022 of this title,” after “repay to the United States,”.
 
-Subsec. (b). Pub. L. 101–637, § 14(b)(11), inserted heading.
+Subsec. (b). Pub. L. 101–637, § 14(b)(11), inserted heading.
 
-### § 4018. Employee protection
+### § 4018. Employee protection
 
 No State or local educational agency receiving assistance under this subchapter may discharge any employee or otherwise discriminate against any employee with respect to the employee’s compensation, terms, conditions, or privileges of employment because the employee has brought to the attention of the public information concerning any asbestos problem in the school buildings within the jurisdiction of such agency.
 
-(Pub. L. 98–377, title V, § 509, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, § 14(a)(9), Nov. 28, 1990, 104 Stat. 4594.)
+(Pub. L. 98–377, title V, § 509, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, § 14(a)(9), Nov. 28, 1990, 104 Stat. 4594.)
 
 **Editorial Notes**
 
@@ -1537,7 +1537,7 @@ No State or local educational agency receiving assistance under this subchapter 
 
 1990—Pub. L. 101–637 inserted section catchline.
 
-### § 4019. Affect on rights under other laws
+### § 4019. Affect on rights under other laws
 
 Except as otherwise provided in section 4017 of this title, nothing in this subchapter shall—
 
@@ -1545,7 +1545,7 @@ Except as otherwise provided in section 4017 of this title, nothing in this subc
 
 **(2)** affect the rights of any party under any other law.
 
-(Pub. L. 98–377, title V, § 510, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, § 14(a)(10), Nov. 28, 1990, 104 Stat. 4594.)
+(Pub. L. 98–377, title V, § 510, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, § 14(a)(10), Nov. 28, 1990, 104 Stat. 4594.)
 
 **Editorial Notes**
 
@@ -1553,7 +1553,7 @@ Except as otherwise provided in section 4017 of this title, nothing in this subc
 
 1990—Pub. L. 101–637 inserted section catchline.
 
-### § 4020. Definitions
+### § 4020. Definitions
 
 For purposes of this subchapter:
 
@@ -1595,41 +1595,41 @@ For purposes of this subchapter:
 
 **(9)** The term “response action” has the meaning given such term by section 2642(11) of title 15.
 
-(Pub. L. 98–377, title V, § 511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§ 10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, § 394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, § 1076(*l*)(2), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(dd)(2), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 98–377, title V, § 511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§ 10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, § 394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, § 1076(*l*)(2), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(dd)(2), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Par. (4)(A). Pub. L. 114–95, § 9215(dd)(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any local educational agency as defined in section 7801 of this title; and”.
+2015—Par. (4)(A). Pub. L. 114–95, § 9215(dd)(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any local educational agency as defined in section 7801 of this title; and”.
 
-Par. (5)(A). Pub. L. 114–95, § 9215(dd)(2)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “any elementary or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and”.
+Par. (5)(A). Pub. L. 114–95, § 9215(dd)(2)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “any elementary or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and”.
 
-2002—Par. (4)(A). Pub. L. 107–110, § 1076(*l*)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
+2002—Par. (4)(A). Pub. L. 107–110, § 1076(*l*)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
 
-Par. (5)(A). Pub. L. 107–110, § 1076(*l*)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
+Par. (5)(A). Pub. L. 107–110, § 1076(*l*)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
 
-1994—Par. (4)(A). Pub. L. 103–382, § 394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+1994—Par. (4)(A). Pub. L. 103–382, § 394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
-Par. (5)(A). Pub. L. 103–382, § 394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+Par. (5)(A). Pub. L. 103–382, § 394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 
-1990—Pub. L. 101–637, § 14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
+1990—Pub. L. 101–637, § 14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
 
-Pars. (1), (2). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (1), (2). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (3). Pub. L. 101–637, §§ 10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
+Par. (3). Pub. L. 101–637, §§ 10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
 
-Par. (4). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Par. (4). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (5). Pub. L. 101–637, § 14(c)(6)(E), which directed the insertion of “secondary” before “school”, was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
+Par. (5). Pub. L. 101–637, § 14(c)(6)(E), which directed the insertion of “secondary” before “school”, was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Pars. (6), (7). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (6), (7). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
 
-Par. (8). Pub. L. 101–637, § 14(c)(6)(B), substituted “The” for “the” at beginning.
+Par. (8). Pub. L. 101–637, § 14(c)(6)(B), substituted “The” for “the” at beginning.
 
-Par. (9). Pub. L. 101–637, § 10(2), added par. (9).
+Par. (9). Pub. L. 101–637, § 10(2), added par. (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1647,7 +1647,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 4021. Authorization
+### § 4021. Authorization
 
 **(a) Amount; availability until expended**
 
@@ -1675,21 +1675,21 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(B)** Establishing and maintaining programs to accredit personnel performing asbestos inspections and response actions.
 
-(Pub. L. 98–377, title V, § 512, Aug. 11, 1984, 98 Stat. 1295; Pub. L. 99–519, § 4(a), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–368, § 6(a), July 18, 1988, 102 Stat. 833; Pub. L. 101–637, §§ 11, 14(a)(12), Nov. 28, 1990, 104 Stat. 4592, 4595.)
+(Pub. L. 98–377, title V, § 512, Aug. 11, 1984, 98 Stat. 1295; Pub. L. 99–519, § 4(a), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–368, § 6(a), July 18, 1988, 102 Stat. 833; Pub. L. 101–637, §§ 11, 14(a)(12), Nov. 28, 1990, 104 Stat. 4592, 4595.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 **Amendments**
 
-1990—Pub. L. 101–637, § 14(a)(12), inserted section catchline.
+1990—Pub. L. 101–637, § 14(a)(12), inserted section catchline.
 
-Subsec. (a)(1). Pub. L. 101–637, § 11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are hereby authorized to be appropriated for the asbestos abatement program not more than $50,000,000 for the fiscal year ending on September 30, 1984, $50,000,000 for the fiscal year ending on September 30, 1985, and $100,000,000 for each of the five succeeding fiscal years. In addition, for such purposes there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title $25,000,000 for each of fiscal years 1987, 1988, 1989, and 1990.”
+Subsec. (a)(1). Pub. L. 101–637, § 11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are hereby authorized to be appropriated for the asbestos abatement program not more than $50,000,000 for the fiscal year ending on September 30, 1984, $50,000,000 for the fiscal year ending on September 30, 1985, and $100,000,000 for each of the five succeeding fiscal years. In addition, for such purposes there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title $25,000,000 for each of fiscal years 1987, 1988, 1989, and 1990.”
 
-Subsec. (b)(2). Pub. L. 101–637, § 11(b), added par. (2) and struck out former par. (2) which read as follows: “Of those sums appropriated for the implementation of this subchapter, up to 10 per centum shall be reserved during the fiscal year ending September 30, 1984, and up to 5 per centum for the fiscal year ending September 30, 1985, for the administration of this subchapter and for programs including, but not limited to, the following:
+Subsec. (b)(2). Pub. L. 101–637, § 11(b), added par. (2) and struck out former par. (2) which read as follows: “Of those sums appropriated for the implementation of this subchapter, up to 10 per centum shall be reserved during the fiscal year ending September 30, 1984, and up to 5 per centum for the fiscal year ending September 30, 1985, for the administration of this subchapter and for programs including, but not limited to, the following:
 
 “(A) the establishment of a training center for contractors, engineers, school employees, parents and other personnel to provide instruction on asbestos assessment and abatement;
 
@@ -1699,7 +1699,7 @@ Subsec. (b)(2). Pub. L. 101–637, § 11(b), added par. (2) and struck out for
 
 “(D) the development of a comprehensive testing and technical assistance program.”
 
-Subsec. (b)(3). Pub. L. 101–637, § 11(b), added par. (3).
+Subsec. (b)(3). Pub. L. 101–637, § 11(b), added par. (3).
 
 1988—Pub. L. 100–368 moved last sentence (as added by Pub. L. 98–377) to end of subsec. (a)(1).
 
@@ -1711,7 +1711,7 @@ Subsec. (b)(3). Pub. L. 101–637, § 11(b), added par. (3).
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 4022. Asbestos Trust Fund
+### § 4022. Asbestos Trust Fund
 
 **(a) Creation of Trust Fund**
 
@@ -1749,7 +1749,7 @@ Any obligation acquired by the Asbestos Trust Fund may be sold by the Secretary 
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the Asbestos Trust Fund shall be credited to and form a part of the Trust Fund.
 
-**(2) Repealed. Pub. L. 104–66, title I, § 1131(c), Dec. 21, 1995, 109 Stat. 725**
+**(2) Repealed. Pub. L. 104–66, title I, § 1131(c), Dec. 21, 1995, 109 Stat. 725**
 
 **(d) Expenditures from Asbestos Trust Fund**
 
@@ -1775,7 +1775,7 @@ Interest on advances made under this subsection shall be at a rate determined by
 
 The amendments made by this section shall take effect on January 1, 1986.
 
-(Pub. L. 99–519, § 5, Oct. 22, 1986, 100 Stat. 2990; Pub. L. 101–637, § 12, Nov. 28, 1990, 104 Stat. 4593; Pub. L. 104–66, title I, § 1131(c), Dec. 21, 1995, 109 Stat. 725.)
+(Pub. L. 99–519, § 5, Oct. 22, 1986, 100 Stat. 2990; Pub. L. 101–637, § 12, Nov. 28, 1990, 104 Stat. 4593; Pub. L. 104–66, title I, § 1131(c), Dec. 21, 1995, 109 Stat. 725.)
 
 **Editorial Notes**
 
@@ -1787,27 +1787,27 @@ Section was enacted as part of the Asbestos Hazard Emergency Response Act of 198
 
 1995—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
 
-1990—Subsec. (b)(1). Pub. L. 101–637, § 12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
+1990—Subsec. (b)(1). Pub. L. 101–637, § 12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
 
-Subsec. (d). Pub. L. 101–637, § 12(b), struck out before period at end “as in effect on October 22, 1986”.
+Subsec. (d). Pub. L. 101–637, § 12(b), struck out before period at end “as in effect on October 22, 1986”.
 
 ## SUBCHAPTER VI—EXCELLENCE IN EDUCATION PROGRAM
 
-### §§ 4031 to 4037. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
+### §§ 4031 to 4037. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
 
-Section 4031, Pub. L. 98–377, title VI, § 602, Aug. 11, 1984, 98 Stat. 1295, related to statement of purpose.
+Section 4031, Pub. L. 98–377, title VI, § 602, Aug. 11, 1984, 98 Stat. 1295, related to statement of purpose.
 
-Section 4032, Pub. L. 98–377, title VI, § 603, Aug. 11, 1984, 98 Stat. 1296, related to definitions.
+Section 4032, Pub. L. 98–377, title VI, § 603, Aug. 11, 1984, 98 Stat. 1296, related to definitions.
 
-Section 4033, Pub. L. 98–377, title VI, § 604, Aug. 11, 1984, 98 Stat. 1296; Pub. L. 99–159, title II, § 251, Nov. 22, 1985, 99 Stat. 901; Pub. L. 99–425, title VII, § 701, Sept. 30, 1986, 100 Stat. 977, related to school excellence awards.
+Section 4033, Pub. L. 98–377, title VI, § 604, Aug. 11, 1984, 98 Stat. 1296; Pub. L. 99–159, title II, § 251, Nov. 22, 1985, 99 Stat. 901; Pub. L. 99–425, title VII, § 701, Sept. 30, 1986, 100 Stat. 977, related to school excellence awards.
 
-Section 4034, Pub. L. 98–377, title VI, § 605, Aug. 11, 1984, 98 Stat. 1296, related to selection of schools for awards.
+Section 4034, Pub. L. 98–377, title VI, § 605, Aug. 11, 1984, 98 Stat. 1296, related to selection of schools for awards.
 
-Section 4035, Pub. L. 98–377, title VI, § 606, Aug. 11, 1984, 98 Stat. 1298, related to amount and conditions of awards.
+Section 4035, Pub. L. 98–377, title VI, § 606, Aug. 11, 1984, 98 Stat. 1298, related to amount and conditions of awards.
 
-Section 4036, Pub. L. 98–377, title VI, § 607, Aug. 11, 1984, 98 Stat. 1298, related to special school awards.
+Section 4036, Pub. L. 98–377, title VI, § 607, Aug. 11, 1984, 98 Stat. 1298, related to special school awards.
 
-Section 4037, Pub. L. 98–377, title VI, § 608, Aug. 11, 1984, 98 Stat. 1298, related to research, evaluation, dissemination, and monitoring activities.
+Section 4037, Pub. L. 98–377, title VI, § 608, Aug. 11, 1984, 98 Stat. 1298, related to research, evaluation, dissemination, and monitoring activities.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1817,35 +1817,35 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 **Short Title**
 
-Pub. L. 98–377, title VI, § 601, Aug. 11, 1984, 98 Stat. 1295, which provided that title VI of Pub. L. 98–377 was to be cited as the “Excellence in Education Act”, was repealed by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
+Pub. L. 98–377, title VI, § 601, Aug. 11, 1984, 98 Stat. 1295, which provided that title VI of Pub. L. 98–377 was to be cited as the “Excellence in Education Act”, was repealed by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
 
 ## SUBCHAPTER VII—MAGNET SCHOOLS ASSISTANCE
 
-### §§ 4051 to 4062. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
+### §§ 4051 to 4062. Repealed. Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324
 
-Section 4051, Pub. L. 98–377, title VII, § 701, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, § 261, Nov. 22, 1985, 99 Stat. 901, related to authorization of appropriations.
+Section 4051, Pub. L. 98–377, title VII, § 701, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, § 261, Nov. 22, 1985, 99 Stat. 901, related to authorization of appropriations.
 
-Section 4052, Pub. L. 98–377, title VII, § 702, Aug. 11, 1984, 98 Stat. 1299, related to eligibility requirements.
+Section 4052, Pub. L. 98–377, title VII, § 702, Aug. 11, 1984, 98 Stat. 1299, related to eligibility requirements.
 
-Section 4053, Pub. L. 98–377, title VII, § 703, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, § 262, Nov. 22, 1985, 99 Stat. 901, related to statement of purpose.
+Section 4053, Pub. L. 98–377, title VII, § 703, Aug. 11, 1984, 98 Stat. 1299; Pub. L. 99–159, title II, § 262, Nov. 22, 1985, 99 Stat. 901, related to statement of purpose.
 
-Section 4054, Pub. L. 98–377, title VII, § 704, Aug. 11, 1984, 98 Stat. 1299, related to program authorization.
+Section 4054, Pub. L. 98–377, title VII, § 704, Aug. 11, 1984, 98 Stat. 1299, related to program authorization.
 
-Section 4055, Pub. L. 98–377, title VII, § 705, Aug. 11, 1984, 98 Stat. 1300, defined term “magnet school”.
+Section 4055, Pub. L. 98–377, title VII, § 705, Aug. 11, 1984, 98 Stat. 1300, defined term “magnet school”.
 
-Section 4056, Pub. L. 98–377, title VII, § 706, Aug. 11, 1984, 98 Stat. 1300; Pub. L. 99–159, title II, § 263, Nov. 22, 1985, 99 Stat. 902, related to uses of funds.
+Section 4056, Pub. L. 98–377, title VII, § 706, Aug. 11, 1984, 98 Stat. 1300; Pub. L. 99–159, title II, § 263, Nov. 22, 1985, 99 Stat. 902, related to uses of funds.
 
-Section 4057, Pub. L. 98–377, title VII, § 707, Aug. 11, 1984, 98 Stat. 1300, related to applications and requirements.
+Section 4057, Pub. L. 98–377, title VII, § 707, Aug. 11, 1984, 98 Stat. 1300, related to applications and requirements.
 
-Section 4058, Pub. L. 98–377, title VII, § 708, Aug. 11, 1984, 98 Stat. 1301, related to special considerations in approving applications.
+Section 4058, Pub. L. 98–377, title VII, § 708, Aug. 11, 1984, 98 Stat. 1301, related to special considerations in approving applications.
 
-Section 4059, Pub. L. 98–377, title VII, § 709, Aug. 11, 1984, 98 Stat. 1301; Pub. L. 99–159, title II, § 264, Nov. 22, 1985, 99 Stat. 902, related to prohibitions on use of grants.
+Section 4059, Pub. L. 98–377, title VII, § 709, Aug. 11, 1984, 98 Stat. 1301; Pub. L. 99–159, title II, § 264, Nov. 22, 1985, 99 Stat. 902, related to prohibitions on use of grants.
 
-Section 4060, Pub. L. 98–377, title VII, § 710, Aug. 11, 1984, 98 Stat. 1301, related to limitation on payments.
+Section 4060, Pub. L. 98–377, title VII, § 710, Aug. 11, 1984, 98 Stat. 1301, related to limitation on payments.
 
-Section 4061, Pub. L. 98–377, title VII, § 711, Aug. 11, 1984, 98 Stat. 1301; Pub. L. 98–558, title VII, § 702, Oct. 30, 1984, 98 Stat. 2900, related to payments.
+Section 4061, Pub. L. 98–377, title VII, § 711, Aug. 11, 1984, 98 Stat. 1301; Pub. L. 98–558, title VII, § 702, Oct. 30, 1984, 98 Stat. 2900, related to payments.
 
-Section 4062, Pub. L. 98–377, title VII, § 712, Aug. 11, 1984, 98 Stat. 1302, related to withholding.
+Section 4062, Pub. L. 98–377, title VII, § 712, Aug. 11, 1984, 98 Stat. 1302, related to withholding.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1855,7 +1855,7 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 ## SUBCHAPTER VIII—EQUAL ACCESS
 
-### § 4071. Denial of equal access prohibited
+### § 4071. Denial of equal access prohibited
 
 **(a) Restriction of limited open forum on basis of religious, political, philosophical, or other speech content prohibited**
 
@@ -1901,15 +1901,15 @@ Notwithstanding the availability of any other remedy under the Constitution or t
 
 Nothing in this subchapter shall be construed to limit the authority of the school, its agents or employees, to maintain order and discipline on school premises, to protect the well-being of students and faculty, and to assure that attendance of students at meetings is voluntary.
 
-(Pub. L. 98–377, title VIII, § 802, Aug. 11, 1984, 98 Stat. 1302.)
+(Pub. L. 98–377, title VIII, § 802, Aug. 11, 1984, 98 Stat. 1302.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–377, title VIII, § 801, Aug. 11, 1984, 98 Stat. 1302, provided that: “This title [enacting this subchapter] may be cited as ‘The Equal Access Act’.”
+Pub. L. 98–377, title VIII, § 801, Aug. 11, 1984, 98 Stat. 1302, provided that: “This title [enacting this subchapter] may be cited as ‘The Equal Access Act’.”
 
-### § 4072. Definitions
+### § 4072. Definitions
 
 As used in this subchapter—
 
@@ -1921,46 +1921,46 @@ As used in this subchapter—
 
 **(4)** The term “noninstructional time” means time set aside by the school before actual classroom instruction begins or after actual classroom instruction ends.
 
-(Pub. L. 98–377, title VIII, § 803, Aug. 11, 1984, 98 Stat. 1303.)
+(Pub. L. 98–377, title VIII, § 803, Aug. 11, 1984, 98 Stat. 1303.)
 
-### § 4073. Severability
+### § 4073. Severability
 
 If any provision of this subchapter or the application thereof to any person or circumstances is judicially determined to be invalid, the provisions of the remainder of the subchapter and the application to other persons or circumstances shall not be affected thereby.
 
-(Pub. L. 98–377, title VIII, § 804, Aug. 11, 1984, 98 Stat. 1304.)
+(Pub. L. 98–377, title VIII, § 804, Aug. 11, 1984, 98 Stat. 1304.)
 
-### § 4074. Construction
+### § 4074. Construction
 
 The provisions of this subchapter shall supersede all other provisions of Federal law that are inconsistent with the provisions of this subchapter.
 
-(Pub. L. 98–377, title VIII, § 805, Aug. 11, 1984, 98 Stat. 1304.)
+(Pub. L. 98–377, title VIII, § 805, Aug. 11, 1984, 98 Stat. 1304.)
 
 ## SUBCHAPTER IX—STAR SCHOOLS PROGRAM
 
-### §§ 4081 to 4086. Repealed. Pub. L. 103–382, title III, § 364, Oct. 20, 1994, 108 Stat. 3975
+### §§ 4081 to 4086. Repealed. Pub. L. 103–382, title III, § 364, Oct. 20, 1994, 108 Stat. 3975
 
-Section 4081, Pub. L. 98–377, title IX, § 902, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320; amended Pub. L. 102–103, title III, § 301, Aug. 17, 1991, 105 Stat. 499, related to purpose of star schools program.
+Section 4081, Pub. L. 98–377, title IX, § 902, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320; amended Pub. L. 102–103, title III, § 301, Aug. 17, 1991, 105 Stat. 499, related to purpose of star schools program.
 
-Section 4082, Pub. L. 98–377, title IX, § 903, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320; amended Pub. L. 102–103, title III, § 302, Aug. 17, 1991, 105 Stat. 499, authorized grants for telecommunications facilities and equipment, instructional programming, and technical assistance.
+Section 4082, Pub. L. 98–377, title IX, § 903, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320; amended Pub. L. 102–103, title III, § 302, Aug. 17, 1991, 105 Stat. 499, authorized grants for telecommunications facilities and equipment, instructional programming, and technical assistance.
 
-Section 4083, Pub. L. 98–377, title IX, § 904, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, § 303, Aug. 17, 1991, 105 Stat. 500, related to eligibility of telecommunications partnerships for grants.
+Section 4083, Pub. L. 98–377, title IX, § 904, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, § 303, Aug. 17, 1991, 105 Stat. 500, related to eligibility of telecommunications partnerships for grants.
 
-Section 4084, Pub. L. 98–377, title IX, § 905, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, § 304, Aug. 17, 1991, 105 Stat. 501, related to applications for grants.
+Section 4084, Pub. L. 98–377, title IX, § 905, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, § 304, Aug. 17, 1991, 105 Stat. 501, related to applications for grants.
 
-Section 4085, Pub. L. 98–377, title IX, § 906, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 323, related to dissemination of courses and materials under star schools program.
+Section 4085, Pub. L. 98–377, title IX, § 906, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 323, related to dissemination of courses and materials under star schools program.
 
-Section 4085a, Pub. L. 98–377, title IX, § 907, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 502, related to continuing eligibility for grants.
+Section 4085a, Pub. L. 98–377, title IX, § 907, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 502, related to continuing eligibility for grants.
 
-Section 4085b, Pub. L. 98–377, title IX, § 908, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 503; amended Pub. L. 103–227, title IX, § 961, Mar. 31, 1994, 108 Stat. 263, required independent evaluation of the star schools program.
+Section 4085b, Pub. L. 98–377, title IX, § 908, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 503; amended Pub. L. 103–227, title IX, § 961, Mar. 31, 1994, 108 Stat. 263, required independent evaluation of the star schools program.
 
-Section 4085c, Pub. L. 98–377, title IX, § 909, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 504, authorized assistance for acquiring satellite time.
+Section 4085c, Pub. L. 98–377, title IX, § 909, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 504, authorized assistance for acquiring satellite time.
 
-Section 4085d, Pub. L. 98–377, title IX, § 910, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 504, authorized grants for dissemination and technical assistance to State and local educational agencies.
+Section 4085d, Pub. L. 98–377, title IX, § 910, as added Pub. L. 102–103, title III, § 305(2), Aug. 17, 1991, 105 Stat. 504, authorized grants for dissemination and technical assistance to State and local educational agencies.
 
-Section 4086, Pub. L. 98–377, title IX, § 911, formerly § 907, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII, § 802(c), July 25, 1991, 105 Stat. 361; renumbered § 911, Pub. L. 102–103, title III, § 305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
+Section 4086, Pub. L. 98–377, title IX, § 911, formerly § 907, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII, § 802(c), July 25, 1991, 105 Stat. 361; renumbered § 911, Pub. L. 102–103, title III, § 305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the “Star Schools Program Assistance Act”, prior to repeal by Pub. L. 103–382, title III, § 364, Oct. 20, 1994, 108 Stat. 3975.
+Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the “Star Schools Program Assistance Act”, prior to repeal by Pub. L. 103–382, title III, § 364, Oct. 20, 1994, 108 Stat. 3975.

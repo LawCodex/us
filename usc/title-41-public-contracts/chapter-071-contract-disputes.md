@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 71—CONTRACT DISPUTES
 
-## § 7101. Definitions
+## § 7101. Definitions
 
 In this chapter:
 
@@ -57,19 +57,19 @@ In this chapter:
 
 **(9) Misrepresentation of fact.—** The term “misrepresentation of fact” means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3816.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3816.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7101 | 41:601. | Pub. L. 95–563, § 2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(5), Feb. 10, 1996, 110 Stat. 677; Pub. L. 109–163, div. A, title VIII, § 847(d)(1), Jan. 6, 2006, 119 Stat. 3393. |
+| 7101 | 41:601. | Pub. L. 95–563, § 2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(5), Feb. 10, 1996, 110 Stat. 677; Pub. L. 109–163, div. A, title VIII, § 847(d)(1), Jan. 6, 2006, 119 Stat. 3393. |
 
 In paragraph (8)(C), the words “Government Accountability Office” are substituted for “General Accounting Office” because of section 8(b) of the GAO Human Capital Reform Act of 2004 (Public Law 108–271, 118 Stat. 814, 31 U.S.C. 702 note).
 
 In paragraph (8)(D), the words “section 9101(3) of title 31” are substituted for “section 846 of title 31” because of section 4(b) of Public Law 97–258 (31 U.S.C. note prec. 101).
 
-## § 7102. Applicability of chapter
+## § 7102. Applicability of chapter
 
 **(a) Executive Agency Contracts.—** Unless otherwise specifically provided in this chapter, this chapter applies to any express or implied contract (including those of the nonappropriated fund activities described in sections 1346 and 1491 of title 28) made by an executive agency for—
 
@@ -91,20 +91,20 @@ In paragraph (8)(D), the words “section 9101(3) of title 31” are substituted
 
 **(d) Maritime Contracts.—** Appeals under section 7107(a) of this title and actions brought under sections 7104(b) and 7107(b) to (f) of this title, arising out of maritime contracts, are governed by chapter 309 or 311 of title 46, as applicable, to the extent that those chapters are not inconsistent with this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3817.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3817.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7102(a)–(c) | 41:602. | Pub. L. 95–563, §§ 3, 4, Nov. 1, 1978, 92 Stat. 2383. |
+| 7102(a)–(c) | 41:602. | Pub. L. 95–563, §§ 3, 4, Nov. 1, 1978, 92 Stat. 2383. |
 | 7102(d) | 41:603. |  |
 
 In subsection (c), the words “an agency head” are substituted for “the head of the agency” for consistency with the defined term “agency head” in section 7101 of the revised title.
 
 In subsection (d), the words “chapter 309 or 311 of title 46” are substituted for “the Act of March 9, 1920, as amended (41 Stat. 525, as amended; 46 U.S.C. 741–752) or the Act of March 3, 1925, as amended (43 Stat. 1112, as amended; 46 U.S.C. 781–790)” in section 4 of the Contract Disputes Act of 1978 (Public Law 95–563, 92 Stat. 2384) because of section 18(c) of Public Law 109–304 (46 U.S.C. note prec. 101).
 
-## § 7103. Decision by contracting officer
+## § 7103. Decision by contracting officer
 
 **(a) Claims Generally.—**
 
@@ -178,34 +178,34 @@ In subsection (d), the words “chapter 309 or 311 of title 46” are substitute
 
 **(B) Contractor.—** A contractor that rejects an agency’s request for alternative dispute resolution proceedings shall inform the agency in writing of the contractor’s specific reasons for rejecting the request.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3817.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3817.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7103(a)(1) | 41:605(a) (1st sentence related to submission). | Pub. L. 95–563, §§ 5, 6(a) (1st, 2d, 5th–last sentences), (b), (c)(3), (5), Nov. 1, 1978, 92 Stat. 2384, 2385. |
+| 7103(a)(1) | 41:605(a) (1st sentence related to submission). | Pub. L. 95–563, §§ 5, 6(a) (1st, 2d, 5th–last sentences), (b), (c)(3), (5), Nov. 1, 1978, 92 Stat. 2384, 2385. |
 | 7103(a)(2) | 41:605(a) (1st sentence related to writing requirement). |  |
 | 7103(a)(3) | 41:605(a) (2d sentence). |  |
-| 7103(a)(4)(A) | 41:605(a) (3d sentence). | Pub. L. 95–563, § 6(a) (3d, 4th sentences), Nov. 1, 1978, as added Pub. L. 103–355, title II, § 2351(a)(1), Oct. 13, 1994, 108 Stat. 3322, amended Pub. L. 104–106, div. D, title XLIII, § 4321(a)(6), Feb. 10, 1996, 110 Stat. 671. |
+| 7103(a)(4)(A) | 41:605(a) (3d sentence). | Pub. L. 95–563, § 6(a) (3d, 4th sentences), Nov. 1, 1978, as added Pub. L. 103–355, title II, § 2351(a)(1), Oct. 13, 1994, 108 Stat. 3322, amended Pub. L. 104–106, div. D, title XLIII, § 4321(a)(6), Feb. 10, 1996, 110 Stat. 671. |
 | 7103(a)(4)(B) | 41:605(a) (4th sentence). |  |
 | 7103(a)(5) | 41:605(a) (8th sentence). |  |
-| 7103(b)(1) | 41:605(c)(1) (last sentence). | Pub. L. 95–563, § 6(c)(1) (last sentence), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 102–572, title IX, § 907(a)(1)(A), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, § 2351(b), Oct. 13, 1994, 108 Stat. 3322. |
-| 7103(b)(2) | 41:605(c)(7). | Pub. L. 95–563, § 6(c)(6), (7), as added Pub. L. 102–572, title IX, § 907(a)(1)(B), Oct. 29, 1992, 106 Stat. 4518. |
+| 7103(b)(1) | 41:605(c)(1) (last sentence). | Pub. L. 95–563, § 6(c)(1) (last sentence), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 102–572, title IX, § 907(a)(1)(A), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, § 2351(b), Oct. 13, 1994, 108 Stat. 3322. |
+| 7103(b)(2) | 41:605(c)(7). | Pub. L. 95–563, § 6(c)(6), (7), as added Pub. L. 102–572, title IX, § 907(a)(1)(B), Oct. 29, 1992, 106 Stat. 4518. |
 | 7103(b)(3) | 41:605(c)(6). |  |
 | 7103(c)(1) | 41:605(a) (last sentence). |  |
 | 7103(c)(2) | 41:604. |  |
 | 7103(d) | 41:605(a) (5th sentence). |  |
 | 7103(e) | 41:605(a) (6th, 7th sentences). |  |
-| 7103(f)(1) | 41:605(c)(1) (1st sentence). | Pub. L. 95–563, § 6(c)(1) (1st sentence), (2), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 103–355, title II, § 2351(b), Oct. 13, 1994, 108 Stat. 3322. |
+| 7103(f)(1) | 41:605(c)(1) (1st sentence). | Pub. L. 95–563, § 6(c)(1) (1st sentence), (2), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 103–355, title II, § 2351(b), Oct. 13, 1994, 108 Stat. 3322. |
 | 7103(f)(2) | 41:605(c)(2). |  |
 | 7103(f)(3) | 41:605(c)(3). |  |
-| 7103(f)(4) | 41:605(c)(4). | Pub. L. 95–563, § 6(c)(4), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 103–355, title II, § 2351(e), Oct. 13, 1994, 108 Stat. 3322. |
+| 7103(f)(4) | 41:605(c)(4). | Pub. L. 95–563, § 6(c)(4), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 103–355, title II, § 2351(e), Oct. 13, 1994, 108 Stat. 3322. |
 | 7103(f)(5) | 41:605(c)(5). |  |
 | 7103(g) | 41:605(b). |  |
-| 7103(h)(1) | 41:605(d) (1st, last sentences). | Pub. L. 95–563, § 6(d) (1st, last sentences), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2745, 2746; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(6), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–85, div. A, title X, § 1073(g)(3), Nov. 18, 1997, 111 Stat. 1906. |
-| 7103(h)(2) | 41:605(d) (2d sentence). | Pub. L. 95–563, § 6(d) (2d sentence), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 104–320, § 6(1), Oct. 19, 1996, 110 Stat. 3871. |
-| 7103(h)(3)(A) | 41:605(e) (1st sentence). | Pub. L. 95–563, § 6(e), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 103–355, title II, § 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§ 4321(a)(7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, § 6(2), Oct. 19, 1996, 110 Stat. 3871; Pub. L. 105–85, div. A, title X, § 1073(g)(3), Nov. 18, 1997, 111 Stat. 1906. |
+| 7103(h)(1) | 41:605(d) (1st, last sentences). | Pub. L. 95–563, § 6(d) (1st, last sentences), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2745, 2746; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(6), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–85, div. A, title X, § 1073(g)(3), Nov. 18, 1997, 111 Stat. 1906. |
+| 7103(h)(2) | 41:605(d) (2d sentence). | Pub. L. 95–563, § 6(d) (2d sentence), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 104–320, § 6(1), Oct. 19, 1996, 110 Stat. 3871. |
+| 7103(h)(3)(A) | 41:605(e) (1st sentence). | Pub. L. 95–563, § 6(e), as added Pub. L. 101–552, § 6(a), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 103–355, title II, § 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§ 4321(a)(7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, § 6(2), Oct. 19, 1996, 110 Stat. 3871; Pub. L. 105–85, div. A, title X, § 1073(g)(3), Nov. 18, 1997, 111 Stat. 1906. |
 | 7103(h)(3)(B) | 41:605(e) (last sentence). |  |
 
 In subsection (b)(1)(D) and (2), the word “duly” is omitted as unnecessary.
@@ -216,7 +216,7 @@ In subsection (c)(2), the words “this subsection”, which appear in section 5
 
 In subsection (f)(5), the words “the commencement of” are omitted as unnecessary. The words “of the appeal or action” are substituted for “in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer” to eliminate unnecessary words.
 
-## § 7104. Contractor’s right of appeal from decision by contracting officer
+## § 7104. Contractor’s right of appeal from decision by contracting officer
 
 **(a) Appeal to Agency Board.—** A contractor, within 90 days from the date of receipt of a contracting officer’s decision under section 7103 of this title, may appeal the decision to an agency board as provided in section 7105 of this title.
 
@@ -230,20 +230,20 @@ In subsection (f)(5), the words “the commencement of” are omitted as unneces
 
 **(4) De novo.—** An action under paragraph (1) or (2) shall proceed de novo in accordance with the rules of the appropriate court.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3820.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3820.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7104(a) | 41:606. | Pub. L. 95–563, § 7, Nov. 1, 1978, 92 Stat. 2385. |
-| 7104(b) | 41:609(a). | Pub. L. 95–563, § 10(a), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 161(10), Apr. 2, 1982, 96 Stat. 49. |
+| 7104(a) | 41:606. | Pub. L. 95–563, § 7, Nov. 1, 1978, 92 Stat. 2385. |
+| 7104(b) | 41:609(a). | Pub. L. 95–563, § 10(a), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 161(10), Apr. 2, 1982, 96 Stat. 49. |
 
 In subsection (a), the words “of contract appeals” are omitted as unnecessary because of the definition of “agency board” in section 7101 of the revised title.
 
 In subsection (b)(1), the words “United States Court of Federal Claims” are substituted for “United States Claims Court” because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Pub. L. 102–572, 106 Stat. 4516, 28 U.S.C. 171 note).
 
-## § 7105. Agency boards
+## § 7105. Agency boards
 
 **(a) Armed Services Board.—**
 
@@ -317,26 +317,26 @@ In subsection (b)(1), the words “United States Court of Federal Claims” are 
 
 **(3)** mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3820; Pub. L. 111–259, title IV, § 422, Oct. 7, 2010, 124 Stat. 2727; Pub. L. 111–383, div. A, title X, § 1075(*o*), Jan. 7, 2011, 124 Stat. 4378; Pub. L. 118–159, div. E, title LII, § 5203(g)(2), Dec. 23, 2024, 138 Stat. 2442.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3820; Pub. L. 111–259, title IV, § 422, Oct. 7, 2010, 124 Stat. 2727; Pub. L. 111–383, div. A, title X, § 1075(*o*), Jan. 7, 2011, 124 Stat. 4378; Pub. L. 118–159, div. E, title LII, § 5203(g)(2), Dec. 23, 2024, 138 Stat. 2442.)
 
 **Amendments Not Shown in Text**
 
-Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, § 1075(*o*), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, § 422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking “(41 U.S.C. 607(b))” and inserting “(41 U.S.C. 607(d))” and in subsec. (c)(2)(A) by inserting “of 1978” after “Contract Disputes Act”. Section 607(d) of former Title 41 was amended by adding at the end “Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal.”
+Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, § 1075(*o*), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, § 422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking “(41 U.S.C. 607(b))” and inserting “(41 U.S.C. 607(d))” and in subsec. (c)(2)(A) by inserting “of 1978” after “Contract Disputes Act”. Section 607(d) of former Title 41 was amended by adding at the end “Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal.”
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7105(a) | 41:607(a)(1), (b)(1). | Pub. L. 95–563, § 8(a)(1), (b)(1), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(4)], Nov. 5, 1990, 104 Stat. 1447; Pub. L. 109–163, div. A, title VIII, § 847(d)(3), Jan. 6, 2006, 119 Stat. 3394. |
-| 7105(b) | 41:438. | Pub. L. 93–400, § 42, as added Pub. L. 109–163, div. A, title VIII, § 847(a), Jan. 6, 2006, 119 Stat. 3391. |
-| 7105(c) | 41:607(a)(2), (b)(2). | Pub. L. 95–563, § 8(a)(2), (b)(2), Nov. 1, 1978, 92 Stat. 2385, 2386. |
-| 7105(d) | 41:607(c) (1st, 3d, last sentences). | Pub. L. 95–563, § 8(c), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(B), Jan. 6, 2006, 119 Stat. 3394. |
-| 7105(e)(1) (A), (B) | 41:607(d) (1st, 2d sentences). | Pub. L. 95–563, § 8(d), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 97–164, title I, § 160(a)(15), Apr. 2, 1982, 96 Stat. 48; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(A), Jan. 6, 2006, 119 Stat. 3393. |
+| 7105(a) | 41:607(a)(1), (b)(1). | Pub. L. 95–563, § 8(a)(1), (b)(1), Nov. 1, 1978, 92 Stat. 2385; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(4)], Nov. 5, 1990, 104 Stat. 1447; Pub. L. 109–163, div. A, title VIII, § 847(d)(3), Jan. 6, 2006, 119 Stat. 3394. |
+| 7105(b) | 41:438. | Pub. L. 93–400, § 42, as added Pub. L. 109–163, div. A, title VIII, § 847(a), Jan. 6, 2006, 119 Stat. 3391. |
+| 7105(c) | 41:607(a)(2), (b)(2). | Pub. L. 95–563, § 8(a)(2), (b)(2), Nov. 1, 1978, 92 Stat. 2385, 2386. |
+| 7105(d) | 41:607(c) (1st, 3d, last sentences). | Pub. L. 95–563, § 8(c), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(B), Jan. 6, 2006, 119 Stat. 3394. |
+| 7105(e)(1) (A), (B) | 41:607(d) (1st, 2d sentences). | Pub. L. 95–563, § 8(d), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 97–164, title I, § 160(a)(15), Apr. 2, 1982, 96 Stat. 48; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(A), Jan. 6, 2006, 119 Stat. 3393. |
 | 7105(e)(1)(C) | 41:607(c) (2d sentence). |  |
 | 7105(e)(1)(D) | 41:607(d) (3d sentence). |  |
 | 7105(e)(2) | 41:607(d) (last sentence). |  |
-| 7105(f) | 41:610. | Pub. L. 95–563, § 11, Nov. 1, 1978, 92 Stat. 2388. |
-| 7105(g) | 41:607(e). | Pub. L. 95–563, § 8(e), Nov. 1, 1978, 92 Stat. 2386. |
+| 7105(f) | 41:610. | Pub. L. 95–563, § 11, Nov. 1, 1978, 92 Stat. 2388. |
+| 7105(g) | 41:607(e). | Pub. L. 95–563, § 8(e), Nov. 1, 1978, 92 Stat. 2386. |
 
 In subsection (a)(2), the words “administrative law judges” are substituted for “hearing examiners” because of section 3 of Public Law 95–251 (5 U.S.C. 3105 note). The words “Full-time members of agency boards serving as such on the effective date of this chapter shall be considered qualified” are omitted as obsolete.
 
@@ -348,17 +348,17 @@ In subsection (e)(1)(B) and (C), the words “Postal Regulatory Commission” ar
 
 **References in Text**
 
-Section 8 of the Contract Disputes Act, referred to in subsec. (b)(4)(B)(i), probably means section 8 of Pub. L. 95–563, the Contract Disputes Act of 1978, which was classified to former section 607 of this title prior to being repealed and reenacted as subsecs. (a), (c) to (e), and (g) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 8 of the Contract Disputes Act, referred to in subsec. (b)(4)(B)(i), probably means section 8 of Pub. L. 95–563, the Contract Disputes Act of 1978, which was classified to former section 607 of this title prior to being repealed and reenacted as subsecs. (a), (c) to (e), and (g) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-Administrative False Claims Act, referred to in subsec. (e)(1)(E), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
+Administrative False Claims Act, referred to in subsec. (e)(1)(E), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
 **Amendments**
 
-2024—Subsec. (e)(1)(E). Pub. L. 118–159, § 5203(g)(2)(A), added subpar. (E).
+2024—Subsec. (e)(1)(E). Pub. L. 118–159, § 5203(g)(2)(A), added subpar. (E).
 
-Subsec. (e)(2). Pub. L. 118–159, § 5203(g)(2)(B), inserted before period at end “or, in the event that a case is filed under chapter 38 of title 31, any relief that would be available to a litigant under that chapter”.
+Subsec. (e)(2). Pub. L. 118–159, § 5203(g)(2)(B), inserted before period at end “or, in the event that a case is filed under chapter 38 of title 31, any relief that would be available to a litigant under that chapter”.
 
-## § 7106. Agency board procedures for accelerated and small claims
+## § 7106. Agency board procedures for accelerated and small claims
 
 **(a) Accelerated Procedure Where $100,000 or Less in Dispute.—** The rules of each agency board shall include a procedure for the accelerated disposition of any appeal from a decision of a contracting officer where the amount in dispute is $100,000 or less. The accelerated procedure is applicable at the sole election of the contractor. An appeal under the accelerated procedure shall be resolved, whenever possible, within 180 days from the date the contractor elects to use the procedure.
 
@@ -376,14 +376,14 @@ Subsec. (e)(2). Pub. L. 118–159, § 5203(g)(2)(B), inserted before period at
 
 **(6) Review of requisite amounts in controversy.—** The Administrator, from time to time, may review the dollar amounts specified in paragraph (1) and adjust the amounts in accordance with economic indexes selected by the Administrator.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3823.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3823.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7106(a) | 41:607(f). | Pub. L. 95–563, § 8(f), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 103–355, title II, § 2351(c), Oct. 13, 1994, 108 Stat. 3322. |
-| 7106(b) | 41:608. | Pub. L. 95–563, § 9, Nov. 1, 1978, 92 Stat. 2387; Pub. L. 103–355, title II, § 2351(d), Oct. 13, 1994, 108 Stat 3322; Pub. L. 109–364, div. A, title VIII, § 857, Oct. 17, 2006, 120 Stat. 2349. |
+| 7106(a) | 41:607(f). | Pub. L. 95–563, § 8(f), Nov. 1, 1978, 92 Stat. 2386; Pub. L. 103–355, title II, § 2351(c), Oct. 13, 1994, 108 Stat. 3322. |
+| 7106(b) | 41:608. | Pub. L. 95–563, § 9, Nov. 1, 1978, 92 Stat. 2387; Pub. L. 103–355, title II, § 2351(d), Oct. 13, 1994, 108 Stat 3322; Pub. L. 109–364, div. A, title VIII, § 857, Oct. 17, 2006, 120 Stat. 2349. |
 
 In subsection (a), the word “only” is omitted for consistency with a similar provision in 41:608(a) and because the word “only” is redundant with the word “sole”.
 
@@ -391,9 +391,9 @@ In subsection (b)(6), the words “from time to time, may review” are substitu
 
 **Senate Revision Amendment**
 
-In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
+In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
-## § 7107. Judicial review of agency board decisions
+## § 7107. Judicial review of agency board decisions
 
 **(a) Review.—**
 
@@ -439,18 +439,18 @@ In subsec. (b)(6), “amounts” substituted for “amount” in heading and “
 
 **(4) Timely response.—** After receiving a request for an advisory opinion under paragraph (1), an agency board shall provide the advisory opinion in a timely manner to the district court making the request.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3824.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3824.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7107(a) | 41:607(g). | Pub. L. 95–563, § 8(g), Nov. 1, 1978, 92 Stat. 2387; Pub. L. 97–164, title I, § 156, Apr. 2, 1982, 96 Stat. 47; Pub. L. 101–552, § 6(b), Nov. 15, 1990, 104 Stat. 2746. |
-| 7107(b) | 41:609(b). | Pub. L. 95–563, § 10(b), (e), Nov. 1, 1978, 92 Stat. 2388. |
-| 7107(c) | 41:609(c). | Pub. L. 95–563, § 10(c), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 157, Apr. 2, 1982, 96 Stat. 47. |
-| 7107(d) | 41:609(d). | Pub. L. 95–563, § 10(d), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 160(a)(15), Apr. 2, 1982, 96 Stat. 48. |
+| 7107(a) | 41:607(g). | Pub. L. 95–563, § 8(g), Nov. 1, 1978, 92 Stat. 2387; Pub. L. 97–164, title I, § 156, Apr. 2, 1982, 96 Stat. 47; Pub. L. 101–552, § 6(b), Nov. 15, 1990, 104 Stat. 2746. |
+| 7107(b) | 41:609(b). | Pub. L. 95–563, § 10(b), (e), Nov. 1, 1978, 92 Stat. 2388. |
+| 7107(c) | 41:609(c). | Pub. L. 95–563, § 10(c), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 157, Apr. 2, 1982, 96 Stat. 47. |
+| 7107(d) | 41:609(d). | Pub. L. 95–563, § 10(d), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, title I, § 160(a)(15), Apr. 2, 1982, 96 Stat. 48. |
 | 7107(e) | 41:609(e). |  |
-| 7107(f) | 41:609(f). | Pub. L. 95–563, § 10(f), as added Pub. L. 103–355, title II, § 2354, Oct. 13, 1994, 108 Stat. 3323. |
+| 7107(f) | 41:609(f). | Pub. L. 95–563, § 10(f), as added Pub. L. 103–355, title II, § 2354, Oct. 13, 1994, 108 Stat. 3323. |
 
 In subsection (a)(1)(B), the words “may transmit” are substituted for “transmits” to correct the grammatical structure of the provision in accordance with the probable intent of Congress. The words “the decision” are substituted for “the decision of the board of contract appeals” and for “the board’s decision” to eliminate unnecessary words and for consistency with 41:607(g)(1)(A).
 
@@ -462,7 +462,7 @@ In subsection (f)(1), (3), and (4), the words “agency board” are substituted
 
 In subsection (f)(1), the words “under consideration” are substituted for “at issue” to avoid potential confusion with the words “issue described in paragraph (2)”.
 
-## § 7108. Payment of claims
+## § 7108. Payment of claims
 
 **(a) Judgments.—** Any judgment against the Federal Government on a claim under this chapter shall be paid promptly in accordance with the procedures provided by section 1304 of title 31.
 
@@ -476,15 +476,15 @@ In subsection (f)(1), the words “under consideration” are substituted for �
 
 **(2) Monetary awards.—** Notwithstanding subsections (a) to (c), any monetary award to a contractor by the board of contract appeals of the Tennessee Valley Authority shall be paid in accordance with section 9(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831h(b)).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3825.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3825.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7108 | 41:612. | Pub. L. 95–563, § 13, Nov. 1, 1978, 92 Stat. 2389; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(7), Feb. 10, 1996, 110 Stat. 677. |
+| 7108 | 41:612. | Pub. L. 95–563, § 13, Nov. 1, 1978, 92 Stat. 2389; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(7), Feb. 10, 1996, 110 Stat. 677. |
 
-## § 7109. Interest
+## § 7109. Interest
 
 **(a) Period.—**
 
@@ -494,14 +494,14 @@ In subsection (f)(1), the words “under consideration” are substituted for �
 
 **(b) Rate.—** Interest shall accrue and be paid at a rate which the Secretary of the Treasury shall specify as applicable for each successive 6-month period. The rate shall be determined by the Secretary of the Treasury taking into consideration current private commercial rates of interest for new loans maturing in approximately 5 years.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3825.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3825.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7109(a)(1) | 41:611 (1st sentence). | Pub. L. 95–563, § 12, Nov. 1, 1978, 92 Stat. 2389. |
-| 7109(a)(2) | 41:611 note. | Pub. L. 102–572, title IX, § 907(a)(3), Oct. 29, 1992, 106 Stat. 4518. |
+| 7109(a)(1) | 41:611 (1st sentence). | Pub. L. 95–563, § 12, Nov. 1, 1978, 92 Stat. 2389. |
+| 7109(a)(2) | 41:611 note. | Pub. L. 102–572, title IX, § 907(a)(3), Oct. 29, 1992, 106 Stat. 4518. |
 | 7109(b) | 41:611 (last sentence). |  |
 
 In subsection (a)(2), the words “on or after the date of the enactment of this Act”, “the later of”, and “or the date of the enactment of this Act” are omitted as obsolete.

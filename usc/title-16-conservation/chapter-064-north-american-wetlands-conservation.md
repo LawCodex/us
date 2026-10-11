@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 64—NORTH AMERICAN WETLANDS CONSERVATION
 
-## § 4401. Findings and statement of purpose
+## § 4401. Findings and statement of purpose
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -57,55 +57,55 @@ retrieved: 2026-10-11
 
 **(3)** to sustain an abundance of waterfowl and other wetland associated migratory birds consistent with the goals of the North American Waterfowl Management Plan, the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans, and the international obligations contained in the migratory bird treaties and conventions and other agreements with Canada, Mexico, and other countries.
 
-(Pub. L. 101–233, § 2, Dec. 13, 1989, 103 Stat. 1968; Pub. L. 107–308, §§ 3, 8(a)(1), (2), Dec. 2, 2002, 116 Stat. 2446, 2447.)
+(Pub. L. 101–233, § 2, Dec. 13, 1989, 103 Stat. 1968; Pub. L. 107–308, §§ 3, 8(a)(1), (2), Dec. 2, 2002, 116 Stat. 2446, 2447.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Amendments**
 
-2002—Subsec. (a)(1). Pub. L. 107–308, § 3(a), substituted “and associated habitats” for “and other habitats”.
+2002—Subsec. (a)(1). Pub. L. 107–308, § 3(a), substituted “and associated habitats” for “and other habitats”.
 
-Subsec. (a)(10). Pub. L. 107–308, § 8(a)(1), inserted “of 1973” after “Endangered Species Act”.
+Subsec. (a)(10). Pub. L. 107–308, § 8(a)(1), inserted “of 1973” after “Endangered Species Act”.
 
-Subsec. (a)(12). Pub. L. 107–308, § 8(a)(2), inserted “and in 1994 by the Secretary of Sedesol for Mexico” after “United States”.
+Subsec. (a)(12). Pub. L. 107–308, § 8(a)(2), inserted “and in 1994 by the Secretary of Sedesol for Mexico” after “United States”.
 
-Subsec. (b)(1). Pub. L. 107–308, § 3(b)(1), substituted “and habitats associated with wetland ecosystems” for “and other habitats for migratory birds”.
+Subsec. (b)(1). Pub. L. 107–308, § 3(b)(1), substituted “and habitats associated with wetland ecosystems” for “and other habitats for migratory birds”.
 
-Subsec. (b)(2). Pub. L. 107–308, § 3(b)(2), inserted “wetland associated” before “migratory bird”.
+Subsec. (b)(2). Pub. L. 107–308, § 3(b)(2), inserted “wetland associated” before “migratory bird”.
 
-Subsec. (b)(3). Pub. L. 107–308, § 3(b)(3), inserted “wetland associated” before “migratory birds” and “, the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans,” after “North American Waterfowl Management Plan”.
+Subsec. (b)(3). Pub. L. 107–308, § 3(b)(3), inserted “wetland associated” before “migratory birds” and “, the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans,” after “North American Waterfowl Management Plan”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–322, § 1, Oct. 11, 2006, 120 Stat. 1756, provided that: “This Act [amending section 4406 of this title] may be cited as the ‘North American Wetlands Conservation Reauthorization Act of 2006’.”
+Pub. L. 109–322, § 1, Oct. 11, 2006, 120 Stat. 1756, provided that: “This Act [amending section 4406 of this title] may be cited as the ‘North American Wetlands Conservation Reauthorization Act of 2006’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–308, § 1, Dec. 2, 2002, 116 Stat. 2446, provided that: “This Act [amending this section and sections 4402 to 4404, 4406, 4407, 4409, and 4413 of this title, enacting provisions set out as a note under section 4403 of this title, and amending provisions set out as a note under section 461 of this title] may be cited as the ‘North American Wetlands Conservation Reauthorization Act’.”
+Pub. L. 107–308, § 1, Dec. 2, 2002, 116 Stat. 2446, provided that: “This Act [amending this section and sections 4402 to 4404, 4406, 4407, 4409, and 4413 of this title, enacting provisions set out as a note under section 4403 of this title, and amending provisions set out as a note under section 461 of this title] may be cited as the ‘North American Wetlands Conservation Reauthorization Act’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–312, title III, § 301, Oct. 30, 1998, 112 Stat. 2958, provided that: “This title [amending sections 3744 and 4406 of this title and enacting provisions set out as a note under section 4403 of this title] may be cited as the ‘Wetlands and Wildlife Enhancement Act of 1998’.”
+Pub. L. 105–312, title III, § 301, Oct. 30, 1998, 112 Stat. 2958, provided that: “This title [amending sections 3744 and 4406 of this title and enacting provisions set out as a note under section 4403 of this title] may be cited as the ‘Wetlands and Wildlife Enhancement Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–375, § 1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act [enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409, and 4410 of this title] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”
+Pub. L. 103–375, § 1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act [enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409, and 4410 of this title] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”
 
 **Short Title**
 
-Pub. L. 101–233, § 1, Dec. 13, 1989, 103 Stat. 1968, provided that: “This Act [enacting this chapter, amending sections 669b, 669c, 703, 715a, 2912, and 3931 of this title, enacting provisions set out as a note under section 669b of this title, and amending provisions set out as a note under section 668dd of this title] may be cited as the ‘North American Wetlands Conservation Act’.”
+Pub. L. 101–233, § 1, Dec. 13, 1989, 103 Stat. 1968, provided that: “This Act [enacting this chapter, amending sections 669b, 669c, 703, 715a, 2912, and 3931 of this title, enacting provisions set out as a note under section 669b of this title, and amending provisions set out as a note under section 668dd of this title] may be cited as the ‘North American Wetlands Conservation Act’.”
 
-## § 4402. Definitions
+## § 4402. Definitions
 
 For the purposes of this chapter:
 
@@ -133,29 +133,29 @@ For the purposes of this chapter:
 
 **(C)** in the case of projects undertaken in Mexico, includes technical training and development of infrastructure necessary for the conservation and management of wetlands and studies on the sustainable use of wetland resources.
 
-(Pub. L. 101–233, § 3, Dec. 13, 1989, 103 Stat. 1969; Pub. L. 107–308, §§ 4, 8(a)(3)–(5), Dec. 2, 2002, 116 Stat. 2446, 2447.)
+(Pub. L. 101–233, § 3, Dec. 13, 1989, 103 Stat. 1969; Pub. L. 107–308, §§ 4, 8(a)(3)–(5), Dec. 2, 2002, 116 Stat. 2446, 2447.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 **Amendments**
 
-2002—Par. (2). Pub. L. 107–308, § 8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
+2002—Par. (2). Pub. L. 107–308, § 8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
 
-Par. (5). Pub. L. 107–308, § 8(a)(4), inserted “of 1973” after “Endangered Species Act”.
+Par. (5). Pub. L. 107–308, § 8(a)(4), inserted “of 1973” after “Endangered Species Act”.
 
-Par. (6). Pub. L. 107–308, § 8(a)(5), inserted “, and by the Secretary of Sedesol for Mexico in 1994, and subsequent dates” after “1986”.
+Par. (6). Pub. L. 107–308, § 8(a)(5), inserted “, and by the Secretary of Sedesol for Mexico in 1994, and subsequent dates” after “1986”.
 
-Par. (9)(A). Pub. L. 107–308, § 4(1), inserted “of a wetland ecosystem and associated habitat” after “including water rights,”.
+Par. (9)(A). Pub. L. 107–308, § 4(1), inserted “of a wetland ecosystem and associated habitat” after “including water rights,”.
 
-Par. (9)(B). Pub. L. 107–308, § 4(2), substituted “and associated habitat” for “and other habitat”.
+Par. (9)(B). Pub. L. 107–308, § 4(2), substituted “and associated habitat” for “and other habitat”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -163,7 +163,7 @@ Par. (9)(B). Pub. L. 107–308, § 4(2), substituted “and associated habitat
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 4403. Establishment of North American Wetlands Conservation Council
+## § 4403. Establishment of North American Wetlands Conservation Council
 
 **(a) Council membership**
 
@@ -223,13 +223,13 @@ The Council shall meet at the call of the Chairman at least once a year. Council
 
 **(3)** who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
 
-(Pub. L. 101–233, § 4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, § 112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, § 8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448; Pub. L. 116–188, title I, § 107(a)(2), Oct. 30, 2020, 134 Stat. 917; Pub. L. 117–286, § 4(a)(122), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 101–233, § 4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, § 112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, § 8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448; Pub. L. 116–188, title I, § 107(a)(2), Oct. 30, 2020, 134 Stat. 917; Pub. L. 117–286, § 4(a)(122), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -237,27 +237,27 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A),
 
 2020—Subsec. (a)(1)(B). Pub. L. 116–188 substituted “Executive Director of the Board” for “Secretary of the Board”.
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–308, § 8(b)(1), amended directory language of Pub. L. 101–593, § 112(1). See 1990 Amendment note below.
+2002—Subsec. (a)(1)(A). Pub. L. 107–308, § 8(b)(1), amended directory language of Pub. L. 101–593, § 112(1). See 1990 Amendment note below.
 
-Subsec. (a)(1)(B). Pub. L. 107–308, § 8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
+Subsec. (a)(1)(B). Pub. L. 107–308, § 8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
 
-Subsec. (c). Pub. L. 107–308, § 8(a)(7), substituted “Council” for “Commission” in introductory provisions.
+Subsec. (c). Pub. L. 107–308, § 8(a)(7), substituted “Council” for “Commission” in introductory provisions.
 
-1990—Subsec. (a)(1). Pub. L. 101–593, § 112(2), inserted sentence at end relating to Public Law 92–463.
+1990—Subsec. (a)(1). Pub. L. 101–593, § 112(2), inserted sentence at end relating to Public Law 92–463.
 
-Subsec. (a)(1)(A). Pub. L. 101–593, § 112(1), as amended by Pub. L. 107–308, § 8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” after “Service”.
+Subsec. (a)(1)(A). Pub. L. 101–593, § 112(1), as amended by Pub. L. 107–308, § 8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” after “Service”.
 
-Subsec. (f). Pub. L. 101–593, § 112(3), inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
+Subsec. (f). Pub. L. 101–593, § 112(3), inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–308, § 8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: “Paragraph (1) of this subsection [amending this section] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) [Nov. 16, 1990].”
+Pub. L. 107–308, § 8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: “Paragraph (1) of this subsection [amending this section] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) [Nov. 16, 1990].”
 
 **Membership of North American Wetlands Conservation Council**
 
-Pub. L. 105–312, title III, § 304, Oct. 30, 1998, 112 Stat. 2958, provided that:
+Pub. L. 105–312, title III, § 304, Oct. 30, 1998, 112 Stat. 2958, provided that:
 
 > **“(a) In General.—** Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
 
@@ -267,7 +267,7 @@ Pub. L. 105–312, title III, § 304, Oct. 30, 1998, 112 Stat. 2958, provided 
 
 > **“(b) Publication of Policy.—** Not later than June 30, 1999, the Secretary of the Interior shall publish in the Federal Register, after notice and opportunity for public comment, a policy for making appointments under section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)).”
 
-## § 4404. Approval of wetlands conservation projects
+## § 4404. Approval of wetlands conservation projects
 
 **(a) Consideration by Council** The Council shall recommend wetlands conservation projects to the Migratory Bird Conservation Commission based on consideration of—
 
@@ -297,9 +297,9 @@ The Council shall submit to the Migratory Bird Conservation Commission each year
 
 **(d) Council representation on Migratory Bird Conservation Commission**
 
-The Chairman of the Council shall select 2 Council members of the 1
+The Chairman of the Council shall select 2 Council members of the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 United States citizenship to serve with the Chairman as ex officio members of the Migratory Bird Conservation Commission for the purposes of considering and voting upon wetlands conservation projects recommended by the Council.
 
@@ -311,25 +311,25 @@ The Migratory Bird Conservation Commission, along with the two members of the Co
 
 The Migratory Bird Conservation Commission shall submit annually to the appropriate Committees a report including a list and description of the wetlands conservation projects approved by the Migratory Bird Conservation Commission for Federal funding under subsection (e) of this section in order of priority; the amounts and sources of Federal and non-Federal funding for such projects; a justification for the approval of such projects and the order of priority for funding such projects; a list and description of the wetlands conservation projects which the Council recommended, in order of priority that the Migratory Bird Conservation Commission approve for Federal funding; and a justification for any rejection or re-ordering of the priority of wetlands conservation projects recommended by the Council that was based on factors other than the criteria of subsection (a) of this section.
 
-(Pub. L. 101–233, § 5, Dec. 13, 1989, 103 Stat. 1972; Pub. L. 101–593, title I, § 112(4), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, § 8(a)(8)–(11), Dec. 2, 2002, 116 Stat. 2448.)
+(Pub. L. 101–233, § 5, Dec. 13, 1989, 103 Stat. 1972; Pub. L. 101–593, title I, § 112(4), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, § 8(a)(8)–(11), Dec. 2, 2002, 116 Stat. 2448.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2002—Subsec. (a)(5). Pub. L. 107–308, § 8(a)(8), inserted “of 1973” after “Endangered Species Act”.
+2002—Subsec. (a)(5). Pub. L. 107–308, § 8(a)(8), inserted “of 1973” after “Endangered Species Act”.
 
-Subsec. (b). Pub. L. 107–308, § 8(a)(9), substituted “each year” for “by January 1 of each year,”.
+Subsec. (b). Pub. L. 107–308, § 8(a)(9), substituted “each year” for “by January 1 of each year,”.
 
-Subsec. (d). Pub. L. 107–308, § 8(a)(10), substituted “2 Council members” for “one Council member”.
+Subsec. (d). Pub. L. 107–308, § 8(a)(10), substituted “2 Council members” for “one Council member”.
 
-Subsec. (f). Pub. L. 107–308, § 8(a)(11), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f). Pub. L. 107–308, § 8(a)(11), substituted “subsection (e)” for “subsection (d)”.
 
 1990—Subsec. (b). Pub. L. 101–593 inserted at end “Solely for the purpose of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), recommendations by the Council for carrying out wetlands conservation projects under section 4405(a) of this title shall be considered Federal actions requiring the preparation of environmental assessments or, where appropriate, environmental impact statements.”
 
@@ -337,9 +337,9 @@ Subsec. (f). Pub. L. 107–308, § 8(a)(11), substituted “subsection (e)” 
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 5th item on page 177 identifies a reporting provision which, as subsequently amended, is contained in subsec. (f) of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 5th item on page 177 identifies a reporting provision which, as subsequently amended, is contained in subsec. (f) of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
-## § 4405. Conditions relating to wetlands conservation projects
+## § 4405. Conditions relating to wetlands conservation projects
 
 **(a) Projects in United States**
 
@@ -353,9 +353,9 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Subject to the allocation requirements of section 4407(a)(1) of this title and the limitations on Federal contributions under section 4407(b) of this title, the Secretary shall grant or otherwise provide the Federal funds made available under this chapter and section 669b(b) of this title to public agencies and other entities for the purpose of assisting such entities and individuals in carrying out wetlands conservation projects in Canada or Mexico that have been approved by the Migratory Bird Conservation Commission: *Provided*, That the grant recipient shall have been so identified in the project description accompanying the recommendation from the Council and approved by the Migratory Bird Conservation Commission. The Secretary may only grant or otherwise provide Federal funds if the grant is subject to the terms and conditions that will ensure that any real property interest acquired in whole or in part, or enhanced, managed, or restored with such Federal funds will be administered for the long-term conservation and management of such wetland ecosystem and the fish and wildlife dependent thereon. Real property and interests in real property acquired pursuant to this subsection shall not become part of the National Wildlife Refuge System. Acquisitions of real property and interests in real property carried out pursuant to this subsection shall not be subject to any provision of Federal law governing acquisitions of property for inclusion in the National Wildlife Refuge System.
 
-(Pub. L. 101–233, § 6, Dec. 13, 1989, 103 Stat. 1973.)
+(Pub. L. 101–233, § 6, Dec. 13, 1989, 103 Stat. 1973.)
 
-## § 4406. Amounts available to carry out this chapter
+## § 4406. Amounts available to carry out this chapter
 
 **(a) Omitted**
 
@@ -371,7 +371,7 @@ In addition to the amounts made available under subsections (a) and (b) of this 
 
 Sums made available under this section shall be available until expended.
 
-(Pub. L. 101–233, § 7, Dec. 13, 1989, 103 Stat. 1974; Pub. L. 103–375, § 4, Oct. 19, 1994, 108 Stat. 3495; Pub. L. 105–312, title III, § 302, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(i)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; Pub. L. 107–308, § 5, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 109–322, § 2, Oct. 11, 2006, 120 Stat. 1756; Pub. L. 116–188, title I, § 106, Oct. 30, 2020, 134 Stat. 917; Pub. L. 118–198, title I, § 105, Dec. 23, 2024, 138 Stat. 2680.)
+(Pub. L. 101–233, § 7, Dec. 13, 1989, 103 Stat. 1974; Pub. L. 103–375, § 4, Oct. 19, 1994, 108 Stat. 3495; Pub. L. 105–312, title III, § 302, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 106–553, § 1(a)(2) [title IX, § 902(i)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; Pub. L. 107–308, § 5, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 109–322, § 2, Oct. 11, 2006, 120 Stat. 1756; Pub. L. 116–188, title I, § 106, Oct. 30, 2020, 134 Stat. 917; Pub. L. 118–198, title I, § 105, Dec. 23, 2024, 138 Stat. 2680.)
 
 **Editorial Notes**
 
@@ -395,7 +395,7 @@ Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7
 
 1994—Subsec. (c). Pub. L. 103–375 substituted “$20,000,000 for each of fiscal years 1995 and 1996 and $30,000,000 for each of fiscal years 1997 and 1998” for “$15,000,000 for each of fiscal years 1991, 1992, 1993, and 1994”.
 
-## § 4407. Allocation of amounts available to carry out this chapter
+## § 4407. Allocation of amounts available to carry out this chapter
 
 **(a) Allocations** Of the sums available to the Secretary for any fiscal year under this chapter and section 669b(b) of this title—
 
@@ -417,7 +417,7 @@ Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7
 
 **(2)** The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-(Pub. L. 101–233, § 8, Dec. 13, 1989, 103 Stat. 1975; Pub. L. 103–375, § 2(a), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, §§ 6, 7, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 111–149, § 1(a), Mar. 25, 2010, 124 Stat. 1025.)
+(Pub. L. 101–233, § 8, Dec. 13, 1989, 103 Stat. 1975; Pub. L. 103–375, § 2(a), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, §§ 6, 7, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 111–149, § 1(a), Mar. 25, 2010, 124 Stat. 1025.)
 
 **Editorial Notes**
 
@@ -425,11 +425,11 @@ Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7
 
 2010—Subsec. (b)(3). Pub. L. 111–149 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The non-Federal share of the United States contribution to the costs of such projects may not be derived from Federal grant programs. In the case of a project carried out in Mexico, the non-Federal share of the United States contribution to the costs of the project may include cash contributions from non-United States sources that are used to pay costs of the project.”
 
-2002—Subsec. (a)(1). Pub. L. 107–308, § 6(1), substituted “(but at least 30 percent and not more than 60 percent)” for “(but at least 50 per centum and not more than 70 per centum thereof)” and “4 percent” for “4 per centum”.
+2002—Subsec. (a)(1). Pub. L. 107–308, § 6(1), substituted “(but at least 30 percent and not more than 60 percent)” for “(but at least 50 per centum and not more than 70 per centum thereof)” and “4 percent” for “4 per centum”.
 
-Subsec. (a)(2). Pub. L. 107–308, § 6(2), substituted “(but at least 40 percent and not more than 70 percent)” for “(but at least 30 per centum and not more than 50 per centum thereof)”.
+Subsec. (a)(2). Pub. L. 107–308, § 6(2), substituted “(but at least 40 percent and not more than 70 percent)” for “(but at least 30 per centum and not more than 50 per centum thereof)”.
 
-Subsec. (b). Pub. L. 107–308, § 7, substituted heading for former heading, substituted pars. (1) and (2) for first sentence which read as follows: “The Federal moneys allocated under subsection (a) of this section for any fiscal year to carry out approved wetlands conservation projects shall be used for the payment of not to exceed 50 per centum of the total United States contribution to the costs of such projects, or may be used for payment of 100 per centum of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.”, and designated second and third sentences as par. (3).
+Subsec. (b). Pub. L. 107–308, § 7, substituted heading for former heading, substituted pars. (1) and (2) for first sentence which read as follows: “The Federal moneys allocated under subsection (a) of this section for any fiscal year to carry out approved wetlands conservation projects shall be used for the payment of not to exceed 50 per centum of the total United States contribution to the costs of such projects, or may be used for payment of 100 per centum of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.”, and designated second and third sentences as par. (3).
 
 1994—Subsec. (b). Pub. L. 103–375 inserted at end “In the case of a project carried out in Mexico, the non-Federal share of the United States contribution to the costs of the project may include cash contributions from non-United States sources that are used to pay costs of the project.”
 
@@ -437,15 +437,15 @@ Subsec. (b). Pub. L. 107–308, § 7, substituted heading for former heading, 
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–149, § 1(b), Mar. 25, 2010, 124 Stat. 1025, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any approved and active wetlands conservation project (as that term is used in section 8(b)(1) of such Act [16 U.S.C. 4407(b)(1)]) carried out with assistance provided under such Act [Pub. L. 101–233, 16 U.S.C. 4401 et seq.], including such a project approved before the date of the enactment of this Act [Mar. 25, 2010].”
+Pub. L. 111–149, § 1(b), Mar. 25, 2010, 124 Stat. 1025, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any approved and active wetlands conservation project (as that term is used in section 8(b)(1) of such Act [16 U.S.C. 4407(b)(1)]) carried out with assistance provided under such Act [Pub. L. 101–233, 16 U.S.C. 4401 et seq.], including such a project approved before the date of the enactment of this Act [Mar. 25, 2010].”
 
-## § 4408. Restoration, management, and protection of wetlands and habitat for migratory birds on Federal lands
+## § 4408. Restoration, management, and protection of wetlands and habitat for migratory birds on Federal lands
 
 The head of each Federal agency responsible for acquiring, managing, or disposing of Federal lands and waters shall, to the extent consistent with the mission of such agency and existing statutory authorities, cooperate with the Director of the United States Fish and Wildlife Service to restore, protect, and enhance the wetland ecosystems and other habitats for migratory birds, fish, and wildlife within the lands and waters of each such agency.
 
-(Pub. L. 101–233, § 9, Dec. 13, 1989, 103 Stat. 1976.)
+(Pub. L. 101–233, § 9, Dec. 13, 1989, 103 Stat. 1976.)
 
-## § 4409. Report to Congress
+## § 4409. Report to Congress
 
 The Secretary shall report to the appropriate Committees on the implementation of this chapter. The report shall include—
 
@@ -461,7 +461,7 @@ The Secretary shall report to the appropriate Committees on the implementation o
 
 **(2)** an annual assessment of the status of wetlands conservation projects, including an accounting of expenditures by Federal, State, and other United States entities, and expenditures by Canadian and Mexican sources to carry out these projects.
 
-(Pub. L. 101–233, § 10, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, § 2(b), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, § 8(a)(12), (13), Dec. 2, 2002, 116 Stat. 2448.)
+(Pub. L. 101–233, § 10, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, § 2(b), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, § 8(a)(12), (13), Dec. 2, 2002, 116 Stat. 2448.)
 
 **Editorial Notes**
 
@@ -471,17 +471,17 @@ Section 4413 of this title, referred to in par. (1)(C), was in the original a re
 
 **Amendments**
 
-2002—Par. (1)(C). Pub. L. 107–308, § 8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
+2002—Par. (1)(C). Pub. L. 107–308, § 8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
 
-Par. (1)(D). Pub. L. 107–308, § 8(a)(13), substituted “; and” for period at end.
+Par. (1)(D). Pub. L. 107–308, § 8(a)(13), substituted “; and” for period at end.
 
 1994—Par. (1)(D). Pub. L. 103–375 added subpar. (D).
 
-## § 4410. Revisions to Plan
+## § 4410. Revisions to Plan
 
 The Secretary shall, in 1998 and at five-year intervals thereafter, undertake with the appropriate officials in Canada and Mexico to revise the goals and other elements of the Plan in accordance with the information required under section 4409 of this title and with the other provisions of this chapter.
 
-(Pub. L. 101–233, § 11, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, § 2(c), Oct. 19, 1994, 108 Stat. 3494.)
+(Pub. L. 101–233, § 11, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, § 2(c), Oct. 19, 1994, 108 Stat. 3494.)
 
 **Editorial Notes**
 
@@ -489,7 +489,7 @@ The Secretary shall, in 1998 and at five-year intervals thereafter, undertake wi
 
 1994—Pub. L. 103–375 substituted “1998” for “1991”, inserted “and Mexico” after “Canada”, and struck out at end “The Secretary shall invite and encourage the appropriate officials in Mexico to participate in any revisions of the Plan.”
 
-## § 4411. Relationship to other authorities
+## § 4411. Relationship to other authorities
 
 **(a) Acquisition of lands and waters**
 
@@ -499,7 +499,7 @@ Nothing in this chapter affects, alters, or modifies the Secretary’s authoriti
 
 The Federal funds made available under this chapter and section 669b(b) of this title may not be used for fish and wildlife mitigation purposes under the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) or the Water Resources Development Act of 1986, Public Law 99–662 (1986), 100 Stat. 4235.
 
-(Pub. L. 101–233, § 12, Dec. 13, 1989, 103 Stat. 1977.)
+(Pub. L. 101–233, § 12, Dec. 13, 1989, 103 Stat. 1977.)
 
 **Editorial Notes**
 
@@ -509,19 +509,19 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 
 
 The Water Resources Development Act of 1986, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
-## § 4412. Limitation on assessments against Migratory Bird Conservation Fund
+## § 4412. Limitation on assessments against Migratory Bird Conservation Fund
 
 Notwithstanding any other provision of law, only those personnel and administrative costs directly related to acquisition of real property shall be levied against the Migratory Bird Conservation Account.1
 
-<sup>1</sup>  So in original. Probably should be “Fund”. See section 718d of this title.
+<sup>1</sup> So in original. Probably should be “Fund”. See section 718d of this title.
 
-(Pub. L. 101–233, § 14, Dec. 13, 1989, 103 Stat. 1977.)
+(Pub. L. 101–233, § 14, Dec. 13, 1989, 103 Stat. 1977.)
 
-## § 4413. Other agreements
+## § 4413. Other agreements
 
 The Secretary shall undertake with the appropriate officials of nations in the Western Hemisphere to establish agreements, modeled after the Plan or the Agreement, for the protection of migratory birds identified in section 2912(a)(5) of this title. When any such agreements are reached, the Secretary shall make recommendations to the appropriate Committees on legislation necessary to implement the agreements.
 
-(Pub. L. 101–233, § 16(a), Dec. 13, 1989, 103 Stat. 1977; Pub. L. 107–308, § 8(a)(14), Dec. 2, 2002, 116 Stat. 2448.)
+(Pub. L. 101–233, § 16(a), Dec. 13, 1989, 103 Stat. 1977; Pub. L. 107–308, § 8(a)(14), Dec. 2, 2002, 116 Stat. 2448.)
 
 **Editorial Notes**
 
@@ -529,7 +529,7 @@ The Secretary shall undertake with the appropriate officials of nations in the W
 
 2002—Pub. L. 107–308 substituted “Western Hemisphere” for “western hemisphere”.
 
-## § 4414. Assessment of progress in wetlands conservation
+## § 4414. Assessment of progress in wetlands conservation
 
 Not later than January 31, 1996, the Secretary, in cooperation with the Council, to further the purposes of the chapter shall—
 
@@ -537,4 +537,4 @@ Not later than January 31, 1996, the Secretary, in cooperation with the Council,
 
 **(2)** develop and implement procedures to monitor and evaluate the effectiveness of wetlands conservation projects completed under this chapter.
 
-(Pub. L. 101–233, § 19, as added Pub. L. 103–375, § 3, Oct. 19, 1994, 108 Stat. 3494.)
+(Pub. L. 101–233, § 19, as added Pub. L. 103–375, § 3, Oct. 19, 1994, 108 Stat. 3494.)

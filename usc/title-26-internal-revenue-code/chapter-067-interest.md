@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–206, title III, § 3308(b), July 22, 1998, 112 Stat. 745, added item for subchapter D.
+1998—Pub. L. 105–206, title III, § 3308(b), July 22, 1998, 112 Stat. 745, added item for subchapter D.
 
-1982—Pub. L. 97–248, title III, § 344(b)(3)(B), Sept. 3, 1982, 96 Stat. 636, inserted “; compounding of interest” after “rate” in item for subchapter C.
+1982—Pub. L. 97–248, title III, § 344(b)(3)(B), Sept. 3, 1982, 96 Stat. 636, inserted “; compounding of interest” after “rate” in item for subchapter C.
 
-1975—Pub. L. 93–625, § 7(d)(5), Jan. 3, 1975, 88 Stat. 2115, added item for subchapter C.
+1975—Pub. L. 93–625, § 7(d)(5), Jan. 3, 1975, 88 Stat. 2115, added item for subchapter C.
 
 ## Subchapter A—Interest on Underpayments
 
@@ -31,9 +31,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 842(b), Oct. 22, 2004, 118 Stat. 1599, added item 6603.
+2004—Pub. L. 108–357, title VIII, § 842(b), Oct. 22, 2004, 118 Stat. 1599, added item 6603.
 
-### § 6601. Interest on underpayment, nonpayment, or extensions of time for payment, of tax
+### § 6601. Interest on underpayment, nonpayment, or extensions of time for payment, of tax
 
 **(a) General rule**
 
@@ -159,7 +159,7 @@ If the amount of tax imposed by chapter 11 which is extended as provided in sect
 
 For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§ 66(c), 83(a)(1), 84(a), title II, § 206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, § 203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, § 2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, § 3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, § 1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, § 2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, § 2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, § 101(j)(49), title V, § 512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, § 601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, § 1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, § 7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, § 3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, § 1307(d)(2)(H), title XVI, § 1605(b)(10), title XIX, §§ 1906(a)(34), (b)(13)(A), title XX, § 2004(b), title XXI, § 2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, § 202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, § 8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, § 101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§ 344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, § 231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, § 158(a), title II, § 211(b)(26), title IV, § 412(b)(7), title VII, § 714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, § 1404(c)(3), title XV, §§ 1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, § 10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§ 1015(b)(2)(C), 1018(u)(42), title VI, § 6234(b)(1), title VII, § 7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, § 7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, § 11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, § 303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§ 501(e), 503(a), (c)(2), (3), title X, § 1055(a), title XII, § 1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, § 3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, § 409(a)(2), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 114–74, title XI, § 1101(f)(9), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–97, title I, § 11002(d)(1)(JJ), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, § 401(b)(47), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§ 66(c), 83(a)(1), 84(a), title II, § 206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, § 203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, § 2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, § 3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, § 1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, § 2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, § 2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, § 101(j)(49), title V, § 512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, § 601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, § 1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, § 7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, § 3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, § 1307(d)(2)(H), title XVI, § 1605(b)(10), title XIX, §§ 1906(a)(34), (b)(13)(A), title XX, § 2004(b), title XXI, § 2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, § 202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, § 8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, § 101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§ 344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, § 231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, § 158(a), title II, § 211(b)(26), title IV, § 412(b)(7), title VII, § 714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, § 1404(c)(3), title XV, §§ 1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, § 10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§ 1015(b)(2)(C), 1018(u)(42), title VI, § 6234(b)(1), title VII, § 7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, § 7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, § 11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, § 303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§ 501(e), 503(a), (c)(2), (3), title X, § 1055(a), title XII, § 1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, § 3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, § 409(a)(2), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 114–74, title XI, § 1101(f)(9), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–97, title I, § 11002(d)(1)(JJ), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, § 401(b)(47), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -179,107 +179,107 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 1998—Subsec. (f). Pub. L. 105–206 inserted at end “The preceding sentence shall not apply to the extent that section 6621(d) applies.”
 
-1997—Subsec. (c). Pub. L. 105–34, § 1242(a), inserted at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
+1997—Subsec. (c). Pub. L. 105–34, § 1242(a), inserted at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
 
-Subsec. (d)(2) to (4). Pub. L. 105–34, § 1055(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (d)(2) to (4). Pub. L. 105–34, § 1055(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (j). Pub. L. 105–34, § 503(c)(3), substituted “2-percent” for “4-percent” in heading.
+Subsec. (j). Pub. L. 105–34, § 503(c)(3), substituted “2-percent” for “4-percent” in heading.
 
-Subsec. (j)(1). Pub. L. 105–34, § 503(a), reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at the rate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section.”
+Subsec. (j)(1). Pub. L. 105–34, § 503(a), reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at the rate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section.”
 
-Subsec. (j)(2). Pub. L. 105–34, § 503(a), amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘4-percent portion’ means the lesser of—
+Subsec. (j)(2). Pub. L. 105–34, § 503(a), amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘4-percent portion’ means the lesser of—
 
 “(A) $345,800 reduced by the amount of the credit allowable under section 2010(a); or
 
 “(B) the amount of the tax imposed by chapter 11 which is extended as provided in section 6166.”
 
-Subsec. (j)(3). Pub. L. 105–34, § 501(e), added par. (3). Former par. (3) redesignated (4).
+Subsec. (j)(3). Pub. L. 105–34, § 501(e), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 105–34, § 503(c)(2), substituted “2-percent” for “4-percent” wherever appearing.
+Subsec. (j)(4). Pub. L. 105–34, § 503(c)(2), substituted “2-percent” for “4-percent” wherever appearing.
 
-Pub. L. 105–34, § 501(e), redesignated par. (3) as (4).
+Pub. L. 105–34, § 501(e), redesignated par. (3) as (4).
 
-1996—Subsec. (e)(2)(A). Pub. L. 104–168, § 303(b)(1), substituted “21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000)” for “10 days from the date of notice and demand therefor”.
+1996—Subsec. (e)(2)(A). Pub. L. 104–168, § 303(b)(1), substituted “21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000)” for “10 days from the date of notice and demand therefor”.
 
-Subsec. (e)(3). Pub. L. 104–168, § 303(a), substituted “specified period” for “10 days” in heading and amended text generally. Prior to amendment, text read as follows: “If notice and demand is made for payment of any amount, and if such amount is paid within 10 days after the date of such notice and demand interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.”
+Subsec. (e)(3). Pub. L. 104–168, § 303(a), substituted “specified period” for “10 days” in heading and amended text generally. Prior to amendment, text read as follows: “If notice and demand is made for payment of any amount, and if such amount is paid within 10 days after the date of such notice and demand interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.”
 
 1990—Subsec. (b)(2). Pub. L. 101–508 struck out “or 6158(a)” after “6156(a)” in introductory provisions, struck out “or 6158(a), as the case may be” after “6156(a)” in subpar. (A), and struck out at end “For purposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.”
 
 1989—Subsec. (e)(2). Pub. L. 101–239 substituted “section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68” for “section 6651(a)(1), 6653, 6659, 6660, or 6661” in subpars. (A) and (B).
 
-1988—Subsec. (b)(1). Pub. L. 100–647, § 6234(b)(1), inserted “or any installment agreement entered into under section 6159” after “time for payment”.
+1988—Subsec. (b)(1). Pub. L. 100–647, § 6234(b)(1), inserted “or any installment agreement entered into under section 6159” after “time for payment”.
 
-Subsec. (b)(2). Pub. L. 100–647, § 1018(u)(42), made technical correction to directory language of Pub. L. 99–514, § 1404(c)(3), see 1986 Amendment note below.
+Subsec. (b)(2). Pub. L. 100–647, § 1018(u)(42), made technical correction to directory language of Pub. L. 99–514, § 1404(c)(3), see 1986 Amendment note below.
 
-Subsec. (e)(2)(A), (B). Pub. L. 100–647, § 1015(b)(2)(C), substituted “6653, 6659” for “6659”.
+Subsec. (e)(2)(A), (B). Pub. L. 100–647, § 1015(b)(2)(C), substituted “6653, 6659” for “6659”.
 
-Subsec. (i). Pub. L. 100–647, § 7106(c)(5), struck out “or 3321” after “3301”.
+Subsec. (i). Pub. L. 100–647, § 7106(c)(5), struck out “or 3321” after “3301”.
 
 1987—Subsec. (h). Pub. L. 100–203 substituted “section 6654 or 6655” for “section 6154 or 6654”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 1511(c)(11), substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
+1986—Subsec. (a). Pub. L. 99–514, § 1511(c)(11), substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-Subsec. (b)(2). Pub. L. 99–514, § 1404(c)(3), as amended by Pub. L. 100–647, § 1018(u)(42), substituted “6156(a) or 6158(a)” for “6152(a), 6156(a), or 6158(a)” in introductory provisions and “6156(b) or 6158(a)” for “6152(b), 6156(b), or 6158(a)” in subpar. (A).
+Subsec. (b)(2). Pub. L. 99–514, § 1404(c)(3), as amended by Pub. L. 100–647, § 1018(u)(42), substituted “6156(a) or 6158(a)” for “6152(a), 6156(a), or 6158(a)” in introductory provisions and “6156(b) or 6158(a)” for “6152(b), 6156(b), or 6158(a)” in subpar. (A).
 
-Subsec. (b)(4), (5). Pub. L. 99–514, § 1512(a), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 99–514, § 1512(a), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 99–514, § 1564(a), inserted “and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period”.
+Subsec. (c). Pub. L. 99–514, § 1564(a), inserted “and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period”.
 
-1984—Subsec. (d)(2)(A). Pub. L. 98–369, § 714(n)(1), made technical correction to directory language of Pub. L. 97–248, § 346(c)(2)(B). See 1982 Amendment note below.
+1984—Subsec. (d)(2)(A). Pub. L. 98–369, § 714(n)(1), made technical correction to directory language of Pub. L. 97–248, § 346(c)(2)(B). See 1982 Amendment note below.
 
-Subsec. (d)(3), (4). Pub. L. 98–369, § 211(b)(26), redesignated par. (4) as (3) and struck out former par. (3) which had provided that if the amount of any tax imposed by subtitle A was reduced by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such reduction in tax would not affect the computation of interest under this section for the period ending with the last day of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
+Subsec. (d)(3), (4). Pub. L. 98–369, § 211(b)(26), redesignated par. (4) as (3) and struck out former par. (3) which had provided that if the amount of any tax imposed by subtitle A was reduced by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such reduction in tax would not affect the computation of interest under this section for the period ending with the last day of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
 
-Subsec. (e)(2). Pub. L. 98–369, § 158(a), in amending par. (2) generally, inserted “(other than an addition to tax imposed under section 6651(a)(1), 6659, 6660, or 6661)”, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 98–369, § 158(a), in amending par. (2) generally, inserted “(other than an addition to tax imposed under section 6651(a)(1), 6659, 6660, or 6661)”, and added subpar. (B).
 
-Subsec. (h). Pub. L. 98–369, § 412(b)(7), amended subsec. (h) generally, substituting “any estimated tax required to be paid by section 6154 or 6654” for “estimated tax required by section 6153 or section 6154”.
+Subsec. (h). Pub. L. 98–369, § 412(b)(7), amended subsec. (h) generally, substituting “any estimated tax required to be paid by section 6154 or 6654” for “estimated tax required by section 6153 or section 6154”.
 
 1983—Subsec. (i). Pub. L. 98–76 inserted “or 3321” after “3301”.
 
-1982—Subsec. (d)(1). Pub. L. 97–248, § 346(c)(2)(A), substituted “the filing date for the taxable year” for “the last day of the taxable year”.
+1982—Subsec. (d)(1). Pub. L. 97–248, § 346(c)(2)(A), substituted “the filing date for the taxable year” for “the last day of the taxable year”.
 
-Subsec. (d)(2)(A). Pub. L. 97–248, § 346(c)(2)(B), as amended by Pub. L. 98–369, § 346(c)(2)(B), substituted “the filing date for” for “the last day of” in two places.
+Subsec. (d)(2)(A). Pub. L. 97–248, § 346(c)(2)(B), as amended by Pub. L. 98–369, § 346(c)(2)(B), substituted “the filing date for” for “the last day of” in two places.
 
-Subsec. (d)(4). Pub. L. 97–248, § 346(c)(2)(C), added par. (4).
+Subsec. (d)(4). Pub. L. 97–248, § 346(c)(2)(C), added par. (4).
 
-Subsec. (e). Pub. L. 97–248, § 344(b)(1), struck out par. (2) which had provided that no interest under this section was to be imposed on the interest provided by this section, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+Subsec. (e). Pub. L. 97–248, § 344(b)(1), struck out par. (2) which had provided that no interest under this section was to be imposed on the interest provided by this section, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
 1980—Subsec. (c). Pub. L. 96–223 substituted “certain excise tax cases” for “chapter 41, 42, 43, or 44 tax cases” in heading.
 
-1978—Subsec. (d)(2). Pub. L. 95–628, § 8(c)(2)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and in text extended the application of the provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+1978—Subsec. (d)(2). Pub. L. 95–628, § 8(c)(2)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and in text extended the application of the provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
-Subsec. (d)(4), (5). Pub. L. 95–628, § 8(c)(2)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
+Subsec. (d)(4), (5). Pub. L. 95–628, § 8(c)(2)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 
 1977—Subsec. (d)(5). Pub. L. 95–30 added par. (5).
 
-1976—Subsec. (b)(2). Pub. L. 94–452 substituted “, 6156(a), or 6158(a)” for “or 6156(a)” and “, 6156(b), or 6158(a)” for “or 6156(b)” and inserted requirement that for purposes of subparagraph (A), section 6158(a) of this title shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.
+1976—Subsec. (b)(2). Pub. L. 94–452 substituted “, 6156(a), or 6158(a)” for “or 6156(a)” and “, 6156(b), or 6158(a)” for “or 6156(b)” and inserted requirement that for purposes of subparagraph (A), section 6158(a) of this title shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.
 
-Subsec. (b)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, §§ 1307(d)(2)(H), 1605(b)(10), substituted in heading “chapter 41, 42” for “chapter 42” and “43, or 44” for “or 43”.
+Subsec. (c). Pub. L. 94–455, §§ 1307(d)(2)(H), 1605(b)(10), substituted in heading “chapter 41, 42” for “chapter 42” and “43, or 44” for “or 43”.
 
-Subsec. (d)(4). Pub. L. 94–455, § 2107(g)(2)(C), inserted “, an investment credit carryback,” after “net operating loss carryback”.
+Subsec. (d)(4). Pub. L. 94–455, § 2107(g)(2)(C), inserted “, an investment credit carryback,” after “net operating loss carryback”.
 
-Subsec. (h). Pub. L. 94–455, § 1906(a)(34), struck out “(or section 59 of the Internal Revenue Code of 1939)”.
+Subsec. (h). Pub. L. 94–455, § 1906(a)(34), struck out “(or section 59 of the Internal Revenue Code of 1939)”.
 
-Subsecs. (j), (k). Pub. L. 94–455, § 2004(b), added subsec. (j) and redesignated former subsec. (j) as (k).
+Subsecs. (j), (k). Pub. L. 94–455, § 2004(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1975—Subsec. (a). Pub. L. 93–625, § 7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+1975—Subsec. (a). Pub. L. 93–625, § 7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-Subsecs. (b) to (*l*). Pub. L. 93–625, § 7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (*l*) as (i) and (j), respectively.
+Subsecs. (b) to (*l*). Pub. L. 93–625, § 7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (*l*) as (i) and (j), respectively.
 
 1974—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
 
 1971—Subsec. (e)(4). Pub. L. 92–178 added par. (4).
 
-1969—Subsec. (d). Pub. L. 91–172, § 101(j)(49), inserted reference to chapter 42 both in subsec. heading and in text.
+1969—Subsec. (d). Pub. L. 91–172, § 101(j)(49), inserted reference to chapter 42 both in subsec. heading and in text.
 
-Subsec. (e)(1). Pub. L. 91–172, § 512(e)(3)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever it appears in text.
+Subsec. (e)(1). Pub. L. 91–172, § 512(e)(3)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever it appears in text.
 
-Subsec. (e)(2). Pub. L. 91–172, § 512(e)(3)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
+Subsec. (e)(2). Pub. L. 91–172, § 512(e)(3)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
 
 Subsecs. (k), (*l*). Pub. L. 91–53 added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-1967—Subsec. (e)(2). Pub. L. 90–225 inserted “, or with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the last day of such subsequent taxable year,” after “the investment credit carryback arises”.
+1967—Subsec. (e)(2). Pub. L. 90–225 inserted “, or with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the last day of such subsequent taxable year,” after “the investment credit carryback arises”.
 
 1966—Subsecs. (j), (k). Pub. L. 89–384 added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -289,9 +289,9 @@ Subsecs. (k), (*l*). Pub. L. 91–53 added subsec. (k) and redesignated former s
 
 1961—Subsec. (c)(2). Pub. L. 87–61 substituted “6152(a) or 6156(a)” for “6152(a)” in introductory provisions, and “6152(b) or 6156(b), as the case may be” for “6152(b)” in subpar. (A).
 
-1958—Subsec. (b). Pub. L. 85–866, §§ 66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
+1958—Subsec. (b). Pub. L. 85–866, §§ 66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
 
-Subsecs. (g) to (j). Pub. L. 85–866, §§ 83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (j). Pub. L. 85–866, §§ 83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,7 +309,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provisions of the
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3301(c), July 22, 1998, 112 Stat. 741, as amended by Pub. L. 105–277, div. J, title IV, § 4002(d), Oct. 21, 1998, 112 Stat. 2681–906, provided that:
+Pub. L. 105–206, title III, § 3301(c), July 22, 1998, 112 Stat. 741, as amended by Pub. L. 105–277, div. J, title IV, § 4002(d), Oct. 21, 1998, 112 Stat. 2681–906, provided that:
 
 > **“(1) In general.—** Except as provided under paragraph (2), the amendments made by this section [amending this section and section 6621 of this title] shall apply to interest for periods beginning after the date of the enactment of this Act [July 22, 1998].
 
@@ -325,13 +325,13 @@ Amendment by section 501(e) of Pub. L. 105–34 applicable to estates of deceden
 
 Amendment by section 503(a), (c)(2), (3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
-Pub. L. 105–34, title X, § 1055(c), Aug. 5, 1997, 111 Stat. 945, provided that: “The amendments made by this section [amending this section and section 6611 of this title] shall apply to foreign tax credit carrybacks arising in taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title X, § 1055(c), Aug. 5, 1997, 111 Stat. 945, provided that: “The amendments made by this section [amending this section and section 6611 of this title] shall apply to foreign tax credit carrybacks arising in taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–34, title XII, § 1242(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall apply to adjustments with respect to partnership taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XII, § 1242(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall apply to adjustments with respect to partnership taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title III, § 303(c), July 30, 1996, 110 Stat. 1458, provided that: “The amendments made by this section [amending this section and section 6651 of this title] shall apply in the case of any notice and demand given after December 31, 1996.”
+Pub. L. 104–168, title III, § 303(c), July 30, 1996, 110 Stat. 1458, provided that: “The amendments made by this section [amending this section and section 6651 of this title] shall apply in the case of any notice and demand given after December 31, 1996.”
 
 **Effective Date of 1989 Amendment**
 
@@ -357,9 +357,9 @@ Amendment by section 1404(c)(3) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1511(c)(11) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Pub. L. 99–514, title XV, § 1512(b), Oct. 22, 1986, 100 Stat. 2746, provided that: “The amendments made by this section [amending this section] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1985.”
+Pub. L. 99–514, title XV, § 1512(b), Oct. 22, 1986, 100 Stat. 2746, provided that: “The amendments made by this section [amending this section] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1985.”
 
-Pub. L. 99–514, title XV, § 1564(b), Oct. 22, 1986, 100 Stat. 2762, provided that:
+Pub. L. 99–514, title XV, § 1564(b), Oct. 22, 1986, 100 Stat. 2762, provided that:
 
 > **“(1) Effective date.—** The amendment made by subsection (a) [amending this section] shall apply to interest accruing after December 31, 1982.
 
@@ -367,7 +367,7 @@ Pub. L. 99–514, title XV, § 1564(b), Oct. 22, 1986, 100 Stat. 2762, provide
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 158(b), July 18, 1984, 98 Stat. 696, provided that: “The amendment made by this section [amending this section] shall apply to interest accrued after the date of the enactment of this Act [July 18, 1984], except with respect to additions to tax for which notice and demand is made before such date.”
+Pub. L. 98–369, div. A, title I, § 158(b), July 18, 1984, 98 Stat. 696, provided that: “The amendment made by this section [amending this section] shall apply to interest accrued after the date of the enactment of this Act [July 18, 1984], except with respect to additions to tax for which notice and demand is made before such date.”
 
 Amendment by section 211(b)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
@@ -445,7 +445,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by sections 66(c) and 84(a) of Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Pub. L. 85–866, title I, § 83(d), Sept. 2, 1958, 72 Stat. 1664, provided that: “The amendments made by subsections (a) [amending this section and section 3794 of I.R.C. 1939], (b) [amending section 6611 of this title and section 3771 of I.R.C. 1939], and (c) [amending section 6611 of this title] shall apply only in respect of overpayments credited after December 31, 1957.”
+Pub. L. 85–866, title I, § 83(d), Sept. 2, 1958, 72 Stat. 1664, provided that: “The amendments made by subsections (a) [amending this section and section 3794 of I.R.C. 1939], (b) [amending section 6611 of this title and section 3771 of I.R.C. 1939], and (c) [amending section 6611 of this title] shall apply only in respect of overpayments credited after December 31, 1957.”
 
 For effective date of amendment by section 206(e) of Pub. L. 85–866, see section 206(f) of Pub. L. 85–866, set out as a note under section 6161 of this title.
 
@@ -457,7 +457,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **Administration of Penalties and Interest**
 
-Pub. L. 105–206, title III, § 3801, July 22, 1998, 112 Stat. 782, provided that:
+Pub. L. 105–206, title III, § 3801, July 22, 1998, 112 Stat. 782, provided that:
 
 > “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
 
@@ -469,21 +469,21 @@ Pub. L. 105–206, title III, § 3801, July 22, 1998, 112 Stat. 782, provided 
 
 **Interest Not Payable on Underpayments Created or Increased by Tax Reform Act of 1976**
 
-Pub. L. 95–30, title III, § 305, May 23, 1977, 91 Stat. 152, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 [formerly I.R.C. 1954], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 [Pub. L. 94–455].”
+Pub. L. 95–30, title III, § 305, May 23, 1977, 91 Stat. 152, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 [formerly I.R.C. 1954], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 [Pub. L. 94–455].”
 
 **Interest on Underpayment**
 
-Pub. L. 91–172, title IX, § 946(a), Dec. 30, 1969, 83 Stat. 729, provided that in the case of any taxable year ending before Dec. 30, 1969, no interest on underpayment of taxes, to the extent that such underpayment was attributable to the amendments made by Pub. L. 91–172, was not to be assessed or collected for any period before the 90th day after Dec. 30, 1969.
+Pub. L. 91–172, title IX, § 946(a), Dec. 30, 1969, 83 Stat. 729, provided that in the case of any taxable year ending before Dec. 30, 1969, no interest on underpayment of taxes, to the extent that such underpayment was attributable to the amendments made by Pub. L. 91–172, was not to be assessed or collected for any period before the 90th day after Dec. 30, 1969.
 
 **Interest Attributable to Net Operating Loss Carryback for Certain Taxable Years Ending in 1954**
 
-Pub. L. 85–866, title I, § 83(e), Sept. 2, 1958, 72 Stat. 1664, provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
+Pub. L. 85–866, title I, § 83(e), Sept. 2, 1958, 72 Stat. 1664, provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
 
-### § 6602. Interest on erroneous refund recoverable by suit
+### § 6602. Interest on erroneous refund recoverable by suit
 
 Any portion of an internal revenue tax (or any interest, assessable penalty, additional amount, or addition to tax) which has been erroneously refunded, and which is recoverable by suit pursuant to section 7405, shall bear interest at the underpayment rate established under section 6621 from the date of the payment of the refund.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 818; Pub. L. 93–625, § 7(a)(2)(B), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 99–514, title XV, § 1511(c)(12), Oct. 22, 1986, 100 Stat. 2745.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 818; Pub. L. 93–625, § 7(a)(2)(B), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 99–514, title XV, § 1511(c)(12), Oct. 22, 1986, 100 Stat. 2745.)
 
 **Editorial Notes**
 
@@ -503,7 +503,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
-### § 6603. Deposits made to suspend running of interest on potential underpayments, etc.
+### § 6603. Deposits made to suspend running of interest on potential underpayments, etc.
 
 **(a) Authority to make deposits other than as payment of tax**
 
@@ -559,7 +559,7 @@ Except as otherwise provided by the taxpayer, deposits shall be treated as used 
 
 Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
 
-(Added Pub. L. 108–357, title VIII, § 842(a), Oct. 22, 2004, 118 Stat. 1598; amended Pub. L. 116–25, title I, § 1001(b)(1)(D), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 108–357, title VIII, § 842(a), Oct. 22, 2004, 118 Stat. 1598; amended Pub. L. 116–25, title I, § 1001(b)(1)(D), July 1, 2019, 133 Stat. 985.)
 
 **Editorial Notes**
 
@@ -571,7 +571,7 @@ Deposits shall be treated as returned to the taxpayer on a last-in, first-out ba
 
 **Effective Date**
 
-Pub. L. 108–357, title VIII, § 842(c), Oct. 22, 2004, 118 Stat. 1599, provided that:
+Pub. L. 108–357, title VIII, § 842(c), Oct. 22, 2004, 118 Stat. 1599, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section] shall apply to deposits made after the date of the enactment of this Act [Oct. 22, 2004].
 
@@ -579,7 +579,7 @@ Pub. L. 108–357, title VIII, § 842(c), Oct. 22, 2004, 118 Stat. 1599, provi
 
 ## Subchapter B—Interest on Overpayments
 
-### § 6611. Interest on overpayments
+### § 6611. Interest on overpayments
 
 **(a) Rate**
 
@@ -599,7 +599,7 @@ In the case of a refund, from the date of the overpayment to a date (to be deter
 
 Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
 
-**[(c) Repealed. Pub. L. 85–866, title I, § 83(c), Sept. 2, 1958, 72 Stat. 1664]**
+**[(c) Repealed. Pub. L. 85–866, title I, § 83(c), Sept. 2, 1958, 72 Stat. 1664]**
 
 **(d) Advance payment of tax, payment of estimated tax, and credit for income tax withholding**
 
@@ -695,7 +695,7 @@ then the claim for overpayment shall be treated as having been filed on the date
 
 For prohibition of administrative review, see section 6406.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§ 42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, § 2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, § 3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, § 1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, § 2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, § 512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, § 601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, § 3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, § 7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, § 2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, § 202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, § 8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, § 101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, § 346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, § 211(b)(27), title VII, § 714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, § 1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, § 1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, § 13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, § 1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, § 6010(*l*), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, § 1(a)(7) [title III, § 319(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, § 501(b), Mar. 18, 2010, 124 Stat. 105.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§ 42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, § 2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, § 3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, § 1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, § 2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, § 512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, § 601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, § 3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, § 7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, § 2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, § 202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, § 8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, § 101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, § 346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, § 211(b)(27), title VII, § 714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, § 1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, § 1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, § 13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, § 1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, § 6010(*l*), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, § 1(a)(7) [title III, § 319(20)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, § 501(b), Mar. 18, 2010, 124 Stat. 105.)
 
 **Editorial Notes**
 
@@ -707,19 +707,19 @@ For prohibition of administrative review, see section 6406.
 
 1998—Subsec. (g)(1). Pub. L. 105–206 substituted “and (e)” for “(e), and (h)”.
 
-1997—Subsec. (f)(2), (3). Pub. L. 105–34, § 1055(b)(1), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+1997—Subsec. (f)(2), (3). Pub. L. 105–34, § 1055(b)(1), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (f)(4). Pub. L. 105–34, § 1055(b)(1), (2)(A)(i), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in heading.
+Subsec. (f)(4). Pub. L. 105–34, § 1055(b)(1), (2)(A)(i), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in heading.
 
-Subsec. (f)(4)(B)(i)(I). Pub. L. 105–34, § 1055(b)(2)(A), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
+Subsec. (f)(4)(B)(i)(I). Pub. L. 105–34, § 1055(b)(2)(A), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
 
-Subsec. (f)(4)(B)(ii)(II). Pub. L. 105–34, § 1055(b)(2)(B), added subcl. (II). Former subcl. (II) redesignated (III).
+Subsec. (f)(4)(B)(ii)(II). Pub. L. 105–34, § 1055(b)(2)(B), added subcl. (II). Former subcl. (II) redesignated (III).
 
-Subsec. (f)(4)(B)(ii)(III). Pub. L. 105–34, § 1055(b)(2)(B), (C), redesignated subcl. (II) as (III) and inserted “(as defined in paragraph (3)(B))” after “case of a credit carryback”.
+Subsec. (f)(4)(B)(ii)(III). Pub. L. 105–34, § 1055(b)(2)(B), (C), redesignated subcl. (II) as (III) and inserted “(as defined in paragraph (3)(B))” after “case of a credit carryback”.
 
-Subsec. (f)(4)(C)(i). Pub. L. 105–34, § 1055(b)(2)(A), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
+Subsec. (f)(4)(C)(i). Pub. L. 105–34, § 1055(b)(2)(A), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
 
-Subsecs. (g) to (i). Pub. L. 105–34, § 1055(b)(2)(D), redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g) which read as follows:
+Subsecs. (g) to (i). Pub. L. 105–34, § 1055(b)(2)(D), redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g) which read as follows:
 
 “(g) Refund of Income Tax Caused by Carryback of Foreign Taxes.—For purposes of subsection (a), if any overpayment of tax results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been paid or accrued prior to the filing date (as defined in subsection (f)(3)) for the taxable year under this subtitle in which such taxes were in fact paid or accrued.”
 
@@ -729,35 +729,35 @@ Subsecs. (g) to (i). Pub. L. 105–34, § 1055(b)(2)(D), redesignated subsecs.
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-1984—Subsec. (f)(3)(C). Pub. L. 98–369, § 714(n)(2)(A), added subpar. (C).
+1984—Subsec. (f)(3)(C). Pub. L. 98–369, § 714(n)(2)(A), added subpar. (C).
 
-Subsec. (f)(4). Pub. L. 98–369, § 211(b)(27), struck out par. (4) which provided that for purposes of subsection (a), if any overpayment of tax imposed by subtitle A arose by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such overpayment would be deemed not to have been made prior to the close of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
+Subsec. (f)(4). Pub. L. 98–369, § 211(b)(27), struck out par. (4) which provided that for purposes of subsection (a), if any overpayment of tax imposed by subtitle A arose by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such overpayment would be deemed not to have been made prior to the close of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
 
-1982—Subsec. (b)(3). Pub. L. 97–248, § 346(a), added par. (3).
+1982—Subsec. (b)(3). Pub. L. 97–248, § 346(a), added par. (3).
 
-Subsec. (f)(1). Pub. L. 97–248, § 346(c)(1)(A), substituted “the filing date for the taxable year” for “the close of the taxable year”.
+Subsec. (f)(1). Pub. L. 97–248, § 346(c)(1)(A), substituted “the filing date for the taxable year” for “the close of the taxable year”.
 
-Subsec. (f)(2)(A). Pub. L. 97–248, § 346(c)(1)(B), substituted “the filing date for” for “the close of” wherever appearing.
+Subsec. (f)(2)(A). Pub. L. 97–248, § 346(c)(1)(B), substituted “the filing date for” for “the close of” wherever appearing.
 
-Subsec. (f)(3), (4). Pub. L. 97–248, § 346(c)(1)(C), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (f)(3), (4). Pub. L. 97–248, § 346(c)(1)(C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (g). Pub. L. 97–248, § 346(c)(1)(D), substituted “the filing date (as defined in subsection (f)(3)) for the taxable year” for “the close of the taxable year”.
+Subsec. (g). Pub. L. 97–248, § 346(c)(1)(D), substituted “the filing date (as defined in subsection (f)(3)) for the taxable year” for “the close of the taxable year”.
 
-Subsecs. (i), (j). Pub. L. 97–248, § 346(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 97–248, § 346(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1980—Subsecs. (h), (i). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1978—Subsec. (f)(2). Pub. L. 95–628, § 8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+1978—Subsec. (f)(2). Pub. L. 95–628, § 8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
-Subsec. (f)(4), (5). Pub. L. 95–628, § 8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
+Subsec. (f)(4), (5). Pub. L. 95–628, § 8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 
 1977—Subsec. (f)(5). Pub. L. 95–30 added par. (5).
 
-1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (f)(4). Pub. L. 94–455, § 2107(g)(2)(D), inserted “, an investment credit carryback,” after “net operating loss carryback”.
+Subsec. (f)(4). Pub. L. 94–455, § 2107(g)(2)(D), inserted “, an investment credit carryback,” after “net operating loss carryback”.
 
-Subsecs. (h), (i). Pub. L. 94–455, § 1904(b)(10)(A)(iv), redesignated subsec. (i) as (h). Former subsec. (h), which related to a refund within 45 days after filing claim for refund of interest equalization tax paid on securities sold to foreigners, was struck out.
+Subsecs. (h), (i). Pub. L. 94–455, § 1904(b)(10)(A)(iv), redesignated subsec. (i) as (h). Former subsec. (h), which related to a refund within 45 days after filing claim for refund of interest equalization tax paid on securities sold to foreigners, was struck out.
 
 1975—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
@@ -765,11 +765,11 @@ Subsecs. (h), (i). Pub. L. 94–455, § 1904(b)(10)(A)(iv), redesignated subse
 
 1971—Subsec. (f)(4). Pub. L. 92–178 added par. (4).
 
-1969—Subsec. (f)(1). Pub. L. 91–172, § 512(e)(4)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever appearing in text.
+1969—Subsec. (f)(1). Pub. L. 91–172, § 512(e)(4)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever appearing in text.
 
-Subsec. (f)(2). Pub. L. 91–172, § 512(e)(4)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
+Subsec. (f)(2). Pub. L. 91–172, § 512(e)(4)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
 
-1967—Subsec. (f)(2). Pub. L. 90–225 inserted “, or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made prior to the close of such subsequent taxable year” after “such investment credit carryback arises”.
+1967—Subsec. (f)(2). Pub. L. 90–225 inserted “, or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made prior to the close of such subsequent taxable year” after “such investment credit carryback arises”.
 
 1966—Subsec. (e). Pub. L. 89–721 inserted “or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed” after “(determined without regard to any extension of time for filing the return)” and changed heading to reflect amendment.
 
@@ -777,11 +777,11 @@ Subsec. (f)(2). Pub. L. 91–172, § 512(e)(4)(C), substituted “loss carryba
 
 1962—Subsec. (f). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
 
-1958—Subsec. (b)(1). Pub. L. 85–866, § 83(b), struck out “, but if the amount against which the credit is taken is an additional assessment, then to the date of the assessment of that amount” after “taken”.
+1958—Subsec. (b)(1). Pub. L. 85–866, § 83(b), struck out “, but if the amount against which the credit is taken is an additional assessment, then to the date of the assessment of that amount” after “taken”.
 
-Subsec. (c). Pub. L. 85–866, § 83(c), repealed subsec. (c) which defined “additional assessment”.
+Subsec. (c). Pub. L. 85–866, § 83(c), repealed subsec. (c) which defined “additional assessment”.
 
-Subsecs. (g), (h). Pub. L. 85–866, § 42(b), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 85–866, § 42(b), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -799,7 +799,7 @@ Amendment by Pub. L. 105–34 applicable to foreign tax credit carrybacks arisin
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13271(b), Aug. 10, 1993, 107 Stat. 542, provided that:
+Pub. L. 103–66, title XIII, § 13271(b), Aug. 10, 1993, 107 Stat. 542, provided that:
 
 > **“(1)** Paragraph (1) of section 6611(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall apply in the case of returns the due date for which (determined without regard to extensions) is on or after January 1, 1994.
 
@@ -821,11 +821,11 @@ Amendment by section 211(b)(27) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 714(n)(2)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Pub. L. 99–514, title XVIII, § 1875(d)(3), Oct. 22, 1986, 100 Stat. 2896, provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 [Pub. L. 98–369], the amendments made by section 714(n)(2) of such Act [amending this section and section 6411 of this title] shall apply only to applications filed after July 18, 1984.”
+Pub. L. 99–514, title XVIII, § 1875(d)(3), Oct. 22, 1986, 100 Stat. 2896, provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 [Pub. L. 98–369], the amendments made by section 714(n)(2) of such Act [amending this section and section 6411 of this title] shall apply only to applications filed after July 18, 1984.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 346(d), Sept. 3, 1982, 96 Stat. 638, provided that:
+Pub. L. 97–248, title III, § 346(d), Sept. 3, 1982, 96 Stat. 638, provided that:
 
 > **“(1) In general.—** The amendments made by subsections (a) and (b) [amending this section] shall apply to returns filed after the 30th day after the date of the enactment of this Act [Sept. 3, 1982].
 
@@ -861,7 +861,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–721, § 1(b), Nov. 2, 1966, 80 Stat. 1150, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to refunds made more than 45 days after the date of the enactment of this Act [Nov. 2, 1966].”
+Pub. L. 89–721, § 1(b), Nov. 2, 1966, 80 Stat. 1150, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to refunds made more than 45 days after the date of the enactment of this Act [Nov. 2, 1966].”
 
 **Effective Date of 1964 Amendment**
 
@@ -879,9 +879,9 @@ Amendment by section 83(b), (c) of Pub. L. 85–866 applicable only in respect o
 
 **No Interest on Individual Income Tax Refunds for 1974 Refunded Within 60 Days After Return Is Filed**
 
-Pub. L. 94–12, title I, § 101(b), Mar. 29, 1975, 89 Stat. 28, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In applying section 6611(e) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to income tax refund within 45 days after return is filed) in the case of any overpayment of tax imposed by subtitle A of such Code by an individual (other than an estate or trust and other than a nonresident alien individual) for a taxable year beginning in 1974, ‘60 days’ shall be substituted for ‘45 days’ each place it appears in such section 6611(e).”
+Pub. L. 94–12, title I, § 101(b), Mar. 29, 1975, 89 Stat. 28, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In applying section 6611(e) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to income tax refund within 45 days after return is filed) in the case of any overpayment of tax imposed by subtitle A of such Code by an individual (other than an estate or trust and other than a nonresident alien individual) for a taxable year beginning in 1974, ‘60 days’ shall be substituted for ‘45 days’ each place it appears in such section 6611(e).”
 
-### § 6612. Cross references
+### § 6612. Cross references
 
 **(a) Interest on judgments for overpayments**
 
@@ -895,13 +895,13 @@ For provisions prohibiting interest on certain adjustments in tax, see section 6
 
 For other restrictions on interest, see sections 2014(e) (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 820; Apr. 2, 1956, ch. 160, § 4(f), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(e)(7), 70 Stat. 397; Pub. L. 107–16, title V, § 532(c)(12), June 7, 2001, 115 Stat. 75; Pub. L. 115–141, div. U, title IV, § 401(a)(297), Mar. 23, 2018, 132 Stat. 1198.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 820; Apr. 2, 1956, ch. 160, § 4(f), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(e)(7), 70 Stat. 397; Pub. L. 107–16, title V, § 532(c)(12), June 7, 2001, 115 Stat. 75; Pub. L. 115–141, div. U, title IV, § 401(a)(297), Mar. 23, 2018, 132 Stat. 1198.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see section 3311 of this title and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see section 3311 of this title and Tables.
 
 **Amendments**
 
@@ -929,11 +929,11 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 **Amendments**
 
-1982—Pub. L. 97–248, title III, § 344(b)(3)(A), Sept. 3, 1982, 96 Stat. 636, inserted “; Compounding of Interest” after “Rate” in heading for subchapter C.
+1982—Pub. L. 97–248, title III, § 344(b)(3)(A), Sept. 3, 1982, 96 Stat. 636, inserted “; Compounding of Interest” after “Rate” in heading for subchapter C.
 
-Pub. L. 97–248, title III, § 344(b)(2), Sept. 3, 1982, 96 Stat. 636, added item 6622.
+Pub. L. 97–248, title III, § 344(b)(2), Sept. 3, 1982, 96 Stat. 636, added item 6622.
 
-### § 6621. Determination of rate of interest
+### § 6621. Determination of rate of interest
 
 **(a) General rule**
 
@@ -1017,7 +1017,7 @@ The term “large corporate underpayment” means any underpayment of a tax by a
 
 To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
 
-(Added Pub. L. 93–625, § 7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, § 4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, § 711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, § 345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, § 144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§ 1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, § 1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, § 7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, § 11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, § 713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, § 1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, § 1463(a), title XVI, § 1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§ 3301(a), 3302(a), July 22, 1998, 112 Stat. 741; Pub. L. 116–25, title I, § 1001(b)(1)(E), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 93–625, § 7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, § 4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, § 711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, § 345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, § 144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§ 1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, § 1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, § 7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, § 11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, § 713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, § 1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, § 1463(a), title XVI, § 1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§ 3301(a), 3302(a), July 22, 1998, 112 Stat. 741; Pub. L. 116–25, title I, § 1001(b)(1)(E), July 1, 2019, 133 Stat. 985.)
 
 **Editorial Notes**
 
@@ -1025,17 +1025,17 @@ To the extent that, for any period, interest is payable under subchapter A and a
 
 2019—Subsec. (c)(2)(A)(i). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
 
-1998—Subsec. (a)(1)(B). Pub. L. 105–206, § 3302(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “2 percentage points.”
+1998—Subsec. (a)(1)(B). Pub. L. 105–206, § 3302(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “2 percentage points.”
 
-Subsec. (d). Pub. L. 105–206, § 3301(a), added subsec. (d).
+Subsec. (d). Pub. L. 105–206, § 3301(a), added subsec. (d).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, § 1604(b)(1), substituted “subsection (c)(3), applied by substituting ‘overpayment’ for ‘underpayment’)” for “subsection (c)(3))” in concluding provisions.
+1997—Subsec. (a)(1). Pub. L. 105–34, § 1604(b)(1), substituted “subsection (c)(3), applied by substituting ‘overpayment’ for ‘underpayment’)” for “subsection (c)(3))” in concluding provisions.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 105–34, § 1463(a), added cl. (iii).
+Subsec. (c)(2)(B)(iii). Pub. L. 105–34, § 1463(a), added cl. (iii).
 
-1996—Subsec. (c)(2)(A). Pub. L. 104–188, § 1702(c)(6), inserted closing provisions “The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.”
+1996—Subsec. (c)(2)(A). Pub. L. 104–188, § 1702(c)(6), inserted closing provisions “The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.”
 
-Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(c)(7), substituted “this title” for “this subtitle”.
+Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(c)(7), substituted “this title” for “this subtitle”.
 
 1994—Subsec. (a)(1). Pub. L. 103–465 inserted concluding provisions.
 
@@ -1043,31 +1043,31 @@ Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(c)(7), substituted “this ti
 
 1989—Subsec. (c). Pub. L. 101–239 repealed subsec. (c) which related to attribution of interest on substantial underpayments to tax motivated transactions.
 
-1988—Subsec. (a)(1)(A), (2)(A). Pub. L. 100–647, § 1015(d)(1), substituted “Federal short-term” for “short-term Federal”.
+1988—Subsec. (a)(1)(A), (2)(A). Pub. L. 100–647, § 1015(d)(1), substituted “Federal short-term” for “short-term Federal”.
 
-Subsec. (b). Pub. L. 100–647, § 1015(d)(2), substituted “Federal short-term” for “short-term Federal” in heading.
+Subsec. (b). Pub. L. 100–647, § 1015(d)(2), substituted “Federal short-term” for “short-term Federal” in heading.
 
-Subsec. (b)(1). Pub. L. 100–647, § 1015(d)(1), substituted “Federal short-term” for “short-term Federal”.
+Subsec. (b)(1). Pub. L. 100–647, § 1015(d)(1), substituted “Federal short-term” for “short-term Federal”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 1511(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The annual rate established under this section shall be such adjusted rate as is established by the Secretary under subsection (b).”
+1986—Subsec. (a). Pub. L. 99–514, § 1511(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The annual rate established under this section shall be such adjusted rate as is established by the Secretary under subsection (b).”
 
-Subsec. (b). Pub. L. 99–514, § 1511(a), added subsec. (b) relating to determination of Federal short-term rate and struck out former subsec. (b) which related to interest rate adjustments and establishment of adjusted rates.
+Subsec. (b). Pub. L. 99–514, § 1511(a), added subsec. (b) relating to determination of Federal short-term rate and struck out former subsec. (b) which related to interest rate adjustments and establishment of adjusted rates.
 
-Subsec. (c). Pub. L. 99–514, § 1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out “annual” before “rate of interest” and substituted “the underpayment rate established under this section” for “the adjusted rate established under subsection (b)”, and struck out former subsec. (c) definition of prime rate, which read as follows: “For purposes of subsection (b), the term ‘adjusted prime rate charged by banks’ means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System.”
+Subsec. (c). Pub. L. 99–514, § 1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out “annual” before “rate of interest” and substituted “the underpayment rate established under this section” for “the adjusted rate established under subsection (b)”, and struck out former subsec. (c) definition of prime rate, which read as follows: “For purposes of subsection (b), the term ‘adjusted prime rate charged by banks’ means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System.”
 
-Subsec. (c)(3)(A)(v). Pub. L. 99–514, § 1535(a), added cl. (v).
+Subsec. (c)(3)(A)(v). Pub. L. 99–514, § 1535(a), added cl. (v).
 
-Subsec. (d). Pub. L. 99–514, § 1511(c)(1)(A), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 99–514, § 1511(c)(1)(A), redesignated subsec. (d) as (c).
 
 1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
 1982—Subsec. (b). Pub. L. 97–248 substituted provisions that if the adjusted prime rate charged by banks (rounded to the nearest full percent) during the 6-month period ending on September 30 of any calendar year, or during the 6-month period ending on March 31 of any calendar year, differs from the interest rate in effect under this section on either such date, respectively, then the Secretary shall establish, within 15 days after the close of the applicable 6-month period, an adjusted rate of interest equal to such adjusted prime rate, and that any adjusted rate of interest established under paragraph (1) shall become effective on January 1 of the succeeding year in the case of an adjustment attributable to paragraph (1)(A), and on July 1 of the same year in the case of an adjustment attributable to paragraph (1)(B), for provisions that the Secretary was to establish an adjusted rate of interest for the purpose of subsection (a) not later than October 15 of any year if the adjusted prime rate charged by banks during September of that year, rounded to the nearest full percent, was at least a full percentage point more or less than the interest rate which was then in effect, and that any such adjusted rate of interest would be equal to the adjusted prime rate charged by banks, rounded to the nearest full percent, and would become effective on January 1 of the immediately succeeding year.
 
-1981—Subsec. (b). Pub. L. 97–34, § 711(a), struck out provision that an adjustment provided for under this subsection not be made prior to the expiration of 23 months following the date of any preceding adjustment under this subsection which changes the rate of interest.
+1981—Subsec. (b). Pub. L. 97–34, § 711(a), struck out provision that an adjustment provided for under this subsection not be made prior to the expiration of 23 months following the date of any preceding adjustment under this subsection which changes the rate of interest.
 
-Pub. L. 97–34, § 711(c), substituted “January 1” for “February 1”.
+Pub. L. 97–34, § 711(c), substituted “January 1” for “February 1”.
 
-Subsec. (c). Pub. L. 97–34, § 711(b), struck out “90 percent of” before “the average predominant prime rate”.
+Subsec. (c). Pub. L. 97–34, § 711(b), struck out “90 percent of” before “the average predominant prime rate”.
 
 1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
@@ -1079,11 +1079,11 @@ Subsec. (c). Pub. L. 97–34, § 711(b), struck out “90 percent of” before
 
 Amendment by section 3301(a) of Pub. L. 105–206 applicable to interest for periods beginning after July 22, 1998, and, subject to applicable statutes of limitation, to interest for periods beginning before July 22, 1998, if taxpayer reasonably identifies and establishes periods of overpayments and underpayments for which zero rate applies, and not later than Dec. 31, 1999, requests application of subsec. (d) of this section to such periods, see section 3301(c) of Pub. L. 105–206, set out as a note under section 6601 of this title.
 
-Pub. L. 105–206, title III, § 3302(b), July 22, 1998, 112 Stat. 742, provided that: “The amendment made by this section [amending this section] shall apply to interest for the second and succeeding calendar quarters beginning after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3302(b), July 22, 1998, 112 Stat. 742, provided that: “The amendment made by this section [amending this section] shall apply to interest for the second and succeeding calendar quarters beginning after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1463(b), Aug. 5, 1997, 111 Stat. 1058, provided that: “The amendment made by subsection (a) [amending this section] shall apply for purposes of determining interest for periods after December 31, 1997.”
+Pub. L. 105–34, title XIV, § 1463(b), Aug. 5, 1997, 111 Stat. 1058, provided that: “The amendment made by subsection (a) [amending this section] shall apply for purposes of determining interest for periods after December 31, 1997.”
 
 Amendment by section 1604(b)(1) of Pub. L. 105–34 effective as if included in the sections of the Uruguay Round Agreements Act, Pub. L. 103–465, to which it relates, see section 1604(b)(4) of Pub. L. 105–34, set out as a note under section 412 of this title.
 
@@ -1093,11 +1093,11 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title VII, § 713(b), Dec. 8, 1994, 108 Stat. 5002, provided that: “The amendment made by this section [amending this section] shall apply for purposes of determining interest for periods after December 31, 1994.”
+Pub. L. 103–465, title VII, § 713(b), Dec. 8, 1994, 108 Stat. 5002, provided that: “The amendment made by this section [amending this section] shall apply for purposes of determining interest for periods after December 31, 1994.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11341(b), Nov. 5, 1990, 104 Stat. 1388–471, provided that: “The amendment made by subsection (a) [amending this section] shall apply for purposes of determining interest for periods after December 31, 1990.”
+Pub. L. 101–508, title XI, § 11341(b), Nov. 5, 1990, 104 Stat. 1388–471, provided that: “The amendment made by subsection (a) [amending this section] shall apply for purposes of determining interest for periods after December 31, 1990.”
 
 **Effective Date of 1989 Amendment**
 
@@ -1111,19 +1111,19 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1511(a), (c)(1) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Pub. L. 99–514, title XV, § 1535(b), Oct. 22, 1986, 100 Stat. 2750, provided that: “The amendment made by subsection (a) [amending this section] shall apply to interest accruing after December 31, 1984; except that such amendment shall not apply in the case of any underpayment with respect to which there was a final court decision before the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1535(b), Oct. 22, 1986, 100 Stat. 2750, provided that: “The amendment made by subsection (a) [amending this section] shall apply to interest accruing after December 31, 1984; except that such amendment shall not apply in the case of any underpayment with respect to which there was a final court decision before the date of the enactment of this Act [Oct. 22, 1986].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 144(c), July 18, 1984, 98 Stat. 684, provided that: “The amendments made by this section [amending this section and section 6214 of this title] shall apply with respect to interest accruing after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, § 144(c), July 18, 1984, 98 Stat. 684, provided that: “The amendments made by this section [amending this section and section 6214 of this title] shall apply with respect to interest accruing after December 31, 1984.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII, § 714(m), July 18, 1984, 98 Stat. 963, provided that: “The amendment made by this section [amending this section] shall apply to adjustments taking effect on or after January 1, 1983.”
+Pub. L. 97–248, title III, § 345(b), Sept. 3, 1982, 96 Stat. 636, as amended by Pub. L. 98–369, div. A, title VII, § 714(m), July 18, 1984, 98 Stat. 963, provided that: “The amendment made by this section [amending this section] shall apply to adjustments taking effect on or after January 1, 1983.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title VII, § 711(d), Aug. 13, 1981, 95 Stat. 340, provided that:
+Pub. L. 97–34, title VII, § 711(d), Aug. 13, 1981, 95 Stat. 340, provided that:
 
 > **“(1) For subsections (a) and (b).—** The amendments made by subsections (a) and (b) [amending this section] shall apply to adjustments made after the date of the enactment of this Act [Aug. 13, 1981].
 
@@ -1131,17 +1131,17 @@ Pub. L. 97–34, title VII, § 711(d), Aug. 13, 1981, 95 Stat. 340, provided t
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–167, § 4(c)(2), Dec. 29, 1979, 93 Stat. 1276, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 29, 1979].”
+Pub. L. 96–167, § 4(c)(2), Dec. 29, 1979, 93 Stat. 1276, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 29, 1979].”
 
 **Effective Date**
 
-Pub. L. 93–625, § 7(e), Jan. 3, 1975, 88 Stat. 2116, provided that: “The amendments made by this section [enacting this section and amending sections 514, 6163, 6166, 6167, 6332, 6504, 6601, 6602, 6611, 6654, 6655, and 7426 of this title and section 2411 of Title 28, Judiciary and Judicial Procedure] shall take effect on July 1, 1975, and apply to amounts outstanding on such date or arising thereafter.”
+Pub. L. 93–625, § 7(e), Jan. 3, 1975, 88 Stat. 2116, provided that: “The amendments made by this section [enacting this section and amending sections 514, 6163, 6166, 6167, 6332, 6504, 6601, 6602, 6611, 6654, 6655, and 7426 of this title and section 2411 of Title 28, Judiciary and Judicial Procedure] shall take effect on July 1, 1975, and apply to amounts outstanding on such date or arising thereafter.”
 
 **Regulations**
 
-Pub. L. 99–514, title XV, § 1511(b), Oct. 22, 1986, 100 Stat. 2744, provided that: “The Secretary of the Treasury or his delegate may issue regulations to coordinate section 6621 of the Internal Revenue Code of 1954 [now 1986] (as amended by this section) with section 6601(f) of such Code. Such regulations shall not apply to any period after the date 3 years after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1511(b), Oct. 22, 1986, 100 Stat. 2744, provided that: “The Secretary of the Treasury or his delegate may issue regulations to coordinate section 6621 of the Internal Revenue Code of 1954 [now 1986] (as amended by this section) with section 6601(f) of such Code. Such regulations shall not apply to any period after the date 3 years after the date of the enactment of this Act [Oct. 22, 1986].”
 
-### § 6622. Interest compounded daily
+### § 6622. Interest compounded daily
 
 **(a) General rule**
 
@@ -1151,13 +1151,13 @@ In computing the amount of any interest required to be paid under this title or 
 
 Subsection (a) shall not apply for purposes of computing the amount of any addition to tax under section 6654 or 6655.
 
-(Added Pub. L. 97–248, title III, § 344(a), Sept. 3, 1982, 96 Stat. 635.)
+(Added Pub. L. 97–248, title III, § 344(a), Sept. 3, 1982, 96 Stat. 635.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–248, title III, § 344(c), Sept. 3, 1982, 96 Stat. 636, provided that: “The amendments made by this section [enacting this section and amending section 6601 of this title] shall apply to interest accruing after December 31, 1982.”
+Pub. L. 97–248, title III, § 344(c), Sept. 3, 1982, 96 Stat. 636, provided that: “The amendments made by this section [enacting this section and amending section 6601 of this title] shall apply to interest accruing after December 31, 1982.”
 
 ## Subchapter D—Notice Requirements
 
@@ -1165,16 +1165,16 @@ Pub. L. 97–248, title III, § 344(c), Sept. 3, 1982, 96 Stat. 636, provided 
 
 **Amendments**
 
-2000—Pub. L. 106–554, § 1(a)(7) [title III, § 319(22)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647, substituted “Requirements” for “requirements” in subchapter heading.
+2000—Pub. L. 106–554, § 1(a)(7) [title III, § 319(22)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647, substituted “Requirements” for “requirements” in subchapter heading.
 
-### § 6631. Notice requirements
+### § 6631. Notice requirements
 
 The Secretary shall include with each notice to an individual taxpayer which includes an amount of interest required to be paid by such taxpayer under this title information with respect to the section of this title under which the interest is imposed and a computation of the interest.
 
-(Added Pub. L. 105–206, title III, § 3308(a), July 22, 1998, 112 Stat. 745.)
+(Added Pub. L. 105–206, title III, § 3308(a), July 22, 1998, 112 Stat. 745.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–206, title III, § 3308(c), July 22, 1998, 112 Stat. 745, as amended by Pub. L. 106–554, § 1(a)(7) [title III, § 302(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The amendments made by this section [enacting this subchapter] shall apply to notices issued after June 30, 2001. In the case of any notice issued after June 30, 2001, and before July 1, 2003, to which section 6631 of the Internal Revenue Code of 1986 applies, the requirements of section 6631 of such Code shall be treated as met if such notice contains a telephone number at which the taxpayer can request a copy of the taxpayer’s payment history relating to interest amounts included in such notice.”
+Pub. L. 105–206, title III, § 3308(c), July 22, 1998, 112 Stat. 745, as amended by Pub. L. 106–554, § 1(a)(7) [title III, § 302(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The amendments made by this section [enacting this subchapter] shall apply to notices issued after June 30, 2001. In the case of any notice issued after June 30, 2001, and before July 1, 2003, to which section 6631 of the Internal Revenue Code of 1986 applies, the requirements of section 6631 of such Code shall be treated as met if such notice contains a telephone number at which the taxpayer can request a copy of the taxpayer’s payment history relating to interest amounts included in such notice.”

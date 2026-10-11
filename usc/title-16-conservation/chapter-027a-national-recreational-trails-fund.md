@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 27A—NATIONAL RECREATIONAL TRAILS FUND
 
-## § 1261. Repealed. Pub. L. 105–178, title I, § 1112(c), June 9, 1998, 112 Stat. 151
+## § 1261. Repealed. Pub. L. 105–178, title I, § 1112(c), June 9, 1998, 112 Stat. 151
 
-Section, Pub. L. 102–240, title I, § 1302, Dec. 18, 1991, 105 Stat. 2064; Pub. L. 104–59, title III, § 337(a)–(d), Nov. 28, 1995, 109 Stat. 602, 603; Pub. L. 104–88, title IV, § 405(a)(5), Dec. 29, 1995, 109 Stat. 957, related to national recreational trails funding program.
+Section, Pub. L. 102–240, title I, § 1302, Dec. 18, 1991, 105 Stat. 2064; Pub. L. 104–59, title III, § 337(a)–(d), Nov. 28, 1995, 109 Stat. 602, 603; Pub. L. 104–88, title IV, § 405(a)(5), Dec. 29, 1995, 109 Stat. 957, related to national recreational trails funding program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–240, title I, § 1301, Dec. 18, 1991, 105 Stat. 2064, provided that: “This part [part B (§§ 1301–1303) of title I of Pub. L. 102–240, enacting this chapter] may be cited as the ‘Symms National Recreational Trails Act of 1991’.”
+Pub. L. 102–240, title I, § 1301, Dec. 18, 1991, 105 Stat. 2064, provided that: “This part [part B (§§ 1301–1303) of title I of Pub. L. 102–240, enacting this chapter] may be cited as the ‘Symms National Recreational Trails Act of 1991’.”
 
-## § 1262. National Recreational Trails Advisory Committee
+## § 1262. National Recreational Trails Advisory Committee
 
 **(a) Establishment**
 
@@ -85,9 +85,9 @@ The advisory committee shall present to the Secretary an annual report on its ac
 
 **(h) Reimbursement for expenses**
 
-Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) 1
+Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
@@ -99,22 +99,22 @@ Not later than 4 years after December 18, 1991, the Secretary shall prepare and 
 
 The advisory committee established by this section shall terminate on September 30, 2000.
 
-(Pub. L. 102–240, title I, § 1303, Dec. 18, 1991, 105 Stat. 2068; Pub. L. 104–59, title III, §§ 325(h), 337(e), Nov. 28, 1995, 109 Stat. 592, 603; Pub. L. 105–178, title I, § 1112(d), June 9, 1998, 112 Stat. 151.)
+(Pub. L. 102–240, title I, § 1303, Dec. 18, 1991, 105 Stat. 2068; Pub. L. 104–59, title III, §§ 325(h), 337(e), Nov. 28, 1995, 109 Stat. 592, 603; Pub. L. 105–178, title I, § 1112(d), June 9, 1998, 112 Stat. 151.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1261 of this title, referred to in subsec. (h), was repealed by Pub. L. 105–178, title I, § 1112(c), June 9, 1998, 112 Stat. 151.
+Section 1261 of this title, referred to in subsec. (h), was repealed by Pub. L. 105–178, title I, § 1112(c), June 9, 1998, 112 Stat. 151.
 
 **Amendments**
 
 1998—Subsec. (j). Pub. L. 105–178 added subsec. (j).
 
-1995—Subsec. (b). Pub. L. 104–59, § 337(e)(1)(A), substituted “12” for “11” in introductory provisions.
+1995—Subsec. (b). Pub. L. 104–59, § 337(e)(1)(A), substituted “12” for “11” in introductory provisions.
 
-Subsec. (b)(2) to (5). Pub. L. 104–59, § 337(e)(1)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+Subsec. (b)(2) to (5). Pub. L. 104–59, § 337(e)(1)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (c). Pub. L. 104–59, § 337(e)(2), substituted “(b)(3)” for “(b)(2)”.
+Subsec. (c). Pub. L. 104–59, § 337(e)(2), substituted “(b)(3)” for “(b)(2)”.
 
-Subsec. (i). Pub. L. 104–59, § 325(h), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+Subsec. (i). Pub. L. 104–59, § 325(h), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.

@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–296, title XI, § 1112(e)(3), Nov. 25, 2002, 116 Stat. 2276, substituted “Attorney General” for “Secretary” in item 846.
+2002—Pub. L. 107–296, title XI, § 1112(e)(3), Nov. 25, 2002, 116 Stat. 2276, substituted “Attorney General” for “Secretary” in item 846.
 
-1990—Pub. L. 101–647, title XXXV, § 3520, Nov. 29, 1990, 104 Stat. 4923, substituted “Licenses” for “Licensing” in item 843.
+1990—Pub. L. 101–647, title XXXV, § 3520, Nov. 29, 1990, 104 Stat. 4923, substituted “Licenses” for “Licensing” in item 843.
 
-1970—Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 952, added chapter 40 and items 841 to 848.
+1970—Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 952, added chapter 40 and items 841 to 848.
 
-## § 841. Definitions
+## § 841. Definitions
 
 As used in this chapter—
 
@@ -77,15 +77,15 @@ As used in this chapter—
 
 **(s)** “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 
-**(t) Indian Tribe 1 [footnote: 1 So in original. Probably should not be capitalized.] .—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).2
+**(t) Indian Tribe 1 [footnote: 1 So in original. Probably should not be capitalized.] .—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).2
 
-<sup>2</sup>  So in original. The second closing parenthesis probably should not appear.
+<sup>2</sup> So in original. The second closing parenthesis probably should not appear.
 
-\\, \\3
+\\, \\3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, § 602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§ 1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, § 236(b), July 29, 2010, 124 Stat. 2286.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, § 602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§ 1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, § 236(b), July 29, 2010, 124 Stat. 2286.)
 
 **Editorial Notes**
 
@@ -99,17 +99,17 @@ Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C.
 
 2010—Subsec. (t). Pub. L. 111–211 added subsec. (t).
 
-2002—Subsec. (d). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
+2002—Subsec. (d). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-Subsec. (j). Pub. L. 107–296, § 1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
+Subsec. (j). Pub. L. 107–296, § 1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
 
-Subsec. (k). Pub. L. 107–296, § 1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
+Subsec. (k). Pub. L. 107–296, § 1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 
-Subsec. (*l*). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
+Subsec. (*l*). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-Subsec. (p)(5). Pub. L. 107–296, § 1112(e)(3), which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
+Subsec. (p)(5). Pub. L. 107–296, § 1112(e)(3), which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
 
-Subsecs. (r), (s). Pub. L. 107–296, § 1122(a)(2), added subsecs. (r) and (s).
+Subsecs. (r), (s). Pub. L. 107–296, § 1122(a)(2), added subsecs. (r) and (s).
 
 1996—Subsecs. (*o*) to (q). Pub. L. 104–132 added subsecs. (*o*) to (q).
 
@@ -123,11 +123,11 @@ Amendment by section 1122(a) of Pub. L. 107–296 effective 180 days after Nov. 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–132, title VI, § 607, Apr. 24, 1996, 110 Stat. 1290, provided that: “Except as otherwise provided in this title [amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act [Apr. 24, 1996].”
+Pub. L. 104–132, title VI, § 607, Apr. 24, 1996, 110 Stat. 1290, provided that: “Except as otherwise provided in this title [amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act [Apr. 24, 1996].”
 
 **Effective Date**
 
-Pub. L. 91–452, title XI, § 1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provided that:
+Pub. L. 91–452, title XI, § 1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provided that:
 
 > **“(a)** Except as provided in subsection (b), the provisions of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect one hundred and twenty days after the date of enactment of this Act [Oct. 15, 1970].
 
@@ -135,19 +135,19 @@ Pub. L. 91–452, title XI, § 1105(a), (b), Oct. 15, 1970, 84 Stat. 959, prov
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–296, title XI, § 1121, Nov. 25, 2002, 116 Stat. 2280, provided that: “This subtitle [subtitle C (§§ 1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title] may be referred to as the ‘Safe Explosives Act’.”
+Pub. L. 107–296, title XI, § 1121, Nov. 25, 2002, 116 Stat. 2280, provided that: “This subtitle [subtitle C (§§ 1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title] may be referred to as the ‘Safe Explosives Act’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–298, § 1, Oct. 12, 1982, 96 Stat. 1319, provided: “That this Act [amending section 844 of this title] may be cited as the ‘Anti-Arson Act of 1982’.”
+Pub. L. 97–298, § 1, Oct. 12, 1982, 96 Stat. 1319, provided: “That this Act [amending section 844 of this title] may be cited as the ‘Anti-Arson Act of 1982’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 93–639, § 1, Jan. 4, 1975, 88 Stat. 2217, provided: “That this Act [amending sections 845 and 921 of this title] may be cited as ‘Amendments of 1973 to Federal Law Relating to Explosives’.”
+Pub. L. 93–639, § 1, Jan. 4, 1975, 88 Stat. 2217, provided: “That this Act [amending sections 845 and 921 of this title] may be cited as ‘Amendments of 1973 to Federal Law Relating to Explosives’.”
 
-**Findings and Purposes of Title VI of Pub. L. 104–132**
+**Findings and Purposes of Title VI of Pub. L. 104–132**
 
-Pub. L. 104–132, title VI, § 601, Apr. 24, 1996, 110 Stat. 1287, provided that:
+Pub. L. 104–132, title VI, § 601, Apr. 24, 1996, 110 Stat. 1287, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -165,15 +165,15 @@ Pub. L. 104–132, title VI, § 601, Apr. 24, 1996, 110 Stat. 1287, provided t
 
 **Marking, Rendering Inert, and Licensing of Explosive Materials**
 
-Pub. L. 104–132, title VII, § 732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 113], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Pub. L. 104–132, title VII, § 732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 113], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 **Congressional Declaration of Purpose**
 
-Pub. L. 91–452, title XI, § 1101, Oct. 15, 1970, 84 Stat. 952, provided that: “The Congress hereby declares that the purpose of this title [enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Pub. L. 91–452, title XI, § 1101, Oct. 15, 1970, 84 Stat. 952, provided that: “The Congress hereby declares that the purpose of this title [enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
 **Modification of Other Provisions**
 
-Pub. L. 91–452, title XI, § 1104, Oct. 15, 1970, 84 Stat. 959, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–452, title XI, § 1104, Oct. 15, 1970, 84 Stat. 959, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Nothing in this title [enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section] shall be construed as modifying or affecting any provision of—
 
@@ -189,13 +189,13 @@ Pub. L. 91–452, title XI, § 1104, Oct. 15, 1970, 84 Stat. 959, as amended b
 
 **Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970**
 
-Pub. L. 91–452, title XI, § 1105(c), Oct. 15, 1970, 84 Stat. 960, provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act [Oct. 15, 1970] and who has filed an application for a license or permit under the provisions of section 843 of such chapter 40 prior to the effective date of such section 843 [see Effective Date note set out above] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
+Pub. L. 91–452, title XI, § 1105(c), Oct. 15, 1970, 84 Stat. 960, provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act [Oct. 15, 1970] and who has filed an application for a license or permit under the provisions of section 843 of such chapter 40 prior to the effective date of such section 843 [see Effective Date note set out above] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
 
 **Authorization of Appropriations**
 
-Pub. L. 91–452, title XI, § 1107, Oct. 15, 1970, 84 Stat. 960, provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title [enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section].”
+Pub. L. 91–452, title XI, § 1107, Oct. 15, 1970, 84 Stat. 960, provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title [enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section].”
 
-## § 842. Unlawful acts
+## § 842. Unlawful acts
 
 **(a)** It shall be unlawful for any person—
 
@@ -245,9 +245,9 @@ Pub. L. 91–452, title XI, § 1107, Oct. 15, 1970, 84 Stat. 960, provided tha
 
 **(B)** is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-**(i)** is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary 1
+**(i)** is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General”.
+<sup>1</sup> So in original. Probably should be “Attorney General”.
 
 in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
@@ -257,9 +257,9 @@ in consultation with the Secretary of State, entering the United States on offic
 
 **(D)** is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
-**(8)** has been discharged from the armed forces under dishonorable conditions; 2
+**(8)** has been discharged from the armed forces under dishonorable conditions; 2
 
-<sup>2</sup>  So in original. Probably should be followed by “or”.
+<sup>2</sup> So in original. Probably should be followed by “or”.
 
 **(9)** having been a citizen of the United States, has renounced the citizenship of that person.
 
@@ -287,7 +287,7 @@ in consultation with the Secretary of State, entering the United States on offic
 
 **(B)** is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-**(i)** is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
+**(i)** is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 **(ii)** is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
@@ -295,11 +295,11 @@ in consultation with the Secretary of State, entering the United States on offic
 
 **(D)** is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
-**(6)** who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
+**(6)** who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
 
-**(7)** who, having been a citizen of the United States, has renounced the citizenship of that person 3
+**(7)** who, having been a citizen of the United States, has renounced the citizenship of that person 3
 
-<sup>3</sup>  So in original. Probably should be followed by a semicolon.
+<sup>3</sup> So in original. Probably should be followed by a semicolon.
 
 to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in or affecting interstate or foreign commerce.
 
@@ -343,7 +343,7 @@ to ship or transport any explosive in or affecting interstate or foreign commerc
 
 **(B)** to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, § 6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, § 3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§ 110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, § 603, title VII, § 707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, § 2(a), Aug. 17, 1999, 113 Stat. 398; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1122(b), 1123, Nov. 25, 2002, 116 Stat. 2276, 2280, 2283; Pub. L. 108–177, title III, § 372, Dec. 13, 2003, 117 Stat. 2627.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, § 6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, § 3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§ 110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, § 603, title VII, § 707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, § 2(a), Aug. 17, 1999, 113 Stat. 398; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1122(b), 1123, Nov. 25, 2002, 116 Stat. 2276, 2280, 2283; Pub. L. 108–177, title III, § 372, Dec. 13, 2003, 117 Stat. 2627.)
 
 **Editorial Notes**
 
@@ -355,33 +355,33 @@ The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2)
 
 **Amendments**
 
-2003—Subsec. (d)(7)(A). Pub. L. 108–177, § 372(a)(1), struck out “or” at end.
+2003—Subsec. (d)(7)(A). Pub. L. 108–177, § 372(a)(1), struck out “or” at end.
 
-Subsec. (d)(7)(B). Pub. L. 108–177, § 372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
-
-“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
-
-“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
-
-Subsec. (d)(7)(C), (D). Pub. L. 108–177, § 372(a)(3), added subpars. (C) and (D).
-
-Subsec. (i)(5)(A). Pub. L. 108–177, § 372(b)(1), struck out “or” at end.
-
-Subsec. (i)(5)(B). Pub. L. 108–177, § 372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+Subsec. (d)(7)(B). Pub. L. 108–177, § 372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
 “(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
 “(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
 
-Subsec. (i)(5)(C), (D). Pub. L. 108–177, § 372(b)(3), added subpars. (C) and (D).
+Subsec. (d)(7)(C), (D). Pub. L. 108–177, § 372(a)(3), added subpars. (C) and (D).
 
-2002—Subsec. (a)(3), (4). Pub. L. 107–296, § 1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
+Subsec. (i)(5)(A). Pub. L. 108–177, § 372(b)(1), struck out “or” at end.
+
+Subsec. (i)(5)(B). Pub. L. 108–177, § 372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+
+“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+
+Subsec. (i)(5)(C), (D). Pub. L. 108–177, § 372(b)(3), added subpars. (C) and (D).
+
+2002—Subsec. (a)(3), (4). Pub. L. 107–296, § 1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
 
 “(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
 
 “(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides.”
 
-Subsec. (b). Pub. L. 107–296, § 1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
+Subsec. (b). Pub. L. 107–296, § 1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
 
 “(1) a licensee;
 
@@ -389,35 +389,35 @@ Subsec. (b). Pub. L. 107–296, § 1122(b)(3), added subsec. (b) and struck ou
 
 “(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser’s residence.”
 
-Subsec. (d)(6). Pub. L. 107–296, § 1123(a)(2), substituted “or who has been committed to a mental institution;” for period at end.
+Subsec. (d)(6). Pub. L. 107–296, § 1123(a)(2), substituted “or who has been committed to a mental institution;” for period at end.
 
-Subsec. (d)(7) to (9). Pub. L. 107–296, § 1123(a)(1), (3), added pars. (7) to (9).
+Subsec. (d)(7) to (9). Pub. L. 107–296, § 1123(a)(1), (3), added pars. (7) to (9).
 
-Subsec. (f). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
+Subsec. (f). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-Subsec. (i). Pub. L. 107–296, § 1123(b)(3), inserted “or affecting” before “interstate” in two places in concluding provisions.
+Subsec. (i). Pub. L. 107–296, § 1123(b)(3), inserted “or affecting” before “interstate” in two places in concluding provisions.
 
-Subsec. (i)(5) to (7). Pub. L. 107–296, § 1123(b)(1), (2), added pars. (5) to (7).
+Subsec. (i)(5) to (7). Pub. L. 107–296, § 1123(b)(1), (2), added pars. (5) to (7).
 
-Subsecs. (j), (k), (*o*). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (j), (k), (*o*). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
 1999—Subsec. (p). Pub. L. 106–54 added subsec. (p).
 
-1996—Subsec. (h). Pub. L. 104–132, § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
+1996—Subsec. (h). Pub. L. 104–132, § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
 
-Subsecs. (*l*) to (*o*). Pub. L. 104–132, § 603, added subsecs. (*l*) to (*o*).
+Subsecs. (*l*) to (*o*). Pub. L. 104–132, § 603, added subsecs. (*l*) to (*o*).
 
-1994—Subsec. (d). Pub. L. 103–322, § 110516, substituted “any person” for “any licensee” in introductory provisions.
+1994—Subsec. (d). Pub. L. 103–322, § 110516, substituted “any person” for “any licensee” in introductory provisions.
 
-Subsec. (i). Pub. L. 103–322, § 110508, inserted “or possess” after “receive” in concluding provisions.
+Subsec. (i). Pub. L. 103–322, § 110508, inserted “or possess” after “receive” in concluding provisions.
 
-1990—Subsec. (d)(5). Pub. L. 101–647, § 3521(1), substituted “; or” for a period.
+1990—Subsec. (d)(5). Pub. L. 101–647, § 3521(1), substituted “; or” for a period.
 
-Subsec. (i)(3). Pub. L. 101–647, § 3521(2), substituted “; or” for a period.
+Subsec. (i)(3). Pub. L. 101–647, § 3521(2), substituted “; or” for a period.
 
-1988—Subsec. (d)(5). Pub. L. 100–690, § 6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+1988—Subsec. (d)(5). Pub. L. 100–690, § 6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
 
-Subsec. (i)(3). Pub. L. 100–690, § 6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+Subsec. (i)(3). Pub. L. 100–690, § 6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -435,7 +435,7 @@ Amendment by section 1122(b) of Pub. L. 107–296 effective 180 days after Nov. 
 
 Amendment by section 603 of Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
 
-## § 843. Licenses and user permits
+## § 843. Licenses and user permits
 
 **(a)** An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
 
@@ -449,13 +449,13 @@ Amendment by section 603 of Pub. L. 104–132 effective 1 year after Apr. 24, 19
 
 **(4)**
 
-**(A)** the Secretary 1
+**(A)** the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General”.
+<sup>1</sup> So in original. Probably should be “Attorney General”.
 
-verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary 1 determines appropriate, that the applicant has a place of storage for explosive materials which meets such standards of public safety and security against theft as the Attorney General by regulations shall prescribe; and
+verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary 1 determines appropriate, that the applicant has a place of storage for explosive materials which meets such standards of public safety and security against theft as the Attorney General by regulations shall prescribe; and
 
-**(B)** subparagraph (A) shall not apply to an applicant for the renewal of a limited permit if the Secretary <sup>1</sup> has verified, by inspection within the preceding 3 years, the matters described in subparagraph (A) with respect to the applicant; and
+**(B)** subparagraph (A) shall not apply to an applicant for the renewal of a limited permit if the Secretary <sup>1</sup> has verified, by inspection within the preceding 3 years, the matters described in subparagraph (A) with respect to the applicant; and
 
 **(5)** the applicant has demonstrated and certified in writing that he is familiar with all published State laws and local ordinances relating to explosive materials for the location in which he intends to do business;
 
@@ -465,9 +465,9 @@ verifies by inspection or, if the application is for an original limited permit 
 
 **(c)** The Attorney General shall approve or deny an application within a period of 90 days for licenses and permits, beginning on the date such application is received by the Attorney General.
 
-**(d)** The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary’s 2
+**(d)** The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary’s 2
 
-<sup>2</sup>  So in original. Probably should be “Attorney General’s”.
+<sup>2</sup> So in original. Probably should be “Attorney General’s”.
 
 action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
 
@@ -475,21 +475,21 @@ action under this subsection may be reviewed only as provided in subsection (e)(
 
 **(1)** Any person whose application is denied or whose license or permit is revoked shall receive a written notice from the Attorney General stating the specific grounds upon which such denial or revocation is based. Any notice of a revocation of a license or permit shall be given to the holder of such license or permit prior to or concurrently with the effective date of the revocation.
 
-**(2)** If the Attorney General denies an application for, or revokes a license, or permit, he shall, upon request by the aggrieved party, promptly hold a hearing to review his denial or revocation. In the case of a revocation, the Attorney General may upon a request of the holder stay the effective date of the revocation. A hearing under this section shall be at a location convenient to the aggrieved party. The Attorney General shall give written notice of his decision to the aggrieved party within a reasonable time after the hearing. The aggrieved party may, within sixty days after receipt of the Secretary’s <sup>2</sup> written decision, file a petition with the United States court of appeals for the district in which he resides or has his principal place of business for a judicial review of such denial or revocation, pursuant to sections 701–706 of title 5, United States Code.
+**(2)** If the Attorney General denies an application for, or revokes a license, or permit, he shall, upon request by the aggrieved party, promptly hold a hearing to review his denial or revocation. In the case of a revocation, the Attorney General may upon a request of the holder stay the effective date of the revocation. A hearing under this section shall be at a location convenient to the aggrieved party. The Attorney General shall give written notice of his decision to the aggrieved party within a reasonable time after the hearing. The aggrieved party may, within sixty days after receipt of the Secretary’s <sup>2</sup> written decision, file a petition with the United States court of appeals for the district in which he resides or has his principal place of business for a judicial review of such denial or revocation, pursuant to sections 701–706 of title 5, United States Code.
 
-**(f)** Licensees and holders of user permits shall make available for inspection at all reasonable times their records kept pursuant to this chapter or the regulations issued hereunder, and licensees and permittees shall submit to the Attorney General such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Attorney General may enter during business hours the premises (including places of storage) of any licensee or holder of a user permit, for the purpose of inspecting or examining (1) any records or documents required to be kept by such licensee or permittee, under the provisions of this chapter or regulations issued hereunder, and (2) any explosive materials kept or stored by such licensee or permittee at such premises. Upon the request of any State or any political subdivision thereof, the Attorney General may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received explosive materials, together with a description of such explosive materials. The Secretary <sup>1</sup> may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).
+**(f)** Licensees and holders of user permits shall make available for inspection at all reasonable times their records kept pursuant to this chapter or the regulations issued hereunder, and licensees and permittees shall submit to the Attorney General such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Attorney General may enter during business hours the premises (including places of storage) of any licensee or holder of a user permit, for the purpose of inspecting or examining (1) any records or documents required to be kept by such licensee or permittee, under the provisions of this chapter or regulations issued hereunder, and (2) any explosive materials kept or stored by such licensee or permittee at such premises. Upon the request of any State or any political subdivision thereof, the Attorney General may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received explosive materials, together with a description of such explosive materials. The Secretary <sup>1</sup> may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).
 
 **(g)** Licenses and user permits issued under the provisions of subsection (b) of this section shall be kept posted and kept available for inspection on the premises covered by the license and permit.
 
 **(h)**
 
-**(1)** If the Secretary <sup>1</sup> receives, from an employer, the name and other identifying information of a responsible person or an employee who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Secretary <sup>1</sup> shall determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i). In making the determination, the Secretary <sup>1</sup> may take into account a letter or document issued under paragraph (2).
+**(1)** If the Secretary <sup>1</sup> receives, from an employer, the name and other identifying information of a responsible person or an employee who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Secretary <sup>1</sup> shall determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i). In making the determination, the Secretary <sup>1</sup> may take into account a letter or document issued under paragraph (2).
 
 **(2)**
 
-**(A)** If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
+**(A)** If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
 
-**(B)** If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
+**(B)** If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
 
 **(i)** confirms the determination;
 
@@ -507,45 +507,45 @@ action under this subsection may be reviewed only as provided in subsection (e)(
 
 **(B)** information on chemical composition of those products; and
 
-**(C)** any other information that the Secretary <sup>1</sup> determines is relevant to the identification of the explosive materials or to identification of the ammonium nitrate.
+**(C)** any other information that the Secretary <sup>1</sup> determines is relevant to the identification of the explosive materials or to identification of the ammonium nitrate.
 
-**(2) Reimbursement.—** The Secretary <sup>1</sup> shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
+**(2) Reimbursement.—** The Secretary <sup>1</sup> shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 955; amended Pub. L. 107–296, title XI, §§ 1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, 116 Stat. 2276, 2281, 2282, 2285.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 955; amended Pub. L. 107–296, title XI, §§ 1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, 116 Stat. 2276, 2281, 2282, 2285.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–296, § 1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
+2002—Subsec. (a). Pub. L. 107–296, § 1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
 
-Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-Subsec. (b). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in introductory provisions.
+Subsec. (b). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–296, § 1122(d)(1), added par. (1) and struck out former par. (1) which read as follows: “the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;”.
+Subsec. (b)(1). Pub. L. 107–296, § 1122(d)(1), added par. (1) and struck out former par. (1) which read as follows: “the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;”.
 
-Subsec. (b)(4). Pub. L. 107–296, § 1122(d)(2), designated existing provisions as subpar. (A), inserted “the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that” before “the applicant”, and added subpar. (B).
+Subsec. (b)(4). Pub. L. 107–296, § 1122(d)(2), designated existing provisions as subpar. (A), inserted “the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that” before “the applicant”, and added subpar. (B).
 
-Pub. L. 107–296, § 1112(e)(3), substituted “the Attorney General by regulations” for “the Secretary by regulations”.
+Pub. L. 107–296, § 1112(e)(3), substituted “the Attorney General by regulations” for “the Secretary by regulations”.
 
-Subsec. (b)(6), (7). Pub. L. 107–296, § 1122(d)(3), (4), added pars. (6) and (7).
+Subsec. (b)(6), (7). Pub. L. 107–296, § 1122(d)(3), (4), added pars. (6) and (7).
 
-Subsec. (c). Pub. L. 107–296, § 1122(e), substituted “90 days for licenses and permits,” for “forty-five days”.
+Subsec. (c). Pub. L. 107–296, § 1122(e), substituted “90 days for licenses and permits,” for “forty-five days”.
 
-Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-Subsecs. (d), (e). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (d), (e). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (f). Pub. L. 107–296, § 1122(f), in first sentence, substituted “Licensees and holders of user permits” for “Licensees and permittees” and inserted “licensees and permittees” before “shall submit”, in second sentence, substituted “holder of a user permit” for “permittee”, and inserted at end “The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).”
+Subsec. (f). Pub. L. 107–296, § 1122(f), in first sentence, substituted “Licensees and holders of user permits” for “Licensees and permittees” and inserted “licensees and permittees” before “shall submit”, in second sentence, substituted “holder of a user permit” for “permittee”, and inserted at end “The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).”
 
-Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (g). Pub. L. 107–296, § 1122(g), inserted “user” before “permits”.
+Subsec. (g). Pub. L. 107–296, § 1122(g), inserted “user” before “permits”.
 
-Subsec. (h). Pub. L. 107–296, § 1122(h), added subsec. (h).
+Subsec. (h). Pub. L. 107–296, § 1122(h), added subsec. (h).
 
-Subsec. (i). Pub. L. 107–296, § 1124, added subsec. (i).
+Subsec. (i). Pub. L. 107–296, § 1124, added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -553,7 +553,7 @@ Subsec. (i). Pub. L. 107–296, § 1124, added subsec. (i).
 
 Amendment by sections 1112(e)(3) and 1124 of Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title XI, § 1122(i), Nov. 25, 2002, 116 Stat. 2283, provided that:
+Pub. L. 107–296, title XI, § 1122(i), Nov. 25, 2002, 116 Stat. 2283, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 841 and 842 of this title] shall take effect 180 days after the date of enactment of this Act [Nov. 25, 2002].
 
@@ -563,7 +563,7 @@ Pub. L. 107–296, title XI, § 1122(i), Nov. 25, 2002, 116 Stat. 2283, provid
 
 Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring a license or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
 
-## § 844. Penalties
+## § 844. Penalties
 
 **(a)** Any person who—
 
@@ -633,15 +633,15 @@ including a felony which provides for an enhanced punishment if committed by the
 
 **(p) Theft Reporting Requirement.—**
 
-**(1) In general.—** A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary 1
+**(1) In general.—** A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General”.
+<sup>1</sup> So in original. Probably should be “Attorney General”.
 
 not later than 24 hours after the discovery of the theft.
 
 **(2) Penalty.—** A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, § 2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, § 1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, § 6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, § 3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, § 5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, § 60003(a)(3), title XI, §§ 110504(b), 110509, 110515(b), 110518(b), title XXXII, §§ 320106, 320917(a), title XXXIII, § 330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, § 604, title VII, §§ 701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, § 603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, § 2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 108–426, § 2(c)(6), Nov. 30, 2004, 118 Stat. 2424.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, § 2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, § 1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, § 6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, § 3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, § 5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, § 60003(a)(3), title XI, §§ 110504(b), 110509, 110515(b), 110518(b), title XXXII, §§ 320106, 320917(a), title XXXIII, § 330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, § 604, title VII, §§ 701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, § 603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, § 2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 108–426, § 2(c)(6), Nov. 30, 2004, 118 Stat. 2424.)
 
 **Editorial Notes**
 
@@ -655,87 +655,87 @@ Section 5845(a) of that Code, referred to in subsec. (c)(1), is section 5845(a) 
 
 2004—Subsec. (g)(2)(B). Pub. L. 108–426 substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
-2002—Subsec. (c)(2), (3). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+2002—Subsec. (c)(2), (3). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (f)(1). Pub. L. 107–296, § 1125, inserted “or any institution or organization receiving Federal financial assistance,” before “shall”.
+Subsec. (f)(1). Pub. L. 107–296, § 1125, inserted “or any institution or organization receiving Federal financial assistance,” before “shall”.
 
-Subsec. (p). Pub. L. 107–296, § 1127, added subsec. (p).
+Subsec. (p). Pub. L. 107–296, § 1127, added subsec. (p).
 
-1999—Subsec. (a). Pub. L. 106–54, § 2(b)(1), designated existing provisions as par. (1) and added par. (2).
+1999—Subsec. (a). Pub. L. 106–54, § 2(b)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j). Pub. L. 106–54, § 2(b)(2), inserted “and section 842(p)” after “this section”.
+Subsec. (j). Pub. L. 106–54, § 2(b)(2), inserted “and section 842(p)” after “this section”.
 
-1996—Subsec. (a). Pub. L. 104–132, § 604, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who violates subsections (a) through (i) of section 842 of this chapter shall be fined under this title or imprisoned not more than ten years, or both.”
+1996—Subsec. (a). Pub. L. 104–132, § 604, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who violates subsections (a) through (i) of section 842 of this chapter shall be fined under this title or imprisoned not more than ten years, or both.”
 
-Subsec. (e). Pub. L. 104–132, §§ 708(a)(1), 724, substituted “interstate or foreign commerce, or in or affecting interstate or foreign commerce,” for “commerce” and “10” for “five”.
+Subsec. (e). Pub. L. 104–132, §§ 708(a)(1), 724, substituted “interstate or foreign commerce, or in or affecting interstate or foreign commerce,” for “commerce” and “10” for “five”.
 
-Subsec. (f). Pub. L. 104–132, § 708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
+Subsec. (f). Pub. L. 104–132, § 708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
 
-Subsec. (h). Pub. L. 104–132, § 708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5 years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
+Subsec. (h). Pub. L. 104–132, § 708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5 years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
 
-Subsec. (i). Pub. L. 104–294, which directed substitution of comma for “,,” each place appearing, could not be executed because “,,” did not appear in text subsequent to amendment by Pub. L. 104–132, § 708(a)(4). See below.
+Subsec. (i). Pub. L. 104–294, which directed substitution of comma for “,,” each place appearing, could not be executed because “,,” did not appear in text subsequent to amendment by Pub. L. 104–132, § 708(a)(4). See below.
 
-Pub. L. 104–132, § 708(c)(3), struck out at end “No person shall be prosecuted, tried, or punished for any noncapital offense under this subsection unless the indictment is found or the information is instituted within 7 years after the date on which the offense was committed.”
+Pub. L. 104–132, § 708(c)(3), struck out at end “No person shall be prosecuted, tried, or punished for any noncapital offense under this subsection unless the indictment is found or the information is instituted within 7 years after the date on which the offense was committed.”
 
-Pub. L. 104–132, § 708(a)(4)(B), which directed substitution of “not less than 7 years and not more than 40 years, fined under this title” for “not more than 40 years, fined the greater of a fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,”, was executed by making the substitution in text which read “not more than 40 years, fined the greater of the fine under this title” to reflect the probable intent of Congress.
+Pub. L. 104–132, § 708(a)(4)(B), which directed substitution of “not less than 7 years and not more than 40 years, fined under this title” for “not more than 40 years, fined the greater of a fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,”, was executed by making the substitution in text which read “not more than 40 years, fined the greater of the fine under this title” to reflect the probable intent of Congress.
 
-Pub. L. 104–132, § 708(a)(4)(A), substituted “not less than 5 years and not more than 20 years, fined under this title” for “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,”.
+Pub. L. 104–132, § 708(a)(4)(A), substituted “not less than 5 years and not more than 20 years, fined under this title” for “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,”.
 
-Subsec. (n). Pub. L. 104–132, § 701, added subsec. (n).
+Subsec. (n). Pub. L. 104–132, § 701, added subsec. (n).
 
-Subsec. (*o*). Pub. L. 104–132, § 706, added subsec. (*o*).
+Subsec. (*o*). Pub. L. 104–132, § 706, added subsec. (*o*).
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
 
-Subsec. (c). Pub. L. 103–322, § 110509, designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (c). Pub. L. 103–322, § 110509, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 103–322, § 330016(1)(L), (N), substituted “fined under this title” for “fined not more than $10,000” after “ten years, or” and for “fined not more than $20,000” after “twenty years or”.
+Subsec. (d). Pub. L. 103–322, § 330016(1)(L), (N), substituted “fined under this title” for “fined not more than $10,000” after “ten years, or” and for “fined not more than $20,000” after “twenty years or”.
 
-Pub. L. 103–322, § 60003(a)(3)(A), struck out before period at end “as provided in section 34 of this title”.
+Pub. L. 103–322, § 60003(a)(3)(A), struck out before period at end “as provided in section 34 of this title”.
 
-Subsec. (e). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+Subsec. (e). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Subsec. (f). Pub. L. 103–322, § 320106(1)(B), which directed the substitution of “not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than twenty years, or fined not more than $10,000”, was executed by making the substitution for “not more than twenty years, or fined not more than $20,000”, to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 103–322, § 320106(1)(B), which directed the substitution of “not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than twenty years, or fined not more than $10,000”, was executed by making the substitution for “not more than twenty years, or fined not more than $20,000”, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, § 320106(1)(A), substituted “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years, or fined not more than $10,000”.
+Pub. L. 103–322, § 320106(1)(A), substituted “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years, or fined not more than $10,000”.
 
-Pub. L. 103–322, § 60003(a)(3)(B), struck out before period at end “as provided in section 34 of this title”.
+Pub. L. 103–322, § 60003(a)(3)(B), struck out before period at end “as provided in section 34 of this title”.
 
 Subsec. (g)(2)(B). Pub. L. 103–272 substituted “chapter 51 of title 49” for “the Hazardous Materials Transportation Act (49 App. U.S.C. 1801, et seq.)”.
 
-Subsec. (h). Pub. L. 103–322, § 320106(2), in concluding provisions, substituted “5 years but not more than 15 years” for “five years” and “10 years but not more than 25 years” for “ten years”.
+Subsec. (h). Pub. L. 103–322, § 320106(2), in concluding provisions, substituted “5 years but not more than 15 years” for “five years” and “10 years but not more than 25 years” for “ten years”.
 
-Subsec. (i). Pub. L. 103–322, § 320917(a), inserted at end “No person shall be prosecuted, tried, or punished for any noncapital offense under this subsection unless the indictment is found or the information is instituted within 7 years after the date on which the offense was committed.”
+Subsec. (i). Pub. L. 103–322, § 320917(a), inserted at end “No person shall be prosecuted, tried, or punished for any noncapital offense under this subsection unless the indictment is found or the information is instituted within 7 years after the date on which the offense was committed.”
 
-Pub. L. 103–322, § 320106(3), substituted “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years or fined not more than $10,000” and “not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than twenty years or fined not more than $20,000”.
+Pub. L. 103–322, § 320106(3), substituted “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years or fined not more than $10,000” and “not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than twenty years or fined not more than $20,000”.
 
-Pub. L. 103–322, § 60003(a)(3)(C), struck out “as provided in section 34 of this title” after “death penalty or to life imprisonment”.
+Pub. L. 103–322, § 60003(a)(3)(C), struck out “as provided in section 34 of this title” after “death penalty or to life imprisonment”.
 
-Subsec. (k). Pub. L. 103–322, § 110504(b), added subsec. (k).
+Subsec. (k). Pub. L. 103–322, § 110504(b), added subsec. (k).
 
-Subsec. (*l*). Pub. L. 103–322, § 110515(b), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 103–322, § 110515(b), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 103–322, § 110518(b), added subsec. (m).
+Subsec. (m). Pub. L. 103–322, § 110518(b), added subsec. (m).
 
 1990—Subsec. (d). Pub. L. 101–647 substituted “subsection,” for “subsection,,” before “shall be subject to imprisonment”.
 
-1988—Subsec. (g). Pub. L. 100–690, § 6474(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), whoever” for “Whoever”, inserted “in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or” after “possess an explosive”, inserted “or airport” after “such building”, substituted “not more than five years, or fined under this title, or both” for “not more than one year, or fined not more than $1,000, or both”, and added par. (2).
+1988—Subsec. (g). Pub. L. 100–690, § 6474(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), whoever” for “Whoever”, inserted “in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or” after “possess an explosive”, inserted “or airport” after “such building”, substituted “not more than five years, or fined under this title, or both” for “not more than one year, or fined not more than $1,000, or both”, and added par. (2).
 
-Subsec. (h). Pub. L. 100–690, § 6474(b)(2), which directed the amendment of subsec. (h) by striking “shall be sentenced” through the end and inserting new provisions was executed by striking “shall be sentenced” the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: “shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence.”
+Subsec. (h). Pub. L. 100–690, § 6474(b)(2), which directed the amendment of subsec. (h) by striking “shall be sentenced” through the end and inserting new provisions was executed by striking “shall be sentenced” the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: “shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence.”
 
-Subsec. (h)(2). Pub. L. 100–690, § 6474(b)(1), in par. (2), struck out “unlawfully” after “explosive”.
+Subsec. (h)(2). Pub. L. 100–690, § 6474(b)(1), in par. (2), struck out “unlawfully” after “explosive”.
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1984—Subsecs. (d), (f), (i). Pub. L. 98–473 substituted “personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “personal injury results” and “death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “death results”.
 
-1982—Subsecs. (e), (f). Pub. L. 97–298, § 2(a), inserted “fire or” after “by means of” wherever appearing.
+1982—Subsecs. (e), (f). Pub. L. 97–298, § 2(a), inserted “fire or” after “by means of” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 97–298, § 2(b), inserted “fire or” after “uses”.
+Subsec. (h)(1). Pub. L. 97–298, § 2(b), inserted “fire or” after “uses”.
 
-Subsec. (i). Pub. L. 97–298, § 2(c), inserted “fire or” after “by means of”.
+Subsec. (i). Pub. L. 97–298, § 2(c), inserted “fire or” after “by means of”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,13 +749,13 @@ Amendment by section 604 of Pub. L. 104–132 effective 1 year after Apr. 24, 19
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXII, § 320917(b), Sept. 13, 1994, 108 Stat. 2129, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any offense described in the amendment that was committed more than 5 years prior to the date of enactment of this Act [Sept. 13, 1994].”
+Pub. L. 103–322, title XXXII, § 320917(b), Sept. 13, 1994, 108 Stat. 2129, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any offense described in the amendment that was committed more than 5 years prior to the date of enactment of this Act [Sept. 13, 1994].”
 
 **Effective Date**
 
 Subsecs. (a) to (c) of this section effective 120 days after Oct. 15, 1970, and subsecs. (d) to (j) of this section effective on Oct. 15, 1970, see section 1105(a), (b), set out as a note under section 841 of this title.
 
-## § 845. Exceptions; relief from disabilities
+## § 845. Exceptions; relief from disabilities
 
 **(a)** Except in the case of subsection (*l*), (m), (n), or (*o*) of section 842 and subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
 
@@ -769,9 +769,9 @@ Subsecs. (a) to (c) of this section effective 120 days after Oct. 15, 1970, and 
 
 **(5)** commercially manufactured black powder in quantities not to exceed fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms as defined in section 921(a)(16) of title 18 of the United States Code, or in antique devices as exempted from the term “destructive device” in section 921(a)(4) of title 18 of the United States Code;
 
-**(6)** the manufacture under the regulation of the military department of the United States of explosive materials for, or their distribution to or storage or possession by the military or naval services or other agencies of the United States; or to arsenals, navy yards, depots, or other establishments owned by, or operated by or on behalf of, the United States 1
+**(6)** the manufacture under the regulation of the military department of the United States of explosive materials for, or their distribution to or storage or possession by the military or naval services or other agencies of the United States; or to arsenals, navy yards, depots, or other establishments owned by, or operated by or on behalf of, the United States 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 and
 
@@ -799,7 +799,7 @@ and
 
 **(3)** For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, § 101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, § 605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 109–59, title VII, § 7127, Aug. 10, 2005, 119 Stat. 1909; Pub. L. 111–211, title II, § 236(a), (c), July 29, 2010, 124 Stat. 2286.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, § 101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, § 605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§ 1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 109–59, title VII, § 7127, Aug. 10, 2005, 119 Stat. 1909; Pub. L. 111–211, title II, § 236(a), (c), July 29, 2010, 124 Stat. 2286.)
 
 **Editorial Notes**
 
@@ -809,21 +809,21 @@ The date of enactment of the Antiterrorism and Effective Death Penalty Act of 19
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 236(c)(1), substituted “subsection (*l*),” for “subsections (*l*),” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–211, § 236(c)(1), substituted “subsection (*l*),” for “subsections (*l*),” in introductory provisions.
 
-Subsec. (a)(7). Pub. L. 111–211, § 236(a), added par. (7).
+Subsec. (a)(7). Pub. L. 111–211, § 236(a), added par. (7).
 
-Subsec. (b). Pub. L. 111–211, § 236(c)(2), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 111–211, § 236(c)(2), substituted “Attorney General” for “Secretary” wherever appearing.
 
 2005—Subsec. (a)(1). Pub. L. 109–59 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any aspect of the transportation of explosive materials via railroad, water, highway, or air which are regulated by the United States Department of Transportation and agencies thereof, and which pertain to safety;”.
 
-2002—Subsec. (b). Pub. L. 107–296, § 1126, amended subsec. (b) generally. Prior to amendment, text read as follows: “A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Attorney General for relief from the disabilities imposed by this chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Attorney General may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant’s record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.”
+2002—Subsec. (b). Pub. L. 107–296, § 1126, amended subsec. (b) generally. Prior to amendment, text read as follows: “A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Attorney General for relief from the disabilities imposed by this chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Attorney General may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant’s record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.”
 
-Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-1996—Subsec. (a). Pub. L. 104–132, § 605(1), inserted “(*l*), (m), (n), or (*o*) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
+1996—Subsec. (a). Pub. L. 104–132, § 605(1), inserted “(*l*), (m), (n), or (*o*) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
 
-Subsec. (c). Pub. L. 104–132, § 605(2), added subsec. (c).
+Subsec. (c). Pub. L. 104–132, § 605(2), added subsec. (c).
 
 1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
 
@@ -837,25 +837,25 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
 
-## § 846. Additional powers of the Attorney General
+## § 846. Additional powers of the Attorney General
 
 **(a)** The Attorney General is authorized to inspect the site of any accident, or fire, in which there is reason to believe that explosive materials were involved, in order that if any such incident has been brought about by accidental means, precautions may be taken to prevent similar accidents from occurring. In order to carry out the purpose of this subsection, the Attorney General is authorized to enter into or upon any property where explosive materials have been used, are suspected of having been used, or have been found in an otherwise unauthorized location. Nothing in this chapter shall be construed as modifying or otherwise affecting in any way the investigative authority of any other Federal agency. In addition to any other investigatory authority they have with respect to violations of provisions of this chapter, the Federal Bureau of Investigation, together with the Bureau of Alcohol, Tobacco, Firearms, and Explosives, shall have authority to conduct investigations with respect to violations of subsection (d), (e), (f), (g), (h), or (i) of section 844 of this title.
 
 **(b)** The Attorney General is authorized to establish a national repository of information on incidents involving arson and the suspected criminal misuse of explosives. All Federal agencies having information concerning such incidents shall report the information to the Attorney General pursuant to such regulations as deemed necessary to carry out the provisions of this subsection. The repository shall also contain information on incidents voluntarily reported to the Attorney General by State and local authorities.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 654(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 107–296, title XI, § 1112(e)(2), (3), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 654(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 107–296, title XI, § 1112(e)(2), (3), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in section catchline.
+2002—Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in section catchline.
 
-Subsec. (a). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
+Subsec. (a). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-Pub. L. 107–296, § 1112(e)(2), substituted “the Federal Bureau of Investigation, together with the Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “the Attorney General and the Federal Bureau of Investigation, together with the Secretary”.
+Pub. L. 107–296, § 1112(e)(2), substituted “the Federal Bureau of Investigation, together with the Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “the Attorney General and the Federal Bureau of Investigation, together with the Secretary”.
 
-Subsec. (b). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 107–296, § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
 1996—Pub. L. 104–208 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -867,27 +867,27 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Authorization of Appropriations**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 654(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, provided that: “There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection [probably means “this section” which amended this section].”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 654(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, provided that: “There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection [probably means “this section” which amended this section].”
 
 **Certification of Explosives Detection Canines**
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 626], Dec. 21, 2000, 114 Stat. 2763, 2763A–162, provided that: “Hereafter, the Secretary of the Treasury is authorized to establish scientific certification standards for explosives detection canines, and shall provide, on a reimbursable basis, for the certification of explosives detection canines employed by Federal agencies, or other agencies providing explosives detection services at airports in the United States.”
+Pub. L. 106–554, § 1(a)(3) [title VI, § 626], Dec. 21, 2000, 114 Stat. 2763, 2763A–162, provided that: “Hereafter, the Secretary of the Treasury is authorized to establish scientific certification standards for explosives detection canines, and shall provide, on a reimbursable basis, for the certification of explosives detection canines employed by Federal agencies, or other agencies providing explosives detection services at airports in the United States.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–58, title VI, § 630, Sept. 29, 1999, 113 Stat. 473.
+Pub. L. 106–58, title VI, § 630, Sept. 29, 1999, 113 Stat. 473.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 640], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 640], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526.
 
-Pub. L. 105–61, title VI, § 627, Oct. 10, 1997, 111 Stat. 1315.
+Pub. L. 105–61, title VI, § 627, Oct. 10, 1997, 111 Stat. 1315.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 653(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369.
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 653(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369.
 
-## § 847. Rules and regulations
+## § 847. Rules and regulations
 
 The administration of this chapter shall be vested in the Attorney General. The Attorney General may prescribe such rules and regulations as he deems reasonably necessary to carry out the provisions of this chapter. The Attorney General shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing such rules and regulations.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 107–296, title XI, § 1112(e)(3), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 107–296, title XI, § 1112(e)(3), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
@@ -901,8 +901,8 @@ The administration of this chapter shall be vested in the Attorney General. The 
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 848. Effect on State law
+## § 848. Effect on State law
 
 No provision of this chapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of any State on the same subject matter, unless there is a direct and positive conflict between such provision and the law of the State so that the two cannot be reconciled or consistently stand together.
 
-(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959.)
+(Added Pub. L. 91–452, title XI, § 1102(a), Oct. 15, 1970, 84 Stat. 959.)

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—INSPECTION REQUIREMENTS; ADULTERATION AND MISBRANDING
 
-### § 601. Definitions
+### § 601. Definitions
 
 As used in this chapter, except as otherwise specified, the following terms shall have the meanings stated below:
 
@@ -123,13 +123,13 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 **(3)** any additional species of livestock that the Secretary considers appropriate.
 
-(Mar. 4, 1907, ch. 2907, title I, § 1, as added Pub. L. 90–201, § 2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, § 107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, § 798[(a)](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, § 11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130; Pub. L. 113–79, title XII, § 12106(a)(1), Feb. 7, 2014, 128 Stat. 980.)
+(Mar. 4, 1907, ch. 2907, title I, § 1, as added Pub. L. 90–201, § 2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, § 107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, § 798[(a)](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, § 11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130; Pub. L. 113–79, title XII, § 12106(a)(1), Feb. 7, 2014, 128 Stat. 980.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Codification**
 
@@ -139,7 +139,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (w)(2). Pub. L. 113–79 added par. (2) and struck out former par. (2) which read as follows: “catfish, as defined by the Secretary; and”.
 
-2008—Subsec. (w)(2), (3). Pub. L. 110–246, § 11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
+2008—Subsec. (w)(2), (3). Pub. L. 110–246, § 11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 2005—Par. (w). Pub. L. 109–97 added par. (w).
 
@@ -153,23 +153,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–79, title XII, § 12106(c), Feb. 7, 2014, 128 Stat. 982, provided that: “This section [amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) [amending this section, enacting sections 606 and 625 of this title, repealing former section 606 of this title, and enacting provisions set out as notes below].”
+Pub. L. 113–79, title XII, § 12106(c), Feb. 7, 2014, 128 Stat. 982, provided that: “This section [amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) [amending this section, enacting sections 606 and 625 of this title, repealing former section 606 of this title, and enacting provisions set out as notes below].”
 
 **Effective Date of 2008 Amendment**
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XI, § 11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
+Pub. L. 110–234, title XI, § 11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–97, title VII, § 798(b), Nov. 10, 2005, 119 Stat. 2166, provided that: “The amendments made by subsection (a) [amending this section and sections 603 to 605, 608, 609, 615, and 617 to 621 of this title] shall take effect on the day after the effective date of section 794 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006 [section 794 of Pub. L. 109–97, 119 Stat. 2164, effective 120 days after Nov. 10, 2005].”
+Pub. L. 109–97, title VII, § 798(b), Nov. 10, 2005, 119 Stat. 2166, provided that: “The amendments made by subsection (a) [amending this section and sections 603 to 605, 608, 609, 615, and 617 to 621 of this title] shall take effect on the day after the effective date of section 794 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006 [section 794 of Pub. L. 109–97, 119 Stat. 2164, effective 120 days after Nov. 10, 2005].”
 
 **Effective Date**
 
-Pub. L. 90–201, § 20, Dec. 15, 1967, 81 Stat. 601, provided that:
+Pub. L. 90–201, § 20, Dec. 15, 1967, 81 Stat. 601, provided that:
 
 > “This Act [see Short Title note below] shall become effective upon enactment [Dec. 15, 1967] except as provided in paragraphs (a) through (d):
 
@@ -183,21 +183,21 @@ Pub. L. 90–201, § 20, Dec. 15, 1967, 81 Stat. 601, provided that:
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–641, title IV, § 401, Nov. 10, 1986, 100 Stat. 3567, provided that: “This title [amending sections 606, 609, 621, 671, and 676 of this title and enacting provisions set out as notes under sections 606, 609, 621, 671, and 676 of this title] may be cited as the ‘Processed Products Inspection Improvement Act of 1986’.”
+Pub. L. 99–641, title IV, § 401, Nov. 10, 1986, 100 Stat. 3567, provided that: “This title [amending sections 606, 609, 621, 671, and 676 of this title and enacting provisions set out as notes under sections 606, 609, 621, 671, and 676 of this title] may be cited as the ‘Processed Products Inspection Improvement Act of 1986’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–445, § 1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act [amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
+Pub. L. 95–445, § 1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act [amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
 
 **Short Title**
 
-Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part: “That this Act [enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section] may be cited as the ‘Wholesome Meat Act’.”
+Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part: “That this Act [enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section] may be cited as the ‘Wholesome Meat Act’.”
 
-Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
+Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 
 **Regulations**
 
-Pub. L. 113–79, title XII, § 12106(b)(1)–(3), Feb. 7, 2014, 128 Stat. 981, provided that:
+Pub. L. 113–79, title XII, § 12106(b)(1)–(3), Feb. 7, 2014, 128 Stat. 981, provided that:
 
 > **“(1) In general.—** The Secretary shall—
 
@@ -217,7 +217,7 @@ Pub. L. 113–79, title XII, § 12106(b)(1)–(3), Feb. 7, 2014, 128 Stat. 981
 
 > **“(3) Procedure.—** Section 1601(c)(2) [7 U.S.C. 9091(c)(2)] applies to the promulgation of the regulations and administration of this section and the amendments made by this section.”
 
-Pub. L. 110–246, title XI, § 11016(b)(2), as added by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, provided that:
+Pub. L. 110–246, title XI, § 11016(b)(2), as added by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, provided that:
 
 > **“(A) Regulations.—** Not later than 60 days after the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], the Secretary [of Agriculture], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) [amending this section, enacting sections 606 and 625 of this title, and repealing former section 606 of this title] and section 12106 of that Act [amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section] in a manner that ensures that there is no duplication in inspection activities.
 
@@ -233,21 +233,21 @@ Pub. L. 110–246, title XI, § 11016(b)(2), as added by Pub. L. 113–79, tit
 
 > **“(III)** any information resulting from examination, testing, and inspections conducted is considered in making risk-based determinations, including the establishment of inspection priorities.”
 
-Pub. L. 110–234, title XI, § 11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title) not later than 18 months after June 18, 2008, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
+Pub. L. 110–234, title XI, § 11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title) not later than 18 months after June 18, 2008, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Separability**
 
-Pub. L. 90–201, § 19, Dec. 15, 1967, 81 Stat. 601, provided that: “If any provision of this Act or of the amendments made hereby [see Short Title note above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments [see Short Title note above] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 90–201, § 19, Dec. 15, 1967, 81 Stat. 601, provided that: “If any provision of this Act or of the amendments made hereby [see Short Title note above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments [see Short Title note above] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
-### § 602. Congressional statement of findings
+### § 602. Congressional statement of findings
 
 Meat and meat food products are an important source of the Nation’s total supply of food. They are consumed throughout the Nation and the major portion thereof moves in interstate or foreign commerce. It is essential in the public interest that the health and welfare of consumers be protected by assuring that meat and meat food products distributed to them are wholesome, not adulterated, and properly marked, labeled, and packaged. Unwholesome, adulterated, or misbranded meat or meat food products impair the effective regulation of meat and meat food products in interstate or foreign commerce, are injurious to the public welfare, destroy markets for wholesome, not adulterated, and properly labeled and packaged meat and meat food products, and result in sundry losses to livestock producers and processors of meat and meat food products, as well as injury to consumers. The unwholesome, adulterated, mislabeled, or deceptively packaged articles can be sold at lower prices and compete unfairly with the wholesome, not adulterated, and properly labeled and packaged articles, to the detriment of consumers and the public generally. It is hereby found that all articles and animals which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce, and that regulation by the Secretary and cooperation by the States and other jurisdictions as contemplated by this chapter are appropriate to prevent and eliminate burdens upon such commerce, to effectively regulate such commerce, and to protect the health and welfare of consumers.
 
-(Mar. 4, 1907, ch. 2907, title I, § 2, as added Pub. L. 90–201, § 2, Dec. 15, 1967, 81 Stat. 587.)
+(Mar. 4, 1907, ch. 2907, title I, § 2, as added Pub. L. 90–201, § 2, Dec. 15, 1967, 81 Stat. 587.)
 
-### § 603. Examination of animals prior to slaughter; use of humane methods
+### § 603. Examination of animals prior to slaughter; use of humane methods
 
 **(a) Examination of animals before slaughtering; diseased animals slaughtered separately and carcasses examined**
 
@@ -257,15 +257,15 @@ For the purpose of preventing the use in commerce of meat and meat food products
 
 For the purpose of preventing the inhumane slaughtering of livestock, the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of the method by which amenable species are slaughtered and handled in connection with slaughter in the slaughtering establishments inspected under this chapter. The Secretary may refuse to provide inspection to a new slaughtering establishment or may cause inspection to be temporarily suspended at a slaughtering establishment if the Secretary finds that any cattle, sheep, swine, goats, horses, mules, or other equines have been slaughtered or handled in connection with slaughter at such establishment by any method not in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906) until the establishment furnishes assurances satisfactory to the Secretary that all slaughtering and handling in connection with slaughter of livestock shall be in accordance with such a method.
 
-(Mar. 4, 1907, ch. 2907, title I, § 3, formerly 1st par., 34 Stat. 1260; renumbered § 3 and amended Pub. L. 90–201, §§ 1, 3, 12(a), (b), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 95–445, § 2, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 3, formerly 1st par., 34 Stat. 1260; renumbered § 3 and amended Pub. L. 90–201, §§ 1, 3, 12(a), (b), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 95–445, § 2, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
-Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note below.
+Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note below.
 
 **Codification**
 
@@ -277,7 +277,7 @@ Section was formerly classified to section 71 of this title.
 
 1978—Pub. L. 95–445 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–201, §§ 3, 12(a), (b), struck out “interstate or foreign” before “commerce” in two places, substituted “Secretary shall” for “Secretary, at his discretion, may”, and struck out “of Agriculture” after “Secretary”, included horses, mules, and other equines, and horses, mules, or other equines in the list of animals, and substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
+1967—Pub. L. 90–201, §§ 3, 12(a), (b), struck out “interstate or foreign” before “commerce” in two places, substituted “Secretary shall” for “Secretary, at his discretion, may”, and struck out “of Agriculture” after “Secretary”, included horses, mules, and other equines, and horses, mules, or other equines in the list of animals, and substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–445, § 7, Oct. 10, 1978, 92 Stat. 1070, provided that: “The provisions of this Act [see Short Title of 1978 Amendment note set out under section 601 of this title] shall become effective one year after the date of enactment [Oct. 10, 1978]. However, such provisions shall not apply to a person, firm, or corporation for such additional period of time, not to exceed eighteen months, as may be determined by the Secretary, if the Secretary, upon application, finds that compliance with the provisions of this Act on its effective date would cause undue hardship on such person, firm, or corporation.”
+Pub. L. 95–445, § 7, Oct. 10, 1978, 92 Stat. 1070, provided that: “The provisions of this Act [see Short Title of 1978 Amendment note set out under section 601 of this title] shall become effective one year after the date of enactment [Oct. 10, 1978]. However, such provisions shall not apply to a person, firm, or corporation for such additional period of time, not to exceed eighteen months, as may be determined by the Secretary, if the Secretary, upon application, finds that compliance with the provisions of this Act on its effective date would cause undue hardship on such person, firm, or corporation.”
 
 **Effective Date of 1967 Amendment**
 
@@ -295,13 +295,13 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 **Religious Freedom; Ritual Slaughter**
 
-Pub. L. 95–445, § 6, Oct. 10, 1978, 92 Stat. 1070, provided that: “Nothing in this Act [see Short Title of 1978 Amendment note set out under section 601 of this title] shall be construed to prohibit, abridge, or in any way hinder the religious freedom of any person or group. Notwithstanding any other provision of this Act, in order to protect freedom of religion, ritual slaughter and the handling or other preparation of livestock for ritual slaughter are exempted from the terms of this Act. For the purposes of this section the term ‘ritual slaughter’ means slaughter in accordance with section 2(b) of the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1902(b)).”
+Pub. L. 95–445, § 6, Oct. 10, 1978, 92 Stat. 1070, provided that: “Nothing in this Act [see Short Title of 1978 Amendment note set out under section 601 of this title] shall be construed to prohibit, abridge, or in any way hinder the religious freedom of any person or group. Notwithstanding any other provision of this Act, in order to protect freedom of religion, ritual slaughter and the handling or other preparation of livestock for ritual slaughter are exempted from the terms of this Act. For the purposes of this section the term ‘ritual slaughter’ means slaughter in accordance with section 2(b) of the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1902(b)).”
 
-### § 604. Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection
+### § 604. Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection
 
 For the purposes hereinbefore set forth the Secretary shall cause to be made by inspectors appointed for that purpose a post mortem examination and inspection of the carcasses and parts thereof of all amenable species to be prepared at any slaughtering, meat-canning, salting, packing, rendering, or similar establishment in any State, Territory, or the District of Columbia as articles of commerce which are capable of use as human food; and the carcasses and parts thereof of all such animals found to be not adulterated shall be marked, stamped, tagged, or labeled as “Inspected and passed”; and said inspectors shall label, mark, stamp, or tag as “Inspected and condemned” all carcasses and parts thereof of animals found to be adulterated; and all carcasses and parts thereof thus inspected and condemned shall be destroyed for food purposes by the said establishment in the presence of an inspector, and the Secretary may remove inspectors from any such establishment which fails to so destroy any such condemned carcass or part thereof, and said inspectors, after said first inspection, shall, when they deem it necessary, reinspect said carcasses or parts thereof to determine whether since the first inspection the same have become adulterated, and if any carcass or any part thereof shall, upon examination and inspection subsequent to the first examination and inspection, be found to be adulterated, it shall be destroyed for food purposes by the said establishment in the presence of an inspector, and the Secretary may remove inspectors from any establishment which fails to so destroy any such condemned carcass or part thereof.
 
-(Mar. 4, 1907, ch. 2907, title I, § 4, formerly 2nd par., 34 Stat. 1260; renumbered § 4 and amended Pub. L. 90–201, §§ 1, 3, 4, 12(a)–(d), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 4, formerly 2nd par., 34 Stat. 1260; renumbered § 4 and amended Pub. L. 90–201, §§ 1, 3, 4, 12(a)–(d), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ Section was formerly classified to section 72 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
 
-1967—Pub. L. 90–201, §§ 3, 4, 12(a)–(d), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” in three places; struck out “for human consumption” before “at any slaughtering” and “for transportation or sale” after “District of Columbia” and inserted “which are capable of use as human food” after “commerce”; included horses, mules, and other equines in the list of animals; substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food” after “ ‘Inspected and condemned,’ all carcasses and parts thereof of animals found to be” and before “, it shall be destroyed”; substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food”; and substituted “adulterated” for “unsound, unhealthful, unwholesome, or in any way unfit for human food” before “and if any carcass”, respectively.
+1967—Pub. L. 90–201, §§ 3, 4, 12(a)–(d), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” in three places; struck out “for human consumption” before “at any slaughtering” and “for transportation or sale” after “District of Columbia” and inserted “which are capable of use as human food” after “commerce”; included horses, mules, and other equines in the list of animals; substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food” after “ ‘Inspected and condemned,’ all carcasses and parts thereof of animals found to be” and before “, it shall be destroyed”; substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food”; and substituted “adulterated” for “unsound, unhealthful, unwholesome, or in any way unfit for human food” before “and if any carcass”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -325,11 +325,11 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 605. Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto; conditions for entry
+### § 605. Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto; conditions for entry
 
 The foregoing provisions shall apply to all carcasses or parts of carcasses of amenable species or the meat or meat products thereof which may be brought into any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and such examination and inspection shall be had before the said carcasses or parts thereof shall be allowed to enter into any department wherein the same are to be treated and prepared for meat food products; and the foregoing provisions shall also apply to all such products, which, after having been issued from any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, shall be returned to the same or to any similar establishment where such inspection is maintained. The Secretary may limit the entry of carcasses, parts of carcasses, meat and meat food products, and other materials into any establishment at which inspection under this subchapter is maintained, under such conditions as he may prescribe to assure that allowing the entry of such articles into such inspected establishments will be consistent with the purposes of this chapter.
 
-(Mar. 4, 1907, ch. 2907, title I, § 5, formerly 3rd par., 34 Stat. 1261; renumbered § 5 and amended Pub. L. 90–201, §§ 1, 5, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 5, formerly 3rd par., 34 Stat. 1261; renumbered § 5 and amended Pub. L. 90–201, §§ 1, 5, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -341,7 +341,7 @@ Section was formerly classified to section 73 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
 
-1967—Pub. L. 90–201, §§ 5, 12(a), limited entry of articles into establishments under such prescribed conditions as would be consistent with the purpose of this chapter and included horses, mules, and other equines in the list of animals, respectively.
+1967—Pub. L. 90–201, §§ 5, 12(a), limited entry of articles into establishments under such prescribed conditions as would be consistent with the purpose of this chapter and included horses, mules, and other equines in the list of animals, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -353,19 +353,19 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 606. Inspection and labeling of meat food products
+### § 606. Inspection and labeling of meat food products
 
 **(a) In general**
 
 For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as “Inspected and passed” all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as “Inspected and condemned” all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: *Provided*, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Certain fish**
 
 In the case of an examination and inspection under subsection (a) of a meat food product derived from any fish described in section 601(w)(2) of this title, the Secretary shall take into account the conditions under which the fish is raised and transported to a processing establishment.
 
-(Mar. 4, 1907, ch. 2907, title I, § 6, as added Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131; amended Pub. L. 113–79, title XII, § 12106(a)(2), Feb. 7, 2014, 128 Stat. 981.)
+(Mar. 4, 1907, ch. 2907, title I, § 6, as added Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131; amended Pub. L. 113–79, title XII, § 12106(a)(2), Feb. 7, 2014, 128 Stat. 981.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections and repealed 
 
 **Prior Provisions**
 
-A prior section 606, acts Mar. 4, 1907, ch. 2907, title I, § 6, formerly 4th par., 34 Stat. 1261; renumbered § 6 and amended Pub. L. 90–201, §§ 1, 3, 12(e), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, § 403(a), Nov. 10, 1986, 100 Stat. 3567, was formerly classified to section 74 of this title and was repealed by Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131. Prior to repeal, section read as follows: “For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as ‘Inspected and passed’ all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as ‘Inspected and condemned’ all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: *Provided*, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.”
+A prior section 606, acts Mar. 4, 1907, ch. 2907, title I, § 6, formerly 4th par., 34 Stat. 1261; renumbered § 6 and amended Pub. L. 90–201, §§ 1, 3, 12(e), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, § 403(a), Nov. 10, 1986, 100 Stat. 3567, was formerly classified to section 74 of this title and was repealed by Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131. Prior to repeal, section read as follows: “For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as ‘Inspected and passed’ all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as ‘Inspected and condemned’ all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: *Provided*, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.”
 
 **Amendments**
 
@@ -395,7 +395,7 @@ Amendment by Pub. L. 113–79 effective as if enacted as part of section 11016(b
 
 Enactment of this section and repeal of former section 6 of act Mar. 4, 1907, and Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 607. Labeling, marking, and container requirements
+### § 607. Labeling, marking, and container requirements
 
 **(a) Labeling receptacles or coverings of meat or meat food products inspected and passed; supervision by inspectors**
 
@@ -421,15 +421,15 @@ If the Secretary has reason to believe that any marking or labeling or the size 
 
 The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
 
-(Mar. 4, 1907, ch. 2907, title I, § 7, formerly 5th par., 34 Stat. 1262; renumbered § 7 and amended Pub. L. 90–201, §§ 1, 3(a), 6, Dec. 15, 1967, 81 Stat. 584, 588; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 104–127, title II, § 279, Apr. 4, 1996, 110 Stat. 979.)
+(Mar. 4, 1907, ch. 2907, title I, § 7, formerly 5th par., 34 Stat. 1262; renumbered § 7 and amended Pub. L. 90–201, §§ 1, 3(a), 6, Dec. 15, 1967, 81 Stat. 584, 588; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 104–127, title II, § 279, Apr. 4, 1996, 110 Stat. 979.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
+Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
 
 **Codification**
 
@@ -439,9 +439,9 @@ Section was formerly classified to section 75 of this title.
 
 1996—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
-1967—Subsec. (a). Pub. L. 90–201, §§ 3(a), 6(a), (b), struck out “interstate or foreign” before “commerce” and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
+1967—Subsec. (a). Pub. L. 90–201, §§ 3(a), 6(a), (b), struck out “interstate or foreign” before “commerce” and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
 
-Subsecs. (b) to (e). Pub. L. 90–201, § 6(c), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 90–201, § 6(c), added subsecs. (b) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -453,11 +453,11 @@ Subsecs. (b) to (e). Pub. L. 90–201, § 6(c), added subsecs. (b) to (e).
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 608. Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products
+### § 608. Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products
 
 The Secretary shall cause to be made, by experts in sanitation or by other competent inspectors, such inspection of all slaughtering, meat canning, salting, packing, rendering, or similar establishments in which amenable species are slaughtered and the meat and meat food products thereof are prepared for commerce as may be necessary to inform himself concerning the sanitary conditions of the same, and to prescribe the rules and regulations of sanitation under which such establishments shall be maintained; and where the sanitary conditions of any such establishment are such that the meat or meat food products are rendered adulterated, he shall refuse to allow said meat or meat food products to be labeled, marked, stamped or tagged as “inspected and passed.”
 
-(Mar. 4, 1907, ch. 2907, title I, § 8, formerly 6th par., 34 Stat. 1262; renumbered § 8 and amended Pub. L. 90–201, §§ 1, 3, 12(a), (f), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 8, formerly 6th par., 34 Stat. 1262; renumbered § 8 and amended Pub. L. 90–201, §§ 1, 3, 12(a), (f), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ Section was formerly classified to section 76 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
 
-1967—Pub. L. 90–201, §§ 3, 12(a), (f), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”, included horses, mules, and other equines in the list of animals, and substituted “adulterated” for “unclean, unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
+1967—Pub. L. 90–201, §§ 3, 12(a), (f), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”, included horses, mules, and other equines in the list of animals, and substituted “adulterated” for “unclean, unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -481,11 +481,11 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 609. Examination of animals and food products thereof, slaughtered and prepared during nighttime
+### § 609. Examination of animals and food products thereof, slaughtered and prepared during nighttime
 
 The Secretary shall cause an examination and inspection of all amenable species, and the food products thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime when the slaughtering of said amenable species, or the preparation of said food products is conducted during the nighttime.
 
-(Mar. 4, 1907, ch. 2907, title I, § 9, formerly 7th par., 34 Stat. 1262; renumbered § 9 and amended Pub. L. 90–201, §§ 1, 3, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, § 403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 9, formerly 7th par., 34 Stat. 1262; renumbered § 9 and amended Pub. L. 90–201, §§ 1, 3, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, § 403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -497,9 +497,9 @@ Section was formerly classified to section 77 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
 
-1986—Pub. L. 99–641 temporarily inserted “, except as provided in section 606 of this title,” after first reference to “other equines, and”. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Pub. L. 99–641 temporarily inserted “, except as provided in section 606 of this title,” after first reference to “other equines, and”. See Effective and Termination Dates of 1986 Amendment note below.
 
-1967—Pub. L. 90–201, §§ 3, 12(a), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+1967—Pub. L. 90–201, §§ 3, 12(a), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -509,9 +509,9 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–641, title IV, § 403(d)(1), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+Pub. L. 99–641, title IV, § 403(d)(1), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
-Pub. L. 99–641, title IV, § 408, Nov. 10, 1986, 100 Stat. 3571, provided that:
+Pub. L. 99–641, title IV, § 408, Nov. 10, 1986, 100 Stat. 3571, provided that:
 
 > **“(a) General Effective Date.—** Except as provided in subsection (b) of this section, this title and the amendments made by this title [amending this section and sections 606, 621, 671, and 676 of this title and enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title] shall become effective on the date of the enactment of this Act [Nov. 10, 1986].
 
@@ -523,13 +523,13 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 **Savings Provision**
 
-Pub. L. 99–641, title IV, § 404, Nov. 10, 1986, 100 Stat. 3571, provided that: “The expiration date provisions of section 403 [enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 [amending this section and sections 606, 621, 671, and 676 of this title], or under the rules or regulations issued under such Act.”
+Pub. L. 99–641, title IV, § 404, Nov. 10, 1986, 100 Stat. 3571, provided that: “The expiration date provisions of section 403 [enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 [amending this section and sections 606, 621, 671, and 676 of this title], or under the rules or regulations issued under such Act.”
 
 **Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program**
 
-Pub. L. 99–641, title IV, § 403(e), Nov. 10, 1986, 100 Stat. 3570, provided that: “The amendments made by this section [amending this section and sections 606, 621, 671, and 676 of this title] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
+Pub. L. 99–641, title IV, § 403(e), Nov. 10, 1986, 100 Stat. 3570, provided that: “The amendments made by this section [amending this section and sections 606, 621, 671, and 676 of this title] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
 
-### § 610. Prohibited acts
+### § 610. Prohibited acts
 
 No person, firm, or corporation shall, with respect to any cattle, sheep, swine, goats, horses, mules, or other equines, or any carcasses, parts of carcasses, meat or meat food products of any such animals—
 
@@ -549,15 +549,15 @@ sell, transport, offer for sale or transportation, or receive for transportation
 
 do, with respect to any such articles which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
 
-(Mar. 4, 1907, ch. 2907, title I, § 10, formerly 8th par., 34 Stat. 1262; renumbered § 10 and amended Pub. L. 90–201, §§ 1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, § 3, Oct. 10, 1978, 92 Stat. 1069.)
+(Mar. 4, 1907, ch. 2907, title I, § 10, formerly 8th par., 34 Stat. 1262; renumbered § 10 and amended Pub. L. 90–201, §§ 1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, § 3, Oct. 10, 1978, 92 Stat. 1069.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
-Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
+Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
 
 **Codification**
 
@@ -567,7 +567,7 @@ Section was formerly classified to section 78 of this title.
 
 1978—Subsecs. (b) to (d). Pub. L. 95–445 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1967—Pub. L. 90–201, § 7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
+1967—Pub. L. 90–201, § 7, included the list of animals and prohibited, except in compliance with requirements of this chapter, slaughtering animals or preparation of articles capable of use as human food, sales, transportation, and other transactions, and acts of adulteration or misbranding, incorporating in subsec. (b)(2) existing prohibition on distributions in interstate or foreign commerce of noninspected articles.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -579,7 +579,7 @@ Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an add
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that subsecs. (b)(1) and (c) of this section effective upon expiration of sixty days after Dec. 15, 1967, see section 20(a) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 611. Devices, marks, labels, and certificates; simulations
+### § 611. Devices, marks, labels, and certificates; simulations
 
 **(a) Devices to be made under authorization of Secretary**
 
@@ -599,7 +599,7 @@ No brand manufacturer, printer, or other person, firm, or corporation shall cast
 
 **(6)** knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has, respectively, not been so inspected and passed, or exempted.
 
-(Mar. 4, 1907, ch. 2907, title I, § 11, formerly 9th par., 34 Stat. 1263; renumbered § 11 and amended Pub. L. 90–201, §§ 1, 8, Dec. 15, 1967, 81 Stat. 584, 589.)
+(Mar. 4, 1907, ch. 2907, title I, § 11, formerly 9th par., 34 Stat. 1263; renumbered § 11 and amended Pub. L. 90–201, §§ 1, 8, Dec. 15, 1967, 81 Stat. 584, 589.)
 
 **Editorial Notes**
 
@@ -609,7 +609,7 @@ Section was formerly classified to section 79 of this title.
 
 **Amendments**
 
-1967—Pub. L. 90–201, § 8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
+1967—Pub. L. 90–201, § 8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -617,11 +617,11 @@ Section was formerly classified to section 79 of this title.
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 612. Notification
+### § 612. Notification
 
 Any establishment subject to inspection under this chapter that believes, or has reason to believe, that an adulterated or misbranded meat or meat food product received by or originating from the establishment has entered into commerce shall promptly notify the Secretary with regard to the type, amount, origin, and destination of the meat or meat food product.
 
-(Mar. 4, 1907, ch. 2907, title I, § 12, as added Pub. L. 110–234, title XI, § 11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
+(Mar. 4, 1907, ch. 2907, title I, § 12, as added Pub. L. 110–234, title XI, § 11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
 
 **Editorial Notes**
 
@@ -631,7 +631,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 612, acts Mar. 4, 1907, ch. 2907, title I, § 12, formerly 10th par., 34 Stat. 1263; renumbered § 12 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, related to inspection of animals for export, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508. Section was formerly classified to section 80 of this title.
+A prior section 612, acts Mar. 4, 1907, ch. 2907, title I, § 12, formerly 10th par., 34 Stat. 1263; renumbered § 12 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, related to inspection of animals for export, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508. Section was formerly classified to section 80 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -639,7 +639,7 @@ A prior section 612, acts Mar. 4, 1907, ch. 2907, title I, § 12, formerly 10t
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 613. Plans and reassessments
+### § 613. Plans and reassessments
 
 The Secretary shall require that each establishment subject to inspection under this chapter shall, at a minimum—
 
@@ -649,7 +649,7 @@ The Secretary shall require that each establishment subject to inspection under 
 
 **(3)** upon request, make the procedures and reassessed process control plans available to inspectors appointed by the Secretary for review and copying.
 
-(Mar. 4, 1907, ch. 2907, title I, § 13, as added Pub. L. 110–234, title XI, § 11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
+(Mar. 4, 1907, ch. 2907, title I, § 13, as added Pub. L. 110–234, title XI, § 11017(a), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11017(a), June 18, 2008, 122 Stat. 1664, 2132.)
 
 **Editorial Notes**
 
@@ -659,7 +659,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 613, acts Mar. 4, 1907, ch. 2907, title I, § 13, formerly 11th par., 34 Stat. 1263; renumbered § 13 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, related to inspectors of animals for export and certificates of condition, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508. Section was formerly classified to section 81 of this title.
+A prior section 613, acts Mar. 4, 1907, ch. 2907, title I, § 13, formerly 11th par., 34 Stat. 1263; renumbered § 13 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, related to inspectors of animals for export and certificates of condition, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508. Section was formerly classified to section 81 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -667,15 +667,15 @@ A prior section 613, acts Mar. 4, 1907, ch. 2907, title I, § 13, formerly 11t
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 614. Repealed. Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508
+### § 614. Repealed. Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508
 
-Section, acts Mar. 4, 1907, ch. 2907, title I, § 14, formerly 12th par., 34 Stat. 1263; renumbered § 14 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, prohibited clearance to vessel carrying animals for export without inspector’s certificate. Section was formerly classified to section 82 of this title.
+Section, acts Mar. 4, 1907, ch. 2907, title I, § 14, formerly 12th par., 34 Stat. 1263; renumbered § 14 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592, prohibited clearance to vessel carrying animals for export without inspector’s certificate. Section was formerly classified to section 82 of this title.
 
-### § 615. Inspection of carcasses, meat of which is intended for export
+### § 615. Inspection of carcasses, meat of which is intended for export
 
 The Secretary shall also cause to be made a careful inspection of the carcasses and parts thereof of all amenable species, the meat of which, fresh, salted, canned, corned, packed, cured, or otherwise prepared, is intended and offered for export to any foreign country, at such times and places and in such manner as he may deem proper.
 
-(Mar. 4, 1907, ch. 2907, title I, § 15, formerly 13th par., 34 Stat. 1263; renumbered § 15 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 15, formerly 13th par., 34 Stat. 1263; renumbered § 15 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -687,7 +687,7 @@ Section was formerly classified to section 83 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines”.
 
-1967—Pub. L. 90–201, §§ 3(b), 12(a), struck out “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+1967—Pub. L. 90–201, §§ 3(b), 12(a), struck out “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -699,11 +699,11 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 616. Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition
+### § 616. Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition
 
 For the purpose of section 615 of this title the Secretary may appoint inspectors who shall be authorized to give an official certificate stating the condition in which said cattle, sheep, swine, goats, horses, mules, or other equines, and the meat thereof, are found.
 
-(Mar. 4, 1907, ch. 2907, title I, § 16, formerly 14th par., 34 Stat. 1263; renumbered § 16 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592.)
+(Mar. 4, 1907, ch. 2907, title I, § 16, formerly 14th par., 34 Stat. 1263; renumbered § 16 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592.)
 
 **Editorial Notes**
 
@@ -713,7 +713,7 @@ Section was formerly classified to section 84 of this title.
 
 **Amendments**
 
-1967—Pub. L. 90–201, §§ 3(b), 12(a), struck out “of Agriculture” after “Secretary”, and included horses, mules, or other equines in the list of animals.
+1967—Pub. L. 90–201, §§ 3(b), 12(a), struck out “of Agriculture” after “Secretary”, and included horses, mules, or other equines in the list of animals.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -721,11 +721,11 @@ Section was formerly classified to section 84 of this title.
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 617. Clearance prohibited to vessel carrying meat for export without inspector’s certificate
+### § 617. Clearance prohibited to vessel carrying meat for export without inspector’s certificate
 
 No clearance shall be given to any vessel having on board any fresh, salted, canned, corned, or packed beef, mutton, pork, goat or equine meat for export to and sale in a foreign country from any port in the United States, until the owner or shipper thereof shall obtain from an inspector appointed under the provisions of this chapter a certificate that the said amenable species were sound and healthy at the time of inspection, and that their meat is sound and wholesome, unless the Secretary shall have waived the requirements of such certificate for the country to which said amenable species or meats are to be exported.
 
-(Mar. 4, 1907, ch. 2907, title I, § 17, formerly 15th par., 34 Stat. 1263; renumbered § 17 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), (g), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 17, formerly 15th par., 34 Stat. 1263; renumbered § 17 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), (g), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -737,7 +737,7 @@ Section was formerly classified to section 85 of this title.
 
 2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
 
-1967—Pub. L. 90–201, §§ 3(b), 12(a), (g), struck out “of Agriculture” after “Secretary”, included horses, mules, and other equines in the list of animals, and substituted “goat or equine meat” for “or goat meat, being the meat of animals killed after March 4, 1907, or except as hereinbefore provided”, respectively.
+1967—Pub. L. 90–201, §§ 3(b), 12(a), (g), struck out “of Agriculture” after “Secretary”, included horses, mules, and other equines in the list of animals, and substituted “goat or equine meat” for “or goat meat, being the meat of animals killed after March 4, 1907, or except as hereinbefore provided”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,11 +749,11 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 618. Delivery of inspectors’ certificates, and of copies
+### § 618. Delivery of inspectors’ certificates, and of copies
 
 The inspectors provided for under this subchapter shall be authorized to give official certificates of the condition of the carcasses and products of amenable species; and one copy of every certificate granted under the provisions of this chapter shall be filed in the Department of Agriculture, another copy shall be delivered to the owner or shipper, and when the amenable species, or their carcasses and products are sent abroad, a third copy shall be delivered to the chief officer of the vessel on which the shipment shall be made.
 
-(Mar. 4, 1907, ch. 2907, title I, § 18, formerly 16th par., 34 Stat. 1263; renumbered § 18 and amended Pub. L. 90–201, §§ 1, 12(a), (h), Dec. 15, 1967, 81 Stat. 584, 592; Pub. L. 107–171, title X, § 10418(b)(4), May 13, 2002, 116 Stat. 508; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 18, formerly 16th par., 34 Stat. 1263; renumbered § 18 and amended Pub. L. 90–201, §§ 1, 12(a), (h), Dec. 15, 1967, 81 Stat. 584, 592; Pub. L. 107–171, title X, § 10418(b)(4), May 13, 2002, 116 Stat. 508; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -769,7 +769,7 @@ Section was formerly classified to section 86 of this title.
 
 2002—Pub. L. 107–171 substituted “of the carcasses and products of cattle, sheep, swine, goats, horses, mules, and other equines” for “of the cattle, sheep, swine, goats, horses, mules, and other equines, their carcasses and products as described in this subchapter”.
 
-1967—Pub. L. 90–201, § 12(a), (h), included horses, mules, and other equines in the list of animals and struck out “sound and wholesome” before “conditions”, respectively.
+1967—Pub. L. 90–201, § 12(a), (h), included horses, mules, and other equines in the list of animals and struck out “sound and wholesome” before “conditions”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -781,11 +781,11 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 619. Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and slaughtering activities
+### § 619. Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and slaughtering activities
 
 No person, firm, or corporation shall sell, transport, offer for sale or transportation, or receive for transportation, in commerce, any carcasses of species designated by regulations in effect on the day before November 10, 2005, or parts of such carcasses, or the meat or meat food products thereof, unless they are plainly and conspicuously marked or labeled or otherwise identified as required by regulations prescribed by the Secretary to show the kinds of animals from which they were derived. When required by the Secretary, with respect to establishments at which inspection is maintained under this subchapter, such animals and their carcasses, parts thereof, meat and meat food products shall be prepared in establishments separate from those in which other amenable species are slaughtered or their carcasses, parts thereof, meat or meat food products are prepared.
 
-(Mar. 4, 1907, ch. 2907, title I, § 19, formerly 17th par., 34 Stat. 1264; renumbered § 19 and amended Pub. L. 90–201, §§ 1, 9, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 109–97, title VII, § 798[(a)](3), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 19, formerly 17th par., 34 Stat. 1264; renumbered § 19 and amended Pub. L. 90–201, §§ 1, 9, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 109–97, title VII, § 798[(a)](3), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -797,7 +797,7 @@ Section was formerly classified to section 87 of this title.
 
 2005—Pub. L. 109–97 substituted “species designated by regulations in effect on the day before November 10, 2005,” for “horses, mules, or other equines” and “other amenable species” for “cattle, sheep, swine, or goats”.
 
-1967—Pub. L. 90–201, § 9, substituted provisions for marking, labeling, or other identification of kinds of animals whence the articles are derived and for separate establishments for preparation and slaughtering activities for prohibition against transportation or sale of meat or meat food products without complying with inspection provisions. See section 610(b) of this title.
+1967—Pub. L. 90–201, § 9, substituted provisions for marking, labeling, or other identification of kinds of animals whence the articles are derived and for separate establishments for preparation and slaughtering activities for prohibition against transportation or sale of meat or meat food products without complying with inspection provisions. See section 610(b) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -809,7 +809,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Amendment by Pub. L, 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration, of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 620. Imports
+### § 620. Imports
 
 **(a) Adulteration or misbranding prohibition; compliance with inspection, building construction standards, and other provisions; humane methods of slaughter; treatment as domestic articles subject to this chapter and food, drug, and cosmetic provisions; marking and labeling; personal consumption exemption**
 
@@ -857,15 +857,15 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 **(5)** The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
 
-(Mar. 4, 1907, ch. 2907, title I, § 20, formerly 18th par., 34 Stat. 1264; renumbered § 20 and amended Pub. L. 90–201, §§ 1, 10, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 95–445, § 4, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 97–98, title XI, § 1122, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, § 1702, Dec. 23, 1985, 99 Stat. 1634; Pub. L. 100–418, title IV, § 4604, Aug. 23, 1988, 102 Stat. 1408; Pub. L. 103–182, title III, § 361(f), Dec. 8, 1993, 107 Stat. 2124; Pub. L. 103–437, § 8(2), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 103–465, title IV, § 431(*l*), Dec. 8, 1994, 108 Stat. 4970; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 20, formerly 18th par., 34 Stat. 1264; renumbered § 20 and amended Pub. L. 90–201, §§ 1, 10, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 95–445, § 4, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 97–98, title XI, § 1122, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, § 1702, Dec. 23, 1985, 99 Stat. 1634; Pub. L. 100–418, title IV, § 4604, Aug. 23, 1988, 102 Stat. 1408; Pub. L. 103–182, title III, § 361(f), Dec. 8, 1993, 107 Stat. 2124; Pub. L. 103–437, § 8(2), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 103–465, title IV, § 431(*l*), Dec. 8, 1994, 108 Stat. 4970; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
 
 **Codification**
 
@@ -879,31 +879,31 @@ Section was formerly classified to section 88 of this title.
 
 1994—Subsec. (e). Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
 
-Subsec. (e)(1)(A), (B). Pub. L. 103–465, § 431(*l*)(1), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+Subsec. (e)(1)(A), (B). Pub. L. 103–465, § 431(*l*)(1), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) Subject to subparagraphs (B) and (C), a certification by the Secretary that foreign plants in Canada and Mexico that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with paragraph (2) or with requirements that are equivalent to United States requirements with regard to all inspection and building construction standards, and all other provisions of this chapter and regulations issued under this chapter.
 
 “(B) Subject to subparagraph (C), the Secretary may treat as equivalent to a United States requirement a requirement described in subparagraph (A) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the requirement or standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
 
-Subsec. (e)(2) to (7). Pub. L. 103–465, § 431(*l*)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter.”
+Subsec. (e)(2) to (7). Pub. L. 103–465, § 431(*l*)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter.”
 
-1993—Subsec. (e). Pub. L. 103–182, § 361(f)(1), substituted “not be limited to the following:” for “not be limited to—” in introductory provisions.
+1993—Subsec. (e). Pub. L. 103–182, § 361(f)(1), substituted “not be limited to the following:” for “not be limited to—” in introductory provisions.
 
-Subsec. (e)(1) to (7). Pub. L. 103–182, § 361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted “The” for “the” at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for “; and” at end of par. (6). Prior to amendment, former par. (1) read as follows: “a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;”.
+Subsec. (e)(1) to (7). Pub. L. 103–182, § 361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted “The” for “the” at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for “; and” at end of par. (6). Prior to amendment, former par. (1) read as follows: “a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;”.
 
-1988—Subsec. (e)(6). Pub. L. 100–418, § 4604(b), added par. (6).
+1988—Subsec. (e)(6). Pub. L. 100–418, § 4604(b), added par. (6).
 
-Subsec. (h). Pub. L. 100–418, § 4604(a), added subsec. (h).
+Subsec. (h). Pub. L. 100–418, § 4604(a), added subsec. (h).
 
-1985—Subsec. (f). Pub. L. 99–198, § 1702(a), struck out provision which had made this subsection effective six months after Dec. 22, 1981, and inserted provisions requiring that each foreign country from which meat articles are offered for importation into the United States obtain a certification issued by the Secretary stating that the country maintains a program using reliable analytical methods to ensure compliance with the United States standards for residues in such meat articles, that no meat article be permitted entry into the United States from a country for which the Secretary has not issued such certification, that the Secretary periodically review such certifications and revoke any certification if the Secretary determines that the country involved is not maintaining a program that uses reliable analytical methods to ensure compliance with United States standards for residues in such meat articles, and that the consideration of any application for a certification under this subsection and the review of any such certification, by the Secretary, include the inspection of individual establishments to ensure that the inspection program of the foreign country involved is meeting such United States standards.
+1985—Subsec. (f). Pub. L. 99–198, § 1702(a), struck out provision which had made this subsection effective six months after Dec. 22, 1981, and inserted provisions requiring that each foreign country from which meat articles are offered for importation into the United States obtain a certification issued by the Secretary stating that the country maintains a program using reliable analytical methods to ensure compliance with the United States standards for residues in such meat articles, that no meat article be permitted entry into the United States from a country for which the Secretary has not issued such certification, that the Secretary periodically review such certifications and revoke any certification if the Secretary determines that the country involved is not maintaining a program that uses reliable analytical methods to ensure compliance with United States standards for residues in such meat articles, and that the consideration of any application for a certification under this subsection and the review of any such certification, by the Secretary, include the inspection of individual establishments to ensure that the inspection program of the foreign country involved is meeting such United States standards.
 
-Subsec. (g). Pub. L. 99–198, § 1702(b), added subsec. (g).
+Subsec. (g). Pub. L. 99–198, § 1702(b), added subsec. (g).
 
 1981—Subsec. (f). Pub. L. 97–98 added subsec. (f).
 
 1978—Subsec. (a). Pub. L. 95–445 prohibited imports which do not comply with humane methods of slaughter.
 
-1967—Pub. L. 90–201, § 10, substituted imported articles provisions for penalty provisions deeming offenses as misdemeanors and punishable by fine of $10,000 or imprisonment for two years or both. See section 676(a) of this title.
+1967—Pub. L. 90–201, § 10, substituted imported articles provisions for penalty provisions deeming offenses as misdemeanors and punishable by fine of $10,000 or imprisonment for two years or both. See section 676(a) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -927,11 +927,11 @@ Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an add
 
 Amendment by Pub. L. 90–201 effective upon expiration of sixty days after Dec. 15, 1967, see section 20(a) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 621. Inspectors to make examinations provided for; appointment; duties; regulations
+### § 621. Inspectors to make examinations provided for; appointment; duties; regulations
 
 The Secretary shall appoint from time to time inspectors to make examination and inspection of all amenable species, inspection of which is hereby provided for and of all carcasses and parts thereof, and of all meats and meat food products thereof, and of the sanitary conditions of all establishments in which such meat and meat food products hereinbefore described are prepared; and said inspectors shall refuse to stamp, mark, tag, or label any carcass or any part thereof, or meat food product therefrom, prepared in any establishment hereinbefore mentioned, until the same shall have actually been inspected and found to be not adulterated; and shall perform such other duties as are provided by this chapter and by the rules and regulations to be prescribed by said Secretary; and said Secretary shall, from time to time, make such rules and regulations as are necessary for the efficient execution of the provisions of this chapter, and all inspections and examinations made under this chapter, shall be such and made in such manner as described in the rules and regulations prescribed by said Secretary not inconsistent with provisions of this chapter.
 
-(Mar. 4, 1907, ch. 2907, title I, § 21, formerly 19th par., 34 Stat. 1264; renumbered § 21 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), (i), Dec. 15, 1967, 81 Stat. 584, 588, 592, 593; Pub. L. 99–641, title IV, § 403(d)(2), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, § 21, formerly 19th par., 34 Stat. 1264; renumbered § 21 and amended Pub. L. 90–201, §§ 1, 3(b), 12(a), (i), Dec. 15, 1967, 81 Stat. 584, 588, 592, 593; Pub. L. 99–641, title IV, § 403(d)(2), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, § 798[(a)](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -945,7 +945,7 @@ Section was formerly classified to section 89 of this title.
 
 1986—Pub. L. 99–641 temporarily substituted “thereof, and of meat food products” for “and meat food products”, which substitution was made for the first such reference as the probable intent of Congress. See Effective and Termination Dates of 1986 Amendment note below.
 
-1967—Pub. L. 90–201, §§ 3(b), 12(a), (i), struck out “of Agriculture” after “Secretary” in four places, included horses, mules, and other equines in the list of animals, and substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food, and to contain no dyes, chemicals, preservatives, or ingredients which render such meat food product unsound, unhealthful, unwholesome, or unfit for human food; and to have been prepared under proper sanitary conditions, hereinbefore provided for”, respectively.
+1967—Pub. L. 90–201, §§ 3(b), 12(a), (i), struck out “of Agriculture” after “Secretary” in four places, included horses, mules, and other equines in the list of animals, and substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food, and to contain no dyes, chemicals, preservatives, or ingredients which render such meat food product unsound, unhealthful, unwholesome, or unfit for human food; and to have been prepared under proper sanitary conditions, hereinbefore provided for”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -955,7 +955,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–641, title IV, § 403(d)(2), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
+Pub. L. 99–641, title IV, § 403(d)(2), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
 
 Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) of Pub. L. 99–641 to section 606 of this title, see section 408 of Pub. L. 99–641, set out as a note under section 609 of this title.
 
@@ -963,15 +963,15 @@ Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section 
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-**Construction and Effect of Amendments by Pub. L. 99–641**
+**Construction and Effect of Amendments by Pub. L. 99–641**
 
 For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
 
-### § 622. Bribery of or gifts to inspectors or other officers and acceptance of gifts
+### § 622. Bribery of or gifts to inspectors or other officers and acceptance of gifts
 
 Any person, firm, or corporation, or any agent or employee of any person, firm, or corporation, who shall give, pay, or offer, directly or indirectly, to any inspector, deputy inspector, chief inspector, or any other officer or employee of the United States authorized to perform any of the duties prescribed by this chapter or by the rules and regulations of the Secretary any money or other thing of value, with intent to influence said inspector, deputy inspector, chief inspector, or other officer or employee of the United States in the discharge of any duty provided for in this chapter, shall be deemed guilty of a felony, and, upon conviction thereof, shall be punished by a fine not less than $5,000 nor more than $10,000 and by imprisonment not less than one year nor more than three years; and any inspector, deputy inspector, chief inspector, or other officer or employee of the United States authorized to perform any of the duties prescribed by this chapter who shall accept any money, gift, or other thing of value from any person, firm, or corporation, or officers, agents, or employees thereof, given with intent to influence his official action, or who shall receive or accept from any person, firm, or corporation engaged in commerce any gift, money, or other thing of value, given with any purpose or intent whatsoever, shall be deemed guilty of a felony and shall, upon conviction thereof, be summarily discharged from office and shall be punished by a fine not less than $1,000 nor more than $10,000 and by imprisonment not less than one year nor more than three years.
 
-(Mar. 4, 1907, ch. 2907, title I, § 22, formerly 20th par., 34 Stat. 1264; renumbered § 22 and amended Pub. L. 90–201, §§ 1, 3, Dec. 15, 1967, 81 Stat. 584, 588.)
+(Mar. 4, 1907, ch. 2907, title I, § 22, formerly 20th par., 34 Stat. 1264; renumbered § 22 and amended Pub. L. 90–201, §§ 1, 3, Dec. 15, 1967, 81 Stat. 584, 588.)
 
 **Editorial Notes**
 
@@ -981,7 +981,7 @@ Section was formerly classified to section 90 of this title.
 
 **Amendments**
 
-1967—Pub. L. 90–201, § 3, struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”.
+1967—Pub. L. 90–201, § 3, struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -989,7 +989,7 @@ Section was formerly classified to section 90 of this title.
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### § 623. Exemptions from inspection requirements
+### § 623. Exemptions from inspection requirements
 
 **(a) Personal slaughtering and custom slaughtering for personal, household, guest, and employee uses**
 
@@ -1013,7 +1013,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 The adulteration and misbranding provisions of this subchapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection or not required to be inspected under this section.
 
-(Mar. 4, 1907, ch. 2907, title I, § 23, formerly 21st, 22nd pars., 34 Stat. 1265; June 29, 1938, ch. 810, 52 Stat. 1235; renumbered § 23 and amended Pub. L. 90–201, §§ 1, 11, Dec. 15, 1967, 81 Stat. 584, 591; Pub. L. 91–342, July 18, 1970, 84 Stat. 438; Pub. L. 102–237, title X, § 1016(a), Dec. 13, 1991, 105 Stat. 1902.)
+(Mar. 4, 1907, ch. 2907, title I, § 23, formerly 21st, 22nd pars., 34 Stat. 1265; June 29, 1938, ch. 810, 52 Stat. 1235; renumbered § 23 and amended Pub. L. 90–201, §§ 1, 11, Dec. 15, 1967, 81 Stat. 584, 591; Pub. L. 91–342, July 18, 1970, 84 Stat. 438; Pub. L. 102–237, title X, § 1016(a), Dec. 13, 1991, 105 Stat. 1902.)
 
 **Editorial Notes**
 
@@ -1027,7 +1027,7 @@ Section was formerly classified to sections 91 and 92 of this title.
 
 1970—Subsec. (a). Pub. L. 91–342 changed proviso so as to permit custom slaughterers to conduct a separate inspected meat business, continued the exemption for owners to slaughter and process their own animals for their own use, authorized the Secretary to exempt custom slaughtering and processing performed by an inspected establishment, and required that custom slaughtered articles be clearly marked “not for sale”.
 
-1967—Pub. L. 90–201, § 11, substituted provisions for personal, custom, and territorial slaughtering exemptions and for application of adulteration and misbranding provisions to inspection-free articles for farmer definition and retail butcher and retail dealer exemption provisions.
+1967—Pub. L. 90–201, § 11, substituted provisions for personal, custom, and territorial slaughtering exemptions and for application of adulteration and misbranding provisions to inspection-free articles for farmer definition and retail butcher and retail dealer exemption provisions.
 
 1938—Act June 29, 1948, amended section generally.
 
@@ -1041,17 +1041,17 @@ Amendment by Pub. L. 90–201 effective upon expiration of sixty days after Dec.
 
 Secretary to issue final rules no later than Aug. 1, 1992, to implement exemption authorized by subsec. (c) of this section, see section 1016(c) of Pub. L. 102–237, set out as a note under section 464 of this title.
 
-### § 624. Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction
+### § 624. Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction
 
 The Secretary may by regulations prescribe conditions under which carcasses, parts of carcasses, meat, and meat food products of cattle, sheep, swine, goats, horses, mules, or other equines, capable of use as human food, shall be stored or otherwise handled by any person, firm, or corporation engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded when delivered to the consumer. Violation of any such regulation is prohibited. However, such regulations shall not apply to the storage or handling of such articles at any retail store or other establishment in any State or organized Territory that would be subject to this section only because of purchases in commerce, if the storage and handling of such articles at such establishment is regulated under the laws of the State or Territory in which such establishment is located, in a manner which the Secretary, after consultation with the appropriate advisory committee provided for in section 661 of this title, determines is adequate to effectuate the purposes of this section.
 
-(Mar. 4, 1907, ch. 2907, title I, § 24, as added Pub. L. 90–201, § 13, Dec. 15, 1967, 81 Stat. 593.)
+(Mar. 4, 1907, ch. 2907, title I, § 24, as added Pub. L. 90–201, § 13, Dec. 15, 1967, 81 Stat. 593.)
 
-### § 625. Inapplicability of certain requirements to catfish
+### § 625. Inapplicability of certain requirements to catfish
 
 Notwithstanding any other provision of this chapter, the requirements of sections 603, 604, 605, 610(b), and 623 of this title shall not apply to any fish described in section 601(w)(2) of this title.
 
-(Mar. 4, 1907, ch. 2907, title I, § 25, as added Pub. L. 110–234, title XI, § 11016(b)(1)(C), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(C), June 18, 2008, 122 Stat. 1664, 2131; amended Pub. L. 113–79, title XII, § 12106(a)(3), Feb. 7, 2014, 128 Stat. 981.)
+(Mar. 4, 1907, ch. 2907, title I, § 25, as added Pub. L. 110–234, title XI, § 11016(b)(1)(C), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(C), June 18, 2008, 122 Stat. 1664, 2131; amended Pub. L. 113–79, title XII, § 12106(a)(3), Feb. 7, 2014, 128 Stat. 981.)
 
 **Editorial Notes**
 
@@ -1073,11 +1073,11 @@ Amendment by Pub. L. 113–79 effective as if enacted as part of section 11016(b
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-### § 626. Purchase of tags, labels, stamps, and certificates
+### § 626. Purchase of tags, labels, stamps, and certificates
 
 The Secretary of Agriculture is authorized to expend appropriations for meat inspection for the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing.
 
-(Sept. 21, 1944, ch. 412, title I, § 101(f), 58 Stat. 734.)
+(Sept. 21, 1944, ch. 412, title I, § 101(f), 58 Stat. 734.)
 
 **Editorial Notes**
 
@@ -1095,11 +1095,11 @@ Authorization of appropriation of sums necessary for the purposes of this sectio
 
 ## SUBCHAPTER II—MEAT PROCESSORS AND RELATED INDUSTRIES
 
-### § 641. Prohibition of subchapter I inspection of articles not intended for use as human food; de­naturation or other identification prior to distribution in commerce; inedible articles
+### § 641. Prohibition of subchapter I inspection of articles not intended for use as human food; de­naturation or other identification prior to distribution in commerce; inedible articles
 
 Inspection shall not be provided under subchapter I of this chapter at any establishment for the slaughter of cattle, sheep, swine, goats, horses, mules, or other equines, or the preparation of any carcasses or parts or products of such animals, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person, firm, or corporation shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any carcasses, parts thereof, meat or meat food products of any such animals, which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
 
-(Mar. 4, 1907, ch. 2907, title II, § 201, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 593.)
+(Mar. 4, 1907, ch. 2907, title II, § 201, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 593.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1107,7 +1107,7 @@ Inspection shall not be provided under subchapter I of this chapter at any estab
 
 Subchapter effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out as a note under section 601 of this title.
 
-### § 642. Recordkeeping requirements
+### § 642. Recordkeeping requirements
 
 **(a) Classes of persons bound; scope of disclosure; access to places of business; examination of rec­ords, facilities, and inventories; copies; samples** The following classes of persons, firms, and corporations shall keep such records as will fully and correctly disclose all transactions involved in their businesses; and all persons, firms, and corporations subject to such requirements shall, at all reasonable times upon notice by a duly authorized representative of the Secretary, afford such representative access to their places of business and opportunity to examine the facilities, inventory, and records thereof, to copy all such records, and to take reasonable samples of their inventory upon payment of the fair market value therefor—
 
@@ -1121,29 +1121,29 @@ Subchapter effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out 
 
 Any record required to be maintained by this section shall be maintained for such period of time as the Secretary may by regulations prescribe.
 
-(Mar. 4, 1907, ch. 2907, title II, § 202, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 593.)
+(Mar. 4, 1907, ch. 2907, title II, § 202, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 593.)
 
-### § 643. Registration of business, name of person, and trade names
+### § 643. Registration of business, name of person, and trade names
 
 No person, firm, or corporation shall engage in business, in or for commerce, as a meat broker, renderer, or animal food manufacturer, or engage in business in commerce as a wholesaler of any carcasses, or parts or products of the carcasses, of any cattle, sheep, swine, goats, horses, mules, or other equines, whether intended for human food or other purposes, or engage in business as a public warehouseman storing any such articles in or for commerce, or engage in the business of buying, selling, or transporting in commerce, or importing, any dead, dying, disabled, or diseased animals of the specified kinds, or parts of the carcasses of any such animals that died otherwise than by slaughter, unless, when required by regulations of the Secretary, he has registered with the Secretary his name, and the address of each place of business at which, and all trade names under which, he conducts such business.
 
-(Mar. 4, 1907, ch. 2907, title II, § 203, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
+(Mar. 4, 1907, ch. 2907, title II, § 203, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
 
-### § 644. Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food
+### § 644. Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food
 
 No person, firm, or corporation engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased animals, or any parts of the carcasses of any animals that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased cattle, sheep, swine, goats, horses, mules or other equines, or parts of the carcasses of any such animals that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as the Secretary may prescribe to assure that such animals, or the unwholesome parts or products thereof, will be prevented from being used for human food purposes.
 
-(Mar. 4, 1907, ch. 2907, title II, § 204, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
+(Mar. 4, 1907, ch. 2907, title II, § 204, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
 
-### § 645. Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority
+### § 645. Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority
 
 The authority conferred on the Secretary by section 642, 643, or 644 of this title with respect to persons, firms, and corporations engaged in the specified kinds of business in or for commerce may be exercised with respect to persons, firms, or corporations engaged, in any State or organized Territory, in such kinds of business but not in or for commerce, whenever the Secretary determines, after consultation with an appropriate advisory committee provided for in section 661 of this title, that the State or territory does not have at least equal authority under its laws or such authority is not exercised in a manner to effectuate the purposes of this chapter including the State providing for the Secretary or his representative being afforded access to such places of business and the facilities, inventories, and records thereof, and the taking of reasonable samples, where he determines necessary in carrying out his responsibilities under this chapter; and in such case the provisions of section 642, 643, or 644 of this title, respectively, shall apply to such persons, firms, and corporations to the same extent and in the same manner as if they were engaged in such business in or for commerce and the transactions involved were in commerce.
 
-(Mar. 4, 1907, ch. 2907, title II, § 205, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
+(Mar. 4, 1907, ch. 2907, title II, § 205, as added Pub. L. 90–201, § 14, Dec. 15, 1967, 81 Stat. 594.)
 
 ## SUBCHAPTER III—FEDERAL AND STATE COOPERATION
 
-### § 661. Federal and State cooperation
+### § 661. Federal and State cooperation
 
 **(a) Congressional statement of policy** It is the policy of the Congress to protect the consuming public from meat and meat food products that are adulterated or misbranded and to assist in efforts by State and other Government agencies to accomplish this objective. In furtherance of this policy—
 
@@ -1183,9 +1183,9 @@ Whenever the Secretary determines that any State designated under this paragraph
 
 **(4) Periodic review; report to Congressional committees**
 
-The Secretary shall promptly upon December 15, 1967, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required under section 691 1
+The Secretary shall promptly upon December 15, 1967, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required under section 691 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1193,7 +1193,7 @@ of this title.
 
 As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized Territory.
 
-(Mar. 4, 1907, ch. 2907, title III § 301, as added Pub. L. 90–201, § 15, Dec. 15, 1967, 81 Stat. 595; amended Pub. L. 98–487, § 1, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, § 8(2), Nov. 2, 1994, 108 Stat. 4588.)
+(Mar. 4, 1907, ch. 2907, title III § 301, as added Pub. L. 90–201, § 15, Dec. 15, 1967, 81 Stat. 595; amended Pub. L. 98–487, § 1, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, § 8(2), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -1223,7 +1223,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 ## SUBCHAPTER IV—AUXILIARY PROVISIONS
 
-### § 671. Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of services unaffected; responsible connection with business; finality of Secretary’s actions; judicial review; record
+### § 671. Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of services unaffected; responsible connection with business; finality of Secretary’s actions; judicial review; record
 
 The Secretary may (for such period, or indefinitely, as he deems necessary to effectuate the purposes of this chapter) refuse to provide, or withdraw, inspection service under subchapter I of this chapter with respect to any establishment if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under subchapter I because the applicant or recipient, or anyone responsibly connected with the applicant or recipient, has been convicted, in any Federal or State court, of (1) any felony, or (2) more than one violation of any law, other than a felony, based upon the acquiring, handling, or distributing of unwholesome, mislabeled, or deceptively packaged food or upon fraud in connection with transactions in food. This section shall not affect in any way other provisions of this chapter for withdrawal of inspection services under subchapter I from establishments failing to maintain sanitary conditions or to destroy condemned carcasses, parts, meat or meat food products.
 
@@ -1231,45 +1231,45 @@ For the purpose of this section a person shall be deemed to be responsibly conne
 
 The determination and order of the Secretary with respect thereto under this section shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the appropriate court as provided in section 674 of this title. Judicial review of any such order shall be upon the record upon which the determination and order are based.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 401, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 597; amended Pub. L. 99–641, title IV, § 403(b), Nov. 10, 1986, 100 Stat. 3568.)
+(Mar. 4, 1907, ch. 2907, title IV, § 401, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 597; amended Pub. L. 99–641, title IV, § 403(b), Nov. 10, 1986, 100 Stat. 3568.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–641, § 403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Subsec. (a). Pub. L. 99–641, § 403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
 
-Pub. L. 99–641, § 403(b)(2)(A), which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
+Pub. L. 99–641, § 403(b)(2)(A), which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
 
-Subsecs. (b) to (e). Pub. L. 99–641, § 403(b)(6), temporarily added subsecs. (b) to (e). See Effective and Termination Dates of 1986 Amendment note below.
+Subsecs. (b) to (e). Pub. L. 99–641, § 403(b)(6), temporarily added subsecs. (b) to (e). See Effective and Termination Dates of 1986 Amendment note below.
 
-Subsec. (f). Pub. L. 99–641, § 403(b)(3), temporarily designated provisions which related to other provisions for withdrawal of inspection services as subsec. (f). See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (f). Pub. L. 99–641, § 403(b)(3), temporarily designated provisions which related to other provisions for withdrawal of inspection services as subsec. (f). See Effective and Termination Dates of 1986 Amendment note below.
 
-Subsec. (g). Pub. L. 99–641, § 403(b)(4), temporarily designated provisions which related to responsible connection with business as subsec. (g). See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (g). Pub. L. 99–641, § 403(b)(4), temporarily designated provisions which related to responsible connection with business as subsec. (g). See Effective and Termination Dates of 1986 Amendment note below.
 
-Subsec. (h). Pub. L. 99–641, § 403(b)(5), temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted “Except as provided in subsection (e)(2) of this section, the determination” for “The determination” and “subsection (e) of this section” for “this section”. See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (h). Pub. L. 99–641, § 403(b)(5), temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted “Except as provided in subsection (e)(2) of this section, the determination” for “The determination” and “subsection (e) of this section” for “this section”. See Effective and Termination Dates of 1986 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–641, title IV, § 403(b), Nov. 10, 1986, 100 Stat. 3568, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+Pub. L. 99–641, title IV, § 403(b), Nov. 10, 1986, 100 Stat. 3568, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
 **Effective Date**
 
 Subchapter effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out as a note under section 601 of this title.
 
-**Construction and Effect of Amendments by Pub. L. 99–641**
+**Construction and Effect of Amendments by Pub. L. 99–641**
 
 For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
 
-### § 672. Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release
+### § 672. Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release
 
 Whenever any carcass, part of a carcass, meat or meat food product of cattle, sheep, swine, goats, horses, mules, or other equines, or any product exempted from the definition of a meat food product, or any dead, dying, disabled, or diseased cattle, sheep, swine, goat, or equine is found by any authorized representative of the Secretary upon any premises where it is held for purposes of, or during or after distribution in, commerce or otherwise subject to subchapter I or II of this chapter, and there is reason to believe that any such article is adulterated or misbranded and is capable of use as human food, or that it has not been inspected, in violation of the provisions of subchapter I of this chapter or of any other Federal law or the laws of any State or Territory, or the District of Columbia, or that such article or animal has been or is intended to be, distributed in violation of any such provisions, it may be detained by such representative for a period not to exceed twenty days, pending action under section 673 of this title or notification of any Federal, State, or other governmental authorities having jurisdiction over such article or animal, and shall not be moved by any person, firm, or corporation from the place at which it is located when so detained, until released by such representative. All official marks may be required by such representative to be removed from such article or animal before it is released unless it appears to the satisfaction of the Secretary that the article or animal is eligible to retain such marks.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 402, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 598.)
+(Mar. 4, 1907, ch. 2907, title IV, § 402, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 598.)
 
-### § 673. Seizure and condemnation
+### § 673. Seizure and condemnation
 
 **(a) Proceedings in rem; libel of information; jurisdiction; disposal by destruction or sale; proceeds into the Treasury; sales restrictions; bond; court costs and fees, storage, and other expenses against claimants; proceedings in admiralty; jury trial; United States as plaintiff**
 
@@ -1305,7 +1305,7 @@ Whenever any carcass, part of a carcass, meat or meat food product of cattle, sh
 
 The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 403, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 598; amended Pub. L. 101–205, § 1, Dec. 7, 1989, 103 Stat. 1829.)
+(Mar. 4, 1907, ch. 2907, title IV, § 403, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 598; amended Pub. L. 101–205, § 1, Dec. 7, 1989, 103 Stat. 1829.)
 
 **Editorial Notes**
 
@@ -1313,19 +1313,19 @@ The provisions of this section shall in no way derogate from authority for conde
 
 1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) to be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 
-### § 674. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations of section 607(e) of this title
+### § 674. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations of section 607(e) of this title
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other Territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 607(e) of this title.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 404, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
+(Mar. 4, 1907, ch. 2907, title IV, § 404, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
 
-### § 675. Assaulting, resisting, or impeding certain persons; murder; protection of such persons
+### § 675. Assaulting, resisting, or impeding certain persons; murder; protection of such persons
 
 Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under this chapter shall be fined not more than $5,000 or imprisoned not more than three years, or both. Whoever, in the commission of any such acts, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1114 of title 18.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 405, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
+(Mar. 4, 1907, ch. 2907, title IV, § 405, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
 
-### § 676. Violations
+### § 676. Violations
 
 **(a) Misdemeanors; felonies: intent to defraud and distribution of adulterated articles; good faith**
 
@@ -1335,35 +1335,35 @@ Any person, firm, or corporation who violates any provision of this chapter for 
 
 Nothing in this chapter shall be construed as requiring the Secretary to report for prosecution or for the institution of libel or injunction proceedings, minor violations of this chapter whenever he believes that the public interest will be adequately served by a suitable written notice of warning.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 406, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599; amended Pub. L. 99–641, title IV, § 403(c), Nov. 10, 1986, 100 Stat. 3570.)
+(Mar. 4, 1907, ch. 2907, title IV, § 406, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599; amended Pub. L. 99–641, title IV, § 403(c), Nov. 10, 1986, 100 Stat. 3570.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (b). Pub. L. 99–641, § 403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Subsec. (b). Pub. L. 99–641, § 403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
 
-Subsec. (c). Pub. L. 99–641, § 403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (c). Pub. L. 99–641, § 403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–641, title IV, § 403(c), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+Pub. L. 99–641, title IV, § 403(c), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
-**Construction and Effect of Amendments by Pub. L. 99–641**
+**Construction and Effect of Amendments by Pub. L. 99–641**
 
 For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
 
-### § 677. Other Federal laws applicable for administration and enforcement of chapter; location of inquiries; jurisdiction of Federal courts
+### § 677. Other Federal laws applicable for administration and enforcement of chapter; location of inquiries; jurisdiction of Federal courts
 
-For the efficient administration and enforcement of this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
+For the efficient administration and enforcement of this chapter, the provisions (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 15), and the provisions of section 409(*l*) 1 of title 47; are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 674 of this title.
+of title 15), and the provisions of section 409(*l*) 1 of title 47; are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person, firm, or corporation with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 674 of this title.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 407, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
+(Mar. 4, 1907, ch. 2907, title IV, § 407, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 599.)
 
 **Editorial Notes**
 
@@ -1371,17 +1371,17 @@ of title 15), and the provisions of section 409(*l*) 1 of title 47; are made a
 
 The last paragraph of section 49 of title 15, and the provisions of section 409(*l*) of title 47, referred to in text, which related to immunity of witnesses, were repealed by sections 211 and 242, respectively, of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929, 930. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-### § 678. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters
+### § 678. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters
 
-Requirements within the scope of this chapter with respect to premises, facilities and operations of any establishment at which inspection is provided under subchapter I of this chapter, which are in addition to, or different than those made under this chapter may not be imposed by any State or Territory or the District of Columbia, except that any such jurisdiction may impose recordkeeping and other requirements within the scope of section 642 of this title, if consistent therewith, with respect to any such establishment. Marking, labeling, packaging, or ingredient requirements in addition to, or different than, those made under this chapter may not be imposed by any State or Territory or the District of Columbia with respect to articles prepared at any establishment under inspection in accordance with the requirements under subchapter I of this chapter, but any State or Territory or the District of Columbia may, consistent with the requirements under this chapter, exercise concurrent jurisdiction with the Secretary over articles required to be inspected under said subchapter I, for the purpose of preventing the distribution for human food purposes of any such articles which are adulterated or misbranded and are outside of such an establishment, or, in the case of imported articles which are not at such an establishment, after their entry into the United States. This chapter shall not preclude any State or Territory or the District of Columbia from making requirement 1
+Requirements within the scope of this chapter with respect to premises, facilities and operations of any establishment at which inspection is provided under subchapter I of this chapter, which are in addition to, or different than those made under this chapter may not be imposed by any State or Territory or the District of Columbia, except that any such jurisdiction may impose recordkeeping and other requirements within the scope of section 642 of this title, if consistent therewith, with respect to any such establishment. Marking, labeling, packaging, or ingredient requirements in addition to, or different than, those made under this chapter may not be imposed by any State or Territory or the District of Columbia with respect to articles prepared at any establishment under inspection in accordance with the requirements under subchapter I of this chapter, but any State or Territory or the District of Columbia may, consistent with the requirements under this chapter, exercise concurrent jurisdiction with the Secretary over articles required to be inspected under said subchapter I, for the purpose of preventing the distribution for human food purposes of any such articles which are adulterated or misbranded and are outside of such an establishment, or, in the case of imported articles which are not at such an establishment, after their entry into the United States. This chapter shall not preclude any State or Territory or the District of Columbia from making requirement 1
 
-<sup>1</sup>  So in original. Probably should be “requirements”.
+<sup>1</sup> So in original. Probably should be “requirements”.
 
 or taking other action, consistent with this chapter, with respect to any other matters regulated under this chapter.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 408, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600.)
+(Mar. 4, 1907, ch. 2907, title IV, § 408, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600.)
 
-### § 679. Application of Federal Food, Drug, and Cosmetic Act
+### § 679. Application of Federal Food, Drug, and Cosmetic Act
 
 **(a) Authorities under food, drug, and cosmetic provisions unaffected**
 
@@ -1391,13 +1391,13 @@ Notwithstanding any other provisions of law, including section 1002(b) of the Fe
 
 The detainer authority conferred by section 672 of this title shall apply to any authorized representative of the Secretary of Health and Human Services for purposes of the enforcement of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] with respect to any carcass, part thereof, meat, or meat food product of cattle, sheep, swine, goats, or equines that is outside any premises at which inspection is being maintained under this chapter, and for such purposes the first reference to the Secretary in section 672 of this title shall be deemed to refer to the Secretary of Health and Human Services.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 409, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 111–31, div. A, title I, § 103(*o*), June 22, 2009, 123 Stat. 1838.)
+(Mar. 4, 1907, ch. 2907, title IV, § 409, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 111–31, div. A, title I, § 103(*o*), June 22, 2009, 123 Stat. 1838.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Amendments**
 
@@ -1409,7 +1409,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-### § 679a. Safe Meat and Poultry Inspection Panel
+### § 679a. Safe Meat and Poultry Inspection Panel
 
 **(a) Establishment**
 
@@ -1489,15 +1489,15 @@ Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7
 
 From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 410, as added Pub. L. 104–127, title IX, § 918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188; amended Pub. L. 117–286, § 4(a)(161), Dec. 27, 2022, 136 Stat. 4323.)
+(Mar. 4, 1907, ch. 2907, title IV, § 410, as added Pub. L. 104–127, title IX, § 918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188; amended Pub. L. 117–286, § 4(a)(161), Dec. 27, 2022, 136 Stat. 4323.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 **Prior Provisions**
 
@@ -1513,7 +1513,7 @@ A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is clas
 
 For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section, see section 741 Pub. L. 113–235, set out as a note under section 471 of this title.
 
-### § 679b. Pasteurization of meat and poultry
+### § 679b. Pasteurization of meat and poultry
 
 **(1) In general**
 
@@ -1523,7 +1523,7 @@ Effective beginning not later than 30 days after May 13, 2002, the Secretary of 
 
 There is authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 107–171, title X, § 10808(a), May 13, 2002, 116 Stat. 530.)
+(Pub. L. 107–171, title X, § 10808(a), May 13, 2002, 116 Stat. 530.)
 
 **Editorial Notes**
 
@@ -1531,7 +1531,7 @@ There is authorized to be appropriated such sums as are necessary to carry out t
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
-### § 679c. Expansion of Food Safety Inspection Service activities
+### § 679c. Expansion of Food Safety Inspection Service activities
 
 **(a) In general** The Secretary of Agriculture may utilize existing authorities to give high priority to enhancing and expanding the capacity of the Food Safety Inspection Service to conduct activities to—
 
@@ -1547,7 +1547,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 There is authorized to be appropriated to carry out this section, $15,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
 
-(Pub. L. 107–188, title III, § 332, June 12, 2002, 116 Stat. 679.)
+(Pub. L. 107–188, title III, § 332, June 12, 2002, 116 Stat. 679.)
 
 **Editorial Notes**
 
@@ -1555,15 +1555,15 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
-### § 680. Authorization of appropriations
+### § 680. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-(Mar. 4, 1907, ch. 2907, title IV, § 411, formerly § 410, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600; renumbered § 411, Pub. L. 104–127, title IX, § 918(a)(1)(A), Apr. 4, 1996, 110 Stat. 1188.)
+(Mar. 4, 1907, ch. 2907, title IV, § 411, formerly § 410, as added Pub. L. 90–201, § 16, Dec. 15, 1967, 81 Stat. 600; renumbered § 411, Pub. L. 104–127, title IX, § 918(a)(1)(A), Apr. 4, 1996, 110 Stat. 1188.)
 
 ## SUBCHAPTER IV–A—INSPECTIONS BY FEDERAL AND STATE AGENCIES
 
-### § 683. Interstate shipment of meat inspected by Federal and State agencies for certain small establishments
+### § 683. Interstate shipment of meat inspected by Federal and State agencies for certain small establishments
 
 **(a) Definitions**
 
@@ -1725,7 +1725,7 @@ This section takes effect on the date on which the Secretary, after providing a 
 
 Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
 
-(Mar. 4, 1907, ch. 2907, title V, § 501, as added Pub. L. 110–234, title XI, § 11015(a), May 22, 2008, 122 Stat. 1362, and Pub. L. 110–246, § 4(a), title XI, § 11015(a), June 18, 2008, 122 Stat. 1664, 2124.)
+(Mar. 4, 1907, ch. 2907, title V, § 501, as added Pub. L. 110–234, title XI, § 11015(a), May 22, 2008, 122 Stat. 1362, and Pub. L. 110–246, § 4(a), title XI, § 11015(a), June 18, 2008, 122 Stat. 1664, 2124.)
 
 **Editorial Notes**
 
@@ -1747,15 +1747,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
-### § 691. Omitted
+### § 691. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 90–201, § 17, Dec. 15, 1967, 81 Stat. 600; Pub. L. 103–437, § 8(3), Nov. 2, 1994, 108 Stat. 4588, which required the Secretary of Agriculture to report annually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the slaughter of animals and the processing and distribution of carcasses and products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
+Section, Pub. L. 90–201, § 17, Dec. 15, 1967, 81 Stat. 600; Pub. L. 103–437, § 8(3), Nov. 2, 1994, 108 Stat. 4588, which required the Secretary of Agriculture to report annually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the slaughter of animals and the processing and distribution of carcasses and products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
-### § 692. Inspection extended to reindeer
+### § 692. Inspection extended to reindeer
 
 The provisions of the meat-inspection law may be extended to the inspection of reindeer.
 
@@ -1769,7 +1769,7 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 Section was formerly classified to section 94 of this title.
 
-### § 693. Inspection of dairy products for export
+### § 693. Inspection of dairy products for export
 
 The act of March 3, 1891, as amended, for the inspection of live cattle and products thereof, shall be deemed to include dairy products intended for exportation to any foreign country, and the Secretary of Agriculture may apply, under rules and regulations to be prescribed by him, the provisions of said act for inspection and certification appropriate for ascertaining the purity and quality of such products, and may cause the same to be so marked, stamped, or labeled as to secure their identity and make known in the markets of foreign countries to which they may be sent from the United States their purity, quality, and grade; and all the provisions of said act relating to live cattle and products thereof for export shall apply to dairy products so inspected and certified.
 
@@ -1787,11 +1787,11 @@ Section was not enacted as part of the Federal Meat Inspection Act which is clas
 
 Section was formerly classified to sections 94a and 132 of this title.
 
-### § 694. Authorization of appropriations
+### § 694. Authorization of appropriations
 
 Annual appropriations of the sum of $3,000,000 from the general fund of the Treasury are authorized for the expenses of the inspection of cattle, sheep, swine, and goats and the meat and meat food products thereof which enter into interstate or foreign commerce and for all expenses necessary to carry into effect the provisions of this Act relating to meat inspection, including rent and the employment of labor in Washington and elsewhere, for each year, and in addition there is authorized to be appropriated such other sums as may be necessary in the enforcement of the meat inspection laws.
 
-(June 30, 1906, ch. 3913, 34 Stat. 679; June 26, 1934, ch. 756, § 2, 48 Stat. 1225.)
+(June 30, 1906, ch. 3913, 34 Stat. 679; June 26, 1934, ch. 756, § 2, 48 Stat. 1225.)
 
 **Editorial Notes**
 
@@ -1801,7 +1801,7 @@ This Act, referred to in text, is act June 30, 1906, ch. 3913, 34 Stat. 669, whi
 
 **Codification**
 
-Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(3) of such Act provides as follows: “Meat inspection, Bureau of Animal Industry (fiscal year) (3–114).” Section 2(a) of such Act also authorized to be appropriated such other sums as necessary in the enforcement of the meat inspection laws. See 1934 Amendment note below.
+Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(3) of such Act provides as follows: “Meat inspection, Bureau of Animal Industry (fiscal year) (3–114).” Section 2(a) of such Act also authorized to be appropriated such other sums as necessary in the enforcement of the meat inspection laws. See 1934 Amendment note below.
 
 Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
@@ -1809,19 +1809,19 @@ Section was formerly classified to section 95 of this title.
 
 **Amendments**
 
-1934—Act June 26, 1934, substituted “Annual appropriations of the sum of $3,000,000 from the general fund of the Treasury are authorized” for “There is permanently appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $3,000,000,” and inserted before period at end “, and in addition there is authorized to be appropriated such other sums as may be necessary in the enforcement of the meat inspection laws”.
+1934—Act June 26, 1934, substituted “Annual appropriations of the sum of $3,000,000 from the general fund of the Treasury are authorized” for “There is permanently appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $3,000,000,” and inserted before period at end “, and in addition there is authorized to be appropriated such other sums as may be necessary in the enforcement of the meat inspection laws”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1934 Amendment**
 
-Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, provided that the permanent appropriations under the appropriations titles listed in section 2(b) of such Act were repealed, effective July 1, 1935.
+Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, provided that the permanent appropriations under the appropriations titles listed in section 2(b) of such Act were repealed, effective July 1, 1935.
 
-### § 695. Payment of cost of meat-inspection service; exception
+### § 695. Payment of cost of meat-inspection service; exception
 
 The cost of inspection rendered on and after July 1, 1948, under the requirements of laws relating to Federal inspection of meat and meat food products shall be borne by the United States except the cost of overtime and holiday pay paid pursuant to section 2219a of title 7.
 
-(June 5, 1948, ch. 423, 62 Stat. 344; Pub. L. 107–171, title X, § 10703(c)(2), May 13, 2002, 116 Stat. 517.)
+(June 5, 1948, ch. 423, 62 Stat. 344; Pub. L. 107–171, title X, § 10703(c)(2), May 13, 2002, 116 Stat. 517.)
 
 **Editorial Notes**
 

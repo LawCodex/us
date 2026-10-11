@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2011—SEPARATION OF OFFICERS FOR SUBSTANDARD PERFORMANCE OF DUTY OR FOR CERTAIN OTHER REASONS
 
-## § 20501. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons
+## § 20501. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons
 
 **(a) Procedures for Review of Record of Officers Relating to Standards of Performance of Duty.—**
 
@@ -41,9 +41,9 @@ retrieved: 2026-10-11
 
 **(c) Secretary of Defense Limitations.—** Regulations prescribed by the Secretary of the Air Force under this section are subject to such limitations as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 659.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 659.)
 
-## § 20502. Retention boards
+## § 20502. Retention boards
 
 **(a) Convening of Boards to Consider Officers Required to Show Cause.—** The Secretary of the Air Force shall convene retention boards at such times and places as the Secretary may prescribe to receive evidence and make findings and recommendations as to whether an officer who is required under section 20501 of this title to show cause for retention in a space force active status should be retained in a space force active status. Each retention board shall be composed of not less than three officers having the qualifications prescribed by section 20506 of this title.
 
@@ -75,23 +75,23 @@ retrieved: 2026-10-11
 
 **(4)** In the case of an officer described in paragraph (2) or paragraph (3)(A), the retention board may recommend that the officer be required to complete additional training, professional education, or such other developmental programs as may be available to correct any identified deficiencies and improve the officer’s performance within the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 659; amended Pub. L. 118–159, div. A, title V, § 521(x), Dec. 23, 2024, 138 Stat. 1883.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 659; amended Pub. L. 118–159, div. A, title V, § 521(x), Dec. 23, 2024, 138 Stat. 1883.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (c). Pub. L. 118–159, § 521(x)(1), substituted “That an Officer Has Failed to Establish That the Officer Should Be Retained” for “Than an Officer Has Failed to Establish That the Officer Should Be Retained” in heading and realigned margins.
+2024—Subsec. (c). Pub. L. 118–159, § 521(x)(1), substituted “That an Officer Has Failed to Establish That the Officer Should Be Retained” for “Than an Officer Has Failed to Establish That the Officer Should Be Retained” in heading and realigned margins.
 
-Subsec. (d). Pub. L. 118–159, § 521(x)(2), substituted “That” for “Than” in heading.
+Subsec. (d). Pub. L. 118–159, § 521(x)(2), substituted “That” for “Than” in heading.
 
-## § 20503. Removal of officer: action by Secretary upon recommendation of retention board
+## § 20503. Removal of officer: action by Secretary upon recommendation of retention board
 
 The Secretary of the Air Force may remove an officer from space force active status if the removal of such officer from space force active status is recommended by a retention board convened under section 20502 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
 
-## § 20504. Rights and procedures
+## § 20504. Rights and procedures
 
 **(a) In General.—** Under regulations prescribed by the Secretary of the Air Force, each officer required under section 20501 of this title to show cause for retention in a space force active status—
 
@@ -105,9 +105,9 @@ The Secretary of the Air Force may remove an officer from space force active sta
 
 **(b) Summary of Records Withheld in Interest of National Security.—** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
 
-## § 20505. Officer considered for removal: voluntary retirement or discharge
+## § 20505. Officer considered for removal: voluntary retirement or discharge
 
 **(a) In General.—** At any time during proceedings under this chapter with respect to the removal of an officer from a space force active status, the Secretary of the Air Force may grant a request by the officer—
 
@@ -127,9 +127,9 @@ The Secretary of the Air Force may remove an officer from space force active sta
 
 **(c) Separation Pay for Discharged Officer.—** An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under section 1174(a)(2) of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 661.)
 
-## § 20506. Officers eligible to serve on retention boards
+## § 20506. Officers eligible to serve on retention boards
 
 **(a) In General.—** The provisions of section 1187 of this title apply to the membership of boards convened under this chapter in the same manner as to the membership of boards convened under chapter 60 of this title.
 
@@ -139,4 +139,4 @@ The Secretary of the Air Force may remove an officer from space force active sta
 
 **(2) Limitation.—** A retired officer of the Air Force may be appointed to a board under paragraph (1) only if the officer served in a space-related career field of the Air Force for sufficient time such that the Secretary of the Air Force determines that the retired Air Force officer has adequate knowledge concerning the standards of performance and conduct required of an officer of the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 662.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 662.)

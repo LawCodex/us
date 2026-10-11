@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56A—GLOBAL CHANGE RESEARCH
 
-## § 2921. Definitions
+## § 2921. Definitions
 
 As used in this chapter, the term—
 
@@ -39,19 +39,19 @@ As used in this chapter, the term—
 
 **(6)** “Program” means the United States Global Change Research Program established under section 2933 of this title.
 
-(Pub. L. 101–606, § 2, Nov. 16, 1990, 104 Stat. 3096.)
+(Pub. L. 101–606, § 2, Nov. 16, 1990, 104 Stat. 3096.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–606, § 1, Nov. 16, 1990, 104 Stat. 3096, provided that: “This Act [enacting this chapter] may be cited as the ‘Global Change Research Act of 1990’.”
+Pub. L. 101–606, § 1, Nov. 16, 1990, 104 Stat. 3096, provided that: “This Act [enacting this chapter] may be cited as the ‘Global Change Research Act of 1990’.”
 
-Pub. L. 101–606, title II, § 201, Nov. 16, 1990, 104 Stat. 3102, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
+Pub. L. 101–606, title II, § 201, Nov. 16, 1990, 104 Stat. 3102, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
 
 ## SUBCHAPTER I—UNITED STATES GLOBAL CHANGE RESEARCH PROGRAM
 
-### § 2931. Findings and purpose
+### § 2931. Findings and purpose
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -71,9 +71,9 @@ Pub. L. 101–606, title II, § 201, Nov. 16, 1990, 104 Stat. 3102, provided t
 
 The purpose of this subchapter is to provide for development and coordination of a comprehensive and integrated United States research program which will assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.
 
-(Pub. L. 101–606, title I, § 101, Nov. 16, 1990, 104 Stat. 3096.)
+(Pub. L. 101–606, title I, § 101, Nov. 16, 1990, 104 Stat. 3096.)
 
-### § 2932. Committee on Earth and Environmental Sciences
+### § 2932. Committee on Earth and Environmental Sciences
 
 **(a) Establishment**
 
@@ -111,9 +111,9 @@ The President, through the Council, shall establish a Committee on Earth and Env
 
 **(15)** such other agencies and departments of the United States as the President or the Chairman of the Council considers appropriate.
 
-Such representatives shall be high ranking officials of their agency or department, wherever possible the head of the portion of that agency or department that is most revelant 1
+Such representatives shall be high ranking officials of their agency or department, wherever possible the head of the portion of that agency or department that is most revelant 1
 
-<sup>1</sup>  So in original. Probably should be “relevant”.
+<sup>1</sup> So in original. Probably should be “relevant”.
 
 to the purpose of the subchapter described in section 2931(b) of this title.
 
@@ -145,15 +145,15 @@ An Executive Secretary shall be appointed by the Chairperson of the Committee, w
 
 **(7)** report at least annually to the President and the Congress, through the Chairman of the Council, on Federal global change research priorities, policies, and programs.
 
-(Pub. L. 101–606, title I, § 102, Nov. 16, 1990, 104 Stat. 3097.)
+(Pub. L. 101–606, title I, § 102, Nov. 16, 1990, 104 Stat. 3097.)
 
-### § 2933. United States Global Change Research Program
+### § 2933. United States Global Change Research Program
 
 The President shall establish an interagency United States Global Change Research Program to improve understanding of global change. The Program shall be implemented by the Plan developed under section 2934 of this title.
 
-(Pub. L. 101–606, title I, § 103, Nov. 16, 1990, 104 Stat. 3098.)
+(Pub. L. 101–606, title I, § 103, Nov. 16, 1990, 104 Stat. 3098.)
 
-### § 2934. National Global Change Research Plan
+### § 2934. National Global Change Research Plan
 
 **(a) In general**
 
@@ -213,9 +213,9 @@ The Chairman of the Council, through the Committee, shall develop a National Glo
 
 In developing the Plan, the Committee shall consult with academic, State, industry, and environmental groups and representatives. Not later than 90 days before the Chairman of the Council submits the Plan, or any revision thereof, to the Congress, a summary of the proposed Plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
-(Pub. L. 101–606, title I, § 104, Nov. 16, 1990, 104 Stat. 3099.)
+(Pub. L. 101–606, title I, § 104, Nov. 16, 1990, 104 Stat. 3099.)
 
-### § 2935. Budget coordination
+### § 2935. Budget coordination
 
 **(a) Committee guidance**
 
@@ -239,9 +239,9 @@ The Committee shall each year provide general guidance to each Federal agency or
 
 **(2)** The President shall identify in each annual budget submitted to the Congress under section 1105 of title 31 those items in each agency’s or department’s annual budget which are elements of the Program.
 
-(Pub. L. 101–606, title I, § 105, Nov. 16, 1990, 104 Stat. 3100.)
+(Pub. L. 101–606, title I, § 105, Nov. 16, 1990, 104 Stat. 3100.)
 
-### § 2936. Scientific assessment
+### § 2936. Scientific assessment
 
 On a periodic basis (not less frequently than every 4 years), the Council, through the Committee, shall prepare and submit to the President and the Congress an assessment which—
 
@@ -249,23 +249,23 @@ On a periodic basis (not less frequently than every 4 years), the Council, throu
 
 **(2)** analyzes the effects of global change on the natural environment, agriculture, energy production and use, land and water resources, transportation, human health and welfare, human social systems, and biological diversity; and
 
-**(3)** analyzes current trends in global change, both human-inducted 1
+**(3)** analyzes current trends in global change, both human-inducted 1
 
-<sup>1</sup>  So in original. Probably should be “human-induced”.
+<sup>1</sup> So in original. Probably should be “human-induced”.
 
 and natural, and projects major trends for the subsequent 25 to 100 years.
 
-(Pub. L. 101–606, title I, § 106, Nov. 16, 1990, 104 Stat. 3101.)
+(Pub. L. 101–606, title I, § 106, Nov. 16, 1990, 104 Stat. 3101.)
 
-### § 2937. Omitted
+### § 2937. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–606, title I, § 107, Nov. 16, 1990, 104 Stat. 3101, which required the Chairman of the Federal Coordinating Council on Science, Engineering, and Technology to submit an annual report to Congress on the activities conducted by the Committee on Earth and Environmental Sciences pursuant to this subchapter, terminated effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 157 of House Document No. 103–7.
+Section, Pub. L. 101–606, title I, § 107, Nov. 16, 1990, 104 Stat. 3101, which required the Chairman of the Federal Coordinating Council on Science, Engineering, and Technology to submit an annual report to Congress on the activities conducted by the Committee on Earth and Environmental Sciences pursuant to this subchapter, terminated effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 157 of House Document No. 103–7.
 
-### § 2938. Relation to other authorities
+### § 2938. Relation to other authorities
 
 **(a) National Climate Program research activities**
 
@@ -281,17 +281,17 @@ The President, the Chairman of the Council, and the Secretary of Commerce shall 
 
 Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
 
-(Pub. L. 101–606, title I, § 108, Nov. 16, 1990, 104 Stat. 3101.)
+(Pub. L. 101–606, title I, § 108, Nov. 16, 1990, 104 Stat. 3101.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, which is classified principally to chapter 56 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, which is classified principally to chapter 56 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 ## SUBCHAPTER II—INTERNATIONAL COOPERATION IN GLOBAL CHANGE RESEARCH
 
-### § 2951. Findings and purposes
+### § 2951. Findings and purposes
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -311,9 +311,9 @@ The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–36
 
 **(3)** promote international efforts to provide technical and other assistance to developing nations which will facilitate improvements in their domestic standard of living while minimizing damage to the global or regional environment.
 
-(Pub. L. 101–606, title II, § 202, Nov. 16, 1990, 104 Stat. 3102.)
+(Pub. L. 101–606, title II, § 202, Nov. 16, 1990, 104 Stat. 3102.)
 
-### § 2952. International discussions
+### § 2952. International discussions
 
 **(a) Global change research** The President should direct the Secretary of State, in cooperation with the Committee, to initiate discussions with other nations leading toward international protocols and other agreements to coordinate global change research activities. Such discussions should include the following issues:
 
@@ -345,9 +345,9 @@ The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–36
 
 **(3)** Exchange of information concerning environmentally safe energy technologies and practices, including those described in paragraphs (1) and (2).
 
-(Pub. L. 101–606, title II, § 203, Nov. 16, 1990, 104 Stat. 3102.)
+(Pub. L. 101–606, title II, § 203, Nov. 16, 1990, 104 Stat. 3102.)
 
-### § 2953. Global Change Research Information Office
+### § 2953. Global Change Research Information Office
 
 Not more than 180 days after November 16, 1990, the President shall, in consultation with the Committee and all relevant Federal agencies, establish an Office of Global Change Research Information. The purpose of the Office shall be to disseminate to foreign governments, businesses, and institutions, as well as the citizens of foreign countries, scientific research information available in the United States which would be useful in preventing, mitigating, or adapting to the effects of global change. Such information shall include, but need not be limited to, results of scientific research and development on technologies useful for—
 
@@ -363,11 +363,11 @@ Not more than 180 days after November 16, 1990, the President shall, in consulta
 
 **(6)** promoting recycling and source reduction of pollutants in order to reduce the volume of waste which must be disposed of, thus decreasing energy use and greenhouse gas emissions.
 
-(Pub. L. 101–606, title II, § 204, Nov. 16, 1990, 104 Stat. 3103.)
+(Pub. L. 101–606, title II, § 204, Nov. 16, 1990, 104 Stat. 3103.)
 
 ## SUBCHAPTER III—GROWTH DECISION AID
 
-### § 2961. Study and decision aid
+### § 2961. Study and decision aid
 
 **(a) Study of consequences of community growth and development; decision aid to assist State and local authorities in managing development**
 
@@ -381,4 +381,4 @@ The Secretary of Commerce shall consult with other appropriate Federal departmen
 
 The Secretary of Commerce shall submit to the Congress a report containing the decision aid produced under subsection (a) no later than January 30, 1992. The Secretary shall notify appropriate State and local authorities that such decision aid is available on request.
 
-(Pub. L. 101–606, title III, § 301, Nov. 16, 1990, 104 Stat. 3104.)
+(Pub. L. 101–606, title III, § 301, Nov. 16, 1990, 104 Stat. 3104.)

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 245 “TASK AND DELIVERY ORDER CONTRACTS (MULTIPLE AWARD CONTRACTS)”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3401, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1820(a), Jan. 1, 2021, 134 Stat. 4191.
+A prior chapter 245 “TASK AND DELIVERY ORDER CONTRACTS (MULTIPLE AWARD CONTRACTS)”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3401, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1820(a), Jan. 1, 2021, 134 Stat. 4191.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(A), Dec. 27, 2021, 135 Stat. 2133, amended Pub. L. 116–283, div. A, title XVIII, § 1820(a), Jan. 1, 2021, 134 Stat. 4191, which added this analysis, by substituting “[Reserved]” for “Guidance on use of task and delivery order contracts” in item 3404.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(A), Dec. 27, 2021, 135 Stat. 2133, amended Pub. L. 116–283, div. A, title XVIII, § 1820(a), Jan. 1, 2021, 134 Stat. 4191, which added this analysis, by substituting “[Reserved]” for “Guidance on use of task and delivery order contracts” in item 3404.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Provisions Not Affected by Pub. L. 103–355**
 
-Pub. L. 103–355, title I, § 1004(d), Oct. 13, 1994, 108 Stat. 3253, as amended by Pub. L. 108–136, div. A, title X, § 1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a [now 10 U.S.C. 3403], 2304b [now 10 U.S.C. 3405], 2304c [now 10 U.S.C. 3406], or 2304d [now 10 U.S.C. 3401] of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) [amending former sections 2304 of this title (now 10 U.S.C. 3201 et seq.) and 2331 of this title (now 10 U.S.C. 4507)], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
+Pub. L. 103–355, title I, § 1004(d), Oct. 13, 1994, 108 Stat. 3253, as amended by Pub. L. 108–136, div. A, title X, § 1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a [now 10 U.S.C. 3403], 2304b [now 10 U.S.C. 3405], 2304c [now 10 U.S.C. 3406], or 2304d [now 10 U.S.C. 3401] of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) [amending former sections 2304 of this title (now 10 U.S.C. 3201 et seq.) and 2331 of this title (now 10 U.S.C. 4507)], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
 
-## § 3401. Task and delivery order contracts: definitions
+## § 3401. Task and delivery order contracts: definitions
 
 In this chapter:
 
@@ -47,17 +47,17 @@ In this chapter:
 
 **(B)** that provides for the issuance of orders for the performance of tasks during the period of the contract.
 
-(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3253, § 2304d; renumbered § 3401 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(b), Jan. 1, 2021, 134 Stat. 4191.)
+(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3253, § 2304d; renumbered § 3401 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(b), Jan. 1, 2021, 134 Stat. 4191.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1820(b)(1), (2), renumbered section 2304d of this title as this section, substituted “In this chapter” for “In sections 2304a, 2304b, and 2304c of this title” in introductory provisions, and reversed order and designations of pars. (1) and (2).
+2021—Pub. L. 116–283, § 1820(b)(1), (2), renumbered section 2304d of this title as this section, substituted “In this chapter” for “In sections 2304a, 2304b, and 2304c of this title” in introductory provisions, and reversed order and designations of pars. (1) and (2).
 
-Par. (1). Pub. L. 116–283, § 1820(b)(3), inserted heading, inserted dash after “for property”, and reorganized remainder of text of par. (1) into designated subpars. (A) and (B).
+Par. (1). Pub. L. 116–283, § 1820(b)(3), inserted heading, inserted dash after “for property”, and reorganized remainder of text of par. (1) into designated subpars. (A) and (B).
 
-Par. (2). Pub. L. 116–283, § 1820(b)(4), inserted heading, inserted dash after “for services”, and reorganized remainder of text of par. (2) into designated subpars. (A) and (B).
+Par. (2). Pub. L. 116–283, § 1820(b)(4), inserted heading, inserted dash after “for services”, and reorganized remainder of text of par. (2) into designated subpars. (A) and (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -73,7 +73,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding this section.
 
-## § 3403. Task and delivery order contracts: general authority
+## § 3403. Task and delivery order contracts: general authority
 
 **(a) Authority To Award.—** Subject to the requirements of this section, section 3406 of this title, and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in section 3401 of this title) for procurement of services or property.
 
@@ -133,27 +133,27 @@ This section not to be construed as modifying or superseding, or as intended to 
 
 **(h) Relationship to Other Contracting Authority.—** Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3249, § 2304a; amended Pub. L. 108–136, div. A, title VIII, § 843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, § 813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, § 843(a)(1), Jan. 28, 2008, 122 Stat. 236; Pub. L. 111–84, div. A, title VIII, § 814(a), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 112–81, div. A, title VIII, § 809(b), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 115–232, div. A, title VIII, § 816, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, § 816, Dec. 20, 2019, 133 Stat. 1487; renumbered § 3403 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(c), Jan. 1, 2021, 134 Stat. 4191; Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(B), Dec. 27, 2021, 135 Stat. 2133.)
+(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3249, § 2304a; amended Pub. L. 108–136, div. A, title VIII, § 843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, § 813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, § 843(a)(1), Jan. 28, 2008, 122 Stat. 236; Pub. L. 111–84, div. A, title VIII, § 814(a), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 112–81, div. A, title VIII, § 809(b), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 115–232, div. A, title VIII, § 816, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, § 816, Dec. 20, 2019, 133 Stat. 1487; renumbered § 3403 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(c), Jan. 1, 2021, 134 Stat. 4191; Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(B), Dec. 27, 2021, 135 Stat. 2133.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1820(c)(1), renumbered section 2304a of this title as this section.
+2021—Pub. L. 116–283, § 1820(c)(1), renumbered section 2304a of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1820(c)(2), substituted “section 3406” for “section 2304c” and “section 3401” for “section 2304d”.
+Subsec. (a). Pub. L. 116–283, § 1820(c)(2), substituted “section 3406” for “section 2304c” and “section 3401” for “section 2304d”.
 
-Subsec. (c). Pub. L. 116–283, § 1820(c)(3), as amended by Pub. L. 117–81, § 1701(b)(8)(B), inserted dash after “only if”, reorganized remainder of text of subsec. (c) into designated pars. (1) and (2), and substituted “subsection (a) of section 3204” for “subsection (c) of section 2304” and “subsection (e)” for “subsection (f)”.
+Subsec. (c). Pub. L. 116–283, § 1820(c)(3), as amended by Pub. L. 117–81, § 1701(b)(8)(B), inserted dash after “only if”, reorganized remainder of text of subsec. (c) into designated pars. (1) and (2), and substituted “subsection (a) of section 3204” for “subsection (c) of section 2304” and “subsection (e)” for “subsection (f)”.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1820(c)(4)(A), inserted heading.
+Subsec. (d)(1). Pub. L. 116–283, § 1820(c)(4)(A), inserted heading.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1820(c)(4)(B), inserted heading and substituted “section 3203” for “section 2304(b)”.
+Subsec. (d)(2). Pub. L. 116–283, § 1820(c)(4)(B), inserted heading and substituted “section 3203” for “section 2304(b)”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1820(c)(4)(C), inserted heading and substituted “section 3204(a)” for “section 2304(c)” in subpar. (B).
+Subsec. (d)(3). Pub. L. 116–283, § 1820(c)(4)(C), inserted heading and substituted “section 3204(a)” for “section 2304(c)” in subpar. (B).
 
-Subsec. (d)(4). Pub. L. 116–283, § 1820(c)(4)(D), inserted heading.
+Subsec. (d)(4). Pub. L. 116–283, § 1820(c)(4)(D), inserted heading.
 
-Subsec. (g). Pub. L. 116–283, § 1820(c)(5), substituted “section 3405” for “section 2304b”.
+Subsec. (g). Pub. L. 116–283, § 1820(c)(5), substituted “section 3405” for “section 2304b”.
 
 2019—Subsec. (d)(3). Pub. L. 116–92 designated existing provisions as subpar. (A), substituted “Except as provided under subparagraph (B), no task or delivery order contract” for “No task or delivery order contract”, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), redesignated cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of subpar. (A)(ii), and added subpar. (B).
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any contract awarded on or after such date.”
+Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any contract awarded on or after such date.”
 
 **Effective Date**
 
@@ -189,7 +189,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
 
-## § 3405. Task order contracts: advisory and assistance services
+## § 3405. Task order contracts: advisory and assistance services
 
 **(a) Advisory and Assistance Services Defined.—** In this section, the term “advisory and assistance services” has the meaning given such term in section 1105(g) of title 31.
 
@@ -241,29 +241,29 @@ This section not to be construed as modifying or superseding, or as intended to 
 
 **(i) Inapplicability to Certain Contracts.—** This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of an agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
 
-(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3251, § 2304b; amended Pub. L. 111–350, § 5(b)(13), Jan. 4, 2011, 124 Stat. 3843; renumbered § 3405 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(d), Jan. 1, 2021, 134 Stat. 4192; Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(C), Dec. 27, 2021, 135 Stat. 2133.)
+(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3251, § 2304b; amended Pub. L. 111–350, § 5(b)(13), Jan. 4, 2011, 124 Stat. 3843; renumbered § 3405 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(d), Jan. 1, 2021, 134 Stat. 4192; Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(C), Dec. 27, 2021, 135 Stat. 2133.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i) to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
+2021—Pub. L. 116–283, § 1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i) to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1820(d)(3), substituted “section 3406” for “section 2304c” and “section 3401” for “section 2304d”.
+Subsec. (b)(1). Pub. L. 116–283, § 1820(d)(3), substituted “section 3406” for “section 2304c” and “section 3401” for “section 2304d”.
 
-Subsec. (e). Pub. L. 116–283, § 1820(d)(4)(A), (B), as amended by Pub. L. 117–81, § 1701(b)(8)(C), inserted par. headings, substituted “section 3403(b)” for “section 2304a(b)” in par. (1), and realigned margin of par. (2).
+Subsec. (e). Pub. L. 116–283, § 1820(d)(4)(A), (B), as amended by Pub. L. 117–81, § 1701(b)(8)(C), inserted par. headings, substituted “section 3403(b)” for “section 2304a(b)” in par. (1), and realigned margin of par. (2).
 
-Subsec. (f). Pub. L. 116–283, § 1820(d)(5), inserted par. headings and realigned margins of pars. (2) and (3).
+Subsec. (f). Pub. L. 116–283, § 1820(d)(5), inserted par. headings and realigned margins of pars. (2) and (3).
 
-Subsec. (g)(1). Pub. L. 116–283, § 1820(d)(6)(A), inserted heading.
+Subsec. (g)(1). Pub. L. 116–283, § 1820(d)(6)(A), inserted heading.
 
-Subsec. (g)(2). Pub. L. 116–283, § 1820(d)(6)(B), (C), inserted heading, realigned margin, and substituted “subsection (a) of section 3204” for “subsection (c) of section 2304” and “subsection (e)” for “subsection (f)”.
+Subsec. (g)(2). Pub. L. 116–283, § 1820(d)(6)(B), (C), inserted heading, realigned margin, and substituted “subsection (a) of section 3204” for “subsection (c) of section 2304” and “subsection (e)” for “subsection (f)”.
 
-Subsec. (g)(3). Pub. L. 116–283, § 1820(d)(6)(B), (D), inserted heading and realigned margin.
+Subsec. (g)(3). Pub. L. 116–283, § 1820(d)(6)(B), (D), inserted heading and realigned margin.
 
-Subsec. (h)(1). Pub. L. 116–283, § 1820(d)(7)(A), (B), inserted heading, and substituted “subsection (c)” for “subsection (b)” and “subsection (f)” for “subsection (e)”.
+Subsec. (h)(1). Pub. L. 116–283, § 1820(d)(7)(A), (B), inserted heading, and substituted “subsection (c)” for “subsection (b)” and “subsection (f)” for “subsection (e)”.
 
-Subsec. (h)(2). Pub. L. 116–283, § 1820(d)(7)(C), inserted heading and realigned margin.
+Subsec. (h)(2). Pub. L. 116–283, § 1820(d)(7)(C), inserted heading and realigned margin.
 
 2011—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
 
@@ -283,7 +283,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
 
-## § 3406. Task and delivery order contracts: orders
+## § 3406. Task and delivery order contracts: orders
 
 **(a) Applicability.—** This section applies to task and delivery order contracts entered into under sections 3403 and 3405 of this title.
 
@@ -341,37 +341,37 @@ This section not to be construed as modifying or superseding, or as intended to 
 
 **(2) Multiple award contracts.—** When issuing a task or delivery order for architectural and engineering services under a multiple award contract, the head of an agency may not routinely request additional information relating to qualifications from the contractor for such multiple award contract.
 
-(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3252, § 2304c; amended Pub. L. 110–181, div. A, title VIII, § 843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, § 5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, § 825, title X, § 1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, § 830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§ 825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285; renumbered § 3406 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(e), Jan. 1, 2021, 134 Stat. 4194; Pub. L. 117–263, div. A, title VIII, § 802, Dec. 23, 2022, 136 Stat. 2693; Pub. L. 118–159, div. A, title VIII, § 885(f), Dec. 23, 2024, 138 Stat. 2022.)
+(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3252, § 2304c; amended Pub. L. 110–181, div. A, title VIII, § 843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, § 5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, § 825, title X, § 1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, § 830, Jan. 2, 2013, 126 Stat. 1842; Pub. L. 114–328, div. A, title VIII, §§ 825(b), 835(a), Dec. 23, 2016, 130 Stat. 2280, 2285; renumbered § 3406 and amended Pub. L. 116–283, div. A, title XVIII, § 1820(e), Jan. 1, 2021, 134 Stat. 4194; Pub. L. 117–263, div. A, title VIII, § 802, Dec. 23, 2022, 136 Stat. 2693; Pub. L. 118–159, div. A, title VIII, § 885(f), Dec. 23, 2024, 138 Stat. 2022.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 3441 and 3442 were repealed by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+Prior sections 3441 and 3442 were repealed by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
 Section 3441, act Aug. 10, 1956, ch. 1041, 70A Stat. 195, provided that temporary appointments be made only in the Army without specification of component.
 
 Section 3442, act Aug. 10, 1056, ch. 1041, 70A Stat. 195, provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See section 601 of this title.
 
-A prior section 3443, act Aug. 10, 1956, ch. 1041, 70A Stat. 196, related to grade of appointment of reserve commissioned officers on active duty, prior to repeal by Pub. L. 85–861, § 36B(6), Sept. 2, 1958, 72 Stat. 1570.
+A prior section 3443, act Aug. 10, 1956, ch. 1041, 70A Stat. 196, related to grade of appointment of reserve commissioned officers on active duty, prior to repeal by Pub. L. 85–861, § 36B(6), Sept. 2, 1958, 72 Stat. 1570.
 
-Prior sections 3444 and 3445 were repealed by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+Prior sections 3444 and 3445 were repealed by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
-Section 3444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(A), 72 Stat. 1480, authorized the President, in time of war or national emergency, to appoint any qualified person, including a person who is not a Regular or Reserve, in any temporary grade, provided for vacation of the appointment, and permitted, for purposes of determining grade, position on a promotion list, seniority in temporary grade, and eligibility for promotion, an officer of the Medical Corps or Dental Corps who is appointed in a temporary grade to be credited, when he enters active duty, with constructive service authorized by section 3294(b) of this title. See section 603 of this title.
+Section 3444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(A), 72 Stat. 1480, authorized the President, in time of war or national emergency, to appoint any qualified person, including a person who is not a Regular or Reserve, in any temporary grade, provided for vacation of the appointment, and permitted, for purposes of determining grade, position on a promotion list, seniority in temporary grade, and eligibility for promotion, an officer of the Medical Corps or Dental Corps who is appointed in a temporary grade to be credited, when he enters active duty, with constructive service authorized by section 3294(b) of this title. See section 603 of this title.
 
-Section 3445, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(B), 72 Stat. 1480, provided that in addition to the temporary appointments authorized, in time of war or national emergency, a regular officer or a reserve warrant officer may be appointed in any temporary grade higher than his regular or reserve grade, without vacating that grade, or a person who holds no commissioned grade in the Regular Army be appointed in any temporary commissioned grade. See section 603 of this title.
+Section 3445, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(B), 72 Stat. 1480, provided that in addition to the temporary appointments authorized, in time of war or national emergency, a regular officer or a reserve warrant officer may be appointed in any temporary grade higher than his regular or reserve grade, without vacating that grade, or a person who holds no commissioned grade in the Regular Army be appointed in any temporary commissioned grade. See section 603 of this title.
 
 A prior section 3446 was renumbered section 7176 of this title.
 
-Prior sections 3447 to 3449 were repealed by Pub. L. 96–513, title II, §§ 207, 208, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+Prior sections 3447 to 3449 were repealed by Pub. L. 96–513, title II, §§ 207, 208, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
-Section 3447, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(D), 72 Stat. 1480; Sept. 28, 1971, Pub. L. 92–129, title VI, § 602, 85 Stat. 361, provided that temporary appointment of a person be made without reference to any other appointment that he may hold in the Army, temporary appointments of commissioned officers in the Regular Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades of lieutenant colonel and above, temporary appointments of commissioned officers in the reserve components of the Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades above major, and that the President may vacate at any time a temporary appointment in a commissioned grade. See section 601 of this title.
+Section 3447, acts Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, § 1(81)(D), 72 Stat. 1480; Sept. 28, 1971, Pub. L. 92–129, title VI, § 602, 85 Stat. 361, provided that temporary appointment of a person be made without reference to any other appointment that he may hold in the Army, temporary appointments of commissioned officers in the Regular Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades of lieutenant colonel and above, temporary appointments of commissioned officers in the reserve components of the Army be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades above major, and that the President may vacate at any time a temporary appointment in a commissioned grade. See section 601 of this title.
 
-Section 3448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 197; Aug. 8, 1958, Pub. L. 85–603, § 1(2), 72 Stat. 526, authorized the Secretary of the Army, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at the pleasure of the Secretary, and such warrant officers entitled to count all periods of active duty under the appointment as warrant or enlisted service for all purposes and to the benefits of all laws and regulations applicable to the retirement, pensions, and disability of members of the Army on active duty. See section 602 of this title.
+Section 3448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 197; Aug. 8, 1958, Pub. L. 85–603, § 1(2), 72 Stat. 526, authorized the Secretary of the Army, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at the pleasure of the Secretary, and such warrant officers entitled to count all periods of active duty under the appointment as warrant or enlisted service for all purposes and to the benefits of all laws and regulations applicable to the retirement, pensions, and disability of members of the Army on active duty. See section 602 of this title.
 
 Section 3449, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that temporary promotions in warrant officer grades be governed by such regulations as the Secretary of the Army prescribe. See section 602 of this title.
 
-A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
+A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 **Amendments**
 
@@ -379,41 +379,41 @@ A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for s
 
 2022—Subsec. (h). Pub. L. 117–263 added subsec. (h).
 
-2021—Pub. L. 116–283, § 1820(e)(1), (2), renumbered section 2304c of this title as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.
+2021—Pub. L. 116–283, § 1820(e)(1), (2), renumbered section 2304c of this title as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.
 
-Subsec. (a). Pub. L. 116–283, § 1820(e)(3), substituted “sections 3403 and 3405” for “sections 2304a and 2304b”.
+Subsec. (a). Pub. L. 116–283, § 1820(e)(3), substituted “sections 3403 and 3405” for “sections 2304a and 2304b”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1820(e)(4), substituted “subsection (c)” for “subsection (b)” and “section 3204(e)” for “section 2304(f)”.
+Subsec. (b)(2). Pub. L. 116–283, § 1820(e)(4), substituted “subsection (c)” for “subsection (b)” and “section 3204(e)” for “section 2304(f)”.
 
-Subsec. (c). Pub. L. 116–283, § 1820(e)(5)(A), which directed substitution of “section 3403(d)(1)(B) or 3405(f)” for “section 2304a(d)(1) or 2304b(c)”, was executed by making the substitution for “section 2304a(d)(1)(B) or 2304b(e)” in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 116–283, § 1820(e)(5)(A), which directed substitution of “section 3403(d)(1)(B) or 3405(f)” for “section 2304a(d)(1) or 2304b(c)”, was executed by making the substitution for “section 2304a(d)(1)(B) or 2304b(e)” in introductory provisions, to reflect the probable intent of Congress.
 
-Subsec. (c)(5). Pub. L. 116–283, § 1820(e)(5)(B), substituted “section 3204(a)” for “section 2304(c)”.
+Subsec. (c)(5). Pub. L. 116–283, § 1820(e)(5)(B), substituted “section 3204(a)” for “section 2304(c)”.
 
-Subsec. (d). Pub. L. 116–283, § 1820(e)(6)(A), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 1820(e)(6)(A), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
 
-Subsec. (d)(5). Pub. L. 116–283, § 1820(e)(6)(B), substituted “section 3304” for “section 2305(b)(5)”.
+Subsec. (d)(5). Pub. L. 116–283, § 1820(e)(6)(B), substituted “section 3304” for “section 2305(b)(5)”.
 
-Subsec. (g). Pub. L. 116–283, § 1820(e)(7), designated first and second sentences as pars. (1) and (2), respectively, and inserted headings and, in par. (1), substituted “section 3403(d)(1)(B) or 3405(f)” for “section 2304a(d)(1)(B) or 2304b(e)” and “subsection (c)” for “subsection (b)”.
+Subsec. (g). Pub. L. 116–283, § 1820(e)(7), designated first and second sentences as pars. (1) and (2), respectively, and inserted headings and, in par. (1), substituted “section 3403(d)(1)(B) or 3405(f)” for “section 2304a(d)(1)(B) or 2304b(e)” and “subsection (c)” for “subsection (b)”.
 
-2016—Subsec. (b)(5). Pub. L. 114–328, § 825(b), added par. (5).
+2016—Subsec. (b)(5). Pub. L. 114–328, § 825(b), added par. (5).
 
-Subsec. (e)(1)(B). Pub. L. 114–328, § 835(a), substituted “$25,000,000” for “$10,000,000”.
+Subsec. (e)(1)(B). Pub. L. 114–328, § 835(a), substituted “$25,000,000” for “$10,000,000”.
 
 2013—Subsec. (e)(3). Pub. L. 112–239 struck out par. (3) which read as follows: “Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.”
 
 2011—Subsec. (a)(1). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
 
-Subsec. (e). Pub. L. 111–383, § 1075(f)(5)(A), made technical correction to directory language of Pub. L. 110–181, § 843(a)(2)(C). See 2008 Amendment note below.
+Subsec. (e). Pub. L. 111–383, § 1075(f)(5)(A), made technical correction to directory language of Pub. L. 110–181, § 843(a)(2)(C). See 2008 Amendment note below.
 
-Subsec. (e)(3). Pub. L. 111–383, § 825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
+Subsec. (e)(3). Pub. L. 111–383, § 825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
 
-2008—Subsec. (d). Pub. L. 110–181, § 843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+2008—Subsec. (d). Pub. L. 110–181, § 843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–181, § 843(a)(2)(C), as amended by Pub. L. 111–383, § 1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
+Subsec. (e). Pub. L. 110–181, § 843(a)(2)(C), as amended by Pub. L. 111–383, § 1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
 
-Pub. L. 110–181, § 843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 110–181, § 843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsecs. (f), (g). Pub. L. 110–181, § 843(a)(2)(A), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 110–181, § 843(a)(2)(A), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -423,7 +423,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any task or delivery order awarded on or after such date.”
+Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any task or delivery order awarded on or after such date.”
 
 **Effective Date**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 76—NORTHWEST ATLANTIC FISHERIES CONVENTION
 
-## § 5601. Representation of United States under Convention
+## § 5601. Representation of United States under Convention
 
 **(a) Commissioners**
 
@@ -103,7 +103,7 @@ The Commissioners, Alternate Commissioners, Representatives, and Alternate Repre
 
 Chapter 10 of title 5 shall not apply to coordination and consultations under this subsection.
 
-(Pub. L. 104–43, title II, § 202, Nov. 3, 1995, 109 Stat. 377; Pub. L. 114–327, title V, § 502, Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–286, § 4(a)(124), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 104–43, title II, § 202, Nov. 3, 1995, 109 Stat. 377; Pub. L. 114–327, title V, § 502, Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–286, § 4(a)(124), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -111,29 +111,29 @@ Chapter 10 of title 5 shall not apply to coordination and consultations under th
 
 2022—Subsec. (f)(2). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2016—Subsec. (a)(1). Pub. L. 114–327, § 502(1), in introductory provisions, struck out “General Council and the Fisheries” before “Commission”.
+2016—Subsec. (a)(1). Pub. L. 114–327, § 502(1), in introductory provisions, struck out “General Council and the Fisheries” before “Commission”.
 
-Subsec. (b)(1). Pub. L. 114–327, § 502(2), struck out “at a meeting of the General Council or the Fisheries Commission” after “appointed Commissioner”.
+Subsec. (b)(1). Pub. L. 114–327, § 502(2), struck out “at a meeting of the General Council or the Fisheries Commission” after “appointed Commissioner”.
 
-Subsec. (b)(2). Pub. L. 114–327, § 502(3), struck out “, at any meeting of the General Council or the Fisheries Commission for which the Alternate Commissioner is designated” before period at end.
+Subsec. (b)(2). Pub. L. 114–327, § 502(3), struck out “, at any meeting of the General Council or the Fisheries Commission for which the Alternate Commissioner is designated” before period at end.
 
-Subsec. (d)(1). Pub. L. 114–327, § 502(4), struck out “at a meeting of the Scientific Council” after “appointed Representative”.
+Subsec. (d)(1). Pub. L. 114–327, § 502(4), struck out “at a meeting of the Scientific Council” after “appointed Representative”.
 
-Subsec. (d)(2). Pub. L. 114–327, § 502(5), struck out “, at any meeting of the Scientific Council for which the Alternate Representative is designated” before period at end.
+Subsec. (d)(2). Pub. L. 114–327, § 502(5), struck out “, at any meeting of the Scientific Council for which the Alternate Representative is designated” before period at end.
 
-Subsec. (f)(1)(A). Pub. L. 114–327, § 502(6), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+Subsec. (f)(1)(A). Pub. L. 114–327, § 502(6), made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–327, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1995, provided that: “This title [amending this section and sections 5602 to 5604, 5606, 5607, 5609, and 5610 of this title and repealing section 5612 of this title] may be cited as the ‘Northwest Atlantic Fisheries Convention Amendments Act’.”
+Pub. L. 114–327, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1995, provided that: “This title [amending this section and sections 5602 to 5604, 5606, 5607, 5609, and 5610 of this title and repealing section 5612 of this title] may be cited as the ‘Northwest Atlantic Fisheries Convention Amendments Act’.”
 
 **Short Title**
 
-Pub. L. 104–43, title II, § 201, Nov. 3, 1995, 109 Stat. 377, provided that: “This title [enacting this chapter] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
+Pub. L. 104–43, title II, § 201, Nov. 3, 1995, 109 Stat. 377, provided that: “This title [enacting this chapter] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
 
-## § 5602. Requests for scientific advice
+## § 5602. Requests for scientific advice
 
 **(a) Restriction** A Representative may not make a request or specification described in paragraph (1) or (2) of subsection (b), respectively, unless the Representative has first—
 
@@ -147,19 +147,19 @@ Pub. L. 104–43, title II, § 201, Nov. 3, 1995, 109 Stat. 377, provided that
 
 **(2)** any specification, under Article VII(11) of the Convention, of the terms of reference for the consideration of a question referred to the Scientific Council pursuant to Article VII(10)(b) of the Convention.
 
-(Pub. L. 104–43, title II, § 203, Nov. 3, 1995, 109 Stat. 378; Pub. L. 114–327, title V, § 503, Dec. 16, 2016, 130 Stat. 1995.)
+(Pub. L. 104–43, title II, § 203, Nov. 3, 1995, 109 Stat. 378; Pub. L. 114–327, title V, § 503, Dec. 16, 2016, 130 Stat. 1995.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2)”, and “the Representative has” for “the Representatives have”.
+2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2)”, and “the Representative has” for “the Representatives have”.
 
-Subsec. (b)(1). Pub. L. 114–327, § 503(2), substituted “VII(10)(b)” for “VII(1)”.
+Subsec. (b)(1). Pub. L. 114–327, § 503(2), substituted “VII(10)(b)” for “VII(1)”.
 
-Subsec. (b)(2). Pub. L. 114–327, § 503(2),(3), substituted “VII(11)” for “VIII(2)” and “VII(10)(b)” for “VII(1)”.
+Subsec. (b)(2). Pub. L. 114–327, § 503(2),(3), substituted “VII(11)” for “VIII(2)” and “VII(10)(b)” for “VII(1)”.
 
-## § 5603. Authorities of Secretary of State with respect to Convention
+## § 5603. Authorities of Secretary of State with respect to Convention
 
 The Secretary of State may, on behalf of the Government of the United States—
 
@@ -173,7 +173,7 @@ The Secretary of State may, on behalf of the Government of the United States—
 
 **(5)** act upon, or refer to any other appropriate authority, any other communication referred to in paragraph (1).
 
-(Pub. L. 104–43, title II, § 204, Nov. 3, 1995, 109 Stat. 379; Pub. L. 114–327, title V, § 504, Dec. 16, 2016, 130 Stat. 1996.)
+(Pub. L. 104–43, title II, § 204, Nov. 3, 1995, 109 Stat. 379; Pub. L. 114–327, title V, § 504, Dec. 16, 2016, 130 Stat. 1996.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ The Secretary of State may, on behalf of the Government of the United States—
 
 2016—Pars. (2), (3). Pub. L. 114–327 substituted “Commission consistent with the procedures detailed in Articles XIV and XV of the Convention” for “Fisheries Commission”.
 
-## § 5604. Interagency cooperation
+## § 5604. Interagency cooperation
 
 **(a) Authorities of the Secretary** In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with—
 
@@ -199,7 +199,7 @@ The Secretary of State may, on behalf of the Government of the United States—
 
 **(2)** accept reimbursement from the Organization for providing such services, facilities, and personnel.
 
-(Pub. L. 104–43, title II, § 205, Nov. 3, 1995, 109 Stat. 379; Pub. L. 114–327, title V, § 505, Dec. 16, 2016, 130 Stat. 1996.)
+(Pub. L. 104–43, title II, § 205, Nov. 3, 1995, 109 Stat. 379; Pub. L. 114–327, title V, § 505, Dec. 16, 2016, 130 Stat. 1996.)
 
 **Editorial Notes**
 
@@ -207,13 +207,13 @@ The Secretary of State may, on behalf of the Government of the United States—
 
 2016—Subsec. (a). Pub. L. 114–327 amended subsec. (a) generally. Prior to amendment, text read as follows: “In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with other agencies of the United States, the States, the New England and the Mid-Atlantic Fishery Management Councils, and private institutions and organizations.”
 
-## § 5605. Rulemaking
+## § 5605. Rulemaking
 
 The Secretary shall promulgate regulations as may be necessary to carry out the purposes and objectives of the Convention and this chapter. Any such regulation may be made applicable, as necessary, to all persons and all vessels subject to the jurisdiction of the United States, wherever located.
 
-(Pub. L. 104–43, title II, § 206, Nov. 3, 1995, 109 Stat. 379.)
+(Pub. L. 104–43, title II, § 206, Nov. 3, 1995, 109 Stat. 379.)
 
-## § 5606. Prohibited acts and enforcement
+## § 5606. Prohibited acts and enforcement
 
 **(a) Prohibition** It is unlawful for any person or vessel that is subject to the jurisdiction of the United States—
 
@@ -233,7 +233,7 @@ The Secretary shall promulgate regulations as may be necessary to carry out the 
 
 For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
-(Pub. L. 104–43, title II, § 207, Nov. 3, 1995, 109 Stat. 379; Pub. L. 105–384, title II, § 201(b)(1), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–81, title I, § 111, Nov. 5, 2015, 129 Stat. 659; Pub. L. 114–327, title V, § 506, Dec. 16, 2016, 130 Stat. 1996.)
+(Pub. L. 104–43, title II, § 207, Nov. 3, 1995, 109 Stat. 379; Pub. L. 105–384, title II, § 201(b)(1), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–81, title I, § 111, Nov. 5, 2015, 129 Stat. 659; Pub. L. 114–327, title V, § 506, Dec. 16, 2016, 130 Stat. 1996.)
 
 **Editorial Notes**
 
@@ -241,11 +241,11 @@ For additional prohibitions relating to this chapter and enforcement of this cha
 
 2016—Subsec. (a)(5). Pub. L. 114–327 substituted “fishery resources” for “fish”.
 
-2015—Pub. L. 114–81, § 111(1), in section catchline, substituted “and enforcement” for “and penalties”.
+2015—Pub. L. 114–81, § 111(1), in section catchline, substituted “and enforcement” for “and penalties”.
 
-Subsec. (a)(2), (3). Pub. L. 114–81, § 111(2), (3), inserted “, investigation,” before “or inspection”.
+Subsec. (a)(2), (3). Pub. L. 114–81, § 111(2), (3), inserted “, investigation,” before “or inspection”.
 
-Subsecs. (b) to (f). Pub. L. 114–81, § 111(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
+Subsecs. (b) to (f). Pub. L. 114–81, § 111(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
 
 1998—Subsec. (e). Pub. L. 105–384 substituted “section” for “sections”.
 
@@ -255,7 +255,7 @@ Subsecs. (b) to (f). Pub. L. 114–81, § 111(4), added subsec. (b) and struck
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5607. Consultative committee
+## § 5607. Consultative committee
 
 **(a) Establishment**
 
@@ -279,7 +279,7 @@ The Secretary of State and the Secretary, shall jointly establish a consultative
 
 Chapter 10 of title 5 shall not apply to the consultative committee established under this section.
 
-(Pub. L. 104–43, title II, § 208, Nov. 3, 1995, 109 Stat. 380; Pub. L. 114–327, title V, § 507, Dec. 16, 2016, 130 Stat. 1996; Pub. L. 117–286, § 4(a)(125), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 104–43, title II, § 208, Nov. 3, 1995, 109 Stat. 380; Pub. L. 114–327, title V, § 507, Dec. 16, 2016, 130 Stat. 1996; Pub. L. 117–286, § 4(a)(125), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -287,11 +287,11 @@ Chapter 10 of title 5 shall not apply to the consultative committee established 
 
 2022—Subsec. (d). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2016—Subsec. (b)(2). Pub. L. 114–327, § 507(1), substituted “2” for “two”.
+2016—Subsec. (b)(2). Pub. L. 114–327, § 507(1), substituted “2” for “two”.
 
-Subsec. (c)(1), (2). Pub. L. 114–327, § 507(2), struck out “General Council or the Fisheries” before “Commission;”.
+Subsec. (c)(1), (2). Pub. L. 114–327, § 507(2), struck out “General Council or the Fisheries” before “Commission;”.
 
-## § 5608. Administrative matters
+## § 5608. Administrative matters
 
 **(a) Prohibition on compensation** A person shall not receive any compensation from the Government by reason of any service of the person as—
 
@@ -309,7 +309,7 @@ The Secretary of State shall, subject to the availability of appropriations, pay
 
 A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a), except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.
 
-(Pub. L. 104–43, title II, § 209, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, § 201(b)(2), Nov. 13, 1998, 112 Stat. 3451.)
+(Pub. L. 104–43, title II, § 209, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, § 201(b)(2), Nov. 13, 1998, 112 Stat. 3451.)
 
 **Editorial Notes**
 
@@ -317,7 +317,7 @@ A person shall not be considered to be a Federal employee by reason of any servi
 
 1998—Subsec. (c). Pub. L. 105–384 substituted “171” for “17”.
 
-## § 5609. Definitions
+## § 5609. Definitions
 
 In this chapter:
 
@@ -365,9 +365,9 @@ The term “fishery resources” means all fish, mollusks, and crustaceans, incl
 
 **(A) In general**
 
-The term “fishing activities” means harvesting or processing fishery resources, or transhipping 1
+The term “fishing activities” means harvesting or processing fishery resources, or transhipping 1
 
-<sup>1</sup>  So in original. Probably should be “transshipping”.
+<sup>1</sup> So in original. Probably should be “transshipping”.
 
 of fishery resources or products derived from fishery resources, or any other activity in preparation for, in support of, or related to the harvesting of fishery resources.
 
@@ -421,7 +421,7 @@ The term “State” means each of the several States of the United States, the 
 
 The term “transshipment” means the unloading of all or any of the fishery resources on board a fishing vessel to another fishing vessel either at sea or in port.
 
-(Pub. L. 104–43, title II, § 210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, § 201(b)(3), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–327, title V, § 508, Dec. 16, 2016, 130 Stat. 1996.)
+(Pub. L. 104–43, title II, § 210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, § 201(b)(3), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–327, title V, § 508, Dec. 16, 2016, 130 Stat. 1996.)
 
 **Editorial Notes**
 
@@ -431,11 +431,11 @@ The term “transshipment” means the unloading of all or any of the fishery re
 
 1998—Par. (6). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-## § 5610. Authorization of appropriations
+## § 5610. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter, including to pay the United States contribution to the Organization as provided in Article IX of the Convention, $500,000 for each fiscal year through fiscal year 2021.
 
-(Pub. L. 104–43, title II, § 211, Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, § 201(a), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 107–372, title III, § 305, Dec. 19, 2002, 116 Stat. 3096; Pub. L. 109–479, title III, § 302(i), Jan. 12, 2007, 120 Stat. 3625; Pub. L. 114–327, title V, § 509, Dec. 16, 2016, 130 Stat. 1998.)
+(Pub. L. 104–43, title II, § 211, Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, § 201(a), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 107–372, title III, § 305, Dec. 19, 2002, 116 Stat. 3096; Pub. L. 109–479, title III, § 302(i), Jan. 12, 2007, 120 Stat. 3625; Pub. L. 114–327, title V, § 509, Dec. 16, 2016, 130 Stat. 1998.)
 
 **Editorial Notes**
 
@@ -449,10 +449,10 @@ There are authorized to be appropriated to carry out this chapter, including to 
 
 1998—Pub. L. 105–384 substituted “for each fiscal year through fiscal year 2001” for “for each of the fiscal years 1995, 1996, 1997, and 1998”.
 
-## § 5611. Repealed. Pub. L. 113–188, title II, § 201(f), Nov. 26, 2014, 128 Stat. 2018
+## § 5611. Repealed. Pub. L. 113–188, title II, § 201(f), Nov. 26, 2014, 128 Stat. 2018
 
-Section, Pub. L. 104–43, title II, § 212, as added Pub. L. 105–384, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3452, required annual reports on the activities of the Fisheries Commission, the General Council, the Scientific Council, and the consultative committee established under section 5607 of this title.
+Section, Pub. L. 104–43, title II, § 212, as added Pub. L. 105–384, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3452, required annual reports on the activities of the Fisheries Commission, the General Council, the Scientific Council, and the consultative committee established under section 5607 of this title.
 
-## § 5612. Repealed. Pub. L. 114–327, title V, § 510, Dec. 16, 2016, 130 Stat. 1998
+## § 5612. Repealed. Pub. L. 114–327, title V, § 510, Dec. 16, 2016, 130 Stat. 1998
 
-Section, Pub. L. 104–43, title II, § 213, as added Pub. L. 105–384, title II, § 201(d), Nov. 13, 1998, 112 Stat. 345, related to quota allocation practice under the Convention.
+Section, Pub. L. 104–43, title II, § 213, as added Pub. L. 105–384, title II, § 201(d), Nov. 13, 1998, 112 Stat. 345, related to quota allocation practice under the Convention.

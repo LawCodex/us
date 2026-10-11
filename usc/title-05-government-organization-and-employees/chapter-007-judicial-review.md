@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 The provisions of sections 551 to 559 of this title and this chapter were originally enacted by act June 11, 1946, ch. 324, 60 Stat. 237, popularly known as the “Administrative Procedure Act”. That Act was repealed as part of the general revision of this title by Pub. L. 89–554 and its provisions incorporated into sections 551 to 559 of this title and this chapter.
 
-## § 701. Application; definitions
+## § 701. Application; definitions
 
 **(a)** This chapter applies, according to the provisions thereof, except to the extent that—
 
@@ -47,21 +47,21 @@ The provisions of sections 551 to 559 of this title and this chapter were origin
 
 **(G)** military authority exercised in the field in time of war or in occupied territory; or
 
-**(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1
+**(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
 **(2)** “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, § 5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, § 5(a)(3), Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, § 5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, § 5(a)(3), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 1009 (introductory clause). | June 11, 1946, ch. 324, § 10 (introductory clause), 60 Stat. 243. |
+| (a) | 5 U.S.C. 1009 (introductory clause). | June 11, 1946, ch. 324, § 10 (introductory clause), 60 Stat. 243. |
 
 In subsection (a), the words “This chapter applies, according to the provisions thereof,” are added to avoid the necessity of repeating the introductory clause of former section 1009 in sections 702–706.
 
@@ -69,7 +69,7 @@ Subsection (b) is added on authority of section 2 of the Act of June 11, 1946, c
 
 In subsection (b)(1)(G), the words “or naval” are omitted as included in “military”.
 
-In subsection (b)(1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired on Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by § 111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since § 111(c) of the Act provides that a reference in other Acts to a provision of law repealed by § 111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+In subsection (b)(1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired on Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by § 111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since § 111(c) of the Act provides that a reference in other Acts to a provision of law repealed by § 111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -77,7 +77,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Sections 1884 and 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538.
+Sections 1884 and 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538.
 
 **Amendments**
 
@@ -85,17 +85,17 @@ Sections 1884 and 1891–1902 of title 50, appendix, referred to in subsec. (b)(
 
 1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 
-## § 702. Right of review
+## § 702. Right of review
 
 A person suffering legal wrong because of agency action, or adversely affected or aggrieved by agency action within the meaning of a relevant statute, is entitled to judicial review thereof. An action in a court of the United States seeking relief other than money damages and stating a claim that an agency or an officer or employee thereof acted or failed to act in an official capacity or under color of legal authority shall not be dismissed nor relief therein be denied on the ground that it is against the United States or that the United States is an indispensable party. The United States may be named as a defendant in any such action, and a judgment or decree may be entered against the United States: *Provided,* That any mandatory or injunctive decree shall specify the Federal officer or officers (by name or by title), and their successors in office, personally responsible for compliance. Nothing herein (1) affects other limitations on judicial review or the power or duty of the court to dismiss any action or deny relief on any other appropriate legal or equitable ground; or (2) confers authority to grant relief if any other statute that grants consent to suit expressly or impliedly forbids the relief which is sought.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1009(a). | June 11, 1946, ch. 324, § 10(a), 60 Stat. 243. |
+|  | 5 U.S.C. 1009(a). | June 11, 1946, ch. 324, § 10(a), 60 Stat. 243. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -105,17 +105,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1976—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.
 
-## § 703. Form and venue of proceeding
+## § 703. Form and venue of proceeding
 
 The form of proceeding for judicial review is the special statutory review proceeding relevant to the subject matter in a court specified by statute or, in the absence or inadequacy thereof, any applicable form of legal action, including actions for declaratory judgments or writs of prohibitory or mandatory injunction or habeas corpus, in a court of competent jurisdiction. If no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer. Except to the extent that prior, adequate, and exclusive opportunity for judicial review is provided by law, agency action is subject to judicial review in civil or criminal proceedings for judicial enforcement.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1009(b). | June 11, 1946, ch. 324, § 10(b), 60 Stat. 243. |
+|  | 5 U.S.C. 1009(b). | June 11, 1946, ch. 324, § 10(b), 60 Stat. 243. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -125,7 +125,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1976—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.
 
-## § 704. Actions reviewable
+## § 704. Actions reviewable
 
 Agency action made reviewable by statute and final agency action for which there is no other adequate remedy in a court are subject to judicial review. A preliminary, procedural, or intermediate agency action or ruling not directly reviewable is subject to review on the review of the final agency action. Except as otherwise expressly required by statute, agency action otherwise final is final for the purposes of this section whether or not there has been presented or determined an application for a declaratory order, for any form of reconsideration, or, unless the agency otherwise requires by rule and provides that the action meanwhile is inoperative, for an appeal to superior agency authority.
 
@@ -135,11 +135,11 @@ Agency action made reviewable by statute and final agency action for which there
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1009(c). | June 11, 1946, ch. 324, § 10(c), 60 Stat. 243. |
+|  | 5 U.S.C. 1009(c). | June 11, 1946, ch. 324, § 10(c), 60 Stat. 243. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of this report.
 
-## § 705. Relief pending review
+## § 705. Relief pending review
 
 When an agency finds that justice so requires, it may postpone the effective date of action taken by it, pending judicial review. On such conditions as may be required and to the extent necessary to prevent irreparable injury, the reviewing court, including the court to which a case may be taken on appeal from or on application for certiorari or other writ to a reviewing court, may issue all necessary and appropriate process to postpone the effective date of an agency action or to preserve status or rights pending conclusion of the review proceedings.
 
@@ -149,11 +149,11 @@ When an agency finds that justice so requires, it may postpone the effective dat
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1009(d). | June 11, 1946, ch. 324, § 10(d), 60 Stat. 243. |
+|  | 5 U.S.C. 1009(d). | June 11, 1946, ch. 324, § 10(d), 60 Stat. 243. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of this report.
 
-## § 706. Scope of review
+## § 706. Scope of review
 
 To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action. The reviewing court shall—
 
@@ -181,7 +181,7 @@ In making the foregoing determinations, the court shall review the whole record 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1009(e). | June 11, 1946, ch. 324, § 10(e), 60 Stat. 243. |
+|  | 5 U.S.C. 1009(e). | June 11, 1946, ch. 324, § 10(e), 60 Stat. 243. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of this report.
 

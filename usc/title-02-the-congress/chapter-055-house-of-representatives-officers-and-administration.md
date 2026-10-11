@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 5501. Temporary appointments in case of vacancies or incapacity of House officers; compensation
+### § 5501. Temporary appointments in case of vacancies or incapacity of House officers; compensation
 
 **(a) Temporary appointments in case of vacancy or incapacity in office of Clerk, Sergeant at Arms, Chief Administrative Officer, or Chaplain of House**
 
@@ -31,7 +31,7 @@ Any person appointed pursuant to this section shall exercise all the duties, sha
 
 Any person appointed pursuant to this section shall be paid the compensation which he would receive if he were chosen by the House of Representatives to fill the office involved, unless such person is concurrently serving in any office or position the compensation for which is paid from the funds of the United States, in which case he shall receive no compensation for services rendered pursuant to his appointment under this section, and his compensation for performing the duties of such office other than the one to which he is appointed pursuant to this section shall be in full discharge for all services he performs for the United States while serving in such dual capacity.
 
-(Aug. 2, 1946, ch. 753, § 208, as added Aug. 5, 1953, ch. 330, 67 Stat. 387; amended Pub. L. 104–186, title II, § 204(20), Aug. 20, 1996, 110 Stat. 1733; Pub. L. 109–289, div. B, title II, § 20702(b), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38.)
+(Aug. 2, 1946, ch. 753, § 208, as added Aug. 5, 1953, ch. 330, 67 Stat. 387; amended Pub. L. 104–186, title II, § 204(20), Aug. 20, 1996, 110 Stat. 1733; Pub. L. 109–289, div. B, title II, § 20702(b), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38.)
 
 **Editorial Notes**
 
@@ -43,11 +43,11 @@ Amendment by Pub. L. 109–289 is based on section 103(b)(2) of title I of H.R. 
 
 **Amendments**
 
-2007—Subsec. (b). Pub. L. 109–289, § 20702(b), as added by Pub. L. 110–5, substituted “involved.” for “involved; but nothing in this section shall be held to amend, repeal, or otherwise affect section 75a of this title.”
+2007—Subsec. (b). Pub. L. 109–289, § 20702(b), as added by Pub. L. 110–5, substituted “involved.” for “involved; but nothing in this section shall be held to amend, repeal, or otherwise affect section 75a of this title.”
 
 1996—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper, Postmaster,” wherever appearing.
 
-### § 5502. House emergency operations positions
+### § 5502. House emergency operations positions
 
 **(a) Establishment in certain offices** Effective with respect to fiscal year 2002 and each succeeding fiscal year, there are hereby established 2 additional positions in each of the following offices of the House of Representatives:
 
@@ -69,7 +69,7 @@ The annual rate of pay provided for a position established under this section sh
 
 Notwithstanding any other provision of law, the head of the office in which a position is established under this section shall have the exclusive authority to appoint personnel to such a position.
 
-(Pub. L. 107–68, title I, § 118, Nov. 12, 2001, 115 Stat. 573.)
+(Pub. L. 107–68, title I, § 118, Nov. 12, 2001, 115 Stat. 573.)
 
 **Editorial Notes**
 
@@ -79,17 +79,17 @@ Section was formerly classified to section 75f of this title prior to editorial 
 
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
-### § 5503. Actions against officers for official acts
+### § 5503. Actions against officers for official acts
 
 In any action brought against any person for or on account of anything done by him while an officer of either House of Congress in the discharge of his official duty, in executing any order of such House, the United States attorney for the district within which the action is brought, on being thereto requested by the officer sued, shall enter an appearance in behalf of such officer; and all provisions of the eighth section of the Act of July 28, 1866, entitled “An Act to protect the revenue, and for other purposes”, and also all provisions of the sections of former Acts therein referred to, so far as the same relate to the removal of suits, the withholding of executions, and the paying of judgments against revenue or other officers of the United States, shall become applicable to such action and to all proceedings and matters whatsoever connected therewith, and the defense of such action shall thenceforth be conducted under the supervision and direction of the Attorney General.
 
-(Mar. 3, 1875, ch. 130, § 8, 18 Stat. 401; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Mar. 3, 1875, ch. 130, § 8, 18 Stat. 401; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The provisions of section 8 of act July 28, 1866, ch. 298, 14 Stat. 329, referred to in text, were contained generally in R.S. § 643, which was incorporated in the former Judicial Code, § 33, and was repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. See sections 1442, 1446, and 1447 of Title 28, Judiciary and Judicial Procedure. Other provisions referred to were contained in R.S. §§ 771, 989, which were also repealed by act June 25, 1948. See sections 509, 547, and 2006, respectively, of Title 28.
+The provisions of section 8 of act July 28, 1866, ch. 298, 14 Stat. 329, referred to in text, were contained generally in R.S. § 643, which was incorporated in the former Judicial Code, § 33, and was repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. See sections 1442, 1446, and 1447 of Title 28, Judiciary and Judicial Procedure. Other provisions referred to were contained in R.S. §§ 771, 989, which were also repealed by act June 25, 1948. See sections 509, 547, and 2006, respectively, of Title 28.
 
 **Codification**
 
@@ -101,11 +101,11 @@ Section was formerly classified to section 118 of this title prior to editorial 
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure.
 
-### § 5504. Officers of Senate
+### § 5504. Officers of Senate
 
 Section 5503 of this title shall not apply to officers of the Senate.
 
-(Pub. L. 95–521, title VII, § 714(d), Oct. 26, 1978, 92 Stat. 1884.)
+(Pub. L. 95–521, title VII, § 714(d), Oct. 26, 1978, 92 Stat. 1884.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ Section was formerly classified to section 118a of this title prior to editorial
 
 Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
 
-### § 5505. Payments from applicable accounts of House of Representatives
+### § 5505. Payments from applicable accounts of House of Representatives
 
 **(a) In general**
 
@@ -131,7 +131,7 @@ No payment may be made from the applicable accounts of the House of Representati
 
 **(2)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-(Pub. L. 104–186, title I, § 105, Aug. 20, 1996, 110 Stat. 1721.)
+(Pub. L. 104–186, title I, § 105, Aug. 20, 1996, 110 Stat. 1721.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ Section is comprised of section 105 of Pub. L. 104–186. Subsec. (c) of section
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in former section 95 of this title prior to amendment of that section by Pub. L. 104–186, title I, § 105(c), Aug. 20, 1996, 110 Stat. 1722.
+Provisions similar to those in this section were contained in former section 95 of this title prior to amendment of that section by Pub. L. 104–186, title I, § 105(c), Aug. 20, 1996, 110 Stat. 1722.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,17 +151,17 @@ Provisions similar to those in this section were contained in former section 95 
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5506. Appropriations for expenses of House; restrictions
+### § 5506. Appropriations for expenses of House; restrictions
 
 Appropriations made for expenses of the House of Representatives shall not be used for the payment of personal services except upon the express and specific authorization of the House in whose behalf such services are rendered. Nor shall such appropriations be used for any expenses not intimately and directly connected with the routine legislative business of the House of Representatives, and the Government Accountability Office shall apply the provisions of this section in the settlement of the accounts of expenditures from said appropriations incurred for services or materials.
 
-(Feb. 14, 1902, ch. 17, § 1, 32 Stat. 26; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 104–186, title II, § 204(45), Aug. 20, 1996, 110 Stat. 1737; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Feb. 14, 1902, ch. 17, § 1, 32 Stat. 26; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 104–186, title II, § 204(45), Aug. 20, 1996, 110 Stat. 1737; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 95a of this title prior to editorial reclassification and renumbering as this section. Section was also formerly classified to section 671 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 95a of this title prior to editorial reclassification and renumbering as this section. Section was also formerly classified to section 671 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, ch. 17, the Urgent Deficiency Appropriation Act for the fiscal year 1902, relating to appropriations for contingent expenses of House of Representatives. Provisions of proviso relating to appropriations for expenses of Senate are classified to section 6505 of this title.
 
@@ -175,7 +175,7 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 
-### § 5507. Transfers of amounts appropriated for House
+### § 5507. Transfers of amounts appropriated for House
 
 **(a) Transfers among categories of allowances and expenses**
 
@@ -189,9 +189,9 @@ Amounts appropriated for any fiscal year for the House of Representatives under 
 
 **(1)** Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-**(2)** The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices” 1
+**(2)** The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices” 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 “Allowance for Compensation of Interns in House Appropriations Committee Offices”, “Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices”, “Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.
 
@@ -207,7 +207,7 @@ Amounts appropriated for any fiscal year for the House of Representatives under 
 
 Amounts appropriated for any fiscal year for the House of Representatives under the heading “House Leadership Offices” may be transferred among and merged with the various offices and activities under such heading, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(Pub. L. 102–392, title I, § 101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, § 109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§ 103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§ 104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, § 103(a), Jan. 17, 2014, 128 Stat. 422; Pub. L. 115–244, div. B, title I, § 119(a), Sept. 21, 2018, 132 Stat. 2930; Pub. L. 116–94, div. E, title I, §§ 112(b), 113(e), Dec. 20, 2019, 133 Stat. 2759; Pub. L. 116–260, div. I, title I, § 115(d), Dec. 27, 2020, 134 Stat. 1637; Pub. L. 117–103, div. I, title I, § 113(d), Mar. 15, 2022, 136 Stat. 511.)
+(Pub. L. 102–392, title I, § 101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, § 109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§ 103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§ 104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, § 103(a), Jan. 17, 2014, 128 Stat. 422; Pub. L. 115–244, div. B, title I, § 119(a), Sept. 21, 2018, 132 Stat. 2930; Pub. L. 116–94, div. E, title I, §§ 112(b), 113(e), Dec. 20, 2019, 133 Stat. 2759; Pub. L. 116–260, div. I, title I, § 115(d), Dec. 27, 2020, 134 Stat. 1637; Pub. L. 117–103, div. I, title I, § 113(d), Mar. 15, 2022, 136 Stat. 511.)
 
 **Editorial Notes**
 
@@ -219,27 +219,27 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 **Amendments**
 
-2022—Subsec. (c)(2). Pub. L. 117–103, which directed insertion of “ ‘Allowance for Compensation of Interns in House Appropriations Committee Offices’, ‘Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices’,” after “ ‘Allowance for Compensation of Interns in Member Offices’,”, was executed by making the insertion after “ ‘Allowance for Compensation of Interns in Member Offices’ ” to reflect the probable intent of Congress.
+2022—Subsec. (c)(2). Pub. L. 117–103, which directed insertion of “ ‘Allowance for Compensation of Interns in House Appropriations Committee Offices’, ‘Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices’,” after “ ‘Allowance for Compensation of Interns in Member Offices’,”, was executed by making the insertion after “ ‘Allowance for Compensation of Interns in Member Offices’ ” to reflect the probable intent of Congress.
 
-2020—Subsec. (c)(2). Pub. L. 116–260 substituted “ ‘Allowance for Compensation of Interns in House Leadership Offices’, and ‘House of Representatives Modernization Initiatives Account’.” for “, and ‘Allowance for Compensation of Interns in House Leadership Offices’.”
+2020—Subsec. (c)(2). Pub. L. 116–260 substituted “ ‘Allowance for Compensation of Interns in House Leadership Offices’, and ‘House of Representatives Modernization Initiatives Account’.” for “, and ‘Allowance for Compensation of Interns in House Leadership Offices’.”
 
-2019—Subsec. (c)(2). Pub. L. 116–94, § 113(e), substituted “, ‘Allowance for Compensation of Interns in Member Offices’, and ‘Allowance for Compensation of Interns in House Leadership Offices’ ” for “, and ‘Allowance for Compensation of Interns in Member Offices’ ”.
+2019—Subsec. (c)(2). Pub. L. 116–94, § 113(e), substituted “, ‘Allowance for Compensation of Interns in Member Offices’, and ‘Allowance for Compensation of Interns in House Leadership Offices’ ” for “, and ‘Allowance for Compensation of Interns in Member Offices’ ”.
 
-Pub. L. 116–94, § 112(b), substituted “ ‘Office of the Attending Physician’, and ‘Allowance for Compensation of Interns in Member Offices’ ” for “and ‘Office of the Attending Physician’ ”.
+Pub. L. 116–94, § 112(b), substituted “ ‘Office of the Attending Physician’, and ‘Allowance for Compensation of Interns in Member Offices’ ” for “and ‘Office of the Attending Physician’ ”.
 
 2018—Subsec. (f). Pub. L. 115–244 added subsec. (f).
 
-2014—Subsec. (c)(2). Pub. L. 113–76 substituted “ ‘Allowances and Expenses’, the heading for any joint committee under the heading ‘Joint Items’ (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and ‘Office of the Attending Physician’ ” for “and ‘Allowances and Expenses’ ”.
+2014—Subsec. (c)(2). Pub. L. 113–76 substituted “ ‘Allowances and Expenses’, the heading for any joint committee under the heading ‘Joint Items’ (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and ‘Office of the Attending Physician’ ” for “and ‘Allowances and Expenses’ ”.
 
-2009—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, § 105(a), substituted “transferred among and merged with” for “transferred among”.
+2009—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, § 105(a), substituted “transferred among and merged with” for “transferred among”.
 
-Subsec. (c)(2). Pub. L. 111–8, § 105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The headings referred to in paragraph (1) are ‘house leadership offices’, ‘members’ clerk hire’, ‘committee employees’, ‘standing committees, special and select’, ‘house information systems’, ‘allowances and expenses’, ‘official mail costs’, and ‘salaries, officers and employees’.”
+Subsec. (c)(2). Pub. L. 111–8, § 105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The headings referred to in paragraph (1) are ‘house leadership offices’, ‘members’ clerk hire’, ‘committee employees’, ‘standing committees, special and select’, ‘house information systems’, ‘allowances and expenses’, ‘official mail costs’, and ‘salaries, officers and employees’.”
 
-Subsec. (d). Pub. L. 111–68, § 104(a), substituted “and merged with and made available” for “and made available”.
+Subsec. (d). Pub. L. 111–68, § 104(a), substituted “and merged with and made available” for “and made available”.
 
-Pub. L. 111–8, § 103(a), added subsec. (d).
+Pub. L. 111–8, § 103(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 111–68, § 1304(d), added subsec. (e).
+Subsec. (e). Pub. L. 111–68, § 1304(d), added subsec. (e).
 
 2003—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
 
@@ -257,31 +257,31 @@ Amendment by section 113(e) of Pub. L. 116–94 applicable with respect to fisca
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–244, div. B, title I, § 119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
+Pub. L. 115–244, div. B, title I, § 119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. I, title I, § 103(b), Jan. 17, 2014, 128 Stat. 422, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+Pub. L. 113–76, div. I, title I, § 103(b), Jan. 17, 2014, 128 Stat. 422, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–68, div. A, title I, § 104(b), Oct. 1, 2009, 123 Stat. 2029, provided that: “The amendment made by subsection (a) [amending this section] shall apply to funds appropriated for fiscal year 2010 and succeeding fiscal years.”
+Pub. L. 111–68, div. A, title I, § 104(b), Oct. 1, 2009, 123 Stat. 2029, provided that: “The amendment made by subsection (a) [amending this section] shall apply to funds appropriated for fiscal year 2010 and succeeding fiscal years.”
 
 Amendment by section 1304(d) of Pub. L. 111–68 applicable with respect to fiscal year 2010 and each succeeding fiscal year, see section 1870(e) of this title.
 
-Pub. L. 111–8, div. G, title I, § 103(b), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
+Pub. L. 111–8, div. G, title I, § 103(b), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
 
-Pub. L. 111–8, div. G, title I, § 105(c), Mar. 11, 2009, 123 Stat. 818, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
+Pub. L. 111–8, div. G, title I, § 105(c), Mar. 11, 2009, 123 Stat. 818, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 109(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
+Pub. L. 108–7, div. H, title I, § 109(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
 
 **Categories of Allowances and Expenses**
 
-Pub. L. 105–55, title I, § 102, Oct. 7, 1997, 111 Stat. 1183, provided that: “The funds and accounts specified in section 107(b) of the Legislative Branch Appropriations Act, 1996 (2 U.S.C. 123b note) [now 2 U.S.C. 4131 note] shall be treated as categories of allowances and expenses for purposes of section 101(a) of the Legislative Branch Appropriations Act, 1993 (2 U.S.C. 95b(a)) [now 2 U.S.C. 5507(a)].”
+Pub. L. 105–55, title I, § 102, Oct. 7, 1997, 111 Stat. 1183, provided that: “The funds and accounts specified in section 107(b) of the Legislative Branch Appropriations Act, 1996 (2 U.S.C. 123b note) [now 2 U.S.C. 4131 note] shall be treated as categories of allowances and expenses for purposes of section 101(a) of the Legislative Branch Appropriations Act, 1993 (2 U.S.C. 95b(a)) [now 2 U.S.C. 5507(a)].”
 
-### § 5508. Account in House of Representatives for Employees’ Compensation Fund
+### § 5508. Account in House of Representatives for Employees’ Compensation Fund
 
 **(a) Establishment**
 
@@ -295,7 +295,7 @@ Notwithstanding any other provision of law, payments may be made from the accoun
 
 The account established under subsection (a) shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title.
 
-(Pub. L. 105–55, title I, § 109, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 113–76, div. I, title I, § 102(a), Jan. 17, 2014, 128 Stat. 422.)
+(Pub. L. 105–55, title I, § 109, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 113–76, div. I, title I, § 102(a), Jan. 17, 2014, 128 Stat. 422.)
 
 **Editorial Notes**
 
@@ -307,21 +307,21 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–76 substituted “, and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.” for period at end.
+2014—Subsec. (a). Pub. L. 113–76 substituted “, and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. I, title I, § 102(b), Jan. 17, 2014, 128 Stat. 422, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+Pub. L. 113–76, div. I, title I, § 102(b), Jan. 17, 2014, 128 Stat. 422, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
-### § 5509. Incidental use of equipment and supplies
+### § 5509. Incidental use of equipment and supplies
 
 **(a)** Notwithstanding any other provision of law, the Committee on House Oversight may prescribe by regulation appropriate conditions for the incidental use, for other than official business, of equipment and supplies owned or leased by, or the cost of which is reimbursed by, the House of Representatives.
 
 **(b)** The authority of the Committee on House Oversight to prescribe regulations pursuant to subsection (a) shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-(Pub. L. 105–275, title I, § 106, Oct. 21, 1998, 112 Stat. 2439.)
+(Pub. L. 105–275, title I, § 106, Oct. 21, 1998, 112 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -337,7 +337,7 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5510. Providing assistance to House of Representatives in response to cybersecurity events
+### § 5510. Providing assistance to House of Representatives in response to cybersecurity events
 
 **(a) Provision of assistance** If the Speaker of the House of Representatives (or the Speaker’s designee), with the concurrence of the Minority Leader of the House of Representatives (or the Minority Leader’s designee), determines that a cybersecurity event has occurred and that containing, mitigating, or resolving the event exceeds the resources of the House of Representatives, then notwithstanding any other provision of law or any rule, regulation, or executive order—
 
@@ -381,7 +381,7 @@ Nothing in this section may be construed to affect the authority of an Executive
 
 In this section, each of the terms “Executive department”, “military department”, and “independent establishment” has the meaning given such term in chapter 1 of title 5.
 
-(Pub. L. 115–91, div. A, title X, § 1090, Dec. 12, 2017, 131 Stat. 1606.)
+(Pub. L. 115–91, div. A, title X, § 1090, Dec. 12, 2017, 131 Stat. 1606.)
 
 **Editorial Notes**
 
@@ -389,7 +389,7 @@ In this section, each of the terms “Executive department”, “military depar
 
 Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in subsec. (d), is section 113 of title I of div. I of Pub. L. 115–31, May 5, 2017, 131 Stat. 576, which is not classified to the Code.
 
-### § 5511. Transfer of funds
+### § 5511. Transfer of funds
 
 **(a) Transfer of unexpended appropriations for salaries and expenses**
 
@@ -407,9 +407,9 @@ The Chief Administrative Officer of the House of Representatives shall notify th
 
 This section shall apply with respect to amounts appropriated for fiscal year 2018 or any succeeding fiscal year.
 
-(Pub. L. 115–141, div. I, title I, § 119, Mar. 23, 2018, 132 Stat. 777.)
+(Pub. L. 115–141, div. I, title I, § 119, Mar. 23, 2018, 132 Stat. 777.)
 
-### § 5512. Use of available balances of expired appropriations
+### § 5512. Use of available balances of expired appropriations
 
 **(a)** Subject to section 5511 of this title, available balances of expired appropriations for the House of Representatives shall be available to the House of Representatives—
 
@@ -419,9 +419,9 @@ This section shall apply with respect to amounts appropriated for fiscal year 20
 
 **(b)** This section shall apply with respect to funds appropriated or otherwise made available in fiscal year 2020 and each succeeding fiscal year.
 
-(Pub. L. 116–94, div. E, title I, § 116, Dec. 20, 2019, 133 Stat. 2760.)
+(Pub. L. 116–94, div. E, title I, § 116, Dec. 20, 2019, 133 Stat. 2760.)
 
-### § 5513. House of Representatives Modernization Initiatives Account
+### § 5513. House of Representatives Modernization Initiatives Account
 
 **(a) Establishment**
 
@@ -441,7 +441,7 @@ Funds in the Account are available without fiscal year limitation.
 
 This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.
 
-(Pub. L. 116–260, div. I, title I, § 115, Dec. 27, 2020, 134 Stat. 1637.)
+(Pub. L. 116–260, div. I, title I, § 115, Dec. 27, 2020, 134 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ This section and the amendments made by this section shall apply with respect to
 
 Section is comprised of section 115 of div. I of Pub. L. 116–260. Subsec. (d) of section 115 amended section 5507 of this title.
 
-### § 5514. Green and Gold Congressional Aide Program
+### § 5514. Green and Gold Congressional Aide Program
 
 **(a) Establishment**
 
@@ -475,15 +475,15 @@ There are authorized to be appropriated for fiscal year 2022 and each succeeding
 
 This section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.
 
-(Pub. L. 117–103, div. I, title I, § 114, Mar. 15, 2022, 136 Stat. 511.)
+(Pub. L. 117–103, div. I, title I, § 114, Mar. 15, 2022, 136 Stat. 511.)
 
 ## SUBCHAPTER II—CHAPLAIN
 
-### § 5521. Compensation of Chaplain of House
+### § 5521. Compensation of Chaplain of House
 
 The maximum per year gross rate of compensation of the Chaplain of the House of Representatives shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
-(Pub. L. 116–94, div. E, title II, § 212(b)(3)(D), Dec. 20, 2019, 133 Stat. 2777.)
+(Pub. L. 116–94, div. E, title II, § 212(b)(3)(D), Dec. 20, 2019, 133 Stat. 2777.)
 
 **Editorial Notes**
 
@@ -493,7 +493,7 @@ Section is based on section 3 of House Resolution No. 661, Ninety-fifth Congress
 
 **Prior Provisions**
 
-A prior section 5521, Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 111–145, § 3(a)(4), Mar. 4, 2010, 124 Stat. 52; Pub. L. 111–248, § 3(b), Sept. 30, 2010, 124 Stat. 2626, related to the per annum gross rate of compensation of the Chaplain of House, prior to repeal by Pub. L. 116–94, div. E, title II, § 212(b)(3)(D), Dec. 20, 2019, 133 Stat. 2777. Text was based on section 3 of House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, which was enacted into permanent law by Pub. L. 95–391.
+A prior section 5521, Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 111–145, § 3(a)(4), Mar. 4, 2010, 124 Stat. 52; Pub. L. 111–248, § 3(b), Sept. 30, 2010, 124 Stat. 2626, related to the per annum gross rate of compensation of the Chaplain of House, prior to repeal by Pub. L. 116–94, div. E, title II, § 212(b)(3)(D), Dec. 20, 2019, 133 Stat. 2777. Text was based on section 3 of House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, which was enacted into permanent law by Pub. L. 95–391.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -503,7 +503,7 @@ Section effective on the later of the first day of the first applicable pay peri
 
 ## SUBCHAPTER III—CHIEF ADMINISTRATIVE OFFICER
 
-### § 5531. Program to increase employment opportunities in House of Representatives for individuals with disabilities
+### § 5531. Program to increase employment opportunities in House of Representatives for individuals with disabilities
 
 **(a) In general** In order to promote an increase in opportunities for individuals with disabilities to provide services to the House of Representatives, the Chief Administrative Officer of the House of Representatives is authorized to—
 
@@ -523,7 +523,7 @@ Section effective on the later of the first day of the first applicable pay peri
 
 There are authorized to be appropriated from the applicable accounts of the House of Representatives $500,000 to carry out this section for each of the fiscal years 2003 through 2007.
 
-(Pub. L. 108–7, div. H, title I, § 106, Feb. 20, 2003, 117 Stat. 354.)
+(Pub. L. 108–7, div. H, title I, § 106, Feb. 20, 2003, 117 Stat. 354.)
 
 **Editorial Notes**
 
@@ -533,7 +533,7 @@ Section was formerly classified to section 130j of this title prior to editorial
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
 
-### § 5532. Advance payments
+### § 5532. Advance payments
 
 **(a) Authorization**
 
@@ -547,7 +547,7 @@ An advance payment authorized by subsection (a) shall be made in accordance with
 
 The authority granted by subsection (a) shall not take effect until regulations are issued pursuant to subsection (b).
 
-(Pub. L. 105–55, title I, § 108, Oct. 7, 1997, 111 Stat. 1184.)
+(Pub. L. 105–55, title I, § 108, Oct. 7, 1997, 111 Stat. 1184.)
 
 **Editorial Notes**
 
@@ -563,7 +563,7 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5533. House of Representatives Revolving Fund
+### § 5533. House of Representatives Revolving Fund
 
 **(a) Establishment** There is established in the House of Representatives a fund to be known as the “House of Representatives Revolving Fund”, consisting of the following amounts:
 
@@ -581,7 +581,7 @@ Amounts in the Fund shall be expended at the direction of the Chief Administrati
 
 This section shall apply with respect to fiscal year 2004 and each succeeding fiscal year.
 
-(Pub. L. 108–199, div. H, § 156, Jan. 23, 2004, 118 Stat. 450.)
+(Pub. L. 108–199, div. H, § 156, Jan. 23, 2004, 118 Stat. 450.)
 
 **Editorial Notes**
 
@@ -591,7 +591,7 @@ Section was formerly classified to section 95e of this title prior to editorial 
 
 Section is from the Miscellaneous Appropriations and Offsets Act, 2004, which is division H of the Consolidated Appropriations Act, 2004.
 
-### § 5534. House revolving fund for stationery allowances; disposition of moneys from stationery sales; availability of unexpended balances
+### § 5534. House revolving fund for stationery allowances; disposition of moneys from stationery sales; availability of unexpended balances
 
 There is established a revolving fund for the purpose of administering the funds appropriated for stationery allowances to each Representative, Delegate, the Resident Commissioner from Puerto Rico; and stationery for use of the committees, departments, and officers of the House. All moneys hereafter received by the stationery room of the House of Representatives from the sale of stationery supplies and other equipment shall be deposited in the revolving fund and shall be available for disbursement from the fund in the same manner as other sums that may be appropriated by the Congress for this purpose. The unexpended balance of all moneys heretofore received by the stationery room of the House of Representatives from the sale of stationery supplies and equipment shall be deposited in the Treasury of the United States to the credit of the fund: *Provided*, That the unexpended balances in the appropriations “Contingent expenses, House of Representatives, stationery, 1945–1946”; “Contingent expenses, House of Representatives, stationery, 1946”; “Contingent expenses, House of Representatives, stationery, 1947–48”, as of June 30, 1947, shall be transferred to and made available for expenditure out of the fund, together with appropriations herein or hereafter made therefor, to remain available until expended.
 
@@ -609,7 +609,7 @@ Section was formerly classified to section 46b–1 of this title prior to editor
 
 Stationery room of House of Representatives redesignated Office Supply Service.
 
-### § 5535. Report of disbursements for House of Representatives
+### § 5535. Report of disbursements for House of Representatives
 
 **(a) In general**
 
@@ -639,9 +639,9 @@ Each report under this section shall be printed as a House document.
 
 **(e) Conforming provision** The provisions of—
 
-**(1)** sections 102, 103, and 104 1
+**(1)** sections 102, 103, and 104 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -653,13 +653,13 @@ that require submission and printing of statements and reports are not applicabl
 
 This section shall apply to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
 
-(Pub. L. 104–186, title I, § 106, Aug. 20, 1996, 110 Stat. 1722.)
+(Pub. L. 104–186, title I, § 106, Aug. 20, 1996, 110 Stat. 1722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 102 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 104–186, title II, § 204(52), Aug. 20, 1996, 110 Stat. 1737.
+Section 102 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 104–186, title II, § 204(52), Aug. 20, 1996, 110 Stat. 1737.
 
 Sections 103 and 104 of this title, referred to in subsec. (e)(1), were omitted from the Code.
 
@@ -677,7 +677,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Provisions similar to those in this section are contained in section 4108 of this title, but were made inapplicable to the House of Representatives by subsec. (e) of this section.
 
-### § 5536. Office equipment for House Members, officers, and committees
+### § 5536. Office equipment for House Members, officers, and committees
 
 **(a) Authority of Chief Administrative Officer**
 
@@ -695,7 +695,7 @@ The cost of office equipment furnished under this section shall be paid from the
 
 The Committee on House Oversight shall prescribe such regulations as it considers necessary to carry out the purposes of this section.
 
-(Pub. L. 91–139, § 1, Dec. 5, 1969, 83 Stat. 291; Pub. L. 104–186, title II, § 204(59), Aug. 20, 1996, 110 Stat. 1738.)
+(Pub. L. 91–139, § 1, Dec. 5, 1969, 83 Stat. 291; Pub. L. 104–186, title II, § 204(59), Aug. 20, 1996, 110 Stat. 1738.)
 
 **Editorial Notes**
 
@@ -709,13 +709,13 @@ Section was formerly classified to section 112e of this title prior to editorial
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–186, § 204(59)(A)(i), (B)(i), substituted “House Oversight” for “House Administration” in two places and “Chief Administrative Officer of the House of Representatives shall furnish” for “Clerk of the House shall furnish electrical and mechanical”.
+1996—Subsec. (a). Pub. L. 104–186, § 204(59)(A)(i), (B)(i), substituted “House Oversight” for “House Administration” in two places and “Chief Administrative Officer of the House of Representatives shall furnish” for “Clerk of the House shall furnish electrical and mechanical”.
 
-Subsec. (b). Pub. L. 104–186, § 204(59)(A)(ii), substituted “Chief Administrative Officer” for “Clerk”.
+Subsec. (b). Pub. L. 104–186, § 204(59)(A)(ii), substituted “Chief Administrative Officer” for “Clerk”.
 
-Subsec. (c). Pub. L. 104–186, § 204(59)(B)(ii), substituted “applicable accounts” for “contingent fund”.
+Subsec. (c). Pub. L. 104–186, § 204(59)(B)(ii), substituted “applicable accounts” for “contingent fund”.
 
-Subsec. (d). Pub. L. 104–186, § 204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shall limit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
+Subsec. (d). Pub. L. 104–186, § 204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shall limit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -725,9 +725,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date**
 
-Pub. L. 91–139, § 3, Dec. 5, 1969, 83 Stat. 292, provided that: “This Act [enacting this section and provisions set out as a note under former sections 112a to 112d of this title, and repealing sections 112a to 112d of this title] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act [Dec. 5, 1969].”
+Pub. L. 91–139, § 3, Dec. 5, 1969, 83 Stat. 292, provided that: “This Act [enacting this section and provisions set out as a note under former sections 112a to 112d of this title, and repealing sections 112a to 112d of this title] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act [Dec. 5, 1969].”
 
-### § 5537. Net Expenses of Equipment Revolving Fund
+### § 5537. Net Expenses of Equipment Revolving Fund
 
 **(a) Establishment**
 
@@ -747,13 +747,13 @@ This section shall apply with respect to fiscal year 2003 and each succeeding fi
 
 **(e) Applicability to telecommunications equipment**
 
-This section shall not apply with respect to any telecommunications equipment which is subject to coverage under section 5538 1
+This section shall not apply with respect to any telecommunications equipment which is subject to coverage under section 5538 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title (relating to the Net Expenses of Telecommunications Revolving Fund).
 
-(Pub. L. 108–7, div. H, title I, § 102, Feb. 20, 2003, 117 Stat. 353; Pub. L. 108–447, div. G, title I, § 102(e), Dec. 8, 2004, 118 Stat. 3174.)
+(Pub. L. 108–7, div. H, title I, § 102, Feb. 20, 2003, 117 Stat. 353; Pub. L. 108–447, div. G, title I, § 102(e), Dec. 8, 2004, 118 Stat. 3174.)
 
 **Editorial Notes**
 
@@ -777,7 +777,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and each succeeding fiscal year, see section 5538(f) of this title.
 
-### § 5538. Net Expenses of Telecommunications Revolving Fund
+### § 5538. Net Expenses of Telecommunications Revolving Fund
 
 **(a) Establishment**
 
@@ -797,7 +797,7 @@ The Revolving Fund shall be treated as a category of allowances and expenses for
 
 This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 102, Dec. 8, 2004, 118 Stat. 3174.)
+(Pub. L. 108–447, div. G, title I, § 102, Dec. 8, 2004, 118 Stat. 3174.)
 
 **Editorial Notes**
 
@@ -809,7 +809,7 @@ Section is comprised of section 102 of div. G of Pub. L. 108–447. Subsecs. (d)
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 5539. Commissions and charges for public telephone or telecommunications services; deposit of receipts
+### § 5539. Commissions and charges for public telephone or telecommunications services; deposit of receipts
 
 **(a) Authority of Chief Administrative Officer to receive commissions for providing public telephone service in House occupied areas**
 
@@ -819,7 +819,7 @@ Effective October 1, 1988, the Chief Administrative Officer of the House of Repr
 
 Receipts from the commissions and charges set forth in subsection (a) of this section shall be deposited in the United States Treasury for credit to the appropriation for “Salaries and Expenses of the United States House of Representatives”, and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 100–458, title III, § 306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, § 204(64), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 108–447, div. G, title I, § 102(d), Dec. 8, 2004, 118 Stat. 3174.)
+(Pub. L. 100–458, title III, § 306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, § 204(64), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 108–447, div. G, title I, § 102(d), Dec. 8, 2004, 118 Stat. 3174.)
 
 **Editorial Notes**
 
@@ -833,9 +833,9 @@ Section is from the Legislative Branch Appropriations Act, 1989.
 
 2004—Subsecs. (b), (c). Pub. L. 108–447 redesignated subsec. (c) as (b), substituted “subsection (a)” for “subsections (a) and (b)”, and struck out heading and text of former subsec. (b). Text read as follows: “The Chief Administrative Officer is authorized to receive for deposit, amounts charged to any legislative branch entity, including the Congressional Budget Office and the Architect of the Capitol, for the provision of telephone or telecommunications services, except that no amount charged to the Members’ Representational Allowance shall be deposited in accordance with this section.”
 
-1996—Subsec. (a). Pub. L. 104–186, § 204(64)(A), substituted “Chief Administrative Officer” for “Clerk”.
+1996—Subsec. (a). Pub. L. 104–186, § 204(64)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
-Subsec. (b). Pub. L. 104–186, § 204(64)(B), substituted “Chief Administrative Officer” for “Clerk”, struck out “but not limited to Legislative Service Organizations,” after “entity, including”, and substituted “, except that no amount charged to the Members’ Representational Allowance” for “: *Provided*, That no amounts charged to the official expense allowances of Members of the House”.
+Subsec. (b). Pub. L. 104–186, § 204(64)(B), substituted “Chief Administrative Officer” for “Clerk”, struck out “but not limited to Legislative Service Organizations,” after “entity, including”, and substituted “, except that no amount charged to the Members’ Representational Allowance” for “: *Provided*, That no amounts charged to the official expense allowances of Members of the House”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -843,7 +843,7 @@ Subsec. (b). Pub. L. 104–186, § 204(64)(B), substituted “Chief Administra
 
 Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and each succeeding fiscal year, see section 5538(f) of this title.
 
-### § 5540. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts
+### § 5540. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts
 
 **(1)** The Chief Administrative Officer of the House of Representatives may dispose of used equipment of the House of Representatives, by trade-in or sale, directly or through the General Services Administration. Any direct disposal under the preceding sentence shall be in accordance with normal business practice and shall be at fair market value. Receipts from disposals under the first sentence of this section (together with receipts from sale of transcripts, waste paper and other items provided by law, and receipts for missing or damaged equipment) shall be deposited in the Treasury for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the “appropriate account of the House of Representatives” shall be the account of the Chief Administrative Officer of the House of Representatives.
 
@@ -875,7 +875,7 @@ Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and e
 
 **(B)** the term “used equipment” means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Oversight of the House of Representatives may prescribe by regulation.
 
-(Pub. L. 99–500, § 101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 101–163, title I, § 103(a), Nov. 21, 1989, 103 Stat. 1049; Pub. L. 104–186, title II, § 204(63), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 105–55, title I, § 106, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 107–68, title I, § 114(a), Nov. 12, 2001, 115 Stat. 572; Pub. L. 107–110, title X, § 1076(b), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xx), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 99–500, § 101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 101–163, title I, § 103(a), Nov. 21, 1989, 103 Stat. 1049; Pub. L. 104–186, title II, § 204(63), Aug. 20, 1996, 110 Stat. 1739; Pub. L. 105–55, title I, § 106, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 107–68, title I, § 114(a), Nov. 12, 2001, 115 Stat. 572; Pub. L. 107–110, title X, § 1076(b), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xx), Dec. 10, 2015, 129 Stat. 2184.)
 
 **Editorial Notes**
 
@@ -895,17 +895,17 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2001—Par. (1). Pub. L. 107–68, in third sentence, substituted “for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the ‘appropriate account of the House of Representatives’ shall be the account of the Chief Administrative Officer of the House of Representatives” for “for credit to the appropriate account under the appropriation for ‘allowances and expenses’ under the heading ‘Contingent Expenses of the House’, and shall be available for expenditure in accordance with applicable law”.
 
-1997—Par. (2). Pub. L. 105–55, § 106(1), substituted “Except as provided in paragraph (3), a donation” for “A donation” in second sentence of introductory provisions.
+1997—Par. (2). Pub. L. 105–55, § 106(1), substituted “Except as provided in paragraph (3), a donation” for “A donation” in second sentence of introductory provisions.
 
-Pars. (3) to (5). Pub. L. 105–55, § 106(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Pars. (3) to (5). Pub. L. 105–55, § 106(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-1996—Pars. (1), (2). Pub. L. 104–186, § 204(63)(A), substituted “Chief Administrative Officer” for “Clerk”.
+1996—Pars. (1), (2). Pub. L. 104–186, § 204(63)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
-Pars. (3), (4)(B). Pub. L. 104–186, § 204(63)(B), substituted “House Oversight” for “House Administration”.
+Pars. (3), (4)(B). Pub. L. 104–186, § 204(63)(B), substituted “House Oversight” for “House Administration”.
 
-1989—Par. (1). Pub. L. 101–163, § 103(a)(1), (2), designated existing provisions as par. (1) and struck out at end “As used in this section, the term ‘used equipment’ means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Administration of the House of Representatives may prescribe by regulation.”
+1989—Par. (1). Pub. L. 101–163, § 103(a)(1), (2), designated existing provisions as par. (1) and struck out at end “As used in this section, the term ‘used equipment’ means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Administration of the House of Representatives may prescribe by regulation.”
 
-Pars. (2) to (4). Pub. L. 101–163, § 103(a)(3), added pars. (2) to (4).
+Pars. (2) to (4). Pub. L. 101–163, § 103(a)(3), added pars. (2) to (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -923,11 +923,11 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 114(b), Nov. 12, 2001, 115 Stat. 572, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
+Pub. L. 107–68, title I, § 114(b), Nov. 12, 2001, 115 Stat. 572, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–163, title I, § 103(c), Nov. 21, 1989, 103 Stat. 1050, provided that: “The amendments made by subsection (a) [amending this section] and the repeal made by subsection (b) [repealing section 59a of this title] shall take effect on October 1, 1989.”
+Pub. L. 101–163, title I, § 103(c), Nov. 21, 1989, 103 Stat. 1050, provided that: “The amendments made by subsection (a) [amending this section] and the repeal made by subsection (b) [repealing section 59a of this title] shall take effect on October 1, 1989.”
 
 **Effective Date of 1987 Amendment**
 
@@ -935,17 +935,17 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, provided that the amend
 
 **Effective Date**
 
-Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in Pub. L. 99–500, § 101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287, as amended by Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, to be effective as if enacted into law, provided that: “This section and the amendment made by this section [enacting section 5540 of this title and amending section 84b of this title] shall take effect on October 1, 1986.”
+Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in Pub. L. 99–500, § 101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287, as amended by Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, to be effective as if enacted into law, provided that: “This section and the amendment made by this section [enacting section 5540 of this title and amending section 84b of this title] shall take effect on October 1, 1986.”
 
 **Similar Provisions**
 
 Provisions similar to those in par. (1) of this section relating to disposition of receipts from sales of copies of transcripts were contained in former section 84b of this title.
 
-### § 5541. Fees for internal delivery in House of Representatives of nonpostage mail from outside sources
+### § 5541. Fees for internal delivery in House of Representatives of nonpostage mail from outside sources
 
 Effective with respect to fiscal years beginning with fiscal year 1995, in the case of mail from outside sources presented to the Chief Administrative Officer of the House of Representatives (other than mail through the Postal Service and mail with postage otherwise paid) for internal delivery in the House of Representatives, the Chief Administrative Officer is authorized to collect fees equal to the applicable postage. Amounts received by the Chief Administrative Officer as fees under the preceding sentence shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer.
 
-(Pub. L. 104–53, title I, § 101, Nov. 19, 1995, 109 Stat. 520; Pub. L. 110–161, div. H, title I, § 103(a), Dec. 26, 2007, 121 Stat. 2225.)
+(Pub. L. 104–53, title I, § 101, Nov. 19, 1995, 109 Stat. 520; Pub. L. 110–161, div. H, title I, § 103(a), Dec. 26, 2007, 121 Stat. 2225.)
 
 **Editorial Notes**
 
@@ -963,9 +963,9 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 103(b), Dec. 26, 2007, 121 Stat. 2225, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
+Pub. L. 110–161, div. H, title I, § 103(b), Dec. 26, 2007, 121 Stat. 2225, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
 
-### § 5542. Regulations for safe handling of mail matter
+### § 5542. Regulations for safe handling of mail matter
 
 **(a) In general**
 
@@ -983,7 +983,7 @@ As used in this section, the term “handle” includes but is not limited to co
 
 This section shall apply with respect to fiscal year 2004 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 108, Dec. 8, 2004, 118 Stat. 3177.)
+(Pub. L. 108–447, div. G, title I, § 108, Dec. 8, 2004, 118 Stat. 3177.)
 
 **Editorial Notes**
 
@@ -993,11 +993,11 @@ Section was formerly classified to section 117j–1 of this title prior to edito
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 5543. Rebates under Government Travel Charge Card Program
+### § 5543. Rebates under Government Travel Charge Card Program
 
 Effective with respect to fiscal years beginning with fiscal year 1995, amounts received by the Chief Administrative Officer of the House of Representatives from the Administrator of General Services for rebates under the Government Travel Charge Card Program shall be deposited in the Treasury as miscellaneous receipts.
 
-(Pub. L. 104–53, title I, § 102, Nov. 19, 1995, 109 Stat. 520.)
+(Pub. L. 104–53, title I, § 102, Nov. 19, 1995, 109 Stat. 520.)
 
 **Editorial Notes**
 
@@ -1007,11 +1007,11 @@ Section was formerly classified to section 117k of this title prior to editorial
 
 Section is from the Congressional Operations Appropriations Act, 1996, which is title I of the Legislative Branch Appropriations Act, 1996.
 
-### § 5544. Deposit of House Information Resources reimbursements for services
+### § 5544. Deposit of House Information Resources reimbursements for services
 
 Effective with respect to fiscal year 2003 and each succeeding fiscal year, any amount received by House Information Resources from any office of the House of Representatives as reimbursement for services provided shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer of the House of Representatives.
 
-(Pub. L. 108–7, div. H, title I, § 103, Feb. 20, 2003, 117 Stat. 354.)
+(Pub. L. 108–7, div. H, title I, § 103, Feb. 20, 2003, 117 Stat. 354.)
 
 **Editorial Notes**
 
@@ -1021,7 +1021,7 @@ Section was formerly classified to section 117*l* of this title prior to editori
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
 
-### § 5545. House Services Revolving Fund
+### § 5545. House Services Revolving Fund
 
 **(a) Establishment of House Services Revolving Fund** There is hereby established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Services Revolving Fund” (hereafter in this section referred to as the “Revolving Fund”), consisting of funds deposited by the Chief Administrative Officer of the House of Representatives from all amounts received by the House of Representatives with respect to the following activities:
 
@@ -1035,7 +1035,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **(5)** The payment of fees for the use of the exercise facility described in section 103(a).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(6)** The collection of promotional rebates and incentives on credit card purchases, balances, and payments.
 
@@ -1047,9 +1047,9 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **(b) Use of amounts in Fund**
 
-Amounts in the Revolving Funds 2
+Amounts in the Revolving Funds 2
 
-<sup>2</sup>  So in original. Probably should be “Fund”.
+<sup>2</sup> So in original. Probably should be “Fund”.
 
 shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, upon notification provided by the Chief Administrative Officer to the Committee on Appropriations of the House of Representatives.
 
@@ -1075,7 +1075,7 @@ Each fund and account specified in paragraph (2) is hereby terminated, and the b
 
 This section shall take effect October 1, 2004, and shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, § 3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, § 104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, § 102(b), Mar. 11, 2009, 123 Stat. 817; Pub. L. 115–141, div. I, title I, § 118(a), Mar. 23, 2018, 132 Stat. 777; Pub. L. 117–328, div. I, title I, § 115(a), (b), Dec. 29, 2022, 136 Stat. 4923.)
+(Pub. L. 108–447, div. G, title I, § 105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, § 3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, § 104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, § 102(b), Mar. 11, 2009, 123 Stat. 817; Pub. L. 115–141, div. I, title I, § 118(a), Mar. 23, 2018, 132 Stat. 777; Pub. L. 117–328, div. I, title I, § 115(a), (b), Dec. 29, 2022, 136 Stat. 4923.)
 
 **Editorial Notes**
 
@@ -1083,7 +1083,7 @@ This section shall take effect October 1, 2004, and shall apply with respect to 
 
 Section 103(a), referred to in subsec. (a)(5), means section 103(a) of Pub. L. 108–447, div. G, title I, Dec. 8, 2004, 118 Stat. 3174, which is not classified to the Code.
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsec. (d)(2)(C), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, § 221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsec. (d)(2)(C), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, § 221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 **Codification**
 
@@ -1093,9 +1093,9 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 **Amendments**
 
-2022—Subsec. (a)(8), (9). Pub. L. 117–328, § 115(a), added pars. (8) and (9).
+2022—Subsec. (a)(8), (9). Pub. L. 117–328, § 115(a), added pars. (8) and (9).
 
-Subsec. (b). Pub. L. 117–328, § 115(b), substituted “upon notification provided by the Chief Administrative Officer to” for “which is approved by”.
+Subsec. (b). Pub. L. 117–328, § 115(b), substituted “upon notification provided by the Chief Administrative Officer to” for “which is approved by”.
 
 2018—Subsec. (a)(7). Pub. L. 115–141 added par. (7).
 
@@ -1109,29 +1109,29 @@ Subsec. (b). Pub. L. 117–328, § 115(b), substituted “upon notification pr
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. I, title I, § 115(c), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
+Pub. L. 117–328, div. I, title I, § 115(c), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. I, title I, § 118(b), Mar. 23, 2018, 132 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 23, 2018].”
+Pub. L. 115–141, div. I, title I, § 118(b), Mar. 23, 2018, 132 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 23, 2018].”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–8, div. G, title I, § 102(c), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
+Pub. L. 111–8, div. G, title I, § 102(c), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
+Pub. L. 110–161, div. H, title I, § 104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–13, div. A, title III, § 3401(c), May 11, 2005, 119 Stat. 272, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
+Pub. L. 109–13, div. A, title III, § 3401(c), May 11, 2005, 119 Stat. 272, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
 
 **Membership in House of Representatives Exercise Facility for Active Duty Armed Forces Members Assigned to Congressional Liaison Office**
 
-Pub. L. 111–248, § 1, Sept. 30, 2010, 124 Stat. 2625, provided that: “Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005 [118 Stat. 3174]) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate.”
+Pub. L. 111–248, § 1, Sept. 30, 2010, 124 Stat. 2625, provided that: “Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005 [118 Stat. 3174]) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate.”
 
-### § 5546. Support services for House during emergency; memorandum of understanding with an executive agency
+### § 5546. Support services for House during emergency; memorandum of understanding with an executive agency
 
 **(a) Authorization** Notwithstanding any other provision of law—
 
@@ -1147,7 +1147,7 @@ The Chief Administrative Officer of the House of Representatives may not enter i
 
 This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 904, Jan. 10, 2002, 115 Stat. 2318.)
+(Pub. L. 107–117, div. B, § 904, Jan. 10, 2002, 115 Stat. 2318.)
 
 **Editorial Notes**
 
@@ -1157,13 +1157,13 @@ Section was formerly classified to section 130h of this title prior to editorial
 
 Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
 
-### § 5547. Emergency expenditures for meals, refreshments, and other support and maintenance
+### § 5547. Emergency expenditures for meals, refreshments, and other support and maintenance
 
 **(a)** At any time on or after February 20, 2003, the Chief Administrative Officer of the House of Representatives may incur obligations and make expenditures out of available appropriations for meals, refreshments, and other support and maintenance for Members, officers, and employees of the House of Representatives when, in the judgment of the Chief Administrative Officer, such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 
 **(b)** Nothing in this section may be construed to affect any other authority of the Chief Administrative Officer to incur obligations and make expenditures for the items and services described in subsection (a) for Members, officers, and employees of the House of Representatives.
 
-(Pub. L. 108–7, div. H, title I, § 107, Feb. 20, 2003, 117 Stat. 355.)
+(Pub. L. 108–7, div. H, title I, § 107, Feb. 20, 2003, 117 Stat. 355.)
 
 **Editorial Notes**
 
@@ -1173,7 +1173,7 @@ Section was formerly classified to section 130k of this title prior to editorial
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
 
-### § 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency
+### § 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency
 
 **(a) Authorization to make payments**
 
@@ -1193,7 +1193,7 @@ The authority of the Chief Administrative Officer to make payments under the aut
 
 This section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
 
-(Pub. L. 116–136, div. B, title IX, § 19003, Mar. 27, 2020, 134 Stat. 578.)
+(Pub. L. 116–136, div. B, title IX, § 19003, Mar. 27, 2020, 134 Stat. 578.)
 
 **Editorial Notes**
 
@@ -1207,7 +1207,7 @@ Section is from the Emergency Appropriations for Coronavirus Health Response and
 
 For definition of “coronavirus”, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of this title.
 
-### § 5549. House Intern Resource Office
+### § 5549. House Intern Resource Office
 
 **(a) Establishment; Coordinator**
 
@@ -1239,15 +1239,15 @@ There are authorized to be appropriated for fiscal year 2023 and each succeeding
 
 This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
 
-(Pub. L. 117–328, div. I, title I, § 113, Dec. 29, 2022, 136 Stat. 4922.)
+(Pub. L. 117–328, div. I, title I, § 113, Dec. 29, 2022, 136 Stat. 4922.)
 
 ## SUBCHAPTER IV—CLERK
 
-### § 5561. Reporters for House of Representatives
+### § 5561. Reporters for House of Representatives
 
 No person shall be employed as a reporter for the House of Representatives without the approval of the Speaker.
 
-(R.S. § 54.)
+(R.S. § 54.)
 
 **Editorial Notes**
 
@@ -1255,9 +1255,9 @@ No person shall be employed as a reporter for the House of Representatives witho
 
 Section was formerly classified to section 84a of this title prior to editorial reclassification and renumbering as this section.
 
-R.S. § 54 derived from act Apr. 2, 1872, ch. 79, § 3, 17 Stat. 47.
+R.S. § 54 derived from act Apr. 2, 1872, ch. 79, § 3, 17 Stat. 47.
 
-### § 5562. Preservation of reports, statements, or documents filed with Clerk of House
+### § 5562. Preservation of reports, statements, or documents filed with Clerk of House
 
 **(a)** If the Clerk of the House of Representatives is required under any law, rule, or regulation to make available for public inspection a report, statement, or other document filed with the Office of the Clerk, the Clerk shall preserve the report, statement, or document—
 
@@ -1267,7 +1267,7 @@ R.S. § 54 derived from act Apr. 2, 1872, ch. 79, § 3, 17 Stat. 47.
 
 **(b)** Subsection (a) shall apply with respect to reports, statements, and documents filed before, on, or after December 8, 2004.
 
-(Pub. L. 108–447, div. G, title I, § 106, Dec. 8, 2004, 118 Stat. 3176.)
+(Pub. L. 108–447, div. G, title I, § 106, Dec. 8, 2004, 118 Stat. 3176.)
 
 **Editorial Notes**
 
@@ -1277,11 +1277,11 @@ Section was formerly classified to section 104c of this title prior to editorial
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 5563. Index to House daily calendar
+### § 5563. Index to House daily calendar
 
 The index to the daily calendar of business of the House of Representatives shall be printed only on Monday of each week.
 
-(Mar. 1, 1921, ch. 89, § 1, 41 Stat. 1181.)
+(Mar. 1, 1921, ch. 89, § 1, 41 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -1291,7 +1291,7 @@ Section was formerly classified to section 115 of this title prior to editorial 
 
 ## SUBCHAPTER V—GENERAL COUNSEL
 
-### § 5571. Office of General Counsel of House; administrative provisions
+### § 5571. Office of General Counsel of House; administrative provisions
 
 **(a) Compliance with admission requirements**
 
@@ -1313,7 +1313,7 @@ The Attorney General shall notify the General Counsel of the House of Representa
 
 The provisions of this section shall become effective beginning with September 29, 1999.
 
-(Pub. L. 106–57, title I, § 101, Sept. 29, 1999, 113 Stat. 414; Pub. L. 107–273, div. A, title II, § 202(b)(5), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 108–7, div. H, title I, § 110(a), Feb. 20, 2003, 117 Stat. 355.)
+(Pub. L. 106–57, title I, § 101, Sept. 29, 1999, 113 Stat. 414; Pub. L. 107–273, div. A, title II, § 202(b)(5), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 108–7, div. H, title I, § 110(a), Feb. 20, 2003, 117 Stat. 355.)
 
 **Editorial Notes**
 
@@ -1333,17 +1333,17 @@ Section is from the Congressional Operations Appropriations Act, 2000, which is 
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 110(c), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendments made by this section [amending this section and section 288k of this title] shall take effect as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act [Pub. L. 107–273].”
+Pub. L. 108–7, div. H, title I, § 110(c), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendments made by this section [amending this section and section 288k of this title] shall take effect as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act [Pub. L. 107–273].”
 
 ## SUBCHAPTER VI—INTERPARLIAMENTARY AFFAIRS
 
-### § 5581. Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials
+### § 5581. Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials
 
 **(a)** It is the purpose of this section to enable the House of Representatives more properly to discharge and coordinate its activities and responsibilities in connection with participation in various interparliamentary institutions, to facilitate the interchange and reception in the United States of members of foreign legislative bodies and permanent officials of foreign governments, and to enable the House of Representatives to host meetings with senior United States Government officials and other dignitaries in order to discuss matters relevant to United States relations with other countries.
 
 **(b)** For payment of expenses incurred in carrying out subsection (a) of this section, there shall be paid out of the applicable accounts of the House of Representatives, until otherwise provided by law, such sums as may be necessary but not to exceed $40,000 in any calendar year. Such payments shall be made on vouchers signed by the chairman of the Committee on Foreign Affairs and approved by the Committee on House Oversight.
 
-(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 103–437, § 2(b), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–186, title II, § 204(72), Aug. 20, 1996, 110 Stat. 1741; Pub. L. 105–275, title I, § 102, Oct. 21, 1998, 112 Stat. 2438; Pub. L. 108–83, title I, § 103(e), Sept. 30, 2003, 117 Stat. 1017.)
+(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 103–437, § 2(b), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–186, title II, § 204(72), Aug. 20, 1996, 110 Stat. 1741; Pub. L. 105–275, title I, § 102, Oct. 21, 1998, 112 Stat. 2438; Pub. L. 108–83, title I, § 103(e), Sept. 30, 2003, 117 Stat. 1017.)
 
 **Editorial Notes**
 
@@ -1369,7 +1369,7 @@ Section is based on section 1 of House Resolution No. 1047, Ninety-fifth Congres
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5582. Office of Interparliamentary Affairs
+### § 5582. Office of Interparliamentary Affairs
 
 **(a) Establishment**
 
@@ -1421,7 +1421,7 @@ There are authorized to be appropriated for fiscal year 2003 and each succeeding
 
 This section shall take effect on September 30, 2003.
 
-(Pub. L. 108–83, title I, § 103, Sept. 30, 2003, 117 Stat. 1016.)
+(Pub. L. 108–83, title I, § 103, Sept. 30, 2003, 117 Stat. 1016.)
 
 **Editorial Notes**
 
@@ -1435,7 +1435,7 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 ## SUBCHAPTER VII—MEDIA SERVICES
 
-### § 5591. Media support services
+### § 5591. Media support services
 
 **(a) Support services for presidential nominating conventions**
 
@@ -1453,7 +1453,7 @@ The terms and conditions under which employees exercise responsibilities under s
 
 In this section, the terms “national committee” and “political party” have the meaning given such terms in section 30101 of title 52.
 
-(Pub. L. 109–289, div. B, title II, § 20702(b), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38.)
+(Pub. L. 109–289, div. B, title II, § 20702(b), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38.)
 
 **Editorial Notes**
 
@@ -1465,7 +1465,7 @@ Section is from the Continuing Appropriations Resolution, 2007, which is div. B 
 
 ## SUBCHAPTER VIII—SERGEANT AT ARMS
 
-### § 5601. Sergeant at Arms of House; additional compensation
+### § 5601. Sergeant at Arms of House; additional compensation
 
 The Sergeant at Arms of the House of Representatives shall receive, directly or indirectly, no fees or other compensation or emolument whatever for performing the duties of the office, or in connection therewith, otherwise than the salary prescribed by law.
 
@@ -1483,11 +1483,11 @@ Section was formerly classified to section 77 of this title prior to editorial r
 
 Provisions similar to those in this section were also contained in act Mar. 3, 1875, ch. 129, 18 Stat. 346.
 
-### § 5602. Tenure of office of Sergeant at Arms
+### § 5602. Tenure of office of Sergeant at Arms
 
 Any person duly elected and qualified as Sergeant at Arms of the House of Representatives shall continue in said office until his successor is chosen and qualified, subject however, to removal by the House of Representatives.
 
-(Oct. 1, 1890, ch. 1256, § 6, 26 Stat. 646.)
+(Oct. 1, 1890, ch. 1256, § 6, 26 Stat. 646.)
 
 **Editorial Notes**
 
@@ -1495,11 +1495,11 @@ Any person duly elected and qualified as Sergeant at Arms of the House of Repres
 
 Section was formerly classified to section 83 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5603. Symbol of office of Sergeant at Arms
+### § 5603. Symbol of office of Sergeant at Arms
 
 The symbol of his office shall be the mace, which shall be borne by him while enforcing order on the floor.
 
-(Oct. 1, 1890, ch. 1256, § 2, 26 Stat. 645.)
+(Oct. 1, 1890, ch. 1256, § 2, 26 Stat. 645.)
 
 **Editorial Notes**
 
@@ -1507,11 +1507,11 @@ The symbol of his office shall be the mace, which shall be borne by him while en
 
 Section was formerly classified to section 79 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 5604. Duties of Sergeant at Arms
+### § 5604. Duties of Sergeant at Arms
 
 It shall be the duty of the Sergeant at Arms of the House of Representatives to attend the House during its sittings, to maintain order under the direction of the Speaker, and, pending the election of a Speaker or Speaker pro tempore, under the direction of the Clerk, execute the commands of the House and all processes issued by authority thereof, directed to him by the Speaker.
 
-(Oct. 1, 1890, ch. 1256, § 1, 26 Stat. 645; Pub. L. 104–186, title II, § 204(25)(A), Aug. 20, 1996, 110 Stat. 1733.)
+(Oct. 1, 1890, ch. 1256, § 1, 26 Stat. 645; Pub. L. 104–186, title II, § 204(25)(A), Aug. 20, 1996, 110 Stat. 1733.)
 
 **Editorial Notes**
 
@@ -1521,7 +1521,7 @@ Section was formerly classified to section 78 of this title prior to editorial r
 
 **Amendments**
 
-1996—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
+1996—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1529,7 +1529,7 @@ Section was formerly classified to section 78 of this title prior to editorial r
 
 Effective Feb. 1, 2010, functions of House of Representatives Office of Emergency Planning, Preparedness, and Operations transferred to Sergeant at Arms of the House of Representatives, see section 105 of title I of div. G of Pub. L. 112–74, set out as a note under former section 130i of this title.
 
-### § 5605. Law enforcement authority of Sergeant at Arms
+### § 5605. Law enforcement authority of Sergeant at Arms
 
 **(a) Law enforcement authority**
 
@@ -1547,7 +1547,7 @@ The Sergeant at Arms of the House of Representatives shall have the same law enf
 
 The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
 
-(Pub. L. 104–53, title III, § 313, Nov. 19, 1995, 109 Stat. 538.)
+(Pub. L. 104–53, title III, § 313, Nov. 19, 1995, 109 Stat. 538.)
 
 **Editorial Notes**
 
@@ -1561,11 +1561,11 @@ Section was formerly classified as a note under section 78 of this title prior t
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5606. Arrangements for attendance at funeral of deceased House Members; payment of funeral expenses and expenses of attending funeral rites
+### § 5606. Arrangements for attendance at funeral of deceased House Members; payment of funeral expenses and expenses of attending funeral rites
 
 Notwithstanding any other provision of law, the Sergeant at Arms of the House is authorized and directed on and after October 2, 1962, to make such arrangements as may be necessary for any committee of Members of the Senate and House of Representatives duly appointed to attend the funeral of a deceased Member of the House. Notwithstanding any other provision of law, there shall be paid out of the applicable accounts of the House of Representatives, under such rules and regulations as the Committee on House Oversight may prescribe, such sums as may be necessary to defray the funeral expenses of the deceased Member and to defray the expenses of such committee, the Sergeant at Arms of the House or a representative of his office, and the widow (or widower) or minor children, or both, of the deceased Member incurred in attending the funeral rites and burial of such Member.
 
-(Pub. L. 87–730, § 101, Oct. 2, 1962, 76 Stat. 686; Pub. L. 104–186, title II, § 204(69), Aug. 20, 1996, 110 Stat. 1740.)
+(Pub. L. 87–730, § 101, Oct. 2, 1962, 76 Stat. 686; Pub. L. 104–186, title II, § 204(69), Aug. 20, 1996, 110 Stat. 1740.)
 
 **Editorial Notes**
 
@@ -1595,17 +1595,17 @@ Aug. 1, 1953, ch. 304, title I, 67 Stat. 325.
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 5607. Member security: funding for improvements
+### § 5607. Member security: funding for improvements
 
 **(a)** The Sergeant at Arms of the House of Representatives may use funds made available for providing security for the residences of Members of the House to make essential security improvements if the improvements are included in a category established and updated as necessary by the Sergeant at Arms and approved and regulated by the Committee on House Administration.
 
 **(b)** This section shall apply with respect to funds made available for fiscal year 2026 and each succeeding fiscal year.
 
-(Pub. L. 119–37, div. C, title I, § 117, Nov. 12, 2025, 139 Stat. 571.)
+(Pub. L. 119–37, div. C, title I, § 117, Nov. 12, 2025, 139 Stat. 571.)
 
 ## SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE
 
-### § 5621. Corrections Calendar Office
+### § 5621. Corrections Calendar Office
 
 There is established in the House of Representatives an office to be known as the Corrections Calendar Office, which shall have the responsibility of assisting the Speaker in the management of the Corrections Calendar under the Rules of the House of Representatives. The Office shall have not more than five employees—
 
@@ -1613,7 +1613,7 @@ There is established in the House of Representatives an office to be known as th
 
 **(2)** whose annual rate of pay shall be established by the Speaker, but may not exceed 75 percent of the maximum annual rate under the general limitation specified by the order of the Speaker in effect under section 4532 of this title.
 
-(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
+(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
 
 **Editorial Notes**
 
@@ -1623,11 +1623,11 @@ Section was formerly classified to section 74d of this title prior to editorial 
 
 Section is based on House Resolution No. 7, One Hundred Fifth Congress, Jan. 7, 1997, which was enacted into permanent law by Pub. L. 105–55.
 
-### § 5622. Lump sum allowance for Corrections Calendar Office
+### § 5622. Lump sum allowance for Corrections Calendar Office
 
 There shall be a lump sum allowance of $300,000 per fiscal year for the salaries and expenses of the Corrections Calendar Office, established by section 5621 of this title. Such amount shall be allocated between the majority party and the minority party as determined by the Speaker, in consultation with the minority leader.
 
-(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
+(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
 
 **Editorial Notes**
 
@@ -1643,7 +1643,7 @@ Section is based on section 1 of House Resolution No. 130, One Hundred Fifth Con
 
 For transfer of lump sum allowance under this section to Offices of Speaker and Minority Leader, see section 5624 of this title.
 
-### § 5623. Effective date
+### § 5623. Effective date
 
 The allowance under section 5622 of this title—
 
@@ -1653,7 +1653,7 @@ The allowance under section 5622 of this title—
 
 **(3)** beginning with fiscal year 1998, shall be paid as provided in appropriations Acts.
 
-(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
+(Pub. L. 105–55, title I, § 101, Oct. 7, 1997, 111 Stat. 1183.)
 
 **Editorial Notes**
 
@@ -1663,7 +1663,7 @@ Section was formerly classified to section 74d–2 of this title prior to editor
 
 Section is based on section 2 of House Resolution No. 130, One Hundred Fifth Congress, Apr. 24, 1997, which was enacted into permanent law by Pub. L. 105–55.
 
-### § 5624. Transfer of positions in Corrections Calendar Office
+### § 5624. Transfer of positions in Corrections Calendar Office
 
 **(a)**
 
@@ -1681,7 +1681,7 @@ Section is based on section 2 of House Resolution No. 130, One Hundred Fifth Con
 
 **(2)** 36.5 percent of such allowance shall be transferred to the Office of the Minority Leader.
 
-(Pub. L. 108–83, title I, § 106, Sept. 30, 2003, 117 Stat. 1018.)
+(Pub. L. 108–83, title I, § 106, Sept. 30, 2003, 117 Stat. 1018.)
 
 **Editorial Notes**
 

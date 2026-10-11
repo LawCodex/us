@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-Provisions similar to this chapter were contained in Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended, which was set out as a note under section 6102 of this title, prior to repeal by Pub. L. 99–547, § 2(d), Oct. 27, 1986, 100 Stat. 3060, eff. May 1, 1986.
+Provisions similar to this chapter were contained in Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended, which was set out as a note under section 6102 of this title, prior to repeal by Pub. L. 99–547, § 2(d), Oct. 27, 1986, 100 Stat. 3060, eff. May 1, 1986.
 
-## § 6201. Definitions
+## § 6201. Definitions
 
 As used in this chapter, the term—
 
@@ -31,13 +31,13 @@ As used in this chapter, the term—
 
 **(3)** “municipality” means any subcounty unit of general local government that received Federal assistance in the fiscal year that is the subject of the report.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3057.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3057.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 99–547, § 1, Oct. 27, 1986, 100 Stat. 3057, provided that: “This Act [enacting this chapter, amending sections 6101 and 6102a of this title, enacting provisions set out as a note under section 6102 of this title, and repealing provisions set out as a note under section 6102 of this title] may be cited as the ‘Consolidated Federal Funds Report Amendments of 1985’.”
+Pub. L. 99–547, § 1, Oct. 27, 1986, 100 Stat. 3057, provided that: “This Act [enacting this chapter, amending sections 6101 and 6102a of this title, enacting provisions set out as a note under section 6102 of this title, and repealing provisions set out as a note under section 6102 of this title] may be cited as the ‘Consolidated Federal Funds Report Amendments of 1985’.”
 
 **Executive Documents**
 
@@ -45,7 +45,7 @@ Pub. L. 99–547, § 1, Oct. 27, 1986, 100 Stat. 3057, provided that: “This 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 6202. Content, form, and data for report
+## § 6202. Content, form, and data for report
 
 **(a)** For fiscal years 1986, 1987, 1988, 1989, and 1990, not later than 180 days after the end of each fiscal year, the Director shall prepare a Consolidated Federal Funds Report presenting the total amount of Federal funds that were obligated for expenditure or expended in each State, county or parish, congressional district, and municipality of the United States in appropriate general categories of Federal funds during the preceding fiscal year. To the extent practicable, such categories shall be consistently constituted from year to year. The report shall be in the form described in subsection (b) and shall be based on the data referred to in subsection (c).
 
@@ -83,7 +83,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(d)** For the purposes of subsection (b), the general categories of Federal funds presented in each report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3057; amended Pub. L. 103–272, § 4(f)(1)(T), July 5, 1994, 108 Stat. 1362; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–350, § 5(h)(9), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3057; amended Pub. L. 103–272, § 4(f)(1)(T), July 5, 1994, 108 Stat. 1362; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–350, § 5(h)(9), Jan. 4, 2011, 124 Stat. 3849.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 6203. Printing and distribution of reports and machine-readable records
+## § 6203. Printing and distribution of reports and machine-readable records
 
 **(a)**
 
@@ -137,7 +137,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(2)** the number of printed copies and the number of machine-readable records of the report that will be purchased.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3058; amended Pub. L. 104–186, title II, § 219(b)(3), Aug. 20, 1996, 110 Stat. 1748.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3058; amended Pub. L. 104–186, title II, § 219(b)(3), Aug. 20, 1996, 110 Stat. 1748.)
 
 **Editorial Notes**
 
@@ -155,13 +155,13 @@ Committee on Government Operations of House of Representatives treated as referr
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-## § 6204. Delegation
+## § 6204. Delegation
 
 In order to carry out sections 6202 and 6203 of this chapter, the Director may delegate to any authority of the executive branch of the Federal Government the responsibility for carrying out such sections. The Director shall oversee the activities of any authority to which responsibilities are delegated under this section and shall monitor the compliance of each authority with respect to the requirements set forth in section 6205.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
 
-## § 6205. Availability of information
+## § 6205. Availability of information
 
 Each head of any authority of the Government having custody of the data files and systems referred to in section 6202(c)—
 
@@ -169,16 +169,16 @@ Each head of any authority of the Government having custody of the data files an
 
 **(2)** is authorized to make available to the Director (or such other authority) such administrative services, equipment, personnel, and facilities (and funds appropriated therefor) as the Director or such authority requires to carry out such section.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
 
-## § 6206. Data consistency and uniformity of data elements
+## § 6206. Data consistency and uniformity of data elements
 
 The Director shall designate a single organizational unit to provide for data consistency and uniform reporting of data elements.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3059.)
 
-## § 6207. Authorization of appropriations
+## § 6207. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years 1986, 1987, 1988, 1989, and 1990.
 
-(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3060.)
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3060.)

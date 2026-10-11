@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 60—EGG RESEARCH AND CONSUMER INFORMATION
 
-## § 2701. Congressional findings and declaration of policy
+## § 2701. Congressional findings and declaration of policy
 
 Eggs constitute one of the basic, natural foods in the diet. They are produced by many individual egg producers throughout the United States. Egg products, spent fowl, and products of spent fowl are derivatives of egg production. These products move in interstate and foreign commerce and those which do not move in such channels of commerce directly burden or affect interstate commerce of these products. The maintenance and expansion of existing markets and the development of new or improved markets and uses are vital to the welfare of egg producers and those concerned with marketing, using, and processing eggs as well as the general economy of the Nation. The production and marketing of these products by numerous individual egg producers have prevented the development and carrying out of adequate and coordinated programs of research and promotion necessary for the maintenance of markets and the development of new products of, and markets for, eggs, egg products, spent fowl, and products of spent fowl. Without an effective and coordinated method of assuring cooperative and collective action in providing for and financing such programs, individual egg producers are unable to provide, obtain, or carry out the research, consumer and producer information, and promotion necessary to maintain and improve markets for any or all of these products.
 
@@ -23,35 +23,35 @@ It has long been recognized that it is in the public interest to provide an adeq
 
 It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential and in the public interest, through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development and the financing through an adequate assessment, an effective and continuous coordinated program of research, consumer and producer education, and promotion designed to strengthen the egg industry’s position in the marketplace, and maintain and expand domestic and foreign markets and uses for eggs, egg products, spent fowl, and products of spent fowl of the United States. Nothing in this chapter shall be construed to mean, or provide for, control of production or otherwise limit the right of individual egg producers to produce commercial eggs.
 
-(Pub. L. 93–428, § 2, Oct. 1, 1974, 88 Stat. 1171.)
+(Pub. L. 93–428, § 2, Oct. 1, 1974, 88 Stat. 1171.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 93–428, § 21, Oct. 1, 1974, 88 Stat. 1179, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] shall take effect upon enactment [Oct. 1, 1974]”.
+Pub. L. 93–428, § 21, Oct. 1, 1974, 88 Stat. 1179, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] shall take effect upon enactment [Oct. 1, 1974]”.
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–188, § 1, Dec. 14, 1993, 107 Stat. 2256, provided that: “This Act [amending sections 2707, 2708, and 2711 of this title and enacting provisions set out as a note under section 2703 of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1993’.”
+Pub. L. 103–188, § 1, Dec. 14, 1993, 107 Stat. 2256, provided that: “This Act [amending sections 2707, 2708, and 2711 of this title and enacting provisions set out as a note under section 2703 of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1993’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–575, § 1, Oct. 31, 1988, 102 Stat. 2895, provided that: “This Act [amending sections 2707 and 2712 of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1988’.”
+Pub. L. 100–575, § 1, Oct. 31, 1988, 102 Stat. 2895, provided that: “This Act [amending sections 2707 and 2712 of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1988’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–276, § 1, June 17, 1980, 94 Stat. 541, provided: “That this Act [amending sections 2707, 2708, and 2714 of this title and enacting provisions set out as a note under section 4a of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1980’.”
+Pub. L. 96–276, § 1, June 17, 1980, 94 Stat. 541, provided: “That this Act [amending sections 2707, 2708, and 2714 of this title and enacting provisions set out as a note under section 4a of this title] may be cited as the ‘Egg Research and Consumer Information Act Amendments of 1980’.”
 
 **Short Title**
 
-Pub. L. 93–428, § 1, Oct. 1, 1974, 88 Stat. 1171, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] shall be known as the ‘Egg Research and Consumer Information Act’.”
+Pub. L. 93–428, § 1, Oct. 1, 1974, 88 Stat. 1171, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] shall be known as the ‘Egg Research and Consumer Information Act’.”
 
 **Separability**
 
-Pub. L. 93–428, § 19, Oct. 1, 1974, 88 Stat. 1179, provided that: “If any provision of this Act [enacting this chapter and provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby”.
+Pub. L. 93–428, § 19, Oct. 1, 1974, 88 Stat. 1179, provided that: “If any provision of this Act [enacting this chapter and provisions set out as notes under this section] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby”.
 
-## § 2702. Definitions
+## § 2702. Definitions
 
 As used in this chapter—
 
@@ -95,19 +95,19 @@ As used in this chapter—
 
 **(t)** The term “handler” means any person, specified in the order or the rules and regulations issued thereunder, who receives or otherwise acquires eggs from an egg producer, and processes, prepares for marketing, or markets, such eggs, including eggs of his own production.
 
-(Pub. L. 93–428, § 3, Oct. 1, 1974, 88 Stat. 1172.)
+(Pub. L. 93–428, § 3, Oct. 1, 1974, 88 Stat. 1172.)
 
-## § 2703. Orders of Secretary to egg producers, etc.
+## § 2703. Orders of Secretary to egg producers, etc.
 
 To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to persons engaged in the hatching and/or sale of egg-type baby chicks and started pullets, persons engaged in the production of commercial eggs and persons who receive or otherwise acquire eggs from such persons and who process, prepare for market, or market such eggs, including eggs of their own production, and persons engaged in the purchase, sale or processing of spent fowl. Such orders shall be applicable to all production or marketing areas, or both, in the United States.
 
-(Pub. L. 93–428, § 4, Oct. 1, 1974, 88 Stat. 1172.)
+(Pub. L. 93–428, § 4, Oct. 1, 1974, 88 Stat. 1172.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Amendment of Egg Promotion and Research Order**
 
-Pub. L. 103–188, § 5, Dec. 14, 1993, 107 Stat. 2257, provided that:
+Pub. L. 103–188, § 5, Dec. 14, 1993, 107 Stat. 2257, provided that:
 
 > “Notwithstanding any other provision of law:
 
@@ -121,19 +121,19 @@ Pub. L. 103–188, § 5, Dec. 14, 1993, 107 Stat. 2257, provided that:
 
 > **“(3) Referendum.—** The amendments referred to in paragraph (2) shall not be subject to a referendum conducted under the Egg Research and Consumer Information Act.”
 
-## § 2704. Notice and hearing upon proposed orders
+## § 2704. Notice and hearing upon proposed orders
 
 Whenever the Secretary has reason to believe that the issuance of an order will tend to effectuate the declared policy of this chapter, he shall give due notice and opportunity for hearing upon a proposed order. Such hearing may be requested and proposal for an order submitted by an organization certified pursuant to section 2715 of this title, or by any interested person affected by the provisions of this chapter, including the Secretary.
 
-(Pub. L. 93–428, § 5, Oct. 1, 1974, 88 Stat. 1173.)
+(Pub. L. 93–428, § 5, Oct. 1, 1974, 88 Stat. 1173.)
 
-## § 2705. Findings and issuance of orders
+## § 2705. Findings and issuance of orders
 
 After notice and opportunity for hearing as provided in section 2704 of this title, the Secretary shall issue an order if he finds, and sets forth in such order, upon the evidence introduced at such hearing, that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-(Pub. L. 93–428, § 6, Oct. 1, 1974, 88 Stat. 1173.)
+(Pub. L. 93–428, § 6, Oct. 1, 1974, 88 Stat. 1173.)
 
-## § 2706. Permissive terms and conditions in orders
+## § 2706. Permissive terms and conditions in orders
 
 Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in section 2707 of this title, no others.
 
@@ -153,9 +153,9 @@ Providing that hatchery operators, persons engaged in the sale of egg-type baby 
 
 Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
 
-(Pub. L. 93–428, § 7, Oct. 1, 1974, 88 Stat. 1173.)
+(Pub. L. 93–428, § 7, Oct. 1, 1974, 88 Stat. 1173.)
 
-## § 2707. Required terms and conditions in orders
+## § 2707. Required terms and conditions in orders
 
 Orders issued pursuant to this chapter shall contain the following conditions:
 
@@ -209,25 +209,25 @@ Providing that the Board members, and alternates therefor, shall serve without c
 
 Providing that the total costs incurred by the Egg Board for a fiscal year in collecting producer assessments and having an administrative staff shall not exceed an amount of the projected total assessments to be collected by the Egg Board for such fiscal year that the Secretary determines to be reasonable.
 
-(Pub. L. 93–428, § 8, Oct. 1, 1974, 88 Stat. 1174; Pub. L. 96–276, §§ 2–4, June 17, 1980, 94 Stat. 541; Pub. L. 100–575, § 2, Oct. 31, 1988, 102 Stat. 2895; Pub. L. 103–188, §§ 2(a), 3, Dec. 14, 1993, 107 Stat. 2256, 2257.)
+(Pub. L. 93–428, § 8, Oct. 1, 1974, 88 Stat. 1174; Pub. L. 96–276, §§ 2–4, June 17, 1980, 94 Stat. 541; Pub. L. 100–575, § 2, Oct. 31, 1988, 102 Stat. 2895; Pub. L. 103–188, §§ 2(a), 3, Dec. 14, 1993, 107 Stat. 2256, 2257.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (d). Pub. L. 103–188, § 3, inserted at end “In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocated for research projects under this chapter in the budget of the Egg Board for fiscal year 1993.”
+1993—Subsec. (d). Pub. L. 103–188, § 3, inserted at end “In preparing a budget for each of the 1994 and subsequent fiscal years, the Egg Board shall, to the maximum extent practicable, allocate a proportion of funds for research projects under this chapter that is comparable to the proportion of funds that were allocated for research projects under this chapter in the budget of the Egg Board for fiscal year 1993.”
 
-Subsec. (e). Pub. L. 103–188, § 2(a), designated first and second sentences of existing provisions as par. (1), added par. (2) and struck out third and fourth sentences of existing provisions which read as follows: “For fiscal year 1981, the rate of assessment prescribed by the order shall not exceed 7½ cents per case of commercial eggs or the equivalent thereof. For each fiscal year thereafter, the rate of assessment may be increased by no more than three-quarters of a cent per case of commercial eggs or the equivalent thereof: *Provided*, That the rate of assessment shall not exceed 10 cents per case of commercial eggs or the equivalent thereof.”, and designated fifth and sixth sentences of existing provisions as par. (3).
+Subsec. (e). Pub. L. 103–188, § 2(a), designated first and second sentences of existing provisions as par. (1), added par. (2) and struck out third and fourth sentences of existing provisions which read as follows: “For fiscal year 1981, the rate of assessment prescribed by the order shall not exceed 7½ cents per case of commercial eggs or the equivalent thereof. For each fiscal year thereafter, the rate of assessment may be increased by no more than three-quarters of a cent per case of commercial eggs or the equivalent thereof: *Provided*, That the rate of assessment shall not exceed 10 cents per case of commercial eggs or the equivalent thereof.”, and designated fifth and sixth sentences of existing provisions as par. (3).
 
 1988—Subsec. (j). Pub. L. 100–575 added subsec. (j).
 
-1980—Subsec. (a). Pub. L. 96–276, § 2, substituted “twenty” for “eighteen”.
+1980—Subsec. (a). Pub. L. 96–276, § 2, substituted “twenty” for “eighteen”.
 
-Subsec. (b). Pub. L. 96–276, § 3, extended membership on the Egg Board to two consumers or representatives of consumers, and their alternates, when approved by egg producers voting in a referendum on an amendment to the order, to be appointed by the Secretary from nominations submitted by eligible organizations or otherwise when necessary to properly represent the interest of consumers, the consumer members to be voting members.
+Subsec. (b). Pub. L. 96–276, § 3, extended membership on the Egg Board to two consumers or representatives of consumers, and their alternates, when approved by egg producers voting in a referendum on an amendment to the order, to be appointed by the Secretary from nominations submitted by eligible organizations or otherwise when necessary to properly represent the interest of consumers, the consumer members to be voting members.
 
-Subsec. (e). Pub. L. 96–276, § 4, substituted rate of assessment provisions prescribing for fiscal year 1981 a rate not exceeding 7½ cents per case of commercial eggs or its equivalent, authorizing increases of three-quarters of a cent per case for each fiscal year thereafter, but limiting maximum rate to 10 cents per case for prior limitation of the rate of assessment to 5 cents per case.
+Subsec. (e). Pub. L. 96–276, § 4, substituted rate of assessment provisions prescribing for fiscal year 1981 a rate not exceeding 7½ cents per case of commercial eggs or its equivalent, authorizing increases of three-quarters of a cent per case for each fiscal year thereafter, but limiting maximum rate to 10 cents per case for prior limitation of the rate of assessment to 5 cents per case.
 
-## § 2708. Referendum among egg producers
+## § 2708. Referendum among egg producers
 
 **(a) Producer approval of order**
 
@@ -263,7 +263,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 The failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate such order.
 
-(Pub. L. 93–428, § 9, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 96–276, § 5, June 17, 1980, 94 Stat. 541; Pub. L. 103–188, § 2(b), Dec. 14, 1993, 107 Stat. 2256.)
+(Pub. L. 93–428, § 9, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 96–276, § 5, June 17, 1980, 94 Stat. 541; Pub. L. 103–188, § 2(b), Dec. 14, 1993, 107 Stat. 2256.)
 
 **Editorial Notes**
 
@@ -273,7 +273,7 @@ The failure of egg producers to approve an amendment to any Egg Research and Pro
 
 1980—Pub. L. 96–276 provided that failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate the order.
 
-## § 2709. Termination or suspension of orders
+## § 2709. Termination or suspension of orders
 
 **(a) Authority of Secretary**
 
@@ -287,15 +287,15 @@ The Secretary may conduct a referendum at any time, and shall hold a referendum 
 
 The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-(Pub. L. 93–428, § 10, Oct. 1, 1974, 88 Stat. 1176.)
+(Pub. L. 93–428, § 10, Oct. 1, 1974, 88 Stat. 1176.)
 
-## § 2710. Applicability of provisions to amendments to orders
+## § 2710. Applicability of provisions to amendments to orders
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 93–428, § 11, Oct. 1, 1974, 88 Stat. 1176.)
+(Pub. L. 93–428, § 11, Oct. 1, 1974, 88 Stat. 1176.)
 
-## § 2711. Exempted egg producers and breeding hen flocks; conditions and procedures
+## § 2711. Exempted egg producers and breeding hen flocks; conditions and procedures
 
 **(a) In general** The following shall be exempt from the specific provisions of this chapter under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder:
 
@@ -327,7 +327,7 @@ Ownership of laying hens by a trust or similar entity shall be considered owners
 
 shall be considered as held by the producer.
 
-(Pub. L. 93–428, § 12, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 101–220, § 3(a), Dec. 12, 1989, 103 Stat. 1877; Pub. L. 103–188, § 4, Dec. 14, 1993, 107 Stat. 2257.)
+(Pub. L. 93–428, § 12, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 101–220, § 3(a), Dec. 12, 1989, 103 Stat. 1877; Pub. L. 103–188, § 4, Dec. 14, 1993, 107 Stat. 2257.)
 
 **Editorial Notes**
 
@@ -345,13 +345,13 @@ shall be considered as held by the producer.
 
 **Egg Promotion and Research Order**
 
-Pub. L. 101–220, § 3(b), Dec. 12, 1989, 103 Stat. 1878, provided that:
+Pub. L. 101–220, § 3(b), Dec. 12, 1989, 103 Stat. 1878, provided that:
 
 > **“(1) Amendment.—** The Secretary of Agriculture shall issue an amendment to the egg promotion and research order issued under the Egg Research and Consumer Information Act (7 U.S.C. 2701 et seq.) to implement the amendments made by this section [amending this section]. Such amendment shall be issued after public notice and opportunity for comment in accordance with section 553 of title 5, United States Code, and without regard to sections 556 and 557 of such title. The Secretary shall issue a proposed amendment to such order not later than 30 days after the date of enactment of this Act [Dec. 12, 1989].
 
 > **“(2) Effective date.—** The amendment to the egg promotion and research order required by paragraph (1) shall become effective no later than March 1, 1990, and shall not be subject to a referendum under the Egg Research and Consumer Information Act (7 U.S.C. 2701 et seq.).”
 
-## § 2712. Refund of assessment from Egg Board
+## § 2712. Refund of assessment from Egg Board
 
 **(a) Procedures**
 
@@ -389,7 +389,7 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 **(8)** If the amount in the escrow account required to be established by paragraph (3) is not sufficient to refund the total amount of assessments demanded by all eligible producers under this subsection and the amendment issued pursuant to paragraph (1) is not approved pursuant to a referendum under section 2708 or 2709(b) of this title, the Egg Board shall prorate the amount of such refunds among all eligible producers who demand such refund.
 
-(Pub. L. 93–428, § 13, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 100–575, § 3, Oct. 31, 1988, 102 Stat. 2895.)
+(Pub. L. 93–428, § 13, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 100–575, § 3, Oct. 31, 1988, 102 Stat. 2895.)
 
 **Editorial Notes**
 
@@ -397,15 +397,15 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 1988—Subsec. (a). Pub. L. 100–575 designated existing provisions as subsec. (a), inserted “except as provided in subsection (b) of this section”, and added subsec. (b).
 
-## § 2713. Administrative review of orders; petition; hearing; judicial review
+## § 2713. Administrative review of orders; petition; hearing; judicial review
 
 **(a)** Any person subject to any order may file a written petition with the Secretary, stating that any such order or any provisions of such order or any obligations imposed in connection therewith is not in accordance with law and praying for a modification thereof or to be exempted therefrom. He shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations made by the Secretary. After such hearing, the Secretary shall make a ruling upon the prayer of such petition which shall be final, if in accordance with law.
 
 **(b)** The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to him a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 2714(a) of this title.
 
-(Pub. L. 93–428, § 14, Oct. 1, 1974, 88 Stat. 1177.)
+(Pub. L. 93–428, § 14, Oct. 1, 1974, 88 Stat. 1177.)
 
-## § 2714. Civil enforcement proceedings
+## § 2714. Civil enforcement proceedings
 
 **(a) Enforcement of orders by district court; referral of civil actions to Attorney General**
 
@@ -421,7 +421,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(Pub. L. 93–428, § 15, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 96–276, § 6, June 17, 1980, 94 Stat. 541.)
+(Pub. L. 93–428, § 15, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 96–276, § 6, June 17, 1980, 94 Stat. 541.)
 
 **Editorial Notes**
 
@@ -431,7 +431,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 Subsec. (b). Pub. L. 96–276 substituted provisions authorizing Secretary to assess civil penalty of not less than $500 or more than $5,000 per violation, to issue cease and desist orders for violations of regulations or orders issued by Secretary, and, after review in court of appeals, to assess civil penalty of $500 per offense for failure to abide by duly issued cease and desist order, and authorized actions by Attorney General in appropriate district courts to collect assessed penalties, for provisions authorizing penalties of up to $1,000 per offense for willful violations of this chapter, recoverable in civil action brought by the United States.
 
-## § 2715. Certification of organizations; required contents of report as criteria
+## § 2715. Certification of organizations; required contents of report as criteria
 
 The eligibility of any organization to represent commercial egg producers of any egg producing area of the United States to request the issuance of an order under section 2704 of this title, and to participate in the making of nominations under section 2707(b) of this title shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
 
@@ -449,22 +449,22 @@ The eligibility of any organization to represent commercial egg producers of any
 
 **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter: *Provided, however*, That the primary consideration in determining the eligibility of an organization shall be whether its commercial egg producer membership consists of a substantial number of egg producers who produce a substantial volume of commercial eggs. The Secretary shall certify any organization which he finds to be eligible under this section and his determination as to eligibility shall be final. Where more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under section 2707(b) of this title.
 
-(Pub. L. 93–428, § 16, Oct. 1, 1974, 88 Stat. 1178.)
+(Pub. L. 93–428, § 16, Oct. 1, 1974, 88 Stat. 1178.)
 
-## § 2716. Regulations
+## § 2716. Regulations
 
 The Secretary is authorized to make regulations with force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-(Pub. L. 93–428, § 17, Oct. 1, 1974, 88 Stat. 1178.)
+(Pub. L. 93–428, § 17, Oct. 1, 1974, 88 Stat. 1178.)
 
-## § 2717. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process
+## § 2717. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process
 
 The Secretary may make such investigations as he deems necessary for the effective carrying out of his responsibilities under this chapter or to determine whether an egg producer, processor, or other seller of commercial eggs or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provisions of this chapter, or of any order, or rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, including an egg producer, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Secretary, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
 
-(Pub. L. 93–428, § 18, Oct. 1, 1974, 88 Stat. 1178.)
+(Pub. L. 93–428, § 18, Oct. 1, 1974, 88 Stat. 1178.)
 
-## § 2718. Authorization of appropriations
+## § 2718. Authorization of appropriations
 
 There is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Egg Board in administering any provisions of any order issued pursuant to the terms of this chapter.
 
-(Pub. L. 93–428, § 20, Oct. 1, 1974, 88 Stat. 1179.)
+(Pub. L. 93–428, § 20, Oct. 1, 1974, 88 Stat. 1179.)

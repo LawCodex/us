@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–210, title III, § 302(b), Jan. 2, 2025, 138 Stat. 2791, added items 6307 to 6309 and struck out former items 6307 “Outreach for eligible dependents” and 6308 “Biennial report to Congress”.
+2025—Pub. L. 118–210, title III, § 302(b), Jan. 2, 2025, 138 Stat. 2791, added items 6307 to 6309 and struck out former items 6307 “Outreach for eligible dependents” and 6308 “Biennial report to Congress”.
 
-2022—Pub. L. 117–205, § 2(c), Oct. 17, 2022, 136 Stat. 2233, added subchapter I heading and added item for subchapter II and item 6320.
+2022—Pub. L. 117–205, § 2(c), Oct. 17, 2022, 136 Stat. 2233, added subchapter I heading and added item for subchapter II and item 6320.
 
 ## SUBCHAPTER I—OUTREACH SERVICES PROGRAM
 
@@ -29,9 +29,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–205, § 2(b)(1), Oct. 17, 2022, 136 Stat. 2233, inserted subchapter heading.
+2022—Pub. L. 117–205, § 2(b)(1), Oct. 17, 2022, 136 Stat. 2233, inserted subchapter heading.
 
-### § 6301. Purpose; definitions
+### § 6301. Purpose; definitions
 
 **(a) Purpose.—** The Congress declares that—
 
@@ -47,7 +47,7 @@ retrieved: 2026-10-11
 
 **(3)** the term “eligible dependent” means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, air, or space service.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 407; amended Pub. L. 110–181, div. A, title XVII, § 1710, Jan. 28, 2008, 122 Stat. 494; Pub. L. 116–283, div. A, title IX, § 926(a)(58), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 407; amended Pub. L. 110–181, div. A, title XVII, § 1710, Jan. 28, 2008, 122 Stat. 494; Pub. L. 116–283, div. A, title IX, § 926(a)(58), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -61,11 +61,11 @@ Provisions similar to those in this section were contained in section 7721 of th
 
 2021—Subsecs. (a)(1), (b)(3). Pub. L. 116–283 “air, or space service” for “or air service”.
 
-2008—Subsec. (a)(1). Pub. L. 110–181, § 1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
+2008—Subsec. (a)(1). Pub. L. 110–181, § 1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
 
-Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-### § 6302. Biennial plan
+### § 6302. Biennial plan
 
 **(a) Biennial Plan Required.—** The Secretary shall, during the first nine months of every odd-numbered year, prepare a biennial plan for the outreach activities of the Department for the two-fiscal-year period beginning on October 1 of that year.
 
@@ -87,9 +87,9 @@ Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated fo
 
 **(5)** Other individuals and organizations that the Secretary considers appropriate.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 408.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 408.)
 
-### § 6303. Outreach services
+### § 6303. Outreach services
 
 **(a) Requirement To Provide Services.—** In carrying out the purposes of this subchapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
 
@@ -109,7 +109,7 @@ Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated fo
 
 **(e) Assignment of Employees.—** In carrying out this section, the Secretary shall assign such employees as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 408; amended Pub. L. 116–283, div. A, title IX, § 926(a)(59), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 408; amended Pub. L. 116–283, div. A, title IX, § 926(a)(59), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Provisions similar to those in this section were contained in section 7722 of th
 
 **Improvements to Veterans Justice Outreach Program**
 
-Pub. L. 117–328, div. V, title III, § 302, Dec. 29, 2022, 136 Stat. 5506, provided that:
+Pub. L. 117–328, div. V, title III, § 302, Dec. 29, 2022, 136 Stat. 5506, provided that:
 
 > **“(a) Outreach Requirement.—** The Secretary of Veterans Affairs shall conduct outreach regarding the Veterans Justice Outreach Program to justice-involved veterans, military and veterans service organizations, and relevant stakeholders in the criminal justice community, including officials from local law enforcement, court, and jail systems and others as determined appropriate by the Secretary. Such outreach—
 
@@ -227,7 +227,7 @@ Pub. L. 117–328, div. V, title III, § 302, Dec. 29, 2022, 136 Stat. 5506, p
 
 **Fact Sheets**
 
-Pub. L. 117–62, § 2, Nov. 22, 2021, 135 Stat. 1482, provided that:
+Pub. L. 117–62, § 2, Nov. 22, 2021, 135 Stat. 1482, provided that:
 
 > **“(a) Languages.—** The Secretary of Veterans Affairs shall make available versions of all fact sheets of the Department of Veterans Affairs in—
 
@@ -255,11 +255,11 @@ Pub. L. 117–62, § 2, Nov. 22, 2021, 135 Stat. 1482, provided that:
 
 **Continuation of Women’s Health Transition Training Program of Department of Veterans Affairs**
 
-Pub. L. 116–315, title III, § 3005(a), Jan. 5, 2021, 134 Stat. 4993, provided that: “The Secretary of Veterans Affairs shall carry out the Women’s Health Transition Training program of the Department of Veterans Affairs (in this section [remainder of section 3005 of Pub. L. 116–315 not classified to the Code] referred to as the ‘Program’) until at least one year after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title III, § 3005(a), Jan. 5, 2021, 134 Stat. 4993, provided that: “The Secretary of Veterans Affairs shall carry out the Women’s Health Transition Training program of the Department of Veterans Affairs (in this section [remainder of section 3005 of Pub. L. 116–315 not classified to the Code] referred to as the ‘Program’) until at least one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
 **Pilot Program on Assisting Veterans Who Experience Intimate Partner Violence or Sexual Assault**
 
-Pub. L. 116–315, title V, § 5304, Jan. 5, 2021, 134 Stat. 5041, provided that:
+Pub. L. 116–315, title V, § 5304, Jan. 5, 2021, 134 Stat. 5041, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of assisting former members of the Armed Forces who have experienced or are experiencing intimate partner violence or sexual assault in accessing benefits from the Department of Veterans Affairs, including coordinating access to medical treatment centers, housing assistance, and other benefits from the Department.
 
@@ -337,7 +337,7 @@ Pub. L. 116–315, title V, § 5304, Jan. 5, 2021, 134 Stat. 5041, provided th
 
 **Pilot Program on Information Sharing Between Department of Veterans Affairs and Designated Relatives and Friends of Veterans Regarding Assistance and Benefits Available to the Veterans**
 
-Pub. L. 116–214, title I, § 101, Dec. 5, 2020, 134 Stat. 1027, provided that:
+Pub. L. 116–214, title I, § 101, Dec. 5, 2020, 134 Stat. 1027, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -441,13 +441,13 @@ Pub. L. 116–214, title I, § 101, Dec. 5, 2020, 134 Stat. 1027, provided tha
 
 **Expansion of Capabilities of Women Veterans Call Center**
 
-Pub. L. 116–315, title V, § 5109, Jan. 5, 2021, 134 Stat. 5033, provided that: “The Secretary of Veterans Affairs shall enhance the capabilities of the women veterans call center of the Department of Veterans Affairs to respond to requests by women veterans for assistance with accessing health care and benefits furnished under the laws administered by the Secretary.”
+Pub. L. 116–315, title V, § 5109, Jan. 5, 2021, 134 Stat. 5033, provided that: “The Secretary of Veterans Affairs shall enhance the capabilities of the women veterans call center of the Department of Veterans Affairs to respond to requests by women veterans for assistance with accessing health care and benefits furnished under the laws administered by the Secretary.”
 
-Pub. L. 116–171, title VI, § 601, Oct. 17, 2020, 134 Stat. 824, provided that: “The Secretary of Veterans Affairs shall expand the capabilities of the Women Veterans Call Center of the Department of Veterans Affairs to include a text messaging capability.”
+Pub. L. 116–171, title VI, § 601, Oct. 17, 2020, 134 Stat. 824, provided that: “The Secretary of Veterans Affairs shall expand the capabilities of the Women Veterans Call Center of the Department of Veterans Affairs to include a text messaging capability.”
 
 **Requirement for Department of Veterans Affairs Internet Website To Provide Information on Services Available to Women Veterans**
 
-Pub. L. 116–171, title VI, § 602, Oct. 17, 2020, 134 Stat. 824, provided that:
+Pub. L. 116–171, title VI, § 602, Oct. 17, 2020, 134 Stat. 824, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall survey the internet websites and information resources of the Department of Veterans Affairs in effect on the day before the date of the enactment of this Act [Oct. 17, 2020] and publish an internet website that serves as a centralized source for the provision to women veterans of information about the benefits and services available to them under laws administered by the Secretary.
 
@@ -559,7 +559,7 @@ Pub. L. 115–240, Sept. 17, 2018, 132 Stat. 2888, provided that:
 
 **Outreach Program to Veterans in Rural Areas**
 
-Pub. L. 109–461, title II, § 213, Dec. 22, 2006, 120 Stat. 3422, provided that:
+Pub. L. 109–461, title II, § 213, Dec. 22, 2006, 120 Stat. 3422, provided that:
 
 > **“(a) Program.—** The Secretary of Veterans Affairs shall conduct an extensive outreach program to identify and provide information to veterans who served in the theater of operations for Operation Iraqi Freedom or Operation Enduring Freedom and who reside in rural communities in order to enroll those veterans in the health-care system of the Department of Veterans Affairs during the period when they are eligible for such enrollment.
 
@@ -567,7 +567,7 @@ Pub. L. 109–461, title II, § 213, Dec. 22, 2006, 120 Stat. 3422, provided t
 
 **Information To Assist Veterans Receiving Education Benefits**
 
-Pub. L. 101–237, title IV, § 421, Dec. 18, 1989, 103 Stat. 2088, provided that:
+Pub. L. 101–237, title IV, § 421, Dec. 18, 1989, 103 Stat. 2088, provided that:
 
 > **“(a) In General.—** For the purpose of assisting individuals receiving education benefits from the Department of Veterans Affairs, the Secretary of Veterans Affairs shall prepare, and update periodically, a document containing a detailed description of the benefits, limitations, procedures, requirements, and other important aspects of the education programs administered by the Department.
 
@@ -583,7 +583,7 @@ Pub. L. 101–237, title IV, § 421, Dec. 18, 1989, 103 Stat. 2088, provided t
 
 **Outreach Services**
 
-Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, as amended by Pub. L. 102–4, § 4, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–83, § 6(k)(2), Aug. 6, 1991, 105 Stat. 409, provided that:
+Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, as amended by Pub. L. 102–4, § 4, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–83, § 6(k)(2), Aug. 6, 1991, 105 Stat. 409, provided that:
 
 > **“(a) Ongoing Outreach Program.—**
 
@@ -597,7 +597,7 @@ Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, 
 
 > **“(b) Information in Agent Orange Registry.—** The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information contained in the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased health risk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk.”
 
-### § 6304. Veterans assistance offices
+### § 6304. Veterans assistance offices
 
 **(a) In General.—** The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this subchapter. The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense and taking into account recommendations, if any, of the Secretary of Labor, determines to be necessary to carry out such purposes.
 
@@ -609,7 +609,7 @@ Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, 
 
 **(3)** the necessity of providing appropriate outreach services in less populated areas.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 116–283, div. A, title IX, § 926(a)(60), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 116–283, div. A, title IX, § 926(a)(60), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -623,7 +623,7 @@ Provisions similar to those in this section were contained in section 7723 of th
 
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-### § 6305. Outstationing of counseling and outreach personnel
+### § 6305. Outstationing of counseling and outreach personnel
 
 The Secretary may station employees of the Department at locations other than Department offices, including educational institutions, to provide—
 
@@ -631,7 +631,7 @@ The Secretary may station employees of the Department at locations other than De
 
 **(2)** outreach services under this subchapter.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -643,7 +643,7 @@ Provisions similar to those in this section were contained in section 7724 of th
 
 2022—Par. (2). Pub. L. 117–205 substituted “this subchapter” for “this chapter”.
 
-### § 6306. Use of other agencies
+### § 6306. Use of other agencies
 
 **(a)** In carrying out this subchapter, the Secretary shall arrange with the Secretary of Labor for the State employment service to match the particular qualifications of an eligible veteran or eligible dependent with an appropriate job or job training opportunity, including, where possible, arrangements for outstationing the State employment personnel who provide such assistance at appropriate facilities of the Department.
 
@@ -657,7 +657,7 @@ Provisions similar to those in this section were contained in section 7724 of th
 
 **(f)** In carrying out this subchapter, the Secretary shall conduct and provide for studies, in consultation with appropriate Federal departments and agencies, to determine the most effective program design to carry out the purposes of this subchapter.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 409; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -669,7 +669,7 @@ Provisions similar to those in this section were contained in section 7725 of th
 
 2022—Pub. L. 117–205 substituted “this subchapter” for “this chapter” wherever appearing.
 
-### § 6307. Grants to States and Indian Tribes to improve outreach to veterans
+### § 6307. Grants to States and Indian Tribes to improve outreach to veterans
 
 **(a) Purpose.—** It is the purpose of this section to provide for assistance by the Secretary to States and Indian Tribes to carry out programs that improve covered outreach and assistance to veterans and the spouses, children, and parents of veterans, to ensure that such individuals are fully informed about, and assisted in applying for, any veterans and veterans-related benefits and programs (including veterans programs of a State or Indian Tribe) for which they may be eligible and facilitate opportunities for such individuals to receive competent, qualified services in the preparation, presentation and prosecution of veterans benefits claims.
 
@@ -781,7 +781,7 @@ Provisions similar to those in this section were contained in section 7725 of th
 
 **(5)** The term “Veterans Crisis Line” means the toll-free hotline for veterans established under section 1720F(h) of this title.
 
-(Added Pub. L. 118–210, title III, § 302(a)(2), Jan. 2, 2025, 138 Stat. 2789.)
+(Added Pub. L. 118–210, title III, § 302(a)(2), Jan. 2, 2025, 138 Stat. 2789.)
 
 **Editorial Notes**
 
@@ -789,13 +789,13 @@ Provisions similar to those in this section were contained in section 7725 of th
 
 A prior section 6307 was renumbered section 6308 of this title.
 
-### § 6308. Outreach for eligible dependents
+### § 6308. Outreach for eligible dependents
 
 **(a) Needs of Dependents.—** In carrying out this subchapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
 
 **(b) Information as to Availability of Outreach Services for Dependents.—** The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this subchapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 410, § 6307; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233; renumbered § 6308, Pub. L. 118–210, title III, § 302(a)(1), Jan. 2, 2025, 138 Stat. 2789.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 410, § 6307; amended Pub. L. 117–205, § 2(b)(2), Oct. 17, 2022, 136 Stat. 2233; renumbered § 6308, Pub. L. 118–210, title III, § 302(a)(1), Jan. 2, 2025, 138 Stat. 2789.)
 
 **Editorial Notes**
 
@@ -811,7 +811,7 @@ Provisions similar to those in this section were contained in section 7727 of th
 
 2022—Pub. L. 117–205 substituted “this subchapter” for “this chapter” in subsecs. (a) and (b).
 
-### § 6309. Biennial report to Congress
+### § 6309. Biennial report to Congress
 
 **(a) Report Required.—** The Secretary shall, not later than December 1 of every even-numbered year (beginning in 2008), submit to Congress a report on the outreach activities carried out by the Department.
 
@@ -821,7 +821,7 @@ Provisions similar to those in this section were contained in section 7727 of th
 
 **(2)** Recommendations for the improvement or more effective administration of the outreach activities of the Department.
 
-(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 410, § 6308; renumbered § 6309, Pub. L. 118–210, title III, § 302(a)(1), Jan. 2, 2025, 138 Stat. 2789.)
+(Added Pub. L. 109–233, title IV, § 402(a), June 15, 2006, 120 Stat. 410, § 6308; renumbered § 6309, Pub. L. 118–210, title III, § 302(a)(1), Jan. 2, 2025, 138 Stat. 2789.)
 
 **Editorial Notes**
 
@@ -835,7 +835,7 @@ Provisions similar to those in this section were contained in section 7726 of th
 
 ## SUBCHAPTER II—OTHER OUTREACH PROGRAMS AND ACTIVITIES
 
-### § 6320. Solid Start program
+### § 6320. Solid Start program
 
 **(a) In General.—** The Secretary shall carry out a program, to be known as the “Solid Start program”, under which the Secretary shall—
 
@@ -879,10 +879,10 @@ Provisions similar to those in this section were contained in section 7726 of th
 
 **(B)** The term “veterans service organization” means an organization recognized by the Secretary for the representation of veterans under section 5902 of this title.
 
-(Added Pub. L. 117–205, § 2(a), Oct. 17, 2022, 136 Stat. 2232; amended Pub. L. 118–210, title I, § 102(b), Jan. 2, 2025, 138 Stat. 2710.)
+(Added Pub. L. 117–205, § 2(a), Oct. 17, 2022, 136 Stat. 2232; amended Pub. L. 118–210, title I, § 102(b), Jan. 2, 2025, 138 Stat. 2710.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(2)(A). Pub. L. 118–210 inserted “, including how to enroll in the system of annual patient enrollment established and operated under section 1705 of this title and the ability to seek care and services under sections 1703 and 1710 of this title” before “; and”.
+2025—Subsec. (a)(2)(A). Pub. L. 118–210 inserted “, including how to enroll in the system of annual patient enrollment established and operated under section 1705 of this title and the ability to seek care and services under sections 1703 and 1710 of this title” before “; and”.

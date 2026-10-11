@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 45, consisting of sections 4986 to 4998, related to windfall profit tax on domestic crude oil, prior to repeal by Pub. L. 100–418, title I, § 1941(a), (c), Aug. 23, 1988, 102 Stat. 1322, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+A prior chapter 45, consisting of sections 4986 to 4998, related to windfall profit tax on domestic crude oil, prior to repeal by Pub. L. 100–418, title I, § 1941(a), (c), Aug. 23, 1988, 102 Stat. 1322, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
-## § 4985. Stock compensation of insiders in expatriated corporations
+## § 4985. Stock compensation of insiders in expatriated corporations
 
 **(a) Imposition of tax** In the case of an individual who is a disqualified individual with respect to any expatriated corporation, there is hereby imposed on such person a tax equal to—
 
@@ -117,7 +117,7 @@ For purposes of subtitle F, any tax imposed by this section shall be treated as 
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, § 802(a), Oct. 22, 2004, 118 Stat. 1566; amended Pub. L. 115–97, title I, § 13604(a), Dec. 22, 2017, 131 Stat. 2165.)
+(Added Pub. L. 108–357, title VIII, § 802(a), Oct. 22, 2004, 118 Stat. 1566; amended Pub. L. 115–97, title I, § 13604(a), Dec. 22, 2017, 131 Stat. 2165.)
 
 **Editorial Notes**
 
@@ -127,33 +127,33 @@ Section 16(a) of the Securities Exchange Act of 1934, referred to in subsec. (e)
 
 **Prior Provisions**
 
-Prior sections 4986 to 4998 were repealed by Pub. L. 100–418, title I, § 1941(a), (c), Aug. 23, 1988, 102 Stat. 1322, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+Prior sections 4986 to 4998 were repealed by Pub. L. 100–418, title I, § 1941(a), (c), Aug. 23, 1988, 102 Stat. 1322, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
-Section 4986, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 230, related to imposition of windfall profit tax on domestic crude oil.
+Section 4986, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 230, related to imposition of windfall profit tax on domestic crude oil.
 
-Section 4987, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 230; amended Pub. L. 97–34, title VI, § 602(a), Aug. 13, 1981, 95 Stat. 337; Pub. L. 98–369, div. A, title I, § 25(a), July 18, 1984, 98 Stat. 506, related to amount of windfall profit tax on domestic crude oil.
+Section 4987, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 230; amended Pub. L. 97–34, title VI, § 602(a), Aug. 13, 1981, 95 Stat. 337; Pub. L. 98–369, div. A, title I, § 25(a), July 18, 1984, 98 Stat. 506, related to amount of windfall profit tax on domestic crude oil.
 
-Section 4988, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 231; amended Pub. L. 97–448, title II, § 201(a), (h)(1)(D), Jan. 12, 1983, 96 Stat. 2391, 2394; Pub. L. 99–514, title XIII, § 1301(j)(4), Oct. 22, 1986, 100 Stat. 2657, related to windfall profit and removal price.
+Section 4988, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 231; amended Pub. L. 97–448, title II, § 201(a), (h)(1)(D), Jan. 12, 1983, 96 Stat. 2391, 2394; Pub. L. 99–514, title XIII, § 1301(j)(4), Oct. 22, 1986, 100 Stat. 2657, related to windfall profit and removal price.
 
-Section 4989, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 233; amended Pub. L. 97–448, title II, § 201(b), Jan. 12, 1983, 96 Stat. 2392, related to adjusted base price for purposes of windfall profit tax on domestic crude oil.
+Section 4989, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 233; amended Pub. L. 97–448, title II, § 201(b), Jan. 12, 1983, 96 Stat. 2392, related to adjusted base price for purposes of windfall profit tax on domestic crude oil.
 
-Section 4990, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 234, related to phaseout of windfall profit tax on domestic crude oil.
+Section 4990, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 234, related to phaseout of windfall profit tax on domestic crude oil.
 
-Section 4991, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 235; amended Pub. L. 97–34, title VI, §§ 601(b)(1), 603(a), Aug. 13, 1981, 95 Stat. 336, 338; Pub. L. 97–448, title II, § 201(c), Jan. 12, 1983, 96 Stat. 2392; Pub. L. 99–514, title XVIII, § 1879(h)(1), Oct. 22, 1986, 100 Stat. 2907, related to taxable crude oil and categories of oil.
+Section 4991, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 235; amended Pub. L. 97–34, title VI, §§ 601(b)(1), 603(a), Aug. 13, 1981, 95 Stat. 336, 338; Pub. L. 97–448, title II, § 201(c), Jan. 12, 1983, 96 Stat. 2392; Pub. L. 99–514, title XVIII, § 1879(h)(1), Oct. 22, 1986, 100 Stat. 2907, related to taxable crude oil and categories of oil.
 
-Section 4992, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 236; amended Pub. L. 97–34, title VI, § 603(c), Aug. 13, 1981, 95 Stat. 338; Pub. L. 97–354, § 3(b)(2), Oct. 19, 1982, 96 Stat. 1688; Pub. L. 97–448, title II, § 201(d), Jan. 12, 1983, 96 Stat. 2392, related to independent producer oil.
+Section 4992, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 236; amended Pub. L. 97–34, title VI, § 603(c), Aug. 13, 1981, 95 Stat. 338; Pub. L. 97–354, § 3(b)(2), Oct. 19, 1982, 96 Stat. 1688; Pub. L. 97–448, title II, § 201(d), Jan. 12, 1983, 96 Stat. 2392, related to independent producer oil.
 
-Section 4993, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 239; amended Pub. L. 97–448, title II, § 201(e), Jan. 12, 1983, 96 Stat. 2392, related to incremental tertiary oil.
+Section 4993, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 239; amended Pub. L. 97–448, title II, § 201(e), Jan. 12, 1983, 96 Stat. 2392, related to incremental tertiary oil.
 
-Section 4994, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§ 601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, § 291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, § 106(a)(2), (4)(B), (b), title II, § 201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
+Section 4994, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§ 601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, § 291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, § 106(a)(2), (4)(B), (b), title II, § 201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
 
-Section 4995, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 244; amended Pub. L. 97–34, title VI, § 601(b)(3), Aug. 13, 1981, 95 Stat. 337; Pub. L. 97–448, title II, § 201(g), Jan. 12, 1983, 96 Stat. 2393, related to withholding and depository requirements bearing on the windfall profit tax.
+Section 4995, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 244; amended Pub. L. 97–34, title VI, § 601(b)(3), Aug. 13, 1981, 95 Stat. 337; Pub. L. 97–448, title II, § 201(g), Jan. 12, 1983, 96 Stat. 2393, related to withholding and depository requirements bearing on the windfall profit tax.
 
-Section 4996, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 247; amended Pub. L. 97–248, title II, § 284(a), Sept. 3, 1982, 96 Stat. 569; Pub. L. 97–354, § 3(b)(1), Oct. 19, 1982, 96 Stat. 1688; Pub. L. 97–448, title II, § 201(h)(1)(A)–(C), (2), Jan. 12, 1983, 96 Stat. 2393–2395, provided for other definitions and special rules bearing on the windfall profit tax.
+Section 4996, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 247; amended Pub. L. 97–248, title II, § 284(a), Sept. 3, 1982, 96 Stat. 569; Pub. L. 97–354, § 3(b)(1), Oct. 19, 1982, 96 Stat. 1688; Pub. L. 97–448, title II, § 201(h)(1)(A)–(C), (2), Jan. 12, 1983, 96 Stat. 2393–2395, provided for other definitions and special rules bearing on the windfall profit tax.
 
-Section 4997, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 249; amended Pub. L. 97–448, title II, § 201(i)(1), Jan. 12, 1983, 96 Stat. 2395, related to records and information, and regulations, bearing on the windfall profit.
+Section 4997, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 249; amended Pub. L. 97–448, title II, § 201(i)(1), Jan. 12, 1983, 96 Stat. 2395, related to records and information, and regulations, bearing on the windfall profit.
 
-Section 4998, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 250, related to cross references.
+Section 4998, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 250, related to cross references.
 
 **Amendments**
 
@@ -163,8 +163,8 @@ Section 4998, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13604(b), Dec. 22, 2017, 131 Stat. 2165, provided that: “The amendment made by this section [amending this section] shall apply to corporations first becoming expatriated corporations (as defined in section 4985 of the Internal Revenue Code of 1986) after the date of enactment of this Act [Dec. 22, 2017].”
+Pub. L. 115–97, title I, § 13604(b), Dec. 22, 2017, 131 Stat. 2165, provided that: “The amendment made by this section [amending this section] shall apply to corporations first becoming expatriated corporations (as defined in section 4985 of the Internal Revenue Code of 1986) after the date of enactment of this Act [Dec. 22, 2017].”
 
 **Effective Date**
 
-Pub. L. 108–357, title VIII, § 802(d), Oct. 22, 2004, 118 Stat. 1568, provided that: “The amendments made by this section [enacting this chapter and amending sections 162, 275, and 3121 of this title] shall take effect on March 4, 2003; except that periods before such date shall not be taken into account in applying the periods in subsections (a) and (e)(1) of section 4985 of the Internal Revenue Code of 1986, as added by this section.”
+Pub. L. 108–357, title VIII, § 802(d), Oct. 22, 2004, 118 Stat. 1568, provided that: “The amendments made by this section [enacting this chapter and amending sections 162, 275, and 3121 of this title] shall take effect on March 4, 2003; except that periods before such date shall not be taken into account in applying the periods in subsections (a) and (e)(1) of section 4985 of the Internal Revenue Code of 1986, as added by this section.”

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 383 “LOAN GUARANTEE PROGRAMS”, consisting of reserved section 4861, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1873(a)(1), Jan. 1, 2021, 134 Stat. 4289.
+A prior chapter 383 “LOAN GUARANTEE PROGRAMS”, consisting of reserved section 4861, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1873(a)(1), Jan. 1, 2021, 134 Stat. 4289.
 
-## § 4831. Defense dual-use critical technology program
+## § 4831. Defense dual-use critical technology program
 
 **(a) Establishment of Program.—** The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 4811(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 4021 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
@@ -55,7 +55,7 @@ A prior chapter 383 “LOAN GUARANTEE PROGRAMS”, consisting of reserved sectio
 
 **(f) Regulations.—** The Secretary of Defense shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4221(a), Oct. 23, 1992, 106 Stat. 2677, § 2511; amended Pub. L. 103–160, div. A, title XIII, §§ 1315(a), 1317(c), Nov. 30, 1993, 107 Stat. 1787, 1789; Pub. L. 103–337, div. A, title XI, § 1115(a), Oct. 5, 1994, 108 Stat. 2868; Pub. L. 104–106, div. A, title X, § 1081(c), Feb. 10, 1996, 110 Stat. 452; renumbered § 4831 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(1), Jan. 1, 2021, 134 Stat. 4282, 4283; Pub. L. 117–263, div. A, title X, § 1081(a)(6), Dec. 23, 2022, 136 Stat. 2797.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4221(a), Oct. 23, 1992, 106 Stat. 2677, § 2511; amended Pub. L. 103–160, div. A, title XIII, §§ 1315(a), 1317(c), Nov. 30, 1993, 107 Stat. 1787, 1789; Pub. L. 103–337, div. A, title XI, § 1115(a), Oct. 5, 1994, 108 Stat. 2868; Pub. L. 104–106, div. A, title X, § 1081(c), Feb. 10, 1996, 110 Stat. 452; renumbered § 4831 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(1), Jan. 1, 2021, 134 Stat. 4282, 4283; Pub. L. 117–263, div. A, title X, § 1081(a)(6), Dec. 23, 2022, 136 Stat. 2797.)
 
 **Editorial Notes**
 
@@ -63,25 +63,25 @@ A prior chapter 383 “LOAN GUARANTEE PROGRAMS”, consisting of reserved sectio
 
 A prior section 4831 was renumbered section 7831 of this title.
 
-Provisions similar to those in this section were contained in section 2523 of this title, prior to repeal by Pub. L. 102–484, § 4202(a).
+Provisions similar to those in this section were contained in section 2523 of this title, prior to repeal by Pub. L. 102–484, § 4202(a).
 
 **Amendments**
 
 2022—Subsec. (a). Pub. L. 117–263 substituted “section 4021” for “section 4002”.
 
-2021—Pub. L. 116–283, § 1868(b), renumbered section 2511 of this title as this section.
+2021—Pub. L. 116–283, § 1868(b), renumbered section 2511 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1868(c)(1)(A), substituted “section 4811(a)” for “section 2501(a)” and “section 4002” for “section 2371”.
+Subsec. (a). Pub. L. 116–283, § 1868(c)(1)(A), substituted “section 4811(a)” for “section 2501(a)” and “section 4002” for “section 2371”.
 
-Subsec. (e)(1). Pub. L. 116–283, § 1868(c)(1)(B), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (e)(1). Pub. L. 116–283, § 1868(c)(1)(B), substituted “section 4811(a)” for “section 2501(a)”.
 
 1996—Pub. L. 104–106 substituted “program” for “partnerships” in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
 
 1994—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
 
-1993—Subsec. (c). Pub. L. 103–160, § 1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
+1993—Subsec. (c). Pub. L. 103–160, § 1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
 
-Subsec. (e). Pub. L. 103–160, § 1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies” after “partnerships”.
+Subsec. (e). Pub. L. 103–160, § 1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies” after “partnerships”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,7 +91,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Dual-Use Science and Technology Program**
 
-Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846, provided that:
+Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846, provided that:
 
 > **“(a) Funding 1998.—** Of the amounts authorized to be appropriated by section 201 [111 Stat. 1655], $75,000,000 is authorized for dual-use projects.
 
@@ -115,7 +115,7 @@ Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as 
 
 > **“(B)** notifies Congress of the determination and the reasons for the determination.
 
-> **“[(c)** Repealed. Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846.]
+> **“[(c)** Repealed. Pub. L. 115–232, div. A, title VIII, § 811(h), Aug. 13, 2018, 132 Stat. 1846.]
 
 > **“(d) Financial Commitment of Non-Federal Government Participants.—** The total amount of funds provided by a military department for a dual-use project entered into by the Secretary of that department shall not exceed 50 percent of the total cost of the project. In the case of a dual-use project initiated after the date of the enactment of this Act [Nov. 18, 1997], the Secretary may consider in-kind contributions by non-Federal participants only to the extent such contributions constitute 50 percent or less of the share of the project costs by such participants.
 
@@ -157,7 +157,7 @@ Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as 
 
 > **“(2)** The term ‘dual-use project’ means a project under a program of a military department or a defense agency under which research or development of a dual-use technology is carried out and the costs of which are shared by the Department of Defense and non-Government entities.”
 
-## § 4832. Encouragement of technology transfer
+## § 4832. Encouragement of technology transfer
 
 **(a) Encouragement of Transfer Required.—** The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 4811(a) of this title.
 
@@ -173,7 +173,7 @@ Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as 
 
 **(4)** In this subsection, the term “defense laboratory” means any laboratory owned or operated by the Department of Defense that carries out research in fiscal year 1993 in an amount in excess of $50,000,000.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4224(a), Oct. 23, 1992, 106 Stat. 2682, § 2514; amended Pub. L. 104–201, div. A, title VIII, § 829(f), Sept. 23, 1996, 110 Stat. 2614; renumbered § 4832 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(2), Jan. 1, 2021, 134 Stat. 4282, 4283.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4224(a), Oct. 23, 1992, 106 Stat. 2682, § 2514; amended Pub. L. 104–201, div. A, title VIII, § 829(f), Sept. 23, 1996, 110 Stat. 2614; renumbered § 4832 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(2), Jan. 1, 2021, 134 Stat. 4282, 4283.)
 
 **Editorial Notes**
 
@@ -181,13 +181,13 @@ Pub. L. 105–85, div. A, title II, § 203, Nov. 18, 1997, 111 Stat. 1655, as 
 
 A prior section 4832, act Aug. 10, 1956, ch. 1041, 70A Stat. 272, authorized Secretary of the Army to prescribe regulations for the accounting for Army property, prior to repeal by Pub. L. 110–181, div. A, title III, §375(c)(1)(A), Jan. 28, 2008, 122 Stat. 83.
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 2363 of this title prior to repeal by Pub. L. 102–484, §§ 4224(c), 4271(a)(2).
+Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 2363 of this title prior to repeal by Pub. L. 102–484, §§ 4224(c), 4271(a)(2).
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1868(b), renumbered section 2514 of this title as this section.
+2021—Pub. L. 116–283, § 1868(b), renumbered section 2514 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1868(c)(2), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (a). Pub. L. 116–283, § 1868(c)(2), substituted “section 4811(a)” for “section 2501(a)”.
 
 1996—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
 
@@ -203,7 +203,7 @@ Superconductivity research and development activities by Secretary of Defense an
 
 **Pilot Program To Improve Incentives for Technology Transfer From Department of Defense Laboratories**
 
-Pub. L. 115–91, div. A, title II, § 233, Dec. 12, 2017, 131 Stat. 1339, as amended by Pub. L. 116–283, div. A, title II, § 216(c), Jan. 1, 2021, 134 Stat. 3460, provided that:
+Pub. L. 115–91, div. A, title II, § 233, Dec. 12, 2017, 131 Stat. 1339, as amended by Pub. L. 116–283, div. A, title II, § 216(c), Jan. 1, 2021, 134 Stat. 3460, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish a pilot program to assess the feasibility and advisability of distributing royalties and other payments as described in this section. Under the pilot program, except as provided in subsections (b) and (d), any royalties or other payments received by a Federal agency from the licensing and assignment of inventions under agreements entered into by Department of Defense laboratories, and from the licensing of inventions of Department of Defense laboratories, shall be retained by the laboratory which produced the invention and shall be disposed of as follows:
 
@@ -253,7 +253,7 @@ Pub. L. 115–91, div. A, title II, § 233, Dec. 12, 2017, 131 Stat. 1339, as 
 
 **Enhanced Transfer of Technology Developed at Department of Defense Laboratories**
 
-Pub. L. 113–66, div. A, title VIII, § 801, Dec. 26, 2013, 127 Stat. 802, as amended by Pub. L. 114–328, div. A, title VIII, § 818, Dec. 23, 2016, 130 Stat. 2273; Pub. L. 117–81, div. A, title VIII, § 832, Dec. 27, 2021, 135 Stat. 1832, provided that:
+Pub. L. 113–66, div. A, title VIII, § 801, Dec. 26, 2013, 127 Stat. 802, as amended by Pub. L. 114–328, div. A, title VIII, § 818, Dec. 23, 2016, 130 Stat. 2273; Pub. L. 117–81, div. A, title VIII, § 832, Dec. 27, 2021, 135 Stat. 1832, provided that:
 
 > **“(a) Definitions.—** As used in this section:
 
@@ -323,13 +323,13 @@ Pub. L. 113–66, div. A, title VIII, § 801, Dec. 26, 2013, 127 Stat. 802, as
 
 **Technology Transfer to Private Sector**
 
-Pub. L. 100–180, div. A, title II, § 218(c), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
+Pub. L. 100–180, div. A, title II, § 218(c), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
 > **“(1)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance with section 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 [set out as a note under 15 U.S.C. 3710].
 
 > **“(2)** The Secretary of Energy, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that the national laboratories of the Department of Energy participate, to the maximum appropriate extent, in the transfer to the private sector of technology developed under the Department of Defense superconductivity program in the national laboratories.”
 
-## § 4833. Federal Defense Laboratory Diversification Program
+## § 4833. Federal Defense Laboratory Diversification Program
 
 **(a) Establishment of Program.—** The Secretary of Defense shall conduct a program in accordance with this section for the purpose of promoting cooperation between Department of Defense laboratories and industry on research and development of dual-use technologies in order to further the national security objectives set forth in section 4811(a) of this title.
 
@@ -357,31 +357,31 @@ Pub. L. 100–180, div. A, title II, § 218(c), Dec. 4, 1987, 101 Stat. 1053, 
 
 **(g) Regulations.—** The Secretary shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 103–337, div. A, title XI, § 1113(a), Oct. 5, 1994, 108 Stat. 2864, § 2519; amended Pub. L. 104–106, div. A, title X, § 1081(d), Feb. 10, 1996, 110 Stat. 454; renumbered § 4833 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(3), Jan. 1, 2021, 134 Stat. 4282, 4283; Pub. L. 117–263, div. A, title X, § 1081(a)(7), Dec. 23, 2022, 136 Stat. 2797.)
+(Added Pub. L. 103–337, div. A, title XI, § 1113(a), Oct. 5, 1994, 108 Stat. 2864, § 2519; amended Pub. L. 104–106, div. A, title X, § 1081(d), Feb. 10, 1996, 110 Stat. 454; renumbered § 4833 and amended Pub. L. 116–283, div. A, title XVIII, § 1868(b), (c)(3), Jan. 1, 2021, 134 Stat. 4282, 4283; Pub. L. 117–263, div. A, title X, § 1081(a)(7), Dec. 23, 2022, 136 Stat. 2797.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4833, act Aug. 10, 1956, ch. 1041, 70A Stat. 272, related to accountability of Army officers for public money, prior to repeal by Pub. L. 87–480, § 1(2), June 8, 1962, 76 Stat. 94. See section 2773 of this title.
+A prior section 4833, act Aug. 10, 1956, ch. 1041, 70A Stat. 272, related to accountability of Army officers for public money, prior to repeal by Pub. L. 87–480, § 1(2), June 8, 1962, 76 Stat. 94. See section 2773 of this title.
 
 **Amendments**
 
 2022—Subsec. (c)(1). Pub. L. 117–263 substituted “section 4021” for “section 4002”.
 
-2021—Pub. L. 116–283, § 1868(b), renumbered section 2519 of this title as this section.
+2021—Pub. L. 116–283, § 1868(b), renumbered section 2519 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1868(c)(3)(A), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (a). Pub. L. 116–283, § 1868(c)(3)(A), substituted “section 4811(a)” for “section 2501(a)”.
 
-Subsec. (c)(1). Pub. L. 116–283, § 1868(c)(3)(B), substituted “section 4002” for “section 2371”.
+Subsec. (c)(1). Pub. L. 116–283, § 1868(c)(3)(B), substituted “section 4002” for “section 2371”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1868(c)(3)(C), substituted “section 4831(c)(2)” for “section 2511(c)(2)”.
+Subsec. (d)(2). Pub. L. 116–283, § 1868(c)(3)(C), substituted “section 4831(c)(2)” for “section 2511(c)(2)”.
 
-Subsec. (f). Pub. L. 116–283, § 1868(c)(3)(D), substituted “section 4831(e)” for “section 2511(e)”.
+Subsec. (f). Pub. L. 116–283, § 1868(c)(3)(D), substituted “section 4831(e)” for “section 2511(e)”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 1081(d)(1), struck out “referred to in section 2511(b) of this title” after “corporations”.
+1996—Subsec. (b). Pub. L. 104–106, § 1081(d)(1), struck out “referred to in section 2511(b) of this title” after “corporations”.
 
-Subsec. (f). Pub. L. 104–106, § 1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
+Subsec. (f). Pub. L. 104–106, § 1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -389,23 +389,23 @@ Subsec. (f). Pub. L. 104–106, § 1081(d)(2), substituted “section 2511(e)�
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4834. Overseas foreign critical technology monitoring and assessment financial assistance program
+## § 4834. Overseas foreign critical technology monitoring and assessment financial assistance program
 
 **(a) Establishment and Purpose of Program.—** The Secretary of Defense may establish a foreign critical technology monitoring and assessment program. Under the program, the Secretary may enter into cooperative arrangements with one or more eligible not-for-profit organizations in order to provide financial assistance for the establishment of foreign critical technology monitoring and assessment offices in Europe, Pacific Rim countries, and such other countries as the Secretary considers appropriate.
 
 **(b) Eligible Organizations.—** Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).
 
-(Added Pub. L. 102–190, div. A, title VIII, § 821(a), Dec. 5, 1991, 105 Stat. 1431, § 2526; renumbered § 2518, Pub. L. 102–484, div. D, title XLII, § 4228, Oct. 23, 1992, 106 Stat. 2685; renumbered § 4834, Pub. L. 116–283, div. A, title XVIII, § 1868(b), Jan. 1, 2021, 134 Stat. 4282.)
+(Added Pub. L. 102–190, div. A, title VIII, § 821(a), Dec. 5, 1991, 105 Stat. 1431, § 2526; renumbered § 2518, Pub. L. 102–484, div. D, title XLII, § 4228, Oct. 23, 1992, 106 Stat. 2685; renumbered § 4834, Pub. L. 116–283, div. A, title XVIII, § 1868(b), Jan. 1, 2021, 134 Stat. 4282.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4834, acts Aug. 10, 1956, ch. 1041, 70A Stat. 272; Nov. 2, 1966, Pub. L. 89–718, § 31, 80 Stat. 1119, required commissioned officers of the Quartermaster Corps to give fidelity bonds, prior to repeal by Pub. L. 92–310, title II, § 204(a), June 6, 1972, 86 Stat. 202.
+A prior section 4834, acts Aug. 10, 1956, ch. 1041, 70A Stat. 272; Nov. 2, 1966, Pub. L. 89–718, § 31, 80 Stat. 1119, required commissioned officers of the Quartermaster Corps to give fidelity bonds, prior to repeal by Pub. L. 92–310, title II, § 204(a), June 6, 1972, 86 Stat. 202.
 
-A prior section 4835, act Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 103–160, div. A, title III, § 362, Nov. 30, 1993, 107 Stat. 1628, related to actions taken upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Army, prior to repeal by Pub. L. 107–314, div. A, title X, § 1006(c)(1), (d), Dec. 2, 2002, 116 Stat. 2633, applicable with respect to property affected after the effective date of regulations prescribed pursuant to section 2787 of this title.
+A prior section 4835, act Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 103–160, div. A, title III, § 362, Nov. 30, 1993, 107 Stat. 1628, related to actions taken upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Army, prior to repeal by Pub. L. 107–314, div. A, title X, § 1006(c)(1), (d), Dec. 2, 2002, 116 Stat. 2633, applicable with respect to property affected after the effective date of regulations prescribed pursuant to section 2787 of this title.
 
-A prior section 4836, act Aug. 10, 1956, ch. 1041, 70A Stat. 273, prohibited unauthorized disposition of individual equipment by enlisted members of the Army, prior to repeal by Pub. L. 110–181, div. A, title III, § 375(c)(1)(B), Jan. 28, 2008, 122 Stat. 83.
+A prior section 4836, act Aug. 10, 1956, ch. 1041, 70A Stat. 273, prohibited unauthorized disposition of individual equipment by enlisted members of the Army, prior to repeal by Pub. L. 110–181, div. A, title III, § 375(c)(1)(B), Jan. 28, 2008, 122 Stat. 83.
 
 Prior sections 4837 to 4840 were renumbered sections 7837 to 7840 of this title, respectively.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 101—COUNTERING IRAN’S DESTABILIZING ACTIVITIES
 
-## § 9401. Definitions
+## § 9401. Definitions
 
 In this chapter:
 
@@ -51,17 +51,17 @@ The term “knowingly” has the meaning given that term in section 14 of the Ir
 
 **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
-(Pub. L. 115–44, title I, § 102, Aug. 2, 2017, 131 Stat. 888.)
+(Pub. L. 115–44, title I, § 102, Aug. 2, 2017, 131 Stat. 888.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 115–44, § 1(a), Aug. 2, 2017, 131 Stat. 886, provided that: “This Act [enacting this chapter, chapter 102 of this title, sections 8909, 8910, 9221a, 9225, 9241a, and 9241b of this title, and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 8901, 8907, 8908, 8923, 8924, 9202, 9214, 9223, 9228, and 9241 of this title, section 5326 of Title 31, Money and Finance, sections 1223 and 1232 of Title 33, and section 3021 of Title 50, War and National Defense, repealing section 9225 of this title, and enacting provisions set out as notes under this section, sections 9201, 9202, 9214, 9241, and 9501 of this title, and section 3021 of Title 50] may be cited as the ‘Countering America’s Adversaries Through Sanctions Act’.”
+Pub. L. 115–44, § 1(a), Aug. 2, 2017, 131 Stat. 886, provided that: “This Act [enacting this chapter, chapter 102 of this title, sections 8909, 8910, 9221a, 9225, 9241a, and 9241b of this title, and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 8901, 8907, 8908, 8923, 8924, 9202, 9214, 9223, 9228, and 9241 of this title, section 5326 of Title 31, Money and Finance, sections 1223 and 1232 of Title 33, and section 3021 of Title 50, War and National Defense, repealing section 9225 of this title, and enacting provisions set out as notes under this section, sections 9201, 9202, 9214, 9241, and 9501 of this title, and section 3021 of Title 50] may be cited as the ‘Countering America’s Adversaries Through Sanctions Act’.”
 
-Pub. L. 115–44, title I, § 101, Aug. 2, 2017, 131 Stat. 888, provided that: “This title [enacting this chapter] may be cited as the ‘Countering Iran’s Destabilizing Activities Act of 2017’.”
+Pub. L. 115–44, title I, § 101, Aug. 2, 2017, 131 Stat. 888, provided that: “This title [enacting this chapter] may be cited as the ‘Countering Iran’s Destabilizing Activities Act of 2017’.”
 
-## § 9402. Regional strategy for countering conventional and asymmetric Iranian threats in the Middle East and North Africa
+## § 9402. Regional strategy for countering conventional and asymmetric Iranian threats in the Middle East and North Africa
 
 **(a) In general**
 
@@ -111,9 +111,9 @@ The strategy required by subsection (a) shall be submitted in unclassified form,
 
 **(2)** the Committee on Ways and Means, the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
 
-(Pub. L. 115–44, title I, § 103, Aug. 2, 2017, 131 Stat. 889.)
+(Pub. L. 115–44, title I, § 103, Aug. 2, 2017, 131 Stat. 889.)
 
-## § 9403. Imposition of additional sanctions in response to Iran’s ballistic missile program
+## § 9403. Imposition of additional sanctions in response to Iran’s ballistic missile program
 
 **(a) Sense of Congress**
 
@@ -173,7 +173,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 Each report required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
 
-(Pub. L. 115–44, title I, § 104, Aug. 2, 2017, 131 Stat. 890.)
+(Pub. L. 115–44, title I, § 104, Aug. 2, 2017, 131 Stat. 890.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Each report required by paragraph (1) shall be submitted in unclassified form bu
 
 Executive Order No. 13382, referred to in subsec. (a), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Executive Documents**
 
@@ -247,7 +247,7 @@ Sec. 3. The Secretary of State is authorized and directed to publish this memora
 
 Donald J. Trump.
 
-## § 9404. Imposition of terrorism-related sanctions with respect to the IRGC
+## § 9404. Imposition of terrorism-related sanctions with respect to the IRGC
 
 **(a) Findings** Congress makes the following findings:
 
@@ -265,7 +265,7 @@ Beginning on the date that is 90 days after August 2, 2017, the President shall 
 
 The sanctions described in this subsection are sanctions applicable with respect to a foreign person pursuant to Executive Order No. 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism).
 
-(Pub. L. 115–44, title I, § 105, Aug. 2, 2017, 131 Stat. 892.)
+(Pub. L. 115–44, title I, § 105, Aug. 2, 2017, 131 Stat. 892.)
 
 **Editorial Notes**
 
@@ -273,7 +273,7 @@ The sanctions described in this subsection are sanctions applicable with respect
 
 Executive Order No. 13382, referred to in subsec. (a)(1), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (a)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (a)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
 Executive Order No. 13553, referred to in subsec. (a)(1), is Ex. Ord. No. 13553, Sept. 28, 2010, 75 F.R. 60567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
@@ -287,7 +287,7 @@ Executive Order No. 13224, referred to in subsecs. (a)(2) and (c), is Ex. Ord. N
 
 For delegation of functions of President under subsec. (b) of this section to the Secretary of State and the Secretary of the Treasury, see section 1(e)(i) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under section 9403 of this title.
 
-## § 9405. Imposition of additional sanctions with respect to persons responsible for human rights abuses
+## § 9405. Imposition of additional sanctions with respect to persons responsible for human rights abuses
 
 **(a) In general** Not later than 90 days after August 2, 2017, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a list of each person the Secretary determines, based on credible evidence, on or after August 2, 2017—
 
@@ -309,15 +309,15 @@ The President may, in accordance with the International Emergency Economic Power
 
 A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) or any regulation, license, or order issued to carry out paragraph (1) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
-(Pub. L. 115–44, title I, § 106, Aug. 2, 2017, 131 Stat. 893.)
+(Pub. L. 115–44, title I, § 106, Aug. 2, 2017, 131 Stat. 893.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-## § 9406. Enforcement of arms embargos
+## § 9406. Enforcement of arms embargos
 
 **(a) In general** Except as provided in subsection (d), the President shall impose the sanctions described in subsection (b) with respect to any person that the President determines—
 
@@ -349,9 +349,9 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 **(e) State sponsor of terrorism defined** In this section, the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined to be a government that has repeatedly provided support for acts of international terrorism for purposes of—
 
-**(1)** section 4605(j)(1)(A) 1
+**(1)** section 4605(j)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.));
 
@@ -361,15 +361,15 @@ of title 50 (as continued in effect pursuant to the International Emergency Econ
 
 **(4)** any other provision of law.
 
-(Pub. L. 115–44, title I, § 107, Aug. 2, 2017, 131 Stat. 893.)
+(Pub. L. 115–44, title I, § 107, Aug. 2, 2017, 131 Stat. 893.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (b)(1) and (e)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (b)(1) and (e)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 4605(j)(1)(A) of title 50, referred to in subsec. (e)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(j)(1)(A) of title 50, referred to in subsec. (e)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Executive Documents**
 
@@ -377,7 +377,7 @@ Section 4605(j)(1)(A) of title 50, referred to in subsec. (e)(1), was repealed b
 
 For delegation of functions of President under this section, see Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out as a note under section 9403 of this title.
 
-## § 9407. Review of applicability of sanctions relating to Iran’s support for terrorism and its ballistic missile program
+## § 9407. Review of applicability of sanctions relating to Iran’s support for terrorism and its ballistic missile program
 
 **(a) In general** Not later than 5 years after August 2, 2017, the President shall conduct a review of all persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury for activities relating to Iran—
 
@@ -399,7 +399,7 @@ For delegation of functions of President under this section, see Memorandum of P
 
 **(2)** exercise the waiver authority provided under section 9411 of this title.
 
-(Pub. L. 115–44, title I, § 108, Aug. 2, 2017, 131 Stat. 894.)
+(Pub. L. 115–44, title I, § 108, Aug. 2, 2017, 131 Stat. 894.)
 
 **Editorial Notes**
 
@@ -415,7 +415,7 @@ Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord
 
 For delegation of functions of President under this section, see Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out as a note under section 9403 of this title.
 
-## § 9408. Report on coordination of sanctions between the United States and the European Union
+## § 9408. Report on coordination of sanctions between the United States and the European Union
 
 **(a) In general** Not later than 180 days after August 2, 2017, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report that includes the following:
 
@@ -437,7 +437,7 @@ For delegation of functions of President under this section, see Memorandum of P
 
 The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
 
-(Pub. L. 115–44, title I, § 109, Aug. 2, 2017, 131 Stat. 895.)
+(Pub. L. 115–44, title I, § 109, Aug. 2, 2017, 131 Stat. 895.)
 
 **Executive Documents**
 
@@ -445,7 +445,7 @@ The report required by subsection (a) shall be submitted in unclassified form bu
 
 For delegation of functions of President under this section to the Secretary of State, in consultation with the Secretary of the Treasury, see section 1(b)(v) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under section 9403 of this title.
 
-## § 9409. Report on United States citizens detained by Iran
+## § 9409. Report on United States citizens detained by Iran
 
 **(a) In general** Not later than 90 days after August 2, 2017, and every 180 days thereafter, the President shall submit to the appropriate congressional committees and leadership a report on United States citizens, including United States citizens who are also citizens of other countries, detained by Iran or groups supported by Iran that includes—
 
@@ -463,7 +463,7 @@ The report required by subsection (a) shall be submitted in unclassified form, b
 
 **(2)** the Committee on Ways and Means, the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
 
-(Pub. L. 115–44, title I, § 110, Aug. 2, 2017, 131 Stat. 896.)
+(Pub. L. 115–44, title I, § 110, Aug. 2, 2017, 131 Stat. 896.)
 
 **Executive Documents**
 
@@ -471,7 +471,7 @@ The report required by subsection (a) shall be submitted in unclassified form, b
 
 For delegation of functions of President under this section to the Secretary of State, see section 1(a) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under section 9403 of this title.
 
-## § 9410. Exceptions for national security and humanitarian assistance; rule of construction
+## § 9410. Exceptions for national security and humanitarian assistance; rule of construction
 
 **(a) In general** The following activities shall be exempt from sanctions under sections 9403, 9404, 9405, and 9406 of this title:
 
@@ -497,9 +497,9 @@ The term “agricultural commodity” has the meaning given that term in section
 
 **(2) Good**
 
-The term “good” has the meaning given that term in section 4618 1
+The term “good” has the meaning given that term in section 4618 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -511,19 +511,19 @@ The term “medical device” has the meaning given the term “device” in sec
 
 The term “medicine” has the meaning given the term “drug” in section 321 of title 21.
 
-(Pub. L. 115–44, title I, § 111, Aug. 2, 2017, 131 Stat. 896.)
+(Pub. L. 115–44, title I, § 111, Aug. 2, 2017, 131 Stat. 896.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 115–44, known as the Countering Iran’s Destabilizing Activities Act of 2017, to reflect the probable intent of Congress.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 4618 of title 50, referred to in subsec. (d)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618 of title 50, referred to in subsec. (d)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Executive Documents**
 
@@ -531,7 +531,7 @@ Section 4618 of title 50, referred to in subsec. (d)(2), was repealed by Pub. L.
 
 For delegation of functions of President under subsec. (b) of this section to the Secretary of State and the Secretary of the Treasury, see section 1(e)(iii) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50052, set out in a note under section 9403 of this title.
 
-## § 9411. Presidential waiver authority
+## § 9411. Presidential waiver authority
 
 **(a) Case-by-case waiver authority**
 
@@ -561,7 +561,7 @@ The renewal authority provided under paragraph (2) may be exercised for addition
 
 If the President submits a report under subsection (a) in connection with a waiver of sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title with respect to a person, or the renewal of such a waiver, the President shall not be required to impose or maintain sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title, as applicable, with respect to the person described in the report during the 30-day period referred to in subsection (a).
 
-(Pub. L. 115–44, title I, § 112, Aug. 2, 2017, 131 Stat. 897.)
+(Pub. L. 115–44, title I, § 112, Aug. 2, 2017, 131 Stat. 897.)
 
 **Executive Documents**
 
@@ -569,9 +569,9 @@ If the President submits a report under subsection (a) in connection with a waiv
 
 For delegation of functions of President under this section to the Secretary of State, in consultation with the Secretary of the Treasury, see section 1(b)(vi) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under section 9403 of this title.
 
-## § 9412. Report on Iranian expenditures supporting foreign military and terrorist activities
+## § 9412. Report on Iranian expenditures supporting foreign military and terrorist activities
 
-**(a) 1 [footnote: 1 So in original. There is no subsec. (b).] Report**
+**(a) 1 [footnote: 1 So in original. There is no subsec. (b).] Report**
 
 **(1) Report required** Not later than 90 days after December 20, 2019, the Director of National Intelligence shall submit to the congressional intelligence committees a report describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
 
@@ -591,13 +591,13 @@ For delegation of functions of President under this section to the Secretary of 
 
 **(2) Form**
 
-The report required under subsection (a) 1
+The report required under subsection (a) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1)”.
+<sup>1</sup> So in original. Probably should be “paragraph (1)”.
 
 shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 116–92, div. E, title LXVII, § 6705, Dec. 20, 2019, 133 Stat. 2224; Pub. L. 118–159, div. F, title LXIX, § 6901(a), Dec. 23, 2024, 138 Stat. 2516; Pub. L. 119–60, div. F, title LXVIII, § 6801(b)(4), Dec. 18, 2025, 139 Stat. 1653.)
+(Pub. L. 116–92, div. E, title LXVII, § 6705, Dec. 20, 2019, 133 Stat. 2224; Pub. L. 118–159, div. F, title LXIX, § 6901(a), Dec. 23, 2024, 138 Stat. 2516; Pub. L. 119–60, div. F, title LXVIII, § 6801(b)(4), Dec. 18, 2025, 139 Stat. 1653.)
 
 **Editorial Notes**
 
@@ -607,17 +607,17 @@ Section was enacted as part of the Damon Paul Nelson and Matthew Young Pollard I
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 6801(b)(4)(A), struck out “and annual briefing” before “on Iranian expenditures” in section catchline.
+2025—Pub. L. 119–60, § 6801(b)(4)(A), struck out “and annual briefing” before “on Iranian expenditures” in section catchline.
 
-Subsec. (b). Pub. L. 119–60, § 6801(b)(4)(B), struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Following the submission of the report under subsection (a), the Director shall annually provide a briefing to the congressional intelligence committees on the information described in such subsection.”
+Subsec. (b). Pub. L. 119–60, § 6801(b)(4)(B), struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Following the submission of the report under subsection (a), the Director shall annually provide a briefing to the congressional intelligence committees on the information described in such subsection.”
 
-2024—Subsec. (a)(1). Pub. L. 118–159 struck out “, and not less frequently than once each year thereafter provide a briefing to Congress,” after “a report” in introductory provisions.
+2024—Subsec. (a)(1). Pub. L. 118–159 struck out “, and not less frequently than once each year thereafter provide a briefing to Congress,” after “a report” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continued Congressional Oversight of Iranian Expenditures Supporting Foreign Military and Terrorist Activities**
 
-Pub. L. 118–159, div. F, title LXIV, § 6436, Dec. 23, 2024, 138 Stat. 2492, provided that:
+Pub. L. 118–159, div. F, title LXIV, § 6436, Dec. 23, 2024, 138 Stat. 2492, provided that:
 
 > **“(a) Definition of Appropriate Committees of Congress.—** In this section, the term ‘appropriate committees of Congress’ means—
 

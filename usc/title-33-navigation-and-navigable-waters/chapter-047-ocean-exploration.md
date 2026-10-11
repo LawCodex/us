@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—EXPLORATION
 
-### § 3401. Purpose
+### § 3401. Purpose
 
 The purpose of this subchapter is to establish the national ocean exploration program within the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 111–11, title XII, § 12001, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(a), Dec. 23, 2022, 136 Stat. 3971.)
+(Pub. L. 111–11, title XII, § 12001, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(a), Dec. 23, 2022, 136 Stat. 3971.)
 
 **Editorial Notes**
 
@@ -33,13 +33,13 @@ The purpose of this subchapter is to establish the national ocean exploration pr
 
 **Short Title**
 
-Pub. L. 111–11, title XII, § 12101, Mar. 30, 2009, 123 Stat. 1419, which provided that part II of subtitle A of title XII of Pub. L. 111–11, which enacted subchapter II of this chapter, could be cited as the “NOAA Undersea Research Program Act of 2009”, was repealed by Pub. L. 117–263, div. J, title CIII, § 10306(a), Dec. 23, 2022, 136 Stat. 3974.
+Pub. L. 111–11, title XII, § 12101, Mar. 30, 2009, 123 Stat. 1419, which provided that part II of subtitle A of title XII of Pub. L. 111–11, which enacted subchapter II of this chapter, could be cited as the “NOAA Undersea Research Program Act of 2009”, was repealed by Pub. L. 117–263, div. J, title CIII, § 10306(a), Dec. 23, 2022, 136 Stat. 3974.
 
-### § 3402. Program established
+### § 3402. Program established
 
 The Administrator of the National Oceanic and Atmospheric Administration shall, in consultation with the National Science Foundation and other appropriate Federal agencies, establish a coordinated national ocean exploration program within the National Oceanic and Atmospheric Administration that promotes collaboration with other Federal ocean research and exploration programs. To the extent appropriate, the Administrator shall seek to facilitate coordination of data and information management systems, outreach and education programs to improve public understanding of ocean and coastal resources, and development and transfer of technologies to facilitate ocean research and ocean exploration and characterization efforts.
 
-(Pub. L. 111–11, title XII, § 12002, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(b), Dec. 23, 2022, 136 Stat. 3971.)
+(Pub. L. 111–11, title XII, § 12002, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(b), Dec. 23, 2022, 136 Stat. 3971.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall, 
 
 2022—Pub. L. 117–263 struck out “and undersea” after “Federal ocean” in first sentence and substituted “research and ocean exploration and characterization efforts” for “and undersea research and exploration” in second sentence.
 
-### § 3403. Powers and duties of the Administrator
+### § 3403. Powers and duties of the Administrator
 
 **(a) In general** In carrying out the program authorized by section 3402 of this title, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Ocean Policy Committee established under section 8932 of title 10, shall—
 
@@ -61,13 +61,13 @@ The Administrator of the National Oceanic and Atmospheric Administration shall, 
 
 **(5)** support technological innovation of the United States marine science community by promoting the development and use of new and emerging technologies for research, communication, navigation, and data collection, such as sensors and autonomous vehicles;
 
-**(6)** establish an ocean exploration forum, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 1
+**(6)** establish an ocean exploration forum, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, to encourage partnerships and promote communication among experts and other stakeholders in order to enhance the scientific and technical expertise and relevance of the national program.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(7)** provide guidance, in consultation with the National Ocean Mapping, Exploration, and Characterization Council, to Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations on data standards, protocols for accepting data, and coordination of data collection, compilation, processing, archiving, and dissemination for data relating to ocean exploration and characterization; and
 
@@ -85,7 +85,7 @@ of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, 
 
 In this section, the term “exclusive economic zone” means the zone established by Presidential Proclamation Number 5030, dated March 10, 1983 (16 U.S.C. 1453 note).
 
-(Pub. L. 111–11, title XII, § 12003, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(c), Dec. 23, 2022, 136 Stat. 3971.)
+(Pub. L. 111–11, title XII, § 12003, Mar. 30, 2009, 123 Stat. 1417; Pub. L. 117–263, div. J, title CIII, § 10305(c), Dec. 23, 2022, 136 Stat. 3971.)
 
 **Editorial Notes**
 
@@ -95,27 +95,27 @@ Section 5405 of the James M. Inhofe National Defense Authorization Act for Fisca
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 10305(c)(1)(A), inserted “, in consultation with the Ocean Policy Committee established under section 8932 of title 10,” after “Administration” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 10305(c)(1)(A), inserted “, in consultation with the Ocean Policy Committee established under section 8932 of title 10,” after “Administration” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–263, § 10305(c)(1)(B), substituted “expeditions” for “voyages” and “Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize” for “Federal agencies or academic or educational institutions, to explore and survey” and inserted “characterize,” after “observe,”.
+Subsec. (a)(1). Pub. L. 117–263, § 10305(c)(1)(B), substituted “expeditions” for “voyages” and “Federal and State agencies, Tribal Governments, private industry, academia (including secondary schools, community colleges, and universities), and nongovernmental organizations, to map, explore, and characterize” for “Federal agencies or academic or educational institutions, to explore and survey” and inserted “characterize,” after “observe,”.
 
-Subsec. (a)(2). Pub. L. 117–263, § 10305(c)(1)(C), inserted “of the exclusive economic zone” after “deep ocean regions”.
+Subsec. (a)(2). Pub. L. 117–263, § 10305(c)(1)(C), inserted “of the exclusive economic zone” after “deep ocean regions”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 10305(c)(1)(D), substituted “expeditions” for “voyages”.
+Subsec. (a)(3). Pub. L. 117–263, § 10305(c)(1)(D), substituted “expeditions” for “voyages”.
 
-Subsec. (a)(4). Pub. L. 117–263, § 10305(c)(1)(E), struck out “, in consultation with the National Science Foundation,” after “implement”.
+Subsec. (a)(4). Pub. L. 117–263, § 10305(c)(1)(E), struck out “, in consultation with the National Science Foundation,” after “implement”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 10305(c)(1)(F), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “enhance the technical capability of the United States marine science community by promoting the development of improved oceanographic research, communication, navigation, and data collection systems, as well as underwater platforms and sensor and autonomous vehicles; and”.
+Subsec. (a)(5). Pub. L. 117–263, § 10305(c)(1)(F), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “enhance the technical capability of the United States marine science community by promoting the development of improved oceanographic research, communication, navigation, and data collection systems, as well as underwater platforms and sensor and autonomous vehicles; and”.
 
-Subsec. (a)(6). Pub. L. 117–263, § 10305(c)(1)(G), inserted “, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023,” after “forum”.
+Subsec. (a)(6). Pub. L. 117–263, § 10305(c)(1)(G), inserted “, in consultation with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023,” after “forum”.
 
-Subsec. (a)(7), (8). Pub. L. 117–263, § 10305(c)(1)(H), added pars. (7) and (8).
+Subsec. (a)(7), (8). Pub. L. 117–263, § 10305(c)(1)(H), added pars. (7) and (8).
 
-Subsec. (b). Pub. L. 117–263, § 10305(c)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Administrator may accept donations of property, data, and equipment to be applied for the purpose of exploring the oceans or increasing knowledge of the oceans.”
+Subsec. (b). Pub. L. 117–263, § 10305(c)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Administrator may accept donations of property, data, and equipment to be applied for the purpose of exploring the oceans or increasing knowledge of the oceans.”
 
-Subsec. (c). Pub. L. 117–263, § 10305(c)(3), added subsec. (c).
+Subsec. (c). Pub. L. 117–263, § 10305(c)(3), added subsec. (c).
 
-### § 3404. Education, workforce training, and outreach
+### § 3404. Education, workforce training, and outreach
 
 **(a) In general** The Administrator of the National Oceanic and Atmospheric Administration shall—
 
@@ -135,11 +135,11 @@ Subsec. (c). Pub. L. 117–263, § 10305(c)(3), added subsec. (c).
 
 Not later than 180 days after the date of the enactment of the National Ocean Exploration Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 3402 of this title.
 
-(Pub. L. 111–11, title XII, § 12004, as added Pub. L. 117–263, div. J, title CIII, § 10305(e)(1), Dec. 23, 2022, 136 Stat. 3973.)
+(Pub. L. 111–11, title XII, § 12004, as added Pub. L. 117–263, div. J, title CIII, § 10305(e)(1), Dec. 23, 2022, 136 Stat. 3973.)
 
 **Editorial Notes**
 
@@ -149,9 +149,9 @@ The date of the enactment of the National Ocean Exploration Act, referred to in 
 
 **Prior Provisions**
 
-A prior section 3404, Pub. L. 111–11, title XII, Mar. 30, 2009, 123 Stat. 1418, related to an ocean exploration and undersea research technology and infrastructure task force, prior to repeal by Pub. L. 117–263, div. J, title CIII, § 10305(d), Dec. 23, 2022, 136 Stat. 3972.
+A prior section 3404, Pub. L. 111–11, title XII, Mar. 30, 2009, 123 Stat. 1418, related to an ocean exploration and undersea research technology and infrastructure task force, prior to repeal by Pub. L. 117–263, div. J, title CIII, § 10305(d), Dec. 23, 2022, 136 Stat. 3972.
 
-### § 3405. Ocean Exploration Advisory Board
+### § 3405. Ocean Exploration Advisory Board
 
 **(a) Establishment** The Administrator of the National Oceanic and Atmospheric Administration shall appoint an Ocean Exploration Advisory Board composed of experts in relevant fields, including representatives from academic, commercial, nonprofit, philanthropic, policy, and Tribal entities—
 
@@ -159,9 +159,9 @@ A prior section 3404, Pub. L. 111–11, title XII, Mar. 30, 2009, 123 Stat. 1418
 
 **(2)** to assist the program in the development of a 5-year strategic plan for the fields of ocean, marine, and Great Lakes science, exploration, and discovery;
 
-**(3)** to annually review the quality and effectiveness of the proposal review process established under section 3403(a)(4) of this title; and 1
+**(3)** to annually review the quality and effectiveness of the proposal review process established under section 3403(a)(4) of this title; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(4)** to identify market barriers to development or commercialization of novel ocean mapping, exploration, and characterization products, processes, and tools;
 
@@ -177,33 +177,33 @@ Section 1013 of title 5 shall not apply to the Board appointed under subsection 
 
 Nothing in this subchapter supersedes, or limits the authority of the Secretary of the Interior under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 
-(Pub. L. 111–11, title XII, § 12005, Mar. 30, 2009, 123 Stat. 1418; Pub. L. 117–263, div. J, title CIII, § 10305(f), Dec. 23, 2022, 136 Stat. 3973; Pub. L. 117–286, § 4(a)(208), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 111–11, title XII, § 12005, Mar. 30, 2009, 123 Stat. 1418; Pub. L. 117–263, div. J, title CIII, § 10305(f), Dec. 23, 2022, 136 Stat. 3973; Pub. L. 117–286, § 4(a)(208), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (c), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (c), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 10305(f)(1)(A), inserted “, including representatives from academic, commercial, nonprofit, philanthropic, policy, and Tribal entities” after “relevant fields” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 10305(f)(1)(A), inserted “, including representatives from academic, commercial, nonprofit, philanthropic, policy, and Tribal entities” after “relevant fields” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–263, § 10305(f)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to advise the Administrator on priority areas for survey and discovery;”.
+Subsec. (a)(1). Pub. L. 117–263, § 10305(f)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to advise the Administrator on priority areas for survey and discovery;”.
 
-Subsec. (a)(4) to (6). Pub. L. 117–263, § 10305(f)(1)(C), (D), added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (a)(4) to (6). Pub. L. 117–263, § 10305(f)(1)(C), (D), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
 Subsec. (b). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-Subsec. (c). Pub. L. 117–263, § 10305(f)(2), inserted “this” before “subchapter”.
+Subsec. (c). Pub. L. 117–263, § 10305(f)(2), inserted “this” before “subchapter”.
 
-### § 3406. Authorization of appropriations
+### § 3406. Authorization of appropriations
 
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter $60,000,000 for each of fiscal years 2023 through 2028 1
+There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter $60,000,000 for each of fiscal years 2023 through 2028 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
-(Pub. L. 111–11, title XII, § 12006, Mar. 30, 2009, 123 Stat. 1419; Pub. L. 117–263, div. J, title CIII, § 10305(g), Dec. 23, 2022, 136 Stat. 3974.)
+(Pub. L. 111–11, title XII, § 12006, Mar. 30, 2009, 123 Stat. 1419; Pub. L. 117–263, div. J, title CIII, § 10305(g), Dec. 23, 2022, 136 Stat. 3974.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ There are authorized to be appropriated to the National Oceanic and Atmospheric 
 
 2022—Pub. L. 117–263 substituted “this subchapter $60,000,000 for each of fiscal years 2023 through 2028” for “this subchapter—” and struck out pars. (1) to (7) which authorized appropriations for fiscal years 2009 through 2015.
 
-### § 3407. Definitions
+### § 3407. Definitions
 
 In this subchapter:
 
@@ -219,11 +219,11 @@ In this subchapter:
 
 The terms “characterization”, “characterize”, and “characterizing” mean activities that provide comprehensive data and interpretations for a specific area of interest of the sea floor, sub-bottom, water column, or hydrologic features, such as water masses and currents, in direct support of specific research, environmental protection, resource management, policymaking, or applied mission objectives.
 
-**(2) Exploration** The term 1
+**(2) Exploration** The term 1
 
-<sup>1</sup>  So in original. Probably should be “terms” and “mean”.
+<sup>1</sup> So in original. Probably should be “terms” and “mean”.
 
-“exploration”, “explore”, and “exploring” means 1 activities that provide—
+“exploration”, “explore”, and “exploring” means 1 activities that provide—
 
 **(A)** a multidisciplinary view of an unknown or poorly understood area of the sea floor, sub-bottom, or water column; and
 
@@ -233,9 +233,9 @@ The terms “characterization”, “characterize”, and “characterizing” m
 
 The terms “map” and “mapping” mean activities that provide comprehensive data and information needed to understand sea floor characteristics, including depth, topography, bottom type, sediment composition and distribution, underlying geologic structure, and benthic flora and fauna.
 
-(Pub. L. 111–11, title XII, § 12007, as added Pub. L. 117–263, div. J, title CIII, § 10305(h), Dec. 23, 2022, 136 Stat. 3974.)
+(Pub. L. 111–11, title XII, § 12007, as added Pub. L. 117–263, div. J, title CIII, § 10305(h), Dec. 23, 2022, 136 Stat. 3974.)
 
-### § 3408. National Ocean Mapping, Exploration, and Characterization Council
+### § 3408. National Ocean Mapping, Exploration, and Characterization Council
 
 **(a) Establishment**
 
@@ -369,7 +369,7 @@ Not later than 1 year after December 23, 2022, the Council shall develop or upda
 
 **(2)** the Committee on Natural Resources, the Committee on Science, Space, and Technology, and the Committee on Armed Services of the House of Representatives.
 
-(Pub. L. 117–263, div. J, title CIII, § 10304, Dec. 23, 2022, 136 Stat. 3968.)
+(Pub. L. 117–263, div. J, title CIII, § 10304, Dec. 23, 2022, 136 Stat. 3968.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Section was enacted as part of James M. Inhofe National Defense Authorization Ac
 
 **Findings**
 
-Pub. L. 117–263, div. J, title CIII, § 10301, Dec. 23, 2022, 136 Stat. 3966, provided that:
+Pub. L. 117–263, div. J, title CIII, § 10301, Dec. 23, 2022, 136 Stat. 3966, provided that:
 
 > “Congress makes the following findings:
 
@@ -405,7 +405,7 @@ Pub. L. 117–263, div. J, title CIII, § 10301, Dec. 23, 2022, 136 Stat. 3966
 
 **Definitions**
 
-Pub. L. 117–263, div. J, title CIII, § 10302, Dec. 23, 2022, 136 Stat. 3966, provided that:
+Pub. L. 117–263, div. J, title CIII, § 10302, Dec. 23, 2022, 136 Stat. 3966, provided that:
 
 > “In this title [see Tables for classification]:
 
@@ -423,16 +423,16 @@ Pub. L. 117–263, div. J, title CIII, § 10302, Dec. 23, 2022, 136 Stat. 3966
 
 ## SUBCHAPTER II—NOAA UNDERSEA RESEARCH PROGRAM
 
-### §§ 3421 to 3426. Repealed. Pub. L. 117–263, div. J, title CIII, § 10306(a), Dec. 23, 2022, 136 Stat. 3974
+### §§ 3421 to 3426. Repealed. Pub. L. 117–263, div. J, title CIII, § 10306(a), Dec. 23, 2022, 136 Stat. 3974
 
-Section 3421, Pub. L. 111–11, title XII, § 12102, Mar. 30, 2009, 123 Stat. 1419, related to establishment of an undersea research program.
+Section 3421, Pub. L. 111–11, title XII, § 12102, Mar. 30, 2009, 123 Stat. 1419, related to establishment of an undersea research program.
 
-Section 3422, Pub. L. 111–11, title XII, § 12103, Mar. 30, 2009, 123 Stat. 1419, related to powers of program Director.
+Section 3422, Pub. L. 111–11, title XII, § 12103, Mar. 30, 2009, 123 Stat. 1419, related to powers of program Director.
 
-Section 3423, Pub. L. 111–11, title XII, § 12104, Mar. 30, 2009, 123 Stat. 1419, related to administrative structure.
+Section 3423, Pub. L. 111–11, title XII, § 12104, Mar. 30, 2009, 123 Stat. 1419, related to administrative structure.
 
-Section 3424, Pub. L. 111–11, title XII, § 12105, Mar. 30, 2009, 123 Stat. 1420, related to research, exploration, education, and technology programs.
+Section 3424, Pub. L. 111–11, title XII, § 12105, Mar. 30, 2009, 123 Stat. 1420, related to research, exploration, education, and technology programs.
 
-Section 3425, Pub. L. 111–11, title XII, § 12106, Mar. 30, 2009, 123 Stat. 1420, related to competitive selection of regional centers.
+Section 3425, Pub. L. 111–11, title XII, § 12106, Mar. 30, 2009, 123 Stat. 1420, related to competitive selection of regional centers.
 
-Section 3426, Pub. L. 111–11, title XII, § 12107, Mar. 30, 2009, 123 Stat. 1420, related to authorization of appropriations.
+Section 3426, Pub. L. 111–11, title XII, § 12107, Mar. 30, 2009, 123 Stat. 1420, related to authorization of appropriations.

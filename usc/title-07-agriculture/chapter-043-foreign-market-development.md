@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTACHÉS
 
-### § 1761. Foreign markets; collection of information
+### § 1761. Foreign markets; collection of information
 
 For the purpose of encouraging and promoting the marketing of agricultural commodities of the United States and assisting American farmers, processors, distributors, and exporters to adjust their operations and practices to meet world conditions, the Secretary of Agriculture shall acquire information regarding the competition and demand for United States agricultural commodities, the marketing and distribution of such commodities in foreign countries and shall be responsible for the interpretation and dissemination of such information in the United States and shall make investigations abroad regarding the factors affecting and influencing the export of United States agricultural commodities, and shall conduct abroad any other activities including the demonstration of standards of quality for American agricultural commodities for which the Department of Agriculture now has or in the future may have such standards, as he deems necessary. Nothing contained herein shall be construed as prohibiting the Department of Agriculture from conducting abroad any activity for which authority now exists.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 601, 68 Stat. 908; Pub. L. 95–501, title III, § 301(3), Oct. 21, 1978, 92 Stat. 1688.)
+(Aug. 28, 1954, ch. 1041, title VI, § 601, 68 Stat. 908; Pub. L. 95–501, title III, § 301(3), Oct. 21, 1978, 92 Stat. 1688.)
 
 **Editorial Notes**
 
@@ -33,13 +33,13 @@ For the purpose of encouraging and promoting the marketing of agricultural commo
 
 **World Livestock Market Price Information**
 
-Pub. L. 101–624, title XV, § 1545, Nov. 28, 1990, 104 Stat. 3695, directed Secretary of Agriculture to develop appropriate methodology for determining world price of livestock and livestock products, to gather and analyze appropriate price and cost of production information concerning such products in foreign countries for purpose of price discovery and to aid in sale of livestock and livestock products in foreign export markets, and to periodically publish such information, prior to repeal by Pub. L. 104–127, title II, § 273, Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 101–624, title XV, § 1545, Nov. 28, 1990, 104 Stat. 3695, directed Secretary of Agriculture to develop appropriate methodology for determining world price of livestock and livestock products, to gather and analyze appropriate price and cost of production information concerning such products in foreign countries for purpose of price discovery and to aid in sale of livestock and livestock products in foreign export markets, and to periodically publish such information, prior to repeal by Pub. L. 104–127, title II, § 273, Apr. 4, 1996, 110 Stat. 976.
 
 **Implementation of 1978 Amendment; Regulations**
 
-Pub. L. 95–501, title VI, § 601, Oct. 21, 1978, 92 Stat. 1691, which required Secretary of Agriculture to implement provisions of Pub. L. 95–501 as expeditiously as possible, was omitted and a new section 601 of Pub. L. 95–501 added as part of the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
+Pub. L. 95–501, title VI, § 601, Oct. 21, 1978, 92 Stat. 1691, which required Secretary of Agriculture to implement provisions of Pub. L. 95–501 as expeditiously as possible, was omitted and a new section 601 of Pub. L. 95–501 added as part of the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
 
-### § 1762. Personnel
+### § 1762. Personnel
 
 **(a) Appointment**
 
@@ -65,7 +65,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee’s grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: *Provided,* That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: *Provided further,* That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 602(a)–(d), formerly § 602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, § 12(c)(13), 69 Stat. 182; Pub. L. 89–106, § 4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered § 602(a)–(d) and amended Pub. L. 95–501, title III, § 301(4), (5), title IV, § 401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
+(Aug. 28, 1954, ch. 1041, title VI, § 602(a)–(d), formerly § 602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, § 12(c)(13), 69 Stat. 182; Pub. L. 89–106, § 4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered § 602(a)–(d) and amended Pub. L. 95–501, title III, § 301(4), (5), title IV, § 401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
 
 **Editorial Notes**
 
@@ -75,13 +75,13 @@ This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 8
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–501, § 301(4), substituted “this subchapter” for “this chapter”.
+1978—Subsec. (a). Pub. L. 95–501, § 301(4), substituted “this subchapter” for “this chapter”.
 
-Subsec. (b). Pub. L. 95–501, § 301(5), inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
+Subsec. (b). Pub. L. 95–501, § 301(5), inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
 
-Subsecs. (d), (e). Pub. L. 95–501, §§ 301(4), 401(5), redesignated subsec. (e) as (d) and substituted “this subchapter” for “this chapter”. Former subsec. (d), relating to Presidential regulations, was redesignated section 606B of act Aug. 28, 1954, by section 401(3) of Pub. L. 95–501, which is classified to section 1766a of this title.
+Subsecs. (d), (e). Pub. L. 95–501, §§ 301(4), 401(5), redesignated subsec. (e) as (d) and substituted “this subchapter” for “this chapter”. Former subsec. (d), relating to Presidential regulations, was redesignated section 606B of act Aug. 28, 1954, by section 401(3) of Pub. L. 95–501, which is classified to section 1766a of this title.
 
-Subsec. (f). Pub. L. 95–501, § 401(3), redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to section 1766b of this title.
+Subsec. (f). Pub. L. 95–501, § 401(3), redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to section 1766b of this title.
 
 1976—Subsec. (f). Pub. L. 94–449 added subsec. (f).
 
@@ -97,7 +97,7 @@ Amendment by act June 28, 1955, effective June 28, 1955, see section 13 of act o
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Executive Documents**
 
@@ -119,15 +119,15 @@ Sec. 3. Such provisions in annual appropriation acts of the Department of State,
 
 This order shall be effective as of September 1, 1954.
 
-### § 1763. Transferred
+### § 1763. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 28, 1954, ch. 1041, title VI, § 603, 68 Stat. 909, which related to allowances and benefits, was renumbered section 606D of act Aug. 28, 1954, by Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691, and transferred to section 1766c of this title.
+Section, act Aug. 28, 1954, ch. 1041, title VI, § 603, 68 Stat. 909, which related to allowances and benefits, was renumbered section 606D of act Aug. 28, 1954, by Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691, and transferred to section 1766c of this title.
 
-### § 1764. Reports and dispatches
+### § 1764. Reports and dispatches
 
 **(a) Availability to Department of State and interested Government agencies**
 
@@ -141,21 +141,21 @@ The Secretary of State is authorized upon request of the Secretary of Agricultur
 
 Upon the request of the Secretary of Agriculture, each Federal agency may make its services, personnel, and facilities available to officers and employees appointed and assigned to a post abroad under this subchapter in the performance of the functions of such officers and employees. The Secretary of Agriculture may reimburse or advance funds to any such agency for services, personnel, and facilities so made available.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 604, 68 Stat. 909; Pub. L. 95–501, title III, § 301(4), (6), Oct. 21, 1978, 92 Stat. 1688.)
+(Aug. 28, 1954, ch. 1041, title VI, § 604, 68 Stat. 909; Pub. L. 95–501, title III, § 301(4), (6), Oct. 21, 1978, 92 Stat. 1688.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Subsecs. (a), (b). Pub. L. 95–501, § 301(4), substituted “this subchapter” for “this chapter”.
+1978—Subsecs. (a), (b). Pub. L. 95–501, § 301(4), substituted “this subchapter” for “this chapter”.
 
-Subsec. (c). Pub. L. 95–501, § 301(6), added subsec. (c).
+Subsec. (c). Pub. L. 95–501, § 301(6), added subsec. (c).
 
-### § 1765. Foreign service appropriations; applicability
+### § 1765. Foreign service appropriations; applicability
 
 Provisions in annual appropriation Acts of the Department of State facilitating the work of the Foreign Service of the United States shall be applicable under rules and regulations prescribed by the President or his designee to activities pursuant to this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605, 68 Stat. 909; Pub. L. 95–501, title III, § 301(4), Oct. 21, 1978, 92 Stat. 1688.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605, 68 Stat. 909; Pub. L. 95–501, title III, § 301(4), Oct. 21, 1978, 92 Stat. 1688.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ Provisions in annual appropriation Acts of the Department of State facilitating 
 
 ## SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES
 
-### § 1765a. Agricultural Trade Offices
+### § 1765a. Agricultural Trade Offices
 
 **(a) Establishment**
 
@@ -173,9 +173,9 @@ For the purpose of developing, maintaining, and expanding international markets 
 
 **(b) Administration**
 
-each 1
+each 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 United States Agricultural Trade Office shall be directed and administered by an Agricultural Trade Officer who by reason of training, experience, and attainments is qualified to carry out the purposes of this subchapter. Such Officer shall be appointed by the Secretary of Agriculture.
 
@@ -203,7 +203,7 @@ No employee of any United States Agricultural Trade Office may engage in any bus
 
 Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605A, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, § 2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605A, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, § 2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
 
 **Editorial Notes**
 
@@ -219,9 +219,9 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1765b. Functions
+### § 1765b. Functions
 
 The functions of each United States Agricultural Trade Office shall be to—
 
@@ -245,13 +245,13 @@ The functions of each United States Agricultural Trade Office shall be to—
 
 **(10)** perform such other functions as the Secretary of Agriculture, in consultation with the Secretary of State, determines to be necessary and proper for achieving the purposes of this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605B, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1689; amended Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(H), June 18, 2008, 122 Stat. 1820.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605B, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1689; amended Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(H), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in par. (7), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in par. (7), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Amendments**
 
@@ -263,67 +263,67 @@ The Food for Peace Act, referred to in par. (7), is act July 10, 1954, ch. 469, 
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1765b–1. Omitted
+### § 1765b–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 95–501, title VI, § 602, Oct. 21, 1978, 92 Stat. 1691, which provided for an annual report on export promotion, was omitted as part of the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
+Section, Pub. L. 95–501, title VI, § 602, Oct. 21, 1978, 92 Stat. 1691, which provided for an annual report on export promotion, was omitted as part of the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
 
-### § 1765c. Performance of functions in foreign localities
+### § 1765c. Performance of functions in foreign localities
 
 Each United States Agricultural Trade Office shall carry out its functions under section 1765b of this title in the nation where the United States Agricultural Trade Office is located and in such other nations as the Secretary of Agriculture, in consultation with the Secretary of State, may prescribe in order to carry out the purposes of this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605C, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605C, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
-### § 1765d. Acquisition of property
+### § 1765d. Acquisition of property
 
 Upon the request of the Secretary of Agriculture, the Secretary of State may use the authorities contained in the Foreign Service Buildings Act, 1926 [22 U.S.C. 292 et seq.], to acquire sites and buildings, including living quarters, for the purpose of establishing United States Agricultural Trade Offices.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605D, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605D, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Buildings Act, 1926, as amended, referred to in text, is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
+The Foreign Service Buildings Act, 1926, as amended, referred to in text, is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
 
-### § 1765d–1. Repealed. Pub. L. 107–228, div. A, title II, § 213, Sept. 30, 2002, 116 Stat. 1365
+### § 1765d–1. Repealed. Pub. L. 107–228, div. A, title II, § 213, Sept. 30, 2002, 116 Stat. 1365
 
-Section, Pub. L. 106–387, § 1(a) [title VII, § 738], Oct. 28, 2000, 114 Stat. 1549, 1549A–34; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(BB), June 18, 2008, 122 Stat. 1820, 1821, related to sale or disposal of foreign residences purchased by the United States for housing agricultural attachés.
+Section, Pub. L. 106–387, § 1(a) [title VII, § 738], Oct. 28, 2000, 114 Stat. 1549, 1549A–34; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(BB), June 18, 2008, 122 Stat. 1820, 1821, related to sale or disposal of foreign residences purchased by the United States for housing agricultural attachés.
 
-### § 1765e. Location of offices
+### § 1765e. Location of offices
 
 United States Agricultural Trade Offices shall be centrally located in the cities of assignment to facilitate foreign trade meetings and foreign trade reliance on such offices for assistance in marketing activities.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605E, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605E, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
-### § 1765f. Availability of agency services, personnel, and facilities
+### § 1765f. Availability of agency services, personnel, and facilities
 
 Upon the request of the Secretary of Agriculture, each Federal agency may make its services, personnel, and facilities available to a United States Agricultural Trade Office in the performance of its functions. The Secretary of Agriculture may reimburse or advance funds to any such agency for services, personnel, and facilities so made available.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605F, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605F, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
-### § 1765g. Availability of reports and dispatches
+### § 1765g. Availability of reports and dispatches
 
 The provisions of section 1764(a) of this title shall apply with respect to personnel appointed and assigned under this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 605G, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 605G, as added Pub. L. 95–501, title IV, § 401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
 ## SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND AUTHORIZATION FOR APPROPRIATIONS
 
-### § 1765h. Representation allowance
+### § 1765h. Representation allowance
 
 Any Agricultural Trade Officer and the senior representative of the Secretary of Agriculture assigned to a nation under subchapter I of this chapter may, under regulations prescribed by the Secretary of Agriculture, be entitled to receive a representation allowance in an amount determined by considering (1) the extent to which such Agricultural Trade Officer or senior representative can effectively use such funds to further the purposes of this chapter, (2) travel and entertainment expenses customary in the private trade for persons of comparable rank and salary, and (3) customs and practices in the nation where such Agricultural Trade Officer or senior representative is assigned.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 606, as added Pub. L. 95–501, title IV, § 401(2), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 606, as added Pub. L. 95–501, title IV, § 401(2), Oct. 21, 1978, 92 Stat. 1690.)
 
-### § 1766. Rules and regulations; advance payment for rent and other service; funds for courtesies to foreign representatives
+### § 1766. Rules and regulations; advance payment for rent and other service; funds for courtesies to foreign representatives
 
 The Secretary of Agriculture may make rules and regulations necessary to carry out the purposes of this chapter and may cooperate with any Department or agency of the United States Government, State, Territory, or possession or any organization or person. In any foreign country where custom or practice requires payment in advance for rent or other service, such payment may be authorized by the Secretary of Agriculture. Funds available for the purposes of this chapter may be used for extending courtesies to representatives of foreign countries, when so provided in appropriation or other law.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 606A, formerly § 606, 68 Stat. 909; amended Aug. 3, 1956, ch. 950, § 8, 70 Stat. 1034; renumbered § 606A, Pub. L. 95–501, title IV, § 401(2), Oct. 21, 1978, 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, § 606A, formerly § 606, 68 Stat. 909; amended Aug. 3, 1956, ch. 950, § 8, 70 Stat. 1034; renumbered § 606A, Pub. L. 95–501, title IV, § 401(2), Oct. 21, 1978, 92 Stat. 1690.)
 
 **Editorial Notes**
 
@@ -331,11 +331,11 @@ The Secretary of Agriculture may make rules and regulations necessary to carry o
 
 1956—Act Aug. 3, 1956, inserted sentence relating to availability of funds for extending courtesies to representatives of foreign countries.
 
-### § 1766a. Presidential regulations
+### § 1766a. Presidential regulations
 
 The President shall prescribe regulations to insure that the official activities of persons assigned abroad under this chapter are carried on (1) consonant with United States foreign policy objectives as defined by the Secretary of State; (2) in accordance with instructions of the Secretary of Agriculture with respect to agricultural matters; and (3) in coordination with other representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 606B, formerly § 602(d), 68 Stat. 909; renumbered Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691.)
+(Aug. 28, 1954, ch. 1041, title VI, § 606B, formerly § 602(d), 68 Stat. 909; renumbered Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691.)
 
 **Editorial Notes**
 
@@ -343,17 +343,17 @@ The President shall prescribe regulations to insure that the official activities
 
 Provisions comprising this section were formerly classified to section 1762(d) of this title prior to redes­ignation by section 401(3) of Pub. L. 95–501.
 
-### § 1766b. Language training for families of officers and employees assigned abroad
+### § 1766b. Language training for families of officers and employees assigned abroad
 
 Effective October 1, 1976, the Secretary of Agriculture is authorized to provide appropriate orientation and language training to families of officers and employees of the Department of Agriculture in anticipation of an assignment abroad of such officers and employees or while abroad pursuant to this chapter or other authority: *Provided*, That the facilities of the George P. Shultz National Foreign Affairs Training Center or other Government facilities shall be used wherever practicable, and the Secretary may utilize foreign currencies generated under title I of the Food for Peace Act, as amended [7 U.S.C. 1701 et seq.], to carry out the purposes of this section in the foreign nations to which such officers, employees, and families are assigned. There are hereby authorized to be appropriated such sums, not to exceed $50,000 annually, as may be necessary to carry out the purposes of this section: *Provided*, That for the fiscal year ending September 30, 1977, any appropriations available to the Secretary of Agriculture (not to exceed $50,000) may be used to carry out the purposes of this section.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 606C, formerly § 602(f), as added Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered § 606C, and amended Pub. L. 95–501, title IV, § 401(3), (4), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 96–470, title I, § 102(f), Oct. 19, 1980, 94 Stat. 2237; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(H), June 18, 2008, 122 Stat. 1820.)
+(Aug. 28, 1954, ch. 1041, title VI, § 606C, formerly § 602(f), as added Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered § 606C, and amended Pub. L. 95–501, title IV, § 401(3), (4), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 96–470, title I, § 102(f), Oct. 19, 1980, 94 Stat. 2237; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(H), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, as amended, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. Title I of the Act is classified to subchapter II (§ 1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, as amended, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. Title I of the Act is classified to subchapter II (§ 1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Codification**
 
@@ -369,7 +369,7 @@ Provisions comprising this section were formerly classified to section 1762(f) o
 
 1980—Pub. L. 96–470 struck out provision requiring the Secretary of Agriculture to submit to the House Committee of Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry not later than ninety days after the end of each fiscal year a detailed report showing activities carried out under the authority of this section during such fiscal year.
 
-1978—Pub. L. 95–501, § 401(4), substituted “this section” for “this subsection” in four places. See Codification note above.
+1978—Pub. L. 95–501, § 401(4), substituted “this section” for “this subsection” in four places. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -379,77 +379,77 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Availability of Funds**
 
-Pub. L. 109–97, title VII, § 707, Nov. 10, 2005, 119 Stat. 2150, provided that: “Hereafter, not to exceed $50,000 in each fiscal year of the funds appropriated by this or any other Appropriations Act to the Department of Agriculture (excluding the Forest Service) shall be available to provide appropriate orientation and language training pursuant to section 606C of the Act of August 28, 1954 (7 U.S.C. 1766b).”
+Pub. L. 109–97, title VII, § 707, Nov. 10, 2005, 119 Stat. 2150, provided that: “Hereafter, not to exceed $50,000 in each fiscal year of the funds appropriated by this or any other Appropriations Act to the Department of Agriculture (excluding the Forest Service) shall be available to provide appropriate orientation and language training pursuant to section 606C of the Act of August 28, 1954 (7 U.S.C. 1766b).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 707, Dec. 8, 2004, 118 Stat. 2839.
+Pub. L. 108–447, div. A, title VII, § 707, Dec. 8, 2004, 118 Stat. 2839.
 
-Pub. L. 108–199, div. A, title VII, § 707, Jan. 23, 2004, 118 Stat. 32.
+Pub. L. 108–199, div. A, title VII, § 707, Jan. 23, 2004, 118 Stat. 32.
 
-Pub. L. 108–7, div. A, title VII, § 707, Feb. 20, 2003, 117 Stat. 38.
+Pub. L. 108–7, div. A, title VII, § 707, Feb. 20, 2003, 117 Stat. 38.
 
-Pub. L. 107—76, title VII, § 707, Nov. 28, 2001, 115 Stat. 732.
+Pub. L. 107—76, title VII, § 707, Nov. 28, 2001, 115 Stat. 732.
 
-Pub. L. 106—387, § 1(a) [title VII, § 707], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
+Pub. L. 106—387, § 1(a) [title VII, § 707], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
 
-Pub. L. 106–78, title VII, § 707, Oct. 22, 1999, 113 Stat. 1161.
+Pub. L. 106–78, title VII, § 707, Oct. 22, 1999, 113 Stat. 1161.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 707], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 707], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
 
-Pub. L. 105–86, title VII, § 707, Nov. 18, 1997, 111 Stat. 2105.
+Pub. L. 105–86, title VII, § 707, Nov. 18, 1997, 111 Stat. 2105.
 
-Pub. L. 104–180, title VII, § 707, Aug. 6, 1996, 110 Stat. 1597.
+Pub. L. 104–180, title VII, § 707, Aug. 6, 1996, 110 Stat. 1597.
 
-Pub. L. 104–37, title VII, § 707, Oct. 21, 1995, 109 Stat. 329.
+Pub. L. 104–37, title VII, § 707, Oct. 21, 1995, 109 Stat. 329.
 
-Pub. L. 103–330, title VII, § 707, Sept. 30, 1994, 108 Stat. 2467.
+Pub. L. 103–330, title VII, § 707, Sept. 30, 1994, 108 Stat. 2467.
 
-Pub. L. 103–111, title VII, § 708, Oct. 21, 1993, 107 Stat. 1078.
+Pub. L. 103–111, title VII, § 708, Oct. 21, 1993, 107 Stat. 1078.
 
-Pub. L. 102–341, title VII, § 708, Aug. 14, 1992, 106 Stat. 907.
+Pub. L. 102–341, title VII, § 708, Aug. 14, 1992, 106 Stat. 907.
 
-Pub. L. 102–142, title VII, § 710, Oct. 28, 1991, 105 Stat. 912.
+Pub. L. 102–142, title VII, § 710, Oct. 28, 1991, 105 Stat. 912.
 
-Pub. L. 101–506, title VI, § 610, Nov. 5, 1990, 104 Stat. 1347.
+Pub. L. 101–506, title VI, § 610, Nov. 5, 1990, 104 Stat. 1347.
 
-Pub. L. 101–161, title VI, § 610, Nov. 21, 1989, 103 Stat. 982.
+Pub. L. 101–161, title VI, § 610, Nov. 21, 1989, 103 Stat. 982.
 
-Pub. L. 100–460, title VI, § 610, Oct. 1, 1988, 102 Stat. 2260.
+Pub. L. 100–460, title VI, § 610, Oct. 1, 1988, 102 Stat. 2260.
 
-Pub. L. 100–202, § 101(k) [title VI, § 610], Dec. 22, 1987, 101 Stat. 1329–322, 1329–354.
+Pub. L. 100–202, § 101(k) [title VI, § 610], Dec. 22, 1987, 101 Stat. 1329–322, 1329–354.
 
-Pub. L. 99–500, § 101(a) [title VI, § 610], Oct. 18, 1986, 100 Stat. 1783, 1783–28, and Pub. L. 99–591, § 101(a) [title VI, § 610], Oct. 30, 1986, 100 Stat. 3341, 3341–28.
+Pub. L. 99–500, § 101(a) [title VI, § 610], Oct. 18, 1986, 100 Stat. 1783, 1783–28, and Pub. L. 99–591, § 101(a) [title VI, § 610], Oct. 30, 1986, 100 Stat. 3341, 3341–28.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 610], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 610], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
-Pub. L. 97–370, title VI, § 610, Dec. 18, 1982, 96 Stat. 1810.
+Pub. L. 97–370, title VI, § 610, Dec. 18, 1982, 96 Stat. 1810.
 
-Pub. L. 97–103, title VI, § 610, Dec. 23, 1981, 95 Stat. 1488.
+Pub. L. 97–103, title VI, § 610, Dec. 23, 1981, 95 Stat. 1488.
 
-Pub. L. 96–528, title VI, § 610, Dec. 15, 1980, 94 Stat. 3117.
+Pub. L. 96–528, title VI, § 610, Dec. 15, 1980, 94 Stat. 3117.
 
-Pub. L. 96–108, title VI, § 609, Nov. 9, 1979, 93 Stat. 841.
+Pub. L. 96–108, title VI, § 609, Nov. 9, 1979, 93 Stat. 841.
 
-Pub. L. 95–448, title VI, § 610, Oct. 11, 1978, 92 Stat. 1093.
+Pub. L. 95–448, title VI, § 610, Oct. 11, 1978, 92 Stat. 1093.
 
-Pub. L. 95–97, title VI, § 612, Aug. 12, 1977, 91 Stat. 829.
+Pub. L. 95–97, title VI, § 612, Aug. 12, 1977, 91 Stat. 829.
 
-### § 1766c. Allowances and benefits
+### § 1766c. Allowances and benefits
 
 The Secretary of Agriculture may, under such rules and regulations as may be prescribed by the President or his designee, provide to personnel appointed or assigned by the Secretary of Agriculture under this chapter or other authority allowance and benefits similar to those provided by chapter 9 of title I of the Foreign Service Act of 1980 [22 U.S.C. 4081 et seq.]. Leaves of absence for personnel under this chapter shall be on the same basis as is provided for the Foreign Service of the United States by subchapter I of chapter 63 of title 5.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 606D, formerly § 603, 68 Stat. 909; renumbered § 606D, Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691; amended Pub. L. 96–465, title II, § 2206(b)(2), Oct. 17, 1980, 94 Stat. 2162.)
+(Aug. 28, 1954, ch. 1041, title VI, § 606D, formerly § 603, 68 Stat. 909; renumbered § 606D, Pub. L. 95–501, title IV, § 401(3), Oct. 21, 1978, 92 Stat. 1691; amended Pub. L. 96–465, title II, § 2206(b)(2), Oct. 17, 1980, 94 Stat. 2162.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Codification**
 
-“Subchapter I of chapter 63 of title 5” substituted in text for “the Annual and Sick Leave Act of 1951” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter I of chapter 63 of title 5” substituted in text for “the Annual and Sick Leave Act of 1951” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 1763 of this title.
 
@@ -463,7 +463,7 @@ Section was formerly classified to section 1763 of this title.
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-### § 1767. Authorization of appropriations
+### § 1767. Authorization of appropriations
 
 **(a) Unexpended balances**
 
@@ -477,13 +477,13 @@ There are hereby authorized to be appropriated to the Department of Agriculture 
 
 For the fiscal year 1955 funds which become available for the purposes of this chapter may be expended under the provisions of law, including current appropriation Acts, applicable to the Department of State: *Provided*, That the provisions of section 961(d) of title 22 with respect to the source of payment for Foreign Service officers and employees shall not apply to personnel employed under this chapter. Obligations incurred by the Department of State prior to September 1, 1954, with respect to functions affected by this Act, shall be paid from appropriations available to the Department of State.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 607, 68 Stat. 909; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(Aug. 28, 1954, ch. 1041, title VI, § 607, 68 Stat. 909; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 961(d) of title 22, referred to in subsec. (c), was in the original “section 571(d) of the Foreign Service Act of 1946, as amended” and was repealed by section 2205(l) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to section 571(d) of the 1946 Act, see section 503(b)(2) of the 1980 Act (22 U.S.C. 3983(b)(2)).
+Section 961(d) of title 22, referred to in subsec. (c), was in the original “section 571(d) of the Foreign Service Act of 1946, as amended” and was repealed by section 2205(l) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to section 571(d) of the 1946 Act, see section 503(b)(2) of the 1980 Act (22 U.S.C. 3983(b)(2)).
 
 This Act, referred to in subsec. (c), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under section 1741 of this title and Tables.
 
@@ -493,11 +493,11 @@ This Act, referred to in subsec. (c), is act Aug. 28, 1954, ch. 1041, 68 Stat. 8
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2, transferred records, property, personnel, and funds of Bureau of the Budget to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1768. Foreign Operations Administration unaffected
+### § 1768. Foreign Operations Administration unaffected
 
 Nothing in this chapter shall be construed to affect personnel employed by or funds available to the Foreign Operations Administration or programs conducted under its authorities.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 608, 68 Stat. 910.)
+(Aug. 28, 1954, ch. 1041, title VI, § 608, 68 Stat. 910.)
 
 **Executive Documents**
 
@@ -505,8 +505,8 @@ Nothing in this chapter shall be construed to affect personnel employed by or fu
 
 The Foreign Operations Administration was abolished by Ex. Ord. No. 10610 of May 9, 1955, and its functions and offices were transferred to the Department of State and to the Department of Defense, effective June 30, 1955.
 
-### § 1769. “Agricultural commodity” defined
+### § 1769. “Agricultural commodity” defined
 
 The term “agricultural commodity” as used in this chapter includes any agricultural commodity or product thereof.
 
-(Aug. 28, 1954, ch. 1041, title VI, § 609, as added Pub. L. 95–501, title IV, § 401(6), Oct. 21, 1978, 92 Stat. 1691.)
+(Aug. 28, 1954, ch. 1041, title VI, § 609, as added Pub. L. 95–501, title IV, § 401(6), Oct. 21, 1978, 92 Stat. 1691.)

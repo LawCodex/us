@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 111—AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP
 
-## § 10401. Definitions
+## § 10401. Definitions
 
 In this chapter:
 
@@ -41,17 +41,17 @@ The term “AUKUS partnership” means the enhanced trilateral security partners
 
 The term “International Traffic in Arms Regulations” means subchapter M of chapter I of title 22, Code of Federal Regulations (or successor regulations).
 
-(Pub. L. 118–31, div. A, title XIII, § 1321, Dec. 22, 2023, 137 Stat. 501.)
+(Pub. L. 118–31, div. A, title XIII, § 1321, Dec. 22, 2023, 137 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 118–31, div. A, title XIII, § 1351, Dec. 22, 2023, 137 Stat. 514, provided that: “This part [part 3 (§§ 1351–1354) of subtitle B of title XIII of div. A of Pub. L. 118–31, enacting subchapter III of this title and amending section 8680 of Title 10, Armed Forces] may be cited as the ‘AUKUS Submarine Transfer Authorization Act’.”
+Pub. L. 118–31, div. A, title XIII, § 1351, Dec. 22, 2023, 137 Stat. 514, provided that: “This part [part 3 (§§ 1351–1354) of subtitle B of title XIII of div. A of Pub. L. 118–31, enacting subchapter III of this title and amending section 8680 of Title 10, Armed Forces] may be cited as the ‘AUKUS Submarine Transfer Authorization Act’.”
 
 ## SUBCHAPTER I—ADMINISTRATIVE PROVISIONS
 
-### § 10411. AUKUS partnership oversight and accountability framework
+### § 10411. AUKUS partnership oversight and accountability framework
 
 **(a) Senior Advisor**
 
@@ -167,9 +167,9 @@ The Secretary of State may renew the position of the Senior Advisor and the Task
 
 **(2)** the Committee on Foreign Relations and Committee on Appropriations of the Senate.
 
-(Pub. L. 118–31, div. A, title XIII, § 1331, Dec. 22, 2023, 137 Stat. 502.)
+(Pub. L. 118–31, div. A, title XIII, § 1331, Dec. 22, 2023, 137 Stat. 502.)
 
-### § 10412. Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership
+### § 10412. Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership
 
 **(a) Designation of senior official**
 
@@ -225,7 +225,7 @@ Not later than 90 days after December 22, 2023, the Secretary of Defense, in coo
 
 Not later than 60 days after the date on which the plan required by subsection (b) is submitted, and semiannually thereafter not later than April 1 and October 1 each year through 2029, the senior civilian official designated under subsection (a) shall provide the congressional defense committees and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate with a briefing on the status of all Department activities to implement the AUKUS partnership.
 
-(Pub. L. 118–31, div. A, title XIII, § 1332, Dec. 22, 2023, 137 Stat. 505.)
+(Pub. L. 118–31, div. A, title XIII, § 1332, Dec. 22, 2023, 137 Stat. 505.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,7 +233,7 @@ Not later than 60 days after the date on which the plan required by subsection (
 
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 118–31, set out as a note under section 101 of Title 10, Armed Forces.
 
-### § 10413. Reporting related to the AUKUS partnership
+### § 10413. Reporting related to the AUKUS partnership
 
 **(a) Report on instruments**
 
@@ -319,7 +319,7 @@ Not later than one year after December 22, 2023, and biennially thereafter, the 
 
 **(II)** An assessment of any new lines of effort established.
 
-(Pub. L. 118–31, div. A, title XIII, § 1333, Dec. 22, 2023, 137 Stat. 506.)
+(Pub. L. 118–31, div. A, title XIII, § 1333, Dec. 22, 2023, 137 Stat. 506.)
 
 **Executive Documents**
 
@@ -357,7 +357,7 @@ J.R. Biden, Jr.
 
 ## SUBCHAPTER II—STREAMLINING AND PROTECTING TRANSFERS OF UNITED STATES MILITARY TECHNOLOGY FROM COMPROMISE
 
-### § 10421. Priority for Australia and the United Kingdom in foreign military sales and direct commercial sales
+### § 10421. Priority for Australia and the United Kingdom in foreign military sales and direct commercial sales
 
 **(a) In general**
 
@@ -383,9 +383,9 @@ Review of a transfer under the policy established under paragraph (1) shall be s
 
 The Secretary of State and the Secretary of Defense shall jointly review and update interagency policies and implementation guidance related to requests for Foreign Military Sales and Direct Commercial Sales, including by incorporating the anticipatory release provisions of this section.
 
-(Pub. L. 118–31, div. A, title XIII, § 1341, Dec. 22, 2023, 137 Stat. 509.)
+(Pub. L. 118–31, div. A, title XIII, § 1341, Dec. 22, 2023, 137 Stat. 509.)
 
-### § 10422. Identification and pre-clearance of platforms, technologies, and equipment for sale to Australia and the United Kingdom through foreign military sales and direct commercial sales
+### § 10422. Identification and pre-clearance of platforms, technologies, and equipment for sale to Australia and the United Kingdom through foreign military sales and direct commercial sales
 
 **(a) In general**
 
@@ -395,15 +395,15 @@ Not later than 90 days after December 22, 2023, and on a biennial basis thereaft
 
 Each list may include items that are not related to the AUKUS partnership but may not include items that are not covered by an exemption under the International Traffic in Arms Regulations except unmanned aerial or hypersonic systems.
 
-(Pub. L. 118–31, div. A, title XIII, § 1342, Dec. 22, 2023, 137 Stat. 509.)
+(Pub. L. 118–31, div. A, title XIII, § 1342, Dec. 22, 2023, 137 Stat. 509.)
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Functions and authorities vested in the President under this section delegated to Secretary of State, in consultation with Secretaries of Defense and Energy, by Memorandum of President of the United States, § 1(c)(ii), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
+Functions and authorities vested in the President under this section delegated to Secretary of State, in consultation with Secretaries of Defense and Energy, by Memorandum of President of the United States, § 1(c)(ii), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
 
-### § 10423. Expedited review of export licenses for exports of advanced technologies to Australia, the United Kingdom, and Canada
+### § 10423. Expedited review of export licenses for exports of advanced technologies to Australia, the United Kingdom, and Canada
 
 **(a) In general**
 
@@ -419,11 +419,11 @@ To qualify for the expedited decision-making process described in subsection (a)
 
 **(2)** For all other licensing requests, any review shall be completed not later than 45 calendar days after the date of application.
 
-(Pub. L. 118–31, div. A, title XIII, § 1344, Dec. 22, 2023, 137 Stat. 513.)
+(Pub. L. 118–31, div. A, title XIII, § 1344, Dec. 22, 2023, 137 Stat. 513.)
 
 ## SUBCHAPTER III—AUKUS SUBMARINE TRANSFER AUTHORIZATION ACT
 
-### § 10431. Authorization of sales of Virginia Class submarines to Australia
+### § 10431. Authorization of sales of Virginia Class submarines to Australia
 
 **(a) In general**
 
@@ -573,13 +573,13 @@ Not later than 30 days before the first transfer or export of a defense service 
 
 The report required by this subsection shall be submitted in classified form.
 
-(Pub. L. 118–31, div. A, title XIII, § 1352, Dec. 22, 2023, 137 Stat. 514.)
+(Pub. L. 118–31, div. A, title XIII, § 1352, Dec. 22, 2023, 137 Stat. 514.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (h)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (h)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 **Codification**
 
@@ -589,7 +589,7 @@ Section is comprised of section 1352 of Pub. L. 118–31. Subsec. (g) of section
 
 **Delegation of Functions**
 
-Functions and authorities vested in the President under subsecs. (e)(2)(B), (C) and (g) of this section delegated to Secretary of Defense, in consultation with Secretary of Energy, and under subsecs. (d)(1), (e)(2)(A), (h)(4), and (i) of this section to Secretary of Defense, in consultation with Secretaries of State and Energy, by Memorandum of President of the United States, § 1(a), (b), (c)(iii)–(v), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
+Functions and authorities vested in the President under subsecs. (e)(2)(B), (C) and (g) of this section delegated to Secretary of Defense, in consultation with Secretary of Energy, and under subsecs. (d)(1), (e)(2)(A), (h)(4), and (i) of this section to Secretary of Defense, in consultation with Secretaries of State and Energy, by Memorandum of President of the United States, § 1(a), (b), (c)(iii)–(v), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
 
 **Delegation of Functions and Authorities Under Sections 1352 and 1353 of the National Defense Authorization Act for Fiscal Year 2024**
 
@@ -615,7 +615,7 @@ Sec. 3. The Secretary of Defense is authorized and directed to publish this memo
 
 J.R. Biden, Jr.
 
-### § 10432. Acceptance of contributions in support of Australia, United Kingdom, and United States submarine security activities
+### § 10432. Acceptance of contributions in support of Australia, United Kingdom, and United States submarine security activities
 
 **(a) Acceptance authority**
 
@@ -703,9 +703,9 @@ The authority to accept or transfer funds under this section is in addition to a
 
 **(1) Notification** Not later than 60 days prior to the transfer of any funds from the Submarine Security Activities Account, the President shall notify the appropriate congressional committees and leadership of—
 
-**(A)** the intended use of such funds by appropriation, program, project, and activity, as defined in the Joint Explanatory Statement accompanying the Department of Defense Appropriations Act 1
+**(A)** the intended use of such funds by appropriation, program, project, and activity, as defined in the Joint Explanatory Statement accompanying the Department of Defense Appropriations Act 1
 
-<sup>1</sup>  So in original. Probably should be “Act,”.
+<sup>1</sup> So in original. Probably should be “Act,”.
 
 2023 (Public Law 117–328); and
 
@@ -731,7 +731,7 @@ The authority to accept or transfer funds under this section is in addition to a
 
 The report required by this subsection shall be submitted in unclassified form but may include a classified annex.
 
-(Pub. L. 118–31, div. A, title XIII, § 1353, Dec. 22, 2023, 137 Stat. 519.)
+(Pub. L. 118–31, div. A, title XIII, § 1353, Dec. 22, 2023, 137 Stat. 519.)
 
 **Editorial Notes**
 
@@ -739,17 +739,17 @@ The report required by this subsection shall be submitted in unclassified form b
 
 Section 8005 of the Department of Defense Appropriations Act, 2023, referred to in subsec. (e)(1)(B), is section 8005 of Pub. L. 117–328, div. C, title VIII, Dec. 29, 2022, 136 Stat. 4585, which is not classified to the Code.
 
-The Atomic Energy Act of 1954, referred to in subsec. (e)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (e)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Functions and authorities vested in the President under subsecs. (d), (h), and (i) of this section delegated to Secretary of Defense for funds allocated to the Department of Defense account and to Secretary of Energy for funds allocated to the Department of Energy account, in coordination with the Director of the Office of Management and Budget, by Memorandum of President of the United States, § 1(c)(vi), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
+Functions and authorities vested in the President under subsecs. (d), (h), and (i) of this section delegated to Secretary of Defense for funds allocated to the Department of Defense account and to Secretary of Energy for funds allocated to the Department of Energy account, in coordination with the Director of the Office of Management and Budget, by Memorandum of President of the United States, § 1(c)(vi), July 9, 2024, 89 F.R. 57337, set out in a note under section 10413 of this title.
 
-Functions and authorities vested in the President under subsecs. (c) and (e)(1)(D) and (3) of this section delegated to the Secretary of Defense for funds transferred to Department of Defense accounts and to the Secretary of Energy for funds transferred to Department of Energy accounts, in coordination with the Director of the Office of Management and Budget, and under subsecs. (a), (e)(1)(A), (2), and (f)(1) of this section delegated to the Director of the Office of Management and Budget, in consultation with the Secretaries of Defense and Energy, as appropriate, by Memorandum of President of the United States, § 1(d), (e), Dec. 11, 2024, 89 F.R. 101835, set out in a note under section 10431 of this title.
+Functions and authorities vested in the President under subsecs. (c) and (e)(1)(D) and (3) of this section delegated to the Secretary of Defense for funds transferred to Department of Defense accounts and to the Secretary of Energy for funds transferred to Department of Energy accounts, in coordination with the Director of the Office of Management and Budget, and under subsecs. (a), (e)(1)(A), (2), and (f)(1) of this section delegated to the Director of the Office of Management and Budget, in consultation with the Secretaries of Defense and Energy, as appropriate, by Memorandum of President of the United States, § 1(d), (e), Dec. 11, 2024, 89 F.R. 101835, set out in a note under section 10431 of this title.
 
-### § 10433. Appropriate congressional committees and leadership defined
+### § 10433. Appropriate congressional committees and leadership defined
 
 In this chapter, the term “appropriate congressional committees and leadership” means—
 
@@ -757,4 +757,4 @@ In this chapter, the term “appropriate congressional committees and leadership
 
 **(2)** the majority leader of the Senate and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate.
 
-(Pub. L. 118–31, div. A, title XIII, § 1354, Dec. 22, 2023, 137 Stat. 522.)
+(Pub. L. 118–31, div. A, title XIII, § 1354, Dec. 22, 2023, 137 Stat. 522.)

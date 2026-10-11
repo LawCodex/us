@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 57—INTERSTATE HORSERACING
 
-## § 3001. Congressional findings and policy
+## § 3001. Congressional findings and policy
 
 **(a)** The Congress finds that—
 
@@ -27,13 +27,13 @@ retrieved: 2026-10-11
 
 **(b)** It is the policy of the Congress in this chapter to regulate interstate commerce with respect to wagering on horseracing, in order to further the horseracing and legal off-track betting industries in the United States.
 
-(Pub. L. 95–515, § 2, Oct. 25, 1978, 92 Stat. 1811.)
+(Pub. L. 95–515, § 2, Oct. 25, 1978, 92 Stat. 1811.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–515, § 9, Oct. 25, 1978, 92 Stat. 1815, provided that:
+Pub. L. 95–515, § 9, Oct. 25, 1978, 92 Stat. 1815, provided that:
 
 > **“(a)** The provisions of this Act [this chapter] shall take effect on the date of enactment of this Act [Oct. 25, 1978], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
 
@@ -47,9 +47,9 @@ Pub. L. 95–515, § 9, Oct. 25, 1978, 92 Stat. 1815, provided that:
 
 **Short Title**
 
-Pub. L. 95–515, § 1, Oct. 25, 1978, 92 Stat. 1811, provided that: “This Act [enacting this chapter] may be cited as the ‘Interstate Horseracing Act of 1978’.”
+Pub. L. 95–515, § 1, Oct. 25, 1978, 92 Stat. 1811, provided that: “This Act [enacting this chapter] may be cited as the ‘Interstate Horseracing Act of 1978’.”
 
-## § 3002. Definitions
+## § 3002. Definitions
 
 For the purposes of this chapter the term—
 
@@ -97,7 +97,7 @@ For the purposes of this chapter the term—
 
 **(22)** “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen’s group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
 
-(Pub. L. 95–515, § 3, Oct. 25, 1978, 92 Stat. 1811; Pub. L. 106–553, § 1(a)(2) [title VI, § 629], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
+(Pub. L. 95–515, § 3, Oct. 25, 1978, 92 Stat. 1811; Pub. L. 106–553, § 1(a)(2) [title VI, § 629], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
 
 **Editorial Notes**
 
@@ -105,13 +105,13 @@ For the purposes of this chapter the term—
 
 2000—Par. (3). Pub. L. 106–553 inserted “and includes pari-mutuel wagers, where lawful in each State involved, placed or transmitted by an individual in one State via telephone or other electronic media and accepted by an off-track betting system in the same or another State, as well as the combination of any pari-mutuel wagering pools” after “another State”.
 
-## § 3003. Acceptance of interstate off-track wager
+## § 3003. Acceptance of interstate off-track wager
 
 No person may accept an interstate off-track wager except as provided in this chapter.
 
-(Pub. L. 95–515, § 4, Oct. 25, 1978, 92 Stat. 1813.)
+(Pub. L. 95–515, § 4, Oct. 25, 1978, 92 Stat. 1813.)
 
-## § 3004. Regulation of interstate off-track wagering
+## § 3004. Regulation of interstate off-track wagering
 
 **(a) Consent of host racing association, host racing commission, and off-track racing commission as prerequisite to acceptance of wager** An interstate off-track wager may be accepted by an off-track betting system only if consent is obtained from—
 
@@ -139,9 +139,9 @@ No person may accept an interstate off-track wager except as provided in this ch
 
 No parimutuel off-track betting system may employ a takeout for an interstate wager which is greater than the takeout for corresponding wagering pools of off-track wagers on races run within the off-track State except where such greater takeout is authorized by State law in the off-track State.
 
-(Pub. L. 95–515, § 5, Oct. 25, 1978, 92 Stat. 1813.)
+(Pub. L. 95–515, § 5, Oct. 25, 1978, 92 Stat. 1813.)
 
-## § 3005. Liability and damages
+## § 3005. Liability and damages
 
 Any person accepting any interstate off-track wager in violation of this chapter shall be civilly liable for damages to the host State, the host racing association and the horsemen’s group. Damages for each violation shall be based on the total of off-track wagers as follows:
 
@@ -149,9 +149,9 @@ Any person accepting any interstate off-track wager in violation of this chapter
 
 **(2)** If such interstate off-track wager was of a type not accepted at the host racing association, the amount of damages shall be determined at the rate of takeout prevailing at the off-track betting system for that type of wager and shall be distributed according to the same formulas as in paragraph (1) above.
 
-(Pub. L. 95–515, § 6, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, § 6, Oct. 25, 1978, 92 Stat. 1814.)
 
-## § 3006. Civil action
+## § 3006. Civil action
 
 **(a) Parties; remedies**
 
@@ -169,9 +169,9 @@ A civil action may not be commenced pursuant to this section more than 3 years a
 
 Nothing in this chapter shall be construed to permit a State to be sued under this section other than in accordance with its applicable laws.
 
-(Pub. L. 95–515, § 7, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, § 7, Oct. 25, 1978, 92 Stat. 1814.)
 
-## § 3007. Jurisdiction and venue
+## § 3007. Jurisdiction and venue
 
 **(a) District court jurisdiction**
 
@@ -185,4 +185,4 @@ A civil action under this chapter may be brought in any district court of the Un
 
 The jurisdiction of the district courts of the United States pursuant to this section shall be concurrent with that of any State court of competent jurisdiction located in the host State or the off-track State.
 
-(Pub. L. 95–515, § 8, Oct. 25, 1978, 92 Stat. 1814.)
+(Pub. L. 95–515, § 8, Oct. 25, 1978, 92 Stat. 1814.)

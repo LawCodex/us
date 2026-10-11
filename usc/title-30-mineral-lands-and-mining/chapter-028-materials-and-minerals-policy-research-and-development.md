@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28—MATERIALS AND MINERALS POLICY, RESEARCH, AND DEVELOPMENT
 
-## § 1601. Congressional statement of findings; “materials” defined
+## § 1601. Congressional statement of findings; “materials” defined
 
 **(a)** The Congress finds that—
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(2) Materials.—** The term “materials” means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
 
-(Pub. L. 96–479, § 2, Oct. 21, 1980, 94 Stat. 2305; Pub. L. 116–260, div. Z, title VII, § 7002(b)(2), Dec. 27, 2020, 134 Stat. 2563.)
+(Pub. L. 96–479, § 2, Oct. 21, 1980, 94 Stat. 2305; Pub. L. 116–260, div. Z, title VII, § 7002(b)(2), Dec. 27, 2020, 134 Stat. 2563.)
 
 **Editorial Notes**
 
@@ -51,17 +51,17 @@ retrieved: 2026-10-11
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 118–233, § 1, Jan. 4, 2025, 138 Stat. 2835, provided that: “This Act [amending section 1606 of this title] may be cited as the ‘Recognizing the Importance of Critical Minerals in Healthcare Act of 2023’.”
+Pub. L. 118–233, § 1, Jan. 4, 2025, 138 Stat. 2835, provided that: “This Act [amending section 1606 of this title] may be cited as the ‘Recognizing the Importance of Critical Minerals in Healthcare Act of 2023’.”
 
 **Short Title**
 
-Pub. L. 96–479, § 1, Oct. 21, 1980, 94 Stat. 2305, provided: “That this Act [enacting this chapter] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
+Pub. L. 96–479, § 1, Oct. 21, 1980, 94 Stat. 2305, provided: “That this Act [enacting this chapter] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
 
 **Executive Documents**
 
 **Ex. Ord. No. 13817. A Federal Strategy To Ensure Secure and Reliable Supplies of Critical Minerals**
 
-Ex. Ord. No. 13817, Dec. 20, 2017, 82 F.R. 60835, as amended by Ex. Ord. No. 13953, § 7, Sept. 30, 2020, 85 F.R. 62543, provided:
+Ex. Ord. No. 13817, Dec. 20, 2017, 82 F.R. 60835, as amended by Ex. Ord. No. 13953, § 7, Sept. 30, 2020, 85 F.R. 62543, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -201,7 +201,7 @@ Donald J. Trump.
 
 **Ex. Ord. No. 14241. Immediate Measures To Increase American Mineral Production**
 
-Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, as amended by Ex. Ord. No. 14261, § 3, Apr. 8, 2025, 90 F.R. 15517, provided:
+Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, as amended by Ex. Ord. No. 14261, § 3, Apr. 8, 2025, 90 F.R. 15517, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered:
 
@@ -261,7 +261,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 1602. Congressional declaration of policies
+## § 1602. Congressional declaration of policies
 
 It is the continuing policy of the United States to promote an adequate and stable supply of materials necessary to maintain national security, economic well-being and industrial production with appropriate attention to a long-term balance between resource production, energy use, a healthy environment, natural resources conservation, and social needs. Implementation of this policy requires that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to, among other measures—
 
@@ -295,23 +295,23 @@ It is the continuing policy of the United States to promote an adequate and stab
 
 **(13)** establish contingencies for the production of, or access to, critical minerals for which viable sources do not exist within the United States.
 
-(Pub. L. 96–479, § 3, Oct. 21, 1980, 94 Stat. 2305; Pub. L. 116–260, div. Z, title VII, § 7002(b)(1), (m)(2), Dec. 27, 2020, 134 Stat. 2563, 2576.)
+(Pub. L. 96–479, § 3, Oct. 21, 1980, 94 Stat. 2305; Pub. L. 116–260, div. Z, title VII, § 7002(b)(1), (m)(2), Dec. 27, 2020, 134 Stat. 2563, 2576.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 7002(m)(2), in introductory provisions, substituted “It” for “The Congress declares that it” and “Implementation” for “The Congress further declares that implementation”.
+2020—Pub. L. 116–260, § 7002(m)(2), in introductory provisions, substituted “It” for “The Congress declares that it” and “Implementation” for “The Congress further declares that implementation”.
 
-Par. (3). Pub. L. 116–260, § 7002(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “establish a long-range assessment capability concerning materials demands, supply and needs, and provide for the policies and programs necessary to meet those needs;”.
+Par. (3). Pub. L. 116–260, § 7002(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “establish a long-range assessment capability concerning materials demands, supply and needs, and provide for the policies and programs necessary to meet those needs;”.
 
-Pars. (7) to (13). Pub. L. 116–260, § 7002(b)(1)(B), (C), added pars. (7) to (13) and struck out former par. (7) which read as follows: “encourage Federal agencies to facilitate availability and development of domestic resources to meet critical materials needs.”
+Pars. (7) to (13). Pub. L. 116–260, § 7002(b)(1)(B), (C), added pars. (7) to (13) and struck out former par. (7) which read as follows: “encourage Federal agencies to facilitate availability and development of domestic resources to meet critical materials needs.”
 
-## § 1603. Implementation of policies
+## § 1603. Implementation of policies
 
 The President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to implement the policy described in section 1602 of this title and shall—
 
@@ -345,7 +345,7 @@ The President shall, through the Executive Office of the President, coordinate t
 
 **(9)** assess the opportunities for the United States to promote cooperative multilateral and bilateral agreements for materials development in foreign nations for the purpose of increasing the reliability of materials supplies to the Nation.
 
-(Pub. L. 96–479, § 4, Oct. 21, 1980, 94 Stat. 2306; Pub. L. 116–260, div. Z, title VII, § 7002(m)(3), Dec. 27, 2020, 134 Stat. 2576.)
+(Pub. L. 96–479, § 4, Oct. 21, 1980, 94 Stat. 2306; Pub. L. 116–260, div. Z, title VII, § 7002(m)(3), Dec. 27, 2020, 134 Stat. 2576.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ The President shall, through the Executive Office of the President, coordinate t
 
 2020—Pub. L. 116–260, in introductory provisions, substituted “The” for “For the purpose of implementing the policies set forth in section 1602 of this title and the provisions of section 1604 of this title, the Congress declares that the” and “departments and agencies to implement the policy described in section 1602 of this title” for “departments and agencies,”.
 
-## § 1604. Program administration
+## § 1604. Program administration
 
 **(a) President; preparation of plan and submission to Congress of report** Within 1 year after December 27, 2020, the President shall submit to the Congress—
 
@@ -403,43 +403,43 @@ A report summarizing actions required by this subsection shall be made available
 
 In furtherance of the policies of this chapter, the Secretary of the Interior shall collect, evaluate, and analyze information concerning mineral occurrence, production, and use from industry, academia, and Federal and State agencies. Notwithstanding the provisions of section 552 of title 5, data and information provided to the Department by persons or firms engaged in any phase of mineral or mineral-material production or large-scale consumption shall not be disclosed outside of the Department of the Interior in a nonaggregated form so as to disclose data and information supplied by a single person or firm, unless there is no objection to the disclosure of such data and information by the donor: *Provided, however*, That the Secretary may disclose nonaggregated data and information to Federal defense agencies, or to the Congress upon official request for appropriate purposes.
 
-(Pub. L. 96–479, § 5, Oct. 21, 1980, 94 Stat. 2307; Pub. L. 116–260, div. Z, title VII, § 7002(m)(1) Dec. 27, 2020, 134 Stat. 2575.)
+(Pub. L. 96–479, § 5, Oct. 21, 1980, 94 Stat. 2307; Pub. L. 116–260, div. Z, title VII, § 7002(m)(1) Dec. 27, 2020, 134 Stat. 2575.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 
-The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 7002(m)(1)(A), which directed substitution of “date of enactment of the Energy Act of 2020” for “date of enactment of this Act” wherever appearing, was executed by substituting “December 27, 2020” for “October 21, 1980” in subsecs. (a), (d), and (e). Substitutions in subsecs. (d) and (e) were made for original text reading “enactment of this Act” and “the enactment of this Act”, to reflect the probable intent of Congress.
+2020—Pub. L. 116–260, § 7002(m)(1)(A), which directed substitution of “date of enactment of the Energy Act of 2020” for “date of enactment of this Act” wherever appearing, was executed by substituting “December 27, 2020” for “October 21, 1980” in subsecs. (a), (d), and (e). Substitutions in subsecs. (d) and (e) were made for original text reading “enactment of this Act” and “the enactment of this Act”, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 116–260, § 7002(m)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council for Science, Engineering, and Technology”.
+Subsec. (b)(1). Pub. L. 116–260, § 7002(m)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council for Science, Engineering, and Technology”.
 
-Subsec. (c). Pub. L. 116–260, § 7002(m)(1)(C)(i), in introductory provisions, struck out “the Federal Emergency Management Administration, the Secretary of the Interior, the Secretary of Defense, the Director of the Central Intelligence Agency, and” before “such” and substituted “appropriate, shall—” for “appropriate shall—”.
+Subsec. (c). Pub. L. 116–260, § 7002(m)(1)(C)(i), in introductory provisions, struck out “the Federal Emergency Management Administration, the Secretary of the Interior, the Secretary of Defense, the Director of the Central Intelligence Agency, and” before “such” and substituted “appropriate, shall—” for “appropriate shall—”.
 
-Subsec. (c)(1). Pub. L. 116–260, § 7002(m)(1)(C)(ii), (iii), (iv)(II), (III), redesignated par. (2) as (1), substituted “that assesses” for “which assesses” and “and that” for “in the case identified in paragraph (1) of this subsection, and which”, and struck out former par. (1) which read as follows: “within 3 months after October 21, 1980, identify and submit to the Congress a specific materials needs case related to national security, economic well-being and industrial production which will be the subject of the report required by paragraph (2) of this subsection;”.
+Subsec. (c)(1). Pub. L. 116–260, § 7002(m)(1)(C)(ii), (iii), (iv)(II), (III), redesignated par. (2) as (1), substituted “that assesses” for “which assesses” and “and that” for “in the case identified in paragraph (1) of this subsection, and which”, and struck out former par. (1) which read as follows: “within 3 months after October 21, 1980, identify and submit to the Congress a specific materials needs case related to national security, economic well-being and industrial production which will be the subject of the report required by paragraph (2) of this subsection;”.
 
-Pub. L. 116–260, § 7002(m)(1)(C)(iv)(I), which directed substitution of “not later than 1 year after the date of the enactment of the Energy Act of 2020” for “within 1 year after October 21, 1980”, was executed by substituting “not later than 1 year after December 27, 2020” for text in original which had read “within 1 year after the date of enactment of this Act” and had been translated to “within 1 year after October 21, 1980”, and by making such substitution prior to similar amendment by § 7002(m)(1)(A), to reflect the probable intent of Congress. See first 2020 Amendment note above.
+Pub. L. 116–260, § 7002(m)(1)(C)(iv)(I), which directed substitution of “not later than 1 year after the date of the enactment of the Energy Act of 2020” for “within 1 year after October 21, 1980”, was executed by substituting “not later than 1 year after December 27, 2020” for text in original which had read “within 1 year after the date of enactment of this Act” and had been translated to “within 1 year after October 21, 1980”, and by making such substitution prior to similar amendment by § 7002(m)(1)(A), to reflect the probable intent of Congress. See first 2020 Amendment note above.
 
-Subsec. (c)(2). Pub. L. 116–260, § 7002(m)(1)(C)(v), added par. (2). Former par. (2) redesignated (1).
+Subsec. (c)(2). Pub. L. 116–260, § 7002(m)(1)(C)(v), added par. (2). Former par. (2) redesignated (1).
 
-Subsec. (c)(3). Pub. L. 116–260, § 7002(m)(1)(C)(ii), struck out par. (3) which read as follows: “continually thereafter identify and assess additional cases, as necessary, to ensure an adequate and stable supply of materials to meet national security, economic well-being and industrial production needs.”
+Subsec. (c)(3). Pub. L. 116–260, § 7002(m)(1)(C)(ii), struck out par. (3) which read as follows: “continually thereafter identify and assess additional cases, as necessary, to ensure an adequate and stable supply of materials to meet national security, economic well-being and industrial production needs.”
 
-Subsec. (e). Pub. L. 116–260, § 7002(m)(1)(D), substituted “United States Geological Survey” for “Bureau of Mines” in pars. (1) and (2).
+Subsec. (e). Pub. L. 116–260, § 7002(m)(1)(D), substituted “United States Geological Survey” for “Bureau of Mines” in pars. (1) and (2).
 
-## § 1605. Applicability to other statutory national mining and minerals policies
+## § 1605. Applicability to other statutory national mining and minerals policies
 
 Nothing in this chapter shall be interpreted as changing in any manner or degree the provisions of and requirements of section 21a of this title. For the purposes of achieving the objectives set forth in section 1602 of this title, the Congress declares that the President shall direct (1) the Secretary of the Interior to act immediately within the Department’s statutory authority to attain the goals contained in section 21a of this title and (2) the Executive Office of the President to act immediately to promote the goals contained in section 21a of this title among the various departments and agencies.
 
-(Pub. L. 96–479, § 6, Oct. 21, 1980, 94 Stat. 2309.)
+(Pub. L. 96–479, § 6, Oct. 21, 1980, 94 Stat. 2309.)
 
-## § 1606. Mineral security
+## § 1606. Mineral security
 
 **(a) Definitions** In this section:
 
@@ -985,7 +985,7 @@ This section shall not apply to any mineral described in Secretarial Order No. 3
 
 There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2021 through 2029.
 
-(Pub. L. 116–260, div. Z, title VII, § 7002, Dec. 27, 2020, 134 Stat. 2562; Pub. L. 118–233, § 2, Jan. 4, 2025, 138 Stat. 2835.)
+(Pub. L. 116–260, div. Z, title VII, § 7002, Dec. 27, 2020, 134 Stat. 2562; Pub. L. 118–233, § 2, Jan. 4, 2025, 138 Stat. 2835.)
 
 **Editorial Notes**
 
@@ -997,7 +997,7 @@ An amendment made by this section, referred to in subsec. (n)(3)(A), (B), means 
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
 
-Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (*l*) of section 7002 amended section 15908 of Title 42, The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§ 1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended section 5202 of Title 15, Commerce and Trade.
+Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (*l*) of section 7002 amended section 15908 of Title 42, The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§ 1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended section 5202 of Title 15, Commerce and Trade.
 
 **Amendments**
 
@@ -1007,9 +1007,9 @@ Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b)
 
 **Department of Defense Research and Development Priorities**
 
-Pub. L. 117–81, div. A, title VIII, § 845, Dec. 27, 2021, 135 Stat. 1842, provided that: “The Secretary of Defense shall cooperate with the Secretary of Energy to ensure that the priorities of the Department of Defense with respect to the research and development of alternative technologies to, and methods for the extraction, processing, and recycling of, critical minerals (as defined in section 2(b) of the National Materials and Minerals Policy, Research, and Development Act of 1980 (30 U.S.C. 1601(b))) are considered and included where feasible in the associated research and development activities funded by the Secretary of Energy pursuant to the program established under paragraph [probably should be “subsection”] (g) of section 7002 of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260) [30 U.S.C. 1606(g)].”
+Pub. L. 117–81, div. A, title VIII, § 845, Dec. 27, 2021, 135 Stat. 1842, provided that: “The Secretary of Defense shall cooperate with the Secretary of Energy to ensure that the priorities of the Department of Defense with respect to the research and development of alternative technologies to, and methods for the extraction, processing, and recycling of, critical minerals (as defined in section 2(b) of the National Materials and Minerals Policy, Research, and Development Act of 1980 (30 U.S.C. 1601(b))) are considered and included where feasible in the associated research and development activities funded by the Secretary of Energy pursuant to the program established under paragraph [probably should be “subsection”] (g) of section 7002 of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260) [30 U.S.C. 1606(g)].”
 
-## § 1607. Critical minerals supply chains and reliability
+## § 1607. Critical minerals supply chains and reliability
 
 **(a) Definition of critical mineral**
 
@@ -1085,7 +1085,7 @@ Not later than 90 days after the date of submission of the report under subsecti
 
 Each year, using data contained in the reports submitted under subsection (f), the Director of the Office of Management and Budget shall prioritize inclusion of individual critical mineral projects on the website operated by the Office of Management and Budget in accordance with section 1122 of title 31.
 
-(Pub. L. 117–58, div. D, title II, § 40206, Nov. 15, 2021, 135 Stat. 961.)
+(Pub. L. 117–58, div. D, title II, § 40206, Nov. 15, 2021, 135 Stat. 961.)
 
 **Editorial Notes**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1201—KOREAN WAR VETERANS ASSOCIATION, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1201—KOREAN WAR VETERANS ASSOCIATION, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1201"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1201—KOREAN WAR VETERANS ASSOCIATION, INCORPORATED
 
@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–254, § 1(a), June 30, 2008, 122 Stat. 2419, substituted chapter heading and table of sections consisting of items 120101 to 120112 for “[RESERVED]”.
+2008—Pub. L. 110–254, § 1(a), June 30, 2008, 122 Stat. 2419, substituted chapter heading and table of sections consisting of items 120101 to 120112 for “[RESERVED]”.
 
-## § 120101. Organization
+## § 120101. Organization
 
 **(a) Federal Charter.—** Korean War Veterans Association, Incorporated (in this chapter, the “corporation”), a nonprofit organization that meets the requirements for a veterans service organization under section 501(c)(19) of the Internal Revenue Code of 1986 and that is organized under the laws of the State of New York, is a federally chartered corporation.
 
 **(b) Expiration of Charter.—** If the corporation does not comply with the provisions of this chapter, the charter granted by subsection (a) shall expire.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2419.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2419.)
 
 **Editorial Notes**
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 Section 501(c)(19) of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 501(c)(19) of Title 26, Internal Revenue Code.
 
-## § 120102. Purposes
+## § 120102. Purposes
 
 The purposes of the corporation are those provided in the articles of incorporation of the corporation and shall include the following:
 
@@ -49,29 +49,29 @@ The purposes of the corporation are those provided in the articles of incorporat
 
 **(5)** To preserve for the people of the United States and posterity of such people the great and basic truths and enduring principles upon which the United States was founded.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
 
-## § 120103. Membership
+## § 120103. Membership
 
 Eligibility for membership in the corporation, and the rights and privileges of members of the corporation, are as provided in the bylaws of the corporation.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
 
-## § 120104. Governing body
+## § 120104. Governing body
 
 **(a) Board of Directors.—** The composition of the board of directors of the corporation, and the responsibilities of the board, are as provided in the articles of incorporation of the corporation.
 
 **(b) Officers.—** The positions of officers of the corporation, and the election of the officers, are as provided in the articles of incorporation.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
 
-## § 120105. Powers
+## § 120105. Powers
 
 The corporation has only those powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
 
-## § 120106. Restrictions
+## § 120106. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -83,13 +83,13 @@ The corporation has only those powers provided in its bylaws and articles of inc
 
 **(e) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of the State of New York.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2420.)
 
-## § 120107. Tax-exempt status required as condition of charter
+## § 120107. Tax-exempt status required as condition of charter
 
 If the corporation fails to maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986, the charter granted under this chapter shall terminate.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ If the corporation fails to maintain its status as an organization exempt from t
 
 The Internal Revenue Code of 1986, referred to in text, is classified generally to Title 26, Internal Revenue Code.
 
-## § 120108. Records and inspection
+## § 120108. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -109,28 +109,28 @@ The Internal Revenue Code of 1986, referred to in text, is classified generally 
 
 **(b) Inspection.—** A member entitled to vote on any matter relating to the corporation, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose, at any reasonable time.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
 
-## § 120109. Service of process
+## § 120109. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
 
-## § 120110. Liability for acts of officers and agents
+## § 120110. Liability for acts of officers and agents
 
 The corporation is liable for any act of any officer or agent of the corporation acting within the scope of the authority of the corporation.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
 
-## § 120111. Annual report
+## § 120111. Annual report
 
 The corporation shall submit to Congress an annual report on the activities of the corporation during the preceding fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101(b) of this title. The report may not be printed as a public document.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
 
-## § 120112. Definition
+## § 120112. Definition
 
 For purposes of this chapter, the term “State” includes the District of Columbia and the territories and possessions of the United States.
 
-(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)
+(Added Pub. L. 110–254, § 1(a)(2), June 30, 2008, 122 Stat. 2421.)

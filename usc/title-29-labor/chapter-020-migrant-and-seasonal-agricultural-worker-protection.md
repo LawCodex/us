@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 20—MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION
 
-## § 1801. Congressional statement of purpose
+## § 1801. Congressional statement of purpose
 
 It is the purpose of this chapter to remove the restraints on commerce caused by activities detrimental to migrant and seasonal agricultural workers; to require farm labor contractors to register under this chapter; and to assure necessary protections for migrant and seasonal agricultural workers, agricultural associations, and agricultural employers.
 
-(Pub. L. 97–470, § 2, Jan. 14, 1983, 96 Stat. 2584.)
+(Pub. L. 97–470, § 2, Jan. 14, 1983, 96 Stat. 2584.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–470, title V, § 524, Jan. 14, 1983, 96 Stat. 2600, provided in part that: “The provisions of this Act [enacting this chapter and repealing chapter 52 (§ 2041 et seq.) of Title 7, Agriculture] shall take effect ninety days from the date of enactment [Jan. 14, 1983].”
+Pub. L. 97–470, title V, § 524, Jan. 14, 1983, 96 Stat. 2600, provided in part that: “The provisions of this Act [enacting this chapter and repealing chapter 52 (§ 2041 et seq.) of Title 7, Agriculture] shall take effect ninety days from the date of enactment [Jan. 14, 1983].”
 
 **Short Title**
 
-Pub. L. 97–470, § 1, Jan. 14, 1983, 96 Stat. 2584, provided in part that this Act [enacting this chapter and repealing chapter 52 (§ 2041 et seq.) of Title 7, Agriculture] may be cited as the “Migrant and Seasonal Agricultural Worker Protection Act”.
+Pub. L. 97–470, § 1, Jan. 14, 1983, 96 Stat. 2584, provided in part that this Act [enacting this chapter and repealing chapter 52 (§ 2041 et seq.) of Title 7, Agriculture] may be cited as the “Migrant and Seasonal Agricultural Worker Protection Act”.
 
-## § 1802. Definitions
+## § 1802. Definitions
 
 As used in this chapter—
 
@@ -81,13 +81,13 @@ As used in this chapter—
 
 **(12)** The term “State” means any of the States of the United States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, and Guam.
 
-(Pub. L. 97–470, § 3, Jan. 14, 1983, 96 Stat. 2584; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, § 101(b)(1)(A), Nov. 6, 1986, 100 Stat. 3372.)
+(Pub. L. 97–470, § 3, Jan. 14, 1983, 96 Stat. 2584; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, § 101(b)(1)(A), Nov. 6, 1986, 100 Stat. 3372.)
 
 **Editorial Notes**
 
 **References in Text**
 
-That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060, known as the Fair Labor Standards Act of 1938, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060, known as the Fair Labor Standards Act of 1938, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 **Amendments**
 
@@ -99,13 +99,13 @@ Pars. (8)(B)(ii), (10)(B)(iii). Pub. L. 99–603 substituted “1101(a)(15)(H)(i
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–603, title I, § 101(b)(2), Nov. 6, 1986, 100 Stat. 3372, as amended by Pub. L. 100–525, § 2(a)(2), Oct. 24, 1988, 102 Stat. 2610, provided that: “The amendments made by paragraph (1) [amending this section and sections 1813 and 1851 of this title and repealing section 1816 of this title] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after the first day of the seventh month beginning after the date of the enactment of this Act [Nov. 6, 1986]; except that if the provisions of section 274A of the Immigration and Nationality Act [8 U.S.C. 1324a] are terminated as of a date under [former] subsection (*l*) of such section, then such amendments shall no longer apply as of such date.” [The provisions of section 1324a of Title 8, Aliens and Nationality, were not terminated under subsection (*l*) of section 1324a, and that subsection was repealed by Pub. L. 104–208.]
+Pub. L. 99–603, title I, § 101(b)(2), Nov. 6, 1986, 100 Stat. 3372, as amended by Pub. L. 100–525, § 2(a)(2), Oct. 24, 1988, 102 Stat. 2610, provided that: “The amendments made by paragraph (1) [amending this section and sections 1813 and 1851 of this title and repealing section 1816 of this title] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after the first day of the seventh month beginning after the date of the enactment of this Act [Nov. 6, 1986]; except that if the provisions of section 274A of the Immigration and Nationality Act [8 U.S.C. 1324a] are terminated as of a date under [former] subsection (*l*) of such section, then such amendments shall no longer apply as of such date.” [The provisions of section 1324a of Title 8, Aliens and Nationality, were not terminated under subsection (*l*) of section 1324a, and that subsection was repealed by Pub. L. 104–208.]
 
 **Effective Date**
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-## § 1803. Applicability of chapter
+## § 1803. Applicability of chapter
 
 **(a)** The following persons are not subject to this chapter:
 
@@ -143,13 +143,13 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 **(b)** Subchapter I of this chapter does not apply to any agricultural employer or agricultural association or to any employee of such an employer or association.
 
-(Pub. L. 97–470, § 4, Jan. 14, 1983, 96 Stat. 2585.)
+(Pub. L. 97–470, § 4, Jan. 14, 1983, 96 Stat. 2585.)
 
 **Editorial Notes**
 
 **References in Text**
 
-That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,7 +159,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ## SUBCHAPTER I—FARM LABOR CONTRACTORS
 
-### § 1811. Certificate of registration required
+### § 1811. Certificate of registration required
 
 **(a) Persons engaged in any farm labor contracting activity**
 
@@ -177,13 +177,13 @@ Each registered farm labor contractor and registered farm labor contractor emplo
 
 The facilities and the services authorized by the Act of June 6, 1933 (29 U.S.C. 49 et seq.), known as the Wagner-Peyser Act, shall be denied to any farm labor contractor upon refusal or failure to produce, when asked, a certificate of registration.
 
-(Pub. L. 97–470, title I, § 101, Jan. 14, 1983, 96 Stat. 2587.)
+(Pub. L. 97–470, title I, § 101, Jan. 14, 1983, 96 Stat. 2587.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -191,7 +191,7 @@ The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1812. Issuance of certificate of registration
+### § 1812. Issuance of certificate of registration
 
 The Secretary, after appropriate investigation and approval, shall issue a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) to any person who has filed with the Secretary a written application containing the following:
 
@@ -205,7 +205,7 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
 
 **(5)** a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
 
-(Pub. L. 97–470, title I, § 102, Jan. 14, 1983, 96 Stat. 2587.)
+(Pub. L. 97–470, title I, § 102, Jan. 14, 1983, 96 Stat. 2587.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,7 +213,7 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1813. Registration determinations
+### § 1813. Registration determinations
 
 **(a) Grounds for refusal to issue or renew, suspension, or revocation of certificate** In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend or revoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—
 
@@ -247,13 +247,13 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 Any person against whom an order has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the order was based. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
 
-(Pub. L. 97–470, title I, § 103, Jan. 14, 1983, 96 Stat. 2588; Pub. L. 99–603, title I, § 101(b)(1)(B), Nov. 6, 1986, 100 Stat. 3372.)
+(Pub. L. 97–470, title I, § 103, Jan. 14, 1983, 96 Stat. 2588; Pub. L. 99–603, title I, § 101(b)(1)(B), Nov. 6, 1986, 100 Stat. 3372.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 **Amendments**
 
@@ -269,7 +269,7 @@ Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, o
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1814. Transfer or assignment; expiration; renewal
+### § 1814. Transfer or assignment; expiration; renewal
 
 **(a) Transfer or assignment prohibited**
 
@@ -281,13 +281,13 @@ A certificate of registration may not be transferred or assigned.
 
 **(2)** Eligibility for renewals for periods of more than twelve months shall be limited to farm labor contractors who have not been cited for a violation of this chapter, or any regulation under this chapter, or the Farm Labor Contractor Registration Act of 1963 [7 U.S.C. 2041 et seq.], or any regulation under such Act, during the preceding five years.
 
-(Pub. L. 97–470, title I, § 104, Jan. 14, 1983, 96 Stat. 2589.)
+(Pub. L. 97–470, title I, § 104, Jan. 14, 1983, 96 Stat. 2589.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,7 +295,7 @@ The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1815. Notice of address change; amendment of certificate of registration
+### § 1815. Notice of address change; amendment of certificate of registration
 
 During the period for which the certificate of registration is in effect, each farm labor contractor shall—
 
@@ -309,7 +309,7 @@ During the period for which the certificate of registration is in effect, each f
 
 **(C)** use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
 
-(Pub. L. 97–470, title I, § 105, Jan. 14, 1983, 96 Stat. 2589.)
+(Pub. L. 97–470, title I, § 105, Jan. 14, 1983, 96 Stat. 2589.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,9 +317,9 @@ During the period for which the certificate of registration is in effect, each f
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1816. Repealed. Pub. L. 99–603, title I, § 101(b)(1)(C), Nov. 6, 1986, 100 Stat. 3372
+### § 1816. Repealed. Pub. L. 99–603, title I, § 101(b)(1)(C), Nov. 6, 1986, 100 Stat. 3372
 
-Section, Pub. L. 97–470, title I, § 106, Jan. 14, 1983, 96 Stat. 2589, prohibited employment of illegal aliens.
+Section, Pub. L. 97–470, title I, § 106, Jan. 14, 1983, 96 Stat. 2589, prohibited employment of illegal aliens.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -329,7 +329,7 @@ Repeal applicable to employment, recruitment, referral, or utilization of servic
 
 ## SUBCHAPTER II—MIGRANT AGRICULTURAL WORKER PROTECTIONS
 
-### § 1821. Information and recordkeeping requirements
+### § 1821. Information and recordkeeping requirements
 
 **(a) Written disclosure requirements imposed upon recruiters** Each farm labor contractor, agricultural employer, and agricultural association which recruits any migrant agricultural worker shall ascertain and disclose in writing to each such worker who is recruited for employment the following information at the time of the worker’s recruitment:
 
@@ -389,7 +389,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 The information required to be disclosed by subsections (a) through (c) of this section to migrant agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to migrant agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-(Pub. L. 97–470, title II, § 201, Jan. 14, 1983, 96 Stat. 2590; Pub. L. 104–49, § 4(a), Nov. 15, 1995, 109 Stat. 434.)
+(Pub. L. 97–470, title II, § 201, Jan. 14, 1983, 96 Stat. 2590; Pub. L. 104–49, § 4(a), Nov. 15, 1995, 109 Stat. 434.)
 
 **Editorial Notes**
 
@@ -401,13 +401,13 @@ The information required to be disclosed by subsections (a) through (c) of this 
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1831 of this title] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
+Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1831 of this title] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
 
 **Effective Date**
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1822. Wages, supplies, and other working arrangements
+### § 1822. Wages, supplies, and other working arrangements
 
 **(a) Payment of wages**
 
@@ -421,7 +421,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.
 
-(Pub. L. 97–470, title II, § 202, Jan. 14, 1983, 96 Stat. 2591.)
+(Pub. L. 97–470, title II, § 202, Jan. 14, 1983, 96 Stat. 2591.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,7 +429,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1823. Safety and health of housing
+### § 1823. Safety and health of housing
 
 **(a) Compliance with substantive Federal and State safety and health standards**
 
@@ -445,7 +445,7 @@ Except as provided in subsection (c), each person who owns or controls a facilit
 
 This section does not apply to any person who, in the ordinary course of that person’s business, regularly provides housing on a commercial basis to the general public and who provides housing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.
 
-(Pub. L. 97–470, title II, § 203, Jan. 14, 1983, 96 Stat. 2591.)
+(Pub. L. 97–470, title II, § 203, Jan. 14, 1983, 96 Stat. 2591.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -455,7 +455,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ## SUBCHAPTER III—SEASONAL AGRICULTURAL WORKER PROTECTIONS
 
-### § 1831. Information and recordkeeping requirements
+### § 1831. Information and recordkeeping requirements
 
 **(a) Written disclosure requirements imposed upon recruiters**
 
@@ -505,9 +505,9 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 **(d) Furnishing of records by farm labor contractor; maintenance of records by recipient**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1). The recipient of these records shall keep them for a period of three years from the end of the period of employment.
 
@@ -519,7 +519,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-(Pub. L. 97–470, title III, § 301, Jan. 14, 1983, 96 Stat. 2592; Pub. L. 104–49, § 4(b), Nov. 15, 1995, 109 Stat. 434.)
+(Pub. L. 97–470, title III, § 301, Jan. 14, 1983, 96 Stat. 2592; Pub. L. 104–49, § 4(b), Nov. 15, 1995, 109 Stat. 434.)
 
 **Editorial Notes**
 
@@ -537,7 +537,7 @@ Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the dat
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1832. Wages, supplies, and other working arrangements
+### § 1832. Wages, supplies, and other working arrangements
 
 **(a) Payment of wages**
 
@@ -551,7 +551,7 @@ No farm labor contractor, agricultural employer, or agricultural association sha
 
 No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any seasonal agricultural worker.
 
-(Pub. L. 97–470, title III, § 302, Jan. 14, 1983, 96 Stat. 2593.)
+(Pub. L. 97–470, title III, § 302, Jan. 14, 1983, 96 Stat. 2593.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,7 +561,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ## SUBCHAPTER IV—FURTHER PROTECTIONS FOR MIGRANT AND SEASONAL AGRICULTURAL WORKERS
 
-### § 1841. Motor vehicle safety
+### § 1841. Motor vehicle safety
 
 **(a) Mode of transportation subject to coverage**
 
@@ -611,7 +611,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 The Secretary shall, by regulations promulgated in accordance with section 1861 of this title not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
 
-(Pub. L. 97–470, title IV, § 401, Jan. 14, 1983, 96 Stat. 2594; Pub. L. 104–49, § 5(a), Nov. 15, 1995, 109 Stat. 434; Pub. L. 104–88, title III, § 333, Dec. 29, 1995, 109 Stat. 953.)
+(Pub. L. 97–470, title IV, § 401, Jan. 14, 1983, 96 Stat. 2594; Pub. L. 104–49, § 5(a), Nov. 15, 1995, 109 Stat. 434; Pub. L. 104–88, title III, § 333, Dec. 29, 1995, 109 Stat. 953.)
 
 **Editorial Notes**
 
@@ -621,7 +621,7 @@ The effective date of this chapter, referred to in subsecs. (b)(2)(D) and (d), i
 
 **Codification**
 
-In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§ 1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
+In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§ 1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
 
 **Amendments**
 
@@ -635,7 +635,7 @@ Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment,
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-Pub. L. 104–49, § 5(c), Nov. 15, 1995, 109 Stat. 435, provided that: “The amendment made by subsection (a) [amending this section] takes effect upon the expiration of 180 days after the date of enactment of this Act [Nov. 15, 1995] or upon the issuance of final regulations under subsection (b) [set out below], whichever occurs first.”
+Pub. L. 104–49, § 5(c), Nov. 15, 1995, 109 Stat. 435, provided that: “The amendment made by subsection (a) [amending this section] takes effect upon the expiration of 180 days after the date of enactment of this Act [Nov. 15, 1995] or upon the issuance of final regulations under subsection (b) [set out below], whichever occurs first.”
 
 **Effective Date**
 
@@ -643,13 +643,13 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 **Regulations**
 
-Pub. L. 104–49, § 5(b), Nov. 15, 1995, 109 Stat. 435, provided that: “Within 180 days of the date of the enactment of this Act [Nov. 15, 1995], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
+Pub. L. 104–49, § 5(b), Nov. 15, 1995, 109 Stat. 435, provided that: “Within 180 days of the date of the enactment of this Act [Nov. 15, 1995], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
 
-### § 1842. Confirmation of registration
+### § 1842. Confirmation of registration
 
 No person shall utilize the services of any farm labor contractor to supply any migrant or seasonal agricultural worker unless the person first takes reasonable steps to determine that the farm labor contractor possesses a certificate of registration which is valid and which authorizes the activity for which the contractor is utilized. In making that determination, the person may rely upon either possession of a certificate of registration, or confirmation of such registration by the Department of Labor. The Secretary shall maintain a central public registry of all persons issued a certificate of registration.
 
-(Pub. L. 97–470, title IV, § 402, Jan. 14, 1983, 96 Stat. 2595.)
+(Pub. L. 97–470, title IV, § 402, Jan. 14, 1983, 96 Stat. 2595.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,11 +657,11 @@ No person shall utilize the services of any farm labor contractor to supply any 
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1843. Information on employment conditions
+### § 1843. Information on employment conditions
 
 Each farm labor contractor, without regard to any other provisions of this chapter, shall obtain at each place of employment and make available for inspection to every worker he furnishes for employment, a written statement of the conditions of such employment as described in sections 1821(b) and 1831(b) of this title.
 
-(Pub. L. 97–470, title IV, § 403, Jan. 14, 1983, 96 Stat. 2595.)
+(Pub. L. 97–470, title IV, § 403, Jan. 14, 1983, 96 Stat. 2595.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -669,7 +669,7 @@ Each farm labor contractor, without regard to any other provisions of this chapt
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-### § 1844. Compliance with written agreements
+### § 1844. Compliance with written agreements
 
 **(a) Applicability to contracting activity or worker protection**
 
@@ -679,7 +679,7 @@ No farm labor contractor shall violate, without justification, the terms of any 
 
 Written agreements under this section do not relieve a person of any responsibility that such person would otherwise have under this chapter.
 
-(Pub. L. 97–470, title IV, § 404, Jan. 14, 1983, 96 Stat. 2596.)
+(Pub. L. 97–470, title IV, § 404, Jan. 14, 1983, 96 Stat. 2596.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -691,7 +691,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ### Part A—Enforcement Provisions
 
-#### § 1851. Criminal sanctions
+#### § 1851. Criminal sanctions
 
 **(a) Violations of chapter or regulations**
 
@@ -701,7 +701,7 @@ Any person who willfully and knowingly violates this chapter or any regulation u
 
 If a farm labor contractor who commits a violation of paragraph (1) or (2) of section 1324a(a) of title 8 has been refused issuance or renewal of, or has failed to obtain, a certificate of registration or is a farm labor contractor whose certificate has been suspended or revoked, the contractor shall, upon conviction, be fined not more than $10,000 or sentenced to prison for a term not to exceed three years, or both.
 
-(Pub. L. 97–470, title V, § 501, Jan. 14, 1983, 96 Stat. 2596; Pub. L. 99–603, title I, § 101(b)(1)(D), Nov. 6, 1986, 100 Stat. 3372.)
+(Pub. L. 97–470, title V, § 501, Jan. 14, 1983, 96 Stat. 2596; Pub. L. 99–603, title I, § 101(b)(1)(D), Nov. 6, 1986, 100 Stat. 3372.)
 
 **Editorial Notes**
 
@@ -719,7 +719,7 @@ Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, o
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1852. Judicial enforcement
+#### § 1852. Judicial enforcement
 
 **(a) Injunctive relief**
 
@@ -729,7 +729,7 @@ The Secretary may petition any appropriate district court of the United States f
 
 Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter, but all such litigation shall be subject to the direction and control of the Attorney General.
 
-(Pub. L. 97–470, title V, § 502, Jan. 14, 1983, 96 Stat. 2596.)
+(Pub. L. 97–470, title V, § 502, Jan. 14, 1983, 96 Stat. 2596.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -737,7 +737,7 @@ Except as provided in section 518(a) of title 28, relating to litigation before 
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1853. Administrative sanctions
+#### § 1853. Administrative sanctions
 
 **(a) Civil money penalties for violations; criteria for assessment**
 
@@ -763,13 +763,13 @@ If any person fails to pay an assessment after it has become a final and unappea
 
 All penalties collected under authority of this section shall be paid into the Treasury of the United States.
 
-(Pub. L. 97–470, title V, § 503, Jan. 14, 1983, 96 Stat. 2596.)
+(Pub. L. 97–470, title V, § 503, Jan. 14, 1983, 96 Stat. 2596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -777,7 +777,7 @@ The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1854. Private right of action
+#### § 1854. Private right of action
 
 **(a) Maintenance of civil action in district court by aggrieved person**
 
@@ -843,21 +843,21 @@ the court shall award not more than $10,000 per plaintiff per violation with res
 
 If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
 
-(Pub. L. 97–470, title V, § 504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, § 325(a), Oct. 6, 1992, 106 Stat. 1728; Pub. L. 104–49, §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, 109 Stat. 432, 433.)
+(Pub. L. 97–470, title V, § 504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, § 325(a), Oct. 6, 1992, 106 Stat. 1728; Pub. L. 104–49, §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, 109 Stat. 432, 433.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1995—Subsec. (d). Pub. L. 104–49, § 1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+1995—Subsec. (d). Pub. L. 104–49, § 1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
 
 “(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) for statutory damages or an injunction.”
 
-Subsec. (e). Pub. L. 104–49, § 2(a), added subsec. (e).
+Subsec. (e). Pub. L. 104–49, § 2(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 104–49, § 3, added subsec. (f).
+Subsec. (f). Pub. L. 104–49, § 3, added subsec. (f).
 
 1992—Subsec. (d). Pub. L. 102–392 added subsec. (d).
 
@@ -865,19 +865,19 @@ Subsec. (f). Pub. L. 104–49, § 3, added subsec. (f).
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–49, § 1(b), Nov. 15, 1995, 109 Stat. 432, provided that: “The amendment made by subsection (a)(2) [amending this section] shall apply to all cases in which a final judgment has not been entered.”
+Pub. L. 104–49, § 1(b), Nov. 15, 1995, 109 Stat. 432, provided that: “The amendment made by subsection (a)(2) [amending this section] shall apply to all cases in which a final judgment has not been entered.”
 
-Pub. L. 104–49, § 2(b), Nov. 15, 1995, 109 Stat. 433, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all cases in which a final judgment has not been entered.”
+Pub. L. 104–49, § 2(b), Nov. 15, 1995, 109 Stat. 433, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all cases in which a final judgment has not been entered.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–392, title III, § 325(c), Oct. 6, 1992, 106 Stat. 1728, provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, § 1(a)(1), Nov. 15, 1995, 109 Stat. 432.
+Pub. L. 102–392, title III, § 325(c), Oct. 6, 1992, 106 Stat. 1728, provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, § 1(a)(1), Nov. 15, 1995, 109 Stat. 432.
 
 **Effective Date**
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1855. Discrimination prohibited
+#### § 1855. Discrimination prohibited
 
 **(a) Prohibited activities**
 
@@ -887,7 +887,7 @@ No person shall intimidate, threaten, restrain, coerce, blacklist, discharge, or
 
 A migrant or seasonal agricultural worker who believes, with just cause, that he has been discriminated against by any person in violation of this section may, within 180 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this section have been violated, the Secretary shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown, to restrain violation of subsection (a) and order all appropriate relief, including rehiring or reinstatement of the worker, with back pay, or damages.
 
-(Pub. L. 97–470, title V, § 505, Jan. 14, 1983, 96 Stat. 2598.)
+(Pub. L. 97–470, title V, § 505, Jan. 14, 1983, 96 Stat. 2598.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -895,11 +895,11 @@ A migrant or seasonal agricultural worker who believes, with just cause, that he
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1856. Waiver of rights
+#### § 1856. Waiver of rights
 
 Agreements by employees purporting to waive or to modify their rights under this chapter shall be void as contrary to public policy, except that a waiver or modification of rights in favor of the Secretary shall be valid for purposes of enforcement of this chapter.
 
-(Pub. L. 97–470, title V, § 506, Jan. 14, 1983, 96 Stat. 2598.)
+(Pub. L. 97–470, title V, § 506, Jan. 14, 1983, 96 Stat. 2598.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -909,11 +909,11 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ### Part B—Administrative Provisions
 
-#### § 1861. Rules and regulations
+#### § 1861. Rules and regulations
 
 The Secretary may issue such rules and regulations as are necessary to carry out this chapter, consistent with the requirements of chapter 5 of title 5.
 
-(Pub. L. 97–470, title V, § 511, Jan. 14, 1983, 96 Stat. 2598.)
+(Pub. L. 97–470, title V, § 511, Jan. 14, 1983, 96 Stat. 2598.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -921,7 +921,7 @@ The Secretary may issue such rules and regulations as are necessary to carry out
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1862. Authority to obtain information
+#### § 1862. Authority to obtain information
 
 **(a) Investigation and inspection authority concerning places, records, etc.**
 
@@ -935,7 +935,7 @@ The Secretary may issue subpenas requiring the attendance and testimony of witne
 
 It shall be a violation of this chapter for any person to unlawfully resist, oppose, impede, intimidate, or interfere with any official of the Department of Labor assigned to perform an investigation, inspection, or law enforcement function pursuant to this chapter during the performance of such duties.
 
-(Pub. L. 97–470, title V, § 512, Jan. 14, 1983, 96 Stat. 2598.)
+(Pub. L. 97–470, title V, § 512, Jan. 14, 1983, 96 Stat. 2598.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -943,7 +943,7 @@ It shall be a violation of this chapter for any person to unlawfully resist, opp
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1863. Agreements with Federal and State agencies
+#### § 1863. Agreements with Federal and State agencies
 
 **(a) Scope of agreements**
 
@@ -955,7 +955,7 @@ The Secretary may enter into agreements with Federal and State agencies (1) to u
 
 **(2)** provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency’s performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
 
-(Pub. L. 97–470, title V, § 513, Jan. 14, 1983, 96 Stat. 2599.)
+(Pub. L. 97–470, title V, § 513, Jan. 14, 1983, 96 Stat. 2599.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -965,11 +965,11 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 
 ### Part C—Miscellaneous Provisions
 
-#### § 1871. State laws and regulations
+#### § 1871. State laws and regulations
 
 This chapter is intended to supplement State law, and compliance with this chapter shall not excuse any person from compliance with appropriate State law and regulation.
 
-(Pub. L. 97–470, title V, § 521, Jan. 14, 1983, 96 Stat. 2599.)
+(Pub. L. 97–470, title V, § 521, Jan. 14, 1983, 96 Stat. 2599.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -977,17 +977,17 @@ This chapter is intended to supplement State law, and compliance with this chapt
 
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under section 1801 of this title.
 
-#### § 1872. Transition provision
+#### § 1872. Transition provision
 
 The Secretary may deny a certificate of registration to any farm labor contractor, as defined in this chapter, who has a judgment outstanding against him under the Farm Labor Contractor Registration Act of 1963 (7 U.S.C. 2041 et seq.), or is subject to a final order of the Secretary under that Act assessing a civil money penalty which has not been paid. Any findings under the Farm Labor Contractor Registration Act of 1963 may also be applicable to determinations of willful and knowing violations under this chapter.
 
-(Pub. L. 97–470, title V, § 522, Jan. 14, 1983, 96 Stat. 2599.)
+(Pub. L. 97–470, title V, § 522, Jan. 14, 1983, 96 Stat. 2599.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Farm Labor Contractor Registration Act of 1963, referred to in text, is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in text, is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 

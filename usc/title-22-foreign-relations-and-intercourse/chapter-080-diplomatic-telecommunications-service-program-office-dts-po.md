@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 80—DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO)
 
-## § 7301. Reorganization; duties
+## § 7301. Reorganization; duties
 
 **(a) Reorganization**
 
@@ -25,7 +25,7 @@ The Diplomatic Telecommunications Service Program Office established pursuant to
 
 The duties of the DTS–PO include implementing a program for the establishment and maintenance of a DTS Network capable of providing multiple levels of service to meet the wide-ranging needs of all United States Government departments and agencies operating from diplomatic and consular facilities outside of the United States, including national security needs for secure, reliable, and robust communications capabilities.
 
-(Pub. L. 106–567, title III, § 321, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
+(Pub. L. 106–567, title III, § 321, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
 
 **Editorial Notes**
 
@@ -35,19 +35,19 @@ Title V of Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–14
 
 **Prior Provisions**
 
-A prior section 7301, Pub. L. 106–567, title III, § 321, Dec. 27, 2000, 114 Stat. 2843, which related to reorganization of Diplomatic Telecommunications Service Program Office, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
+A prior section 7301, Pub. L. 106–567, title III, § 321, Dec. 27, 2000, 114 Stat. 2843, which related to reorganization of Diplomatic Telecommunications Service Program Office, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Suspension of Reorganization of Diplomatic Telecommunications Service Program Office**
 
-Pub. L. 107–108, title III, § 311, Dec. 28, 2001, 115 Stat. 1401, as amended by Pub. L. 107–306, title III, § 351, Nov. 27, 2002, 116 Stat. 2401; Pub. L. 108–177, title III, § 371, Dec. 13, 2003, 117 Stat. 2627, which provided for suspension of provisions of this chapter during the period beginning on Dec. 28, 2001, and ending on the date 60 days after notification to congressional committees of termination of the operational framework for the Office, was repealed by Pub. L. 111–259, title V, § 501(b)(1)(A), Oct. 7, 2010, 124 Stat. 2738.
+Pub. L. 107–108, title III, § 311, Dec. 28, 2001, 115 Stat. 1401, as amended by Pub. L. 107–306, title III, § 351, Nov. 27, 2002, 116 Stat. 2401; Pub. L. 108–177, title III, § 371, Dec. 13, 2003, 117 Stat. 2627, which provided for suspension of provisions of this chapter during the period beginning on Dec. 28, 2001, and ending on the date 60 days after notification to congressional committees of termination of the operational framework for the Office, was repealed by Pub. L. 111–259, title V, § 501(b)(1)(A), Oct. 7, 2010, 124 Stat. 2738.
 
 **Reform of the Diplomatic Telecommunications Service Program Office**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 305], Nov. 29, 1999, 113 Stat. 1536, 1501A–435, which related to additional resources for and improvement of the Diplomatic Telecommunications Service Program Office and required submission of a report on improving management to congressional committees not later than Mar. 31, 2000, was repealed by Pub. L. 111–259, title V, § 501(b)(2)(A), Oct. 7, 2010, 124 Stat. 2738.
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 305], Nov. 29, 1999, 113 Stat. 1536, 1501A–435, which related to additional resources for and improvement of the Diplomatic Telecommunications Service Program Office and required submission of a report on improving management to congressional committees not later than Mar. 31, 2000, was repealed by Pub. L. 111–259, title V, § 501(b)(2)(A), Oct. 7, 2010, 124 Stat. 2738.
 
-## § 7302. Establishment of the Diplomatic Telecommunications Service Governance Board
+## § 7302. Establishment of the Diplomatic Telecommunications Service Governance Board
 
 **(a) Governance Board**
 
@@ -121,15 +121,15 @@ A quorum of the Governance Board shall consist of the presence of the Chair and 
 
 The Governance Board shall ensure that those enhancements of, and the provision of service for, telecommunication capabilities that involve the national security interests of the United States receive the highest prioritization.
 
-(Pub. L. 106–567, title III, § 322, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
+(Pub. L. 106–567, title III, § 322, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7302, Pub. L. 106–567, title III, § 322, Dec. 27, 2000, 114 Stat. 2843; Pub. L. 107–306, title VIII, § 811(b)(5)(E), Nov. 27, 2002, 116 Stat. 2425, which related to personnel, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
+A prior section 7302, Pub. L. 106–567, title III, § 322, Dec. 27, 2000, 114 Stat. 2843; Pub. L. 107–306, title VIII, § 811(b)(5)(E), Nov. 27, 2002, 116 Stat. 2425, which related to personnel, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
 
-## § 7303. Funding of the Diplomatic Telecommunications Service
+## § 7303. Funding of the Diplomatic Telecommunications Service
 
 **(a) Authorization of appropriations**
 
@@ -139,15 +139,15 @@ There are authorized to be appropriated such sums as may be necessary for the op
 
 The DTS–PO shall charge a department or agency that uses the DTS Network for only those bandwidth costs attributable to such department or agency and for specific projects carried out at the request of such department or agency, pursuant to the pricing methodology for such bandwidth costs and such projects approved under section 7302(e)(1) of this title, for which amounts have not been appropriated for allocation to the DTS–PO. The DTS–PO is authorized to directly receive payments from departments or agencies that use the DTS Network and to invoice such departments or agencies for the fees under this section either in advance of, or upon or after, providing the bandwidth or performing such projects. Such funds received from such departments or agencies shall remain available to the DTS–PO for a period of two fiscal years.
 
-(Pub. L. 106–567, title III, § 323, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2738.)
+(Pub. L. 106–567, title III, § 323, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2738.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7303, Pub. L. 106–567, title III, § 323, Dec. 27, 2000, 114 Stat. 2845, which related to Diplomatic Telecommunications Service Oversight Board, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735. See section 7302 of this title.
+A prior section 7303, Pub. L. 106–567, title III, § 323, Dec. 27, 2000, 114 Stat. 2845, which related to Diplomatic Telecommunications Service Oversight Board, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735. See section 7302 of this title.
 
-## § 7304. Definitions
+## § 7304. Definitions
 
 In this chapter:
 
@@ -163,10 +163,10 @@ The term “DTS–PO” means the Diplomatic Telecommunications Service Program 
 
 The term “Governance Board” means the Diplomatic Telecommunications Service Governance Board established under section 7302(a)(1) of this title.
 
-(Pub. L. 106–567, title III, § 324, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2738.)
+(Pub. L. 106–567, title III, § 324, as added Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2738.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7304, Pub. L. 106–567, title III, § 324, Dec. 27, 2000, 114 Stat. 2846, which related to general provisions, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
+A prior section 7304, Pub. L. 106–567, title III, § 324, Dec. 27, 2000, 114 Stat. 2846, which related to general provisions, was repealed by Pub. L. 111–259, title V, § 501(a)(1), Oct. 7, 2010, 124 Stat. 2735.

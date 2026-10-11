@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 309—BOY SCOUTS OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 309—BOY SCOUTS OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch309"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 309—BOY SCOUTS OF AMERICA
 
-## § 30901. Organization
+## § 30901. Organization
 
 **(a) Federal Charter.—** Boy Scouts of America (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30901 | 36:21. | June 15, 1916, ch. 148, §§ 1, 2 (words before 2d comma), 39 Stat. 227. |
+| 30901 | 36:21. | June 15, 1916, ch. 148, §§ 1, 2 (words before 2d comma), 39 Stat. 227. |
 |  | 36:22 (words before 2d comma). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 30902. Purposes
+## § 30902. Purposes
 
 The purposes of the corporation are to promote, through organization, and cooperation with other agencies, the ability of boys to do things for themselves and others, to train them in scoutcraft, and to teach them patriotism, courage, self-reliance, and kindred virtues, using the methods that were in common use by boy scouts on June 15, 1916.
 
@@ -44,9 +44,9 @@ The purposes of the corporation are to promote, through organization, and cooper
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30902 | 36:23. | June 15, 1916, ch. 148, § 3, 39 Stat. 228. |
+| 30902 | 36:23. | June 15, 1916, ch. 148, § 3, 39 Stat. 228. |
 
-## § 30903. Governing body
+## § 30903. Governing body
 
 **(a) Executive Board.—** An executive board composed of citizens of the United States is the governing body of the corporation. The number, qualifications, and term of office of members of the board are as provided in the bylaws. A vacancy on the board shall be filled by a majority vote of the remaining members of the board.
 
@@ -68,7 +68,7 @@ The purposes of the corporation are to promote, through organization, and cooper
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30903(a) | 36:25 (1st–4th sentences). | June 15, 1916, ch. 148, § 5 (1st–5th, 7th, 8th sentences), 39 Stat. 228. |
+| 30903(a) | 36:25 (1st–4th sentences). | June 15, 1916, ch. 148, § 5 (1st–5th, 7th, 8th sentences), 39 Stat. 228. |
 | 30903(b) | 36:25 (5th sentence). |  |
 | 30903(c) | 36:25 (7th, 8th sentences). |  |
 
@@ -78,7 +78,7 @@ In subsection (c)(1)(A), the words “have and” are omitted as unnecessary. Th
 
 In subsection (c)(1)(B), the words “have power to” are omitted as unnecessary.
 
-## § 30904. Powers
+## § 30904. Powers
 
 **(a) General.—** The corporation may—
 
@@ -106,7 +106,7 @@ In subsection (c)(1)(B), the words “have power to” are omitted as unnecessar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30904(a) | 36:22 (words after 2d comma). | June 15, 1916, ch. 148, §§ 2 (words after 2d comma), 4 (words before semicolon), 5 (6th, last sentences), 39 Stat. 227, 228. |
+| 30904(a) | 36:22 (words after 2d comma). | June 15, 1916, ch. 148, §§ 2 (words after 2d comma), 4 (words before semicolon), 5 (6th, last sentences), 39 Stat. 227, 228. |
 |  | 36:24 (words before semicolon). |  |
 | 30904(b)(1) | 36:25 (6th sentence). |  |
 | 30904(b)(2) | 36:25 (last sentence). |  |
@@ -117,7 +117,7 @@ Subsection (a)(2) is substituted for “to adopt a seal, and the same to alter a
 
 In subsection (a)(3), the word “activities” is substituted for “business and affairs”, and the words “in the District of Columbia and the States, territories, and possessions of the United States” are substituted for “within and without the District of Columbia and in the several States and Territories of the United States”, for consistency in the revised title and to eliminate unnecessary words.
 
-Subsection (a)(4) is substituted for “hold such real and personal estate as shall be necessary for corporate purposes, and . . . receive real and personal property by gift, devise, or bequest” for consistency in the revised title and to eliminate unnecessary words. The text of 36:24 (words before semicolon) is omitted as executed and obsolete.
+Subsection (a)(4) is substituted for “hold such real and personal estate as shall be necessary for corporate purposes, and . . . receive real and personal property by gift, devise, or bequest” for consistency in the revised title and to eliminate unnecessary words. The text of 36:24 (words before semicolon) is omitted as executed and obsolete.
 
 In subsection (a)(5), the words “in courts of law and equity” are omitted as unnecessary.
 
@@ -125,7 +125,7 @@ In subsection (a)(6), the words “do any other act” are substituted for “ge
 
 In subsection (b)(1), the words “to make and to amend the bylaws” are omitted as unnecessary because of subsection (a)(1) of this section. The word “execute” is substituted for “authorize and cause to be executed” to eliminate unnecessary words.
 
-## § 30905. Exclusive right to emblems, badges, marks, and words
+## § 30905. Exclusive right to emblems, badges, marks, and words
 
 The corporation has the exclusive right to use emblems, badges, descriptive or designating marks, and words or phrases the corporation adopts. This section does not affect any vested rights.
 
@@ -135,11 +135,11 @@ The corporation has the exclusive right to use emblems, badges, descriptive or d
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30905 | 36:27. | June 15, 1916, ch. 148, § 7, 39 Stat. 228. |
+| 30905 | 36:27. | June 15, 1916, ch. 148, § 7, 39 Stat. 228. |
 
 The word “sole” is omitted as included in “exclusive”. The words “to have and” and “in carrying out its purposes” are omitted as unnecessary. The words “the corporation adopts” are substituted for “now or heretofore used by the Boy Scouts” for consistency in the revised title. The words “in carrying out its program” are omitted as unnecessary. The words “This section does not affect any vested rights” are substituted for “it being distinctly and definitely understood, however, that nothing in this chapter shall interfere or conflict with established or vested rights” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 30906. Restrictions
+## § 30906. Restrictions
 
 **(a) Profit.—** The corporation may not operate for pecuniary profit to its members.
 
@@ -151,11 +151,11 @@ The word “sole” is omitted as included in “exclusive”. The words “to h
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30906 | 36:24 (words after semicolon). | June 15, 1916, ch. 148, § 4 (words after semicolon), 39 Stat. 228. |
+| 30906 | 36:24 (words after semicolon). | June 15, 1916, ch. 148, § 4 (words after semicolon), 39 Stat. 228. |
 
 The words “certificates of” and “its object and purposes being solely of a benevolent character” are omitted as unnecessary.
 
-## § 30907. Annual and special meetings
+## § 30907. Annual and special meetings
 
 **(a) Annual Meetings.—** The corporation shall hold an annual meeting at a time and place as provided in the bylaws. At the meeting, the annual reports of the officers and executive board shall be presented, and members of the board shall be elected for the next year.
 
@@ -171,13 +171,13 @@ The words “certificates of” and “its object and purposes being solely of a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30907 | 36:26. | June 15, 1916, ch. 148, § 6, 39 Stat. 228. |
+| 30907 | 36:26. | June 15, 1916, ch. 148, § 6, 39 Stat. 228. |
 
 In subsection (a), the words “The corporation shall hold an annual meeting” are substituted for “An annual meeting of the incorporators, their associates and successors, shall be held once in every year after the year of incorporation” to eliminate unnecessary and executed words.
 
 In subsection (d), the word “records” is substituted for “books, documents, and papers” for consistency in the revised title and with other titles of the United States Code.
 
-## § 30908. Annual report
+## § 30908. Annual report
 
 Not later than April 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year.
 
@@ -187,7 +187,7 @@ Not later than April 1 of each year, the corporation shall submit a report to Co
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30908 | 36:28. | June 15, 1916, ch. 148, § 8, 39 Stat. 229; Aug. 30, 1964, Pub. L. 88–504, § 4(1), 78 Stat. 636. |
+| 30908 | 36:28. | June 15, 1916, ch. 148, § 8, 39 Stat. 229; Aug. 30, 1964, Pub. L. 88–504, § 4(1), 78 Stat. 636. |
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44B—ANTARCTIC MINERAL RESOURCES PROTECTION
 
-## § 2461. Findings and purpose
+## § 2461. Findings and purpose
 
 **(a) Findings** Congress finds that—
 
@@ -47,15 +47,15 @@ retrieved: 2026-10-11
 
 **(4)** urge all nations to consider a permanent ban on Antarctic mineral resource activities.
 
-(Pub. L. 101–594, § 2, Nov. 16, 1990, 104 Stat. 2975.)
+(Pub. L. 101–594, § 2, Nov. 16, 1990, 104 Stat. 2975.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–594, § 1, Nov. 16, 1990, 104 Stat. 2975, provided that: “This Act [enacting this chapter] may be cited as the ‘Antarctic Protection Act of 1990’.”
+Pub. L. 101–594, § 1, Nov. 16, 1990, 104 Stat. 2975, provided that: “This Act [enacting this chapter] may be cited as the ‘Antarctic Protection Act of 1990’.”
 
-## § 2462. Definitions
+## § 2462. Definitions
 
 For the purposes of this chapter:
 
@@ -75,13 +75,13 @@ For the purposes of this chapter:
 
 **(8)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
-(Pub. L. 101–594, § 3, Nov. 16, 1990, 104 Stat. 2976.)
+(Pub. L. 101–594, § 3, Nov. 16, 1990, 104 Stat. 2976.)
 
-## § 2463. Prohibition of Antarctic mineral resource activities
+## § 2463. Prohibition of Antarctic mineral resource activities
 
 It is unlawful for any person to engage in, finance, or otherwise knowingly provide assistance to any Antarctic mineral resource activity.
 
-(Pub. L. 101–594, § 4, Nov. 16, 1990, 104 Stat. 2977; Pub. L. 104–227, title II, § 202(a), Oct. 2, 1996, 110 Stat. 3044.)
+(Pub. L. 101–594, § 4, Nov. 16, 1990, 104 Stat. 2977; Pub. L. 104–227, title II, § 202(a), Oct. 2, 1996, 110 Stat. 3044.)
 
 **Editorial Notes**
 
@@ -89,11 +89,11 @@ It is unlawful for any person to engage in, finance, or otherwise knowingly prov
 
 1996—Pub. L. 104–227 substituted “It” for “Pending a new agreement among the Antarctic Treaty Consultative Parties in force for the United States, to which the Senate has given advice and consent or which is authorized by further legislation by the Congress, which provides an indefinite ban on Antarctic mineral resource activities, it”.
 
-## § 2464. Repealed. Pub. L. 104–227, title II, § 202(b), Oct. 2, 1996, 110 Stat. 3044
+## § 2464. Repealed. Pub. L. 104–227, title II, § 202(b), Oct. 2, 1996, 110 Stat. 3044
 
-Section, Pub. L. 101–594, § 5, Nov. 16, 1990, 104 Stat. 2977, declared the sense of Congress that Secretary of State should negotiate international agreements relating to protection of Antarctic environment and that any such international agreement be consistent with purpose and provisions of this chapter.
+Section, Pub. L. 101–594, § 5, Nov. 16, 1990, 104 Stat. 2977, declared the sense of Congress that Secretary of State should negotiate international agreements relating to protection of Antarctic environment and that any such international agreement be consistent with purpose and provisions of this chapter.
 
-## § 2465. Enforcement
+## § 2465. Enforcement
 
 **(a) In general**
 
@@ -105,18 +105,18 @@ A violation of this chapter or any regulation promulgated under this chapter is 
 
 **(2)** the Secretary of the Interior shall refuse to issue a patent under the mining laws of the United States, or a lease under the laws of the United States related to mineral or geothermal leasing, to any such person who attempts to perfect such patent or lease application after the Under Secretary has made such determination.
 
-(Pub. L. 101–594, § 5, formerly § 6, Nov. 16, 1990, 104 Stat. 2977; renumbered § 5, Pub. L. 104–227, title II, § 202(c), Oct. 2, 1996, 110 Stat. 3044.)
+(Pub. L. 101–594, § 5, formerly § 6, Nov. 16, 1990, 104 Stat. 2977; renumbered § 5, Pub. L. 104–227, title II, § 202(c), Oct. 2, 1996, 110 Stat. 3044.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Antarctic Marine Living Resources Convention Act, referred to in subsec. (a), probably means the Antarctic Marine Living Resources Convention Act of 1984, title III of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3398, which is classified generally to chapter 44A (§ 2431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2431 of this title and Tables.
+The Antarctic Marine Living Resources Convention Act, referred to in subsec. (a), probably means the Antarctic Marine Living Resources Convention Act of 1984, title III of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3398, which is classified generally to chapter 44A (§ 2431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2431 of this title and Tables.
 
 **Prior Provisions**
 
 A prior section 5 of Pub. L. 101–594 was classified to section 2464 of this title prior to repeal by Pub. L. 104–227.
 
-## § 2466. Repealed. Pub. L. 104–227, title II, § 202(b), Oct. 2, 1996, 110 Stat. 3044
+## § 2466. Repealed. Pub. L. 104–227, title II, § 202(b), Oct. 2, 1996, 110 Stat. 3044
 
-Section, Pub. L. 101–594, § 7, Nov. 16, 1990, 104 Stat. 2978, authorized appropriations for fiscal years 1991 and 1992 to carry out this chapter.
+Section, Pub. L. 101–594, § 7, Nov. 16, 1990, 104 Stat. 2978, authorized appropriations for fiscal years 1991 and 1992 to carry out this chapter.

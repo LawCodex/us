@@ -19,51 +19,51 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(2), Jan. 2, 2013, 126 Stat. 2161, added item 2615.
+2013—Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(2), Jan. 2, 2013, 126 Stat. 2161, added item 2615.
 
-2011—Pub. L. 112–81, div. A, title V, § 576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in item 2613.
+2011—Pub. L. 112–81, div. A, title V, § 576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in item 2613.
 
-Pub. L. 111–383, div. A, title V, § 591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
+Pub. L. 111–383, div. A, title V, § 591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
 
-2006—Pub. L. 109–364, div. A, title X, § 1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
+2006—Pub. L. 109–364, div. A, title X, § 1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
 
-Pub. L. 109–163, div. A, title IX, § 903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
+Pub. L. 109–163, div. A, title IX, § 903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
 
-2004—Pub. L. 108–375, div. A, title V, § 585(a)(2), title X, § 1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
+2004—Pub. L. 108–375, div. A, title V, § 585(a)(2), title X, § 1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
 
-2003—Pub. L. 108–136, div. A, title IX, § 931(c), Nov. 24, 2003, 117 Stat. 1581, struck out “foreign” before “gifts” in item 2611.
+2003—Pub. L. 108–136, div. A, title IX, § 931(c), Nov. 24, 2003, 117 Stat. 1581, struck out “foreign” before “gifts” in item 2611.
 
-2002—Pub. L. 107–314, div. A, title IX, § 931(b), Dec. 2, 2002, 116 Stat. 2625, added item 2612.
+2002—Pub. L. 107–314, div. A, title IX, § 931(b), Dec. 2, 2002, 116 Stat. 2625, added item 2612.
 
-1999—Pub. L. 106–65, div. A, title IX, § 915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
+1999—Pub. L. 106–65, div. A, title IX, § 915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
 
-1996—Pub. L. 104–201, div. A, title X, § 1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
+1996—Pub. L. 104–201, div. A, title X, § 1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
 
-Pub. L. 104–106, div. A, title III, § 377(b), Feb. 10, 1996, 110 Stat. 284, added item 2610.
+Pub. L. 104–106, div. A, title III, § 377(b), Feb. 10, 1996, 110 Stat. 284, added item 2610.
 
-1994—Pub. L. 103–337, div. A, title III, § 353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted “schools” for “education system” in item 2605.
+1994—Pub. L. 103–337, div. A, title III, § 353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted “schools” for “education system” in item 2605.
 
-1993—Pub. L. 103–160, div. A, title II, § 242(f)(2), title XI, § 1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted “; Defense Cooperation Account” in item 2608 and added item 2609.
+1993—Pub. L. 103–160, div. A, title II, § 242(f)(2), title XI, § 1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted “; Defense Cooperation Account” in item 2608 and added item 2609.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(15), Dec. 5, 1991, 105 Stat. 1473, struck out “and services” after “contributions” in item 2608.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(15), Dec. 5, 1991, 105 Stat. 1473, struck out “and services” after “contributions” in item 2608.
 
-1990—Pub. L. 101–403, title II, § 202(a)(2), Oct. 1, 1990, 104 Stat. 874, added item 2608.
+1990—Pub. L. 101–403, title II, § 202(a)(2), Oct. 1, 1990, 104 Stat. 874, added item 2608.
 
-1989—Pub. L. 101–193, title V, § 502(b), Nov. 30, 1989, 103 Stat. 1708, added item 2607.
+1989—Pub. L. 101–193, title V, § 502(b), Nov. 30, 1989, 103 Stat. 1708, added item 2607.
 
-1988—Pub. L. 100–456, div. A, title III, § 323(b), Sept. 29, 1988, 102 Stat. 1953, added item 2606.
+1988—Pub. L. 100–456, div. A, title III, § 323(b), Sept. 29, 1988, 102 Stat. 1953, added item 2606.
 
-1986—Pub. L. 99–661, div. A, title III, § 314(b), Nov. 14, 1986, 100 Stat. 3854, added item 2605.
+1986—Pub. L. 99–661, div. A, title III, § 314(b), Nov. 14, 1986, 100 Stat. 3854, added item 2605.
 
-1970—Pub. L. 91–603, § 3(2), Dec. 31, 1970, 84 Stat. 1675, added item 2604.
+1970—Pub. L. 91–603, § 3(2), Dec. 31, 1970, 84 Stat. 1675, added item 2604.
 
-1962—Pub. L. 87–555, § 1(2), July 27, 1962, 76 Stat. 244, added item 2603.
+1962—Pub. L. 87–555, § 1(2), July 27, 1962, 76 Stat. 244, added item 2603.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations To Clarify Gift Acceptance Policy for Service Members and Their Families**
 
-Pub. L. 109–148, div. A, title VIII, § 8127, Dec. 30, 2005, 119 Stat. 2730, provided that:
+Pub. L. 109–148, div. A, title VIII, § 8127, Dec. 30, 2005, 119 Stat. 2730, provided that:
 
 > **“(a) Regulations.—** The Secretary of Defense shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, members of the Armed Forces described in subsection (c), and the family members of such a member, may accept gifts from non-profit organizations, private parties, and other sources outside the Department of Defense, other than foreign governments and their agents. Such regulations shall apply uniformly to the Army, Navy, Air Force, and Marine Corps, and, to the maximum extent feasible, to the Coast Guard, and shall apply uniformly to the active and reserve components.
 
@@ -79,7 +79,7 @@ Pub. L. 109–148, div. A, title VIII, § 8127, Dec. 30, 2005, 119 Stat. 2730,
 
 > **“(e) Retroactive Applicability of Regulations.—** Regulations under subsection (a) shall, to the extent provided in such regulations, also apply to the acceptance of gifts during the period beginning on September 11, 2001, and ending on the date on which such regulations go into effect.”
 
-## § 2601. General gift funds
+## § 2601. General gift funds
 
 **(a) General Authority to Accept Gifts.—**
 
@@ -171,7 +171,7 @@ Pub. L. 109–148, div. A, title VIII, § 8127, Dec. 30, 2005, 119 Stat. 2730,
 
 **(2)** The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, § 511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, § 374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, § 593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, § 587(a), div. B, title XXVIII, § 2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, § 2812, Nov. 25, 2015, 129 Stat. 1174; Pub. L. 116–283, div. B, title XXVIII, § 2821, Jan. 1, 2021, 134 Stat. 4330; Pub. L. 118–159, div. A, title V, § 556, Dec. 23, 2024, 138 Stat. 1896.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, § 511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, § 374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, § 593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, § 587(a), div. B, title XXVIII, § 2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, § 2812, Nov. 25, 2015, 129 Stat. 1174; Pub. L. 116–283, div. B, title XXVIII, § 2821, Jan. 1, 2021, 134 Stat. 4330; Pub. L. 118–159, div. A, title V, § 556, Dec. 23, 2024, 138 Stat. 1896.)
 
 **Historical and Revision Notes**
 
@@ -195,29 +195,29 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 2024—Subsec. (a)(2)(A). Pub. L. 118–159 inserted “or a professional military education institution” after “museum program” in two places.
 
-2021—Subsec. (e). Pub. L. 116–283, § 2821(a)(1), struck out “Real” before “Property” in heading.
+2021—Subsec. (e). Pub. L. 116–283, § 2821(a)(1), struck out “Real” before “Property” in heading.
 
-Subsec. (e)(1). Pub. L. 116–283, § 2821(b)(1), substituted “an eligible entity” for “the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy”.
+Subsec. (e)(1). Pub. L. 116–283, § 2821(b)(1), substituted “an eligible entity” for “the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy”.
 
-Pub. L. 116–283, § 2821(a)(2), inserted “or personal” after “real” in two places.
+Pub. L. 116–283, § 2821(a)(2), inserted “or personal” after “real” in two places.
 
-Subsec. (e)(3)(B). Pub. L. 116–283, § 2821(a)(3), inserted “or personal” after “real”.
+Subsec. (e)(3)(B). Pub. L. 116–283, § 2821(a)(3), inserted “or personal” after “real”.
 
-Subsec. (e)(5). Pub. L. 116–283, § 2821(b)(2), added par. (5).
+Subsec. (e)(5). Pub. L. 116–283, § 2821(b)(2), added par. (5).
 
 2015—Subsecs. (e) to (j). Pub. L. 114–92 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-2013—Subsec. (a). Pub. L. 112–239, § 2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
+2013—Subsec. (a). Pub. L. 112–239, § 2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 112–239, § 2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
+Subsec. (b)(1). Pub. L. 112–239, § 2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 112–239, § 2852(a)(2)(B)(i), substituted “such subsections” for “subsection (b)”.
+Subsec. (d)(1). Pub. L. 112–239, § 2852(a)(2)(B)(i), substituted “such subsections” for “subsection (b)”.
 
-Subsec. (d)(2). Pub. L. 112–239, § 2852(a)(2)(B)(ii), substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
+Subsec. (d)(2). Pub. L. 112–239, § 2852(a)(2)(B)(ii), substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
 
-Subsec. (f). Pub. L. 112–239, § 2852(a)(2)(C), substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
+Subsec. (f). Pub. L. 112–239, § 2852(a)(2)(C), substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
 
-Subsec. (i)(2). Pub. L. 112–239, § 587(a), inserted “education,” before “morale,”.
+Subsec. (i)(2). Pub. L. 112–239, § 587(a), inserted “education,” before “morale,”.
 
 2008—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
 
@@ -239,9 +239,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Limitation on Solicitation of Gifts**
 
-Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, provided that: “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
+Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, provided that: “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
 
-## § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
+## § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
 
 **(a) Regulations Governing Acceptance of Gifts.—**
 
@@ -277,31 +277,31 @@ Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, p
 
 **(e) Application of Certain Regulations.—** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
 
-(Added Pub. L. 111–383, div. A, title V, § 591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, § 543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, § 1076(f)(32), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–291, div. A, title X, § 1071(e)(4), (f)(19), Dec. 19, 2014, 128 Stat. 3510, 3511; Pub. L. 117–263, div. A, title V, § 522, Dec. 23, 2022, 136 Stat. 2570.)
+(Added Pub. L. 111–383, div. A, title V, § 591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, § 543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, § 1076(f)(32), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–291, div. A, title X, § 1071(e)(4), (f)(19), Dec. 19, 2014, 128 Stat. 3510, 3511; Pub. L. 117–263, div. A, title V, § 522, Dec. 23, 2022, 136 Stat. 2570.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(3), (4). Pub. L. 117–263, § 522(1), added par. (3) and redesignated former par. (3) as (4).
+2022—Subsec. (b)(3), (4). Pub. L. 117–263, § 522(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (c). Pub. L. 117–263, § 522(2), struck out “paragraph (1), (2) or (3) of” before “subsection (b)”.
+Subsec. (c). Pub. L. 117–263, § 522(2), struck out “paragraph (1), (2) or (3) of” before “subsection (b)”.
 
-2014—Subsec. (a)(1). Pub. L. 113–291, § 1071(f)(19)(A), substituted “prescribe” for “issue”.
+2014—Subsec. (a)(1). Pub. L. 113–291, § 1071(f)(19)(A), substituted “prescribe” for “issue”.
 
-Subsec. (d). Pub. L. 113–291, § 1071(f)(19)(B), substituted “prescribed” for “issued”.
+Subsec. (d). Pub. L. 113–291, § 1071(f)(19)(B), substituted “prescribed” for “issued”.
 
-Subsec. (e). Pub. L. 113–291, § 1071(e)(4), substituted “after December 31, 2011,” for “after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012”.
+Subsec. (e). Pub. L. 113–291, § 1071(e)(4), substituted “after December 31, 2011,” for “after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012”.
 
 2013—Subsec. (a)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard” in introductory provisions.
 
-2011—Subsec. (b)(2), (3). Pub. L. 112–81, § 543(1), added par. (2) and redesignated former par. (2) as (3).
+2011—Subsec. (b)(2), (3). Pub. L. 112–81, § 543(1), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c). Pub. L. 112–81, § 543(2), substituted “paragraph (1), (2) or (3) of subsection (b)” for “paragraph (1) or (2) of subsection (c)”.
+Subsec. (c). Pub. L. 112–81, § 543(2), substituted “paragraph (1), (2) or (3) of subsection (b)” for “paragraph (1) or (2) of subsection (c)”.
 
-Subsec. (e). Pub. L. 112–81, § 543(3), added subsec. (e).
+Subsec. (e). Pub. L. 112–81, § 543(3), added subsec. (e).
 
-## § 2602. American National Red Cross: cooperation and assistance
+## § 2602. American National Red Cross: cooperation and assistance
 
 **(a)** Whenever the President finds it necessary, he may accept the cooperation and assistance of the American National Red Cross, and employ it under the armed forces under regulations to be prescribed by the Secretary of Defense.
 
@@ -325,11 +325,11 @@ Subsec. (e). Pub. L. 112–81, § 543(3), added subsec. (e).
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2602(a) 2602(b) 2602(c) | 36:17. 36:17a (less provisos). 36:17a (1st proviso). | July 17, 1953, ch. 222, §§ 1, 2, 7, 67 Stat. 178, 179. |
+| 2602(a) 2602(b) 2602(c) | 36:17. 36:17a (less provisos). 36:17a (1st proviso). | July 17, 1953, ch. 222, §§ 1, 2, 7, 67 Stat. 178, 179. |
 | 2602(d) | 36:17a (last proviso). |  |
 | 2602(e) | 36:17b. |  |
 
-In subsection (a), the words “finds it necessary” are substituted for the words “shall find the \* \* \* to be necessary”. The words “cooperation and assistance” are substituted for the words “cooperation and use \* \* \* assistance \* \* \* the same”. The words “under regulations to be prescribed by the Secretary of Defense” are substituted for 36:17 (last sentence). The words “tendered by the said Red Cross” are omitted as surplusage.
+In subsection (a), the words “finds it necessary” are substituted for the words “shall find the \* \* \* to be necessary”. The words “cooperation and assistance” are substituted for the words “cooperation and use \* \* \* assistance \* \* \* the same”. The words “under regulations to be prescribed by the Secretary of Defense” are substituted for 36:17 (last sentence). The words “tendered by the said Red Cross” are omitted as surplusage.
 
 In subsection (b), the introductory clause is substituted for 36:17a (1st 33 words). In clause (1), the word “expense” is substituted for the words “cost and charge”. The words “traveling to and from, and while performing, those duties” are substituted for the words “proceeding to their place of duty, while serving thereat, and while returning therefrom”. In clause (2), the words “at their expense or at the expense of” are substituted for the words “providing the cost thereof is borne by such personnel or by”. The words “quartered without charge” are substituted for the words “furnished quarters on the same basis without cost”. In clause (3), the words “when such facilities are” are omitted as surplusage.
 
@@ -343,9 +343,9 @@ In subsection (e), the words “Federal Government of” are omitted as surplusa
 
 **Report on Assistance to Red Cross for Emergency Communications Services for Members of Armed Forces and Families**
 
-Pub. L. 103–337, div. A, title III, § 383(b), Oct. 5, 1994, 108 Stat. 2740, provided that, not later than Nov. 30 in each of 1994, 1995, and 1996, the Secretary of Defense was to submit to Congress a report on whether it was necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families.
+Pub. L. 103–337, div. A, title III, § 383(b), Oct. 5, 1994, 108 Stat. 2740, provided that, not later than Nov. 30 in each of 1994, 1995, and 1996, the Secretary of Defense was to submit to Congress a report on whether it was necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families.
 
-## § 2603. Acceptance of fellowships, scholarships, or grants
+## § 2603. Acceptance of fellowships, scholarships, or grants
 
 **(a)** Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President (or an individual designated by the President), be made by a corporation, fund, foundation, or educational institution that is organized and operated primarily for scientific, literary, or educational purposes to any member of the armed forces, and the benefits thereof may be accepted by the member—
 
@@ -359,7 +359,7 @@ However, the benefits of such a fellowship, scholarship, or grant may be accepte
 
 **(b)** Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period determined by the Secretary concerned, which may not be less than twice the length of the period of the education or training. Notwithstanding section 2004(c) of this title, the service obligation required under this subsection may run concurrently with any service obligations incurred under chapter 101 of this title in accordance with regulations established by the Secretary concerned.
 
-(Added Pub. L. 87–555, § 1(1), July 27, 1962, 76 Stat. 244; amended Pub. L. 111–383, div. A, title X, § 1075(b)(39), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 117–263, div. A, title V, § 523, Dec. 23, 2022, 136 Stat. 2571; Pub. L. 118–159, div. A, title V, § 524, Dec. 23, 2024, 138 Stat. 1884.)
+(Added Pub. L. 87–555, § 1(1), July 27, 1962, 76 Stat. 244; amended Pub. L. 111–383, div. A, title X, § 1075(b)(39), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 117–263, div. A, title V, § 523, Dec. 23, 2022, 136 Stat. 2571; Pub. L. 118–159, div. A, title V, § 524, Dec. 23, 2024, 138 Stat. 1884.)
 
 **Editorial Notes**
 
@@ -367,13 +367,13 @@ However, the benefits of such a fellowship, scholarship, or grant may be accepte
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “determined by the Secretary concerned, which may not be less than twice the length of the period of the education or training. Notwithstanding section 2004(c) of this title, the service obligation required under this subsection may run concurrently with any service obligations incurred under chapter 101 of this title in accordance with regulations established by the Secretary concerned.” for “three times the length of the period of the education or training.”
 
-2022—Subsec. (a). Pub. L. 117–263, § 523(b)(1), (4), in introductory provisions, substituted “(or an individual designated by the President)” for “or his designee” and “the member—” for “him—”, and, in concluding provisions, substituted “the member’s” for “his” in two places and “the member” for “him”.
+2022—Subsec. (a). Pub. L. 117–263, § 523(b)(1), (4), in introductory provisions, substituted “(or an individual designated by the President)” for “or his designee” and “the member—” for “him—”, and, in concluding provisions, substituted “the member’s” for “his” in two places and “the member” for “him”.
 
-Subsec. (a)(1). Pub. L. 117–263, § 523(b)(2), substituted “the field of the member” for “his field”.
+Subsec. (a)(1). Pub. L. 117–263, § 523(b)(2), substituted “the field of the member” for “his field”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 523(b)(3), substituted “the recognized potential for future career service of the member” for “his recognized potential for future career service”.
+Subsec. (a)(3). Pub. L. 117–263, § 523(b)(3), substituted “the recognized potential for future career service of the member” for “his recognized potential for future career service”.
 
-Subsec. (b). Pub. L. 117–263, § 523(a), struck out “at least” before “three times”.
+Subsec. (b). Pub. L. 117–263, § 523(a), struck out “at least” before “three times”.
 
 2011—Pub. L. 111–383 substituted “armed forces” for “Armed Forces” in two places.
 
@@ -381,11 +381,11 @@ Subsec. (b). Pub. L. 117–263, § 523(a), struck out “at least” before �
 
 **Ex. Ord. No. 11079. Regulations for Acceptance of Fellowships, Scholarships, or Grants**
 
-Ex. Ord. No. 11079, Jan. 25, 1963, 28 F.R. 819, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 69, Feb. 28, 2003, 68 F.R. 10630, provided:
+Ex. Ord. No. 11079, Jan. 25, 1963, 28 F.R. 819, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 69, Feb. 28, 2003, 68 F.R. 10630, provided:
 
 By virtue of the authority vested in me by section 2603 of Title 10, United States Code [this section], I hereby designate the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, and the Secretary of Health and Human Services, with respect to commissioned officers of the Public Health Service, to prescribe regulations under which members of the Armed Forces and commissioned officers of the Public Health Service may accept fellowships, scholarships, or grants from corporations, funds, foundations, or educational institutions organized and operated primarily for scientific, literary, or educational purposes. To the extent practicable, such regulations shall be uniform.
 
-## § 2604. United Seamen’s Service: cooperation and assistance
+## § 2604. United Seamen’s Service: cooperation and assistance
 
 **(a)** Whenever the President finds it necessary in the interest of United States commitments abroad to provide facilities and services for United States merchant seamen in foreign areas, he may authorize the Secretary of Defense, under such regulations as the Secretary may prescribe, to cooperate with and assist the United Seamen’s Service in establishing and providing those facilities and services.
 
@@ -405,19 +405,19 @@ By virtue of the authority vested in me by section 2603 of Title 10, United Stat
 
 **(f)** For the purposes of this section, employees of the United Seamen’s Service may not be considered as employees of the United States.
 
-(Added Pub. L. 91–603, § 3(1), Dec. 31, 1970, 84 Stat. 1674.)
+(Added Pub. L. 91–603, § 3(1), Dec. 31, 1970, 84 Stat. 1674.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 91–603, § 1, Dec. 31, 1970, 84 Stat. 1674, provided: “That this Act [enacting this section, amending sections 1151, 1152, 1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section] may be cited as the ‘Seamen’s Service Act’.”
+Pub. L. 91–603, § 1, Dec. 31, 1970, 84 Stat. 1674, provided: “That this Act [enacting this section, amending sections 1151, 1152, 1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section] may be cited as the ‘Seamen’s Service Act’.”
 
 **Congressional Declaration of Purpose**
 
-Pub. L. 91–603, § 2, Dec. 31, 1970, 84 Stat. 1674, provided that: “It is the purpose of this Act [enacting this section and amending sections 1151, 1152, 1171 and 1223 of Title 46, Appendix, Shipping], by authorizing appropriate departments and agencies of the United States Government to cooperate with the United Seamen’s Service (a nonprofit, charitable organization incorporated under the laws of the State of New York) in the establishment and operation of facilities for United States merchant seamen in foreign areas, to promote the welfare of such seamen, essential to the overall interests of shipment of United States goods and supplies to such areas.”
+Pub. L. 91–603, § 2, Dec. 31, 1970, 84 Stat. 1674, provided that: “It is the purpose of this Act [enacting this section and amending sections 1151, 1152, 1171 and 1223 of Title 46, Appendix, Shipping], by authorizing appropriate departments and agencies of the United States Government to cooperate with the United Seamen’s Service (a nonprofit, charitable organization incorporated under the laws of the State of New York) in the establishment and operation of facilities for United States merchant seamen in foreign areas, to promote the welfare of such seamen, essential to the overall interests of shipment of United States goods and supplies to such areas.”
 
-## § 2605. Acceptance of gifts for defense dependents’ schools
+## § 2605. Acceptance of gifts for defense dependents’ schools
 
 **(a)** The Secretary of Defense may accept, hold, administer, and spend any gift (including any gift of an interest in real property) made on the condition that it be used in connection with the operation or administration of a defense dependents’ school. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
 
@@ -445,25 +445,25 @@ Pub. L. 91–603, § 2, Dec. 31, 1970, 84 Stat. 1674, provided that: “It is 
 
 **(2)** An elementary or secondary school established pursuant to section 2164 of this title.
 
-(Added Pub. L. 99–661, div. A, title III, § 314(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 103–337, div. A, title III, § 353(a)–(c)(1), Oct. 5, 1994, 108 Stat. 2731.)
+(Added Pub. L. 99–661, div. A, title III, § 314(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 103–337, div. A, title III, § 353(a)–(c)(1), Oct. 5, 1994, 108 Stat. 2731.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (g)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (g)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 **Amendments**
 
-1994—Pub. L. 103–337, § 353(c)(1), substituted “schools” for “education system” in section catchline.
+1994—Pub. L. 103–337, § 353(c)(1), substituted “schools” for “education system” in section catchline.
 
-Subsec. (a). Pub. L. 103–337, § 353(a)(1), substituted “a defense dependents’ school” for “the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.)”.
+Subsec. (a). Pub. L. 103–337, § 353(a)(1), substituted “a defense dependents’ school” for “the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.)”.
 
-Subsec. (b). Pub. L. 103–337, § 353(a)(2), substituted “defense dependents’ schools” for “the defense dependent’s education system”.
+Subsec. (b). Pub. L. 103–337, § 353(a)(2), substituted “defense dependents’ schools” for “the defense dependent’s education system”.
 
-Subsec. (g). Pub. L. 103–337, § 353(b), added subsec. (g).
+Subsec. (g). Pub. L. 103–337, § 353(b), added subsec. (g).
 
-## § 2606. Scouting: cooperation and assistance in foreign areas
+## § 2606. Scouting: cooperation and assistance in foreign areas
 
 **(a)** Subject to subsection (b), the Secretary concerned may cooperate with and assist qualified scouting organizations in establishing and providing facilities and services for members of the armed forces and their dependents, and civilian employees of the Department of Defense and their dependents, at locations outside the United States.
 
@@ -483,7 +483,7 @@ Subsec. (g). Pub. L. 103–337, § 353(b), added subsec. (g).
 
 **(g)** In this section, the term “qualified scouting organization” means the Girl Scouts of the United States of America and the Boy Scouts of America.
 
-(Added Pub. L. 100–456, div. A, title III, § 323(a), Sept. 29, 1988, 102 Stat. 1953.)
+(Added Pub. L. 100–456, div. A, title III, § 323(a), Sept. 29, 1988, 102 Stat. 1953.)
 
 **Executive Documents**
 
@@ -495,7 +495,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 George Bush.
 
-## § 2607. Acceptance of gifts for the Defense Intelligence College
+## § 2607. Acceptance of gifts for the Defense Intelligence College
 
 **(a)** The Secretary of Defense may accept, hold, administer, and use any gift (including any gift of an interest in real property) made for the purpose of aiding and facilitating the work of the Defense Intelligence College and may pay all necessary expenses in connection with the acceptance of such a gift.
 
@@ -505,9 +505,9 @@ George Bush.
 
 **(d)** In this section, the term “gift” includes a bequest of personal property or a devise of real property.
 
-(Added Pub. L. 101–193, title V, § 502(a), Nov. 30, 1989, 103 Stat. 1708.)
+(Added Pub. L. 101–193, title V, § 502(a), Nov. 30, 1989, 103 Stat. 1708.)
 
-## § 2608. Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account
+## § 2608. Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account
 
 **(a) Acceptance Authority.—** The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money or real or personal property made by such person, foreign government, or international organization for use by the Department of Defense and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense.
 
@@ -557,7 +557,7 @@ George Bush.
 
 **(k) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–403, title II, § 202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, § 1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, § 1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750; Pub. L. 104–201, div. A, title X, § 1063, Sept. 23, 1996, 110 Stat. 2652; Pub. L. 112–81, div. A, title X, § 1064(7), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 101–403, title II, § 202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, § 1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, § 1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750; Pub. L. 104–201, div. A, title X, § 1063, Sept. 23, 1996, 110 Stat. 2652; Pub. L. 112–81, div. A, title X, § 1064(7), Dec. 31, 2011, 125 Stat. 1587.)
 
 **Editorial Notes**
 
@@ -567,17 +567,17 @@ George Bush.
 
 1996—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
 
-1993—Pub. L. 103–160, § 1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
+1993—Pub. L. 103–160, § 1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
 
-Subsec. (i). Pub. L. 103–160, § 1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+Subsec. (i). Pub. L. 103–160, § 1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 
 1991—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
 
-## [§ 2609. Repealed. Pub. L. 104–106, div. A, title II, § 253(9), Feb. 10, 1996, 110 Stat. 235]
+## [§ 2609. Repealed. Pub. L. 104–106, div. A, title II, § 253(9), Feb. 10, 1996, 110 Stat. 235]
 
-Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993, 107 Stat. 1605, related to acceptance of contributions from allies for Theater Missile Defense programs and establishment and use of Theater Missile Defense Cooperation Account.
+Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993, 107 Stat. 1605, related to acceptance of contributions from allies for Theater Missile Defense programs and establishment and use of Theater Missile Defense Cooperation Account.
 
-## § 2610. Competitions for excellence: acceptance of monetary awards
+## § 2610. Competitions for excellence: acceptance of monetary awards
 
 **(a) Acceptance Authorized.—** The Secretary of Defense may accept a monetary award given to the Department of Defense by a nongovernmental entity as a result of the participation of the Department in a competition carried out to recognize excellence or innovation in providing services or administering programs.
 
@@ -593,7 +593,7 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 199
 
 **(e) Termination.—** The authority of the Secretary under this section shall expire on February 10, 1998.
 
-(Added Pub. L. 104–106, div. A, title III, § 377(a), Feb. 10, 1996, 110 Stat. 283; amended Pub. L. 104–201, div. A, title X, § 1074(a)(16), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 104–106, div. A, title III, § 377(a), Feb. 10, 1996, 110 Stat. 283; amended Pub. L. 104–201, div. A, title X, § 1074(a)(16), Sept. 23, 1996, 110 Stat. 2659.)
 
 **Editorial Notes**
 
@@ -601,7 +601,7 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 199
 
 1996—Subsec. (e). Pub. L. 104–201 substituted “on February 10, 1998” for “two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
-## § 2611. Regional centers for security studies: acceptance of gifts and donations
+## § 2611. Regional centers for security studies: acceptance of gifts and donations
 
 **(a) Authority to Accept Gifts and Donations.—**
 
@@ -643,7 +643,7 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 199
 
 **(f) Gift or Donation Defined.—** In this section, the term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 106–65, div. A, title IX, § 915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, § 1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, § 931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, § 1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, § 903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(2), Dec. 19, 2014, 128 Stat. 3716; Pub. L. 117–81, div. A, title X, § 1082(b), Dec. 27, 2021, 135 Stat. 1922.)
+(Added Pub. L. 106–65, div. A, title IX, § 915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, § 1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, § 931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, § 1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, § 903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(2), Jan. 2, 2013, 126 Stat. 2162; Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(2), Dec. 19, 2014, 128 Stat. 3716; Pub. L. 117–81, div. A, title X, § 1082(b), Dec. 27, 2021, 135 Stat. 1922.)
 
 **Editorial Notes**
 
@@ -657,19 +657,19 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 199
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to acceptance of gifts and donations for the Asia-Pacific Center for Security Studies.
 
-2004—Subsec. (a)(1). Pub. L. 108–375 amended directory language of Pub. L. 108–136, § 931(a)(1). See 2003 Amendment note below.
+2004—Subsec. (a)(1). Pub. L. 108–375 amended directory language of Pub. L. 108–136, § 931(a)(1). See 2003 Amendment note below.
 
-2003—Pub. L. 108–136, § 931(c), struck out “foreign” before “gifts” in section catchline.
+2003—Pub. L. 108–136, § 931(c), struck out “foreign” before “gifts” in section catchline.
 
-Subsec. (a). Pub. L. 108–136, § 931(b)(1)(A), struck out “Foreign” before “Gifts” in heading.
+Subsec. (a). Pub. L. 108–136, § 931(b)(1)(A), struck out “Foreign” before “Gifts” in heading.
 
-Subsec. (a)(1). Pub. L. 108–136, § 931(a)(1), as amended by Pub. L. 108–375, substituted “gifts and donations from sources described in paragraph (2)” for “foreign gifts or donations”.
+Subsec. (a)(1). Pub. L. 108–136, § 931(a)(1), as amended by Pub. L. 108–375, substituted “gifts and donations from sources described in paragraph (2)” for “foreign gifts or donations”.
 
-Subsec. (a)(2), (3). Pub. L. 108–136, § 931(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 108–136, § 931(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c). Pub. L. 108–136, § 931(b)(1)(B), struck out “foreign” before “gift”.
+Subsec. (c). Pub. L. 108–136, § 931(b)(1)(B), struck out “foreign” before “gift”.
 
-Subsec. (f). Pub. L. 108–136, § 931(b)(1)(A), (C), in heading, struck out “Foreign” before “Gift” and in text, struck out “foreign” after “section, a” and “from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country” before period at end.
+Subsec. (f). Pub. L. 108–136, § 931(b)(1)(A), (C), in heading, struck out “Foreign” before “Gift” and in text, struck out “foreign” after “section, a” and “from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country” before period at end.
 
 2002—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: “If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shall notify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year.”
 
@@ -677,9 +677,9 @@ Subsec. (f). Pub. L. 108–136, § 931(b)(1)(A), (C), in heading, struck out �
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(f)(2) is effective as of Nov. 24, 2003, and as if included in Pub. L. 108–136 as enacted.
+Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(f)(2) is effective as of Nov. 24, 2003, and as if included in Pub. L. 108–136 as enacted.
 
-## § 2612. National Defense University: acceptance of gifts
+## § 2612. National Defense University: acceptance of gifts
 
 **(a)** The Secretary of Defense may accept, hold, administer, and spend any gift, including a gift from an international organization and a foreign gift or donation (as defined in section 343(f)(4) of this title), that is made on the condition that it be used in connection with the operation or administration of the National Defense University. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
 
@@ -705,7 +705,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064,
 
 **(f)** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 107–314, div. A, title IX, § 931(a), Dec. 2, 2002, 116 Stat. 2624; amended Pub. L. 108–136, div. A, title IX, § 931(d), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 115–91, div. A, title X, § 1081(a)(44), Dec. 12, 2017, 131 Stat. 1596.)
+(Added Pub. L. 107–314, div. A, title IX, § 931(a), Dec. 2, 2002, 116 Stat. 2624; amended Pub. L. 108–136, div. A, title IX, § 931(d), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 115–91, div. A, title X, § 1081(a)(44), Dec. 12, 2017, 131 Stat. 1596.)
 
 **Editorial Notes**
 
@@ -715,7 +715,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064,
 
 2003—Subsec. (a). Pub. L. 108–136 substituted “2166(f)(4)” for “2611(f)”.
 
-## § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families
+## § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families
 
 **(a) Authority to Accept Donation of Travel Benefits.—** Subject to subsection (c), the Secretary of Defense may accept from any person or government agency the donation of travel benefits for the purposes of use under subsection (d).
 
@@ -759,7 +759,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064,
 
 **(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in section 451(a) of title 37.
 
-(Added Pub. L. 108–375, div. A, title V, § 585(a)(1), Oct. 28, 2004, 118 Stat. 1930; amended Pub. L. 109–364, div. A, title X, § 1071(a)(20), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title V, § 576(a)–(d)(1), title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1428, 1429, 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 115–232, div. A, title X, § 1081(a)(25), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 117–263, div. A, title VI, § 626(c)(8), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 108–375, div. A, title V, § 585(a)(1), Oct. 28, 2004, 118 Stat. 1930; amended Pub. L. 109–364, div. A, title X, § 1071(a)(20), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title V, § 576(a)–(d)(1), title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1428, 1429, 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 115–232, div. A, title X, § 1081(a)(25), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 117–263, div. A, title VI, § 626(c)(8), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
@@ -773,17 +773,17 @@ Another section 2613 was renumbered section 2614 of this title.
 
 2018—Subsec. (g). Pub. L. 115–232 substituted “481h(b)” for “481h(b)(1)”.
 
-2013—Subsec. (g). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (g). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Pub. L. 112–81, § 576(d)(1), substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.
+2011—Pub. L. 112–81, § 576(d)(1), substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.
 
-Subsec. (b). Pub. L. 112–81, § 576(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
+Subsec. (b). Pub. L. 112–81, § 576(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
 
-Subsec. (c). Pub. L. 112–81, § 576(b), substituted “the business entity referred to in subsection (b)” for “the air or surface carrier” and substituted “the business entity” for “the surface carrier” and for “the carrier”.
+Subsec. (c). Pub. L. 112–81, § 576(b), substituted “the business entity referred to in subsection (b)” for “the air or surface carrier” and substituted “the business entity” for “the surface carrier” and for “the carrier”.
 
-Subsec. (e)(3). Pub. L. 112–81, § 576(c), substituted “the business entity referred to in subsection (b)” for “the air carrier or surface carrier”.
+Subsec. (e)(3). Pub. L. 112–81, § 576(c), substituted “the business entity referred to in subsection (b)” for “the air carrier or surface carrier”.
 
-Subsec. (g). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h(b)(1)” for “411h(b)(1)”.
+Subsec. (g). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h(b)(1)” for “411h(b)(1)”.
 
 2006—Subsec. (b). Pub. L. 109–364 substituted “In this” for “In the”.
 
@@ -791,9 +791,9 @@ Subsec. (g). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–23
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
-## § 2614. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters
+## § 2614. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters
 
 **(a) Authority to Accept Equipment.—**
 
@@ -813,7 +813,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, 
 
 **(d) Liability.—** A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.
 
-(Added Pub. L. 108–375, div. A, title X, § 1051(a), Oct. 28, 2004, 118 Stat. 2053, § 2613; renumbered § 2614 and amended Pub. L. 109–364, div. A, title X, § 1071(a)(19)(A), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 108–375, div. A, title X, § 1051(a), Oct. 28, 2004, 118 Stat. 2053, § 2613; renumbered § 2614 and amended Pub. L. 109–364, div. A, title X, § 1071(a)(19)(A), Oct. 17, 2006, 120 Stat. 2399.)
 
 **Editorial Notes**
 
@@ -821,7 +821,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, 
 
 2006—Pub. L. 109–364 renumbered section 2613 of this title as this section and redesignated the second subsec. (c) as (d).
 
-## § 2615. Military museums and military education programs: cooperative agreement authority
+## § 2615. Military museums and military education programs: cooperative agreement authority
 
 **(a) Use Authorized.—** The Secretary concerned may enter into a cooperative agreement with a nonprofit entity for purposes related to—
 
@@ -831,4 +831,4 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, 
 
 **(b) Cooperative Agreement Described.—** For purposes of subsection (a), an authorized cooperative agreement is described in section 6305 of title 31, except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
 
-(Added Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(1), Jan. 2, 2013, 126 Stat. 2161.)
+(Added Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(1), Jan. 2, 2013, 126 Stat. 2161.)

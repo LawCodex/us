@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VI, § 651(b)(1), Dec. 18, 2025, 139 Stat. 913, substituted “certain” for “protective services” in item 1066. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VI, § 651(b)(1), Dec. 18, 2025, 139 Stat. 913, substituted “certain” for “protective services” in item 1066. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title VI, § 633(c), Dec. 22, 2023, 137 Stat. 297, inserted “and surviving spouses” after “spouses” in item 1062. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title VI, § 633(c), Dec. 22, 2023, 137 Stat. 297, inserted “and surviving spouses” after “spouses” in item 1062. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title X, § 1081(a)(16), Dec. 27, 2021, 135 Stat. 1920, added item 1065 and struck out former item 1065 “Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans”.
+2021—Pub. L. 117–81, div. A, title X, § 1081(a)(16), Dec. 27, 2021, 135 Stat. 1920, added item 1065 and struck out former item 1065 “Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans”.
 
-Pub. L. 116–283, div. A, title VI, § 631(b), title X, § 1081(a)(23), Jan. 1, 2021, 134 Stat. 3682, 3872, added items 1065 and 1066.
+Pub. L. 116–283, div. A, title VI, § 631(b), title X, § 1081(a)(23), Jan. 1, 2021, 134 Stat. 3682, 3872, added items 1065 and 1066.
 
-2018—Pub. L. 115–232, div. A, title VI, § 621(b)(2), Aug. 13, 2018, 132 Stat. 1799, added item 1065.
+2018—Pub. L. 115–232, div. A, title VI, § 621(b)(2), Aug. 13, 2018, 132 Stat. 1799, added item 1065.
 
-2003—Pub. L. 108–136, div. A, title VI, § 651(c), Nov. 24, 2003, 117 Stat. 1522, added items 1063 and 1064 and struck out former items 1063 “Use of commissary stores: members of Ready Reserve”, 1063a “Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency”, 1064 “Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60”, and 1065 “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents”.
+2003—Pub. L. 108–136, div. A, title VI, § 651(c), Nov. 24, 2003, 117 Stat. 1522, added items 1063 and 1064 and struck out former items 1063 “Use of commissary stores: members of Ready Reserve”, 1063a “Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency”, 1064 “Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60”, and 1065 “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents”.
 
-2002—Pub. L. 107–314, div. A, title III, § 322(b)(2), Dec. 2, 2002, 116 Stat. 2510, inserted “or national emergency” after “disaster” in item 1063a.
+2002—Pub. L. 107–314, div. A, title III, § 322(b)(2), Dec. 2, 2002, 116 Stat. 2510, inserted “or national emergency” after “disaster” in item 1063a.
 
-2001—Pub. L. 107–107, div. A, title III, § 331(d)(3), Dec. 28, 2001, 115 Stat. 1058, struck out “with at least 50 creditable points” after “Ready Reserve” in item 1063.
+2001—Pub. L. 107–107, div. A, title III, § 331(d)(3), Dec. 28, 2001, 115 Stat. 1058, struck out “with at least 50 creditable points” after “Ready Reserve” in item 1063.
 
-1998—Pub. L. 105–261, div. A, title III, § 362(e), Oct. 17, 1998, 112 Stat. 1985, added items 1063, 1063a, and 1064 and struck out former items 1063 “Period for use of commissary stores: eligibility for members of the Ready Reserve” and 1064 “Use of commissary stores by certain members and former members”.
+1998—Pub. L. 105–261, div. A, title III, § 362(e), Oct. 17, 1998, 112 Stat. 1985, added items 1063, 1063a, and 1064 and struck out former items 1063 “Period for use of commissary stores: eligibility for members of the Ready Reserve” and 1064 “Use of commissary stores by certain members and former members”.
 
-1996—Pub. L. 104–106, div. A, title III, § 342(b), Feb. 10, 1996, 110 Stat. 266, substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in item 1065.
+1996—Pub. L. 104–106, div. A, title III, § 342(b), Feb. 10, 1996, 110 Stat. 266, substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in item 1065.
 
-1992—Pub. L. 102–484, div. A, title III, § 365(c)(2), Oct. 23, 1992, 106 Stat. 2382, substituted “eligibility for members of the Ready Reserve” for “eligibility attributable to active duty for training”.
+1992—Pub. L. 102–484, div. A, title III, § 365(c)(2), Oct. 23, 1992, 106 Stat. 2382, substituted “eligibility for members of the Ready Reserve” for “eligibility attributable to active duty for training”.
 
-1990—Pub. L. 101–510, div. A, title III, § 321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
+1990—Pub. L. 101–510, div. A, title III, § 321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
 
-## § 1061. Survivors of certain Reserve and Guard members
+## § 1061. Survivors of certain Reserve and Guard members
 
 **(a) Benefits.—** The Secretary of Defense shall prescribe regulations to allow dependents of members of the uniformed services described in subsection (b) to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days.
 
@@ -53,13 +53,13 @@ Pub. L. 116–283, div. A, title VI, § 631(b), title X, § 1081(a)(23), Jan
 
 **(2)** while traveling to or from the place at which the member was to perform, or has performed, active duty, active duty for training, or inactive-duty training (regardless of the period of such duty).
 
-(Added Pub. L. 100–370, § 1(c)(1), July 19, 1988, 102 Stat. 841.)
+(Added Pub. L. 100–370, § 1(c)(1), July 19, 1988, 102 Stat. 841.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–145, title III, § 308, Nov. 8, 1985, 99 Stat. 618.
+Section is based on Pub. L. 99–145, title III, § 308, Nov. 8, 1985, 99 Stat. 618.
 
-## § 1062. Certain former spouses and surviving spouses
+## § 1062. Certain former spouses and surviving spouses
 
 **(a) Certain Unremarried Former Spouses.—** The Secretary of Defense shall prescribe such regulations as may be necessary to provide that an unremarried former spouse described in subparagraph (F)(i) of section 1072(2) of this title is entitled to use commissary stores and MWR retail facilities to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services.
 
@@ -67,11 +67,11 @@ Section is based on Pub. L. 99–145, title III, § 308, Nov. 8, 1985, 99 Stat
 
 **(c) MWR Retail Facilities Defined.—** In this section, the term “MWR retail facilities” has the meaning given that term in section 1063 of this title.
 
-(Added Pub. L. 100–370, § 1(c)(1), July 19, 1988, 102 Stat. 841; amended Pub. L. 118–31, div. A, title VI, § 633(a), (c), Dec. 22, 2023, 137 Stat. 297.)
+(Added Pub. L. 100–370, § 1(c)(1), July 19, 1988, 102 Stat. 841; amended Pub. L. 118–31, div. A, title VI, § 633(a), (c), Dec. 22, 2023, 137 Stat. 297.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 737.
+Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 737.
 
 **Editorial Notes**
 
@@ -83,9 +83,9 @@ Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat
 
 **Regulations**
 
-Pub. L. 118–31, div. A, title VI, § 633(b), Dec. 22, 2023, 137 Stat. 297, provided that: “The Secretary of Defense shall prescribe regulations under section 1062(b) of title 10, United States Code, as added by subsection (a)(3), not later than October 1, 2025.”
+Pub. L. 118–31, div. A, title VI, § 633(b), Dec. 22, 2023, 137 Stat. 297, provided that: “The Secretary of Defense shall prescribe regulations under section 1062(b) of title 10, United States Code, as added by subsection (a)(3), not later than October 1, 2025.”
 
-## § 1063. Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60
+## § 1063. Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60
 
 **(a) Members of the Selected Reserve.—** A member of the Selected Reserve in good standing (as determined by the Secretary concerned) shall be permitted to use commissary stores and MWR retail facilities on the same basis as members on active duty.
 
@@ -103,29 +103,29 @@ Pub. L. 118–31, div. A, title VI, § 633(b), Dec. 22, 2023, 137 Stat. 297, p
 
 **(f) MWR Retail Facility Defined.—** In this section, the term “MWR retail facilities” means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
-(Added Pub. L. 101–510, div. A, title III, § 321(c), Nov. 5, 1990, 104 Stat. 1528, § 1065; amended Pub. L. 104–106, div. A, title III, § 342(a), Feb. 10, 1996, 110 Stat. 265; renumbered § 1063 and amended Pub. L. 108–136, div. A, title VI, § 651(a), (b)(4), (5), Nov. 24, 2003, 117 Stat. 1521, 1522; Pub. L. 118–31, div. A, title XVII, § 1722(h), Dec. 22, 2023, 137 Stat. 672.)
+(Added Pub. L. 101–510, div. A, title III, § 321(c), Nov. 5, 1990, 104 Stat. 1528, § 1065; amended Pub. L. 104–106, div. A, title III, § 342(a), Feb. 10, 1996, 110 Stat. 265; renumbered § 1063 and amended Pub. L. 108–136, div. A, title VI, § 651(a), (b)(4), (5), Nov. 24, 2003, 117 Stat. 1521, 1522; Pub. L. 118–31, div. A, title XVII, § 1722(h), Dec. 22, 2023, 137 Stat. 672.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1063, added Pub. L. 99–661, div. A, title VI, § 656(a)(1), Nov. 14, 1986, 100 Stat. 3891, § 1052; renumbered § 1063, Pub. L. 100–370, § 1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, § 321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, § 365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, § 1501(c)(9), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(a), (d)(1), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 107–107, div. A, title III, § 331(a)–(d)(2), Dec. 28, 2001, 115 Stat. 1057, related to use of commissary stores by members of Ready Reserve, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
+A prior section 1063, added Pub. L. 99–661, div. A, title VI, § 656(a)(1), Nov. 14, 1986, 100 Stat. 3891, § 1052; renumbered § 1063, Pub. L. 100–370, § 1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, § 321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, § 365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, § 1501(c)(9), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(a), (d)(1), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 107–107, div. A, title III, § 331(a)–(d)(2), Dec. 28, 2001, 115 Stat. 1057, related to use of commissary stores by members of Ready Reserve, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
 
 **Amendments**
 
-2023—Subsec. (c). Pub. L. 118–31, § 1722(h)(1), inserted “and Space Force” after “Reserve” in heading and “or the Space Force” after “reserve component” in text.
+2023—Subsec. (c). Pub. L. 118–31, § 1722(h)(1), inserted “and Space Force” after “Reserve” in heading and “or the Space Force” after “reserve component” in text.
 
-Subsec. (d). Pub. L. 118–31, § 1722(h)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 118–31, § 1722(h)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 118–31, § 1722(h)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (d)” for “subsection (a) or (b)” in par. (1). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 118–31, § 1722(h)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (d)” for “subsection (a) or (b)” in par. (1). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 118–31, § 1722(h)(2), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 118–31, § 1722(h)(2), redesignated subsec. (e) as (f).
 
-2003—Pub. L. 108–136, § 651(b)(4), (5), renumbered section 1065 of this title as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
+2003—Pub. L. 108–136, § 651(b)(4), (5), renumbered section 1065 of this title as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 108–136, § 651(a)(1), inserted “commissary stores and” after “use”.
+Subsecs. (a) to (c). Pub. L. 108–136, § 651(a)(1), inserted “commissary stores and” after “use”.
 
-Subsec. (d). Pub. L. 108–136, § 651(a)(2), inserted “commissary stores and” after “permitted under subsection (a) or (b) to use” and “stores and” after “permitted to use” in par. (1), and inserted “commissary stores and” after “permitted under subsection (c) to use” and “stores and” after “permitted to use” in par. (2).
+Subsec. (d). Pub. L. 108–136, § 651(a)(2), inserted “commissary stores and” after “permitted under subsection (a) or (b) to use” and “stores and” after “permitted to use” in par. (1), and inserted “commissary stores and” after “permitted under subsection (c) to use” and “stores and” after “permitted to use” in par. (2).
 
 1996—Pub. L. 104–106 substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -137,15 +137,15 @@ Subsec. (d). Pub. L. 108–136, § 651(a)(2), inserted “commissary stores an
 
 **Effective Date**
 
-Pub. L. 101–510, div. A, title III, § 321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: “The amendments made by subsections (b) and (c) [enacting this section and former section 1064 of this title] shall take effect 120 days after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title III, § 321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: “The amendments made by subsections (b) and (c) [enacting this section and former section 1064 of this title] shall take effect 120 days after the date of the enactment of this Act [Nov. 5, 1990].”
 
 **Regulations**
 
-Pub. L. 101–510, div. A, title III, § 321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: “The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections [former] 1064 and 1065 [now 1063] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title III, § 321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: “The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections [former] 1064 and 1065 [now 1063] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990].”
 
-## [§ 1063a. Renumbered § 1064]
+## [§ 1063a. Renumbered § 1064]
 
-## § 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency
+## § 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency
 
 **(a) Eligibility of Members.—** A member of the National Guard who, although not in Federal service, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
 
@@ -155,15 +155,15 @@ Pub. L. 101–510, div. A, title III, § 321(e)(2), Nov. 5, 1990, 104 Stat. 15
 
 **(1) Federally declared disaster.—** The term “federally declared disaster” means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
-**(2) MWR retail facilities.—** The term “MWR retail facilities” has the meaning given that term in section 1063(e) 1
+**(2) MWR retail facilities.—** The term “MWR retail facilities” has the meaning given that term in section 1063(e) 1
 
-<sup>1</sup>  See References in text note below.
+<sup>1</sup> See References in text note below.
 
 of this title.
 
 **(3) National emergency.—** The term “national emergency” means a national emergency declared by the President or Congress.
 
-(Added Pub. L. 105–261, div. A, title III, § 362(c), Oct. 17, 1998, 112 Stat. 1985, § 1063a; amended Pub. L. 107–314, div. A, title III, § 322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered § 1064 and amended Pub. L. 108–136, div. A, title VI, § 651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
+(Added Pub. L. 105–261, div. A, title III, § 362(c), Oct. 17, 1998, 112 Stat. 1985, § 1063a; amended Pub. L. 107–314, div. A, title III, § 322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered § 1064 and amended Pub. L. 108–136, div. A, title VI, § 651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
 
 **Editorial Notes**
 
@@ -173,21 +173,21 @@ Section 1063(e) of this title, referred to in subsec. (c)(2), was redesignated s
 
 **Prior Provisions**
 
-A prior section 1064, added Pub. L. 101–510, div. A, title III, § 321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(b), (d)(2), Oct. 17, 1998, 112 Stat. 1984, 1985, related to use of commissary stores by persons qualified for retired pay but under age 60, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
+A prior section 1064, added Pub. L. 101–510, div. A, title III, § 321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(b), (d)(2), Oct. 17, 1998, 112 Stat. 1984, 1985, related to use of commissary stores by persons qualified for retired pay but under age 60, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
 
 **Amendments**
 
-2003—Pub. L. 108–136, § 651(b)(3), renumbered section 1063a of this title as this section.
+2003—Pub. L. 108–136, § 651(b)(3), renumbered section 1063a of this title as this section.
 
-Subsec. (c)(2). Pub. L. 108–136, § 651(b)(2), substituted “section 1063(e)” for “section 1065(e)”.
+Subsec. (c)(2). Pub. L. 108–136, § 651(b)(2), substituted “section 1063(e)” for “section 1065(e)”.
 
-2002—Pub. L. 107–314, § 322(b)(1), inserted “or national emergency” after “disaster” in section catchline.
+2002—Pub. L. 107–314, § 322(b)(1), inserted “or national emergency” after “disaster” in section catchline.
 
-Subsec. (a). Pub. L. 107–314, § 322(a)(1), inserted “or national emergency” after “disaster”.
+Subsec. (a). Pub. L. 107–314, § 322(a)(1), inserted “or national emergency” after “disaster”.
 
-Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
-## § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers
+## § 1065. Use of commissary stores and MWR facilities: certain veterans, caregivers for veterans, and Foreign Service officers
 
 **(a) Eligibility of Veterans Awarded the Purple Heart.—** A veteran who was awarded the Purple Heart shall be permitted to use commissary stores and MWR facilities on the same basis as a member of the armed forces entitled to retired or retainer pay.
 
@@ -215,9 +215,9 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 **(1)** The term “MWR facilities” includes—
 
-**(A)** MWR retail facilities, as that term is defined in section 1063(e) 1
+**(A)** MWR retail facilities, as that term is defined in section 1063(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -233,7 +233,7 @@ of this title; and
 
 **(6)** The term “mandatory home leave” means leave under section 903 of the Foreign Service Act of 1980 (22 U.S.C. 4083).
 
-(Added Pub. L. 115–232, div. A, title VI, § 621(b)(1), Aug. 13, 2018, 132 Stat. 1798; amended Pub. L. 116–92, div. A, title VI, § 641(a), Dec. 20, 2019, 133 Stat. 1430.)
+(Added Pub. L. 115–232, div. A, title VI, § 621(b)(1), Aug. 13, 2018, 132 Stat. 1798; amended Pub. L. 116–92, div. A, title VI, § 641(a), Dec. 20, 2019, 133 Stat. 1430.)
 
 **Editorial Notes**
 
@@ -247,23 +247,23 @@ A prior section 1065 was renumbered section 1063 of this title.
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 641(a)(1), substituted “veterans, caregivers for veterans, and Foreign Service officers” for “veterans and caregivers for veterans” in section catchline.
+2019—Pub. L. 116–92, § 641(a)(1), substituted “veterans, caregivers for veterans, and Foreign Service officers” for “veterans and caregivers for veterans” in section catchline.
 
-Subsecs. (f) to (h). Pub. L. 116–92, § 641(a)(2), (3), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 116–92, § 641(a)(2), (3), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Subsec. (h)(5), (6). Pub. L. 116–92, § 641(a)(4), added pars. (5) and (6).
+Subsec. (h)(5), (6). Pub. L. 116–92, § 641(a)(4), added pars. (5) and (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VI, § 641(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020, as if originally incorporated in section 621 of Public Law 115–232.”
+Pub. L. 116–92, div. A, title VI, § 641(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020, as if originally incorporated in section 621 of Public Law 115–232.”
 
 **Effective Date**
 
-Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 1799, provided that: “Section 1065 of title 10, United States Code, as added by paragraph (1), shall take effect on January 1, 2020.”
+Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 1799, provided that: “Section 1065 of title 10, United States Code, as added by paragraph (1), shall take effect on January 1, 2020.”
 
-## § 1066. Use of commissary stores and MWR facilities: certain civilian employees
+## § 1066. Use of commissary stores and MWR facilities: certain civilian employees
 
 **(a) Eligibility of Certain Civilian Employees.—**
 
@@ -297,14 +297,14 @@ Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 17
 
 **(E)** Emergency Management (GS–0089).
 
-(Added Pub. L. 116–283, div. A, title VI, § 631(a), Jan. 1, 2021, 134 Stat. 3681; amended Pub. L. 119–60, div. A, title VI, § 651, Dec. 18, 2025, 139 Stat. 912.)
+(Added Pub. L. 116–283, div. A, title VI, § 631(a), Jan. 1, 2021, 134 Stat. 3681; amended Pub. L. 119–60, div. A, title VI, § 651, Dec. 18, 2025, 139 Stat. 912.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 651(b)(1), substituted “certain” for “protective services” in section catchline.
+2025—Pub. L. 119–60, § 651(b)(1), substituted “certain” for “protective services” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 651(b)(2), substituted “Certain” for “Protective Services” in heading.
+Subsec. (a). Pub. L. 119–60, § 651(b)(2), substituted “Certain” for “Protective Services” in heading.
 
-Pub. L. 119–60, § 651(a), designated existing provisions as par. (1) and added par. (2).
+Pub. L. 119–60, § 651(a), designated existing provisions as par. (1) and added par. (2).

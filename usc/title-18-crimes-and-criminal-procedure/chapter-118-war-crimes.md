@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–340, § 2(a)(3)(A), Oct. 3, 2008, 122 Stat. 3736, added item 2442.
+2008—Pub. L. 110–340, § 2(a)(3)(A), Oct. 3, 2008, 122 Stat. 3736, added item 2442.
 
-1996—Pub. L. 104–294, title VI, § 605(p)(2), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2401 as 2441.
+1996—Pub. L. 104–294, title VI, § 605(p)(2), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2401 as 2441.
 
-## § 2441. War crimes
+## § 2441. War crimes
 
 **(a) Offense.—** Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.
 
@@ -129,7 +129,7 @@ retrieved: 2026-10-11
 
 **(2)** consent by the United States to any assertion or exercise of jurisdiction by any international, hybrid, or foreign court.
 
-(Added Pub. L. 104–192, § 2(a), Aug. 21, 1996, 110 Stat. 2104, § 2401; renumbered § 2441, Pub. L. 104–294, title VI, § 605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, § 583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, § 4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, § 6(b)(1), Oct. 17, 2006, 120 Stat. 2633; Pub. L. 117–351, § 2, Jan. 5, 2023, 136 Stat. 6265.)
+(Added Pub. L. 104–192, § 2(a), Aug. 21, 1996, 110 Stat. 2104, § 2401; renumbered § 2441, Pub. L. 104–294, title VI, § 605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, § 583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, § 4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, § 6(b)(1), Oct. 17, 2006, 120 Stat. 2633; Pub. L. 117–351, § 2, Jan. 5, 2023, 136 Stat. 6265.)
 
 **Editorial Notes**
 
@@ -139,21 +139,21 @@ The date of the enactment of the Military Commissions Act of 2006, referred to i
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 117–351, § 2(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).”
+2023—Subsec. (b). Pub. L. 117–351, § 2(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).”
 
-Subsecs. (e) to (i). Pub. L. 117–351, § 2(2), added subsecs. (e) to (i).
+Subsecs. (e) to (i). Pub. L. 117–351, § 2(2), added subsecs. (e) to (i).
 
-2006—Subsec. (c)(3). Pub. L. 109–366, § 6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
+2006—Subsec. (c)(3). Pub. L. 109–366, § 6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
 
-Subsec. (d). Pub. L. 109–366, § 6(b)(1)(B), added subsec. (d).
+Subsec. (d). Pub. L. 109–366, § 6(b)(1)(B), added subsec. (d).
 
-2002—Subsecs. (a) to (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 105–118, § 583. See 1997 Amendment notes below.
+2002—Subsecs. (a) to (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 105–118, § 583. See 1997 Amendment notes below.
 
-1997—Subsec. (a). Pub. L. 105–118, § 583(1), as amended by Pub. L. 107–273, substituted “war crime” for “grave breach of the Geneva Conventions”.
+1997—Subsec. (a). Pub. L. 105–118, § 583(1), as amended by Pub. L. 107–273, substituted “war crime” for “grave breach of the Geneva Conventions”.
 
-Subsec. (b). Pub. L. 105–118, § 583(2), as amended by Pub. L. 107–273, substituted “war crime” for “breach” in two places.
+Subsec. (b). Pub. L. 105–118, § 583(2), as amended by Pub. L. 107–273, substituted “war crime” for “breach” in two places.
 
-Subsec. (c). Pub. L. 105–118, § 583(3), as amended by Pub. L. 107–273, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 105–118, § 583(3), as amended by Pub. L. 107–273, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c) Definitions.—As used in this section, the term ‘grave breach of the Geneva Conventions’ means conduct defined as a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.”
 
@@ -163,19 +163,19 @@ Subsec. (c). Pub. L. 105–118, § 583(3), as amended by Pub. L. 107–273, am
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–366, § 6(b)(2), Oct. 17, 2006, 120 Stat. 2635, provided that: “The amendments made by this subsection [amending this section], except as specified in subsection (d)(2)(E) of section 2441 of title 18, United States Code, shall take effect as of November 26, 1997, as if enacted immediately after the amendments made by section 583 of Public Law 105–118 [amending this section] (as amended by section 4002(e)(7) of Public Law 107–273).”
+Pub. L. 109–366, § 6(b)(2), Oct. 17, 2006, 120 Stat. 2635, provided that: “The amendments made by this subsection [amending this section], except as specified in subsection (d)(2)(E) of section 2441 of title 18, United States Code, shall take effect as of November 26, 1997, as if enacted immediately after the amendments made by section 583 of Public Law 105–118 [amending this section] (as amended by section 4002(e)(7) of Public Law 107–273).”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(e)(7), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(7) is effective Nov. 26, 1997.
+Pub. L. 107–273, div. B, title IV, § 4002(e)(7), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(7) is effective Nov. 26, 1997.
 
 **Short Title**
 
-Pub. L. 104–192, § 1, Aug. 21, 1996, 110 Stat. 2104, provided that: “This Act [enacting this chapter] may be cited as the ‘War Crimes Act of 1996’.”
+Pub. L. 104–192, § 1, Aug. 21, 1996, 110 Stat. 2104, provided that: “This Act [enacting this chapter] may be cited as the ‘War Crimes Act of 1996’.”
 
 **Implementation of Treaty Obligations**
 
-Pub. L. 109–366, § 6(a), Oct. 17, 2006, 120 Stat. 2632, provided that:
+Pub. L. 109–366, § 6(a), Oct. 17, 2006, 120 Stat. 2632, provided that:
 
 > **“(1) In general.—** The acts enumerated in subsection (d) of section 2441 of title 18, United States Code, as added by subsection (b) of this section, and in subsection (c) of this section [enacting section 2000dd–0 of Title 42, The Public Health and Welfare], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
 
@@ -209,9 +209,9 @@ Pub. L. 109–366, § 6(a), Oct. 17, 2006, 120 Stat. 2632, provided that:
 
 **Executive Order No. 13440**
 
-Ex. Ord. No. 13440, July 20, 2007, 72 F.R. 40707, which interpreted the Geneva Conventions Common Article 3 as applied to a program of detention and interrogation operated by the Central Intelligence Agency, was revoked by Ex. Ord. No. 13491, § 1, Jan. 22, 2009, 74 F.R. 4893, set out as a note under section 2000dd of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13440, July 20, 2007, 72 F.R. 40707, which interpreted the Geneva Conventions Common Article 3 as applied to a program of detention and interrogation operated by the Central Intelligence Agency, was revoked by Ex. Ord. No. 13491, § 1, Jan. 22, 2009, 74 F.R. 4893, set out as a note under section 2000dd of Title 42, The Public Health and Welfare.
 
-## § 2442. Recruitment or use of child soldiers
+## § 2442. Recruitment or use of child soldiers
 
 **(a) Offense.—** Whoever knowingly—
 
@@ -225,9 +225,9 @@ knowing such person is under 15 years of age, shall be punished as provided in s
 
 **(c) Jurisdiction.—** There is jurisdiction over an offense described in subsection (a), and any attempt or conspiracy to commit such offense, if—
 
-**(1)** the alleged offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)); 1
+**(1)** the alleged offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)); 1
 
-<sup>1</sup>  So in original. An additional closing parenthesis probably should precede the semicolon.
+<sup>1</sup> So in original. An additional closing parenthesis probably should precede the semicolon.
 
 **(2)** the alleged offender is a stateless person whose habitual residence is in the United States;
 
@@ -245,4 +245,4 @@ knowing such person is under 15 years of age, shall be punished as provided in s
 
 **(2) Armed force or group.—** The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
 
-(Added Pub. L. 110–340, § 2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)
+(Added Pub. L. 110–340, § 2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 36—MIGRATION AND REFUGEE ASSISTANCE
 
-## § 2601. Refugees and migration
+## § 2601. Refugees and migration
 
 **(a) United States membership in International Organization for Migration; contributions to Organization**
 
@@ -43,9 +43,9 @@ The President shall keep the appropriate committees of Congress currently inform
 
 **(e) Continued availability of certain funds**
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, [22 U.S.C. 2151 et seq.], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) 1
+Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, [22 U.S.C. 2151 et seq.], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Mutual Security Act of 1954, as amended [22 U.S.C. 1925(a), (c), (d), 1951(c)], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
@@ -53,7 +53,7 @@ of the Mutual Security Act of 1954, as amended [22 U.S.C. 1925(a), (c), (d), 195
 
 The President may furnish assistance and make contributions under this chapter notwithstanding any provision of law which restricts assistance to foreign countries.
 
-(Pub. L. 87–510, § 2, June 28, 1962, 76 Stat. 121; Pub. L. 88–634, title II, § 201, Oct. 7, 1964, 78 Stat. 1021; Pub. L. 94–141, title V, § 501(a), Nov. 29, 1975, 89 Stat. 771; Pub. L. 96–212, title III, § 312(b), Mar. 17, 1980, 94 Stat. 116; Pub. L. 99–93, title I, § 111, Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title IV, § 430(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 107–228, div. A, title II, § 242, Sept. 30, 2002, 116 Stat. 1374.)
+(Pub. L. 87–510, § 2, June 28, 1962, 76 Stat. 121; Pub. L. 88–634, title II, § 201, Oct. 7, 1964, 78 Stat. 1021; Pub. L. 94–141, title V, § 501(a), Nov. 29, 1975, 89 Stat. 771; Pub. L. 96–212, title III, § 312(b), Mar. 17, 1980, 94 Stat. 116; Pub. L. 99–93, title I, § 111, Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title IV, § 430(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 107–228, div. A, title II, § 242, Sept. 30, 2002, 116 Stat. 1374.)
 
 **Editorial Notes**
 
@@ -61,9 +61,9 @@ The President may furnish assistance and make contributions under this chapter n
 
 This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201–205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201–205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, as amended, referred to in subsec. (e), were sections of act Aug. 26, 1954, ch. 937, 68 Stat. 832, and were repealed by section 6 of Pub. L. 87–510.
 
@@ -71,17 +71,17 @@ Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, 
 
 2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
-1994—Subsec. (a). Pub. L. 103–236, § 430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
+1994—Subsec. (a). Pub. L. 103–236, § 430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
-Subsec. (b)(1). Pub. L. 103–236, § 430(a)(1), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”.
+Subsec. (b)(1). Pub. L. 103–236, § 430(a)(1), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”.
 
-Subsec. (c)(2). Pub. L. 103–236, § 430(a)(4), substituted “$100,000,000” for “$50,000,000”.
+Subsec. (c)(2). Pub. L. 103–236, § 430(a)(4), substituted “$100,000,000” for “$50,000,000”.
 
 1985—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 
-1980—Subsec. (b). Pub. L. 96–212, § 312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+1980—Subsec. (b). Pub. L. 96–212, § 312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
-Subsec. (c)(2). Pub. L. 96–212, § 312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
+Subsec. (c)(2). Pub. L. 96–212, § 312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 
 1975—Subsec. (c). Pub. L. 94–141 designated existing provision as par. (1), substituted provisions authorizing the President to furnish assistance on such terms and conditions as he determines, for provisions authorizing President to transfer not more than $10,000,000 in any fiscal year of the funds made available under the Foreign Assistance Act of 1961 for the purposes of this chapter, and added pars. (2) and (3).
 
@@ -95,11 +95,11 @@ Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning o
 
 **Short Title**
 
-Pub. L. 87–510, § 1, June 28, 1962, 76 Stat. 121, provided: “That this Act [enacting this chapter, amending sections 1925 and 1951 of this title and section 1104 of Title 8, Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1182 of Title 8] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
+Pub. L. 87–510, § 1, June 28, 1962, 76 Stat. 121, provided: “That this Act [enacting this chapter, amending sections 1925 and 1951 of this title and section 1104 of Title 8, Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1182 of Title 8] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
 
 **United States Policy Regarding Involuntary Return of Refugees**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 251], Nov. 29, 1999, 113 Stat. 1536, 1501A–431, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 251], Nov. 29, 1999, 113 Stat. 1536, 1501A–431, provided that:
 
 > **“(a) In General.—** None of the funds made available by this Act [see Short Title of 1999 Amendment note set out under section 2651 of this title] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
@@ -109,11 +109,11 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 251], Nov. 29
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2241, Oct. 21, 1998, 112 Stat. 2681–821.
+Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2241, Oct. 21, 1998, 112 Stat. 2681–821.
 
 **United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons**
 
-Pub. L. 103–236, title V, § 501, Apr. 30, 1994, 108 Stat. 460, as amended by Pub. L. 117–263, div. E, title LV, § 5586, Dec. 23, 2022, 136 Stat. 3374, provided that:
+Pub. L. 103–236, title V, § 501, Apr. 30, 1994, 108 Stat. 460, as amended by Pub. L. 117–263, div. E, title LV, § 5586, Dec. 23, 2022, 136 Stat. 3374, provided that:
 
 > **“(a) Standards for Refugee Women and Children.—** The United States Government, in providing for overseas assistance and protection of refugees and displaced persons, shall seek to address the protection and provision of basic needs of refugee women and children who represent 80 percent of the world’s refugee population. As called for in the 1991 United Nations High Commissioner for Refugees (UNHCR) ‘Guidelines on the Protection of Refugee Women’, whether directly, or through international organizations and nongovernmental voluntary organizations, the Secretary of State shall seek to ensure—
 
@@ -159,15 +159,15 @@ Pub. L. 103–236, title V, § 501, Apr. 30, 1994, 108 Stat. 460, as amended b
 
 **United States Membership in Intergovernmental Committee for European Migration**
 
-Pub. L. 100–204, title VII, § 745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, § 430(b), Apr. 30, 1994, 108 Stat. 459.
+Pub. L. 100–204, title VII, § 745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, § 430(b), Apr. 30, 1994, 108 Stat. 459.
 
 **Indochina Migration and Refugee Assistance**
 
-Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§ 201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, § 201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, § 3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, § 312(c), Mar. 17, 1980, 94 Stat. 117.
+Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§ 201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, § 201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, § 3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, § 312(c), Mar. 17, 1980, 94 Stat. 117.
 
 **Availability of Funds for Continuation of Activities**
 
-Pub. L. 87–510, § 7, June 28, 1962, 76 Stat. 124, provided that: “Until the enactment of legislation appropriating funds for activities under this Act [see Short Title note above], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended [section 2261(a) of this title].”
+Pub. L. 87–510, § 7, June 28, 1962, 76 Stat. 124, provided that: “Until the enactment of legislation appropriating funds for activities under this Act [see Short Title note above], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended [section 2261(a) of this title].”
 
 **Executive Documents**
 
@@ -185,7 +185,7 @@ Determination of President of the United States, No. 02–25, July 9, 2002, 67 F
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by sections 2(d) and 2(f) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. § 2601, insofar as they relate to actions taken under the authority of section 2(b)(2) of the MRAA, to the Secretary of State, who should insure timely performance of any duties and obligations of the delegated authority and who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to provide notice to the President of any use of the functions and authorities delegated by this determination.
+By virtue of the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by sections 2(d) and 2(f) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. § 2601, insofar as they relate to actions taken under the authority of section 2(b)(2) of the MRAA, to the Secretary of State, who should insure timely performance of any duties and obligations of the delegated authority and who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to provide notice to the President of any use of the functions and authorities delegated by this determination.
 
 This delegation of authority supplements Presidential Determination No. 99–6, Delegation of Authority Under Section 2(b)(2) of the Migration and Refugee Assistance Act of 1962, as amended (November 30, 1998) [set out below].
 
@@ -207,7 +207,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-## § 2602. Presidential authorization
+## § 2602. Presidential authorization
 
 **(a) Authority of President to make loans, advances, grants, contracts, etc.; authority to use money, funds, property, services, etc.** In carrying out the purpose of this chapter, the President is authorized—
 
@@ -219,7 +219,7 @@ William J. Clinton.
 
 Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951), as amended, regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
 
-(Pub. L. 87–510, § 3, June 28, 1962, 76 Stat. 123.)
+(Pub. L. 87–510, § 3, June 28, 1962, 76 Stat. 123.)
 
 **Editorial Notes**
 
@@ -229,11 +229,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (b), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
-## § 2603. Delegation of powers
+## § 2603. Delegation of powers
 
 The President is authorized to designate the head of any department or agency of the United States Government, or any official thereof who is required to be appointed by the President by and with the advice and consent of the Senate, to perform any functions conferred upon the President by this chapter. If the President shall so specify, any individual so designated under this section is authorized to redelegate to any of his subordinates any functions authorized to be performed by him under this section, except the function of exercising the waiver authority specified in section 2602(b) of this title.
 
-(Pub. L. 87–510, § 4(a)(1), June 28, 1962, 76 Stat. 123.)
+(Pub. L. 87–510, § 4(a)(1), June 28, 1962, 76 Stat. 123.)
 
 **Editorial Notes**
 
@@ -293,11 +293,11 @@ Sec. 5. *Saving provisions*. Except to the extent that they may be inconsistent 
 
 Sec. 6. *Effective date*. The provisions of this order shall be effective as of July 1, 1962.
 
-## § 2604. Allocation, transfer and availability of funds; separate appropriation accounts on Treasury books
+## § 2604. Allocation, transfer and availability of funds; separate appropriation accounts on Treasury books
 
 The President may allocate or transfer to any agency of the United States Government any part of any funds available for carrying out the purposes of this chapter. Such funds shall be available for obligation and expenditure for the purposes for which authorized in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred. Funds allocated or transferred pursuant to this section to any such agency may be established in separate appropriation accounts on the books of the Treasury.
 
-(Pub. L. 87–510, § 4(b), June 28, 1962, 76 Stat. 123.)
+(Pub. L. 87–510, § 4(b), June 28, 1962, 76 Stat. 123.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ The President may allocate or transfer to any agency of the United States Govern
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-## § 2605. Use of funds and personnel; savings provision
+## § 2605. Use of funds and personnel; savings provision
 
 **(a) Use of funds** Funds made available for the purposes of this chapter shall be available for—
 
@@ -313,9 +313,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(2)** employment or assignment of members of the Foreign Service serving under limited appointments for the duration of operations under this chapter;
 
-**(3)** exchange of funds without regard to section 3651 1
+**(3)** exchange of funds without regard to section 3651 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Revised Statutes (31 U.S.C. 543), and loss by exchanges;
 
@@ -335,7 +335,7 @@ Except as may be expressly provided to the contrary in this chapter, all determi
 
 Personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau charged with carrying out this chapter.
 
-(Pub. L. 87–510, § 5, June 28, 1962, 76 Stat. 123; Pub. L. 96–465, title II, § 2206(a)(10), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 99–93, title I, § 112(a), Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title I, § 164(b), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–415, § 1(ff), Oct. 25, 1994, 108 Stat. 4303.)
+(Pub. L. 87–510, § 5, June 28, 1962, 76 Stat. 123; Pub. L. 96–465, title II, § 2206(a)(10), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 99–93, title I, § 112(a), Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title I, § 164(b), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–415, § 1(ff), Oct. 25, 1994, 108 Stat. 4303.)
 
 **Editorial Notes**
 
@@ -343,9 +343,9 @@ Personnel funded pursuant to this section are authorized to provide administrati
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(3), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(3), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 Act of August 1, 1956, as amended, referred to in subsec. (a)(5), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
@@ -353,25 +353,25 @@ Act of August 1, 1956, as amended, referred to in subsec. (a)(5), is act Aug. 1,
 
 1994—Subsec. (c). Pub. L. 103–236, as amended by Pub. L. 103–415, added subsec. (c).
 
-1985—Subsec. (a)(6), (7). Pub. L. 99–93, § 112(a), added par. (6) and redesignated former par. (6) as (7).
+1985—Subsec. (a)(6), (7). Pub. L. 99–93, § 112(a), added par. (6) and redesignated former par. (6) as (7).
 
-1980—Subsec. (a)(1). Pub. L. 96–465, § 2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
+1980—Subsec. (a)(1). Pub. L. 96–465, § 2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
 
-Subsec. (a)(2). Pub. L. 96–465, § 2206(a)(10)(B), substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
+Subsec. (a)(2). Pub. L. 96–465, § 2206(a)(10)(B), substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
 
-Subsec. (a)(4). Pub. L. 96–465, § 2206(a)(10)(C), substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
+Subsec. (a)(4). Pub. L. 96–465, § 2206(a)(10)(C), substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–93, title I, § 112(b), Aug. 16, 1985, 99 Stat. 411, provided that: “Authority provided by the amendment made by subsection (a) [amending this section] shall only apply with respect to funds appropriated after the date of the enactment of this Act [Aug. 16, 1985].”
+Pub. L. 99–93, title I, § 112(b), Aug. 16, 1985, 99 Stat. 411, provided that: “Authority provided by the amendment made by subsection (a) [amending this section] shall only apply with respect to funds appropriated after the date of the enactment of this Act [Aug. 16, 1985].”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-## § 2606. Audits of U.S. funds received by the United Nations High Commissioner for Refugees
+## § 2606. Audits of U.S. funds received by the United Nations High Commissioner for Refugees
 
 **(a) Program audits** Funds may not be available to the United Nations High Commissioner for Refugees (UNHCR) under this chapter or any other Act unless provision is made for—
 
@@ -383,7 +383,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 The first program audit pursuant to subsection (a)(1) shall begin not later than June 1, 1986.
 
-(Pub. L. 87–510, § 8, as added Pub. L. 99–93, title I, § 113, Aug. 16, 1985, 99 Stat. 411; amended Pub. L. 101–246, title VII, § 701, Feb. 16, 1990, 104 Stat. 74; Pub. L. 104–66, title I, § 1111(a), Dec. 21, 1995, 109 Stat. 723.)
+(Pub. L. 87–510, § 8, as added Pub. L. 99–93, title I, § 113, Aug. 16, 1985, 99 Stat. 411; amended Pub. L. 101–246, title VII, § 701, Feb. 16, 1990, 104 Stat. 74; Pub. L. 104–66, title I, § 1111(a), Dec. 21, 1995, 109 Stat. 723.)
 
 **Editorial Notes**
 

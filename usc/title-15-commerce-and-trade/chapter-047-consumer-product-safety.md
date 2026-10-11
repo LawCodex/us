@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 47—CONSUMER PRODUCT SAFETY
 
-## § 2051. Congressional findings and declaration of purpose
+## § 2051. Congressional findings and declaration of purpose
 
 **(a)** The Congress finds that—
 
@@ -41,13 +41,13 @@ retrieved: 2026-10-11
 
 **(4)** to promote research and investigation into the causes and prevention of product-related deaths, illnesses, and injuries.
 
-(Pub. L. 92–573, § 2, Oct. 27, 1972, 86 Stat. 1207.)
+(Pub. L. 92–573, § 2, Oct. 27, 1972, 86 Stat. 1207.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–314, title II, § 239(a), Aug. 14, 2008, 122 Stat. 3076, provided that:
+Pub. L. 110–314, title II, § 239(a), Aug. 14, 2008, 122 Stat. 3076, provided that:
 
 > **“(1) In general.—** Except as otherwise specifically provided in this Act [see Short Title of 2008 Amendment note below], this Act and the amendments made by this Act shall take effect on the date of enactment of this Act [Aug. 14, 2008].
 
@@ -55,7 +55,7 @@ Pub. L. 110–314, title II, § 239(a), Aug. 14, 2008, 122 Stat. 3076, provide
 
 **Effective Date**
 
-Pub. L. 92–573, § 34, Oct. 27, 1972, 86 Stat. 1233, provided that:
+Pub. L. 92–573, § 34, Oct. 27, 1972, 86 Stat. 1233, provided that:
 
 > “This Act [enacting this chapter] shall take effect on the sixtieth day following the date of its enactment [Oct. 27, 1972], except—
 
@@ -65,53 +65,53 @@ Pub. L. 92–573, § 34, Oct. 27, 1972, 86 Stat. 1233, provided that:
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–171, § 1, Aug. 16, 2022, 136 Stat. 2094, provided that: “This Act [enacting section 2056e of this title and provisions set out as notes under section 2056e of this title] may be cited as ‘Reese’s Law’.”
+Pub. L. 117–171, § 1, Aug. 16, 2022, 136 Stat. 2094, provided that: “This Act [enacting section 2056e of this title and provisions set out as notes under section 2056e of this title] may be cited as ‘Reese’s Law’.”
 
-Pub. L. 117–126, § 1, May 16, 2022, 136 Stat. 1208, provided that: “This Act [enacting sections 2057d and 2057e of this title] may be cited as the ‘Safe Sleep for Babies Act of 2021’.”
+Pub. L. 117–126, § 1, May 16, 2022, 136 Stat. 1208, provided that: “This Act [enacting sections 2057d and 2057e of this title] may be cited as the ‘Safe Sleep for Babies Act of 2021’.”
 
-Pub. L. 117–103, div. Q, title II, § 201, Mar. 15, 2022, 136 Stat. 812, provided that: “This title [enacting section 2090 of this title and provisions set out as notes under section 2090 of this title] may be cited as the ‘Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022’.”
+Pub. L. 117–103, div. Q, title II, § 201, Mar. 15, 2022, 136 Stat. 812, provided that: “This title [enacting section 2090 of this title and provisions set out as notes under section 2090 of this title] may be cited as the ‘Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 112–266, § 1, Jan. 14, 2013, 126 Stat. 2437, provided that: “This Act [enacting section 2056c of this title and provisions set out as notes under section 2056c of this title] may be cited as the ‘Drywall Safety Act of 2012’.”
+Pub. L. 112–266, § 1, Jan. 14, 2013, 126 Stat. 2437, provided that: “This Act [enacting section 2056c of this title and provisions set out as notes under section 2056c of this title] may be cited as the ‘Drywall Safety Act of 2012’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–314, § 1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: “This Act [enacting sections 1278a, 1477, 2053a, 2055a, 2056a, 2056b, 2057c, 2076b, 2086 to 2089, and 8008 of this title, amending sections 1191, 1193, 1194, 1196, 1201 to 1204, 1261 to 1266, 1269 to 1276, 1278, 1472, 2052, 2054, 2055, 2058, 2060, 2063 to 2070, 2073, 2076, 2077 to 2079, 2081, 2082, 8002, and 8003 of this title, enacting provisions set out as notes under this section and sections 1194, 2053, 2060, 2063, 2066, 2069, and 2076 of this title, amending provisions set out as notes under sections 401 and 1261 of this title and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2053 of this title] may be cited as the ‘Consumer Product Safety Improvement Act of 2008’.”
+Pub. L. 110–314, § 1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: “This Act [enacting sections 1278a, 1477, 2053a, 2055a, 2056a, 2056b, 2057c, 2076b, 2086 to 2089, and 8008 of this title, amending sections 1191, 1193, 1194, 1196, 1201 to 1204, 1261 to 1266, 1269 to 1276, 1278, 1472, 2052, 2054, 2055, 2058, 2060, 2063 to 2070, 2073, 2076, 2077 to 2079, 2081, 2082, 8002, and 8003 of this title, enacting provisions set out as notes under this section and sections 1194, 2053, 2060, 2063, 2066, 2069, and 2076 of this title, amending provisions set out as notes under sections 401 and 1261 of this title and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2053 of this title] may be cited as the ‘Consumer Product Safety Improvement Act of 2008’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–608, § 1, Nov. 16, 1990, 104 Stat. 3110, provided that: “This Act [enacting sections 2076a and 2084 of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title] may be cited as the ‘Consumer Product Safety Improvement Act of 1990’.”
+Pub. L. 101–608, § 1, Nov. 16, 1990, 104 Stat. 3110, provided that: “This Act [enacting sections 2076a and 2084 of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title] may be cited as the ‘Consumer Product Safety Improvement Act of 1990’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–35, title XII, § 1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: “This subtitle [subtitle A (§§ 1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title] may be cited as the ‘Consumer Product Safety Amendments of 1981’.”
+Pub. L. 97–35, title XII, § 1201(a), Aug. 13, 1981, 95 Stat. 703, provided that: “This subtitle [subtitle A (§§ 1201–1215) of title XII of Pub. L. 97–35, enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under section 2052 of this title] may be cited as the ‘Consumer Product Safety Amendments of 1981’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–319, § 1, July 11, 1978, 92 Stat. 386, provided: “That this Act [enacting section 2082 of this title, amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
+Pub. L. 95–319, § 1, July 11, 1978, 92 Stat. 386, provided: “That this Act [enacting section 2082 of this title, amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–284, § 1, May 11, 1976, 90 Stat. 503, provided that: “This Act [amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
+Pub. L. 94–284, § 1, May 11, 1976, 90 Stat. 503, provided that: “This Act [amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
 
 **Short Title**
 
-Pub. L. 92–573, § 1, Oct. 27, 1972, 86 Stat. 1207, provided that: “This Act [enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Consumer Product Safety Act’.”
+Pub. L. 92–573, § 1, Oct. 27, 1972, 86 Stat. 1207, provided that: “This Act [enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Consumer Product Safety Act’.”
 
 **Authority To Issue Implementing Regulations**
 
-Pub. L. 110–314, § 3, Aug. 14, 2008, 122 Stat. 3017, provided that: “The Commission may issue regulations, as necessary, to implement this Act [see Short Title of 2008 Amendment note above] and the amendments made by this Act.”
+Pub. L. 110–314, § 3, Aug. 14, 2008, 122 Stat. 3017, provided that: “The Commission may issue regulations, as necessary, to implement this Act [see Short Title of 2008 Amendment note above] and the amendments made by this Act.”
 
 **Severability**
 
-Pub. L. 110–314, title II, § 239(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “If any provision of this Act [see Short Title of 2008 Amendment note above] or the amendments made by this Act, or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Pub. L. 110–314, title II, § 239(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “If any provision of this Act [see Short Title of 2008 Amendment note above] or the amendments made by this Act, or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
-Pub. L. 92–573, § 33, Oct. 27, 1972, 86 Stat. 1233, provided that: “If any provision of this Act [see Short Title note above], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Pub. L. 92–573, § 33, Oct. 27, 1972, 86 Stat. 1233, provided that: “If any provision of this Act [see Short Title note above], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 **Preemption**
 
-Pub. L. 110–314, title II, § 231, Aug. 14, 2008, 122 Stat. 3070, provided that:
+Pub. L. 110–314, title II, § 231, Aug. 14, 2008, 122 Stat. 3070, provided that:
 
 > **“(a) Rule With Regard to Preemption.—** The provisions of sections 25 and 26 of the Consumer Product Safety Act (15 U.S.C. 2074 and 2075, respectively), section 18 of the Federal Hazardous Substances Act ([Pub. L. 86–613] 15 U.S.C. 1261 note), section 16 of the Flammable Fabrics Act (15 U.S.C. 1203), and section 7 of the Poison Packaging Prevention Act of 1970 [Poison Prevention Packaging Act of 1970] (15 U.S.C. 1476) establishing the extent to which those Acts preempt, limit, or otherwise affect any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law may not be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation thereunder, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation. In accordance with the provisions of those Acts, the Commission may not construe any such Act as preempting any cause of action under State or local common law or State statutory law regarding damage claims.
 
@@ -119,7 +119,7 @@ Pub. L. 110–314, title II, § 231, Aug. 14, 2008, 122 Stat. 3070, provided t
 
 **Definitions**
 
-Pub. L. 110–314, § 2(a), Aug. 14, 2008, 122 Stat. 3017, provided that:
+Pub. L. 110–314, § 2(a), Aug. 14, 2008, 122 Stat. 3017, provided that:
 
 > **“(a) Defined Terms.—** As used in this Act [see Short Title of 2008 Amendment note above]—
 
@@ -127,7 +127,7 @@ Pub. L. 110–314, § 2(a), Aug. 14, 2008, 122 Stat. 3017, provided that:
 
 > **“(2)** the term ‘Commission’ means the Consumer Product Safety Commission.”
 
-## § 2052. Definitions
+## § 2052. Definitions
 
 **(a) In general** In this chapter:
 
@@ -161,9 +161,9 @@ The term “Commission” means the Consumer Product Safety Commission, establis
 
 **(B)** tobacco and tobacco products,
 
-**(C)** motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49 1
+**(C)** motor vehicles or motor vehicle equipment (as defined by section 30102(a)(6) and (7) of title 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ),
 
@@ -179,7 +179,7 @@ The term “Commission” means the Consumer Product Safety Commission, establis
 
 **(I)** food. The term “food”, as used in this subparagraph means all “food”, as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 321(f)], including poultry and poultry products (as defined in sections 4(e) and (f) of the Poultry Products Inspection Act [21 U.S.C. 453(e) and (f)]), meat, meat food products (as defined in section 1(j) of the Federal Meat Inspection Act [21 U.S.C. 601(j)]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act [21 U.S.C. 1033]).
 
-Such term includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site. Such term does not include such a device which is permanently fixed to a site. Except for the regulation under this chapter or the Federal Hazardous Substances Act [15 U.S.C. 1261 et seq.] of fireworks devices or any substance intended for use as a component of any such device, the Commission shall have no authority under the functions transferred pursuant to section 2079 of this title to regulate any product or article described in subparagraph (E) of this paragraph or described, without regard to quantity, in section 845(a)(5) of title 18. See sections 2079(d) <sup>1</sup> and 2080 of this title, for other limitations on Commission’s authority to regulate certain consumer products.
+Such term includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site. Such term does not include such a device which is permanently fixed to a site. Except for the regulation under this chapter or the Federal Hazardous Substances Act [15 U.S.C. 1261 et seq.] of fireworks devices or any substance intended for use as a component of any such device, the Commission shall have no authority under the functions transferred pursuant to section 2079 of this title to regulate any product or article described in subparagraph (E) of this paragraph or described, without regard to quantity, in section 845(a)(5) of title 18. See sections 2079(d) <sup>1</sup> and 2080 of this title, for other limitations on Commission’s authority to regulate certain consumer products.
 
 **(6) Consumer product safety rule**
 
@@ -231,45 +231,45 @@ The term “third-party logistics provider” means a person who solely receives
 
 The term “United States”, when used in the geographic sense, means all of the States (as defined in paragraph (10)).2
 
-<sup>2</sup>  So in original. Probably should refer to paragraph (15).
+<sup>2</sup> So in original. Probably should refer to paragraph (15).
 
 **(b) Common carriers, contract carriers, third-party logistics provider, and freight forwarders**
 
 A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
-(Pub. L. 92–573, § 3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, § 3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, § 1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, § 235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
+(Pub. L. 92–573, § 3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, § 3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, § 1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, § 235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2079(d) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.
+Section 2079(d) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.
 
 Section 30102(a)(6) and (7) of title 49, referred to in subsec. (a)(5)(C), was redesignated section 30102(a)(7) and (8) of title 49 by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(5)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(5)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-Title 52 of the Revised Statutes, referred to in subsec. (a)(5)(G), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Disposition Table preceding section 101 of Title 46.
+Title 52 of the Revised Statutes, referred to in subsec. (a)(5)(G), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Disposition Table preceding section 101 of Title 46.
 
-The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(5)(I), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(5)(I), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a)(15), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 **Codification**
 
-In subsec. (a)(5)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 [15 U.S.C. 1391(3) and (4)]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 [49 App. U.S.C. 1301]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(5)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 [15 U.S.C. 1391(3) and (4)]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 [49 App. U.S.C. 1301]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-In subsec. (a)(5)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 [46 U.S.C. 1452(8)]”, respectively, on authority of Pub. L. 98–89, § 2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
+In subsec. (a)(5)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 [46 U.S.C. 1452(8)]”, respectively, on authority of Pub. L. 98–89, § 2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
+2008—Subsec. (a). Pub. L. 110–314, § 235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
 
-Pub. L. 110–314, § 235(b)(1), which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for “for purposes of this chapter:”, was executed by making the substitution for “For purposes of this chapter:” to reflect the probable intent of Congress.
+Pub. L. 110–314, § 235(b)(1), which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for “for purposes of this chapter:”, was executed by making the substitution for “For purposes of this chapter:” to reflect the probable intent of Congress.
 
-Subsec. (a)(15) to (17). Pub. L. 110–314, § 235(a), added pars. (15) defining “appropriate Congressional committees”, (16) defining “children’s product”, and (17) defining “third-party logistics providers”.
+Subsec. (a)(15) to (17). Pub. L. 110–314, § 235(a), added pars. (15) defining “appropriate Congressional committees”, (16) defining “children’s product”, and (17) defining “third-party logistics providers”.
 
-Subsec. (b). Pub. L. 110–314, § 235(b)(5), (c)(1), inserted heading and inserted “third-party logistics provider,” after “contract carrier,” in text.
+Subsec. (b). Pub. L. 110–314, § 235(b)(5), (c)(1), inserted heading and inserted “third-party logistics provider,” after “contract carrier,” in text.
 
 1986—Subsec. (a)(1)(E). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -281,7 +281,7 @@ Subsec. (b). Pub. L. 110–314, § 235(b)(5), (c)(1), inserted heading and ins
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XII, § 1215, Aug. 13, 1981, 95 Stat. 724, provided that:
+Pub. L. 97–35, title XII, § 1215, Aug. 13, 1981, 95 Stat. 724, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this subtitle [see Short Title of 1981 Amendment note set out under section 2051 of this title] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].
 
@@ -301,7 +301,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2053. Consumer Product Safety Commission
+## § 2053. Consumer Product Safety Commission
 
 **(a) Establishment; Chairman**
 
@@ -353,9 +353,9 @@ The Commission shall maintain a principal office and such field offices as it de
 
 **(4)** The appointment of any officer (other than a Commissioner) or employee of the Commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
 
-**(5)** The Chairman may provide to officers and employees of the Commission who are appointed or assigned by the Commission to serve abroad (as defined in section 102 of the Foreign Service Act of 1980 (22 U.S.C. 3902)) travel benefits similar to those authorized for members of the Foreign Service of the United Service under chapter 9 1
+**(5)** The Chairman may provide to officers and employees of the Commission who are appointed or assigned by the Commission to serve abroad (as defined in section 102 of the Foreign Service Act of 1980 (22 U.S.C. 3902)) travel benefits similar to those authorized for members of the Foreign Service of the United Service under chapter 9 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of such Act (22 U.S.C. 4081 et seq.).
 
@@ -377,13 +377,13 @@ In the case of a civil action on a claim based upon the exercise or performance 
 
 At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
-(Pub. L. 92–573, § 4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§ 4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, § 2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§ 102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, § 501, Dec. 23, 2011, 125 Stat. 907.)
+(Pub. L. 92–573, § 4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§ 4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, § 2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§ 102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, § 501, Dec. 23, 2011, 125 Stat. 907.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of the Act probably means chapter 9 of title I of the Act which is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of the Act probably means chapter 9 of title I of the Act which is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Codification**
 
@@ -393,31 +393,31 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 2011—Subsec. (g)(5). Pub. L. 112–74 added par. (5).
 
-1990—Subsec. (a). Pub. L. 101–608, § 102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
+1990—Subsec. (a). Pub. L. 101–608, § 102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
 
-Subsec. (d). Pub. L. 101–608, § 103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
+Subsec. (d). Pub. L. 101–608, § 103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
 
-Subsec. (g)(1). Pub. L. 101–608, § 104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
+Subsec. (g)(1). Pub. L. 101–608, § 104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
 
-Subsec. (j). Pub. L. 101–608, § 105(a), added subsec. (j).
+Subsec. (j). Pub. L. 101–608, § 105(a), added subsec. (j).
 
 1980—Subsec. (g)(2). Pub. L. 96–373 struck out prohibition against regular personnel acceptance of employment or compensation from manufacturer subject to this chapter for period of twelve months following termination of employment with Commission when compensated within preceding period of twelve months at rate in excess of annual rate of basic pay in effect for grade GS–14 of the General Schedule.
 
-1978—Subsec. (a). Pub. L. 95–631, § 2(a), substituted “Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time.” for “Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner.”
+1978—Subsec. (a). Pub. L. 95–631, § 2(a), substituted “Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time.” for “Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner.”
 
-Subsec. (i)(1)(A), (B). Pub. L. 95–631, § 2(b), struck out “before January 1, 1978,” after “deceit” in cl. (A) and “before January 1, 1978” after “employee thereof” in cl. (B).
+Subsec. (i)(1)(A), (B). Pub. L. 95–631, § 2(b), struck out “before January 1, 1978,” after “deceit” in cl. (A) and “before January 1, 1978” after “employee thereof” in cl. (B).
 
-1976—Subsec. (f)(3). Pub. L. 94–284, § 4(a), added par. (3).
+1976—Subsec. (f)(3). Pub. L. 94–284, § 4(a), added par. (3).
 
-Subsec. (g). Pub. L. 94–284, § 4(b), substituted “regular” for “full-time” before “officer or employee of the Commission” and added pars. (3) and (4).
+Subsec. (g). Pub. L. 94–284, § 4(b), substituted “regular” for “full-time” before “officer or employee of the Commission” and added pars. (3) and (4).
 
-Subsec (i). Pub. L. 94–284, § 5, added subsec. (i).
+Subsec (i). Pub. L. 94–284, § 5, added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–608, title I, § 105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act [Nov. 16, 1990].”
+Pub. L. 101–608, title I, § 105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act [Nov. 16, 1990].”
 
 **Effective Date**
 
@@ -425,23 +425,23 @@ Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out 
 
 **Interim Quorum**
 
-Pub. L. 110–314, title II, § 202(a), Aug. 14, 2008, 122 Stat. 3039, provided that: “Notwithstanding section 4(d) of the Consumer Product Safety Act (15 U.S.C. 2053(d)), 2 members of the [Consumer Product Safety] Commission, if they are not affiliated with the same political party, shall constitute a quorum for the transaction of business for the 1 year period beginning on the date of enactment of this Act [Aug. 14, 2008].”
+Pub. L. 110–314, title II, § 202(a), Aug. 14, 2008, 122 Stat. 3039, provided that: “Notwithstanding section 4(d) of the Consumer Product Safety Act (15 U.S.C. 2053(d)), 2 members of the [Consumer Product Safety] Commission, if they are not affiliated with the same political party, shall constitute a quorum for the transaction of business for the 1 year period beginning on the date of enactment of this Act [Aug. 14, 2008].”
 
 **Upgrade of Commission Information Technology Systems**
 
-Pub. L. 110–314, title II, § 212(b), Aug. 14, 2008, 122 Stat. 3052, provided that: “The [Consumer Product Safety] Commission shall expedite efforts to upgrade and improve the information technology systems in use by the Commission on the date of enactment of this Act [Aug. 14, 2008].”
+Pub. L. 110–314, title II, § 212(b), Aug. 14, 2008, 122 Stat. 3052, provided that: “The [Consumer Product Safety] Commission shall expedite efforts to upgrade and improve the information technology systems in use by the Commission on the date of enactment of this Act [Aug. 14, 2008].”
 
 **Reduction in Number of Commissioners**
 
-Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part that funds would not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter, prior to repeal by Pub. L. 110–314, title II, § 202(b)(1), Aug. 14, 2008, 122 Stat. 3040.
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part that funds would not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter, prior to repeal by Pub. L. 110–314, title II, § 202(b)(1), Aug. 14, 2008, 122 Stat. 3040.
 
-[Pub. L. 110–314, title II, § 202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made by paragraph (1) [repealing provisions of title III of Pub. L. 102–389, formerly set out above] shall take effect 1 year after the date of enactment of this Act [Aug. 14, 2008].” ]
+[Pub. L. 110–314, title II, § 202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made by paragraph (1) [repealing provisions of title III of Pub. L. 102–389, formerly set out above] shall take effect 1 year after the date of enactment of this Act [Aug. 14, 2008].” ]
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2053a. Employee training exchanges
+## § 2053a. Employee training exchanges
 
 **(a) In general** The Commission may—
 
@@ -461,7 +461,7 @@ The Commission may execute the authority contained in subsection (a) with or wit
 
 **(3)** any other statute or regulation governing the conduct of Federal employees.
 
-(Pub. L. 110–314, title II, § 208, Aug. 14, 2008, 122 Stat. 3046; Pub. L. 117–286, § 4(c)(25), Dec. 27, 2022, 136 Stat. 4357.)
+(Pub. L. 110–314, title II, § 208, Aug. 14, 2008, 122 Stat. 3046; Pub. L. 117–286, § 4(c)(25), Dec. 27, 2022, 136 Stat. 4357.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2054. Product safety information and research
+## § 2054. Product safety information and research
 
 **(a) Injury Information Clearinghouse; duties** The Commission shall—
 
@@ -507,7 +507,7 @@ In carrying out its functions under this section, the Commission may make grants
 
 Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
-(Pub. L. 92–573, § 5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, § 1209(a), (b), Aug. 13, 1981, 95 Stat. 720; Pub. L. 110–314, title II, § 204(a)(2), Aug. 14, 2008, 122 Stat. 3041.)
+(Pub. L. 92–573, § 5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, § 1209(a), (b), Aug. 13, 1981, 95 Stat. 720; Pub. L. 110–314, title II, § 204(a)(2), Aug. 14, 2008, 122 Stat. 3041.)
 
 **Editorial Notes**
 
@@ -515,9 +515,9 @@ Whenever the Federal contribution for any information, research, or development 
 
 2008—Subsec. (a)(3). Pub. L. 110–314 struck out “an advance notice of proposed rulemaking or” after “following publication of”.
 
-1981—Subsec. (a)(3), (4). Pub. L. 97–35, § 1209(a), added pars. (3) and (4).
+1981—Subsec. (a)(3), (4). Pub. L. 97–35, § 1209(a), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 97–35, § 1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
+Subsec. (b)(3). Pub. L. 97–35, § 1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -531,7 +531,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Study of Aversive Agents**
 
-Pub. L. 101–608, title II, § 204, Nov. 16, 1990, 104 Stat. 3124, provided that: “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act [Nov. 16, 1990] and shall complete the study not later than 2 years after such date of enactment.”
+Pub. L. 101–608, title II, § 204, Nov. 16, 1990, 104 Stat. 3124, provided that: “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act [Nov. 16, 1990] and shall complete the study not later than 2 years after such date of enactment.”
 
 **Fire Safe Cigarette Act of 1990**
 
@@ -593,11 +593,11 @@ Pub. L. 101–352, Aug. 10, 1990, 104 Stat. 405, provided that:
 
 **Additional Reporting Time**
 
-Pub. L. 99–500, § 110, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–591, § 110, Oct. 30, 1986, 100 Stat. 3341–348, provided that: “The Interagency Committee on Cigarette and Little Cigar Fire Safety, established pursuant to Public Law 98–567 [set out as a note below], shall have an additional six months to complete its final technical report and submit policy recommendations to the Congress.”
+Pub. L. 99–500, § 110, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–591, § 110, Oct. 30, 1986, 100 Stat. 3341–348, provided that: “The Interagency Committee on Cigarette and Little Cigar Fire Safety, established pursuant to Public Law 98–567 [set out as a note below], shall have an additional six months to complete its final technical report and submit policy recommendations to the Congress.”
 
 **Cigarette Safety Act of 1984**
 
-Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, provided:
+Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, provided:
 
 > “That this Act may be cited as the ‘Cigarette Safety Act of 1984’.
 
@@ -651,7 +651,7 @@ Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418,
 
 > As used in this Act, the terms ‘cigarettes’ and ‘little cigars’ have the meanings given such terms by section 3 of the Federal Cigarette Labeling and Advertising Act [15 U.S.C. 1332].”
 
-## § 2055. Public disclosure of information
+## § 2055. Public disclosure of information
 
 **(a) Disclosure requirements for manufacturers or private labelers; procedures applicable**
 
@@ -745,7 +745,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 **(5)** Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
-(Pub. L. 92–573, § 6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, § 1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, § 9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§ 106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116; Pub. L. 110–314, title II, §§ 211, 235(c)(2), Aug. 14, 2008, 122 Stat. 3047, 3074.)
+(Pub. L. 92–573, § 6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, § 1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, § 9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§ 106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116; Pub. L. 110–314, title II, §§ 211, 235(c)(2), Aug. 14, 2008, 122 Stat. 3047, 3074.)
 
 **Editorial Notes**
 
@@ -753,31 +753,31 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
-The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
+The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 
-The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 **Amendments**
 
-2008—Subsec. (a)(3). Pub. L. 110–314, § 211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission’s offer.” after “paragraph (2).”
+2008—Subsec. (a)(3). Pub. L. 110–314, § 211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission’s offer.” after “paragraph (2).”
 
-Subsec. (b)(1). Pub. L. 110–314, § 211(2)–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
+Subsec. (b)(1). Pub. L. 110–314, § 211(2)–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
 
-Subsec. (b)(2). Pub. L. 110–314, § 211(5)–(7), substituted “5 days” for “10 days”, “publishes a finding that the public” for “finds that the public”, and “notice.” for “notice and publishes such finding in the Federal Register.”
+Subsec. (b)(2). Pub. L. 110–314, § 211(5)–(7), substituted “5 days” for “10 days”, “publishes a finding that the public” for “finds that the public”, and “notice.” for “notice and publishes such finding in the Federal Register.”
 
-Subsec. (b)(3). Pub. L. 110–314, § 211(8), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (b)(3). Pub. L. 110–314, § 211(8), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(4). Pub. L. 110–314, § 211(9), which directed substitution of “any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission;” for “section 2068 of this title (related to prohibited acts);”, was executed by making the substitution for “section 2068 of this title (relating to prohibited acts);” to reflect the probable intent of Congress.
+Subsec. (b)(4). Pub. L. 110–314, § 211(9), which directed substitution of “any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission;” for “section 2068 of this title (related to prohibited acts);”, was executed by making the substitution for “section 2068 of this title (relating to prohibited acts);” to reflect the probable intent of Congress.
 
-Subsec. (b)(5). Pub. L. 110–314, § 211(10)–(13), added subpar. (D) and substituted “any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission,” for “section 2068(a) of this title,” in concluding provisions.
+Subsec. (b)(5). Pub. L. 110–314, § 211(10)–(13), added subpar. (D) and substituted “any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission,” for “section 2068(a) of this title,” in concluding provisions.
 
-Subsec. (e)(4). Pub. L. 110–314, § 235(c)(2), substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
+Subsec. (e)(4). Pub. L. 110–314, § 235(c)(2), substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
 
-1990—Subsec. (a)(8). Pub. L. 101–608, § 106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
+1990—Subsec. (a)(8). Pub. L. 101–608, § 106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
 
-Subsec. (e). Pub. L. 101–608, § 112(c), added subsec. (e).
+Subsec. (e). Pub. L. 101–608, § 112(c), added subsec. (e).
 
 1983—Subsec. (b)(1). Pub. L. 97–414 substituted “paragraph (4)” for “paragraph (2)”.
 
@@ -809,7 +809,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part contained in a toy or game, to be treated as information submitted pursuant to section 2064(b) of this title, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 
-## § 2055a. Publicly available consumer product safety information database
+## § 2055a. Publicly available consumer product safety information database
 
 **(a) Database required**
 
@@ -999,19 +999,19 @@ The provisions of section 2055(a) and (b) of this title shall not apply to the d
 
 **(2)** risk of injury, illness, or death, as determined by the Commission.
 
-(Pub. L. 92–573, § 6A, as added Pub. L. 110–314, title II, § 212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, § 7, Aug. 12, 2011, 125 Stat. 281.)
+(Pub. L. 92–573, § 6A, as added Pub. L. 110–314, title II, § 212(a), Aug. 14, 2008, 122 Stat. 3048; amended Pub. L. 112–28, § 7, Aug. 12, 2011, 125 Stat. 281.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (c)(3)(A). Pub. L. 112–28, § 7(1), inserted “or paragraph (5)” after “paragraph (4)(A)”.
+2011—Subsec. (c)(3)(A). Pub. L. 112–28, § 7(1), inserted “or paragraph (5)” after “paragraph (4)(A)”.
 
-Subsec. (c)(4)(A). Pub. L. 112–28, § 7(2), substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 112–28, § 7(2), substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 112–28, § 7(3), added par. (5).
+Subsec. (c)(5). Pub. L. 112–28, § 7(3), added par. (5).
 
-## § 2056. Consumer product safety standards
+## § 2056. Consumer product safety standards
 
 **(a) Types of requirements** The Commission may promulgate consumer product safety standards in accordance with the provisions of section 2058 of this title. A consumer product safety standard shall consist of one or more of any of the following types of requirements:
 
@@ -1037,13 +1037,13 @@ Any requirement of such a standard shall be reasonably necessary to prevent or r
 
 If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person’s cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
-(Pub. L. 92–573, § 7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§ 6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§ 3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, § 1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, § 107(a), Nov. 16, 1990, 104 Stat. 3111.)
+(Pub. L. 92–573, § 7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§ 6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§ 3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, § 1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, § 107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -1061,29 +1061,29 @@ Subsec. (e). Pub. L. 97–35 struck out subsec. (e) which related to development
 
 Subsec. (f). Pub. L. 97–35 struck out subsec. (f) which provided for termination of rule-making proceedings and a statement relating to the reasons therefor.
 
-1978—Subsec. (b). Pub. L. 95–631, § 3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
+1978—Subsec. (b). Pub. L. 95–631, § 3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
 
-Subsec. (c). Pub. L. 95–631, § 5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
+Subsec. (c). Pub. L. 95–631, § 5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
 
-Subsec. (d)(1). Pub. L. 95–631, § 4(a)(1), inserted “subsection (b)(2) and by” after “as provided by” and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
+Subsec. (d)(1). Pub. L. 95–631, § 4(a)(1), inserted “subsection (b)(2) and by” after “as provided by” and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
 
-Subsec. (d)(2). Pub. L. 95–631, § 4(a)(2)(A)–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person’s cost with respect to such participation” after “safety standards” and “or person” after “offeror”.
+Subsec. (d)(2). Pub. L. 95–631, § 4(a)(2)(A)–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person’s cost with respect to such participation” after “safety standards” and “or person” after “offeror”.
 
-Subsec. (d)(4). Pub. L. 95–631, § 4(a)(3), added par. (4).
+Subsec. (d)(4). Pub. L. 95–631, § 4(a)(3), added par. (4).
 
-Subsec. (e). Pub. L. 95–631, § (4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck out par. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
+Subsec. (e). Pub. L. 95–631, § (4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck out par. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
 
-Subsec. (f). Pub. L. 95–631, § 4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
+Subsec. (f). Pub. L. 95–631, § 4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
 
-1976—Subsec. (a). Pub. L. 94–284, § 6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
+1976—Subsec. (a). Pub. L. 94–284, § 6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
 
-Subsec. (b). Pub. L. 94–284, § 7(a), substituted “date the offer is accepted” for “publication of notice” in provision following par. (4)(B).
+Subsec. (b). Pub. L. 94–284, § 7(a), substituted “date the offer is accepted” for “publication of notice” in provision following par. (4)(B).
 
-Subsec. (d)(2). Pub. L. 94–284, § 8(a), inserted provision which permits the Commission to advance public moneys without the need of authorized appropriations as required by section 529 of title 31.
+Subsec. (d)(2). Pub. L. 94–284, § 8(a), inserted provision which permits the Commission to advance public moneys without the need of authorized appropriations as required by section 529 of title 31.
 
-Subsec. (e). Pub. L. 94–284, § 7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
+Subsec. (e). Pub. L. 94–284, § 7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-Subsec. (f). Pub. L. 94–284, § 7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+Subsec. (f). Pub. L. 94–284, § 7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1097,7 +1097,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Children’s Gasoline Burn Prevention**
 
-Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, as amended by Pub. L. 116–260, div. FF, title IX, § 901(c)(1), Dec. 27, 2020, 134 Stat. 3206, provided that:
+Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, as amended by Pub. L. 116–260, div. FF, title IX, § 901(c)(1), Dec. 27, 2020, 134 Stat. 3206, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1127,7 +1127,7 @@ Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, as amended by Pub. L. 116–26
 
 **Automatic Garage Door Openers**
 
-Pub. L. 101–608, title II, § 203, Nov. 16, 1990, 104 Stat. 3123, provided that:
+Pub. L. 101–608, title II, § 203, Nov. 16, 1990, 104 Stat. 3123, provided that:
 
 > **“(a) Consumer Product Safety Rule.—** The provisions of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act [15 U.S.C. 2058].
 
@@ -1153,7 +1153,7 @@ Pub. L. 101–608, title II, § 203, Nov. 16, 1990, 104 Stat. 3123, provided t
 
 > **“(h) Construction.—** Nothing in this section shall affect or modify in any way the obligations or liabilities of any person under the common law or any Federal or State law.”
 
-## § 2056a. Standards and consumer registration of durable nursery products
+## § 2056a. Standards and consumer registration of durable nursery products
 
 **(a) Short title**
 
@@ -1297,7 +1297,7 @@ The Commission shall conduct a study at such time as it considers appropriate on
 
 **(L)** bassinets and cradles.
 
-(Pub. L. 110–314, title I, § 104, Aug. 14, 2008, 122 Stat. 3028; Pub. L. 112–28, § 3, Aug. 12, 2011, 125 Stat. 279.)
+(Pub. L. 110–314, title I, § 104, Aug. 14, 2008, 122 Stat. 3028; Pub. L. 112–28, § 3, Aug. 12, 2011, 125 Stat. 279.)
 
 **Editorial Notes**
 
@@ -1305,7 +1305,7 @@ The Commission shall conduct a study at such time as it considers appropriate on
 
 Section 2060(g) of this title, as added by section 236 of this Act, referred to in subsec. (b)(3), is section 2060(g) of this title, as added by section 236 of Pub. L. 110–314.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 This Act, referred to in subsec. (d)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
@@ -1315,9 +1315,9 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 **Amendments**
 
-2011—Subsec. (b)(4). Pub. L. 112–28, § 3(a), added par. (4).
+2011—Subsec. (b)(4). Pub. L. 112–28, § 3(a), added par. (4).
 
-Subsec. (c)(3), (4). Pub. L. 112–28, § 3(b), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 112–28, § 3(b), added par. (3) and redesignated former par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1325,7 +1325,7 @@ Subsec. (c)(3), (4). Pub. L. 112–28, § 3(b), added par. (3) and redesignate
 
 For definitions of “Commission” and “appropriate Congressional committees” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2056b. Mandatory toy safety standards
+## § 2056b. Mandatory toy safety standards
 
 **(a) In general**
 
@@ -1397,7 +1397,7 @@ Nothing in this section or in section 2075 of this title shall prevent a State o
 
 The issuance of any rule under this section is subject to judicial review as provided in section 2060(g) of this title, as added by section 236 of this Act.
 
-(Pub. L. 110–314, title I, § 106, Aug. 14, 2008, 122 Stat. 3033; Pub. L. 112–28, § 4, Aug. 12, 2011, 125 Stat. 280.)
+(Pub. L. 110–314, title I, § 106, Aug. 14, 2008, 122 Stat. 3033; Pub. L. 112–28, § 4, Aug. 12, 2011, 125 Stat. 280.)
 
 **Editorial Notes**
 
@@ -1421,7 +1421,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2056c. Sulfur content in drywall standard
+## § 2056c. Sulfur content in drywall standard
 
 **(a) Rule on sulfur content in drywall required**
 
@@ -1461,7 +1461,7 @@ If the sulfur content limit of a voluntary standard that met the conditions of s
 
 The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
-(Pub. L. 112–266, § 4, Jan. 14, 2013, 126 Stat. 2438.)
+(Pub. L. 112–266, § 4, Jan. 14, 2013, 126 Stat. 2438.)
 
 **Editorial Notes**
 
@@ -1473,7 +1473,7 @@ Section was enacted as part of the Drywall Safety Act of 2012, and not as part o
 
 **Drywall Labeling Requirement**
 
-Pub. L. 112–266, § 3, Jan. 14, 2013, 126 Stat. 2437, provided that:
+Pub. L. 112–266, § 3, Jan. 14, 2013, 126 Stat. 2437, provided that:
 
 > **“(a) Labeling Requirement.—** Beginning 180 days after the date of the enactment of this Act [Jan. 14, 2013], the gypsum board labeling provisions of standard ASTM C1264–11 of ASTM International, as in effect on the day before the date of the enactment of this Act, shall be treated as a rule promulgated by the Consumer Product Safety Commission under section 14(c) of the Consumer Product Safety Act (15 U.S.C. 2063(c)).
 
@@ -1481,9 +1481,9 @@ Pub. L. 112–266, § 3, Jan. 14, 2013, 126 Stat. 2437, provided that:
 
 **Revision of Remediation Guidance for Drywall Disposal Required**
 
-Pub. L. 112–266, § 5, Jan. 14, 2013, 126 Stat. 2439, provided that: “Not later than 120 days after the date of the enactment of this Act [Jan. 14, 2013], the Consumer Product Safety Commission shall revise its guidance entitled ‘Remediation Guidance for Homes with Corrosion from Problem Drywall’ to specify that problematic drywall removed from homes pursuant to the guidance should not be reused or used as a component in production of new drywall.”
+Pub. L. 112–266, § 5, Jan. 14, 2013, 126 Stat. 2439, provided that: “Not later than 120 days after the date of the enactment of this Act [Jan. 14, 2013], the Consumer Product Safety Commission shall revise its guidance entitled ‘Remediation Guidance for Homes with Corrosion from Problem Drywall’ to specify that problematic drywall removed from homes pursuant to the guidance should not be reused or used as a component in production of new drywall.”
 
-## § 2056d. Performance standards to protect against portable fuel container explosions near open flames or other ignition sources
+## § 2056d. Performance standards to protect against portable fuel container explosions near open flames or other ignition sources
 
 **(a) Short title**
 
@@ -1533,9 +1533,9 @@ Not later than 180 days after the Commission is notified of a revised voluntary 
 
 **(6) Future rulemaking**
 
-The Commission, at any time after publication of the consumer product safety rule required by paragraph (1), a voluntary standard is treated as a consumer product safety rule under paragraph (4), or a revision is enforceable as a consumer product safety rule under paragraph (5) 1
+The Commission, at any time after publication of the consumer product safety rule required by paragraph (1), a voluntary standard is treated as a consumer product safety rule under paragraph (4), or a revision is enforceable as a consumer product safety rule under paragraph (5) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements or to include any additional provision that the Commission determines is reasonably necessary to protect the public against flame jetting from a portable fuel container. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
@@ -1569,7 +1569,7 @@ This section may not be interpreted to conflict with the Children’s Gasoline B
 
 The amendment made by paragraph (1) shall take effect 6 months after December 27, 2020.
 
-(Pub. L. 116–260, div. FF, title IX, § 901, Dec. 27, 2020, 134 Stat. 3204.)
+(Pub. L. 116–260, div. FF, title IX, § 901, Dec. 27, 2020, 134 Stat. 3204.)
 
 **Editorial Notes**
 
@@ -1585,7 +1585,7 @@ Section was enacted as the Portable Fuel Container Safety Act of 2020, and not a
 
 Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub. L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under section 2056 of this title.
 
-## § 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries
+## § 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries
 
 **(a) In general** Not later than 1 year after August 16, 2022, the Commission shall, in accordance with section 553 of title 5, promulgate a final consumer product safety standard for button cell or coin batteries and consumer products containing button cell or coin batteries that shall only contain—
 
@@ -1655,7 +1655,7 @@ Beginning on the date that is 180 days after the Commission is notified of a rev
 
 At any time after the promulgation of a final consumer product safety standard under subsection (a), a voluntary standard is treated as a consumer product safety rule under subsection (e), or a revised voluntary standard becomes enforceable as a consumer product safety rule under subsection (f), the Commission may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements of the standard or revised standard. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
-(Pub. L. 117–171, § 2, Aug. 16, 2022, 136 Stat. 2094.)
+(Pub. L. 117–171, § 2, Aug. 16, 2022, 136 Stat. 2094.)
 
 **Editorial Notes**
 
@@ -1667,7 +1667,7 @@ Section was enacted as part of Reese’s Law, and not as part of the Consumer Pr
 
 **Child-Resistant Packaging for Button Cell or Coin Batteries**
 
-Pub. L. 117–171, § 3, Aug. 16, 2022, 136 Stat. 2096, provided that:
+Pub. L. 117–171, § 3, Aug. 16, 2022, 136 Stat. 2096, provided that:
 
 > **“(a) Requirement.—** Not later than 180 days after the date of the enactment of this Act [Aug. 16, 2022], any button cell or coin battery sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States, or included separately with a consumer product sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States, shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations (or any successor regulation), as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations (or any successor regulation), or another test method for button cell or coin battery packaging specified, by rule, by the Commission.
 
@@ -1675,15 +1675,15 @@ Pub. L. 117–171, § 3, Aug. 16, 2022, 136 Stat. 2096, provided that:
 
 **Exemption for Compliance With Existing Standard**
 
-Pub. L. 117–171, § 4, Aug. 16, 2022, 136 Stat. 2096, provided that: “The standards promulgated under this Act [see Short Title of 2022 Amendment note set out under section 2051 of this title] shall not apply with respect to any toy product that is in compliance with the battery accessibility and labeling requirements of part 1250 of title 16, Code of Federal Regulations, and in reference to section 3(a) [set out in a note above], shall not apply with respect to button cell or coin batteries that are in compliance with the marking and packaging provisions of the ANSI Safety Standard for Portable Lithium Primary Cells and Batteries (ANSI C18.3M).”
+Pub. L. 117–171, § 4, Aug. 16, 2022, 136 Stat. 2096, provided that: “The standards promulgated under this Act [see Short Title of 2022 Amendment note set out under section 2051 of this title] shall not apply with respect to any toy product that is in compliance with the battery accessibility and labeling requirements of part 1250 of title 16, Code of Federal Regulations, and in reference to section 3(a) [set out in a note above], shall not apply with respect to button cell or coin batteries that are in compliance with the marking and packaging provisions of the ANSI Safety Standard for Portable Lithium Primary Cells and Batteries (ANSI C18.3M).”
 
 **Applicability Date of Standard and Requirements**
 
-Pub. L. 117–171, § 6, Aug. 16, 2022, 136 Stat. 2097, provided that: “The standard promulgated under section 2(a) [15 U.S.C. 2056e(a)] and the requirements of section 3(a) [set out in a note above] shall only apply to a product that is manufactured or imported after the effective date of such standard or requirement.”
+Pub. L. 117–171, § 6, Aug. 16, 2022, 136 Stat. 2097, provided that: “The standard promulgated under section 2(a) [15 U.S.C. 2056e(a)] and the requirements of section 3(a) [set out in a note above] shall only apply to a product that is manufactured or imported after the effective date of such standard or requirement.”
 
 **Definitions**
 
-Pub. L. 117–171, § 5, Aug. 16, 2022, 136 Stat. 2096, provided that:
+Pub. L. 117–171, § 5, Aug. 16, 2022, 136 Stat. 2096, provided that:
 
 > “In this Act [see Short Title of 2022 Amendment note set out under section 2051 of this title]:
 
@@ -1701,7 +1701,7 @@ Pub. L. 117–171, § 5, Aug. 16, 2022, 136 Stat. 2096, provided that:
 
 > **“(5) Toy product.—** The term ‘toy product’ means any object designed, manufactured, or marketed as a plaything for children under 14 years of age.”
 
-## § 2056f. Consumer product safety standard to protect against tip-over of clothing storage units
+## § 2056f. Consumer product safety standard to protect against tip-over of clothing storage units
 
 **(a) Clothing storage unit defined**
 
@@ -1789,7 +1789,7 @@ Compliance with the testing requirements of a standard revised under subparagrap
 
 Any rule promulgated under this subsection, including any modification or revision made under this subsection, shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
-(Pub. L. 117–328, div. BB, title II, § 201, Dec. 29, 2022, 136 Stat. 5552.)
+(Pub. L. 117–328, div. BB, title II, § 201, Dec. 29, 2022, 136 Stat. 5552.)
 
 **Editorial Notes**
 
@@ -1797,7 +1797,7 @@ Any rule promulgated under this subsection, including any modification or revisi
 
 Section was enacted as part of the Consolidated Appropriations Act, 2023, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-## § 2057. Banned hazardous products
+## § 2057. Banned hazardous products
 
 Whenever the Commission finds that—
 
@@ -1807,7 +1807,7 @@ Whenever the Commission finds that—
 
 the Commission may, in accordance with section 2058 of this title, promulgate a rule declaring such product a banned hazardous product.
 
-(Pub. L. 92–573, § 8, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 97–35, title XII, § 1203(c), Aug. 13, 1981, 95 Stat. 713.)
+(Pub. L. 92–573, § 8, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 97–35, title XII, § 1203(c), Aug. 13, 1981, 95 Stat. 713.)
 
 **Editorial Notes**
 
@@ -1825,7 +1825,7 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2057a. Banning of butyl nitrite
+## § 2057a. Banning of butyl nitrite
 
 **(a) In general**
 
@@ -1845,19 +1845,19 @@ For the purposes of section 2057 of this title, it shall not be unlawful for any
 
 This section shall take effect 90 days after November 18, 1988.
 
-(Pub. L. 100–690, title II, § 2404, Nov. 18, 1988, 102 Stat. 4231.)
+(Pub. L. 100–690, title II, § 2404, Nov. 18, 1988, 102 Stat. 4231.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Anti-Drug Abuse Act of 1988, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-## § 2057b. Banning of isopropal nitrite and other nitrites
+## § 2057b. Banning of isopropal nitrite and other nitrites
 
 **(a) In general**
 
@@ -1875,19 +1875,19 @@ For purposes of this section, the term “commercial purpose” means any commer
 
 This section shall take effect 90 days after November 29, 1990.
 
-(Pub. L. 101–647, title XXXII, § 3202, Nov. 29, 1990, 104 Stat. 4917.)
+(Pub. L. 101–647, title XXXII, § 3202, Nov. 29, 1990, 104 Stat. 4917.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-## § 2057c. Prohibition on sale of certain products containing specified phthalates
+## § 2057c. Prohibition on sale of certain products containing specified phthalates
 
 **(a) Prohibition on the sale of certain products containing phthalates**
 
@@ -1939,7 +1939,7 @@ Not later than 180 days after completing its examination, the panel appointed un
 
 Effective on August 12, 2011,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall apply to any plasticized component part of a children’s toy or child care article or any other component part of a children’s toy or child care article that is made of other materials that may contain phthalates.
 
@@ -1999,7 +1999,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 For purposes of this section a toy can be placed in a child’s mouth if any part of the toy can actually be brought to the mouth and kept in the mouth by a child so that it can be sucked and chewed. If the children’s product can only be licked, it is not regarded as able to be placed in the mouth. If a toy or part of a toy in one dimension is smaller than 5 centimeters, it can be placed in the mouth.
 
-(Pub. L. 110–314, title I, § 108, Aug. 14, 2008, 122 Stat. 3036; Pub. L. 112–28, § 5(a), Aug. 12, 2011, 125 Stat. 280.)
+(Pub. L. 110–314, title I, § 108, Aug. 14, 2008, 122 Stat. 3036; Pub. L. 112–28, § 5(a), Aug. 12, 2011, 125 Stat. 280.)
 
 **Editorial Notes**
 
@@ -2023,7 +2023,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2057d. Banning of inclined sleepers for infants
+## § 2057d. Banning of inclined sleepers for infants
 
 **(a) In general**
 
@@ -2033,7 +2033,7 @@ Not later than 180 days after May 16, 2022, inclined sleepers for infants, regar
 
 In this section, the term “inclined sleeper for infants” means a product with an inclined sleep surface greater than ten degrees that is intended, marketed, or designed to provide sleeping accommodations for an infant up to 1 year old.
 
-(Pub. L. 117–126, § 2, May 16, 2022, 136 Stat. 1208.)
+(Pub. L. 117–126, § 2, May 16, 2022, 136 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -2041,7 +2041,7 @@ In this section, the term “inclined sleeper for infants” means a product wit
 
 Section was enacted as part of the Safe Sleep for Babies Act of 2021, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-## § 2057e. Banning of crib bumpers
+## § 2057e. Banning of crib bumpers
 
 **(a) In general**
 
@@ -2055,7 +2055,7 @@ Not later than 180 days after May 16, 2022, crib bumpers, regardless of the date
 
 **(3)** does not include a non-padded mesh crib liner.
 
-(Pub. L. 117–126, § 3, May 16, 2022, 136 Stat. 1208.)
+(Pub. L. 117–126, § 3, May 16, 2022, 136 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -2063,7 +2063,7 @@ Not later than 180 days after May 16, 2022, crib bumpers, regardless of the date
 
 Section was enacted as part of the Safe Sleep for Babies Act of 2021, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
-## § 2058. Procedure for consumer product safety rules
+## § 2058. Procedure for consumer product safety rules
 
 **(a) Commencement of proceeding; publication of prescribed notice of proposed rulemaking; transmittal of notice** A proceeding for the development of a consumer product safety rule may be commenced by the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
 
@@ -2181,27 +2181,27 @@ The Commission may by rule amend or revoke any consumer product safety rule. Suc
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(Pub. L. 92–573, § 9, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 94–284, § 9, May 11, 1976, 90 Stat. 506; Pub. L. 95–631, § 4(d), Nov. 10, 1978, 92 Stat. 3744; Pub. L. 97–35, title XII, § 1203(a), Aug. 13, 1981, 95 Stat. 704; Pub. L. 101–608, title I, §§ 108(a), 109, 110(a), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, §§ 204(a)(1), 213, 235(c)(3), Aug. 14, 2008, 122 Stat. 3040, 3052, 3074.)
+(Pub. L. 92–573, § 9, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 94–284, § 9, May 11, 1976, 90 Stat. 506; Pub. L. 95–631, § 4(d), Nov. 10, 1978, 92 Stat. 3744; Pub. L. 97–35, title XII, § 1203(a), Aug. 13, 1981, 95 Stat. 704; Pub. L. 101–608, title I, §§ 108(a), 109, 110(a), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, §§ 204(a)(1), 213, 235(c)(3), Aug. 14, 2008, 122 Stat. 3040, 3052, 3074.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, §§ 204(a)(1)(A), 235(c)(3), substituted “may be commenced” for “shall be commenced” in introductory provisions and “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in concluding provisions.
+2008—Subsec. (a). Pub. L. 110–314, §§ 204(a)(1)(A), 235(c)(3), substituted “may be commenced” for “shall be commenced” in introductory provisions and “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in concluding provisions.
 
-Subsec. (b). Pub. L. 110–314, § 204(a)(1)(B), which directed amendment of subsec. (b) by substituting “in a notice” for “in the notice”, was executed by making the substitution the first place the words appeared in par. (1) after “risk of injury identified”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 110–314, § 204(a)(1)(B), which directed amendment of subsec. (b) by substituting “in a notice” for “in the notice”, was executed by making the substitution the first place the words appeared in par. (1) after “risk of injury identified”, to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 110–314, § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in two places in concluding provisions.
+Subsec. (c). Pub. L. 110–314, § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in two places in concluding provisions.
 
-Pub. L. 110–314, § 204(a)(1)(C)–(E), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (a) of this section, the” and in concluding provisions, substituted “the notice,” for “an advance notice of proposed rulemaking under subsection (a) of this section relating to the product involved,” and “Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.” for “Register.”
+Pub. L. 110–314, § 204(a)(1)(C)–(E), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (a) of this section, the” and in concluding provisions, substituted “the notice,” for “an advance notice of proposed rulemaking under subsection (a) of this section relating to the product involved,” and “Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.” for “Register.”
 
-Subsec. (g)(2). Pub. L. 110–314, § 213, inserted “or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies,” after “applies,” and substituted “rule, regulation, standard, or ban” for “consumer product safety rule” the second, third, and fourth places it appeared.
+Subsec. (g)(2). Pub. L. 110–314, § 213, inserted “or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies,” after “applies,” and substituted “rule, regulation, standard, or ban” for “consumer product safety rule” the second, third, and fourth places it appeared.
 
-1990—Subsec. (b)(2). Pub. L. 101–608, § 108(a), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+1990—Subsec. (b)(2). Pub. L. 101–608, § 108(a), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-Subsec. (c). Pub. L. 101–608, § 109, inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
+Subsec. (c). Pub. L. 101–608, § 109, inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
 
-Subsec. (i). Pub. L. 101–608, § 110(a), added subsec. (i).
+Subsec. (i). Pub. L. 101–608, § 110(a), added subsec. (i).
 
 1981—Subsec. (a). Pub. L. 97–35 amended subsec. (a) generally, substituting provisions for the commencement of rule-making proceedings by the publication of a notice of proposed rule-making for provisions for the promulgation of rule after publication of a notice according to specified provisions of law and to withdraw applicable notice of proceeding upon determination that such rule was not reasonably necessary to eliminate or reduce an unreasonable risk of injury associated with the product or that it was in the public interest, and providing for certain other procedural safeguards.
 
@@ -2229,9 +2229,9 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2059. Repealed. Pub. L. 97–35, title XII, § 1210, Aug. 13, 1981, 95 Stat. 721
+## § 2059. Repealed. Pub. L. 97–35, title XII, § 1210, Aug. 13, 1981, 95 Stat. 721
 
-Section, Pub. L. 92–573, § 10, Oct. 27, 1972, 86 Stat. 1217; Pub. L. 94–284, § 10(a), May 11, 1976, 90 Stat. 506, related to filing of a petition by an interested person for issuance, amendment, or revocation of a consumer product safety rule.
+Section, Pub. L. 92–573, § 10, Oct. 27, 1972, 86 Stat. 1217; Pub. L. 94–284, § 10(a), May 11, 1976, 90 Stat. 506, related to filing of a petition by an interested person for issuance, amendment, or revocation of a consumer product safety rule.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2239,7 +2239,7 @@ Section, Pub. L. 92–573, § 10, Oct. 27, 1972, 86 Stat. 1217; Pub. L. 94–2
 
 Repeal effective Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
-## § 2060. Judicial review of consumer product safety rules
+## § 2060. Judicial review of consumer product safety rules
 
 **(a) Petition by persons adversely affected, consumers, or consumer organizations**
 
@@ -2251,9 +2251,9 @@ If the petitioner applies to the court for leave to adduce additional data, view
 
 **(c) Jurisdiction; costs and attorneys’ fees; substantial evidence to support administrative findings**
 
-Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f) 1
+Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 and reasonable expert witnesses’ fees. Attorneys’ fees may be awarded against the United States (or any agency or official of the United States) without regard to section 2412 of title 28 or any other provision of law. The consumer product safety rule shall not be affirmed unless the Commission’s findings under sections 2058(f)(1) and 2058(f)(3) of this title are supported by substantial evidence on the record taken as a whole.
 
@@ -2297,7 +2297,7 @@ The judgment of the court affirming or setting aside, in whole or in part, any f
 
 A rule or standard with respect to which this subsection applies shall not be subject to judicial review in proceedings under section 2066 of this title (relating to imported products) or in civil or criminal proceedings for enforcement.
 
-(Pub. L. 92–573, § 11, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 94–284, §§ 10(b), 11(a), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, § 1211(h)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, § 9(j)(2), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 110–314, title II, § 236(a), Aug. 14, 2008, 122 Stat. 3075.)
+(Pub. L. 92–573, § 11, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 94–284, §§ 10(b), 11(a), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, § 1211(h)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, § 9(j)(2), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 110–314, title II, § 236(a), Aug. 14, 2008, 122 Stat. 3075.)
 
 **Editorial Notes**
 
@@ -2307,15 +2307,15 @@ A rule or standard with respect to which this subsection applies shall not be su
 
 1983—Subsec. (c). Pub. L. 97–414 substituted “subsection (f)” for “section 2059(e)(4) of this title”.
 
-1981—Subsec. (a). Pub. L. 97–35, § 1211(h)(2), substituted reference to section 2058(d)(2) of this title for reference to section 2058(a)(2) of this title.
+1981—Subsec. (a). Pub. L. 97–35, § 1211(h)(2), substituted reference to section 2058(d)(2) of this title for reference to section 2058(a)(2) of this title.
 
-Subsec. (c). Pub. L. 97–35, § 1211(h)(1), substituted reference to section 2058(f)(1) and (3) of this title for reference to section 2058(c) of this title.
+Subsec. (c). Pub. L. 97–35, § 1211(h)(1), substituted reference to section 2058(f)(1) and (3) of this title for reference to section 2058(c) of this title.
 
-Subsec. (f). Pub. L. 97–35, § 1211(h)(3)(A), added subsec. (f).
+Subsec. (f). Pub. L. 97–35, § 1211(h)(3)(A), added subsec. (f).
 
-1976—Subsec. (a). Pub. L. 94–284, § 11(a), permitted the Commission to file the record of its proceedings on which its rule was based with the court in lieu of transmitting the record to the Attorney General.
+1976—Subsec. (a). Pub. L. 94–284, § 11(a), permitted the Commission to file the record of its proceedings on which its rule was based with the court in lieu of transmitting the record to the Attorney General.
 
-Subsec. (c). Pub. L. 94–284, § 10(b), inserted provision permitting the court to award costs, including reasonable attorneys’ fees, in the interest of justice.
+Subsec. (c). Pub. L. 94–284, § 10(b), inserted provision permitting the court to award costs, including reasonable attorneys’ fees, in the interest of justice.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2329,9 +2329,9 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Pending Actions Unaffected**
 
-Pub. L. 110–314, title II, § 236(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any petition filed before the date of enactment of this Act [Aug. 14, 2008] for judicial review of any action by the Consumer Product Safety Commission.”
+Pub. L. 110–314, title II, § 236(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any petition filed before the date of enactment of this Act [Aug. 14, 2008] for judicial review of any action by the Consumer Product Safety Commission.”
 
-## § 2061. Imminent hazards
+## § 2061. Imminent hazards
 
 **(a) Filing of action**
 
@@ -2357,11 +2357,11 @@ Where appropriate, concurrently with the filing of such action or as soon therea
 
 Notwithstanding any other provision of law, in any action under this section, the Commission may direct attorneys employed by it to appear and represent it.
 
-**(g) 1 [footnote: 1 So in original. No subsec. (f) has been enacted.] Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required**
+**(g) 1 [footnote: 1 So in original. No subsec. (f) has been enacted.] Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required**
 
 Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
 
-(Pub. L. 92–573, § 12, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 97–35, title XII, § 1205(a)(2), Aug. 13, 1981, 95 Stat. 716; Pub. L. 101–608, title I, § 111(a)(1), Nov. 16, 1990, 104 Stat. 3114.)
+(Pub. L. 92–573, § 12, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 97–35, title XII, § 1205(a)(2), Aug. 13, 1981, 95 Stat. 716; Pub. L. 101–608, title I, § 111(a)(1), Nov. 16, 1990, 104 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -2381,9 +2381,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2062. Repealed. Pub. L. 97–35, title XII, § 1211(b), Aug. 13, 1981, 95 Stat. 721
+## § 2062. Repealed. Pub. L. 97–35, title XII, § 1211(b), Aug. 13, 1981, 95 Stat. 721
 
-Section, Pub. L. 92–573, § 13, Oct. 27, 1972, 86 Stat. 1219, provided that Commission could prescribe procedures to insure that manufacturer of a new consumer product notify Commission of new product prior to its distribution.
+Section, Pub. L. 92–573, § 13, Oct. 27, 1972, 86 Stat. 1219, provided that Commission could prescribe procedures to insure that manufacturer of a new consumer product notify Commission of new product prior to its distribution.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2391,7 +2391,7 @@ Section, Pub. L. 92–573, § 13, Oct. 27, 1972, 86 Stat. 1219, provided that 
 
 Repeal effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
-## § 2063. Product certification and labeling
+## § 2063. Product certification and labeling
 
 **(a) Certification accompanying product; products with more than one manufacturer**
 
@@ -2425,7 +2425,7 @@ A manufacturer or private labeler shall issue either a separate certificate for 
 
 **(v) Baby bouncers, walkers, and jumpers.—** Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.1
 
-<sup>1</sup>  So in original. Such title refers to title 16, Code of Federal Regulations.
+<sup>1</sup> So in original. Such title refers to title 16, Code of Federal Regulations.
 
 **(vi) All other children’s product safety rules.—** The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children’s product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children’s product safety rules established or revised 1 year or more after such date, not later than 90 days before such rules or revisions take effect.
 
@@ -2675,45 +2675,45 @@ Compliance of any children’s product with third party testing and certificatio
 
 No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
 
-(Pub. L. 92–573, § 14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§ 2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 92–573, § 14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§ 2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 **Amendments**
 
-2011—Subsec. (a)(5). Pub. L. 112–28, § 6, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+2011—Subsec. (a)(5). Pub. L. 112–28, § 6, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (d). Pub. L. 112–28, § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
+Subsec. (d). Pub. L. 112–28, § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-Subsec. (d)(2)(B)(ii). Pub. L. 112–28, § 2(a)(1), substituted “representative” for “random”.
+Subsec. (d)(2)(B)(ii). Pub. L. 112–28, § 2(a)(1), substituted “representative” for “random”.
 
-Subsec. (d)(3) to (5). Pub. L. 112–28, § 2(a)(2), added pars. (3) to (5).
+Subsec. (d)(3) to (5). Pub. L. 112–28, § 2(a)(2), added pars. (3) to (5).
 
-Subsec. (i). Pub. L. 112–28, § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
+Subsec. (i). Pub. L. 112–28, § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-2008—Subsec. (a)(1). Pub. L. 110–314, § 102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
+2008—Subsec. (a)(1). Pub. L. 110–314, § 102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
 
-Subsec. (a)(2), (3). Pub. L. 110–314, § 102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
+Subsec. (a)(2), (3). Pub. L. 110–314, § 102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 110–314, § 102(a)(3), substituted “required under paragraph (1), (2), or (3)” for “required by paragraph (1) of this subsection” and “requirement under paragraph (1), (2), or (3)” for “requirement under paragraph (1)”.
+Subsec. (a)(4). Pub. L. 110–314, § 102(a)(3), substituted “required under paragraph (1), (2), or (3)” for “required by paragraph (1) of this subsection” and “requirement under paragraph (1), (2), or (3)” for “requirement under paragraph (1)”.
 
-Pub. L. 110–314, § 102(a)(2), which directed amendment of par. (2) of this section by redesignating par. (2) as (4), was executed to subsec. (a) of this section, to reflect the probable intent of Congress.
+Pub. L. 110–314, § 102(a)(2), which directed amendment of par. (2) of this section by redesignating par. (2) as (4), was executed to subsec. (a) of this section, to reflect the probable intent of Congress.
 
-Subsec. (a)(5). Pub. L. 110–314, § 103(a), added par. (5).
+Subsec. (a)(5). Pub. L. 110–314, § 103(a), added par. (5).
 
-Subsec. (b). Pub. L. 110–314, § 102(d), substituted “any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission,” for “consumer products which are subject to consumer product safety standards under this chapter” and “, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.” for “or testing programs.”
+Subsec. (b). Pub. L. 110–314, § 102(d), substituted “any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission,” for “consumer products which are subject to consumer product safety standards under this chapter” and “, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.” for “or testing programs.”
 
-Subsec. (c)(2) to (4). Pub. L. 110–314, § 103(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (c)(2) to (4). Pub. L. 110–314, § 103(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (d). Pub. L. 110–314, § 103(c), added subsec (d) relating to requirement for advertisements.
+Subsec. (d). Pub. L. 110–314, § 103(c), added subsec (d) relating to requirement for advertisements.
 
-Pub. L. 110–314, § 102(b), added subsec. (d) relating to additional regulations for third party testing.
+Pub. L. 110–314, § 102(b), added subsec. (d) relating to additional regulations for third party testing.
 
-Subsecs. (e) to (h). Pub. L. 110–314, § 102(b), added subsecs. (e) to (h).
+Subsecs. (e) to (h). Pub. L. 110–314, § 102(b), added subsecs. (e) to (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2723,7 +2723,7 @@ Subsecs. (e) to (h). Pub. L. 110–314, § 102(b), added subsecs. (e) to (h).
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–314, title I, § 102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect 90 days after the date of enactment of this Act [Aug. 14, 2008].”
+Pub. L. 110–314, title I, § 102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect 90 days after the date of enactment of this Act [Aug. 14, 2008].”
 
 Amendment by section 103(c) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
@@ -2733,9 +2733,9 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **CPSC Consideration of Existing Requirements**
 
-Pub. L. 110–314, title I, § 102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act [15 U.S.C. 2063(a)(3)], as added by subsection (a), the [Consumer Product Safety] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act [Aug. 14, 2008], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
+Pub. L. 110–314, title I, § 102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act [15 U.S.C. 2063(a)(3)], as added by subsection (a), the [Consumer Product Safety] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act [Aug. 14, 2008], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
 
-## § 2064. Substantial product hazards
+## § 2064. Substantial product hazards
 
 **(a) “Substantial product hazard” defined** For purposes of this section, the term “substantial product hazard” means—
 
@@ -2743,9 +2743,9 @@ Pub. L. 110–314, title I, § 102(c), Aug. 14, 2008, 122 Stat. 3027, provided
 
 **(2)** a product defect which (because of the pattern of defect, the number of defective products distributed in commerce, the severity of the risk, or otherwise) creates a substantial risk of injury to the public.
 
-**(b) Noncompliance with applicable consumer product safety rules; product defects; notice to Commission by manufacturer, distributor, or retailer** Every manufacturer of a consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49 1
+**(b) Noncompliance with applicable consumer product safety rules; product defects; notice to Commission by manufacturer, distributor, or retailer** Every manufacturer of a consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ), distributed in commerce, and every distributor and retailer of such product, who obtains information which reasonably supports the conclusion that such product—
 
@@ -2793,7 +2793,7 @@ Any such order shall specify the form and content of any notice required to be g
 
 **(2)** An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).2
 
-<sup>2</sup>  So in original. Probably should be “paragraph (1)(C).”
+<sup>2</sup> So in original. Probably should be “paragraph (1)(C).”
 
 An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
@@ -2819,17 +2819,17 @@ An order under this subsection may prohibit the person to whom it applies from m
 
 **(g) Preliminary injunction**
 
-**(1)** If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) 3
+**(1)** If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) 3
 
-<sup>3</sup>  So in original. Probably should be preceded by “section”.
+<sup>3</sup> So in original. Probably should be preceded by “section”.
 
 of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 **(2)** Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
-**(3)** The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend 4
+**(3)** The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend 4
 
-<sup>4</sup>  So in original. Probably should be “extend”.
+<sup>4</sup> So in original. Probably should be “extend”.
 
 a preliminary injunction under this subsection.
 
@@ -2891,7 +2891,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 Not later than 60 days after promulgation of a rule under paragraph (1), any person adversely affected by such rule may file a petition for review under the procedures set forth in section 2060 of this title.
 
-(Pub. L. 92–573, § 15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, § 12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, § 1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, § 9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, § 1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§ 111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117; Pub. L. 110–314, title II, §§ 214, 223(a), Aug. 14, 2008, 122 Stat. 3052, 3068.)
+(Pub. L. 92–573, § 15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, § 12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, § 1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, § 9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, § 1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§ 111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117; Pub. L. 110–314, title II, §§ 214, 223(a), Aug. 14, 2008, 122 Stat. 3052, 3068.)
 
 **Editorial Notes**
 
@@ -2903,69 +2903,69 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–314, § 214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
+2008—Subsec. (a)(1). Pub. L. 110–314, § 214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
 
-Subsec. (b). Pub. L. 110–314, § 214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
+Subsec. (b). Pub. L. 110–314, § 214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
 
-Pub. L. 110–314, § 214(a)(2)(A), substituted “consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49), distributed in commerce,” for “consumer product distributed in commerce,” in introductory provisions.
+Pub. L. 110–314, § 214(a)(2)(A), substituted “consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49), distributed in commerce,” for “consumer product distributed in commerce,” in introductory provisions.
 
-Subsec. (c). Pub. L. 110–314, § 214(a)(3)(A), (C), (D), designated existing provisions as par. (1), added subpars. (A) to (C), and redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively.
+Subsec. (c). Pub. L. 110–314, § 214(a)(3)(A), (C), (D), designated existing provisions as par. (1), added subpars. (A) to (C), and redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively.
 
-Subsec. (c)(1). Pub. L. 110–314, § 214(a)(3)(B), inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,” after “such substantial product hazard,” in introductory provisions.
+Subsec. (c)(1). Pub. L. 110–314, § 214(a)(3)(B), inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,” after “such substantial product hazard,” in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 110–314, § 214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”
+Subsec. (c)(1)(D). Pub. L. 110–314, § 214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”
 
-Subsec. (c)(2), (3). Pub. L. 110–314, § 214(a)(3)(F), added pars. (2) and (3).
+Subsec. (c)(2), (3). Pub. L. 110–314, § 214(a)(3)(F), added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 110–314, § 214(b)(1), (4), inserted par. (1) designation before “If the Commission” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+Subsec. (d). Pub. L. 110–314, § 214(b)(1), (4), inserted par. (1) designation before “If the Commission” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
 
-Subsec. (d)(1). Pub. L. 110–314, § 214(b)(2), (3), in introductory provisions inserted “to provide the notice required by subsection (c) and” after “such product” and substituted “any one or more of the following actions it determines to be in the public interest:” for “whichever of the following actions the person to whom the order is directed elects:”.
+Subsec. (d)(1). Pub. L. 110–314, § 214(b)(2), (3), in introductory provisions inserted “to provide the notice required by subsection (c) and” after “such product” and substituted “any one or more of the following actions it determines to be in the public interest:” for “whichever of the following actions the person to whom the order is directed elects:”.
 
-Subsec. (d)(1)(A), (B). Pub. L. 110–314, § 214(b)(5), substituted “rule, regulation, standard, or ban” for “consumer product safety rule”.
+Subsec. (d)(1)(A), (B). Pub. L. 110–314, § 214(b)(5), substituted “rule, regulation, standard, or ban” for “consumer product safety rule”.
 
-Subsec. (d)(1)(C). Pub. L. 110–314, § 214(b)(6), (7), substituted “more (i)” for “more (A)” and “or (ii)” for “or (B)”.
+Subsec. (d)(1)(C). Pub. L. 110–314, § 214(b)(6), (7), substituted “more (i)” for “more (A)” and “or (ii)” for “or (B)”.
 
-Subsec. (d)(2). Pub. L. 110–314, § 214(b)(13), which directed substitution of “described in paragraph (1)(C).” for “described in paragraph (3).”, could not be executed because “paragraph (3)” did not appear subsequent to amendment by Pub. L. 110–314, § 214(b)(11). See below.
+Subsec. (d)(2). Pub. L. 110–314, § 214(b)(13), which directed substitution of “described in paragraph (1)(C).” for “described in paragraph (3).”, could not be executed because “paragraph (3)” did not appear subsequent to amendment by Pub. L. 110–314, § 214(b)(11). See below.
 
-Pub. L. 110–314, § 214(b)(12), struck out “If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection” before “. An order under this subsection may prohibit”.
+Pub. L. 110–314, § 214(b)(12), struck out “If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection” before “. An order under this subsection may prohibit”.
 
-Pub. L. 110–314, § 214(b)(11), substituted “if the Commission orders the action described in subparagraph (C)” for “if the person to whom the order is directed elects to take the action described in paragraph (3)”.
+Pub. L. 110–314, § 214(b)(11), substituted “if the Commission orders the action described in subparagraph (C)” for “if the person to whom the order is directed elects to take the action described in paragraph (3)”.
 
-Pub. L. 110–314, § 214(b)(9), (10), substituted “for approval by the Commission,” for “satisfactory to the Commission,” and “subparagraphs under which such person has been ordered to act” for “paragraphs of this subsection under which such person has elected to act”.
+Pub. L. 110–314, § 214(b)(9), (10), substituted “for approval by the Commission,” for “satisfactory to the Commission,” and “subparagraphs under which such person has been ordered to act” for “paragraphs of this subsection under which such person has elected to act”.
 
-Pub. L. 110–314, § 214(b)(8), designated concluding provisions of subsec. (d) as par. (2) and substituted “shall also require” for “may also require”. Former par. (2) redesignated (1)(B).
+Pub. L. 110–314, § 214(b)(8), designated concluding provisions of subsec. (d) as par. (2) and substituted “shall also require” for “may also require”. Former par. (2) redesignated (1)(B).
 
-Subsec. (d)(3). Pub. L. 110–314, § 214(b)(14), added par. (3). Former par. (3) redesignated (1)(C).
+Subsec. (d)(3). Pub. L. 110–314, § 214(b)(14), added par. (3). Former par. (3) redesignated (1)(C).
 
-Subsec. (f). Pub. L. 110–314, § 214(a)(4), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order” for “An order”, and added par. (2).
+Subsec. (f). Pub. L. 110–314, § 214(a)(4), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order” for “An order”, and added par. (2).
 
-Subsec. (i). Pub. L. 110–314, § 214(c), added subsec. (i).
+Subsec. (i). Pub. L. 110–314, § 214(c), added subsec. (i).
 
-Subsec. (j). Pub. L. 110–314, § 223(a), added subsec. (j).
+Subsec. (j). Pub. L. 110–314, § 223(a), added subsec. (j).
 
-1990—Subsec. (b). Pub. L. 101–608, § 112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
+1990—Subsec. (b). Pub. L. 101–608, § 112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
 
-Subsec. (b)(1). Pub. L. 101–608, § 112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under section 2058 of this title.
+Subsec. (b)(1). Pub. L. 101–608, § 112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under section 2058 of this title.
 
-Subsec. (b)(3). Pub. L. 101–608, § 112(a)(2), (3), added par. (3).
+Subsec. (b)(3). Pub. L. 101–608, § 112(a)(2), (3), added par. (3).
 
-Subsec. (f). Pub. L. 101–608, § 113, inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
+Subsec. (f). Pub. L. 101–608, § 113, inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
 
-Subsec. (h). Pub. L. 101–608, § 111(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 101–608, § 111(a)(2), added subsec. (h).
 
 1988—Subsec. (d). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
 
-1983—Subsec. (g)(1). Pub. L. 97–414, § 9(m), amended, in part, Pub. L. 97–35, § 1211(h)(4). See 1981 Amendment note below.
+1983—Subsec. (g)(1). Pub. L. 97–414, § 9(m), amended, in part, Pub. L. 97–35, § 1211(h)(4). See 1981 Amendment note below.
 
-Pub. L. 97–414, § 9(j)(3), substituted “2061(d)(1)” for “section 2061(c)(1)”.
+Pub. L. 97–414, § 9(j)(3), substituted “2061(d)(1)” for “section 2061(c)(1)”.
 
-1981—Subsec. (g)(1). Pub. L. 97–35, § 1211(h)(4), substituted “section 2061(c)(1)” for “section 2061(e)(1)”.
+1981—Subsec. (g)(1). Pub. L. 97–35, § 1211(h)(4), substituted “section 2061(c)(1)” for “section 2061(e)(1)”.
 
-Pub. L. 97–35, § 1211(h)(4), which directed insertion of “, Science and Transportation” after “on Commerce” and could not be executed because “on Commerce” did not appear in text, was amended by Pub. L. 97–414, § 9(m), so as to strike out such directory language.
+Pub. L. 97–35, § 1211(h)(4), which directed insertion of “, Science and Transportation” after “on Commerce” and could not be executed because “on Commerce” did not appear in text, was amended by Pub. L. 97–414, § 9(m), so as to strike out such directory language.
 
-1976—Subsec. (d). Pub. L. 94–284, § 12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
+1976—Subsec. (d). Pub. L. 94–284, § 12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 
-Subsec. (g). Pub. L. 94–284, § 12(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 94–284, § 12(a)(2), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2987,7 +2987,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Reporting Requirements**
 
-Pub. L. 103–267, title I, § 102, June 16, 1994, 108 Stat. 726, provided that:
+Pub. L. 103–267, title I, § 102, June 16, 1994, 108 Stat. 726, provided that:
 
 > **“(a) Reports to Consumer Product Safety Commission.—**
 
@@ -3003,7 +3003,7 @@ Pub. L. 103–267, title I, § 102, June 16, 1994, 108 Stat. 726, provided tha
 
 > **“(b) Confidentiality Protections.—** The confidentiality protections of section 6(b) of the Consumer Product Safety Act (15 U.S.C. 2055(b)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act [15 U.S.C. 2064(b)] respecting a consumer product.”
 
-## § 2065. Inspection and recordkeeping
+## § 2065. Inspection and recordkeeping
 
 **(a) Inspection** For purposes of implementing this chapter, or rules or orders prescribed under this chapter, officers or employees duly designated by the Commission, upon presenting appropriate credentials and a written notice from the Commission to the owner, operator, or agent in charge, are authorized—
 
@@ -3031,23 +3031,23 @@ Every person who is a manufacturer, private labeler, or distributor of a consume
 
 The Commission shall, by rule, condition the manufacturing for sale, offering for sale, distribution in commerce, or importation into the United States of any consumer product or other product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.
 
-(Pub. L. 92–573, § 16, Oct. 27, 1972, 86 Stat. 1222; Pub. L. 110–314, title II, §§ 215, 223(c)(2), Aug. 14, 2008, 122 Stat. 3056, 3069.)
+(Pub. L. 92–573, § 16, Oct. 27, 1972, 86 Stat. 1222; Pub. L. 110–314, title II, §§ 215, 223(c)(2), Aug. 14, 2008, 122 Stat. 3056, 3069.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 215(c)(1), inserted subsec. heading.
+2008—Subsec. (a). Pub. L. 110–314, § 215(c)(1), inserted subsec. heading.
 
-Subsec. (a)(1). Pub. L. 110–314, § 215(a)(1), substituted “(B) any firewalled conformity assessment bodies accredited under section 2063(f)(2)(D) of this title, or (C)” for “or (B)”.
+Subsec. (a)(1). Pub. L. 110–314, § 215(a)(1), substituted “(B) any firewalled conformity assessment bodies accredited under section 2063(f)(2)(D) of this title, or (C)” for “or (B)”.
 
-Subsec. (a)(2). Pub. L. 110–314, § 215(a)(2), inserted “firewalled conformity assessment body,” after “factory,”.
+Subsec. (a)(2). Pub. L. 110–314, § 215(a)(2), inserted “firewalled conformity assessment body,” after “factory,”.
 
-Subsec. (b). Pub. L. 110–314, § 215(c)(2), inserted subsec. heading.
+Subsec. (b). Pub. L. 110–314, § 215(c)(2), inserted subsec. heading.
 
-Subsec. (c). Pub. L. 110–314, § 215(b), added subsec. (c).
+Subsec. (c). Pub. L. 110–314, § 215(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 110–314, § 223(c)(2), added subsec. (d).
+Subsec. (d). Pub. L. 110–314, § 223(c)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3055,7 +3055,7 @@ Subsec. (d). Pub. L. 110–314, § 223(c)(2), added subsec. (d).
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2066. Imported products
+## § 2066. Imported products
 
 **(a) Refusal of admission** Any consumer product offered for importation into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
 
@@ -3101,7 +3101,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 **(3)** The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92–573, § 17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, § 1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, § 114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§ 216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
+(Pub. L. 92–573, § 17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, § 1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, § 114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§ 216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
 
 **Editorial Notes**
 
@@ -3111,13 +3111,13 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 **Amendments**
 
-2008—Subsec. (a)(2). Pub. L. 110–314, § 216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;”.
+2008—Subsec. (a)(2). Pub. L. 110–314, § 216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;”.
 
-Subsec. (e). Pub. L. 110–314, § 223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
+Subsec. (e). Pub. L. 110–314, § 223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
 
-Subsec. (g). Pub. L. 110–314, § 223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commission may, by rule, condition the importation of a consumer product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.”
+Subsec. (g). Pub. L. 110–314, § 223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commission may, by rule, condition the importation of a consumer product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.”
 
-Subsec. (h)(3). Pub. L. 110–314, § 235(c)(6), substituted “the appropriate Congressional committees” for “the Congress”.
+Subsec. (h)(3). Pub. L. 110–314, § 235(c)(6), substituted “the appropriate Congressional committees” for “the Congress”.
 
 1990—Subsec. (h). Pub. L. 101–608 added subsec. (h).
 
@@ -3139,7 +3139,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Funding for Consumer Product Safety Fund To Protect Consumers From Potentially Dangerous Products Related to COVID–19**
 
-Pub. L. 117–2, title VII, § 7401, Mar. 11, 2021, 135 Stat. 108, provided that:
+Pub. L. 117–2, title VII, § 7401, Mar. 11, 2021, 135 Stat. 108, provided that:
 
 > **“(a) Appropriation.—** In addition to amounts otherwise available, there is appropriated to the Consumer Product Safety Commission for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available until September 30, 2026, for the purposes described in subsection (b).
 
@@ -3167,7 +3167,7 @@ Pub. L. 117–2, title VII, § 7401, Mar. 11, 2021, 135 Stat. 108, provided th
 
 **Port Surveillance During the COVID–19 Pandemic**
 
-Pub. L. 116–260, div. FF, title XX, § 2001, Dec. 27, 2020, 134 Stat. 3301, provided that:
+Pub. L. 116–260, div. FF, title XX, § 2001, Dec. 27, 2020, 134 Stat. 3301, provided that:
 
 > **“(a) CPSC Surveillance Personnel During the COVID–19 Pandemic.—** For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus (COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
 
@@ -3211,7 +3211,7 @@ Pub. L. 116–260, div. FF, title XX, § 2001, Dec. 27, 2020, 134 Stat. 3301, 
 
 **Import Safety Management and Interagency Cooperation**
 
-Pub. L. 110–314, title II, § 222, Aug. 14, 2008, 122 Stat. 3066, provided that:
+Pub. L. 110–314, title II, § 222, Aug. 14, 2008, 122 Stat. 3066, provided that:
 
 > **“(a) Risk Assessment Methodology.—** Not later than 2 years after the date of enactment of this Act [Aug. 14, 2008], the Commission shall develop a risk assessment methodology for the identification of shipments of consumer products that are—
 
@@ -3267,7 +3267,7 @@ Pub. L. 110–314, title II, § 222, Aug. 14, 2008, 122 Stat. 3066, provided t
 
 [For definitions of “Commission” and “appropriate Congressional committees” used in section 222 of Pub. L. 110–314, set out above, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.]
 
-## § 2067. Exemption of exports
+## § 2067. Exemption of exports
 
 **(a) Risk of injury to consumers within United States**
 
@@ -3285,19 +3285,19 @@ The Commission may prohibit a person from exporting from the United States for p
 
 Nothing in this section shall apply to any consumer product, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title.
 
-(Pub. L. 92–573, § 18, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 95–631, § 6(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 110–314, title II, § 221(a), Aug. 14, 2008, 122 Stat. 3065.)
+(Pub. L. 92–573, § 18, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 95–631, § 6(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 110–314, title II, § 221(a), Aug. 14, 2008, 122 Stat. 3065.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–314, § 221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
+2008—Subsec. (b). Pub. L. 110–314, § 221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
 
 “(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
 
 “(2) which is declared to be a banned hazardous substance by a rule promulgated under section 2058 of this title,”.
 
-Subsecs. (c), (d). Pub. L. 110–314, § 221(a)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 110–314, § 221(a)(2), added subsecs. (c) and (d).
 
 1978—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 
@@ -3307,7 +3307,7 @@ Subsecs. (c), (d). Pub. L. 110–314, § 221(a)(2), added subsecs. (c) and (d)
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2068. Prohibited acts
+## § 2068. Prohibited acts
 
 **(a) Designation** It shall be unlawful for any person to—
 
@@ -3315,9 +3315,9 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **(2)** sell, offer for sale, manufacture for sale, distribute in commerce, or import into the United States any consumer product, or other product or substance that is—
 
-**(B)**  1
+**(B)** 1
 
-<sup>1</sup>  So in original. No subpar. (A) has been enacted.
+<sup>1</sup> So in original. No subpar. (A) has been enacted.
 
 subject to voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public or if the seller, distributor, or manufacturer knew or should have known of such voluntary corrective action;
 
@@ -3343,13 +3343,13 @@ subject to voluntary corrective action taken by the manufacturer, in consultatio
 
 **(11)** fail to furnish information required by section 2084 of this title.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(12)** sell, offer for sale, distribute in commerce, or import into the United States any consumer product bearing a registered safety certification mark owned by an accredited conformity assessment body, which mark is known, or should have been known, by such person to be used in a manner unauthorized by the owner of that certification mark;
 
-**(13)** misrepresent to any officer or employee of the Commission the scope of consumer products subject to an action required under section 2061 or 2064 of this title, or to make a material misrepresentation to such an officer or employee in the course of an investigation under this chapter or any other Act enforced by the Commission; or 3
+**(13)** misrepresent to any officer or employee of the Commission the scope of consumer products subject to an action required under section 2061 or 2064 of this title, or to make a material misrepresentation to such an officer or employee in the course of an investigation under this chapter or any other Act enforced by the Commission; or 3
 
-<sup>3</sup>  So in original. The word “or” probably should not appear.
+<sup>3</sup> So in original. The word “or” probably should not appear.
 
 **(14)** exercise, or attempt to exercise, undue influence on a third party conformity assessment body (as defined in section 2063(f)(2) of this title) with respect to the testing, or reporting of the results of testing, of any product for compliance under this chapter or any other Act enforced by the Commission, or to subdivide the production of any children’s product into small quantities that have the effect of evading any third party testing requirements under section 2063(a)(2) of this title;
 
@@ -3365,39 +3365,39 @@ subject to voluntary corrective action taken by the manufacturer, in consultatio
 
 Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any person (1) who holds a certificate issued in accordance with section 2063(a) of this title to the effect that such consumer product conforms to all applicable consumer product safety rules, unless such person knows that such consumer product does not conform, or (2) who relies in good faith on the representation of the manufacturer or a distributor of such product that the product is not subject to an applicable product safety rule.
 
-(Pub. L. 92–573, § 19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§ 12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, § 3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, § 6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, § 9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, § 112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, § 216(a), Aug. 14, 2008, 122 Stat. 3056; Pub. L. 112–28, § 2(b), Aug. 12, 2011, 125 Stat. 279.)
+(Pub. L. 92–573, § 19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§ 12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, § 3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, § 6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, § 9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, § 112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, § 216(a), Aug. 14, 2008, 122 Stat. 3056; Pub. L. 112–28, § 2(b), Aug. 12, 2011, 125 Stat. 279.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a)(14). Pub. L. 112–28 substituted “, or to subdivide the production of any children’s product into small quantities that have the effect of evading any third party testing requirements under section 2063(a)(2) of this title;” for period at end.
+2011—Subsec. (a)(14). Pub. L. 112–28 substituted “, or to subdivide the production of any children’s product into small quantities that have the effect of evading any third party testing requirements under section 2063(a)(2) of this title;” for period at end.
 
-2008—Subsec. (a)(1), (2). Pub. L. 110–314, § 216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+2008—Subsec. (a)(1), (2). Pub. L. 110–314, § 216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which is not in conformity with an applicable consumer product safety standard under this chapter;
 
 “(2) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which has been declared a banned hazardous product by a rule under this chapter;”.
 
-Subsec. (a)(6). Pub. L. 110–314, § 216(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “fail to furnish a certificate required by section 2063 of this title or issue a false certificate if such person in the exercise of due care has reason to know that such certificate is false or misleading in any material respect; or to fail to comply with any rule under section 2063(c) of this title (relating to labeling);”.
+Subsec. (a)(6). Pub. L. 110–314, § 216(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “fail to furnish a certificate required by section 2063 of this title or issue a false certificate if such person in the exercise of due care has reason to know that such certificate is false or misleading in any material respect; or to fail to comply with any rule under section 2063(c) of this title (relating to labeling);”.
 
-Subsec. (a)(7) to (10). Pub. L. 110–314, § 216(a)(3)–(6), struck out “or” at end of par. (7) and “and” at end of par. (8) and substituted semicolon for period at end of pars. (9) and (10).
+Subsec. (a)(7) to (10). Pub. L. 110–314, § 216(a)(3)–(6), struck out “or” at end of par. (7) and “and” at end of par. (8) and substituted semicolon for period at end of pars. (9) and (10).
 
-Subsec. (a)(12) to (16). Pub. L. 110–314, § 216(a)(7), added pars. (12) to (16).
+Subsec. (a)(12) to (16). Pub. L. 110–314, § 216(a)(7), added pars. (12) to (16).
 
 1990—Subsec. (a)(11). Pub. L. 101–608 added par. (11).
 
-1983—Subsec. (a)(7). Pub. L. 97–414, § 9(j)(4)(A), substituted “section 2058(g)(2)” for “section 2058(d)(2)”.
+1983—Subsec. (a)(7). Pub. L. 97–414, § 9(j)(4)(A), substituted “section 2058(g)(2)” for “section 2058(d)(2)”.
 
-Subsec. (a)(8). Pub. L. 97–414, § 9(j)(4)(B), redesignated par. (9) as (8) and struck out former par. (8) which made it unlawful for any person to fail to comply with any rule under section 2062 of this title (relating to prior notice and description of new consumer products).
+Subsec. (a)(8). Pub. L. 97–414, § 9(j)(4)(B), redesignated par. (9) as (8) and struck out former par. (8) which made it unlawful for any person to fail to comply with any rule under section 2062 of this title (relating to prior notice and description of new consumer products).
 
-Subsec. (a)(9), (10). Pub. L. 97–414, § 9(j)(4)(B), redesignated par. (10), as added by Pub. L. 95–319, as (9). Former par. (9) redesignated (8).
+Subsec. (a)(9), (10). Pub. L. 97–414, § 9(j)(4)(B), redesignated par. (10), as added by Pub. L. 95–319, as (9). Former par. (9) redesignated (8).
 
 1978—Subsec. (a)(10). Pub. L. 95–631 added par. (10), providing that it be unlawful to fail to file a statement with the Commission pursuant to section 2067(b) of this title.
 
 Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to comply with any rule or requirement under section 2082 of this title.
 
-1976—Subsec. (a). Pub. L. 94–284 substituted “to” for “and to” and inserted “, and to prohibited acts” after “refund” in par. (5), inserted “or fail or refuse to establish or maintain records,” after “copying of records,” in par. (3), and added pars. (8) and (9).
+1976—Subsec. (a). Pub. L. 94–284 substituted “to” for “and to” and inserted “, and to prohibited acts” after “refund” in par. (5), inserted “or fail or refuse to establish or maintain records,” after “copying of records,” in par. (3), and added pars. (8) and (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3413,7 +3413,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 For purposes of subsec. (a)(3) of this section, requirement to report information relating to choking incidents caused by children’s toys or games to Consumer Product Safety Commission deemed a requirement under this chapter, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 
-## § 2069. Civil penalties
+## § 2069. Civil penalties
 
 **(a) Amount of penalty**
 
@@ -3459,7 +3459,7 @@ In determining the amount of any penalty to be sought upon commencing an action 
 
 Any civil penalty under this section may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
@@ -3467,25 +3467,25 @@ the nature of the product defect, the severity of the risk of injury, the occurr
 
 As used in the first sentence of subsection (a)(1) of this section, the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
-(Pub. L. 92–573, § 20, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, § 13(b), May 11, 1976, 90 Stat. 509; Pub. L. 95–631, § 6(c), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, § 1211(c), Aug. 13, 1981, 95 Stat. 721; Pub. L. 101–608, title I, §§ 112(e), 115(a), Nov. 16, 1990, 104 Stat. 3117, 3118; Pub. L. 110–314, title II, § 217(a)(1), (b)(1)(A), Aug. 14, 2008, 122 Stat. 3058.)
+(Pub. L. 92–573, § 20, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, § 13(b), May 11, 1976, 90 Stat. 509; Pub. L. 95–631, § 6(c), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, § 1211(c), Aug. 13, 1981, 95 Stat. 721; Pub. L. 101–608, title I, §§ 112(e), 115(a), Nov. 16, 1990, 104 Stat. 3117, 3118; Pub. L. 110–314, title II, § 217(a)(1), (b)(1)(A), Aug. 14, 2008, 122 Stat. 3058.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–314, § 217(a)(1)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
+2008—Subsec. (a)(1). Pub. L. 110–314, § 217(a)(1)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
 
-Subsec. (a)(3)(B). Pub. L. 110–314, § 217(a)(1)(C), which directed amendment of subsec. (a)(1) by substituting “December 1, 2011,” for “December 1, 1994,” in par. (3)(B), was executed by making the substitution in subsec. (a)(3)(B) to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 110–314, § 217(a)(1)(C), which directed amendment of subsec. (a)(1) by substituting “December 1, 2011,” for “December 1, 1994,” in par. (3)(B), was executed by making the substitution in subsec. (a)(3)(B) to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 110–314, § 217(b)(1)(A)(i), inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “products distributed,” for “products distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
+Subsec. (b). Pub. L. 110–314, § 217(b)(1)(A)(i), inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “products distributed,” for “products distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
 
-Subsec. (c). Pub. L. 110–314, § 217(b)(1)(A)(ii)(II), inserted “, and such other factors as appropriate” after “products distributed”.
+Subsec. (c). Pub. L. 110–314, § 217(b)(1)(A)(ii)(II), inserted “, and such other factors as appropriate” after “products distributed”.
 
-Pub. L. 110–314, § 217(b)(1)(A)(ii)(I), which directed amendment of subsec. (c) by inserting “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “person charged” the first place appearing, to reflect the probable intent of Congress.
+Pub. L. 110–314, § 217(b)(1)(A)(ii)(I), which directed amendment of subsec. (c) by inserting “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “person charged” the first place appearing, to reflect the probable intent of Congress.
 
-1990—Subsec. (a)(1). Pub. L. 101–608, §§ 112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
+1990—Subsec. (a)(1). Pub. L. 101–608, §§ 112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
 
-Subsec. (a)(3). Pub. L. 101–608, § 115(a)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 101–608, § 115(a)(3), added par. (3).
 
 1981—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted “the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed” for “the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered”, and redesignated subsec. (c) as (d).
 
@@ -3509,9 +3509,9 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Civil Penalty Criteria**
 
-Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], and in accordance with the procedures of section 553 of title 5, United States Code, the [Consumer Product Safety] Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a).”
+Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], and in accordance with the procedures of section 553 of title 5, United States Code, the [Consumer Product Safety] Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a).”
 
-## § 2070. Criminal penalties
+## § 2070. Criminal penalties
 
 **(a)** Violation of section 2068 of this title is punishable by—
 
@@ -3529,17 +3529,17 @@ Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, prov
 
 **(2)** In this subsection, the term “criminal violation” means a violation of this chapter or any other Act enforced by the Commission for which the violator is sentenced to pay a fine, be imprisoned, or both.
 
-(Pub. L. 92–573, § 21, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 110–314, title II, § 217(c)(1), (2), (d), Aug. 14, 2008, 122 Stat. 3060.)
+(Pub. L. 92–573, § 21, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 110–314, title II, § 217(c)(1), (2), (d), Aug. 14, 2008, 122 Stat. 3060.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 217(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who knowingly and willfully violates section 2068 of this title after having received notice of noncompliance from the Commission shall be fined not more than $50,000 or be imprisoned not more than one year, or both.”
+2008—Subsec. (a). Pub. L. 110–314, § 217(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who knowingly and willfully violates section 2068 of this title after having received notice of noncompliance from the Commission shall be fined not more than $50,000 or be imprisoned not more than one year, or both.”
 
-Subsec. (b). Pub. L. 110–314, § 217(c)(2), struck out “, and who has knowledge of notice of noncompliance received by the corporation from the Commission,” after “section 2068 of this title”.
+Subsec. (b). Pub. L. 110–314, § 217(c)(2), struck out “, and who has knowledge of notice of noncompliance received by the corporation from the Commission,” after “section 2068 of this title”.
 
-Subsec. (c). Pub. L. 110–314, § 217(d), added subsec. (c).
+Subsec. (c). Pub. L. 110–314, § 217(d), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3547,7 +3547,7 @@ Subsec. (c). Pub. L. 110–314, § 217(d), added subsec. (c).
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2071. Injunctive enforcement and seizure
+## § 2071. Injunctive enforcement and seizure
 
 **(a) Jurisdiction** The United States district courts shall have jurisdiction to take the following action:
 
@@ -3567,15 +3567,15 @@ Such actions may be brought by the Commission (without regard to section 2076(b)
 
 when introduced into or while in commerce or while held for sale after shipment in commerce shall be liable to be proceeded against on libel of information and condemned in any district court of the United States within the jurisdiction of which such consumer product is found. Proceedings in cases instituted under the authority of this subsection shall conform as nearly as possible to proceedings in rem in admiralty. Whenever such proceedings involving substantially similar consumer products are pending in courts of two or more judicial districts they shall be consolidated for trial by order of any such court upon application reasonably made by any party in interest upon notice to all other parties in interest.
 
-(Pub. L. 92–573, § 22, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §§ 11(b), 12(c), May 11, 1976, 90 Stat. 507, 508.)
+(Pub. L. 92–573, § 22, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §§ 11(b), 12(c), May 11, 1976, 90 Stat. 507, 508.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–284, §§ 11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted “(without regard to section 2076(b)(7)(A) of this title)” for “(with the concurrence of the Attorney General)”.
+1976—Subsec. (a). Pub. L. 94–284, §§ 11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted “(without regard to section 2076(b)(7)(A) of this title)” for “(with the concurrence of the Attorney General)”.
 
-Subsec. (b). Pub. L. 94–284, § 12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
+Subsec. (b). Pub. L. 94–284, § 12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3583,7 +3583,7 @@ Subsec. (b). Pub. L. 94–284, § 12(c)(2), amended subsec. (b) generally, ins
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2072. Suits for damages
+## § 2072. Suits for damages
 
 **(a) Persons injured; costs; amount in controversy**
 
@@ -3597,7 +3597,7 @@ Except when express provision is made in a statute of the United States, in any 
 
 The remedies provided for in this section shall be in addition to and not in lieu of any other remedies provided by common law or under Federal or State law.
 
-(Pub. L. 92–573, § 23, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, § 10(c), May 11, 1976, 90 Stat. 507; Pub. L. 96–486, § 3, Dec. 1, 1980, 94 Stat. 2369; Pub. L. 97–35, title XII, § 1211(h)(3)(B), Aug. 13, 1981, 95 Stat. 723.)
+(Pub. L. 92–573, § 23, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, § 10(c), May 11, 1976, 90 Stat. 507; Pub. L. 96–486, § 3, Dec. 1, 1980, 94 Stat. 2369; Pub. L. 97–35, title XII, § 1211(h)(3)(B), Aug. 13, 1981, 95 Stat. 723.)
 
 **Editorial Notes**
 
@@ -3605,9 +3605,9 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 1981—Subsec. (a). Pub. L. 97–35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
 
-1980—Subsec. (a). Pub. L. 96–486, § 3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
+1980—Subsec. (a). Pub. L. 96–486, § 3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
 
-Subsecs. (b), (c). Pub. L. 96–486, § 3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 96–486, § 3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1976—Subsec. (a). Pub. L. 94–284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
 
@@ -3625,7 +3625,7 @@ For effective date and applicability of amendment by Pub. L. 96–486, see secti
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2073. Additional enforcement of product safety rules and section 2064 orders
+## § 2073. Additional enforcement of product safety rules and section 2064 orders
 
 **(a) In general**
 
@@ -3687,7 +3687,7 @@ No separate suit shall be brought under this subsection (other than a suit alleg
 
 **(B)** use any information that is subject to attorney-client or work product privilege that was obtained while assisting the State in the action under paragraph (1) in any other private civil actions that arise out of the same operative facts.
 
-(Pub. L. 92–573, § 24, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, § 10(d), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, § 1211(a), (h)(3)(C), Aug. 13, 1981, 95 Stat. 721, 723; Pub. L. 110–314, title II, § 218(a), Aug. 14, 2008, 122 Stat. 3060.)
+(Pub. L. 92–573, § 24, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, § 10(d), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, § 1211(a), (h)(3)(C), Aug. 13, 1981, 95 Stat. 721, 723; Pub. L. 110–314, title II, § 218(a), Aug. 14, 2008, 122 Stat. 3060.)
 
 **Editorial Notes**
 
@@ -3709,7 +3709,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2074. Private remedies
+## § 2074. Private remedies
 
 **(a) Liability at common law or under State statute not relieved by compliance**
 
@@ -3723,7 +3723,7 @@ The failure of the Commission to take any action or commence a proceeding with r
 
 Subject to sections 2055(a)(2) and 2055(b) of this title but notwithstanding section 2055(a)(1) of this title, (1) any accident or investigation report made under this chapter by an officer or employee of the Commission shall be made available to the public in a manner which will not identify any injured person or any person treating him, without the consent of the person so identified, and (2) all reports on research projects, demonstration projects, and other related activities shall be public information.
 
-(Pub. L. 92–573, § 25, Oct. 27, 1972, 86 Stat. 1227.)
+(Pub. L. 92–573, § 25, Oct. 27, 1972, 86 Stat. 1227.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3735,7 +3735,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 The provisions of this section establishing the extent to which the Consumer Product Safety Act [15 U.S.C. 2051 et seq.] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Consumer Product Safety Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2075. State standards
+## § 2075. State standards
 
 **(a) State compliance to Federal standards**
 
@@ -3753,7 +3753,7 @@ Subsection (a) of this section does not prevent the Federal Government or the go
 
 In determining the burden, if any, of a State or political subdivision standard or regulation on interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this chapter for such consumer product.
 
-(Pub. L. 92–573, § 26, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–284, § 17(d), May 11, 1976, 90 Stat. 514.)
+(Pub. L. 92–573, § 26, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–284, § 17(d), May 11, 1976, 90 Stat. 514.)
 
 **Editorial Notes**
 
@@ -3773,7 +3773,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 The provisions of this section establishing the extent to which the Consumer Product Safety Act [15 U.S.C. 2051 et seq.] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Consumer Product Safety Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2076. Additional functions of Consumer Product Safety Commission
+## § 2076. Additional functions of Consumer Product Safety Commission
 
 **(a) Authority to conduct hearings or other inquiries**
 
@@ -3891,7 +3891,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 **(2)** Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, § 27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, § 31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§ 8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, § 11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§ 1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, § 209(a), Aug. 14, 2008, 122 Stat. 3046; Pub. L. 112–28, § 8, Aug. 12, 2011, 125 Stat. 282.)
+(Pub. L. 92–573, § 27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, § 31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§ 8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, § 11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§ 1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, § 209(a), Aug. 14, 2008, 122 Stat. 3046; Pub. L. 112–28, § 8, Aug. 12, 2011, 125 Stat. 282.)
 
 **Editorial Notes**
 
@@ -3901,47 +3901,47 @@ Section 3003 of the Federal Reports Elimination and Sunset Act of 1995, referred
 
 **Codification**
 
-In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-“Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-2011—Subsec. (b)(3). Pub. L. 112–28, § 8(1), inserted “and physical” after “documentary”.
+2011—Subsec. (b)(3). Pub. L. 112–28, § 8(1), inserted “and physical” after “documentary”.
 
-Subsec. (b)(9). Pub. L. 112–28, § 8(2), (3), added par. (9). Former par. (9) redesignated (10).
+Subsec. (b)(9). Pub. L. 112–28, § 8(2), (3), added par. (9). Former par. (9) redesignated (10).
 
-Subsec. (b)(10). Pub. L. 112–28, § 8(3), (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
+Subsec. (b)(10). Pub. L. 112–28, § 8(3), (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
 
-2008—Subsec. (j). Pub. L. 110–314, § 209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
+2008—Subsec. (j). Pub. L. 110–314, § 209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
 
-Subsec. (j)(5) to (13). Pub. L. 110–314, § 209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
+Subsec. (j)(5) to (13). Pub. L. 110–314, § 209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
-1981—Subsec. (b). Pub. L. 97–35, § 1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+1981—Subsec. (b). Pub. L. 97–35, § 1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
-Subsec. (j)(10), (11). Pub. L. 97–35, § 1209(c), added par. (10) and redesignated former par. (10) as (11).
+Subsec. (j)(10), (11). Pub. L. 97–35, § 1209(c), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (*l*). Pub. L. 97–35, § 1207(b), struck out subsec. (*l*) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
+Subsec. (*l*). Pub. L. 97–35, § 1207(b), struck out subsec. (*l*) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
 
-Subsec. (m). Pub. L. 97–35, § 1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
+Subsec. (m). Pub. L. 97–35, § 1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
 1978—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
-1976—Subsec. (b)(7). Pub. L. 94–284, § 11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+1976—Subsec. (b)(7). Pub. L. 94–284, § 11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
-Subsec. (b)(8), (9). Pub. L. 94–284, § 8(b), added par. (8) and redesignated former par. (8) as par (9).
+Subsec. (b)(8), (9). Pub. L. 94–284, § 8(b), added par. (8) and redesignated former par. (8) as par (9).
 
-Subsec. (c). Pub. L. 94–284, § 11(d), substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
+Subsec. (c). Pub. L. 94–284, § 11(d), substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
 
 Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
-Subsec. (*l*). Pub. L. 94–284, § 14, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 94–284, § 14, added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–314, title II, § 209(b), Aug. 14, 2008, 122 Stat. 3047, provided that: “The amendments made by this section [amending this section] shall apply with respect to reports submitted for fiscal year 2009 and thereafter.”
+Pub. L. 110–314, title II, § 209(b), Aug. 14, 2008, 122 Stat. 3047, provided that: “The amendments made by this section [amending this section] shall apply with respect to reports submitted for fiscal year 2009 and thereafter.”
 
 **Effective Date of 1981 Amendment**
 
@@ -3953,19 +3953,19 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Submission of Copy of Certain Documents to Congress**
 
-Pub. L. 110–314, title II, § 203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: “Notwithstanding any rule, regulation, or order to the contrary, the [Consumer Product Safety] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act [Aug. 14, 2008].”
+Pub. L. 110–314, title II, § 203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: “Notwithstanding any rule, regulation, or order to the contrary, the [Consumer Product Safety] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act [Aug. 14, 2008].”
 
 **User Fee Study**
 
-Pub. L. 101–608, title I, § 119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
+Pub. L. 101–608, title I, § 119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
 
-## § 2076a. Report on civil penalties
+## § 2076a. Report on civil penalties
 
 **(1)** Beginning 1 year after November 16, 1990, and every year thereafter, the Consumer Product Safety Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives the information specified in paragraph (2). Such information may be included in the annual report to the Congress submitted by the Commission.
 
 **(2)** The Commission shall submit information with respect to the imposition of civil penalties under the statutes which it administers. The information shall include the number of civil penalties imposed, an identification of the violations that led to the imposition of such penalties, and the amount of revenue recovered from the imposition of such penalties.
 
-(Pub. L. 101–608, title I, § 115(d), Nov. 16, 1990, 104 Stat. 3121.)
+(Pub. L. 101–608, title I, § 115(d), Nov. 16, 1990, 104 Stat. 3121.)
 
 **Editorial Notes**
 
@@ -3979,7 +3979,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 19
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-## § 2076b. Inspector General audits and reports
+## § 2076b. Inspector General audits and reports
 
 **(a) Improvements by the Commission** The Inspector General of the Commission shall conduct reviews and audits to assess—
 
@@ -4009,7 +4009,7 @@ Not later than 60 days after August 14, 2008, the Inspector General of the Commi
 
 Beginning for fiscal year 2010, the Inspector General of the Commission shall include in an annual report to the appropriate Congressional committees the Inspector General’s findings, conclusions, and recommendations from the reviews and audits under subsections (a) and (b).
 
-(Pub. L. 110–314, title II, § 205, Aug. 14, 2008, 122 Stat. 3043.)
+(Pub. L. 110–314, title II, § 205, Aug. 14, 2008, 122 Stat. 3043.)
 
 **Editorial Notes**
 
@@ -4029,7 +4029,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 For definitions of “Commission” and “appropriate Congressional committees” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 2077. Chronic Hazard Advisory Panels
+## § 2077. Chronic Hazard Advisory Panels
 
 **(a) Appointment; purposes**
 
@@ -4069,13 +4069,13 @@ Each Panel shall request information and disclose information to the public, as 
 
 **(2)** Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 
-(Pub. L. 92–573, § 28, as added Pub. L. 97–35, title XII, § 1206(a), Aug. 13, 1981, 95 Stat. 716; amended Pub. L. 101–608, title I, § 116, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 110–314, title II, § 235(c)(6), Aug. 14, 2008, 122 Stat. 3075.)
+(Pub. L. 92–573, § 28, as added Pub. L. 97–35, title XII, § 1206(a), Aug. 13, 1981, 95 Stat. 716; amended Pub. L. 101–608, title I, § 116, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 110–314, title II, § 235(c)(6), Aug. 14, 2008, 122 Stat. 3075.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2077, Pub. L. 92–573, § 28, Oct. 27, 1972, 86 Stat. 1230, provided for establishment and membership of Product Safety Advisory Council, prior to repeal by Pub. L. 97–35, title XII, § 1205(a)(1), Aug. 13, 1981, 95 Stat. 716.
+A prior section 2077, Pub. L. 92–573, § 28, Oct. 27, 1972, 86 Stat. 1230, provided for establishment and membership of Product Safety Advisory Council, prior to repeal by Pub. L. 97–35, title XII, § 1205(a)(1), Aug. 13, 1981, 95 Stat. 716.
 
 **Amendments**
 
@@ -4091,9 +4091,9 @@ Section applicable with respect to regulations under this chapter and chapters 2
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2078. Cooperation with States and other Federal agencies
+## § 2078. Cooperation with States and other Federal agencies
 
 **(a) Programs to promote Federal-State cooperation** The Commission shall establish a program to promote Federal-State cooperation for the purposes of carrying out this chapter. In implementing such program the Commission may—
 
@@ -4135,11 +4135,11 @@ which the agency or authority makes available to any member of the public. No Fe
 
 **(iii)** with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency’s government; and
 
-**(C)** in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1
+**(C)** in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
+of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
 
 **(2) Abrogation of agreements**
 
@@ -4167,19 +4167,19 @@ Nothing in this subsection authorizes the Commission to withhold information fro
 
 Whenever the Commission is notified of any voluntary corrective action taken by a manufacturer (or a retailer in the case of a retailer selling a product under its own label) in consultation with the Commission, or issues an order under section 2064(c) or (d) of this title with respect to any product, the Commission shall notify each State’s health department (or other agency designated by the State) of such voluntary corrective action or order.
 
-(Pub. L. 92–573, § 29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, § 15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §§ 207, 235(c)(7), Aug. 14, 2008, 122 Stat. 3044, 3075.)
+(Pub. L. 92–573, § 29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, § 15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §§ 207, 235(c)(7), Aug. 14, 2008, 122 Stat. 3044, 3075.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(j) of title 50, referred to in subsec. (f)(1)(C), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j) of title 50, referred to in subsec. (f)(1)(C), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
-2008—Subsec. (e). Pub. L. 110–314, § 235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
+2008—Subsec. (e). Pub. L. 110–314, § 235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
 
-Subsecs. (f), (g). Pub. L. 110–314, § 207, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 110–314, § 207, added subsecs. (f) and (g).
 
 1988—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
@@ -4191,7 +4191,7 @@ Subsecs. (f), (g). Pub. L. 110–314, § 207, added subsecs. (f) and (g).
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2079. Transfers of functions
+## § 2079. Transfers of functions
 
 **(a) Hazardous substances and poisons**
 
@@ -4205,7 +4205,7 @@ The functions of the Secretary of Health, Education, and Welfare, the Secretary 
 
 The functions of the Secretary of Commerce and the Federal Trade Commission under the Act of August 2, 1956 [15 U.S.C. 1211 et seq.] are transferred to the Commission.
 
-**(d) Repealed. Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076**
+**(d) Repealed. Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076**
 
 **(e) Transfer of personnel, property, records, etc.; continued application of orders, rules, etc.**
 
@@ -4225,23 +4225,23 @@ The functions of the Secretary of Commerce and the Federal Trade Commission unde
 
 For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
 
-(Pub. L. 92–573, § 30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§ 3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.)
+(Pub. L. 92–573, § 30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§ 3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Hazardous Substances Act, referred to in subsec. (a), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (a), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
+The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, which is classified generally to chapter 26 (§ 1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, which is classified generally to chapter 26 (§ 1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 For the effective date of this section or, alternatively, the time or date this section takes effect, referred to in subsec. (e)(1)(B), (2), (3), and (4), see section 34(2) of Pub. L. 92–573, set out as an Effective Date note under section 2051 of this title.
 
@@ -4253,9 +4253,9 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 
 1988—Subsec. (e)(1)(A). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1976—Subsec. (a). Pub. L. 94–284, § 3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
+1976—Subsec. (a). Pub. L. 94–284, § 3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
 
-Subsec. (d). Pub. L. 94–284, § 16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
+Subsec. (d). Pub. L. 94–284, § 16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4263,15 +4263,15 @@ Subsec. (d). Pub. L. 94–284, § 16, inserted requirement that the Commission
 
 Section effective on the later of 150 days after Oct. 27, 1972, or the date on which at least three members of the Commission first take office, see section 34(2) of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2080. Limitations on jurisdiction of Consumer Product Safety Commission
+## § 2080. Limitations on jurisdiction of Consumer Product Safety Commission
 
 **(a) Authority to regulate**
 
-The Commission shall have no authority under this chapter to regulate any risk of injury associated with a consumer product if such risk could be eliminated or reduced to a sufficient extent by actions taken under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.]; the Atomic Energy Act of 1954 [42 U.S.C. 2011 et seq.]; or the Clean Air Act [42 U.S.C. 7401 et seq.]. The Commission shall have no authority under this chapter to regulate any risk of injury associated with electronic product radiation emitted from an electronic product (as such terms are defined by sections 355(1) and (2) 1
+The Commission shall have no authority under this chapter to regulate any risk of injury associated with a consumer product if such risk could be eliminated or reduced to a sufficient extent by actions taken under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.]; the Atomic Energy Act of 1954 [42 U.S.C. 2011 et seq.]; or the Clean Air Act [42 U.S.C. 7401 et seq.]. The Commission shall have no authority under this chapter to regulate any risk of injury associated with electronic product radiation emitted from an electronic product (as such terms are defined by sections 355(1) and (2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Public Health Service Act) if such risk of injury may be subjected to regulation under subpart 3 1 of part F of title III of the Public Health Service Act.
+of the Public Health Service Act) if such risk of injury may be subjected to regulation under subpart 3 1 of part F of title III of the Public Health Service Act.
 
 **(b) Certain notices of proposed rulemaking; duties of Chronic Hazard Advisory Panel**
 
@@ -4307,19 +4307,19 @@ relating to a risk of cancer, birth defects, or gene mutations from a consumer p
 
 Each Panel’s report shall contain a complete statement of the basis for the Panel’s determination. The Commission shall consider the report of the Panel and incorporate such report into the advance notice of proposed rulemaking and final rule.
 
-(Pub. L. 92–573, § 31, Oct. 27, 1972, 86 Stat. 1232; Pub. L. 97–35, title XII, § 1206(b), Aug. 13, 1981, 95 Stat. 717; Pub. L. 97–414, § 9(j)(5), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 117–286, § 4(a)(67), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 92–573, § 31, Oct. 27, 1972, 86 Stat. 1232; Pub. L. 97–35, title XII, § 1206(b), Aug. 13, 1981, 95 Stat. 717; Pub. L. 97–414, § 9(j)(5), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 117–286, § 4(a)(67), Dec. 27, 2022, 136 Stat. 4313.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§ 263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, § 19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C (21 U.S.C. 360hh et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to section 263c of Title 42, was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, § 19(a)(3), (4), 104 Stat. 4530, and transferred to section 360hh of Title 21. For complete classification of the Public Health Service Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§ 263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, § 19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C (21 U.S.C. 360hh et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to section 263c of Title 42, was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, § 19(a)(3), (4), 104 Stat. 4530, and transferred to section 360hh of Title 21. For complete classification of the Public Health Service Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -4341,9 +4341,9 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 **Manufacture or Sale of Firearms or Firearms Ammunition**
 
-Pub. L. 94–284, § 3(e), May 11, 1976, 90 Stat. 504, provided that: “The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms.”
+Pub. L. 94–284, § 3(e), May 11, 1976, 90 Stat. 504, provided that: “The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms.”
 
-## § 2081. Authorization of appropriations
+## § 2081. Authorization of appropriations
 
 **(a) General authorization of appropriations**
 
@@ -4369,19 +4369,19 @@ Pub. L. 94–284, § 3(e), May 11, 1976, 90 Stat. 504, provided that: “The C
 
 No funds appropriated under subsection (a) may be used to pay any claim described in section 2053(i) of this title whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under section 2672 of title 28, or under any other provision of law.
 
-(Pub. L. 92–573, § 32, Oct. 27, 1972, 86 Stat. 1233; Pub. L. 94–284, §§ 2, 5(b), May 11, 1976, 90 Stat. 503, 505; Pub. L. 95–631, § 1, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 97–35, title XII, § 1214, Aug. 13, 1981, 95 Stat. 724; Pub. L. 101–608, title I, § 117, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 103–437, § 5(c)(1), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §§ 201(a), (c), 235(c)(4), Aug. 14, 2008, 122 Stat. 3038, 3039, 3075.)
+(Pub. L. 92–573, § 32, Oct. 27, 1972, 86 Stat. 1233; Pub. L. 94–284, §§ 2, 5(b), May 11, 1976, 90 Stat. 503, 505; Pub. L. 95–631, § 1, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 97–35, title XII, § 1214, Aug. 13, 1981, 95 Stat. 724; Pub. L. 101–608, title I, § 117, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 103–437, § 5(c)(1), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §§ 201(a), (c), 235(c)(4), Aug. 14, 2008, 122 Stat. 3038, 3039, 3075.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1991 and 1992.
+2008—Subsec. (a). Pub. L. 110–314, § 201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1991 and 1992.
 
-Subsec. (b). Pub. L. 110–314, § 201(c), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b), which related to authorization of appropriations for the planning and construction of research, development and testing facilities described in section 2076(h) of this title.
+Subsec. (b). Pub. L. 110–314, § 201(c), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b), which related to authorization of appropriations for the planning and construction of research, development and testing facilities described in section 2076(h) of this title.
 
-Subsec. (b)(1). Pub. L. 110–314, § 235(c)(4), which directed substitution of “the appropriate Congressional committees.” for “the Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate.”, could not be executed because of the repeal of subsec. (b) by Pub. L. 110–314, § 201(c). See above.
+Subsec. (b)(1). Pub. L. 110–314, § 235(c)(4), which directed substitution of “the appropriate Congressional committees.” for “the Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate.”, could not be executed because of the repeal of subsec. (b) by Pub. L. 110–314, § 201(c). See above.
 
-Subsec. (c). Pub. L. 110–314, § 201(c), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 110–314, § 201(c), redesignated subsec. (c) as (b).
 
 1994—Subsec. (b)(1). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Commerce of the House of Representatives, and by the Committee on Commerce, Science, and Transportation of the Senate” for “Committee on Interstate and Foreign Commerce of the House of Representatives, and by the Committee on Commerce of the Senate”.
 
@@ -4391,9 +4391,9 @@ Subsec. (c). Pub. L. 110–314, § 201(c), redesignated subsec. (c) as (b).
 
 1978—Subsec. (a)(5) to (7). Pub. L. 95–631 added pars. (5) to (7).
 
-1976—Subsec. (a). Pub. L. 94–284, § 2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
+1976—Subsec. (a). Pub. L. 94–284, § 2, substituted “$51,000,000 for the fiscal year ending June 30, 1976, $14,000,000 for the period beginning July 1, 1976, and ending September 30, 1976, $60,000,000 for the fiscal year ending September 30, 1977, and $68,000,000 for the fiscal year ending September 30, 1978” for “$55,000,000 for the fiscal year ending June 30, 1973, $59,000,000 for the fiscal year ending June 30, 1974, and $64,000,000 for the fiscal year ending June 30, 1975”.
 
-Subsec. (c). Pub. L. 94–284, § 5(b), added subsec. (c).
+Subsec. (c). Pub. L. 94–284, § 5(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4405,7 +4405,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
-## § 2082. Interim cellulose insulation safety standard
+## § 2082. Interim cellulose insulation safety standard
 
 **(a) Applicability of specification of General Services Administration; authority and effect of interim standard; modifications; criteria; labeling requirements**
 
@@ -4489,15 +4489,15 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981, such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 92–573, § 35, as added Pub. L. 95–319, § 3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, § 5(c)(2), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, § 235(c)(3), (5), Aug. 14, 2008, 122 Stat. 3074, 3075.)
+(Pub. L. 92–573, § 35, as added Pub. L. 95–319, § 3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, § 5(c)(2), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, § 235(c)(3), (5), Aug. 14, 2008, 122 Stat. 3074, 3075.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (c)(2)(D)(iii). Pub. L. 110–314, § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives”.
+2008—Subsec. (c)(2)(D)(iii). Pub. L. 110–314, § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives”.
 
-Subsec. (e)(1). Pub. L. 110–314, § 235(c)(5), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives”.
+Subsec. (e)(1). Pub. L. 110–314, § 235(c)(5), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives”.
 
 1994—Subsecs. (c)(2)(D)(iii), (e)(1). Pub. L. 103–437 substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
@@ -4505,7 +4505,7 @@ Subsec. (e)(1). Pub. L. 110–314, § 235(c)(5), substituted “the appropriat
 
 **Congressional Statement of Findings and Purpose**
 
-Pub. L. 95–319, § 2, July 11, 1978, 92 Stat. 386, provided that:
+Pub. L. 95–319, § 2, July 11, 1978, 92 Stat. 386, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -4519,7 +4519,7 @@ Pub. L. 95–319, § 2, July 11, 1978, 92 Stat. 386, provided that:
 
 > **“(b)** It is the purpose of the Congress in this Act [enacting this section, amending section 2068 of this title, and enacting provisions set out as notes under sections 2051 and 2082 of this title] to provide an interim mandatory safety standard for cellulose insulation manufactured for use as a consumer product.”
 
-## § 2083. Congressional veto of consumer product safety rules
+## § 2083. Congressional veto of consumer product safety rules
 
 **(a) Transmission to Congress**
 
@@ -4527,7 +4527,7 @@ The Commission shall transmit to the Secretary of the Senate and the Clerk of th
 
 **(b) Disapproval by concurrent resolution** Any rule specified in subsection (a) shall not take effect if—
 
-**(1)** within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to            and which was transmitted to the Congress on            and disapproves the rule for the following reasons:           .”; or
+**(1)** within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the rule for the following reasons: .”; or
 
 **(2)** within the 60 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the 30 calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -4541,7 +4541,7 @@ Congressional inaction on, or rejection of, a concurrent resolution of disapprov
 
 **(2)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
-(Pub. L. 92–573, § 36, as added Pub. L. 97–35, title XII, § 1207(a), Aug. 13, 1981, 95 Stat. 718.)
+(Pub. L. 92–573, § 36, as added Pub. L. 97–35, title XII, § 1207(a), Aug. 13, 1981, 95 Stat. 718.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4549,7 +4549,7 @@ Congressional inaction on, or rejection of, a concurrent resolution of disapprov
 
 Section applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
-## § 2084. Information reporting
+## § 2084. Information reporting
 
 **(a) Notification of settlements or judgments**
 
@@ -4571,9 +4571,9 @@ The 24-month periods referred to in subsection (a) are the 24-month period comme
 
 **(D)** A statement as to whether the civil action resulted in a final settlement or a judgment in favor of the plaintiff.
 
-**(E)** in 1
+**(E)** in 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
 
@@ -4599,17 +4599,17 @@ the case of a judgment in favor of the plaintiff, the name of the civil action, 
 
 **(2)** For purposes of this section,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 a particular model of a consumer product is one that is distinctive in functional design, construction, warnings or instructions related to safety, function, user population, or other characteristics which could affect the product’s safety related performance.
 
-(Pub. L. 92–573, § 37, as added Pub. L. 101–608, title I, § 112(b), Nov. 16, 1990, 104 Stat. 3115.)
+(Pub. L. 92–573, § 37, as added Pub. L. 101–608, title I, § 112(b), Nov. 16, 1990, 104 Stat. 3115.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Reports**
 
-Pub. L. 101–608, title I, § 112(f), Nov. 16, 1990, 104 Stat. 3117, provided that:
+Pub. L. 101–608, title I, § 112(f), Nov. 16, 1990, 104 Stat. 3117, provided that:
 
 > **“(1)** The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act [15 U.S.C. 2084] have assisted the Commission in carrying out its responsibilities under such Act [15 U.S.C. 2051 et seq.]. The report—
 
@@ -4629,13 +4629,13 @@ Pub. L. 101–608, title I, § 112(f), Nov. 16, 1990, 104 Stat. 3117, provided
 
 > **“(2)** The first report under paragraph (1) shall be due February 1, 1992, and the second such report shall be due April 1, 1993.”
 
-## § 2085. Low-speed electric bicycles
+## § 2085. Low-speed electric bicycles
 
 **(a) Construction**
 
-Notwithstanding any other provision of law, low-speed electric bicycles are consumer products within the meaning of section 2052(a)(1) 1
+Notwithstanding any other provision of law, low-speed electric bicycles are consumer products within the meaning of section 2052(a)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and shall be subject to the Commission regulations published at section 1500.18(a)(12) and part 1512 of title 16, Code of Federal Regulations.
 
@@ -4651,15 +4651,15 @@ To further protect the safety of consumers who ride low-speed electric bicycles,
 
 This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a).
 
-(Pub. L. 92–573, § 38, as added Pub. L. 107–319, § 1, Dec. 4, 2002, 116 Stat. 2776.)
+(Pub. L. 92–573, § 38, as added Pub. L. 107–319, § 1, Dec. 4, 2002, 116 Stat. 2776.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2052(a)(1) of this title, referred to in subsec. (a), was redesignated section 2052(a)(5) of this title by Pub. L. 110–314, title II, § 235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
+Section 2052(a)(1) of this title, referred to in subsec. (a), was redesignated section 2052(a)(5) of this title by Pub. L. 110–314, title II, § 235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
 
-## § 2086. Prohibition on industry-sponsored travel
+## § 2086. Prohibition on industry-sponsored travel
 
 Notwithstanding section 1353 of title 31 and section 2076(b)(6) of this title, no Commissioner or employee of the Commission shall accept travel, subsistence, or related expenses with respect to attendance by a Commissioner or employee at any meeting or similar function relating to official duties of a Commissioner or an employee, from a person—
 
@@ -4667,13 +4667,13 @@ Notwithstanding section 1353 of title 31 and section 2076(b)(6) of this title, n
 
 **(2)** whose interests may be substantially affected by the performance or nonperformance of the Commissioner’s or employee’s official duties.
 
-(Pub. L. 92–573, § 39, as added Pub. L. 110–314, title II, § 206(a), Aug. 14, 2008, 122 Stat. 3044.)
+(Pub. L. 92–573, § 39, as added Pub. L. 110–314, title II, § 206(a), Aug. 14, 2008, 122 Stat. 3044.)
 
-## § 2087. Whistleblower protection
+## § 2087. Whistleblower protection
 
 **(a)** No manufacturer, private labeler, distributor, or retailer,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 may discharge an employee or otherwise discriminate against an employee with respect to compensation, terms, conditions, or privileges of employment because the employee, whether at the employee’s initiative or in the ordinary course of the employee’s duties (or any person acting pursuant to a request of the employee)—
 
@@ -4745,9 +4745,9 @@ If such an order is issued under this paragraph, the Secretary, at the request o
 
 **(d)** Subsection (a) shall not apply with respect to an employee of a manufacturer, private labeler, distributor, or retailer who, acting without direction from such manufacturer, private labeler, distributor, or retailer (or such person’s agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, regulation, or consumer product safety standard under this chapter or any other law enforced by the Commission.
 
-(Pub. L. 92–573, § 40, as added Pub. L. 110–314, title II, § 219(a), Aug. 14, 2008, 122 Stat. 3062.)
+(Pub. L. 92–573, § 40, as added Pub. L. 110–314, title II, § 219(a), Aug. 14, 2008, 122 Stat. 3062.)
 
-## § 2088. Financial responsibility
+## § 2088. Financial responsibility
 
 **(a) Identification and determination of bond**
 
@@ -4765,9 +4765,9 @@ The Commission, in consultation with U.S. Customs and Border Protection and othe
 
 Not later than 180 days after August 14, 2008, the Comptroller General shall transmit to the appropriate Congressional committees a report on the conclusions of the study required under paragraph (1), including an assessment of whether such an escrow requirement could be implemented and any recommendations for such implementation.
 
-(Pub. L. 92–573, § 41, as added Pub. L. 110–314, title II, § 224(a), Aug. 14, 2008, 122 Stat. 3069.)
+(Pub. L. 92–573, § 41, as added Pub. L. 110–314, title II, § 224(a), Aug. 14, 2008, 122 Stat. 3069.)
 
-## § 2089. All-terrain vehicles
+## § 2089. All-terrain vehicles
 
 **(a) In general**
 
@@ -4857,7 +4857,7 @@ The Commission shall issue a final rule in its proceeding entitled “Standards 
 
 The term “ATV action plan” means a written plan or letter of undertaking that describes actions the manufacturer or distributor agrees to take to promote ATV safety, including rider training, dissemination of safety information, age recommendations, other policies governing marketing and sale of the ATVs, the monitoring of such sales, and other safety related measures, and that is substantially similar to the plans described under the heading “The Undertakings of the Companies in the Commission Notice” published in the Federal Register on September 9, 1998 (63 FR 48199–48204).
 
-(Pub. L. 92–573, § 42, as added Pub. L. 110–314, title II, § 232(a), Aug. 14, 2008, 122 Stat. 3071.)
+(Pub. L. 92–573, § 42, as added Pub. L. 110–314, title II, § 232(a), Aug. 14, 2008, 122 Stat. 3071.)
 
 **Editorial Notes**
 
@@ -4873,9 +4873,9 @@ Subsec. (c) of this section effective on the date that is 30 days after Aug. 14,
 
 **Deadline for Rule by Consumer Product Safety Commission on Standards for All Terrain Vehicles**
 
-Pub. L. 112–28, § 9, Aug. 12, 2011, 125 Stat. 282, provided that: “The Commission shall issue the final rule described in section 42(d) of the Consumer Product Safety Act (15 U.S.C. 2089(d)) not later than 1 year after the date of enactment of this Act [Aug. 12, 2011].”
+Pub. L. 112–28, § 9, Aug. 12, 2011, 125 Stat. 282, provided that: “The Commission shall issue the final rule described in section 42(d) of the Consumer Product Safety Act (15 U.S.C. 2089(d)) not later than 1 year after the date of enactment of this Act [Aug. 12, 2011].”
 
-## § 2090. Grant program for carbon monoxide poisoning prevention
+## § 2090. Grant program for carbon monoxide poisoning prevention
 
 **(a) In general**
 
@@ -4937,21 +4937,21 @@ An eligible State to which a grant is awarded under this section shall, with res
 
 **(1) In general**
 
-The Commission shall carry out this title 1
+The Commission shall carry out this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 using amounts appropriated to the Commission for each of fiscal years 2022 through 2026, to extent such funds are available.
 
 **(2) Limitation on administrative expenses**
 
-In a fiscal year, not more than 10 percent of the amounts appropriated or otherwise made available to carry out this title <sup>1</sup> may be used for administrative expenses.
+In a fiscal year, not more than 10 percent of the amounts appropriated or otherwise made available to carry out this title <sup>1</sup> may be used for administrative expenses.
 
 **(g) Report**
 
 Not later than 1 year after the last day of each fiscal year in which grants are awarded under this section, the Commission shall submit to Congress a report that evaluates the implementation of the grant program required under this section.
 
-(Pub. L. 117–103, div. Q, title II, § 204, Mar. 15, 2022, 136 Stat. 814.)
+(Pub. L. 117–103, div. Q, title II, § 204, Mar. 15, 2022, 136 Stat. 814.)
 
 **Editorial Notes**
 
@@ -4967,7 +4967,7 @@ Section was enacted as part of the Nicholas and Zachary Burt Memorial Carbon Mon
 
 **Findings and Sense of Congress**
 
-Pub. L. 117–103, div. Q, title II, § 202, Mar. 15, 2022, 136 Stat. 813, provided that:
+Pub. L. 117–103, div. Q, title II, § 202, Mar. 15, 2022, 136 Stat. 813, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -4981,7 +4981,7 @@ Pub. L. 117–103, div. Q, title II, § 202, Mar. 15, 2022, 136 Stat. 813, pro
 
 **Definitions**
 
-Pub. L. 117–103, div. Q, title II, § 203, Mar. 15, 2022, 136 Stat. 813, provided that:
+Pub. L. 117–103, div. Q, title II, § 203, Mar. 15, 2022, 136 Stat. 813, provided that:
 
 > “In this title [enacting this section and provisions set out as notes under this section and section 2051 of this title]:
 

@@ -138,7 +138,7 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3901. Congressional findings and objectives
+### § 3901. Congressional findings and objectives
 
 **(a)** The Congress finds that—
 
@@ -174,7 +174,7 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 **(10)** otherwise enabling the Foreign Service to serve effectively the interests of the United States and to provide the highest caliber of representation in the conduct of foreign affairs.
 
-(Pub. L. 96–465, title I, § 101, Oct. 17, 1980, 94 Stat. 2074; Pub. L. 117–263, div. I, title XCII, § 9219(1), Dec. 23, 2022, 136 Stat. 3878.)
+(Pub. L. 96–465, title I, § 101, Oct. 17, 1980, 94 Stat. 2074; Pub. L. 117–263, div. I, title XCII, § 9219(1), Dec. 23, 2022, 136 Stat. 3878.)
 
 **Editorial Notes**
 
@@ -182,9 +182,9 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Amendments**
 
@@ -194,13 +194,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Effective Date**
 
-Pub. L. 96–465, title II, § 2403, Oct. 17, 1980, 94 Stat. 2169, as amended by Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, provided that:
+Pub. L. 96–465, title II, § 2403, Oct. 17, 1980, 94 Stat. 2169, as amended by Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, provided that:
 
 > **“(a)** Except as otherwise provided, this Act [see Short Title note set out below] shall take effect on February 15, 1981.
 
 > **“(b)** Personnel actions may be taken on and after the effective date of this Act on the basis of any then current Foreign Service evaluation cycle as if this Act [see Short Title note set out below] had been in effect at the beginning of that cycle.
 
-> **“[(c)** Repealed. Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, eff. Oct. 1, 1985]
+> **“[(c)** Repealed. Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, eff. Oct. 1, 1985]
 
 > **“(d)**
 
@@ -216,25 +216,25 @@ Pub. L. 96–465, title II, § 2403, Oct. 17, 1980, 94 Stat. 2169, as amended 
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–50, § 1, July 30, 2007, 121 Stat. 261, provided that: “This Act [amending section 4064 of this title] may be cited as the ‘Passport Backlog Reduction Act of 2007’.”
+Pub. L. 110–50, § 1, July 30, 2007, 121 Stat. 261, provided that: “This Act [amending section 4064 of this title] may be cited as the ‘Passport Backlog Reduction Act of 2007’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–382, § 1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Act [amending sections 4044 to 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 4044 of this title] may be cited as the ‘Department of State Special Agents Retirement Act of 1998’.”
+Pub. L. 105–382, § 1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Act [amending sections 4044 to 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 4044 of this title] may be cited as the ‘Department of State Special Agents Retirement Act of 1998’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–335, title IV, § 401(a), June 6, 1986, 100 Stat. 609, provided that: “This title [enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
+Pub. L. 99–335, title IV, § 401(a), June 6, 1986, 100 Stat. 609, provided that: “This title [enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 96–465, § 1, Oct. 17, 1980, 94 Stat. 2071, provided that: “This Act [enacting this chapter, sections 2697 to 2704 of this title, and sections 3597, 5927, and 5928 of Title 5, Government Organization and Employees, amending sections 285a, 287, 287e, 287n, 290a, 290g–l, 1928, 2021, 2024, 2056, 2385, 2389, 2391, 2454, 2504, 2506, 2512 to 2514, 2582, 2588, 2605, 2684, 3503 and 4223 of this title, sections 3323, 5102, 5301, 5303, 5304, 5313, 5522, 5523, 5541, 5595, 5596, 5724, 5727, 5924, 5925, 6301, 6304, 6305, 7103, 8332, and 8501 of Title 5, and Reorg. Plan No. 2 of 1939 set out in the Appendix to Title 5, sections 1765a and 1766c of Title 7, Agriculture, section 2002 of Title 10, Armed Forces, section 906 of Title 20, Education, sections 104, 170, 912, and 2055 of Title 26, Internal Revenue Code, section 822a of former Title 31, Money and Finance, section 405a of Title 37, Pay and Allowances of the Uniformed Services, former section 235 of Title 38, Veterans’ Benefits, and section 5055 of Title 42, The Public Health and Welfare, repealing subchapters I to X of chapter 14 (§ 801 et seq.) of this title and sections 1221 to 1234, 2679a, 2680a, and 2693 of this title, enacting provisions set out as notes under this section and section 2651 of this title, and repealing provisions set out as notes under sections 801, 808, 811a, 886, 889, 912, 913, 936, 1002, 1076, 1079d, 1229, and 2384 of this title] may be cited as the ‘Foreign Service Act of 1980’.”
+Pub. L. 96–465, § 1, Oct. 17, 1980, 94 Stat. 2071, provided that: “This Act [enacting this chapter, sections 2697 to 2704 of this title, and sections 3597, 5927, and 5928 of Title 5, Government Organization and Employees, amending sections 285a, 287, 287e, 287n, 290a, 290g–l, 1928, 2021, 2024, 2056, 2385, 2389, 2391, 2454, 2504, 2506, 2512 to 2514, 2582, 2588, 2605, 2684, 3503 and 4223 of this title, sections 3323, 5102, 5301, 5303, 5304, 5313, 5522, 5523, 5541, 5595, 5596, 5724, 5727, 5924, 5925, 6301, 6304, 6305, 7103, 8332, and 8501 of Title 5, and Reorg. Plan No. 2 of 1939 set out in the Appendix to Title 5, sections 1765a and 1766c of Title 7, Agriculture, section 2002 of Title 10, Armed Forces, section 906 of Title 20, Education, sections 104, 170, 912, and 2055 of Title 26, Internal Revenue Code, section 822a of former Title 31, Money and Finance, section 405a of Title 37, Pay and Allowances of the Uniformed Services, former section 235 of Title 38, Veterans’ Benefits, and section 5055 of Title 42, The Public Health and Welfare, repealing subchapters I to X of chapter 14 (§ 801 et seq.) of this title and sections 1221 to 1234, 2679a, 2680a, and 2693 of this title, enacting provisions set out as notes under this section and section 2651 of this title, and repealing provisions set out as notes under sections 801, 808, 811a, 886, 889, 912, 913, 936, 1002, 1076, 1079d, 1229, and 2384 of this title] may be cited as the ‘Foreign Service Act of 1980’.”
 
 **Executive Documents**
 
 **Executive Order No. 11636**
 
-Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, § 10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
+Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, § 10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
 
 **Ex. Ord. No. 12292. Conformance of Existing Executive Orders to Changes Resulting From the Foreign Service Act of 1980**
 
@@ -350,7 +350,7 @@ Ronald Reagan.
 
 **Ex. Ord. No. 12293. Administration of Foreign Service**
 
-Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, § 10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
+Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, § 10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
@@ -430,15 +430,15 @@ Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 39
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 3902. Definitions
+### § 3902. Definitions
 
 As used in this chapter, the term—
 
 **(1)** “abroad” means all areas not included within the United States;
 
-**(2)** “agency” means an agency as defined in section 552(e) 1
+**(2)** “agency” means an agency as defined in section 552(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5;
 
@@ -462,7 +462,7 @@ of title 5;
 
 **(12)** “United States”, when used in a geographic sense, means the several States and the District of Columbia.
 
-(Pub. L. 96–465, title I, § 102, Oct. 17, 1980, 94 Stat. 2075; Pub. L. 98–164, title I, § 130(a), Nov. 22, 1983, 97 Stat. 1027.)
+(Pub. L. 96–465, title I, § 102, Oct. 17, 1980, 94 Stat. 2075; Pub. L. 98–164, title I, § 130(a), Nov. 22, 1983, 97 Stat. 1027.)
 
 **Editorial Notes**
 
@@ -474,7 +474,7 @@ Section 552(e) of title 5, referred to in par. (2), was redesignated section 552
 
 1983—Pub. L. 98–164 struck out “(a)” before “As used in this chapter”, and struck out subsec. (b) which provided that references to Foreign Service officers in any provision be deemed to refer to, with respect to the United States Information Agency, Foreign Service Information officers.
 
-### § 3903. Members of Service
+### § 3903. Members of Service
 
 The following are the members of the Service:
 
@@ -492,9 +492,9 @@ The following are the members of the Service:
 
 **(7)** Consular agents, appointed under section 3943 of this title by the Secretary of State, who provide consular and related services as authorized by the Secretary of State at specified locations abroad where no Foreign Service posts are situated.
 
-(Pub. L. 96–465, title I, § 103, Oct. 17, 1980, 94 Stat. 2076.)
+(Pub. L. 96–465, title I, § 103, Oct. 17, 1980, 94 Stat. 2076.)
 
-### § 3904. Functions of Service
+### § 3904. Functions of Service
 
 Members of the Service shall, under the direction of the Secretary—
 
@@ -504,9 +504,9 @@ Members of the Service shall, under the direction of the Secretary—
 
 **(3)** perform functions on behalf of any agency or other Government establishment (including any establishment in the legislative or judicial branch) requiring their services.
 
-(Pub. L. 96–465, title I, § 104, Oct. 17, 1980, 94 Stat. 2076.)
+(Pub. L. 96–465, title I, § 104, Oct. 17, 1980, 94 Stat. 2076.)
 
-### § 3905. Personnel actions
+### § 3905. Personnel actions
 
 **(a) Merit principles; “personnel action” defined**
 
@@ -564,7 +564,7 @@ This section shall not be construed as authorizing the withholding of informatio
 
 **(5)** any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-(Pub. L. 96–465, title I, § 105, Oct. 17, 1980, 94 Stat. 2077; Pub. L. 100–204, title I, § 185(a), Dec. 22, 1987, 101 Stat. 1365; Pub. L. 101–246, title I, § 153(d), Feb. 16, 1990, 104 Stat. 43; Pub. L. 117–263, div. I, title XCII, § 9219(2), Dec. 23, 2022, 136 Stat. 3879.)
+(Pub. L. 96–465, title I, § 105, Oct. 17, 1980, 94 Stat. 2077; Pub. L. 100–204, title I, § 185(a), Dec. 22, 1987, 101 Stat. 1365; Pub. L. 101–246, title I, § 153(d), Feb. 16, 1990, 104 Stat. 43; Pub. L. 117–263, div. I, title XCII, § 9219(2), Dec. 23, 2022, 136 Stat. 3879.)
 
 **Editorial Notes**
 
@@ -582,25 +582,25 @@ Subsec. (d)(2) of this section, which required the Secretary to transmit at leas
 
 ## SUBCHAPTER II—MANAGEMENT OF SERVICE
 
-### § 3921. Administration by Secretary of State
+### § 3921. Administration by Secretary of State
 
 **(a)** Under the direction of the President, the Secretary of State shall administer and direct the Service and shall coordinate its activities with the needs of the Department of State and other agencies.
 
 **(b)** The Secretary of State alone among the heads of agencies utilizing the Foreign Service personnel system shall perform the functions expressly vested in the Secretary of State by this chapter.
 
-(Pub. L. 96–465, title I, § 201, Oct. 17, 1980, 94 Stat. 2078.)
+(Pub. L. 96–465, title I, § 201, Oct. 17, 1980, 94 Stat. 2078.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Curtailments, Removals From Post, and Waivers of Privileges and Immunities**
 
-Pub. L. 117–263, div. I, title XCII, § 9209, Dec. 23, 2022, 136 Stat. 3873, provided that:
+Pub. L. 117–263, div. I, title XCII, § 9209, Dec. 23, 2022, 136 Stat. 3873, provided that:
 
 > **“(a) Curtailments Report.—**
 
@@ -644,7 +644,7 @@ Pub. L. 117–263, div. I, title XCII, § 9209, Dec. 23, 2022, 136 Stat. 3873,
 
 **Management Assessments at Diplomatic and Consular Posts**
 
-Pub. L. 117–263, div. I, title XCII, § 9212, Dec. 23, 2022, 136 Stat. 3874, provided that:
+Pub. L. 117–263, div. I, title XCII, § 9212, Dec. 23, 2022, 136 Stat. 3874, provided that:
 
 > **“(a) In General.—** Beginning not later than 1 year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary [of State] shall annually conduct, at each diplomatic and consular post, a voluntary survey, which shall be offered to all staff assigned to that post who are citizens of the United States (excluding the Chief of Mission) to assess the management and leadership of that post by the Chief of Mission, the Deputy Chief of Mission, and the Charge d’Affaires.
 
@@ -680,9 +680,9 @@ Pub. L. 117–263, div. I, title XCII, § 9212, Dec. 23, 2022, 136 Stat. 3874,
 
 **Third Party Verification of Permanent Change of Station (PCS) Orders**
 
-Pub. L. 117–263, div. I, title XCII, § 9214, Dec. 23, 2022, 136 Stat. 3875, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary [of State] shall establish a mechanism for third parties to verify the employment of, and the validity of permanent change of station (PCS) orders received by, members of the Foreign Service, in a manner that protects the safety, security, and privacy of sensitive employee information.”
+Pub. L. 117–263, div. I, title XCII, § 9214, Dec. 23, 2022, 136 Stat. 3875, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary [of State] shall establish a mechanism for third parties to verify the employment of, and the validity of permanent change of station (PCS) orders received by, members of the Foreign Service, in a manner that protects the safety, security, and privacy of sensitive employee information.”
 
-### § 3922. Utilization of Foreign Service personnel system by other agencies
+### § 3922. Utilization of Foreign Service personnel system by other agencies
 
 **(a)**
 
@@ -714,7 +714,7 @@ Pub. L. 117–263, div. I, title XCII, § 9214, Dec. 23, 2022, 136 Stat. 3875,
 
 shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
 
-(Pub. L. 96–465, title I, § 202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(1), title XIV, § 1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 332], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
+(Pub. L. 96–465, title I, § 202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(1), title XIV, § 1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 332], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
 
 **Editorial Notes**
 
@@ -726,9 +726,9 @@ Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reo
 
 1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
 
-1998—Subsec. (a)(1). Pub. L. 105–277, § 1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+1998—Subsec. (a)(1). Pub. L. 105–277, § 1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, § 1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+Pub. L. 105–277, § 1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -762,7 +762,7 @@ Dwight D. Eisenhower.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 3922a. Representation of minorities and women in Foreign Service
+### § 3922a. Representation of minorities and women in Foreign Service
 
 **(a) Development of program**
 
@@ -772,7 +772,7 @@ The head of each agency utilizing the Foreign Service personnel system shall dev
 
 Each plan developed pursuant to this section shall, consistent with section 7201 of title 5, place particular emphasis on achieving significant increases in the numbers of minority group members and women who are in the mid-levels of the Foreign Service.
 
-(Pub. L. 99–93, title I, § 152, Aug. 16, 1985, 99 Stat. 428; Pub. L. 100–204, title I, § 185(c)(3), Dec. 22, 1987, 101 Stat. 1366.)
+(Pub. L. 99–93, title I, § 152, Aug. 16, 1985, 99 Stat. 428; Pub. L. 100–204, title I, § 185(c)(3), Dec. 22, 1987, 101 Stat. 1366.)
 
 **Editorial Notes**
 
@@ -788,11 +788,11 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 **Report Concerning Minorities and the Foreign Service**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2318, Oct. 21, 1998, 112 Stat. 2681–829, required the Secretary of State to submit, in calendar years 1998 and 1999, a report to Congress concerning minorities and the Foreign Service officer corps, with relevant information and specified data.
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2318, Oct. 21, 1998, 112 Stat. 2681–829, required the Secretary of State to submit, in calendar years 1998 and 1999, a report to Congress concerning minorities and the Foreign Service officer corps, with relevant information and specified data.
 
 **Mid-Level Women and Minority Placement Program**
 
-Pub. L. 103–236, title I, § 178, Apr. 30, 1994, 108 Stat. 414, provided that:
+Pub. L. 103–236, title I, § 178, Apr. 30, 1994, 108 Stat. 414, provided that:
 
 > **“(a) Purpose.—** It is the purpose of this section to promote the acquisition and retention of highly qualified, trained, and experienced women and minority personnel within the Foreign Service, to provide the maximum opportunity for the Foreign Service to meet staffing needs and to acquire the services of experienced and talented women and minority personnel, and to help alleviate the impact of downsizing, reduction-in-force, and budget restrictions occurring in the defense and national security-related agencies of the United States.
 
@@ -802,7 +802,7 @@ Pub. L. 103–236, title I, § 178, Apr. 30, 1994, 108 Stat. 414, provided tha
 
 **Women and Minorities in Foreign Service**
 
-Pub. L. 100–204, title I, § 183, Dec. 22, 1987, 101 Stat. 1364, provided that:
+Pub. L. 100–204, title I, § 183, Dec. 22, 1987, 101 Stat. 1364, provided that:
 
 > **“(a) Findings.—** The Congress finds that the Department of State and other Foreign Service agencies have not been successful in their efforts—
 
@@ -822,7 +822,7 @@ Pub. L. 100–204, title I, § 183, Dec. 22, 1987, 101 Stat. 1364, provided th
 
 > **“(2)** the specific actions taken to address the lack of Hispanic Americans, Asian Americans, and Native Americans in the Senior Executive Service and Senior Foreign Service of the Department of State.”
 
-### § 3922b. Public diplomacy training
+### § 3922b. Public diplomacy training
 
 **(a) Statement of policy** The following should be the policy of the United States:
 
@@ -846,7 +846,7 @@ Pub. L. 100–204, title I, § 183, Dec. 22, 1987, 101 Stat. 1364, provided th
 
 The Secretary of State shall seek to increase the number of Foreign Service officers proficient in languages spoken in countries with predominantly Muslim populations. Such increase should be accomplished through the recruitment of new officers and incentives for officers in service.
 
-(Pub. L. 108–458, title VII, § 7110, Dec. 17, 2004, 118 Stat. 3793.)
+(Pub. L. 108–458, title VII, § 7110, Dec. 17, 2004, 118 Stat. 3793.)
 
 **Editorial Notes**
 
@@ -856,7 +856,7 @@ Section is comprised of section 7110 of Pub. L. 108–458. Subsec. (c) of sectio
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-### § 3922c. Integration of foreign economic policy
+### § 3922c. Integration of foreign economic policy
 
 **(a) In general** The Secretary, in conjunction with the Under Secretary of Economic Growth, Energy, and the Environment, shall establish—
 
@@ -884,7 +884,7 @@ Within each regional bureau of the Department, the Secretary shall task an exist
 
 **(7)** Market analysis and global supply chain management.
 
-(Pub. L. 114–323, title IV, § 406, Dec. 16, 2016, 130 Stat. 1929.)
+(Pub. L. 114–323, title IV, § 406, Dec. 16, 2016, 130 Stat. 1929.)
 
 **Editorial Notes**
 
@@ -898,25 +898,25 @@ Section was enacted as part of the Department of State Authorities Act, Fiscal Y
 
 For definitions of “Secretary”, “Department”, and “Foreign Service” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.
 
-### § 3923. Compatibility among agencies utilizing Foreign Service personnel system
+### § 3923. Compatibility among agencies utilizing Foreign Service personnel system
 
 **(a)** The Service shall be administered to the extent practicable in a manner that will assure maximum compatibility among the agencies authorized by law to utilize the Foreign Service personnel system. To this end, the other heads of such agencies shall consult regularly with the Secretary of State.
 
 **(b)** Nothing in this subchapter shall be construed as diminishing the authority of the head of any agency authorized by law to utilize the Foreign Service personnel system.
 
-(Pub. L. 96–465, title I, § 203, Oct. 17, 1980, 94 Stat. 2079.)
+(Pub. L. 96–465, title I, § 203, Oct. 17, 1980, 94 Stat. 2079.)
 
-### § 3924. Uniform and consolidated administration of Service
+### § 3924. Uniform and consolidated administration of Service
 
 The Secretary shall on a continuing basis consider the need for uniformity of personnel policies and procedures and for consolidation (in accordance with section 2695 of this title) of personnel functions among agencies utilizing the Foreign Service personnel system. Where feasible, the Secretary of State shall encourage (in consultation with the other heads of such agencies) the development of uniform policies and procedures and consolidated personnel functions.
 
-(Pub. L. 96–465, title I, § 204, Oct. 17, 1980, 94 Stat. 2079.)
+(Pub. L. 96–465, title I, § 204, Oct. 17, 1980, 94 Stat. 2079.)
 
-### § 3925. Compatibility between Foreign Service and other Government personnel systems
+### § 3925. Compatibility between Foreign Service and other Government personnel systems
 
 The Service shall be administered to the extent practicable in conformity with general policies and regulations of the Government. The Secretary shall consult with the Director of the Office of Personnel Management, the Director of the Office of Management and Budget, and the heads of such other agencies as the President shall determine, in order to assure compatibility of the Foreign Service personnel system with other Government personnel systems to the extent practicable.
 
-(Pub. L. 96–465, title I, § 205, Oct. 17, 1980, 94 Stat. 2079.)
+(Pub. L. 96–465, title I, § 205, Oct. 17, 1980, 94 Stat. 2079.)
 
 **Executive Documents**
 
@@ -928,19 +928,19 @@ Functions of President under this section delegated to Secretary of State, see s
 
 For authority for the Secretary of State to consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Administrator of the United States Agency for International Development, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget to ensure compatibility between the Foreign Service personnel system and other government personnel systems, see section 2 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended, set out as note under section 3901 of this title.
 
-### § 3926. Regulations; delegation of functions
+### § 3926. Regulations; delegation of functions
 
 **(a)** The Secretary may prescribe such regulations as the Secretary deems appropriate to carry out functions under this chapter.
 
 **(b)** The Secretary may delegate functions under this chapter which are vested in the Secretary to any employee of the Department or any member of the Service.
 
-(Pub. L. 96–465, title I, § 206, Oct. 17, 1980, 94 Stat. 2079.)
+(Pub. L. 96–465, title I, § 206, Oct. 17, 1980, 94 Stat. 2079.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations Regarding Foreign Language Competence Within Foreign Service**
 
-Pub. L. 103–236, title I, § 191(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–415, § 1(u), Oct. 25, 1994, 108 Stat. 4302, provided that:
+Pub. L. 103–236, title I, § 191(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–415, § 1(u), Oct. 25, 1994, 108 Stat. 4302, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Apr. 30, 1994], the Secretary of State shall promulgate regulations—
 
@@ -958,7 +958,7 @@ Pub. L. 103–236, title I, § 191(a), Apr. 30, 1994, 108 Stat. 418, as amende
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-### § 3927. Chief of mission
+### § 3927. Chief of mission
 
 **(a) Duties** Under the direction of the President, the chief of mission to a foreign country—
 
@@ -978,7 +978,7 @@ Each chief of mission to a foreign country shall have as a principal duty the pr
 
 Each chief of mission to a foreign country shall have as a principal duty the promotion of United States economic and commercial interests in such country.
 
-(Pub. L. 96–465, title I, § 207, Oct. 17, 1980, 94 Stat. 2079; Pub. L. 97–241, title I, § 123, Aug. 24, 1982, 96 Stat. 281; Pub. L. 100–204, title I, § 136, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 107–228, div. A, title V, § 505(b), Sept. 30, 2002, 116 Stat. 1393; Pub. L. 116–94, div. J, title VII, § 704, Dec. 20, 2019, 133 Stat. 3070.)
+(Pub. L. 96–465, title I, § 207, Oct. 17, 1980, 94 Stat. 2079; Pub. L. 97–241, title I, § 123, Aug. 24, 1982, 96 Stat. 281; Pub. L. 100–204, title I, § 136, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 107–228, div. A, title V, § 505(b), Sept. 30, 2002, 116 Stat. 1393; Pub. L. 116–94, div. J, title VII, § 704, Dec. 20, 2019, 133 Stat. 3070.)
 
 **Editorial Notes**
 
@@ -988,13 +988,13 @@ Each chief of mission to a foreign country shall have as a principal duty the pr
 
 2002—Subsecs. (a)(1), (2), (b). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “except for”.
 
-1987—Subsec. (a). Pub. L. 100–204, § 136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
+1987—Subsec. (a). Pub. L. 100–204, § 136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
 
-Subsec. (b). Pub. L. 100–204, § 136(3), inserted “executive branch” after “Any”.
+Subsec. (b). Pub. L. 100–204, § 136(3), inserted “executive branch” after “Any”.
 
 1982—Subsec. (c). Pub. L. 97–241 added subsec. (c).
 
-### § 3927a. Review by chief of mission
+### § 3927a. Review by chief of mission
 
 **(a) Review of staff element under chief of mission authority; approval; process**
 
@@ -1004,7 +1004,7 @@ The Secretary of State shall require each chief of mission to review, not less t
 
 The Secretary of State, as part of the process established by the President referred to in subsection (a), shall take actions to carry out the recommendations made in each such review.
 
-(Pub. L. 108–447, div. B, title IV, § 409, Dec. 8, 2004, 118 Stat. 2904; Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.)
+(Pub. L. 108–447, div. B, title IV, § 409, Dec. 8, 2004, 118 Stat. 2904; Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
 **Editorial Notes**
 
@@ -1016,7 +1016,7 @@ Section was enacted as part of the Departments of Commerce, Justice, and State, 
 
 2011—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: “Not later than 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary’s recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State.”
 
-### § 3927b. Reporting requirement on chiefs of mission
+### § 3927b. Reporting requirement on chiefs of mission
 
 Not later than 30 days following the end of each calendar quarter, the Secretary shall submit to the appropriate congressional committees—
 
@@ -1024,7 +1024,7 @@ Not later than 30 days following the end of each calendar quarter, the Secretary
 
 **(2)** the number of days each such chief of mission or United States representative overseas with the rank of Ambassador was outside a country of assignment during the previous quarter for purposes other than official travel or temporary duty orders.
 
-(Pub. L. 118–31, div. F, title LXII, § 6209, Dec. 22, 2023, 137 Stat. 975.)
+(Pub. L. 118–31, div. F, title LXII, § 6209, Dec. 22, 2023, 137 Stat. 975.)
 
 **Editorial Notes**
 
@@ -1038,11 +1038,11 @@ Section was enacted as part of the Department of State Authorization Act of 2023
 
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 
-### § 3928. Director General of Foreign Service
+### § 3928. Director General of Foreign Service
 
 The President shall appoint, by and with the advice and consent of the Senate, a Director General of the Foreign Service, who shall be a current or former career member of the Foreign Service. The Director General should assist the Secretary of State in the management of the Service and perform such functions as the Secretary of State may prescribe.
 
-(Pub. L. 96–465, title I, § 208, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 103–236, title I, § 163, Apr. 30, 1994, 108 Stat. 411.)
+(Pub. L. 96–465, title I, § 208, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 103–236, title I, § 163, Apr. 30, 1994, 108 Stat. 411.)
 
 **Editorial Notes**
 
@@ -1050,7 +1050,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 1994—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “There shall be a Director General of the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, from among the career members of the Senior Foreign Service. The Director General shall assist the Secretary of State in the management of the Service and shall perform such functions as the Secretary of State may prescribe.”
 
-### § 3929. Inspector General
+### § 3929. Inspector General
 
 **(a) Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office**
 
@@ -1158,7 +1158,7 @@ The Secretary of State shall transmit a copy of such annual report within 30 day
 
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-(Pub. L. 96–465, title I, § 209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, § 413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–443; Pub. L. 114–323, title II, § 203, Dec. 16, 2016, 130 Stat. 1916; Pub. L. 117–286, § 4(b)(42), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 96–465, title I, § 209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, § 413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–443; Pub. L. 114–323, title II, § 203, Dec. 16, 2016, 130 Stat. 1916; Pub. L. 117–286, § 4(b)(42), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
@@ -1168,25 +1168,25 @@ Under the general supervision of the Secretary of State, the Inspector General m
 
 2016—Subsec. (c)(6). Pub. L. 114–323 added par. (6).
 
-1999—Subsec. (c)(5). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(a)], added par. (5).
+1999—Subsec. (c)(5). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(a)], added par. (5).
 
-Subsec. (d)(2)(F). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(b)], added subpar. (F).
+Subsec. (d)(2)(F). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(b)], added subpar. (F).
 
-1998—Subsec. (c)(4). Pub. L. 105–277, § 2208(a), added par. (4).
+1998—Subsec. (c)(4). Pub. L. 105–277, § 2208(a), added par. (4).
 
-Subsec. (e)(3). Pub. L. 105–277, § 2208(b), added par. (3).
+Subsec. (e)(3). Pub. L. 105–277, § 2208(b), added par. (3).
 
-1986—Subsec. (a)(1). Pub. L. 99–529 repealed § 413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
+1986—Subsec. (a)(1). Pub. L. 99–529 repealed § 413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “The amendments made by this section [amending this section] shall apply to cases opened on or after the date of the enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “The amendments made by this section [amending this section] shall apply to cases opened on or after the date of the enactment of this Act [Nov. 29, 1999].”
 
 **Construction of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, as amended by Pub. L. 117–286, § 4(b)(43), Dec. 27, 2022, 136 Stat. 4348, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, as amended by Pub. L. 117–286, § 4(b)(43), Dec. 27, 2022, 136 Stat. 4348, provided that:
 
 > “Nothing in the amendments made by this section [amending this section] may be construed to modify—
 
@@ -1208,7 +1208,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 **Periodic Inspector General Reviews of Chiefs of Mission**
 
-Pub. L. 118–159, div. G, title LXXII, § 7203, Dec. 23, 2024, 138 Stat. 2528, provided that:
+Pub. L. 118–159, div. G, title LXXII, § 7203, Dec. 23, 2024, 138 Stat. 2528, provided that:
 
 > **“(a) In General.—** Beginning on April 1, 2025, and for a 3-year period thereafter, the Inspector General of the Department of State shall conduct management reviews of chiefs of mission, charge d’affaires, and other principal officers assigned overseas during inspection visits, when those officers have been at post more than 180 days.
 
@@ -1218,13 +1218,13 @@ Pub. L. 118–159, div. G, title LXXII, § 7203, Dec. 23, 2024, 138 Stat. 2528
 
 **No Grievance or Right of Action**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “A failure to comply with the amendments made by this section [amending this section] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “A failure to comply with the amendments made by this section [amending this section] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
 
-### § 3929a. Abolishment of Inspector General of Department of State and Foreign Service
+### § 3929a. Abolishment of Inspector General of Department of State and Foreign Service
 
 Notwithstanding section 3929 of this title, the Inspector General of the Department of State and the Foreign Service is hereby abolished.
 
-(Pub. L. 99–93, title I, § 150(b), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 413(c), Aug. 27, 1986, 100 Stat. 868.)
+(Pub. L. 99–93, title I, § 150(b), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, § 413(c), Aug. 27, 1986, 100 Stat. 868.)
 
 **Editorial Notes**
 
@@ -1238,7 +1238,7 @@ Another subsec. (c) of section 413 of Pub. L. 99–399 is classified to section 
 
 1986—Pub. L. 99–399 substituted provision abolishing the Inspector General of the Department of State and the Foreign Service for provision limiting the authority of the Inspector General to such functions as necessary to carry out section 3929(g) of this title.
 
-### § 3929b. Cooperation with Office of the Inspector General
+### § 3929b. Cooperation with Office of the Inspector General
 
 **(a) Administrative discipline**
 
@@ -1260,7 +1260,7 @@ Not later than 30 days after December 27, 2021, the Secretary of State shall mak
 
 Additional information pertaining solely to the subject matter of a request described in paragraph (1) may be provided in a supplemental classified annex, if necessary, but all other information required by the reports required under such paragraph shall be provided in unclassified form.
 
-(Pub. L. 117–81, div. E, title LIII, § 5323, Dec. 27, 2021, 135 Stat. 2369.)
+(Pub. L. 117–81, div. E, title LIII, § 5323, Dec. 27, 2021, 135 Stat. 2369.)
 
 **Editorial Notes**
 
@@ -1274,19 +1274,19 @@ Section was enacted as part of the Department of State Authorization Act of 2021
 
 For definition of “appropriate congressional committees” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.
 
-### § 3930. Board of Foreign Service
+### § 3930. Board of Foreign Service
 
 The President shall establish a Board of the Foreign Service to advise the Secretary of State on matters relating to the Service, including furtherance of the objectives of maximum compatibility among agencies authorized by law to utilize the Foreign Service personnel system and compatibility between the Foreign Service personnel system and the other personnel systems of the Government. The Board of the Foreign Service shall be chaired by an individual appointed by the President and shall include one or more representatives of the Department of State, the Broadcasting Board of Governors, the Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of Labor, the Office of Personnel Management, the Office of Management and Budget, the Equal Employment Opportunity Commission, and such other agencies as the President may designate.
 
-(Pub. L. 96–465, title I, § 210, Oct. 17, 1980, 94 Stat. 2082; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99–93, title I, § 153, Aug. 16, 1985, 99 Stat. 428; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(2), title XIV, § 1422(b)(4)(B), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, § 210, Oct. 17, 1980, 94 Stat. 2082; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99–93, title I, § 153, Aug. 16, 1985, 99 Stat. 428; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(2), title XIV, § 1422(b)(4)(B), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–277, § 1422(b)(4)(B), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+1998—Pub. L. 105–277, § 1422(b)(4)(B), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, § 1335(k)(2), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+Pub. L. 105–277, § 1335(k)(2), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 1985—Pub. L. 99–93 substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
 
@@ -1314,7 +1314,7 @@ Ex. Ord. No. 11264, Dec. 31, 1965, 31 F.R. 67, as amended by Ex. Ord. No. 11434,
 
 Ex. Ord. No. 11434, Nov. 8, 1968, 33 F.R. 16485, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, which related to administration of foreign service personnel systems, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-### § 3931. Board of Examiners
+### § 3931. Board of Examiners
 
 **(a) Establishment; membership; chairman**
 
@@ -1336,7 +1336,7 @@ The Board of Examiners shall annually report its findings under this subsection 
 
 Any vacancy or vacancies on the Board shall not impair the right of the remaining members to exercise the full powers of the Board.
 
-(Pub. L. 96–465, title I, § 211, Oct. 17, 1980, 94 Stat. 2083.)
+(Pub. L. 96–465, title I, § 211, Oct. 17, 1980, 94 Stat. 2083.)
 
 **Executive Documents**
 
@@ -1346,7 +1346,7 @@ For establishment of the Board of Examiners for the Foreign Service and appointm
 
 ## SUBCHAPTER III—APPOINTMENTS
 
-### § 3941. General provisions
+### § 3941. General provisions
 
 **(a) Citizenship requirement**
 
@@ -1370,7 +1370,7 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 **(3)** An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis of holding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
 
-(Pub. L. 96–465, title I, § 301, Oct. 17, 1980, 94 Stat. 2083; Pub. L. 100–204, title I, § 179(a), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 117–81, div. E, title LIV, § 5406(b), Dec. 27, 2021, 135 Stat. 2374.)
+(Pub. L. 96–465, title I, § 301, Oct. 17, 1980, 94 Stat. 2083; Pub. L. 100–204, title I, § 179(a), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 117–81, div. E, title LIV, § 5406(b), Dec. 27, 2021, 135 Stat. 2374.)
 
 **Editorial Notes**
 
@@ -1384,13 +1384,13 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title I, § 179(b), Dec. 22, 1987, 101 Stat. 1363, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to tax years beginning after December 31, 1987.”
+Pub. L. 100–204, title I, § 179(b), Dec. 22, 1987, 101 Stat. 1363, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to tax years beginning after December 31, 1987.”
 
 **Study of Foreign Service Examination**
 
-Pub. L. 101–246, title I, § 153(g), Feb. 16, 1990, 104 Stat. 44, required the Secretary of State to enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination related to cultural, racial, ethnic, and sexual bias issues, and no later than 18 months after Feb. 16, 1990, submit a report to Congress containing the findings of the review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review.
+Pub. L. 101–246, title I, § 153(g), Feb. 16, 1990, 104 Stat. 44, required the Secretary of State to enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination related to cultural, racial, ethnic, and sexual bias issues, and no later than 18 months after Feb. 16, 1990, submit a report to Congress containing the findings of the review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review.
 
-### § 3942. Appointments by the President
+### § 3942. Appointments by the President
 
 **(a)**
 
@@ -1422,15 +1422,15 @@ Such report shall be transmitted not less than 30 days prior to conferral of the
 
 **(b)** If a member of the Service is appointed to any position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, the period of service in that position by the member shall be regarded as an assignment under subchapter V and the member shall not, by virtue of the acceptance of such assignment, lose his or her status as a member of the Service. A member of the Senior Foreign Service who accepts such an assignment may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.
 
-(Pub. L. 96–465, title I, § 302, Oct. 17, 1980, 94 Stat. 2084; Pub. L. 100–204, title I, § 177(b), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 102–138, title I, §§ 141, 142(a), Oct. 28, 1991, 105 Stat. 667.)
+(Pub. L. 96–465, title I, § 302, Oct. 17, 1980, 94 Stat. 2084; Pub. L. 100–204, title I, § 177(b), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 102–138, title I, §§ 141, 142(a), Oct. 28, 1991, 105 Stat. 667.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 102–138, § 141, inserted “as an ambassador,” after “ambassador at large,”.
+1991—Subsec. (a)(1). Pub. L. 102–138, § 141, inserted “as an ambassador,” after “ambassador at large,”.
 
-Subsec. (b). Pub. L. 102–138, § 142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
+Subsec. (b). Pub. L. 102–138, § 142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
 
 1987—Subsec. (b). Pub. L. 100–204 substituted “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter.” for “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63 of title 5 as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.”
 
@@ -1438,7 +1438,7 @@ Subsec. (b). Pub. L. 102–138, § 142(a), substituted “may elect to continu
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title I, § 177(c), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3961 of this title] shall not apply to the salary of any individual serving under a Presidential appointment under section 302 of the Foreign Service Act of 1980 [this section] immediately before the date of the enactment of this Act [Dec. 22, 1987] during the period such individual continues to serve in such position.”
+Pub. L. 100–204, title I, § 177(c), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 3961 of this title] shall not apply to the salary of any individual serving under a Presidential appointment under section 302 of the Foreign Service Act of 1980 [this section] immediately before the date of the enactment of this Act [Dec. 22, 1987] during the period such individual continues to serve in such position.”
 
 **Executive Documents**
 
@@ -1448,7 +1448,7 @@ Functions of President under subsec. (a)(1) delegated to Secretary of State, see
 
 **Executive Order No. 10062**
 
-Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by act Aug. 10, 1949, ch. 412, § 12(a), 63 Stat. 591; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6, 1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
+Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by act Aug. 10, 1949, ch. 412, § 12(a), 63 Stat. 591; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6, 1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
 
 **Ex. Ord. No. 10608. United States Authority and Functions in Germany**
 
@@ -1476,23 +1476,23 @@ Ex. Ord. No. 11970, Feb. 5, 1977, 42 F.R. 7919, establishing the Presidential Ad
 
 Term of the Presidential Advisory Board on Ambassadorial Appointments extended until Dec. 31, 1980, see Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-### § 3943. Appointments by the Secretary
+### § 3943. Appointments by the Secretary
 
 The Secretary may appoint the members of the Service (other than the members of the Service who are in the personnel categories specified in section 3942(a) of this title) in accordance with this chapter and such regulations as the Secretary may prescribe.
 
-(Pub. L. 96–465, title I, § 303, Oct. 17, 1980, 94 Stat. 2085.)
+(Pub. L. 96–465, title I, § 303, Oct. 17, 1980, 94 Stat. 2085.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Lateral Entry Into the Foreign Service**
 
-Pub. L. 114–323, title IV, § 404, Dec. 16, 2016, 130 Stat. 1928, as amended by Pub. L. 118–31, div. F, title LXII, § 6204(a), Dec. 22, 2023, 137 Stat. 972, provided that:
+Pub. L. 114–323, title IV, § 404, Dec. 16, 2016, 130 Stat. 1928, as amended by Pub. L. 118–31, div. F, title LXII, § 6204(a), Dec. 22, 2023, 137 Stat. 972, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the Foreign Service [of the United States] should permit mid-career entry into the Foreign Service for qualified individuals who are willing to bring their outstanding talents and experiences to the work of the Foreign Service.
 
@@ -1546,7 +1546,7 @@ Pub. L. 114–323, title IV, § 404, Dec. 16, 2016, 130 Stat. 1928, as amended
 
 **Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries**
 
-Pub. L. 100–204, title I, § 157, Dec. 22, 1987, 101 Stat. 1354, provided that:
+Pub. L. 100–204, title I, § 157, Dec. 22, 1987, 101 Stat. 1354, provided that:
 
 > **“(a) Prohibition.—** After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
 
@@ -1574,7 +1574,7 @@ Pub. L. 100–204, title I, § 157, Dec. 22, 1987, 101 Stat. 1354, provided th
 
 **Soviet Employees at United States Diplomatic and Consular Missions in the Soviet Union**
 
-Pub. L. 99–93, title I, § 136, Aug. 16, 1985, 99 Stat. 421, provided that:
+Pub. L. 99–93, title I, § 136, Aug. 16, 1985, 99 Stat. 421, provided that:
 
 > **“(a) Limitation.—** To the maximum extent practicable, citizens of the Soviet Union shall not be employed as foreign national employees at United States diplomatic or consular missions in the Soviet Union after September 30, 1986.
 
@@ -1594,7 +1594,7 @@ You are authorized and directed to report this determination to the Congress and
 
 George Bush.
 
-### § 3944. Chiefs of Mission
+### § 3944. Chiefs of Mission
 
 **(a) Qualifications; preference for career members; political contributions as factor in appointment; demonstrated competency report**
 
@@ -1614,7 +1614,7 @@ George Bush.
 
 **(3)** Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by section 30101(8) of title 52, and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
 
-(Pub. L. 96–465, title I, § 304, Oct. 17, 1980, 94 Stat. 2085; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 208(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 118–31, div. F, title LXII, § 6207, Dec. 22, 2023, 137 Stat. 974.)
+(Pub. L. 96–465, title I, § 304, Oct. 17, 1980, 94 Stat. 2085; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 208(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 118–31, div. F, title LXII, § 6207, Dec. 22, 2023, 137 Stat. 974.)
 
 **Editorial Notes**
 
@@ -1628,9 +1628,9 @@ George Bush.
 
 **Public Availability of Reports on Nominees To Be Chiefs of Mission**
 
-Pub. L. 114–323, title VII, § 712, Dec. 16, 2016, 130 Stat. 1945, provided that: “Not later than 7 days after submitting the report required under section 304(a)(4) of the Foreign Service Act of 1980 (22 U.S.C. 3944(a)(4)) to the Committee on Foreign Relations of the Senate, the President shall make the report available to the public, including by posting the report on the website of the Department [of State] in a conspicuous manner and location.”
+Pub. L. 114–323, title VII, § 712, Dec. 16, 2016, 130 Stat. 1945, provided that: “Not later than 7 days after submitting the report required under section 304(a)(4) of the Foreign Service Act of 1980 (22 U.S.C. 3944(a)(4)) to the Committee on Foreign Relations of the Senate, the President shall make the report available to the public, including by posting the report on the website of the Department [of State] in a conspicuous manner and location.”
 
-### § 3945. Senior Foreign Service
+### § 3945. Senior Foreign Service
 
 **(a) Salary class**
 
@@ -1656,15 +1656,15 @@ An individual may not be given a limited appointment in the Senior Foreign Servi
 
 The Secretary shall by regulation establish a recertification process for members of the Senior Foreign Service that is equivalent to the recertification process for the Senior Executive Service under section 3393a of title 5.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 96–465, title I, § 305, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 99–93, title I, § 119(a), Aug. 16, 1985, 99 Stat. 412; Pub. L. 101–194, title V, § 506(c)(1), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, § 6(d)(3), May 4, 1990, 104 Stat. 160.)
+(Pub. L. 96–465, title I, § 305, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 99–93, title I, § 119(a), Aug. 16, 1985, 99 Stat. 412; Pub. L. 101–194, title V, § 506(c)(1), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, § 6(d)(3), May 4, 1990, 104 Stat. 160.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 107–296, title XIII, § 1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
+Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 107–296, title XIII, § 1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
 
 **Amendments**
 
@@ -1682,7 +1682,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–93, title I, § 119(c), Aug. 16, 1985, 99 Stat. 412, provided that: “The amendments made by subsections (a) and (b) [amending this section and provisions set out as a note under section 3901 of this title] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title I, § 119(c), Aug. 16, 1985, 99 Stat. 412, provided that: “The amendments made by subsections (a) and (b) [amending this section and provisions set out as a note under section 3901 of this title] shall take effect on October 1, 1985.”
 
 **Effective Date**
 
@@ -1690,9 +1690,9 @@ Section effective Feb. 15, 1981, with an exception that appointments to the Seni
 
 **Placement of Senior Foreign Service Personnel**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 324], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, required the Director General of the Foreign Service to submit a report on the first day of each fiscal quarter to the appropriate congressional committees containing the number of members of the Senior Foreign Service, the number of vacant positions designated for such members, and the number of those members not assigned to positions, prior to repeal by Pub. L. 107–228, div. A, title VI, § 671(4), Sept. 30, 2002, 116 Stat. 1407.
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 324], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, required the Director General of the Foreign Service to submit a report on the first day of each fiscal quarter to the appropriate congressional committees containing the number of members of the Senior Foreign Service, the number of vacant positions designated for such members, and the number of those members not assigned to positions, prior to repeal by Pub. L. 107–228, div. A, title VI, § 671(4), Sept. 30, 2002, 116 Stat. 1407.
 
-### § 3946. Career appointments
+### § 3946. Career appointments
 
 **(a) Trial period under limited appointment** Before receiving a career appointment in the Service, an individual shall first serve under a limited appointment as a career candidate for a trial period of service prescribed by the Secretary. During such trial period of service, the Secretary shall decide whether—
 
@@ -1708,7 +1708,7 @@ Decisions by the Secretary under subsection (a) shall be based upon the recommen
 
 Nothing in this section shall be construed to limit the authority of the Secretary or the Foreign Service Grievance Board under section 4137 of this title.
 
-(Pub. L. 96–465, title I, § 306, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 100–204, title I, § 181(c), Dec. 22, 1987, 101 Stat. 1363.)
+(Pub. L. 96–465, title I, § 306, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 100–204, title I, § 181(c), Dec. 22, 1987, 101 Stat. 1363.)
 
 **Editorial Notes**
 
@@ -1720,9 +1720,9 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–204, title I, § 181(e), Dec. 22, 1987, 101 Stat. 1364, provided that: “The amendments made by this section [amending this section and sections 4010 and 4137 of this title] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 (22 U.S.C. 4137) before the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–204, title I, § 181(e), Dec. 22, 1987, 101 Stat. 1364, provided that: “The amendments made by this section [amending this section and sections 4010 and 4137 of this title] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 (22 U.S.C. 4137) before the date of enactment of this Act [Dec. 22, 1987].”
 
-### § 3947. Entry levels for Foreign Service officer candidates
+### § 3947. Entry levels for Foreign Service officer candidates
 
 A career candidate for appointment as a Foreign Service officer may not be initially assigned under section 3964 of this title to a salary class higher than class 4 in the Foreign Service Schedule unless—
 
@@ -1730,9 +1730,9 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 
 **(2)** at the time such initial assignment is made, the candidate is serving under a career appointment in the Service and is receiving a salary at a rate equal to or higher than the minimum rate payable for class 4 in the Foreign Service Schedule.
 
-(Pub. L. 96–465, title I, § 307, Oct. 17, 1980, 94 Stat. 2086.)
+(Pub. L. 96–465, title I, § 307, Oct. 17, 1980, 94 Stat. 2086.)
 
-### § 3948. Recall and reappointment of career members
+### § 3948. Recall and reappointment of career members
 
 **(a) Retired career members**
 
@@ -1742,13 +1742,13 @@ Whenever the Secretary determines that the needs of the Service so require, the 
 
 Former career members of the Service may be reappointed under section 3942(a)(1) or 3943 of this title, without regard to section 3946 of this title, in a salary class which is appropriate in light of the qualifications and experience of the individual being reappointed.
 
-(Pub. L. 96–465, title I, § 308, Oct. 17, 1980, 94 Stat. 2086.)
+(Pub. L. 96–465, title I, § 308, Oct. 17, 1980, 94 Stat. 2086.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **State Department Overseas Program**
 
-Pub. L. 119–75, div. F, title VII, § 7065(a)–(c), Feb. 3, 2026, 140 Stat. 621, provided that:
+Pub. L. 119–75, div. F, title VII, § 7065(a)–(c), Feb. 3, 2026, 140 Stat. 621, provided that:
 
 > **“(a) Authority.—** Up to $170,000,000 of the funds made available in title III of this Act [title III of div. F of Pub. L. 119–75, 140 Stat. 523] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] may be used to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 (22 U.S.C. 3948 and 3949).
 
@@ -1758,43 +1758,43 @@ Pub. L. 119–75, div. F, title VII, § 7065(a)–(c), Feb. 3, 2026, 140 Stat.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. F, title VII, § 7065(a)–(d), Mar. 23, 2024, 138 Stat. 846.
+Pub. L. 118–47, div. F, title VII, § 7065(a)–(d), Mar. 23, 2024, 138 Stat. 846.
 
-Pub. L. 117–328, div. K, title VII, § 7065(a)–(d), Dec. 29, 2022, 136 Stat. 5086.
+Pub. L. 117–328, div. K, title VII, § 7065(a)–(d), Dec. 29, 2022, 136 Stat. 5086.
 
-Pub. L. 117–103, div. K, title VII, § 7065(a)–(d), Mar. 15, 2022, 136 Stat. 678.
+Pub. L. 117–103, div. K, title VII, § 7065(a)–(d), Mar. 15, 2022, 136 Stat. 678.
 
-Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809.
+Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809.
 
-Pub. L. 116–94, div. G, title VII, § 7064(a)–(d), Dec. 20, 2019, 133 Stat. 2928, 2929, as amended by Pub. L. 116–136, div. B, title XI, § 21004, Mar. 27, 2020, 134 Stat. 591.
+Pub. L. 116–94, div. G, title VII, § 7064(a)–(d), Dec. 20, 2019, 133 Stat. 2928, 2929, as amended by Pub. L. 116–136, div. B, title XI, § 21004, Mar. 27, 2020, 134 Stat. 591.
 
-Pub. L. 116–6, div. F, title VII, § 7057(a)–(e), Feb. 15, 2019, 133 Stat. 371.
+Pub. L. 116–6, div. F, title VII, § 7057(a)–(e), Feb. 15, 2019, 133 Stat. 371.
 
-Pub. L. 115–141, div. K, title VII, § 7057(a)–(e), Mar. 23, 2018, 132 Stat. 941.
+Pub. L. 115–141, div. K, title VII, § 7057(a)–(e), Mar. 23, 2018, 132 Stat. 941.
 
-Pub. L. 115–31, div. J, title VII, § 7057(a)–(e), May 5, 2017, 131 Stat. 695.
+Pub. L. 115–31, div. J, title VII, § 7057(a)–(e), May 5, 2017, 131 Stat. 695.
 
-Pub. L. 114–113, div. K, title VII, § 7057(a)–(e), Dec. 18, 2015, 129 Stat. 2803, 2804.
+Pub. L. 114–113, div. K, title VII, § 7057(a)–(e), Dec. 18, 2015, 129 Stat. 2803, 2804.
 
-Pub. L. 113–235, div. J, title VII, § 7057(a)–(e), Dec. 16, 2014, 128 Stat. 2664, 2665.
+Pub. L. 113–235, div. J, title VII, § 7057(a)–(e), Dec. 16, 2014, 128 Stat. 2664, 2665.
 
-Pub. L. 113–76, div. K, title VII, § 7057(a)–(e), Jan. 17, 2014, 128 Stat. 549.
+Pub. L. 113–76, div. K, title VII, § 7057(a)–(e), Jan. 17, 2014, 128 Stat. 549.
 
-Pub. L. 112–74, div. I, title VII, § 7057(a)–(e), Dec. 23, 2011, 125 Stat. 1244.
+Pub. L. 112–74, div. I, title VII, § 7057(a)–(e), Dec. 23, 2011, 125 Stat. 1244.
 
-Pub. L. 111–117, div. F, title VII, § 7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381.
+Pub. L. 111–117, div. F, title VII, § 7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381.
 
-Pub. L. 111–8, div. H, title VII, § 7059(a)–(g), Mar. 11, 2009, 123 Stat. 896.
+Pub. L. 111–8, div. H, title VII, § 7059(a)–(g), Mar. 11, 2009, 123 Stat. 896.
 
-Pub. L. 110–161, div. J, title VI, § 676, Dec. 26, 2007, 121 Stat. 2357.
+Pub. L. 110–161, div. J, title VI, § 676, Dec. 26, 2007, 121 Stat. 2357.
 
-Pub. L. 109–102, title V, § 577, Nov. 14, 2005, 119 Stat. 2231.
+Pub. L. 109–102, title V, § 577, Nov. 14, 2005, 119 Stat. 2231.
 
-Pub. L. 108–447, div. D, title V, § 588, Dec. 8, 2004, 118 Stat. 3034.
+Pub. L. 108–447, div. D, title V, § 588, Dec. 8, 2004, 118 Stat. 3034.
 
-Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provided that: “Funds appropriated by this and subsequent appropriations Acts to carry out the provisions of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be made available to employ individuals overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [22 U.S.C. 3948, 3949]: *Provided*, That in fiscal years 2004, 2005, and 2006 the authority of this section may be used to hire not more than 85 individuals in each such year.”
+Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provided that: “Funds appropriated by this and subsequent appropriations Acts to carry out the provisions of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.], including funds appropriated under the heading ‘Assistance for Eastern Europe and the Baltic States’, may be made available to employ individuals overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [22 U.S.C. 3948, 3949]: *Provided*, That in fiscal years 2004, 2005, and 2006 the authority of this section may be used to hire not more than 85 individuals in each such year.”
 
-### § 3949. Limited appointments
+### § 3949. Limited appointments
 
 **(a)** A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsections (b) and (c), may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
 
@@ -1826,37 +1826,37 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, prov
 
 **(2)** The Secretary may waive the 1-year break requirement under paragraph (1) in cases of special need.
 
-(Pub. L. 96–465, title I, § 309, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 100–204, title I, § 176, Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, § 180(a)(1), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, § 1(hh), Oct. 25, 1994, 108 Stat. 4303; Pub. L. 114–323, title IV, § 409, Dec. 16, 2016, 130 Stat. 1930.)
+(Pub. L. 96–465, title I, § 309, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 100–204, title I, § 176, Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, § 180(a)(1), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, § 1(hh), Oct. 25, 1994, 108 Stat. 4303; Pub. L. 114–323, title IV, § 409, Dec. 16, 2016, 130 Stat. 1930.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–323, § 409(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+2016—Subsec. (a). Pub. L. 114–323, § 409(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (b)(3). Pub. L. 114–323, § 409(2)(A), substituted “if—” for “if”, inserted subpar. (A) designation before “continued service” and “or” after semicolon at end, and added subpar. (B).
+Subsec. (b)(3). Pub. L. 114–323, § 409(2)(A), substituted “if—” for “if”, inserted subpar. (A) designation before “continued service” and “or” after semicolon at end, and added subpar. (B).
 
-Subsec. (b)(6). Pub. L. 114–323, § 409(2)(B)–(D), added par. (6).
+Subsec. (b)(6). Pub. L. 114–323, § 409(2)(B)–(D), added par. (6).
 
-Subsec. (c). Pub. L. 114–323, § 409(3), added subsec. (c).
+Subsec. (c). Pub. L. 114–323, § 409(3), added subsec. (c).
 
 1994—Subsec. (b)(5). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (5).
 
 1987—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b)” for “section 3951(a) of this title”, and added subsec. (b).
 
-### § 3950. Reemployment rights following limited appointment
+### § 3950. Reemployment rights following limited appointment
 
 Any employee of an agency who accepts a limited appointment in the Service with the consent of the head of the agency in which the employee is employed shall be entitled, upon the termination of such limited appointment, to be reemployed in accordance with section 3597 of title 5.
 
-(Pub. L. 96–465, title I, § 310, Oct. 17, 1980, 94 Stat. 2087.)
+(Pub. L. 96–465, title I, § 310, Oct. 17, 1980, 94 Stat. 2087.)
 
 **Executive Documents**
 
 **Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months**
 
-Persons appointed, employed, or assigned after May 19, 1959, under former section 1787(c) of this title or section 2385(d) of this title for the purpose of performing functions under the Mutual Security Act of 1954 (see Short Title note set out under section 1754 of this title) and the Foreign Assistance Act of 1961 (section 2151 et seq. of this title) outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided for by this section in cases in which their service under the appointment, employment, or assignment exceeds thirty months. See Ex. Ord. No. 12163, § 1–602(b), Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under section 2381 of this title.
+Persons appointed, employed, or assigned after May 19, 1959, under former section 1787(c) of this title or section 2385(d) of this title for the purpose of performing functions under the Mutual Security Act of 1954 (see Short Title note set out under section 1754 of this title) and the Foreign Assistance Act of 1961 (section 2151 et seq. of this title) outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided for by this section in cases in which their service under the appointment, employment, or assignment exceeds thirty months. See Ex. Ord. No. 12163, § 1–602(b), Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under section 2381 of this title.
 
-### § 3951. United States citizens hired abroad
+### § 3951. United States citizens hired abroad
 
 **(a) Appointment of family members**
 
@@ -1876,9 +1876,9 @@ The fact that an applicant for employment in a position referred to in subsectio
 
 **(d) Non-family member employees ineligible for certain benefits**
 
-Nonfamily member United States citizens employed under this section shall not be eligible by reason of such employment for benefits under subchapter VIII of this chapter, or under chapters 1
+Nonfamily member United States citizens employed under this section shall not be eligible by reason of such employment for benefits under subchapter VIII of this chapter, or under chapters 1
 
-<sup>1</sup>  So in original. Probably should be “chapter”.
+<sup>1</sup> So in original. Probably should be “chapter”.
 
 83 or 84 of title 5.
 
@@ -1886,7 +1886,7 @@ Nonfamily member United States citizens employed under this section shall not be
 
 The Secretary shall hold a family member of a government employee described in subsection (a) seeking employment in a position described in that subsection to the same employment standards as those applicable to Foreign Service officers, Foreign Service personnel, or foreign national employees seeking the same or a substantially similar position.
 
-(Pub. L. 96–465, title I, § 311, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 103–236, title I, § 180(a)(2), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, § 1(h)(1), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 117–81, div. F, title LXII, § 6205, Dec. 27, 2021, 135 Stat. 2391.)
+(Pub. L. 96–465, title I, § 311, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 103–236, title I, § 180(a)(2), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, § 1(h)(1), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 117–81, div. F, title LXII, § 6205, Dec. 27, 2021, 135 Stat. 2391.)
 
 **Editorial Notes**
 
@@ -1902,7 +1902,7 @@ Pub. L. 103–236 amended section generally. Prior to amendment, section read as
 
 “(b) Employment of family members in accordance with this section may not be used to avoid fulfilling the need for full-time career positions.”
 
-### § 3952. Diplomatic and consular missions
+### § 3952. Diplomatic and consular missions
 
 **(a) Recommendations by Secretary of State; appointment by President; vice consul; performance of official functions under commission**
 
@@ -1916,17 +1916,17 @@ Members of the Service commissioned under this section may, in accordance with t
 
 The Secretary of State shall define the limits of consular districts.
 
-(Pub. L. 96–465, title I, § 312, Oct. 17, 1980, 94 Stat. 2087.)
+(Pub. L. 96–465, title I, § 312, Oct. 17, 1980, 94 Stat. 2087.)
 
 ## SUBCHAPTER IV—COMPENSATION
 
-### § 3961. Salaries of chiefs of mission
+### § 3961. Salaries of chiefs of mission
 
 **(a)** Except as provided in section 3942(b) of this title, each chief of mission shall receive a salary, as determined by the President, at one of the annual rates payable for levels II through V of the Executive Schedule under sections 5313 through 5316 of title 5, except that the total compensation, exclusive of danger pay, for any chief of mission shall be subject to the limitation on certain payments under section 5307 of title 5 or the limitation under section 3962(a)(3) of this title, whichever is higher.
 
 **(b)** The salary of a chief of mission shall commence upon the effective date of appointment to that position. The official services of a chief of mission are not terminated by the appointment of a successor, but shall continue for such additional period, not to exceed 50 days after relinquishment of charge of the mission, as the Secretary of State may determine. During that period, the Secretary of State may require the chief of mission to perform such functions as the Secretary of State deems necessary in the interest of the Government.
 
-(Pub. L. 96–465, title I, § 401, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 100–204, title I, § 177(a), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 102–138, title I, § 142(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 108–447, div. B, title IV, § 412(c), Dec. 8, 2004, 118 Stat. 2905.)
+(Pub. L. 96–465, title I, § 401, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 100–204, title I, § 177(a), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 102–138, title I, § 142(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 108–447, div. B, title IV, § 412(c), Dec. 8, 2004, 118 Stat. 2905.)
 
 **Editorial Notes**
 
@@ -1936,7 +1936,7 @@ The Secretary of State shall define the limits of consular districts.
 
 1991—Subsec. (a). Pub. L. 102–138 substituted “Except as provided in section 3942(b) of this title, each” for “Each” and “level I of such” for “level II of such”.
 
-1987—Subsec. (a). Pub. L. 100–204 substituted “Each chief” for “Except as provided in section 3942(b) of this title, each chief”, and inserted before period at end “, except that the total compensation, exclusive of danger pay, for any chief of mission shall not exceed the annual rate payable for level II of such Executive Schedule”.
+1987—Subsec. (a). Pub. L. 100–204 substituted “Each chief” for “Except as provided in section 3942(b) of this title, each chief”, and inserted before period at end “, except that the total compensation, exclusive of danger pay, for any chief of mission shall not exceed the annual rate payable for level II of such Executive Schedule”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1944,7 +1944,7 @@ The Secretary of State shall define the limits of consular districts.
 
 Amendment by Pub. L. 100–204 not applicable to salary of any individual serving under Presidential appointment under section 3942 of this title immediately before Dec. 22, 1987, during the period such individual continues to serve in such position, see section 177(c) of Pub. L. 100–204, set out as a note under section 3942 of this title.
 
-### § 3962. Salaries of Senior Foreign Service members
+### § 3962. Salaries of Senior Foreign Service members
 
 **(a) Prescription by President; basic salary rates; adjustments; determinations by Secretary**
 
@@ -1964,7 +1964,7 @@ Amendment by Pub. L. 100–204 not applicable to salary of any individual servin
 
 **(2)** The salary paid to an individual under this subsection shall be adjusted by 50 percent of each adjustment, which takes effect after the appointment of such individual to the Senior Foreign Service, in the basic rate of pay at which that individual was paid under section 5382 of title 5 immediately prior to such appointment.
 
-(Pub. L. 96–465, title I, § 402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, § 124, Aug. 24, 1982, 96 Stat. 281; Pub. L. 108–447, div. B, title IV, § 412(a), Dec. 8, 2004, 118 Stat. 2905.)
+(Pub. L. 96–465, title I, § 402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, § 124, Aug. 24, 1982, 96 Stat. 281; Pub. L. 108–447, div. B, title IV, § 412(a), Dec. 8, 2004, 118 Stat. 2905.)
 
 **Editorial Notes**
 
@@ -1974,9 +1974,9 @@ Level II of the Executive Schedule, referred to in subsec. (a)(3)(A), is set out
 
 **Amendments**
 
-2004—Subsec. (a)(1). Pub. L. 108–447, § 412(a)(1), substituted “The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5.” for “The President shall also prescribe one or more basic salary rates for each class. Basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5, and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service.”
+2004—Subsec. (a)(1). Pub. L. 108–447, § 412(a)(1), substituted “The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5.” for “The President shall also prescribe one or more basic salary rates for each class. Basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5, and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service.”
 
-Subsec. (a)(2), (3). Pub. L. 108–447, § 412(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary shall determine which of the basic salary rates prescribed by the President under paragraph (1) for any salary class shall be paid to each member of the Senior Foreign Service who is appointed to that class. The Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period.”
+Subsec. (a)(2), (3). Pub. L. 108–447, § 412(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary shall determine which of the basic salary rates prescribed by the President under paragraph (1) for any salary class shall be paid to each member of the Senior Foreign Service who is appointed to that class. The Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period.”
 
 1982—Subsec. (a). Pub. L. 97–241 designated existing provisions as par. (1), inserted provision authorizing the President to prescribe one or more basic salary rates for each class, and added par. (2).
 
@@ -1992,11 +1992,11 @@ Section effective Feb. 15, 1981, except that subsec. (a), for purposes of implem
 
 For establishment of salary classes with titles for the Senior Foreign Service, at basic rates of pay equivalent to that established from time to time for the Senior Executive Service under section 5382 of Title 5, Government Organization and Employees, see section 4 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
-### § 3963. Foreign Service Schedule
+### § 3963. Foreign Service Schedule
 
 The President shall establish a Foreign Service Schedule which shall consist of 9 salary classes and which shall apply to members of the Service who are citizens of the United States and for whom salary rates are not otherwise provided for by this subchapter. The maximum salary rate for the highest class established under this section, which shall be designated class 1, may not exceed the maximum rate of basic pay prescribed for GS–15 of the General Schedule under section 5332 of title 5. Salary rates established under this section shall be adjusted in accordance with section 5303 of title 5.
 
-(Pub. L. 96–465, title I, § 403, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1439.)
+(Pub. L. 96–465, title I, § 403, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(1)], Nov. 5, 1990, 104 Stat. 1427, 1439.)
 
 **Editorial Notes**
 
@@ -2008,7 +2008,7 @@ The President shall establish a Foreign Service Schedule which shall consist of 
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title I, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title I, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date**
 
@@ -2024,7 +2024,7 @@ Ex. Ord. No. 12249, Oct. 25, 1980, 45 F.R. 71347, which provided for a Foreign S
 
 For adjustment of Foreign Service Schedule pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-### § 3964. Assignments to salary class
+### § 3964. Assignments to salary class
 
 **(a)** The Secretary shall assign all Foreign Service officers and Foreign Service personnel (other than Foreign Service personnel who are paid in accordance with section 3967 of this title or section 3968 of this title) to appropriate salary classes in the Foreign Service Schedule.
 
@@ -2034,7 +2034,7 @@ For adjustment of Foreign Service Schedule pay rates under this section, see the
 
 **(2)** Except as authorized by subchapter I of chapter 35 of title 5, changes in the salary class of a member of the Senior Foreign Service or a member of the Service assigned to a salary class in the Foreign Service Schedule shall be made only in accordance with subchapter VI. The Secretary shall prescribe regulations (which shall be consistent with the relevant provisions of subchapter VI of chapter 53 of title 5 and with the regulations prescribed to carry out such provisions) providing for retention of pay by members of the Service in cases in which reduction-in-force procedures are applied.
 
-(Pub. L. 96–465, title I, § 404, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 103–236, title I, § 180(a)(3), Apr. 30, 1994, 108 Stat. 415.)
+(Pub. L. 96–465, title I, § 404, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 103–236, title I, § 180(a)(3), Apr. 30, 1994, 108 Stat. 415.)
 
 **Editorial Notes**
 
@@ -2042,7 +2042,7 @@ For adjustment of Foreign Service Schedule pay rates under this section, see the
 
 1994—Subsec. (a). Pub. L. 103–236 struck out “who are family members of Government employees paid in accordance with a local compensation plan established under” after “section 3967 of this title or”.
 
-### § 3965. Performance pay
+### § 3965. Performance pay
 
 **(a) Eligibility; additional lump sum payment; excessive compensation not precluding award** Subject to subsection (e), members of the Senior Foreign Service who are serving—
 
@@ -2076,23 +2076,23 @@ The President may grant awards of performance pay under subsection (b)(3) on the
 
 Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
-(Pub. L. 96–465, title I, § 405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, § 175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, § 173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, § 504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 323], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, § 312(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 108–447, div. B, title IV, § 412(b), Dec. 8, 2004, 118 Stat. 2905.)
+(Pub. L. 96–465, title I, § 405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, § 175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, § 173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, § 504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 323], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, § 312(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 108–447, div. B, title IV, § 412(b), Dec. 8, 2004, 118 Stat. 2905.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (b)(4). Pub. L. 108–447 inserted “, or the limitation under section 3962(a)(3) of this title, whichever is higher” before period at end.
+2004—Subsec. (b)(4). Pub. L. 108–447 inserted “, or the limitation under section 3962(a)(3) of this title, whichever is higher” before period at end.
 
 2002—Subsec. (b)(3). Pub. L. 107–228 inserted second sentence and struck out former second sentence which read as follows: “Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.”
 
 1999—Subsec. (b)(1). Pub. L. 106–113 substituted “33” for “50”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 2311(a)(1), substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–277, § 2311(a)(1), substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
 
 Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 
-Subsec. (e). Pub. L. 105–277, § 2311(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 105–277, § 2311(a)(2), added subsec. (e).
 
 1994—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
 
@@ -2102,11 +2102,11 @@ Subsec. (e). Pub. L. 105–277, § 2311(a)(2), added subsec. (e).
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–228, div. A, title III, § 312(b), Sept. 30, 2002, 116 Stat. 1378, provided that: “The amendment made by subsection (a) [amending this section] shall take effect October 1, 2002.”
+Pub. L. 107–228, div. A, title III, § 312(b), Sept. 30, 2002, 116 Stat. 1378, provided that: “The amendment made by subsection (a) [amending this section] shall take effect October 1, 2002.”
 
 **Senior Foreign Service Performance Pay**
 
-Pub. L. 103–236, title I, § 173(a)–(c), Apr. 30, 1994, 108 Stat. 412, as amended by Pub. L. 103–415, § 1(gg), Oct. 25, 1994, 108 Stat. 4303, provided that:
+Pub. L. 103–236, title I, § 173(a)–(c), Apr. 30, 1994, 108 Stat. 412, as amended by Pub. L. 103–415, § 1(gg), Oct. 25, 1994, 108 Stat. 4303, provided that:
 
 > **“(a) Prohibition on Awards.—** Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
 
@@ -2118,7 +2118,7 @@ Pub. L. 103–236, title I, § 173(a)–(c), Apr. 30, 1994, 108 Stat. 412, as 
 
 **Review of Performance Pay Programs**
 
-Pub. L. 100–204, title I, § 175(a), Dec. 22, 1987, 101 Stat. 1361, provided that:
+Pub. L. 100–204, title I, § 175(a), Dec. 22, 1987, 101 Stat. 1361, provided that:
 
 > **“(1) Suspension of awards during review.—** During the period beginning on the date of enactment of this Act [Dec. 22, 1987], and ending on the date on which the Inspector General of the Department of State reports to the Congress pursuant to paragraph (2), performance pay may not be awarded under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965) to any member of the Senior Foreign Service in the Department of State.
 
@@ -2132,7 +2132,7 @@ Pub. L. 100–204, title I, § 175(a), Dec. 22, 1987, 101 Stat. 1361, provided
 
 > **“(3) Report by secretary of state.—** No later than 60 days after the report of the Inspector General is submitted to the Secretary of State under paragraph (2), the Secretary shall submit to the Congress a report containing the comments of the Secretary on the report of the Inspector General and describing the actions taken and proposed to be taken by the Secretary as a result of the report.”
 
-### § 3966. Within-class salary increases
+### § 3966. Within-class salary increases
 
 **(a) Time period; limitation** Any member of the Service receiving a salary under the Foreign Service Schedule shall be advanced to the next higher salary step in the member’s class at the beginning of the first applicable pay period following the completion by that member of a period of—
 
@@ -2146,17 +2146,17 @@ unless the performance of the member during that period is found in a review by 
 
 The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
 
-(Pub. L. 96–465, title I, § 406, Oct. 17, 1980, 94 Stat. 2089.)
+(Pub. L. 96–465, title I, § 406, Oct. 17, 1980, 94 Stat. 2089.)
 
-### § 3967. Salaries for Foreign Service personnel abroad who perform routine duties
+### § 3967. Salaries for Foreign Service personnel abroad who perform routine duties
 
 **(a)** The Secretary may establish salary rates at rates lower than those established for the Foreign Service Schedule for the Foreign Service personnel described in subsection (b). The rates established under this subsection may be no less than the then applicable minimum wage rate specified in section 206(a)(1) of title 29.
 
 **(b)** The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a).
 
-(Pub. L. 96–465, title I, § 407, Oct. 17, 1980, 94 Stat. 2090.)
+(Pub. L. 96–465, title I, § 407, Oct. 17, 1980, 94 Stat. 2090.)
 
-### § 3968. Local compensation plans
+### § 3968. Local compensation plans
 
 **(a) Establishment; rates of pay; leaves of absence; supplemental payments; transfer from Civil Service Retirement and Disability Fund**
 
@@ -2184,15 +2184,15 @@ For the purpose of performing functions abroad, any agency or other Government e
 
 The Secretary of State may prescribe regulations governing the establishment and administration of local compensation plans under this section by all agencies and other Government establishments.
 
-(Pub. L. 96–465, title I, § 408, Oct. 17, 1980, 94 Stat. 2090; Pub. L. 98–164, title I, § 127(a), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 101–246, title I, § 141(a), Feb. 16, 1990, 104 Stat. 35; Pub. L. 102–138, title I, §§ 148, 152, Oct. 28, 1991, 105 Stat. 670, 672; Pub. L. 103–236, title I, § 180(a)(4), Apr. 30, 1994, 108 Stat. 415; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 322], Nov. 29, 1999, 113 Stat. 1536, 1501A–436; Pub. L. 107–228, div. A, title III, § 313, Sept. 30, 2002, 116 Stat. 1378.)
+(Pub. L. 96–465, title I, § 408, Oct. 17, 1980, 94 Stat. 2090; Pub. L. 98–164, title I, § 127(a), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 101–246, title I, § 141(a), Feb. 16, 1990, 104 Stat. 35; Pub. L. 102–138, title I, §§ 148, 152, Oct. 28, 1991, 105 Stat. 670, 672; Pub. L. 103–236, title I, § 180(a)(4), Apr. 30, 1994, 108 Stat. 415; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 322], Nov. 29, 1999, 113 Stat. 1536, 1501A–436; Pub. L. 107–228, div. A, title III, § 313, Sept. 30, 2002, 116 Stat. 1378.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
@@ -2200,17 +2200,17 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1999—Subsec. (a)(1). Pub. L. 106–113, in last sentence, struck out “(A) provide such citizens with a total compensation package (including wages, allowances, benefits, and other employer payments, such as for social security) that has the equivalent cost to that received by foreign national employees occupying a similar position at that post and (B)” after “Secretary shall” and substituted “the total compensation package” for “this total compensation package”.
 
-1994—Subsec. (a)(1). Pub. L. 103–236, § 180(a)(4)(D), inserted at end “For United States citizens under a compensation plan, the Secretary shall (A) provide such citizens with a total compensation package (including wages, allowances, benefits, and other employer payments, such as for social security) that has the equivalent cost to that received by foreign national employees occupying a similar position at that post and (B) define those allowances and benefits provided under United States law which shall be included as part of this total compensation package, notwithstanding any other provision of law, except that this section shall not be used to override United States minimum wage requirements, or any provision of the Social Security Act or title 26.”
+1994—Subsec. (a)(1). Pub. L. 103–236, § 180(a)(4)(D), inserted at end “For United States citizens under a compensation plan, the Secretary shall (A) provide such citizens with a total compensation package (including wages, allowances, benefits, and other employer payments, such as for social security) that has the equivalent cost to that received by foreign national employees occupying a similar position at that post and (B) define those allowances and benefits provided under United States law which shall be included as part of this total compensation package, notwithstanding any other provision of law, except that this section shall not be used to override United States minimum wage requirements, or any provision of the Social Security Act or title 26.”
 
-Pub. L. 103–236, § 180(a)(4)(B), (C), in second sentence struck out “employed in the Service abroad who were hired while residing abroad and to those family members of Government employees who are paid in accordance with such plans” after “United States citizens” and in third sentence struck out “foreign national” before “employees” wherever appearing.
+Pub. L. 103–236, § 180(a)(4)(B), (C), in second sentence struck out “employed in the Service abroad who were hired while residing abroad and to those family members of Government employees who are paid in accordance with such plans” after “United States citizens” and in third sentence struck out “foreign national” before “employees” wherever appearing.
 
-Pub. L. 103–236, § 180(a)(4)(A), inserted first sentence and struck out former first sentence which read as follows: “The Secretary shall establish compensation (including position classification) plans for foreign national employees of the Service, United States citizens employed in the Service abroad who were hired while residing abroad, and for United States citizens employed in the Service abroad who are family members of Government employees.”
+Pub. L. 103–236, § 180(a)(4)(A), inserted first sentence and struck out former first sentence which read as follows: “The Secretary shall establish compensation (including position classification) plans for foreign national employees of the Service, United States citizens employed in the Service abroad who were hired while residing abroad, and for United States citizens employed in the Service abroad who are family members of Government employees.”
 
-1991—Subsec. (a)(1). Pub. L. 102–138, § 152(a), inserted “United States citizens employed in the Service abroad who were hired while residing abroad,” after “employees of the Service,” and “to United States citizens employed in the Service abroad who were hired while residing abroad and” after “payment of wages”.
+1991—Subsec. (a)(1). Pub. L. 102–138, § 152(a), inserted “United States citizens employed in the Service abroad who were hired while residing abroad,” after “employees of the Service,” and “to United States citizens employed in the Service abroad who were hired while residing abroad and” after “payment of wages”.
 
-Pub. L. 102–138, § 148, added cl. (B) and redesignated former cl. (B) as (C).
+Pub. L. 102–138, § 148, added cl. (B) and redesignated former cl. (B) as (C).
 
-Subsec. (b). Pub. L. 102–138, § 152(b), inserted “, are United States citizens employed in the Service abroad who were hired while residing abroad,” after “foreign nationals”.
+Subsec. (b). Pub. L. 102–138, § 152(b), inserted “, are United States citizens employed in the Service abroad who were hired while residing abroad,” after “foreign nationals”.
 
 1990—Subsec. (a)(3). Pub. L. 101–246 added par. (3).
 
@@ -2220,11 +2220,11 @@ Subsec. (b). Pub. L. 102–138, § 152(b), inserted “, are United States c
 
 **Date of Transfer From Civil Service Retirement and Disability Fund**
 
-Pub. L. 101–246, title I, § 141(c), Feb. 16, 1990, 104 Stat. 35, provided that: “The transfer of an employee’s interest in the Civil Service Retirement and Disability Fund shall occur after October 1, 1990.”
+Pub. L. 101–246, title I, § 141(c), Feb. 16, 1990, 104 Stat. 35, provided that: “The transfer of an employee’s interest in the Civil Service Retirement and Disability Fund shall occur after October 1, 1990.”
 
 **Foreign National Pay Plans**
 
-Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided that:
+Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided that:
 
 > “It is the sense of the Congress that the Secretary of State should—
 
@@ -2244,7 +2244,7 @@ Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided tha
 
 > **“(3)** substitute, whenever possible, prevailing local retirement plans for civil service retirement with respect to the retirement of foreign nationals employed by the United States.”
 
-### § 3968a. Locally-employed staff wages
+### § 3968a. Locally-employed staff wages
 
 **(a) Market-responsive staff wages** Not later than 180 days after December 16, 2016, and every 3 years thereafter, the Secretary shall establish and implement a prevailing wage rates goal for positions in the local compensation plan, as described in section 3968 of this title, at each diplomatic post that—
 
@@ -2262,7 +2262,7 @@ The prevailing wage rate goal established under subsection (a) shall not apply i
 
 **(2)** shall be made available to the appropriate congressional committees upon request.
 
-(Pub. L. 114–323, title IV, § 401, Dec. 16, 2016, 130 Stat. 1926; Pub. L. 118–31, div. F, title LXII, § 6226(a), Dec. 22, 2023, 137 Stat. 980.)
+(Pub. L. 114–323, title IV, § 401, Dec. 16, 2016, 130 Stat. 1926; Pub. L. 118–31, div. F, title LXII, § 6226(a), Dec. 22, 2023, 137 Stat. 980.)
 
 **Editorial Notes**
 
@@ -2280,13 +2280,13 @@ Section was enacted as part of the Department of State Authorities Act, Fiscal Y
 
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.
 
-### § 3969. Salaries of consular agents
+### § 3969. Salaries of consular agents
 
 The Secretary of State shall establish the salary rate for each consular agent. Such salary rate shall be established after taking into account the workload of the consular agency and the prevailing wage rates in the locality where the agency is located, except that, in the case of a consular agent who is a citizen of the United States, the salary rate may not be less than the then applicable minimum wage rate specified in section 206(a)(1) of title 29.
 
-(Pub. L. 96–465, title I, § 409, Oct. 17, 1980, 94 Stat. 2091.)
+(Pub. L. 96–465, title I, § 409, Oct. 17, 1980, 94 Stat. 2091.)
 
-### § 3970. Compensation for imprisoned foreign national employees
+### § 3970. Compensation for imprisoned foreign national employees
 
 **(a) Eligibility; rates of compensation; terms and conditions of payment; applicability of powers under other statutory provisions**
 
@@ -2308,7 +2308,7 @@ The head of any agency or other Government establishment (including any in the l
 
 The Secretary of State may prescribe regulations governing payments under this section by all agencies and other Government establishments.
 
-(Pub. L. 96–465, title I, § 410, Oct. 17, 1980, 94 Stat. 2091.)
+(Pub. L. 96–465, title I, § 410, Oct. 17, 1980, 94 Stat. 2091.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2316,13 +2316,13 @@ The Secretary of State may prescribe regulations governing payments under this s
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-### § 3971. Temporary service as principal officer
+### § 3971. Temporary service as principal officer
 
 For such time (in excess of such minimum period as the Secretary of State may establish) as any member of the Service is temporarily in charge of a Foreign Service post during the absence or incapacity of the principal officer, that member shall receive, in addition to the basic salary paid to the member and notwithstanding sections 5535 and 5536 of title 5, an amount equal to that portion (which the Secretary of State may determine to be appropriate) of the difference between such salary and the basic salary provided for the principal officer, or, if there is no principal officer, for the former principal officer.
 
-(Pub. L. 96–465, title I, § 411, Oct. 17, 1980, 94 Stat. 2091.)
+(Pub. L. 96–465, title I, § 411, Oct. 17, 1980, 94 Stat. 2091.)
 
-### § 3972. Special differentials
+### § 3972. Special differentials
 
 **(a) Additional work requirements**
 
@@ -2336,7 +2336,7 @@ The Inspector General of the United States Agency for International Development 
 
 Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the granting of compensatory time off for Foreign Service officers.
 
-(Pub. L. 96–465, title I, § 412, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 103–236, title I, § 139(6), Apr. 30, 1994, 108 Stat. 398; Pub. L. 114–323, title II, § 206, Dec. 16, 2016, 130 Stat. 1917.)
+(Pub. L. 96–465, title I, § 412, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 103–236, title I, § 139(6), Apr. 30, 1994, 108 Stat. 398; Pub. L. 114–323, title II, § 206, Dec. 16, 2016, 130 Stat. 1917.)
 
 **Editorial Notes**
 
@@ -2346,7 +2346,7 @@ Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall precl
 
 1994—Subsec. (b). Pub. L. 103–236 struck out subsec. (b) which read as follows: “Before implementing any proposal to limit either the number of Foreign Service officers who may receive a special differential under subsection (a) of this section or the amounts of such special differentials, the Secretary shall submit such proposal to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 
-### § 3973. Death gratuities
+### § 3973. Death gratuities
 
 **(a) Criteria; amount; payment deemed gift**
 
@@ -2370,17 +2370,17 @@ A death gratuity payment shall be made under this section only if the survivor e
 
 **(2)** each of the terms “widow”, “widower”, “child”, and “parent” shall have the same meaning given each such term by section 8101 of title 5.
 
-(Pub. L. 96–465, title I, § 413, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 113–76, div. K, title VII, § 7082(a), Jan. 17, 2014, 128 Stat. 565.)
+(Pub. L. 96–465, title I, § 413, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 113–76, div. K, title VII, § 7082(a), Jan. 17, 2014, 128 Stat. 565.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–76, § 7082(a)(1), substituted “at level II of the Executive Schedule under section 5313 of title 5, United States Code, at the time of death, except that for employees compensated under local compensation plans established under section 3968 of this title the amount shall be equal to the greater of either one year’s salary at the time of death, or one year’s basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death” for “at the time of death”.
+2014—Subsec. (a). Pub. L. 113–76, § 7082(a)(1), substituted “at level II of the Executive Schedule under section 5313 of title 5, United States Code, at the time of death, except that for employees compensated under local compensation plans established under section 3968 of this title the amount shall be equal to the greater of either one year’s salary at the time of death, or one year’s basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death” for “at the time of death”.
 
-Subsec. (b). Pub. L. 113–76, § 7082(a)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (d). Former subsec. (d) redesignated (e).
+Subsec. (b). Pub. L. 113–76, § 7082(a)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (c). Pub. L. 113–76, § 7082(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “A death gratuity payment under this section shall be made as follows:
+Subsec. (c). Pub. L. 113–76, § 7082(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “A death gratuity payment under this section shall be made as follows:
 
 “(1) First, to the widow or widower.
 
@@ -2390,15 +2390,15 @@ Subsec. (c). Pub. L. 113–76, § 7082(a)(4), amended subsec. (c) generally. P
 
 “If there is no survivor entitled to payment under this subsection, no payment shall be made.”
 
-Subsecs. (d), (e). Pub. L. 113–76, § 7082(a)(2), redesignated subsecs. (b) and (d) as (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 113–76, § 7082(a)(2), redesignated subsecs. (b) and (d) as (d) and (e), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. K, title VII, § 7082(c), Jan. 17, 2014, 128 Stat. 567, provided that: “Notwithstanding any other provision of law, sections 413, 415, and 416 of the Foreign Service Act of 1980 [22 U.S.C. 3973, 3975, 3976], as amended or added by this section, shall apply in the case of a Foreign Service employee or executive branch employee subject to the authority of the chief of mission pursuant to section 207 of the Foreign Service Act (22 U.S.C. 3927), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries sustained in an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 [probably means “1988 and 1989”] (22 U.S.C. 2656f(d)).”
+Pub. L. 113–76, div. K, title VII, § 7082(c), Jan. 17, 2014, 128 Stat. 567, provided that: “Notwithstanding any other provision of law, sections 413, 415, and 416 of the Foreign Service Act of 1980 [22 U.S.C. 3973, 3975, 3976], as amended or added by this section, shall apply in the case of a Foreign Service employee or executive branch employee subject to the authority of the chief of mission pursuant to section 207 of the Foreign Service Act (22 U.S.C. 3927), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries sustained in an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 [probably means “1988 and 1989”] (22 U.S.C. 2656f(d)).”
 
-### § 3974. Border equalization pay adjustment
+### § 3974. Border equalization pay adjustment
 
 **(a) In general**
 
@@ -2418,9 +2418,9 @@ An equalization pay adjustment paid under this section shall be considered to be
 
 The heads of the agencies referred to in subsection (b)(2) may prescribe regulations to carry out this section.
 
-(Pub. L. 96–465, title I, § 414, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 333(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
+(Pub. L. 96–465, title I, § 414, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 333(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
 
-### § 3975. Group life insurance supplement applicable to those killed in terrorist attacks
+### § 3975. Group life insurance supplement applicable to those killed in terrorist attacks
 
 **(a) Foreign Service employees**
 
@@ -2436,7 +2436,7 @@ A payment made under paragraph (1) shall be made in accordance with the guidance
 
 The head of an executive agency shall provide the additional payment authorized by this section, consistent with the provisions set forth in subsection (a), with respect to any employee of that agency or of an individual in a special category serving in an uncompensated capacity for that agency who dies as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in section 2656f(d) of this title, while subject to the authority of the chief of mission pursuant to section 3927 of this title.
 
-(Pub. L. 96–465, title I, § 415, as added Pub. L. 113–76, div. K, title VII, § 7082(b)(1), Jan. 17, 2014, 128 Stat. 565; amended Pub. L. 114–113, div. K, title VII, § 7034(d)(5)(A), Dec. 18, 2015, 129 Stat. 2763; Pub. L. 115–31, div. J, title VII, § 7034(k)(8), May 5, 2017, 131 Stat. 651.)
+(Pub. L. 96–465, title I, § 415, as added Pub. L. 113–76, div. K, title VII, § 7082(b)(1), Jan. 17, 2014, 128 Stat. 565; amended Pub. L. 114–113, div. K, title VII, § 7034(d)(5)(A), Dec. 18, 2015, 129 Stat. 2763; Pub. L. 115–31, div. J, title VII, § 7034(k)(8), May 5, 2017, 131 Stat. 651.)
 
 **Editorial Notes**
 
@@ -2458,9 +2458,9 @@ Section applicable in the case of a Foreign Service or executive branch employee
 
 **Applicability**
 
-Pub. L. 114–113, div. K, title VII, § 7034(d)(5)(B), Dec. 18, 2015, 129 Stat. 2763, provided that: “The insurance benefit under section 415 of the Foreign Service Act of 1980 (22 U.S.C. 3975), as amended by subparagraph (A), shall be applicable to eligible employees who die as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 (22 U.S.C. 2656f(d)), anytime on or after April 18, 1983.”
+Pub. L. 114–113, div. K, title VII, § 7034(d)(5)(B), Dec. 18, 2015, 129 Stat. 2763, provided that: “The insurance benefit under section 415 of the Foreign Service Act of 1980 (22 U.S.C. 3975), as amended by subparagraph (A), shall be applicable to eligible employees who die as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 (22 U.S.C. 2656f(d)), anytime on or after April 18, 1983.”
 
-### § 3976. Survivors’ and dependents’ educational assistance
+### § 3976. Survivors’ and dependents’ educational assistance
 
 **(a) Foreign Service employees**
 
@@ -2478,7 +2478,7 @@ Educational assistance under this section may be made available up to the amount
 
 For purposes of this section, the terms “program of education” and “educational institution” have the meanings given the terms in section 3501 of title 38.
 
-(Pub. L. 96–465, title I, § 416, as added Pub. L. 113–76, div. K, title VII, § 7082(b)(1), Jan. 17, 2014, 128 Stat. 566.)
+(Pub. L. 96–465, title I, § 416, as added Pub. L. 113–76, div. K, title VII, § 7082(b)(1), Jan. 17, 2014, 128 Stat. 566.)
 
 **Editorial Notes**
 
@@ -2494,11 +2494,11 @@ Section applicable in the case of a Foreign Service or executive branch employee
 
 ## SUBCHAPTER V—CLASSIFICATION OF POSITIONS AND ASSIGNMENTS
 
-### § 3981. Authority of Secretary
+### § 3981. Authority of Secretary
 
 The Secretary shall designate and classify positions in the Department and at Foreign Service posts which are to be occupied by members of the Service (other than by chiefs of mission and ambassadors at large). Positions designated under this section are excepted from the competitive service. If a position designated under this section is unfilled for more than 365 calendar days, such position may be filled, as appropriate, on a temporary basis, in accordance with section 3949 of this title. Position classifications under this section shall be established, without regard to chapter 51 of title 5, in relation to the salaries established under subchapter IV. In classifying positions at Foreign Service posts abroad, the Secretary shall give appropriate weight to job factors relating to service abroad and to the compensation practices applicable to United States citizens employed abroad by United States corporations.
 
-(Pub. L. 96–465, title I, § 501, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 117–81, div. E, title LI, § 5109(1), Dec. 27, 2021, 135 Stat. 2349.)
+(Pub. L. 96–465, title I, § 501, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 117–81, div. E, title LI, § 5109(1), Dec. 27, 2021, 135 Stat. 2349.)
 
 **Editorial Notes**
 
@@ -2506,7 +2506,7 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 2021—Pub. L. 117–81 inserted after second sentence “If a position designated under this section is unfilled for more than 365 calendar days, such position may be filled, as appropriate, on a temporary basis, in accordance with section 3949 of this title.”
 
-### § 3982. Assignments to Foreign Service positions
+### § 3982. Assignments to Foreign Service positions
 
 **(a) Positions assignable; basis for assignment**
 
@@ -2522,9 +2522,9 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 **(c) Charge d’affaires**
 
-The President may assign a career member of the Service to serve as charge d’affaires or otherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) 1
+The President may assign a career member of the Service to serve as charge d’affaires or otherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
 
@@ -2532,7 +2532,7 @@ of this title by the Secretary of State as diplomatic in nature) for such period
 
 The Secretary of State, in conjunction with the heads of the other agencies utilizing the Foreign Service personnel system, shall implement policies and procedures to insure that Foreign Service officers and members of the Senior Foreign Service of all agencies are able to compete for chief of mission positions and have opportunities on an equal basis to compete for assignments outside their areas of specialization.
 
-(Pub. L. 96–465, title I, § 502, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 98–164, title I, § 130(b), Nov. 22, 1983, 97 Stat. 1027; Pub. L. 114–323, title IV, § 414(d), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LI, § 5109(2), Dec. 27, 2021, 135 Stat. 2349.)
+(Pub. L. 96–465, title I, § 502, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 98–164, title I, § 130(b), Nov. 22, 1983, 97 Stat. 1027; Pub. L. 114–323, title IV, § 414(d), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LI, § 5109(2), Dec. 27, 2021, 135 Stat. 2349.)
 
 **Editorial Notes**
 
@@ -2542,7 +2542,7 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 **Amendments**
 
-2021—Subsec. (a)(2). Pub. L. 117–81 inserted “, or domestically, in a position working on issues relating to a particular country or geographic area,” after “particular geographic area”.
+2021—Subsec. (a)(2). Pub. L. 117–81 inserted “, or domestically, in a position working on issues relating to a particular country or geographic area,” after “particular geographic area”.
 
 2016—Subsec. (a)(2). Pub. L. 114–323 inserted “or prohibited from being assigned to” after “assigned to” and struck out “exclusively” before “on the basis”.
 
@@ -2552,7 +2552,7 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 **Assignment Process Modernization**
 
-Pub. L. 118–159, div. G, title LXXI, § 7107, Dec. 23, 2024, 138 Stat. 2524, provided that:
+Pub. L. 118–159, div. G, title LXXI, § 7107, Dec. 23, 2024, 138 Stat. 2524, provided that:
 
 > **“(a) In General.—** Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2024], the Secretary [of State] shall modernize the Foreign Service bidding process, and should consider incorporating the following elements:
 
@@ -2582,7 +2582,7 @@ Pub. L. 118–159, div. G, title LXXI, § 7107, Dec. 23, 2024, 138 Stat. 2524,
 
 **Supporting Tandem Spouses in the Foreign Service**
 
-Pub. L. 118–31, div. F, title LXII, § 6227, Dec. 22, 2023, 137 Stat. 980, provided that:
+Pub. L. 118–31, div. F, title LXII, § 6227, Dec. 22, 2023, 137 Stat. 980, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that—
 
@@ -2620,7 +2620,7 @@ Pub. L. 118–31, div. F, title LXII, § 6227, Dec. 22, 2023, 137 Stat. 980, p
 
 **Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel**
 
-Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, § 139(10), Apr. 30, 1994, 108 Stat. 398.
+Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, § 139(10), Apr. 30, 1994, 108 Stat. 398.
 
 **Executive Documents**
 
@@ -2628,7 +2628,7 @@ Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed S
 
 Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
-### § 3983. Assignments to non-Service and other positions
+### § 3983. Assignments to non-Service and other positions
 
 **(a) Positions assignable** The Secretary may (with the concurrence of the agency, organization, or other body concerned) assign a member of the Service for duty—
 
@@ -2668,17 +2668,17 @@ Except as otherwise provided in subsection (d)(5), assignments under this sectio
 
 **(5)** The period of an assignment or detail under this subsection shall not exceed a total of 6 years, except that the Secretary (or any other head of a department or agency of the United States, with the concurrence of the Secretary) may extend the period of an assignment or detail for an additional period of not more than 6 years.
 
-(Pub. L. 96–465, title I, § 503, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 107–228, div. A, title III, § 326, Sept. 30, 2002, 116 Stat. 1386.)
+(Pub. L. 96–465, title I, § 503, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 107–228, div. A, title III, § 326, Sept. 30, 2002, 116 Stat. 1386.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (c). Pub. L. 107–228, § 326(2), substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
+2002—Subsec. (c). Pub. L. 107–228, § 326(2), substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
 
-Subsec. (d). Pub. L. 107–228, § 326(1), added subsec. (d).
+Subsec. (d). Pub. L. 107–228, § 326(1), added subsec. (d).
 
-### § 3984. Service in United States and abroad
+### § 3984. Service in United States and abroad
 
 **(a) Obligation to serve abroad; length of stay in United States**
 
@@ -2692,7 +2692,7 @@ Consistent with the needs of the Service, the Secretary shall seek to assign eac
 
 The Secretary may grant a sabbatical to a career member of the Senior Foreign Service for not to exceed eleven months in order to permit the member to engage in study or uncompensated work experience which will contribute to the development and effectiveness of the member. A sabbatical may be granted under this subsection under conditions specified by the Secretary in light of the provisions of section 3396(c) of title 5, which apply to sabbaticals granted to members of the Senior Executive Service.
 
-(Pub. L. 96–465, title I, § 504, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 103–236, title I, § 180(a)(5), Apr. 30, 1994, 108 Stat. 416.)
+(Pub. L. 96–465, title I, § 504, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 103–236, title I, § 180(a)(5), Apr. 30, 1994, 108 Stat. 416.)
 
 **Editorial Notes**
 
@@ -2700,15 +2700,15 @@ The Secretary may grant a sabbatical to a career member of the Senior Foreign Se
 
 1994—Subsec. (b). Pub. L. 103–236 inserted “(other than those employed in accordance with section 3951 of this title)” after “citizen of the United States”.
 
-### § 3985. Temporary details
+### § 3985. Temporary details
 
 A period of duty of not more than six months in duration by a member of the Service shall be considered a temporary detail and shall not be considered an assignment within the meaning of this subchapter.
 
-(Pub. L. 96–465, title I, § 505, Oct. 17, 1980, 94 Stat. 2094.)
+(Pub. L. 96–465, title I, § 505, Oct. 17, 1980, 94 Stat. 2094.)
 
 ## SUBCHAPTER VI—PROMOTION AND RETENTION
 
-### § 4001. Promotions
+### § 4001. Promotions
 
 **(a) Method of promotion**
 
@@ -2736,7 +2736,7 @@ shall be based upon the recommendations and rankings of selection boards establi
 
 **(3)** The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
 
-**(4)** , (5) Repealed. Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
+**(4)** , (5) Repealed. Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
 
 **(6)**
 
@@ -2770,7 +2770,7 @@ shall be based upon the recommendations and rankings of selection boards establi
 
 **(ii)** the term “global affairs position” means any position funded with amounts appropriated to the Department under the heading “Diplomatic Policy and Support”.
 
-(Pub. L. 96–465, title I, § 601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, § 185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, § 180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 326], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 114–291, § 6, Dec. 16, 2016, 130 Stat. 1498; Pub. L. 114–323, title IV, § 403, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1927, 1946; Pub. L. 117–81, div. E, title LIII, § 5307, Dec. 27, 2021, 135 Stat. 2362.)
+(Pub. L. 96–465, title I, § 601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, § 185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, § 180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 326], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 114–291, § 6, Dec. 16, 2016, 130 Stat. 1498; Pub. L. 114–323, title IV, § 403, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1927, 1946; Pub. L. 117–81, div. E, title LIII, § 5307, Dec. 27, 2021, 135 Stat. 2362.)
 
 **Editorial Notes**
 
@@ -2778,7 +2778,7 @@ shall be based upon the recommendations and rankings of selection boards establi
 
 2021—Subsec. (c)(6)(A). Pub. L. 117–81, in introductory provisions, substituted “promotion, on or after January 1, 2017,” for “promotion” and “Foreign Service officer, appointed under section 3942(a)(1) of this title, who has general responsibility for carrying out the functions of the Service” for “individual joining the Service on or after January 1, 2017,”.
 
-2016—Subsec. (c)(4). Pub. L. 114–323, § 715(b)(5), struck out par. (4) which read as follows: “Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.”
+2016—Subsec. (c)(4). Pub. L. 114–323, § 715(b)(5), struck out par. (4) which read as follows: “Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.”
 
 Pub. L. 114–291 substituted “include a workforce plan” for “include the following:
 
@@ -2790,9 +2790,9 @@ Pub. L. 114–291 substituted “include a workforce plan” for “include the 
 
 “(B) A workforce plan”.
 
-Subsec. (c)(5). Pub. L. 114–323, § 715(b)(5), struck out par. (5) which read as follows: “If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).”
+Subsec. (c)(5). Pub. L. 114–323, § 715(b)(5), struck out par. (5) which read as follows: “If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).”
 
-Subsec. (c)(6). Pub. L. 114–323, § 403, added par. (6).
+Subsec. (c)(6). Pub. L. 114–323, § 403, added par. (6).
 
 1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
@@ -2804,15 +2804,15 @@ Subsec. (c)(6). Pub. L. 114–323, § 403, added par. (6).
 
 **Reports Eliminated**
 
-Pub. L. 104–66, title II, § 2241, Dec. 21, 1995, 109 Stat. 733, which provided that reports required under section 4001(c)(4) of this title would not cover activities of the United States Information Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(5), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 104–66, title II, § 2241, Dec. 21, 1995, 109 Stat. 733, which provided that reports required under section 4001(c)(4) of this title would not cover activities of the United States Information Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(5), Oct. 21, 1998, 112 Stat. 2681–790.
 
 **Language Training in Foreign Service**
 
-Pub. L. 102–138, title I, § 155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
+Pub. L. 102–138, title I, § 155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
 
 **Foreign Service Promotion Panels**
 
-Pub. L. 101–246, title I, § 163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that:
+Pub. L. 101–246, title I, § 163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that:
 
 > “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
@@ -2824,9 +2824,9 @@ Pub. L. 101–246, title I, § 163, Feb. 16, 1990, 104 Stat. 47, as amended by
 
 **Language Proficiency in Employee Evaluation Report**
 
-Pub. L. 101–246, title I, § 164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee’s effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, § 191(b), Apr. 30, 1994, 108 Stat. 418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
+Pub. L. 101–246, title I, § 164, Feb. 16, 1990, 104 Stat. 47, required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee’s effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by Pub. L. 103–236, title I, § 191(b), Apr. 30, 1994, 108 Stat. 418. See section 191(a) of Pub. L. 103–236, set out as a note under section 3926 of this title.
 
-### § 4002. Establishment of selection boards
+### § 4002. Establishment of selection boards
 
 **(a) Evaluation of performance; recommendations** The Secretary shall establish selection boards to evaluate the performance of members of the Senior Foreign Service and members of the Service assigned to a salary class in the Foreign Service Schedule. Selection boards shall, in accordance with precepts prescribed by the Secretary, rank the members of a salary class on the basis of relative performance and may make recommendations for—
 
@@ -2848,7 +2848,7 @@ All selection boards established under this section shall include public members
 
 No public members appointed pursuant to this section may be, at the time of their appointment or during their appointment, an agent of a foreign principal (as defined by section 611(b) of this title) or a lobbyist for a foreign entity (as defined in section 1602(6) of title 2) or receive income from a government of a foreign country.
 
-(Pub. L. 96–465, title I, § 602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, § 142, Feb. 16, 1990, 104 Stat. 36; Pub. L. 104–65, § 12(c), Dec. 19, 1995, 109 Stat. 701.)
+(Pub. L. 96–465, title I, § 602, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 101–246, title I, § 142, Feb. 16, 1990, 104 Stat. 36; Pub. L. 104–65, § 12(c), Dec. 19, 1995, 109 Stat. 701.)
 
 **Editorial Notes**
 
@@ -2864,7 +2864,7 @@ No public members appointed pursuant to this section may be, at the time of thei
 
 Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
-### § 4003. Recommendations and rankings
+### § 4003. Recommendations and rankings
 
 **(a)** Recommendations and rankings by selection boards shall be based upon records of the character, ability, conduct, quality of work, industry, experience, dependability, usefulness, and general performance of members of the Service. Such records may include reports prepared by or on behalf of the Inspector General of the Department of State and the Foreign Service, performance evaluation reports of supervisors, records of commendations, reports of language test scores from the George P. Shultz National Foreign Affairs Training Center, awards, reprimands, and other disciplinary actions, and (with respect to members of the Senior Foreign Service) records of current and prospective assignments.
 
@@ -2896,7 +2896,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 **(3)** In this subsection, the term “gap memo” means a written record, submitted to a selection board in a standard format established by the Director General of the Foreign Service, which indicates and explains a gap in the record of a member of the Service or member of the Senior Foreign Service whose performance will be evaluated by such selection board, which gap is due to personal circumstances, including for health, family, or other reason as determined by the Director General in consultation with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 96–465, title I, § 603, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 108–458, title VII, § 7110(c), Dec. 17, 2004, 118 Stat. 3794; Pub. L. 117–81, div. E, title LIII, § 5325(a), Dec. 27, 2021, 135 Stat. 2370; Pub. L. 117–263, div. I, title XCIII, § 9302(k), Dec. 23, 2022, 136 Stat. 3889; Pub. L. 118–31, div. F, title LXII, § 6201, Dec. 22, 2023, 137 Stat. 971.)
+(Pub. L. 96–465, title I, § 603, Oct. 17, 1980, 94 Stat. 2095; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 108–458, title VII, § 7110(c), Dec. 17, 2004, 118 Stat. 3794; Pub. L. 117–81, div. E, title LIII, § 5325(a), Dec. 27, 2021, 135 Stat. 2370; Pub. L. 117–263, div. I, title XCIII, § 9302(k), Dec. 23, 2022, 136 Stat. 3889; Pub. L. 118–31, div. F, title LXII, § 6201, Dec. 22, 2023, 137 Stat. 971.)
 
 **Editorial Notes**
 
@@ -2904,13 +2904,13 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 2023—Subsec. (b)(2) to (9). Pub. L. 118–31 added pars. (2) to (6) and redesignated former pars. (2) to (4) as (7) to (9), respectively.
 
-2022—Subsec. (b). Pub. L. 117–263, § 9302(k)(1), inserted “and when occupying positions for which the following is, to any degree, an element of the member’s duties,” after “as the case may be,” in introductory provisions.
+2022—Subsec. (b). Pub. L. 117–263, § 9302(k)(1), inserted “and when occupying positions for which the following is, to any degree, an element of the member’s duties,” after “as the case may be,” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 117–263, § 9302(k)(2), substituted semicolon at end for “when occupying positions for which such willingness and ability is, to any degree, an element of the member’s duties, or”.
+Subsec. (b)(1). Pub. L. 117–263, § 9302(k)(2), substituted semicolon at end for “when occupying positions for which such willingness and ability is, to any degree, an element of the member’s duties, or”.
 
-Subsec. (b)(2), (3). Pub. L. 117–263, § 9302(k)(3), (4), added pars. (2) and (3) and struck out former par. (2) which read as follows: “other experience in public diplomacy.”
+Subsec. (b)(2), (3). Pub. L. 117–263, § 9302(k)(3), (4), added pars. (2) and (3) and struck out former par. (2) which read as follows: “other experience in public diplomacy.”
 
-Subsec. (b)(4). Pub. L. 117–263, § 9302(k)(5), which directed that par. (4) be added after par. (3) “as redesignated”, was executed by adding par. (4) after par. (3) as added by Pub. L. 117–263, § 9302(k)(3), to reflect the probable intent of Congress. See above.
+Subsec. (b)(4). Pub. L. 117–263, § 9302(k)(5), which directed that par. (4) be added after par. (3) “as redesignated”, was executed by adding par. (4) after par. (3) as added by Pub. L. 117–263, § 9302(k)(3), to reflect the probable intent of Congress. See above.
 
 2021—Subsec. (c). Pub. L. 117–81 added subsec. (c).
 
@@ -2922,19 +2922,19 @@ Subsec. (b)(4). Pub. L. 117–263, § 9302(k)(5), which directed that par. (4)
 
 **Consultation and Guidance**
 
-Pub. L. 117–81, div. E, title LIII, § 5325(b), Dec. 27, 2021, 135 Stat. 2370, provided that:
+Pub. L. 117–81, div. E, title LIII, § 5325(b), Dec. 27, 2021, 135 Stat. 2370, provided that:
 
 > **“(1) Consultation.—** Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the Director General of the Foreign Service shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the development of the gap memo under subsection (c) of section 603 of the Foreign Service Act of 1980 (22 U.S.C. 4003), as added by subsection (a) of this section.
 
 > **“(2) Definition.—** In this subsection, the term ‘gap memo’ has the meaning given such term in subsection (c) of section 603 of the Foreign Service Act of 1980 (22 U.S.C. 4003), as added by subsection (a) of this section.”
 
-### § 4004. Records
+### § 4004. Records
 
 **(a)** The records described in section 4003(a) of this title shall be maintained in accordance with regulations prescribed by the Secretary. Except to the extent that they pertain to the receipt, disbursement, and accounting for public funds, such records shall be confidential and subject to inspection only by the President, the Secretary, such employees of the Government as may be authorized by law or assigned by the Secretary to work on such records, the legislative and appropriations committees of the Congress charged with considering legislation and appropriations for the Service, and representatives duly authorized by such committees. Access to such records relating to a member of the Service shall be granted to such member, upon written request.
 
 **(b)** Notwithstanding subsection (a), any record of disciplinary action that includes a suspension of more than five days taken against a member of the Service, including any correction of that record under section 4137(b)(1) of this title, shall remain a part of the personnel records until the member is tenured as a career member of the Service or next promoted.
 
-(Pub. L. 96–465, title I, § 604, Oct. 17, 1980, 94 Stat. 2096; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+(Pub. L. 96–465, title I, § 604, Oct. 17, 1980, 94 Stat. 2096; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
 
 **Editorial Notes**
 
@@ -2946,17 +2946,17 @@ Pub. L. 117–81, div. E, title LIII, § 5325(b), Dec. 27, 2021, 135 Stat. 237
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: “The amendments made by this section [amending this section] apply to all disciplinary actions initiated on or after the date of enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: “The amendments made by this section [amending this section] apply to all disciplinary actions initiated on or after the date of enactment of this Act [Nov. 29, 1999].”
 
-### § 4005. Implementation of selection board recommendations
+### § 4005. Implementation of selection board recommendations
 
 **(a)** Recommendations for promotion made by selection boards shall be submitted to the Secretary in rank order by salary class or in rank order by specialization within a salary class. The Secretary shall make promotions and, with respect to career appointments into or within the Senior Foreign Service, shall make recommendations to the President for promotions, in accordance with the rankings of the selection boards.
 
 **(b)** Notwithstanding subsection (a), in special circumstances set forth by regulation, the Secretary may remove the name of an individual from the rank order list submitted by a selection board or delay the promotion of an individual named in such a list.
 
-(Pub. L. 96–465, title I, § 605, Oct. 17, 1980, 94 Stat. 2096.)
+(Pub. L. 96–465, title I, § 605, Oct. 17, 1980, 94 Stat. 2096.)
 
-### § 4006. Other bases for promoting or increasing pay
+### § 4006. Other bases for promoting or increasing pay
 
 **(a)** The Secretary may pursuant to a recommendation of the Foreign Service Grievance Board, an equal employment opportunity appeals examiner, or the Special Counsel of the Merit Systems Protection Board, and shall pursuant to a decision or order of the Merit Systems Protection Board—
 
@@ -2970,9 +2970,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(b)], Nov
 
 **(b)** In implementing subsection (a) of this section and in cases in which the Secretary has exercised the authority of section 4005(b) of this title, the Secretary may, in special circumstances set forth by regulation, make retroactive promotions, grant performance pay, make retroactive within-class salary increases, and recommend retroactive promotions by the President.
 
-(Pub. L. 96–465, title I, § 606, Oct. 17, 1980, 94 Stat. 2096.)
+(Pub. L. 96–465, title I, § 606, Oct. 17, 1980, 94 Stat. 2096.)
 
-### § 4007. Retirement for expiration of time in class
+### § 4007. Retirement for expiration of time in class
 
 **(a) Maximum time**
 
@@ -3014,17 +3014,17 @@ shall be retired from the Service and receive benefits in accordance with sectio
 
 **(2)** if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
 
-(Pub. L. 96–465, title I, § 607, Oct. 17, 1980, 94 Stat. 2096.)
+(Pub. L. 96–465, title I, § 607, Oct. 17, 1980, 94 Stat. 2096.)
 
-### § 4008. Retirement based on failure to meet standard of performance
+### § 4008. Retirement based on failure to meet standard of performance
 
 **(a)** The Secretary shall prescribe regulations concerning the standards of performance to be met by career members of the Service who are citizens of the United States. Whenever a selection board review indicates that the performance of such a career member of the Service may not meet the standards of performance for his or her class, the Secretary shall provide for administrative review of the performance of the member. The review shall include an opportunity for the member to be heard.
 
 **(b)** In any case where the administrative review conducted under subsection (a) substantiates that a career member of the Service has failed to meet the standards of performance for his or her class, the member shall be retired from the Service and receive benefits in accordance with section 4009 of this title.
 
-(Pub. L. 96–465, title I, § 608, Oct. 17, 1980, 94 Stat. 2097.)
+(Pub. L. 96–465, title I, § 608, Oct. 17, 1980, 94 Stat. 2097.)
 
-### § 4009. Retirement benefits
+### § 4009. Retirement benefits
 
 **(a) Entitlement** A member of the Service—
 
@@ -3048,19 +3048,19 @@ shall receive retirement benefits in accordance with section 4046 of this title 
 
 In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60 (for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System), his or her death shall be considered a death in service within the meaning of section 4049 of this title.
 
-(Pub. L. 96–465, title I, § 609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, § 181(a)(3), Apr. 30, 1994, 108 Stat. 417; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(a), Oct. 21, 1998, 112 Stat. 2681–827.)
+(Pub. L. 96–465, title I, § 609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, § 181(a)(3), Apr. 30, 1994, 108 Stat. 417; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(a), Oct. 21, 1998, 112 Stat. 2681–827.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 2312(a)(2), inserted “or section 4071d of this title, as appropriate” after “section 4046 of this title” in concluding provisions.
+1998—Subsec. (a). Pub. L. 105–277, § 2312(a)(2), inserted “or section 4071d of this title, as appropriate” after “section 4046 of this title” in concluding provisions.
 
-Subsec. (a)(2)(A). Pub. L. 105–277, § 2312(a)(1), inserted “or any other applicable provision of chapter 84 of title 5” after “section 4051 of this title”.
+Subsec. (a)(2)(A). Pub. L. 105–277, § 2312(a)(1), inserted “or any other applicable provision of chapter 84 of title 5” after “section 4051 of this title”.
 
-Subsec. (b). Pub. L. 105–277, § 2312(a)(4), inserted “(for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System)” after “age 60” in concluding provisions.
+Subsec. (b). Pub. L. 105–277, § 2312(a)(4), inserted “(for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System)” after “age 60” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 105–277, § 2312(a)(3), designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 105–277, § 2312(a)(3), designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
 
 1994—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted “or 4010a” after “4008(b)”.
 
@@ -3068,7 +3068,7 @@ Subsec. (b)(2). Pub. L. 105–277, § 2312(a)(3), designated existing provisio
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, 112 Stat. 2681–827, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, 112 Stat. 2681–827, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 4071d of this title] shall take effect on the date of the enactment of this Act [Oct. 21, 1998].
 
@@ -3076,7 +3076,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, 
 
 **Special Annuity for Certain Foreign Service Officers**
 
-Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by Pub. L. 95–426, title IV, § 412(b), Oct. 7, 1978, 92 Stat. 981, provided that:
+Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by Pub. L. 95–426, title IV, § 412(b), Oct. 7, 1978, 92 Stat. 981, provided that:
 
 > **“(a)** Subject to the conditions established in subsection (b), any Foreign Service officer—
 
@@ -3096,7 +3096,7 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by
 
 > **“(d)** An officer entitled to retirement benefits under this section may make the election described in section 821(b) or (f), as appropriate, of the Foreign Service Act of 1946 [former section 1076(b) or (f) of this title, see section 4046(b) and (f) of this title] at any time before reaching the age of fifty or before the end of the sixty-day period beginning on the date of enactment of this section [Aug. 17, 1977], whichever is later.”
 
-### § 4010. Separation for cause; suspension
+### § 4010. Separation for cause; suspension
 
 **(a) Authorization of Secretary; right to hearing; attorneys fees and backpay; leave without pay**
 
@@ -3158,7 +3158,7 @@ Any participant in the Foreign Service Retirement and Disability System who is s
 
 **(B)** with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.
 
-(Pub. L. 96–465, title I, § 610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, § 181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, § 586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, § 143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, § 143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, § 1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 328], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, § 314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, § 415(a), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LIII, § 5317, Dec. 27, 2021, 135 Stat. 2367; Pub. L. 117–263, div. I, title XCII, § 9202(b)(1), Dec. 23, 2022, 136 Stat. 3864; Pub. L. 118–159, div. G, title LXXV, § 7504, Dec. 23, 2024, 138 Stat. 2546.)
+(Pub. L. 96–465, title I, § 610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, § 181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, § 586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, § 143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, § 143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, § 1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 328], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, § 314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, § 415(a), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LIII, § 5317, Dec. 27, 2021, 135 Stat. 2367; Pub. L. 117–263, div. I, title XCII, § 9202(b)(1), Dec. 23, 2022, 136 Stat. 3864; Pub. L. 118–159, div. G, title LXXV, § 7504, Dec. 23, 2024, 138 Stat. 2546.)
 
 **Editorial Notes**
 
@@ -3166,21 +3166,21 @@ Any participant in the Foreign Service Retirement and Disability System who is s
 
 2024—Subsec. (c)(6). Pub. L. 118–159 substituted “this subsection” for “paragraph (1)(B)”.
 
-2022—Subsec. (a)(1). Pub. L. 117–263 struck out “decide to” after “The Secretary may” and inserted before period at end “, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault”.
+2022—Subsec. (a)(1). Pub. L. 117–263 struck out “decide to” after “The Secretary may” and inserted before period at end “, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault”.
 
-2021—Subsec. (c)(1). Pub. L. 117–81, § 5317(1), substituted “indefinitely suspend without duties” for “suspend” in introductory provisions.
+2021—Subsec. (c)(1). Pub. L. 117–81, § 5317(1), substituted “indefinitely suspend without duties” for “suspend” in introductory provisions.
 
-Subsec. (c)(5), (6). Pub. L. 117–81, § 5317(3), added pars. (5) and (6). Former par. (5) redesignated (7).
+Subsec. (c)(5), (6). Pub. L. 117–81, § 5317(3), added pars. (5) and (6). Former par. (5) redesignated (7).
 
-Subsec. (c)(7). Pub. L. 117–81, § 5317(2), (4), redesignated par. (5) as (7), struck out subpar. (A) designation before “The term”, substituted “this subsection, the term” for “this subsection: The term”, redesignated cls. (i) and (ii) as subpars. (A) and (B), realigned margins, and struck out former subpar. (B) which read as follows: “The terms ‘suspend’ and ‘suspension’ mean placing a member of the Foreign Service in a temporary status without duties.”
+Subsec. (c)(7). Pub. L. 117–81, § 5317(2), (4), redesignated par. (5) as (7), struck out subpar. (A) designation before “The term”, substituted “this subsection, the term” for “this subsection: The term”, redesignated cls. (i) and (ii) as subpars. (A) and (B), realigned margins, and struck out former subpar. (B) which read as follows: “The terms ‘suspend’ and ‘suspension’ mean placing a member of the Foreign Service in a temporary status without duties.”
 
-2016—Pub. L. 114–323, § 415(a)(1), substituted “Separation for cause; suspension” for “Separation for cause” in section catchline.
+2016—Pub. L. 114–323, § 415(a)(1), substituted “Separation for cause; suspension” for “Separation for cause” in section catchline.
 
-Subsec. (c). Pub. L. 114–323, § 415(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–323, § 415(a)(2), added subsec. (c).
 
-2002—Subsec. (a)(1). Pub. L. 107–228, § 314(a)(1), inserted “decide to” after “may”.
+2002—Subsec. (a)(1). Pub. L. 107–228, § 314(a)(1), inserted “decide to” after “may”.
 
-Subsec. (a)(2) to (6). Pub. L. 107–228, § 314(a)(2), (3), added pars. (2) to (4) and struck out former pars. (2) to (6) which related to the rights of members of the Service to hearings before the Foreign Service Grievance Board prior to being separated from the Service, suspensions from the Service pending final resolution of the underlying matter, procedural rights of suspended members, review of suspensions by the Board, and leave without pay pending final resolution for members recommended for separation.
+Subsec. (a)(2) to (6). Pub. L. 107–228, § 314(a)(2), (3), added pars. (2) to (4) and struck out former pars. (2) to (6) which related to the rights of members of the Service to hearings before the Foreign Service Grievance Board prior to being separated from the Service, suspensions from the Service pending final resolution of the underlying matter, procedural rights of suspended members, review of suspensions by the Board, and leave without pay pending final resolution for members recommended for separation.
 
 1999—Subsec. (a)(6). Pub. L. 106–113 added par. (6).
 
@@ -3188,11 +3188,11 @@ Subsec. (a)(2) to (6). Pub. L. 107–228, § 314(a)(2), (3), added pars. (2) t
 
 1994—Subsec. (a)(2). Pub. L. 103–415 inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “A member of the Service”.
 
-1991—Subsec. (a)(3). Pub. L. 102–138, § 143(a)(1), substituted “a member has been convicted of a crime” for “there is reasonable cause to believe that a member has committed a crime”.
+1991—Subsec. (a)(3). Pub. L. 102–138, § 143(a)(1), substituted “a member has been convicted of a crime” for “there is reasonable cause to believe that a member has committed a crime”.
 
-Subsec. (a)(4)(A). Pub. L. 102–138, § 143(a)(2), substituted “suspension” for “suspension, including the grounds for reasonable cause to believe a crime has been committed”.
+Subsec. (a)(4)(A). Pub. L. 102–138, § 143(a)(2), substituted “suspension” for “suspension, including the grounds for reasonable cause to believe a crime has been committed”.
 
-Subsec. (a)(5). Pub. L. 102–138, § 143(a)(3), substituted “the conviction requirements of subsection (a)(3) of this section have been fulfilled” for “there exists reasonable cause to believe a crime has been committed for which a sentence of imprisonment may be imposed”.
+Subsec. (a)(5). Pub. L. 102–138, § 143(a)(3), substituted “the conviction requirements of subsection (a)(3) of this section have been fulfilled” for “there exists reasonable cause to believe a crime has been committed for which a sentence of imprisonment may be imposed”.
 
 1990—Subsec. (a)(2). Pub. L. 101–246 inserted before period at end of first sentence “or, notwithstanding section 4136(8) of this title, unless the member has been convicted of a crime related to the cause for separation, subject to reinstatement with back pay (for any period during which separation for cause had not been established by such a hearing) if such conviction is reversed on appeal” and inserted sentence at end that section 4140 of this title apply to proceedings under this paragraph.
 
@@ -3208,7 +3208,7 @@ Amendment by Pub. L. 100–204 not applicable with respect to any grievance in w
 
 **Update to Foreign Affairs Manual**
 
-Pub. L. 117–263, div. I, title XCII, § 9202(b)(2), Dec. 23, 2022, 136 Stat. 3864, provided that:
+Pub. L. 117–263, div. I, title XCII, § 9202(b)(2), Dec. 23, 2022, 136 Stat. 3864, provided that:
 
 > “The Director of Global Talent Management shall—
 
@@ -3218,7 +3218,7 @@ Pub. L. 117–263, div. I, title XCII, § 9202(b)(2), Dec. 23, 2022, 136 Stat.
 
 **Expedited Separation Out**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(b), Oct. 21, 1998, 112 Stat. 2681–826, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(b), Oct. 21, 1998, 112 Stat. 2681–826, provided that:
 
 > **“(1) Separation of lowest ranked foreign service members.—** Not later than 90 days after the date of enactment of this Act [Oct. 21, 1998], the Secretary of State shall develop and implement procedures to identify, and recommend for separation, any member of the Foreign Service ranked by promotion boards of the Department of State in the bottom 5 percent of his or her class for 2 or more of the 5 years preceding the date of enactment of this Act (in this subsection referred to as the ‘years of lowest ranking’) if the rating official for such member was not the same individual for any two of the years of lowest ranking.
 
@@ -3228,9 +3228,9 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(b), Oct. 21, 1998, 
 
 **Definition of “Reasonable Cause”**
 
-Pub. L. 101–167, title V, § 586(c), Nov. 21, 1989, 103 Stat. 1252, provided that for purposes of amendments by section 586(a) and (b) of Pub. L. 101–167, which amended this section and section 4136 of this title, reasonable cause to believe that a member has committed a crime for which a sentence of imprisonment may be imposed was to be defined as a member of the Service having been convicted of, and sentence of imprisonment having been imposed for, a job-related crime, prior to repeal by Pub. L. 102–138, title I, § 143(c), Oct. 28, 1991, 105 Stat. 668.
+Pub. L. 101–167, title V, § 586(c), Nov. 21, 1989, 103 Stat. 1252, provided that for purposes of amendments by section 586(a) and (b) of Pub. L. 101–167, which amended this section and section 4136 of this title, reasonable cause to believe that a member has committed a crime for which a sentence of imprisonment may be imposed was to be defined as a member of the Service having been convicted of, and sentence of imprisonment having been imposed for, a job-related crime, prior to repeal by Pub. L. 102–138, title I, § 143(c), Oct. 28, 1991, 105 Stat. 668.
 
-### § 4010a. Reductions in force
+### § 4010a. Reductions in force
 
 **(a) Authorization and regulations** The Secretary may conduct reductions in force and shall prescribe regulations for the separation of members of the Service holding a career or career candidate appointment under subchapter III of this chapter, under such reductions in force which give due effect to the following:
 
@@ -3252,7 +3252,7 @@ The provisions of section 4009 of this title shall be applicable to any member o
 
 An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.
 
-(Pub. L. 96–465, title I, § 611, as added Pub. L. 103–236, title I, § 181(a)(2), Apr. 30, 1994, 108 Stat. 417; amended Pub. L. 103–415, § 1(ii), Oct. 25, 1994, 108 Stat. 4303.)
+(Pub. L. 96–465, title I, § 611, as added Pub. L. 103–236, title I, § 181(a)(2), Apr. 30, 1994, 108 Stat. 417; amended Pub. L. 103–415, § 1(ii), Oct. 25, 1994, 108 Stat. 4303.)
 
 **Editorial Notes**
 
@@ -3268,7 +3268,7 @@ A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classi
 
 **Notification of Intent To Reduce Personnel at Covered Diplomatic Posts**
 
-Pub. L. 119–60, div. E, title I, § 5177, Dec. 18, 2025, 139 Stat. 1590, provided that:
+Pub. L. 119–60, div. E, title I, § 5177, Dec. 18, 2025, 139 Stat. 1590, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), not later than 30 days before the date on which the Secretary [of State] carries out a reduction in United States Foreign Service personnel of at least 10 percent at a covered diplomatic post, the Secretary shall submit to the appropriate congressional committees a notification of the intent to carry out such a reduction, which shall include a certification by the Secretary that such reduction will not negatively impact the ability of the United States to compete with the People’s Republic of China, the Islamic Republic of Iran, or the Russian Federation.
 
@@ -3286,7 +3286,7 @@ Pub. L. 119–60, div. E, title I, § 5177, Dec. 18, 2025, 139 Stat. 1590, pro
 
 **Employment Assistance Referral System for Certain Members of Foreign Service**
 
-Pub. L. 103–236, title I, § 179, Apr. 30, 1994, 108 Stat. 415, as amended by Pub. L. 103–415, § 1(g), Oct. 25, 1994, 108 Stat. 4300, provided that:
+Pub. L. 103–236, title I, § 179, Apr. 30, 1994, 108 Stat. 415, as amended by Pub. L. 103–415, § 1(g), Oct. 25, 1994, 108 Stat. 4300, provided that:
 
 > **“(a) Referral System.—** Certain members of the Foreign Service (as described in subsection (b)), may participate in the Office of Personnel Management’s Interagency Placement programs or any successor program. Such members of the Foreign Service shall be treated in the same manner as employees participating in such a program as of the effective date of this Act [Apr. 30, 1994].
 
@@ -3294,13 +3294,13 @@ Pub. L. 103–236, title I, § 179, Apr. 30, 1994, 108 Stat. 415, as amended b
 
 **Consultation With Director of Office of Personnel Management Prior to Prescribing Regulations for Reductions in Force**
 
-Pub. L. 103–236, title I, § 181(c), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–415, § 1(i), Oct. 25, 1994, 108 Stat. 4301, provided that: “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 [22 U.S.C. 4010a] (as added by subsection (a) of this section), and shall publish such regulations.”
+Pub. L. 103–236, title I, § 181(c), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–415, § 1(i), Oct. 25, 1994, 108 Stat. 4301, provided that: “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 [22 U.S.C. 4010a] (as added by subsection (a) of this section), and shall publish such regulations.”
 
-### § 4011. Termination of limited appointments
+### § 4011. Termination of limited appointments
 
 Except as provided in section 4010(a)(2) of this title, the Secretary may terminate at any time the appointment of any member of the Service serving under a limited appointment who is in the Senior Foreign Service, who is assigned to a salary class in the Foreign Service Schedule or who is paid in accordance with section 3967 of this title or is a United States citizen paid under a compensation plan under section 3968 of this title.
 
-(Pub. L. 96–465, title I, § 612, formerly § 611, Oct. 17, 1980, 94 Stat. 2099; renumbered § 612 and amended Pub. L. 103–236, title I, §§ 180(a)(7), 181(a)(1), Apr. 30, 1994, 108 Stat. 416.)
+(Pub. L. 96–465, title I, § 612, formerly § 611, Oct. 17, 1980, 94 Stat. 2099; renumbered § 612 and amended Pub. L. 103–236, title I, §§ 180(a)(7), 181(a)(1), Apr. 30, 1994, 108 Stat. 416.)
 
 **Editorial Notes**
 
@@ -3310,15 +3310,15 @@ A prior section 612 of Pub. L. 96–465 was renumbered section 613 and is classi
 
 **Amendments**
 
-1994—Pub. L. 103–236, § 180(a)(7), substituted “or who is paid in accordance with section 3967 of this title or is a United States citizen paid under a compensation plan under section 3968 of this title.” for “, or who is a family member of a Government employee serving under a local compensation plan established under section 3968 of this title.”
+1994—Pub. L. 103–236, § 180(a)(7), substituted “or who is paid in accordance with section 3967 of this title or is a United States citizen paid under a compensation plan under section 3968 of this title.” for “, or who is a family member of a Government employee serving under a local compensation plan established under section 3968 of this title.”
 
-### § 4012. Termination of appointments of consular agents and foreign national employees
+### § 4012. Termination of appointments of consular agents and foreign national employees
 
 **(a)** The Secretary of State may terminate at any time the appointment of any consular agent in light of the criteria and procedures normally followed in the locality in similar circumstances.
 
 **(b)** The Secretary may terminate at any time the appointment of any foreign national employee in light of the criteria and procedures normally followed in the locality in similar circumstances.
 
-(Pub. L. 96–465, title I, § 613, formerly § 612, Oct. 17, 1980, 94 Stat. 2099; renumbered § 613, Pub. L. 103–236, title I, § 181(a)(1), Apr. 30, 1994, 108 Stat. 416.)
+(Pub. L. 96–465, title I, § 613, formerly § 612, Oct. 17, 1980, 94 Stat. 2099; renumbered § 613, Pub. L. 103–236, title I, § 181(a)(1), Apr. 30, 1994, 108 Stat. 416.)
 
 **Editorial Notes**
 
@@ -3326,7 +3326,7 @@ A prior section 612 of Pub. L. 96–465 was renumbered section 613 and is classi
 
 A prior section 613 of Pub. L. 96–465 was renumbered section 614 and is classified to section 4013 of this title.
 
-### § 4012a. Foreign national employees separation pay
+### § 4012a. Foreign national employees separation pay
 
 **(a) Establishment**
 
@@ -3346,7 +3346,7 @@ Amounts shall be deposited in the fund annually and are authorized to be availab
 
 Amounts deposited in the fund shall be available for expenditure to make separation payments to foreign national employees in countries in which such pay is legally authorized.
 
-(Pub. L. 102–138, title I, § 151, Oct. 28, 1991, 105 Stat. 672.)
+(Pub. L. 102–138, title I, § 151, Oct. 28, 1991, 105 Stat. 672.)
 
 **Editorial Notes**
 
@@ -3354,19 +3354,19 @@ Amounts deposited in the fund shall be available for expenditure to make separat
 
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-### § 4013. Department awards
+### § 4013. Department awards
 
 The President shall establish a system of awards to confer appropriate recognition of outstanding contributions to the Nation by members of the Service or Civil Service. The awards system established under this section shall provide for presentation by the President and by the Secretary of medals or other suitable commendations for performance in the course of or beyond the call of duty which involves distinguished, meritorious service to the Nation, including extraordinary valor in the face of danger to life or health. Distinguished, meritorious service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.
 
-(Pub. L. 96–465, title I, § 614, formerly § 613, Oct. 17, 1980, 94 Stat. 2099; renumbered § 614, Pub. L. 103–236, title I, § 181(a)(1), Apr. 30, 1994, 108 Stat. 416; amended Pub. L. 105–292, title V, § 504(b), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 117–81, div. E, title LIII, § 5308(a), Dec. 27, 2021, 135 Stat. 2362.)
+(Pub. L. 96–465, title I, § 614, formerly § 613, Oct. 17, 1980, 94 Stat. 2099; renumbered § 614, Pub. L. 103–236, title I, § 181(a)(1), Apr. 30, 1994, 108 Stat. 416; amended Pub. L. 105–292, title V, § 504(b), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 117–81, div. E, title LIII, § 5308(a), Dec. 27, 2021, 135 Stat. 2362.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 5308(a)(1), amended section catchline generally, substituting “Department awards” for “Foreign Service awards”.
+2021—Pub. L. 117–81, § 5308(a)(1), amended section catchline generally, substituting “Department awards” for “Foreign Service awards”.
 
-Pub. L. 117–81, § 5308(a)(2), inserted “or Civil Service” after “the Service” before period at end of first sentence.
+Pub. L. 117–81, § 5308(a)(2), inserted “or Civil Service” after “the Service” before period at end of first sentence.
 
 1998—Pub. L. 105–292 inserted at end “Distinguished, meritorious service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.”
 
@@ -3392,13 +3392,13 @@ Barack Obama.
 
 ## SUBCHAPTER VII—CAREER DEVELOPMENT, TRAINING, AND ORIENTATION
 
-### § 4021. Institution for training
+### § 4021. Institution for training
 
 **(a) Institution or center for training**
 
-The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the “institution”), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institution shall be headed by a Director, who shall be appointed by the Secretary of State. The institution shall be designated the “George P. Shultz National Foreign Affairs Training Center” 1
+The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the “institution”), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institution shall be headed by a Director, who shall be appointed by the Secretary of State. The institution shall be designated the “George P. Shultz National Foreign Affairs Training Center” 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(b) Provision of training**
 
@@ -3406,9 +3406,9 @@ To the extent practicable, the Secretary of State shall provide training under t
 
 **(c) Training and instruction to citizens of Trust Territory of the Pacific Islands**
 
-Training and instruction may be provided at the Institute 2
+Training and instruction may be provided at the Institute 2
 
-<sup>2</sup>  So in original. Probably should be “institution”.
+<sup>2</sup> So in original. Probably should be “institution”.
 
 for not to exceed sixty citizens of the Trust Territory of the Pacific Islands in order to prepare them to serve as members of the foreign services of the Federated States of Micronesia, the Marshall Islands, and Palau. The authority of this subsection shall expire when the Compact of Free Association is approved by the Congress.
 
@@ -3450,41 +3450,41 @@ for not to exceed sixty citizens of the Trust Territory of the Pacific Islands i
 
 The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
 
-(Pub. L. 96–465, title I, § 701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, § 126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, § 126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, § 1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, § 1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 107–228, div. A, title III, § 318(2), Sept. 30, 2002, 116 Stat. 1379.)
+(Pub. L. 96–465, title I, § 701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, § 126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, § 126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, § 1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, § 1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 107–228, div. A, title III, § 318(2), Sept. 30, 2002, 116 Stat. 1379.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), which was classified to section 1041 of this title, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), which was classified to section 1041 of this title, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
+2002—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
 
-Subsecs. (d)(4) to (g). Pub. L. 107–228 repealed Pub. L. 105–277, § 2205(a)(3). See 1998 Amendment notes below.
+Subsecs. (d)(4) to (g). Pub. L. 107–228 repealed Pub. L. 105–277, § 2205(a)(3). See 1998 Amendment notes below.
 
-1998—Subsec. (d)(4). Pub. L. 105–277, § 2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+1998—Subsec. (d)(4). Pub. L. 105–277, § 2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
-Pub. L. 105–277, § 2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
+Pub. L. 105–277, § 2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
-Subsecs. (e), (f). Pub. L. 105–277, § 2205(a)(3)(A), which directed the striking out of subsecs. (e) and (f), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+Subsecs. (e), (f). Pub. L. 105–277, § 2205(a)(3)(A), which directed the striking out of subsecs. (e) and (f), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
-Pub. L. 105–277, § 2205(a)(1)(B), added subsecs. (e) and (f).
+Pub. L. 105–277, § 2205(a)(1)(B), added subsecs. (e) and (f).
 
-Subsec. (g). Pub. L. 105–277, § 2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+Subsec. (g). Pub. L. 105–277, § 2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
-Pub. L. 105–277, § 2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
+Pub. L. 105–277, § 2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
 1994—Pub. L. 103–415 made technical amendment relating to style of section catchline.
 
-Pub. L. 103–236, § 126(2)(A), substituted “Institution for training” for “Foreign Service Institute” as section catchline.
+Pub. L. 103–236, § 126(2)(A), substituted “Institution for training” for “Foreign Service Institute” as section catchline.
 
-Subsec. (a). Pub. L. 103–236, § 126(2)(B), inserted heading, substituted “an institution or center for training (hereinafter in this subchapter referred to as the ‘institution’)” for “the Foreign Service Institute (hereinafter in this subchapter referred to as the ‘Institute’),”, and substituted “institution shall” for “Institute shall”.
+Subsec. (a). Pub. L. 103–236, § 126(2)(B), inserted heading, substituted “an institution or center for training (hereinafter in this subchapter referred to as the ‘institution’)” for “the Foreign Service Institute (hereinafter in this subchapter referred to as the ‘Institute’),”, and substituted “institution shall” for “Institute shall”.
 
-Subsec. (b). Pub. L. 103–236, § 126(3), substituted “institution” for “Institute”.
+Subsec. (b). Pub. L. 103–236, § 126(3), substituted “institution” for “Institute”.
 
-Subsec. (d). Pub. L. 103–236, § 126(2)(C), added subsec. (d).
+Subsec. (d). Pub. L. 103–236, § 126(2)(C), added subsec. (d).
 
 1983—Subsec. (c). Pub. L. 98–164 added subsec. (c).
 
@@ -3492,17 +3492,17 @@ Subsec. (d). Pub. L. 103–236, § 126(2)(C), added subsec. (d).
 
 **Change of Name**
 
-Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
+Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(2), Oct. 21, 1998, 112 Stat. 2681–809, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1998.”
+Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(2), Oct. 21, 1998, 112 Stat. 2681–809, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1998.”
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, which provided that the amendment made by section 2205(a)(3) was effective Oct. 1, 2002, was repealed by Pub. L. 107–228, div. A, title III, § 318(2), Sept. 30, 2002, 116 Stat. 1379.
+Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, which provided that the amendment made by section 2205(a)(3) was effective Oct. 1, 2002, was repealed by Pub. L. 107–228, div. A, title III, § 318(2), Sept. 30, 2002, 116 Stat. 1379.
 
 **Designation of Foreign Language Resources Coordinator**
 
-Pub. L. 103–236, title I, § 192, Apr. 30, 1994, 108 Stat. 419, provided that:
+Pub. L. 103–236, title I, § 192, Apr. 30, 1994, 108 Stat. 419, provided that:
 
 > **“(a) Policy.—** It is the sense of the Congress that—
 
@@ -3526,7 +3526,7 @@ Pub. L. 103–236, title I, § 192, Apr. 30, 1994, 108 Stat. 419, provided tha
 
 **Foreign Service Institute Facilities**
 
-Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, § 135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, § 124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
+Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, § 135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, § 124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the United States and to provide facilities designed for that purpose to assure cost efficient training.
 
@@ -3536,7 +3536,7 @@ Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by P
 
 > **(1)**
 
-> **(A)** Of amounts authorized to be appropriated to the Department of State for fiscal years 1986 and 1987 for ‘Administration of Foreign Affairs’ by section 101(1) [Pub. L. 99–93, § 101(1), which is not classified to the Code], a total of not to exceed $11,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out feasibility studies, site acquisition, and design, architectural, and engineering planning under subsection (b) of this section.
+> **(A)** Of amounts authorized to be appropriated to the Department of State for fiscal years 1986 and 1987 for ‘Administration of Foreign Affairs’ by section 101(1) [Pub. L. 99–93, § 101(1), which is not classified to the Code], a total of not to exceed $11,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out feasibility studies, site acquisition, and design, architectural, and engineering planning under subsection (b) of this section.
 
 > **“(B)** Of the amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, the Secretary of State may transfer a total not to exceed $11,000,000 for ‘Administration of Foreign Affairs’ to the Administrator of General Services for carrying out feasibility studies, site preparation, and design, architectural, and engineering planning under subsection (b).
 
@@ -3556,7 +3556,7 @@ Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by P
 
 > **(1)** The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) [see 40 U.S.C. 121 and Historical and Revision notes thereunder] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) [now 40 U.S.C. 3315], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
-> **“[(2)** Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.]
+> **“[(2)** Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.]
 
 > **“(f) Exemption From Payment of Charges.—**
 
@@ -3566,7 +3566,7 @@ Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by P
 
 **Language Training for Family Members of Foreign Service Personnel**
 
-Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by Pub. L. 97–241, title V, § 505(a)(3), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “It is the sense of Congress that, in order to increase the effectiveness of United States diplomatic representation abroad, the Secretary of State should make greater use of his authority under section 701 of the Foreign Service Act of 1946 [former section 1041 of this title] in order to increase the language training opportunities available to the family members of Foreign Service personnel.”
+Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by Pub. L. 97–241, title V, § 505(a)(3), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “It is the sense of Congress that, in order to increase the effectiveness of United States diplomatic representation abroad, the Secretary of State should make greater use of his authority under section 701 of the Foreign Service Act of 1946 [former section 1041 of this title] in order to increase the language training opportunities available to the family members of Foreign Service personnel.”
 
 **Executive Documents**
 
@@ -3574,7 +3574,7 @@ Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 4021a. Matters relating to the Foreign Service Institute
+### § 4021a. Matters relating to the Foreign Service Institute
 
 **(a) Director line of reporting**
 
@@ -3590,7 +3590,7 @@ The Director of the Foreign Service Institute shall report to the Assistant Secr
 
 **(4)** The School of Foreign Languages, which shall be responsible for providing language instruction as prescribed by law and at the direction of the Secretary.
 
-(Pub. L. 119–60, div. E, title I, § 5137, Dec. 18, 2025, 139 Stat. 1568.)
+(Pub. L. 119–60, div. E, title I, § 5137, Dec. 18, 2025, 139 Stat. 1568.)
 
 **Editorial Notes**
 
@@ -3602,13 +3602,13 @@ Section was enacted as part of the Department of State Authorization Act for Fis
 
 **Change of Name**
 
-Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
+Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
 
 **Definitions**
 
 For definitions of “Secretary” and “Department” as used in this section, see section 5002 of Pub. L. 119–60, set out as a note under section 2651 of this title.
 
-### § 4022. Foreign language requirements
+### § 4022. Foreign language requirements
 
 **(a) In general**
 
@@ -3618,7 +3618,7 @@ The Secretary shall establish foreign language proficiency requirements for memb
 
 The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a).
 
-(Pub. L. 96–465, title I, § 702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 208(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, § 327, Sept. 30, 2002, 116 Stat. 1387; Pub. L. 117–81, div. E, title LI, § 5114(b)(3), Dec. 27, 2021, 135 Stat. 2352.)
+(Pub. L. 96–465, title I, § 702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 208(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, § 327, Sept. 30, 2002, 116 Stat. 1387; Pub. L. 117–81, div. E, title LI, § 5114(b)(3), Dec. 27, 2021, 135 Stat. 2352.)
 
 **Editorial Notes**
 
@@ -3642,7 +3642,7 @@ The Secretary of State shall arrange for appropriate language training of member
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 4023. Career development program
+### § 4023. Career development program
 
 **(a) Establishment; primary attention and emphasis**
 
@@ -3664,7 +3664,7 @@ In formulating programs under this section, the Secretary should establish a sys
 
 Training provided under this section shall be conducted by the Department and by other governmental and nongovernmental institutions as the Secretary may consider appropriate.
 
-(Pub. L. 96–465, title I, § 703, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 100–204, title I, § 185(c)(1), Dec. 22, 1987, 101 Stat. 1366.)
+(Pub. L. 96–465, title I, § 703, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 100–204, title I, § 185(c)(1), Dec. 22, 1987, 101 Stat. 1366.)
 
 **Editorial Notes**
 
@@ -3676,7 +3676,7 @@ Training provided under this section shall be conducted by the Department and by
 
 **Professional Development**
 
-Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874, provided that:
+Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874, provided that:
 
 > **“(a) Requirements.—** The Secretary [of State] shall strongly encourage that Foreign Service officers seeking entry into the Senior Foreign Service participate in professional development described in subsection (c).
 
@@ -3690,7 +3690,7 @@ Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874,
 
 > **“(d) Promotion Precepts.—** The Secretary shall instruct promotion boards to consider positively long-term training and out-of-agency detail assignments as described in this section.”
 
-### § 4024. Functions of Secretary
+### § 4024. Functions of Secretary
 
 **(a) Nature and correlation of training and instruction; encouragement of complementary programs; employment of personnel; acquisition of property and equipment** In the exercise of functions under this subchapter, the Secretary of State may—
 
@@ -3732,17 +3732,17 @@ Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874,
 
 **(2)** As used in this subsection, the term “consular function” includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
 
-(Pub. L. 96–465, title I, § 704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, § 125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(f), Oct. 21, 1998, 112 Stat. 2681–819; Pub. L. 114–323, title IV, § 407, Dec. 16, 2016, 130 Stat. 1930; Pub. L. 119–60, div. E, title II, § 5206(b), Dec. 18, 2025, 139 Stat. 1592.)
+(Pub. L. 96–465, title I, § 704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, § 125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(f), Oct. 21, 1998, 112 Stat. 2681–819; Pub. L. 114–323, title IV, § 407, Dec. 16, 2016, 130 Stat. 1930; Pub. L. 119–60, div. E, title II, § 5206(b), Dec. 18, 2025, 139 Stat. 1592.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Codification**
 
-In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -3756,7 +3756,7 @@ In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101
 
 1982—Subsec. (b)(2). Pub. L. 97–241 substituted “section 3972 of this title” for “section 3971 of this title”.
 
-### § 4025. Training grants
+### § 4025. Training grants
 
 **(a) Family members attending approved programs of study; limitations**
 
@@ -3766,7 +3766,7 @@ To facilitate training provided to members of families of Government employees u
 
 If a member of the Service who is assigned abroad, or a member of his or her family, is unable to participate in language training furnished by the Government through the institution or otherwise, the Secretary may compensate that individual for all or part of the costs of language training, related to the assignment abroad, which is undertaken at a public or private institution.
 
-(Pub. L. 96–465, title I, § 705, Oct. 17, 1980, 94 Stat. 2101; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394.)
+(Pub. L. 96–465, title I, § 705, Oct. 17, 1980, 94 Stat. 2101; Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394.)
 
 **Editorial Notes**
 
@@ -3774,7 +3774,7 @@ If a member of the Service who is assigned abroad, or a member of his or her fam
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute” after “through the”.
 
-### § 4026. Career counseling
+### § 4026. Career counseling
 
 **(a) Facilitation of transition from Service**
 
@@ -3788,9 +3788,9 @@ In order to facilitate their transition from the Service, the Secretary may prov
 
 **(B)** maintaining a centralized system for cataloging their skills and the various governmental and nongovernmental employment opportunities available to them; and
 
-**(D)**  1
+**(D)** 1
 
-<sup>1</sup>  So in original. There is no subpar. (C).
+<sup>1</sup> So in original. There is no subpar. (C).
 
 otherwise assisting them in obtaining employment.
 
@@ -3816,23 +3816,23 @@ otherwise assisting them in obtaining employment.
 
 **(7)** In this subsection, the term “eligible family member” refers to family members of government employees assigned abroad or hired for service at their post of residence who are appointed by the Secretary of State or the Administrator of the United States Agency for International Development pursuant to sections 3902, 3922, 3943, and 3951 of this title.
 
-(Pub. L. 96–465, title I, § 706, Oct. 17, 1980, 94 Stat. 2101; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2314(a), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 117–81, div. F, title LXII, § 6203, Dec. 27, 2021, 135 Stat. 2389.)
+(Pub. L. 96–465, title I, § 706, Oct. 17, 1980, 94 Stat. 2101; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2314(a), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 117–81, div. F, title LXII, § 6203, Dec. 27, 2021, 135 Stat. 2389.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–81, § 6203(1)(A), which directed substitution of “The Secretary shall implement such measures as the Secretary considers necessary to facilitate the employment of spouses and members of the Service. The measures may include—” for “The Secretary may facilitate the employment of spouses of members of the Foreign Service by—” in introductory provisions, was executed by making the substitution for “The Secretary may facilitate the employment of spouses of members of the Service by—”, to reflect the probable intent of Congress.
+2021—Subsec. (b)(1). Pub. L. 117–81, § 6203(1)(A), which directed substitution of “The Secretary shall implement such measures as the Secretary considers necessary to facilitate the employment of spouses and members of the Service. The measures may include—” for “The Secretary may facilitate the employment of spouses of members of the Foreign Service by—” in introductory provisions, was executed by making the substitution for “The Secretary may facilitate the employment of spouses of members of the Service by—”, to reflect the probable intent of Congress.
 
-Subsec. (b)(1)(C). Pub. L. 117–81, § 6203(1)(C), which directed amendment of subpar. (C) to read as follows: “establishing a program for assisting eligible family members in accessing employment and education opportunities, as appropriate, including by exercising the authorities, in relevant part, under sections 1784 and 1784a of title 10 and subject to such regulations as the Secretary may prescribe modeled after those prescribed pursuant to subsection (b) of such section 1784;”, could not be executed because of the prior redesignation of subpar. (C) as (D) by Pub. L. 117–81, § 6203(1)(B). See below.
+Subsec. (b)(1)(C). Pub. L. 117–81, § 6203(1)(C), which directed amendment of subpar. (C) to read as follows: “establishing a program for assisting eligible family members in accessing employment and education opportunities, as appropriate, including by exercising the authorities, in relevant part, under sections 1784 and 1784a of title 10 and subject to such regulations as the Secretary may prescribe modeled after those prescribed pursuant to subsection (b) of such section 1784;”, could not be executed because of the prior redesignation of subpar. (C) as (D) by Pub. L. 117–81, § 6203(1)(B). See below.
 
-Subsec. (b)(1)(D). Pub. L. 117–81, § 6203(1)(B), redesignated subpar. (C) as (D).
+Subsec. (b)(1)(D). Pub. L. 117–81, § 6203(1)(B), redesignated subpar. (C) as (D).
 
-Subsec. (b)(2) to (5). Pub. L. 117–81, § 6203(3), added pars. (2) to (5). Former par. (2) redesignated (6).
+Subsec. (b)(2) to (5). Pub. L. 117–81, § 6203(3), added pars. (2) to (5). Former par. (2) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 117–81, § 6203(2), redesignated par. (2) as (6).
+Subsec. (b)(6). Pub. L. 117–81, § 6203(2), redesignated par. (2) as (6).
 
-Subsec. (b)(7). Pub. L. 117–81, § 6203(4), added par. (7).
+Subsec. (b)(7). Pub. L. 117–81, § 6203(4), added par. (7).
 
 1998—Subsec. (a). Pub. L. 105–277 inserted at end “Career counseling and related services provided pursuant to this chapter shall not be construed to permit an assignment that consists primarily of paid time to conduct a job search and without other substantive duties for more than one month.”
 
@@ -3840,13 +3840,13 @@ Subsec. (b)(7). Pub. L. 117–81, § 6203(4), added par. (7).
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2314(b), Oct. 21, 1998, 112 Stat. 2681–828, provided that: “The amendment made by subsection (a) [amending this section] shall be effective 180 days after the date of the enactment of this Act [Oct. 21, 1998].”
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2314(b), Oct. 21, 1998, 112 Stat. 2681–828, provided that: “The amendment made by subsection (a) [amending this section] shall be effective 180 days after the date of the enactment of this Act [Oct. 21, 1998].”
 
 **Authority of Secretary of State**
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-### § 4027. Visiting Scholars Program
+### § 4027. Visiting Scholars Program
 
 **(a) Establishment of program**
 
@@ -3862,7 +3862,7 @@ There is authorized to be established at the institution a program whereby selec
 
 The board referred to in subsection (b) shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
 
-(Pub. L. 96–465, title I, § 707, as added Pub. L. 101–246, title I, § 144(a), Feb. 16, 1990, 104 Stat. 36; amended Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394.)
+(Pub. L. 96–465, title I, § 707, as added Pub. L. 101–246, title I, § 144(a), Feb. 16, 1990, 104 Stat. 36; amended Pub. L. 103–236, title I, § 126(3), Apr. 30, 1994, 108 Stat. 394.)
 
 **Editorial Notes**
 
@@ -3870,7 +3870,7 @@ The board referred to in subsection (b) shall be composed of the Director of the
 
 1994—Subsecs. (a), (c). Pub. L. 103–236 substituted “institution” for “Foreign Service Institute” and “Institute” in subsec. (a) and “institution” for “Foreign Service Institute” in subsec. (c).
 
-### § 4028. Training for Foreign Service officers
+### § 4028. Training for Foreign Service officers
 
 **(a) Human rights, religious freedom, and human trafficking training**
 
@@ -3934,13 +3934,13 @@ The Secretary of State, with the assistance of other relevant officials and the 
 
 Members of the Service, including appropriate chiefs of mission and other officers who are assigned to United States missions representing the United States to international organizations and other multilateral institutions or who are assigned in other positions that have as their primary responsibility formulation of policy related to such organizations and institutions, or participation in negotiations of international instruments, shall receive specialized training in the areas described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at that time is not practical, within the first year of beginning such assignment.
 
-(Pub. L. 96–465, title I, § 708, as added and amended Pub. L. 105–292, title I, § 104, title VI, § 602(b), Oct. 27, 1998, 112 Stat. 2795, 2812; Pub. L. 107–132, § 2(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 109–164, title I, § 104(d), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title IV, § 406, Dec. 23, 2008, 122 Stat. 5091; Pub. L. 114–281, title I, § 103(a), Dec. 16, 2016, 130 Stat. 1430; Pub. L. 115–441, § 4, Jan. 14, 2019, 132 Stat. 5587; Pub. L. 116–94, div. J, title VII, § 705, Dec. 20, 2019, 133 Stat. 3071; Pub. L. 118–31, div. F, title LXVII, § 6702(a), Dec. 22, 2023, 137 Stat. 1015.)
+(Pub. L. 96–465, title I, § 708, as added and amended Pub. L. 105–292, title I, § 104, title VI, § 602(b), Oct. 27, 1998, 112 Stat. 2795, 2812; Pub. L. 107–132, § 2(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 109–164, title I, § 104(d), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title IV, § 406, Dec. 23, 2008, 122 Stat. 5091; Pub. L. 114–281, title I, § 103(a), Dec. 16, 2016, 130 Stat. 1430; Pub. L. 115–441, § 4, Jan. 14, 2019, 132 Stat. 5587; Pub. L. 116–94, div. J, title VII, § 705, Dec. 20, 2019, 133 Stat. 3071; Pub. L. 118–31, div. F, title LXVII, § 6702(a), Dec. 22, 2023, 137 Stat. 1015.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(1)(C), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(1)(C), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
@@ -3952,17 +3952,17 @@ The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title 
 
 Subsec. (d). Pub. L. 116–94 added subsec. (d).
 
-2016—Subsec. (a). Pub. L. 114–281, § 103(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+2016—Subsec. (a). Pub. L. 114–281, § 103(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsecs. (b), (c). Pub. L. 114–281, § 103(a)(2), (3), inserted headings.
+Subsecs. (b), (c). Pub. L. 114–281, § 103(a)(2), (3), inserted headings.
 
 2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 
-2006—Subsec. (a). Pub. L. 109–164 inserted “, the Director of the Office to Monitor and Combat Trafficking,” after “section 6411(b) of this title” in introductory provisions and added par. (3).
+2006—Subsec. (a). Pub. L. 109–164 inserted “, the Director of the Office to Monitor and Combat Trafficking,” after “section 6411(b) of this title” in introductory provisions and added par. (3).
 
 2002—Subsec. (a). Pub. L. 107–132 inserted “George P. Shultz” after “director of the” in introductory provisions.
 
-1998—Pub. L. 105–292, § 602(b), designated existing provisions as subsec. (a) and added subsec. (b).
+1998—Pub. L. 105–292, § 602(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3972,17 +3972,17 @@ Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see secti
 
 **Economic and Commercial Diplomacy Training**
 
-Pub. L. 119–75, div. F, title VII, § 7028(b), Feb. 3, 2026, 140 Stat. 560, provided that: “In carrying out section 705 of title VII of division J of Public Law 116–94 [amending this section], the Secretary of State shall annually assess training needs across the economic and commercial diplomacy issue areas and ensure, after a review of course offerings, course attendance records, and course evaluation results, that current offerings meet training needs.”
+Pub. L. 119–75, div. F, title VII, § 7028(b), Feb. 3, 2026, 140 Stat. 560, provided that: “In carrying out section 705 of title VII of division J of Public Law 116–94 [amending this section], the Secretary of State shall annually assess training needs across the economic and commercial diplomacy issue areas and ensure, after a review of course offerings, course attendance records, and course evaluation results, that current offerings meet training needs.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 118–47, div. F, title VII, § 7025(c), Mar. 23, 2024, 138 Stat. 775.
+Pub. L. 118–47, div. F, title VII, § 7025(c), Mar. 23, 2024, 138 Stat. 775.
 
 **Training for Department Employees**
 
-Pub. L. 118–31, div. F, title LXVII, § 6702(b), Dec. 22, 2023, 137 Stat. 1015, provided that: “The Secretary of State shall ensure that employees of the Department of State who are assigned to positions described in paragraph (2) of subsection (e) of section 708 of the Foreign Service Act of 1980 [22 U.S.C. 4028(e)(2)] (as added by subsection (a) of this section), including members of the civil service or general service, or who are seconded to international organizations for a period of at least one year, receive training described in such subsection and participate in other such courses as the Secretary may recommend to build or augment identifiable skills that would be useful for such Department officials representing United States interests at these institutions and organizations.”
+Pub. L. 118–31, div. F, title LXVII, § 6702(b), Dec. 22, 2023, 137 Stat. 1015, provided that: “The Secretary of State shall ensure that employees of the Department of State who are assigned to positions described in paragraph (2) of subsection (e) of section 708 of the Foreign Service Act of 1980 [22 U.S.C. 4028(e)(2)] (as added by subsection (a) of this section), including members of the civil service or general service, or who are seconded to international organizations for a period of at least one year, receive training described in such subsection and participate in other such courses as the Secretary may recommend to build or augment identifiable skills that would be useful for such Department officials representing United States interests at these institutions and organizations.”
 
-### § 4028a. Per diem allowance for newly hired members of the Foreign Service
+### § 4028a. Per diem allowance for newly hired members of the Foreign Service
 
 **(a) Per diem allowance**
 
@@ -4002,7 +4002,7 @@ Except as provided in paragraph (2), any newly hired Foreign Service employee wh
 
 **(2)** the term “Washington, D.C., area” means the geographic area within a 50-mile radius of the Washington Monument.
 
-(Pub. L. 118–159, div. G, title LXXI, § 7109, Dec. 23, 2024, 138 Stat. 2525.)
+(Pub. L. 118–159, div. G, title LXXI, § 7109, Dec. 23, 2024, 138 Stat. 2525.)
 
 **Editorial Notes**
 
@@ -4010,7 +4010,7 @@ Except as provided in paragraph (2), any newly hired Foreign Service employee wh
 
 Section was enacted as part of the Department of State Authorization Act for Fiscal Year 2025, and also as part of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-### § 4029. Increased training in multilateral diplomacy
+### § 4029. Increased training in multilateral diplomacy
 
 **(1) Statement of policy**
 
@@ -4032,7 +4032,7 @@ The Secretary shall ensure that the training described in paragraph (1) is provi
 
 The Secretary shall ensure that employees of the Department of State who are members of the civil service and who are assigned to positions described in paragraph (2) receive training described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at such time is not practical, within the first year of beginning such assignment.
 
-(Pub. L. 108–458, title VII, § 7111(c), Dec. 17, 2004, 118 Stat. 3795.)
+(Pub. L. 108–458, title VII, § 7111(c), Dec. 17, 2004, 118 Stat. 3795.)
 
 **Editorial Notes**
 
@@ -4040,7 +4040,7 @@ The Secretary shall ensure that employees of the Department of State who are mem
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-### § 4030. Suitability reviews for Foreign Service Institute instructors
+### § 4030. Suitability reviews for Foreign Service Institute instructors
 
 The Secretary shall take reasonable steps to ensure that all instructors at the Foreign Service Institute, including direct hires and contractors, who provide language instruction are—
 
@@ -4048,7 +4048,7 @@ The Secretary shall take reasonable steps to ensure that all instructors at the 
 
 **(2)** subject to periodic background checks or reinvestigations to the extent consistent with Department and Executive policy for other Department personnel.
 
-(Pub. L. 118–31, div. F, title LXI, § 6116, Dec. 22, 2023, 137 Stat. 970.)
+(Pub. L. 118–31, div. F, title LXI, § 6116, Dec. 22, 2023, 137 Stat. 970.)
 
 **Editorial Notes**
 
@@ -4066,17 +4066,17 @@ For definitions of “Secretary” and “Department” as used in this section,
 
 ### Part I—Foreign Service Retirement and Disability System
 
-#### § 4041. Administration
+#### § 4041. Administration
 
 In accordance with such regulations as the President may prescribe, the Secretary of State shall administer the Foreign Service Retirement and Disability System (hereinafter in this part referred to as the “System”), originally established pursuant to section 18 of the Act of May 24, 1924 (43 Stat. 144).
 
-(Pub. L. 96–465, title I, § 801, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
+(Pub. L. 96–465, title I, § 801, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 of this title, was repealed by act Aug. 13, 1946, ch. 957, title XI, § 1131(44), 60 Stat. 1038.
+Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 of this title, was repealed by act Aug. 13, 1946, ch. 957, title XI, § 1131(44), 60 Stat. 1038.
 
 **Amendments**
 
@@ -4094,7 +4094,7 @@ Subchapter effective Feb. 15, 1981, except regarding the rights of former spouse
 
 **Termination of Retirement Benefits for Foreign National Employees Engaging in Hostile Intelligence Activities**
 
-Pub. L. 100–204, title I, § 158, Dec. 22, 1987, 101 Stat. 1355, provided that:
+Pub. L. 100–204, title I, § 158, Dec. 22, 1987, 101 Stat. 1355, provided that:
 
 > **“(a) Termination.—** The Secretary of State shall exercise the authorities available to him to ensure that the United States does not provide, directly or indirectly, any retirement benefits of any kind to any present or former foreign national employee of a United States diplomatic or consular post against whom the Secretary has convincing evidence that such employee has engaged in intelligence activities directed against the United States. To the extent practicable, the Secretary shall provide due process in implementing this section.
 
@@ -4110,17 +4110,17 @@ For temporary provisions providing modified contributions and procedures for mem
 
 Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
-#### § 4042. Maintenance of Fund
+#### § 4042. Maintenance of Fund
 
 The Secretary of the Treasury shall maintain the special fund known as the Foreign Service Retirement and Disability Fund (hereinafter in this part referred to as the “Fund”), originally created by section 18 of the Act of May 24, 1924 (43 Stat. 144).
 
-(Pub. L. 96–465, title I, § 802, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
+(Pub. L. 96–465, title I, § 802, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 of this title, was repealed by act Aug. 13, 1946, ch. 957, title XI, § 1131(44), 60 Stat. 1038.
+Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 of this title, was repealed by act Aug. 13, 1946, ch. 957, title XI, § 1131(44), 60 Stat. 1038.
 
 **Amendments**
 
@@ -4132,7 +4132,7 @@ Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4043. Participants
+#### § 4043. Participants
 
 **(a) Career appointees or candidates; chiefs of mission** Except as provided in subsection (d), the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
 
@@ -4160,19 +4160,19 @@ In addition to the individuals who are participants in the System under subsecti
 
 An individual subject to the Foreign Service Pension System (described in part II) is not a participant in this System.
 
-(Pub. L. 96–465, title I, § 803, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§ 402(a)(2), 414, June 6, 1986, 100 Stat. 609, 614.)
+(Pub. L. 96–465, title I, § 803, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§ 402(a)(2), 414, June 6, 1986, 100 Stat. 609, 614.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–335, §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
+1986—Subsec. (a). Pub. L. 99–335, §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
 
-Subsec. (d). Pub. L. 99–335, § 414(2), added subsec. (d).
+Subsec. (d). Pub. L. 99–335, § 414(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4180,7 +4180,7 @@ Subsec. (d). Pub. L. 99–335, § 414(2), added subsec. (d).
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4044. Definitions
+#### § 4044. Definitions
 
 As used in this part, unless otherwise specified, the term—
 
@@ -4226,9 +4226,9 @@ As used in this part, unless otherwise specified, the term—
 
 **(A)** in the Armed Forces of the United States,
 
-**(B)** in the Regular or Reserve Corps 1
+**(B)** in the Regular or Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service after June 30, 1960, or
 
@@ -4276,33 +4276,33 @@ but does not include service in the National Guard except when ordered to active
 
 **(C)** transferred directly to a position which is supervisory or administrative in nature after performing duties described in subparagraph (A) for at least 3 years.
 
-(Pub. L. 96–465, title I, § 804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, § 211, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 105–382, § 2(a)(1), Nov. 13, 1998, 112 Stat. 3406.)
+(Pub. L. 96–465, title I, § 804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, § 211, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 105–382, § 2(a)(1), Nov. 13, 1998, 112 Stat. 3406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
 1998—Par. (15). Pub. L. 105–382 added par. (15).
 
-1988—Par. (13). Pub. L. 100–238, § 211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
+1988—Par. (13). Pub. L. 100–238, § 211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
 
-Pub. L. 100–238, § 211(2), (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
+Pub. L. 100–238, § 211(2), (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
 
 “(A) the death of such participant or annuitant was accidental; or
 
 “(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months”.
 
-1986—Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
+1986—Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
 
-Par. (3). Pub. L. 99–335, § 403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in section 1301(3) of title 25” for “or of the District of Columbia”.
+Par. (3). Pub. L. 99–335, § 403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in section 1301(3) of title 25” for “or of the District of Columbia”.
 
-Par. (10). Pub. L. 99–335, § 404(a), inserted “(creditable under part I or II)” after “creditable service” in two places.
+Par. (10). Pub. L. 99–335, § 404(a), inserted “(creditable under part I or II)” after “creditable service” in two places.
 
-Par. (14). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
+Par. (14). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4312,7 +4312,7 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–382, § 4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 145(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
+Pub. L. 105–382, § 4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 145(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 3901 of this title] and the amendments made by this Act—
 
@@ -4352,7 +4352,7 @@ Pub. L. 105–382, § 4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 
 
 > **“(e) Definition.—** For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 (22 U.S.C. 4044(15)), as amended by section 2(a).”
 
-[Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 145(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that: “The amendment made by this section [amending section 4 of Pub. L. 105–382, set out above] shall take effect on January 1, 2001.” ]
+[Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 145(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that: “The amendment made by this section [amending section 4 of Pub. L. 105–382, set out above] shall take effect on January 1, 2001.” ]
 
 **Effective Date of 1988 Amendment**
 
@@ -4362,7 +4362,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4045. Contributions to Fund
+#### § 4045. Contributions to Fund
 
 **(a) Rates and sources; deposits in Fund**
 
@@ -4372,9 +4372,9 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **(A)** the employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the employing agency.
 
-**(B)** The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(e) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) 1
+**(B)** The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(e) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the employing agency.
 
@@ -4416,7 +4416,7 @@ Special contributions for refunds under subparagraph (B) shall equal the amount 
 
 **(3)** Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. 2
 
-<sup>2</sup>  See Amendment of Section note below.
+<sup>2</sup> See Amendment of Section note below.
 
 Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
@@ -4456,7 +4456,7 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act [42 U.S.C. 401 et seq.] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, § 805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, § 4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§ 402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, § 212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, § 4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, § 7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, § 2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, § 101(a) [title V, § 505(d)(2)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, § 322(a)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5001(c)(2)(D), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, § 3(b)(2)(B)(i), Dec. 9, 2022, 136 Stat. 2296.)
+(Pub. L. 96–465, title I, § 805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, § 4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§ 402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, § 212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, § 4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, § 7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, § 2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, § 101(a) [title V, § 505(d)(2)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, § 322(a)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5001(c)(2)(D), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, § 3(b)(2)(B)(i), Dec. 9, 2022, 136 Stat. 2296.)
 
 **Amendment of Section**
 
@@ -4466,13 +4466,13 @@ Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set ou
 
 **References in Text**
 
-Section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001, referred to in subsec. (a)(1), is section 101(a) [title V, § 505(h)] of Pub. L. 106–346, which is set out as a note below.
+Section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001, referred to in subsec. (a)(1), is section 101(a) [title V, § 505(h)] of Pub. L. 106–346, which is set out as a note below.
 
-Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, § 7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
+Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, § 7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
 
 Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in subsec. (d)(4), are set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -4480,45 +4480,45 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 2012—Subsec. (a)(2)(B). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
 
-2002—Subsec. (a)(1). Pub. L. 107–228, § 322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
+2002—Subsec. (a)(1). Pub. L. 107–228, § 322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
 
-Pub. L. 107–228, § 322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
+Pub. L. 107–228, § 322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
 
-Subsec. (a)(2)(A), (B). Pub. L. 107–228, § 322(a)(2)(C), substituted “employing agency” for “Department” wherever appearing.
+Subsec. (a)(2)(A), (B). Pub. L. 107–228, § 322(a)(2)(C), substituted “employing agency” for “Department” wherever appearing.
 
-Pub. L. 107–228, § 322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting “, plus an amount equal to .25 percent of basic pay” at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+Pub. L. 107–228, § 322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting “, plus an amount equal to .25 percent of basic pay” at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 107–228, § 322(a)(2)(D), which directed amendment of par. (3) by inserting “, plus .25 percent” at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 107–228, § 322(a)(2)(D), which directed amendment of par. (3) by inserting “, plus .25 percent” at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
 
 2000—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
 
-1998—Subsec. (a)(1). Pub. L. 105–382, § 2(b)(2), substituted “Except as otherwise provided in this section,” for “Except as provided in subsection (h) of this section,”.
+1998—Subsec. (a)(1). Pub. L. 105–382, § 2(b)(2), substituted “Except as otherwise provided in this section,” for “Except as provided in subsection (h) of this section,”.
 
-Subsec. (a)(3). Pub. L. 105–382, § 2(b)(1), added par. (3).
+Subsec. (a)(3). Pub. L. 105–382, § 2(b)(1), added par. (3).
 
-Subsec. (d)(6). Pub. L. 105–382, § 2(c), added par. (6).
+Subsec. (d)(6). Pub. L. 105–382, § 2(c), added par. (6).
 
-1997—Subsec. (d)(1). Pub. L. 105–33, § 7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
+1997—Subsec. (d)(1). Pub. L. 105–33, § 7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
-Subsec. (e)(1). Pub. L. 105–33, § 7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
+Subsec. (e)(1). Pub. L. 105–33, § 7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
 
-Subsec. (e)(5). Pub. L. 105–33, § 7001(d)(2)(D)(ii), added par. (5).
+Subsec. (e)(5). Pub. L. 105–33, § 7001(d)(2)(D)(ii), added par. (5).
 
-1992—Subsec. (a). Pub. L. 102–499, § 4(a), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (a). Pub. L. 102–499, § 4(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(5). Pub. L. 102–499, § 4(b), added par. (5).
+Subsec. (d)(5). Pub. L. 102–499, § 4(b), added par. (5).
 
 1988—Subsec. (d)(1). Pub. L. 100–238, in concluding provisions, substituted “Fund. Special contributions for purposes of subparagraph (A) shall equal” for “Fund equal to” and inserted “Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.”
 
-1986—Subsec. (a). Pub. L. 99–335, § 405(a)(1), inserted “Except as provided in subsection (h) of this section,” before “7 percent”.
+1986—Subsec. (a). Pub. L. 99–335, § 405(a)(1), inserted “Except as provided in subsection (h) of this section,” before “7 percent”.
 
-Subsec. (d)(4). Pub. L. 99–335, § 405(b), added par. (4).
+Subsec. (d)(4). Pub. L. 99–335, § 405(b), added par. (4).
 
-Subsec. (e)(1). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsec. (e)(1). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
 Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Pub. L. 99–335, § 405(a)(2), added subsec. (h).
+Pub. L. 99–335, § 405(a)(2), added subsec. (h).
 
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.”
 
@@ -4530,11 +4530,11 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–228, div. A, title III, § 322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) [amending this section] and (b)(2) [amending section 4071e of this title] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
+Pub. L. 107–228, div. A, title III, § 322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) [amending this section] and (b)(2) [amending section 4071e of this title] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1998 Amendment**
 
@@ -4558,7 +4558,7 @@ Amendment by Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex.
 
 **Foreign Service Retirement and Disability System Contributions, Deductions, and Withholdings**
 
-Pub. L. 106–346, § 101(a) [title V, § 505(h)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that:
+Pub. L. 106–346, § 101(a) [title V, § 505(h)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that:
 
 > “Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
 
@@ -4568,7 +4568,7 @@ Pub. L. 106–346, § 101(a) [title V, § 505(h)], Oct. 23, 2000, 114 Stat. 
 
 > in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
 
-Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659, 660, as amended by Pub. L. 106–346, § 101(a) [title V, § 505(d)(1)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
+Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659, 660, as amended by Pub. L. 106–346, § 101(a) [title V, § 505(d)(1)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 > **“(1) Agency contributions.—** Notwithstanding section 805(a)(1) and (2) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1) and (2)), during the period beginning on October 1, 1997, through September 30, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
 
@@ -4592,9 +4592,9 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 6
 > |---|---|---|
 > |  | “7.9 | January 1, 2000, to December 31, 2000.” |
 
-#### § 4046. Computation of annuities
+#### § 4046. Computation of annuities
 
-**(a) 1 [footnote: 1 See Amendment of Section note below.] Measurements; reduction for special contributions; Foreign Service investigator/inspectors**
+**(a) 1 [footnote: 1 See Amendment of Section note below.] Measurements; reduction for special contributions; Foreign Service investigator/inspectors**
 
 **(1)** The annuity of a participant shall be equal to 2 percent of his or her average basic salary for the highest 3 consecutive years of service multiplied by the number of years, not exceeding 35, of service credit obtained in accordance with sections 4056 and 4057 of this title, except that the highest 3 years of service shall be used in computing the annuity of any participant who serves an assignment in a position, as described in section 3942(b) of this title, to which the participant was appointed by the President and whose continuity of service in that position is interrupted prior to retirement by appointment or assignment to any other position determined by the Secretary of State to be of comparable importance. In determining the aggregate period of service upon which the annuity is to be based, the fractional part of a month, if any, shall not be counted. The annuity shall be reduced by 10 percent of any special contribution described in section 4045(d) of this title which is due for service for which no contributions were made and which remains unpaid unless the participant elects to eliminate the service involved for purposes of annuity computation.
 
@@ -4764,7 +4764,7 @@ An annuity which is reduced under this section or any similar prior provision of
 
 **(2)** to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and section 4054 of this title.
 
-**(l) Repealed. Pub. L. 100–238, title II, § 217(c)(1), Jan. 8, 1988, 101 Stat. 1775**
+**(l) Repealed. Pub. L. 100–238, title II, § 217(c)(1), Jan. 8, 1988, 101 Stat. 1775**
 
 **(m) Offset of Social Security benefits** The retirement, disability, or survivor annuity payable to any person based on the service of an individual subject to section 4045(h) of this title beginning with the first day of the month for which such person first becomes—
 
@@ -4810,7 +4810,7 @@ may, during the 18-month period beginning on the date of the retirement of such 
 
 **(5)** Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
 
-(Pub. L. 96–465, title I, § 806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, § 402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§ 213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, § 587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, § 4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, § 2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, § 322(a)(1), Sept. 30, 2002, 116 Stat. 1383; Pub. L. 112–96, title V, § 5001(c)(2)(E), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, § 3(d), Dec. 9, 2022, 136 Stat. 2297.)
+(Pub. L. 96–465, title I, § 806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, § 402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§ 213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, § 587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, § 4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, § 2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408; Pub. L. 107–228, div. A, title III, § 322(a)(1), Sept. 30, 2002, 116 Stat. 1383; Pub. L. 112–96, title V, § 5001(c)(2)(E), Feb. 22, 2012, 126 Stat. 200; Pub. L. 117–225, § 3(d), Dec. 9, 2022, 136 Stat. 2297.)
 
 **Amendment of Section**
 
@@ -4824,7 +4824,7 @@ Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set ou
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -4834,31 +4834,31 @@ The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch
 
 2002—Subsec. (a)(9). Pub. L. 107–228 added par. (9).
 
-1998—Subsec. (a)(6). Pub. L. 105–382, § 2(d)(1), added par. (6). Former par. (6) redesignated (7).
+1998—Subsec. (a)(6). Pub. L. 105–382, § 2(d)(1), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 105–382, § 2(d)(2)(B), added par. (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 105–382, § 2(d)(2)(B), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 105–382, § 2(d)(2)(A), (3)(A), redesignated par. (7) as (8) and substituted “(4), and (6)” for “and (4)”.
+Subsec. (a)(8). Pub. L. 105–382, § 2(d)(2)(A), (3)(A), redesignated par. (7) as (8) and substituted “(4), and (6)” for “and (4)”.
 
 1992—Subsec. (a)(6). Pub. L. 102–499 substituted “section 5545(c)(2)” for “section 5545(a)(2)”.
 
 1990—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added pars. (2) to (6).
 
-1988—Subsec. (b)(1)(C). Pub. L. 100–238, § 213(a), substituted “24-month” for “12-month”.
+1988—Subsec. (b)(1)(C). Pub. L. 100–238, § 213(a), substituted “24-month” for “12-month”.
 
-Subsec. (c)(1), (2). Pub. L. 100–238, § 214(a)(1), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant” after “survived by a spouse”.
+Subsec. (c)(1), (2). Pub. L. 100–238, § 214(a)(1), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant” after “survived by a spouse”.
 
-Subsec. (d). Pub. L. 100–238, § 214(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “If a surviving spouse dies or the annuity of a child is terminated, the annuities of any remaining children shall be recomputed and paid as though such spouse or child had not survived the participant.”
+Subsec. (d). Pub. L. 100–238, § 214(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “If a surviving spouse dies or the annuity of a child is terminated, the annuities of any remaining children shall be recomputed and paid as though such spouse or child had not survived the participant.”
 
-Subsec. (i)(2). Pub. L. 100–238, § 213(b), substituted “this part” for “section 4054(b) of this title”.
+Subsec. (i)(2). Pub. L. 100–238, § 213(b), substituted “this part” for “section 4054(b) of this title”.
 
-Subsec. (*l*). Pub. L. 100–238, § 217(c)(1), struck out subsec. (*l*) which set minimum rates for annuities paid under this part.
+Subsec. (*l*). Pub. L. 100–238, § 217(c)(1), struck out subsec. (*l*) which set minimum rates for annuities paid under this part.
 
-1986—Subsecs. (b)(3)(C), (h). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund”.
+1986—Subsecs. (b)(3)(C), (h). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund”.
 
-Subsec. (*l*)(1), (2). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsec. (*l*)(1), (2). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
-Subsec. (m). Pub. L. 99–556, § 402, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “The annuity or survivor annuity payable to any individual subject to section 4045(h) of this title beginning with the first month for which such individual both—
+Subsec. (m). Pub. L. 99–556, § 402, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “The annuity or survivor annuity payable to any individual subject to section 4045(h) of this title beginning with the first month for which such individual both—
 
 “(1) attains the minimum age for old-age benefits under title II of the Social Security Act, and
 
@@ -4866,9 +4866,9 @@ Subsec. (m). Pub. L. 99–556, § 402, amended subsec. (m) generally. Prior to
 
 shall be computed as if section 8349 of title 5 were applicable.”
 
-Pub. L. 99–335, § 406, added subsec. (m).
+Pub. L. 99–335, § 406, added subsec. (m).
 
-Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
+Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4878,7 +4878,7 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–228, div. A, title III, § 322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(1) [amending this section] and (b)(1) [amending section 4071d of this title] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
+Pub. L. 107–228, div. A, title III, § 322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(1) [amending this section] and (b)(1) [amending section 4071d of this title] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
 
 **Effective Date of 1998 Amendment**
 
@@ -4890,11 +4890,11 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–556, title IV, § 408, Oct. 27, 1986, 100 Stat. 3139, provided that: “This title and the amendments made by this title [enacting section 4069 of this title and amending this section and sections 4064, 4071c, 4071d, and 4071j of this title] shall take effect on January 1, 1987. The amendment made by section 403 [amending section 4064 of this title] shall apply to any individual in a reemployed status on or after January 1, 1987.”
+Pub. L. 99–556, title IV, § 408, Oct. 27, 1986, 100 Stat. 3139, provided that: “This title and the amendments made by this title [enacting section 4069 of this title and amending this section and sections 4064, 4071c, 4071d, and 4071j of this title] shall take effect on January 1, 1987. The amendment made by section 403 [amending section 4064 of this title] shall apply to any individual in a reemployed status on or after January 1, 1987.”
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-Pub. L. 99–335, title IV, § 417, June 6, 1986, 100 Stat. 622, provided that:
+Pub. L. 99–335, title IV, § 417, June 6, 1986, 100 Stat. 622, provided that:
 
 > **“(a) Regulations.—** Notwithstanding section 702 of this Act [5 U.S.C. 8401 note], the authority of the Secretary of State to issue regulations under subchapter II of title 8 [probably means subchapter II of chapter 8 of title I] of the Foreign Service Act of 1980 [part II of this subchapter] shall take effect on the date of enactment of this Act [June 6, 1986].
 
@@ -4920,7 +4920,7 @@ For provisions relating to promulgation of regulations to carry out the amendmen
 
 **Election To Provide Survivor Annuity for Certain Spouses Acquired before Effective Date of Foreign Service Act of 1980**
 
-Pub. L. 100–238, title II, § 203, Jan. 8, 1988, 101 Stat. 1769, provided that:
+Pub. L. 100–238, title II, § 203, Jan. 8, 1988, 101 Stat. 1769, provided that:
 
 > **“(a) Election.—** A former participant who married his or her current spouse before the effective date of the Foreign Service Act of 1980 [see Effective Date note set out under section 3901 of this title] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
 
@@ -4954,7 +4954,7 @@ Pub. L. 100–238, title II, § 203, Jan. 8, 1988, 101 Stat. 1769, provided th
 
 > **“(h) Definitions.—** For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 [this part].”
 
-#### § 4047. Payment of annuity
+#### § 4047. Payment of annuity
 
 **(a) Commencement of annuity**
 
@@ -5016,7 +5016,7 @@ Recovery of overpayments under this part may not be made from an individual when
 
 **(6)** Notwithstanding any other provision of law, any lump-sum credit provided pursuant to an election under this subsection shall not preclude an individual from receiving any other benefits under this subsection.
 
-(Pub. L. 96–465, title I, § 807, Oct. 17, 1980, 94 Stat. 2109; Ex. Ord. No. 12446, § 3(a), Oct. 17, 1983, 48 F.R. 48443; Pub. L. 99–335, title IV, §§ 402(a)(2), 408, June 6, 1986, 100 Stat. 609, 612; Pub. L. 103–66, title XI, § 11002(b), Aug. 10, 1993, 107 Stat. 409.)
+(Pub. L. 96–465, title I, § 807, Oct. 17, 1980, 94 Stat. 2109; Ex. Ord. No. 12446, § 3(a), Oct. 17, 1983, 48 F.R. 48443; Pub. L. 99–335, title IV, §§ 402(a)(2), 408, June 6, 1986, 100 Stat. 609, 612; Pub. L. 103–66, title XI, § 11002(b), Aug. 10, 1993, 107 Stat. 409.)
 
 **Editorial Notes**
 
@@ -5024,9 +5024,9 @@ Recovery of overpayments under this part may not be made from an individual when
 
 1993—Subsec. (e)(1). Pub. L. 103–66 substituted “any participant who has a life-threatening affliction or other critical medical condition” for “a participant”.
 
-1986—Subsec. (d). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+1986—Subsec. (d). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
-Subsec. (e). Pub. L. 99–335, § 408, added subsec. (e).
+Subsec. (e). Pub. L. 99–335, § 408, added subsec. (e).
 
 1983—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as otherwise provided, the annuity of a former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60.”
 
@@ -5044,15 +5044,15 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Amendment by Ex. Ord. No. 12446 effective 30 days after Oct. 17, 1983, see section 3(b) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
-#### § 4048. Retirement for disability or incapacity
+#### § 4048. Retirement for disability or incapacity
 
 **(a) Causes; service credit**
 
 Any participant who has at least 5 years of service credit toward retirement under the System (excluding military and naval service) and who becomes totally disabled or incapacitated for useful and efficient service by reason of disease, illness, or injury (not due to vicious habits, intemperance, or willful conduct of the participant) shall, upon his or her own application or upon order of the Secretary, be retired on an annuity computed as prescribed in section 4046 of this title. If the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the System at the time of retirement, his or her annuity shall be computed on the assumption that the participant has had 20 years of service, except that the additional service credit that may accrue to a participant under this sentence shall in no case exceed the difference between his or her age at the time of retirement and age 60.
 
-However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of title 5) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this part excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 1
+However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of title 5) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this part excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5 or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this part in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this part.
 
@@ -5066,11 +5066,11 @@ If a recovered annuitant whose annuity is discontinued is for any reason not rei
 
 **(d) Election of benefits; concurrent benefits allowed**
 
-No participant shall be entitled to receive an annuity under this part and compensation for injury or disability to himself or herself under subchapter I of chapter 81 of title 5, covering the same period of time, except that a participant may simultaneously receive both an annuity under this section and scheduled disability payments under section 8107 of title 5. This subsection shall not bar the right of any claimant to the greater benefit conferred by either this part or subchapter I of such chapter 8 2
+No participant shall be entitled to receive an annuity under this part and compensation for injury or disability to himself or herself under subchapter I of chapter 81 of title 5, covering the same period of time, except that a participant may simultaneously receive both an annuity under this section and scheduled disability payments under section 8107 of title 5. This subsection shall not bar the right of any claimant to the greater benefit conferred by either this part or subchapter I of such chapter 8 2
 
-<sup>2</sup>  So in original. Probably should be chapter “81”.
+<sup>2</sup> So in original. Probably should be chapter “81”.
 
-for any part of the same period of time. Neither this subsection nor any provision of subchapter I of such chapter 8 2 shall be construed to deny the right of any participant to receive an annuity under this part and to receive concurrently any payment under subchapter I of such chapter 8 2 by reason of the death of any other individual.
+for any part of the same period of time. Neither this subsection nor any provision of subchapter I of such chapter 8 2 shall be construed to deny the right of any participant to receive an annuity under this part and to receive concurrently any payment under subchapter I of such chapter 8 2 by reason of the death of any other individual.
 
 **(e) Lump sum disability payments** Notwithstanding any other law, the right of any individual entitled to an annuity under this part shall not be affected because such person has received an award of compensation in a lump sum under section 8135 of title 5, except that where such annuity is payable on account of the same disability for which compensation under such section has been paid, so much of such compensation as has been paid for any period extended beyond the date such annuity becomes effective, as determined by the Secretary of Labor, shall be refunded to the Department of Labor, to be paid into the Federal Employees’ Compensation Fund. Before such individual receives such annuity, he or she shall—
 
@@ -5084,13 +5084,13 @@ Deductions from such annuity may be made from accrued and accruing payments, or 
 
 A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
-(Pub. L. 96–465, title I, § 808, Oct. 17, 1980, 94 Stat. 2110; Ex. Ord. No. 12289, § 2, Feb. 14, 1981, 46 F.R. 12693; Pub. L. 99–335, title IV, § 402(a)(2), (b), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, § 215(a), Jan. 8, 1988, 101 Stat. 1774; Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275.)
+(Pub. L. 96–465, title I, § 808, Oct. 17, 1980, 94 Stat. 2110; Ex. Ord. No. 12289, § 2, Feb. 14, 1981, 46 F.R. 12693; Pub. L. 99–335, title IV, § 402(a)(2), (b), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, § 215(a), Jan. 8, 1988, 101 Stat. 1774; Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5532 of title 5, referred to in subsec. (a), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+Section 5532 of title 5, referred to in subsec. (a), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 **Amendments**
 
@@ -5098,11 +5098,11 @@ Section 5532 of title 5, referred to in subsec. (a), was repealed by Pub. L. 106
 
 1988—Subsecs. (a), (b). Pub. L. 100–238 substituted “60” for “65”.
 
-1986—Subsec. (a). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter” in three places.
+1986—Subsec. (a). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter” in three places.
 
-Subsec. (d). Pub. L. 99–335, § 402(b)(1), substituted “subchapter I of such chapter 8” for “such subchapter” in three places and “part” for “chapter” in three places.
+Subsec. (d). Pub. L. 99–335, § 402(b)(1), substituted “subchapter I of such chapter 8” for “such subchapter” in three places and “part” for “chapter” in three places.
 
-Subsec. (e). Pub. L. 99–335, § 402(b)(2), substituted “part” for “chapter” in two places.
+Subsec. (e). Pub. L. 99–335, § 402(b)(2), substituted “part” for “chapter” in two places.
 
 1981—Subsec. (a). Ex. Ord. No. 12289 added second par. relating to computation of annuity for participant retiring under this section and receiving retired or retainer pay.
 
@@ -5120,7 +5120,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Ord. No. 12289, set out under section 4067 of this title.
 
-#### § 4049. Death in service
+#### § 4049. Death in service
 
 **(a) Lump-sum credit**
 
@@ -5154,19 +5154,19 @@ Notwithstanding subsection (b), if the participant or former participant had a f
 
 Annuities that become payable under this section shall commence, terminate, and be resumed in accordance with subsection (b)(4), (e), or (h) of section 4046 of this title, as appropriate.
 
-(Pub. L. 96–465, title I, § 809, Oct. 17, 1980, 94 Stat. 2111; Pub. L. 99–335, title IV, § 402(a)(2), (c), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §§ 214(b), 215(b), Jan. 8, 1988, 101 Stat. 1774.)
+(Pub. L. 96–465, title I, § 809, Oct. 17, 1980, 94 Stat. 2111; Pub. L. 99–335, title IV, § 402(a)(2), (c), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §§ 214(b), 215(b), Jan. 8, 1988, 101 Stat. 1774.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsecs. (c), (d). Pub. L. 100–238, § 214(b), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
+1988—Subsecs. (c), (d). Pub. L. 100–238, § 214(b), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
 
-Subsec. (e). Pub. L. 100–238, § 215(b), substituted “60” for “65”.
+Subsec. (e). Pub. L. 100–238, § 215(b), substituted “60” for “65”.
 
-1986—Subsec. (a). Pub. L. 99–335, § 402(c), substituted “part” for “chapter”.
+1986—Subsec. (a). Pub. L. 99–335, § 402(c), substituted “part” for “chapter”.
 
-Subsec. (b). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsec. (b). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5178,17 +5178,17 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4050. Discontinued service retirement
+#### § 4050. Discontinued service retirement
 
 Any participant who voluntarily separates from the Service after obtaining at least 5 years of service credit toward retirement under the System (excluding military and naval service) may upon separation from the Service or at any time prior to becoming eligible for an annuity elect to have his or her contributions to the Fund returned in accordance with section 4055 of this title, or to leave his or her contributions in the Fund and receive an annuity, computed under section 4046 of this title, commencing at age 60.
 
-(Pub. L. 96–465, title I, § 810, Oct. 17, 1980, 94 Stat. 2112.)
+(Pub. L. 96–465, title I, § 810, Oct. 17, 1980, 94 Stat. 2112.)
 
-#### § 4051. Voluntary retirement
+#### § 4051. Voluntary retirement
 
 Any participant who is at least 50 years of age and has 20 years of creditable service, including at least 5 years of service credit toward retirement under the System (excluding military and naval service), may on his or her own application and with the consent of the Secretary be retired from the Service and receive retirement benefits in accordance with section 4046 of this title. The Secretary shall withhold consent for retirement under this section by any participant who has not been a member of the Service for 5 years. Any participant who voluntarily separates from the Service before completing 5 years in the System and who, on the date of separation, would be eligible for an annuity, based on a voluntary separation, under section 8336 or 8338 of title 5, if the participant had been covered under the Civil Service Retirement System rather than subject to this subchapter while a member of the Service, may receive an annuity under section 8336 or 8338, notwithstanding section 8333(b) of title 5, if all contributions transferred to the Fund under section 4045(c)(1) of this title, as well as all contributions withheld from the participant’s pay or contributed by the employer, and deposited into the Fund during the period he or she was subject to this subchapter, including interest on these amounts, are transferred to the Civil Service Retirement and Disability Fund effective on the date the participant separates from the Service.
 
-(Pub. L. 96–465, title I, § 811, Oct. 17, 1980, 94 Stat. 2112; Pub. L. 100–238, title II, § 216, Jan. 8, 1988, 101 Stat. 1774.)
+(Pub. L. 96–465, title I, § 811, Oct. 17, 1980, 94 Stat. 2112; Pub. L. 100–238, title II, § 216, Jan. 8, 1988, 101 Stat. 1774.)
 
 **Editorial Notes**
 
@@ -5202,7 +5202,7 @@ Any participant who is at least 50 years of age and has 20 years of creditable s
 
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under section 4054 of this title.
 
-#### § 4052. Mandatory retirement
+#### § 4052. Mandatory retirement
 
 **(a)**
 
@@ -5224,7 +5224,7 @@ shall be separated from the Service on the last day of the month in which such i
 
 **(3)** Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
 
-(Pub. L. 96–465, title I, § 812, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 101–513, title V, § 587(b), Nov. 5, 1990, 104 Stat. 2056; Pub. L. 102–499, § 4(c), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–382, § 3, Nov. 13, 1998, 112 Stat. 3408; Pub. L. 117–225, § 3(b)(2)(B)(ii), Dec. 9, 2022, 136 Stat. 2296.)
+(Pub. L. 96–465, title I, § 812, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 101–513, title V, § 587(b), Nov. 5, 1990, 104 Stat. 2056; Pub. L. 102–499, § 4(c), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–382, § 3, Nov. 13, 1998, 112 Stat. 3408; Pub. L. 117–225, § 3(b)(2)(B)(ii), Dec. 9, 2022, 136 Stat. 2296.)
 
 **Editorial Notes**
 
@@ -5252,7 +5252,7 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
-#### § 4053. Reassignment and retirement of former Presidential appointees
+#### § 4053. Reassignment and retirement of former Presidential appointees
 
 **(a) Reassignment or retirement of participants not eligible for retirement** A participant, who completes an assignment under section 3942(b) of this title in a position to which the participant was appointed by the President, and is not otherwise eligible for retirement—
 
@@ -5268,7 +5268,7 @@ A participant who completes an assignment under section 3942(b) of this title in
 
 A participant who is retired under subsection (a)(2) and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
 
-(Pub. L. 96–465, title I, § 813, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 102–138, title I, § 149, Oct. 28, 1991, 105 Stat. 670; Pub. L. 103–236, title I, § 174, Apr. 30, 1994, 108 Stat. 413.)
+(Pub. L. 96–465, title I, § 813, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 102–138, title I, § 149, Oct. 28, 1991, 105 Stat. 670; Pub. L. 103–236, title I, § 174, Apr. 30, 1994, 108 Stat. 413.)
 
 **Editorial Notes**
 
@@ -5284,7 +5284,7 @@ A participant who is retired under subsection (a)(2) and is subsequently employe
 
 1991—Pub. L. 102–138 inserted “Reassignment and” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a participant completes an assignment under section 3942(b) of this title in a position to which he or she was appointed by the President and has not been reassigned within 3 months after the termination of such assignment (plus any period of authorized leave), the participant shall be retired from the Service and receive retirement benefits in accordance with section 4046 of this title.”
 
-#### § 4054. Former spouses
+#### § 4054. Former spouses
 
 **(a) Living Service members**
 
@@ -5384,31 +5384,31 @@ an additional survivor annuity under this subsection for any other former spouse
 
 **(5)** Section 4066 of this title shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
 
-(Pub. L. 96–465, title I, § 814, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 97–241, title I, § 125(2), Aug. 24, 1982, 96 Stat. 282; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 404(b), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, § 217(a), (b), (c)(2), Jan. 8, 1988, 101 Stat. 1775.)
+(Pub. L. 96–465, title I, § 814, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 97–241, title I, § 125(2), Aug. 24, 1982, 96 Stat. 282; Pub. L. 99–335, title IV, §§ 402(a)(2), (3), 404(b), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, § 217(a), (b), (c)(2), Jan. 8, 1988, 101 Stat. 1775.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a)(1). Pub. L. 100–238, § 217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
+1988—Subsec. (a)(1). Pub. L. 100–238, § 217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
 
-Subsec. (a)(4). Pub. L. 100–238, § 217(b), substituted “24” for “12”.
+Subsec. (a)(4). Pub. L. 100–238, § 217(b), substituted “24” for “12”.
 
-Subsec. (d). Pub. L. 100–238, § 217(c)(2), struck out subsec. (d) which read as follows: “Section 4046(*l*) of this title shall not apply—
+Subsec. (d). Pub. L. 100–238, § 217(c)(2), struck out subsec. (d) which read as follows: “Section 4046(*l*) of this title shall not apply—
 
 “(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under section 4060(b)(1) of this title, or an election under section 4046(b)(1)(B) of this title, from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
 
 “(2) to any annuity payable under subsection (c) of this section.”
 
-1986—Subsec. (a)(1). Pub. L. 99–335, § 404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+1986—Subsec. (a)(1). Pub. L. 99–335, § 404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
-Subsec. (a)(3), (5)(A), (6)(A). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsec. (a)(3), (5)(A), (6)(A). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
-Subsec. (b)(1). Pub. L. 99–335, § 404(b)(2), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+Subsec. (b)(1). Pub. L. 99–335, § 404(b)(2), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
-Subsec. (b)(3). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund”.
+Subsec. (b)(3). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund”.
 
-Subsec. (c)(3)(D). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsec. (c)(3)(D). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
 1982—Subsec. (a)(3). Pub. L. 97–241 substituted “or the first” for “on the first” in provision preceding subpar. (A).
 
@@ -5416,7 +5416,7 @@ Subsec. (c)(3)(D). Pub. L. 99–335, § 402(a)(2), substituted “part” for 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–238, title II, § 261, Jan. 8, 1988, 101 Stat. 1776, provided that:
+Pub. L. 100–238, title II, § 261, Jan. 8, 1988, 101 Stat. 1776, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title and the amendments made by this title [enacting sections 4069–1 to 4069c–1 of this title, amending this section and sections 4044 to 4046, 4048, 4049, 4051, 4055, 4066, 4071a, 4071c, and 4084 of this title, and enacting provisions set out as a note under section 4046 of this title] shall take effect 90 days after the date of enactment of this title [Jan. 8, 1988].
 
@@ -5436,7 +5436,7 @@ Pub. L. 100–238, title II, § 261, Jan. 8, 1988, 101 Stat. 1776, provided th
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4055. Lump-sum payments
+#### § 4055. Lump-sum payments
 
 **(a) Requirements for payment**
 
@@ -5496,7 +5496,7 @@ If an annuitant who was a former participant dies, any annuity accrued and unpai
 
 1
 
-<sup>1</sup>  See Amendment of Section note below.
+<sup>1</sup> See Amendment of Section note below.
 
 Amounts deducted and withheld from basic salary of a participant under section 4045 of this title from the beginning of the first pay period after the participant has completed 35 years of service computed under section 4056 of this title (excluding service credit for unused sick leave under section 4056(b) of this title), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under section 4045(d) of this title), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
 
@@ -5508,11 +5508,11 @@ Amounts deducted and withheld from basic salary of a participant under section 4
 
 The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II.
 
-(Pub. L. 96–465, title I, § 815, Oct. 17, 1980, 94 Stat. 2116; Pub. L. 99–335, title IV, §§ 402(a)(2), 404(c), 413, June 6, 1986, 100 Stat. 609, 610, 614; Pub. L. 100–238, title II, § 218, Jan. 8, 1988, 101 Stat. 1775.)
+(Pub. L. 96–465, title I, § 815, Oct. 17, 1980, 94 Stat. 2116; Pub. L. 99–335, title IV, §§ 402(a)(2), 404(c), 413, June 6, 1986, 100 Stat. 609, 610, 614; Pub. L. 100–238, title II, § 218, Jan. 8, 1988, 101 Stat. 1775.)
 
 **Amendment of Section**
 
-Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.
+Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.
 
 **Editorial Notes**
 
@@ -5520,11 +5520,11 @@ Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a n
 
 1988—Subsec. (a). Pub. L. 100–238 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
 
-1986—Subsec. (a). Pub. L. 99–335, § 413, inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
+1986—Subsec. (a). Pub. L. 99–335, § 413, inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
 
-Subsecs. (c), (d). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
+Subsecs. (c), (d). Pub. L. 99–335, § 402(a)(2), substituted “part” for “subchapter”.
 
-Subsec. (i). Pub. L. 99–335, § 404(c), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+Subsec. (i). Pub. L. 99–335, § 404(c), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5536,13 +5536,13 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4056. Creditable service
+#### § 4056. Creditable service
 
 **(a) Applicability of civil service provisions**
 
 **(1)** 1
 
-<sup>1</sup>  See Amendment of Section note below.
+<sup>1</sup> See Amendment of Section note below.
 
 Except as otherwise specified by law, all periods of civilian and military and naval service, and all other periods through the date of final separation of a participant from the Service that the Secretary of State determines would be creditable toward retirement under the Civil Service Retirement and Disability System (as determined in accordance with section 8332 of title 5), shall be creditable for purposes of this part. Conversely, any such service performed after December 31, 1976, that would not be creditable under specified conditions under section 8332 of title 5, shall be excluded under this part under the same conditions.
 
@@ -5568,7 +5568,7 @@ In computing any annuity under this part, the total service of a participant who
 
 **(d) Special contribution in repayment of refund of retirement contributions**
 
-<sup>1</sup> A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title. Credit may not be allowed for service covered by the refund unless the special contribution is made.
+<sup>1</sup> A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title. Credit may not be allowed for service covered by the refund unless the special contribution is made.
 
 **(e) Civilian service under other Government retirement system** No credit in annuity computation shall be allowed for any period of civilian service for which a participant made retirement contributions to another retirement system for Government employees unless—
 
@@ -5616,11 +5616,11 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 **(C)** any military or naval service performed prior to 1977 by any individual who first became a participant before October 17, 1983, or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title.
 
-(Pub. L. 96–465, title I, § 816, Oct. 17, 1980, 94 Stat. 2118; Ex. Ord. No. 12446, § 4(b), (c), Oct. 17, 1983, 48 F.R. 48444, 48445; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609; Pub. L. 101–246, title I, § 145(a), Feb. 16, 1990, 104 Stat. 36.)
+(Pub. L. 96–465, title I, § 816, Oct. 17, 1980, 94 Stat. 2118; Ex. Ord. No. 12446, § 4(b), (c), Oct. 17, 1983, 48 F.R. 48444, 48445; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609; Pub. L. 101–246, title I, § 145(a), Feb. 16, 1990, 104 Stat. 36.)
 
 **Amendment of Section**
 
-Ex. Ord. No. 12446, § 5, Oct. 17, 1983, 48 F.R. 48445, set out as a note under section 4067 of this title, provided that:
+Ex. Ord. No. 12446, § 5, Oct. 17, 1983, 48 F.R. 48445, set out as a note under section 4067 of this title, provided that:
 
 “(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act [this chapter] on or before the date of approval of this Order [Oct. 17, 1983], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
@@ -5642,7 +5642,7 @@ Ex. Ord. No. 12446, § 5, Oct. 17, 1983, 48 F.R. 48445, set out as a note unde
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 
-Ex. Ord. No. 12446, § 1(b), (c), provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—
+Ex. Ord. No. 12446, § 1(b), (c), provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—
 
 (1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or
 
@@ -5660,9 +5660,9 @@ Ex. Ord. No. 12446, § 1(b), (c), provided that subsection (d) of this section
 
 1986—Subsecs. (a), (b), (f), (h), (i)(1), (j)(1). Pub. L. 99–335 substituted “part” for “subchapter” wherever appearing.
 
-1983—Subsec. (a). Ex. Ord. No. 12446, § 4(b), designated existing provisions as par. (1) and added pars. (2) to (4).
+1983—Subsec. (a). Ex. Ord. No. 12446, § 4(b), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-Subsec. (j). Ex. Ord. No. 12446, § 4(c), added subsec. (j).
+Subsec. (j). Ex. Ord. No. 12446, § 4(c), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5674,11 +5674,11 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Amendment by section 4 of Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
-#### § 4057. Extra credit for service at unhealthful posts
+#### § 4057. Extra credit for service at unhealthful posts
 
 The Secretary of State may from time to time establish a list of places which by reason of climatic or other extreme conditions are to be classed as unhealthful posts. Each year of duty at such posts, inclusive of regular leaves of absence, shall be counted as one and a half years in computing the length of the service of a participant for the purpose of retirement, fractional months being considered as full months in computing such service. No such extra credit for service at such unhealthful posts shall be credited to any participant who is paid a differential under section 5925 or 5928 of title 5 for such service. Such extra credit may not be used to determine the eligibility of a person to qualify as a former spouse under this part, or to compute the pro rata share under section 4044(10) of this title. No extra credit for service at unhealthful posts may be given under this section for any service as part of a tour of duty, or extension thereof, beginning on or after February 16, 1990.
 
-(Pub. L. 96–465, title I, § 817, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 101–246, title I, § 145(b), Feb. 16, 1990, 104 Stat. 37.)
+(Pub. L. 96–465, title I, § 817, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 101–246, title I, § 145(b), Feb. 16, 1990, 104 Stat. 37.)
 
 **Editorial Notes**
 
@@ -5686,11 +5686,11 @@ The Secretary of State may from time to time establish a list of places which by
 
 1990—Pub. L. 101–246 inserted provisions at end that extra credit not be used to determine eligibility to qualify as former spouse under this part or to compute the pro rata share under section 4044(10) of this title and that no extra credit for service at unhealthful posts be given under this section for any service as part of a tour of duty, or extension thereof, beginning on or after Feb. 16, 1990.
 
-#### § 4058. Estimate of appropriations needed
+#### § 4058. Estimate of appropriations needed
 
 The Secretary of the Treasury shall prepare the estimates of the annual appropriations required to be made to the Fund, and shall make actuarial valuations of the System at intervals of not more than five years. The Secretary of State may expend from money to the credit of the Fund an amount not exceeding $5,000 per year for the incidental expenses necessary in administering the provisions of this part, including actuarial advice.
 
-(Pub. L. 96–465, title I, § 818, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
+(Pub. L. 96–465, title I, § 818, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
 
 **Editorial Notes**
 
@@ -5704,13 +5704,13 @@ The Secretary of the Treasury shall prepare the estimates of the annual appropri
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4059. Investment of Fund
+#### § 4059. Investment of Fund
 
 The Secretary of the Treasury shall invest from time to time in interest-bearing securities of the United States such portions of the Fund as in the judgment of the Secretary of the Treasury may not be immediately required for the payment of annuities, cash benefits, refunds, and allowances. The income derived from such investments shall constitute a part of the Fund.
 
-(Pub. L. 96–465, title I, § 819, Oct. 17, 1980, 94 Stat. 2120.)
+(Pub. L. 96–465, title I, § 819, Oct. 17, 1980, 94 Stat. 2120.)
 
-#### § 4060. Assignment and attachment of moneys
+#### § 4060. Assignment and attachment of moneys
 
 **(a) Annuities and severance pay benefits**
 
@@ -5750,13 +5750,13 @@ shall be determined in accordance with that spousal agreement or court order, if
 
 None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
 
-(Pub. L. 96–465, title I, § 820, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
+(Pub. L. 96–465, title I, § 820, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, § 402(a)(2), June 6, 1986, 100 Stat. 609.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(2), “section 3727 of title 31” substituted for “section 3477 of the Revised Statutes of the United States (31 U.S.C. 203)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(2), “section 3727 of title 31” substituted for “section 3477 of the Revised Statutes of the United States (31 U.S.C. 203)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -5768,7 +5768,7 @@ In subsec. (a)(2), “section 3727 of title 31” substituted for “section 347
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4061. Payments for future benefits
+#### § 4061. Payments for future benefits
 
 **(a) Statutes deemed to authorize appropriations to Fund to finance unfunded liability** Any statute which authorizes—
 
@@ -5784,7 +5784,7 @@ is deemed to authorize appropriations to the Fund to finance the unfunded liabil
 
 There is authorized to be appropriated to the Fund for each fiscal year an amount equal to the amount of the Foreign Service normal cost for that year which is not met by contributions to the Fund under section 4045(a) of this title.
 
-(Pub. L. 96–465, title I, § 821, Oct. 17, 1980, 94 Stat. 2121; Pub. L. 99–335, title IV, § 402(a)(3), June 6, 1986, 100 Stat. 609.)
+(Pub. L. 96–465, title I, § 821, Oct. 17, 1980, 94 Stat. 2121; Pub. L. 99–335, title IV, § 402(a)(3), June 6, 1986, 100 Stat. 609.)
 
 **Editorial Notes**
 
@@ -5798,7 +5798,7 @@ There is authorized to be appropriated to the Fund for each fiscal year an amoun
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4062. Unfunded liability obligations
+#### § 4062. Unfunded liability obligations
 
 **(a) Notice of interest and military service credit** At the end of each fiscal year, the Secretary of State shall notify the Secretary of the Treasury of the amount equivalent to—
 
@@ -5814,13 +5814,13 @@ Before closing the accounts for each fiscal year, the Secretary of the Treasury 
 
 Requests for appropriations to the Fund under section 4061(b) of this title shall include reports to the Congress on the sums credited to the Fund under this section.
 
-(Pub. L. 96–465, title I, § 822, Oct. 17, 1980, 94 Stat. 2121; Ex. Ord. No. 12446, § 4(d), Oct. 17, 1983, 48 F.R. 48445.)
+(Pub. L. 96–465, title I, § 822, Oct. 17, 1980, 94 Stat. 2121; Ex. Ord. No. 12446, § 4(d), Oct. 17, 1983, 48 F.R. 48445.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (a)(2). Ex. Ord. No. 12446 inserted “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 4045(e) of this title”.
+1983—Subsec. (a)(2). Ex. Ord. No. 12446 inserted “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 4045(e) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5832,7 +5832,7 @@ Amendment by Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex.
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (c) of this section is listed on page 127), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-#### § 4063. Annuity adjustment for recall service
+#### § 4063. Annuity adjustment for recall service
 
 **(a) Full salary in lieu of annuity; contributions to Fund; resumption of annuity with cost-of-living adjustment**
 
@@ -5848,7 +5848,7 @@ If the recall service lasts less than one year, the contributions of the annuita
 
 **(2)** section 4064 of this title shall apply to the recall service as if such service were reemployment.
 
-(Pub. L. 96–465, title I, § 823, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, § 409, June 6, 1986, 100 Stat. 612.)
+(Pub. L. 96–465, title I, § 823, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, § 409, June 6, 1986, 100 Stat. 612.)
 
 **Editorial Notes**
 
@@ -5862,15 +5862,15 @@ If the recall service lasts less than one year, the contributions of the annuita
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4064. Reemployment
+#### § 4064. Reemployment
 
 **(a) Termination of annuity; coverage under same retirement system or another contributory retirement system; rights and benefits**
 
 **(1)**
 
-**(A)**  1
+**(A)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
@@ -5940,15 +5940,15 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
 
-(Pub. L. 96–465, title I, § 824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§ 402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, § 403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, § 103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, § 1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, § 20941, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, § 2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, § 1, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–32, title XI, § 1115(c)(1), June 24, 2009, 123 Stat. 1905; Pub. L. 114–323, title IV, § 405(a), Dec. 16, 2016, 130 Stat. 1929.)
+(Pub. L. 96–465, title I, § 824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§ 402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, § 403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, § 103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, § 1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, § 20941, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, § 2, July 30, 2007, 121 Stat. 261; Pub. L. 110–321, § 1, Sept. 19, 2008, 122 Stat. 3535; Pub. L. 111–32, title XI, § 1115(c)(1), June 24, 2009, 123 Stat. 1905; Pub. L. 114–323, title IV, § 405(a), Dec. 16, 2016, 130 Stat. 1929.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (g)(1)(B). Pub. L. 114–323, § 405(a)(1), struck out “to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan,” before “if the annuitant”.
+2016—Subsec. (g)(1)(B). Pub. L. 114–323, § 405(a)(1), struck out “to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan,” before “if the annuitant”.
 
-Subsec. (g)(2), (3). Pub. L. 114–323, § 405(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
+Subsec. (g)(2), (3). Pub. L. 114–323, § 405(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
 “(2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
 
@@ -5956,35 +5956,35 @@ Subsec. (g)(2), (3). Pub. L. 114–323, § 405(a)(2), (3), redesignated par. (
 
 “(C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.”
 
-2009—Subsec. (g)(1)(B). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+2009—Subsec. (g)(1)(B). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
 
-Subsec. (g)(2). Pub. L. 111–32, § 1115(c)(1), which directed amendment of subsec. (g)(2) by substituting “2010” for “2009”, was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
+Subsec. (g)(2). Pub. L. 111–32, § 1115(c)(1), which directed amendment of subsec. (g)(2) by substituting “2010” for “2009”, was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
 
 2008—Subsec. (g)(2)(A), (B). Pub. L. 110–321 substituted “2009” for “2008”.
 
-2007—Subsec. (g)(1). Pub. L. 109–289, § 20941(1)(A), as added by Pub. L. 110–5, substituted “The Secretary” for “To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary” in introductory provisions.
+2007—Subsec. (g)(1). Pub. L. 109–289, § 20941(1)(A), as added by Pub. L. 110–5, substituted “The Secretary” for “To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary” in introductory provisions.
 
-Subsec. (g)(1)(B). Pub. L. 109–289, § 20941(1)(B), as added by Pub. L. 110–5, substituted “to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if” for “if”.
+Subsec. (g)(1)(B). Pub. L. 109–289, § 20941(1)(B), as added by Pub. L. 110–5, substituted “to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if” for “if”.
 
-Subsec. (g)(1)(C). Pub. L. 110–50, § 2(1), added subpar. (C).
+Subsec. (g)(1)(C). Pub. L. 110–50, § 2(1), added subpar. (C).
 
-Subsec. (g)(2). Pub. L. 110–50, § 2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (g)(2). Pub. L. 110–50, § 2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Pub. L. 109–289, § 20941(2), as added by Pub. L. 110–5, substituted “such subparagraph” for “subparagraphs (A) or (B) of such paragraph”.
+Pub. L. 109–289, § 20941(2), as added by Pub. L. 110–5, substituted “such subparagraph” for “subparagraphs (A) or (B) of such paragraph”.
 
-Subsec. (g)(3). Pub. L. 109–289, § 20941(3), as added by Pub. L. 110–5, substituted “paragraph (1)(B)” for “paragraph (1)”.
+Subsec. (g)(3). Pub. L. 109–289, § 20941(3), as added by Pub. L. 110–5, substituted “paragraph (1)(B)” for “paragraph (1)”.
 
 2006—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.”
 
 1998—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g)” after “subsection (b)”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-1986—Subsec. (a). Pub. L. 99–335, § 410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
+1986—Subsec. (a). Pub. L. 99–335, § 410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
 
-Pub. L. 99–335, § 402(a)(2), substituted “this part” for “this subchapter” in three places.
+Pub. L. 99–335, § 402(a)(2), substituted “this part” for “this subchapter” in three places.
 
-Subsec. (b). Pub. L. 99–335, § 410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
+Subsec. (b). Pub. L. 99–335, § 410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
 
-Subsec. (b)(3). Pub. L. 99–556, § 403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The sum of—
+Subsec. (b)(3). Pub. L. 99–556, § 403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The sum of—
 
 “(A) the total annuity payable under this subchapter to an annuitant making an election under paragraph (1), and
 
@@ -5992,9 +5992,9 @@ Subsec. (b)(3). Pub. L. 99–556, § 403, amended par. (3) generally. Prior to
 
 may not exceed, in any calendar year, the highest annual rate of pay which is payable during such year for full-time employment in the position in which the annuitant is employed.”
 
-Subsec. (c). Pub. L. 99–335, § 410, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed member of the Service or from any other moneys, including annuity payments, payable under this part.”
+Subsec. (c). Pub. L. 99–335, § 410, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed member of the Service or from any other moneys, including annuity payments, payable under this part.”
 
-Pub. L. 99–335, § 402(a)(2), substituted “this part” for “this subchapter”.
+Pub. L. 99–335, § 402(a)(2), substituted “this part” for “this subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6006,25 +6006,25 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Department of State Inspector General Waiver Authority**
 
-Pub. L. 117–263, div. I, title XCVIII, § 9802(f), Dec. 23, 2022, 136 Stat. 3924, provided that: “The Inspector General of the Department [of State] may waive the provisions of subsections (a) through (d) of section 824 of the Foreign Service Act of 1980 (22 U.S.C. 4064), on a case-by-case basis, for an annuitant reemployed by the Inspector General on a temporary basis, subject to the same constraints and in the same manner by which the Secretary of State may exercise such waiver authority pursuant to subsection (g) of such section.”
+Pub. L. 117–263, div. I, title XCVIII, § 9802(f), Dec. 23, 2022, 136 Stat. 3924, provided that: “The Inspector General of the Department [of State] may waive the provisions of subsections (a) through (d) of section 824 of the Foreign Service Act of 1980 (22 U.S.C. 4064), on a case-by-case basis, for an annuitant reemployed by the Inspector General on a temporary basis, subject to the same constraints and in the same manner by which the Secretary of State may exercise such waiver authority pursuant to subsection (g) of such section.”
 
 **Extension of Authority**
 
 Extensions of the waiver authority of the Secretary of State under former subsec. (g)(2) of this section (see 2016 Amendment note above) were contained in the following acts:
 
-Pub. L. 114–113, div. K, title VII, § 7034(k)(4), Dec. 18, 2015, 129 Stat. 2764.
+Pub. L. 114–113, div. K, title VII, § 7034(k)(4), Dec. 18, 2015, 129 Stat. 2764.
 
-Pub. L. 113–235, div. J, title VII, § 7034(*l*)(4), Dec. 16, 2014, 128 Stat. 2625.
+Pub. L. 113–235, div. J, title VII, § 7034(*l*)(4), Dec. 16, 2014, 128 Stat. 2625.
 
-Pub. L. 113–76, div. K, title VII, § 7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
+Pub. L. 113–76, div. K, title VII, § 7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
 
-Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 1216.
+Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 1216.
 
-#### § 4065. Voluntary contribution account
+#### § 4065. Voluntary contribution account
 
 **(a) Composition; election and return** 1
 
-<sup>1</sup>  See Amendment of Section note below.
+<sup>1</sup> See Amendment of Section note below.
 
 The voluntary contribution account shall be the sum of unrefunded amounts voluntarily contributed prior to February 15, 1981, by any participant or former participant under any prior law authorizing such contributions to the Fund, plus interest compounded at the rate of 3 percent per year to the date of separation from the Service or (in case of participant or former participant separated with entitlement to a deferred annuity) to the date the voluntary contribution account is claimed, the commencing date fixed for the deferred annuity, or the date of death, whichever is earlier. Effective on the date the participant becomes eligible for an annuity or a deferred annuity and at the election of the participant, his or her account shall be—
 
@@ -6044,11 +6044,11 @@ The benefits provided by subsection (a)(2), (3), or (4) shall be actuarially equ
 
 A voluntary contribution account shall be paid in a lump sum following receipt of an application therefor from a present or former participant if application is filed prior to payment of any additional annuity. If not sooner paid, the account shall be paid at such time as the participant separates from the Service for any reason without entitlement to an annuity or a deferred annuity or at such time as a former participant dies or withdraws compulsory contributions to the Fund. In case of death, the account shall be paid in the order of precedence specified in section 4055(f) of this title.
 
-(Pub. L. 96–465, title I, § 825, Oct. 17, 1980, 94 Stat. 2122.)
+(Pub. L. 96–465, title I, § 825, Oct. 17, 1980, 94 Stat. 2122.)
 
 **Amendment of Section**
 
-Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.
+Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.
 
 **Editorial Notes**
 
@@ -6056,7 +6056,7 @@ Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a n
 
 In subsec. (a), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### § 4066. Cost-of-living adjustment of annuities
+#### § 4066. Cost-of-living adjustment of annuities
 
 **(a) Effective date**
 
@@ -6108,7 +6108,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 **(2)** For the purposes of paragraph (1) of this subsection, “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
-(Pub. L. 96–465, title I, § 826, Oct. 17, 1980, 94 Stat. 2123; Ex. Ord. No. 12289, § 1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§ 2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; Pub. L. 99–335, title IV, § 402(a)(3), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, § 219, Jan. 8, 1988, 101 Stat. 1775.)
+(Pub. L. 96–465, title I, § 826, Oct. 17, 1980, 94 Stat. 2123; Ex. Ord. No. 12289, § 1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§ 2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; Pub. L. 99–335, title IV, § 402(a)(3), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, § 219, Jan. 8, 1988, 101 Stat. 1775.)
 
 **Editorial Notes**
 
@@ -6124,9 +6124,9 @@ In the administration of this paragraph, the number of days of unused sick leave
 
 1986—Subsecs. (a), (c). Pub. L. 99–335 inserted “under this part” after “payable from the Fund” wherever appearing.
 
-1983—Subsec. (e). Ex. Ord. No. 12446, § 2(a), substituted “rounded to the next lowest” for “fixed at the nearest”.
+1983—Subsec. (e). Ex. Ord. No. 12446, § 2(a), substituted “rounded to the next lowest” for “fixed at the nearest”.
 
-Subsec. (g). Ex. Ord. No. 12446, § 6(a), added subsec. (g).
+Subsec. (g). Ex. Ord. No. 12446, § 6(a), added subsec. (g).
 
 1981—Subsec. (c)(1). Ex. Ord. No. 12289 amended first sentence of par. (1) generally. Prior to amendment, first sentence read as follows: “An annuity (except a deferred annuity) payable from the Fund to a participant who retires and receives an immediate annuity, or to a surviving spouse or former spouse of a deceased participant who dies in service or who dies after being separated with benefits under section 4009(b)(2) of this title, which has a commencing date after the effective date of the then last preceding general annuity increase under this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of such last preceding increase.”
 
@@ -6154,7 +6154,7 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of Title 5, Government Organization and Employees.
 
-#### § 4067. Compatibility between retirement systems
+#### § 4067. Compatibility between retirement systems
 
 **(a) Civil Service and Foreign Service Retirement Systems** In order to maintain existing conformity between the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, and the Foreign Service Retirement and Disability System, whenever a law of general applicability is enacted which—
 
@@ -6174,7 +6174,7 @@ such law shall be extended in accordance with subsection (b) to the Foreign Serv
 
 The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
 
-(Pub. L. 96–465, title I, § 827, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 99–335, title IV, § 411, June 6, 1986, 100 Stat. 614.)
+(Pub. L. 96–465, title I, § 827, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 99–335, title IV, § 411, June 6, 1986, 100 Stat. 614.)
 
 **Editorial Notes**
 
@@ -6190,7 +6190,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Reference to Veterans’ Administration Deemed Reference to Department of Veterans Affairs**
 
-Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “Any reference to the Veterans’ Administration in any regulation prescribed or Executive order issued pursuant to section 827(a) of the Foreign Service Act of 1980 (22 U.S.C. 4067(a)) shall be deemed to be a reference to the Department of Veterans Affairs.”
+Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “Any reference to the Veterans’ Administration in any regulation prescribed or Executive order issued pursuant to section 827(a) of the Foreign Service Act of 1980 (22 U.S.C. 4067(a)) shall be deemed to be a reference to the Department of Veterans Affairs.”
 
 **Construction of Section With Civil Service Retirement Spouse Equity Act of 1984**
 
@@ -6204,7 +6204,7 @@ For authority for the Secretary of State to make recommendations to the Presiden
 
 **Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems**
 
-Ex. Ord. No. 12289, Feb. 14, 1981, 46 F.R. 12693, as amended by Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275, provided:
+Ex. Ord. No. 12289, Feb. 14, 1981, 46 F.R. 12693, as amended by Pub. L. 102–54, § 13(h)(2), June 13, 1991, 105 Stat. 275, provided:
 
 By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
@@ -6318,7 +6318,7 @@ shall include interest on such amount computed and compounded annually beginning
 
 > **“(C)** any military or naval service performed prior to 1977 by any individual who first became a participant before the date of this Order or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) [22 U.S.C. 4045(e)].”
 
-(d) Section 822(a) of the Act (22 U.S.C. 4062(a)) is deemed to be amended by striking out the period at the end thereof and inserting in lieu thereof: “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 805(e).”.
+(d) Section 822(a) of the Act (22 U.S.C. 4062(a)) is deemed to be amended by striking out the period at the end thereof and inserting in lieu thereof: “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 805(e).”.
 
 (e) The amendments deemed to be made by Section 4 of this Order shall be effective on the date of this Order [Oct. 17, 1983].
 
@@ -6410,11 +6410,11 @@ Sec. 4. *Judicial Review*. This order is not intended to create, nor does it cre
 
 George W. Bush.
 
-#### § 4068. Remarriage
+#### § 4068. Remarriage
 
 Notwithstanding any other provision of this part, any benefit payable under this part to a surviving spouse, former spouse, or surviving former spouse that would otherwise terminate or be lost if the individual remarried before 60 years of age, shall not terminate or be lost if the remarriage occurred on or after November 8, 1984, and the individual was 55 years of age or over on the date of the remarriage.
 
-(Pub. L. 96–465, title I, § 828, as added Pub. L. 99–335, title IV, § 412, June 6, 1986, 100 Stat. 614.)
+(Pub. L. 96–465, title I, § 828, as added Pub. L. 99–335, title IV, § 412, June 6, 1986, 100 Stat. 614.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6422,11 +6422,11 @@ Notwithstanding any other provision of this part, any benefit payable under this
 
 Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as a note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4069. Thrift Savings Fund participation
+#### § 4069. Thrift Savings Fund participation
 
 Participants in this System shall be deemed to be employees for the purposes of section 8351 of title 5. Any reference in such section 8351 or in subchapter III of chapter 84 of such title 5 to retirement or separation under subchapter III of chapter 83 or chapter 84 of such title 5 shall be deemed to be references to retirement or separation under part I or II of this subchapter with similar benefits or entitlements with respect to participants under such part I or II, respectively.
 
-(Pub. L. 96–465, title I, § 829, as added Pub. L. 99–556, title IV, § 404(a), Oct. 27, 1986, 100 Stat. 3137.)
+(Pub. L. 96–465, title I, § 829, as added Pub. L. 99–556, title IV, § 404(a), Oct. 27, 1986, 100 Stat. 3137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6434,7 +6434,7 @@ Participants in this System shall be deemed to be employees for the purposes of 
 
 Section effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as an Effective Date of 1986 Amendment note under section 4046 of this title.
 
-#### § 4069–1. Qualified former wives and husbands
+#### § 4069–1. Qualified former wives and husbands
 
 **(a) Construction with provisions relating to compatibility between retirement systems; effective dates**
 
@@ -6456,7 +6456,7 @@ Notwithstanding section 4(h) of the Civil Service Retirement Spouse Equity Act o
 
 Regulations issued pursuant to section 4067 of this title to implement this section shall be submitted to the Committee on Post Office and Civil Service and the Committee on Foreign Affairs of the House of Representatives and the Committee on Governmental Affairs and the Committee on Foreign Relations of the Senate. Such regulations shall not take effect until 60 days after the date on which such regulations are submitted to the Congress.
 
-(Pub. L. 96–465, title I, § 830, as added Pub. L. 100–238, title II, § 202(a), Jan. 8, 1988, 101 Stat. 1768.)
+(Pub. L. 96–465, title I, § 830, as added Pub. L. 100–238, title II, § 202(a), Jan. 8, 1988, 101 Stat. 1768.)
 
 **Editorial Notes**
 
@@ -6484,7 +6484,7 @@ Section applicable to any individual who, on or after Jan. 8, 1988, is married t
 
 Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-#### § 4069a. Retirement benefits for certain former spouses
+#### § 4069a. Retirement benefits for certain former spouses
 
 **(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
@@ -6544,7 +6544,7 @@ Nothing in this section shall be construed to impair, reduce, or otherwise affec
 
 **(2)** the marriage included at least five years during which the employee was assigned overseas.
 
-(Pub. L. 96–465, title I, § 830, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1369; amended Pub. L. 101–246, title I, § 146(a), Feb. 16, 1990, 104 Stat. 37.)
+(Pub. L. 96–465, title I, § 830, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1369; amended Pub. L. 101–246, title I, § 146(a), Feb. 16, 1990, 104 Stat. 37.)
 
 **Editorial Notes**
 
@@ -6562,7 +6562,7 @@ Another section 830 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### § 4069a–1. Retirement benefits for certain former spouses
+#### § 4069a–1. Retirement benefits for certain former spouses
 
 **(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
@@ -6616,7 +6616,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
-(Pub. L. 96–465, title I, § 831, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1770.)
+(Pub. L. 96–465, title I, § 831, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1770.)
 
 **Editorial Notes**
 
@@ -6634,7 +6634,7 @@ Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as an Effective Date of 1988 Amendment note under section 4054 of this title.
 
-#### § 4069b. Survivor benefits for certain former spouses
+#### § 4069b. Survivor benefits for certain former spouses
 
 **(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
@@ -6690,7 +6690,7 @@ Nothing in this section shall be construed to impair, reduce, or otherwise affec
 
 **(2)** the marriage included at least five years during which the employee was assigned overseas.
 
-(Pub. L. 96–465, title I, § 831, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1370; amended Pub. L. 101–246, title I, § 146(b), Feb. 16, 1990, 104 Stat. 37.)
+(Pub. L. 96–465, title I, § 831, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1370; amended Pub. L. 101–246, title I, § 146(b), Feb. 16, 1990, 104 Stat. 37.)
 
 **Editorial Notes**
 
@@ -6708,7 +6708,7 @@ Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### § 4069b–1. Survivor benefits for certain former spouses
+#### § 4069b–1. Survivor benefits for certain former spouses
 
 **(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
@@ -6758,7 +6758,7 @@ If an election has been made with respect to such former spouse under section 41
 
 Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
-(Pub. L. 96–465, title I, § 832, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1771.)
+(Pub. L. 96–465, title I, § 832, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1771.)
 
 **Editorial Notes**
 
@@ -6776,7 +6776,7 @@ Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as an Effective Date of 1988 Amendment note under section 4054 of this title.
 
-#### § 4069c. Health benefits for certain former spouses
+#### § 4069c. Health benefits for certain former spouses
 
 **(a) Eligibility** Except as provided in subsection (c)(1), any individual—
 
@@ -6822,7 +6822,7 @@ For purposes of this section the term “health benefits plan” means an approv
 
 **(2)** the marriage included at least five years during which the employee was assigned overseas.
 
-(Pub. L. 96–465, title I, § 832, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1371; amended Pub. L. 101–246, title I, § 146(c), Feb. 16, 1990, 104 Stat. 37.)
+(Pub. L. 96–465, title I, § 832, as added Pub. L. 100–204, title I, § 188(a), Dec. 22, 1987, 101 Stat. 1371; amended Pub. L. 101–246, title I, § 146(c), Feb. 16, 1990, 104 Stat. 37.)
 
 **Editorial Notes**
 
@@ -6840,7 +6840,7 @@ Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### § 4069c–1. Health benefits for certain former spouses
+#### § 4069c–1. Health benefits for certain former spouses
 
 **(a) Eligibility** Except as provided in subsection (c)(1), any individual—
 
@@ -6880,7 +6880,7 @@ No individual may be covered by a health benefits plan under this section during
 
 For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
 
-(Pub. L. 96–465, title I, § 833, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1772.)
+(Pub. L. 96–465, title I, § 833, as added Pub. L. 100–238, title II, § 204(a), Jan. 8, 1988, 101 Stat. 1772.)
 
 **Editorial Notes**
 
@@ -6896,13 +6896,13 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 ### Part II—Foreign Service Pension System
 
-#### § 4071. Establishment; application of Federal Employees’ Retirement System to Foreign Service Pension System participants
+#### § 4071. Establishment; application of Federal Employees’ Retirement System to Foreign Service Pension System participants
 
 **(a)** There is hereby established a Foreign Service Pension System.
 
 **(b)** Except as otherwise specifically provided in this part or any other provision of law, the provisions of chapter 84 of title 5 shall apply to all participants in the Foreign Service Pension System and such participants shall be treated in all respects similar to persons whose participation in the Federal Employees’ Retirement System provided in that chapter is required.
 
-(Pub. L. 96–465, title I, § 851, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 615.)
+(Pub. L. 96–465, title I, § 851, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 615.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6910,7 +6910,7 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 Part effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as a note under section 8401 of Title 5, Government Organization and Employees.
 
-#### § 4071a. Definitions
+#### § 4071a. Definitions
 
 As used in this part, unless otherwise specified—
 
@@ -6982,7 +6982,7 @@ As used in this part, unless otherwise specified—
 
 **(11)** the term “special agent” has the same meaning given in section 4044(15) of this title.
 
-(Pub. L. 96–465, title I, § 852, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, § 241, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 105–382, § 2(a)(2), Nov. 13, 1998, 112 Stat. 3406; Pub. L. 112–96, title V, § 5002(a), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, § 402(a), Dec. 26, 2013, 127 Stat. 1185.)
+(Pub. L. 96–465, title I, § 852, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, § 241, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 105–382, § 2(a)(2), Nov. 13, 1998, 112 Stat. 3406; Pub. L. 112–96, title V, § 5002(a), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, § 402(a), Dec. 26, 2013, 127 Stat. 1185.)
 
 **Editorial Notes**
 
@@ -6992,9 +6992,9 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 **Amendments**
 
-2013—Par. (7)(B). Pub. L. 113–67, § 402(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+2013—Par. (7)(B). Pub. L. 113–67, § 402(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
 
-Pars. (8) to (11). Pub. L. 113–67, § 402(a)(1), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+Pars. (8) to (11). Pub. L. 113–67, § 402(a)(1), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
 2012—Pars. (7) to (10). Pub. L. 112–96 added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
@@ -7012,7 +7012,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under section 4054 of this title.
 
-#### § 4071b. Participants
+#### § 4071b. Participants
 
 **(a) Covered members**
 
@@ -7030,15 +7030,15 @@ Individuals who become members of the Service after having completed at least 5 
 
 The Secretary may exclude from the operation of this part any member of the Foreign Service, or group of members, whose employment is temporary or intermittent, except a member whose employment is part-time career appointment or career candidate appointment under section 3946 of this title.
 
-(Pub. L. 96–465, title I, § 853, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–178, title II, § 204(b)(1), Dec. 3, 1993, 107 Stat. 2033.)
+(Pub. L. 96–465, title I, § 853, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–178, title II, § 204(b)(1), Dec. 3, 1993, 107 Stat. 2033.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
+The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
 The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (c), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of Title 5, Government Organization and Employees, and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of Title 5 and Tables.
 
@@ -7048,7 +7048,7 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-#### § 4071c. Creditable service
+#### § 4071c. Creditable service
 
 **(a) Service included** For purposes of this part, creditable service of a participant includes—
 
@@ -7076,7 +7076,7 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 **(C)** a full-time volunteer for a period of service of at least 1 year’s duration under part A, B,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or C of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
 
@@ -7096,7 +7096,7 @@ Credit shall be given under this System to a participant for a period of prior s
 
 A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant’s employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, § 854, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, § 405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, § 242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, § 204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, § 7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, § 101(a) [title V, § 505(e)(2)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+(Pub. L. 96–465, title I, § 854, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, § 405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, § 242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, § 204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, § 7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, § 101(a) [title V, § 505(e)(2)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
 
 **Editorial Notes**
 
@@ -7106,13 +7106,13 @@ Section 204(a)(2) of the Federal Employees’ Retirement Contribution Temporary 
 
 Section 414 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(3), is section 414 of Pub. L. 99–335, title IV, June 6, 1986, 100 Stat. 614, which amended section 4043 of this title.
 
-The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Titles II and III of the Act are classified generally to subchapters II (§ 2011 et seq.) and III (§ 2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
+The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Titles II and III of the Act are classified generally to subchapters II (§ 2011 et seq.) and III (§ 2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
-The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
+The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 **Amendments**
 
@@ -7128,21 +7128,21 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State.”
 
-1993—Subsec. (a)(3). Pub. L. 103–178, § 204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+1993—Subsec. (a)(3). Pub. L. 103–178, § 204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-Subsec. (d). Pub. L. 103–178, § 204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+Subsec. (d). Pub. L. 103–178, § 204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 1988—Subsec. (e). Pub. L. 100–238 struck out “matching” after “shall make a” and inserted “determined under section 4071f(a) of this title” after “participant)”.
 
-1986—Subsec. (d). Pub. L. 99–556, § 405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual’s basic pay under the other retirement system” for “which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant”, as the probable intent of Congress.
+1986—Subsec. (d). Pub. L. 99–556, § 405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual’s basic pay under the other retirement system” for “which would have been deducted from pay under section 4071c(a) of this title had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under section 4071e(a) of this title had the individual been a participant”, as the probable intent of Congress.
 
-Subsec. (e). Pub. L. 99–556, § 405(b), added subsec. (e).
+Subsec. (e). Pub. L. 99–556, § 405(b), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1997 Amendment**
 
@@ -7158,9 +7158,9 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 
 **Impact of Amendments by Pub. L. 105–33 on Agency Contributions**
 
-Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection [amending this section and section 4071e of this title].”
+Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection [amending this section and section 4071e of this title].”
 
-#### § 4071d. Entitlement to annuity
+#### § 4071d. Entitlement to annuity
 
 **(a) Retirement conditions; definitions**
 
@@ -7172,9 +7172,9 @@ Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provi
 
 **(B)** the term “System”, as used in those sections, means the Foreign Service Pension System.
 
-**(3)** For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 1
+**(3)** For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5) of any member of the Service whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member’s official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member’s official duty station had been Washington, D.C.
 
@@ -7208,13 +7208,13 @@ of title 5) of any member of the Service whose official duty station is outside 
 
 **(c) Annuity supplement**
 
-A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) <sup>1</sup> of such title.
+A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) <sup>1</sup> of such title.
 
 **(d) Separation for cause based on disloyalty**
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, § 855, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, § 406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, § 204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, § 2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, § 322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, § 855, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, § 406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, § 204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, § 2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, § 322(b)(1), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5001(c)(2)(F), Feb. 22, 2012, 126 Stat. 200.)
 
 **Editorial Notes**
 
@@ -7222,33 +7222,33 @@ Any participant who is separated for cause under section 4010 of this title shal
 
 Section 8414 of title 5, referred to in subsec. (a)(3), does not contain the term “average pay”. Section 8415 of title 5 relates to annuity computation, and section 8401 of title 5 defines “average pay”.
 
-The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
+The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
-Subsec. (d) of section 8412 of title 5, referred to in subsec. (c), was redesignated as subsec. (d)(1) of that section, and a new subsec. (d)(2) was added, by Pub. L. 117–225, § 3(b)(1), Dec. 9, 2022, 136 Stat. 2294.
+Subsec. (d) of section 8412 of title 5, referred to in subsec. (c), was redesignated as subsec. (d)(1) of that section, and a new subsec. (d)(2) was added, by Pub. L. 117–225, § 3(b)(1), Dec. 9, 2022, 136 Stat. 2294.
 
 **Amendments**
 
-2012—Subsec. (b)(2)(A). Pub. L. 112–96, § 5001(c)(2)(F)(i), substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
+2012—Subsec. (b)(2)(A). Pub. L. 112–96, § 5001(c)(2)(F)(i), substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 112–96, § 5001(c)(2)(F)(ii), substituted “section 8415(g)(1)” for “section 8415(f)(1)”.
+Subsec. (b)(5). Pub. L. 112–96, § 5001(c)(2)(F)(ii), substituted “section 8415(g)(1)” for “section 8415(f)(1)”.
 
 2002—Subsec. (a)(3). Pub. L. 107–228 added par. (3).
 
-1998—Subsec. (b)(1). Pub. L. 105–277, § 2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
+1998—Subsec. (b)(1). Pub. L. 105–277, § 2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
 
-Pub. L. 105–277, § 2312(b)(1)(C), substituted “Service, shall” for “Service shall”.
+Pub. L. 105–277, § 2312(b)(1)(C), substituted “Service, shall” for “Service shall”.
 
-Pub. L. 105–277, § 2312(b)(1)(B), inserted “or for participants in the Foreign Service Pension System,” after “Retirement and Disability System”.
+Pub. L. 105–277, § 2312(b)(1)(B), inserted “or for participants in the Foreign Service Pension System,” after “Retirement and Disability System”.
 
-Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of “4010a,” after “4008,” in par. (3), was not executed to reflect the probable intent of Congress and the amendment by Pub. L. 105–277, § 2312(b)(2). See below.
+Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of “4010a,” after “4008,” in par. (3), was not executed to reflect the probable intent of Congress and the amendment by Pub. L. 105–277, § 2312(b)(2). See below.
 
-Pub. L. 105–277, § 2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
+Pub. L. 105–277, § 2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
 
 1993—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
 
-1986—Subsec. (b)(1). Pub. L. 99–556, § 406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
+1986—Subsec. (b)(1). Pub. L. 99–556, § 406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
 
-Subsec. (b)(2). Pub. L. 99–556, § 406(b), amended par. (2) by substituting subpars. (A) and (B) for former subpars. (A) to (C). Prior to amendment, subpars. (A) to (C) read as follows:
+Subsec. (b)(2). Pub. L. 99–556, § 406(b), amended par. (2) by substituting subpars. (A) and (B) for former subpars. (A) to (C). Prior to amendment, subpars. (A) to (C) read as follows:
 
 “(A) for all service earned while a participant in this System, at the rate stated in section 8415(d) of title 5; and
 
@@ -7256,7 +7256,7 @@ Subsec. (b)(2). Pub. L. 99–556, § 406(b), amended par. (2) by substituting 
 
 “(C) for all volunteer service creditable under section 4071c(c) of this title, at the rate stated in section 8415(a) of title 5.”
 
-Subsec. (b)(3) to (6). Pub. L. 99–556, § 406(c), added pars. (3) to (6).
+Subsec. (b)(3) to (6). Pub. L. 99–556, § 406(c), added pars. (3) to (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7274,7 +7274,7 @@ Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment ma
 
 Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as a note under section 4046 of this title.
 
-#### § 4071e. Deductions and withholdings from pay
+#### § 4071e. Deductions and withholdings from pay
 
 **(a) Basic pay**
 
@@ -7312,15 +7312,15 @@ Amounts deducted and withheld under this section shall be deposited in the Treas
 
 Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
-(Pub. L. 96–465, title I, § 856, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, § 7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, § 101(a) [title V, § 505(e)(1)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, § 322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5002(b), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, § 402(b), Dec. 26, 2013, 127 Stat. 1185.)
+(Pub. L. 96–465, title I, § 856, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, § 7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, § 101(a) [title V, § 505(e)(1)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, § 322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, § 5002(b), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, § 402(b), Dec. 26, 2013, 127 Stat. 1185.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a)(2)(A). Pub. L. 113–67, § 402(b)(1), inserted “or a further revised annuity participant” after “revised annuity participant”.
+2013—Subsec. (a)(2)(A). Pub. L. 113–67, § 402(b)(1), inserted “or a further revised annuity participant” after “revised annuity participant”.
 
-Subsec. (a)(2)(C). Pub. L. 113–67, § 402(b)(2), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 113–67, § 402(b)(2), added subpar. (C).
 
 2012—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted “The applicable percentage for a participant other than a revised annuity participant” for “The applicable percentage under this subsection”, and added subpar. (B).
 
@@ -7340,13 +7340,13 @@ Amendment by Pub. L. 107–228 effective with the first pay period beginning on 
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1997 Amendment**
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
-#### § 4071f. Government contributions
+#### § 4071f. Government contributions
 
 **(a)** Each agency employing any participant shall contribute to the Fund the amount computed in a manner similar to that used under section 8423(a) of title 5 pursuant to determinations of the normal cost percentage for the Foreign Service Pension System by the Secretary of State.
 
@@ -7366,7 +7366,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 
 **(3)** After the unfunded liability of the Foreign Service Retirement and Disability System has been eliminated, as determined by the Secretary of State, Government contributions under this section shall be determined and made disregarding this subsection.
 
-(Pub. L. 96–465, title I, § 857, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 618; amended Pub. L. 113–67, div. A, title IV, § 402(c), Dec. 26, 2013, 127 Stat. 1185.)
+(Pub. L. 96–465, title I, § 857, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 618; amended Pub. L. 113–67, div. A, title IV, § 402(c), Dec. 26, 2013, 127 Stat. 1185.)
 
 **Editorial Notes**
 
@@ -7378,11 +7378,11 @@ Section 402(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (c)(
 
 2013—Subsec. (c). Pub. L. 113–67 added subsec. (c).
 
-#### § 4071g. Cost-of-living adjustments
+#### § 4071g. Cost-of-living adjustments
 
 Cost-of-living adjustments for annuitants under this System shall be granted under procedures in section 8462 of title 5 in the same manner as such adjustments are made for annuitants referred to in subsection (c)(3)(B)(ii) of such section.
 
-(Pub. L. 96–465, title I, § 858, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619.)
+(Pub. L. 96–465, title I, § 858, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7390,7 +7390,7 @@ Cost-of-living adjustments for annuitants under this System shall be granted und
 
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of Title 5, Government Organization and Employees.
 
-#### § 4071h. General and administrative provisions
+#### § 4071h. General and administrative provisions
 
 **(a) Administration by Secretary of State; issuance of regulations**
 
@@ -7404,25 +7404,25 @@ Determinations of the Secretary of State under the Foreign Service Pension Syste
 
 At least every 5 years, the Secretary of the Treasury shall prepare periodic valuations of the Foreign Service Pension System and shall advise the Secretary of State of (1) the normal cost of the System, (2) the supplemental liability of the System, and (3) the amounts necessary to finance the costs of the System.
 
-(Pub. L. 96–465, title I, § 859, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619.)
+(Pub. L. 96–465, title I, § 859, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619.)
 
-#### § 4071i. Transition provisions
+#### § 4071i. Transition provisions
 
 The Secretary of State shall issue regulations providing for the transition from the Foreign Service Retirement and Disability System to the Foreign Service Pension System in a manner comparable to the transition of employees subject to subchapter III of chapter 83 of title 5 (the Civil Service Retirement System) to the Federal Employees’ Retirement System. For this and related purposes, references made to participation in subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), the Social Security Act [42 U.S.C. 301 et seq.], and title 26 shall be deemed to refer to participation in the Foreign Service Pension System or the Foreign Service Retirement and Disability System, as appropriate.
 
-(Pub. L. 96–465, title I, § 860, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–465, title I, § 860, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-#### § 4071j. Former spouses
+#### § 4071j. Former spouses
 
 **(a) Entitlement to share in benefits; conditions; remarriage; payments as income to former spouse; disability annuitants; election regarding method of payment; maximum amount payable**
 
@@ -7488,7 +7488,7 @@ If a member becomes a participant under this part after qualifying for benefits 
 
 If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.
 
-(Pub. L. 96–465, title I, § 861, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title IV, § 407, Oct. 27, 1986, 100 Stat. 3139.)
+(Pub. L. 96–465, title I, § 861, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title IV, § 407, Oct. 27, 1986, 100 Stat. 3139.)
 
 **Editorial Notes**
 
@@ -7504,21 +7504,21 @@ Subsec. (b)(3). Pub. L. 99–556 added par. (3).
 
 Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as a note under section 4046 of this title.
 
-#### § 4071k. Spousal agreements
+#### § 4071k. Spousal agreements
 
 A spousal agreement is any written agreement (properly authenticated as determined by the Secretary of State) between a participant or former participant and his or her spouse or former spouse on file with the Secretary of State. A spousal agreement shall be consistent with the terms of this chapter and applicable regulations and, if executed at the time a participant or former participant is currently married, shall be approved by such current spouse. It may be used to fix the level of benefits payable under this part to a spouse or former spouse.
 
-(Pub. L. 96–465, title I, § 862, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 621.)
+(Pub. L. 96–465, title I, § 862, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 621.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 ## SUBCHAPTER IX—TRAVEL, LEAVE, AND OTHER BENEFITS
 
-### § 4081. Travel and related expenses
+### § 4081. Travel and related expenses
 
 The Secretary may pay the travel and related expenses of members of the Service and their families, including costs or expenses incurred for—
 
@@ -7554,7 +7554,7 @@ except that, unless the Secretary otherwise specifies in extraordinary circumsta
 
 **(9)** roundtrip travel to or from an employee’s post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee’s post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(10)** preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
 
@@ -7586,31 +7586,31 @@ except that, unless the Secretary otherwise specifies in extraordinary circumsta
 
 except that the cost of round-trip travel under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
 
-(Pub. L. 96–465, title I, § 901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, § 148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§ 145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§ 315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, § 1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, § 2(1), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, § 5304, Dec. 27, 2021, 135 Stat. 2361.)
+(Pub. L. 96–465, title I, § 901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, § 148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§ 145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§ 315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, § 1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, § 2(1), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, § 5304, Dec. 27, 2021, 135 Stat. 2361.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Par. (15). Pub. L. 117–81, § 5304(1), in introductory provisions, substituted “in the case of one or more children below age 21 of a member of the Service assigned abroad, 1 round-trip per year” for “1 round-trip per year for each child below age 21 of a member of the Service assigned abroad”.
+2021—Par. (15). Pub. L. 117–81, § 5304(1), in introductory provisions, substituted “in the case of one or more children below age 21 of a member of the Service assigned abroad, 1 round-trip per year” for “1 round-trip per year for each child below age 21 of a member of the Service assigned abroad”.
 
-Pub. L. 117–81, § 5304(5), in concluding provisions, substituted “the cost of round-trip travel” for “a payment”.
+Pub. L. 117–81, § 5304(5), in concluding provisions, substituted “the cost of round-trip travel” for “a payment”.
 
-Par. (15)(A) to (C). Pub. L. 117–81, § 5304(2)–(4), inserted “for each child” at beginning of subpars. (A) and (B) and added subpar. (C).
+Par. (15)(A) to (C). Pub. L. 117–81, § 5304(2)–(4), inserted “for each child” at beginning of subpars. (A) and (B) and added subpar. (C).
 
 2008—Par. (6)(B). Pub. L. 110–321 inserted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” after “United States”.
 
 2006—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out “unbroken by home leave” wherever appearing, was executed by striking out those words after “2-year tour” and “3-year tour” in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-2002—Par. (8). Pub. L. 107–228, § 315(a), substituted “Service, and members of his or her family,” for “Service”.
+2002—Par. (8). Pub. L. 107–228, § 315(a), substituted “Service, and members of his or her family,” for “Service”.
 
-Par. (15). Pub. L. 107–228, § 328, in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
+Par. (15). Pub. L. 107–228, § 328, in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
 
-1991—Par. (10). Pub. L. 102–138, § 146, inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
+1991—Par. (10). Pub. L. 102–138, § 146, inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
 
-Par. (12)(B). Pub. L. 102–138, § 145(1), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+Par. (12)(B). Pub. L. 102–138, § 145(1), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
-Par. (12)(C). Pub. L. 102–138, § 145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+Par. (12)(C). Pub. L. 102–138, § 145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
 1990—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;”.
 
@@ -7618,17 +7618,17 @@ Par. (12)(C). Pub. L. 102–138, § 145(2), inserted before semicolon “, e
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–228, div. A, title III, § 315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” [Guidance in the form of a State Department cable was issued Nov. 5, 2002.]
+Pub. L. 107–228, div. A, title III, § 315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” [Guidance in the form of a State Department cable was issued Nov. 5, 2002.]
 
 [For definition of “Secretary” as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.]
 
 **Promulgation of Guidance**
 
-Pub. L. 107–228, div. A, title III, § 315(b), Sept. 30, 2002, 116 Stat. 1379, provided that: “The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) [amending this section] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081).”
+Pub. L. 107–228, div. A, title III, § 315(b), Sept. 30, 2002, 116 Stat. 1379, provided that: “The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) [amending this section] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081).”
 
 [For definitions of “Secretary” and “Department” as used in section 315(b) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.]
 
-### § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
+### § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
 
 **(1) In general** Notwithstanding subsections (a) and (c) of section 40118 of title 49, the Department and the United States Agency for International Development (USAID), and other United States Government employees under chief of mission authority are authorized to pay for the transportation by a foreign air carrier of Department and USAID personnel, and other United States Government employees under chief of mission authority and any in-cabin or accompanying checked baggage or cargo if—
 
@@ -7650,7 +7650,7 @@ An amount paid pursuant to paragraph (1) for transportation by a foreign carrier
 
 In this subsection, the term “domestic animal” means a dog or a cat.
 
-(Pub. L. 118–31, div. F, title LXII, § 6224(a), Dec. 22, 2023, 137 Stat. 979; Pub. L. 118–159, div. G, title LXXVI, § 7604, Dec. 23, 2024, 138 Stat. 2553.)
+(Pub. L. 118–31, div. F, title LXII, § 6224(a), Dec. 22, 2023, 137 Stat. 979; Pub. L. 118–159, div. G, title LXXVI, § 7604, Dec. 23, 2024, 138 Stat. 2553.)
 
 **Editorial Notes**
 
@@ -7672,7 +7672,7 @@ Section was enacted as part of the Department of State Authorization Act of 2023
 
 For definition of “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 
-### § 4081b. Presence of chiefs of mission at diplomatic posts
+### § 4081b. Presence of chiefs of mission at diplomatic posts
 
 **(a) Requirement for arrival at diplomatic post within 60 days**
 
@@ -7704,7 +7704,7 @@ Not later than 90 days after December 23, 2024, and in each case that a chief of
 
 Beginning on April 1, 2025, for 5 years, the Secretary shall notify the appropriate congressional committees of any chief of mission who has permanently departed from the assigned post within 90 days of the departure.
 
-(Pub. L. 118–159, div. G, title LXXII, § 7202, Dec. 23, 2024, 138 Stat. 2528.)
+(Pub. L. 118–159, div. G, title LXXII, § 7202, Dec. 23, 2024, 138 Stat. 2528.)
 
 **Editorial Notes**
 
@@ -7718,13 +7718,13 @@ Section was enacted as part of the Department of State Authorization Act for Fis
 
 For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 7002 of Pub. L. 118–159, set out as a note under section 2651 of this title.
 
-### § 4082. Loan of household effects
+### § 4082. Loan of household effects
 
 The Secretary may, as a means of eliminating transportation costs, provide members of the Service with basic household furnishing and equipment for use on a loan basis in personally owned or leased residences.
 
-(Pub. L. 96–465, title I, § 902, Oct. 17, 1980, 94 Stat. 2127.)
+(Pub. L. 96–465, title I, § 902, Oct. 17, 1980, 94 Stat. 2127.)
 
-### § 4083. Required leave
+### § 4083. Required leave
 
 **(a) Criteria; length of continuous service**
 
@@ -7738,7 +7738,7 @@ Leave ordered under this section may be taken in the United States or its territ
 
 While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.
 
-(Pub. L. 96–465, title I, § 903, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 103–236, title I, § 180(a)(8), Apr. 30, 1994, 108 Stat. 416; Pub. L. 109–234, title I, § 1602(d)(2), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, § 2(2), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, § 5305, Dec. 27, 2021, 135 Stat. 2362.)
+(Pub. L. 96–465, title I, § 903, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 103–236, title I, § 180(a)(8), Apr. 30, 1994, 108 Stat. 416; Pub. L. 109–234, title I, § 1602(d)(2), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, § 2(2), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, § 5305, Dec. 27, 2021, 135 Stat. 2362.)
 
 **Editorial Notes**
 
@@ -7746,13 +7746,13 @@ While on a leave of absence ordered under this section, the services of any memb
 
 2021—Subsec. (b). Pub. L. 117–81 inserted at end “In cases in which a member of the Service has official orders to an unaccompanied post and in which the family members of the member reside apart from the member at authorized locations outside the United States, the member may take the leave ordered under this section where that member’s family members reside, notwithstanding section 10305 of title 5.”
 
-2008—Subsec. (b). Pub. L. 110–321 substituted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” for “, its territories and possessions, or the Commonwealth of Puerto Rico”.
+2008—Subsec. (b). Pub. L. 110–321 substituted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” for “, its territories and possessions, or the Commonwealth of Puerto Rico”.
 
 2006—Subsec. (a). Pub. L. 109–234, which directed substitution of “12 months” for “18 months” in section 903(a) of the Foreign Service Act, was executed to subsec. (a) of this section, which is section 903 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 1994—Subsec. (a). Pub. L. 103–236 inserted “(other than a member employed under section 3951 of this title)” after “member of the Service” in two places.
 
-### § 4083a. Rest and recuperation leave
+### § 4083a. Rest and recuperation leave
 
 **(a) Definitions** In this section—
 
@@ -7792,9 +7792,9 @@ Use of the authority under subsection (b) is at the sole and exclusive discretio
 
 An agency shall record leave provided under this section separately from leave authorized under any other provision of law.
 
-(Pub. L. 96–465, title I, § 903a, as added Pub. L. 118–159, div. G, title LXXII, § 7215(a), Dec. 23, 2024, 138 Stat. 2536.)
+(Pub. L. 96–465, title I, § 903a, as added Pub. L. 118–159, div. G, title LXXII, § 7215(a), Dec. 23, 2024, 138 Stat. 2536.)
 
-### § 4083b. Overseas operations leave
+### § 4083b. Overseas operations leave
 
 **(a) Definitions** In this section—
 
@@ -7826,9 +7826,9 @@ The Secretary or other head of an agency may prescribe regulations to grant up t
 
 Use of the authority under subsection (b) is at the sole and exclusive discretion of the head of the agency concerned.
 
-(Pub. L. 96–465, title I, § 903b, as added Pub. L. 118–159, div. G, title LXXII, § 7215(a), Dec. 23, 2024, 138 Stat. 2537.)
+(Pub. L. 96–465, title I, § 903b, as added Pub. L. 118–159, div. G, title LXXII, § 7215(a), Dec. 23, 2024, 138 Stat. 2537.)
 
-### § 4084. Health care program
+### § 4084. Health care program
 
 **(a) Establishment**
 
@@ -7858,7 +7858,7 @@ The Secretary of State shall review on a continuing basis the health care progra
 
 Reimbursements paid to the Department of State for funding the costs of medical care abroad for employees and eligible family members shall be credited to the currently available applicable appropriation account. Such reimbursements shall be available for obligation and expenditure during the fiscal year in which they are received or for such longer period of time as may be provided in law.
 
-(Pub. L. 96–465, title I, § 904, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 99–93, title I, § 122, Aug. 16, 1985, 99 Stat. 413; Pub. L. 100–238, title II, § 243, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 107–228, div. A, title III, § 316, Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, § 2, Dec. 22, 2005, 119 Stat. 2650.)
+(Pub. L. 96–465, title I, § 904, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 99–93, title I, § 122, Aug. 16, 1985, 99 Stat. 413; Pub. L. 100–238, title II, § 243, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 107–228, div. A, title III, § 316, Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, § 2, Dec. 22, 2005, 119 Stat. 2650.)
 
 **Editorial Notes**
 
@@ -7870,11 +7870,11 @@ Reimbursements paid to the Department of State for funding the costs of medical 
 
 1988—Subsec. (b). Pub. L. 100–238 inserted “or Foreign Service Pension System” after “System”.
 
-1985—Subsec. (a). Pub. L. 99–93, § 122(1), substituted “shall” for “may”.
+1985—Subsec. (a). Pub. L. 99–93, § 122(1), substituted “shall” for “may”.
 
-Subsec. (b). Pub. L. 99–93, § 122(2), inserted “, and other preventive and remedial care and services as necessary,”.
+Subsec. (b). Pub. L. 99–93, § 122(2), inserted “, and other preventive and remedial care and services as necessary,”.
 
-Subsec. (d). Pub. L. 99–93, § 122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad.”
+Subsec. (d). Pub. L. 99–93, § 122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7884,11 +7884,11 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 **Electronic Medical Records Requirement**
 
-Pub. L. 118–159, div. G, title LXXI, § 7103(b), Dec. 23, 2024, 138 Stat. 2522, provided that: “Not later than December 31, 2027, the Secretary [of State] shall have fully implemented an electronic medical records process or system for all Foreign Service personnel and their Eligible Family Members that eliminates reliance on paper medical records and includes appropriate safeguards to protect personal privacy.”
+Pub. L. 118–159, div. G, title LXXI, § 7103(b), Dec. 23, 2024, 138 Stat. 2522, provided that: “Not later than December 31, 2027, the Secretary [of State] shall have fully implemented an electronic medical records process or system for all Foreign Service personnel and their Eligible Family Members that eliminates reliance on paper medical records and includes appropriate safeguards to protect personal privacy.”
 
 **Improving Mental Health Services for Foreign and Civil Servants**
 
-Pub. L. 118–31, div. F, title LXII, § 6222(a), Dec. 22, 2023, 137 Stat. 978, provided that:
+Pub. L. 118–31, div. F, title LXII, § 6222(a), Dec. 22, 2023, 137 Stat. 978, provided that:
 
 > **“(a) Additional Personnel to Address Mental Health.—**
 
@@ -7898,17 +7898,17 @@ Pub. L. 118–31, div. F, title LXII, § 6222(a), Dec. 22, 2023, 137 Stat. 978
 
 **Coronavirus Pandemic Response**
 
-Pub. L. 116–136, div. B, title XI, § 21010, Mar. 27, 2020, 134 Stat. 592, provided that: “The Department of State and the United States Agency for International Development are authorized to enter into contracts with individuals for the provision of personal services (as described in section 104 of part 37 of title 48, Code of Federal Regulations and including pursuant to section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084)) to prevent, prepare for, and respond to coronavirus, within the United States and abroad, subject to prior consultation with, and the notification procedures of, the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives: *Provided*, That such individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management: *Provided further*, That not later than 15 days after utilizing this authority, the Secretary of State shall provide a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives on the overall staffing needs for the Office of Medical Services: *Provided further*, That the authority made available pursuant to this section shall expire on September 30, 2022.”
+Pub. L. 116–136, div. B, title XI, § 21010, Mar. 27, 2020, 134 Stat. 592, provided that: “The Department of State and the United States Agency for International Development are authorized to enter into contracts with individuals for the provision of personal services (as described in section 104 of part 37 of title 48, Code of Federal Regulations and including pursuant to section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084)) to prevent, prepare for, and respond to coronavirus, within the United States and abroad, subject to prior consultation with, and the notification procedures of, the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives: *Provided*, That such individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management: *Provided further*, That not later than 15 days after utilizing this authority, the Secretary of State shall provide a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives on the overall staffing needs for the Office of Medical Services: *Provided further*, That the authority made available pursuant to this section shall expire on September 30, 2022.”
 
 [For definition of “coronavirus” as used in section 21010 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.]
 
-### § 4085. Entertainment and representation expenses
+### § 4085. Entertainment and representation expenses
 
 Notwithstanding section 5536 of title 5, the Secretary may provide for official receptions and may pay entertainment and representational expenses (including expenses of family members) to enable the Department and the Service to provide for the proper representation of the United States and its interests. In carrying out this section, the Secretary shall, to the maximum extent practicable, provide for the use of United States products, including American wine.
 
-(Pub. L. 96–465, title I, § 905, Oct. 17, 1980, 94 Stat. 2128.)
+(Pub. L. 96–465, title I, § 905, Oct. 17, 1980, 94 Stat. 2128.)
 
-### § 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability
+### § 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability
 
 **(a)** Except as provided in subsection (b) and in such manner as shall be otherwise authorized by a State or other jurisdiction within the territory of the United States, a member of the Service residing outside the United States shall, in addition to any entitlement to vote in a State in a Federal election under section 3 of the Overseas Citizens Voting Rights Act (42 U.S.C. 1973dd–1), be entitled to vote in a Federal election in the State in which such member was last domiciled immediately before entering the Service if such member—
 
@@ -7920,37 +7920,37 @@ Notwithstanding section 5536 of title 5, the Secretary may provide for official 
 
 **(b)** The provisions of subsection (a) shall apply only to an individual who becomes a member of the Service on or after November 22, 1983, and shall not apply to an individual who registers to vote in a State in which he is entitled to vote under section 3 of Overseas Citizens Voting Rights Act [42 U.S.C. 1973dd–1].
 
-(Pub. L. 96–465, title I, § 906, as added Pub. L. 98–164, title I, § 129(a), Nov. 22, 1983, 97 Stat. 1027.)
+(Pub. L. 96–465, title I, § 906, as added Pub. L. 98–164, title I, § 129(a), Nov. 22, 1983, 97 Stat. 1027.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, Pub. L. 94–203, Jan. 2, 1976, 89 Stat. 1142, which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930.
+The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, Pub. L. 94–203, Jan. 2, 1976, 89 Stat. 1142, which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930.
 
-### § 4087. Termination of residential or motor vehicle leases and telephone service contracts
+### § 4087. Termination of residential or motor vehicle leases and telephone service contracts
 
 The terms governing the termination of residential or motor vehicle leases and telephone service contracts described in sections 305 and 305A, respectively, of the Servicemembers Civil Relief Act (50 U.S.C. 3955 and 3956) with respect to servicemembers who receive military orders described in such Act [50 U.S.C. 3901 et seq.] shall apply in the same manner and to the same extent to members of the Foreign Service who are posted in the United States or posted abroad in accordance with this chapter.
 
-(Pub. L. 96–465, title I, § 907, as added Pub. L. 117–81, div. F, title LXII, § 6207(a), Dec. 27, 2021, 135 Stat. 2392; amended Pub. L. 118–159, div. G, title LXXI, § 7110, Dec. 23, 2024, 138 Stat. 2526.)
+(Pub. L. 96–465, title I, § 907, as added Pub. L. 117–81, div. F, title LXII, § 6207(a), Dec. 27, 2021, 135 Stat. 2392; amended Pub. L. 118–159, div. G, title LXXI, § 7110, Dec. 23, 2024, 138 Stat. 2526.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemembers Civil Relief Act, referred to in text, is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in text, is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
 2024—Pub. L. 118–159 substituted “Foreign Service who are posted in the United States or posted abroad” for “Service who are posted abroad at a Foreign Service post”.
 
-### § 4088. Education allowance
+### § 4088. Education allowance
 
 A Department or United States Agency for International Development employee who is on leave to perform service in the uniformed services (as defined in section 4303(13) of title 38) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
 
-(Pub. L. 96–465, title I, § 908, as added Pub. L. 118–31, div. F, title LXII, § 6221(a), Dec. 22, 2023, 137 Stat. 978; amended Pub. L. 118–159, div. G, title LXXVI, § 7603, Dec. 23, 2024, 138 Stat. 2553.)
+(Pub. L. 96–465, title I, § 908, as added Pub. L. 118–31, div. F, title LXII, § 6221(a), Dec. 22, 2023, 137 Stat. 978; amended Pub. L. 118–159, div. G, title LXXVI, § 7603, Dec. 23, 2024, 138 Stat. 2553.)
 
 **Editorial Notes**
 
@@ -7958,7 +7958,7 @@ A Department or United States Agency for International Development employee who 
 
 2024—Pub. L. 118–159 inserted “or United States Agency for International Development” after “A Department”.
 
-### § 4089. Portability of professional licenses
+### § 4089. Portability of professional licenses
 
 **(a) In general** In any case in which a member of the Foreign Service or the spouse of a member of the Foreign Service has a covered United States license and such member of the Foreign Service or spouse relocates his or her residency because of an assignment or detail to a location that is not in the jurisdiction of the licensing authority that issued the covered license, such covered license shall be considered valid at a similar scope of practice and in the discipline applied for in the jurisdiction of such new residency for the duration of such an assignment or detail if such member of the Foreign Service or spouse—
 
@@ -7984,11 +7984,11 @@ If a member of the Foreign Service or spouse of a member of the Foreign Service 
 
 **(3)** that is not a license to practice law.
 
-(Pub. L. 96–465, title I, § 909, as added Pub. L. 118–159, div. G, title LXXI, § 7104(a), Dec. 23, 2024, 138 Stat. 2523.)
+(Pub. L. 96–465, title I, § 909, as added Pub. L. 118–159, div. G, title LXXI, § 7104(a), Dec. 23, 2024, 138 Stat. 2523.)
 
 ## SUBCHAPTER X—LABOR-MANAGEMENT RELATIONS
 
-### § 4101. Congressional findings and policy
+### § 4101. Congressional findings and policy
 
 The Congress finds that—
 
@@ -8006,9 +8006,9 @@ The Congress finds that—
 
 Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
-(Pub. L. 96–465, title I, § 1001, Oct. 17, 1980, 94 Stat. 2128.)
+(Pub. L. 96–465, title I, § 1001, Oct. 17, 1980, 94 Stat. 2128.)
 
-### § 4102. Definitions
+### § 4102. Definitions
 
 As used in this subchapter, the term—
 
@@ -8072,7 +8072,7 @@ As used in this subchapter, the term—
 
 **(14)** “person” means an individual, a labor organization, or an agency to which this subchapter applies.
 
-(Pub. L. 96–465, title I, § 1002, Oct. 17, 1980, 94 Stat. 2129; Pub. L. 103–236, title I, § 180(a)(9), Apr. 30, 1994, 108 Stat. 416; Pub. L. 117–263, div. I, title XCII, § 9219(3), Dec. 23, 2022, 136 Stat. 3879.)
+(Pub. L. 96–465, title I, § 1002, Oct. 17, 1980, 94 Stat. 2129; Pub. L. 103–236, title I, § 180(a)(9), Apr. 30, 1994, 108 Stat. 416; Pub. L. 117–263, div. I, title XCII, § 9219(3), Dec. 23, 2022, 136 Stat. 3879.)
 
 **Editorial Notes**
 
@@ -8082,7 +8082,7 @@ As used in this subchapter, the term—
 
 1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (other than a family member) employed under section 3951 of this title,”.
 
-### § 4103. Application
+### § 4103. Application
 
 **(a) Departments and agencies affected**
 
@@ -8098,15 +8098,15 @@ This subchapter applies only with respect to the Department of State, the Broadc
 
 The President may by Executive order suspend any provision of this subchapter with respect to any post, bureau, office, or activity of the Department, if the President determines in writing that the suspension is necessary in the interest of national security because of an emergency.
 
-(Pub. L. 96–465, title I, § 1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(3), title XIV, § 1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, § 1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(3), title XIV, § 1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+1998—Subsec. (a). Pub. L. 105–277, § 1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, § 1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+Pub. L. 105–277, § 1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8122,7 +8122,7 @@ Amendment by section 1335(k)(3) of Pub. L. 105–277 effective Oct. 1, 1999, see
 
 Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
-### § 4104. Employee rights
+### § 4104. Employee rights
 
 **(a)** Every employee has the right to form, join, or assist any labor organization, or to refrain from any such activity, freely and without fear of penalty or reprisal. Each employee shall be protected in the exercise of such right.
 
@@ -8132,9 +8132,9 @@ Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 **(2)** to engage in collective bargaining with respect to conditions of employment through representatives chosen by employees under this subchapter.
 
-(Pub. L. 96–465, title I, § 1004, Oct. 17, 1980, 94 Stat. 2130.)
+(Pub. L. 96–465, title I, § 1004, Oct. 17, 1980, 94 Stat. 2130.)
 
-### § 4105. Management rights
+### § 4105. Management rights
 
 **(a)** Subject to subsection (b), nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
 
@@ -8160,7 +8160,7 @@ Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 **(3)** appropriate arrangements for employees adversely affected by the exercise of any function under this section by such management officials.
 
-(Pub. L. 96–465, title I, § 1005, Oct. 17, 1980, 94 Stat. 2131; Pub. L. 103–236, title I, § 181(b), Apr. 30, 1994, 108 Stat. 417; Pub. L. 103–415, § 1(jj)(2), Oct. 25, 1994, 108 Stat. 4303.)
+(Pub. L. 96–465, title I, § 1005, Oct. 17, 1980, 94 Stat. 2131; Pub. L. 103–236, title I, § 181(b), Apr. 30, 1994, 108 Stat. 417; Pub. L. 103–415, § 1(jj)(2), Oct. 25, 1994, 108 Stat. 4303.)
 
 **Editorial Notes**
 
@@ -8168,7 +8168,7 @@ Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 1994—Subsec. (a)(3) to (7). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
-### § 4106. Foreign Service Labor Relations Board
+### § 4106. Foreign Service Labor Relations Board
 
 **(a) Establishment; composition**
 
@@ -8190,9 +8190,9 @@ The members of the Board, other than the Chairperson, may not hold another offic
 
 The Chairperson may remove any other Board member, upon written notice, for corruption, neglect of duty, malfeasance, or demonstrated incapacity to perform his or her functions, established at a hearing, except where the right to a hearing is waived in writing.
 
-(Pub. L. 96–465, title I, § 1006, Oct. 17, 1980, 94 Stat. 2131.)
+(Pub. L. 96–465, title I, § 1006, Oct. 17, 1980, 94 Stat. 2131.)
 
-### § 4107. Functions of Foreign Service Labor Relations Board
+### § 4107. Functions of Foreign Service Labor Relations Board
 
 **(a) General provisions** The Board shall—
 
@@ -8228,9 +8228,9 @@ Decisions of the Board under this subchapter shall be consistent with decisions 
 
 **(F)** consistent with the provisions of this subchapter, exercise the functions the Authority has under chapter 71 of title 5 to the same extent and in the same manner as is the case with respect to persons subject to chapter 71 of such title.
 
-(Pub. L. 96–465, title I, § 1007, Oct. 17, 1980, 94 Stat. 2132.)
+(Pub. L. 96–465, title I, § 1007, Oct. 17, 1980, 94 Stat. 2132.)
 
-### § 4108. Functions of General Counsel
+### § 4108. Functions of General Counsel
 
 The General Counsel may—
 
@@ -8240,9 +8240,9 @@ The General Counsel may—
 
 **(3)** exercise such other powers of the Board as the Board may prescribe.
 
-(Pub. L. 96–465, title I, § 1008, Oct. 17, 1980, 94 Stat. 2133.)
+(Pub. L. 96–465, title I, § 1008, Oct. 17, 1980, 94 Stat. 2133.)
 
-### § 4109. Judicial review and enforcement
+### § 4109. Judicial review and enforcement
 
 **(a) Persons entitled to maintain action; time of filing; venue**
 
@@ -8260,9 +8260,9 @@ Subsection (c) of section 7123 of title 5 shall apply to judicial review and enf
 
 The Board may, upon issuance of a complaint as provided in section 4116 of this title charging that any person has engaged in or is engaging in an unfair labor practice, petition the United States District Court for the District of Columbia, for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the Department to carry out its essential functions or if the Board fails to establish probable cause that an unfair labor practice is being committed.
 
-(Pub. L. 96–465, title I, § 1009, Oct. 17, 1980, 94 Stat. 2133.)
+(Pub. L. 96–465, title I, § 1009, Oct. 17, 1980, 94 Stat. 2133.)
 
-### § 4110. Foreign Service Impasse Disputes Panel
+### § 4110. Foreign Service Impasse Disputes Panel
 
 **(a) Establishment; composition** There is established within the Federal Labor Relations Authority the Foreign Service Impasse Disputes Panel, which shall assist in resolving negotiating impasses arising in the course of collective bargaining under this subchapter. The Chairperson shall select the Panel from among individuals the Chairperson considers knowledgeable in labor-management relations or the conduct of foreign affairs. The Panel shall be composed of 5 members, as follows:
 
@@ -8278,9 +8278,9 @@ The Chairperson of the Board shall set the terms of office for Panel members and
 
 **(b) Compensation; travel expenses**
 
-Panel members referred to in subsection (a)(3) and (4) shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5, except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 1
+Panel members referred to in subsection (a)(3) and (4) shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5, except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5. Members of the Panel shall be entitled to travel expenses as provided under section 5703 of title 5.
 
@@ -8302,7 +8302,7 @@ of title 5. Members of the Panel shall be entitled to travel expenses as provide
 
 **(3)** Notice of any final action of the Panel under this section shall be promptly served upon the parties, and the action shall be binding on such parties during the term of the collective bargaining agreement unless the parties agree otherwise.
 
-(Pub. L. 96–465, title I, § 1010, Oct. 17, 1980, 94 Stat. 2133.)
+(Pub. L. 96–465, title I, § 1010, Oct. 17, 1980, 94 Stat. 2133.)
 
 **Editorial Notes**
 
@@ -8314,9 +8314,9 @@ Section 7119(b)(4) of title 5, referred to in subsec. (b), probably means sectio
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 4111. Exclusive recognition
+### § 4111. Exclusive recognition
 
 **(a) Secret ballot election; majority vote**
 
@@ -8366,9 +8366,9 @@ A labor organization seeking exclusive recognition shall submit to the Board and
 
 Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Board.
 
-(Pub. L. 96–465, title I, § 1011, Oct. 17, 1980, 94 Stat. 2134.)
+(Pub. L. 96–465, title I, § 1011, Oct. 17, 1980, 94 Stat. 2134.)
 
-### § 4112. Employees represented
+### § 4112. Employees represented
 
 The employees of the Department shall constitute a single and separate worldwide bargaining unit, from which there shall be excluded—
 
@@ -8376,9 +8376,9 @@ The employees of the Department shall constitute a single and separate worldwide
 
 **(2)** employees engaged in criminal or national security investigations or who audit the work of individuals to insure that their functions are discharged honestly and with integrity.
 
-(Pub. L. 96–465, title I, § 1012, Oct. 17, 1980, 94 Stat. 2135.)
+(Pub. L. 96–465, title I, § 1012, Oct. 17, 1980, 94 Stat. 2135.)
 
-### § 4113. Representation rights and duties
+### § 4113. Representation rights and duties
 
 **(a) Negotiation of collective bargaining agreements; nondiscriminatory representation**
 
@@ -8440,9 +8440,9 @@ The Department and the exclusive representative, through appropriate representat
 
 The Department shall consult with the exclusive representative with respect to Government-wide or multiagency matters affecting the rights, benefits, or obligations of individuals employed in agencies not authorized to utilize the Foreign Service personnel system. The exclusive representative shall be informed of any change proposed by the Department with respect to such matters, and shall be permitted reasonable time to present its views and recommendations regarding such change. The Department shall consider the views and recommendations of the exclusive representative before taking final action on any such change, and shall provide the exclusive representative a written statement of the reasons for taking the final action.
 
-(Pub. L. 96–465, title I, § 1013, Oct. 17, 1980, 94 Stat. 2135.)
+(Pub. L. 96–465, title I, § 1013, Oct. 17, 1980, 94 Stat. 2135.)
 
-### § 4114. Resolution of implementation disputes
+### § 4114. Resolution of implementation disputes
 
 **(a) Grievance procedure** Any dispute between the Department and the exclusive representative concerning the effect, interpretation, or a claim of breach of a collective bargaining agreement shall be resolved through procedures negotiated by the Department and the exclusive representative. Any procedures negotiated under this section shall—
 
@@ -8468,9 +8468,9 @@ If no exception to a Foreign Service Grievance Board action is filed under subse
 
 Resolutions of disputes under this section shall not be subject to judicial review.
 
-(Pub. L. 96–465, title I, § 1014, Oct. 17, 1980, 94 Stat. 2137.)
+(Pub. L. 96–465, title I, § 1014, Oct. 17, 1980, 94 Stat. 2137.)
 
-### § 4115. Unfair labor practices
+### § 4115. Unfair labor practices
 
 **(a) Department of State** It shall be an unfair labor practice for the Department—
 
@@ -8536,7 +8536,7 @@ if the expression contains no threat of reprisal or force or promise of benefit 
 
 Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title, an employee has an option of using the grievance procedure under subchapter XI or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI.
 
-(Pub. L. 96–465, title I, § 1015, Oct. 17, 1980, 94 Stat. 2137; Pub. L. 102–138, title I, § 153(d)(2), Oct. 28, 1991, 105 Stat. 674; Pub. L. 117–263, div. I, title XCII, § 9219(4), Dec. 23, 2022, 136 Stat. 3879.)
+(Pub. L. 96–465, title I, § 1015, Oct. 17, 1980, 94 Stat. 2137; Pub. L. 102–138, title I, § 153(d)(2), Oct. 28, 1991, 105 Stat. 674; Pub. L. 117–263, div. I, title XCII, § 9219(4), Dec. 23, 2022, 136 Stat. 3879.)
 
 **Editorial Notes**
 
@@ -8550,9 +8550,9 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–138, title I, § 153(f), Oct. 28, 1991, 105 Stat. 674, provided that: “The amendments made by this section [amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act [22 U.S.C. 4131], as amended by this section) arising before the date of enactment of this Act [Oct. 28, 1991].”
+Pub. L. 102–138, title I, § 153(f), Oct. 28, 1991, 105 Stat. 674, provided that: “The amendments made by this section [amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act [22 U.S.C. 4131], as amended by this section) arising before the date of enactment of this Act [Oct. 28, 1991].”
 
-### § 4116. Prevention of unfair labor practices
+### § 4116. Prevention of unfair labor practices
 
 **(a) Investigation by General Counsel; issuance of complaint; statement of reasons**
 
@@ -8606,9 +8606,9 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 
-(Pub. L. 96–465, title I, § 1016, Oct. 17, 1980, 94 Stat. 2139.)
+(Pub. L. 96–465, title I, § 1016, Oct. 17, 1980, 94 Stat. 2139.)
 
-### § 4117. Standards of conduct for labor organizations
+### § 4117. Standards of conduct for labor organizations
 
 **(a) Freedom from corrupt influences and influences opposed to basic democratic principles** The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
@@ -8668,7 +8668,7 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 **(2)** take any other appropriate disciplinary action.
 
-(Pub. L. 96–465, title I, § 1017, Oct. 17, 1980, 94 Stat. 2140; Pub. L. 103–236, title I, § 171, Apr. 30, 1994, 108 Stat. 411; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2315, Oct. 21, 1998, 112 Stat. 2681–828.)
+(Pub. L. 96–465, title I, § 1017, Oct. 17, 1980, 94 Stat. 2140; Pub. L. 103–236, title I, § 171, Apr. 30, 1994, 108 Stat. 411; Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2315, Oct. 21, 1998, 112 Stat. 2681–828.)
 
 **Editorial Notes**
 
@@ -8678,7 +8678,7 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 1994—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This subchapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee.”
 
-### § 4118. Administrative provisions
+### § 4118. Administrative provisions
 
 **(a) Assignment for deduction of dues**
 
@@ -8706,11 +8706,11 @@ During any period when no labor organization is certified as the exclusive repre
 
 **(4)** Except as provided in paragraphs (1), (2), and (3), any employee representing an exclusive representative, or engaged in any other matter covered by this subchapter, shall be granted official time in any amount the Department and the exclusive representative agree to be reasonable, necessary, and in the public interest.
 
-(Pub. L. 96–465, title I, § 1018, Oct. 17, 1980, 94 Stat. 2141.)
+(Pub. L. 96–465, title I, § 1018, Oct. 17, 1980, 94 Stat. 2141.)
 
 ## SUBCHAPTER XI—GRIEVANCES
 
-### § 4131. Definitions and applicability
+### § 4131. Definitions and applicability
 
 **(a)**
 
@@ -8756,29 +8756,29 @@ During any period when no labor organization is certified as the exclusive repre
 
 Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.
 
-**(c)** This subchapter applies only with respect to the Department of State, Broadcasting 1
+**(c)** This subchapter applies only with respect to the Department of State, Broadcasting 1
 
-<sup>1</sup>  So in original. Probably should be “the Broadcasting”.
+<sup>1</sup> So in original. Probably should be “the Broadcasting”.
 
 Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
-(Pub. L. 96–465, title I, § 1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, § 153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§ 180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(4), title XIV, § 1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, § 1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, § 153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§ 180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(k)(4), title XIV, § 1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (c). Pub. L. 105–277, § 1422(b)(4)(D), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+1998—Subsec. (c). Pub. L. 105–277, § 1422(b)(4)(D), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-Pub. L. 105–277, § 1335(k)(4), substituted “Broadcasting Board of Governors,” for “the United States Information Agency,”.
+Pub. L. 105–277, § 1335(k)(4), substituted “Broadcasting Board of Governors,” for “the United States Information Agency,”.
 
-1994—Subsec. (a)(1). Pub. L. 103–236, § 180(a)(10), inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
+1994—Subsec. (a)(1). Pub. L. 103–236, § 180(a)(10), inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 103–236, § 181(a)(4), made technical amendment to reference to section 4011 of this title to reflect renumbering of corresponding section of original act.
+Subsec. (b)(3). Pub. L. 103–236, § 181(a)(4), made technical amendment to reference to section 4011 of this title to reflect renumbering of corresponding section of original act.
 
-1991—Subsec. (a)(1)(H). Pub. L. 102–138, § 153(a)(1), added subpar. (H).
+1991—Subsec. (a)(1)(H). Pub. L. 102–138, § 153(a)(1), added subpar. (H).
 
-Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
+Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8798,13 +8798,13 @@ Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of this section, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
 
-### § 4132. Grievances concerning former members or their survivors
+### § 4132. Grievances concerning former members or their survivors
 
 Within the time limitations of section 4134 of this title, a former member of the Service or the surviving spouse (or, if none, another member of the family) of a deceased member or former member of the Service may file a grievance under this subchapter only with respect to allegations described in section 4131(a)(1)(G) of this title.
 
-(Pub. L. 96–465, title I, § 1102, Oct. 17, 1980, 94 Stat. 2143.)
+(Pub. L. 96–465, title I, § 1102, Oct. 17, 1980, 94 Stat. 2143.)
 
-### § 4133. Freedom of action
+### § 4133. Freedom of action
 
 **(a) Nature of protection**
 
@@ -8842,7 +8842,7 @@ shall be entered in the personnel records of the grievant (except by order of th
 
 The Department will use its best endeavors to expedite security clearance procedures whenever necessary to assure a fair and prompt resolution of a grievance.
 
-(Pub. L. 96–465, title I, § 1103, Oct. 17, 1980, 94 Stat. 2143; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 329], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+(Pub. L. 96–465, title I, § 1103, Oct. 17, 1980, 94 Stat. 2143; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 329], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
 
 **Editorial Notes**
 
@@ -8850,7 +8850,7 @@ The Department will use its best endeavors to expedite security clearance proced
 
 1999—Subsec. (d)(1). Pub. L. 106–113 inserted at end “Nothing in this subsection shall prevent a grievant from placing a rebuttal to accompany a record of disciplinary action in such grievant’s personnel records nor prevent the Department from including a response to such rebuttal, including documenting those cases in which the Board has reviewed and upheld the discipline.”
 
-### § 4134. Time limitations
+### § 4134. Time limitations
 
 **(a) Limitations period**
 
@@ -8870,7 +8870,7 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 **(B)** the expiration of the 18-month period beginning on the date of the occurrence giving rise to the grievance or the last such occurrence, as the case may be.
 
-(Pub. L. 96–465, title I, § 1104, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 102–138, title I, § 153(b), Oct. 28, 1991, 105 Stat. 673; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 330(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, § 317, Sept. 30, 2002, 116 Stat. 1379.)
+(Pub. L. 96–465, title I, § 1104, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 102–138, title I, § 153(b), Oct. 28, 1991, 105 Stat. 673; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 330(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, § 317, Sept. 30, 2002, 116 Stat. 1379.)
 
 **Editorial Notes**
 
@@ -8878,25 +8878,25 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 2002—Subsec. (a). Pub. L. 107–228 substituted “but in no case more than three years” for “but in no case less than two years”.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 330(a)], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant’s rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 330(a)], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant’s rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
 
-Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 330(b)], substituted “ ‘2 years’ ” for “ ‘3 years’ ”.
+Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 330(b)], substituted “ ‘2 years’ ” for “ ‘3 years’ ”.
 
-1991—Subsec. (a). Pub. L. 102–138, § 153(b)(1), inserted “under this subchapter” before “unless”.
+1991—Subsec. (a). Pub. L. 102–138, § 153(b)(1), inserted “under this subchapter” before “unless”.
 
-Subsec. (c). Pub. L. 102–138, § 153(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 102–138, § 153(b)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 330(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: “The amendments made by this section [amending this section] shall take effect 180 days after the date of enactment of this Act [Nov. 29, 1999] and shall apply to grievances which arise on or after such effective date.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 330(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: “The amendments made by this section [amending this section] shall take effect 180 days after the date of enactment of this Act [Nov. 29, 1999] and shall apply to grievances which arise on or after such effective date.”
 
 **Effective Date of 1991 Amendment**
 
 Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section 4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
 
-### § 4135. Foreign Service Grievance Board
+### § 4135. Foreign Service Grievance Board
 
 **(a) Establishment; composition**
 
@@ -8936,7 +8936,7 @@ The Board may obtain facilities, services, and supplies through the general admi
 
 **(2)** The report required under paragraph (1) shall be submitted to the Director General of the Foreign Service and the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
 
-(Pub. L. 96–465, title I, § 1105, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 331], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
+(Pub. L. 96–465, title I, § 1105, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 331], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
 
 **Editorial Notes**
 
@@ -8952,9 +8952,9 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 4136. Foreign Service Grievance Board procedures
+### § 4136. Foreign Service Grievance Board procedures
 
 The Board may adopt regulations concerning its organization and procedures. Such regulations shall include provision for the following:
 
@@ -8980,7 +8980,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 **(9)** The Board may reconsider any decision upon presentation of newly discovered or previously unavailable material evidence.
 
-(Pub. L. 96–465, title I, § 1106, Oct. 17, 1980, 94 Stat. 2145; Pub. L. 101–167, title V, § 586(a), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 102–138, title I, § 143(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–236, title I, §§ 177(a), 181(a)(4)(B), Apr. 30, 1994, 108 Stat. 414, 417; Pub. L. 107–228, div. A, title III, § 314(b), Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, § 5, Dec. 22, 2005, 119 Stat. 2652.)
+(Pub. L. 96–465, title I, § 1106, Oct. 17, 1980, 94 Stat. 2145; Pub. L. 101–167, title V, § 586(a), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 102–138, title I, § 143(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–236, title I, §§ 177(a), 181(a)(4)(B), Apr. 30, 1994, 108 Stat. 414, 417; Pub. L. 107–228, div. A, title III, § 314(b), Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, § 5, Dec. 22, 2005, 119 Stat. 2652.)
 
 **Editorial Notes**
 
@@ -8990,15 +8990,15 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 2002—Par. (8). Pub. L. 107–228, in first sentence, struck out “the involuntary separation of the grievant,” before “disciplinary action” and substituted “grievant or” for “grievant, or”, and struck out last sentence which read as follows: “Notwithstanding the first sentence of this paragraph, the Board’s authority to suspend such action shall not extend to instances where the Secretary, or his designee, has exercised his authority under subsection (a)(3) of section 4010 of this title or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under section 4010a of this title.”
 
-1994—Par. (8). Pub. L. 103–236, § 181(a)(4)(B), inserted before period at end “or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under section 4010a of this title”.
+1994—Par. (8). Pub. L. 103–236, § 181(a)(4)(B), inserted before period at end “or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under section 4010a of this title”.
 
-Pub. L. 103–236, § 177(a), substituted “until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant.” for “until the Board has ruled upon the grievance.”
+Pub. L. 103–236, § 177(a), substituted “until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant.” for “until the Board has ruled upon the grievance.”
 
 1991—Par. (8). Pub. L. 102–138 substituted “exercised his authority under subsection (a)(3) of section 4010 of this title” for “determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter”.
 
 1989—Par. (8). Pub. L. 101–167 inserted at end “Notwithstanding the first sentence of this paragraph, the Board’s authority to suspend such action shall not extend to instances where the Secretary, or his designee, has determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter.”
 
-### § 4137. Foreign Service Grievance Board decisions
+### § 4137. Foreign Service Grievance Board decisions
 
 **(a) Record; findings of fact and statement of reasons**
 
@@ -9054,9 +9054,9 @@ Except as provided in subsection (d), decisions of the Board under this subchapt
 
 **(B)** Whenever material is provided to the Committee or a Member thereof pursuant to paragraph (1), the Board shall, at the same time, provide a copy of all such material to the supervisor who is the subject of such material.
 
-**(C)** A supervisor who is the subject of records disclosed to the committee 1
+**(C)** A supervisor who is the subject of records disclosed to the committee 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 pursuant to this subsection shall have the right to review such record and provide comments to the Committee concerning such record. Such comments shall be treated in a confidential manner.
 
@@ -9064,7 +9064,7 @@ pursuant to this subsection shall have the right to review such record and provi
 
 The Board shall, with respect to any grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, apply the substantive law that would be applied by the Equal Employment Opportunity Commission if a charge or claim alleging discrimination under such law, rule, regulation, or policy directive had been filed with the commission.<sup>1</sup>
 
-(Pub. L. 96–465, title I, § 1107, Oct. 17, 1980, 94 Stat. 2146; Pub. L. 100–204, title I, §§ 181(a), (b), 182, Dec. 22, 1987, 101 Stat. 1363, 1364; Pub. L. 102–138, title I, § 153(c), Oct. 28, 1991, 105 Stat. 673.)
+(Pub. L. 96–465, title I, § 1107, Oct. 17, 1980, 94 Stat. 2146; Pub. L. 100–204, title I, §§ 181(a), (b), 182, Dec. 22, 1987, 101 Stat. 1363, 1364; Pub. L. 102–138, title I, § 153(c), Oct. 28, 1991, 105 Stat. 673.)
 
 **Editorial Notes**
 
@@ -9072,9 +9072,9 @@ The Board shall, with respect to any grievance based on an alleged violation of 
 
 1991—Subsec. (f). Pub. L. 102–138 added subsec. (f).
 
-1987—Subsec. (d). Pub. L. 100–204, § 181(a), (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
+1987—Subsec. (d). Pub. L. 100–204, § 181(a), (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
 
-Subsec. (e). Pub. L. 100–204, § 182, added subsec. (e).
+Subsec. (e). Pub. L. 100–204, § 182, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9086,7 +9086,7 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to this section before Dec. 22, 1987, see section 181(e) of Pub. L. 100–204, set out as a note under section 3946 of this title.
 
-### § 4138. Access to records
+### § 4138. Access to records
 
 **(a) Review by Foreign Service Grievance Board of decision denying access**
 
@@ -9114,9 +9114,9 @@ In considering a grievance, the Board may take into account the fact that the gr
 
 The grievant in any case decided by the Board shall have access to the record of the proceedings and the decision of the Board.
 
-(Pub. L. 96–465, title I, § 1108, Oct. 17, 1980, 94 Stat. 2147.)
+(Pub. L. 96–465, title I, § 1108, Oct. 17, 1980, 94 Stat. 2147.)
 
-### § 4139. Relationship to other remedies
+### § 4139. Relationship to other remedies
 
 **(a)**
 
@@ -9142,15 +9142,15 @@ but not both.
 
 **(B)** initiates in writing a proceeding under such other provision of law, regulation, or Executive order.
 
-(Pub. L. 96–465, title I, § 1109, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 101–12, § 9(a)(3), Apr. 10, 1989, 103 Stat. 35; Pub. L. 102–138, title I, § 153(d)(1), Oct. 28, 1991, 105 Stat. 673.)
+(Pub. L. 96–465, title I, § 1109, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 101–12, § 9(a)(3), Apr. 10, 1989, 103 Stat. 35; Pub. L. 102–138, title I, § 153(d)(1), Oct. 28, 1991, 105 Stat. 673.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a). Pub. L. 102–138, § 153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted “paragraph (1)” for “subsection (a) of this section” and “under this subsection” for “under this section”, and added par. (3).
+1991—Subsec. (a). Pub. L. 102–138, § 153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted “paragraph (1)” for “subsection (a) of this section” and “under this subsection” for “under this section”, and added par. (3).
 
-Subsec. (b). Pub. L. 102–138, § 153(d)(1)(C), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+Subsec. (b). Pub. L. 102–138, § 153(d)(1)(C), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
 1989—Subsec. (a). Pub. L. 101–12 substituted “1214 or 1221” for “1206”.
 
@@ -9164,7 +9164,7 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of Title 5, Government Organization and Employees.
 
-### § 4140. Judicial review
+### § 4140. Judicial review
 
 **(a)** Any aggrieved party may obtain judicial review of a final action of the Secretary or the Board on any grievance in the district courts of the United States in accordance with the standards set forth in chapter 7 of title 5, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party’s return to the United States). Section 706 of title 5 shall apply without limitation or exception. This subsection shall not apply to any grievance with respect to which subsection (b) applies.
 
@@ -9174,13 +9174,13 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **(2)** With respect to a grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, judicial review of whether the act, omission, or condition that is the basis of the grievance violates such law, rule, regulation, or policy directive may be obtained by an aggrieved party only if such party commences a civil action, not later than 90 days after such party receives notice of the final action of the Secretary or the Board, in an appropriate district court of the United States for de novo review.
 
-(Pub. L. 96–465, title I, § 1110, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 102–138, title I, § 153(e), Oct. 28, 1991, 105 Stat. 674; Pub. L. 103–236, title I, § 177(b), Apr. 30, 1994, 108 Stat. 414.)
+(Pub. L. 96–465, title I, § 1110, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 102–138, title I, § 153(e), Oct. 28, 1991, 105 Stat. 674; Pub. L. 103–236, title I, § 177(b), Apr. 30, 1994, 108 Stat. 414.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party’s return to the United States)”.
+1994—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party’s return to the United States)”.
 
 1991—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted provision that subsec. (a) not apply to any grievance with respect to which subsec. (b) applies, and added subsec. (b).
 
@@ -9192,11 +9192,11 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 **Judicial Review of Certain Foreign Service Grievances**
 
-Pub. L. 101–246, title I, § 152, Feb. 16, 1990, 104 Stat. 42, provided that: “For the purposes of judicial review under section 1110 of the Foreign Service Act of 1980 [22 U.S.C. 4140], any recommendation made by the Foreign Service Grievance Board with respect to the tenure of a grievant which was reviewed by the Secretary of State before the date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 [Dec. 22, 1987], shall be considered to be a final action of the Department of State, and any such recommendation shall be considered to have been made within the authority of the Foreign Service Grievance Board.”
+Pub. L. 101–246, title I, § 152, Feb. 16, 1990, 104 Stat. 42, provided that: “For the purposes of judicial review under section 1110 of the Foreign Service Act of 1980 [22 U.S.C. 4140], any recommendation made by the Foreign Service Grievance Board with respect to the tenure of a grievant which was reviewed by the Secretary of State before the date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 [Dec. 22, 1987], shall be considered to be a final action of the Department of State, and any such recommendation shall be considered to have been made within the authority of the Foreign Service Grievance Board.”
 
 ## SUBCHAPTER XI–A—FOREIGN SERVICE INTERNSHIP PROGRAM
 
-### § 4141. Statement of policy; objectives
+### § 4141. Statement of policy; objectives
 
 **(a) Statement of policy**
 
@@ -9206,9 +9206,9 @@ Consistent with the findings of section 3901 of this title, the Foreign Service 
 
 The objective of this subchapter is to strengthen and improve the Foreign Service of the United States through the establishment of a Foreign Service Internship Program. The program shall promote the Foreign Service as a viable and rewarding career opportunity for qualified individuals who reflect the cultural and ethnic diversity of the United States through a highly selective internship program for students enrolled in institutions of higher education.
 
-(Pub. L. 96–465, title I, § 1201, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 39.)
+(Pub. L. 96–465, title I, § 1201, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 39.)
 
-### § 4141a. Foreign Service Internship Program
+### § 4141a. Foreign Service Internship Program
 
 **(a) Establishment**
 
@@ -9252,7 +9252,7 @@ Interns shall be compensated at a rate determined by the Secretary which shall n
 
 The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over several years. Not later than 180 days after February 16, 1990, the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 96–465, title I, § 1202, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 40; amended Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 96–465, title I, § 1202, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 40; amended Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -9264,17 +9264,17 @@ February 16, 1990, referred to in subsec. (h), was in the original “the date o
 
 2002—Subsec. (d)(1). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
-### § 4141b. Report to Congress
+### § 4141b. Report to Congress
 
-Together with the annual submission required under section 3905(d)(2) 1
+Together with the annual submission required under section 3905(d)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Secretary of State shall submit a report to the Congress concerning the implementation of the program established under this subchapter. Such report accompanied by such other information as the Secretary considers appropriate, shall include specific information concerning the completion rates of interns in the program, interns who took the Foreign Service examination, interns who passed the examination, former interns appointed to the Foreign Service, assignments of former interns, and the advancement of former interns through the Foreign Service System.2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
-(Pub. L. 96–465, title I, § 1203, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 41.)
+(Pub. L. 96–465, title I, § 1203, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 41.)
 
 **Editorial Notes**
 
@@ -9282,11 +9282,11 @@ of this title, the Secretary of State shall submit a report to the Congress conc
 
 Section 3905(d)(2) of this title, referred to in text, was omitted from the Code.
 
-### § 4141c. Authorization of appropriations
+### § 4141c. Authorization of appropriations
 
 Of the amounts authorized to be appropriated by section 101(a)(1) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, $100,000 for the fiscal year 1990 and $150,000 for the fiscal year 1991 shall be available only to carry out this subchapter. Sums appropriated for the purposes of this subchapter are authorized to remain available until expended.
 
-(Pub. L. 96–465, title I, § 1204, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 41.)
+(Pub. L. 96–465, title I, § 1204, as added Pub. L. 101–246, title I, § 149(b), Feb. 16, 1990, 104 Stat. 41.)
 
 **Editorial Notes**
 
@@ -9296,7 +9296,7 @@ Section 101(a)(1) of the Foreign Relations Authorization Act, Fiscal Years 1990 
 
 ## SUBCHAPTER XII—TRANSITION
 
-### § 4151. Pay and benefits pending conversion
+### § 4151. Pay and benefits pending conversion
 
 Until converted under the provisions of this subchapter, any individual who is in the Foreign Service before February 15, 1981, and is serving under an appointment as a Foreign Service officer, Foreign Service information officer, Foreign Service Reserve officer with limited or unlimited tenure, or Foreign Service staff officer or employee, shall be treated for purposes of salary, allowances, and other matters as if such individual had been converted under section 4152 or 4153 of this title, as the case may be, on February 15, 1981, except that any adjustment of salary under this section shall take effect—
 
@@ -9304,7 +9304,7 @@ Until converted under the provisions of this subchapter, any individual who is i
 
 **(2)** in the case of an individual who is appointed to the Foreign Service after October 17, 1980, on the date such appointment becomes effective.
 
-(Pub. L. 96–465, title II, § 2101, Oct. 17, 1980, 94 Stat. 2148.)
+(Pub. L. 96–465, title II, § 2101, Oct. 17, 1980, 94 Stat. 2148.)
 
 **Editorial Notes**
 
@@ -9312,7 +9312,7 @@ Until converted under the provisions of this subchapter, any individual who is i
 
 “February 15, 1981” substituted in text for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-### § 4152. Conversion to Foreign Service Schedule
+### § 4152. Conversion to Foreign Service Schedule
 
 **(a)** Not later than 120 days after February 15, 1981, the Secretary shall, in accordance with section 4156 of this title, convert to the appropriate class in the Foreign Service Schedule established under section 3963 of this title those individuals in the Foreign Service who are serving immediately before February 15, 1981, under appointments at or below class 3 of the schedule established under section 412 or 414 of the Foreign Service Act of 1946, or at any class in the schedule established under section 415 of such Act, as—
 
@@ -9326,19 +9326,19 @@ Until converted under the provisions of this subchapter, any individual who is i
 
 **(2)** they agree in writing to accept availability for worldwide assignment as a condition of continued employment.
 
-(Pub. L. 96–465, title II, § 2102, Oct. 17, 1980, 94 Stat. 2148.)
+(Pub. L. 96–465, title II, § 2102, Oct. 17, 1980, 94 Stat. 2148.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867, 869 and 870, respectively, of this title, were repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Sections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867, 869 and 870, respectively, of this title, were repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 **Codification**
 
 In subsecs. (a) and (b), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-### § 4153. Conversion to Senior Foreign Service
+### § 4153. Conversion to Senior Foreign Service
 
 **(a) Criteria; application less than 120 days after effective date of Foreign Service Act of 1980**
 
@@ -9370,13 +9370,13 @@ If a Foreign Service officer or a Foreign Service Reserve officer who is eligibl
 
 may not remain in the Foreign Service for more than 3 years after February 15, 1981. During such period, the officer shall be subject to the provisions of subchapters I to XI of this chapter applicable to members of the Senior Foreign Service, except that such officer shall not be eligible to compete for performance pay under section 3965 of this title, and shall not be eligible for a limited career extension as described in section 4007(b) of this title. Upon separation from the Service, any such officer who is a participant in the Foreign Service Retirement and Disability System shall be entitled to retirement benefits on the same basis as a member retired from the Senior Foreign Service under section 4007(c)(1) of this title, and section 4009(a)(2)(B) of this title shall be deemed to apply to such officer.
 
-(Pub. L. 96–465, title II, § 2103, Oct. 17, 1980, 94 Stat. 2149; Pub. L. 98–164, title I, § 128, Nov. 22, 1983, 97 Stat. 1027.)
+(Pub. L. 96–465, title II, § 2103, Oct. 17, 1980, 94 Stat. 2149; Pub. L. 98–164, title I, § 128, Nov. 22, 1983, 97 Stat. 1027.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 **Codification**
 
@@ -9386,7 +9386,7 @@ In subsecs. (a), (e), and (f), “February 15, 1981” substituted for “the ef
 
 1983—Subsec. (f). Pub. L. 98–164 substituted provisions relating to applicability of sections 4007(c)(1) and 4009(a)(2)(B) of this title, for provisions relating to applicability of subchapter VIII of this chapter.
 
-### § 4154. Conversion from Foreign Service
+### § 4154. Conversion from Foreign Service
 
 **(a) Individuals serving under appointment** In the case of any individual in the Foreign Service who, immediately before February 15, 1981, is serving under an appointment described in section 4152(a) or 4153(a) of this title and who is not converted under section 4152 or section 4153 of this title because such individual does not meet the conditions specified in section 4152(b) or 4153(d) of this title, the Secretary shall, not later than 3 years after February 15, 1981, provide that—
 
@@ -9406,7 +9406,7 @@ In the case of individuals in the Foreign Service in the United States Informati
 
 The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
 
-(Pub. L. 96–465, title II, § 2104, Oct. 17, 1980, 94 Stat. 2150; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title I, § 132, Nov. 22, 1983, 97 Stat. 1028.)
+(Pub. L. 96–465, title II, § 2104, Oct. 17, 1980, 94 Stat. 2150; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title I, § 132, Nov. 22, 1983, 97 Stat. 1028.)
 
 **Editorial Notes**
 
@@ -9426,7 +9426,7 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 4155. Conversion of certain positions in Department of Agriculture
+### § 4155. Conversion of certain positions in Department of Agriculture
 
 **(a) Designation and classification of positions to be occupied; notice** Not later than 15 days after February 15, 1981, the Secretary of Agriculture shall—
 
@@ -9450,7 +9450,7 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 Any employee who declines conversion under subsection (b)(2) shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).
 
-(Pub. L. 96–465, title II, § 2105, Oct. 17, 1980, 94 Stat. 2150.)
+(Pub. L. 96–465, title II, § 2105, Oct. 17, 1980, 94 Stat. 2150.)
 
 **Editorial Notes**
 
@@ -9458,7 +9458,7 @@ Any employee who declines conversion under subsection (b)(2) shall for so long a
 
 In subsec. (a), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-### § 4156. Preservation of status and benefits
+### § 4156. Preservation of status and benefits
 
 **(a) Conversion to class, grade, or step corresponding to level prior to conversion; reduction in position or salary; conversion from Foreign Service under section 4154 of this title**
 
@@ -9490,7 +9490,7 @@ Individuals who are converted under this subchapter shall be converted to the ty
 
 may not be retired under section 4008 of this title until 10 years after February 15, 1981, or when such individual first becomes eligible for an immediate annuity under subchapter VIII of this chapter, whichever occurs first.
 
-(Pub. L. 96–465, title II, § 2106, Oct. 17, 1980, 94 Stat. 2151.)
+(Pub. L. 96–465, title II, § 2106, Oct. 17, 1980, 94 Stat. 2151.)
 
 **Editorial Notes**
 
@@ -9498,17 +9498,17 @@ may not be retired under section 4008 of this title until 10 years after Februar
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)(2), which was classified to section 1003(a)(2) of this title, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)(2), which was classified to section 1003(a)(2) of this title, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 **Codification**
 
 In subsecs. (d) and (e), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-### § 4157. Regulations
+### § 4157. Regulations
 
 Under the direction of the President, the Secretary shall prescribe regulations for the implementation of this subchapter.
 
-(Pub. L. 96–465, title II, § 2107, Oct. 17, 1980, 94 Stat. 2152.)
+(Pub. L. 96–465, title II, § 2107, Oct. 17, 1980, 94 Stat. 2152.)
 
 **Executive Documents**
 
@@ -9516,13 +9516,13 @@ Under the direction of the President, the Secretary shall prescribe regulations 
 
 Authority of President under this section to extent necessary to implement provisions of section 4151 of this title, relating to pay and benefits pending conversion, delegated to Secretary of State, see section 5 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
-### § 4158. Authority of other agencies
+### § 4158. Authority of other agencies
 
 The heads of agencies other than the Department of State which utilize the Foreign Service personnel system shall perform functions under this subchapter in accordance with regulations prescribed by the Secretary of State under section 4157 of this title. Such agency heads shall consult with the Secretary of State in the exercise of such functions.
 
-(Pub. L. 96–465, title II, § 2108, Oct. 17, 1980, 94 Stat. 2152.)
+(Pub. L. 96–465, title II, § 2108, Oct. 17, 1980, 94 Stat. 2152.)
 
-### § 4159. Survivor benefits for certain former spouses
+### § 4159. Survivor benefits for certain former spouses
 
 **(a) Eligible participants; election of benefits**
 
@@ -9550,11 +9550,11 @@ An election under this section may provide for a survivor benefit based on all o
 
 For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.
 
-(Pub. L. 96–465, title II, § 2109, Oct. 17, 1980, 94 Stat. 2152.)
+(Pub. L. 96–465, title II, § 2109, Oct. 17, 1980, 94 Stat. 2152.)
 
 ## SUBCHAPTER XIII—MISCELLANEOUS
 
-### § 4171. Model foreign language competence posts
+### § 4171. Model foreign language competence posts
 
 **(a) Designation of posts; time of designation and implementation; determination of competency standards**
 
@@ -9568,7 +9568,7 @@ The posts designated under subsection (a) shall continue as model foreign langua
 
 The Secretary of State may authorize exceptions to the requirements of this section if he determines that unanticipated exigencies so require.
 
-(Pub. L. 96–465, title II, § 2207, Oct. 17, 1980, 94 Stat. 2163; Pub. L. 103–236, title I, § 139(7), (25), Apr. 30, 1994, 108 Stat. 398, 399; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 96–465, title II, § 2207, Oct. 17, 1980, 94 Stat. 2163; Pub. L. 103–236, title I, § 139(7), (25), Apr. 30, 1994, 108 Stat. 398, 399; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -9576,13 +9576,13 @@ The Secretary of State may authorize exceptions to the requirements of this sect
 
 2002—Subsec. (a). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
-1994—Subsec. (c). Pub. L. 103–236, § 139(7), (25), amended subsec. (c) identically, striking out at end “Such exceptions shall be annually reported to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+1994—Subsec. (c). Pub. L. 103–236, § 139(7), (25), amended subsec. (c) identically, striking out at end “Such exceptions shall be annually reported to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Expansion of Model Foreign Language Competence Posts**
 
-Pub. L. 101–246, title I, § 161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, § 320(b)(3), May 25, 1990, 104 Stat. 247; Pub. L. 105–277, div. G, subdiv. A, title XXII, § 2219(a)(1), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that:
+Pub. L. 101–246, title I, § 161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, § 320(b)(3), May 25, 1990, 104 Stat. 247; Pub. L. 105–277, div. G, subdiv. A, title XXII, § 2219(a)(1), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that:
 
 > **“(a) Designation of Posts.—** In order to carry out the purposes of section 702 of the Foreign Service Act of 1980 [22 U.S.C. 4022], and in light of the positive report issued on March 28, 1986, by the Department of State, as required by section 2207 of the Foreign Service Act of 1980 [22 U.S.C. 4171], the Secretary of State shall designate as model foreign language competence posts a minimum of six Foreign Service posts, representing the Department of State’s five geographic bureaus, in countries where English is not the common language. Such designation shall be made not later than 120 days after the date of enactment of this Act [Feb. 16, 1990], and shall be implemented so that not later than October 1, 1991, in the case of non-hard language posts, and October 1, 1992, in the case of hard language posts, each Government employee permanently assigned to those posts shall possess an appropriate level of competence in the language common to the country where the post is located. The Secretary of State shall determine appropriate levels of language competence for employees assigned to those posts by reference to the nature of their functions and the standards employed by the George P. Shultz National Foreign Affairs Training Center.
 
@@ -9600,7 +9600,7 @@ Pub. L. 101–246, title I, § 161, Feb. 16, 1990, 104 Stat. 46, as amended by
 
 > **“(f) Authorization of Appropriations.—** There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
-### § 4172. Savings provisions
+### § 4172. Savings provisions
 
 **(a) Determinations, authorizations, etc., under authority of Foreign Service Act of 1946 and grievances, claims, or appeals filed and pending on effective date of this chapter**
 
@@ -9614,13 +9614,13 @@ This chapter shall not affect any increase in annuity or other right to benefits
 
 References in law to provisions of the Foreign Service Act of 1946 or other law superseded by this chapter shall be deemed to include reference to the corresponding provisions of this chapter.
 
-(Pub. L. 96–465, title II, § 2401, Oct. 17, 1980, 94 Stat. 2168.)
+(Pub. L. 96–465, title II, § 2401, Oct. 17, 1980, 94 Stat. 2168.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -9628,25 +9628,25 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 In subsecs. (a) and (b), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-### § 4173. Congressional oversight of implementation
+### § 4173. Congressional oversight of implementation
 
-**(a) , (b) Repealed. Pub. L. 100–204, title I, § 185(c)(2), Dec. 22, 1987, 101 Stat. 1366**
+**(a) , (b) Repealed. Pub. L. 100–204, title I, § 185(c)(2), Dec. 22, 1987, 101 Stat. 1366**
 
 **(c) Consultation with agency representatives**
 
-The Secretary shall consult, in accordance with the procedures set out in section 4113(g) of this title, with the exclusive representative (if any) of members of the Foreign Service in each agency specified in section 4103(a) of this title with respect to steps to be taken in implementing this chapter and reported under section 4001(c)(4) 1
+The Secretary shall consult, in accordance with the procedures set out in section 4113(g) of this title, with the exclusive representative (if any) of members of the Foreign Service in each agency specified in section 4103(a) of this title with respect to steps to be taken in implementing this chapter and reported under section 4001(c)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. To that end, each such exclusive representative will have timely access to all relevant information at each stage. Each such report shall include the views of each such exclusive representative on any and all aspects of the report and the information contained in such report.
 
-(Pub. L. 96–465, title II, § 2402, Oct. 17, 1980, 94 Stat. 2168; Pub. L. 100–204, title I, § 185(c)(2), Dec. 22, 1987, 101 Stat. 1366.)
+(Pub. L. 96–465, title II, § 2402, Oct. 17, 1980, 94 Stat. 2168; Pub. L. 100–204, title I, § 185(c)(2), Dec. 22, 1987, 101 Stat. 1366.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4001(c)(4) of this title, referred to in subsec. (c), was repealed by Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
+Section 4001(c)(4) of this title, referred to in subsec. (c), was repealed by Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
 
 **Amendments**
 
@@ -9662,21 +9662,21 @@ Subsec. (c). Pub. L. 100–204 substituted “under section 4001(c)(4) of this t
 
 Subchapter was not enacted as a part of the Foreign Service Act of 1980 which comprises this chapter.
 
-### § 4191. General application of provisions to consular officers
+### § 4191. General application of provisions to consular officers
 
 The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes of consular officers, shall be deemed to apply as well to all other classes of such officers and to such other United States citizen employees of the Department of State as may be designated by the Secretary of State pursuant to such regulations as the Secretary may prescribe, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
 
-(R.S. § 1689; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(b), Oct. 21, 1998, 112 Stat. 2681–818.)
+(R.S. § 1689; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(b), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 18 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 18 of the Revised Statutes, consisting of R.S. §§ 1674 to 1752, and insofar as classified to the Code, is classified to sections 4191, 4193 to 4197, 4200, 4202, 4204, 4205, 4207 to 4214, and 4216 to 4221 of this title. For complete classification of R.S. §§ 1674 to 1752 to the Code, see Tables.
+Title 18 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 18 of the Revised Statutes, consisting of R.S. §§ 1674 to 1752, and insofar as classified to the Code, is classified to sections 4191, 4193 to 4197, 4200, 4202, 4204, 4205, 4207 to 4214, and 4216 to 4221 of this title. For complete classification of R.S. §§ 1674 to 1752 to the Code, see Tables.
 
 **Codification**
 
-R.S. § 1689 derived from act Aug. 18, 1856, ch. 127, § 31, 11 Stat. 64.
+R.S. § 1689 derived from act Aug. 18, 1856, ch. 127, § 31, 11 Stat. 64.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -9686,27 +9686,27 @@ Section was formerly classified to section 1171 of this title, and prior thereto
 
 1998—Pub. L. 105–277 inserted “and to such other United States citizen employees of the Department of State as may be designated by the Secretary of State pursuant to such regulations as the Secretary may prescribe” after “such officers”.
 
-### § 4192. Repealed. Pub. L. 101–246, title I, § 123, Feb. 16, 1990, 104 Stat. 27
+### § 4192. Repealed. Pub. L. 101–246, title I, § 123, Feb. 16, 1990, 104 Stat. 27
 
-Section, R.S. § 4082, related to solemnization of marriages by consular officers of the United States in a foreign country.
+Section, R.S. § 4082, related to solemnization of marriages by consular officers of the United States in a foreign country.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 101–246, § 123, which directed the repeal of section 31 of the Act of June 22, 1860 (12 Stat. 79; 22 U.S.C. 4192), was executed as though repealing section 4082 of the Revised Statutes, which is classified to this section, to reflect the probable intent of Congress. Section 31 of the Act of June 22, 1860, was restated in section 4082 of the Revised Statutes and repealed by section 5596 of the Revised Statutes.
+Pub. L. 101–246, § 123, which directed the repeal of section 31 of the Act of June 22, 1860 (12 Stat. 79; 22 U.S.C. 4192), was executed as though repealing section 4082 of the Revised Statutes, which is classified to this section, to reflect the probable intent of Congress. Section 31 of the Act of June 22, 1860, was restated in section 4082 of the Revised Statutes and repealed by section 5596 of the Revised Statutes.
 
-### § 4193. Protests
+### § 4193. Protests
 
 Consuls and vice consuls shall have the right, in the ports or places to which they are severally appointed, of receiving the protests or declarations which captains, masters, crews, passengers, or merchants, who are citizens of the United States, may respectively choose to make there; and also such as any foreigner may choose to make before them relative to the personal interest of any citizen of the United States.
 
-(R.S. § 1707; June 25, 1948, ch. 646, § 39, 62 Stat. 992.)
+(R.S. § 1707; June 25, 1948, ch. 646, § 39, 62 Stat. 992.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1707 derived from act Apr. 14, 1792, ch. 24, § 2, 1 Stat. 255.
+R.S. § 1707 derived from act Apr. 14, 1792, ch. 24, § 2, 1 Stat. 255.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -9720,19 +9720,19 @@ Section was formerly classified to section 1173 of this title, and prior thereto
 
 **Effective Date of 1948 Amendment**
 
-Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-### § 4194. Lists and returns of seamen and vessels, etc.
+### § 4194. Lists and returns of seamen and vessels, etc.
 
 Every consular officer shall keep a detailed list of all seamen and mariners shipped and discharged by him, specifying their names and the names of the vessels on which they are shipped and from which they are discharged, and the payments, if any, made on account of each so discharged; also of the number of the vessels arrived and departed, the amounts of their registered tonnage, and the number of their seamen and mariners, and of those who are protected, and whether citizens of the United States or not, and as nearly as possible the nature and value of their cargoes, and where produced, and shall make returns of the same, with their accounts and other returns, to the Secretary of Commerce.
 
-(R.S. § 1708; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+(R.S. § 1708; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1708 derived from act Aug. 18, 1856, ch. 127, § 27, 11 Stat. 62.
+R.S. § 1708 derived from act Aug. 18, 1856, ch. 127, § 27, 11 Stat. 62.
 
 Act Feb. 14, 1903, substituted “Secretary of Commerce and Labor” for “Secretary of the Treasury”. Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
 
@@ -9744,7 +9744,7 @@ Section was formerly classified to section 1174 of this title, and prior thereto
 
 **Transfer of Functions**
 
-Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See section 108 of Title 49, Transportation.
+Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See section 108 of Title 49, Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -9752,31 +9752,31 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Transfer of Functions**
 
-Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
+Certain shipping and navigation functions of Secretary of Commerce transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, 1098 set out in the Appendix to Title 5, Government Organization and Employees.
 
-Functions of all officers of Department of the Treasury [which included Commandant of Coast Guard and Commissioner of Customs], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under former section 3 (now 103) of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury [which included Commandant of Coast Guard and Commissioner of Customs], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under former section 3 (now 103) of Title 14, Coast Guard.
 
-### § 4195. Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426
+### § 4195. Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426
 
-Section, R.S. § 1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; July 12, 1940, ch. 618, 54 Stat. 758; Pub. L. 99–653, § 21, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, § 8(p), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 104–316, title II, § 202(i), Oct. 19, 1996, 110 Stat. 3843, related to estates of United States citizens who died within or were domiciled at time of death within jurisdiction of consular or diplomatic officers and directed that Secretary of State act as conservator.
+Section, R.S. § 1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; July 12, 1940, ch. 618, 54 Stat. 758; Pub. L. 99–653, § 21, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, § 8(p), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 104–316, title II, § 202(i), Oct. 19, 1996, 110 Stat. 3843, related to estates of United States citizens who died within or were domiciled at time of death within jurisdiction of consular or diplomatic officers and directed that Secretary of State act as conservator.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective six months after Nov. 29, 1999, see section 1000(a)(7) [div. A, title II, § 234(c)] of Pub. L. 106–113, set out as an Effective Date note under section 2715b of this title.
+Repeal effective six months after Nov. 29, 1999, see section 1000(a)(7) [div. A, title II, § 234(c)] of Pub. L. 106–113, set out as an Effective Date note under section 2715b of this title.
 
-### § 4196. Notification of death of decedent; transmission of inventory of effects
+### § 4196. Notification of death of decedent; transmission of inventory of effects
 
 For the information of the representative of the deceased, the consular officer, or, if no consular officer is present, a diplomatic officer, in the settlement of his estate shall immediately notify his death in one of the gazettes published in the consular district, and also to the Secretary of State, that the same may be notified in the State to which the deceased belonged; and he shall, as soon as may be, transmit to the Secretary of State an inventory of the effects of the deceased taken as before directed.
 
-(R.S. § 1710; July 12, 1940, ch. 618, 54 Stat. 760.)
+(R.S. § 1710; July 12, 1940, ch. 618, 54 Stat. 760.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1710 derived from act Apr. 14, 1792, ch. 24, § 2, 1 Stat. 255.
+R.S. § 1710 derived from act Apr. 14, 1792, ch. 24, § 2, 1 Stat. 255.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -9786,17 +9786,17 @@ Section was formerly classified to section 1176 of this title, and prior thereto
 
 1940—Act July 12, 1940, substituted “the consular officer, or, if no consular officer is present, a diplomatic officer,” for “the consul or vice-consul,”.
 
-### § 4197. Following testamentary directions; assistance to testamentary appointee
+### § 4197. Following testamentary directions; assistance to testamentary appointee
 
 When a citizen of the United States dies in a foreign country and leaves, by any lawful testamentary disposition, special directions for the custody and management, by the consular officer, or in his absence a diplomatic officer, within whose jurisdiction the death occurred, of the personal property in the foreign country which he possessed at the time of death, such officer shall, so far as the laws of the foreign country permit, strictly observe such directions if not contrary to the laws of the United States. If such citizen has named, by any lawful testamentary disposition, any other person than a consular officer or diplomatic officer to take charge of and manage such property, it shall be the duty of the officer, whenever required by the person so named, to give his official aid in whatever way may be practicable to facilitate the proceedings of such person in the lawful execution of his trust, and, so far as the laws of the country or treaty provisions permit, to protect the property of the deceased from any interference by the authorities of the country where such citizen died. To this end it shall be the duty of the consular officer, or if no consular officer is present a diplomatic officer, to safeguard the decedent’s property by placing thereon his official seal and to break and remove such seal only upon the request of the person designated by the deceased to take charge of and manage his property.
 
-(R.S. § 1711; July 12, 1940, ch. 618, 54 Stat. 760.)
+(R.S. § 1711; July 12, 1940, ch. 618, 54 Stat. 760.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1711 derived from act Aug. 18, 1856, ch. 127, § 28, 11 Stat. 63.
+R.S. § 1711 derived from act Aug. 18, 1856, ch. 127, § 28, 11 Stat. 63.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -9806,11 +9806,11 @@ Section was formerly classified to section 1177 of this title, and prior thereto
 
 1940—Act July 12, 1940, amended section generally.
 
-### § 4198. Bond as administrator or guardian; action on bond
+### § 4198. Bond as administrator or guardian; action on bond
 
 No consular officer of the United States shall accept an appointment from any foreign state as administrator, guardian, or to any other office or trust for the settlement or conservation of estates of deceased persons or of their heirs or of persons under legal disabilities, without executing a bond, with security, to be approved by the Secretary of State, and in a penal sum to be fixed by him and in such form as he may prescribe, conditioned for the true and faithful performance of all his duties according to law and for the true and faithful accounting for delivering, and paying over to the persons thereto entitled of all moneys, goods, effects, and other property which shall come to his hands or to the hands of any other person to his use as such administrator, guardian, or in other fiduciary capacity. Said bond shall be deposited with the Secretary of the Treasury. In case of a breach of any such bond, any person injured by the failure of such officer faithfully to discharge the duties of his said trust according to law, may institute, in his own name and for his sole use, a suit upon said bond and thereupon recover such damages as shall be legally assessed, with costs of suit, for which execution may issue in due form; but if such party fails to recover in the suit, judgment shall be rendered and execution may issue against him for costs in favor of the defendant; and the United States shall in no case be liable for the same. The said bond shall remain, after any judgment rendered thereon, as a security for the benefit of any person injured by a breach of the condition of the same until the whole penalty has been recovered.
 
-(June 30, 1902, ch. 1331, § 1, 32 Stat. 546.)
+(June 30, 1902, ch. 1331, § 1, 32 Stat. 546.)
 
 **Editorial Notes**
 
@@ -9820,11 +9820,11 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1178 of this title, and prior thereto to section 78 of this title.
 
-### § 4199. Penalty for failure to give bond and for embezzlement
+### § 4199. Penalty for failure to give bond and for embezzlement
 
 Every consular officer who accepts any appointment to any office of trust mentioned in section 4198 of this title without first having complied with the provisions thereof by due execution of a bond as therein required, or who shall willfully fail or neglect to account for, pay over, and deliver any money, property, or effects so received to any person lawfully entitled thereto, after having been requested by the latter, his representative or agent so to do, shall be deemed guilty of embezzlement and shall be punishable by imprisonment for not more than five years and by a fine of not more than $5,000.
 
-(June 30, 1902, ch. 1331, § 2, 32 Stat. 547.)
+(June 30, 1902, ch. 1331, § 2, 32 Stat. 547.)
 
 **Editorial Notes**
 
@@ -9834,27 +9834,27 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1179 of this title, and prior thereto to section 79 of this title.
 
-### § 4200. Certification of invoices generally
+### § 4200. Certification of invoices generally
 
 No consular officer shall certify any invoice unless he is satisfied that the person making oath thereto is the person he represents himself to be, that he is a credible person, and that the statements made under such oath are true; and he shall, thereupon, by his certificate, state that he was so satisfied.
 
-(R.S. § 1715.)
+(R.S. § 1715.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1715 derived from act Aug. 18, 1856, ch. 127, § 27, 11 Stat. 62.
+R.S. § 1715 derived from act Aug. 18, 1856, ch. 127, § 27, 11 Stat. 62.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1180 of this title, and prior thereto to section 83 of this title.
 
-### § 4201. Fees for certification of invoices
+### § 4201. Fees for certification of invoices
 
 Fees for the consular certification of invoices shall be, and they are, included with the fees for official services for which the President is authorized by section 4219 of this title to prescribe rates or tariffs.
 
-(Apr. 5, 1906, ch. 1366, § 9, 34 Stat. 101.)
+(Apr. 5, 1906, ch. 1366, § 9, 34 Stat. 101.)
 
 **Editorial Notes**
 
@@ -9862,27 +9862,27 @@ Fees for the consular certification of invoices shall be, and they are, included
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-A further provision of section 9 of act Apr. 5, 1906, repealed R.S. § 2851, which provided for certification of invoices of imported merchandise by the collector of the post, and R.S. § 1721, which prescribed a fee of one dollar to be charged by the consul-general for the British North American provinces, for certifying invoices of goods not exceeding $100 in value.
+A further provision of section 9 of act Apr. 5, 1906, repealed R.S. § 2851, which provided for certification of invoices of imported merchandise by the collector of the post, and R.S. § 1721, which prescribed a fee of one dollar to be charged by the consul-general for the British North American provinces, for certifying invoices of goods not exceeding $100 in value.
 
 Section was formerly classified to section 1181 of this title, and prior thereto to section 84 of this title.
 
-### § 4202. Exaction of excessive fees for verification of invoices; penalty
+### § 4202. Exaction of excessive fees for verification of invoices; penalty
 
 The fee provided by law for the verification of invoices by consular officers shall, when paid, be held to be a full payment for furnishing blank forms of declaration to be signed by the shipper, and for making, signing, and sealing the certificate of the consular officer thereto; and any consular officer who, under pretense of charging for blank forms, advice, or clerical services in the preparation of such declaration or certificate, charges or receives any fee greater in amount than that provided by law for the verification of invoices, or who demands or receives for any official services, or who allows any clerk or subordinate to receive for any such service, any fee or reward other than the fee provided by law for such service, shall be punishable by imprisonment for not more than one year, or by a fine of not more than $2,000, and shall be removed from his office.
 
-(R.S. § 1716.)
+(R.S. § 1716.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1716 derived from act Mar. 3, 1869, ch. 125, § 3, 15 Stat. 321.
+R.S. § 1716 derived from act Mar. 3, 1869, ch. 125, § 3, 15 Stat. 321.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1182 of this title, and prior thereto to section 85 of this title.
 
-### § 4203. Destruction of old invoices
+### § 4203. Destruction of old invoices
 
 The Secretary of State is authorized to cause, from time to time, the destruction of invoices that have been filed in the consular offices for a period of more than five years.
 
@@ -9896,43 +9896,43 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1183 of this title, and prior thereto to section 86 of this title.
 
-### § 4204. Restriction as to certificate for goods from countries adjacent to United States
+### § 4204. Restriction as to certificate for goods from countries adjacent to United States
 
 No consular officer of the United States shall grant a certificate for goods, wares, or merchandise shipped from countries adjacent to the United States which have passed a consulate after purchase for shipment.
 
-(R.S. § 1717.)
+(R.S. § 1717.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1717 derived from act Feb. 22, 1873, ch. 184, § 3, 17 Stat. 474.
+R.S. § 1717 derived from act Feb. 22, 1873, ch. 184, § 3, 17 Stat. 474.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1184 of this title, and prior thereto to section 87 of this title.
 
-### § 4205. Retention of papers of American vessels until payment of demands and wages
+### § 4205. Retention of papers of American vessels until payment of demands and wages
 
 All consular officers are authorized and required to retain in their possession all the papers of vessels of the United States, which shall be deposited with them as directed by law, till payment shall be made of all demands and wages on account of such vessels.
 
-(R.S. § 1718.)
+(R.S. § 1718.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1718 derived from act Aug. 18, 1856, ch. 127, § 28, 11 Stat. 63.
+R.S. § 1718 derived from act Aug. 18, 1856, ch. 127, § 28, 11 Stat. 63.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1185 of this title, and prior thereto to section 88 of this title.
 
-### § 4206. Fees for services to American vessels or seamen prohibited
+### § 4206. Fees for services to American vessels or seamen prohibited
 
 No fees named in the tariff of consular fees prescribed by order of the President shall be charged or collected by consular officers for the official services to American vessels and seamen. Consular officers shall furnish the master of every such vessel with an itemized statement of such services performed on account of said vessel, with the fee so prescribed for each service, and make a detailed report to the Secretary of the Treasury of such services and fees, under such regulations as the Secretary of State may prescribe.
 
-(June 26, 1884, ch. 121, § 12, 23 Stat. 56.)
+(June 26, 1884, ch. 121, § 12, 23 Stat. 56.)
 
 **Editorial Notes**
 
@@ -9944,17 +9944,17 @@ Provisions of section 12 of act June 26, 1884 (this section), permitting the Sec
 
 Section was formerly classified to section 1186 of this title, and prior thereto to section 89 of this title.
 
-### § 4207. Profits from dealings with discharged seamen; prohibition
+### § 4207. Profits from dealings with discharged seamen; prohibition
 
 No consular officer, nor any person under any consular officer shall make any charge or receive, directly or indirectly, any compensation, by way of commission or otherwise, for receiving or disbursing the wages or extra wages to which any seaman or mariner is entitled who is discharged in any foreign country, or for any money advanced to any such seaman or mariner who seeks relief from any consulate; nor shall any consular officer, or any person under any consular officer, be interested, directly or indirectly, in any profit derived from clothing, boarding or otherwise supplying or sending home any such seaman or mariner. Such prohibition as to profit, however, shall not be construed to relieve or prevent any such officer who is the owner of or otherwise interested in any vessel of the United States from transporting in such vessel any such seaman or mariner, or from receiving or being interested in such reasonable allowance as may be made for such transportation by law.
 
-(R.S. § 1719; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
+(R.S. § 1719; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1719 derived from act Aug. 18, 1856, ch. 127, § 20, 11 Stat. 59.
+R.S. § 1719 derived from act Aug. 18, 1856, ch. 127, § 20, 11 Stat. 59.
 
 Reference to “commercial agency” was omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -9962,51 +9962,51 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1187 of this title, and prior thereto to section 90 of this title.
 
-### § 4208. Valuation of foreign coins in payment of fees
+### § 4208. Valuation of foreign coins in payment of fees
 
 Consuls, vice consuls, and consular agents in the Dominion of Canada, in the collection of official fees, shall receive foreign moneys at the rate given in the Treasury schedule of the value of foreign coins.
 
-(R.S. § 1722.)
+(R.S. § 1722.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1722 derived from act Mar. 3, 1869, ch. 125, § 3, 15 Stat. 321.
+R.S. § 1722 derived from act Mar. 3, 1869, ch. 125, § 3, 15 Stat. 321.
 
-Provisions of R.S. § 1722 that no consul, vice consul, or consular agent in the Dominion of Canada shall be allowed tonnage fees for any services, actual or constructive, rendered any vessel owned and registered in the United States that may touch at a Canadian port, were omitted as superseded by section 12 of act June 26, 1884, ch. 121, 23 Stat. 56, which is classified to section 4206 of this title.
+Provisions of R.S. § 1722 that no consul, vice consul, or consular agent in the Dominion of Canada shall be allowed tonnage fees for any services, actual or constructive, rendered any vessel owned and registered in the United States that may touch at a Canadian port, were omitted as superseded by section 12 of act June 26, 1884, ch. 121, 23 Stat. 56, which is classified to section 4206 of this title.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1188 of this title, and prior thereto to section 91 of this title.
 
-### § 4209. Exaction of excessive fees generally; penalty of treble amount
+### § 4209. Exaction of excessive fees generally; penalty of treble amount
 
 Whenever any consular officer collects, or knowingly allows to be collected for any service, any other or greater fees than are allowed by law for such service, he shall, besides his liability to refund the same, be liable to pay to the person by whom or in whose behalf the same are paid, treble the amount of the unlawful charge so collected, as a penalty, to be recovered with costs, in any proper form of action, by such person for his own use. And in any such case the Secretary of the Treasury may retain, out of the compensation of such officer, the amount of such overcharge and of such penalty, and charge the same to such officer in account, and may thereupon refund such unlawful charge, and pay such penalty to the person entitled to the same if he shall think proper so to do.
 
-(R.S. § 1723.)
+(R.S. § 1723.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1723 derived from act Aug. 18, 1856, ch. 127, § 17, 11 Stat. 58.
+R.S. § 1723 derived from act Aug. 18, 1856, ch. 127, § 17, 11 Stat. 58.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1189 of this title, and prior thereto to section 92 of this title.
 
-### § 4210. Liability for uncollected fees
+### § 4210. Liability for uncollected fees
 
 Every consul general, consul, or vice consul appointed to perform the duty of any such officer, who omits to collect any fees which he is entitled to charge for any official service, shall be liable to the United States therefor, as if he had collected the same; unless, upon good cause shown therefor, the Secretary of the Treasury shall think proper to remit the same.
 
-(R.S. § 1724; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
+(R.S. § 1724; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1724 derived from act Aug. 18, 1856, ch. 127, § 18, 11 Stat. 58.
+R.S. § 1724 derived from act Aug. 18, 1856, ch. 127, § 18, 11 Stat. 58.
 
 References to “commercial agent” and “vice-commercial agent” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -10014,17 +10014,17 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1190 of this title, and prior thereto to section 93 of this title.
 
-### § 4211. Returns as to fees by officers compensated by fees
+### § 4211. Returns as to fees by officers compensated by fees
 
 All consular agents, as are allowed for their compensation the whole or any part of the fees which they may collect, shall make returns in such manner as the Government Accountability Office shall prescribe, of all such fees as they or any person in their behalf so collect.
 
-(R.S. § 1725; July 31, 1894, ch. 174, § 5, 28 Stat. 206; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(R.S. § 1725; July 31, 1894, ch. 174, § 5, 28 Stat. 206; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1725 derived from act Aug. 18, 1856, ch. 127, § 18, 11 Stat. 58.
+R.S. § 1725 derived from act Aug. 18, 1856, ch. 127, § 18, 11 Stat. 58.
 
 References to “commercial agents” and “vice-commercial agents” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -10038,19 +10038,19 @@ Section was formerly classified to section 1191 of this title, and prior thereto
 
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “Comptroller of the Treasury” pursuant to act June 10, 1921, which transferred all powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31. Previously, functions of Secretary of State under this section transferred to Comptroller of the Treasury by act July 31, 1894.
 
-### §§ 4212 to 4214. Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2223, Oct. 21, 1998, 112 Stat. 2681–819
+### §§ 4212 to 4214. Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2223, Oct. 21, 1998, 112 Stat. 2681–819
 
-Section 4212, R.S. §§ 1726, 1727, required receipts for fees collected for consular services.
+Section 4212, R.S. §§ 1726, 1727, required receipts for fees collected for consular services.
 
-Section 4213, R.S. § 1727, required registry of fees.
+Section 4213, R.S. § 1727, required registry of fees.
 
-Section 4214, R.S. § 1728; June 28, 1955, ch. 196, 69 Stat. 187, required full transcript and certification of register.
+Section 4214, R.S. § 1728; June 28, 1955, ch. 196, 69 Stat. 187, required full transcript and certification of register.
 
-### § 4215. Notarial acts, oaths, affirmations, affidavits, and depositions; fees
+### § 4215. Notarial acts, oaths, affirmations, affidavits, and depositions; fees
 
 Every consular officer of the United States is required, whenever application is made to him therefor, within the limits of his consulate, to administer to or take from any person any oath, affirmation, affidavit, or deposition, and to perform any other notarial act which any notary public is required or authorized by law to do within the United States; and for every such notarial act performed he shall charge in each instance the appropriate fee prescribed by the President under section 4219 of this title.
 
-(Apr. 5, 1906, ch. 1366, § 7, 34 Stat. 101; Pub. L. 103–236, title I, § 127(b), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, § 1(mm)(1), Oct. 25, 1994, 108 Stat. 4303.)
+(Apr. 5, 1906, ch. 1366, § 7, 34 Stat. 101; Pub. L. 103–236, title I, § 127(b), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, § 1(mm)(1), Oct. 25, 1994, 108 Stat. 4303.)
 
 **Editorial Notes**
 
@@ -10066,49 +10066,49 @@ Section was formerly classified to section 1195 of this title, and prior thereto
 
 Pub. L. 103–236 inserted at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”
 
-### § 4216. Posting rates of fees
+### § 4216. Posting rates of fees
 
 It shall be the duty of all consular officers at all times to keep posted up in their offices, respectively, in a conspicuous place, and subject to the examination of all persons interested therein, a copy of such rates or tariffs as shall be in force.
 
-(R.S. § 1731.)
+(R.S. § 1731.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1731 derived from act Aug. 18, 1856, ch. 127, § 16, 11 Stat. 57.
+R.S. § 1731 derived from act Aug. 18, 1856, ch. 127, § 16, 11 Stat. 57.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1197 of this title, and prior thereto to section 101 of this title.
 
-### § 4217. Embezzlement of fees or of effects of American citizens
+### § 4217. Embezzlement of fees or of effects of American citizens
 
 Every consular officer who willfully neglects to render true and just quarterly accounts and returns of the business of his office, and of moneys received by him for the use of the United States, or who neglects to pay over any balance of said moneys due to the United States at the expiration of any quarter, before the expiration of the next succeeding quarter, or who shall receive money, property, or effects belonging to a citizen of the United States and shall not within a reasonable time after demand made upon him by the Secretary of State or by such citizen, his executor, administrator, or legal representative, account for and pay over all moneys, property, and effects, less his lawful fees, due to such citizen, shall be deemed guilty of embezzlement, and shall be punishable by imprisonment for not more than five years, and by a fine of not more than $2,000.
 
-(R.S. § 1734; Dec. 21, 1898, ch. 36, § 3, 30 Stat. 771.)
+(R.S. § 1734; Dec. 21, 1898, ch. 36, § 3, 30 Stat. 771.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1734 derived from act Mar. 3, 1869, ch. 125, § 5, 15 Stat. 322.
+R.S. § 1734 derived from act Mar. 3, 1869, ch. 125, § 5, 15 Stat. 322.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1198 of this title, and prior thereto to section 102 of this title.
 
-### § 4218. False certificate as to ownership of property
+### § 4218. False certificate as to ownership of property
 
 If any consul or vice consul falsely and knowingly certifies that property belonging to foreigners is property belonging to citizens of the United States, he shall be punishable by imprisonment for not more than three years, and by a fine of not more than $10,000.
 
-(R.S. § 1737; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
+(R.S. § 1737; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1737 derived from act Feb. 22, 1803, ch. 9, § 7, 2 Stat. 204.
+R.S. § 1737 derived from act Feb. 22, 1803, ch. 9, § 7, 2 Stat. 204.
 
 References to “commercial agent” and “vice-commercial agent” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -10116,17 +10116,17 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1200 of this title, and prior thereto to section 104 of this title.
 
-### § 4219. Regulation of fees by President
+### § 4219. Regulation of fees by President
 
 The President is authorized to prescribe, from time to time, the rates or tariffs of fees to be charged for official services, and to designate what shall be regarded as official services, besides such as are expressly declared by law, in the business of the several embassies, legations, and consulates, and to adapt the same, by such differences as may be necessary or proper, to each embassy, legation, or consulate; and it shall be the duty of all officers and persons connected with such embassies, legations, and consulates to collect for such official services such and only such fees as may be prescribed for their respective embassies, legations, and consulates, and such rates or tariffs shall be reported annually to Congress.
 
-(R.S. § 1745; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
+(R.S. § 1745; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1745 derived from act Aug. 18, 1856, ch. 127, § 16, 11 Stat. 57.
+R.S. § 1745 derived from act Aug. 18, 1856, ch. 127, § 16, 11 Stat. 57.
 
 References to “commercial agencies” and “commercial agency” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -10148,37 +10148,37 @@ Sec. 3. The rates or tariffs of fees and the regulations prescribed and any othe
 
 Dwight D. Eisenhower.
 
-### § 4220. Medium for payment of fees
+### § 4220. Medium for payment of fees
 
 All fees collected by diplomatic and consular officers for and in behalf of the United States shall be collected in the coin of the United States, or at its representative value in exchange.
 
-(R.S. § 1746.)
+(R.S. § 1746.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 1746 derived from act Aug. 18, 1856, ch. 127, § 30, 11 Stat. 63.
+R.S. § 1746 derived from act Aug. 18, 1856, ch. 127, § 30, 11 Stat. 63.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1202 of this title, and prior thereto to section 128 of this title.
 
-### § 4221. Depositions and notarial acts; perjury
+### § 4221. Depositions and notarial acts; perjury
 
 Every secretary of embassy or legation and consular officer is authorized, whenever he is required or deems it necessary or proper so to do, at the post, port, place, or within the limits of his embassy, legation, or consulate, to administer to or take from any person an oath, affirmation, affidavit, or deposition, and to perform any notarial act which any notary public is required or authorized by law to do within the United States. At any post, port, or place where there is no consular officer, the Secretary of State may authorize any other officer or employee of the United States Government who is a United States citizen serving overseas, including any contract employee of the United States Government, to perform such acts, and any such contractor so authorized shall not be considered to be a consular officer. Every such oath, affirmation, affidavit, deposition, and notarial act administered, sworn, affirmed, taken, had, or done, by or before any such officer, when certified under his hand and seal of office, shall be as valid, and of like force and effect within the United States, to all intents and purposes, as if administered, sworn, affirmed, taken, had, or done, by or before any other person within the United States duly authorized and competent thereto. If any person shall willfully and corruptly commit perjury, or by any means procure any person to commit perjury in any such oath, affirmation, affidavit, or deposition, within the intent and meaning of any Act of Congress now or hereafter made, such offender may be charged, proceeded against, tried, convicted, and dealt with in any district of the United States, in the same manner, in all respects, as if such offense had been committed in the United States, before any officer duly authorized therein to administer or take such oath, affirmation, affidavit, or deposition, and shall be subject to the same punishment and disability therefor as are or shall be prescribed by any such act for such offense; and any document purporting to have affixed, impressed, or subscribed thereto, or thereon the seal and signature of the officer administering or taking the same in testimony thereof, shall be admitted in evidence without proof of any such seal or signature being genuine or of the official character of such person; and if any person shall forge any such seal or signature, or shall tender in evidence any such document with a false or counterfeit seal or signature thereto, knowing the same to be false or counterfeit, he shall be deemed and taken to be guilty of a misdemeanor and on conviction shall be imprisoned not exceeding three years nor less than one year, and fined, in a sum not to exceed $3,000, and may be charged, proceeded against, tried, convicted, and dealt with therefor in the district where he may be arrested or in custody. Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.
 
-(R.S. § 1750; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100; Pub. L. 103–415, § 1(mm)(2), Oct. 25, 1994, 108 Stat. 4304; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(c)(1), Oct. 21, 1998, 112 Stat. 2681–818.)
+(R.S. § 1750; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100; Pub. L. 103–415, § 1(mm)(2), Oct. 25, 1994, 108 Stat. 4304; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(c)(1), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52. That act was incorporated into the Revised Statutes as R.S. §§ 208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
+This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52. That act was incorporated into the Revised Statutes as R.S. §§ 208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
 
 **Codification**
 
-R.S. § 1750 derived from act Aug. 18, 1856, ch. 127, § 24, 11 Stat. 61.
+R.S. § 1750 derived from act Aug. 18, 1856, ch. 127, § 24, 11 Stat. 61.
 
 Reference to “commercial agency” was omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -10192,11 +10192,11 @@ Section was formerly classified to section 1203 of this title, and prior thereto
 
 1994—Pub. L. 103–415, which directed amendment of section 24 of the Act of August 18, 1856 (11 Stat. 61, 22 U.S.C. 4221) by inserting at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”, was executed to this section, which is section 1750 of the Revised Statutes, to reflect the probable intent of Congress. Section 24 of the Act of Aug. 18, 1856, was restated in section 1750 of the Revised Statutes and repealed by section 5596 of the Revised Statutes.
 
-### § 4222. Authentication of documents of State of Vatican City by consular officer in Rome
+### § 4222. Authentication of documents of State of Vatican City by consular officer in Rome
 
 Until the United States shall have consular officer resident in the State of the Vatican City, a copy of any document of record or on file in a public office of said State of the Vatican City, certified by the lawful custodian of such document, may be authenticated, as provided in section 1741 of title 28, by a consular officer of the United States resident in the city of Rome, Kingdom of Italy, and such document or record shall, when so certified and authenticated, be admissible in evidence in any court of the United States.
 
-(June 20, 1936, ch. 640, § 6A, as added June 25, 1938, ch. 682, 52 Stat. 1163.)
+(June 20, 1936, ch. 640, § 6A, as added June 25, 1938, ch. 682, 52 Stat. 1163.)
 
 **Editorial Notes**
 
@@ -10208,11 +10208,11 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1204 of this title, and prior thereto to section 695e–1 of Title 28.
 
-### § 4223. General duty to account for fees
+### § 4223. General duty to account for fees
 
 All fees, official or unofficial, received by any officer in the Consular Service for services rendered in connection with the duties of his office or as a consular officer, including fees for notarial services, and fees for taking depositions, executing commissions or letters rogatory, settling estates, receiving or paying out moneys, caring for or disposing of property, shall be accounted for and paid into the Treasury of the United States, and the sole and only compensation of such officers shall be by salaries fixed by law. And vice-consuls, in addition to such compensation as they may be entitled to receive as consuls or clerks, may receive such portion of the salaries of the consul-general or consuls for whom they act as shall be provided by regulation.
 
-(Apr. 5, 1906, ch. 1366, § 8, 34 Stat. 101; Feb. 5, 1915, ch. 23, §§ 3, 6, 38 Stat. 805, 806; May 24, 1924, ch. 182, § 11, 43 Stat. 142; Aug. 13, 1946, ch. 957, title XI, § 1131(26), 60 Stat. 1037.)
+(Apr. 5, 1906, ch. 1366, § 8, 34 Stat. 101; Feb. 5, 1915, ch. 23, §§ 3, 6, 38 Stat. 805, 806; May 24, 1924, ch. 182, § 11, 43 Stat. 142; Aug. 13, 1946, ch. 957, title XI, § 1131(26), 60 Stat. 1037.)
 
 **Editorial Notes**
 
@@ -10236,17 +10236,17 @@ Amendment by act Aug. 13, 1946, effective three months after Aug. 13, 1946.
 
 **Repeals**
 
-Act Aug. 13, 1946, ch. 957, title XI, § 1131(26), 60 Stat. 1037, cited as a credit to this section, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Act Aug. 13, 1946, ch. 957, title XI, § 1131(26), 60 Stat. 1037, cited as a credit to this section, was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
-### § 4224. Fees; accounting; stamps
+### § 4224. Fees; accounting; stamps
 
-The provisions of sections 1196 1
+The provisions of sections 1196 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 4223 of this title, relative to official fees and the method of accounting therefor shall apply to diplomatic officers below the grade of minister and to consular officers.
 
-(May 24, 1924, ch. 182, § 18, formerly § 11, 43 Stat. 142, renumbered and amended Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1209.)
+(May 24, 1924, ch. 182, § 18, formerly § 11, 43 Stat. 142, renumbered and amended Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -10268,9 +10268,9 @@ Section was formerly classified to section 812 of this title, and prior thereto 
 
 **Effective Date of 1931 Amendment**
 
-Act May 24, 1924, ch. 182, § 37, as added act Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1217, provided: “That this Act [see Tables for classification] shall take effect on July 1, 1931.”
+Act May 24, 1924, ch. 182, § 37, as added act Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1217, provided: “That this Act [see Tables for classification] shall take effect on July 1, 1931.”
 
-### § 4225. Fiscal districts; establishment; district accounting and disbursing offices; personnel; duties
+### § 4225. Fiscal districts; establishment; district accounting and disbursing offices; personnel; duties
 
 The President is authorized, whenever the necessity for such offices with a view to effecting economies in accounting procedure is apparent, to prescribe certain fiscal districts or areas and to establish within each such district as a part of the Department of State service, a district accounting and disbursing office to exercise control over the accounts and returns of all diplomatic missions and consular offices within the district in such manner as the President may direct. To each such office may be assigned the administrative accounting responsibility for receipts and expenditures of the diplomatic missions and consular offices within the district. Each district office shall be in charge of an accountable officer, to whom all fees, and other official monies, received by any diplomatic, consular, or Foreign Service officer may be accounted for, under such rules and regulations as may be prescribed by the Secretary of State, all such fees and monies, or the residue thereof after the payment of salaries, allowances, and current expenses of the diplomatic missions and consular offices within the district, to be paid by the district accounting and disbursing officer into the Treasury of the United States. Such district accounting and disbursing officers accountable for public monies may entrust monies to other officers for the purpose of having them make disbursements as his agent, and the officer to whom the monies are entrusted, as well as the officer who entrusts the monies to him, shall be held pecuniarily responsible therefor to the United States. All diplomatic, consular or Foreign Service officers on duty within the area covered by such district offices may be required to render accounts of their disbursements to the officer in charge of such district office to be included in his accounts.
 
@@ -10278,13 +10278,13 @@ The President is authorized, whenever the necessity for such offices with a view
 
 Section 3522 of title 31, and any other existing statutes, in so far as they conflict with this section are hereby amended.
 
-(May 24, 1924, ch. 182, § 35, as added Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1216; amended Pub. L. 92–310, title II, § 227(b), June 6, 1972, 86 Stat. 207.)
+(May 24, 1924, ch. 182, § 35, as added Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1216; amended Pub. L. 92–310, title II, § 227(b), June 6, 1972, 86 Stat. 207.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3522 of title 31” substituted in text for “Section 3622 of the Revised Statutes of the United States (U.S.C., title 31, sec. 496)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3522 of title 31” substituted in text for “Section 3622 of the Revised Statutes of the United States (U.S.C., title 31, sec. 496)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -10304,19 +10304,19 @@ Section effective July 1, 1931, see section 7 of act Feb. 23, 1931, set out as a
 
 **Transfer of Functions**
 
-Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, § 4, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See section 3321 of Title 31.
+Function of disbursement of moneys of the United States of any agency (with certain exceptions) transferred to Treasury Department by Ex. Ord. No. 6166, § 4, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. Section 4 of Ex. Ord. No. 6166 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1086, the first section of which enacted Title 31, Money and Finance. See section 3321 of Title 31.
 
-### § 4226. Fees and official monies from diplomatic missions, consular offices and district accounting and disbursing offices; disposition
+### § 4226. Fees and official monies from diplomatic missions, consular offices and district accounting and disbursing offices; disposition
 
 All fees and other official monies received by diplomatic missions or consular offices or by the district accounting and disbursing offices provided in section 4225 of this title, may be transmitted through the Department of State for deposit in the United States Treasury, or may be used in payment of salaries, allowances, and current expenses of said missions and offices, under such rules and regulations as the President may from time to time prescribe; the residue, if any, to be transmitted through the Department of State for deposit in the United States Treasury. Section 3302(b) of title 31 is hereby amended.
 
-(May 24, 1924, ch. 182, § 36, as added Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1216.)
+(May 24, 1924, ch. 182, § 36, as added Feb. 23, 1931, ch. 276, § 7, 46 Stat. 1216.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3302(b) of title 31” substituted in text for “Section 3617 of the Revised Statutes of the United States (U.S.C., title 31, sec. 484)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3302(b) of title 31” substituted in text for “Section 3617 of the Revised Statutes of the United States (U.S.C., title 31, sec. 484)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 

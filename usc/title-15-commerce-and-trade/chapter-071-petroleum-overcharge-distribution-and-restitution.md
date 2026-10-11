@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 71—PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION
 
-## § 4501. Restitutionary amounts covered
+## § 4501. Restitutionary amounts covered
 
 **(a) In general** This chapter (other than section 4504 of this title)—
 
@@ -51,13 +51,13 @@ Subject to subsections (b) and (c), the amounts covered by subsection (a) shall 
 
 Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
 
-(Pub. L. 99–509, title III, § 3002, Oct. 21, 1986, 100 Stat. 1881.)
+(Pub. L. 99–509, title III, § 3002, Oct. 21, 1986, 100 Stat. 1881.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
@@ -67,9 +67,9 @@ Section 155 of Public Law 97–377, referred to in subsec. (c)(1), is section 15
 
 **Short Title**
 
-Pub. L. 99–509, title III, § 3001, Oct. 21, 1986, 100 Stat. 1881, provided that: “This subtitle [subtitle A (§§ 3001–3008) of title III of Pub. L. 99–509, enacting this chapter] may be cited as the ‘Petroleum Overcharge Distribution and Restitution Act of 1986’.”
+Pub. L. 99–509, title III, § 3001, Oct. 21, 1986, 100 Stat. 1881, provided that: “This subtitle [subtitle A (§§ 3001–3008) of title III of Pub. L. 99–509, enacting this chapter] may be cited as the ‘Petroleum Overcharge Distribution and Restitution Act of 1986’.”
 
-## § 4502. Identification and disbursement of restitutionary amounts
+## § 4502. Identification and disbursement of restitutionary amounts
 
 **(a) In general**
 
@@ -83,13 +83,13 @@ shall be consistent with the provisions of this chapter.
 
 **(2)** Nothing in this section shall affect the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas.
 
-**(b) to (d) Repealed. Pub. L. 99–509, title III, § 3003(e), as added Pub. L. 105–277, div. A, § 101(e) [title III, § 337], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295**
+**(b) to (d) Repealed. Pub. L. 99–509, title III, § 3003(e), as added Pub. L. 105–277, div. A, § 101(e) [title III, § 337], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295**
 
 **(e) Repeal of subsections (b) to (d); equitable distribution of escrow remainder to claimants**
 
 Subsections (b), (c), and (d) of this section are repealed, and any rights that may have arisen are extinguished, on the date of the enactment of the Department of the Interior and Related Agencies Appropriations Act, 1999. After that date, the amount available for direct restitution to current and future refined petroleum product claimants under this chapter is reduced by the amounts specified in title II of that Act as being derived from amounts held in escrow under section 4501(d) of this title. The Secretary shall assure that the amount remaining in escrow to satisfy refined petroleum product claims for direct restitution is allocated equitably among the claimants.
 
-(Pub. L. 99–509, title III, § 3003, Oct. 21, 1986, 100 Stat. 1882; Pub. L. 105–277, div. A, § 101(e) [title III, § 337], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295.)
+(Pub. L. 99–509, title III, § 3003, Oct. 21, 1986, 100 Stat. 1882; Pub. L. 105–277, div. A, § 101(e) [title III, § 337], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295.)
 
 **Editorial Notes**
 
@@ -103,15 +103,15 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, wh
 
 1998—Subsecs. (b) to (e). Pub. L. 105–277 added subsec. (e) which struck out subsec. (b) relating to disbursement of restitutionary amounts as direct restitution to injured persons, subsec. (c) relating to determination of excess amount to be used for indirect restitution, and subsec. (d) relating to disbursement of excess amount as indirect restitution for energy conservation programs.
 
-## § 4503. Deposit of remainder of excess amount into Treasury as indirect restitution
+## § 4503. Deposit of remainder of excess amount into Treasury as indirect restitution
 
-The amount that remains from the excess amount described in section 4502(c) 1
+The amount that remains from the excess amount described in section 4502(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title after all disbursements have been made for a fiscal year under section 4502(d) 1 of this title shall be deposited by the Secretary of the Treasury into the general fund of the Treasury.
+of this title after all disbursements have been made for a fiscal year under section 4502(d) 1 of this title shall be deposited by the Secretary of the Treasury into the general fund of the Treasury.
 
-(Pub. L. 99–509, title III, § 3004, Oct. 21, 1986, 100 Stat. 1884.)
+(Pub. L. 99–509, title III, § 3004, Oct. 21, 1986, 100 Stat. 1884.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ of this title after all disbursements have been made for a fiscal year under sec
 
 Section 4502(c) and (d) of this title, referred to in text, was repealed by section 4502(e) of this title.
 
-## § 4504. Statute of limitation
+## § 4504. Statute of limitation
 
 **(a) In general**
 
@@ -203,13 +203,13 @@ whichever occurs later.
 
 **(4)** The Administrator of the Economic Regulatory Administration shall keep such Committees fully and currently informed about the status (including delays, settlement negotiations, and other pertinent matters) of all enforcement cases (whether or not in litigation) and subpart V regulation proceedings.
 
-(Pub. L. 99–509, title III, § 3005, Oct. 21, 1986, 100 Stat. 1884.)
+(Pub. L. 99–509, title III, § 3005, Oct. 21, 1986, 100 Stat. 1884.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
@@ -221,7 +221,7 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-## § 4505. Reports
+## § 4505. Reports
 
 **(a) Report on receipts and disbursements** The Secretary shall transmit, not later than 60 days after October 21, 1986, a report to the committees referred to in subsection (d) containing a clear and complete statement of all receipts, disbursements, and commitments of restitutionary amounts, as of October 21, 1986, by the Secretary pursuant to—
 
@@ -235,23 +235,23 @@ The Secretary shall transmit a report each fiscal year, beginning in fiscal year
 
 **(c) Report on amount estimated to be available for indirect restitution**
 
-The Secretary shall transmit, on March 1 of each year beginning with 1987 and continuing until all the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter, a report to such committees containing an estimate of the amount that will be determined under section 4502(c) 1
+The Secretary shall transmit, on March 1 of each year beginning with 1987 and continuing until all the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter, a report to such committees containing an estimate of the amount that will be determined under section 4502(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title to be the excess amount for purposes of section 4502(d)(1)(B) 1 of this title for the fiscal year beginning the next October 1.
+of this title to be the excess amount for purposes of section 4502(d)(1)(B) 1 of this title for the fiscal year beginning the next October 1.
 
 **(d) Receipt by committees**
 
 The reports required by this chapter shall be transmitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
-(Pub. L. 99–509, title III, § 3006, Oct. 21, 1986, 100 Stat. 1886.)
+(Pub. L. 99–509, title III, § 3006, Oct. 21, 1986, 100 Stat. 1886.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
@@ -265,7 +265,7 @@ Section 4502(c) and (d) of this title, referred to in subsec. (c), was repealed 
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-## § 4506. Termination
+## § 4506. Termination
 
 **(a) In general**
 
@@ -279,13 +279,13 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 **(b) Exception**
 
-The requirements of section 4502(d) 1
+The requirements of section 4502(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
 
-(Pub. L. 99–509, title III, § 3007, Oct. 21, 1986, 100 Stat. 1887.)
+(Pub. L. 99–509, title III, § 3007, Oct. 21, 1986, 100 Stat. 1887.)
 
 **Editorial Notes**
 
@@ -293,7 +293,7 @@ of this title shall continue to be applicable to the use of restitutionary amoun
 
 Section 4502(d) of this title, referred to in subsec. (b), was repealed by section 4502(e) of this title.
 
-## § 4507. Definitions
+## § 4507. Definitions
 
 For purposes of this chapter:
 
@@ -315,14 +315,14 @@ For purposes of this chapter:
 
 **(5)** The term “State” means each of the several States, the District of Columbia, the commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Pub. L. 99–509, title III, § 3008, Oct. 21, 1986, 100 Stat. 1887.)
+(Pub. L. 99–509, title III, § 3008, Oct. 21, 1986, 100 Stat. 1887.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
-The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§ 6321 et seq.) and E (§ 6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§ 6321 et seq.) and E (§ 6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
-The National Energy Extension Service Act, referred to in par. (3)(D), is title V of Pub. L. 95–39, June 3, 1977, 91 Stat. 191, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by Pub. L. 102–486, title I, § 143(a), Oct. 24, 1992, 106 Stat. 2843. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of Title 42 and Tables.
+The National Energy Extension Service Act, referred to in par. (3)(D), is title V of Pub. L. 95–39, June 3, 1977, 91 Stat. 191, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by Pub. L. 102–486, title I, § 143(a), Oct. 24, 1992, 106 Stat. 2843. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of Title 42 and Tables.

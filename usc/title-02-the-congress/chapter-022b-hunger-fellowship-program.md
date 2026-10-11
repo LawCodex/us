@@ -15,15 +15,15 @@ retrieved: 2026-10-11
 
 # CHAPTER 22B—HUNGER FELLOWSHIP PROGRAM
 
-## § 1161. Bill Emerson National Hunger Fellows and Mickey Leland International Hunger Fellows
+## § 1161. Bill Emerson National Hunger Fellows and Mickey Leland International Hunger Fellows
 
 **(a) Short title**
 
 This section may be cited as the “Bill Emerson National Hunger Fellows and Mickey Leland International Hunger Fellows Program Act of 2008”.
 
-**(b) Definitions** In this subsection: 1
+**(b) Definitions** In this subsection: 1
 
-<sup>1</sup>  So in original. Probably should be “section:”.
+<sup>1</sup> So in original. Probably should be “section:”.
 
 **(1) Director**
 
@@ -185,7 +185,7 @@ Gifts, bequests, or devises of money and proceeds from sales of other property r
 
 There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section, to remain available until expended.
 
-(Pub. L. 107–171, title IV, § 4404, May 13, 2002, 116 Stat. 335; Pub. L. 110–161, div. H, title I, § 1502(c), Dec. 26, 2007, 121 Stat. 2250; Pub. L. 110–234, title IV, § 4401, May 22, 2008, 122 Stat. 1132; Pub. L. 110–246, § 4(a), title IV, § 4401, June 18, 2008, 122 Stat. 1664, 1894.)
+(Pub. L. 107–171, title IV, § 4404, May 13, 2002, 116 Stat. 335; Pub. L. 110–161, div. H, title I, § 1502(c), Dec. 26, 2007, 121 Stat. 2250; Pub. L. 110–234, title IV, § 4401, May 22, 2008, 122 Stat. 1132; Pub. L. 110–246, § 4(a), title IV, § 4401, June 18, 2008, 122 Stat. 1664, 1894.)
 
 **Editorial Notes**
 
@@ -195,7 +195,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
+2008—Pub. L. 110–246, § 4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
 
 2007—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting “may” for “shall” and striking out “annual.”, was executed by making the substitution and striking out “annual” before “audit”, to reflect the probable intent of Congress.
 
@@ -205,10 +205,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title IV, § 4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 110–246, § 4(a), title IV, § 4407, June 18, 2008, 122 Stat. 1664, 1903, provided that: “Except as otherwise provided in this title [see Tables for classification], this title and the amendments made by this title take effect on October 1, 2008.”
+Pub. L. 110–234, title IV, § 4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 110–246, § 4(a), title IV, § 4407, June 18, 2008, 122 Stat. 1664, 1903, provided that: “Except as otherwise provided in this title [see Tables for classification], this title and the amendments made by this title take effect on October 1, 2008.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Effective Date**
 
-Pub. L. 107–171, title IV, § 4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided in this title [see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture], the amendments made by this title take effect on October 1, 2002.”
+Pub. L. 107–171, title IV, § 4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided in this title [see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture], the amendments made by this title take effect on October 1, 2002.”

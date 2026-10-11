@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 449 of this title as this chapter and items 4771 to 4781 as 7771 to 7781, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 449 of this title as this chapter and items 4771 to 4781 as 7771 to 7781, respectively.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(a)(49)(B), Dec. 12, 2017, 131 Stat. 1597, struck out second item 4781 “Cyber Center for Education and Innovation-Home of the National Cryptologic Museum” after identical first item 4781.
+2017—Pub. L. 115–91, div. A, title X, § 1081(a)(49)(B), Dec. 12, 2017, 131 Stat. 1597, struck out second item 4781 “Cyber Center for Education and Innovation-Home of the National Cryptologic Museum” after identical first item 4781.
 
-Pub. L. 115–31, div. N, title VI, § 602(b), May 5, 2017, 131 Stat. 829, added identical second item 4781 after first item 4781.
+Pub. L. 115–31, div. N, title VI, § 602(b), May 5, 2017, 131 Stat. 829, added identical second item 4781 after first item 4781.
 
-2016—Pub. L. 114–328, div. B, title XXVIII, § 2831(b), Dec. 23, 2016, 130 Stat. 2740, added item 4781 after item 4780.
+2016—Pub. L. 114–328, div. B, title XXVIII, § 2831(b), Dec. 23, 2016, 130 Stat. 2740, added item 4781 after item 4780.
 
-2004—Pub. L. 108–375, div. B, title XXVIII, § 2822(b), Oct. 28, 2004, 118 Stat. 2132, added item 4772.
+2004—Pub. L. 108–375, div. B, title XXVIII, § 2822(b), Oct. 28, 2004, 118 Stat. 2132, added item 4772.
 
-1982—Pub. L. 97–295, § 1(43)(B), Oct. 12, 1982, 96 Stat. 1298, struck out item 4772 “Reservation and use for air base or testing field”.
+1982—Pub. L. 97–295, § 1(43)(B), Oct. 12, 1982, 96 Stat. 1298, struck out item 4772 “Reservation and use for air base or testing field”.
 
-Pub. L. 97–214, § 10(a)(9)(A), July 12, 1982, 96 Stat. 175, struck out item 4774 “Construction: limitations”.
+Pub. L. 97–214, § 10(a)(9)(A), July 12, 1982, 96 Stat. 175, struck out item 4774 “Construction: limitations”.
 
-1973—Pub. L. 93–166, title V, § 509(c), Nov. 29, 1973, 87 Stat. 677, substituted “Construction: limitations” for “Construction of quarters: limitations on space and cost” in item 4774.
+1973—Pub. L. 93–166, title V, § 509(c), Nov. 29, 1973, 87 Stat. 677, substituted “Construction: limitations” for “Construction of quarters: limitations on space and cost” in item 4774.
 
-1971—Pub. L. 92–145, title V, § 509(a), Oct. 27, 1971, 85 Stat. 408, struck out item 4775 “Quarters: officers”.
+1971—Pub. L. 92–145, title V, § 509(a), Oct. 27, 1971, 85 Stat. 408, struck out item 4775 “Quarters: officers”.
 
-1958—Pub. L. 85–861, § 1(105)(B), Sept. 2, 1958, 72 Stat. 1490, added item 4780.
+1958—Pub. L. 85–861, § 1(105)(B), Sept. 2, 1958, 72 Stat. 1490, added item 4780.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Servicewomen’s Commemorative Partnerships**
 
-Pub. L. 116–283, div. A, title III, § 362, Jan. 1, 2021, 134 Stat. 3547, as amended by Pub. L. 119–60, div. A, title X, § 1084, Dec. 18, 2025, 139 Stat. 1054, provided that:
+Pub. L. 116–283, div. A, title III, § 362, Jan. 1, 2021, 134 Stat. 3547, as amended by Pub. L. 119–60, div. A, title X, § 1084, Dec. 18, 2025, 139 Stat. 1054, provided that:
 
 > **“(a) In General.—** The Secretary of the Army may enter into a contract, partnership, or grant with a non-profit organization for the purpose of providing financial support for the maintenance and sustainment of infrastructure and facilities at military service memorials and museums that highlight the role of women in the military. Such a contract, partnership, or grant shall be referred to as a ‘Servicewomen’s Commemorative Partnership’.
 
@@ -51,7 +51,7 @@ Pub. L. 116–283, div. A, title III, § 362, Jan. 1, 2021, 134 Stat. 3547, as
 
 **Department of the Army Pilot Program for Development and Use of Online Real Estate Inventory Tool**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2866, Jan. 1, 2021, 134 Stat. 4361, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2873, Dec. 23, 2024, 138 Stat. 2283; Pub. L. 119–60, div. B, title XXVIII, § 2881, Dec. 18, 2025, 139 Stat. 1329, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2866, Jan. 1, 2021, 134 Stat. 4361, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2873, Dec. 23, 2024, 138 Stat. 2283; Pub. L. 119–60, div. B, title XXVIII, § 2881, Dec. 18, 2025, 139 Stat. 1329, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -97,7 +97,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2866, Jan. 1, 2021, 134 Stat. 4361
 
 > **“(h) Duration.—** The authority of the Secretary of the Army to conduct the pilot program shall expire on September 30, 2030.”
 
-## § 7771. Acceptance of donations: land for mobilization, training, supply base, or aviation field
+## § 7771. Acceptance of donations: land for mobilization, training, supply base, or aviation field
 
 The Secretary of the Army may accept for the United States a gift of—
 
@@ -105,7 +105,7 @@ The Secretary of the Army may accept for the United States a gift of—
 
 **(2)** land that he considers suitable and desirable for an aviation field, if the gift is from a citizen of the United States and its terms authorize the use of the property by the United States for any purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 268, § 4771; renumbered § 7771, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 268, § 4771; renumbered § 7771, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -127,7 +127,7 @@ The Secretary of the Army may accept for the United States a gift of—
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7772. Heritage Center for the National Museum of the United States Army: development and operation
+## § 7772. Heritage Center for the National Museum of the United States Army: development and operation
 
 **(a) Agreement for Development of Center.—** The Secretary of the Army may enter into an agreement with the Army Historical Foundation, a nonprofit organization, for the design, construction, and operation of a facility or group of facilities at Fort Belvoir, Virginia, for the National Museum of the United States Army. The facility or group of facilities constructed pursuant to the agreement shall be known as the Heritage Center for the National Museum of the United States Army (in this section referred to as the “Center”).
 
@@ -165,7 +165,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(g) Additional Terms and Conditions.—** The Secretary of the Army may require such additional terms and conditions in connection with the agreement authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–375, div. B, title XXVIII, § 2822(a), Oct. 28, 2004, 118 Stat. 2130, § 4772; amended Pub. L. 113–291, div. B, title XXVIII, § 2851, Dec. 19, 2014, 128 Stat. 3713; renumbered § 7772, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 108–375, div. B, title XXVIII, § 2822(a), Oct. 28, 2004, 118 Stat. 2130, § 4772; amended Pub. L. 113–291, div. B, title XXVIII, § 2851, Dec. 19, 2014, 128 Stat. 3713; renumbered § 7772, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -181,11 +181,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7776. Emergency construction: fortifications
+## § 7776. Emergency construction: fortifications
 
 If in an emergency the President considers it urgent, a temporary fort or fortification may be built on private land if the owner consents in writing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4776; Pub. L. 91–393, § 5, Sept. 1, 1970, 84 Stat. 835; renumbered § 7776, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4776; Pub. L. 91–393, § 5, Sept. 1, 1970, 84 Stat. 835; renumbered § 7776, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -209,7 +209,7 @@ The word “important” is omitted as covered by the word “urgent”. The wor
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
+## § 7777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
 
 Whenever the Secretary of the Army considers that it can be done without injury to the reservation or inconvenience to the military forces stationed there, he may permit—
 
@@ -219,13 +219,13 @@ Whenever the Secretary of the Army considers that it can be done without injury 
 
 **(3)** the driving of livestock across a military reservation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4777; Pub. L. 96–513, title V, § 512(23), Dec. 12, 1980, 94 Stat. 2930; renumbered § 7777, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4777; Pub. L. 96–513, title V, § 512(23), Dec. 12, 1980, 94 Stat. 2930; renumbered § 7777, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4777 | 10:1348. | July 5, 1884, ch. 214, § 6, 23 Stat. 104. |
+| 4777 | 10:1348. | July 5, 1884, ch. 214, § 6, 23 Stat. 104. |
 
 The words “may permit” are substituted for the words “shall have authority, in his discretion, to permit”. The words “to permit the extension of State, county, and Territorial roads across military reservations” are omitted as superseded by section 2668 of this title. In clause (3), the word “livestock” is substituted for the words “cattle, sheep or other stock animals”.
 
@@ -247,11 +247,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7778. Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association
+## § 7778. Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association
 
 Under such conditions as he may prescribe, the Secretary of the Army may issue a revocable license to the International Committee of Young Men’s Christian Associations of North America to erect and maintain on military reservations, inside the United States and the Commonwealths and possessions, buildings needed by that organization for the promotion of the social, physical, intellectual, and moral welfare of the members of the Army on those reservations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4778; Pub. L. 109–163, div. A, title X, § 1057(a)(5), (6), Jan. 6, 2006, 119 Stat. 3440, 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(i), Jan. 7, 2011, 124 Stat. 4377; renumbered § 7778, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4778; Pub. L. 109–163, div. A, title X, § 1057(a)(5), (6), Jan. 6, 2006, 119 Stat. 3440, 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(i), Jan. 7, 2011, 124 Stat. 4377; renumbered § 7778, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -259,23 +259,23 @@ Under such conditions as he may prescribe, the Secretary of the Army may issue a
 |---|---|---|
 | 4778 | 10:1346. | May 31, 1902, ch. 943, 32 Stat. 282. |
 
-The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Army” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions” for clarity.
+The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Army” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions” for clarity.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440, which directed the substitution of “Commonwealths or possessions” for “Territories, Commonwealths, or possessions” in this section, but which could not be executed because “Territories, Commonwealths, or possessions” did not appear in text, was amended, effective as if included in Pub. L. 109–163 as enacted, so as to not apply to this section by Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(i), Jan. 7, 2011, 124 Stat. 4377.
+Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440, which directed the substitution of “Commonwealths or possessions” for “Territories, Commonwealths, or possessions” in this section, but which could not be executed because “Territories, Commonwealths, or possessions” did not appear in text, was amended, effective as if included in Pub. L. 109–163 as enacted, so as to not apply to this section by Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(i), Jan. 7, 2011, 124 Stat. 4377.
 
 **Amendments**
 
 2018—Pub. L. 115–232 renumbered section 4778 of this title as this section.
 
-2011—Pub. L. 111–383 amended Pub. L. 109–163, § 1057(a)(6). See 2006 Amendment note below.
+2011—Pub. L. 111–383 amended Pub. L. 109–163, § 1057(a)(6). See 2006 Amendment note below.
 
-2006—Pub. L. 109–163, § 1057(a)(6), substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+2006—Pub. L. 109–163, § 1057(a)(6), substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
-Pub. L. 109–163, § 1057(a)(5), which directed amendment of this section by substituting “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”, could not be executed and was subsequently amended by Pub. L. 111–383 so as to no longer direct amendment of this section.
+Pub. L. 109–163, § 1057(a)(5), which directed amendment of this section by substituting “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”, could not be executed and was subsequently amended by Pub. L. 111–383 so as to no longer direct amendment of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -285,23 +285,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(i) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(i) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
-## § 7779. Use of public property
+## § 7779. Use of public property
 
 **(a)** When the economy of the Army so requires, the Secretary of the Army shall establish military headquarters in places where suitable buildings are owned by the United States.
 
 **(b)** No money appropriated for the support of the Army may be spent for post gardens or Army exchanges. However, this does not prevent Army exchanges from using public buildings or public transportation that, in the opinion of the office or officer designated by the Secretary, are not needed for other purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4779; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; renumbered § 7779, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4779; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; renumbered § 7779, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4779(a) 4779(b) | 10:1332. 10:1345. | June 23, 1879, ch. 35, § 8, 21 Stat. 35. |
+| 4779(a) 4779(b) | 10:1332. 10:1345. | June 23, 1879, ch. 35, § 8, 21 Stat. 35. |
 | 4779(c) | 10:1335. | Aug. 1, 1914, ch. 223 (2d par. under “Quartermaster Corps”), 38 Stat. 629. |
-|  |  | July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 227. |
+|  |  | July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 227. |
 
 In subsection (a), the words “United States” are substituted for the word “Government”.
 
@@ -321,7 +321,7 @@ In subsection (b), the words “suitable space” are substituted for the words 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7780. Acquisition of buildings in District of Columbia
+## § 7780. Acquisition of buildings in District of Columbia
 
 **(a)** In time of war or when war is imminent, the Secretary of the Army may acquire by lease any building, or part of a building, in the District of Columbia that may be needed for military purposes.
 
@@ -335,7 +335,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 The Secretary shall determine, and pay out of funds appropriated for the payment of rent by the Department of the Army, just compensation for that use. If the amount of the compensation is not satisfactory to the person entitled to it, the Secretary shall pay 75 percent of it to that person, and the claimant is entitled to recover by action against the United States an additional amount that, when added to the amount paid by the Secretary, is determined by the court to be just compensation for that use.
 
-(Added Pub. L. 85–861, § 1(105)(A), Sept. 2, 1958, 72 Stat. 1489, § 4780; renumbered § 7780, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 85–861, § 1(105)(A), Sept. 2, 1958, 72 Stat. 1489, § 4780; renumbered § 7780, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -360,7 +360,7 @@ In subsection (b), the words “At any time” are inserted for clarity. The wor
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum
+## § 7781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum
 
 **(a) Establishment.—** The Secretary of Defense may establish at a publicly accessible location at Fort George G. Meade the “Cyber Center for Education and Innovation-Home of the National Cryptologic Museum” (in this section referred to as the “Center”). The Center may be used for the identification, curation, storage, and public viewing of materials relating to the activities of the National Security Agency, its predecessor or successor organizations, and the history of cryptology. The Center may contain meeting, conference, and classroom facilities that will be used to support such education, training, public outreach, and other purposes as the Secretary considers appropriate.
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4) Continuing availability of amounts.—** Amounts in the Fund shall be available without fiscal year limitation.
 
-(Added Pub. L. 114–328, div. B, title XXVIII, § 2831(a), Dec. 23, 2016, 130 Stat. 2738, § 4781; renumbered § 7781, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 114–328, div. B, title XXVIII, § 2831(a), Dec. 23, 2016, 130 Stat. 2738, § 4781; renumbered § 7781, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 

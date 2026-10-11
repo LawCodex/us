@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–210, title IV, § 404(b), Jan. 2, 2025, 138 Stat. 2797, added item 2069.
+2025—Pub. L. 118–210, title IV, § 404(b), Jan. 2, 2025, 138 Stat. 2797, added item 2069.
 
-2022—Pub. L. 117–328, div. U, title III, § 305(b)(4), div. V, title IV, § 404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 “Authorization of appropriations”.
+2022—Pub. L. 117–328, div. U, title III, § 305(b)(4), div. V, title IV, § 404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 “Authorization of appropriations”.
 
-2021—Pub. L. 116–315, title IV, § 4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
+2021—Pub. L. 116–315, title IV, § 4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
 
-2016—Pub. L. 114–315, title VII, §§ 712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 “Authorization of appropriations”.
+2016—Pub. L. 114–315, title VII, §§ 712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 “Authorization of appropriations”.
 
-2010—Pub. L. 111–275, title II, § 202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
+2010—Pub. L. 111–275, title II, § 202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
 
-2008—Pub. L. 110–387, title VI, §§ 602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
+2008—Pub. L. 110–387, title VI, §§ 602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
 
 ## SUBCHAPTER I—PURPOSE; DEFINITIONS; ADMINISTRATIVE MATTERS
 
-### § 2001. Purpose
+### § 2001. Purpose
 
 The purpose of this chapter is to provide for the special needs of homeless veterans.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
 
 **Editorial Notes**
 
@@ -51,7 +51,7 @@ Another prior section 2001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, rela
 
 **Authorization for Secretary of Veterans Affairs To Use Certain Funds for Improved Flexibility in Assistance to Homeless Veterans**
 
-Pub. L. 118–210, title IV, § 403, Jan. 2, 2025, 138 Stat. 2796, provided that:
+Pub. L. 118–210, title IV, § 403, Jan. 2, 2025, 138 Stat. 2796, provided that:
 
 > **“(a) Use of Funds.—** During the period beginning on the date of the enactment of this Act [Jan. 2, 2025] and ending on the termination date specified in subsection (d), the Secretary of Veterans Affairs may provide to a covered veteran, as the Secretary determines necessary—
 
@@ -107,7 +107,7 @@ Pub. L. 118–210, title IV, § 403, Jan. 2, 2025, 138 Stat. 2796, provided th
 
 **Annual Reports**
 
-Pub. L. 116–283, div. H, title XCI, § 9103(c), Jan. 1, 2021, 134 Stat. 4781, provided that:
+Pub. L. 116–283, div. H, title XCI, § 9103(c), Jan. 1, 2021, 134 Stat. 4781, provided that:
 
 > **“(1) In general.—** Not less frequently than once each year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the homelessness services provided under programs of the Department of Veterans Affairs, including services under HUD–VASH program under section 8*(o)*(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f*(o)*(19)).
 
@@ -115,13 +115,13 @@ Pub. L. 116–283, div. H, title XCI, § 9103(c), Jan. 1, 2021, 134 Stat. 4781
 
 **National Goal To End Homelessness Among Veterans**
 
-Pub. L. 109–461, title VII, § 701, Dec. 22, 2006, 120 Stat. 3439, provided that:
+Pub. L. 109–461, title VII, § 701, Dec. 22, 2006, 120 Stat. 3439, provided that:
 
 > **“(a) Reaffirmation.—** Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903) [Dec. 21, 2001].
 
 > **“(b) Reaffirmation of Encouragement of Cooperative Efforts.—** Congress reaffirms its encouragement, as specified in the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903), that all departments and agencies of the Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals, work cooperatively to end chronic homelessness among veterans.”
 
-Pub. L. 107–95, § 3, Dec. 21, 2001, 115 Stat. 903, provided that:
+Pub. L. 107–95, § 3, Dec. 21, 2001, 115 Stat. 903, provided that:
 
 > **“(a) National Goal.—** Congress hereby declares it to be a national goal to end chronic homelessness among veterans within a decade of the enactment of this Act [Dec. 21, 2001].
 
@@ -129,7 +129,7 @@ Pub. L. 107–95, § 3, Dec. 21, 2001, 115 Stat. 903, provided that:
 
 **Sense of the Congress Regarding the Needs of Homeless Veterans and the Responsibility of Federal Agencies**
 
-Pub. L. 107–95, § 4, Dec. 21, 2001, 115 Stat. 904, provided that:
+Pub. L. 107–95, § 4, Dec. 21, 2001, 115 Stat. 904, provided that:
 
 > “It is the sense of the Congress that—
 
@@ -147,11 +147,11 @@ Pub. L. 107–95, § 4, Dec. 21, 2001, 115 Stat. 904, provided that:
 
 **Evaluation Centers for Homeless Veterans Programs**
 
-Pub. L. 107–95, § 6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department of Veterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
+Pub. L. 107–95, § 6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department of Veterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
 
 **Definitions in Pub. L. 107–95**
 
-Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that:
+Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that:
 
 > “For purposes of this Act [see Short Title of 2001 Amendments note set out under section 101 of this title]:
 
@@ -159,7 +159,7 @@ Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that:
 
 > **“(2)** The term ‘grant and per diem provider’ means an entity in receipt of a grant under section 2011 or 2012 of title 38, United States Code, as so added.”
 
-### § 2002. Definitions
+### § 2002. Definitions
 
 **(a) In General.—** In this chapter:
 
@@ -177,7 +177,7 @@ Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that:
 
 **(B)** was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 109–444, § 8(a)(3), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(3), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 114–315, title VII, § 701, Dec. 16, 2016, 130 Stat. 1584; Pub. L. 116–283, div. A, title IX, § 926(a)(33), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 109–444, § 8(a)(3), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(3), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 114–315, title VII, § 701, Dec. 16, 2016, 130 Stat. 1584; Pub. L. 116–283, div. A, title IX, § 926(a)(33), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -195,33 +195,33 @@ A prior section 2002A was renumbered section 4102A of this title.
 
 2016—Pub. L. 114–315 designated existing provisions as subsec. (a), inserted heading, substituted “in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)” for “in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a))” in subsec. (a)(1), and added subsec. (b).
 
-2006—Par. (1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Par. (1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(3), inserted closing parenthesis before period at end.
+Pub. L. 109–461, § 1004(a)(3), inserted closing parenthesis before period at end.
 
-Pub. L. 109–444, which inserted closing parenthesis before period at end, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which inserted closing parenthesis before period at end, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title VII, § 706, Dec. 16, 2016, 130 Stat. 1586, provided that: “This subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title and enacting provisions set out as notes under this section] and the amendments made by this subtitle shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title VII, § 706, Dec. 16, 2016, 130 Stat. 1586, provided that: “This subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title and enacting provisions set out as notes under this section] and the amendments made by this subtitle shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Regulations**
 
-Pub. L. 114–315, title VII, § 705, Dec. 16, 2016, 130 Stat. 1585, provided that: “Not later than 270 days after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations, including such modifications to section 3.12 of title 38, Code of Federal Regulations (or any successor regulation), as the Secretary considers appropriate, to ensure that the Department of Veterans Affairs is in full compliance with this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title].”
+Pub. L. 114–315, title VII, § 705, Dec. 16, 2016, 130 Stat. 1585, provided that: “Not later than 270 days after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations, including such modifications to section 3.12 of title 38, Code of Federal Regulations (or any successor regulation), as the Secretary considers appropriate, to ensure that the Department of Veterans Affairs is in full compliance with this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title].”
 
 **Training of Personnel of the Department of Veterans Affairs and Grant Recipients**
 
-Pub. L. 114–315, title VII, § 704, Dec. 16, 2016, 130 Stat. 1585, provided that:
+Pub. L. 114–315, title VII, § 704, Dec. 16, 2016, 130 Stat. 1585, provided that:
 
-> “The Secretary of Veterans Affairs shall conduct a program of training and education to ensure that the following persons are aware of and implement this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title]:
+> “The Secretary of Veterans Affairs shall conduct a program of training and education to ensure that the following persons are aware of and implement this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title]:
 
 > **“(1)** Personnel of the Department of Veterans Affairs who are supporting or administering a program under chapter 20 of title 38, United States Code.
 
 > **“(2)** Recipients of grants or other amounts for purposes of carrying out such a program.”
 
-### § 2003. Staffing requirements
+### § 2003. Staffing requirements
 
 **(a) VBA Staffing at Regional Offices.—** The Secretary shall ensure that there is at least one full-time employee assigned to oversee and coordinate homeless veterans programs at each of the 20 Veterans Benefits Administration regional offices that the Secretary determines have the largest homeless veteran populations within the regions of the Administration. The programs covered by such oversight and coordination include the following:
 
@@ -243,7 +243,7 @@ Pub. L. 114–315, title VII, § 704, Dec. 16, 2016, 130 Stat. 1585, provided 
 
 **(c) Memorandum of Understanding on Assistance From Indian Health Service.—** The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers of the Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 116–283, div. H, title XCI, § 9103(b), Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title IV, § 4206, Jan. 5, 2021, 134 Stat. 5014.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 116–283, div. H, title XCI, § 9103(b), Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title IV, § 4206, Jan. 5, 2021, 134 Stat. 5014.)
 
 **Editorial Notes**
 
@@ -263,19 +263,19 @@ Another prior section 2005, Pub. L. 85–837, Sept. 2, 1958, 72 Stat. 1219, rela
 
 Prior section 2006 was renumbered section 4106 of this title.
 
-Another prior section 2006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him to consult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him to consult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2007 was renumbered section 4107 of this title.
 
-Another prior section 2007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220; Pub. L. 86–70, § 29(b), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 25(c), July 12, 1960, 74 Stat. 418, defined “Korean conflict veterans”, “unemployment compensation”, and “State”, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2007, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220; Pub. L. 86–70, § 29(b), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 25(c), July 12, 1960, 74 Stat. 418, defined “Korean conflict veterans”, “unemployment compensation”, and “State”, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2008 was renumbered section 4108 of this title.
 
-Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbade duplication of benefits, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2008, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1220, enumerated provisions which forbade duplication of benefits, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2009 was renumbered section 4109 of this title.
 
-Another prior section 2009, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, provided termination dates for the payment of benefits under chapter 41 of this title, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2009, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, provided termination dates for the payment of benefits under chapter 41 of this title, prior to repeal by Pub. L. 87–675, § 1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2010 was renumbered section 4110 of this title.
 
@@ -293,7 +293,7 @@ Subsec. (c). Pub. L. 116–315 added subsec. (c).
 
 **Report on Staffing of Department of Housing and Urban Development-Department of Veterans Affairs Supported Housing Program**
 
-Pub. L. 116–315, title IV, § 4208, Jan. 5, 2021, 134 Stat. 5015, provided that:
+Pub. L. 116–315, title IV, § 4208, Jan. 5, 2021, 134 Stat. 5015, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021], and every three years thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report that includes the following:
 
@@ -319,7 +319,7 @@ Pub. L. 116–315, title IV, § 4208, Jan. 5, 2021, 134 Stat. 5015, provided t
 
 ## SUBCHAPTER II—COMPREHENSIVE SERVICE PROGRAMS
 
-### § 2011. Grants
+### § 2011. Grants
 
 **(a) Authority To Make Grants.—** Subject to the availability of appropriations provided for such purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
 
@@ -427,7 +427,7 @@ Pub. L. 116–315, title IV, § 4208, Jan. 5, 2021, 134 Stat. 5015, provided t
 
 **(3)** An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§ 2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, § 703(a), title X, §§ 1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–154, title III, § 301(a), Aug. 6, 2012, 126 Stat. 1182; Pub. L. 117–328, div. U, title III, § 301(a)(1), Dec. 29, 2022, 136 Stat. 5466.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§ 2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, § 703(a), title X, §§ 1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–154, title III, § 301(a), Aug. 6, 2012, 126 Stat. 1182; Pub. L. 117–328, div. U, title III, § 301(a)(1), Dec. 29, 2022, 136 Stat. 5466.)
 
 **Editorial Notes**
 
@@ -445,37 +445,37 @@ Another prior section 2011 was renumbered section 4102 of this title.
 
 2022—Subsec. (c)(2), (3). Pub. L. 117–328 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.”
 
-2012—Subsec. (b)(1)(A). Pub. L. 112–154, § 301(a)(1), substituted “new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities,” for “expansion, remodeling, or alteration of existing buildings, or acquisition of facilities,”.
+2012—Subsec. (b)(1)(A). Pub. L. 112–154, § 301(a)(1), substituted “new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities,” for “expansion, remodeling, or alteration of existing buildings, or acquisition of facilities,”.
 
-Subsec. (c). Pub. L. 112–154, § 301(a)(2), designated first sentence as par. (1) and second sentence as par. (2) and added par. (3).
+Subsec. (c). Pub. L. 112–154, § 301(a)(2), designated first sentence as par. (1) and second sentence as par. (2) and added par. (3).
 
-2006—Subsec. (a). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, § 703(a). See below.
+Pub. L. 109–461, § 1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, § 703(a). See below.
 
-Pub. L. 109–461, § 703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
+Pub. L. 109–461, § 703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
 
-Pub. L. 109–444, § 8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (a)(2). Pub. L. 109–444, § 2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Subsec. (a)(2). Pub. L. 109–444, § 2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. U, title III, § 301(a)(2), Dec. 29, 2022, 136 Stat. 5466, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to any grant awarded under section 2011 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. U, title III, § 301(a)(2), Dec. 29, 2022, 136 Stat. 5466, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to any grant awarded under section 2011 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 29, 2022].”
 
 **Determination of Amount of Grant**
 
-Pub. L. 117–328, div. U, title III, § 301(a)(3), Dec. 29, 2022, 136 Stat. 5466, provided that: “On or after the date that is five years after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs may determine the maximum amount of a grant under section 2011 of title 38, United States Code, which shall be not less than 70 percent of the estimated cost of the project concerned.”
+Pub. L. 117–328, div. U, title III, § 301(a)(3), Dec. 29, 2022, 136 Stat. 5466, provided that: “On or after the date that is five years after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs may determine the maximum amount of a grant under section 2011 of title 38, United States Code, which shall be not less than 70 percent of the estimated cost of the project concerned.”
 
 **Elimination of Property Disposition Requirements**
 
-Pub. L. 117–328, div. U, title III, § 301(b)(1), Dec. 29, 2022, 136 Stat. 5466, provided that: “A recipient of a grant awarded under section 2011 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 29, 2022] for a project described in subsection (b)(1) of such section shall not be subject to any real property or equipment disposition requirements relating to the grant under section 61.67 of title 38, Code of Federal Regulations, sections 200.311(c) and 200.313(e) of title 2, Code of Federal Regulations, or successor regulations.”
+Pub. L. 117–328, div. U, title III, § 301(b)(1), Dec. 29, 2022, 136 Stat. 5466, provided that: “A recipient of a grant awarded under section 2011 of title 38, United States Code, on or after the date of the enactment of this Act [Dec. 29, 2022] for a project described in subsection (b)(1) of such section shall not be subject to any real property or equipment disposition requirements relating to the grant under section 61.67 of title 38, Code of Federal Regulations, sections 200.311(c) and 200.313(e) of title 2, Code of Federal Regulations, or successor regulations.”
 
 **Flexibility for the Secretary of Veterans Affairs in Caring for Homeless Veterans During a Covered Public Health Emergency**
 
-Pub. L. 116–315, title IV, § 4201, Jan. 5, 2021, 134 Stat. 5008, as amended by Pub. L. 117–328, div. U, title III, § 301(a)(4), (b)(2), Dec. 29, 2022, 136 Stat. 5466, provided that:
+Pub. L. 116–315, title IV, § 4201, Jan. 5, 2021, 134 Stat. 5008, as amended by Pub. L. 117–328, div. U, title III, § 301(a)(4), (b)(2), Dec. 29, 2022, 136 Stat. 5466, provided that:
 
 > **“(a) General Support.—**
 
@@ -575,7 +575,7 @@ Pub. L. 116–315, title IV, § 4201, Jan. 5, 2021, 134 Stat. 5008, as amended
 
 **Modifications to Comprehensive Service Programs for Homeless Veterans During a Public Health Emergency**
 
-Pub. L. 116–136, div. B, title X, § 20013, Mar. 27, 2020, 134 Stat. 589, as amended by Pub. L. 116–260, div. J, title V, § 516, Dec. 27, 2020, 134 Stat. 1690; Pub. L. 116–315, title IV, § 4201(b)(1), Jan. 5, 2021, 134 Stat. 5008; Pub. L. 117–328, div. U, title III, § 305(b)(3), Dec. 29, 2022, 136 Stat. 5472, provided that:
+Pub. L. 116–136, div. B, title X, § 20013, Mar. 27, 2020, 134 Stat. 589, as amended by Pub. L. 116–260, div. J, title V, § 516, Dec. 27, 2020, 134 Stat. 1690; Pub. L. 116–315, title IV, § 4201(b)(1), Jan. 5, 2021, 134 Stat. 5008; Pub. L. 117–328, div. U, title III, § 305(b)(3), Dec. 29, 2022, 136 Stat. 5472, provided that:
 
 > **“(a) Rule of Construction.—** In the case of a public health emergency, no authorization of appropriations in section 2016 of title 38, United States Code, may be construed as limiting amounts that may be appropriated for carrying out subchapter II of chapter 20 of such title.
 
@@ -595,13 +595,13 @@ Pub. L. 116–136, div. B, title X, § 20013, Mar. 27, 2020, 134 Stat. 589, as
 
 > **“(2)** may continue to pay per diem to grant recipients and eligible entities under the program for any additional days of absence when a veteran has already been absent for more than 72 hours.”
 
-[Pub. L. 116–260, div. J, title V, § 516, and Pub. L. 116–315, title IV, § 4201(b)(1), made identical amendments to section 20013(b) of Pub. L. 116–136, set out above.]
+[Pub. L. 116–260, div. J, title V, § 516, and Pub. L. 116–315, title IV, § 4201(b)(1), made identical amendments to section 20013(b) of Pub. L. 116–136, set out above.]
 
 [For definition of “public health emergency” as used in section 20013 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.]
 
 **Requirement for Department of Veterans Affairs To Assess Comprehensive Service Programs for Homeless Veterans**
 
-Pub. L. 114–315, title VII, § 714, Dec. 16, 2016, 130 Stat. 1588, provided that:
+Pub. L. 114–315, title VII, § 714, Dec. 16, 2016, 130 Stat. 1588, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall—
 
@@ -641,7 +641,7 @@ Pub. L. 114–315, title VII, § 714, Dec. 16, 2016, 130 Stat. 1588, provided 
 
 **Grant and Per Diem Payments**
 
-Pub. L. 112–154, title III, § 301(b), Aug. 6, 2012, 126 Stat. 1183, provided that:
+Pub. L. 112–154, title III, § 301(b), Aug. 6, 2012, 126 Stat. 1183, provided that:
 
 > **“(1) Study and development of fiscal controls and payment method.—** Not later than one year after the date of the enactment of this Act [Aug. 6, 2012], the Secretary of Veterans Affairs shall—
 
@@ -663,9 +663,9 @@ Pub. L. 112–154, title III, § 301(b), Aug. 6, 2012, 126 Stat. 1183, provide
 
 **Continuation of Authority**
 
-Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided that: “The authority provided by section 2011 of title 38, United States Code, shall continue in effect through September 30, 2006.”
+Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided that: “The authority provided by section 2011 of title 38, United States Code, shall continue in effect through September 30, 2006.”
 
-### § 2012. Per diem payments
+### § 2012. Per diem payments
 
 **(a) Per Diem Payments for Furnishing Services to Homeless Veterans.—**
 
@@ -723,9 +723,9 @@ Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided t
 
 **(1)** Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the facilities of the grant recipient or eligible entity, as the case may be, meet applicable fire and safety requirements under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
-**(2)** During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) 1
+**(2)** During the five-year period beginning on the date of the enactment of this section, paragraph (1) shall not apply to an entity that received a grant under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 (Public Law 102–590; 38 U.S.C. 7721 note) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 before that date if the entity meets fire and safety requirements established by the Secretary.
 
@@ -777,7 +777,7 @@ before that date if the entity meets fire and safety requirements established by
 
 **(3)** The average length of stay by a veteran participating in a program described in section 2012(a) of this title.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 908; amended Pub. L. 111–163, title VII, § 701, May 5, 2010, 124 Stat. 1174; Pub. L. 114–315, title VII, § 711, Dec. 16, 2016, 130 Stat. 1586; Pub. L. 116–315, title IV, § 4204, Jan. 5, 2021, 134 Stat. 5013; Pub. L. 118–210, title IV, § 402(a), Jan. 2, 2025, 138 Stat. 2794.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 908; amended Pub. L. 111–163, title VII, § 701, May 5, 2010, 124 Stat. 1174; Pub. L. 114–315, title VII, § 711, Dec. 16, 2016, 130 Stat. 1586; Pub. L. 116–315, title IV, § 4204, Jan. 5, 2021, 134 Stat. 5013; Pub. L. 118–210, title IV, § 402(a), Jan. 2, 2025, 138 Stat. 2794.)
 
 **Editorial Notes**
 
@@ -789,7 +789,7 @@ The date of the enactment of the Housing our Military Veterans Effectively Act o
 
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 107–95, which was approved Dec. 21, 2001.
 
-Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is section 3 of Pub. L. 102–590, Nov. 10, 1992, 106 Stat. 5136, which was set out in a note under former section 7721 of this title, which note was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, § 5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918. Section 7721 of this title was repealed by Pub. L. 109–233, title IV, § 402(c), June 15, 2006, 120 Stat. 411.
+Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is section 3 of Pub. L. 102–590, Nov. 10, 1992, 106 Stat. 5136, which was set out in a note under former section 7721 of this title, which note was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, § 5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918. Section 7721 of this title was repealed by Pub. L. 109–233, title IV, § 402(c), June 15, 2006, 120 Stat. 411.
 
 The date of the enactment of the HOME Act of 2024, referred to in subsec. (f), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
 
@@ -801,15 +801,15 @@ Another prior section 2012 was renumbered section 4103 of this title.
 
 **Amendments**
 
-2025—Subsec. (a)(2)(B)(i)(II)(aa)(BB). Pub. L. 118–210, § 402(a)(1)(A)(i), substituted “115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent)” for “115 percent”.
+2025—Subsec. (a)(2)(B)(i)(II)(aa)(BB). Pub. L. 118–210, § 402(a)(1)(A)(i), substituted “115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent)” for “115 percent”.
 
-Subsec. (a)(2)(B)(iii), (iv). Pub. L. 118–210, § 402(a)(1)(A)(ii), added cls. (iii) and (iv).
+Subsec. (a)(2)(B)(iii), (iv). Pub. L. 118–210, § 402(a)(1)(A)(ii), added cls. (iii) and (iv).
 
-Subsec. (a)(4). Pub. L. 118–210, § 402(a)(1)(B), added par. (4).
+Subsec. (a)(4). Pub. L. 118–210, § 402(a)(1)(B), added par. (4).
 
-Subsec. (f). Pub. L. 118–210, § 402(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 118–210, § 402(a)(2), added subsec. (f).
 
-2021—Subsec. (a)(2). Pub. L. 116–315, § 4204(a), amended par. (2) generally. Prior to amendment, text read as follows:
+2021—Subsec. (a)(2). Pub. L. 116–315, § 4204(a), amended par. (2) generally. Prior to amendment, text read as follows:
 
 “(2)(A) Except as otherwise provided in subparagraph (B), the rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (C).
 
@@ -823,17 +823,17 @@ Subsec. (f). Pub. L. 118–210, § 402(a)(2), added subsec. (f).
 
 “(E) The other sources of income referred to in subparagraphs (C) and (D) are payments to the grant recipient or eligible entity for furnishing services to homeless veterans under programs other than under this subchapter, including payments and grants from other departments and agencies of the United States, from departments or agencies of State or local government, and from private entities or organizations.”
 
-Subsec. (e). Pub. L. 116–315, § 4204(b), added subsec. (e).
+Subsec. (e). Pub. L. 116–315, § 4204(b), added subsec. (e).
 
-2016—Subsec. (a)(2)(A). Pub. L. 114–315, § 711(5), substituted “Except as otherwise provided in subparagraph (B), the rate” for “The rate” and “under subparagraph (C).” for “under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.”
+2016—Subsec. (a)(2)(A). Pub. L. 114–315, § 711(5), substituted “Except as otherwise provided in subparagraph (B), the rate” for “The rate” and “under subparagraph (C).” for “under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.”
 
-Subsec. (a)(2)(B). Pub. L. 114–315, § 711(6), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (a)(2)(B). Pub. L. 114–315, § 711(6), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (a)(2)(C). Pub. L. 114–315, § 711(1), (2), redesignated subpar. (B) as (C) and substituted “in subparagraph (E)” for “in subparagraph (D)”. Former subpar. (C) redesignated (D).
+Subsec. (a)(2)(C). Pub. L. 114–315, § 711(1), (2), redesignated subpar. (B) as (C) and substituted “in subparagraph (E)” for “in subparagraph (D)”. Former subpar. (C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 114–315, § 711(1), (3), redesignated subpar. (C) as (D) and substituted “under subparagraph (C)” for “under subparagraph (B)”. Former subpar. (D) redesignated (E).
+Subsec. (a)(2)(D). Pub. L. 114–315, § 711(1), (3), redesignated subpar. (C) as (D) and substituted “under subparagraph (C)” for “under subparagraph (B)”. Former subpar. (D) redesignated (E).
 
-Subsec. (a)(2)(E). Pub. L. 114–315, § 711(1), (4), redesignated subpar. (D) as (E) and substituted “in subparagraphs (C) and (D)” for “in subparagraphs (B) and (C)”.
+Subsec. (a)(2)(E). Pub. L. 114–315, § 711(1), (4), redesignated subpar. (D) as (E) and substituted “in subparagraphs (C) and (D)” for “in subparagraphs (B) and (C)”.
 
 2010—Subsec. (d). Pub. L. 111–163 added subsec. (d).
 
@@ -841,9 +841,9 @@ Subsec. (a)(2)(E). Pub. L. 114–315, § 711(1), (4), redesignated subpar. (D)
 
 **Regulatory Authority**
 
-Pub. L. 118–210, title IV, § 402(b), Jan. 2, 2025, 138 Stat. 2795, provided that: “The Secretary of Veterans Affairs may carry out the amendments made by subsection (a) [amending this section] through interim guidance in advance of the issuance of regulations for such purpose.”
+Pub. L. 118–210, title IV, § 402(b), Jan. 2, 2025, 138 Stat. 2795, provided that: “The Secretary of Veterans Affairs may carry out the amendments made by subsection (a) [amending this section] through interim guidance in advance of the issuance of regulations for such purpose.”
 
-### § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless
+### § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless
 
 **(a) Program Required.—** The Secretary shall carry out a program under which the Secretary shall provide case management services to improve the retention of housing by veterans who were previously homeless and are transitioning to permanent housing and veterans who are at risk of becoming homeless.
 
@@ -869,7 +869,7 @@ Pub. L. 118–210, title IV, § 402(b), Jan. 2, 2025, 138 Stat. 2795, provided
 
 **(3)** The Secretary shall require each recipient of a grant awarded under this subsection to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant.
 
-(Added Pub. L. 114–315, title VII, § 712(a)(1)(B), Dec. 16, 2016, 130 Stat. 1586; amended Pub. L. 117–328, div. U, title III, § 302, Dec. 29, 2022, 136 Stat. 5466.)
+(Added Pub. L. 114–315, title VII, § 712(a)(1)(B), Dec. 16, 2016, 130 Stat. 1586; amended Pub. L. 117–328, div. U, title III, § 302, Dec. 29, 2022, 136 Stat. 5466.)
 
 **Editorial Notes**
 
@@ -883,23 +883,23 @@ Another prior section 2013 was renumbered section 4104 of this title.
 
 **Amendments**
 
-2022—Subsecs. (b) to (d). Pub. L. 117–328, § 302(1), (2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+2022—Subsecs. (b) to (d). Pub. L. 117–328, § 302(1), (2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-Subsec. (d)(3). Pub. L. 117–328, § 302(3), added par. (3).
+Subsec. (d)(3). Pub. L. 117–328, § 302(3), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 114–315, title VII, § 712(b), Dec. 16, 2016, 130 Stat. 1587, provided that: “Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations to carry out section 2013 of such title [38 U.S.C. 2013], as added by subsection (a)(1)(B).”
+Pub. L. 114–315, title VII, § 712(b), Dec. 16, 2016, 130 Stat. 1587, provided that: “Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations to carry out section 2013 of such title [38 U.S.C. 2013], as added by subsection (a)(1)(B).”
 
-### § 2014. Training and technical assistance for recipients of certain financial assistance
+### § 2014. Training and technical assistance for recipients of certain financial assistance
 
 **(a) In General.—** The Secretary shall provide training and technical assistance to recipients of grants under sections 2011 and 2013 of this title and recipients of per diem payments under sections 2012 and 2061 of this title regarding the planning, development, and provision of services for which the grant or payment is made.
 
 **(b) Provision of Training and Technical Assistance.—** The Secretary may provide training and technical assistance under subsection (a) directly or through grants or contracts with such public or nonprofit private entities as the Secretary considers appropriate.
 
-(Added Pub. L. 117–328, div. U, title III, § 305(b)(1)(B), Dec. 29, 2022, 136 Stat. 5471.)
+(Added Pub. L. 117–328, div. U, title III, § 305(b)(1)(B), Dec. 29, 2022, 136 Stat. 5471.)
 
 **Editorial Notes**
 
@@ -915,9 +915,9 @@ Another prior section 2014 was renumbered section 4105 of this title.
 
 **Use of Amounts**
 
-Pub. L. 117–328, div. U, title III, § 305(b)(2), Dec. 29, 2022, 136 Stat. 5472, provided that: “The Secretary of Veterans Affairs shall provide training and technical assistance under sections 2014 and 2015 of such title [meaning title 38, United States Code], as inserted by paragraph (1)(B), using amounts appropriated or otherwise made available to the Department of Veterans Affairs on or after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. U, title III, § 305(b)(2), Dec. 29, 2022, 136 Stat. 5472, provided that: “The Secretary of Veterans Affairs shall provide training and technical assistance under sections 2014 and 2015 of such title [meaning title 38, United States Code], as inserted by paragraph (1)(B), using amounts appropriated or otherwise made available to the Department of Veterans Affairs on or after the date of the enactment of this Act [Dec. 29, 2022].”
 
-### § 2015. Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness
+### § 2015. Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness
 
 **(a) In General.—** The Secretary shall provide training and technical assistance to entities serving veterans at risk of, experiencing, or transitioning out of homelessness regarding—
 
@@ -931,9 +931,9 @@ Pub. L. 117–328, div. U, title III, § 305(b)(2), Dec. 29, 2022, 136 Stat. 5
 
 **(d) Provision of Training.—** The Secretary may provide the training and technical assistance under subsection (a) directly or through grants or contracts with such public or nonprofit private entities as the Secretary considers appropriate.
 
-(Added Pub. L. 117–328, div. U, title III, § 305(b)(1)(B), Dec. 29, 2022, 136 Stat. 5471.)
+(Added Pub. L. 117–328, div. U, title III, § 305(b)(1)(B), Dec. 29, 2022, 136 Stat. 5471.)
 
-### § 2016. Authorization of appropriations
+### § 2016. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter amounts as follows:
 
@@ -955,15 +955,15 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
 
 **(9)** $257,700,000 for each fiscal year thereafter through fiscal year 2030.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 909, § 2013; amended Pub. L. 108–422, title I, § 101, Nov. 30, 2004, 118 Stat. 2380; Pub. L. 109–461, title VII, § 703(b), Dec. 22, 2006, 120 Stat. 3440; Pub. L. 110–387, title VI, § 601, Oct. 10, 2008, 122 Stat. 4131; Pub. L. 112–37, § 11, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 305(a), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(f)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 201, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–228, title IV, § 407, Sept. 29, 2016, 130 Stat. 940; renumbered § 2014, Pub. L. 114–315, title VII, § 712(a)(1)(A), Dec. 16, 2016, 130 Stat. 1586; renumbered § 2016, Pub. L. 117–328, div. U, title III, § 305(b)(1)(A), Dec. 29, 2022, 136 Stat. 5471; Pub. L. 119–31, § 5, July 30, 2025, 139 Stat. 479.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 909, § 2013; amended Pub. L. 108–422, title I, § 101, Nov. 30, 2004, 118 Stat. 2380; Pub. L. 109–461, title VII, § 703(b), Dec. 22, 2006, 120 Stat. 3440; Pub. L. 110–387, title VI, § 601, Oct. 10, 2008, 122 Stat. 4131; Pub. L. 112–37, § 11, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 305(a), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(f)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 201, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–228, title IV, § 407, Sept. 29, 2016, 130 Stat. 940; renumbered § 2014, Pub. L. 114–315, title VII, § 712(a)(1)(A), Dec. 16, 2016, 130 Stat. 1586; renumbered § 2016, Pub. L. 117–328, div. U, title III, § 305(b)(1)(A), Dec. 29, 2022, 136 Stat. 5471; Pub. L. 119–31, § 5, July 30, 2025, 139 Stat. 479.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Par. (7). Pub. L. 119–31, § 5(1), substituted “each of fiscal years 2015 through 2024” for “fiscal year 2015 and each subsequent fiscal year”.
+2025—Par. (7). Pub. L. 119–31, § 5(1), substituted “each of fiscal years 2015 through 2024” for “fiscal year 2015 and each subsequent fiscal year”.
 
-Pars. (8), (9). Pub. L. 119–31, § 5(2), added pars. (8) and (9).
+Pars. (8), (9). Pub. L. 119–31, § 5(2), added pars. (8) and (9).
 
 2022—Pub. L. 117–328 renumbered section 2014 of this title as this section.
 
@@ -1001,7 +1001,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 ## SUBCHAPTER III—TRAINING AND OUTREACH
 
-### § 2021. Homeless veterans reintegration programs
+### § 2021. Homeless veterans reintegration programs
 
 **(a) In General.—** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as that Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration into the labor force of—
 
@@ -1051,9 +1051,9 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(g) Report on Services Provided.—**
 
-**(1)** The Secretary of Labor shall require each recipient of a grant or contract under this section to submit to that Secretary a report on the services provided and veterans served using grant or contract amounts not later than 90 days after the end of each program year, beginning with the program year the 1
+**(1)** The Secretary of Labor shall require each recipient of a grant or contract under this section to submit to that Secretary a report on the services provided and veterans served using grant or contract amounts not later than 90 days after the end of each program year, beginning with the program year the 1
 
-<sup>1</sup>  So in original. Probably should be “that”.
+<sup>1</sup> So in original. Probably should be “that”.
 
 begins after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022.
 
@@ -1135,19 +1135,19 @@ begins after the date of the enactment of the Joseph Maxwell Cleland and Robert 
 
 **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, § 203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, § 201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, § 10(b), Oct. 5, 2011, 125 Stat. 396; Pub. L. 112–154, title III, § 305(b), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(e)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 202, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 301, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title III, § 301, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, § 301, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 141, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 115–407, title VII, § 701, Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–159, div. E, title III, § 5301, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title IV, § 4205(b), Jan. 5, 2021, 134 Stat. 5014; Pub. L. 117–180, div. E, title III, § 301, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 303(a), Dec. 29, 2022, 136 Stat. 5467.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, § 203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, § 201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, § 10(b), Oct. 5, 2011, 125 Stat. 396; Pub. L. 112–154, title III, § 305(b), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(e)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 202, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 301, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title III, § 301, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, § 301, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 141, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 115–407, title VII, § 701, Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–159, div. E, title III, § 5301, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title IV, § 4205(b), Jan. 5, 2021, 134 Stat. 5014; Pub. L. 117–180, div. E, title III, § 301, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 303(a), Dec. 29, 2022, 136 Stat. 5467.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsecs. (b)(2), (g)(1), and (h)(2), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
 **Prior Provisions**
 
-A prior section 2021 was renumbered section 4301 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
+A prior section 2021 was renumbered section 4301 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 **Amendments**
 
@@ -1187,7 +1187,7 @@ Subsec. (e)(1)(F). Pub. L. 115–251 substituted “2020” for “2018”.
 
 Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under section 322 of this title.
 
-### § 2021A. Homeless women veterans and homeless veterans with children reintegration grant program
+### § 2021A. Homeless women veterans and homeless veterans with children reintegration grant program
 
 **(a) Grants.—** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall make grants to programs and facilities that the Secretary determines provide dedicated services for homeless women veterans and homeless veterans with children.
 
@@ -1209,7 +1209,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 111–275, title II, § 202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, title III, § 302, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 302, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, § 302, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 142, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5302, Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, § 302, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 303(b), Dec. 29, 2022, 136 Stat. 5470; Pub. L. 118–83, div. B, title III, § 323, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7301, Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 111–275, title II, § 202(a), Oct. 13, 2010, 124 Stat. 2873; amended Pub. L. 114–58, title III, § 302, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 302, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, § 302, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 142, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5302, Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, § 302, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 303(b), Dec. 29, 2022, 136 Stat. 5470; Pub. L. 118–83, div. B, title III, § 323, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7301, Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
@@ -1239,7 +1239,7 @@ Subsec. (f)(1). Pub. L. 117–180 substituted “2024” for “2022”.
 
 Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
 
-### § 2022. Coordination of outreach services for veterans at risk of homelessness
+### § 2022. Coordination of outreach services for veterans at risk of homelessness
 
 **(a) Outreach Plan.—** The Secretary, acting through the Under Secretary for Health, shall provide for appropriate officials of the Mental Health Service and the Readjustment Counseling Service of the Veterans Health Administration to develop a coordinated plan for joint outreach by the two Services to veterans at risk of homelessness, including particularly veterans who are being discharged or released from institutions after inpatient psychiatric care, substance abuse treatment, or imprisonment.
 
@@ -1299,19 +1299,19 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **(D)** Recommendations, if any, regarding an extension or modification of such outreach plan, such outreach program, and such demonstration program.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 910; amended Pub. L. 110–387, title VI, § 602(d)(3), Oct. 10, 2008, 122 Stat. 4132.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 910; amended Pub. L. 110–387, title VI, § 602(d)(3), Oct. 10, 2008, 122 Stat. 4132.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2022 was renumbered section 4302 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
+A prior section 2022 was renumbered section 4302 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 **Amendments**
 
 2008—Subsec. (f)(2)(C). Pub. L. 110–387 struck out “demonstration” before “program”.
 
-### § 2022A. Legal services for homeless veterans and veterans at risk for homelessness
+### § 2022A. Legal services for homeless veterans and veterans at risk for homelessness
 
 **(a) Grants.—** Subject to the availability of appropriations provided for such purpose, the Secretary shall award grants to eligible entities that provide legal services to homeless veterans and veterans at risk for homelessness.
 
@@ -1385,15 +1385,15 @@ A prior section 2022 was renumbered section 4302 of this title and subsequently 
 
 **(D)** An analysis by the Secretary with respect to the operational effectiveness and cost-effectiveness of the services provided.
 
-(Added Pub. L. 116–315, title IV, § 4202(a), Jan. 5, 2021, 134 Stat. 5011.)
+(Added Pub. L. 116–315, title IV, § 4202(a), Jan. 5, 2021, 134 Stat. 5011.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Criteria**
 
-Pub. L. 116–315, title IV, § 4202(c), Jan. 5, 2021, 134 Stat. 5012, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall establish and publish in the Federal Register the criteria and requirements pursuant to subsection (b)(1) of section 2022A of title 38, United States Code, as added by subsection (a).”
+Pub. L. 116–315, title IV, § 4202(c), Jan. 5, 2021, 134 Stat. 5012, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall establish and publish in the Federal Register the criteria and requirements pursuant to subsection (b)(1) of section 2022A of title 38, United States Code, as added by subsection (a).”
 
-### § 2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions
+### § 2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions
 
 **(a) Program Authority.—** The Secretary and the Secretary of Labor (hereinafter in this section referred to as the “Secretaries”) shall carry out a program of referral and counseling services to eligible veterans with respect to benefits and services available to such veterans under this title and under State law.
 
@@ -1419,13 +1419,13 @@ Pub. L. 116–315, title IV, § 4202(c), Jan. 5, 2021, 134 Stat. 5012, provide
 
 **(2)** is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, § 5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, § 602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132; Pub. L. 112–239, div. A, title V, § 590, Jan. 2, 2013, 126 Stat. 1769; Pub. L. 113–37, § 2(e)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 203, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 308, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 303, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 303, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 143, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5303, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title IV, § 4205(a), Jan. 5, 2021, 134 Stat. 5014.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, § 5705, May 25, 2007, 121 Stat. 170; Pub. L. 110–387, title VI, § 602(a)–(d)(2), Oct. 10, 2008, 122 Stat. 4132; Pub. L. 112–239, div. A, title V, § 590, Jan. 2, 2013, 126 Stat. 1769; Pub. L. 113–37, § 2(e)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 203, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 308, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 303, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 303, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 143, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5303, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title IV, § 4205(a), Jan. 5, 2021, 134 Stat. 5014.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
+Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 **Amendments**
 
@@ -1441,23 +1441,23 @@ Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title,
 
 2015—Subsec. (d). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
 
-2014—Subsec. (c)(3). Pub. L. 113–175, § 203(b), substituted “make grants” for “enter into contracts”.
+2014—Subsec. (c)(3). Pub. L. 113–175, § 203(b), substituted “make grants” for “enter into contracts”.
 
-Subsec. (d). Pub. L. 113–175, § 203(a), substituted “September 30, 2015” for “September 30, 2014”.
+Subsec. (d). Pub. L. 113–175, § 203(a), substituted “September 30, 2015” for “September 30, 2014”.
 
 2013—Subsec. (d). Pub. L. 113–37 inserted “to enter into a contract” before “to provide” and substituted “September 30, 2014” for “September 30, 2013”.
 
 Pub. L. 112–239 substituted “September 30, 2013” for “September 30, 2012”.
 
-2008—Pub. L. 110–387, § 602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
+2008—Pub. L. 110–387, § 602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
 
-Subsec. (a). Pub. L. 110–387, § 602(a), substituted “a program of” for “a demonstration program for the purpose of determining the costs and benefits of providing”.
+Subsec. (a). Pub. L. 110–387, § 602(a), substituted “a program of” for “a demonstration program for the purpose of determining the costs and benefits of providing”.
 
-Subsec. (b). Pub. L. 110–387, § 602(b), in heading, struck out “Demonstration” before “Program” and in text, struck out “demonstration” before “program” and substituted “12 locations” for “six locations”.
+Subsec. (b). Pub. L. 110–387, § 602(b), in heading, struck out “Demonstration” before “Program” and in text, struck out “demonstration” before “program” and substituted “12 locations” for “six locations”.
 
-Subsec. (c)(1). Pub. L. 110–387, § 602(d)(1), struck out “demonstration” before “program”.
+Subsec. (c)(1). Pub. L. 110–387, § 602(d)(1), struck out “demonstration” before “program”.
 
-Subsec. (d). Pub. L. 110–387, § 602(c), substituted “September 30, 2012.” for “September 30, 2007.”
+Subsec. (d). Pub. L. 110–387, § 602(c), substituted “September 30, 2012.” for “September 30, 2007.”
 
 2007—Subsec. (d). Pub. L. 110–28 substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
 
@@ -1473,9 +1473,9 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Amendments**
 
-2001—Pub. L. 107–95, § 5(b)(1), Dec. 21, 2001, 115 Stat. 918, redesignated subchapter VII of chapter 17 of this title as this subchapter.
+2001—Pub. L. 107–95, § 5(b)(1), Dec. 21, 2001, 115 Stat. 918, redesignated subchapter VII of chapter 17 of this title as this subchapter.
 
-### § 2031. General treatment
+### § 2031. General treatment
 
 **(a)** In providing care and services under section 1710 of this title to veterans suffering from serious mental illness and to veterans who are homeless, the Secretary may provide (directly or in conjunction with a governmental or other entity)—
 
@@ -1487,7 +1487,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(b)** The authority of the Secretary under subsection (a) expires on September 30, 2026.
 
-(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2284, § 1771; renumbered § 2031 and amended Pub. L. 107–95, § 5(b), (f), Dec. 21, 2001, 115 Stat. 918; Pub. L. 109–444, § 2(c), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 704(a), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, § 10(c), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 302, Aug. 6, 2012, 126 Stat. 1184; Pub. L. 112–191, title II, § 203, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 9(a), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 204(a), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 307(a), Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 308(a), Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 307(a), Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 144(a), Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5304(a), Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, § 303(a), Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 324(a), Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7302(a), Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2284, § 1771; renumbered § 2031 and amended Pub. L. 107–95, § 5(b), (f), Dec. 21, 2001, 115 Stat. 918; Pub. L. 109–444, § 2(c), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 704(a), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, § 10(c), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 302, Aug. 6, 2012, 126 Stat. 1184; Pub. L. 112–191, title II, § 203, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 9(a), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 204(a), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 307(a), Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 308(a), Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 307(a), Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 144(a), Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5304(a), Oct. 1, 2020, 134 Stat. 750; Pub. L. 117–180, div. E, title III, § 303(a), Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 324(a), Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7302(a), Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
@@ -1513,23 +1513,23 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 2013—Subsec. (b). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
 
-2012—Subsec. (a). Pub. L. 112–154 substituted “and to” for “, including” in introductory provisions.
+2012—Subsec. (a). Pub. L. 112–154 substituted “and to” for “, including” in introductory provisions.
 
 Subsec. (b). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (b). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 
-2006—Subsec. (b). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (b). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 704(a), substituted “December 31, 2011” for “December 31, 2006”.
+Pub. L. 109–461, § 704(a), substituted “December 31, 2011” for “December 31, 2006”.
 
-Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1771 of this title as this section.
+2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1771 of this title as this section.
 
-Subsec. (a)(3). Pub. L. 107–95, § 5(b)(2), substituted “section 2032 of this title” for “section 1772 of this title”.
+Subsec. (a)(3). Pub. L. 107–95, § 5(b)(2), substituted “section 2032 of this title” for “section 1772 of this title”.
 
-Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
+Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1537,7 +1537,7 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” fo
 
 Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
 
-### § 2032. Therapeutic housing
+### § 2032. Therapeutic housing
 
 **(a)** The Secretary, in connection with the conduct of compensated work therapy programs, may operate residences and facilities as therapeutic housing.
 
@@ -1585,7 +1585,7 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **(h)** Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The Secretary shall manage the operation of this section so as to ensure that expenditures under this subsection for any fiscal year shall not exceed by more than $500,000 proceeds credited to the General Post Fund under this section. The operation of the program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President’s budget for each fiscal year.
 
-(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2284, § 1772; renumbered § 2032, Pub. L. 107–95, § 5(b)(1), Dec. 21, 2001, 115 Stat. 918.)
+(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2284, § 1772; renumbered § 2032, Pub. L. 107–95, § 5(b)(1), Dec. 21, 2001, 115 Stat. 918.)
 
 **Editorial Notes**
 
@@ -1593,7 +1593,7 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 2001—Pub. L. 107–95 renumbered section 1772 of this title as this section.
 
-### § 2033. Additional services at certain locations
+### § 2033. Additional services at certain locations
 
 **(a)** Subject to the availability of appropriations, the Secretary shall operate a program under this section to expand and improve the provision of benefits and services by the Department to homeless veterans.
 
@@ -1603,7 +1603,7 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **(d)** The program under this section shall terminate on September 30, 2026.
 
-(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2286, § 1773; renumbered § 2033 and amended Pub. L. 107–95, §§ 5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, § 2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 704(b), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, § 10(d), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 204, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 9(b), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 204(b), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 307(b), Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 308(b), Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 307(b), Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 144(b), Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5304(b), Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 303(b), Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 324(b), Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7302(b), Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2286, § 1773; renumbered § 2033 and amended Pub. L. 107–95, §§ 5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, § 2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 704(b), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, § 10(d), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 204, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 9(b), Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 204(b), Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 307(b), Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 308(b), Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 307(b), Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 144(b), Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5304(b), Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 303(b), Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 324(b), Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7302(b), Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
@@ -1633,17 +1633,17 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 2011—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 
-2006—Subsec. (d). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (d). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 704(b), substituted “December 31, 2011” for “December 31, 2006”.
+Pub. L. 109–461, § 704(b), substituted “December 31, 2011” for “December 31, 2006”.
 
-Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1773 of this title as this section.
+2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1773 of this title as this section.
 
-Subsec. (b). Pub. L. 107–95, § 8(b), struck out “not fewer than eight programs (in addition to any existing programs providing similar services) at” after “establishment of” and inserted at end “The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas.”
+Subsec. (b). Pub. L. 107–95, § 8(b), struck out “not fewer than eight programs (in addition to any existing programs providing similar services) at” after “establishment of” and inserted at end “The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas.”
 
-Subsec. (d). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
+Subsec. (d). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1651,7 +1651,7 @@ Subsec. (d). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” fo
 
 Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
 
-### § 2034. Coordination with other agencies and organizations
+### § 2034. Coordination with other agencies and organizations
 
 **(a)** In assisting homeless veterans, the Secretary shall coordinate with, and may provide services authorized under this title in conjunction with, State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations.
 
@@ -1691,21 +1691,21 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **(4)** attempt to inform homeless veterans whose needs the director cannot meet under paragraph (3) of the services available to such veterans within the area served by such center or office.
 
-(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2286, § 1774; renumbered § 2034 and amended Pub. L. 107–95, §§ 5(b)(1), 6(b), Dec. 21, 2001, 115 Stat. 918, 919.)
+(Added Pub. L. 105–114, title II, § 202(a), Nov. 21, 1997, 111 Stat. 2286, § 1774; renumbered § 2034 and amended Pub. L. 107–95, §§ 5(b)(1), 6(b), Dec. 21, 2001, 115 Stat. 918, 919.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1774 of this title as this section.
+2001—Pub. L. 107–95, § 5(b)(1), renumbered section 1774 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 107–95, § 6(b)(1), inserted “annual” after “to make an”.
+Subsec. (b)(1). Pub. L. 107–95, § 6(b)(1), inserted “annual” after “to make an”.
 
-Subsec. (b)(6). Pub. L. 107–95, § 6(b)(2), added par. (6).
+Subsec. (b)(6). Pub. L. 107–95, § 6(b)(2), added par. (6).
 
 ## SUBCHAPTER V—HOUSING ASSISTANCE
 
-### § 2041. Housing assistance for homeless veterans
+### § 2041. Housing assistance for homeless veterans
 
 **(a)**
 
@@ -1761,23 +1761,23 @@ Subsec. (b)(6). Pub. L. 107–95, § 6(b)(2), added par. (6).
 
 **(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2026.
 
-(Added Pub. L. 102–54, § 9(a), June 13, 1991, 105 Stat. 272, § 1835; renumbered § 3735, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§ 8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, § 1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, § 101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, § 602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, § 902, Nov. 30, 1999, 113 Stat. 1587; renumbered § 2041, Pub. L. 107–95, § 5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, § 404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, § 8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, § 705, title X, §§ 1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, § 10(e), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 205, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 10, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 205, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 303, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 304, Sept. 29, 2016, 130 Stat. 939; Pub. L. 117–328, div. U, title III, § 304, Dec. 29, 2022, 136 Stat. 5470.)
+(Added Pub. L. 102–54, § 9(a), June 13, 1991, 105 Stat. 272, § 1835; renumbered § 3735, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§ 8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, § 1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, § 101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, § 602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, § 902, Nov. 30, 1999, 113 Stat. 1587; renumbered § 2041, Pub. L. 107–95, § 5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, § 404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, § 8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, § 705, title X, §§ 1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, § 10(e), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 205, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 10, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, § 205, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 303, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 304, Sept. 29, 2016, 130 Stat. 939; Pub. L. 117–328, div. U, title III, § 304, Dec. 29, 2022, 136 Stat. 5470.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–328, § 304(a)(1)(A), inserted “or permanent housing” after “shelter” in introductory provisions.
+2022—Subsec. (a)(1). Pub. L. 117–328, § 304(a)(1)(A), inserted “or permanent housing” after “shelter” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 117–328, § 304(a)(1)(B), substituted “that is the recipient of a grant under section 2011, 2013, 2044, or 2061 of this title” for “named in, or approved by the Secretary under, section 5902 of this title”.
+Subsec. (a)(1)(A). Pub. L. 117–328, § 304(a)(1)(B), substituted “that is the recipient of a grant under section 2011, 2013, 2044, or 2061 of this title” for “named in, or approved by the Secretary under, section 5902 of this title”.
 
-Subsec. (a)(1)(B). Pub. L. 117–328, § 304(a)(1)(C), inserted “or tribal entity,” after “State”.
+Subsec. (a)(1)(B). Pub. L. 117–328, § 304(a)(1)(C), inserted “or tribal entity,” after “State”.
 
-Subsec. (a)(3)(B)(i). Pub. L. 117–328, § 304(a)(2)(A), designated existing provisions as subcl. (I), inserted “or permanent housing” after “shelter”, substituted “; or” for comma at end, and added subcl. (II).
+Subsec. (a)(3)(B)(i). Pub. L. 117–328, § 304(a)(2)(A), designated existing provisions as subcl. (I), inserted “or permanent housing” after “shelter”, substituted “; or” for comma at end, and added subcl. (II).
 
-Subsec. (a)(3)(B)(ii), (iii). Pub. L. 117–328, § 304(a)(2)(B), substituted semicolons for commas.
+Subsec. (a)(3)(B)(ii), (iii). Pub. L. 117–328, § 304(a)(2)(B), substituted semicolons for commas.
 
-Subsec. (c). Pub. L. 117–328, § 304(b), substituted “September 30, 2026” for “September 30, 2017”.
+Subsec. (c). Pub. L. 117–328, § 304(b), substituted “September 30, 2026” for “September 30, 2017”.
 
 2016—Subsec. (c). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
@@ -1791,13 +1791,13 @@ Subsec. (c). Pub. L. 117–328, § 304(b), substituted “September 30, 2026�
 
 2011—Subsec. (c). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 
-2006—Subsec. (a)(3)(A)(i). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a)(3)(A)(i). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(5), substituted “established under section 3722 of this title” for “under this chapter”.
+Pub. L. 109–461, § 1004(a)(5), substituted “established under section 3722 of this title” for “under this chapter”.
 
-Pub. L. 109–444, which substituted “established under section 3722 of this title” for “under this chapter”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “established under section 3722 of this title” for “under this chapter”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (c). Pub. L. 109–461, § 705, substituted “December 31, 2011” for “December 31, 2008”.
+Subsec. (c). Pub. L. 109–461, § 705, substituted “December 31, 2011” for “December 31, 2008”.
 
 2003—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
 
@@ -1813,17 +1813,17 @@ Subsec. (c). Pub. L. 109–461, § 705, substituted “December 31, 2011” fo
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–446 substituted “section 5902” for “section 3402”.
 
-1992—Subsec. (a)(2). Pub. L. 102–590, § 8(a)(1), inserted “, lease, lease with an option to purchase, or donate” after “sell” and “or lease or donation” after “sale”.
+1992—Subsec. (a)(2). Pub. L. 102–590, § 8(a)(1), inserted “, lease, lease with an option to purchase, or donate” after “sell” and “or lease or donation” after “sale”.
 
-Subsec. (a)(3)(B). Pub. L. 102–590, § 8(a)(2), inserted “, leased, or donated” after “sold” in introductory provisions.
+Subsec. (a)(3)(B). Pub. L. 102–590, § 8(a)(2), inserted “, leased, or donated” after “sold” in introductory provisions.
 
-Subsec. (a)(4) to (6). Pub. L. 102–590, § 8(a)(3), (4), added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (a)(4) to (6). Pub. L. 102–590, § 8(a)(3), (4), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
-Subsec. (b). Pub. L. 102–590, § 9(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 102–590, § 9(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Pub. L. 102–590, § 8(b), substituted “December 31, 1995” for “September 30, 1993”.
+Pub. L. 102–590, § 8(b), substituted “December 31, 1995” for “September 30, 1993”.
 
-Subsec. (c). Pub. L. 102–590, § 9(a)(1), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 102–590, § 9(a)(1), redesignated subsec. (b) as (c).
 
 1991—Pub. L. 102–83 renumbered section 1835 of this title as this section.
 
@@ -1835,7 +1835,7 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 **Support for Aging Veterans at Risk of or Experiencing Homelessness**
 
-Pub. L. 117–328, div. U, title I, § 164, Dec. 29, 2022, 136 Stat. 5431, provided that:
+Pub. L. 117–328, div. U, title I, § 164, Dec. 29, 2022, 136 Stat. 5431, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall work with public housing authorities and local organizations to assist aging homeless veterans in accessing existing housing and supportive services, including health services like home-based and community-based services from the Department of Veterans Affairs or from non-Department providers in the community.
 
@@ -1843,7 +1843,7 @@ Pub. L. 117–328, div. U, title I, § 164, Dec. 29, 2022, 136 Stat. 5431, pro
 
 **Department of Veterans Affairs Sharing of Information Relating to Coordinated Entry Processes for Housing and Services Operated Under Department of Housing and Urban Development Continuum of Care Program**
 
-Pub. L. 117–328, div. U, title III, § 307, Dec. 29, 2022, 136 Stat. 5472, provided that:
+Pub. L. 117–328, div. U, title III, § 307, Dec. 29, 2022, 136 Stat. 5472, provided that:
 
 > **“(a) In General.—** The Under Secretary for Health of the Department of Veterans Affairs shall—
 
@@ -1855,7 +1855,7 @@ Pub. L. 117–328, div. U, title III, § 307, Dec. 29, 2022, 136 Stat. 5472, p
 
 **System for Sharing and Reporting Data**
 
-Pub. L. 117–328, div. U, title III, § 309, Dec. 29, 2022, 136 Stat. 5473, provided that:
+Pub. L. 117–328, div. U, title III, § 309, Dec. 29, 2022, 136 Stat. 5473, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development shall work together to develop a system for effectively sharing and reporting data between the community-wide homeless management information system described in section 402(f)(3) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360a(f)(3)) and the Homeless Operations Management and Evaluation System of the Department of Veterans Affairs.
 
@@ -1863,13 +1863,13 @@ Pub. L. 117–328, div. U, title III, § 309, Dec. 29, 2022, 136 Stat. 5473, p
 
 **Availability of Telehealth for Case Managers and Homeless Veterans**
 
-Pub. L. 116–136, div. B, title X, § 20011, Mar. 27, 2020, 134 Stat. 589, provided that: “The Secretary of Veterans Affairs shall ensure that telehealth capabilities are available during a public health emergency for case managers of, and homeless veterans participating in, the Department of Housing and Urban Development–Department of Veterans Affairs Supportive Housing program (commonly referred to as ‘HUD–VASH’).”
+Pub. L. 116–136, div. B, title X, § 20011, Mar. 27, 2020, 134 Stat. 589, provided that: “The Secretary of Veterans Affairs shall ensure that telehealth capabilities are available during a public health emergency for case managers of, and homeless veterans participating in, the Department of Housing and Urban Development–Department of Veterans Affairs Supportive Housing program (commonly referred to as ‘HUD–VASH’).”
 
 [For definition of “public health emergency” as used in section 20011 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.]
 
 **Collaboration in Provision of Case Management Services to Homeless Veterans in Supported Housing Program**
 
-Pub. L. 112–154, title III, § 304, Aug. 6, 2012, 126 Stat. 1185, as amended by Pub. L. 116–315, title IV, § 4207(a), Jan. 5, 2021, 134 Stat. 5015; Pub. L. 117–328, div. U, title III, § 306, Dec. 29, 2022, 136 Stat. 5472, provided that:
+Pub. L. 112–154, title III, § 304, Aug. 6, 2012, 126 Stat. 1185, as amended by Pub. L. 116–315, title IV, § 4207(a), Jan. 5, 2021, 134 Stat. 5015; Pub. L. 117–328, div. U, title III, § 306, Dec. 29, 2022, 136 Stat. 5472, provided that:
 
 > **“(a) In General.—**
 
@@ -1979,27 +1979,27 @@ Pub. L. 112–154, title III, § 304, Aug. 6, 2012, 126 Stat. 1185, as amended
 
 > **“(H)** Such recommendations for legislative or administrative action as the Secretary considers appropriate for the improvement of collaboration in the provision of case management services under such supported housing program.”
 
-[Pub. L. 117–328, § 306, which directed amendment of section “304(c)(2)(A)” of Pub. L. 112–154, set out above, by adding subpar. (B) and redesignating former subpars. (B) to (E) as (C) to (F), respectively, was executed to section 304(c)(2) of Pub. L. 112–154, to reflect the probable intent of Congress.]
+[Pub. L. 117–328, § 306, which directed amendment of section “304(c)(2)(A)” of Pub. L. 112–154, set out above, by adding subpar. (B) and redesignating former subpars. (B) to (E) as (C) to (F), respectively, was executed to section 304(c)(2) of Pub. L. 112–154, to reflect the probable intent of Congress.]
 
-[Pub. L. 116–315, title IV, § 4207(b), Jan. 5, 2021, 134 Stat. 5015, provided that: “The amendments made by this section [amending section 304 of Pub. L. 112–154, set out above] shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act [Jan. 5, 2021].” ]
+[Pub. L. 116–315, title IV, § 4207(b), Jan. 5, 2021, 134 Stat. 5015, provided that: “The amendments made by this section [amending section 304 of Pub. L. 112–154, set out above] shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act [Jan. 5, 2021].” ]
 
 **Ratification of Actions During Period of Expired Authority**
 
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
-### § 2042. Supported housing for veterans participating in compensated work therapies
+### § 2042. Supported housing for veterans participating in compensated work therapies
 
 The Secretary may authorize homeless veterans in the compensated work therapy program to be provided housing through the therapeutic residence program under section 2032 of this title or through grant and per diem providers under subchapter II of this chapter.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913.)
 
-### § 2043. Domiciliary care programs
+### § 2043. Domiciliary care programs
 
 **(a) Authority.—** The Secretary may establish up to 10 programs under section 1710(b) of this title (in addition to any program that is established as of the date of the enactment of this section) to provide domiciliary services under such section to homeless veterans.
 
 **(b) Enhancement of Capacity of Domiciliary Care Programs for Female Veterans.—** The Secretary shall take appropriate actions to ensure that the domiciliary care programs of the Department are adequate, with respect to capacity and with respect to safety, to meet the needs of veterans who are women.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 110–387, title VI, § 603, Oct. 10, 2008, 122 Stat. 4132.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 110–387, title VI, § 603, Oct. 10, 2008, 122 Stat. 4132.)
 
 **Editorial Notes**
 
@@ -2011,7 +2011,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 2008—Subsec. (b). Pub. L. 110–387 amended subsec. (b) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Secretary $5,000,000 for each of fiscal years 2003 and 2004 to establish the programs referred to in subsection (a).”
 
-### § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
+### § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
 
 **(a) Distribution of Financial Assistance.—**
 
@@ -2163,13 +2163,13 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 **(7)** The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, § 604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, § 1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 304, title VI, § 601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, § 305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, § 4, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title III, § 5305, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 304, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 305(a), Dec. 29, 2022, 136 Stat. 5471; Pub. L. 118–83, div. B, title III, § 325, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7303, Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 110–387, title VI, § 604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, § 1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, § 305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, § 2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 304, title VI, § 601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, § 305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, § 4, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title III, § 5305, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 304, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 117–328, div. U, title III, § 305(a), Dec. 29, 2022, 136 Stat. 5471; Pub. L. 118–83, div. B, title III, § 325, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7303, Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
+Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 **Amendments**
 
@@ -2177,7 +2177,7 @@ Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment
 
 2024—Subsec. (e). Pub. L. 118–83 substituted “2025” for “2024” in subpar. (H) and redesignated subpars. (A) to (H) as pars. (1) to (8), respectively.
 
-2022—Subsec. (e). Pub. L. 117–328, § 305(a), struck out par. (1) designation before “From amounts” and struck out pars. (2) and (3) which read as follows:
+2022—Subsec. (e). Pub. L. 117–328, § 305(a), struck out par. (1) designation before “From amounts” and struck out pars. (2) and (3) which read as follows:
 
 “(2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -2185,9 +2185,9 @@ Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment
 
 Subsec. (e)(1)(H). Pub. L. 117–180 substituted “through 2024” for “and 2022”.
 
-2020—Subsec. (e)(1)(G). Pub. L. 116–159, § 5305(1), substituted “and 2020” for “through 2021”.
+2020—Subsec. (e)(1)(G). Pub. L. 116–159, § 5305(1), substituted “and 2020” for “through 2021”.
 
-Subsec. (e)(1)(H). Pub. L. 116–159, § 5305(2), added subpar. (H).
+Subsec. (e)(1)(H). Pub. L. 116–159, § 5305(2), added subpar. (H).
 
 2019—Subsec. (e)(1)(G). Pub. L. 116–61 substituted “each of fiscal years 2019 through 2021” for “fiscal year 2019”.
 
@@ -2197,9 +2197,9 @@ Subsec. (e)(1)(H). Pub. L. 116–159, § 5305(2), added subpar. (H).
 
 2016—Subsec. (e)(1)(E). Pub. L. 114–228 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “$300,000,000 for each of fiscal years 2015 through 2016.”
 
-2015—Subsec. (b)(1)(D). Pub. L. 114–58, § 601(9), substituted “Federal” for “federal” in introductory provisions.
+2015—Subsec. (b)(1)(D). Pub. L. 114–58, § 601(9), substituted “Federal” for “federal” in introductory provisions.
 
-Subsec. (e)(1)(E). Pub. L. 114–58, § 304, substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
+Subsec. (e)(1)(E). Pub. L. 114–58, § 304, substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
 
 2014—Subsec. (e)(1)(E). Pub. L. 113–175 substituted “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014”.
 
@@ -2207,11 +2207,11 @@ Subsec. (e)(1)(E). Pub. L. 114–58, § 304, substituted “fiscal years 2015 
 
 2012—Subsec. (e)(1)(E). Pub. L. 112–154 added subpar. (E).
 
-2011—Subsec. (e)(1). Pub. L. 112–37, § 12(b), substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
+2011—Subsec. (e)(1). Pub. L. 112–37, § 12(b), substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
 
-Subsec. (e)(1)(D). Pub. L. 112–37, § 12(a)(1), added subpar. (D). See Codification note above.
+Subsec. (e)(1)(D). Pub. L. 112–37, § 12(a)(1), added subpar. (D). See Codification note above.
 
-Subsec. (e)(3). Pub. L. 112–37, § 12(a)(2), substituted “2012” for “2011”. See Codification note above.
+Subsec. (e)(3). Pub. L. 112–37, § 12(a)(2), substituted “2012” for “2011”. See Codification note above.
 
 2010—Subsec. (e)(3). Pub. L. 111–275 substituted “fiscal years” for “fiscal year”.
 
@@ -2227,13 +2227,13 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Funding Limits for Financial Assistance for Supportive Services for Very Low-Income Veteran Families in Permanent Housing During a Public Health Emergency**
 
-Pub. L. 116–136, div. B, title X, § 20012, Mar. 27, 2020, 134 Stat. 589, provided that: “In the case of a public health emergency, nothing in subsection (e)(1) of section 2044 of title 38, United States Code, may be construed as limiting amounts that may be made available for carrying out subsections (a), (b), and (c) of such section.”
+Pub. L. 116–136, div. B, title X, § 20012, Mar. 27, 2020, 134 Stat. 589, provided that: “In the case of a public health emergency, nothing in subsection (e)(1) of section 2044 of title 38, United States Code, may be construed as limiting amounts that may be made available for carrying out subsections (a), (b), and (c) of such section.”
 
 [For definition of “public health emergency” as used in section 20012 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.]
 
 **Purpose**
 
-Pub. L. 110–387, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4132, provided that: “The purpose of this section [enacting this section] is to facilitate the provision of supportive services for very low-income veteran families in permanent housing.”
+Pub. L. 110–387, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4132, provided that: “The purpose of this section [enacting this section] is to facilitate the provision of supportive services for very low-income veteran families in permanent housing.”
 
 ## SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING
 
@@ -2241,9 +2241,9 @@ Pub. L. 110–387, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4132, provide
 
 **Amendments**
 
-2001—Pub. L. 107–95, § 5(d)(1), (2)(A), Dec. 21, 2001, 115 Stat. 918, redesignated subchapter VI of chapter 37 of this title as this subchapter and struck out “FOR HOMELESS VETERANS” after “HOUSING” in subchapter heading.
+2001—Pub. L. 107–95, § 5(d)(1), (2)(A), Dec. 21, 2001, 115 Stat. 918, redesignated subchapter VI of chapter 37 of this title as this subchapter and struck out “FOR HOMELESS VETERANS” after “HOUSING” in subchapter heading.
 
-### § 2051. General authority
+### § 2051. General authority
 
 **(a)** The Secretary may guarantee the full or partial repayment of a loan that meets the requirements of this subchapter.
 
@@ -2269,7 +2269,7 @@ Pub. L. 110–387, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4132, provide
 
 **(g)** Notwithstanding any other provision of law, a multifamily transitional housing project that is funded by a loan guaranteed under this subchapter may accept uncompensated voluntary services performed by any eligible entity (as that term is defined in section 2011(d) of this title) in connection with the construction, alteration, or repair of such project.
 
-(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3342, § 3772; renumbered § 2051 and amended Pub. L. 107–95, § 5(d)(1), (2)(B), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–454, title IV, § 402(a), Dec. 10, 2004, 118 Stat. 3615.)
+(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3342, § 3772; renumbered § 2051 and amended Pub. L. 107–95, § 5(d)(1), (2)(B), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–454, title IV, § 402(a), Dec. 10, 2004, 118 Stat. 3615.)
 
 **Editorial Notes**
 
@@ -2283,9 +2283,9 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (d)(2),
 
 2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
-2001—Pub. L. 107–95, § 5(d)(1), renumbered section 3772 of this title as this section.
+2001—Pub. L. 107–95, § 5(d)(1), renumbered section 3772 of this title as this section.
 
-Subsec. (d)(1). Pub. L. 107–95, § 5(d)(2)(B), substituted “section 2052 of this title” for “section 3773 of this title”.
+Subsec. (d)(1). Pub. L. 107–95, § 5(d)(2)(B), substituted “section 2052 of this title” for “section 3773 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2293,7 +2293,7 @@ Subsec. (d)(1). Pub. L. 107–95, § 5(d)(2)(B), substituted “section 2052 o
 
 Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.
 
-### § 2052. Requirements
+### § 2052. Requirements
 
 **(a)** A loan referred to in section 2051 of this title meets the requirements of this subchapter if each of the following requirements is met:
 
@@ -2355,7 +2355,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **(2)** the extent to which needs of homeless veterans are met in a community, as assessed under section 107 of Public Law 102–405.
 
-(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3343, § 3773; renumbered § 2052 and amended Pub. L. 107–95, § 5(d)(1), (2)(C), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–454, title IV, § 402(b), Dec. 10, 2004, 118 Stat. 3616.)
+(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3343, § 3773; renumbered § 2052 and amended Pub. L. 107–95, § 5(d)(1), (2)(C), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–454, title IV, § 402(b), Dec. 10, 2004, 118 Stat. 3616.)
 
 **Editorial Notes**
 
@@ -2367,9 +2367,9 @@ Section 107 of Public Law 102–405, referred to in subsec. (d)(2), is set out a
 
 2004—Subsec. (c)(1). Pub. L. 108–454 substituted “services, other commercial activities,” for “services”.
 
-2001—Pub. L. 107–95, § 5(d)(1), renumbered section 3773 of this title as this section.
+2001—Pub. L. 107–95, § 5(d)(1), renumbered section 3773 of this title as this section.
 
-Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “section 2051 of this title” for “section 3772 of this title” in introductory provisions.
+Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “section 2051 of this title” for “section 3772 of this title” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2377,7 +2377,7 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “section 2051 of t
 
 Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.
 
-### § 2053. Default
+### § 2053. Default
 
 **(a)** The Secretary shall take such steps as may be necessary to obtain repayment on any loan that is in default and that is guaranteed under this subchapter.
 
@@ -2391,7 +2391,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **(B)** the amount realized at such sale.
 
-(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3344, § 3774; renumbered § 2053, Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.)
+(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3344, § 3774; renumbered § 2053, Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.)
 
 **Editorial Notes**
 
@@ -2405,13 +2405,13 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.
 
-### § 2054. Audit
+### § 2054. Audit
 
 **(a)** During each of the first 3 years of operation of a multifamily transitional housing project with respect to which a loan is guaranteed under this subchapter, there shall be an annual, independent audit of such operation. Such audit shall include a detailed statement of the operations, activities, and accomplishments of such project during the year covered by such audit. The party responsible for obtaining such audit (and paying the costs therefor) shall be determined before the Secretary issues a guarantee under this subchapter.
 
 **(b)** After the first three years of operation of such a multifamily transitional housing project, the Secretary may provide for periodic audits of the project.
 
-(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3345, § 3775; amended Pub. L. 106–117, title VII, § 712, Nov. 30, 1999, 113 Stat. 1584; renumbered § 2054, Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.)
+(Added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3345, § 3775; amended Pub. L. 106–117, title VII, § 712, Nov. 30, 1999, 113 Stat. 1584; renumbered § 2054, Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.)
 
 **Editorial Notes**
 
@@ -2429,7 +2429,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 ## SUBCHAPTER VII—OTHER PROVISIONS
 
-### § 2061. Grant program for homeless veterans with special needs
+### § 2061. Grant program for homeless veterans with special needs
 
 **(a) Establishment.—** The Secretary shall carry out a program to make grants to health care facilities of the Department and to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title in order to encourage development by those facilities and entities of programs for homeless veterans with special needs.
 
@@ -2453,7 +2453,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **(2)** The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 109–461, title VII, § 706, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 112–37, § 13, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §§ 303, 305(d), Aug. 6, 2012, 126 Stat. 1184, 1188; Pub. L. 113–37, § 2(f)(3), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 207, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 305, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 306, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 305, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 146, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5306, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 305, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 326, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7304, Nov. 12, 2025, 139 Stat. 650.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 109–461, title VII, § 706, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 112–37, § 13, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §§ 303, 305(d), Aug. 6, 2012, 126 Stat. 1184, 1188; Pub. L. 113–37, § 2(f)(3), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 207, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 305, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 306, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 305, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 146, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5306, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 305, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 326, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7304, Nov. 12, 2025, 139 Stat. 650.)
 
 **Editorial Notes**
 
@@ -2479,15 +2479,15 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 2013—Subsec. (d)(1). Pub. L. 113–37 substituted “2007 through 2014” for “2007 through 2013”.
 
-2012—Subsec. (a). Pub. L. 112–154, § 303(a), substituted “to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title” for “to grant and per diem providers” and “by those facilities and entities” for “by those facilities and providers”.
+2012—Subsec. (a). Pub. L. 112–154, § 303(a), substituted “to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title” for “to grant and per diem providers” and “by those facilities and entities” for “by those facilities and providers”.
 
-Subsec. (b)(1). Pub. L. 112–154, § 303(b)(1), struck out “, including women who have care of minor dependents” at end.
+Subsec. (b)(1). Pub. L. 112–154, § 303(b)(1), struck out “, including women who have care of minor dependents” at end.
 
-Subsec. (b)(5). Pub. L. 112–154, § 303(b)(2)–(4), added par. (5).
+Subsec. (b)(5). Pub. L. 112–154, § 303(b)(2)–(4), added par. (5).
 
-Subsecs. (c), (d). Pub. L. 112–154, § 303(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 112–154, § 303(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d)(1). Pub. L. 112–154, § 305(d), which directed amendment of subsec. (c)(1) by substituting “through 2013” for “through 2012”, was executed to subsec. (d)(1) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–154, § 303(c)(1).
+Subsec. (d)(1). Pub. L. 112–154, § 305(d), which directed amendment of subsec. (c)(1) by substituting “through 2013” for “through 2012”, was executed to subsec. (d)(1) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–154, § 303(c)(1).
 
 2011—Subsec. (c)(1). Pub. L. 112–37 substituted “2012” for “2011”.
 
@@ -2505,7 +2505,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Pilot Program on Grants for Health Care for Homeless Veterans**
 
-Pub. L. 117–328, div. U, title III, § 310, Dec. 29, 2022, 136 Stat. 5473, provided that:
+Pub. L. 117–328, div. U, title III, § 310, Dec. 29, 2022, 136 Stat. 5473, provided that:
 
 > **“(a) Pilot Program Required.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence carrying out a pilot program to assess the feasibility and advisability of awarding grants to eligible entities to meet the health care needs of—
 
@@ -2587,9 +2587,9 @@ Pub. L. 117–328, div. U, title III, § 310, Dec. 29, 2022, 136 Stat. 5473, p
 
 **Study of Outcome Effectiveness of Grant Program for Homeless Veterans With Special Needs**
 
-Pub. L. 107–95, § 7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.
+Pub. L. 107–95, § 7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.
 
-### § 2062. Dental care
+### § 2062. Dental care
 
 **(a) In General.—** For purposes of section 1712(a)(1)(H) of this title, outpatient dental services and treatment of a dental condition or disability of a veteran described in subsection (b) shall be considered to be medically necessary, subject to subsection (c), if—
 
@@ -2617,21 +2617,21 @@ Pub. L. 107–95, § 7, Dec. 21, 2001, 115 Stat. 919, required the Secretary o
 
 **(c) Limitation.—** Dental benefits provided by reason of this section shall be a one-time course of dental care provided in the same manner as the dental benefits provided to a newly discharged veteran.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913.)
 
-### § 2063. Employment assistance
+### § 2063. Employment assistance
 
 The Secretary may authorize homeless veterans receiving care through vocational rehabilitation programs to participate in the compensated work therapy program under section 1718 of this title.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914.)
 
-### § 2064. Technical assistance grants for nonprofit community-based groups
+### § 2064. Technical assistance grants for nonprofit community-based groups
 
 **(a) Grant Program.—** The Secretary shall carry out a program to make grants to entities or organizations with expertise in preparing grant applications. Under the program, the entities or organizations receiving grants shall provide technical assistance to nonprofit community-based groups with experience in providing assistance to homeless veterans in order to assist such groups in applying for grants under this chapter and other grants relating to addressing problems of homeless veterans.
 
 **(b) Authorization of Appropriations.—** There are authorized to be appropriated $1,000,000 for each of fiscal years 2007 through 2012 to carry out the program under this section.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 109–461, title VII, § 707, Dec. 22, 2006, 120 Stat. 3440.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 109–461, title VII, § 707, Dec. 22, 2006, 120 Stat. 3440.)
 
 **Editorial Notes**
 
@@ -2639,7 +2639,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 2006—Subsec. (b). Pub. L. 109–461 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $750,000 for each of fiscal years 2002 through 2005 to carry out the program under this section.”
 
-### § 2065. Annual report on assistance to homeless veterans
+### § 2065. Annual report on assistance to homeless veterans
 
 **(a) Annual Report.—** Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
 
@@ -2705,7 +2705,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 **(4)** Other information that the Secretary considers relevant in assessing the programs and activities.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, § 405(b), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–461, title VII, § 708, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 110–387, title IX, § 901(a)(2), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, § 405(b), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–461, title VII, § 708, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 110–387, title IX, § 901(a)(2), Oct. 10, 2008, 122 Stat. 4142.)
 
 **Editorial Notes**
 
@@ -2717,7 +2717,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
 
-### § 2066. Advisory Committee on Homeless Veterans
+### § 2066. Advisory Committee on Homeless Veterans
 
 **(a) Establishment.—**
 
@@ -2819,13 +2819,13 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 **(d) Termination.—** The Committee shall cease to exist September 30, 2026.
 
-(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 916; amended Pub. L. 109–444, § 2(e), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 709, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3441, 3468; Pub. L. 112–37, § 10(f), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 206, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 11, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title II, § 208, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 306, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 307, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 306, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 147, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 117–180, div. E, title III, § 306, Sept. 30, 2022, 136 Stat. 2138.)
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 916; amended Pub. L. 109–444, § 2(e), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, § 709, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3441, 3468; Pub. L. 112–37, § 10(f), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, § 206, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, § 11, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title II, § 208, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 306, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 307, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 306, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 147, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 117–180, div. E, title III, § 306, Sept. 30, 2022, 136 Stat. 2138.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 **Amendments**
 
@@ -2847,21 +2847,21 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is
 
 2011—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 30, 2011”.
 
-2006—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, § 709(a), added subpars. (E) to (G).
+2006—Subsec. (a)(3)(E) to (G). Pub. L. 109–461, § 709(a), added subpars. (E) to (G).
 
-Subsec. (d). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+Subsec. (d). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 709(b), substituted “December 30, 2011” for “December 31, 2006”.
+Pub. L. 109–461, § 709(b), substituted “December 30, 2011” for “December 31, 2006”.
 
-Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by Pub. L. 108–199, div. G, title II, § 216, Jan. 23, 2004, 118 Stat. 394.
+Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by Pub. L. 108–199, div. G, title II, § 216, Jan. 23, 2004, 118 Stat. 394.
 
-### § 2067. National Center on Homelessness Among Veterans
+### § 2067. National Center on Homelessness Among Veterans
 
 **(a) In General.—**
 
@@ -2883,17 +2883,17 @@ Interagency Council on the Homeless changed to United States Interagency Council
 
 **(5)** To serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department and by other Federal and non-Federal entities with respect to veteran homelessness.
 
-(Added Pub. L. 114–315, title VII, § 713(a), Dec. 16, 2016, 130 Stat. 1588.)
+(Added Pub. L. 114–315, title VII, § 713(a), Dec. 16, 2016, 130 Stat. 1588.)
 
-### § 2068. Mental health consultations
+### § 2068. Mental health consultations
 
 **(a) In General.—** Not later than two weeks after the date on which a veteran described in subsection (b) enters into a program administered by the Homeless Programs Office of the Department, the Secretary shall offer the veteran a mental health consultation to assess the health needs of, and care options for, the veteran.
 
 **(b) Veteran Described.—** A veteran described in this subsection is a veteran to whom a mental health consultation is not offered or provided through the case management services of the program of the Homeless Programs Office into which the veteran enters.
 
-(Added Pub. L. 117–328, div. V, title IV, § 404(b)(1), Dec. 29, 2022, 136 Stat. 5513.)
+(Added Pub. L. 117–328, div. V, title IV, § 404(b)(1), Dec. 29, 2022, 136 Stat. 5513.)
 
-### § 2069. Access to telehealth services
+### § 2069. Access to telehealth services
 
 To the extent practicable, the Secretary shall ensure that veterans participating in or receiving services from a program under this chapter have access to telehealth services to which such veterans are eligible under the laws administered by the Secretary, including by ensuring that telehealth capabilities are available to—
 
@@ -2903,7 +2903,7 @@ To the extent practicable, the Secretary shall ensure that veterans participatin
 
 **(3)** community-based service providers for homeless veterans receiving funds from the Department through grants or contracts.
 
-(Added Pub. L. 118–210, title IV, § 404(a), Jan. 2, 2025, 138 Stat. 2797.)
+(Added Pub. L. 118–210, title IV, § 404(a), Jan. 2, 2025, 138 Stat. 2797.)
 
 **Editorial Notes**
 

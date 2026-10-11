@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3801. Definitions
+### § 3801. Definitions
 
 In this chapter:
 
@@ -85,13 +85,13 @@ The term “United States” means the several States of the United States, the 
 
 The term “use” includes application, reapplication, installation, or any other employment of an antifouling system.
 
-(Pub. L. 111–281, title X, § 1011, Oct. 15, 2010, 124 Stat. 3023; Pub. L. 111–330, § 1(19), Dec. 22, 2010, 124 Stat. 3570.)
+(Pub. L. 111–281, title X, § 1011, Oct. 15, 2010, 124 Stat. 3023; Pub. L. 111–330, § 1(19), Dec. 22, 2010, 124 Stat. 3570.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
 Presidential Proclamation No. 5928, referred to in par. (13), is set out under section 1331 of Title 43, Public Lands.
 
@@ -103,9 +103,9 @@ Presidential Proclamation No. 5928, referred to in par. (13), is set out under s
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(19) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(19) is effective with the enactment of Pub. L. 111–281.
 
-### § 3802. Covered vessels
+### § 3802. Covered vessels
 
 **(a) Included vessel** Except as provided in subsection (b), after the Convention enters into force for the United States, the following vessels are subject to the requirements of this chapter:
 
@@ -141,15 +141,15 @@ The Administrator may apply any requirement of this chapter to one or more class
 
 Subparagraph (A) shall not apply to combat-related vessels.
 
-(Pub. L. 111–281, title X, § 1012, Oct. 15, 2010, 124 Stat. 3024.)
+(Pub. L. 111–281, title X, § 1012, Oct. 15, 2010, 124 Stat. 3024.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3803. Administration and enforcement
+### § 3803. Administration and enforcement
 
 **(a) In general**
 
@@ -163,41 +163,41 @@ Except with respect to section 3841(b) and (c) of this title, the Administrator 
 
 The Administrator and the Secretary may each prescribe and enforce regulations as may be necessary to carry out their respective responsibilities under this chapter.
 
-(Pub. L. 111–281, title X, § 1013, Oct. 15, 2010, 124 Stat. 3025.)
+(Pub. L. 111–281, title X, § 1013, Oct. 15, 2010, 124 Stat. 3025.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3804. Compliance with international law
+### § 3804. Compliance with international law
 
 Any action taken under this chapter shall be taken in accordance with treaties to which the United States is a party and other international obligations of the United States.
 
-(Pub. L. 111–281, title X, § 1014, Oct. 15, 2010, 124 Stat. 3025.)
+(Pub. L. 111–281, title X, § 1014, Oct. 15, 2010, 124 Stat. 3025.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3805. Utilization of personnel, facilities or equipment of other Federal departments and agencies
+### § 3805. Utilization of personnel, facilities or equipment of other Federal departments and agencies
 
 The Secretary and the Administrator may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the Convention, this chapter, or any regulations prescribed under this chapter.
 
-(Pub. L. 111–281, title X, § 1015, Oct. 15, 2010, 124 Stat. 3025.)
+(Pub. L. 111–281, title X, § 1015, Oct. 15, 2010, 124 Stat. 3025.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
 ## SUBCHAPTER II—IMPLEMENTATION OF THE CONVENTION
 
-### § 3821. Certificates
+### § 3821. Certificates
 
 **(a) Certificate required**
 
@@ -219,15 +219,15 @@ A Certificate issued by any country that is a party to the Convention has the sa
 
 Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstrate compliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
 
-(Pub. L. 111–281, title X, § 1021, Oct. 15, 2010, 124 Stat. 3025.)
+(Pub. L. 111–281, title X, § 1021, Oct. 15, 2010, 124 Stat. 3025.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (e), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsec. (e), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3822. Declaration
+### § 3822. Declaration
 
 **(a) Requirements**
 
@@ -237,21 +237,21 @@ On entry into force of the Convention for the United States, a vessel of at leas
 
 The declaration must contain a clear statement that the antifouling system on the vessel complies with the Convention. The Secretary may prescribe the form and other requirements of the declaration.
 
-(Pub. L. 111–281, title X, § 1022, Oct. 15, 2010, 124 Stat. 3026.)
+(Pub. L. 111–281, title X, § 1022, Oct. 15, 2010, 124 Stat. 3026.)
 
-### § 3823. Other compliance documentation
+### § 3823. Other compliance documentation
 
 In addition to the requirements under sections 3821 and 3822 of this title, the Secretary may require vessels to hold other documentation considered necessary to verify compliance with this chapter.
 
-(Pub. L. 111–281, title X, § 1023, Oct. 15, 2010, 124 Stat. 3026.)
+(Pub. L. 111–281, title X, § 1023, Oct. 15, 2010, 124 Stat. 3026.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3824. Process for considering additional controls
+### § 3824. Process for considering additional controls
 
 **(a) Actions by Administrator** The Administrator may—
 
@@ -277,9 +277,9 @@ The Administrator shall promptly make any report by the technical group describe
 
 To the extent practicable, the Administrator shall take any comments into consideration in developing recommendations under subsection (a).
 
-(Pub. L. 111–281, title X, § 1024, Oct. 15, 2010, 124 Stat. 3026.)
+(Pub. L. 111–281, title X, § 1024, Oct. 15, 2010, 124 Stat. 3026.)
 
-### § 3825. Scientific and technical research and monitoring; communication and information
+### § 3825. Scientific and technical research and monitoring; communication and information
 
 The Secretary, the Administrator, and the Administrator of the National Oceanic and Atmospheric Administration may each undertake scientific and technical research and monitoring pursuant to article 8 of the Convention and to promote the availability of relevant information concerning—
 
@@ -289,9 +289,9 @@ The Secretary, the Administrator, and the Administrator of the National Oceanic 
 
 **(3)** the effects observed from any monitoring and assessment programs relating to antifouling systems.
 
-(Pub. L. 111–281, title X, § 1025, Oct. 15, 2010, 124 Stat. 3027.)
+(Pub. L. 111–281, title X, § 1025, Oct. 15, 2010, 124 Stat. 3027.)
 
-### § 3826. Communication and exchange of information
+### § 3826. Communication and exchange of information
 
 **(a) In general**
 
@@ -301,11 +301,11 @@ Except as provided in subsection (b), with respect to those antifouling systems 
 
 This section shall not be construed to authorize the provision of information the disclosure of which is otherwise prohibited by law.
 
-(Pub. L. 111–281, title X, § 1026, Oct. 15, 2010, 124 Stat. 3027.)
+(Pub. L. 111–281, title X, § 1026, Oct. 15, 2010, 124 Stat. 3027.)
 
 ## SUBCHAPTER III—PROHIBITIONS AND ENFORCEMENT AUTHORITY
 
-### § 3841. Prohibitions
+### § 3841. Prohibitions
 
 **(a) In general** Notwithstanding any other provision of law, it is unlawful for any person—
 
@@ -335,15 +335,15 @@ Subsection (b) does not apply to fixed or floating platforms, FSUs, or FPSOs tha
 
 **(B)** the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotin used or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
 
-(Pub. L. 111–281, title X, § 1031, Oct. 15, 2010, 124 Stat. 3027.)
+(Pub. L. 111–281, title X, § 1031, Oct. 15, 2010, 124 Stat. 3027.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a)(1), (4), (5) and (c)(2)(A), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1), (4), (5) and (c)(2)(A), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3842. Investigations and inspections by Secretary
+### § 3842. Investigations and inspections by Secretary
 
 **(a) In general**
 
@@ -373,15 +373,15 @@ On completion of an investigation, the Secretary may take whatever further actio
 
 The Secretary may cooperate with other parties to the Convention in the detection of violations and in enforcement of the Convention. Nothing in this section affects or alters requirements under any other laws.
 
-(Pub. L. 111–281, title X, § 1032, Oct. 15, 2010, 124 Stat. 3028.)
+(Pub. L. 111–281, title X, § 1032, Oct. 15, 2010, 124 Stat. 3028.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3843. EPA enforcement
+### § 3843. EPA enforcement
 
 **(a) Inspections, subpoenas**
 
@@ -409,35 +409,35 @@ In the case of refusal to obey a subpoena issued to any person under this paragr
 
 Consistent with section 3803 of this title, whenever any organotin or other substance or system regulated under the Convention is found by the Administrator and there is reason to believe that a manufacturer, seller, distributor, or user has violated or is in violation of any provision of this chapter, or that such organotin or other substance or system regulated under the Convention has been or is intended to be manufactured, distributed, sold, or used in violation of this chapter, the Administrator may issue a stop manufacture, sale, use, or removal order to any person that owns, controls, or has custody of such organotin or other substance or system regulated under the Convention. After receipt of that order the person may not manufacture, sell, distribute, use, or remove the organotin or other substance or system regulated under the Convention described in the order except in accordance with the order.
 
-(Pub. L. 111–281, title X, § 1033, Oct. 15, 2010, 124 Stat. 3028.)
+(Pub. L. 111–281, title X, § 1033, Oct. 15, 2010, 124 Stat. 3028.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3844. Additional authority of the Administrator
+### § 3844. Additional authority of the Administrator
 
 The Administrator, in consultation with the Secretary, may establish, as necessary, terms and conditions regarding the removal and disposal of antifouling systems prohibited or restricted under this chapter.
 
-(Pub. L. 111–281, title X, § 1034, Oct. 15, 2010, 124 Stat. 3029.)
+(Pub. L. 111–281, title X, § 1034, Oct. 15, 2010, 124 Stat. 3029.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
 ## SUBCHAPTER IV—ACTION ON VIOLATION, PENALTIES, AND REFERRALS
 
-### § 3851. Criminal enforcement
+### § 3851. Criminal enforcement
 
 Any person who knowingly violates paragraph (2), (3), (4), or (5) of section 3841(a) of this title or section 3841(b) of this title shall be fined under title 18 or imprisoned not more than 6 years, or both.
 
-(Pub. L. 111–281, title X, § 1041, Oct. 15, 2010, 124 Stat. 3029.)
+(Pub. L. 111–281, title X, § 1041, Oct. 15, 2010, 124 Stat. 3029.)
 
-### § 3852. Civil enforcement
+### § 3852. Civil enforcement
 
 **(a) Civil penalty**
 
@@ -479,25 +479,25 @@ Before referring any civil penalty that is subject to assessment or has been ass
 
 Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person’s penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
 
-(Pub. L. 111–281, title X, § 1042, Oct. 15, 2010, 124 Stat. 3030.)
+(Pub. L. 111–281, title X, § 1042, Oct. 15, 2010, 124 Stat. 3030.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a)(1), (c), and (f), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1), (c), and (f), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3853. Liability in rem
+### § 3853. Liability in rem
 
 A vessel operated in violation of the Convention, this chapter, or any regulation prescribed under this chapter, is liable in rem for any fine imposed under title 18 or civil penalty assessed pursuant to section 3852 of this title, and may be proceeded against in the United States district court of any district in which the vessel may be found.
 
-(Pub. L. 111–281, title X, § 1043, Oct. 15, 2010, 124 Stat. 3031; Pub. L. 111–330, § 1(20), Dec. 22, 2010, 124 Stat. 3571.)
+(Pub. L. 111–281, title X, § 1043, Oct. 15, 2010, 124 Stat. 3031; Pub. L. 111–330, § 1(20), Dec. 22, 2010, 124 Stat. 3571.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
 **Amendments**
 
@@ -507,21 +507,21 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(20) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(20) is effective with the enactment of Pub. L. 111–281.
 
-### § 3854. Vessel clearance or permits; refusal or revocation; bond or other surety
+### § 3854. Vessel clearance or permits; refusal or revocation; bond or other surety
 
 If any vessel that is subject to the Convention or this chapter, or its owner, operator, or person in charge, is liable for a fine or civil penalty under section 3852 or 3853 of this title, or if reasonable cause exists to believe that the vessel, its owner, operator, or person in charge may be subject to a fine or civil penalty under section 3852 or 3853 of this title, the Secretary may refuse or revoke the clearance required by section 60105 of title 46. Clearance may be granted upon the filing of a bond or other surety satisfaction to the Secretary.
 
-(Pub. L. 111–281, title X, § 1044, Oct. 15, 2010, 124 Stat. 3031.)
+(Pub. L. 111–281, title X, § 1044, Oct. 15, 2010, 124 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3855. Warnings, detentions, dismissals, exclusion
+### § 3855. Warnings, detentions, dismissals, exclusion
 
 **(a) In general**
 
@@ -531,27 +531,27 @@ If a vessel is detected to be in violation of the Convention, this chapter, or a
 
 If action is taken under subsection (a), the Secretary, in consultation with the Secretary of State, shall make the notifications required by the Convention.
 
-(Pub. L. 111–281, title X, § 1045, Oct. 15, 2010, 124 Stat. 3031.)
+(Pub. L. 111–281, title X, § 1045, Oct. 15, 2010, 124 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
 
-### § 3856. Referrals for appropriate action by foreign country
+### § 3856. Referrals for appropriate action by foreign country
 
 Notwithstanding sections 3851, 3852, 3853, and 3855 of this title, if a violation of the Convention is committed by a vessel registered in or of the nationality of a country that is a party to the Convention, or by a vessel operated under the authority of a country that is a party to the Convention, the Secretary, acting in coordination with the Secretary of State, may refer the matter to the government of the country of the vessel’s registry or nationality, or under whose authority the vessel is operating, for appropriate action, rather than taking the actions otherwise required or authorized by this subchapter.
 
-(Pub. L. 111–281, title X, § 1046, Oct. 15, 2010, 124 Stat. 3031.)
+(Pub. L. 111–281, title X, § 1046, Oct. 15, 2010, 124 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§§ 1041–1048) of title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3029, which enacted this subchapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of subtitle D to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§§ 1041–1048) of title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3029, which enacted this subchapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of subtitle D to the Code, see Tables.
 
-### § 3857. Remedies not affected
+### § 3857. Remedies not affected
 
 **(a) In general**
 
@@ -561,10 +561,10 @@ Nothing in this chapter limits, denies, amends, modifies, or repeals any other r
 
 Nothing in this chapter limits, denies, amends, modifies, or repeals any rights under existing law, of any State, territory, or possession of the United States, or any political subdivision thereof, to regulate any antifouling system. Compliance with the requirements of a State, territory, or possession of the United States, or political subdivision thereof related to antifouling paint or any other antifouling system does not relieve any person of the obligation to comply with this chapter.
 
-(Pub. L. 111–281, title X, § 1047, Oct. 15, 2010, 124 Stat. 3031.)
+(Pub. L. 111–281, title X, § 1047, Oct. 15, 2010, 124 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§ 2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2013—VOLUNTARY RETIREMENT FOR LENGTH OF SERVICE
 
-## § 20601. Officers: voluntary retirement for length of service
+## § 20601. Officers: voluntary retirement for length of service
 
 **(a) Twenty Years or More.—** The Secretary of the Air Force may, upon the officer’s request, retire a commissioned officer of the Space Force who has at least 20 years of service computed under section 20602 of this title, at least 10 years of which have been active service as a commissioned officer.
 
@@ -23,33 +23,33 @@ retrieved: 2026-10-11
 
 **(c) Forty Years or More.—** Except as provided in section 20503 of this title, a commissioned officer of the Space Force who has at least 40 years of service computed under section 20602 of this title shall be retired upon the officer’s request.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 662.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 662.)
 
-## § 20602. Officers: computation of years of service for voluntary retirement
+## § 20602. Officers: computation of years of service for voluntary retirement
 
 **(a) Years of Active Service.—** For the purpose of determining whether an officer of the Space Force may be retired under section 20601 of this title, the officer’s years of service are computed by adding all active service in the armed forces.
 
 **(b) Reference to Section Excluding Service During Certain Periods.—** Section 972(b) of this title excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
 
-## § 20603. Enlisted members: voluntary retirement for length of service
+## § 20603. Enlisted members: voluntary retirement for length of service
 
 **(a) Twenty to Thirty Years.—** Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member of the Space Force who has at least 20, but less than 30, years of service computed under section 20604 of this title may, upon the member’s request, be retired.
 
 **(b) Thirty Years or More.—** An enlisted member of the Space Force who has at least 30 years of service computed under section 20604 of this title shall be retired upon the member’s request.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
 
-## § 20604. Enlisted members: computation of years of service for voluntary retirement
+## § 20604. Enlisted members: computation of years of service for voluntary retirement
 
 **(a) Years of Active Service.—** For the purpose of determining whether an enlisted member of the Space Force may be retired under section 20603 of this title, the member’s years of service are computed by adding all active service in the armed forces.
 
 **(b) Reference to Section Excluding Counting of Certain Service Required to Be Made up.—** Time required to be made up under section 972(a) of this title may not be counted in computing years of service under subsection (a).
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
 
-## § 20605. Applicability of other provisions of law relating to retirement
+## § 20605. Applicability of other provisions of law relating to retirement
 
 **(a) Applicability to Members of the Space Force.—** Except as specifically provided for by this chapter, the provisions of this title specified in subsection (b) apply to members of the Space Force as follows:
 
@@ -91,4 +91,4 @@ retrieved: 2026-10-11
 
 **(8)** Chapter 1225, relating to retired grade.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1719A(a), Dec. 22, 2023, 137 Stat. 663.)

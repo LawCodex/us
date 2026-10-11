@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—NATIONAL LANDSCAPE CONSERVATION SYSTEM
 
-## § 7201. Definitions
+## § 7201. Definitions
 
 In this chapter:
 
@@ -27,9 +27,9 @@ The term “Secretary” means the Secretary of the Interior.
 
 The term “system” means the National Landscape Conservation System established by section 7202(a) of this title.
 
-(Pub. L. 111–11, title II, § 2001, Mar. 30, 2009, 123 Stat. 1094.)
+(Pub. L. 111–11, title II, § 2001, Mar. 30, 2009, 123 Stat. 1094.)
 
-## § 7202. Establishment of the National Landscape Conservation System
+## § 7202. Establishment of the National Landscape Conservation System
 
 **(a) Establishment**
 
@@ -87,7 +87,7 @@ In order to conserve, protect, and restore nationally significant landscapes tha
 
 Nothing in this chapter shall be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, trapping and recreational shooting on public land managed by the Bureau of Land Management. Nothing in this chapter shall be construed as limiting access for hunting, fishing, trapping, or recreational shooting.
 
-(Pub. L. 111–11, title II, § 2002, Mar. 30, 2009, 123 Stat. 1095.)
+(Pub. L. 111–11, title II, § 2002, Mar. 30, 2009, 123 Stat. 1095.)
 
 **Editorial Notes**
 
@@ -95,16 +95,16 @@ Nothing in this chapter shall be construed as affecting the authority, jurisdict
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Wilderness Act, referred to in subsec. (d)(1)(B), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (d)(1)(B), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-The Wild and Scenic Rivers Act, referred to in subsec. (d)(1)(C), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (d)(1)(C), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
 
-The National Trails System Act, referred to in subsec. (d)(1)(D), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (d)(1)(D), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1)(E), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1)(E), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-## § 7203. Authorization of appropriations
+## § 7203. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 111–11, title II, § 2003, Mar. 30, 2009, 123 Stat. 1096.)
+(Pub. L. 111–11, title II, § 2003, Mar. 30, 2009, 123 Stat. 1096.)

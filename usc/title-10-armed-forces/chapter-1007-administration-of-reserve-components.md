@@ -19,39 +19,39 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–291, div. A, title IX, § 902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 “Assistant Secretary of Defense for Reserve Affairs”.
+2014—Pub. L. 113–291, div. A, title IX, § 902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 “Assistant Secretary of Defense for Reserve Affairs”.
 
-2013—Pub. L. 112–239, div. A, title V, § 581(a)(2), Jan. 2, 2013, 126 Stat. 1765, added item 10219.
+2013—Pub. L. 112–239, div. A, title V, § 581(a)(2), Jan. 2, 2013, 126 Stat. 1765, added item 10219.
 
-2006—Pub. L. 109–163, div. A, title VII, § 732(c), Jan. 6, 2006, 119 Stat. 3352, struck out “periodic” before “physical” in item 10206.
+2006—Pub. L. 109–163, div. A, title VII, § 732(c), Jan. 6, 2006, 119 Stat. 3352, struck out “periodic” before “physical” in item 10206.
 
-1999—Pub. L. 106–65, div. A, title V, §§ 522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out “military” after “status” in item 10217 and added item 10218.
+1999—Pub. L. 106–65, div. A, title V, §§ 522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out “military” after “status” in item 10217 and added item 10218.
 
-1997—Pub. L. 105–85, div. A, title V, §§ 522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
+1997—Pub. L. 105–85, div. A, title V, §§ 522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
 
-1996—Pub. L. 104–106, div. A, title V, § 513(c)(2), title XV, § 1501(b)(4), Feb. 10, 1996, 110 Stat. 306, 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
+1996—Pub. L. 104–106, div. A, title V, § 513(c)(2), title XV, § 1501(b)(4), Feb. 10, 1996, 110 Stat. 306, 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
 
-## § 10201. Assistant Secretary of Defense for Manpower and Reserve Affairs
+## § 10201. Assistant Secretary of Defense for Manpower and Reserve Affairs
 
-As provided in section 138(b)(2) 1
+As provided in section 138(b)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the official in the Department of Defense with responsibility for overall supervision of reserve affairs of the Department of Defense is the Assistant Secretary of Defense for Manpower and Reserve Affairs.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 104–106, div. A, title IX, § 903(f)(4), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 113–291, div. A, title IX, § 902(b)(1), Dec. 19, 2014, 128 Stat. 3469.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 104–106, div. A, title IX, § 903(f)(4), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 113–291, div. A, title IX, § 902(b)(1), Dec. 19, 2014, 128 Stat. 3469.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 138(b)(2) of this title, referred to in text, was struck out and subsec. (b)(4) was redesignated subsec. (b)(2) by Pub. L. 115–91, div. A, title IX, § 907(b), Dec. 12, 2017, 131 Stat. 1514.
+Section 138(b)(2) of this title, referred to in text, was struck out and subsec. (b)(4) was redesignated subsec. (b)(2) by Pub. L. 115–91, div. A, title IX, § 907(b), Dec. 12, 2017, 131 Stat. 1514.
 
 **Amendments**
 
 2014—Pub. L. 113–291 amended section generally. Prior to amendment, text read as follows: “As provided in section 138(b)(2) of this title, the official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the Assistant Secretary of Defense for Reserve Affairs.”
 
-1996—Pub. L. 104–106, § 903(a), (f)(4), which directed that this section be amended, eff. Jan. 31, 1997, to read “The official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the official designated by the Secretary of Defense to have that responsibility.”, was repealed by Pub. L. 104–201.
+1996—Pub. L. 104–106, § 903(a), (f)(4), which directed that this section be amended, eff. Jan. 31, 1997, to read “The official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the official designated by the Secretary of Defense to have that responsibility.”, was repealed by Pub. L. 104–201.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -59,7 +59,7 @@ Section 138(b)(2) of this title, referred to in text, was struck out and subsec.
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10202. Regulations
+## § 10202. Regulations
 
 **(a)** Subject to standards, policies, and procedures prescribed by the Secretary of Defense, the Secretary of each military department shall prescribe such regulations as the Secretary considers necessary to carry out provisions of law relating to the reserve components under the Secretary’s jurisdiction.
 
@@ -67,13 +67,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(c)** So far as practicable, regulations for all reserve components shall be uniform.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 280 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 280 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
@@ -89,7 +89,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10203. Reserve affairs: designation of general or flag officer of each armed force
+## § 10203. Reserve affairs: designation of general or flag officer of each armed force
 
 **(a)** The Secretary of the Army may designate a general officer of the Army to be directly responsible for reserve affairs to the Chief of Staff of the Army.
 
@@ -101,13 +101,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(e)** This section does not affect the functions of the Chief of the National Guard Bureau, the Chief of Army Reserve, or the Chief of Air Force Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 264(a) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 264(a) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
@@ -123,7 +123,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10204. Personnel records
+## § 10204. Personnel records
 
 **(a)** The Secretary concerned shall maintain adequate and current personnel records of each member of the reserve components under the Secretary’s jurisdiction showing the following with respect to the member:
 
@@ -141,13 +141,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(b)** Under regulations to be prescribed by the Secretary of Defense, the Secretary of each military department shall maintain a record of the number of members of each class of each reserve component who, during each fiscal year, have participated satisfactorily in active duty for training and inactive duty training with pay.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 275 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 275 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,25 +157,25 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **Records of Service for Reserves**
 
-Pub. L. 116–92, div. A, title V, § 570, Dec. 20, 2019, 133 Stat. 1397, provided that:
+Pub. L. 116–92, div. A, title V, § 570, Dec. 20, 2019, 133 Stat. 1397, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2020, the Secretary of Defense shall establish and implement a standard record of service for members of the reserve components of the Armed Forces, similar to DD Form 214, that summarizes the record of service of each such member, including dates of active duty service.
 
 > **“(b) Coordination.—** In carrying out this section, the Secretary of Defense shall coordinate with the Secretary of Veterans Affairs to ensure that the record established under this section is acceptable as proof of service for former members of the reserve components of the Armed Forces who are eligible for benefits under laws administered by the Secretary of Veterans Affairs to receive such benefits.”
 
-## § 10205. Members of Ready Reserve: requirement of notification of change of status
+## § 10205. Members of Ready Reserve: requirement of notification of change of status
 
 **(a)** Each member of the Ready Reserve shall notify the Secretary concerned of any change in the member’s address, marital status, number of dependents, or civilian employment and of any change in the member’s physical condition that would prevent the member from meeting the physical or mental standards prescribed for the member’s armed force.
 
 **(b)** This section shall be administered under regulations prescribed by the Secretary of Defense and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 652 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 652 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Amendments**
 
@@ -191,7 +191,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10206. Members: physical examinations
+## § 10206. Members: physical examinations
 
 **(a)** Each member of the Selected Reserve who is not on active duty shall—
 
@@ -211,31 +211,31 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(d)** The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–107, div. A, title V, § 516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, § 732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–107, div. A, title V, § 516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, § 732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1004(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(4)(A).
+Provisions similar to those in this section were contained in section 1004(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(4)(A).
 
 **Amendments**
 
-2006—Pub. L. 109–163, § 732(b), struck out “periodic” before “physical” in section catchline.
+2006—Pub. L. 109–163, § 732(b), struck out “periodic” before “physical” in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–163, § 732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “be examined as to the member’s physical fitness every five years, or more often as the Secretary concerned considers necessary; and”.
+Subsec. (a)(1). Pub. L. 109–163, § 732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “be examined as to the member’s physical fitness every five years, or more often as the Secretary concerned considers necessary; and”.
 
-Subsec. (a)(2). Pub. L. 109–163, § 732(a)(2), substituted “to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties” for “annually to the Secretary concerned a certificate of physical condition”.
+Subsec. (a)(2). Pub. L. 109–163, § 732(a)(2), substituted “to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties” for “annually to the Secretary concerned a certificate of physical condition”.
 
-2001—Subsec. (a). Pub. L. 107–107, § 516(a)(1), (2), substituted “Selected Reserve” for “Ready Reserve” in introductory provisions and redesignated concluding provisions as subsec. (c).
+2001—Subsec. (a). Pub. L. 107–107, § 516(a)(1), (2), substituted “Selected Reserve” for “Ready Reserve” in introductory provisions and redesignated concluding provisions as subsec. (c).
 
-Subsec. (a)(1). Pub. L. 107–107, § 516(b), substituted “the member’s physical fitness” for “his physical fitness”.
+Subsec. (a)(1). Pub. L. 107–107, § 516(b), substituted “the member’s physical fitness” for “his physical fitness”.
 
-Subsec. (b). Pub. L. 107–107, § 516(a)(4), added subsec. (b). Former subsec. (b) redesignated (d).
+Subsec. (b). Pub. L. 107–107, § 516(a)(4), added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 107–107, § 516(a)(2), redesignated concluding provisions of subsec. (a) as (c).
+Subsec. (c). Pub. L. 107–107, § 516(a)(2), redesignated concluding provisions of subsec. (a) as (c).
 
-Subsec. (d). Pub. L. 107–107, § 516(a)(3), redesignated subsec. (b) as (d).
+Subsec. (d). Pub. L. 107–107, § 516(a)(3), redesignated subsec. (b) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,19 +243,19 @@ Subsec. (d). Pub. L. 107–107, § 516(a)(3), redesignated subsec. (b) as (d).
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10207. Mobilization forces: maintenance
+## § 10207. Mobilization forces: maintenance
 
 **(a)** Whenever units or members of the reserve components are ordered to active duty (other than for training) during a period of partial mobilization, the Secretary concerned shall continue to maintain mobilization forces by planning and budgeting for the continued organization and training of the reserve components not mobilized, and make the fullest practicable use of the Federal facilities vacated by mobilized units, consistent with approved joint mobilization plans.
 
 **(b)** In this section, the term “partial mobilization” means the mobilization resulting from action by Congress or the President, under any law, to bring units of any reserve component, and members not assigned to units organized to serve as units, to active duty for a limited expansion of the active armed forces.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 276 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 276 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -263,7 +263,7 @@ Provisions similar to those in this section were contained in section 276 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10208. Annual mobilization exercise
+## § 10208. Annual mobilization exercise
 
 **(a)** The Secretary of Defense shall conduct at least one major mobilization exercise each year. The exercise should be as comprehensive and as realistic as possible and should include the participation of associated active component and reserve component units.
 
@@ -279,7 +279,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(B)** shall include a simulation of a mobilization of all armed forces and reserve units, with plans and processes for incorporating Selective Service System inductees.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978; amended Pub. L. 117–81, div. A, title V, § 527(a), Dec. 27, 2021, 135 Stat. 1689.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978; amended Pub. L. 117–81, div. A, title V, § 527(a), Dec. 27, 2021, 135 Stat. 1689.)
 
 **Editorial Notes**
 
@@ -287,11 +287,11 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of div. A of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
-The Military Selective Service Act, referred to in subsec. (c)(1), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (c)(1), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 98–525, title V, § 552(e), Oct. 19, 1984, 98 Stat. 2531, which was set out in a note under section 12001 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(B).
+Provisions similar to those in this section were contained in Pub. L. 98–525, title V, § 552(e), Oct. 19, 1984, 98 Stat. 2531, which was set out in a note under section 12001 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(B).
 
 **Amendments**
 
@@ -303,7 +303,7 @@ Provisions similar to those in this section were contained in Pub. L. 98–525, 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10209. Regular and reserve components: discrimination prohibited
+## § 10209. Regular and reserve components: discrimination prohibited
 
 Laws applying to both Regulars and Reserves shall be administered without discrimination—
 
@@ -313,13 +313,13 @@ Laws applying to both Regulars and Reserves shall be administered without discri
 
 **(3)** between Regulars and Reserves.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 277 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 277 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -327,17 +327,17 @@ Provisions similar to those in this section were contained in section 277 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10210. Dissemination of information
+## § 10210. Dissemination of information
 
 The Secretary of Defense shall require the complete and current dissemination, to all Reserves and to the public, of information of interest to the reserve components.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 278 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 278 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,17 +345,17 @@ Provisions similar to those in this section were contained in section 278 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10211. Policies and regulations: participation of Reserve officers in preparation and administration
+## § 10211. Policies and regulations: participation of Reserve officers in preparation and administration
 
 Within such numbers and in such grades and assignments as the Secretary concerned may prescribe, each armed force shall have officers of its reserve components on active duty (other than for training) at the seat of government, and at headquarters responsible for reserve affairs, to participate in preparing and administering the policies and regulations affecting those reserve components. While so serving, such an officer is an additional number of any staff with which he is serving.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 265 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 265 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -363,7 +363,7 @@ Provisions similar to those in this section were contained in section 265 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10212. Gratuitous services of officers: authority to accept
+## § 10212. Gratuitous services of officers: authority to accept
 
 **(a)** Notwithstanding section 1342 of title 31, the Secretary of Defense may accept the gratuitous services of an officer of a reserve component (other than an officer of the Army National Guard of the United States or the Air National Guard of the United States) in consultation upon matters relating to the armed forces.
 
@@ -373,13 +373,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(2)** in consultation upon matters relating to the armed forces.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978; amended Pub. L. 103–355, title III, § 3021(a), Oct. 13, 1994, 108 Stat. 3333.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978; amended Pub. L. 103–355, title III, § 3021(a), Oct. 13, 1994, 108 Stat. 3333.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, § 822(d)(2).
+Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, § 822(d)(2).
 
 **Amendments**
 
@@ -389,23 +389,23 @@ Provisions similar to those in this section were contained in section 279 of thi
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–355, title III, § 3021(b), Oct. 13, 1994, 108 Stat. 3333, provided that: “Notwithstanding section 10001 [set out as a note under section 2302 of this title], the amendments made by subsection (a) [amending this section] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act [Pub. L. 103–337, see Tables for classification].”
+Pub. L. 103–355, title III, § 3021(b), Oct. 13, 1994, 108 Stat. 3333, provided that: “Notwithstanding section 10001 [set out as a note under section 2302 of this title], the amendments made by subsection (a) [amending this section] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act [Pub. L. 103–337, see Tables for classification].”
 
 **Effective Date**
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10213. Reserve components: dual membership prohibited
+## § 10213. Reserve components: dual membership prohibited
 
 Except as otherwise provided in this title, no person may be a member of more than one reserve component at the same time.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 261(b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 261(b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,17 +413,17 @@ Provisions similar to those in this section were contained in section 261(b) of 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10214. Adjutants general and assistant adjutants general: reference to other officers of National Guard
+## § 10214. Adjutants general and assistant adjutants general: reference to other officers of National Guard
 
 In any case in which, under the laws of a State, an officer of the National Guard of that jurisdiction, other than the adjutant general or an assistant adjutant general, normally performs the duties of that office, the references in sections 12004(b)(1), 12215, 12642(c), 14507(b), 14508(h), and 14512 of this title to the adjutant general or the assistant adjutant general shall be applied to that officer instead of to the adjutant general or assistant adjutant general.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979; amended Pub. L. 111–383, div. A, title X, § 1075(b)(51), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979; amended Pub. L. 111–383, div. A, title X, § 1075(b)(51), Jan. 7, 2011, 124 Stat. 4371.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 281 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 281 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
@@ -435,7 +435,7 @@ Provisions similar to those in this section were contained in section 281 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10215. Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status
+## § 10215. Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status
 
 **(a)**
 
@@ -459,13 +459,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(c)** This section shall be carried out under regulations prescribed by the Secretary of the Army, with respect to matters concerning the Army, and by the Secretary of the Air Force, with respect to matters concerning the Air Force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2979.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3080 and 8080 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in sections 3080 and 8080 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -473,7 +473,7 @@ Provisions similar to those in this section were contained in sections 3080 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10216. Military technicians (dual status)
+## § 10216. Military technicians (dual status)
 
 **(a) In General.—**
 
@@ -575,7 +575,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(3)** Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, § 513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, § 413(b), (c), title XII, § 1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, § 522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, § 521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, § 403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, § 513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, § 525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, § 511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, [div. A], title V, § 511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, § 512, title X, § 1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, § 514(a), Dec. 31, 2011, 125 Stat. 1394; Pub. L. 118–159, div. A, title V, § 511(a), Dec. 23, 2024, 138 Stat. 1875; Pub. L. 119–60, div. A, title XVII, § 1701(a)(40), Dec. 18, 2025, 139 Stat. 1210.)
+(Added Pub. L. 104–106, div. A, title V, § 513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, § 413(b), (c), title XII, § 1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, § 522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, § 521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, § 403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, § 513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, § 525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, § 511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, [div. A], title V, § 511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, § 512, title X, § 1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, § 514(a), Dec. 31, 2011, 125 Stat. 1394; Pub. L. 118–159, div. A, title V, § 511(a), Dec. 23, 2024, 138 Stat. 1875; Pub. L. 119–60, div. A, title XVII, § 1701(a)(40), Dec. 18, 2025, 139 Stat. 1210.)
 
 **Editorial Notes**
 
@@ -585,83 +585,83 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 2024—Subsec. (f). Pub. L. 118–159 substituted “62.” for “60”.
 
-2011—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 111–383, § 1075(b)(52), substituted “section 115(d)” for “section 115(c)”.
+2011—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 111–383, § 1075(b)(52), substituted “section 115(d)” for “section 115(c)”.
 
-Subsec. (d)(3). Pub. L. 111–383, § 512, added par. (3).
+Subsec. (d)(3). Pub. L. 111–383, § 512, added par. (3).
 
-Subsec. (f). Pub. L. 112–81 inserted “Authority for” before “Deferral of Mandatory Separation” in heading, and in text, substituted “may each implement” for “shall implement”, inserted “, at the discretion of the Secretary concerned,” after “so as to allow”, and struck out “for officers” after “mandatory removal date”.
+Subsec. (f). Pub. L. 112–81 inserted “Authority for” before “Deferral of Mandatory Separation” in heading, and in text, substituted “may each implement” for “shall implement”, inserted “, at the discretion of the Secretary concerned,” after “so as to allow”, and struck out “for officers” after “mandatory removal date”.
 
 2008—Subsec. (f). Pub. L. 110–417 inserted “and the Secretary of the Air Force” after “Secretary of the Army”.
 
 Subsec. (g). Pub. L. 110–181 added subsec. (g).
 
-2006—Subsec. (a)(1)(C). Pub. L. 109–364, § 525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
+2006—Subsec. (a)(1)(C). Pub. L. 109–364, § 525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
 
-Subsec. (a)(3). Pub. L. 109–364, § 525(b)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 109–364, § 525(b)(2), added par. (3).
 
 Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
 2003—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 108–136 substituted “section 115(c)” for “115(g)”.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–65, § 521(a)(1), substituted “section 709(b)” for “section 709”.
+1999—Subsec. (a)(1)(A). Pub. L. 106–65, § 521(a)(1), substituted “section 709(b)” for “section 709”.
 
-Subsec. (a)(1)(C). Pub. L. 106–65, § 521(a)(2), inserted “civilian” after “is assigned to a”.
+Subsec. (a)(1)(C). Pub. L. 106–65, § 521(a)(2), inserted “civilian” after “is assigned to a”.
 
-Subsec. (e)(1). Pub. L. 106–65, § 521(b)(1), inserted “(dual status)” after “military technician” the second place it appeared.
+Subsec. (e)(1). Pub. L. 106–65, § 521(b)(1), inserted “(dual status)” after “military technician” the second place it appeared.
 
-Subsec. (e)(2). Pub. L. 106–65, § 521(b)(2), substituted “Except as otherwise provided by law, the Secretary” for “The Secretary” and “up to 12 months” for “not to exceed six months”.
+Subsec. (e)(2). Pub. L. 106–65, § 521(b)(2), substituted “Except as otherwise provided by law, the Secretary” for “The Secretary” and “up to 12 months” for “not to exceed six months”.
 
-1997—Pub. L. 105–85, § 522(h), inserted “(dual status)” after “military technicians” in section catchline.
+1997—Pub. L. 105–85, § 522(h), inserted “(dual status)” after “military technicians” in section catchline.
 
-Subsec. (a). Pub. L. 105–85, § 522(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+Subsec. (a). Pub. L. 105–85, § 522(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a) In General.—Military technicians are Federal civilian employees hired under title 5 and title 32 who are required to maintain dual-status as drilling reserve component members as a condition of their Federal civilian employment. Such employees shall be authorized and accounted for as a separate category of dual-status civilian employees, exempt as specified in subsection (b)(3) from any general or regulatory requirement for adjustments in Department of Defense civilian personnel.”
 
-Subsec. (b). Pub. L. 105–85, § 522(g)(1), inserted “(dual status)” after “military technicians” in heading.
+Subsec. (b). Pub. L. 105–85, § 522(g)(1), inserted “(dual status)” after “military technicians” in heading.
 
-Subsec. (b)(1). Pub. L. 105–85, § 522(g)(2)(A), (B), in introductory provisions, inserted “(dual status)” after “for military technicians” and substituted “military technicians (dual status)” for “dual status military technicians”.
+Subsec. (b)(1). Pub. L. 105–85, § 522(g)(2)(A), (B), in introductory provisions, inserted “(dual status)” after “for military technicians” and substituted “military technicians (dual status)” for “dual status military technicians”.
 
-Subsec. (b)(1)(C). Pub. L. 105–85, § 522(g)(2)(C), inserted “(dual status)” after “military technicians”.
+Subsec. (b)(1)(C). Pub. L. 105–85, § 522(g)(2)(C), inserted “(dual status)” after “military technicians”.
 
-Subsec. (b)(2). Pub. L. 105–85, § 522(g)(3), inserted “(dual status)” after “military technicians” in two places.
+Subsec. (b)(2). Pub. L. 105–85, § 522(g)(3), inserted “(dual status)” after “military technicians” in two places.
 
-Subsec. (b)(3). Pub. L. 105–85, § 522(g)(4), inserted “(dual status)” after “Military technician”.
+Subsec. (b)(3). Pub. L. 105–85, § 522(g)(4), inserted “(dual status)” after “Military technician”.
 
-Subsec. (c). Pub. L. 105–85, § 522(g)(5)(A), inserted “(dual status)” after “military technicians” in introductory provisions.
+Subsec. (c). Pub. L. 105–85, § 522(g)(5)(A), inserted “(dual status)” after “military technicians” in introductory provisions.
 
-Subsec. (c)(1)(A) to (D). Pub. L. 105–85, § 522(f), (g)(5)(B), substituted “subsection (b)(1)” for “subsection (a)(1)” and “military technicians (dual status)” for “dual-status technicians”.
+Subsec. (c)(1)(A) to (D). Pub. L. 105–85, § 522(f), (g)(5)(B), substituted “subsection (b)(1)” for “subsection (a)(1)” and “military technicians (dual status)” for “dual-status technicians”.
 
-Subsec. (c)(2)(A). Pub. L. 105–85, § 522(g)(5)(C), inserted “(dual status)” after “military technician”.
+Subsec. (c)(2)(A). Pub. L. 105–85, § 522(g)(5)(C), inserted “(dual status)” after “military technician”.
 
-Subsec. (c)(2)(B). Pub. L. 105–85, § 522(g)(5)(D), substituted “delineate the specific force structure reductions” for “delineate—
+Subsec. (c)(2)(B). Pub. L. 105–85, § 522(g)(5)(D), substituted “delineate the specific force structure reductions” for “delineate—
 
 “(i) in the case of a reduction that includes a reduction in technicians described in subparagraph (A) or (C) of paragraph (1), the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those force structure reductions); and
 
 “(ii) in the case of a reduction that includes reductions in technicians described in subparagraphs (B) or (D) of paragraph (1), the specific force structure reductions, Department of Defense civilian personnel reductions, or other reasons”.
 
-Subsecs. (d), (e). Pub. L. 105–85, § 522(b), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows:
+Subsecs. (d), (e). Pub. L. 105–85, § 522(b), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows:
 
 “(d) Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called ‘dual-status’ technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a member of the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards.”
 
-1996—Subsec. (a). Pub. L. 104–201, § 1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
+1996—Subsec. (a). Pub. L. 104–201, § 1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (a)(1). Pub. L. 104–201, § 413(c)(1), substituted “section 115(g)” for “section 115” in introductory provisions.
+Subsec. (a)(1). Pub. L. 104–201, § 413(c)(1), substituted “section 115(g)” for “section 115” in introductory provisions.
 
-Subsec. (b). Pub. L. 104–201, § 1214(1), (3), redesignated subsec. (a) as (b) and struck out “in high-priority units and organizations specified in paragraph (1)” after “authorizations and personnel” in par. (3). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–201, § 1214(1), (3), redesignated subsec. (a) as (b) and struck out “in high-priority units and organizations specified in paragraph (1)” after “authorizations and personnel” in par. (3). Former subsec. (b) redesignated (c).
 
-Pub. L. 104–201, § 413(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Pub. L. 104–201, § 413(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–201, § 1214(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 104–201, § 1214(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 104–201, § 413(b)(1), (c)(2), redesignated subsec. (b) as (c) and substituted “after February 10, 1996,” for “after the date of the enactment of this section” in two places.
+Pub. L. 104–201, § 413(b)(1), (c)(2), redesignated subsec. (b) as (c) and substituted “after February 10, 1996,” for “after the date of the enactment of this section” in two places.
 
-Subsec. (d). Pub. L. 104–201, § 1214(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 104–201, § 1214(1), redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: “The Secretary of the Army shall implement subsection (f) of section 10216 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title V, § 513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: “The Secretary of the Army shall implement subsection (f) of section 10216 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Termination of Reporting Requirements**
 
@@ -669,7 +669,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 **Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions**
 
-Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 115–91, div. A, title X, § 1083, Dec. 12, 2017, 131 Stat. 1602, provided that:
+Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 115–91, div. A, title X, § 1083, Dec. 12, 2017, 131 Stat. 1602, provided that:
 
 > **“(1) In general.—** By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 12.6 percent of all military technician positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, or section 1601 of title 10, United States Code, and are not military technicians. The positions to be converted are described in paragraph (2).
 
@@ -681,7 +681,7 @@ Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, a
 
 > **“(3) Treatment of incumbents.—** In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.”
 
-## § 10217. Non-dual status technicians
+## § 10217. Non-dual status technicians
 
 **(a) Definition.—** For the purposes of this section and any other provision of law, a non-dual status technician is a civilian employee of the Department of Defense serving in a military technician position who—
 
@@ -733,13 +733,13 @@ Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, a
 
 **(4)** Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall be an individual employed in such position under section 3101 of title 5 or section 1601 of this title.
 
-(Added Pub. L. 105–85, div. A, title V, § 523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, § 523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, § 1 [[div. A], title IV, § 414(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, § 414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, § 415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, § 513, title X, § 1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–239, div. A, title X, § 1076(e)(7), (f)(45), Jan. 2, 2013, 126 Stat. 1951, 1955; Pub. L. 114–92, div. A, title X, § 1053(b)(1), Nov. 25, 2015, 129 Stat. 981; Pub. L. 114–328, div. A, title X, § 1084(b), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 116–92, div. A, title XVII, § 1731(a)(62), Dec. 20, 2019, 133 Stat. 1816.)
+(Added Pub. L. 105–85, div. A, title V, § 523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, § 523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, § 1 [[div. A], title IV, § 414(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, § 414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, § 415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, § 513, title X, § 1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–239, div. A, title X, § 1076(e)(7), (f)(45), Jan. 2, 2013, 126 Stat. 1951, 1955; Pub. L. 114–92, div. A, title X, § 1053(b)(1), Nov. 25, 2015, 129 Stat. 981; Pub. L. 114–328, div. A, title X, § 1084(b), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 116–92, div. A, title XVII, § 1731(a)(62), Dec. 20, 2019, 133 Stat. 1816.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
+Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 **Amendments**
 
@@ -749,17 +749,17 @@ Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 1
 
 2015—Subsec. (e). Pub. L. 114–92 added subsec. (e).
 
-2013—Subsec. (c)(3). Pub. L. 112–239, § 1076(f)(45), substituted “considered” for “consider”.
+2013—Subsec. (c)(3). Pub. L. 112–239, § 1076(f)(45), substituted “considered” for “consider”.
 
-Subsec. (d)(3). Pub. L. 112–239, § 1076(e)(7), substituted “after January 6, 2013” for “after the end of the 2-year period beginning on the date of the enactment of this subsection”.
+Subsec. (d)(3). Pub. L. 112–239, § 1076(e)(7), substituted “after January 6, 2013” for “after the end of the 2-year period beginning on the date of the enactment of this subsection”.
 
-2011—Subsec. (a)(3). Pub. L. 111–383, § 513(a)(1), added par. (3).
+2011—Subsec. (a)(3). Pub. L. 111–383, § 513(a)(1), added par. (3).
 
-Subsec. (c)(1). Pub. L. 111–383, § 1075(b)(53), substituted “The” for “Effective October 1, 2007, the” and struck out “after the preceding sentence takes effect” after “If at any time”.
+Subsec. (c)(1). Pub. L. 111–383, § 1075(b)(53), substituted “The” for “Effective October 1, 2007, the” and struck out “after the preceding sentence takes effect” after “If at any time”.
 
-Subsec. (c)(3). Pub. L. 111–383, § 513(b), added par. (3).
+Subsec. (c)(3). Pub. L. 111–383, § 513(b), added par. (3).
 
-Subsec. (d). Pub. L. 111–383, § 513(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 111–383, § 513(a)(2), added subsec. (d).
 
 2003—Subsec. (c)(1). Pub. L. 108–136 substituted “may not exceed 595 and by the Air Force Reserve may not exceed 90” for “and Air Force Reserve may not exceed 175”.
 
@@ -767,27 +767,27 @@ Subsec. (d). Pub. L. 111–383, § 513(a)(2), added subsec. (d).
 
 2000—Subsec. (c)(2). Pub. L. 106–398 substituted “October 1, 2002” for “October 1, 2001”.
 
-1999—Pub. L. 106–65, § 523(b), struck out “military” after “status” in section catchline.
+1999—Pub. L. 106–65, § 523(b), struck out “military” after “status” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 523(a)(1)(A), struck out “military” after “non-dual status” in introductory provisions.
+Subsec. (a). Pub. L. 106–65, § 523(a)(1)(A), struck out “military” after “non-dual status” in introductory provisions.
 
-Subsec. (a)(1), (2). Pub. L. 106–65, § 523(a)(1)(B), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (a)(1), (2). Pub. L. 106–65, § 523(a)(1)(B), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) was hired as a military technician before the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 under any of the authorities specified in subsection (c); and
 
 “(2) as of the date of the enactment of that Act is not a member of the Selected Reserve or after such date ceased to be a member of the Selected Reserve.”
 
-Subsec. (c). Pub. L. 106–65, § 523(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 106–65, § 523(a)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 525, Oct. 5, 1999, 113 Stat. 600, provided that: “The amendments made by sections 523 and 524 [amending this section and section 709 of Title 32, National Guard] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) [set out below] [plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, p. 21975, Ex. Comm. 4276] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section.”
+Pub. L. 106–65, div. A, title V, § 525, Oct. 5, 1999, 113 Stat. 600, provided that: “The amendments made by sections 523 and 524 [amending this section and section 709 of Title 32, National Guard] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) [set out below] [plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, p. 21975, Ex. Comm. 4276] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section.”
 
 **Plan for Full Utilization of Military Technicians (Dual Status)**
 
-Pub. L. 105–85, div. A, title V, § 523(d), (e), Nov. 18, 1997, 111 Stat. 1737, provided that:
+Pub. L. 105–85, div. A, title V, § 523(d), (e), Nov. 18, 1997, 111 Stat. 1737, provided that:
 
 > **“(d) Plan for Full Utilization of Military Technicians (Dual Status).—**
 
@@ -813,7 +813,7 @@ Pub. L. 105–85, div. A, title V, § 523(d), (e), Nov. 18, 1997, 111 Stat. 17
 
 > **“(2)** The term ‘military technician (dual status)’ has the meaning given the term in section 10216(a) of such title.”
 
-## § 10218. Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws
+## § 10218. Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws
 
 **(a) Separation and Retirement of Military Technicians (Dual Status).—**
 
@@ -877,7 +877,7 @@ Pub. L. 105–85, div. A, title V, § 523(d), (e), Nov. 18, 1997, 111 Stat. 17
 
 **(2)** Promotion to a higher grade if the technician is in a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
 
-(Added Pub. L. 106–65, div. A, title V, § 522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, § 1 [[div. A], title V, § 525(a), title X, § 1087(a)(20)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291; Pub. L. 112–81, div. A, title V, § 514(b), Dec. 31, 2011, 125 Stat. 1394.)
+(Added Pub. L. 106–65, div. A, title V, § 522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, § 1 [[div. A], title V, § 525(a), title X, § 1087(a)(20)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291; Pub. L. 112–81, div. A, title V, § 514(b), Dec. 31, 2011, 125 Stat. 1394.)
 
 **Editorial Notes**
 
@@ -885,37 +885,37 @@ Pub. L. 105–85, div. A, title V, § 523(d), (e), Nov. 18, 1997, 111 Stat. 17
 
 2011—Subsec. (a)(3)(A)(i). Pub. L. 112–81 substituted “if qualified may be appointed” for “if qualified be appointed”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section”.
+2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
-Subsec. (a)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(A)], inserted “and is age 60 or older at that time” after “unreduced annuity”.
+Subsec. (a)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(A)], inserted “and is age 60 or older at that time” after “unreduced annuity”.
 
-Subsec. (a)(3)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(B)], inserted “or is under age 60 at that time” after “unreduced annuity” in introductory provisions.
+Subsec. (a)(3)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(B)], inserted “or is under age 60 at that time” after “unreduced annuity” in introductory provisions.
 
-Subsec. (a)(3)(B)(i). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(B)], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
+Subsec. (a)(3)(B)(i). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(B)], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
 
-Subsec. (a)(3)(B)(ii)(I). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(C)], inserted “and becoming 60 years of age” after “unreduced annuity”.
+Subsec. (a)(3)(B)(ii)(I). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(1)(C)], inserted “and becoming 60 years of age” after “unreduced annuity”.
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A), (C)], substituted “October 5, 1999,” for “the date of the enactment of this section” and “April 5, 2000” for “six months after the date of the enactment of this section”.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A), (C)], substituted “October 5, 1999,” for “the date of the enactment of this section” and “April 5, 2000” for “six months after the date of the enactment of this section”.
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(A)], inserted “and is age 60 or older” after “unreduced annuity”.
+Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(A)], inserted “and is age 60 or older” after “unreduced annuity”.
 
-Subsec. (b)(2)(A). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section” in introductory provisions.
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(B)], inserted “or is under age 60” after “unreduced annuity” in introductory provisions.
+Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(B)], inserted “or is under age 60” after “unreduced annuity” in introductory provisions.
 
-Subsec. (b)(2)(B)(i). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(B)], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
+Subsec. (b)(2)(B)(i). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(B)], substituted “October 5, 2000” for “the end of the one-year period beginning on the date of the enactment of this subsection”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section” in subcls. (I) and (II).
+Subsec. (b)(2)(B)(ii). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(A)], substituted “October 5, 1999,” for “the date of the enactment of this section” in subcls. (I) and (II).
 
-Subsec. (b)(2)(B)(ii)(I). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(C)], inserted “and becoming 60 years of age” after “unreduced annuity”.
+Subsec. (b)(2)(B)(ii)(I). Pub. L. 106–398, § 1 [[div. A], title V, § 525(a)(2)(C)], inserted “and becoming 60 years of age” after “unreduced annuity”.
 
-Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(D)], substituted “during the period beginning on October 5, 1999, and ending on April 5, 2000,” for “within six months of the date of the enactment of this section”.
+Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(20)(D)], substituted “during the period beginning on October 5, 1999, and ending on April 5, 2000,” for “within six months of the date of the enactment of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition Provision**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 525(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109, as amended by Pub. L. 107–107, div. A, title X, § 1048(f)(1), Dec. 28, 2001, 115 Stat. 1228, provided that:
+Pub. L. 106–398, § 1 [[div. A], title V, § 525(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109, as amended by Pub. L. 107–107, div. A, title X, § 1048(f)(1), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 > **“(1)** An individual who before the date of the enactment of this Act [Oct. 30, 2000] was involuntarily separated or retired from employment as an Army Reserve or Air Force Reserve technician under section 10218 of title 10, United States Code, and who would not have been so separated if the provisions of subsections (a) and (b) of that section, as amended by subsection (a), had been in effect at the time of such separation may, with the approval of the Secretary concerned, be reinstated to the technician status held by that individual immediately before that separation. The effective date of any such reinstatement is the date the employee resumes technician status.
 
@@ -923,9 +923,9 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 525(b)], Oct. 30, 2000, 114 S
 
 **Temporary Provision for Extension of Time for Separation or Retirement**
 
-Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act [Oct. 5, 1999], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
+Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act [Oct. 5, 1999], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
 
-## § 10219. Suicide prevention and resilience program
+## § 10219. Suicide prevention and resilience program
 
 **(a) Program Requirement.—** The Secretary of Defense shall establish and carry out a program to provide members of the National Guard and Reserves and their families with training in suicide prevention, resilience, and community healing and response to suicide, including provision of such training at Yellow Ribbon Reintegration Program events and activities authorized under section 582 of the National Defense Authorization Act for Fiscal Year 2008 (10 U.S.C. 10101 note).
 
@@ -967,7 +967,7 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, 
 
 **(2)** implements subsection (e).
 
-(Added Pub. L. 112–239, div. A, title V, § 581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, § 511(a), Dec. 26, 2013, 127 Stat. 751; Pub. L. 114–328, div. A, title V, § 565, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, § 544, Dec. 12, 2017, 131 Stat. 1396; Pub. L. 116–92, div. A, title V, § 515, Dec. 20, 2019, 133 Stat. 1349; Pub. L. 116–283, div. A, title V, § 514, Jan. 1, 2021, 134 Stat. 3588.)
+(Added Pub. L. 112–239, div. A, title V, § 581(a)(1), Jan. 2, 2013, 126 Stat. 1764; amended Pub. L. 113–66, div. A, title V, § 511(a), Dec. 26, 2013, 127 Stat. 751; Pub. L. 114–328, div. A, title V, § 565, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, § 544, Dec. 12, 2017, 131 Stat. 1396; Pub. L. 116–92, div. A, title V, § 515, Dec. 20, 2019, 133 Stat. 1349; Pub. L. 116–283, div. A, title V, § 514, Jan. 1, 2021, 134 Stat. 3588.)
 
 **Editorial Notes**
 
@@ -981,7 +981,7 @@ Section 582 of the National Defense Authorization Act for Fiscal Year 2008, refe
 
 2019—Subsec. (g). Pub. L. 116–92 added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 116–92, § 515(1), (2), redesignated subsec. (g) as (h) and substituted “2025” for “2020”.
+Subsec. (h). Pub. L. 116–92, § 515(1), (2), redesignated subsec. (g) as (h) and substituted “2025” for “2020”.
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “October 1, 2020” for “October 1, 2018”.
 
@@ -993,7 +993,7 @@ Subsec. (h). Pub. L. 116–92, § 515(1), (2), redesignated subsec. (g) as (h)
 
 **National Guard Suicide Prevention Pilot Program**
 
-Pub. L. 116–92, div. A, title VII, § 739, Dec. 20, 2019, 133 Stat. 1464, provided that:
+Pub. L. 116–92, div. A, title VII, § 739, Dec. 20, 2019, 133 Stat. 1464, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Chief of the National Guard Bureau may carry out a pilot program to expand suicide prevention and intervention efforts at the community level through the use of a mobile application that provides the capability for a member of the National Guard to receive prompt support, including access to a behavioral health professional, on a smartphone, tablet computer, or other handheld mobile device.
 

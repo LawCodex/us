@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 42—INTERSTATE LAND SALES
 
-## § 1701. Definitions
+## § 1701. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -43,15 +43,15 @@ For the purposes of this chapter, the term—
 
 **(12)** “Bureau” means the Bureau of Consumer Financial Protection.
 
-(Pub. L. 90–448, title XIV, § 1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, § 812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, § 401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, § 1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, § 1098A(4), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, § 812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, § 401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, § 1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, § 1098A(4), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (1). Pub. L. 111–203, § 1098A(4)(A), added par. (1) and struck out former par. (1) which read as follows: “ ‘Secretary’ means the Secretary of Housing and Urban Development;”.
+2010—Par. (1). Pub. L. 111–203, § 1098A(4)(A), added par. (1) and struck out former par. (1) which read as follows: “ ‘Secretary’ means the Secretary of Housing and Urban Development;”.
 
-Par. (12). Pub. L. 111–203, § 1098A(4)(B)–(D), added par. (12).
+Par. (12). Pub. L. 111–203, § 1098A(4)(B)–(D), added par. (12).
 
 1988—Par. (10). Pub. L. 100–628 inserted “and” after semicolon.
 
@@ -59,9 +59,9 @@ Par. (12). Pub. L. 111–203, § 1098A(4)(B)–(D), added par. (12).
 
 Pars. (4) to (11). Pub. L. 96–153 added par. (4) and redesignated former pars. (4) to (10) as (5) to (11), respectively.
 
-1974—Par. (3). Pub. L. 93–383, § 812(a)(1), inserted “, located in any State or in a foreign country” after “any land”.
+1974—Par. (3). Pub. L. 93–383, § 812(a)(1), inserted “, located in any State or in a foreign country” after “any land”.
 
-Par. (7). Pub. L. 93–383, § 812(a)(2), inserted “or between any foreign country and any State” after “States”.
+Par. (7). Pub. L. 93–383, § 812(a)(2), inserted “or between any foreign country and any State” after “States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -71,17 +71,17 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–153, title IV, § 410, Dec. 21, 1979, 93 Stat. 1132, provided that: “The amendments made by this title [enacting section 1719a of this title and amending this section and sections 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of this title] shall become effective on the effective date of regulations implementing such amendments, but in no case later than six months following the date of enactment of this Act [Dec. 21, 1979], except that section 1403(b)(7) of the Interstate Land Sales Full Disclosure Act [section 1702(b)(7) of this title], contained in the amendment made by section 402, shall become effective on the date of enactment.”
+Pub. L. 96–153, title IV, § 410, Dec. 21, 1979, 93 Stat. 1132, provided that: “The amendments made by this title [enacting section 1719a of this title and amending this section and sections 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of this title] shall become effective on the effective date of regulations implementing such amendments, but in no case later than six months following the date of enactment of this Act [Dec. 21, 1979], except that section 1403(b)(7) of the Interstate Land Sales Full Disclosure Act [section 1702(b)(7) of this title], contained in the amendment made by section 402, shall become effective on the date of enactment.”
 
 **Effective Date**
 
-Pub. L. 90–448, title XIV, § 1423, formerly § 1422, Aug. 1, 1968, 82 Stat. 599, as renumbered by Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132, provided that: “This title [enacting this chapter] shall take effect upon the expiration of two hundred and seventy days after the date of its enactment [Aug. 1, 1968].”
+Pub. L. 90–448, title XIV, § 1423, formerly § 1422, Aug. 1, 1968, 82 Stat. 599, as renumbered by Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132, provided that: “This title [enacting this chapter] shall take effect upon the expiration of two hundred and seventy days after the date of its enactment [Aug. 1, 1968].”
 
 **Short Title**
 
-Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that: “This title [enacting this chapter] may be cited as the ‘Interstate Land Sales Full Disclosure Act’.”
+Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that: “This title [enacting this chapter] may be cited as the ‘Interstate Land Sales Full Disclosure Act’.”
 
-## § 1702. Exemptions
+## § 1702. Exemptions
 
 **(a) Sale or lease of lots generally** Unless the method of disposition is adopted for the purpose of evasion of this chapter, the provisions of this chapter shall not apply to—
 
@@ -195,7 +195,7 @@ The Director may from time to time, pursuant to rules and regulations issued by 
 
 **(2)** the unit will be an improved lot.
 
-(Pub. L. 90–448, title XIV, § 1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, § 411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, § 812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, § 907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, § 402, Dec. 21, 1979, 93 Stat. 1123; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105; Pub. L. 113–167, § 1(a), Sept. 26, 2014, 128 Stat. 1882.)
+(Pub. L. 90–448, title XIV, § 1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, § 411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, § 812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, § 907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, § 402, Dec. 21, 1979, 93 Stat. 1123; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105; Pub. L. 113–167, § 1(a), Sept. 26, 2014, 128 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -205,9 +205,9 @@ The effective date of this subsection, referred to in subsec. (b)(2), probably m
 
 **Amendments**
 
-2014—Subsec. (b)(9). Pub. L. 113–167, § 1(a)(1), added par. (9).
+2014—Subsec. (b)(9). Pub. L. 113–167, § 1(a)(1), added par. (9).
 
-Subsec. (d). Pub. L. 113–167, § 1(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 113–167, § 1(a)(2), added subsec. (d).
 
 2010—Subsecs. (b)(2), (8)(B), (G), (c). Pub. L. 111–203 substituted “Director” for “Secretary”.
 
@@ -215,13 +215,13 @@ Subsec. (d). Pub. L. 113–167, § 1(a)(2), added subsec. (d).
 
 Subsec. (b). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (7) into pars. (1) to (8) and, as so revised, substituted provisions setting forth criteria respecting sale or lease of lots subject to other statutory registration and disclosure requirements, for provisions setting forth criteria respecting sale or lease of lots in municipality or county with minimum standards.
 
-1978—Subsec. (a)(3). Pub. L. 95–557, § 907(a)(1), inserted “condominium” after “commercial”.
+1978—Subsec. (a)(3). Pub. L. 95–557, § 907(a)(1), inserted “condominium” after “commercial”.
 
-Subsec. (a)(10). Pub. L. 95–557, § 907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
+Subsec. (a)(10). Pub. L. 95–557, § 907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
 
-Subsec. (a)(11). Pub. L. 95–557, § 907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
+Subsec. (a)(11). Pub. L. 95–557, § 907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
 
-Subsecs. (b), (c). Pub. L. 95–557, § 907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 95–557, § 907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1974—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
@@ -231,7 +231,7 @@ Subsecs. (b), (c). Pub. L. 95–557, § 907(b)(1), (2), added subsec. (b) and 
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–167, § 2, Sept. 26, 2014, 128 Stat. 1882, provided that: “The amendments made by this Act [amending this section] shall take effect 180 days after the date of the enactment of this Act [Sept. 26, 2014].”
+Pub. L. 113–167, § 2, Sept. 26, 2014, 128 Stat. 1882, provided that: “The amendments made by this Act [amending this section] shall take effect 180 days after the date of the enactment of this Act [Sept. 26, 2014].”
 
 **Effective Date of 2010 Amendment**
 
@@ -245,7 +245,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1703. Requirements respecting sale or lease of lots
+## § 1703. Requirements respecting sale or lease of lots
 
 **(a) Prohibited activities** It shall be unlawful for any developer or agent, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce, or of the mails—
 
@@ -291,7 +291,7 @@ may be revoked at the option of the purchaser or lessee for two years from the d
 
 If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
-(Pub. L. 90–448, title XIV, § 1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, § 812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, § 403, Dec. 21, 1979, 93 Stat. 1127.)
+(Pub. L. 90–448, title XIV, § 1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, § 812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, § 403, Dec. 21, 1979, 93 Stat. 1127.)
 
 **Editorial Notes**
 
@@ -313,13 +313,13 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–383, title VIII, § 812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective sixty days after the date of the enactment of this Act [Aug. 22, 1974].”
+Pub. L. 93–383, title VIII, § 812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective sixty days after the date of the enactment of this Act [Aug. 22, 1974].”
 
 **Effective Date**
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1704. Registration of subdivisions
+## § 1704. Registration of subdivisions
 
 **(a) Filing of statement of record**
 
@@ -337,7 +337,7 @@ The filing with the Director of a statement of record, or of an amendment theret
 
 The information contained in or filed with any statement of record shall be made available to the public under such regulations as the Director may prescribe and copies thereof shall be furnished to every applicant at such reasonable charge as the Director may prescribe.
 
-(Pub. L. 90–448, title XIV, § 1405, Aug. 1, 1968, 82 Stat. 592; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1405, Aug. 1, 1968, 82 Stat. 592; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -355,7 +355,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1705. Information required in statement of record
+## § 1705. Information required in statement of record
 
 The statement of record shall contain the information and be accompanied by the documents specified hereinafter in this section—
 
@@ -385,7 +385,7 @@ The statement of record shall contain the information and be accompanied by the 
 
 **(12)** such other information and such other documents and certifications as the Director may require as being reasonably necessary or appropriate for the protection of purchasers.
 
-(Pub. L. 90–448, title XIV, § 1406, Aug. 1, 1968, 82 Stat. 592; Pub. L. 91–609, title IX, § 909, Dec. 31, 1970, 84 Stat. 1811; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1406, Aug. 1, 1968, 82 Stat. 592; Pub. L. 91–609, title IX, § 909, Dec. 31, 1970, 84 Stat. 1811; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -405,7 +405,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1706. Effective date of statements of record and amendments thereto
+## § 1706. Effective date of statements of record and amendments thereto
 
 **(a) Thirtieth day after filing or such earlier date as determined by Director; consolidation of subsequent statement with earlier recording**
 
@@ -431,7 +431,7 @@ The Director is hereby empowered to make an examination in any case to determine
 
 Any notice required under this section shall be sent to or served on the developer or his authorized agent.
 
-(Pub. L. 90–448, title XIV, § 1407, Aug. 1, 1968, 82 Stat. 593; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1407, Aug. 1, 1968, 82 Stat. 593; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1707. Property report
+## § 1707. Property report
 
 **(a) Contents of report**
 
@@ -459,7 +459,7 @@ A property report relating to the lots in a subdivision shall contain such of th
 
 The property report shall not be used for any promotional purposes before the statement of record becomes effective and then only if it is used in its entirety. No person may advertise or represent that the Director approves or recommends the subdivision or the sale or lease of lots therein. No portion of the property report shall be underscored, italicized, or printed in larger or bolder type than the balance of the statement unless the Director requires or permits it.
 
-(Pub. L. 90–448, title XIV, § 1408, Aug. 1, 1968, 82 Stat. 594; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1408, Aug. 1, 1968, 82 Stat. 594; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -477,7 +477,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1708. Certification of substantially equivalent State law
+## § 1708. Certification of substantially equivalent State law
 
 **(a) Criteria; request by State**
 
@@ -511,7 +511,7 @@ The Director shall periodically review the laws and regulations, and the adminis
 
 Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Director shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
-(Pub. L. 90–448, title XIV, § 1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, § 404, Dec. 21, 1979, 93 Stat. 1129; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, § 404, Dec. 21, 1979, 93 Stat. 1129; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -539,7 +539,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1709. Civil liabilities
+## § 1709. Civil liabilities
 
 **(a) Violations; relief recoverable**
 
@@ -557,7 +557,7 @@ The amount recoverable in a suit authorized by this section may include, in addi
 
 Every person who becomes liable to make any payment under this section may recover contribution as in cases of contract from any person who, if sued separately, would have been liable to make the same payment.
 
-(Pub. L. 90–448, title XIV, § 1410, Aug. 1, 1968, 82 Stat. 595; Pub. L. 96–153, title IV, § 405, Dec. 21, 1979, 93 Stat. 1130.)
+(Pub. L. 90–448, title XIV, § 1410, Aug. 1, 1968, 82 Stat. 595; Pub. L. 96–153, title IV, § 405, Dec. 21, 1979, 93 Stat. 1130.)
 
 **Editorial Notes**
 
@@ -583,7 +583,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1710. Court review of orders
+## § 1710. Court review of orders
 
 **(a) Petition; jurisdiction; findings of Director; additional evidence; finality**
 
@@ -591,13 +591,13 @@ Any person, aggrieved by an order or determination of the Director issued after 
 
 **(b) Stay of order**
 
-The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s 1
+The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Director’s”.
+<sup>1</sup> So in original. Probably should be “Director’s”.
 
 order.
 
-(Pub. L. 90–448, title XIV, § 1411, Aug. 1, 1968, 82 Stat. 595; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1411, Aug. 1, 1968, 82 Stat. 595; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -615,7 +615,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1711. Limitation of actions
+## § 1711. Limitation of actions
 
 **(a) Section 1703(a) violations** No action shall be maintained under section 1709 of this title with respect to—
 
@@ -627,7 +627,7 @@ Section effective upon the expiration of two hundred and seventy days after Aug.
 
 No action shall be maintained under section 1709 of this title to enforce a right created under subsection (b), (c), (d), or (e) of section 1703 of this title unless brought within three years after the signing of the contract or lease, notwithstanding delivery of a deed to a purchaser.
 
-(Pub. L. 90–448, title XIV, § 1412, Aug. 1, 1968, 82 Stat. 596; Pub. L. 96–153, title IV, § 406, Dec. 21, 1979, 93 Stat. 1131.)
+(Pub. L. 90–448, title XIV, § 1412, Aug. 1, 1968, 82 Stat. 596; Pub. L. 96–153, title IV, § 406, Dec. 21, 1979, 93 Stat. 1131.)
 
 **Editorial Notes**
 
@@ -645,11 +645,11 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1712. Contrary stipulations void
+## § 1712. Contrary stipulations void
 
 Any condition, stipulation, or provision binding any person acquiring any lot in a subdivision to waive compliance with any provision of this chapter or of the rules and regulations of the Director shall be void.
 
-(Pub. L. 90–448, title XIV, § 1413, Aug. 1, 1968, 82 Stat. 596; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1413, Aug. 1, 1968, 82 Stat. 596; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -667,11 +667,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1713. Additional remedies
+## § 1713. Additional remedies
 
 The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
 
-(Pub. L. 90–448, title XIV, § 1414, Aug. 1, 1968, 82 Stat. 596.)
+(Pub. L. 90–448, title XIV, § 1414, Aug. 1, 1968, 82 Stat. 596.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ The rights and remedies provided by this chapter shall be in addition to any and
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1714. Investigations, injunctions, and prosecution of offenses
+## § 1714. Investigations, injunctions, and prosecution of offenses
 
 **(a) Permanent or temporary injunction or restraining order; jurisdiction**
 
@@ -697,7 +697,7 @@ For the purpose of any such investigation, or any other proceeding under this ch
 
 In case of contumacy by, or refusal to obey a subpena issued to, any person, the Director may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memorandums, and other records and documents. And such court may issue an order requiring such person to appear before the Director or any officer designated by the Director, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.
 
-(Pub. L. 90–448, title XIV, § 1415, Aug. 1, 1968, 82 Stat. 596; Pub. L. 91–452, title II, § 220, Oct. 15, 1970, 84 Stat. 929; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1415, Aug. 1, 1968, 82 Stat. 596; Pub. L. 91–452, title II, § 220, Oct. 15, 1970, 84 Stat. 929; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -721,7 +721,7 @@ For effective date of amendment by Pub. L. 91–452, and for amendment not to af
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1715. Administration
+## § 1715. Administration
 
 **(a) Delegation of functions, duties, and powers; scope of delegations; appointment, etc., of delegates; right of appeal**
 
@@ -735,19 +735,19 @@ All hearings shall be public and appropriate records thereof shall be kept, and 
 
 The Director shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
 
-(Pub. L. 90–448, title XIV, § 1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, § 2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, § 407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, § 202(d), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 111–203, title X, § 1098A(1)–(3), (5), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, § 2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, § 407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, § 202(d), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 111–203, title X, § 1098A(1)–(3), (5), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1098A(1), substituted “Director” for “Secretary” wherever appearing.
+2010—Pub. L. 111–203, § 1098A(1), substituted “Director” for “Secretary” wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, § 1098A(5), substituted “Director of the Bureau of Consumer Financial Protection” for “Secretary of Housing and Urban Development”.
+Subsec. (a). Pub. L. 111–203, § 1098A(5), substituted “Director of the Bureau of Consumer Financial Protection” for “Secretary of Housing and Urban Development”.
 
-Pub. L. 111–203, § 1098A(3), substituted “in the Bureau” for “in the Department” in two places.
+Pub. L. 111–203, § 1098A(3), substituted “in the Bureau” for “in the Department” in two places.
 
-Pub. L. 111–203, § 1098A(2), substituted “Bureau of Consumer Financial Protection or” for “Department of Housing and Urban Development or”.
+Pub. L. 111–203, § 1098A(2), substituted “Bureau of Consumer Financial Protection or” for “Department of Housing and Urban Development or”.
 
 1984—Subsec. (b). Pub. L. 98–479 substituted “subchapter II of chapter 5, and chapter 7, of title 5” for “the Administrative Procedure Act”.
 
@@ -775,11 +775,11 @@ Amendment by Pub. L. 95–454 effective on first day of first applicable pay per
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1716. Unlawful representations
+## § 1716. Unlawful representations
 
 The fact that a statement of record with respect to a subdivision has been filed or is in effect shall not be deemed a finding by the Director that the statement of record is true and accurate on its face, or be held to mean the Director has in any way passed upon the merits of, or given approval to, such subdivision. It shall be unlawful to make, or cause to be made, to any prospective purchaser any representation contrary to the foregoing.
 
-(Pub. L. 90–448, title XIV, § 1417, Aug. 1, 1968, 82 Stat. 598; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1417, Aug. 1, 1968, 82 Stat. 598; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -797,11 +797,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1717. Penalties for violations
+## § 1717. Penalties for violations
 
 Any person who willfully violates any of the provisions of this chapter, or the rules and regulations prescribed pursuant thereto, or any person who willfully, in a statement of record filed under, or in a property report issued pursuant to, this chapter, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein, shall upon conviction be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-(Pub. L. 90–448, title XIV, § 1418, Aug. 1, 1968, 82 Stat. 598; Pub. L. 96–153, title IV, § 408, Dec. 21, 1979, 93 Stat. 1132.)
+(Pub. L. 90–448, title XIV, § 1418, Aug. 1, 1968, 82 Stat. 598; Pub. L. 96–153, title IV, § 408, Dec. 21, 1979, 93 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -819,7 +819,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1717a. Civil money penalties
+## § 1717a. Civil money penalties
 
 **(a) In general**
 
@@ -849,9 +849,9 @@ In determining the amount of a penalty under subsection (a), consideration shall
 
 **(4) Reviewability of imposition of penalty**
 
-The Secretary’s 1
+The Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Director’s”.
+<sup>1</sup> So in original. Probably should be “Director’s”.
 
 determination or order imposing a penalty under subsection (a) shall not be subject to review, except as provided in subsection (c).
 
@@ -867,7 +867,7 @@ Notwithstanding any other provision of law, in any such review, the court shall 
 
 **(d) Action to collect penalty**
 
-If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (b) and (c), the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (b) and (c), the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
 
 **(e) Settlement by Director**
 
@@ -885,7 +885,7 @@ The Director shall issue such regulations as the Director deems appropriate to i
 
 Civil money penalties collected under this section shall be paid to the Director and, upon approval in an appropriation Act, may be used by the Director to cover all or part of the cost of rendering services under this chapter.
 
-(Pub. L. 90–448, title XIV, § 1418a, as added Pub. L. 101–235, title I, § 111(a), Dec. 15, 1989, 103 Stat. 2014; amended Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1418a, as added Pub. L. 101–235, title I, § 111(a), Dec. 15, 1989, 103 Stat. 2014; amended Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -901,7 +901,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date**
 
-Pub. L. 101–235, title I, § 111(b), Dec. 15, 1989, 103 Stat. 2016, provided that:
+Pub. L. 101–235, title I, § 111(b), Dec. 15, 1989, 103 Stat. 2016, provided that:
 
 > “The amendment made by subsection (a) [enacting this section] shall apply only with respect to—
 
@@ -909,11 +909,11 @@ Pub. L. 101–235, title I, § 111(b), Dec. 15, 1989, 103 Stat. 2016, provided
 
 > **“(2)** in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of violation referred to in the amendment that occurs on or after such date.”
 
-## § 1718. Rules, regulations, and orders
+## § 1718. Rules, regulations, and orders
 
 The Director shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon him elsewhere in this chapter. For the purpose of his rules and regulations, the Director may classify persons and matters within his jurisdiction and prescribe different requirements for different classes of persons or matters.
 
-(Pub. L. 90–448, title XIV, § 1419, Aug. 1, 1968, 82 Stat. 598; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1419, Aug. 1, 1968, 82 Stat. 598; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -931,11 +931,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1719. Jurisdiction of offenses and suits
+## § 1719. Jurisdiction of offenses and suits
 
 The district courts of the United States, the United States courts of any territory, and the United States District Court for the District of Columbia shall have jurisdiction of offenses and violations under this chapter and under the rules and regulations prescribed by the Director pursuant thereto, and concurrent with State courts, of all suits in equity and actions at law brought to enforce any liability or duty created by this chapter. Any such suit or action may be brought to enforce any liability or duty created by this chapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254 and 1291 of title 28. No case arising under this chapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States, except where the United States or any officer or employee of the United States in his official capacity is a party. No costs shall be assessed for or against the Director in any proceeding under this chapter brought by or against him in the Supreme Court or such other courts.
 
-(Pub. L. 90–448, title XIV, § 1420, Aug. 1, 1968, 82 Stat. 598; Pub. L. 100–628, title X, § 1089(b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 90–448, title XIV, § 1420, Aug. 1, 1968, 82 Stat. 598; Pub. L. 100–628, title X, § 1089(b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, § 1098A(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -955,15 +955,15 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 
-## § 1719a. Repealed. Pub. L. 104–66, title I, § 1071(c), Dec. 21, 1995, 109 Stat. 720
+## § 1719a. Repealed. Pub. L. 104–66, title I, § 1071(c), Dec. 21, 1995, 109 Stat. 720
 
-Section, Pub. L. 90–448, title XIV, § 1421, as added Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132, directed Secretary to submit to Congress biennial reports on administration of this chapter and its impact upon land development industry and purchasers and lessees of undeveloped land.
+Section, Pub. L. 90–448, title XIV, § 1421, as added Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132, directed Secretary to submit to Congress biennial reports on administration of this chapter and its impact upon land development industry and purchasers and lessees of undeveloped land.
 
-## § 1720. Authorization of appropriations
+## § 1720. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 90–448, title XIV, § 1422, formerly § 1421, Aug. 1, 1968, 82 Stat. 599; renumbered § 1422, Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132.)
+(Pub. L. 90–448, title XIV, § 1422, formerly § 1421, Aug. 1, 1968, 82 Stat. 599; renumbered § 1422, Pub. L. 96–153, title IV, § 409, Dec. 21, 1979, 93 Stat. 1132.)
 
 **Statutory Notes and Related Subsidiaries**
 

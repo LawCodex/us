@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—HOBBY PROTECTION
 
-## § 2101. Marking requirements
+## § 2101. Marking requirements
 
 **(a) Political items**
 
@@ -35,43 +35,43 @@ It shall be a violation of subsection (a) or (b) for a person to provide substan
 
 **(e) Exemption**
 
-Subsections (a) 1
+Subsections (a) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 (b), and (d), and regulations under subsection (c), shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
-(Pub. L. 93–167, § 2, Nov. 29, 1973, 87 Stat. 686; Pub. L. 113–288, § 2(1), Dec. 19, 2014, 128 Stat. 3281.)
+(Pub. L. 93–167, § 2, Nov. 29, 1973, 87 Stat. 686; Pub. L. 113–288, § 2(1), Dec. 19, 2014, 128 Stat. 3281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–288, § 2(1)(A), inserted “, or the sale in commerce” after “distribution in commerce”.
+2014—Subsec. (b). Pub. L. 113–288, § 2(1)(A), inserted “, or the sale in commerce” after “distribution in commerce”.
 
-Subsec. (d). Pub. L. 113–288, § 2(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 113–288, § 2(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 113–288, § 2(1)(B), (C), redesignated subsec. (d) as (e) and substituted “(b), and (d)” for “and (b)”.
+Subsec. (e). Pub. L. 113–288, § 2(1)(B), (C), redesignated subsec. (d) as (e) and substituted “(b), and (d)” for “and (b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 93–167, § 8, Nov. 29, 1973, 87 Stat. 687, provided that: “This Act [enacting this chapter] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act [Nov. 29, 1973].”
+Pub. L. 93–167, § 8, Nov. 29, 1973, 87 Stat. 687, provided that: “This Act [enacting this chapter] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act [Nov. 29, 1973].”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–288, § 1, Dec. 19, 2014, 128 Stat. 3281, provided that: “This Act [amending this section and sections 2102 and 2106 of this title] may be cited as the ‘Collectible Coin Protection Act’.”
+Pub. L. 113–288, § 1, Dec. 19, 2014, 128 Stat. 3281, provided that: “This Act [amending this section and sections 2102 and 2106 of this title] may be cited as the ‘Collectible Coin Protection Act’.”
 
 **Short Title**
 
-Pub. L. 93–167, § 1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act [enacting this chapter] may be cited as the ‘Hobby Protection Act’.”
+Pub. L. 93–167, § 1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act [enacting this chapter] may be cited as the ‘Hobby Protection Act’.”
 
-## § 2102. Private enforcement
+## § 2102. Private enforcement
 
 **(a) In general**
 
@@ -81,17 +81,17 @@ If any person violates section 2101(a) or (b) of this title or a rule under sect
 
 If the violation of section 2101(a) or (b) of this title or a rule under section 2101(c) of this title also involves unauthorized use of registered trademarks belonging to a collectibles certification service, the owner of such trademarks shall have, in addition to the remedies provided in subsection (a), all rights provided under sections 34, 35, and 36 of the Trademark Act of 1946 (15 U.S.C. 1116, 1117, and 1118) for violations of such Act.
 
-(Pub. L. 93–167, § 3, Nov. 29, 1973, 87 Stat. 686; Pub. L. 113–288, § 2(2), Dec. 19, 2014, 128 Stat. 3281.)
+(Pub. L. 93–167, § 3, Nov. 29, 1973, 87 Stat. 686; Pub. L. 113–288, § 2(2), Dec. 19, 2014, 128 Stat. 3281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
+The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
 
 **Amendments**
 
-2014—Pub. L. 113–288 designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under section 1391 of title 28” for “or has an agent”, and added subsec. (b).
+2014—Pub. L. 113–288 designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under section 1391 of title 28” for “or has an agent”, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,7 +99,7 @@ The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 
 
 Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
 
-## § 2103. Enforcement by Federal Trade Commission
+## § 2103. Enforcement by Federal Trade Commission
 
 **(a) Statutory authority**
 
@@ -109,13 +109,13 @@ Except as provided in section 2102 of this title, this chapter shall be enforced
 
 The Commission shall prevent any person from violating the provisions of this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act [15 U.S.C. 41 et seq.] were incorporated into and made a part of this chapter; and any such person violating the provisions of this chapter shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act, in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though the applicable terms and provisions of the said Federal Trade Commission Act were incorporated into and made a part of this chapter.
 
-(Pub. L. 93–167, § 4, Nov. 29, 1973, 87 Stat. 686.)
+(Pub. L. 93–167, § 4, Nov. 29, 1973, 87 Stat. 686.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -123,11 +123,11 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
 
-## § 2104. Imports
+## § 2104. Imports
 
 Any item imported into the United States in violation of section 2101(a) or (b) of this title or regulations under section 2101(c) of this title shall be subject to seizure and forfeiture under the customs laws.
 
-(Pub. L. 93–167, § 5, Nov. 29, 1973, 87 Stat. 687.)
+(Pub. L. 93–167, § 5, Nov. 29, 1973, 87 Stat. 687.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,11 +135,11 @@ Any item imported into the United States in violation of section 2101(a) or (b) 
 
 Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
 
-## § 2105. Application of other laws
+## § 2105. Application of other laws
 
 The provisions of this chapter are in addition to, and not in substitution for or limitation of, the provisions of any other law of the United States or of the law of any State.
 
-(Pub. L. 93–167, § 6, Nov. 29, 1973, 87 Stat. 687.)
+(Pub. L. 93–167, § 6, Nov. 29, 1973, 87 Stat. 687.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,7 +147,7 @@ The provisions of this chapter are in addition to, and not in substitution for o
 
 Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
 
-## § 2106. Definitions
+## § 2106. Definitions
 
 For purposes of this chapter:
 
@@ -169,15 +169,15 @@ For purposes of this chapter:
 
 **(9)** The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
 
-(Pub. L. 93–167, § 7, Nov. 29, 1973, 87 Stat. 687; Pub. L. 113–288, § 2(3), Dec. 19, 2014, 128 Stat. 3281.)
+(Pub. L. 93–167, § 7, Nov. 29, 1973, 87 Stat. 687; Pub. L. 113–288, § 2(3), Dec. 19, 2014, 128 Stat. 3281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
+The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
 
 **Amendments**
 

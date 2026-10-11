@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS
 
-### § 4701. Findings and purposes
+### § 4701. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 The purpose of this subchapter is to create a Community Development Financial Institutions Fund to promote economic revitalization and community development through investment in and assistance to community development financial institutions, including enhancing the liquidity of community development financial institutions.
 
-(Pub. L. 103–325, title I, § 102, Sept. 23, 1994, 108 Stat. 2163.)
+(Pub. L. 103–325, title I, § 102, Sept. 23, 1994, 108 Stat. 2163.)
 
 **Editorial Notes**
 
@@ -43,11 +43,11 @@ This subchapter, referred to in subsec. (b), was in original “this subtitle”
 
 **Short Title**
 
-Pub. L. 103–325, § 1(a), Sept. 23, 1994, 108 Stat. 2160, provided that: “This Act [see Tables for classification] may be cited as the ‘Riegle Community Development and Regulatory Improvement Act of 1994’.”
+Pub. L. 103–325, § 1(a), Sept. 23, 1994, 108 Stat. 2160, provided that: “This Act [see Tables for classification] may be cited as the ‘Riegle Community Development and Regulatory Improvement Act of 1994’.”
 
-Pub. L. 103–325, title I, § 101, Sept. 23, 1994, 108 Stat. 2163, provided that: “This subtitle [subtitle A (§§ 101–121) of title I of Pub. L. 103–325, enacting this subchapter and section 1772c–1 of this title, amending sections 1766 and 1834a of this title, section 5313 of Title 5, Government Organization and Employees, section 11 of Pub. L. 95–452 set out in the Appendix to Title 5, section 657 of Title 18, Crimes and Criminal Procedure, and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 11 of Pub. L. 95–452 set out in the Appendix to Title 5] may be cited as the ‘Community Development Banking and Financial Institutions Act of 1994’.”
+Pub. L. 103–325, title I, § 101, Sept. 23, 1994, 108 Stat. 2163, provided that: “This subtitle [subtitle A (§§ 101–121) of title I of Pub. L. 103–325, enacting this subchapter and section 1772c–1 of this title, amending sections 1766 and 1834a of this title, section 5313 of Title 5, Government Organization and Employees, section 11 of Pub. L. 95–452 set out in the Appendix to Title 5, section 657 of Title 18, Crimes and Criminal Procedure, and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 11 of Pub. L. 95–452 set out in the Appendix to Title 5] may be cited as the ‘Community Development Banking and Financial Institutions Act of 1994’.”
 
-### § 4702. Definitions
+### § 4702. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -177,17 +177,17 @@ The term “subsidiary” has the same meaning as in section 1813 of this title,
 
 The term “training program” means the training program operated by the Fund under section 4708 of this title.
 
-(Pub. L. 103–325, title I, § 103, Sept. 23, 1994, 108 Stat. 2163.)
+(Pub. L. 103–325, title I, § 103, Sept. 23, 1994, 108 Stat. 2163.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Investment Act of 1958, referred to in par. (6), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in par. (6), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-### § 4703. Establishment of national Fund for community development banking
+### § 4703. Establishment of national Fund for community development banking
 
 **(a) Establishment**
 
@@ -353,7 +353,7 @@ Amounts previously appropriated to the Department of the Treasury may be used to
 
 For purposes of this subsection, the term “transition period” means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
 
-(Pub. L. 103–325, title I, § 104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, § 2(w), Aug. 10, 2012, 126 Stat. 1289; Pub. L. 117–286, § 4(a)(57), Dec. 27, 2022, 136 Stat. 4311.)
+(Pub. L. 103–325, title I, § 104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, § 2(w), Aug. 10, 2012, 126 Stat. 1289; Pub. L. 117–286, § 4(a)(57), Dec. 27, 2022, 136 Stat. 4311.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) o
 
 **Amendments**
 
-2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(57)(A), substituted “chapter 10 of title 5, except that section 1013 of title 5” for “the Federal Advisory Committee Act, except that section 14 of that Act”.
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(57)(A), substituted “chapter 10 of title 5, except that section 1013 of title 5” for “the Federal Advisory Committee Act, except that section 14 of that Act”.
 
-Subsec. (d)(7). Pub. L. 117–286, § 4(a)(57)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+Subsec. (d)(7). Pub. L. 117–286, § 4(a)(57)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
-2012—Subsec. (b)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+2012—Subsec. (b)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,13 +377,13 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Administration of Fund by Secretary of the Treasury**
 
-Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act [12 U.S.C. 4701 et seq.] and the Fund shall be within the Department of the Treasury.”
+Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act [12 U.S.C. 4701 et seq.] and the Fund shall be within the Department of the Treasury.”
 
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
 
-### § 4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic
+### § 4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic
 
 **(a) Definitions** In this section—
 
@@ -425,7 +425,7 @@ Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
 
 **(C)** listed in the Federal Deposit Insurance Corporation’s Minority Depository Institutions List published for the Third Quarter 2020.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(7)** the term “Program” means the Emergency Capital Investment Program established under subsection (b);
 
@@ -481,9 +481,9 @@ The Secretary may establish additional criteria for participation by an institut
 
 **(ii)** describes how the business strategy and operating goals of the applicant will address community development needs in communities that may be disproportionately impacted by the economic effects of COVID–19, which includes the needs of small businesses, consumers, nonprofit organizations, community development, and other projects providing direct benefits to low- and moderate-income communities, low-income individuals, and minorities within the minority, rural, and urban low-income and underserved areas served by the applicant;
 
-**(iii)** includes a plan to provide community outreach and communication, where appropriate; 2
+**(iii)** includes a plan to provide community outreach and communication, where appropriate; 2
 
-<sup>2</sup>  So in original. Probably should be followed by “and”.
+<sup>2</sup> So in original. Probably should be followed by “and”.
 
 **(iv)** includes details on how the applicant plans to expand or maintain significant lending or investment activity in low- or moderate-income minority communities, especially those that may be disproportionately impacted by COVID–19 to historically disadvantaged borrowers, and to minorities that have significant unmet capital or financial services needs.
 
@@ -693,7 +693,7 @@ Funds appropriated pursuant to subsection (m) may be used for administrative exp
 
 **(10)** The Secretary is authorized to use direct hiring authority to hire employees to administer this section.
 
-(Pub. L. 103–325, title I, § 104A, as added Pub. L. 116–260, div. N, title V, § 522(a), Dec. 27, 2020, 134 Stat. 2079.)
+(Pub. L. 103–325, title I, § 104A, as added Pub. L. 116–260, div. N, title V, § 522(a), Dec. 27, 2020, 134 Stat. 2079.)
 
 **Editorial Notes**
 
@@ -701,33 +701,33 @@ Funds appropriated pursuant to subsection (m) may be used for administrative exp
 
 Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (a)(6)(A), is section 308 of Pub. L. 101–73, which is set out as a note under section 1463 of this title.
 
-The National Emergencies Act, referred to in subsec. (j)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (j)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Equal Credit Opportunity Act, referred to in subsec. (k), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Equal Credit Opportunity Act, referred to in subsec. (k), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Purpose**
 
-Pub. L. 116–260, div. N, title V, § 520, Dec. 27, 2020, 134 Stat. 2079, provided that: “The purpose of this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] is to establish emergency programs to revitalize and provide long-term financial products and service availability for, and provide investments in, low- and moderate-income and minority communities that have disproportionately suffered from the impacts of the COVID–19 pandemic.”
+Pub. L. 116–260, div. N, title V, § 520, Dec. 27, 2020, 134 Stat. 2079, provided that: “The purpose of this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] is to establish emergency programs to revitalize and provide long-term financial products and service availability for, and provide investments in, low- and moderate-income and minority communities that have disproportionately suffered from the impacts of the COVID–19 pandemic.”
 
 **Considerations in Exercising Authorities; Requirements for Creditors**
 
-Pub. L. 116–260, div. N, title V, § 521, Dec. 27, 2020, 134 Stat. 2079, provided that:
+Pub. L. 116–260, div. N, title V, § 521, Dec. 27, 2020, 134 Stat. 2079, provided that:
 
-> **“(a) In General.—** In exercising the authorities under this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] and the amendments made by this subtitle, the Secretary of the Treasury shall take into consideration increasing the availability of affordable credit for consumers, small businesses, and nonprofit organizations, including for projects supporting affordable housing, community-serving real estate, and other projects, that provide direct benefits to low- and moderate-income communities, low-income and underserved individuals, and minorities, that have disproportionately suffered from the health and economic impacts of the COVID–19 pandemic.
+> **“(a) In General.—** In exercising the authorities under this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] and the amendments made by this subtitle, the Secretary of the Treasury shall take into consideration increasing the availability of affordable credit for consumers, small businesses, and nonprofit organizations, including for projects supporting affordable housing, community-serving real estate, and other projects, that provide direct benefits to low- and moderate-income communities, low-income and underserved individuals, and minorities, that have disproportionately suffered from the health and economic impacts of the COVID–19 pandemic.
 
 > **“(b) Requirement for Creditors.—** Any creditor participating in a program established under this subtitle or the amendments made by this subtitle shall fully comply with all applicable statutory and regulatory requirements relating to fair lending.”
 
 **Inspector General Oversight**
 
-Pub. L. 116–260, div. N, title V, § 524, Dec. 27, 2020, 134 Stat. 2089, provided that:
+Pub. L. 116–260, div. N, title V, § 524, Dec. 27, 2020, 134 Stat. 2089, provided that:
 
-> **“(a) In General.—** The Inspector General of the Department of the Treasury shall conduct, supervise, and coordinate audits and investigations of any program established under this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] or the amendments made by this subtitle.
+> **“(a) In General.—** The Inspector General of the Department of the Treasury shall conduct, supervise, and coordinate audits and investigations of any program established under this subtitle [subtitle B (§§ 520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section] or the amendments made by this subtitle.
 
 > **“(b) Reporting.—** The Inspector General of the Department of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Secretary of the Treasury not less frequently than 2 times per year a report relating to the oversight provided by the Office of the Inspector General, including any recommendations for improvements to the programs described in subsection (a).”
 
-### § 4704. Applications for assistance
+### § 4704. Applications for assistance
 
 **(a) Form and procedures**
 
@@ -769,9 +769,9 @@ An application for assistance under this subchapter shall be submitted in such f
 
 The Fund shall provide an outreach program to identify and provide information to potential applicants and may provide technical assistance to potential applicants, but shall not assist in the preparation of any application.
 
-(Pub. L. 103–325, title I, § 105, Sept. 23, 1994, 108 Stat. 2170.)
+(Pub. L. 103–325, title I, § 105, Sept. 23, 1994, 108 Stat. 2170.)
 
-### § 4705. Community partnerships
+### § 4705. Community partnerships
 
 **(a) Application**
 
@@ -807,9 +807,9 @@ Assistance provided upon approval of an application under this section shall be 
 
 All other requirements and limitations imposed by this subchapter on a community development financial institution assisted under this subchapter shall apply (in the manner that the Fund determines to be appropriate) to assistance provided to carry out community partnerships. The Fund may establish additional guidelines and restrictions on the use of Federal funds to carry out community partnerships.
 
-(Pub. L. 103–325, title I, § 106, Sept. 23, 1994, 108 Stat. 2171.)
+(Pub. L. 103–325, title I, § 106, Sept. 23, 1994, 108 Stat. 2171.)
 
-### § 4706. Selection of institutions
+### § 4706. Selection of institutions
 
 **(a) Selection criteria** Except as provided in section 4712 of this title, the Fund shall, in its sole discretion, select community development financial institution applicants meeting the requirements of section 4704 of this title for assistance based on—
 
@@ -845,9 +845,9 @@ All other requirements and limitations imposed by this subchapter on a community
 
 In selecting applicants for assistance, the Fund shall seek to fund a geographically diverse group of applicants, which shall include applicants from metropolitan, nonmetropolitan, and rural areas.
 
-(Pub. L. 103–325, title I, § 107, Sept. 23, 1994, 108 Stat. 2172.)
+(Pub. L. 103–325, title I, § 107, Sept. 23, 1994, 108 Stat. 2172.)
 
-### § 4707. Assistance provided by Fund
+### § 4707. Assistance provided by Fund
 
 **(a) Forms of assistance**
 
@@ -1021,7 +1021,7 @@ The Fund may, at any time, sell its equity investments and loans, but the Fund s
 
 Nothing in this subchapter shall affect any authority of the appropriate Federal banking agency to supervise and regulate any institution or company.
 
-(Pub. L. 103–325, title I, § 108, Sept. 23, 1994, 108 Stat. 2172.)
+(Pub. L. 103–325, title I, § 108, Sept. 23, 1994, 108 Stat. 2172.)
 
 **Editorial Notes**
 
@@ -1029,7 +1029,7 @@ Nothing in this subchapter shall affect any authority of the appropriate Federal
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-### § 4708. Training
+### § 4708. Training
 
 **(a) In general**
 
@@ -1063,23 +1063,23 @@ Fees may be assessed under paragraph (1) only on persons who participate in the 
 
 **(3) Limitation on manner of collection**
 
-Fees may be assessed and collected under this subsection only in such manner as may reasonably be expected to result in the collection of an aggregate amount of fees during any fiscal year which does not exceed the aggregate costs of the Fund for such year in providing training services under a training program operated in accordance with this section 1
+Fees may be assessed and collected under this subsection only in such manner as may reasonably be expected to result in the collection of an aggregate amount of fees during any fiscal year which does not exceed the aggregate costs of the Fund for such year in providing training services under a training program operated in accordance with this section 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(4) Limitation on amount of fee**
 
 The amount of any fee assessed under this subsection on any person may not exceed the amount which is reasonably based on the proportion of the training services provided under a training program operated in accordance with this section which relate to such person.
 
-(Pub. L. 103–325, title I, § 109, Sept. 23, 1994, 108 Stat. 2176.)
+(Pub. L. 103–325, title I, § 109, Sept. 23, 1994, 108 Stat. 2176.)
 
-### § 4709. Encouragement of private entities
+### § 4709. Encouragement of private entities
 
 The Fund may facilitate the organization of corporations in which the Federal Government has no ownership interest. The purpose of any such entity shall be to assist community development financial institutions in a manner that is complementary to the activities of the Fund under this subchapter. Any such entity shall be managed exclusively by persons not employed by the Federal Government or any agency or instrumentality thereof, or by any State or local government or any agency or instrumentality thereof.
 
-(Pub. L. 103–325, title I, § 110, Sept. 23, 1994, 108 Stat. 2177.)
+(Pub. L. 103–325, title I, § 110, Sept. 23, 1994, 108 Stat. 2177.)
 
-### § 4710. Collection and compilation of information
+### § 4710. Collection and compilation of information
 
 The Fund shall—
 
@@ -1087,9 +1087,9 @@ The Fund shall—
 
 **(2)** make such information available to promote the purposes of this subchapter.
 
-(Pub. L. 103–325, title I, § 111, Sept. 23, 1994, 108 Stat. 2177.)
+(Pub. L. 103–325, title I, § 111, Sept. 23, 1994, 108 Stat. 2177.)
 
-### § 4711. Investment of receipts and proceeds
+### § 4711. Investment of receipts and proceeds
 
 **(a) Establishment of account**
 
@@ -1103,9 +1103,9 @@ Upon request of the Administrator, the Secretary of the Treasury shall invest am
 
 Amounts deposited into the account and interest earned on such amounts pursuant to this section shall be available to the Fund until expended.
 
-(Pub. L. 103–325, title I, § 112, Sept. 23, 1994, 108 Stat. 2177.)
+(Pub. L. 103–325, title I, § 112, Sept. 23, 1994, 108 Stat. 2177.)
 
-### § 4712. Capitalization assistance to enhance liquidity
+### § 4712. Capitalization assistance to enhance liquidity
 
 **(a) Assistance**
 
@@ -1159,7 +1159,7 @@ This section does not oblige the Federal Government, either directly or indirect
 
 Any proceeds from the sale of loans by an organization assisted under this section shall be used by the seller for community development purposes.
 
-(Pub. L. 103–325, title I, § 113, Sept. 23, 1994, 108 Stat. 2178.)
+(Pub. L. 103–325, title I, § 113, Sept. 23, 1994, 108 Stat. 2178.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ Any proceeds from the sale of loans by an organization assisted under this secti
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-### § 4713. Incentives for depository institution participation
+### § 4713. Incentives for depository institution participation
 
 **(a) Function of Administrator**
 
@@ -1249,21 +1249,21 @@ The Administrator shall ensure that information about the Bank Enterprise Act of
 
 For the purpose of this subchapter, section 233(a)(2)(A) of the Bank Enterprise Act of 1991 shall be applied by inserting “of the increase” after “the amount”.
 
-(Pub. L. 103–325, title I, § 114, Sept. 23, 1994, 108 Stat. 2179.)
+(Pub. L. 103–325, title I, § 114, Sept. 23, 1994, 108 Stat. 2179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bank Enterprise Act of 1991, referred to in subsecs. (a)(2), (5) and (b)(6), is subtitle C (§§ 231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended section 1817 of this title, and enacted provisions set out as a note under section 1811 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
+The Bank Enterprise Act of 1991, referred to in subsecs. (a)(2), (5) and (b)(6), is subtitle C (§§ 231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended section 1817 of this title, and enacted provisions set out as a note under section 1811 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section 114 of Pub. L. 103–325 amended section 1834a of this title.
 
-### § 4713a. Guarantees for bonds and notes issued for community or economic development purposes
+### § 4713a. Guarantees for bonds and notes issued for community or economic development purposes
 
 **(a) Definitions** In this section, the following definitions shall apply:
 
@@ -1511,15 +1511,15 @@ Not later than 2 years after September 27, 2010, the Secretary shall implement t
 
 This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014.1
 
-<sup>1</sup>  See Termination Date note below.
+<sup>1</sup> See Termination Date note below.
 
-(Pub. L. 103–325, title I, § 114A, as added Pub. L. 111–240, title I, § 1134, Sept. 27, 2010, 124 Stat. 2515.)
+(Pub. L. 103–325, title I, § 114A, as added Pub. L. 111–240, title I, § 1134, Sept. 27, 2010, 124 Stat. 2515.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1549,7 +1549,7 @@ Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2427.
 
 Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336.
 
-### § 4714. Recordkeeping
+### § 4714. Recordkeeping
 
 **(a) In general**
 
@@ -1577,9 +1577,9 @@ The Fund shall require each community development financial institution receivin
 
 The Fund, after deleting or redacting any material as appropriate to protect privacy or proprietary interests, shall make such reports submitted under paragraph (1) available for public inspection.
 
-(Pub. L. 103–325, title I, § 115, Sept. 23, 1994, 108 Stat. 2184.)
+(Pub. L. 103–325, title I, § 115, Sept. 23, 1994, 108 Stat. 2184.)
 
-### § 4715. Special provisions with respect to institutions that are supervised by Federal banking agencies
+### § 4715. Special provisions with respect to institutions that are supervised by Federal banking agencies
 
 **(a) Consultation with appropriate agencies** The Fund shall consult with and consider the views of the appropriate Federal banking agency prior to providing assistance under this subchapter to—
 
@@ -1655,9 +1655,9 @@ The Fund shall notify the appropriate Federal banking agency before imposing any
 
 The Fund and each appropriate Federal banking agency shall cooperate and respond to requests from each other and from other appropriate Federal banking agencies in a manner that ensures the safety and soundness of the insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
 
-(Pub. L. 103–325, title I, § 116, Sept. 23, 1994, 108 Stat. 2185.)
+(Pub. L. 103–325, title I, § 116, Sept. 23, 1994, 108 Stat. 2185.)
 
-### § 4716. Studies and reports; examination and audit
+### § 4716. Studies and reports; examination and audit
 
 **(a) Annual report by Fund**
 
@@ -1695,7 +1695,7 @@ In the conduct of the studies required under this section, the Fund shall consul
 
 The financial statements of the Fund shall be audited in accordance with section 9105 of title 31, except that audits required by section 9105(a) of such title shall be performed annually.
 
-(Pub. L. 103–325, title I, § 117, Sept. 23, 1994, 108 Stat. 2187; Pub. L. 110–289, div. A, title II, § 1216(b), July 30, 2008, 122 Stat. 2792.)
+(Pub. L. 103–325, title I, § 117, Sept. 23, 1994, 108 Stat. 2187; Pub. L. 110–289, div. A, title II, § 1216(b), July 30, 2008, 122 Stat. 2792.)
 
 **Editorial Notes**
 
@@ -1703,7 +1703,7 @@ The financial statements of the Fund shall be audited in accordance with section
 
 2008—Subsec. (e). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
-### § 4717. Enforcement
+### § 4717. Enforcement
 
 **(a) Regulations**
 
@@ -1721,19 +1721,19 @@ Not later than 180 days after the appointment and qualification of the Administr
 
 The provisions of this subchapter, and regulations prescribed and agreements entered into under this subchapter, shall be enforced under section 8 of the Federal Deposit Insurance Act [12 U.S.C. 1818] by the appropriate Federal banking agency, in the case of an insured community development financial institution. A violation of this subchapter, or any regulation prescribed under or any agreement entered into under this subchapter, shall be treated as a violation of the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.].
 
-(Pub. L. 103–325, title I, § 119, Sept. 23, 1994, 108 Stat. 2188.)
+(Pub. L. 103–325, title I, § 119, Sept. 23, 1994, 108 Stat. 2188.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 119 of Pub. L. 103–325. Subsec. (c) of section 119 of Pub. L. 103–325 amended section 657 of Title 18, Crimes and Criminal Procedure.
 
-### § 4718. Authorization of appropriations
+### § 4718. Authorization of appropriations
 
 **(a) Fund authorization**
 
@@ -1783,21 +1783,21 @@ The Administrator shall allocate funds authorized under this section, to the max
 
 **(c) Budgetary treatment**
 
-Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665 1
+Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
-(Pub. L. 103–325, title I, § 121, Sept. 23, 1994, 108 Stat. 2189.)
+(Pub. L. 103–325, title I, § 121, Sept. 23, 1994, 108 Stat. 2189.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 665 of title 2, referred to in subsec. (c), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
+Section 665 of title 2, referred to in subsec. (c), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
 
-### § 4719. Grants to establish loan-loss reserve funds
+### § 4719. Grants to establish loan-loss reserve funds
 
 **(a) Purposes** The purposes of this section are—
 
@@ -1843,7 +1843,7 @@ The Fund shall make technical assistance grants to community development financi
 
 **(E)** meet any other affordability requirements as may be established by the Administrator.
 
-(Pub. L. 103–325, title I, § 122, as added Pub. L. 111–203, title XII, § 1206, July 21, 2010, 124 Stat. 2131.)
+(Pub. L. 103–325, title I, § 122, as added Pub. L. 111–203, title XII, § 1206, July 21, 2010, 124 Stat. 2131.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1853,7 +1853,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER II—SMALL BUSINESS CAPITAL ENHANCEMENT
 
-### § 4741. Findings and purposes
+### § 4741. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -1885,17 +1885,17 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(5)** to spur innovation.
 
-(Pub. L. 103–325, title II, § 251, Sept. 23, 1994, 108 Stat. 2203.)
+(Pub. L. 103–325, title II, § 251, Sept. 23, 1994, 108 Stat. 2203.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–325, title II, § 261, Sept. 23, 1994, 108 Stat. 2214, provided that: “This subtitle [subtitle B (§§ 251–261) of title II of Pub. L. 103–325, enacting this subchapter] shall become effective on January 6, 1996.”
+Pub. L. 103–325, title II, § 261, Sept. 23, 1994, 108 Stat. 2214, provided that: “This subtitle [subtitle B (§§ 251–261) of title II of Pub. L. 103–325, enacting this subchapter] shall become effective on January 6, 1996.”
 
 **Small Business Lending Fund**
 
-Pub. L. 111–240, title IV, subtitle A, Sept. 27, 2010, 124 Stat. 2582, as amended by Pub. L. 113–188, title IX, § 901(e), Nov. 26, 2014, 128 Stat. 2020, provided that:
+Pub. L. 111–240, title IV, subtitle A, Sept. 27, 2010, 124 Stat. 2582, as amended by Pub. L. 113–188, title IX, § 901(e), Nov. 26, 2014, 128 Stat. 2020, provided that:
 
 > **“SEC. 4101. PURPOSE.**
 
@@ -2283,7 +2283,7 @@ Pub. L. 111–240, title IV, subtitle A, Sept. 27, 2010, 124 Stat. 2582, as amen
 
 > “It is the sense of Congress that the Federal Deposit Insurance Corporation and other bank regulators are sending mixed messages to banks regarding regulatory capital requirements and lending standards, which is a contributing cause of decreased small business lending and increased regulatory uncertainty at community banks.”
 
-### § 4742. Definitions
+### § 4742. Definitions
 
 For purposes of this subchapter—
 
@@ -2331,17 +2331,17 @@ For purposes of this subchapter—
 
 **(D)** any other political subdivision of a State of the United States that the Fund determines has the capacity to participate in the program.1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-(Pub. L. 103–325, title II, § 252, Sept. 23, 1994, 108 Stat. 2204.)
+(Pub. L. 103–325, title II, § 252, Sept. 23, 1994, 108 Stat. 2204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-### § 4743. Approving States for participation
+### § 4743. Approving States for participation
 
 **(a) Application**
 
@@ -2371,9 +2371,9 @@ Any State may apply to the Fund for approval to be a participating State under t
 
 **(A) Status of institutions**
 
-If a State is approved for participation under paragraph (1), each financial institution with a participation agreement in effect with the participating State shall immediately be considered a participating financial institution. Reimbursements may be made under section 4747 1
+If a State is approved for participation under paragraph (1), each financial institution with a participation agreement in effect with the participating State shall immediately be considered a participating financial institution. Reimbursements may be made under section 4747 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title in connection with all contributions made to the reserve fund by the State in connection with lending that occurs on or after the date on which the Fund approves the State for participation.
 
@@ -2383,9 +2383,9 @@ If an amended participation agreement that conforms with section 4745 of this ti
 
 **(C) Use of accumulated reserve funds**
 
-A State that is approved for participation in accordance with this subsection may continue to implement the program 2
+A State that is approved for participation in accordance with this subsection may continue to implement the program 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 utilizing the reserve funds accumulated under the State program.
 
@@ -2397,7 +2397,7 @@ The Fund shall not approve a State for participation in the Program until at lea
 
 If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
 
-(Pub. L. 103–325, title II, § 253, Sept. 23, 1994, 108 Stat. 2205.)
+(Pub. L. 103–325, title II, § 253, Sept. 23, 1994, 108 Stat. 2205.)
 
 **Editorial Notes**
 
@@ -2405,7 +2405,7 @@ If a State that has been approved to be a participating State wishes to amend it
 
 Section 4747 of this title, referred to in subsec. (c)(2)(A), was in the original “section 237” and was translated as reading “section 257” meaning section 257 of Pub. L. 103–325, to reflect the probable intent of Congress. Pub. L. 103–325 does not contain a section 237.
 
-### § 4744. Participation agreements
+### § 4744. Participation agreements
 
 **(a) In general**
 
@@ -2415,9 +2415,9 @@ A participating State may enter into a participation agreement with any financia
 
 Upon entering into the participation agreement with the participating State, the financial institution shall become a participating financial institution eligible to enroll loans under the Program.
 
-(Pub. L. 103–325, title II, § 254, Sept. 23, 1994, 108 Stat. 2207.)
+(Pub. L. 103–325, title II, § 254, Sept. 23, 1994, 108 Stat. 2207.)
 
-### § 4745. Terms of participation agreements
+### § 4745. Terms of participation agreements
 
 **(a) In general**
 
@@ -2597,9 +2597,9 @@ After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B
 
 If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
-(Pub. L. 103–325, title II, § 255, Sept. 23, 1994, 108 Stat. 2207.)
+(Pub. L. 103–325, title II, § 255, Sept. 23, 1994, 108 Stat. 2207.)
 
-### § 4746. Reports
+### § 4746. Reports
 
 **(a) Reserve funds report** On or before the last day of each calendar quarter, a participating State shall submit to the Fund a report of contributions to reserve funds made by the participating State during the previous calendar quarter. If the participating State has made contributions to one or more reserve funds during the previous quarter, the report shall—
 
@@ -2627,9 +2627,9 @@ Not later than March 31 of each year, each participating State shall submit to t
 
 The reports and data filed pursuant to subsections (a) and (b) shall be in such form as the Fund may require.
 
-(Pub. L. 103–325, title II, § 256, Sept. 23, 1994, 108 Stat. 2212.)
+(Pub. L. 103–325, title II, § 256, Sept. 23, 1994, 108 Stat. 2212.)
 
-### § 4747. Reimbursement by Fund
+### § 4747. Reimbursement by Fund
 
 **(a) Reimbursements**
 
@@ -2661,9 +2661,9 @@ The amount of reimbursement to be provided by the Fund to a participating State 
 
 **(2)** by applying subsection (e) to the balance of the loan.
 
-(Pub. L. 103–325, title II, § 257, Sept. 23, 1994, 108 Stat. 2212.)
+(Pub. L. 103–325, title II, § 257, Sept. 23, 1994, 108 Stat. 2212.)
 
-### § 4748. Reimbursement to Fund
+### § 4748. Reimbursement to Fund
 
 **(a) In general**
 
@@ -2679,15 +2679,15 @@ If a participating State withdraws funds from a reserve fund pursuant to terms o
 
 The Fund may use funds reimbursed pursuant to this section to make reimbursements under section 4747 of this title.
 
-(Pub. L. 103–325, title II, § 258, Sept. 23, 1994, 108 Stat. 2213.)
+(Pub. L. 103–325, title II, § 258, Sept. 23, 1994, 108 Stat. 2213.)
 
-### § 4749. Regulations
+### § 4749. Regulations
 
 The Fund shall promulgate appropriate regulations to implement this subchapter.
 
-(Pub. L. 103–325, title II, § 259, Sept. 23, 1994, 108 Stat. 2214.)
+(Pub. L. 103–325, title II, § 259, Sept. 23, 1994, 108 Stat. 2214.)
 
-### § 4750. Authorization of appropriations
+### § 4750. Authorization of appropriations
 
 **(a) Amount**
 
@@ -2695,16 +2695,16 @@ There are authorized to be appropriated to the Fund $50,000,000 to carry out thi
 
 **(b) Budgetary treatment**
 
-The amount authorized to be appropriated under subsection (a) shall be subject to discretionary spending caps, as provided in section 665 1
+The amount authorized to be appropriated under subsection (a) shall be subject to discretionary spending caps, as provided in section 665 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
-(Pub. L. 103–325, title II, § 260, Sept. 23, 1994, 108 Stat. 2214.)
+(Pub. L. 103–325, title II, § 260, Sept. 23, 1994, 108 Stat. 2214.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 665 of title 2, referred to in subsec. (b), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
+Section 665 of title 2, referred to in subsec. (b), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.

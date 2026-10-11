@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 67—ARCTIC RESEARCH AND POLICY
 
-## § 4101. Congressional findings and declaration of purposes
+## § 4101. Congressional findings and declaration of purposes
 
 **(a)** The Congress finds and declares that—
 
@@ -63,27 +63,27 @@ retrieved: 2026-10-11
 
 **(4)** to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
 
-(Pub. L. 98–373, title I, § 102, July 31, 1984, 98 Stat. 1242; Pub. L. 103–199, title VI, § 601, Dec. 17, 1993, 107 Stat. 2327.)
+(Pub. L. 98–373, title I, § 102, July 31, 1984, 98 Stat. 1242; Pub. L. 103–199, title VI, § 601, Dec. 17, 1993, 107 Stat. 2327.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a)(2). Pub. L. 103–199, § 601(1), struck out “as the Nation’s only common border with the Soviet Union,” before “the Arctic”.
+1993—Subsec. (a)(2). Pub. L. 103–199, § 601(1), struck out “as the Nation’s only common border with the Soviet Union,” before “the Arctic”.
 
-Subsec. (a)(10). Pub. L. 103–199, § 601(2), struck out “, particularly the Soviet Union,” after “countries”.
+Subsec. (a)(10). Pub. L. 103–199, § 601(2), struck out “, particularly the Soviet Union,” after “countries”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–373, title I, § 102, July 31, 1984, 98 Stat. 1242, provided that: “This title [enacting this chapter] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
+Pub. L. 98–373, title I, § 102, July 31, 1984, 98 Stat. 1242, provided that: “This title [enacting this chapter] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
 
 **Executive Documents**
 
 **Ex. Ord. No. 12501. Arctic Research**
 
-Ex. Ord. No. 12501, Jan. 28, 1985, 50 F.R. 4191, as amended by Ex. Ord. No. 13286, § 45, Feb. 28, 2003, 68 F.R. 10627, provided:
+Ex. Ord. No. 12501, Jan. 28, 1985, 50 F.R. 4191, as amended by Ex. Ord. No. 13286, § 45, Feb. 28, 2003, 68 F.R. 10627, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Arctic Research and Policy Act of 1984 (Title I of Public Law 98–373) (“the Act”) [15 U.S.C. 4101 et seq.], it is hereby ordered as follows:
 
@@ -281,7 +281,7 @@ Barack Obama.
 
 **Ex. Ord. No. 13754. Northern Bering Sea Climate Resilience**
 
-Ex. Ord. No. 13754, Dec. 9, 2016, 81 F.R. 90669, revoked by Ex. Ord. No. 13795, § 4(c), Apr. 28, 2017, 82 F.R. 20816, reinstated by Ex. Ord. No. 13990, § 4(b), Jan. 20, 2021, 86 F.R. 7039, provided:
+Ex. Ord. No. 13754, Dec. 9, 2016, 81 F.R. 90669, revoked by Ex. Ord. No. 13795, § 4(c), Apr. 28, 2017, 82 F.R. 20816, reinstated by Ex. Ord. No. 13990, § 4(b), Jan. 20, 2021, 86 F.R. 7039, provided:
 
 By the authority vested in me as the President by the Constitution and the laws of the United States of America, including the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 *et seq*., it is hereby ordered as follows:
 
@@ -369,7 +369,7 @@ Sec. 11. *General Provisions*. (a) Nothing in this order shall be construed to i
 
 [Barack Obama.]
 
-## § 4102. Arctic Research Commission
+## § 4102. Arctic Research Commission
 
 **(a) Establishment**
 
@@ -415,23 +415,23 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 **(4)** The Commission shall conduct at least one public meeting in the State of Alaska annually.
 
-(Pub. L. 98–373, title I, § 103, July 31, 1984, 98 Stat. 1243; Pub. L. 101–609, §§ 2, 3, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, § 103, July 31, 1984, 98 Stat. 1243; Pub. L. 101–609, §§ 2, 3, Nov. 16, 1990, 104 Stat. 3125.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (b)(1). Pub. L. 101–609, § 2, in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
+1990—Subsec. (b)(1). Pub. L. 101–609, § 2, in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
 
-Subsec. (d)(1). Pub. L. 101–609, § 3, substituted “GS–18” for “GS–16”.
+Subsec. (d)(1). Pub. L. 101–609, § 3, substituted “GS–18” for “GS–16”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 4103. Duties of Commission; publication of guidelines; report to Congress
+## § 4103. Duties of Commission; publication of guidelines; report to Congress
 
 **(a)** The Commission shall—
 
@@ -457,17 +457,17 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(b)** Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
 
-(Pub. L. 98–373, title I, § 104, July 31, 1984, 98 Stat. 1244; Pub. L. 101–609, § 4, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, § 104, July 31, 1984, 98 Stat. 1244; Pub. L. 101–609, § 4, Nov. 16, 1990, 104 Stat. 3125.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a)(4), (6). Pub. L. 101–609, § 4(a)(1), (2), substituted “recommend” for “suggest”.
+1990—Subsec. (a)(4), (6). Pub. L. 101–609, § 4(a)(1), (2), substituted “recommend” for “suggest”.
 
-Subsec. (a)(9), (10). Pub. L. 101–609, § 4(a)(3)–(5), added pars. (9) and (10).
+Subsec. (a)(9), (10). Pub. L. 101–609, § 4(a)(3)–(5), added pars. (9) and (10).
 
-Subsec. (b). Pub. L. 101–609, § 4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
+Subsec. (b). Pub. L. 101–609, § 4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
 
 “(1) publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties; and
 
@@ -479,7 +479,7 @@ Subsec. (b). Pub. L. 101–609, § 4(b), amended subsec. (b) generally. Prior 
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 155 of House Document No. 103–7.
 
-## § 4104. Cooperation with Commission
+## § 4104. Cooperation with Commission
 
 **(a) Acquisition of information from Federal agencies; withholding authorization**
 
@@ -495,9 +495,9 @@ With the consent of the appropriate agency head, the Commission may utilize the 
 
 All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 
-(Pub. L. 98–373, title I, § 105, July 31, 1984, 98 Stat. 1245.)
+(Pub. L. 98–373, title I, § 105, July 31, 1984, 98 Stat. 1245.)
 
-## § 4105. Administration
+## § 4105. Administration
 
 The Commission may—
 
@@ -511,7 +511,7 @@ The Commission may—
 
 **(5)** appoint, and accept without compensation the services of, scientists and engineering specialists to be advisors to the Commission. Each advisor may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Except for the purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims), an advisor appointed under this paragraph shall not be considered an employee of the United States for any purpose.
 
-(Pub. L. 98–373, title I, § 106, July 31, 1984, 98 Stat. 1245; Pub. L. 101–609, § 5, Nov. 16, 1990, 104 Stat. 3125.)
+(Pub. L. 98–373, title I, § 106, July 31, 1984, 98 Stat. 1245; Pub. L. 101–609, § 5, Nov. 16, 1990, 104 Stat. 3125.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ The Commission may—
 
 1990—Par. (5). Pub. L. 101–609 added par. (5).
 
-## § 4106. Implementation of Arctic research policy
+## § 4106. Implementation of Arctic research policy
 
 **(a) National Science Foundation and Director; functions**
 
@@ -557,7 +557,7 @@ The National Science Foundation is designated as the lead agency responsible for
 
 **(3)** The representative of the National Science Foundation shall serve as the Chairperson of the Interagency Committee.
 
-(Pub. L. 98–373, title I, § 107, July 31, 1984, 98 Stat. 1246; Pub. L. 109–241, title IX, § 902(g), July 11, 2006, 120 Stat. 567.)
+(Pub. L. 98–373, title I, § 107, July 31, 1984, 98 Stat. 1246; Pub. L. 109–241, title IX, § 902(g), July 11, 2006, 120 Stat. 567.)
 
 **Editorial Notes**
 
@@ -579,7 +579,7 @@ The Director of the Office of Science and Technology Policy is authorized and di
 
 Barack Obama.
 
-## § 4107. Duties of Interagency Committee; report to Congress
+## § 4107. Duties of Interagency Committee; report to Congress
 
 **(a)** The Interagency Committee shall—
 
@@ -621,7 +621,7 @@ Barack Obama.
 
 **(2)** a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
 
-(Pub. L. 98–373, title I, § 108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, § 6, Nov. 16, 1990, 104 Stat. 3126.)
+(Pub. L. 98–373, title I, § 108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, § 6, Nov. 16, 1990, 104 Stat. 3126.)
 
 **Editorial Notes**
 
@@ -633,7 +633,7 @@ Barack Obama.
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under subsec. (b) of this section, to submit a biennial report to Congress is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under subsec. (b) of this section, to submit a biennial report to Congress is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 **Executive Documents**
 
@@ -653,7 +653,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-## § 4108. Arctic research plan
+## § 4108. Arctic research plan
 
 **(a)** The Interagency Committee, in consultation with the Commission, the Governor of the State of Alaska, the residents of the Arctic, the private sector, and public interest groups, shall prepare a comprehensive 5-year program plan (hereinafter referred to as the “Plan”) for the overall Federal effort in Arctic research. The Plan shall be prepared and submitted to the President for transmittal to the Congress within one year after July 31, 1984, and shall be revised biennially thereafter.
 
@@ -669,13 +669,13 @@ George W. Bush.
 
 **(5)** a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
 
-(Pub. L. 98–373, title I, § 109, July 31, 1984, 98 Stat. 1247.)
+(Pub. L. 98–373, title I, § 109, July 31, 1984, 98 Stat. 1247.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the biennial revision required under subsec. (a) of this section is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the biennial revision required under subsec. (a) of this section is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 **Executive Documents**
 
@@ -683,7 +683,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Functions of President under subsec. (a) delegated to Director of the National Science Foundation, see Memorandum of President of the United States, Feb. 17, 2005, 70 F.R. 9841, set out as a note under section 4107 of this title.
 
-## § 4109. Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget
+## § 4109. Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget
 
 **(a)** The Office of Science and Technology Policy shall—
 
@@ -697,7 +697,7 @@ Functions of President under subsec. (a) delegated to Director of the National S
 
 **(2)** The Office of Management and Budget shall seek to facilitate planning for the design, procurement, maintenance, deployment, and operations of icebreakers needed to provide a platform for Arctic research by allocating all funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, to the Coast Guard.
 
-(Pub. L. 98–373, title I, § 110, July 31, 1984, 98 Stat. 1248.)
+(Pub. L. 98–373, title I, § 110, July 31, 1984, 98 Stat. 1248.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -709,21 +709,21 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 4110. Authorization of appropriations; new spending authority
+## § 4110. Authorization of appropriations; new spending authority
 
 **(a)** There are authorized to be appropriated such sums as may be necessary for carrying out this chapter.
 
 **(b)** Any new spending authority (within the meaning of section 651 of title 2) which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as may be provided in appropriation Acts.
 
-(Pub. L. 98–373, title I, § 111, July 31, 1984, 98 Stat. 1248.)
+(Pub. L. 98–373, title I, § 111, July 31, 1984, 98 Stat. 1248.)
 
-## § 4111. “Arctic” defined
+## § 4111. “Arctic” defined
 
 As used in this chapter, the term “Arctic” means all United States and foreign territory north of the Arctic Circle and all United States territory north and west of the boundary formed by the Porcupine, Yukon, and Kuskokwim Rivers; all contiguous seas, including the Arctic Ocean and the Beaufort, Bering, and Chukchi Seas; and the Aleutian chain.
 
-(Pub. L. 98–373, title I, § 112, July 31, 1984, 98 Stat. 1248.)
+(Pub. L. 98–373, title I, § 112, July 31, 1984, 98 Stat. 1248.)
 
-## § 4112. Annual agency budget and spending report
+## § 4112. Annual agency budget and spending report
 
 **(1) Annual agency budgets**
 
@@ -733,7 +733,7 @@ Each agency represented on the Interagency Arctic Research Policy Committee shal
 
 Beginning with fiscal year 2025 and annually thereafter until fiscal year 2034, not later than 60 days after the President’s budget request for such fiscal year is submitted to Congress, the Office of Science and Technology Policy shall submit an annual report to Congress summarizing each agency’s budget request related to Arctic research activities per the information submitted in accordance with paragraph (1).
 
-(Pub. L. 117–263, div. E, title LIX, § 5912(b), Dec. 23, 2022, 136 Stat. 3442.)
+(Pub. L. 117–263, div. E, title LIX, § 5912(b), Dec. 23, 2022, 136 Stat. 3442.)
 
 **Editorial Notes**
 

@@ -25,13 +25,13 @@ Attention is directed to the consideration of the extension of the laws now appl
 
 **Amendments**
 
-2006—Pub. L. 109–177, title I, § 110(b)(1), Mar. 9, 2006, 120 Stat. 208, substituted “RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR” for “RAILROADS” in chapter heading, added item 1992, and struck out former items 1992 “Wrecking trains” and 1993 “Terrorist attacks and other acts of violence against public transportation systems”.
+2006—Pub. L. 109–177, title I, § 110(b)(1), Mar. 9, 2006, 120 Stat. 208, substituted “RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR” for “RAILROADS” in chapter heading, added item 1992, and struck out former items 1992 “Wrecking trains” and 1993 “Terrorist attacks and other acts of violence against public transportation systems”.
 
-2005—Pub. L. 109–59, title III, § 3042(b), Aug. 10, 2005, 119 Stat. 1640, substituted “public transportation” for “mass transportation” in item 1993.
+2005—Pub. L. 109–59, title III, § 3042(b), Aug. 10, 2005, 119 Stat. 1640, substituted “public transportation” for “mass transportation” in item 1993.
 
-2001—Pub. L. 107–56, title VIII, § 801(f), Oct. 26, 2001, 115 Stat. 376, added item 1993.
+2001—Pub. L. 107–56, title VIII, § 801(f), Oct. 26, 2001, 115 Stat. 376, added item 1993.
 
-## § 1991. Entering train to commit crime
+## § 1991. Entering train to commit crime
 
 Whoever, in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States, willfully and maliciously trespasses upon or enters upon any railroad train, railroad car, or railroad locomotive, with the intent to commit murder or robbery, shall be fined under this title or imprisoned not more than twenty years, or both.
 
@@ -39,13 +39,13 @@ Whoever, within such jurisdiction, willfully and maliciously trespasses upon or 
 
 Upon the trial of any person charged with any offense set forth in this section, it shall not be necessary to set forth or prove the particular person against whom it was intended to commit the offense, or that it was intended to commit such offense against any particular person.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 522 (Mar. 4, 1909, ch. 321, § 322, 35 Stat. 1150).
+Based on title 18, U.S.C., 1940 ed., § 522 (Mar. 4, 1909, ch. 321, § 322, 35 Stat. 1150).
 
-After the word “Whoever” the following was inserted: “in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States” as based upon the express provisions of title 18, U.S.C., 1940 ed., § 511, wherein this section is made applicable only “in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States.”
+After the word “Whoever” the following was inserted: “in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States” as based upon the express provisions of title 18, U.S.C., 1940 ed., § 511, wherein this section is made applicable only “in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States.”
 
 Words “whoever shall counsel, aid, abet, or assist in the perpetration of any of the offenses set forth in this section shall be deemed to be a principal therein” were omitted as unnecessary. Such persons are made principals by section 2 of this title.
 
@@ -59,7 +59,7 @@ Minor changes also were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-## § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air
+## § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air
 
 **(a) General Prohibitions.—** Whoever, in a circumstance described in subsection (c), knowingly and without lawful authority or permission—
 
@@ -73,7 +73,7 @@ Minor changes also were made in phraseology.
 
 **(A)** tunnel, bridge, viaduct, trestle, track, electromagnetic guideway, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of, or in support of the operation of, a railroad carrier, and with intent to, or knowing or having reason to know,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 such activity would likely, derail, disable, or wreck railroad on-track equipment; or
 
@@ -127,13 +127,13 @@ shall be fined under this title or imprisoned for any term of years or life, or 
 
 **(6)** the term “high-level radioactive waste” has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
 
-**(7)** the term “mass transportation” has the meaning given to that term in section 5302(a)(7) 2
+**(7)** the term “mass transportation” has the meaning given to that term in section 5302(a)(7) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-of title 49, except that the term includes intercity bus transportation 3
+of title 49, except that the term includes intercity bus transportation 3
 
-<sup>3</sup>  So in original. Probably should be followed by a comma.
+<sup>3</sup> So in original. Probably should be followed by a comma.
 
 school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101 of title 46, United States Code;
 
@@ -155,17 +155,17 @@ school bus, charter, and sightseeing transportation and passenger vessel as that
 
 **(16)** the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
-(Added Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, § 1539, Aug. 3, 2007, 121 Stat. 468; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(3), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(B), Dec. 18, 2025, 139 Stat. 1759.)
+(Added Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, § 1539, Aug. 3, 2007, 121 Stat. 468; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(3), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(B), Dec. 18, 2025, 139 Stat. 1759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B, § 20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term “mass transportation”.
+Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B, § 20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term “mass transportation”.
 
 **Prior Provisions**
 
-A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, § 60003(a)(8), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, § 402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, § 811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, § 4002(a)(6), Nov. 2, 2002, 116 Stat. 1807, related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205.
+A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, § 60003(a)(8), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, § 402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, § 811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, § 4002(a)(6), Nov. 2, 2002, 116 Stat. 1807, related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205.
 
 **Amendments**
 
@@ -175,6 +175,6 @@ A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–3
 
 2007—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
 
-## [§ 1993. Repealed. Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205]
+## [§ 1993. Repealed. Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205]
 
-Section, added Pub. L. 107–56, title VIII, § 801, Oct. 26, 2001, 115 Stat. 374; amended Pub. L. 108–21, title VI, § 609, Apr. 30, 2003, 117 Stat. 692; Pub. L. 109–59, title III, § 3042(a), Aug. 10, 2005, 119 Stat. 1639, related to terrorist attacks and other acts of violence against public transportation systems. See section 1992 of this title.
+Section, added Pub. L. 107–56, title VIII, § 801, Oct. 26, 2001, 115 Stat. 374; amended Pub. L. 108–21, title VI, § 609, Apr. 30, 2003, 117 Stat. 692; Pub. L. 109–59, title III, § 3042(a), Aug. 10, 2005, 119 Stat. 1639, related to terrorist attacks and other acts of violence against public transportation systems. See section 1992 of this title.

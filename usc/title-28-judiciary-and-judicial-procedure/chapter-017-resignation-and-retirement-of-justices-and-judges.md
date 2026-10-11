@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title I, § 11043(a)(2), Nov. 2, 2002, 116 Stat. 1855, struck out “; judicial discipline” after “failure to retire” in item 372.
+2002—Pub. L. 107–273, div. C, title I, § 11043(a)(2), Nov. 2, 2002, 116 Stat. 1855, struck out “; judicial discipline” after “failure to retire” in item 372.
 
-1988—Pub. L. 100–702, title X, § 1020(a)(9), Nov. 19, 1988, 102 Stat. 4672, substituted “Annuities for survivors of certain judicial officials of the United States” for “Annuities to widows and surviving dependent children of justices and judges of the United States” in item 376.
+1988—Pub. L. 100–702, title X, § 1020(a)(9), Nov. 19, 1988, 102 Stat. 4672, substituted “Annuities for survivors of certain judicial officials of the United States” for “Annuities to widows and surviving dependent children of justices and judges of the United States” in item 376.
 
-Pub. L. 100–659, § 2(b), Nov. 15, 1988, 102 Stat. 3916, added item 377.
+Pub. L. 100–659, § 2(b), Nov. 15, 1988, 102 Stat. 3916, added item 377.
 
-1986—Pub. L. 99–651, title II, § 201(b)(2), Nov. 14, 1986, 100 Stat. 3648, amended item 375 generally.
+1986—Pub. L. 99–651, title II, § 201(b)(2), Nov. 14, 1986, 100 Stat. 3648, amended item 375 generally.
 
-1984—Pub. L. 98–353, title II, § 204(b), July 10, 1984, 98 Stat. 350, substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in item 371.
+1984—Pub. L. 98–353, title II, § 204(b), July 10, 1984, 98 Stat. 350, substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in item 371.
 
-1980—Pub. L. 96–458, § 3(c), Oct. 15, 1980, 94 Stat. 2040, inserted reference to “judicial discipline” in item 372.
+1980—Pub. L. 96–458, § 3(c), Oct. 15, 1980, 94 Stat. 2040, inserted reference to “judicial discipline” in item 372.
 
-1972—Pub. L. 92–397, § 3(a), (b), Aug. 22, 1972, 86 Stat. 579, substituted “JUSTICES AND JUDGES” for “JUDGES” in chapter heading, and substituted “justices and judges of the United States” for “judges” in item 376.
+1972—Pub. L. 92–397, § 3(a), (b), Aug. 22, 1972, 86 Stat. 579, substituted “JUSTICES AND JUDGES” for “JUDGES” in chapter heading, and substituted “justices and judges of the United States” for “judges” in item 376.
 
-1959—Pub. L. 86–312, § 2, Sept. 21, 1959, 73 Stat. 587, inserted “; official station” in item 374.
+1959—Pub. L. 86–312, § 2, Sept. 21, 1959, 73 Stat. 587, inserted “; official station” in item 374.
 
-1956—Act Aug. 3, 1956, ch. 944, § 1(a), 70 Stat. 1021, substituted “Annuities to widows of justices” for “Annuities to widows on the Chief Justice and Associate Justices of the Supreme Court of the United States” in item 375 and added item 376.
+1956—Act Aug. 3, 1956, ch. 944, § 1(a), 70 Stat. 1021, substituted “Annuities to widows of justices” for “Annuities to widows on the Chief Justice and Associate Justices of the Supreme Court of the United States” in item 375 and added item 376.
 
-1954—Act Aug. 28, 1954, ch. 1053, § 2, 68 Stat. 918, added item 375.
+1954—Act Aug. 28, 1954, ch. 1053, § 2, 68 Stat. 918, added item 375.
 
-Act Feb. 10, 1954, ch. 6, § 4(b), 68 Stat. 13, transferred “; substitute judge on failure to retire” from item 371 to item 372.
+Act Feb. 10, 1954, ch. 6, § 4(b), 68 Stat. 13, transferred “; substitute judge on failure to retire” from item 371 to item 372.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -47,7 +47,7 @@ Act Feb. 10, 1954, ch. 6, § 4(b), 68 Stat. 13, transferred “; substitute 
 
 Words “magistrate judges” substituted for “magistrates” in items 375 and 377 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-## § 371. Retirement on salary; retirement in senior status
+## § 371. Retirement on salary; retirement in senior status
 
 **(a)** Any justice or judge of the United States appointed to hold office during good behavior may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired.
 
@@ -90,11 +90,11 @@ Words “magistrate judges” substituted for “magistrates” in items 375 and
 
 **(4)** In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, § 39, 65 Stat. 724; Feb. 10, 1954, ch. 6, § 4(a), 68 Stat. 12; Pub. L. 98–353, title II, § 204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, § 1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, § 705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, § 301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, § 303, Nov. 13, 2000, 114 Stat. 2417.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, § 39, 65 Stat. 724; Feb. 10, 1954, ch. 6, § 4(a), 68 Stat. 12; Pub. L. 98–353, title II, § 204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, § 1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, § 705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, § 301, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165; Pub. L. 106–518, title III, § 303, Nov. 13, 2000, 114 Stat. 2417.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 375 and 375a (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, §§ 1, 2, 50 Stat. 24; Feb. 11, 1938, ch. 25, § 1, 52 Stat. 28; May 11, 1944, ch. 192, § 1, 58 Stat. 218).
+Based on title 28, U.S.C., 1940 ed., §§ 375 and 375a (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, §§ 1, 2, 50 Stat. 24; Feb. 11, 1938, ch. 25, § 1, 52 Stat. 28; May 11, 1944, ch. 192, § 1, 58 Stat. 218).
 
 This section consolidates provisions of sections 375 and 375a of title 28, U.S.C., 1940 ed., relating to resignation and retirement. Remaining provisions of said section 375 now appear in sections 136, 294, and 756 of this title, and remaining provisions of said section 375a now appear in section 294 of this title.
 
@@ -108,21 +108,21 @@ The revised section continues the provision respecting the salary of a resigned 
 
 **Amendments**
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(2)], substituted “subsection (e)” for “subsection (f)” wherever appearing.
+2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(2)], substituted “subsection (e)” for “subsection (f)” wherever appearing.
 
-Subsec. (e). Pub. L. 106–518, which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor’s benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by Pub. L. 106–398. See below.
+Subsec. (e). Pub. L. 106–518, which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor’s benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by Pub. L. 106–398. See below.
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(1)], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding subsection (c) of section 5532 of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(1)], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding subsection (c) of section 5532 of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.”
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(1)(B)], redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title VI, § 654(a)(1)(B)], redesignated subsec. (f) as (e).
 
-1996—Subsec. (f)(1)(D). Pub. L. 104–317, § 301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
+1996—Subsec. (f)(1)(D). Pub. L. 104–317, § 301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
 
-Subsec. (f)(3). Pub. L. 104–317, § 301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
+Subsec. (f)(3). Pub. L. 104–317, § 301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
 
-1989—Subsec. (b). Pub. L. 101–194, § 705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
+1989—Subsec. (b). Pub. L. 101–194, § 705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
 
-Subsec. (f). Pub. L. 101–194, § 705(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 101–194, § 705(a)(2), added subsec. (f).
 
 1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 98–353 amended subsec. (b) generally, substituting “may
 
 Subsecs. (c), (d). Pub. L. 98–353 added subsecs. (c) and (d).
 
-1954—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
+1954—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
 
 Subsec. (a). Act Feb. 10, 1954, reenacted subsec. (a) without change.
 
@@ -148,11 +148,11 @@ Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 654(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: “The amendments made by this section [amending this section and repealing section 180 of this title] shall take effect as of October 1, 1999.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 654(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: “The amendments made by this section [amending this section and repealing section 180 of this title] shall take effect as of October 1, 1999.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–194, title VII, § 705(b), Nov. 30, 1989, 103 Stat. 1771, provided that:
+Pub. L. 101–194, title VII, § 705(b), Nov. 30, 1989, 103 Stat. 1771, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section] shall first apply with respect to work performed on or after January 1, 1990, by a justice or judge of the United States who has retired under section 371(b) of title 28, United States Code.
 
@@ -166,11 +166,11 @@ Pub. L. 101–194, title VII, § 705(b), Nov. 30, 1989, 103 Stat. 1771, provid
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title X, § 1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendment made by this section [amending this section] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 [effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees], and to whom section 5532(c) would otherwise be applicable.”
+Pub. L. 100–702, title X, § 1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendment made by this section [amending this section] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 [effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees], and to whom section 5532(c) would otherwise be applicable.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–353, title II, § 204(c), July 10, 1984, 98 Stat. 350, provided that: “The amendments made by this section [amending this section] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act [July 10, 1984].”
+Pub. L. 98–353, title II, § 204(c), July 10, 1984, 98 Stat. 350, provided that: “The amendments made by this section [amending this section] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act [July 10, 1984].”
 
 **Computation of Judicial Service, District of Alaska**
 
@@ -178,9 +178,9 @@ Pub. L. 89–70, July 8, 1965, 79 Stat. 213, provided that any service as a judg
 
 **Judicial Service in Hawaii Included Within Computation of Aggregate Years of Judicial Service**
 
-Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act [Mar. 18, 1959].”
+Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act [Mar. 18, 1959].”
 
-## § 372. Retirement for disability; substitute judge on failure to retire
+## § 372. Retirement for disability; substitute judge on failure to retire
 
 **(a)** Any justice or judge of the United States appointed to hold office during good behavior who becomes permanently disabled from performing his duties may retire from regular active service, and the President shall, by and with the advice and consent of the Senate, appoint a successor.
 
@@ -196,13 +196,13 @@ Each justice or judge retiring under this section after serving ten years contin
 
 **(b)** Whenever any judge of the United States appointed to hold office during good behavior who is eligible to retire under this section does not do so and a certificate of his disability signed by a majority of the members of the Judicial Council of his circuit in the case of a circuit or district judge, or by the Chief Justice of the United States in the case of the Chief Judge of the Court of International Trade, or by the chief judge of his court in the case of a judge of the Court of International Trade, is presented to the President and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President may make such appointment by and with the advice and consent of the Senate. Whenever any such additional judge is appointed, the vacancy subsequently caused by the death, resignation, or retirement of the disabled judge shall not be filled. Any judge whose disability causes the appointment of an additional judge shall, for purpose of precedence, service as chief judge, or temporary performance of the duties of that office, be treated as junior in commission to the other judges of the circuit, district, or court.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; May 24, 1949, ch. 139, § 67, 63 Stat. 99; Feb. 10, 1954, ch. 6, § 4(a), 68 Stat. 12; Pub. L. 85–261, Sept. 2, 1957, 71 Stat. 586; Pub. L. 96–417, title V, § 501(9), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 96–458, § 3(a), (b), Oct. 15, 1980, 94 Stat. 2036, 2040; Pub. L. 97–164, title I, § 112, Apr. 2, 1982, 96 Stat. 29; Pub. L. 98–353, title I, § 107, July 10, 1984, 98 Stat. 342; Pub. L. 100–702, title IV, § 403(c), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title IV, § 402, Dec. 1, 1990, 104 Stat. 5122; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title I, § 11043(a)(1), Nov. 2, 2002, 116 Stat. 1855.)
+(June 25, 1948, ch. 646, 62 Stat. 903; May 24, 1949, ch. 139, § 67, 63 Stat. 99; Feb. 10, 1954, ch. 6, § 4(a), 68 Stat. 12; Pub. L. 85–261, Sept. 2, 1957, 71 Stat. 586; Pub. L. 96–417, title V, § 501(9), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 96–458, § 3(a), (b), Oct. 15, 1980, 94 Stat. 2036, 2040; Pub. L. 97–164, title I, § 112, Apr. 2, 1982, 96 Stat. 29; Pub. L. 98–353, title I, § 107, July 10, 1984, 98 Stat. 342; Pub. L. 100–702, title IV, § 403(c), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title IV, § 402, Dec. 1, 1990, 104 Stat. 5122; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title I, § 11043(a)(1), Nov. 2, 2002, 116 Stat. 1855.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 375b, 375c, and 375d (Aug. 5, 1939, ch. 433, §§ 1–3, 53 Stat. 1204, 1205).
+Based on title 28, U.S.C., 1940 ed., §§ 375b, 375c, and 375d (Aug. 5, 1939, ch. 433, §§ 1–3, 53 Stat. 1204, 1205).
 
 This section consolidates sections 375b, 375c, and 375d of title 28, U.S.C., 1940 ed.
 
@@ -226,59 +226,59 @@ Subsection (a) of this section amends section 372 of title 28, U.S.C., to expres
 
 **Amendments**
 
-2002—Pub. L. 107–273, § 11043(a)(1)(A), struck out “; judicial discipline” after “failure to retire” in section catchline.
+2002—Pub. L. 107–273, § 11043(a)(1)(A), struck out “; judicial discipline” after “failure to retire” in section catchline.
 
-Subsec. (c). Pub. L. 107–273, § 11043(a)(1)(B), struck out subsec. (c), which had authorized complaints against circuit, district, bankruptcy, and magistrate judges, and set forth procedures for investigation and disposition of complaints. See chapter 16 of this title.
+Subsec. (c). Pub. L. 107–273, § 11043(a)(1)(B), struck out subsec. (c), which had authorized complaints against circuit, district, bankruptcy, and magistrate judges, and set forth procedures for investigation and disposition of complaints. See chapter 16 of this title.
 
 1992—Subsec. (c)(18). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (c)(1). Pub. L. 101–650, § 402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
+1990—Subsec. (c)(1). Pub. L. 101–650, § 402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
 
-Subsec. (c)(3)(B). Pub. L. 101–650, § 402(f), inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
+Subsec. (c)(3)(B). Pub. L. 101–650, § 402(f), inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
 
-Subsec. (c)(4). Pub. L. 101–650, § 402(b), inserted at end “A judge appointed to a special committee under this paragraph may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45 of this title. If a judge appointed to a committee under this paragraph dies, or retires from office under section 371(a) of this title, while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.”
+Subsec. (c)(4). Pub. L. 101–650, § 402(b), inserted at end “A judge appointed to a special committee under this paragraph may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of section 45 of this title. If a judge appointed to a committee under this paragraph dies, or retires from office under section 371(a) of this title, while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.”
 
-Subsec. (c)(6). Pub. L. 101–650, § 402(g), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (c)(6). Pub. L. 101–650, § 402(g), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (c)(7)(B). Pub. L. 101–650, § 402(i)(1), substituted “may have engaged in conduct” for “has engaged in conduct” in introductory provisions and “article II” for “article I” in cl. (i).
+Subsec. (c)(7)(B). Pub. L. 101–650, § 402(i)(1), substituted “may have engaged in conduct” for “has engaged in conduct” in introductory provisions and “article II” for “article I” in cl. (i).
 
-Subsec. (c)(8). Pub. L. 101–650, § 402(d), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(8). Pub. L. 101–650, § 402(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 101–650, § 402(c)(1), inserted at end “Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
+Pub. L. 101–650, § 402(c)(1), inserted at end “Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
 
-Subsec. (c)(11). Pub. L. 101–650, § 402(e), inserted at end “No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.”
+Subsec. (c)(11). Pub. L. 101–650, § 402(e), inserted at end “No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.”
 
-Subsec. (c)(14). Pub. L. 101–650, § 402(c)(2)(A), (B), substituted “Except as provided in paragraph (8), all” for “All” and “except to the extent that” for “unless” in introductory provisions.
+Subsec. (c)(14). Pub. L. 101–650, § 402(c)(2)(A), (B), substituted “Except as provided in paragraph (8), all” for “All” and “except to the extent that” for “unless” in introductory provisions.
 
-Subsec. (c)(14)(A). Pub. L. 101–650, § 402(c)(2)(E), added subpar. (A). Former subpar. (A) redesignated (B).
+Subsec. (c)(14)(A). Pub. L. 101–650, § 402(c)(2)(E), added subpar. (A). Former subpar. (A) redesignated (B).
 
-Subsec. (c)(14)(B). Pub. L. 101–650, § 402(c)(2)(D), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+Subsec. (c)(14)(B). Pub. L. 101–650, § 402(c)(2)(D), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-Pub. L. 101–650, § 402(c)(2)(C), inserted “such disclosure is” before “authorized”.
+Pub. L. 101–650, § 402(c)(2)(C), inserted “such disclosure is” before “authorized”.
 
-Subsec. (c)(14)(C). Pub. L. 101–650, § 402(c)(2)(D), (i)(2), redesignated subpar. (B) as (C) and substituted “subject of the complaint” for “subject to the complaint”.
+Subsec. (c)(14)(C). Pub. L. 101–650, § 402(c)(2)(D), (i)(2), redesignated subpar. (B) as (C) and substituted “subject of the complaint” for “subject to the complaint”.
 
-Subsec. (c)(16) to (18). Pub. L. 101–650, § 402(h), added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
+Subsec. (c)(16) to (18). Pub. L. 101–650, § 402(h), added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
 
 1988—Subsec. (c)(11). Pub. L. 100–702 inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
 
 1984—Subsec. (c)(6)(B)(vii). Pub. L. 98–353 substituted “section 152” for “section 153”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
+1982—Subsec. (a). Pub. L. 97–164, § 112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
 
-Subsec. (b). Pub. L. 97–164, § 112(b), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
+Subsec. (b). Pub. L. 97–164, § 112(b), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
 
-Subsec. (c)(17). Pub. L. 97–164, § 112(c), substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
+Subsec. (c)(17). Pub. L. 97–164, § 112(c), substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
 
-1980—Pub. L. 96–458, § 3(b), inserted “judicial discipline” in section catchline.
+1980—Pub. L. 96–458, § 3(b), inserted “judicial discipline” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-Subsec. (c). Pub. L. 96–458, § 3(a), added subsec. (c).
+Subsec. (c). Pub. L. 96–458, § 3(a), added subsec. (c).
 
 1957—Subsec. (b). Pub. L. 85–261 added subsec. (b).
 
-1954—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
+1954—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
 
 1949—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted “continuously or otherwise” after “Each justice or judge” in last par.
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Pub. L. 102–368, title I, Sept. 23, 1992, 106 Stat. 1118, provided in part that the National Commission on Judicial Discipline and Removal was to submit to Congress, the Chief Justice of the United States, and the President, the report mandated in subtitle II of title IV of Pub. L. 101–650 no later than Aug. 1, 1993.
 
-Subtitle II of title IV of Pub. L. 101–650, Dec. 1, 1990, 104 Stat. 5124, as amended by Pub. L. 102–198, § 8(a), (b)(2), Dec. 9, 1991, 105 Stat. 1625, 1626, known as the National Commission on Judicial Discipline and Removal Act, established the National Commission on Judicial Discipline and Removal to study the problems involved in the tenure of article III judges and submit to Congress, the Chief Justice of the United States, and the President, not later than one year after the Commission’s first meeting, a report of its findings, conclusions, and recommendations, and provided that the Commission was to terminate 30 days after submission of the report.
+Subtitle II of title IV of Pub. L. 101–650, Dec. 1, 1990, 104 Stat. 5124, as amended by Pub. L. 102–198, § 8(a), (b)(2), Dec. 9, 1991, 105 Stat. 1625, 1626, known as the National Commission on Judicial Discipline and Removal Act, established the National Commission on Judicial Discipline and Removal to study the problems involved in the tenure of article III judges and submit to Congress, the Chief Justice of the United States, and the President, not later than one year after the Commission’s first meeting, a report of its findings, conclusions, and recommendations, and provided that the Commission was to terminate 30 days after submission of the report.
 
 **Computation of Judicial Service, District of Alaska**
 
@@ -324,7 +324,7 @@ Inclusion of service as judge of the District Court for the Territory of Alaska 
 
 Certain judicial service in Hawaii included within computation of aggregate years of judicial service, see section 14(d) of Pub. L. 86–3, set out as a note under section 371 of this title.
 
-## § 373. Judges in territories and possessions
+## § 373. Judges in territories and possessions
 
 **(a)** Any judge of the District Court of Guam, the District Court of the Northern Mariana Islands, or the District Court of the Virgin Islands who retires from office after attaining the age and meeting the service requirements whether continuous or otherwise, of subsection (b) shall, during the remainder of his lifetime, receive an annuity equal to the salary he is receiving at the time he retires.
 
@@ -367,11 +367,11 @@ shall cease to be a senior judge and to be eligible for recall pursuant to subse
 
 **(g)** Any retired judge who is entitled to receive an annuity under subsection (a) shall be entitled to a cost of living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, except that in no case may the annuity payable to such retired judge, as increased under this subsection, exceed 95 per centum of the salary of a United States district judge in regular active service.
 
-(June 25, 1948, ch. 646, 62 Stat. 904; Oct. 31, 1951, ch. 655, § 40, 65 Stat. 724; Feb. 10, 1954, ch. 6, § 5, 68 Stat. 13; Pub. L. 85–508, § 12(d), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10; Pub. L. 89–571, § 2, Sept. 12, 1966, 80 Stat. 764; Pub. L. 94–470, Oct. 11, 1976, 90 Stat. 2052; Pub. L. 99–396, § 21(a), Aug. 27, 1986, 100 Stat. 844.)
+(June 25, 1948, ch. 646, 62 Stat. 904; Oct. 31, 1951, ch. 655, § 40, 65 Stat. 724; Feb. 10, 1954, ch. 6, § 5, 68 Stat. 13; Pub. L. 85–508, § 12(d), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10; Pub. L. 89–571, § 2, Sept. 12, 1966, 80 Stat. 764; Pub. L. 94–470, Oct. 11, 1976, 90 Stat. 2052; Pub. L. 99–396, § 21(a), Aug. 27, 1986, 100 Stat. 844.)
 
 **Historical and Revision Notes**
 
-Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. [title 28, U.S.C., 1940 ed., §§ 375g, 375g note, 375h] (May 31, 1938, ch. 301, §§ 1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§ 1, 2, 3, 60 Stat. 90, 91).
+Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. [title 28, U.S.C., 1940 ed., §§ 375g, 375g note, 375h] (May 31, 1938, ch. 301, §§ 1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§ 1, 2, 3, 60 Stat. 90, 91).
 
 Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as amended and transferred to title 28, U.S.C., 1940 ed., as sections 375g and 375h thereof, with changes of phraseology necessary to effect consolidation.
 
@@ -405,7 +405,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–396, § 21(c), Aug. 27, 1986, 100 Stat. 846, provided that: “The amendments made by this section [amending this section and section 376 of this title] shall not affect the amount payable to a judge who retired in accordance with the provisions of section 373 of title 28, United States Code, in effect on the day before the date of enactment of this Act [Aug. 27, 1986].”
+Pub. L. 99–396, § 21(c), Aug. 27, 1986, 100 Stat. 846, provided that: “The amendments made by this section [amending this section and section 376 of this title] shall not affect the amount payable to a judge who retired in accordance with the provisions of section 373 of title 28, United States Code, in effect on the day before the date of enactment of this Act [Aug. 27, 1986].”
 
 **Effective Date of 1959 Amendment**
 
@@ -417,7 +417,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska i
 
 **Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges**
 
-Pub. L. 98–454, title X, § 1002, Oct. 5, 1984, 98 Stat. 1745, provided that:
+Pub. L. 98–454, title X, § 1002, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
 > **“(a)** Any judge or former judge who is receiving, or will upon attaining the age of sixty-five years be entitled to receive, payments pursuant to section 373 of title 28, United States Code[,] may elect to become a senior judge of the court on which he served while on active duty.
 
@@ -445,25 +445,25 @@ Amendment by Pub. L. 89–571 not to affect tenure of office or right to continu
 
 **Preservation of Rights of Retired Judges of the District Court for the District of Hawaii and Justices of the Supreme Court of the Territory of Hawaii**
 
-Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection” . See Effective Date of 1959 Amendment note above.
+Pub. L. 86–3, § 14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection” . See Effective Date of 1959 Amendment note above.
 
 **Preservation of Rights of Retired Judges of the District Court for the Territory of Alaska**
 
-Pub. L. 85–508, § 12(d), July 7, 1958, 72 Stat. 348, provided in part: “That the amendment made by this subsection shall not affect the rights of any judge who may have retired before it takes effect” . See Effective Date of 1958 Amendment note above.
+Pub. L. 85–508, § 12(d), July 7, 1958, 72 Stat. 348, provided in part: “That the amendment made by this subsection shall not affect the rights of any judge who may have retired before it takes effect” . See Effective Date of 1958 Amendment note above.
 
 **Judicial Service in Hawaii**
 
 Certain judicial service in Hawaii included within computation of aggregate years of judicial service, see section 14(d) of Pub. L. 86–3, set out as a note under section 371 of this title.
 
-## § 374. Residence of retired judges; official station
+## § 374. Residence of retired judges; official station
 
 Retired judges of the United States are not subject to restrictions as to residence. The place where a retired judge maintains the actual abode in which he customarily lives shall be deemed to be his official station for the purposes of section 456 of this title. The place where a judge or magistrate judge recalled under section 155, 375, 636, or 797 of this title maintains the actual abode in which the judge or magistrate judge customarily lives shall be deemed to be the official station of such judge or magistrate judge for purposes of section 604(a)(7) of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 904; Pub. L. 86–312, § 1, Sept. 21, 1959, 73 Stat. 587; Pub. L. 99–651, title II, § 202(b), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 904; Pub. L. 86–312, § 1, Sept. 21, 1959, 73 Stat. 587; Pub. L. 99–651, title II, § 202(b), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 402 (Feb. 11, 1938, ch. 23, 52 Stat. 28).
+Based on title 28, U.S.C., 1940 ed., § 402 (Feb. 11, 1938, ch. 23, 52 Stat. 28).
 
 Sections 44 and 133 of this title require that active circuit and district judges shall reside in the circuit or district to which appointed.
 
@@ -475,7 +475,7 @@ Changes were made in phraseology.
 
 1986—Pub. L. 99–651 inserted last sentence.
 
-1959—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted “; official station” in section catchline.
+1959—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted “; official station” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -487,7 +487,7 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 
 Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L. 99–651, set out as a note under section 155 of this title.
 
-## § 375. Recall of certain judges and magistrate judges
+## § 375. Recall of certain judges and magistrate judges
 
 **(a)**
 
@@ -495,7 +495,7 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 **(2)** For purposes of paragraph (1) of this subsection, a certification may be made, in the case of a bankruptcy judge or a United States magistrate,1
 
-<sup>1</sup>  So in original. Probably should be “United States magistrate judge,”.
+<sup>1</sup> So in original. Probably should be “United States magistrate judge,”.
 
 by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located.
 
@@ -515,13 +515,13 @@ by the judicial council of the circuit in which the official duty station of the
 
 **(h)** The Judicial Conference of the United States shall promulgate regulations to implement this section.
 
-(Added Pub. L. 99–651, title II, § 201(b)(1), Nov. 14, 1986, 100 Stat. 3647; amended Pub. L. 100–659, § 4(b), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 101–650, title III, §§ 321, 325(b)(2), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–572, title IX, § 904(a), Oct. 29, 1992, 106 Stat. 4517; Pub. L. 107–273, div. C, title I, § 11043(d), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 116–325, § 5, Jan. 12, 2021, 134 Stat. 5094.)
+(Added Pub. L. 99–651, title II, § 201(b)(1), Nov. 14, 1986, 100 Stat. 3647; amended Pub. L. 100–659, § 4(b), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 101–650, title III, §§ 321, 325(b)(2), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–572, title IX, § 904(a), Oct. 29, 1992, 106 Stat. 4517; Pub. L. 107–273, div. C, title I, § 11043(d), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 116–325, § 5, Jan. 12, 2021, 134 Stat. 5094.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 375, added Aug. 28, 1954, ch. 1053, § 1, 68 Stat. 918; amended Aug. 3, 1956, ch. 944, § 1(b), 70 Stat. 1021; Aug. 22, 1972, Pub. L. 92–397, § 1, 86 Stat. 579, provided for annuities to widows of justices, prior to repeal by Pub. L. 96–504, § 5, Dec. 5, 1980, 94 Stat. 2742.
+A prior section 375, added Aug. 28, 1954, ch. 1053, § 1, 68 Stat. 918; amended Aug. 3, 1956, ch. 944, § 1(b), 70 Stat. 1021; Aug. 22, 1972, Pub. L. 92–397, § 1, 86 Stat. 579, provided for annuities to widows of justices, prior to repeal by Pub. L. 96–504, § 5, Dec. 5, 1980, 94 Stat. 2742.
 
 **Amendments**
 
@@ -529,29 +529,29 @@ A prior section 375, added Aug. 28, 1954, ch. 1053, § 1, 68 Stat. 918; amende
 
 2002—Subsec. (d). Pub. L. 107–273 substituted “chapter 16” for “section 372(c)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–572, § 904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
+1992—Subsec. (a)(1). Pub. L. 102–572, § 904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
 
-Subsec. (a)(2). Pub. L. 102–572, § 904(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1) of this subsection, a certification may be made—
+Subsec. (a)(2). Pub. L. 102–572, § 904(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1) of this subsection, a certification may be made—
 
 “(A) in the case of a bankruptcy judge or a United States magistrate, by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located; and
 
 “(B) in the case of a judge of the Claims Court, by the chief judge of the United States Claims Court.”
 
-Subsec. (a)(3). Pub. L. 102–572, § 904(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
+Subsec. (a)(3). Pub. L. 102–572, § 904(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
 
 “(A) the term ‘bankruptcy judge’ means a bankruptcy judge appointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984; and
 
 “(B) the term ‘judge of the Claims Court’ means a judge of the United States Claims Court who is appointed under chapter 7 of this title or who has served under section 167 of the Federal Courts Improvement Act of 1982.”
 
-Subsec. (f). Pub. L. 102–572, § 904(a)(4), struck out “, a judge of the Claims Court,” after “bankruptcy judge” and “, a commissioner of the Court of Claims,” after “referee in bankruptcy”.
+Subsec. (f). Pub. L. 102–572, § 904(a)(4), struck out “, a judge of the Claims Court,” after “bankruptcy judge” and “, a commissioner of the Court of Claims,” after “referee in bankruptcy”.
 
 1990—Subsec. (a)(1). Pub. L. 101–650 substituted “section 377 of this title” for “section 377 of title”.
 
-1988—Subsec. (a)(1). Pub. L. 100–659, § 4(b)(1), inserted “under the provisions of section 377 of title or” after “has retired”.
+1988—Subsec. (a)(1). Pub. L. 100–659, § 4(b)(1), inserted “under the provisions of section 377 of title or” after “has retired”.
 
-Subsec. (c). Pub. L. 100–659, § 4(b)(2), inserted “under the provisions of section 377 of this title or” after “annuity provided” and inserted at end “The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.”
+Subsec. (c). Pub. L. 100–659, § 4(b)(2), inserted “under the provisions of section 377 of this title or” after “annuity provided” and inserted at end “The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.”
 
-Subsec. (g). Pub. L. 100–659, § 4(b)(3), inserted “who retired under the applicable provisions of title 5” after “section”.
+Subsec. (g). Pub. L. 100–659, § 4(b)(3), inserted “who retired under the applicable provisions of title 5” after “section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,7 +571,7 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 Section effective Jan. 1, 1987, see section 203 of Pub. L. 99–651, set out as an Effective Date of 1986 Amendment note under section 155 of this title.
 
-## § 376. Annuities for survivors of certain judicial officials of the United States
+## § 376. Annuities for survivors of certain judicial officials of the United States
 
 **(a)** For the purposes of this section—
 
@@ -741,7 +741,7 @@ whichever is smallest.
 
 **(4)** those years during which such judicial official served as an “employee”, as that term is defined in subsection (1) of section 8331 of title 5, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section,1
 
-<sup>1</sup>  So in original. Comma probably should be a semicolon.
+<sup>1</sup> So in original. Comma probably should be a semicolon.
 
 and
 
@@ -867,7 +867,7 @@ whichever is later, and
 
 **(x)** For each year of Federal judicial service completed, judicial officials who are enrolled in the Judicial Survivors’ Annuities System on the date of enactment of the Judicial Survivors Protection Act of 2009 may purchase, in 3-month increments, up to an additional year of service credit, under the terms set forth in this section. In the case of judicial officials who elect to enroll in the Judicial Survivors’ Annuities System during the statutory open enrollment period authorized under the Judicial Survivors Protection Act of 2009, for each year of Federal judicial service completed, such an official may purchase, in 3-month increments, up to an additional year of service credit for each year of Federal judicial service completed, under the terms set forth in section 4(a) of that Act.
 
-(Added Aug. 3, 1956, ch. 944, § 2, 70 Stat. 1021; amended Pub. L. 85–508, § 12(n), July 7, 1958, 72 Stat. 348; Pub. L. 90–219, title II, § 202, Dec. 20, 1967, 81 Stat. 668; Pub. L. 90–466, § 1(a), Aug. 8, 1968, 82 Stat. 662; Pub. L. 92–397, §§ 2, 3(c), Aug. 22, 1972, 86 Stat. 579, 580; Pub. L. 94–554, § 2, Oct. 19, 1976, 90 Stat. 2603; Pub. L. 95–598, title II, § 211, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 99–336, § 2(a), (d)(1)–(3), (e), June 19, 1986, 100 Stat. 633, 635–637; Pub. L. 99–396, § 21(b), Aug. 27, 1986, 100 Stat. 846; Pub. L. 100–659, § 3(a), Nov. 15, 1988, 102 Stat. 3917; Pub. L. 100–702, title X, § 1017(a), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 101–650, title III, §§ 306(b), 321, 322(a)–(f), (g)[(h)], Dec. 1, 1990, 104 Stat. 5109, 5117–5120; Pub. L. 102–572, title II, § 201(a)–(i), title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4508–4510, 4516; Pub. L. 104–317, title III, §§ 302, 308, Oct. 19, 1996, 110 Stat. 3851, 3853; Pub. L. 106–518, title III, § 312(b), Nov. 13, 2000, 114 Stat. 2421; Pub. L. 110–402, § 1(b)(2), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 110–428, § 3(a), (b), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 111–49, § 6, Aug. 12, 2009, 123 Stat. 1977; Pub. L. 112–234, § 2(b), Dec. 28, 2012, 126 Stat. 1624.)
+(Added Aug. 3, 1956, ch. 944, § 2, 70 Stat. 1021; amended Pub. L. 85–508, § 12(n), July 7, 1958, 72 Stat. 348; Pub. L. 90–219, title II, § 202, Dec. 20, 1967, 81 Stat. 668; Pub. L. 90–466, § 1(a), Aug. 8, 1968, 82 Stat. 662; Pub. L. 92–397, §§ 2, 3(c), Aug. 22, 1972, 86 Stat. 579, 580; Pub. L. 94–554, § 2, Oct. 19, 1976, 90 Stat. 2603; Pub. L. 95–598, title II, § 211, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 99–336, § 2(a), (d)(1)–(3), (e), June 19, 1986, 100 Stat. 633, 635–637; Pub. L. 99–396, § 21(b), Aug. 27, 1986, 100 Stat. 846; Pub. L. 100–659, § 3(a), Nov. 15, 1988, 102 Stat. 3917; Pub. L. 100–702, title X, § 1017(a), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 101–650, title III, §§ 306(b), 321, 322(a)–(f), (g)[(h)], Dec. 1, 1990, 104 Stat. 5109, 5117–5120; Pub. L. 102–572, title II, § 201(a)–(i), title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4508–4510, 4516; Pub. L. 104–317, title III, §§ 302, 308, Oct. 19, 1996, 110 Stat. 3851, 3853; Pub. L. 106–518, title III, § 312(b), Nov. 13, 2000, 114 Stat. 2421; Pub. L. 110–402, § 1(b)(2), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 110–428, § 3(a), (b), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 111–49, § 6, Aug. 12, 2009, 123 Stat. 1977; Pub. L. 112–234, § 2(b), Dec. 28, 2012, 126 Stat. 1624.)
 
 **Editorial Notes**
 
@@ -887,23 +887,23 @@ The Judicial Survivors Protection Act of 2009, referred to in subsec. (x), is Pu
 
 **Amendments**
 
-2012—Subsec. (h)(2). Pub. L. 112–234, § 2(b)(2), substituted “subsection (w)” for “subsection (x)”.
+2012—Subsec. (h)(2). Pub. L. 112–234, § 2(b)(2), substituted “subsection (w)” for “subsection (x)”.
 
-Subsecs. (w) to (y). Pub. L. 112–234, § 2(b)(1), redesignated subsecs. (x) and (y) as (w) and (x), respectively, and struck out former subsec. (w) which read as follows: “The Comptroller General of the United States shall, at the end of each 3-fiscal year period, determine whether the contributions by judicial officials under subsection (b) during that 3-year period accounted for 50 percent of the costs of the Judicial Survivors’ Annuities Fund and if not, then what adjustments in the contribution rates under subsection (b) should be made to achieve that 50 percent figure. The Comptroller General shall report the results of each determination under this subsection to the Congress.”
+Subsecs. (w) to (y). Pub. L. 112–234, § 2(b)(1), redesignated subsecs. (x) and (y) as (w) and (x), respectively, and struck out former subsec. (w) which read as follows: “The Comptroller General of the United States shall, at the end of each 3-fiscal year period, determine whether the contributions by judicial officials under subsection (b) during that 3-year period accounted for 50 percent of the costs of the Judicial Survivors’ Annuities Fund and if not, then what adjustments in the contribution rates under subsection (b) should be made to achieve that 50 percent figure. The Comptroller General shall report the results of each determination under this subsection to the Congress.”
 
 2009—Subsec. (y). Pub. L. 111–49 added subsec. (y).
 
 2008—Subsec. (a)(1)(E), (2)(E). Pub. L. 110–402 substituted “a Counselor” for “an administrative assistant”.
 
-Subsec. (h)(2). Pub. L. 110–428, § 3(b), substituted “, subject to subsection (x).” for period at end.
+Subsec. (h)(2). Pub. L. 110–428, § 3(b), substituted “, subject to subsection (x).” for period at end.
 
-Subsec. (x). Pub. L. 110–428, § 3(a), added subsec. (x).
+Subsec. (x). Pub. L. 110–428, § 3(a), added subsec. (x).
 
-2000—Subsec. (a)(1)(D). Pub. L. 106–518, § 312(b)(1), substituted “subsection (a)” for “subsection (b)”.
+2000—Subsec. (a)(1)(D). Pub. L. 106–518, § 312(b)(1), substituted “subsection (a)” for “subsection (b)”.
 
-Subsec. (a)(2)(D). Pub. L. 106–518, § 312(b)(2), substituted “subsection (b) or (c)” for “subsection (c) or (d)”.
+Subsec. (a)(2)(D). Pub. L. 106–518, § 312(b)(2), substituted “subsection (b) or (c)” for “subsection (c) or (d)”.
 
-1996—Subsec. (b)(1). Pub. L. 104–317, § 308, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every judicial official who files a written notification of his or her intention to come within the purview of this section, in accordance with paragraph (1) of subsection (a) of this section, shall be deemed thereby to consent and agree to having deducted and withheld from his or her salary, a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary. The deduction from any retirement salary—
+1996—Subsec. (b)(1). Pub. L. 104–317, § 308, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every judicial official who files a written notification of his or her intention to come within the purview of this section, in accordance with paragraph (1) of subsection (a) of this section, shall be deemed thereby to consent and agree to having deducted and withheld from his or her salary, a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary. The deduction from any retirement salary—
 
 “(A) of a justice or judge of the United States retired from regular active service who is described in section 371(b)(1) of this title,
 
@@ -915,97 +915,97 @@ Subsec. (a)(2)(D). Pub. L. 106–518, § 312(b)(2), substituted “subsection 
 
 shall be an amount equal to 2.2 percent of retirement salary.”
 
-Subsec. (*o*)(1). Pub. L. 104–317, § 302, substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section,” for “or while receiving ‘retirement salary’,” in introductory provisions.
+Subsec. (*o*)(1). Pub. L. 104–317, § 302, substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section,” for “or while receiving ‘retirement salary’,” in introductory provisions.
 
-1992—Subsec. (a)(1). Pub. L. 102–572, §§ 201(a), 902(b)(2), in concluding provisions substituted “Court of Federal Claims” for “Claims Court” in cl. (vi) and added cl. (vii).
+1992—Subsec. (a)(1). Pub. L. 102–572, §§ 201(a), 902(b)(2), in concluding provisions substituted “Court of Federal Claims” for “Claims Court” in cl. (vi) and added cl. (vii).
 
-Subsec. (a)(1)(G), (2)(G). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+Subsec. (a)(1)(G), (2)(G). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (b). Pub. L. 102–572, § 201(b), designated first sentence as par. (1), substituted “a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary.” and second sentence for “including any ‘retirement salary’, a sum equal to 5 percent of that salary.”, added par. (2), designated last 3 sentences as par. (3), and substituted “deducted and withheld from the salary of each judicial official under paragraphs (1) and (2) of this subsection” for “so deducted and withheld from the salary of each such judicial official”.
+Subsec. (b). Pub. L. 102–572, § 201(b), designated first sentence as par. (1), substituted “a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary.” and second sentence for “including any ‘retirement salary’, a sum equal to 5 percent of that salary.”, added par. (2), designated last 3 sentences as par. (3), and substituted “deducted and withheld from the salary of each judicial official under paragraphs (1) and (2) of this subsection” for “so deducted and withheld from the salary of each such judicial official”.
 
-Subsec. (d)(1), (2). Pub. L. 102–572, § 201(c), substituted “3.5 percent” for “5 percent”.
+Subsec. (d)(1), (2). Pub. L. 102–572, § 201(c), substituted “3.5 percent” for “5 percent”.
 
-Subsec. (g). Pub. L. 102–572, § 201(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If any judicial official resigns from office without receiving any ‘retirement salary,’ all amounts credited to his or her individual account, together with interest at 4 percent per annum to December 31, 1947; and at 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his or her relinquishment of office, shall be returned to that judicial official in a lump-sum payment within a reasonable period of time following the date of his or her relinquishment of office. For the purposes of this subsection a ‘reasonable period of time’ shall be presumed to be no longer than one year following the date upon which such judicial official relinquished his or her office.”
+Subsec. (g). Pub. L. 102–572, § 201(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If any judicial official resigns from office without receiving any ‘retirement salary,’ all amounts credited to his or her individual account, together with interest at 4 percent per annum to December 31, 1947; and at 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his or her relinquishment of office, shall be returned to that judicial official in a lump-sum payment within a reasonable period of time following the date of his or her relinquishment of office. For the purposes of this subsection a ‘reasonable period of time’ shall be presumed to be no longer than one year following the date upon which such judicial official relinquished his or her office.”
 
-Subsec. (h)(1). Pub. L. 102–572, § 201(e), substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section” for “or while receiving ‘retirement salary,’ ”.
+Subsec. (h)(1). Pub. L. 102–572, § 201(e), substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section” for “or while receiving ‘retirement salary,’ ”.
 
-Subsec. (k)(5). Pub. L. 102–572, § 201(f), added par. (5).
+Subsec. (k)(5). Pub. L. 102–572, § 201(f), added par. (5).
 
-Subsec. (*l*)(1). Pub. L. 102–572, § 201(g), substituted “, or during those three years while receiving a retirement salary, in which his or her annual salary or retirement salary” for “in which his or her annual salary” in cl. (i) of introductory provisions, added subpar. (D), and redesignated former subpar. (D) as (E).
+Subsec. (*l*)(1). Pub. L. 102–572, § 201(g), substituted “, or during those three years while receiving a retirement salary, in which his or her annual salary or retirement salary” for “in which his or her annual salary” in cl. (i) of introductory provisions, added subpar. (D), and redesignated former subpar. (D) as (E).
 
-Subsec. (v). Pub. L. 102–572, § 201(h), added subsec. (v).
+Subsec. (v). Pub. L. 102–572, § 201(h), added subsec. (v).
 
-Subsec. (w). Pub. L. 102–572, § 201(i), added subsec. (w).
+Subsec. (w). Pub. L. 102–572, § 201(i), added subsec. (w).
 
-1990—Subsec. (a)(1). Pub. L. 101–650, § 306(b)(1), added subpar. (G) and cl. (vi) before semicolon at end.
+1990—Subsec. (a)(1). Pub. L. 101–650, § 306(b)(1), added subpar. (G) and cl. (vi) before semicolon at end.
 
-Subsec. (a)(2)(G). Pub. L. 101–650, § 306(b)(2), added subpar. (G).
+Subsec. (a)(2)(G). Pub. L. 101–650, § 306(b)(2), added subpar. (G).
 
-Subsec. (a)(5)(C). Pub. L. 101–650, § 322(g)(2), substituted “paragraph” for “subparagraph”.
+Subsec. (a)(5)(C). Pub. L. 101–650, § 322(g)(2), substituted “paragraph” for “subparagraph”.
 
-Subsec. (a)(7). Pub. L. 101–650, § 322(b), added par. (7).
+Subsec. (a)(7). Pub. L. 101–650, § 322(b), added par. (7).
 
-Subsec. (b). Pub. L. 101–650, § 306(b)(3), substituted “section 178 or 377” for “section 377” in two places.
+Subsec. (b). Pub. L. 101–650, § 306(b)(3), substituted “section 178 or 377” for “section 377” in two places.
 
-Subsec. (h)(1). Pub. L. 101–650, § 322(a)(1)–(4), inserted “(A)” before “after having completed”, inserted “, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieu thereof, the deposits required by subsection (d) have actually been made” after “have actually been made”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, in cl. (ii) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in cl. (iii) redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, and in subcl. (I) substituted “clause (i) of this paragraph” for “subparagraph (1)(A) of this subsection”.
+Subsec. (h)(1). Pub. L. 101–650, § 322(a)(1)–(4), inserted “(A)” before “after having completed”, inserted “, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieu thereof, the deposits required by subsection (d) have actually been made” after “have actually been made”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, in cl. (ii) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in cl. (iii) redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, and in subcl. (I) substituted “clause (i) of this paragraph” for “subparagraph (1)(A) of this subsection”.
 
-Subsec. (h)(2). Pub. L. 101–650, § 322(g)(1)(A), substituted “clause (i) or (ii) of paragraph (1)” for “subparagraphs (1)(A) or (1)(B)”.
+Subsec. (h)(2). Pub. L. 101–650, § 322(g)(1)(A), substituted “clause (i) or (ii) of paragraph (1)” for “subparagraphs (1)(A) or (1)(B)”.
 
-Subsec. (h)(3). Pub. L. 101–650, § 322(g)(1)(B), substituted “paragraph” for “subparagraph” wherever appearing.
+Subsec. (h)(3). Pub. L. 101–650, § 322(g)(1)(B), substituted “paragraph” for “subparagraph” wherever appearing.
 
-Subsec. (h)(4). Pub. L. 101–650, § 322(g)(1)(C), substituted “paragraph (1)(ii)” for “subparagraph (1)(B)” in two places and “paragraph (1)(iii)” for “subparagraph (1)(C)”.
+Subsec. (h)(4). Pub. L. 101–650, § 322(g)(1)(C), substituted “paragraph (1)(ii)” for “subparagraph (1)(B)” in two places and “paragraph (1)(iii)” for “subparagraph (1)(C)”.
 
-Subsec. (h)(6). Pub. L. 101–650, § 322(a)(5), added par. (6).
+Subsec. (h)(6). Pub. L. 101–650, § 322(a)(5), added par. (6).
 
-Subsec. (i). Pub. L. 101–650, § 322(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (i). Pub. L. 101–650, § 322(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (*l*)(1)(ii). Pub. L. 101–650, § 322(d), struck out “but more than eighteen months,” after “less than three years,”.
+Subsec. (*l*)(1)(ii). Pub. L. 101–650, § 322(d), struck out “but more than eighteen months,” after “less than three years,”.
 
-Subsec. (*o*). Pub. L. 101–650, § 322(e), inserted “(1)” after “(*o*)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “subject to paragraph (2) of this subsection,” before “before having completed” in subpar. (A), and added par. (2).
+Subsec. (*o*). Pub. L. 101–650, § 322(e), inserted “(1)” after “(*o*)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “subject to paragraph (2) of this subsection,” before “before having completed” in subpar. (A), and added par. (2).
 
-Subsec. (u). Pub. L. 101–650, § 322(f), added subsec. (u).
+Subsec. (u). Pub. L. 101–650, § 322(f), added subsec. (u).
 
-1988—Subsec. (a)(1). Pub. L. 100–659, § 3(a)(1), added subpar. (F) and substituted “, (iv) October 1, 1986, or (v) the date of the enactment of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, in the case of a full-time bankruptcy judge or United States magistrate in active service on that date;” for “; or (iv) October 1, 1986;” in concluding provisions.
+1988—Subsec. (a)(1). Pub. L. 100–659, § 3(a)(1), added subpar. (F) and substituted “, (iv) October 1, 1986, or (v) the date of the enactment of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, in the case of a full-time bankruptcy judge or United States magistrate in active service on that date;” for “; or (iv) October 1, 1986;” in concluding provisions.
 
-Subsec. (a)(2)(F). Pub. L. 100–659, § 3(a)(2), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 100–659, § 3(a)(2), added subpar. (F).
 
-Subsec. (b). Pub. L. 100–659, § 3(a)(3), inserted “(and any deductions made under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” after “deductions” and “(and under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” before period at end of last sentence.
+Subsec. (b). Pub. L. 100–659, § 3(a)(3), inserted “(and any deductions made under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” after “deductions” and “(and under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” before period at end of last sentence.
 
 Subsec. (m). Pub. L. 100–702 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable from the ‘Judicial Survivors’ Annuities Fund’, which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shall also be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity.”
 
-1986—Subsec. (a)(1). Pub. L. 99–336, § 2(a)(1), substituted “she marries, (iii) January 1, 1977; or (iv) October 1, 1986” for “she marries, or (iii) the date upon which the Judicial Survivors’ Annuities Reform Act becomes effective” in concluding provision.
+1986—Subsec. (a)(1). Pub. L. 99–336, § 2(a)(1), substituted “she marries, (iii) January 1, 1977; or (iv) October 1, 1986” for “she marries, or (iii) the date upon which the Judicial Survivors’ Annuities Reform Act becomes effective” in concluding provision.
 
-Subsec. (a)(1)(B). Pub. L. 99–396, § 21(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands;”.
+Subsec. (a)(1)(B). Pub. L. 99–396, § 21(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands;”.
 
-Subsec. (a)(2)(B). Pub. L. 99–396, § 21(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, salary paid after retirement from office (i) by resignation on salary under section 373 of this title or (ii) by removal or failure of reappointment after not less than ten years’ judicial service;”.
+Subsec. (a)(2)(B). Pub. L. 99–396, § 21(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, salary paid after retirement from office (i) by resignation on salary under section 373 of this title or (ii) by removal or failure of reappointment after not less than ten years’ judicial service;”.
 
-Subsec. (a)(6). Pub. L. 99–336, § 2(d)(1), added par. (6).
+Subsec. (a)(6). Pub. L. 99–336, § 2(d)(1), added par. (6).
 
-Subsec. (b). Pub. L. 99–336, § 2(a)(2), substituted “5 percent” for “4.5 percent”.
+Subsec. (b). Pub. L. 99–336, § 2(a)(2), substituted “5 percent” for “4.5 percent”.
 
-Subsec. (c). Pub. L. 99–336, § 2(a)(3), in amending subsec. (c) generally, designated existing provisions as par. (1), substituted provisions which related to amounts deposited to credit of Judicial Survivors’ Annuities Fund to reduce unfunded liability of Fund to zero, for provisions which related to deposit of amounts matching those deducted and withheld in accordance with subsec. (b), and added pars. (2) and (3).
+Subsec. (c). Pub. L. 99–336, § 2(a)(3), in amending subsec. (c) generally, designated existing provisions as par. (1), substituted provisions which related to amounts deposited to credit of Judicial Survivors’ Annuities Fund to reduce unfunded liability of Fund to zero, for provisions which related to deposit of amounts matching those deducted and withheld in accordance with subsec. (b), and added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 99–336, § 2(a)(2), substituted “5 percent” for “4.5 percent” in pars. (1) and (2).
+Subsec. (d). Pub. L. 99–336, § 2(a)(2), substituted “5 percent” for “4.5 percent” in pars. (1) and (2).
 
-Subsec. (h)(1)(B). Pub. L. 99–336, § 2(a)(4)(A), substituted “10 percent of the average annual salary determined under subsection (*l*)(1) of this section” for “$1,548” in cl. (i) and “20 percent of such average annual salary” for “$4,644” in cl. (ii).
+Subsec. (h)(1)(B). Pub. L. 99–336, § 2(a)(4)(A), substituted “10 percent of the average annual salary determined under subsection (*l*)(1) of this section” for “$1,548” in cl. (i) and “20 percent of such average annual salary” for “$4,644” in cl. (ii).
 
-Subsec. (h)(1)(C). Pub. L. 99–336, § 2(a)(4)(B), substituted “20 percent of the average annual salary determined under subsection (*l*)(1) of this section” for “$1,860” in cl. (ii) and “40 percent of such average annual salary amount” for “$5,580” in cl. (iii).
+Subsec. (h)(1)(C). Pub. L. 99–336, § 2(a)(4)(B), substituted “20 percent of the average annual salary determined under subsection (*l*)(1) of this section” for “$1,860” in cl. (ii) and “40 percent of such average annual salary amount” for “$5,580” in cl. (iii).
 
-Subsec. (h)(2). Pub. L. 99–336, § 2(a)(4)(C), inserted “before attaining age 55” after “or remarriage”.
+Subsec. (h)(2). Pub. L. 99–336, § 2(a)(4)(C), inserted “before attaining age 55” after “or remarriage”.
 
-Subsec. (k)(1). Pub. L. 99–336, § 2(e), struck out “under subsection (b) of” before “section 371”.
+Subsec. (k)(1). Pub. L. 99–336, § 2(e), struck out “under subsection (b) of” before “section 371”.
 
-Subsec. (*l*). Pub. L. 99–336, § 2(a)(5)(C), (d)(3)(A), substituted provisions which set annuity limit not to exceed 50 percent of, nor be less than 25 percent of, average annual salary, for provisions which set annuity limit not to exceed 40 percent of average annual salary, and inserted provision that annuity determined in accordance with provisions of subsec. (*l*) be reduced by the amount of any annuity payable to a former spouse under subsection (t).
+Subsec. (*l*). Pub. L. 99–336, § 2(a)(5)(C), (d)(3)(A), substituted provisions which set annuity limit not to exceed 50 percent of, nor be less than 25 percent of, average annual salary, for provisions which set annuity limit not to exceed 40 percent of average annual salary, and inserted provision that annuity determined in accordance with provisions of subsec. (*l*) be reduced by the amount of any annuity payable to a former spouse under subsection (t).
 
-Subsec. (*l*)(1). Pub. L. 99–336, § 2(a)(5)(A), substituted “1.5 percent” for “1¼ percent”.
+Subsec. (*l*)(1). Pub. L. 99–336, § 2(a)(5)(A), substituted “1.5 percent” for “1¼ percent”.
 
-Subsec. (*l*)(2). Pub. L. 99–336, § 2(a)(5)(B), substituted “of this subsection;” for “of this subsection:”.
+Subsec. (*l*)(2). Pub. L. 99–336, § 2(a)(5)(B), substituted “of this subsection;” for “of this subsection:”.
 
-Subsec. (n). Pub. L. 99–336, § 2(d)(3)(B), inserted “except as provided in subsections (s) and (t),” after “in equity,” in last sentence.
+Subsec. (n). Pub. L. 99–336, § 2(d)(3)(B), inserted “except as provided in subsections (s) and (t),” after “in equity,” in last sentence.
 
-Subsec. (*o*)(2), (3). Pub. L. 99–336, § 2(d)(3)(C), inserted “or (t)” after “subsection (h)”.
+Subsec. (*o*)(2), (3). Pub. L. 99–336, § 2(d)(3)(C), inserted “or (t)” after “subsection (h)”.
 
-Subsecs. (s), (t). Pub. L. 99–336, § 2(d)(2), added subsecs. (s) and (t).
+Subsecs. (s), (t). Pub. L. 99–336, § 2(d)(2), added subsecs. (s) and (t).
 
 1978—Subsec. (a)(2)(A). Pub. L. 95–598 directed the amendment of subpar. (A) by adding cl. (iii) relating to bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -1027,7 +1027,7 @@ Words “magistrate judge” and “United States magistrate judge” substitute
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–428, § 3(c), Oct. 15, 2008, 122 Stat. 4840, as amended by Pub. L. 111–32, title V, § 501(a), June 24, 2009, 123 Stat. 1879, provided that:
+Pub. L. 110–428, § 3(c), Oct. 15, 2008, 122 Stat. 4840, as amended by Pub. L. 111–32, title V, § 501(a), June 24, 2009, 123 Stat. 1879, provided that:
 
 > **“(1) In general.—** This section [amending this section] and the amendments made by this section shall take effect on the first day of the first month beginning at least 30 days after the date of the enactment of this Act [Oct. 15, 2008] and shall apply in the case of a remarriage which is dissolved by death, divorce, or annulment on or after such first day.
 
@@ -1043,11 +1043,11 @@ Pub. L. 110–428, § 3(c), Oct. 15, 2008, 122 Stat. 4840, as amended by Pub. 
 
 > **“(C) Lump-sum payment.—** Any amounts becoming payable to the widow or widower under this subsection for the period beginning on the date on which the annuity was terminated and ending on the date on which periodic annuity payments resume shall be payable in a lump-sum payment.”
 
-[Pub. L. 111–32, title V, § 501(b), June 24, 2009, 123 Stat. 1879, provided that: “The amendments made by subsection (a) [amending section 3(c) of Pub. L. 110–428, set out above] shall take effect as if included in the enactment of Public Law 110–428.” ]
+[Pub. L. 111–32, title V, § 501(b), June 24, 2009, 123 Stat. 1879, provided that: “The amendments made by subsection (a) [amending section 3(c) of Pub. L. 110–428, set out above] shall take effect as if included in the enactment of Public Law 110–428.” ]
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–572, title II, § 202, Oct. 29, 1992, 106 Stat. 4511, provided that: “This title [amending this section and enacting provisions set out below] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–572, title II, § 202, Oct. 29, 1992, 106 Stat. 4511, provided that: “This title [amending this section and enacting provisions set out below] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
 
 Amendment by section 902(b) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -1055,7 +1055,7 @@ Amendment by section 902(b) of Pub. L. 102–572 effective Oct. 29, 1992, see se
 
 Amendment by section 306(b) of Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, as amended, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
-Pub. L. 101–650, title III, § 322(g), Dec. 1, 1990, 104 Stat. 5119, provided that:
+Pub. L. 101–650, title III, § 322(g), Dec. 1, 1990, 104 Stat. 5119, provided that:
 
 > **“(1) Effective date.—** Subject to paragraph (2), the amendments made by this Act [probably should be “section”, which amended this section] shall apply to all judicial officials assassinated on or after May 28, 1979.
 
@@ -1075,7 +1075,7 @@ Pub. L. 101–650, title III, § 322(g), Dec. 1, 1990, 104 Stat. 5119, provide
 
 **Effective Date of 1988 Amendments**
 
-Pub. L. 100–702, title X, § 1017(c), Nov. 19, 1988, 102 Stat. 4670, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to increases in annuities which are made under section 8340(b) of title 5, United States Code, on or after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title X, § 1017(c), Nov. 19, 1988, 102 Stat. 4670, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to increases in annuities which are made under section 8340(b) of title 5, United States Code, on or after the date of enactment of this title [Nov. 19, 1988].”
 
 Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of this title.
 
@@ -1083,11 +1083,11 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 Amendment by Pub. L. 99–396 not to affect the amount payable to a judge who retired in accordance with the provisions of section 373 of this title in effect on the day before Aug. 27, 1986, see section 21(c) of Pub. L. 99–396, set out as a note under section 373 of this title.
 
-Pub. L. 99–336, § 2(f), June 19, 1986, 100 Stat. 637, provided that: “This section [amending this section and enacting provisions set out below] shall take effect on October 1, 1986.”
+Pub. L. 99–336, § 2(f), June 19, 1986, 100 Stat. 637, provided that: “This section [amending this section and enacting provisions set out below] shall take effect on October 1, 1986.”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–554, § 8, Oct. 19, 1976, 90 Stat. 2612, provided: “That this Act [amending this section and enacting provisions set out below] shall become effective on the first day of the third month following the month in which it is enacted [Jan. 1, 1977], or on October 1, 1976, whichever occurs last.”
+Pub. L. 94–554, § 8, Oct. 19, 1976, 90 Stat. 2612, provided: “That this Act [amending this section and enacting provisions set out below] shall become effective on the first day of the third month following the month in which it is enacted [Jan. 1, 1977], or on October 1, 1976, whichever occurs last.”
 
 **Effective Date of 1958 Amendment**
 
@@ -1099,7 +1099,7 @@ The provisions of section 611(a) of this title, the first paragraph of section 6
 
 **Savings Provision**
 
-Pub. L. 94–554, § 6, Oct. 19, 1976, 90 Stat. 2611, provided: “That the benefits conferred by this Act shall, on the date upon which this Act becomes effective [Jan. 1, 1977], immediately become available to any individual then receiving an annuity under section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended: *Provided*, That although the rights of any judicial official electing to come within the purview of section 376 of title 28, United States Code, on or after the date upon which this Act becomes effective, shall be determined exclusively under the provisions of that section as amended by this Act, nothing in this Act shall be interpreted to cancel, abrogate, or diminish any rights to which an individual or his or her survivors may be entitled by virtue of that individuals having contributed to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) as amended, before the date upon which this Act becomes effective.”
+Pub. L. 94–554, § 6, Oct. 19, 1976, 90 Stat. 2611, provided: “That the benefits conferred by this Act shall, on the date upon which this Act becomes effective [Jan. 1, 1977], immediately become available to any individual then receiving an annuity under section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended: *Provided*, That although the rights of any judicial official electing to come within the purview of section 376 of title 28, United States Code, on or after the date upon which this Act becomes effective, shall be determined exclusively under the provisions of that section as amended by this Act, nothing in this Act shall be interpreted to cancel, abrogate, or diminish any rights to which an individual or his or her survivors may be entitled by virtue of that individuals having contributed to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) as amended, before the date upon which this Act becomes effective.”
 
 **Transfer of Functions**
 
@@ -1163,11 +1163,11 @@ Pub. L. 111–49, Aug. 12, 2009, 123 Stat. 1976, provided that:
 
 **Credit for Contributions Prior to 1992 Amendment at Higher Rate**
 
-Pub. L. 102–572, title II, § 201(j), Oct. 29, 1992, 106 Stat. 4510, provided that: “Notwithstanding any other provision of law, the contribution under section 376(b)(1) or (2) of title 28, United States Code (as amended by this section), of any judicial official who is within the purview of such section 376 on the effective date of this title [Oct. 29, 1992] shall be reduced by 0.5 percent for a period of time equal to the number of years of service for which the judicial official has made contributions or deposits before the enactment of this Act [Oct. 29, 1992] to the credit of the Judicial Survivors’ Annuities Fund or for 18 months, whichever is less, if such contributions or deposits were never returned to the judicial official. For purposes of this subsection, the term ‘years’ shall mean full years and twelfth parts thereof.”
+Pub. L. 102–572, title II, § 201(j), Oct. 29, 1992, 106 Stat. 4510, provided that: “Notwithstanding any other provision of law, the contribution under section 376(b)(1) or (2) of title 28, United States Code (as amended by this section), of any judicial official who is within the purview of such section 376 on the effective date of this title [Oct. 29, 1992] shall be reduced by 0.5 percent for a period of time equal to the number of years of service for which the judicial official has made contributions or deposits before the enactment of this Act [Oct. 29, 1992] to the credit of the Judicial Survivors’ Annuities Fund or for 18 months, whichever is less, if such contributions or deposits were never returned to the judicial official. For purposes of this subsection, the term ‘years’ shall mean full years and twelfth parts thereof.”
 
 **Redeposit of Contributions Prior to 1992 Amendment**
 
-Pub. L. 102–572, title II, § 201(k), Oct. 29, 1992, 106 Stat. 4510, provided that:
+Pub. L. 102–572, title II, § 201(k), Oct. 29, 1992, 106 Stat. 4510, provided that:
 
 > “Any judicial official as defined in section 376(a)(1) of title 28, United States Code, who makes an election under section 376(b) of title 28, United States Code, may make a redeposit, as required by section 7 of Public Law 94–554 [set out below] and section 2(c)(2) of Public Law 99–336 [set out below], to the credit of the Judicial Survivors’ Annuities Fund in installments, in such amounts and under such conditions as may be determined in each instance by the Director of the Administrative Office of the United States Courts. If a judicial official elects to make a redeposit in installments—
 
@@ -1177,19 +1177,19 @@ Pub. L. 102–572, title II, § 201(k), Oct. 29, 1992, 106 Stat. 4510, provide
 
 **Audit by GAO**
 
-Pub. L. 102–572, title II, § 201(*l*), Oct. 29, 1992, 106 Stat. 4511, required that the Comptroller General conduct an audit of the judicial survivors’ annuities program under section 376 of title 28 for the 3-year period beginning on Oct. 29, 1992, and report to Congress on the results of such audit, comparing such program to other survivors’ annuities programs within the Federal Government, not later than 60 days after the end of that 3-year period.
+Pub. L. 102–572, title II, § 201(*l*), Oct. 29, 1992, 106 Stat. 4511, required that the Comptroller General conduct an audit of the judicial survivors’ annuities program under section 376 of title 28 for the 3-year period beginning on Oct. 29, 1992, and report to Congress on the results of such audit, comparing such program to other survivors’ annuities programs within the Federal Government, not later than 60 days after the end of that 3-year period.
 
 **Increase for Existing Annuitants**
 
-Pub. L. 100–702, title X, § 1017(b), Nov. 19, 1988, 102 Stat. 4670, provided that: “Each annuity payable from the Judicial Survivors’ Annuities Fund under section 376 of title 28, United States Code, on the date of the enactment of this title [Nov. 19, 1988] shall be increased by 10 percent, effective on such date of enactment.”
+Pub. L. 100–702, title X, § 1017(b), Nov. 19, 1988, 102 Stat. 4670, provided that: “Each annuity payable from the Judicial Survivors’ Annuities Fund under section 376 of title 28, United States Code, on the date of the enactment of this title [Nov. 19, 1988] shall be increased by 10 percent, effective on such date of enactment.”
 
 **Survivors’ Annuities for Incumbents**
 
-Pub. L. 100–659, § 3(b), Nov. 15, 1988, 102 Stat. 3918, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 517, provided that: “In the case of a bankruptcy judge or magistrate judge who elects an annuity under section 2(c) [28 U.S.C. 377 note], only service for which an annuity under subsection (b) or (c) and subsection (g) of section 377 of title 28, United States Code, as added by section 2 of this Act, is calculated under section 2(c) may be used in the computation of an annuity under section 376 of title 28, United States Code, as amended by subsection (a) of this section.”
+Pub. L. 100–659, § 3(b), Nov. 15, 1988, 102 Stat. 3918, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 517, provided that: “In the case of a bankruptcy judge or magistrate judge who elects an annuity under section 2(c) [28 U.S.C. 377 note], only service for which an annuity under subsection (b) or (c) and subsection (g) of section 377 of title 28, United States Code, as added by section 2 of this Act, is calculated under section 2(c) may be used in the computation of an annuity under section 376 of title 28, United States Code, as amended by subsection (a) of this section.”
 
 **Covered Beneficiaries Under Pub. L. 99–336**
 
-Pub. L. 99–336, § 2(b), June 19, 1986, 100 Stat. 634, provided that:
+Pub. L. 99–336, § 2(b), June 19, 1986, 100 Stat. 634, provided that:
 
 > “The benefits conferred by section 376 of title 28, United States Code, by reason of the amendments made by this section shall apply only to individuals who become eligible for annuities under such section on or after the effective date of this section [Oct. 1, 1986], except that—
 
@@ -1199,7 +1199,7 @@ Pub. L. 99–336, § 2(b), June 19, 1986, 100 Stat. 634, provided that:
 
 **Revocation of Election; Eligibility Subsequent to Revocation**
 
-Pub. L. 99–336, § 2(c), June 19, 1986, 100 Stat. 634, provided that:
+Pub. L. 99–336, § 2(c), June 19, 1986, 100 Stat. 634, provided that:
 
 > **“(1)** Within 180 days after the effective date of this section [Oct. 1, 1986], any judicial official who, before such effective date, made an election under section 376 of title 28, United States Code, to come within the purview of that section, shall be entitled to revoke that election. Such revocation shall constitute a complete withdrawal from the judicial survivors’ annuities program provided for in such section 376. No such revocation shall be effective unless it is submitted in writing to the Director of the Administrative Office of the United States Courts, and until such writing is received by the Director. Upon receipt by the Director of such writing, any rights to survivorship benefits for the survivors of such judicial official shall terminate, and all amounts credited to the individual account of such judicial official under section 376(e), together with interest at 3 percent per annum, compounded on December 31 of each year to such date of revocation, shall be returned to that judicial official in a lump-sum payment.
 
@@ -1209,11 +1209,11 @@ Pub. L. 99–336, § 2(c), June 19, 1986, 100 Stat. 634, provided that:
 
 **Payment of Retirement Salary Pursuant to Court Decree of Divorce, Etc.**
 
-Pub. L. 99–336, § 2(d)(4), June 19, 1986, 100 Stat. 636, provided that: “Payments of retirement salary as defined in section 376(a)(2) of title 28, United States Code, which would otherwise be made to the judicial official upon whose service the retirement salary is based, shall be paid (in whole or in part) to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person. This paragraph shall apply only to payments made after the date of receipt by the Director of the Administrative Office of [the] United States Courts of written notice of such decree, order, or agreement, and such additional information and documentation as the Director may prescribe. As used in this paragraph, ‘court’ means any court of any State or the District of Columbia.”
+Pub. L. 99–336, § 2(d)(4), June 19, 1986, 100 Stat. 636, provided that: “Payments of retirement salary as defined in section 376(a)(2) of title 28, United States Code, which would otherwise be made to the judicial official upon whose service the retirement salary is based, shall be paid (in whole or in part) to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person. This paragraph shall apply only to payments made after the date of receipt by the Director of the Administrative Office of [the] United States Courts of written notice of such decree, order, or agreement, and such additional information and documentation as the Director may prescribe. As used in this paragraph, ‘court’ means any court of any State or the District of Columbia.”
 
 **Annuity Payment to Surviving Spouses of Judges Who Died Before October 19, 1976**
 
-Pub. L. 96–504, § 3, Dec. 5, 1980, 94 Stat. 2741, provided that:
+Pub. L. 96–504, § 3, Dec. 5, 1980, 94 Stat. 2741, provided that:
 
 > **“(a)** As of the first pay period beginning after the effective date of this Act [Dec. 5, 1980], a surviving spouse, other than a surviving spouse who has remarried, of any Justice of the United States (as defined by section 451 of title 28, United States Code), who died before October 19, 1976, shall be paid an annuity in accordance with the provisions of section 376 of title 28, United States Code, at a rate of $20,000 per year as if such Justice had elected to come within the provisions of, and having made the full deposit required by, section 376(d) of title 28, United States Code.
 
@@ -1221,45 +1221,45 @@ Pub. L. 96–504, § 3, Dec. 5, 1980, 94 Stat. 2741, provided that:
 
 **Judicial Survivors’ Annuity Fund; Authorization of Appropriations**
 
-Pub. L. 96–504, § 4, Dec. 5, 1980, 94 Stat. 2742, required the Secretary of the Treasury in consultation with the Director of the Administrative Office of the United States Courts to determine as of Dec. 5, 1980, and deposit as soon as possible thereafter, the amount necessary to offset any actuarial deficiency in the Judicial Survivors Annuities Fund.
+Pub. L. 96–504, § 4, Dec. 5, 1980, 94 Stat. 2742, required the Secretary of the Treasury in consultation with the Director of the Administrative Office of the United States Courts to determine as of Dec. 5, 1980, and deposit as soon as possible thereafter, the amount necessary to offset any actuarial deficiency in the Judicial Survivors Annuities Fund.
 
 **Judicial Survivors’ Annuities Fund**
 
-Pub. L. 94–554, § 3, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] there shall be established on the books of the Treasury a fund which shall be known as ‘The Judicial Survivors’ Annuities Fund, and all money credited to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended, shall be transferred to the credit of the Judicial Survivors’ Annuities Fund established by this section.”
+Pub. L. 94–554, § 3, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] there shall be established on the books of the Treasury a fund which shall be known as ‘The Judicial Survivors’ Annuities Fund, and all money credited to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended, shall be transferred to the credit of the Judicial Survivors’ Annuities Fund established by this section.”
 
 **Compensation for Actuarial Deficiency in the Annuities Fund**
 
-Pub. L. 94–554, § 4, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] the Secretary of the Treasury shall ascertain from the Director of the Administrative Office of the United States Courts the amount of the actuarial deficiency in the fund transferred by section 3 of this Act [see Judicial Survivors’ Annuities Fund note above] on the date of that fund’s transfer and, at the earliest time thereafter at which appropriated funds in that amount shall become available, the Secretary shall deposit such funds, in a single payment, into the Judicial Survivors’ Annuities Fund established by section 3 of this Act. Such funds as are necessary to carry out this section are hereby authorized to be appropriated.”
+Pub. L. 94–554, § 4, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] the Secretary of the Treasury shall ascertain from the Director of the Administrative Office of the United States Courts the amount of the actuarial deficiency in the fund transferred by section 3 of this Act [see Judicial Survivors’ Annuities Fund note above] on the date of that fund’s transfer and, at the earliest time thereafter at which appropriated funds in that amount shall become available, the Secretary shall deposit such funds, in a single payment, into the Judicial Survivors’ Annuities Fund established by section 3 of this Act. Such funds as are necessary to carry out this section are hereby authorized to be appropriated.”
 
 **Increases in Widows’ Annuities Paid Under Section 2 of Act August 3, 1956**
 
-Pub. L. 94–554, § 5, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] each annuity then being paid to a widow from the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended, shall be increased by an amount equal to one-fifth of 1 percent of the amount of such annuity multiplied by the number of months which have passed since the commencement of that annuity. For the purposes of this section, any fractional part of a month which numbers less than fifteen full days shall be excluded from the Computation of the number of months and any fractional part of a month which numbers fifteen full days or more shall be included in the computation as one full month. Such funds as are necessary to carry out this section are authorized to be appropriated and, upon appropriation, shall be deposited by the Secretary of the Treasury, in a single payment, to credit of the Judicial Survivors’ Annuities Fund established by section 3 of this Act [see Judicial Survivors’ Annuities Fund note above].”
+Pub. L. 94–554, § 5, Oct. 19, 1976, 90 Stat. 2611, provided: “That on the date upon which this Act becomes effective [Jan. 1, 1977] each annuity then being paid to a widow from the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) [enacting this section], as amended, shall be increased by an amount equal to one-fifth of 1 percent of the amount of such annuity multiplied by the number of months which have passed since the commencement of that annuity. For the purposes of this section, any fractional part of a month which numbers less than fifteen full days shall be excluded from the Computation of the number of months and any fractional part of a month which numbers fifteen full days or more shall be included in the computation as one full month. Such funds as are necessary to carry out this section are authorized to be appropriated and, upon appropriation, shall be deposited by the Secretary of the Treasury, in a single payment, to credit of the Judicial Survivors’ Annuities Fund established by section 3 of this Act [see Judicial Survivors’ Annuities Fund note above].”
 
 **Revocation of Election To Participate in Annuities Program**
 
-Pub. L. 94–554, § 7, Oct. 19, 1976, 90 Stat. 2612, provided: “That, at any time within one hundred and eighty days after the date upon which this Act becomes effective [Jan. 1, 1977], any judicial official who has, prior to that date, already participated in the judicial survivors annuity program created by the Act of August 3, 1956 (70 Stat. 1021) [enacting this section] as amended, shall be entitled to revoke his or her earlier election to participate in that program and thereby completely withdraw from participation in the judicial survivors’ annuities program created by this Act: *Provided*, That (a) any such revocation may be effected only by means of a writing filed with the Director of the Administrative Office of the United States Courts, (b) any such writing shall be deemed to have become effective no sooner than the date upon which that writing is received by the Director, (c) upon receipt of such a writing by the Director, any and all rights to survivorship benefits for such judicial official’s survivors shall terminate, and all amounts credited to such judicial official’s individual account, together with interest at 3 percent per annum, compounded on December 31 of each year to that date of revocation, shall thereafter be returned to that judicial official in a lump-sum refund payment, and (d) any judicial official who effects such a revocation and who subsequently again becomes eligible and elects to join the judicial survivors annuities program created by this Act under the provisions of section 376 of title 28, United States Code as amended by this Act, shall be permitted to do so only upon the redeposit of the full amount of the refund obtained under this section plus interest at 3 percent per annum, compounded on December 31 of each year from the date of the revocation until the date upon which that amount is redeposited. Any judicial official who fails to effect a revocation in accordance with the right conferred by this section within one hundred and eighty days after the date upon which this Act becomes effective shall be deemed to have irrevocably waived the right to that revocation.”
+Pub. L. 94–554, § 7, Oct. 19, 1976, 90 Stat. 2612, provided: “That, at any time within one hundred and eighty days after the date upon which this Act becomes effective [Jan. 1, 1977], any judicial official who has, prior to that date, already participated in the judicial survivors annuity program created by the Act of August 3, 1956 (70 Stat. 1021) [enacting this section] as amended, shall be entitled to revoke his or her earlier election to participate in that program and thereby completely withdraw from participation in the judicial survivors’ annuities program created by this Act: *Provided*, That (a) any such revocation may be effected only by means of a writing filed with the Director of the Administrative Office of the United States Courts, (b) any such writing shall be deemed to have become effective no sooner than the date upon which that writing is received by the Director, (c) upon receipt of such a writing by the Director, any and all rights to survivorship benefits for such judicial official’s survivors shall terminate, and all amounts credited to such judicial official’s individual account, together with interest at 3 percent per annum, compounded on December 31 of each year to that date of revocation, shall thereafter be returned to that judicial official in a lump-sum refund payment, and (d) any judicial official who effects such a revocation and who subsequently again becomes eligible and elects to join the judicial survivors annuities program created by this Act under the provisions of section 376 of title 28, United States Code as amended by this Act, shall be permitted to do so only upon the redeposit of the full amount of the refund obtained under this section plus interest at 3 percent per annum, compounded on December 31 of each year from the date of the revocation until the date upon which that amount is redeposited. Any judicial official who fails to effect a revocation in accordance with the right conferred by this section within one hundred and eighty days after the date upon which this Act becomes effective shall be deemed to have irrevocably waived the right to that revocation.”
 
 **Judge Taking Office on August 8, 1968**
 
-Pub. L. 90–466, § 1(b), Aug. 8, 1968, 82 Stat. 662, provided that: “For the purpose of the amendment made by subsection (a) [amending subsec. (a) of this section], a judge who is in office on the date of enactment of this Act [Aug. 8, 1968] shall be deemed to have taken office on that date.”
+Pub. L. 90–466, § 1(b), Aug. 8, 1968, 82 Stat. 662, provided that: “For the purpose of the amendment made by subsection (a) [amending subsec. (a) of this section], a judge who is in office on the date of enactment of this Act [Aug. 8, 1968] shall be deemed to have taken office on that date.”
 
 **Preservation of Rights of Judges of the District Court for the Territory of Alaska**
 
-Pub. L. 85–508, § 12(n), July 7, 1958, 72 Stat. 348, provided in part that the amendment of subsec. (q) of this section by Pub. L. 85–508 shall not affect the rights under this section of any present or former judge of the District Court for the Territory of Alaska or his survivors.
+Pub. L. 85–508, § 12(n), July 7, 1958, 72 Stat. 348, provided in part that the amendment of subsec. (q) of this section by Pub. L. 85–508 shall not affect the rights under this section of any present or former judge of the District Court for the Territory of Alaska or his survivors.
 
 **Appropriations**
 
-Act Aug. 3, 1956, ch. 944, § 5, 70 Stat. 1026, provided that: “Funds necessary to carry out the provisions of this Act [enacting this section and provisions set out as notes below, and amending sections 375, 604, and 605 of this title] may be appropriated out of any money in the Treasury not otherwise appropriated.”
+Act Aug. 3, 1956, ch. 944, § 5, 70 Stat. 1026, provided that: “Funds necessary to carry out the provisions of this Act [enacting this section and provisions set out as notes below, and amending sections 375, 604, and 605 of this title] may be appropriated out of any money in the Treasury not otherwise appropriated.”
 
 **Resigned, Removed, and Retired Judges**
 
-Act Aug. 3, 1956, ch. 944, § 6, 70 Stat. 1026, provided that: “A judge who resigned prior to the date of enactment of this Act [Aug. 3, 1956] and who on that date is receiving salary under section 371(a) of title 28, United States Code, or who resigned, was removed or failed of reappointment prior to the date of enactment of this Act and who on that date is receiving salary under section 373 of title 28, United States Code, shall be considered a judge within the meaning of section 376 of title 28, United States Code, as added by section 2 of this Act, and as such shall be entitled within six months after the date of enactment of this Act to make the election authorized by and to receive the benefits of that section. A judge who retired from regular active service under section 260 of the Judicial Code of 1911 or the Act of August 5, 1939, chapter 433, and who is living on the date of enactment of this Act shall be deemed for the purposes of this Act to have retired from regular active service under section 371(b) or 372(a), as the case may be, of title 28, United States Code.”
+Act Aug. 3, 1956, ch. 944, § 6, 70 Stat. 1026, provided that: “A judge who resigned prior to the date of enactment of this Act [Aug. 3, 1956] and who on that date is receiving salary under section 371(a) of title 28, United States Code, or who resigned, was removed or failed of reappointment prior to the date of enactment of this Act and who on that date is receiving salary under section 373 of title 28, United States Code, shall be considered a judge within the meaning of section 376 of title 28, United States Code, as added by section 2 of this Act, and as such shall be entitled within six months after the date of enactment of this Act to make the election authorized by and to receive the benefits of that section. A judge who retired from regular active service under section 260 of the Judicial Code of 1911 or the Act of August 5, 1939, chapter 433, and who is living on the date of enactment of this Act shall be deemed for the purposes of this Act to have retired from regular active service under section 371(b) or 372(a), as the case may be, of title 28, United States Code.”
 
 **Prior Death of Judge**
 
-Act Aug. 3, 1956, ch. 944, § 7, 70 Stat. 1026, provided that: “In the case of a living widow of a judge of the United States as defined in section 451 of title 28, United States Code, who died prior to the date of enactment of this Act [Aug. 3, 1956], an annuity shall be paid as provided in section 376 of title 28, United States Code, as added by section 2 of this Act, as if such judge had died on such date and had elected to bring himself within the purview of such section 376, but had not made the deposit provided for by subsection (c) of the said section: *Provided*, (a) That such widow has not remarried; and (b) that the amount of such annuity and the reduction therein because of such deposit not having been made shall be computed on the basis of the actual length of judicial and other allowable service of such judge: *And provided further*, That notwithstanding the provisions of subsection (g) of such section 376 such annuity shall be payable even though such judge had not rendered five years of civilian service prior to his death. In the case of a judge of the United States as defined in section 451 of title 28, United States Code, who dies within 6 months after the date of enactment of this Act after having rendered at least 5 years of civilian service computed as prescribed in subsection (*o*) of section 376 of title 28, United States Code, as added by section 2 of this Act, but without having made an election as provided in such section 376 to bring himself within the purview of that section, an annuity shall be paid to his widow and surviving dependent children as provided in such section 376 as if such judge had elected on the day of his death to bring himself within the purview of such section 376 but had not made the deposit provided for by subsection (c) of the said section. An annuity shall be payable under this section computed on the basis of the actual length of judicial and other allowable service of the judge and subject to the reduction required by subsection (c) of such section 376 even though no deposit has been made, as required by subsection (g) of such section 376, with respect to any of such service.”
+Act Aug. 3, 1956, ch. 944, § 7, 70 Stat. 1026, provided that: “In the case of a living widow of a judge of the United States as defined in section 451 of title 28, United States Code, who died prior to the date of enactment of this Act [Aug. 3, 1956], an annuity shall be paid as provided in section 376 of title 28, United States Code, as added by section 2 of this Act, as if such judge had died on such date and had elected to bring himself within the purview of such section 376, but had not made the deposit provided for by subsection (c) of the said section: *Provided*, (a) That such widow has not remarried; and (b) that the amount of such annuity and the reduction therein because of such deposit not having been made shall be computed on the basis of the actual length of judicial and other allowable service of such judge: *And provided further*, That notwithstanding the provisions of subsection (g) of such section 376 such annuity shall be payable even though such judge had not rendered five years of civilian service prior to his death. In the case of a judge of the United States as defined in section 451 of title 28, United States Code, who dies within 6 months after the date of enactment of this Act after having rendered at least 5 years of civilian service computed as prescribed in subsection (*o*) of section 376 of title 28, United States Code, as added by section 2 of this Act, but without having made an election as provided in such section 376 to bring himself within the purview of that section, an annuity shall be paid to his widow and surviving dependent children as provided in such section 376 as if such judge had elected on the day of his death to bring himself within the purview of such section 376 but had not made the deposit provided for by subsection (c) of the said section. An annuity shall be payable under this section computed on the basis of the actual length of judicial and other allowable service of the judge and subject to the reduction required by subsection (c) of such section 376 even though no deposit has been made, as required by subsection (g) of such section 376, with respect to any of such service.”
 
-## § 377. Retirement of bankruptcy judges and magistrate judges
+## § 377. Retirement of bankruptcy judges and magistrate judges
 
 **(a) Retirement Based on Years of Service.—** A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s or magistrate judge’s lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
@@ -1277,9 +1277,9 @@ For purposes of this subsection, in the case of a bankruptcy judge, the written 
 
 **(e) Cost-of-Living Adjustments.—** A bankruptcy judge or magistrate judge who is entitled to an annuity under this section is also entitled to a cost-of-living adjustment in such annuity, calculated and payable in the same manner as adjustments under section 8340(b) of title 5, except that any such annuity, as increased under this subsection, may not exceed the salary then payable for the position from which the judge or magistrate judge retired or was removed.
 
-**(f) Election; Annuity in Lieu of Other Annuities.—** A bankruptcy judge or magistrate judge shall be entitled to an annuity under this section if the judge or magistrate judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts. A bankruptcy judge or magistrate judge who elects to receive an annuity under this section shall not be entitled to receive 1
+**(f) Election; Annuity in Lieu of Other Annuities.—** A bankruptcy judge or magistrate judge shall be entitled to an annuity under this section if the judge or magistrate judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts. A bankruptcy judge or magistrate judge who elects to receive an annuity under this section shall not be entitled to receive 1
 
-<sup>1</sup>  So in original. Probably should be “receive—”.
+<sup>1</sup> So in original. Probably should be “receive—”.
 
 **(1)** any annuity to which such judge or magistrate judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as such a judge or magistrate judge or otherwise;
 
@@ -1441,7 +1441,7 @@ In making any determination under this subparagraph, the Comptroller General sha
 
 **(C)** There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 
-(Added Pub. L. 100–659, § 2(a), Nov. 15, 1988, 102 Stat. 3910; amended Pub. L. 101–650, title III, §§ 321, 325(b)(3), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239.)
+(Added Pub. L. 100–659, § 2(a), Nov. 15, 1988, 102 Stat. 3910; amended Pub. L. 101–650, title III, §§ 321, 325(b)(3), Dec. 1, 1990, 104 Stat. 5117, 5121; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239.)
 
 **Editorial Notes**
 
@@ -1449,17 +1449,17 @@ In making any determination under this subparagraph, the Comptroller General sha
 
 Section 7447 of the Internal Revenue Code, referred to in subsec. (f)(3), is classified to section 7447 of Title 26, Internal Revenue Code.
 
-Section 34 of the Bankruptcy Act, referred to in subsec. (h)(1)(B), was classified to section 62 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+Section 34 of the Bankruptcy Act, referred to in subsec. (h)(1)(B), was classified to section 62 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
-Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549), referred to in subsec. (h)(1)(C), was set out as a note preceding section 151 of this title prior to repeal by Pub. L. 98–353, title I, § 114, July 10, 1984, 98 Stat. 343.
+Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549), referred to in subsec. (h)(1)(C), was set out as a note preceding section 151 of this title prior to repeal by Pub. L. 98–353, title I, § 114, July 10, 1984, 98 Stat. 343.
 
 **Amendments**
 
 1991—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
-1990—Subsec. (f). Pub. L. 101–650, § 325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
+1990—Subsec. (f). Pub. L. 101–650, § 325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
 
-Subsec. (h). Pub. L. 101–650, § 325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
+Subsec. (h). Pub. L. 101–650, § 325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1469,7 +1469,7 @@ Words “magistrate judge”, “magistrate judges”, and “magistrate judge�
 
 **Effective Date**
 
-Pub. L. 100–659, § 9, Nov. 15, 1988, 102 Stat. 3921, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117, provided that:
+Pub. L. 100–659, § 9, Nov. 15, 1988, 102 Stat. 3921, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), this Act [enacting this section and section 8440a [now 8440b] of Title 5, Government Organization and Employees, amending sections 155, 375, 376, 604, 631, and 636 of this title and sections 8334 and 8402 of Title 5, and enacting provisions set out as notes under this section and sections 1 and 376 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Nov. 15, 1988] and shall apply to bankruptcy judges and magistrate judges who retire on or after the date of the enactment of this Act.
 
@@ -1477,7 +1477,7 @@ Pub. L. 100–659, § 9, Nov. 15, 1988, 102 Stat. 3921, as amended by Pub. L. 
 
 **Annuity of Qualified Magistrate Judge**
 
-Pub. L. 107–116, title V, § 515, Jan. 10, 2002, 115 Stat. 2220, provided that:
+Pub. L. 107–116, title V, § 515, Jan. 10, 2002, 115 Stat. 2220, provided that:
 
 > **“(a)** In this section the term ‘qualified magistrate judge’ means any person who—
 
@@ -1501,7 +1501,7 @@ Pub. L. 107–116, title V, § 515, Jan. 10, 2002, 115 Stat. 2220, provided th
 
 **Retirement Annuities for Incumbent Bankruptcy Judges and Magistrate Judges**
 
-Pub. L. 100–659, § 2(c), Nov. 15, 1988, 102 Stat. 3916, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117, provided that:
+Pub. L. 100–659, § 2(c), Nov. 15, 1988, 102 Stat. 3916, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117, provided that:
 
 > **“(1) Retirement annuity under title 5 and section 377 of title 28.—** A bankruptcy judge or United States magistrate judge in active service on the effective date of this Act [see Effective Date note above] shall, subject to paragraph (2), be entitled, in lieu of the annuity otherwise provided under the amendments made by this section [enacting this section] to—
 
@@ -1527,4 +1527,4 @@ Pub. L. 100–659, § 2(c), Nov. 15, 1988, 102 Stat. 3916, as amended by Pub. 
 
 **Report to Congress on Financial Operation of Retirement Annuity Program**
 
-Pub. L. 100–659, § 8, Nov. 15, 1988, 102 Stat. 3920, provided that: “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act [Nov. 15, 1988], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act [see Effective Date note above]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”
+Pub. L. 100–659, § 8, Nov. 15, 1988, 102 Stat. 3920, provided that: “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act [Nov. 15, 1988], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act [see Effective Date note above]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”

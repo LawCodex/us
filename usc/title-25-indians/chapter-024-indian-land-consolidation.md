@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—INDIAN LAND CONSOLIDATION
 
-## § 2201. Definitions
+## § 2201. Definitions
 
 For the purpose of this chapter—
 
@@ -25,15 +25,15 @@ For the purpose of this chapter—
 
 **(A)** any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
 
-**(B)** any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) 1
+**(B)** any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the regulations promulgated thereunder; and
 
 **(C)** with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title, any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(3)** “Secretary” means the Secretary of the Interior;
 
@@ -63,39 +63,39 @@ and the regulations promulgated thereunder; and
 
 **(10)** “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
 
-(Pub. L. 97–459, title II, § 202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, § 103(1), Nov. 7, 2000, 114 Stat. 1992; Pub. L. 108–374, § 6(b), Oct. 27, 2004, 118 Stat. 1804; Pub. L. 110–453, title II, § 207(a), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, § 202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, § 103(1), Nov. 7, 2000, 114 Stat. 1992; Pub. L. 108–374, § 6(b), Oct. 27, 2004, 118 Stat. 1804; Pub. L. 110–453, title II, § 207(a), Dec. 2, 2008, 122 Stat. 5030.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of this title. The term “Indian” was defined for purposes of this Act in section 479 of this title prior to editorial reclassification as section 5129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of this title. The term “Indian” was defined for purposes of this Act in section 479 of this title prior to editorial reclassification as section 5129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 This chapter, referred to in par. (6), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2008—Par. (4). Pub. L. 110–453, § 207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
+2008—Par. (4). Pub. L. 110–453, § 207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
 
-Par. (7). Pub. L. 110–453, § 207(a)(2), added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
+Par. (7). Pub. L. 110–453, § 207(a)(2), added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
 
-2004—Par. (2). Pub. L. 108–374, § 6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law’s definition of Indian is consistent with the purposes of this chapter;”.
+2004—Par. (2). Pub. L. 108–374, § 6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law’s definition of Indian is consistent with the purposes of this chapter;”.
 
-Par. (4). Pub. L. 108–374, § 6(b)(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
+Par. (4). Pub. L. 108–374, § 6(b)(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
 
-Pars. (6) to (10). Pub. L. 108–374, § 6(b)(3), added pars. (6) to (10).
+Pars. (6) to (10). Pub. L. 108–374, § 6(b)(3), added pars. (6) to (10).
 
-2000—Par. (1). Pub. L. 106–462, § 103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
+2000—Par. (1). Pub. L. 106–462, § 103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
 
-Par. (2). Pub. L. 106–462, § 103(1)(B), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;”.
+Par. (2). Pub. L. 106–462, § 103(1)(B), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;”.
 
-Par. (5). Pub. L. 106–462, § 103(1)(C)–(E), added par. (5).
+Par. (5). Pub. L. 106–462, § 103(1)(C)–(E), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notice; Effective Date of 2004 Amendment**
 
-Pub. L. 108–374, § 8, Oct. 27, 2004, 118 Stat. 1809, as amended by Pub. L. 109–221, title V, § 501(b)(3), May 12, 2006, 120 Stat. 344, provided that:
+Pub. L. 108–374, § 8, Oct. 27, 2004, 118 Stat. 1809, as amended by Pub. L. 109–221, title V, § 501(b)(3), May 12, 2006, 120 Stat. 344, provided that:
 
 > **“(a) Notice.—**
 
@@ -141,35 +141,35 @@ Pub. L. 108–374, § 8, Oct. 27, 2004, 118 Stat. 1809, as amended by Pub. L. 
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–157, § 1, Dec. 30, 2005, 119 Stat. 2949, provided that: “This Act [amending sections 464, 2204 to 2206, 2212, 2214, and 2216 of this title, enacting provisions set out as a note under section 464 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Indian Land Probate Reform Technical Corrections Act of 2005’.”
+Pub. L. 109–157, § 1, Dec. 30, 2005, 119 Stat. 2949, provided that: “This Act [amending sections 464, 2204 to 2206, 2212, 2214, and 2216 of this title, enacting provisions set out as a note under section 464 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Indian Land Probate Reform Technical Corrections Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–374, § 1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Act [enacting sections 2220 and 2221 of this title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
+Pub. L. 108–374, § 1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Act [enacting sections 2220 and 2221 of this title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–462, § 1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
+Pub. L. 106–462, § 1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–238, § 1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act [amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
+Pub. L. 102–238, § 1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act [amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
 **Short Title**
 
-Pub. L. 97–459, title II, § 201, Jan. 12, 1983, 96 Stat. 2517, provided that: “This title [enacting this chapter] may be cited as the ‘Indian Land Consolidation Act’.”
+Pub. L. 97–459, title II, § 201, Jan. 12, 1983, 96 Stat. 2517, provided that: “This title [enacting this chapter] may be cited as the ‘Indian Land Consolidation Act’.”
 
 **Regulations**
 
-Pub. L. 108–374, § 10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this Act [see Short Title of 2004 Amendment note above].”
+Pub. L. 108–374, § 10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this Act [see Short Title of 2004 Amendment note above].”
 
 **Severability**
 
-Pub. L. 108–374, § 9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, § 8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act [see Short Title of 2004 Amendment note above] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+Pub. L. 108–374, § 9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, § 8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act [see Short Title of 2004 Amendment note above] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
 **Congressional Findings**
 
-Pub. L. 108–374, § 2, Oct. 27, 2004, 118 Stat. 1773, provided that:
+Pub. L. 108–374, § 2, Oct. 27, 2004, 118 Stat. 1773, provided that:
 
 > “Congress finds that—
 
@@ -207,7 +207,7 @@ Pub. L. 108–374, § 2, Oct. 27, 2004, 118 Stat. 1773, provided that:
 
 > **“(5)** the provisions of a uniform Federal probate code and other forth [sic] in this Act [see Short Title of 2004 Amendment note above] should operate to further the policy of the United States as stated in the Indian Land Consolidated Act Amendments of 2000, Public Law 106–462, [§]102, November 7, 2000, 114 Stat. 1992 [set out as a note below].”
 
-Pub. L. 106–462, title I, § 101, Nov. 7, 2000, 114 Stat. 1991, provided that:
+Pub. L. 106–462, title I, § 101, Nov. 7, 2000, 114 Stat. 1991, provided that:
 
 > “Congress finds that—
 
@@ -247,7 +247,7 @@ Pub. L. 106–462, title I, § 101, Nov. 7, 2000, 114 Stat. 1991, provided tha
 
 **Declaration of Policy**
 
-Pub. L. 106–462, title I, § 102, Nov. 7, 2000, 114 Stat. 1992, provided that:
+Pub. L. 106–462, title I, § 102, Nov. 7, 2000, 114 Stat. 1992, provided that:
 
 > “It is the policy of the United States—
 
@@ -263,15 +263,15 @@ Pub. L. 106–462, title I, § 102, Nov. 7, 2000, 114 Stat. 1992, provided tha
 
 **Authorization of Appropriations**
 
-Pub. L. 106–462, title I, § 105, Nov. 7, 2000, 114 Stat. 2007, provided that: “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
+Pub. L. 106–462, title I, § 105, Nov. 7, 2000, 114 Stat. 2007, provided that: “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
 
-## § 2202. Other applicable provisions
+## § 2202. Other applicable provisions
 
 The provisions of section 5108 of this title shall apply to all tribes notwithstanding the provisions of section 5125 of this title: *Provided*, That nothing in this section is intended to supersede any other provision of Federal law which authorizes, prohibits, or restricts the acquisition of land for Indians with respect to any specific tribe, reservation, or state(s).
 
-(Pub. L. 97–459, title II, § 203, Jan. 12, 1983, 96 Stat. 2517.)
+(Pub. L. 97–459, title II, § 203, Jan. 12, 1983, 96 Stat. 2517.)
 
-## § 2203. Adoption of land consolidation plan with approval of Secretary
+## § 2203. Adoption of land consolidation plan with approval of Secretary
 
 **(a) Statement of purpose; sales or exchanges: terms and conditions** Notwithstanding any other provision of law, any tribe, acting through its governing body, is authorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: *Provided*, That—
 
@@ -293,21 +293,21 @@ The Secretary must execute such instrument of conveyance needed to effectuate a 
 
 The Secretary may execute instruments of conveyance for less than fair market value to effectuate the transfer of lands used as homesites held, on December 17, 1991, by the United States in trust for the Cherokee Nation of Oklahoma. Only the lands used as homesites, and described in the land consolidation plan of the Cherokee Nation of Oklahoma approved by the Secretary on February 6, 1987, shall be subject to this subsection.
 
-(Pub. L. 97–459, title II, § 204, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, § 1(1), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 102–238, § 3, Dec. 17, 1991, 105 Stat. 1908.)
+(Pub. L. 97–459, title II, § 204, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, § 1(1), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 102–238, § 3, Dec. 17, 1991, 105 Stat. 1908.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 102–238, § 3(1), substituted “(1) except as provided by subsection (c), the sale price” for “(1) the sale price”.
+1991—Subsec. (a)(1). Pub. L. 102–238, § 3(1), substituted “(1) except as provided by subsection (c), the sale price” for “(1) the sale price”.
 
-Subsec. (c). Pub. L. 102–238, § 3(2), added subsec. (c).
+Subsec. (c). Pub. L. 102–238, § 3(2), added subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–608 amended subsec. (a) generally, substituting “: *Provided*, That—” for period at end and inserting five numbered pars., thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, the text of which had a portion of section 204 appearing in section 206 (classified to section 2205 of this title) as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill. Pub. L. 97–459 enacted subsec. (a) as ending with “tribal landholdings.”, and included portion of section 204 containing proviso and five numbered pars. within text of section 206.
+1984—Subsec. (a). Pub. L. 98–608 amended subsec. (a) generally, substituting “: *Provided*, That—” for period at end and inserting five numbered pars., thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, the text of which had a portion of section 204 appearing in section 206 (classified to section 2205 of this title) as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill. Pub. L. 97–459 enacted subsec. (a) as ending with “tribal landholdings.”, and included portion of section 204 containing proviso and five numbered pars. within text of section 206.
 
 Subsec. (b). Pub. L. 98–608 included subsec. (b) within this section and substituted a period for the dash after “tribal land consolidation plan”, thereby correcting errors originally contained in this section as enacted by Pub. L. 97–459, which, as the result of inadvertent error in the execution of committee amendments (see House Report No. 97–908, Sept. 30, 1982) to the bill, enacted subsec. (b) as part of section 206(b) of Pub. L. 97–459 and ended it with “tribal land consolidation plan—”.
 
-## § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
+## § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
 
 **(a) Purchase of land**
 
@@ -341,7 +341,7 @@ Interests owned by an Indian tribe in a tract may be included in the computation
 
 This subsection shall be applicable only to parcels of land (including surface and subsurface interests, except with respect to a subsurface interest that has been severed from the surface interest, in which case this subsection shall apply only to the surface interest) which the Secretary has determined, pursuant to paragraph (2)(B),1
 
-<sup>1</sup>  So in original. Probably should be paragraph “(2)(C),”.
+<sup>1</sup> So in original. Probably should be paragraph “(2)(C),”.
 
 to be parcels of highly fractionated Indian land.
 
@@ -555,7 +555,7 @@ If an applicant fails to obtain any applicable consent required under the provis
 
 The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, § 205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, § 1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, § 103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§ 4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§ 2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, § 207(b), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, § 205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, § 1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, § 103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§ 4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§ 2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, § 207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 **Editorial Notes**
 
@@ -569,37 +569,37 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 2008—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted “by the Secretary” for “by Secretary” in concluding provisions.
 
-2005—Subsec. (a). Pub. L. 109–157, § 2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe’s reservation or otherwise subject to that tribe’s jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
+2005—Subsec. (a). Pub. L. 109–157, § 2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe’s reservation or otherwise subject to that tribe’s jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
 
-Subsec. (c). Pub. L. 109–157, § 2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
+Subsec. (c). Pub. L. 109–157, § 2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
-Subsec. (c)(2)(G)(ii)(I). Pub. L. 109–157, § 2(3)(A)(i), substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
+Subsec. (c)(2)(G)(ii)(I). Pub. L. 109–157, § 2(3)(A)(i), substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
 
-Subsec. (c)(2)(I)(iii)(III). Pub. L. 109–157, § 2(3)(A)(ii)(I), inserted “(if any)” after “this section”.
+Subsec. (c)(2)(I)(iii)(III). Pub. L. 109–157, § 2(3)(A)(ii)(I), inserted “(if any)” after “this section”.
 
-Subsec. (c)(2)(I)(iii)(IV)(aa). Pub. L. 109–157, § 2(3)(A)(ii)(II)(aa), substituted “more” for “less”.
+Subsec. (c)(2)(I)(iii)(IV)(aa). Pub. L. 109–157, § 2(3)(A)(ii)(II)(aa), substituted “more” for “less”.
 
-Subsec. (c)(2)(I)(iii)(IV)(bb). Pub. L. 109–157, § 2(3)(A)(ii)(II)(bb), substituted “under paragraph (5)” for “to implement this section”.
+Subsec. (c)(2)(I)(iii)(IV)(bb). Pub. L. 109–157, § 2(3)(A)(ii)(II)(bb), substituted “under paragraph (5)” for “to implement this section”.
 
-Subsec. (c)(5). Pub. L. 109–157, § 2(3)(B), in second sentence, substituted “may” for “shall”.
+Subsec. (c)(5). Pub. L. 109–157, § 2(3)(B), in second sentence, substituted “may” for “shall”.
 
-Subsec. (d). Pub. L. 109–157, § 8(a)(1), amended directory language of Pub. L. 108–374, § 4. See 2004 Amendment note below.
+Subsec. (d). Pub. L. 109–157, § 8(a)(1), amended directory language of Pub. L. 108–374, § 4. See 2004 Amendment note below.
 
-Pub. L. 109–157, § 2(2), redesignated subsec. (d) as (c).
+Pub. L. 109–157, § 2(2), redesignated subsec. (d) as (c).
 
-2004—Subsec. (a). Pub. L. 108–374, § 6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
+2004—Subsec. (a). Pub. L. 108–374, § 6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
 
-Subsec. (d). Pub. L. 108–374, § 4, as amended by Pub. L. 109–157, § 8(a)(1), added subsec. (d).
+Subsec. (d). Pub. L. 108–374, § 4, as amended by Pub. L. 109–157, § 8(a)(1), added subsec. (d).
 
-2001—Pub. L. 106–462, § 103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: *Provided*, That—”, was executed by making the substitution for “*Provided*, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, § 103(2)(A)(ii). See below.
+2001—Pub. L. 106–462, § 103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: *Provided*, That—”, was executed by making the substitution for “*Provided*, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, § 103(2)(A)(ii). See below.
 
-Pub. L. 106–462, § 103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “*Provided*, That—”.
+Pub. L. 106–462, § 103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “*Provided*, That—”.
 
-Subsec. (b)(2). Pub. L. 106–462, § 103(2)(B)(ii), inserted “and” at end.
+Subsec. (b)(2). Pub. L. 106–462, § 103(2)(B)(ii), inserted “and” at end.
 
-Pub. L. 106–462, § 103(2)(B)(i), which directed substitution of “if” for “If,”, was executed by making the substitution for “if,” to reflect the probable intent of Congress.
+Pub. L. 106–462, § 103(2)(B)(i), which directed substitution of “if” for “If,”, was executed by making the substitution for “if,” to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 106–462, § 103(2)(C), added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
+Subsec. (b)(3). Pub. L. 106–462, § 103(2)(C), added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
 
 1984—Pub. L. 98–608 amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
 
@@ -619,7 +619,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
-## § 2205. Tribal probate codes; acquisitions of fractional interests by tribes
+## § 2205. Tribal probate codes; acquisitions of fractional interests by tribes
 
 **(a) Tribal probate codes**
 
@@ -681,9 +681,9 @@ Each Indian tribe that amends a tribal probate code under this paragraph shall s
 
 **(ii) Consequence of failure to approve or disapprove an amendment**
 
-If the Secretary fails to approve or disapprove an amendment submitted under clause (i), the amendment shall be deemed to have been approved by the Secretary, but only to the extent that the amendment is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act 1
+If the Secretary fails to approve or disapprove an amendment submitted under clause (i), the amendment shall be deemed to have been approved by the Secretary, but only to the extent that the amendment is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “Amendments”.
+<sup>1</sup> So in original. Probably should be followed by “Amendments”.
 
 of 2000.
 
@@ -775,7 +775,7 @@ In this subsection, the term “tribal justice system” has the meaning given t
 
 The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-(Pub. L. 97–459, title II, § 206, as added Pub. L. 106–462, title I, § 103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, § 6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, § 3, Dec. 30, 2005, 119 Stat. 2950.)
+(Pub. L. 97–459, title II, § 206, as added Pub. L. 106–462, title I, § 103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, § 6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, § 3, Dec. 30, 2005, 119 Stat. 2950.)
 
 **Editorial Notes**
 
@@ -787,25 +787,25 @@ This chapter, referred to in subsec. (b)(2)(C), was in the original “this Act�
 
 **Prior Provisions**
 
-A prior section 2205, Pub. L. 97–459, title II, § 206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, § 1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, § 103(3), Nov. 7, 2000, 114 Stat. 1993.
+A prior section 2205, Pub. L. 97–459, title II, § 206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, § 1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, § 103(3), Nov. 7, 2000, 114 Stat. 1993.
 
 **Amendments**
 
-2005—Subsec. (b)(3)(A). Pub. L. 109–157, § 3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in section 2206(g)(5) of this title; or”.
+2005—Subsec. (b)(3)(A). Pub. L. 109–157, § 3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in section 2206(g)(5) of this title; or”.
 
-Subsec. (c)(1)(A). Pub. L. 109–157, § 3(2)(A), substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
+Subsec. (c)(1)(A). Pub. L. 109–157, § 3(2)(A), substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
 
-Subsec. (c)(2)(A)(i)(II)(bb). Pub. L. 109–157, § 3(2)(B), inserted “in writing” after “agrees”.
+Subsec. (c)(2)(A)(i)(II)(bb). Pub. L. 109–157, § 3(2)(B), inserted “in writing” after “agrees”.
 
-2004—Subsec. (a)(3). Pub. L. 108–374, § 6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
+2004—Subsec. (a)(3). Pub. L. 108–374, § 6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
 
-Subsec. (c)(1). Pub. L. 108–374, § 6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 108–374, § 6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
 
-Subsec. (c)(1)(A). Pub. L. 108–374, § 6(a)(3)(B)(i)(II), which directed the substitution of “section 207(b)(2)(A)(ii) of this title” for “section 207(a)(6)(A) of this title” in the original, could not be executed, because “of this title” did not appear in the original.
+Subsec. (c)(1)(A). Pub. L. 108–374, § 6(a)(3)(B)(i)(II), which directed the substitution of “section 207(b)(2)(A)(ii) of this title” for “section 207(a)(6)(A) of this title” in the original, could not be executed, because “of this title” did not appear in the original.
 
-Subsec. (c)(2)(A). Pub. L. 108–374, § 6(a)(3)(B)(ii)(I), substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
+Subsec. (c)(2)(A). Pub. L. 108–374, § 6(a)(3)(B)(ii)(I), substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
 
-Subsec. (c)(2)(B). Pub. L. 108–374, § 6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
+Subsec. (c)(2)(B). Pub. L. 108–374, § 6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -813,7 +813,7 @@ Subsec. (c)(2)(B). Pub. L. 108–374, § 6(a)(3)(B)(ii)(II), which directed th
 
 Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
-## § 2206. Descent and distribution
+## § 2206. Descent and distribution
 
 **(a) Nontestamentary disposition**
 
@@ -827,7 +827,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 **(ii)** other applicable Federal law.
 
-**(2) 1 [footnote: 1 So in original. Another par. (2) follows par. (5).] Rules governing descent of estate**
+**(2) 1 [footnote: 1 So in original. Another par. (2) follows par. (5).] Rules governing descent of estate**
 
 **(A) Surviving spouse** If there is a surviving spouse of the decedent, such spouse shall receive trust and restricted land and trust personalty in the estate as follows:
 
@@ -909,9 +909,9 @@ The determination of which person is the oldest eligible heir for inheritance pu
 
 **(cc)** the tribal rule does not apply to any interest disposed of by a valid will;
 
-**(dd)** the decedent died on or after the date described in subsection (b) of section 8 of the American Indian Probate 2
+**(dd)** the decedent died on or after the date described in subsection (b) of section 8 of the American Indian Probate 2
 
-<sup>2</sup>  So in original. Probably should be followed by “Reform”.
+<sup>2</sup> So in original. Probably should be followed by “Reform”.
 
 Act of 2004, or on or after the date on which a copy of the tribal rule was delivered to the Secretary pursuant to item (aa), whichever is later; and
 
@@ -935,7 +935,7 @@ If, under this subsection, all or any part of the estate of a decedent is to pas
 
 Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as such interest was held immediately prior to the decedent’s death.
 
-**(2) 3 [footnote: 3 So in original. Another par. (2) follows par. (1).] Intestate descent of permanent improvements**
+**(2) 3 [footnote: 3 So in original. Another par. (2) follows par. (1).] Intestate descent of permanent improvements**
 
 **(A) Definition of covered permanent improvement** In this paragraph, the term “covered permanent improvement” means a permanent improvement (including an interest in such an improvement) that is—
 
@@ -953,9 +953,9 @@ Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a s
 
 **(i)** even though that covered permanent improvement is not held in trust; and
 
-**(ii)** without altering or otherwise affecting the non-trust status of such a covered permanent improvement.’ 4
+**(ii)** without altering or otherwise affecting the non-trust status of such a covered permanent improvement.’ 4
 
-<sup>4</sup>  So in original. The quotation mark probably should not appear.
+<sup>4</sup> So in original. The quotation mark probably should not appear.
 
 **(b) Testamentary disposition**
 
@@ -987,9 +987,9 @@ Any devise of a trust or restricted interest in land pursuant to subparagraph (A
 
 **(B) Indian reorganization act lands**
 
-**(i) In general** Subject to clauses (ii) and (iii), any interest”; 5
+**(i) In general** Subject to clauses (ii) and (iii), any interest”; 5
 
-<sup>5</sup>  So in original.
+<sup>5</sup> So in original.
 
 in trust or restricted land that is subject to section 5107 of this title, may be devised only in accordance with—
 
@@ -1015,15 +1015,15 @@ An Indian tribe shall provide to the Secretary a copy of any resolution, law, or
 
 **(iii) Effect**
 
-Except as provided in clause (ii), nothing; and 6
+Except as provided in clause (ii), nothing; and 6
 
-<sup>6</sup>  So in original. The semicolon and word “and” probably should not appear.
+<sup>6</sup> So in original. The semicolon and word “and” probably should not appear.
 
 in this section or in section 5107 of this title, shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 5107 of this title to any person as a fee interest under subparagraph (A)(ii).
 
 **(3) General devise of an interest in trust personalty**
 
-**(A) Trust personality 7 [footnote: 7 So in original. Probably should be “personalty”.] defined**
+**(A) Trust personality 7 [footnote: 7 So in original. Probably should be “personalty”.] defined**
 
 The term “trust personalty” as used in this section includes all funds and securities of any kind which are held in trust in an individual Indian money account or otherwise supervised by the Secretary.
 
@@ -1183,13 +1183,13 @@ In construing a devise to a class other than a class described in subparagraph (
 
 In any devise under this chapter,8
 
-<sup>8</sup>  See References in Text note below.
+<sup>8</sup> See References in Text note below.
 
 the words “die without issue”, “die without leaving issue”, “have no issue”, or words of a similar import shall be construed to mean that an individual had no lineal descendants in his lifetime or at his death, and not that there will be no lineal descendants at some future time.
 
 **(4) Persons born out of wedlock**
 
-In construing provisions of this chapter <sup>8</sup> relating to lapsed and void devises, and in construing a devise to a person or persons described by relationship to the testator or to another, a person born out of wedlock shall be considered the child of the natural mother and also of the natural father.
+In construing provisions of this chapter <sup>8</sup> relating to lapsed and void devises, and in construing a devise to a person or persons described by relationship to the testator or to another, a person born out of wedlock shall be considered the child of the natural mother and also of the natural father.
 
 **(5) Lapsed devises**
 
@@ -1575,7 +1575,7 @@ Proceeds from the sale of interests under this subsection shall be distributed t
 
 **(ii)** the devisee in trust or restricted status under subsection (b)(1).
 
-(Pub. L. 97–459, title II, § 207, as added Pub. L. 106–462, title I, § 103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§ 3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805; Pub. L. 109–157, § 4, Dec. 30, 2005, 119 Stat. 2950; Pub. L. 109–221, title V, § 501(a), May 12, 2006, 120 Stat. 343; Pub. L. 110–453, title II, § 207(c), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, § 207, as added Pub. L. 106–462, title I, § 103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§ 3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805; Pub. L. 109–157, § 4, Dec. 30, 2005, 119 Stat. 2950; Pub. L. 109–221, title V, § 501(a), May 12, 2006, 120 Stat. 343; Pub. L. 110–453, title II, § 207(c), Dec. 2, 2008, 122 Stat. 5030.)
 
 **Editorial Notes**
 
@@ -1599,117 +1599,117 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 
 **Prior Provisions**
 
-A prior section 2206, Pub. L. 97–459, title II, § 207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, § 1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, § 301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, § 103(4), Nov. 7, 2000, 114 Stat. 1995.
+A prior section 2206, Pub. L. 97–459, title II, § 207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, § 1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, § 301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, § 103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 **Amendments**
 
-2008—Subsec. (a)(2). Pub. L. 110–453, § 207(c)(1)(B), added par. (2) relating to intestate descent of permanent improvements.
+2008—Subsec. (a)(2). Pub. L. 110–453, § 207(c)(1)(B), added par. (2) relating to intestate descent of permanent improvements.
 
-Subsec. (a)(2)(D)(i). Pub. L. 110–453, § 207(c)(1)(A)(i), substituted “clauses (ii) through (v)” for “clauses (ii) through (iv)”.
+Subsec. (a)(2)(D)(i). Pub. L. 110–453, § 207(c)(1)(A)(i), substituted “clauses (ii) through (v)” for “clauses (ii) through (iv)”.
 
-Subsec. (a)(2)(D)(iv)(II). Pub. L. 110–453, § 207(c)(1)(A)(ii), which directed substitution of “descent” for “decedent”, was executed by making the substitution only in introductory provisions after “order of”, to reflect the probable intent of Congress.
+Subsec. (a)(2)(D)(iv)(II). Pub. L. 110–453, § 207(c)(1)(A)(ii), which directed substitution of “descent” for “decedent”, was executed by making the substitution only in introductory provisions after “order of”, to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(D)(v). Pub. L. 110–453, § 207(c)(1)(A)(iii), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “This subparagraph shall not be construed to limit a person’s right to devise any trust or restricted interest by way of a valid will in accordance with subsection (b) of this section.”
+Subsec. (a)(2)(D)(v). Pub. L. 110–453, § 207(c)(1)(A)(iii), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “This subparagraph shall not be construed to limit a person’s right to devise any trust or restricted interest by way of a valid will in accordance with subsection (b) of this section.”
 
-Subsec. (b)(2)(B). Pub. L. 110–453, § 207(c)(2), designated introductory provisions and cls. (i) to (iii) as cl. (i), inserted heading, and substituted “Subject to clauses (ii) and (iii), any interest’;” for “Any interest”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and realigned margins, substituted period for semicolon at end of subcl. (III), added cl. (ii), and designated concluding provisions as cl. (iii), inserted heading, and substituted “Except as provided in clause (ii), nothing; and” for “provided that nothing”.
+Subsec. (b)(2)(B). Pub. L. 110–453, § 207(c)(2), designated introductory provisions and cls. (i) to (iii) as cl. (i), inserted heading, and substituted “Subject to clauses (ii) and (iii), any interest’;” for “Any interest”, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and realigned margins, substituted period for semicolon at end of subcl. (III), added cl. (ii), and designated concluding provisions as cl. (iii), inserted heading, and substituted “Except as provided in clause (ii), nothing; and” for “provided that nothing”.
 
-Subsec. (h)(1). Pub. L. 110–453, § 207(c)(3), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
+Subsec. (h)(1). Pub. L. 110–453, § 207(c)(3), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
 
-Subsecs. (i)(4)(C), (j)(2)(A)(ii). Pub. L. 110–453, § 207(c)(4), (5), substituted “interest in land” for “interest land”.
+Subsecs. (i)(4)(C), (j)(2)(A)(ii). Pub. L. 110–453, § 207(c)(4), (5), substituted “interest in land” for “interest land”.
 
-Subsec. (k). Pub. L. 110–453, § 207(c)(6), inserted “a” after “receiving” in introductory provisions.
+Subsec. (k). Pub. L. 110–453, § 207(c)(6), inserted “a” after “receiving” in introductory provisions.
 
-Subsec. (*o*)(3). Pub. L. 110–453, § 207(c)(7)(A), substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
+Subsec. (*o*)(3). Pub. L. 110–453, § 207(c)(7)(A), substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
 
-Subsec. (*o*)(4). Pub. L. 110–453, § 207(c)(7)(B), inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
+Subsec. (*o*)(4). Pub. L. 110–453, § 207(c)(7)(B), inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
 
 “(i) to the heirs or other devisees and the Indian tribe with jurisdiction over the interest, by first class mail; and
 
 “(ii) to all other eligible purchasers, by posting written notice in at least 5 conspicuous places in the vicinity of the place of hearing.”
 
-Subsec. (*o*)(5)(A). Pub. L. 110–453, § 207(c)(7)(C)(i)(I), in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
+Subsec. (*o*)(5)(A). Pub. L. 110–453, § 207(c)(7)(C)(i)(I), in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
 
-Subsec. (*o*)(5)(A)(ii). Pub. L. 110–453, § 207(c)(7)(C)(i)(III)(aa), (bb), substituted “sale” for “auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
+Subsec. (*o*)(5)(A)(ii). Pub. L. 110–453, § 207(c)(7)(C)(i)(III)(aa), (bb), substituted “sale” for “auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
 
-Subsec. (*o*)(5)(A)(iii). Pub. L. 110–453, § 207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
+Subsec. (*o*)(5)(A)(iii). Pub. L. 110–453, § 207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
 
-Subsec. (*o*)(5)(B). Pub. L. 110–453, § 207(c)(7)(C)(ii), inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir’s interest”.
+Subsec. (*o*)(5)(B). Pub. L. 110–453, § 207(c)(7)(C)(ii), inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir’s interest”.
 
-2006—Subsec. (g)(2). Pub. L. 109–221, § 501(a)(1), substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
+2006—Subsec. (g)(2). Pub. L. 109–221, § 501(a)(1), substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
 
-Subsec. (g)(3). Pub. L. 109–221, § 501(a)(2), added par. (3) and struck out former par. (3). Text read as follows: “Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.”
+Subsec. (g)(3). Pub. L. 109–221, § 501(a)(2), added par. (3) and struck out former par. (3). Text read as follows: “Except to the extent that this chapter otherwise affects the application of a Federal law described in paragraph (2), nothing in this subsection limits the application of this chapter to trust or restricted land, interests in such land, or any other trust or restricted interests or assets.”
 
-2005—Subsec. (a)(2)(D)(iv)(I)(aa). Pub. L. 109–157, § 4(b)(1), substituted “this subparagraph” for “clause (iii)”.
+2005—Subsec. (a)(2)(D)(iv)(I)(aa). Pub. L. 109–157, § 4(b)(1), substituted “this subparagraph” for “clause (iii)”.
 
-Subsec. (a)(2)(D)(iv)(I)(aa)(BB). Pub. L. 109–157, § 4(b)(2), substituted “not more than 1 co-owner” for “any co-owner”.
+Subsec. (a)(2)(D)(iv)(I)(aa)(BB). Pub. L. 109–157, § 4(b)(2), substituted “not more than 1 co-owner” for “any co-owner”.
 
-Subsec. (c). Pub. L. 109–157, § 4(c), reenacted heading without change.
+Subsec. (c). Pub. L. 109–157, § 4(c), reenacted heading without change.
 
-Subsec. (f)(3). Pub. L. 109–157, § 4(d), inserted “, including noncompetitive grants,” after “award grants” in introductory provisions.
+Subsec. (f)(3). Pub. L. 109–157, § 4(d), inserted “, including noncompetitive grants,” after “award grants” in introductory provisions.
 
-Subsec. (g). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (h) as (g).
+Subsec. (g). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (h) as (g).
 
-Subsec. (g)(2). Pub. L. 109–157, § 4(a)(2)(A)(i), inserted “specifically” after “pertains” in introductory provisions.
+Subsec. (g)(2). Pub. L. 109–157, § 4(a)(2)(A)(i), inserted “specifically” after “pertains” in introductory provisions.
 
-Subsec. (g)(2)(B). Pub. L. 109–157, § 4(a)(2)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
+Subsec. (g)(2)(B). Pub. L. 109–157, § 4(a)(2)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.”
 
-Subsec. (g)(3). Pub. L. 109–157, § 4(a)(2)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 109–157, § 4(a)(2)(B), added par. (3).
 
-Subsec. (h). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (h)(6). Pub. L. 109–157, § 4(a)(3)(A), made technical amendment to reference in original act which appears in text as reference to section 2205 of this title.
+Subsec. (h)(6). Pub. L. 109–157, § 4(a)(3)(A), made technical amendment to reference in original act which appears in text as reference to section 2205 of this title.
 
-Subsec. (h)(7). Pub. L. 109–157, § 4(a)(3)(B), inserted “in trust or restricted status” after “testator”.
+Subsec. (h)(7). Pub. L. 109–157, § 4(a)(3)(B), inserted “in trust or restricted status” after “testator”.
 
-Subsec. (i). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(2)(A)(ii)(I). Pub. L. 109–157, § 4(a)(4)(A)(i), substituted “the date that is 1 year after the date on which the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374)” for “October 27, 2004”.
+Subsec. (j)(2)(A)(ii)(I). Pub. L. 109–157, § 4(a)(4)(A)(i), substituted “the date that is 1 year after the date on which the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374)” for “October 27, 2004”.
 
-Subsec. (j)(2)(A)(iii). Pub. L. 109–157, § 4(a)(4)(A)(ii), struck out “the provisions of” before “subsection (a)(2)(A)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(A) in introductory provisions.
+Subsec. (j)(2)(A)(iii). Pub. L. 109–157, § 4(a)(4)(A)(ii), struck out “the provisions of” before “subsection (a)(2)(A)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(A) in introductory provisions.
 
-Subsec. (j)(8)(D). Pub. L. 109–157, § 4(a)(4)(B), struck out “the provisions of” before “subsection (a)(2)(D)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(D).
+Subsec. (j)(8)(D). Pub. L. 109–157, § 4(a)(4)(B), struck out “the provisions of” before “subsection (a)(2)(D)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(D).
 
-Subsec. (j)(9)(C). Pub. L. 109–157, § 4(a)(4)(C), made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (*o*)” for “subsection (p)”.
+Subsec. (j)(9)(C). Pub. L. 109–157, § 4(a)(4)(C), made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (*o*)” for “subsection (p)”.
 
-Subsecs. (k) to (n). Pub. L. 109–157, § 4(a)(1), redesignated subsecs. (*l*) to (*o*) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
+Subsecs. (k) to (n). Pub. L. 109–157, § 4(a)(1), redesignated subsecs. (*l*) to (*o*) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
 
-Subsec. (*o*). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (p) as (*o*). Former subsec. (*o*) redesignated (n).
+Subsec. (*o*). Pub. L. 109–157, § 4(a)(1), redesignated subsec. (p) as (*o*). Former subsec. (*o*) redesignated (n).
 
-Subsec. (*o*)(2). Pub. L. 109–157, § 4(a)(5)(A)(i), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
+Subsec. (*o*)(2). Pub. L. 109–157, § 4(a)(5)(A)(i), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
 
-Subsec. (*o*)(2)(A). Pub. L. 109–157, § 4(a)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
+Subsec. (*o*)(2)(A). Pub. L. 109–157, § 4(a)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
 
-Subsec. (*o*)(3)(B). Pub. L. 109–157, § 4(a)(5)(B), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
+Subsec. (*o*)(3)(B). Pub. L. 109–157, § 4(a)(5)(B), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
 
-Subsec. (*o*)(6). Pub. L. 109–157, § 4(a)(5)(C), designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
+Subsec. (*o*)(6). Pub. L. 109–157, § 4(a)(5)(C), designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
 
-2004—Subsec. (a). Pub. L. 108–374, § 3(a), added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
+2004—Subsec. (a). Pub. L. 108–374, § 3(a), added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
 
-Subsec. (b). Pub. L. 108–374, § 3(b), added subsec. (b) and struck out heading and text of former subsec. (b) which related to intestate succession.
+Subsec. (b). Pub. L. 108–374, § 3(b), added subsec. (b) and struck out heading and text of former subsec. (b) which related to intestate succession.
 
-Subsec. (c). Pub. L. 108–374, § 3(c), added text of subsec. (c) and struck out text of former subsec. (c) which related to ownership interests in the same parcel of trust or restricted lands devised or passed to more than one person.
+Subsec. (c). Pub. L. 108–374, § 3(c), added text of subsec. (c) and struck out text of former subsec. (c) which related to ownership interests in the same parcel of trust or restricted lands devised or passed to more than one person.
 
-Subsec. (f)(1). Pub. L. 108–374, § 6(e)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.”
+Subsec. (f)(1). Pub. L. 108–374, § 6(e)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.”
 
-Subsec. (f)(2)(B) to (D). Pub. L. 108–374, § 6(e)(2), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+Subsec. (f)(2)(B) to (D). Pub. L. 108–374, § 6(e)(2), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
-Subsec. (f)(3), (4). Pub. L. 108–374, § 6(e)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.”
+Subsec. (f)(3), (4). Pub. L. 108–374, § 6(e)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.”
 
-Subsec. (g). Pub. L. 108–374, § 6(a)(4), struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
+Subsec. (g). Pub. L. 108–374, § 6(a)(4), struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
 
-Subsecs. (h) to (k). Pub. L. 108–374, § 3(d), added subsecs. (h) to (k).
+Subsecs. (h) to (k). Pub. L. 108–374, § 3(d), added subsecs. (h) to (k).
 
-Subsecs. (*l*) to (*o*). Pub. L. 108–374, § 6(e)(4), which directed amendment of section by adding subsecs. (*l*) to (*o*) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
+Subsecs. (*l*) to (*o*). Pub. L. 108–374, § 6(e)(4), which directed amendment of section by adding subsecs. (*l*) to (*o*) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
 
-Subsec. (p). Pub. L. 108–374, § 6(a)(2), added subsec. (p).
+Subsec. (p). Pub. L. 108–374, § 6(a)(2), added subsec. (p).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–453, title II, § 207(f), Dec. 2, 2008, 122 Stat. 5033, provided that:
+Pub. L. 110–453, title II, § 207(f), Dec. 2, 2008, 122 Stat. 5033, provided that:
 
 > **“(1) Testamentary disposition.—** The amendments made by subsection (c)(2) of this section to section 207(b) of the Indian Land Consolidation Act (25 U.S.C. 2206(b)) shall not apply to any will executed before the date that is 1 year after the date of enactment of this Act [Dec. 2, 2008].
 
@@ -1725,13 +1725,13 @@ Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year a
 
 **Judicial Review**
 
-Pub. L. 106–462, title I, § 104, Nov. 7, 2000, 114 Stat. 2006, provided that after the Secretary of the Interior provided the certification required under former subsec. (g)(4) of this section, the owner of an interest in trust or restricted land could bring an administrative action to challenge the application of this section to the devise or descent of his or her interest or interests in trust or restricted lands, and could seek judicial review of the final decision of the Secretary with respect to such challenge.
+Pub. L. 106–462, title I, § 104, Nov. 7, 2000, 114 Stat. 2006, provided that after the Secretary of the Interior provided the certification required under former subsec. (g)(4) of this section, the owner of an interest in trust or restricted land could bring an administrative action to challenge the application of this section to the devise or descent of his or her interest or interests in trust or restricted lands, and could seek judicial review of the final decision of the Secretary with respect to such challenge.
 
-## § 2207. Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled lands
+## § 2207. Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled lands
 
 The Secretary in carrying out his responsibility to regulate the descent and distribution of trust lands under section 372 of this title, and other laws, shall give full faith and credit to any tribal actions taken pursuant to subsections (a) and (b) of section 2205 of this title, which provision shall apply only to estates of decedent’s whose deaths occur on or after the effective date of tribal ordinances adopted pursuant to this chapter.
 
-(Pub. L. 97–459, title II, § 208, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 106–462, title I, § 103(5), Nov. 7, 2000, 114 Stat. 1999.)
+(Pub. L. 97–459, title II, § 208, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 106–462, title I, § 103(5), Nov. 7, 2000, 114 Stat. 1999.)
 
 **Editorial Notes**
 
@@ -1739,29 +1739,29 @@ The Secretary in carrying out his responsibility to regulate the descent and dis
 
 2000—Pub. L. 106–462 substituted “subsections (a) and (b) of section 2205” for “section 2205”.
 
-## § 2208. Conveyancing authority upon sale or exchange of tribal lands; removal of trust status of individually owned lands
+## § 2208. Conveyancing authority upon sale or exchange of tribal lands; removal of trust status of individually owned lands
 
 The Secretary shall have the authority to issue deeds, patents, or such other instruments of conveyance needed to effectuate a sale or exchange of tribal lands made pursuant to the terms of this chapter and to remove, at the request of an Indian owner, the trust status of individually held lands or interests therein, where authorized by law.
 
-(Pub. L. 97–459, title II, § 209, Jan. 12, 1983, 96 Stat. 2519.)
+(Pub. L. 97–459, title II, § 209, Jan. 12, 1983, 96 Stat. 2519.)
 
-## § 2209. Trusteeship title of United States for any Indian or Indian tribe
+## § 2209. Trusteeship title of United States for any Indian or Indian tribe
 
 Title to any land acquired under this chapter by any Indian or Indian tribe shall be taken in trust by the United States for that Indian or Indian tribe.
 
-(Pub. L. 97–459, title II, § 210, Jan. 12, 1983, 96 Stat. 2519.)
+(Pub. L. 97–459, title II, § 210, Jan. 12, 1983, 96 Stat. 2519.)
 
-## § 2210. Tax exemption
+## § 2210. Tax exemption
 
 All lands or interests in land acquired by the United States for an Indian or Indian tribe under authority of this chapter shall be exempt from Federal, State and local taxation.
 
-(Pub. L. 97–459, title II, § 211, Jan. 12, 1983, 96 Stat. 2519.)
+(Pub. L. 97–459, title II, § 211, Jan. 12, 1983, 96 Stat. 2519.)
 
-## § 2211. Governing body of tribe; construction of chapter as not vesting with authority not authorized by tribal constitution or by-laws
+## § 2211. Governing body of tribe; construction of chapter as not vesting with authority not authorized by tribal constitution or by-laws
 
 Nothing in this chapter shall be construed as vesting the governing body of an Indian tribe with any authority which is not authorized by the constitution and by-laws or other organizational document of such tribe.
 
-(Pub. L. 97–459, title II, § 212, as added Pub. L. 98–608, § 1(5), Oct. 30, 1984, 98 Stat. 3173.)
+(Pub. L. 97–459, title II, § 212, as added Pub. L. 98–608, § 1(5), Oct. 30, 1984, 98 Stat. 3173.)
 
 **Editorial Notes**
 
@@ -1769,7 +1769,7 @@ Nothing in this chapter shall be construed as vesting the governing body of an I
 
 This chapter, referred to in text, was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
-## § 2212. Fractional interest acquisition program
+## § 2212. Fractional interest acquisition program
 
 **(a) Acquisition by Secretary**
 
@@ -1789,9 +1789,9 @@ Subject to section 2213 of this title, the Secretary shall immediately hold inte
 
 **(1)** shall promote the policies provided for in section 102 of the Indian Land Consolidation Act Amendments of 2000;
 
-**(2)** may give priority to the acquisition of fractional interests representing 2 percent or less of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court’s decision in Babbitt v. Youpee (117 S 1
+**(2)** may give priority to the acquisition of fractional interests representing 2 percent or less of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court’s decision in Babbitt v. Youpee (117 S 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 Ct. 727 (1997));
 
@@ -1841,7 +1841,7 @@ If an Indian tribe that has jurisdiction over a parcel of trust or restricted la
 
 There is authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2005, $95,000,000 for fiscal year 2006, and $145,000,000 for each of fiscal years 2007 through 2010.
 
-(Pub. L. 97–459, title II, § 213, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 1999; amended Pub. L. 108–374, § 6(a)(5), Oct. 27, 2004, 118 Stat. 1800; Pub. L. 109–157, § 5, Dec. 30, 2005, 119 Stat. 2952; Pub. L. 110–453, title II, § 207(d), Dec. 2, 2008, 122 Stat. 5033.)
+(Pub. L. 97–459, title II, § 213, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 1999; amended Pub. L. 108–374, § 6(a)(5), Oct. 27, 2004, 118 Stat. 1800; Pub. L. 109–157, § 5, Dec. 30, 2005, 119 Stat. 2952; Pub. L. 110–453, title II, § 207(d), Dec. 2, 2008, 122 Stat. 5033.)
 
 **Editorial Notes**
 
@@ -1851,31 +1851,31 @@ This chapter, referred to in subsec. (a)(3), was in the original “this Act”,
 
 Section 102 of the Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (b)(1), is section 102 of Pub. L. 106–462, which is set out as a note under section 2201 of this title.
 
-The Indian Self-Determination and Education Assistance Act of 1974, referred to in subsec. (b)(3)(C), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act of 1974, referred to in subsec. (b)(3)(C), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 2008—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(*o*)” for “section 2206(p)”.
 
-2005—Pub. L. 109–157, § 5(1), amended section catchline generally making technical correction to section designation.
+2005—Pub. L. 109–157, § 5(1), amended section catchline generally making technical correction to section designation.
 
-Subsec. (a)(1). Pub. L. 109–157, § 5(2), made technical amendment to reference in original act which appears in text as reference to section 2206(p) of this title.
+Subsec. (a)(1). Pub. L. 109–157, § 5(2), made technical amendment to reference in original act which appears in text as reference to section 2206(p) of this title.
 
-2004—Pub. L. 108–374, § 6(a)(5)(A), substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
+2004—Pub. L. 108–374, § 6(a)(5)(A), substituted “Fractional interest acquisition program” for “Pilot program for the acquisition of fractional interests” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–374, § 6(a)(5)(B)(i), inserted “or from an heir during probate in accordance with section 2206(p) of this title” after “owner,”.
+Subsec. (a)(1). Pub. L. 108–374, § 6(a)(5)(B)(i), inserted “or from an heir during probate in accordance with section 2206(p) of this title” after “owner,”.
 
-Subsec. (a)(2). Pub. L. 108–374, § 6(a)(5)(B)(ii), (iii), reenacted heading without change, substituted “The Secretary shall submit” for “(B) Required report.—Prior to expiration of the authority provided for in subparagraph (A), the Secretary shall submit” and “how the fractional interest acquisition program should be enhanced to increase the resources made” for “whether the program to acquire fractional interests should be extended or altered to make resources”, and struck out heading and text of subpar. (A). Text of subpar. (A) read as follows: “The Secretary shall have the authority to acquire interests in trust or restricted lands under this section during the 3-year period beginning on the date of certification that is referred to in section 2206(g)(5) of this title.”
+Subsec. (a)(2). Pub. L. 108–374, § 6(a)(5)(B)(ii), (iii), reenacted heading without change, substituted “The Secretary shall submit” for “(B) Required report.—Prior to expiration of the authority provided for in subparagraph (A), the Secretary shall submit” and “how the fractional interest acquisition program should be enhanced to increase the resources made” for “whether the program to acquire fractional interests should be extended or altered to make resources”, and struck out heading and text of subpar. (A). Text of subpar. (A) read as follows: “The Secretary shall have the authority to acquire interests in trust or restricted lands under this section during the 3-year period beginning on the date of certification that is referred to in section 2206(g)(5) of this title.”
 
-Subsec. (b)(4). Pub. L. 108–374, § 6(a)(5)(C), added par. (4) and struck out former par. (4) which read as follows: “shall minimize the administrative costs associated with the land acquisition program.”
+Subsec. (b)(4). Pub. L. 108–374, § 6(a)(5)(C), added par. (4) and struck out former par. (4) which read as follows: “shall minimize the administrative costs associated with the land acquisition program.”
 
-Subsec. (c)(1)(A). Pub. L. 108–374, § 6(a)(5)(D)(i)(I)–(III), substituted “an undivided interest” for “at least 5 percent of the undivided interest”, inserted “in such parcel” after “the Secretary shall convey an interest”, and substituted “landowner—” and cls. (i) and (ii) for “landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.”
+Subsec. (c)(1)(A). Pub. L. 108–374, § 6(a)(5)(D)(i)(I)–(III), substituted “an undivided interest” for “at least 5 percent of the undivided interest”, inserted “in such parcel” after “the Secretary shall convey an interest”, and substituted “landowner—” and cls. (i) and (ii) for “landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.”
 
-Subsec. (c)(1)(B). Pub. L. 108–374, § 6(a)(5)(D)(i)(IV), inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with section 5135 of this title” before period at end.
+Subsec. (c)(1)(B). Pub. L. 108–374, § 6(a)(5)(D)(i)(IV), inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with section 5135 of this title” before period at end.
 
-Subsec. (c)(3). Pub. L. 108–374, § 6(a)(5)(D)(ii), substituted “an undivided interest” for “10 percent or more of the undivided interests”.
+Subsec. (c)(3). Pub. L. 108–374, § 6(a)(5)(D)(ii), substituted “an undivided interest” for “10 percent or more of the undivided interests”.
 
-Subsec. (d). Pub. L. 108–374, § 6(a)(5)(E), added subsec. (d).
+Subsec. (d). Pub. L. 108–374, § 6(a)(5)(E), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1883,7 +1883,7 @@ Subsec. (d). Pub. L. 108–374, § 6(a)(5)(E), added subsec. (d).
 
 Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
-## § 2213. Administration of acquired fractional interests; disposition of proceeds
+## § 2213. Administration of acquired fractional interests; disposition of proceeds
 
 **(a) In general**
 
@@ -1917,9 +1917,9 @@ Notwithstanding section 5123 of this title, or any other provision of law, until
 
 **(4) Removal of liens upon payment into the acquisition fund**
 
-The Secretary shall remove a lien referred to in paragraph (1) upon payment of an amount equal to the purchase price of that interest in land into the Acquisition Fund created under section 2215 1
+The Secretary shall remove a lien referred to in paragraph (1) upon payment of an amount equal to the purchase price of that interest in land into the Acquisition Fund created under section 2215 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, except where the tribe with jurisdiction over such interest in land authorizes the Secretary to continue the lien in order to generate additional acquisition funds.
 
@@ -1937,7 +1937,7 @@ Paragraph (2) shall apply with respect to any undivided interest in allotted lan
 
 The lease or agreement described in paragraph (1) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
 
-(Pub. L. 97–459, title II, § 214, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2000; amended Pub. L. 108–374, § 6(a)(6), Oct. 27, 2004, 118 Stat. 1801.)
+(Pub. L. 97–459, title II, § 214, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2000; amended Pub. L. 108–374, § 6(a)(6), Oct. 27, 2004, 118 Stat. 1801.)
 
 **Editorial Notes**
 
@@ -1949,11 +1949,11 @@ Section 2215 of this title, referred to in the original in subsec. (b)(4), proba
 
 2004—Subsec. (b). Pub. L. 108–374 added subsec. (b) and struck out heading and text of former subsec. (b) which related to conditions applicable to the administration by Indian tribes of acquired fractional interests in trust or restricted lands.
 
-## § 2214. Establishing fair market value
+## § 2214. Establishing fair market value
 
 For purposes of this chapter, the Secretary may develop a system for establishing the fair market value of various types of lands and improvements. Such a system may include determinations of fair market value based on appropriate geographic units as determined by the Secretary. Such a system may govern the amounts offered for the purchase of interests in trust or restricted land under this chapter.
 
-(Pub. L. 97–459, title II, § 215, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(7), Oct. 27, 2004, 118 Stat. 1802; Pub. L. 109–157, § 6, Dec. 30, 2005, 119 Stat. 2952.)
+(Pub. L. 97–459, title II, § 215, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(7), Oct. 27, 2004, 118 Stat. 1802; Pub. L. 109–157, § 6, Dec. 30, 2005, 119 Stat. 2952.)
 
 **Editorial Notes**
 
@@ -1973,7 +1973,7 @@ This chapter, referred to in text, was in the original “this Act”, which was
 
 Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
-## § 2215. Acquisition Fund
+## § 2215. Acquisition Fund
 
 **(a) In general** The Secretary shall establish an Acquisition Fund to—
 
@@ -1995,19 +1995,19 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 The Secretary may use the revenue deposited in the Acquisition Fund under paragraph (1) to acquire some or all of the undivided interests in any parcels of land in accordance with section 2204 of this title.
 
-(Pub. L. 97–459, title II, § 216, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(8), Oct. 27, 2004, 118 Stat. 1802.)
+(Pub. L. 97–459, title II, § 216, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(8), Oct. 27, 2004, 118 Stat. 1802.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a)(2). Pub. L. 108–374, § 6(a)(8)(A), added par. (2) and struck out former par. (2) which read as follows: “collect all revenues received from the lease, permit, or sale of resources from interests in trust or restricted lands transferred to Indian tribes by the Secretary under section 2212 of this title or paid by Indian landowners under section 2212(c) of this title.”
+2004—Subsec. (a)(2). Pub. L. 108–374, § 6(a)(8)(A), added par. (2) and struck out former par. (2) which read as follows: “collect all revenues received from the lease, permit, or sale of resources from interests in trust or restricted lands transferred to Indian tribes by the Secretary under section 2212 of this title or paid by Indian landowners under section 2212(c) of this title.”
 
-Subsec. (b)(1). Pub. L. 108–374, § 6(a)(8)(B)(i), substituted “All” for “Subject to paragraph (2), all” in introductory provisions and added subpar. (C).
+Subsec. (b)(1). Pub. L. 108–374, § 6(a)(8)(B)(i), substituted “All” for “Subject to paragraph (2), all” in introductory provisions and added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 108–374, § 6(a)(8)(B)(ii), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “With respect to the deposit of proceeds derived from an interest under paragraph (1), the aggregate amount deposited under that paragraph shall not exceed the purchase price of that interest under section 2212 of this title.”
+Subsec. (b)(2). Pub. L. 108–374, § 6(a)(8)(B)(ii), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “With respect to the deposit of proceeds derived from an interest under paragraph (1), the aggregate amount deposited under that paragraph shall not exceed the purchase price of that interest under section 2212 of this title.”
 
-## § 2216. Trust and restricted land transactions
+## § 2216. Trust and restricted land transactions
 
 **(a) Policy** It is the policy of the United States to encourage and assist the consolidation of land ownership through transactions—
 
@@ -2073,7 +2073,7 @@ Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricte
 
 Section 2205(c)(2)(A) of this title shall apply with respect to the recording and mortgaging of any trust or restricted land referred to in subparagraph (A).
 
-(Pub. L. 97–459, title II, § 217, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(9), Oct. 27, 2004, 118 Stat. 1803; Pub. L. 109–157, § 7, Dec. 30, 2005, 119 Stat. 2952.)
+(Pub. L. 97–459, title II, § 217, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, § 6(a)(9), Oct. 27, 2004, 118 Stat. 1803; Pub. L. 109–157, § 7, Dec. 30, 2005, 119 Stat. 2952.)
 
 **Editorial Notes**
 
@@ -2081,15 +2081,15 @@ Section 2205(c)(2)(A) of this title shall apply with respect to the recording an
 
 2005—Subsec. (e). Pub. L. 109–157 substituted “be made available to—” for “be made available to”.
 
-2004—Subsec. (b)(1)(B). Pub. L. 108–374, § 6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner’s spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
+2004—Subsec. (b)(1)(B). Pub. L. 108–374, § 6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner’s spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
 
-Subsec. (e). Pub. L. 108–374, § 6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
+Subsec. (e). Pub. L. 108–374, § 6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
 
-Subsec. (e)(1). Pub. L. 108–374, § 6(a)(9)(C), struck out “Indian” before “owners”.
+Subsec. (e)(1). Pub. L. 108–374, § 6(a)(9)(C), struck out “Indian” before “owners”.
 
-Subsec. (e)(3). Pub. L. 108–374, § 6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
+Subsec. (e)(3). Pub. L. 108–374, § 6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
 
-Subsec. (f). Pub. L. 108–374, § 6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
+Subsec. (f). Pub. L. 108–374, § 6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2097,7 +2097,7 @@ Subsec. (f). Pub. L. 108–374, § 6(a)(9)(E), added subsec. (f) and struck ou
 
 Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 5107 of this title.
 
-## § 2217. Reports to Congress
+## § 2217. Reports to Congress
 
 **(a) In general** Prior to expiration of the authority provided for in section 2212(a)(2)(A) of this title, the Secretary, after consultation with Indian tribes and other interested parties, shall submit to the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report that indicates, for the period covered by the report—
 
@@ -2109,7 +2109,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 The reports described in subsection (a) and section 2212(a) of this title shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
 
-(Pub. L. 97–459, title II, § 218, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2004.)
+(Pub. L. 97–459, title II, § 218, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2004.)
 
 **Editorial Notes**
 
@@ -2123,7 +2123,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 2218. Approval of leases, rights-of-way, and sales of natural resources
+## § 2218. Approval of leases, rights-of-way, and sales of natural resources
 
 **(a) Approval by the Secretary**
 
@@ -2161,9 +2161,9 @@ For purposes of this subsection, in determining the number of owners of, and the
 
 **(B) Rule of construction**
 
-Nothing in subparagraph (A) shall be construed to authorize the Secretary to treat an Indian tribe as the owner of an interest in allotted land that did not escheat to the tribe pursuant to section 2206 of this title as a result of the Supreme Court’s decision in Babbitt v. Youpee (117 S 1
+Nothing in subparagraph (A) shall be construed to authorize the Secretary to treat an Indian tribe as the owner of an interest in allotted land that did not escheat to the tribe pursuant to section 2206 of this title as a result of the Supreme Court’s decision in Babbitt v. Youpee (117 S 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 Ct. 727 (1997)).
 
@@ -2171,7 +2171,7 @@ Ct. 727 (1997)).
 
 **(1)** on behalf of the individual Indian owner if the owner is deceased and the heirs to, or devisees of, the interest of the deceased owner have not been determined; or
 
-**(2)** on behalf of any heir or devisee referred to in paragraph (1) if the heir or devisee has been determined but cannot be located <sup>1</sup>
+**(2)** on behalf of any heir or devisee referred to in paragraph (1) if the heir or devisee has been determined but cannot be located <sup>1</sup>
 
 **(d) Effect of approval**
 
@@ -2215,13 +2215,13 @@ Nothing in this section shall be construed to amend or modify the provisions of 
 
 Nothing in this chapter shall be construed to supersede, repeal, or modify any general or specific statute authorizing the grant or approval of any type of land use transaction involving fractional interests in trust or restricted land.
 
-(Pub. L. 97–459, title II, § 219, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2004; amended Pub. L. 108–374, § 6(a)(10), (11), Oct. 27, 2004, 118 Stat. 1804.)
+(Pub. L. 97–459, title II, § 219, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2004; amended Pub. L. 108–374, § 6(a)(10), (11), Oct. 27, 2004, 118 Stat. 1804.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (f), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. Title II of the Act enacted provisions classified as a note under section 396 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 
@@ -2229,11 +2229,11 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, wh
 
 **Amendments**
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–374, § 6(a)(10), substituted “90” for “100”.
+2004—Subsec. (b)(1)(A). Pub. L. 108–374, § 6(a)(10), substituted “90” for “100”.
 
-Subsec. (g). Pub. L. 108–374, § 6(a)(11), added subsec. (g).
+Subsec. (g). Pub. L. 108–374, § 6(a)(11), added subsec. (g).
 
-## § 2219. Application to Alaska
+## § 2219. Application to Alaska
 
 **(a) Findings** Congress finds that—
 
@@ -2249,7 +2249,7 @@ Except as provided in this section, this chapter shall not apply to land located
 
 Nothing in this section shall be construed to constitute a ratification of any determination by any agency, instrumentality, or court of the United States that may support the assertion of tribal jurisdiction over allotment lands or interests in such land in Alaska.
 
-(Pub. L. 97–459, title II, § 220, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2006.)
+(Pub. L. 97–459, title II, § 220, as added Pub. L. 106–462, title I, § 103(6), Nov. 7, 2000, 114 Stat. 2006.)
 
 **Editorial Notes**
 
@@ -2257,7 +2257,7 @@ Nothing in this section shall be construed to constitute a ratification of any d
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
-## § 2220. Owner-managed interests
+## § 2220. Owner-managed interests
 
 **(a) Purpose**
 
@@ -2317,7 +2317,7 @@ Subject to the provisions of paragraph (2), after the applications of the owners
 
 Owner-managed status of an interest may be revoked upon written request of the owners (including the parents or legal guardians of minors or incompetent owners) of all trust or restricted interests in the parcel, submitted to the Secretary in accordance with regulations adopted under subsection (*l*).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The revocation shall become effective as of the date on which the last of all such requests has been delivered to the Secretary.
 
@@ -2349,7 +2349,7 @@ Except with respect to the specific lease transaction described in paragraph (1)
 
 Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
-(Pub. L. 97–459, title II, § 221, as added Pub. L. 108–374, § 5, Oct. 27, 2004, 118 Stat. 1795; amended Pub. L. 110–453, title II, § 207(e), Dec. 2, 2008, 122 Stat. 5033.)
+(Pub. L. 97–459, title II, § 221, as added Pub. L. 108–374, § 5, Oct. 27, 2004, 118 Stat. 1795; amended Pub. L. 110–453, title II, § 207(e), Dec. 2, 2008, 122 Stat. 5033.)
 
 **Editorial Notes**
 
@@ -2363,8 +2363,8 @@ Subsection (*l*), referred to in subsec. (h)(2), probably should be a reference 
 
 2008—Subsec. (a). Pub. L. 110–453 inserted “owner or” before “co-owners”.
 
-## § 2221. Annual notice and filing; current whereabouts of interest owners
+## § 2221. Annual notice and filing; current whereabouts of interest owners
 
 On at least an annual basis, the Secretary shall include along with other regular reports to owners of trust or restricted interests in land and individual Indian money account owners a change of name and address form by means of which the owner may confirm or update the owner’s name and address. The change of name and address form shall include a section in which the owner may confirm and update the owner’s name and address.
 
-(Pub. L. 97–459, title II, § 222, as added Pub. L. 108–374, § 7, Oct. 27, 2004, 118 Stat. 1809.)
+(Pub. L. 97–459, title II, § 222, as added Pub. L. 108–374, § 7, Oct. 27, 2004, 118 Stat. 1809.)

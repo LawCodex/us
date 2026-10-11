@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1523—NATIONAL MUSIC COUNCIL"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1523—NATIONAL MUSIC COUNCIL"
 identifier: "/us/usc/t36/stII/ptB/ch1523"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1523—NATIONAL MUSIC COUNCIL
 
-## § 152301. Organization
+## § 152301. Organization
 
 **(a) Federal Charter.—** National Music Council (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,12 +27,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152301 | 36:661. | Aug. 1, 1956, ch. 824, §§ 1, 2, 19, 70 Stat. 794, 797. |
+| 152301 | 36:661. | Aug. 1, 1956, ch. 824, §§ 1, 2, 19, 70 Stat. 794, 797. |
 |  | 36:662. 36:679. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 152302. Purposes
+## § 152302. Purposes
 
 The purposes of the corporation are—
 
@@ -54,13 +54,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152302 | 36:663. | Aug. 1, 1956, ch. 824, § 3, 70 Stat. 795. |
+| 152302 | 36:663. | Aug. 1, 1956, ch. 824, § 3, 70 Stat. 795. |
 
 Before clause (1), the word “objects” is omitted as unnecessary.
 
 In clause (5), the word “considers” is substituted for “shall deem” for consistency in the revised title.
 
-## § 152303. Membership
+## § 152303. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -72,9 +72,9 @@ In clause (5), the word “considers” is substituted for “shall deem” for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152303 | 36:666. | Aug. 1, 1956, ch. 824, § 6, 70 Stat. 796. |
+| 152303 | 36:666. | Aug. 1, 1956, ch. 824, § 6, 70 Stat. 796. |
 
-## § 152304. Governing body
+## § 152304. Governing body
 
 **(a) General.—**
 
@@ -90,7 +90,7 @@ In clause (5), the word “considers” is substituted for “shall deem” for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152304(a) | 36:667. | Aug. 1, 1956, ch. 824, §§ 7, 8, 70 Stat. 796. |
+| 152304(a) | 36:667. | Aug. 1, 1956, ch. 824, §§ 7, 8, 70 Stat. 796. |
 | 152304(b) | 36:668. |  |
 
 In subsection (a)(1), the words “and referred to” are omitted as unnecessary.
@@ -99,7 +99,7 @@ In subsection (a)(2), the words “at another regular interval as provided” ar
 
 In subsection (b), the words “from time to time” are omitted as unnecessary.
 
-## § 152305. Powers
+## § 152305. Powers
 
 The corporation may—
 
@@ -129,7 +129,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152305 | 36:664. | Aug. 1, 1956, ch. 824, §§ 4, 18, 70 Stat. 795, 797. |
+| 152305 | 36:664. | Aug. 1, 1956, ch. 824, §§ 4, 18, 70 Stat. 795, 797. |
 |  | 36:678. |  |
 
 In this section, the text of 36:678 is omitted as executed and obsolete.
@@ -150,7 +150,7 @@ In clause (9), the words “complain and defend in any court of competent jurisd
 
 In clause (10), the words “any other act” are substituted for “any and all acts and things”, and the word “objects” is omitted, to eliminate unnecessary words.
 
-## § 152306. Exclusive right to name, seals, emblems, and badges
+## § 152306. Exclusive right to name, seals, emblems, and badges
 
 The corporation has the exclusive right to use the name “National Music Council” and seals, emblems, and badges the corporation adopts.
 
@@ -160,11 +160,11 @@ The corporation has the exclusive right to use the name “National Music Counci
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152306 | 36:676. | Aug. 1, 1956, ch. 824, § 16, 70 Stat. 797. |
+| 152306 | 36:676. | Aug. 1, 1956, ch. 824, § 16, 70 Stat. 797. |
 
 The words “sole” and “as representing such Corporation” are omitted as unnecessary.
 
-## § 152307. Restrictions
+## § 152307. Restrictions
 
 **(a) Profit.—** The corporation may not engage in business for profit.
 
@@ -182,7 +182,7 @@ The words “sole” and “as representing such Corporation” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152307(a) | 36:672 (words after comma). | Aug. 1, 1956, ch. 824, §§ 9, 10, 12, 70 Stat. 796. |
+| 152307(a) | 36:672 (words after comma). | Aug. 1, 1956, ch. 824, §§ 9, 10, 12, 70 Stat. 796. |
 | 152307(b) | 36:672 (words before comma). |  |
 | 152307(c) | 36:670. |  |
 | 152307(d) | 36:669(a). |  |
@@ -194,7 +194,7 @@ In subsection (b), the words “any shares of” are omitted as unnecessary.
 
 In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 675 of this title” are omitted as unnecessary.
 
-## § 152308. Principal office
+## § 152308. Principal office
 
 The principal office of the corporation shall be at the place the board of directors decides. However, the activities of the corporation may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -204,9 +204,9 @@ The principal office of the corporation shall be at the place the board of direc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152308 | 36:665 (1st, last sentences). | Aug. 1, 1956, ch. 824, § 5 (1st, last sentences), 70 Stat. 796. |
+| 152308 | 36:665 (1st, last sentences). | Aug. 1, 1956, ch. 824, § 5 (1st, last sentences), 70 Stat. 796. |
 
-## § 152309. Records and inspection
+## § 152309. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -224,11 +224,11 @@ The principal office of the corporation shall be at the place the board of direc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152309 | 36:673. | Aug. 1, 1956, ch. 824, § 13, 70 Stat. 796. |
+| 152309 | 36:673. | Aug. 1, 1956, ch. 824, § 13, 70 Stat. 796. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 152310. Service of process
+## § 152310. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -240,12 +240,12 @@ The word “records” is substituted for “books and records” for consistenc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152310(a) | 36:665 (2d, 3d sentences). | Aug. 1, 1956, ch. 824, §§ 5 (2d, 3d sentences), 17, 70 Stat. 796, 797. |
+| 152310(a) | 36:665 (2d, 3d sentences). | Aug. 1, 1956, ch. 824, §§ 5 (2d, 3d sentences), 17, 70 Stat. 796, 797. |
 | 152310(b) | 36:677. |  |
 
 In subsection (b), the words “precedent” and “granted to the Corporation” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or in the office of another appropriate officer” for consistency in the revised title. The words “post office” are omitted as unnecessary.
 
-## § 152311. Liability for acts of officers and agents
+## § 152311. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -255,9 +255,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152311 | 36:671. | Aug. 1, 1956, ch. 824, § 11, 70 Stat. 796. |
+| 152311 | 36:671. | Aug. 1, 1956, ch. 824, § 11, 70 Stat. 796. |
 
-## § 152312. Distribution of assets on dissolution or final liquidation
+## § 152312. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be used by the board of directors for the purposes stated in section 152302 of this title or be transferred to a recognized educational foundation.
 
@@ -267,6 +267,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152312 | 36:675. | Aug. 1, 1956, ch. 824, § 15, 70 Stat. 797. |
+| 152312 | 36:675. | Aug. 1, 1956, ch. 824, § 15, 70 Stat. 797. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

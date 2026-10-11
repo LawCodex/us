@@ -17,27 +17,27 @@ retrieved: 2026-10-11
 
 **Amendment of Analysis**
 
-Pub. L. 118–99, § 2(e)(3), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this analysis is amended by striking item 530. See 2024 Amendment note below.
+Pub. L. 118–99, § 2(e)(3), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this analysis is amended by striking item 530. See 2024 Amendment note below.
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–99, § 2(c), (e)(3), Oct. 1, 2024, 138 Stat. 1579, added item 530 and, effective 5 years after Oct. 1, 2024, struck out such item 530 “Internal guidance on excess personal property”.
+2024—Pub. L. 118–99, § 2(c), (e)(3), Oct. 1, 2024, 138 Stat. 1579, added item 530 and, effective 5 years after Oct. 1, 2024, struck out such item 530 “Internal guidance on excess personal property”.
 
-2022—Pub. L. 117–328, div. Z, § 103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
+2022—Pub. L. 117–328, div. Z, § 103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
 
-2016—Pub. L. 114–318, § 3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
+2016—Pub. L. 114–318, § 3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024Amendment**
 
-Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(3) is effective on the date that is 5 years after Oct. 1, 2024.
+Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(3) is effective on the date that is 5 years after Oct. 1, 2024.
 
 ## SUBCHAPTER I—PROCUREMENT AND WAREHOUSING
 
-### § 501. Services for executive agencies
+### § 501. Services for executive agencies
 
 **(a) Authority of Administrator of General Services.—**
 
@@ -79,13 +79,13 @@ Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the ame
 
 **(d) Facilities.—** The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1079; Pub. L. 111–350, § 5(*l*)(6), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 115–232, div. B, title XXVIII, § 2826, Aug. 13, 2018, 132 Stat. 2270.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1079; Pub. L. 111–350, § 5(*l*)(6), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 115–232, div. B, title XXVIII, § 2826, Aug. 13, 2018, 132 Stat. 2270.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501(a) | 40:481(a) (words before cl. (1), last proviso). | June 30, 1949, ch. 288, title II, § 201(a), 63 Stat. 383; Pub. L. 93–400, § 15(1), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331. |
+| 501(a) | 40:481(a) (words before cl. (1), last proviso). | June 30, 1949, ch. 288, title II, § 201(a), 63 Stat. 383; Pub. L. 93–400, § 15(1), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331. |
 | 501(b) | 40:481(a)(1), (3). |  |
 | 501(c) | 40:481(a)(4). |  |
 | 501(d) | 40:481(a)(2). |  |
@@ -146,7 +146,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 502. Services for other entities
+### § 502. Services for other entities
 
 **(a) Federal Agencies, Mixed-Ownership Government Corporations, and the District of Columbia.—** On request, the Administrator of General Services shall provide, to the extent practicable, any of the services specified in section 501 of this title to—
 
@@ -214,13 +214,13 @@ Donald J. Trump.
 
 **(f) Duty of Users Regarding Use of Supply Schedules.—** All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, § 211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, § 833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, § 2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§ 2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, § 5(*l*)(7), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 114–95, title IX, § 9215(www), Dec. 10, 2015, 129 Stat. 2191.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, § 211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, § 833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, § 2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§ 2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, § 5(*l*)(7), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 114–95, title IX, § 9215(www), Dec. 10, 2015, 129 Stat. 2191.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 502(a) | 40:481(b)(1). | June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 849, § 8(b), 64 Stat. 591; Pub. L. 103–355, title I, § 1555, Oct. 13, 1994, 108 Stat. 3300; Pub. L. 105–61, title IV, § 413, Oct. 10, 1997, 111 Stat. 1300. |
+| 502(a) | 40:481(b)(1). | June 30, 1949, ch. 288, title II, § 201(b), 63 Stat. 384; Sept. 5, 1950, ch. 849, § 8(b), 64 Stat. 591; Pub. L. 103–355, title I, § 1555, Oct. 13, 1994, 108 Stat. 3300; Pub. L. 105–61, title IV, § 413, Oct. 10, 1997, 111 Stat. 1300. |
 | 502(b) | 40:481(b)(2). |  |
 
 In subsection (b)(2), the words “the authority of” in 40:481(b)(2)(B) are omitted as unnecessary. The words “Committee for Purchase From People Who Are Blind or Severely Disabled” are substituted for [“]Committee for Purchase from the Blind and Other Severely Handicapped” because of section 911(a) of the Rehabilitation Act Amendments of 1992 (Public Law 102–569, 106 Stat. 4486) and section 301 of the Rehabilitation Act Amendments of 1993 (Public Law 103–73, 107 Stat. 736).
@@ -229,29 +229,29 @@ In subsection (b)(2), the words “the authority of” in 40:481(b)(2)(B) are om
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Section 7013 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C), is classified to section 7713 of Title 20, Education.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
 2015—Subsec. (c)(3)(C). Pub. L. 114–95 substituted “section 7013 of the Elementary and Secondary Education Act of 1965” for “section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713)”.
 
-2011—Subsec. (b)(1)(A)(i). Pub. L. 111–350, § 5(*l*)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O’Day Act (41 U.S.C. 48b(3))”.
+2011—Subsec. (b)(1)(A)(i). Pub. L. 111–350, § 5(*l*)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O’Day Act (41 U.S.C. 48b(3))”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 111–350, § 5(*l*)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O’Day Act (41 U.S.C. 48b(4)))”.
+Subsec. (b)(1)(A)(ii). Pub. L. 111–350, § 5(*l*)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O’Day Act (41 U.S.C. 48b(4)))”.
 
-Subsec. (b)(1)(B). Pub. L. 111–350, § 5(*l*)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O’Day Act (41 U.S.C. 46 et seq.)”.
+Subsec. (b)(1)(B). Pub. L. 111–350, § 5(*l*)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O’Day Act (41 U.S.C. 46 et seq.)”.
 
-Subsec. (b)(2). Pub. L. 111–350, § 5(*l*)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O’Day Act (41 U.S.C. 47)”.
+Subsec. (b)(2). Pub. L. 111–350, § 5(*l*)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O’Day Act (41 U.S.C. 47)”.
 
-2010—Subsec. (d)(1). Pub. L. 111–263, § 4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
+2010—Subsec. (d)(1). Pub. L. 111–263, § 4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
 
-Subsec. (e). Pub. L. 111–263, § 2, added subsec. (e).
+Subsec. (e). Pub. L. 111–263, § 2, added subsec. (e).
 
-Subsec. (f). Pub. L. 111–263, § 3, added subsec. (f).
+Subsec. (f). Pub. L. 111–263, § 3, added subsec. (f).
 
 2008—Subsec. (c)(1). Pub. L. 110–248 substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
 
@@ -271,13 +271,13 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **Procedures**
 
-Pub. L. 109–364, div. A, title VIII, § 833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: “Not later than 30 days after the date of the enactment of this Act [Oct. 17, 2006], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a)).”
+Pub. L. 109–364, div. A, title VIII, § 833(b), Oct. 17, 2006, 120 Stat. 2332, provided that: “Not later than 30 days after the date of the enactment of this Act [Oct. 17, 2006], the Administrator of General Services shall establish procedures to implement subsection (d) of section 502 of title 40, United States Code (as added by subsection (a)).”
 
 **Public Land Management Agency Foundations**
 
-Pub. L. 108–352, § 9, Oct. 21, 2004, 118 Stat. 1396, provided that: “Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares.”
+Pub. L. 108–352, § 9, Oct. 21, 2004, 118 Stat. 1396, provided that: “Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares.”
 
-### § 503. Exchange or sale of similar items
+### § 503. Exchange or sale of similar items
 
 **(a) Authority of Executive Agencies.—** In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
 
@@ -289,13 +289,13 @@ Pub. L. 108–352, § 9, Oct. 21, 2004, 118 Stat. 1396, provided that: “Empl
 
 **(3) Section 6101(b) to (d) of title 41.—** Section 6101(b) to (d) of title 41 applies to a sale of property under subsection (a), except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property under section 545(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081; Pub. L. 111–350, § 5(*l*)(8), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081; Pub. L. 111–350, § 5(*l*)(8), Jan. 4, 2011, 124 Stat. 3851.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 503 | 40:481(c). | June 30, 1949, ch. 288, title II, § 201(c), 63 Stat. 384; Pub. L. 93–400, § 15(2), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 100–612, § 2, Nov. 5, 1988, 102 Stat. 3180. |
+| 503 | 40:481(c). | June 30, 1949, ch. 288, title II, § 201(c), 63 Stat. 384; Pub. L. 93–400, § 15(2), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 100–612, § 2, Nov. 5, 1988, 102 Stat. 3180. |
 
 In subsection (a), the words “in such cases” are omitted as unnecessary.
 
@@ -307,11 +307,11 @@ In subsection (b)(2), the words “the authority of” are omitted as unnecessar
 
 **Amendments**
 
-2011—Subsec. (b)(1). Pub. L. 111–350, § 5(*l*)(8)(A), substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+2011—Subsec. (b)(1). Pub. L. 111–350, § 5(*l*)(8)(A), substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
 
-Subsec. (b)(3). Pub. L. 111–350, § 5(*l*)(8)(B), substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of revised statutes” in heading and “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)” in text.
+Subsec. (b)(3). Pub. L. 111–350, § 5(*l*)(8)(B), substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of revised statutes” in heading and “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)” in text.
 
-### § 504. Agency cooperation for inspection
+### § 504. Agency cooperation for inspection
 
 **(a) Receiving Assistance.—** An executive agency may use the services, work, materials, and equipment of another executive agency, with the consent of the other executive agency, to inspect personal property incident to procuring the property.
 
@@ -325,13 +325,13 @@ Subsec. (b)(3). Pub. L. 111–350, § 5(*l*)(8)(B), substituted “Section 610
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 504 | 40:481(d). | June 30, 1949, ch. 288, title II, § 201(d), as added Pub. L. 85–781, Aug. 27, 1958, 72 Stat. 936. |
+| 504 | 40:481(d). | June 30, 1949, ch. 288, title II, § 201(d), as added Pub. L. 85–781, Aug. 27, 1958, 72 Stat. 936. |
 
 In subsection (b), the words “section 1301(a) of title 31” are substituted for “section 3678 of the Revised Statutes (31 U.S.C. 628)” in section 201(d) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (c), the words “and methods” are added for consistency with section 501(b)(2) of the revised title.
 
-### § 505. Exchange or transfer of medical supplies
+### § 505. Exchange or transfer of medical supplies
 
 **(a) Excess Property Determination.—**
 
@@ -357,11 +357,11 @@ In subsection (c), the words “and methods” are added for consistency with se
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 505 | 40:481(e). | June 30, 1949, ch. 288, title II, § 201(e), as added Pub. L. 91–426, § 1, Sept. 26, 1970, 84 Stat. 883. |
+| 505 | 40:481(e). | June 30, 1949, ch. 288, title II, § 201(e), as added Pub. L. 91–426, § 1, Sept. 26, 1970, 84 Stat. 883. |
 
-In subsection (a)(2), the words “holding such medical materials or supplies” and “provided for in the first sentence of this subsection” are omitted as unnecessary because of the reorganization of the revised section. The words “in sufficient time to allow for” are substituted for “at such times as to insure . . . in sufficient time” for clarity and to eliminate unnecessary words.
+In subsection (a)(2), the words “holding such medical materials or supplies” and “provided for in the first sentence of this subsection” are omitted as unnecessary because of the reorganization of the revised section. The words “in sufficient time to allow for” are substituted for “at such times as to insure . . . in sufficient time” for clarity and to eliminate unnecessary words.
 
-### § 506. Inventory controls and systems
+### § 506. Inventory controls and systems
 
 **(a) Activities of the Administrator of General Services.—**
 
@@ -389,13 +389,13 @@ In subsection (a)(2), the words “holding such medical materials or supplies”
 
 **(c) Audit of Property Accounts.—** The Comptroller General shall audit all types of property accounts and transactions. Audits shall be conducted at the time and in the manner the Comptroller General decides and as far as practicable at the place where the property or records of the executive agencies are kept. Audits shall include an evaluation of the effectiveness of internal controls and audits, and a general audit of the discharge of accountability for Government-owned or controlled property, based on generally accepted principles of auditing.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1082; Pub. L. 111–350, § 5(*l*)(9), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–419, § 2(b), Jan. 3, 2019, 132 Stat. 5443.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1082; Pub. L. 111–350, § 5(*l*)(9), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–419, § 2(b), Jan. 3, 2019, 132 Stat. 5443.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 506 | 40:487. | June 30, 1949, ch. 288, title II, § 206, 63 Stat. 390; July 12, 1952, ch. 703, § 1(k), 66 Stat. 593; Pub. L. 93–400, § 15(3), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331. |
+| 506 | 40:487. | June 30, 1949, ch. 288, title II, § 206, 63 Stat. 390; July 12, 1952, ch. 703, § 1(k), 66 Stat. 593; Pub. L. 93–400, § 15(3), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 10(a), Oct. 10, 1979, 93 Stat. 652; Pub. L. 98–191, §§ 8(d)(1), 9(a)(2), Dec. 1, 1983, 97 Stat. 1331. |
 
 In subsection (a)(1)(B), the words “from time to time” are omitted as unnecessary. The words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 206(a)(2) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
 
@@ -415,7 +415,7 @@ In subsection (c), the words “Comptroller General” are substituted for “Ge
 
 ## SUBCHAPTER II—USE OF PROPERTY
 
-### § 521. Policies and methods
+### § 521. Policies and methods
 
 Subject to section 523 of this title, in order to minimize expenditures for property, the Administrator of General Services shall—
 
@@ -433,7 +433,7 @@ Subject to section 523 of this title, in order to minimize expenditures for prop
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 521 | 40:483(a)(1) (1st sentence). | June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; July 12, 1952, ch. 703, § 1(f), 66 Stat. 593; Pub. L. 93–599, (1), Jan. 2, 1975, 88 Stat. 1954. |
+| 521 | 40:483(a)(1) (1st sentence). | June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; July 12, 1952, ch. 703, § 1(f), 66 Stat. 593; Pub. L. 93–599, (1), Jan. 2, 1975, 88 Stat. 1954. |
 
 The words “the provisions of” are omitted as unnecessary.
 
@@ -441,7 +441,7 @@ The words “the provisions of” are omitted as unnecessary.
 
 **Public Inventory of Guam Land Parcels for Transfer to Government of Guam**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2847, Aug. 13, 2018, 132 Stat. 2277, provided that:
+Pub. L. 115–232, div. B, title XXVIII, § 2847, Aug. 13, 2018, 132 Stat. 2277, provided that:
 
 > **“(a) Net-Negative Inventory of Land Parcels.—**
 
@@ -523,7 +523,7 @@ Pub. L. 115–232, div. B, title XXVIII, § 2847, Aug. 13, 2018, 132 Stat. 227
 
 **Opportunity for the Government of Guam To Acquire Excess Real Property in Guam**
 
-Pub. L. 106–504, § 1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 109–163, div. A, title X, § 1056(a)(6), Jan. 6, 2006, 119 Stat. 3439, provided that:
+Pub. L. 106–504, § 1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 109–163, div. A, title X, § 1056(a)(6), Jan. 6, 2006, 119 Stat. 3439, provided that:
 
 > **“(a) Transfer of Excess Real Property.—**
 
@@ -581,7 +581,7 @@ Pub. L. 106–504, § 1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 
 
 > **“(f) Authority To Issue Regulations.—** The Administrator of General Services, after consultation with the Secretary of Defense and the Secretary of the Interior, may issue such regulations as he deems necessary to carry out this section.”
 
-### § 522. Reimbursement for transfer of excess property
+### § 522. Reimbursement for transfer of excess property
 
 **(a) In General.—** Subject to subsections (b) and (c), the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
 
@@ -597,13 +597,13 @@ Pub. L. 106–504, § 1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 
 
 **(c) Distribution Through General Services Administration Supply Centers.—** Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083; Pub. L. 109–284, § 6(1), (2), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083; Pub. L. 109–284, § 6(1), (2), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 522 | 40:483(a)(1) (last sentence). | June 30, 1949, ch. 288, title II, § 202(a)(1) (last sentence), 63 Stat. 384; July 12, 1952, ch. 703, § 1(f), 66 Stat. 593. |
+| 522 | 40:483(a)(1) (last sentence). | June 30, 1949, ch. 288, title II, § 202(a)(1) (last sentence), 63 Stat. 384; July 12, 1952, ch. 703, § 1(f), 66 Stat. 593. |
 
 In subsection (a), the words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
 
@@ -617,11 +617,11 @@ In subsection (c), the word “at” is substituted for “as” (in the phrase 
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–284, § 6(1), struck out “of this section” after “subsections (b) and (c)”.
+2006—Subsec. (a). Pub. L. 109–284, § 6(1), struck out “of this section” after “subsections (b) and (c)”.
 
-Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in heading.
+Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in heading.
 
-### § 523. Excess real property located on Indian reservations
+### § 523. Excess real property located on Indian reservations
 
 **(a) Procedures for Transfer.—** The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary of the Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
 
@@ -641,9 +641,9 @@ Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 523 | 40:483(a)(2). | June 30, 1949, ch. 288, title II, § 202(a)(2), as added Pub. L. 93–599, (2), Jan. 2, 1975, 88 Stat. 1954. |
+| 523 | 40:483(a)(2). | June 30, 1949, ch. 288, title II, § 202(a)(2), as added Pub. L. 93–599, (2), Jan. 2, 1975, 88 Stat. 1954. |
 
-### § 524. Duties of executive agencies
+### § 524. Duties of executive agencies
 
 **(a) Required.—** Each executive agency shall—
 
@@ -733,14 +733,14 @@ Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in 
 
 **(c) Definition of Executive Agency.—** For the purpose of paragraphs (6) through (12) of subsection (a), the term “executive agency” shall have the meaning given the term “Federal agency” in section 621.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084; Pub. L. 114–318, § 6, Dec. 16, 2016, 130 Stat. 1615; Pub. L. 115–419, § 2(a), Jan. 3, 2019, 132 Stat. 5442.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084; Pub. L. 114–318, § 6, Dec. 16, 2016, 130 Stat. 1615; Pub. L. 115–419, § 2(a), Jan. 3, 2019, 132 Stat. 5442.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 524(a) | 40:483(b). | June 30, 1949, ch. 288, title II, § 202(b), 63 Stat. 384. |
-| 524(b) | 40:483(c). | June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 703, § 1(g), 66 Stat. 593. |
+| 524(a) | 40:483(b). | June 30, 1949, ch. 288, title II, § 202(b), 63 Stat. 384. |
+| 524(b) | 40:483(c). | June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 703, § 1(g), 66 Stat. 593. |
 
 In clause (a)(2), the word “identify” is substituted for “determine which is” to eliminate unnecessary words.
 
@@ -758,17 +758,17 @@ Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in s
 
 2019—Subsec. (a)(13). Pub. L. 115–419 added par. (13).
 
-2016—Subsec. (a)(6) to (12). Pub. L. 114–318, § 6(a), added pars. (6) to (12).
+2016—Subsec. (a)(6) to (12). Pub. L. 114–318, § 6(a), added pars. (6) to (12).
 
-Subsec. (c). Pub. L. 114–318, § 6(b), added subsec. (c).
+Subsec. (c). Pub. L. 114–318, § 6(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **OMB Report**
 
-Pub. L. 109–396, title IV, § 408, Dec. 15, 2006, 120 Stat. 2720, provided that the Director of the Office of Management and Budget was to submit, not later than 6 months after Dec. 15, 2006, a report on surplus and excess government property to Congress and, by such date, to develop, implement, and report to Congress on procedures requiring Federal agencies to share data on surplus and excess Federal real property under the jurisdiction of each agency.
+Pub. L. 109–396, title IV, § 408, Dec. 15, 2006, 120 Stat. 2720, provided that the Director of the Office of Management and Budget was to submit, not later than 6 months after Dec. 15, 2006, a report on surplus and excess government property to Congress and, by such date, to develop, implement, and report to Congress on procedures requiring Federal agencies to share data on surplus and excess Federal real property under the jurisdiction of each agency.
 
-### § 525. Excess personal property for federal agency grantees
+### § 525. Excess personal property for federal agency grantees
 
 **(a) General Prohibition.—** A federal agency is prohibited from obtaining excess personal property for the purpose of furnishing the property to a grantee of the agency, except as provided in this section.
 
@@ -794,13 +794,13 @@ Pub. L. 109–396, title IV, § 408, Dec. 15, 2006, 120 Stat. 2720, provided t
 
 **(2) In general.—** Under regulations and restrictions the Administrator may prescribe, subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
 
-**(A)** a state 1
+**(A)** a state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 or county extension service engaged in cooperative agricultural extension work under the Smith-Lever Act (7 U.S.C. 341 et seq.);
 
-**(B)** a state <sup>1</sup> experiment station engaged in cooperative agricultural research work under the Hatch Act of 1887 (7 U.S.C. 361a et seq.); or
+**(B)** a state <sup>1</sup> experiment station engaged in cooperative agricultural research work under the Hatch Act of 1887 (7 U.S.C. 361a et seq.); or
 
 **(C)** an institution engaged in cooperative agricultural research or extension work under section 1433, 1434, 1444, or 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3195, 3196, 3221, or 3222), or the Act of October 10, 1962 (16 U.S.C. 582a et seq.), if the Federal Government retains title.
 
@@ -820,7 +820,7 @@ or county extension service engaged in cooperative agricultural extension work u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 525(a) | 40:483(d) (words before par. (1)). | June 30, 1949, ch. 288, title II, § 202(d), as added Pub. L. 94–519, § 3, Oct. 17, 1976, 90 Stat. 2454; Pub. L. 97–98, title XIV, § 1443, Dec. 22, 1981, 95 Stat. 1321. |
+| 525(a) | 40:483(d) (words before par. (1)). | June 30, 1949, ch. 288, title II, § 202(d), as added Pub. L. 94–519, § 3, Oct. 17, 1976, 90 Stat. 2454; Pub. L. 97–98, title XIV, § 1443, Dec. 22, 1981, 95 Stat. 1321. |
 | 525(b) | 40:483(d)(1). |  |
 | 525(c) | 40:483(d)(2)(E). |  |
 | 525(d) | 40:483(d)(2)(A)–(D). |  |
@@ -841,13 +841,13 @@ In subsection (d)(4), the words “Indian Financing Act of 1974” are substitut
 
 **References in Text**
 
-The Smith-Lever Act, referred to in subsec. (c)(2)(A), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
+The Smith-Lever Act, referred to in subsec. (c)(2)(A), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
 
 The Hatch Act of 1887, referred to in subsec. (c)(2)(B), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
-Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (c)(2)(C), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (c)(2)(C), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
-### § 526. Temporary assignment of excess real property
+### § 526. Temporary assignment of excess real property
 
 **(a) Assignment of Space.—** The Administrator of General Services may temporarily assign or reassign space in excess real property to a federal agency, for use as office or storage space or for a related purpose, if the Administrator determines that assignment or reassignment is more advantageous than permanent transfer. The Administrator shall determine the duration of the assignment or reassignment.
 
@@ -859,11 +859,11 @@ Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (c)(2)(
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 526 | 40:483(g). | June 30, 1949, ch. 288, title II, § 202(g), 63 Stat. 385. |
+| 526 | 40:483(g). | June 30, 1949, ch. 288, title II, § 202(g), 63 Stat. 385. |
 
 In subsection (a), the words “for use as office or storage space or for a related purpose” are substituted for “for office, storage, or related facilities” for clarity.
 
-### § 527. Abandonment, destruction, or donation of property
+### § 527. Abandonment, destruction, or donation of property
 
 The Administrator of General Services may authorize the abandonment or destruction of property, or the donation of property to a public body, if—
 
@@ -877,9 +877,9 @@ The Administrator of General Services may authorize the abandonment or destructi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 527 | 40:483(h). | June 30, 1949, ch. 288, title II, § 202(h), 63 Stat. 385. |
+| 527 | 40:483(h). | June 30, 1949, ch. 288, title II, § 202(h), 63 Stat. 385. |
 
-### § 528. Utilization of excess furniture
+### § 528. Utilization of excess furniture
 
 A department or agency of the Federal Government may not use amounts provided by law to purchase furniture if the Administrator of General Services determines that requirements can reasonably be met by transferring excess furniture, including rehabilitated furniture, from other departments or agencies pursuant to this subtitle.
 
@@ -889,11 +889,11 @@ A department or agency of the Federal Government may not use amounts provided by
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 528 | 40:483b. | Aug. 7, 1953, ch. 340, § 1316, 67 Stat. 439. |
+| 528 | 40:483b. | Aug. 7, 1953, ch. 340, § 1316, 67 Stat. 439. |
 
 The words “Notwithstanding the provisions of any other law” are omitted as unnecessary. The words “may not use funds provided by law to purchase furniture” are substituted for “no funds shall be available in this or any other Act for the purchase of furniture” for clarity and to eliminate unnecessary words.
 
-### § 529. Annual executive agency reports on excess personal property
+### § 529. Annual executive agency reports on excess personal property
 
 **(a) In General.—** During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on personal property—
 
@@ -913,9 +913,9 @@ The words “Notwithstanding the provisions of any other law” are omitted as u
 
 **(3)** other information the Administrator may require.
 
-**(c) Compilation of Data.—** Not later than 180 days following the close of a fiscal year, the Administrator shall compile the data in the reports submitted under subsection (a) and submit to the Committee on Homeland Security 1
+**(c) Compilation of Data.—** Not later than 180 days following the close of a fiscal year, the Administrator shall compile the data in the reports submitted under subsection (a) and submit to the Committee on Homeland Security 1
 
-<sup>1</sup>  So in original. The word “and” probably should appear.
+<sup>1</sup> So in original. The word “and” probably should appear.
 
 Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives and publish on a centralized online website a publicly available report, which shall include—
 
@@ -925,11 +925,11 @@ Governmental Affairs of the Senate and the Committee on Oversight and Accountabi
 
 **(3)** any other recommendations from the Administrator.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1086; Pub. L. 118–99, § 2(a)(1), (e)(1), Oct. 1, 2024, 138 Stat. 1578, 1579.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1086; Pub. L. 118–99, § 2(a)(1), (e)(1), Oct. 1, 2024, 138 Stat. 1578, 1579.)
 
 **Amendment of Section**
 
-Pub. L. 118–99, § 2(e)(1), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is amended:
+Pub. L. 118–99, § 2(e)(1), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is amended:
 
 (1) in subsection (a), in the matter preceding paragraph (1), by striking “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives”; and
 
@@ -941,31 +941,31 @@ See 2024 Amendment notes below.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 529 | 40:483(e). | June 30, 1949, ch. 288, title II, § 202(e), as added Pub. L. 94–519, § 3, Oct. 17, 1976, 90 Stat. 2454. |
+| 529 | 40:483(e). | June 30, 1949, ch. 288, title II, § 202(e), as added Pub. L. 94–519, § 3, Oct. 17, 1976, 90 Stat. 2454. |
 
 In subsection (a)(2), the words “in any manner whatsoever” are omitted as unnecessary.
 
-In subsection (b), the words “set out the categories of equipment” are substituted for “showing . . . categories of equipment” to clarify the required form and content of the report. The words “The Administrator shall submit a report to the Senate (or to the Secretary of the Senate if the Senate is not in session) and to the House of Representatives (or to the Clerk of the House if the House is not in session) summarizing and analyzing the reports of the executive agencies” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 173 of House Document No. 103–7.
+In subsection (b), the words “set out the categories of equipment” are substituted for “showing . . . categories of equipment” to clarify the required form and content of the report. The words “The Administrator shall submit a report to the Senate (or to the Secretary of the Senate if the Senate is not in session) and to the House of Representatives (or to the Clerk of the House if the House is not in session) summarizing and analyzing the reports of the executive agencies” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 173 of House Document No. 103–7.
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–99, § 2(e)(1)(A), struck out “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
+2024—Subsec. (a). Pub. L. 118–99, § 2(e)(1)(A), struck out “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
 
-Pub. L. 118–99, § 2(a)(1)(A), inserted “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
+Pub. L. 118–99, § 2(a)(1)(A), inserted “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
 
-Subsec. (c). Pub. L. 118–99, § 2(e)(1)(B), struck out subsec. (c) which related to compilation of data in the reports submitted under subsection (a).
+Subsec. (c). Pub. L. 118–99, § 2(e)(1)(B), struck out subsec. (c) which related to compilation of data in the reports submitted under subsection (a).
 
-Pub. L. 118–99, § 2(a)(1)(B), added subsec. (c).
+Pub. L. 118–99, § 2(a)(1)(B), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(1) is effective on the date that is 5 years after Oct. 1, 2024.
+Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(1) is effective on the date that is 5 years after Oct. 1, 2024.
 
-### § 530. Internal guidance on excess personal property
+### § 530. Internal guidance on excess personal property
 
 **(a) Initial Report.—** Not later than 180 days after the date of enactment of this section, each executive agency shall submit to the Administrator of General Services and make publicly available on the website of the executive agency the internal guidance of the executive agency on considering using excess personal property to meet the needs of the executive agency, which shall include—
 
@@ -979,11 +979,11 @@ Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the ame
 
 **(b) Updates.—** Each executive agency shall submit to the Administrator of General Services and update on the website of the executive agency any changes to the internal guidance submitted and made available under subsection (a).
 
-(Added and amended Pub. L. 118–99, § 2(a)(2), (e)(2), Oct. 1, 2024, 138 Stat. 1578, 1579.)
+(Added and amended Pub. L. 118–99, § 2(a)(2), (e)(2), Oct. 1, 2024, 138 Stat. 1578, 1579.)
 
 **Repeal of Section**
 
-Pub. L. 118–99, § 2(e)(2), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is repealed.
+Pub. L. 118–99, § 2(e)(2), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is repealed.
 
 **Editorial Notes**
 
@@ -995,11 +995,11 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 **Effective Date of Repeal**
 
-Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the repeal of this section by section 2(e)(2) is effective on the date that is 5 years after Oct. 1, 2024.
+Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the repeal of this section by section 2(e)(2) is effective on the date that is 5 years after Oct. 1, 2024.
 
 ## SUBCHAPTER III—DISPOSING OF PROPERTY
 
-### § 541. Supervision and direction
+### § 541. Supervision and direction
 
 Except as otherwise provided in this subchapter, the Administrator of General Services shall supervise and direct the disposition of surplus property in accordance with this subtitle.
 
@@ -1009,7 +1009,7 @@ Except as otherwise provided in this subchapter, the Administrator of General Se
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 541 | 40:484(a). | June 30, 1949, ch. 288, title II, § 203(a), 63 Stat. 385. |
+| 541 | 40:484(a). | June 30, 1949, ch. 288, title II, § 203(a), 63 Stat. 385. |
 
 The words “shall supervise and direct the disposition of surplus property in accordance with this subtitle” are substituted for “shall have supervision and direction over the disposition of surplus property. Such property shall be disposed of to such extent, at such time, in such areas, by such agencies, at such terms and conditions, and in such manner, as may be prescribed in or pursuant to this Act” for clarity and to eliminate unnecessary words.
 
@@ -1017,13 +1017,13 @@ The words “shall supervise and direct the disposition of surplus property in a
 
 **Transferred Properties; Requests Prior to November 30, 1983**
 
-Pub. L. 98–181, title I [title I, § 126(a)(2), (3)], Nov. 30, 1983, 97 Stat. 1175, provided that:
+Pub. L. 98–181, title I [title I, § 126(a)(2), (3)], Nov. 30, 1983, 97 Stat. 1175, provided that:
 
 > **“(2)** Notwithstanding paragraph (1) [repealing former 40 U.S.C. 484b], the Secretary of Housing and Urban Development and the Secretary of Agriculture may dispose of Federal surplus real property pursuant to the terms of section 414 of such Act [former 40 U.S.C. 484b] if, prior to the date of the enactment of this Act [Nov. 30, 1983], either Secretary had requested the Administrator of General Services to transfer such property for such disposition.
 
 > **“(3)** Notwithstanding paragraph (1), section 414(b) [former 40 U.S.C. 484b(b)] of such Act shall continue to apply, where applicable, to all property transferred by either Secretary pursuant to section 414 of such Act, including properties transferred pursuant to paragraph (2).”
 
-### § 542. Care and handling
+### § 542. Care and handling
 
 The disposal of surplus property, and the care and handling of the property pending disposition, may be performed by the General Services Administration or, when the Administrator of General Services decides, by the executive agency in possession of the property or by any other executive agency that agrees.
 
@@ -1033,9 +1033,9 @@ The disposal of surplus property, and the care and handling of the property pend
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 542 | 40:484(b). | June 30, 1949, ch. 288, title II, § 203(b), 63 Stat. 385. |
+| 542 | 40:484(b). | June 30, 1949, ch. 288, title II, § 203(b), 63 Stat. 385. |
 
-### § 543. Method of disposition
+### § 543. Method of disposition
 
 An executive agency designated or authorized by the Administrator of General Services to dispose of surplus property may do so by sale, exchange, lease, permit, or transfer, for cash, credit, or other property, with or without warranty, on terms and conditions that the Administrator considers proper. The agency may execute documents to transfer title or other interest in the property and may take other action it considers necessary or proper to dispose of the property under this chapter.
 
@@ -1045,9 +1045,9 @@ An executive agency designated or authorized by the Administrator of General Ser
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 543 | 40:484(c). | June 30, 1949, ch. 288, title II, § 203(c), 63 Stat. 385. |
+| 543 | 40:484(c). | June 30, 1949, ch. 288, title II, § 203(c), 63 Stat. 385. |
 
-### § 544. Validity of transfer instruments
+### § 544. Validity of transfer instruments
 
 A deed, bill of sale, lease, or other instrument executed by or on behalf of an executive agency purporting to transfer title or other interest in surplus property under this chapter is conclusive evidence of compliance with the provisions of this chapter concerning title or other interest of a bona fide grantee or transferee for value and without notice of lack of compliance.
 
@@ -1057,9 +1057,9 @@ A deed, bill of sale, lease, or other instrument executed by or on behalf of an 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 544 | 40:484(d). | June 30, 1949, ch. 288, title II, § 203(d), 63 Stat. 385. |
+| 544 | 40:484(d). | June 30, 1949, ch. 288, title II, § 203(d), 63 Stat. 385. |
 
-### § 545. Procedure for disposal
+### § 545. Procedure for disposal
 
 **(a) Public Advertising for Bids.—**
 
@@ -1135,13 +1135,13 @@ A deed, bill of sale, lease, or other instrument executed by or on behalf of an 
 
 **(f) Applicability of Other Law.—** Section 6101(b)–(d) of title 41 does not apply to a disposal or contract for disposal made under this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087; Pub. L. 111–350, § 5(*l*)(10), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087; Pub. L. 111–350, § 5(*l*)(10), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 545 | 40:484(e). | June 30, 1949, ch. 288, title II, § 203(e), 63 Stat. 386; July 12, 1952, ch. 703, § 1(i), 66 Stat. 593; Aug. 8, 1953, ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; Aug. 3, 1956, ch. 942, 70 Stat. 1020; Pub. L. 85–486, July 2, 1958, 72 Stat. 288; Pub. L. 100–612, §§ 3, 4, Nov. 5, 1988, 102 Stat. 3180. |
+| 545 | 40:484(e). | June 30, 1949, ch. 288, title II, § 203(e), 63 Stat. 386; July 12, 1952, ch. 703, § 1(i), 66 Stat. 593; Aug. 8, 1953, ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; Aug. 3, 1956, ch. 942, 70 Stat. 1020; Pub. L. 85–486, July 2, 1958, 72 Stat. 288; Pub. L. 100–612, §§ 3, 4, Nov. 5, 1988, 102 Stat. 3180. |
 
 In subsection (e)(3), the words “A report” are substituted for “the annual report” for consistency in the revised title. See the revision note under section 126 of this title.
 
@@ -1155,17 +1155,17 @@ In subsection (e)(3), the words “A report” are substituted for “the annual
 
 **Disposal of Surplus Property to Local Governments and Nonprofit Institutions**
 
-Act Oct. 3, 1944, ch. 479, § 13, 58 Stat. 770; Sept. 18, 1945, ch. 368, § 2, 59 Stat. 533; May 3, 1946, ch. 248, § 5, 60 Stat. 169; 1947 Reorg. Plan No. 1, § 501, eff. July 1, 1947, 12 F.R. 4535, 61 Stat. 952; July 30, 1947, ch. 404, 61 Stat. 678; June 10, 1948, ch. 433, §§ 1, 2, 62 Stat. 350; June 29, 1948, ch. 727, 62 Stat. 1103; June 30, 1949, ch. 288, title I, § 105, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 381, 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; amended Oct. 1, 1949, ch. 589, §§ 1, 5, 63 Stat. 701; Pub. L. 85–726, title XIV, § 1402(c), Aug. 23, 1958, 72 Stat. 807; Pub. L. 87–90, July 20, 1961, 75 Stat. 211; Pub. L. 91–258, title I, § 52(b)(6), May 21, 1970, 84 Stat. 235; Pub. L. 91–485, § 5, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 92–362, § 2, Aug. 4, 1972, 86 Stat. 504; Pub. L. 97–248, title V, § 524(c), Sept. 3, 1982, 96 Stat. 696; Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, provided that:
+Act Oct. 3, 1944, ch. 479, § 13, 58 Stat. 770; Sept. 18, 1945, ch. 368, § 2, 59 Stat. 533; May 3, 1946, ch. 248, § 5, 60 Stat. 169; 1947 Reorg. Plan No. 1, § 501, eff. July 1, 1947, 12 F.R. 4535, 61 Stat. 952; July 30, 1947, ch. 404, 61 Stat. 678; June 10, 1948, ch. 433, §§ 1, 2, 62 Stat. 350; June 29, 1948, ch. 727, 62 Stat. 1103; June 30, 1949, ch. 288, title I, § 105, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 381, 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; amended Oct. 1, 1949, ch. 589, §§ 1, 5, 63 Stat. 701; Pub. L. 85–726, title XIV, § 1402(c), Aug. 23, 1958, 72 Stat. 807; Pub. L. 87–90, July 20, 1961, 75 Stat. 211; Pub. L. 91–258, title I, § 52(b)(6), May 21, 1970, 84 Stat. 235; Pub. L. 91–485, § 5, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 92–362, § 2, Aug. 4, 1972, 86 Stat. 504; Pub. L. 97–248, title V, § 524(c), Sept. 3, 1982, 96 Stat. 696; Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, provided that:
 
-> **“(a)** to (c) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.]
+> **“(a)** to (c) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.]
 
 > **“(d)** Whenever any State or political subdivision thereof, or any State or Government agency or instrumentality certifies to the Administrator of General Services that any power transmission line determined to be surplus property under the provisions of this Act [former 50 U.S.C. App. 1611 et seq.] is needful for or adaptable to the requirements of any public or cooperative power project, such line and the right-of-way acquired for its construction shall not be sold, leased for more than one year, or otherwise disposed of, except as provided in section 12 [former 50 U.S.C. App. 1621] or this section, unless specifically authorized by Act of Congress.
 
-> **“(e)** , (f) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.]
+> **“(e)** , (f) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.]
 
-> **“(g) [Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.]** ”
+> **“(g) [Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.]** ”
 
-### § 546. Contractor inventories
+### § 546. Contractor inventories
 
 Subject to regulations of the Administrator of General Services, an executive agency may authorize a contractor or subcontractor with the agency to retain or dispose of contractor inventory.
 
@@ -1175,9 +1175,9 @@ Subject to regulations of the Administrator of General Services, an executive ag
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 546 | 40:484(f). | June 30, 1949, ch. 288, title II, § 203(f), 63 Stat. 386. |
+| 546 | 40:484(f). | June 30, 1949, ch. 288, title II, § 203(f), 63 Stat. 386. |
 
-### § 547. Agricultural commodities, foods, and cotton or woolen goods
+### § 547. Agricultural commodities, foods, and cotton or woolen goods
 
 **(a) Policies.—** The Administrator of General Services shall consult with the Secretary of Agriculture to formulate policies for the disposal of surplus agricultural commodities, surplus foods processed from agricultural commodities, and surplus cotton or woolen goods. The policies shall be formulated to prevent surplus agricultural commodities, or surplus foods processed from agricultural commodities, from being dumped on the market in a disorderly manner and disrupting the market prices for agricultural commodities.
 
@@ -1195,10 +1195,10 @@ Subject to regulations of the Administrator of General Services, an executive ag
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 547(a) | 40:484(g). | June 30, 1949, ch. 288, title II, § 203(g), (h), 63 Stat. 386. |
+| 547(a) | 40:484(g). | June 30, 1949, ch. 288, title II, § 203(g), (h), 63 Stat. 386. |
 | 547(b) | 40:484(h). |  |
 
-### § 548. Surplus vessels
+### § 548. Surplus vessels
 
 **(a) In General.—** Except as provided in subsection (b), the Maritime Administration shall dispose of surplus vessels of 1,500 gross tons or more which the Administration determines to be merchant vessels or capable of conversion to merchant use. The vessels shall be disposed of in accordance with part F of subtitle V of title 46 and other laws authorizing the sale of such vessels.
 
@@ -1214,13 +1214,13 @@ Subject to regulations of the Administrator of General Services, an executive ag
 
 **(3) Covered vessels and equipment defined.—** In this subsection, the term “covered vessels and equipment” means survey and research vessels and related equipment owned by the Federal Government and under the control of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–304, § 17(g)(1), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 119–60, div. H, title LXXXIV, § 8409, Dec. 18, 2025, 139 Stat. 1913.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–304, § 17(g)(1), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 119–60, div. H, title LXXXIV, § 8409, Dec. 18, 2025, 139 Stat. 1913.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 548 | 40:484(i). | June 30, 1949, ch. 288, title II, § 203(i), 63 Stat. 386; Pub. L. 97–31, § 12(15), Aug. 6, 1981, 95 Stat. 154. |
+| 548 | 40:484(i). | June 30, 1949, ch. 288, title II, § 203(i), 63 Stat. 386; Pub. L. 97–31, § 12(15), Aug. 6, 1981, 95 Stat. 154. |
 
 **Editorial Notes**
 
@@ -1234,7 +1234,7 @@ The date of enactment of the National Defense Authorization Act for Fiscal Year 
 
 2006—Pub. L. 109–304 substituted “part F of subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.),”.
 
-### § 549. Donation of personal property through state agencies
+### § 549. Donation of personal property through state agencies
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -1396,18 +1396,18 @@ The date of enactment of the National Defense Authorization Act for Fiscal Year 
 
 **(iii)** the Secretary of Health and Human Services, for property transferred under section 550(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, § 5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, § 2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, § 2, Aug. 9, 2013, 127 Stat. 502; Pub. L. 113–287, § 5(j)(1), Dec. 19, 2014, 128 Stat. 3269; Pub. L. 114–287, § 23, Dec. 16, 2016, 130 Stat. 1479.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1090; Pub. L. 109–313, § 5, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 111–338, § 2, Dec. 22, 2010, 124 Stat. 3590; Pub. L. 113–26, § 2, Aug. 9, 2013, 127 Stat. 502; Pub. L. 113–287, § 5(j)(1), Dec. 19, 2014, 128 Stat. 3269; Pub. L. 114–287, § 23, Dec. 16, 2016, 130 Stat. 1479.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 549(a)(1), (2) | 40:484(j)(5). | June 30, 1949, ch. 288, title II, § 203(j), 63 Stat. 386; Sept. 5, 1950, ch. 849, § 4, 64 Stat. 579; June 3, 1955, ch. 130, §§ 1, 2(a), 6(a), (b), 69 Stat. 83, 84; July 3, 1956, ch. 513, § 1, 70 Stat. 493; Pub. L. 87–786, Oct. 10, 1962, 76 Stat. 805; Pub. L. 94–519, § 1(1), Oct. 17, 1976, 90 Stat. 2451; Pub. L. 99–386, title II, § 207, Aug. 22, 1986, 100 Stat. 823; Pub. L. 100–77, title V, § 502(a), July 22, 1987, 101 Stat. 510; Pub. L. 100–690, title II, § 2081(b), Nov. 18, 1988, 102 Stat. 4216; Pub. L. 105–50, § 1, Oct. 6, 1997, 111 Stat. 1167. |
+| 549(a)(1), (2) | 40:484(j)(5). | June 30, 1949, ch. 288, title II, § 203(j), 63 Stat. 386; Sept. 5, 1950, ch. 849, § 4, 64 Stat. 579; June 3, 1955, ch. 130, §§ 1, 2(a), 6(a), (b), 69 Stat. 83, 84; July 3, 1956, ch. 513, § 1, 70 Stat. 493; Pub. L. 87–786, Oct. 10, 1962, 76 Stat. 805; Pub. L. 94–519, § 1(1), Oct. 17, 1976, 90 Stat. 2451; Pub. L. 99–386, title II, § 207, Aug. 22, 1986, 100 Stat. 823; Pub. L. 100–77, title V, § 502(a), July 22, 1987, 101 Stat. 510; Pub. L. 100–690, title II, § 2081(b), Nov. 18, 1988, 102 Stat. 4216; Pub. L. 105–50, § 1, Oct. 6, 1997, 111 Stat. 1167. |
 | 549(a)(3), (b) | 40:484(j)(1). |  |
 | 549(c) | 40:484(j)(3). |  |
 | 549(d) | 40:484(j)(2). |  |
 | 549(e) | 40:484(j)(4). |  |
-| 549(f) | 40:484(n). | June 30, 1949, ch. 288, title II, § 203(n), formerly (m), as added June 3, 1955, ch. 130, § 3, 69 Stat. 84; redesignated (n), Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, § 3, 70 Stat. 494; Pub. L. 87–94, July 20, 1961, 75 Stat. 213; Pub. L. 90–351, title I, § 525, as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 216; Pub. L. 91–485, § 3, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 94–519, § 1(3), Oct. 17, 1976, 90 Stat. 2453. |
+| 549(f) | 40:484(n). | June 30, 1949, ch. 288, title II, § 203(n), formerly (m), as added June 3, 1955, ch. 130, § 3, 69 Stat. 84; redesignated (n), Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, § 3, 70 Stat. 494; Pub. L. 87–94, July 20, 1961, 75 Stat. 213; Pub. L. 90–351, title I, § 525, as added Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 216; Pub. L. 91–485, § 3, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 94–519, § 1(3), Oct. 17, 1976, 90 Stat. 2453. |
 
 In subsection (a)(2), the words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48:1801 note).
 
@@ -1425,13 +1425,13 @@ In subsection (f)(1)(B)–(D) and (4)(B), the words “Secretary of Education”
 
 2014—Subsec. (c)(3)(B)(ix). Pub. L. 113–287 substituted “section 305101(4) of title 54” for “section 308(e)(2) of the National Historic Preservation Act (16 U.S.C. 470w–7(e)(2))” and “section 305103 of title 54” for “subsection (b) of that section”.
 
-2013—Subsec. (c)(3)(B)(viii), (x). Pub. L. 113–26, § 2(2), inserted “or” at end of cl. (viii) and struck out cl. (x) which read as follows: “an organization whose—
+2013—Subsec. (c)(3)(B)(viii), (x). Pub. L. 113–26, § 2(2), inserted “or” at end of cl. (viii) and struck out cl. (x) which read as follows: “an organization whose—
 
 “(I) membership comprises substantially veterans (as defined under section 101 of title 38); and
 
 “(II) representatives are recognized by the Secretary of Veterans Affairs under section 5902 of title 38.”
 
-Subsec. (c)(3)(C). Pub. L. 113–26, § 2(1), (3), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 113–26, § 2(1), (3), added subpar. (C).
 
 2010—Subsec. (c)(3)(B)(x). Pub. L. 111–338 added cl. (x).
 
@@ -1505,7 +1505,7 @@ Sec. 6. *Judicial Review*. This order is not intended, and should not be constru
 
 William J. Clinton.
 
-### § 549a. Donation of personal property through nonprofit refurbishers
+### § 549a. Donation of personal property through nonprofit refurbishers
 
 **(a) Authorization.—** Not later than 30 days after the date on which the Administrator provides State agencies for surplus property an opportunity to review surplus computer or technology equipment under section 549, the Administrator shall, as appropriate, transfer full title to such surplus computer or technology equipment that is determined to be eligible under subsection (b)(1) to nonprofit computer refurbishers for repair, distribution, and subsequent transfer of full title of the equipment to eligible recipients under this section.
 
@@ -1635,7 +1635,7 @@ William J. Clinton.
 
 **(19) Veteran.—** The term “veteran” has the meaning given that term in section 101 of title 38.
 
-(Added Pub. L. 117–328, div. Z, § 103(a), Dec. 29, 2022, 136 Stat. 5524.)
+(Added Pub. L. 117–328, div. Z, § 103(a), Dec. 29, 2022, 136 Stat. 5524.)
 
 **Editorial Notes**
 
@@ -1643,7 +1643,7 @@ William J. Clinton.
 
 The date of enactment of this section, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (g)(10), is classified to section 501 of Title 26, Internal Revenue Code.
 
@@ -1651,7 +1651,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (g)(10)
 
 **Findings**
 
-Pub. L. 117–328, div. Z, § 102, Dec. 29, 2022, 136 Stat. 5523, provided that:
+Pub. L. 117–328, div. Z, § 102, Dec. 29, 2022, 136 Stat. 5523, provided that:
 
 > “Congress finds the following:
 
@@ -1661,7 +1661,7 @@ Pub. L. 117–328, div. Z, § 102, Dec. 29, 2022, 136 Stat. 5523, provided tha
 
 > **“(3)** Any Federal program that distributes surplus, repairable Federal computers or technology equipment would benefit from a partnership with a nonprofit organization whose mission is bridging the digital divide.”
 
-### § 550. Disposal of real property for certain purposes
+### § 550. Disposal of real property for certain purposes
 
 **(a) Definition.—** In this section, the term “State” includes the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
@@ -1771,13 +1771,13 @@ Pub. L. 117–328, div. Z, § 102, Dec. 29, 2022, 136 Stat. 5523, provided tha
 
 **(B)** may contain additional terms, reservations, restrictions, and conditions the Administrator determines are necessary to safeguard the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1094; Pub. L. 113–287, § 5(j)(2), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1094; Pub. L. 113–287, § 5(j)(2), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 550(a) | 40:484(k)(1)(D). | June 30, 1949, ch. 288, title II, § 203(k), 63 Stat. 387; July 12, 1952, ch. 703, § 1(j), 66 Stat. 593; June 3, 1955, ch. 130, § 6(a), (c), 69 Stat. 84, 85; July 3, 1956, ch. 513, § 2, 70 Stat. 494; Pub. L. 91–485, § 2, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 92–362, § 1, Aug. 4, 1972, 86 Stat. 503; Pub. L. 94–519, § 1(2), Oct. 17, 1976, 90 Stat. 2453; Pub. L. 103–82, title II, § 202(f), Sept. 21, 1993, 107 Stat. 888; Pub. L. 105–50, § 2, Oct. 6, 1997, 111 Stat. 1167. |
+| 550(a) | 40:484(k)(1)(D). | June 30, 1949, ch. 288, title II, § 203(k), 63 Stat. 387; July 12, 1952, ch. 703, § 1(j), 66 Stat. 593; June 3, 1955, ch. 130, § 6(a), (c), 69 Stat. 84, 85; July 3, 1956, ch. 513, § 2, 70 Stat. 494; Pub. L. 91–485, § 2, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 92–362, § 1, Aug. 4, 1972, 86 Stat. 503; Pub. L. 94–519, § 1(2), Oct. 17, 1976, 90 Stat. 2453; Pub. L. 103–82, title II, § 202(f), Sept. 21, 1993, 107 Stat. 888; Pub. L. 105–50, § 2, Oct. 6, 1997, 111 Stat. 1167. |
 | 550(b) | 40:484(k)(4). |  |
 | 550(c) | 40:484(k)(1) (matter before (A) related to education), (A), (C) (related to education). |  |
 | 550(d) | 40:484(k)(1) (matter before (A) related to public health), (B), (C) (related to public health). |  |
@@ -1806,13 +1806,13 @@ In subsection (h)(3), the words “this subsection” are used to reflect the pr
 
 **References in Text**
 
-The National and Community Service Act of 1990, referred to in subsec.(g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec.(g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 **Amendments**
 
-2014—Subsec. (h)(1)(B). Pub. L. 113–287, § 5(j)(2), substituted “section 102303 of title 54” for “section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act)”.
+2014—Subsec. (h)(1)(B). Pub. L. 113–287, § 5(j)(2), substituted “section 102303 of title 54” for “section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act)”.
 
-### § 551. Donations to American Red Cross
+### § 551. Donations to American Red Cross
 
 The Administrator of General Services, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may donate to the American National Red Cross for charitable purposes property that the American National Red Cross processed, produced, or donated and that has been determined to be surplus property.
 
@@ -1822,9 +1822,9 @@ The Administrator of General Services, in the Administrator’s discretion and u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 551 | 40:484(*l*). | June 30, 1949, ch. 288, title II, § 203(*l*), as added Aug. 1, 1955, ch. 442, 69 Stat. 430. |
+| 551 | 40:484(*l*). | June 30, 1949, ch. 288, title II, § 203(*l*), as added Aug. 1, 1955, ch. 442, 69 Stat. 430. |
 
-### § 552. Abandoned or unclaimed property on Government premises
+### § 552. Abandoned or unclaimed property on Government premises
 
 **(a) Authority To Take Property.—** The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.
 
@@ -1834,13 +1834,13 @@ The Administrator of General Services, in the Administrator’s discretion and u
 
 **(2)** if the property has been used or transferred, equal to the fair value of the property as of the time title vested in the Government less costs incident to care and handling as determined by the Administrator.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–284, § 6(3), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–284, § 6(3), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 552 | 40:484(m). | June 30, 1949, ch. 288, title II, § 203(m), formerly § 203(*l*), 63 Stat. 388; redesignated § 203(m), Aug. 1, 1955, ch. 442, 69 Stat. 430. |
+| 552 | 40:484(m). | June 30, 1949, ch. 288, title II, § 203(m), formerly § 203(*l*), 63 Stat. 388; redesignated § 203(m), Aug. 1, 1955, ch. 442, 69 Stat. 430. |
 
 **Editorial Notes**
 
@@ -1848,7 +1848,7 @@ The Administrator of General Services, in the Administrator’s discretion and u
 
 2006—Subsec. (a). Pub. L. 109–284 substituted “(a) Authority To Take Property.—The Administrator” for “(a) Authority To Take Property Administrator”.
 
-### § 553. Property for correctional facility, law enforcement, and emergency management response purposes
+### § 553. Property for correctional facility, law enforcement, and emergency management response purposes
 
 **(a) Definition.—** In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and, the Northern Mariana Islands.
 
@@ -1870,13 +1870,13 @@ The Administrator of General Services, in the Administrator’s discretion and u
 
 **(e) Enforcement and Revision of Instruments Transferring Property Under This Section.—** The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Administrator considers necessary to protect or advance the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 553 | 40:484(p). | June 30, 1949, ch. 288, title II, § 203(p), as added Pub. L. 98–473, title II, § 701, Oct. 12, 1984, 98 Stat. 2129; Pub. L. 105–119, title I, § 118, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 106–113, § 1000(a)(5) [§ 233(a)], Nov. 29, 1999, 113 Stat. 1501A–301; Pub. L. 106–168, title III, § 301, Dec. 12, 1999, 113 Stat. 1821; Pub. L. 106–398, § 1 [§ 2814], Oct. 30, 2000, 114 Stat. 1654A–419. |
+| 553 | 40:484(p). | June 30, 1949, ch. 288, title II, § 203(p), as added Pub. L. 98–473, title II, § 701, Oct. 12, 1984, 98 Stat. 2129; Pub. L. 105–119, title I, § 118, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 106–113, § 1000(a)(5) [§ 233(a)], Nov. 29, 1999, 113 Stat. 1501A–301; Pub. L. 106–168, title III, § 301, Dec. 12, 1999, 113 Stat. 1821; Pub. L. 106–398, § 1 [§ 2814], Oct. 30, 2000, 114 Stat. 1654A–419. |
 
 In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
@@ -1900,7 +1900,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 554. Property for development or operation of a port facility
+### § 554. Property for development or operation of a port facility
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -1932,13 +1932,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(f) Enforcement and Revision of Instruments Transferring Property Under This Section.—** The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100; Pub. L. 109–163, div. A, title X, § 1056(a)(5)(A), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–284, § 6(4), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100; Pub. L. 109–163, div. A, title X, § 1056(a)(5)(A), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–284, § 6(4), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 554 | 40:484(q). | June 30, 1949, ch. 288, title II, § 203(q), as added Pub. L. 103–160, div. B, title XXIX, § 2927(2), Nov. 30, 1993, 107 Stat. 1933. |
+| 554 | 40:484(q). | June 30, 1949, ch. 288, title II, § 203(q), as added Pub. L. 103–160, div. B, title XXIX, § 2927(2), Nov. 30, 1993, 107 Stat. 1933. |
 
 In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
@@ -1956,7 +1956,7 @@ In subsection (a), the words “Trust Territory of the Pacific Islands” are om
 
 Subsec. (c). Pub. L. 109–284 substituted “Transportation.—” for “Transportation.” in heading.
 
-### § 555. Donation of law enforcement canines to handlers
+### § 555. Donation of law enforcement canines to handlers
 
 The head of a federal agency having control of a canine that has been used by a federal agency in the performance of law enforcement duties and that has been determined by the agency to be no longer needed for official purposes may donate the canine to an individual who has experience handling canines in the performance of those duties.
 
@@ -1966,9 +1966,9 @@ The head of a federal agency having control of a canine that has been used by a 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 555 | 40:484(r). | June 30, 1949, ch. 288, title II, § 203(r), as added Pub. L. 105–27, § 1, July 18, 1997, 111 Stat. 244. |
+| 555 | 40:484(r). | June 30, 1949, ch. 288, title II, § 203(r), as added Pub. L. 105–27, § 1, July 18, 1997, 111 Stat. 244. |
 
-### § 556. Disposal of dredge vessels
+### § 556. Disposal of dredge vessels
 
 **(a) In General.—** The Administrator of General Services, pursuant to sections 521 through 527, 529, and 549 of this title, may dispose of a United States Army Corps of Engineers vessel used for dredging, together with related equipment owned by the Federal Government and under the control of the Chief of Engineers, if the Secretary of the Army declares the vessel to be in excess of federal needs.
 
@@ -1986,9 +1986,9 @@ The head of a federal agency having control of a canine that has been used by a 
 
 **(c) No Dredging Activities.—** A vessel described in subsection (a) shall not be disposed of under any law for the purpose of engaging in dredging activities within the United States.
 
-**(d) Deposit of Amounts Collected.—** Amounts collected from the sale or lease of a vessel or equipment under this section shall be deposited into the revolving fund authorized by section 101 (9th par.) of the Civil Functions Appropriation 1
+**(d) Deposit of Amounts Collected.—** Amounts collected from the sale or lease of a vessel or equipment under this section shall be deposited into the revolving fund authorized by section 101 (9th par.) of the Civil Functions Appropriation 1
 
-<sup>1</sup>  So in original. Probably should be “Appropriations”.
+<sup>1</sup> So in original. Probably should be “Appropriations”.
 
 Act, 1954 (33 U.S.C. 576), to be available, as provided in appropriation laws, for the operation and maintenance of vessels under the control of the Corps of Engineers.
 
@@ -1998,13 +1998,13 @@ Act, 1954 (33 U.S.C. 576), to be available, as provided in appropriation laws, f
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 556 | 40:483d. | Pub. L. 99–662, title IX, § 945, Nov. 17, 1986, 100 Stat. 4200. |
+| 556 | 40:483d. | Pub. L. 99–662, title IX, § 945, Nov. 17, 1986, 100 Stat. 4200. |
 
 In subsection (a), the words “U.S. Army Corps of Engineers” are substituted for “Corps of Engineers” for clarity. The words “Secretary of the Army” are substituted for “Secretary” because of section 2 of the Water Resources Development Act of 1986 (33:2201).
 
 In subsection (d), the words “U.S. Army Corps of Engineers” are substituted for “Corps of Engineers” for clarity.
 
-### § 557. Donation of books to Free Public Library
+### § 557. Donation of books to Free Public Library
 
 Subject to regulations under this subtitle, a book that is no longer needed by an executive department, bureau, or commission of the Federal Government, and that is not an advisable addition to the Library of Congress, shall be turned over to the Free Public Library of the District of Columbia for general use if the book is appropriate for the Free Public Library.
 
@@ -2014,9 +2014,9 @@ Subject to regulations under this subtitle, a book that is no longer needed by a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 557 | 40:484–1. | Feb. 25, 1903, ch. 755, § 1 (7th par. on p. 865), 32 Stat. 865; Oct. 31, 1951, ch. 654, § 2(1), 65 Stat. 706. |
+| 557 | 40:484–1. | Feb. 25, 1903, ch. 755, § 1 (7th par. on p. 865), 32 Stat. 865; Oct. 31, 1951, ch. 654, § 2(1), 65 Stat. 706. |
 
-### § 558. Donation of forfeited vessels
+### § 558. Donation of forfeited vessels
 
 **(a) In General.—** A vessel that is forfeited to the Federal Government may be donated, in accordance with procedures under this subtitle, to an eligible institution described in subsection (b).
 
@@ -2054,11 +2054,11 @@ Subject to regulations under this subtitle, a book that is no longer needed by a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 558 | 40:484d. | Pub. L. 99–640, § 13(a)–(c), Nov. 10, 1986, 100 Stat. 3551. |
+| 558 | 40:484d. | Pub. L. 99–640, § 13(a)–(c), Nov. 10, 1986, 100 Stat. 3551. |
 
 In subsection (b), the words “all of” are inserted for clarity.
 
-### § 559. Advice of Attorney General with respect to antitrust law
+### § 559. Advice of Attorney General with respect to antitrust law
 
 **(a) Definition.—** In this section, the term “antitrust law” includes—
 
@@ -2102,7 +2102,7 @@ In subsection (b), the words “all of” are inserted for clarity.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 559 | 40:488. | June 30, 1949, ch. 288, title II, § 207, 63 Stat. 391; Pub. L. 85–680, Aug. 19, 1958, 72 Stat. 631; Pub. L. 100–612, § 7, Nov. 5, 1988, 102 Stat. 3182. |
+| 559 | 40:488. | June 30, 1949, ch. 288, title II, § 207, 63 Stat. 391; Pub. L. 85–680, Aug. 19, 1958, 72 Stat. 631; Pub. L. 100–612, § 7, Nov. 5, 1988, 102 Stat. 3182. |
 
 In subsection (e), the words “the head of an executive agency” are substituted for “the Administrator or any other executive agency”, the words “or cause to be furnished” are omitted, and the words “information the agency possesses” are substituted for “such information as the Administrator or such other executive agency may possess”, to eliminate unnecessary words.
 
@@ -2114,11 +2114,11 @@ The Sherman Act, referred to in subsec. (a)(1), is act July 2, 1890, ch. 647, 26
 
 The Clayton Act, referred to in subsec. (a)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 ## SUBCHAPTER IV—PROCEEDS FROM SALE OR TRANSFER
 
-### § 571. General rules for deposit and use of proceeds
+### § 571. General rules for deposit and use of proceeds
 
 **(a) Deposit in Treasury as Miscellaneous Receipts.—**
 
@@ -2132,11 +2132,11 @@ The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26
 
 **(b) Payment of Expenses of Sale Before Deposit.—** Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, § 20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, § 7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, § 20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, § 7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
 
 **Amendment of Section**
 
-Pub. L. 114–287, § 20, Dec. 16, 2016, 130 Stat. 1477, as amended by Pub. L. 118–272, div. B, title III, § 2301(k), Jan. 4, 2025, 138 Stat. 3217, which Act is set out as a note under section 1303 of this title, provided that, effective on the date on which the Public Buildings Reform Board transmits the second report under section 12(h)(2)(B) of Pub. L. 114–287 and applicable to proceeds from transactions contained in that report and conducted after the date on which the Board terminates under section 10 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:
+Pub. L. 114–287, § 20, Dec. 16, 2016, 130 Stat. 1477, as amended by Pub. L. 118–272, div. B, title III, § 2301(k), Jan. 4, 2025, 138 Stat. 3217, which Act is set out as a note under section 1303 of this title, provided that, effective on the date on which the Public Buildings Reform Board transmits the second report under section 12(h)(2)(B) of Pub. L. 114–287 and applicable to proceeds from transactions contained in that report and conducted after the date on which the Board terminates under section 10 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:
 
 *(a)* *Proceeds From Transfer or Sale of Real Property.—*
 
@@ -2154,7 +2154,7 @@ Pub. L. 114–287, § 20, Dec. 16, 2016, 130 Stat. 1477, as amended by Pub. L.
 
 *(2) sale, lease, or other disposition of surplus real property.*
 
-Pub. L. 114–318, § 7(c), Dec. 16, 2016, 130 Stat. 1616, provided that, effective as if enacted as part of Pub. L. 114–287, this section is amended by adding at the end the following:
+Pub. L. 114–318, § 7(c), Dec. 16, 2016, 130 Stat. 1616, provided that, effective as if enacted as part of Pub. L. 114–287, this section is amended by adding at the end the following:
 
 *(d)* *Savings Provision**.—Nothing in this section modifies, alters, or repeals any other provision of Federal law directing the use of retained proceeds relating to the sale of property of an agency.*
 
@@ -2164,10 +2164,10 @@ See 2016 Amendment notes below.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 571(a) | 40:485(a). | June 30, 1949, ch. 288, title II, § 204(a), 63 Stat. 388; Pub. L. 101–510, div. B, title XXVIII, § 2805(1), Nov. 5, 1990, 104 Stat. 1786. |
-| 571(b) | 40:485a. | June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, § 2(20), 65 Stat. 707; Pub. L. 104–316, title I, § 120(a), Oct. 19, 1996, 110 Stat. 3836. |
+| 571(a) | 40:485(a). | June 30, 1949, ch. 288, title II, § 204(a), 63 Stat. 388; Pub. L. 101–510, div. B, title XXVIII, § 2805(1), Nov. 5, 1990, 104 Stat. 1786. |
+| 571(b) | 40:485a. | June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, § 2(20), 65 Stat. 707; Pub. L. 104–316, title I, § 120(a), Oct. 19, 1996, 110 Stat. 3836. |
 
-In subsection (b), the words “whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law” are substituted for “either as miscellaneous receipts on account of ‘proceeds of Government property’ or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be” to eliminate unnecessary words.
+In subsection (b), the words “whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law” are substituted for “either as miscellaneous receipts on account of ‘proceeds of Government property’ or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be” to eliminate unnecessary words.
 
 **Editorial Notes**
 
@@ -2181,13 +2181,13 @@ Subsec. (d). Pub. L. 114–318 added subsec. (d).
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–318, § 7(c)(2), Dec. 16, 2016, 130 Stat. 1617, provided that: “The amendments made by this subsection [amending this section] shall take effect as if enacted as part of the applicable Act [Pub. L. 114–287].”
+Pub. L. 114–318, § 7(c)(2), Dec. 16, 2016, 130 Stat. 1617, provided that: “The amendments made by this subsection [amending this section] shall take effect as if enacted as part of the applicable Act [Pub. L. 114–287].”
 
-Pub. L. 114–318, § 7(e), Dec. 16, 2016, 130 Stat. 1617, provided that: “Except as provided in subsection (c)(2) [set out above], this section [amending this section and provisions set out as a note under section 1303 of this title] and the amendments made by this section shall take effect immediately after the enactment of the applicable Act [Pub. L. 114–287].”
+Pub. L. 114–318, § 7(e), Dec. 16, 2016, 130 Stat. 1617, provided that: “Except as provided in subsection (c)(2) [set out above], this section [amending this section and provisions set out as a note under section 1303 of this title] and the amendments made by this section shall take effect immediately after the enactment of the applicable Act [Pub. L. 114–287].”
 
 Amendment by Pub. L. 114–287 effective on the date on which the Public Buildings Reform Board transmits the second report under section 12(h)(2)(B) of Pub. L. 114–287 and applicable to proceeds from transactions contained in that report and conducted after the date on which the Board terminates under section 10 of Pub. L. 114–287, see section 20(b) of Pub. L. 114–287, set out in a note under section 1303 of this title.
 
-### § 572. Real property
+### § 572. Real property
 
 **(a) In General.—**
 
@@ -2219,9 +2219,9 @@ Amendment by Pub. L. 114–287 effective on the date on which the Public Buildin
 
 **(1) Definitions.—** In this subsection, the following definitions apply:
 
-**(A) Military installation.—** The term “military installation” has the meaning given that term in section 2687(e)(1) 1
+**(A) Military installation.—** The term “military installation” has the meaning given that term in section 2687(e)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10.
 
@@ -2257,14 +2257,14 @@ of title 10.
 
 **(6) Report.—** As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, § 408, Dec. 8, 2004, 118 Stat. 3258; Pub. L. 109–13, div. A, title VI, § 6068, May 11, 2005, 119 Stat. 299; Pub. L. 109–163, div. A, title X, § 1056(a)(5)(B), Jan. 6, 2006, 119 Stat. 3439.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, § 408, Dec. 8, 2004, 118 Stat. 3258; Pub. L. 109–13, div. A, title VI, § 6068, May 11, 2005, 119 Stat. 299; Pub. L. 109–163, div. A, title X, § 1056(a)(5)(B), Jan. 6, 2006, 119 Stat. 3439.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 572(a) | 40:485(b). | June 30, 1949, ch. 288, title II, § 204(b), as added Aug. 31, 1954, ch. 1178, § 1(b), 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 100–612, § 6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, § 2805(2), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 107–107, § 2812, Dec. 28, 2001, 115 Stat. 1307. |
-| 572(b) | 40:485(h). | June 30, 1949, ch. 288, title II, § 204(h), as added Pub. L. 101–510, div. B, title XXVIII, § 2805(3), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 104–106, div. A, title XV, § 1502(f)(7), div. B, title XXVIII, § 2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, title X, § 1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, § 2812, Dec. 28, 2001, 115 Stat. 1307. |
+| 572(a) | 40:485(b). | June 30, 1949, ch. 288, title II, § 204(b), as added Aug. 31, 1954, ch. 1178, § 1(b), 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 100–612, § 6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, § 2805(2), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 107–107, § 2812, Dec. 28, 2001, 115 Stat. 1307. |
+| 572(b) | 40:485(h). | June 30, 1949, ch. 288, title II, § 204(h), as added Pub. L. 101–510, div. B, title XXVIII, § 2805(3), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 104–106, div. A, title XV, § 1502(f)(7), div. B, title XXVIII, § 2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, title X, § 1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, § 2812, Dec. 28, 2001, 115 Stat. 1307. |
 
 In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))” are omitted because 50 App.:1622(g) has been repealed.
 
@@ -2272,27 +2272,27 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 
 **References in Text**
 
-Section 2687(e)(1) of title 10, referred to in subsec. (b)(1)(A), was redesignated as section 2687(g)(1) by Pub. L. 112–239, div. B, title XXVII, § 2712(a)(1), Jan. 2, 2013, 126 Stat. 2144.
+Section 2687(e)(1) of title 10, referred to in subsec. (b)(1)(A), was redesignated as section 2687(g)(1) by Pub. L. 112–239, div. B, title XXVII, § 2712(a)(1), Jan. 2, 2013, 126 Stat. 2144.
 
 **Amendments**
 
 2006—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
 
-2005—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, § 408. See 2004 Amendment note below.
+2005—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, § 408. See 2004 Amendment note below.
 
-2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, § 408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
+2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, § 408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
 
-### § 573. Personal property
+### § 573. Personal property
 
 The Administrator of General Services may retain from the proceeds of sales of personal property the Administrator conducts amounts necessary to recover, to the extent practicable, costs the Administrator (or the Administrator’s agent) incurs in conducting the sales. The Administrator shall deposit amounts retained into the Acquisition Services Fund established under section 321(a) of this title. From the amounts deposited, the Administrator may pay direct costs and reasonably related indirect costs incurred in conducting sales of personal property. At least once each year, amounts retained that are not needed to pay the direct and indirect costs shall be transferred from the Acquisition Services Fund to the general fund or another appropriate account in the Treasury.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1107; Pub. L. 109–313, § 3(h)(4), Oct. 6, 2006, 120 Stat. 1736.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1107; Pub. L. 109–313, § 3(h)(4), Oct. 6, 2006, 120 Stat. 1736.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 573 | 40:485(i). | June 30, 1949, ch. 288, title II, § 204(i), as added Pub. L. 103–123, title IV, § 7, Oct. 28, 1993, 107 Stat. 1247. |
+| 573 | 40:485(i). | June 30, 1949, ch. 288, title II, § 204(i), as added Pub. L. 103–123, title IV, § 7, Oct. 28, 1993, 107 Stat. 1247. |
 
 **Editorial Notes**
 
@@ -2306,7 +2306,7 @@ The Administrator of General Services may retain from the proceeds of sales of p
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
-### § 574. Other rules regarding proceeds
+### § 574. Other rules regarding proceeds
 
 **(a) Credit to Reimbursable Fund or Appropriation.—**
 
@@ -2352,7 +2352,7 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 574(a) | 40:485(c). | June 30, 1949, ch. 288, title II, § 204(c)–(g), formerly § 204(b)–(f), 63 Stat. 389; redesignated § 204(c)–(g), Aug. 31, 1954, ch. 1178, § 1(a), 68 Stat. 1051; Pub. L. 96–41, § 3(d), July 30, 1979, 93 Stat. 325. |
+| 574(a) | 40:485(c). | June 30, 1949, ch. 288, title II, § 204(c)–(g), formerly § 204(b)–(f), 63 Stat. 389; redesignated § 204(c)–(g), Aug. 31, 1954, ch. 1178, § 1(a), 68 Stat. 1051; Pub. L. 96–41, § 3(d), July 30, 1979, 93 Stat. 325. |
 | 574(b) | 40:485(d). |  |
 | 574(c) | 40:485(e). |  |
 | 574(d) | 40:485(f). |  |
@@ -2366,13 +2366,13 @@ In subsection (e), the words “or by War Assets Administration (or its predeces
 
 **Delegation of Functions**
 
-Functions of President under subsec. (f) of section 485 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
+Functions of President under subsec. (f) of section 485 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
 
 ## SUBCHAPTER V—OPERATION OF BUILDINGS AND RELATED ACTIVITIES
 
-### § 581. General authority of Administrator of General Services
+### § 581. General authority of Administrator of General Services
 
-**[(a)** Repealed. Pub. L. 107–296, title XVII, § 1706(a)(1), Nov. 25, 2002, 116 Stat. 2316.]
+**[(a)** Repealed. Pub. L. 107–296, title XVII, § 1706(a)(1), Nov. 25, 2002, 116 Stat. 2316.]
 
 **(b) Personnel and Equipment.—** The Administrator of General Services may—
 
@@ -2456,13 +2456,13 @@ Functions of President under subsec. (f) of section 485 of former Title 40, Publ
 
 **(4) Furnishing utilities and maintenance.—** The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, § 1706(a), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 109–284, § 6(5), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 117–81, div. A, title XVII, § 1702(g)(2), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, § 1706(a), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 109–284, § 6(5), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 117–81, div. A, title XVII, § 1702(g)(2), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 581 | 40:490(a). | June 30, 1949, ch. 288, title II, § 210(a), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 580; Pub. L. 85–886, § 1, Sept. 2, 1958, 72 Stat. 1709; Pub. L. 89–276, Oct. 20, 1965, 79 Stat. 1010; Pub. L. 90–626, Oct. 22, 1968, 82 Stat. 1319; Pub. L. 94–541, title I, § 104(a), Oct. 18, 1976, 90 Stat. 2506; Pub. L. 104–201, title VIII, § 823, Sept. 23, 1996, 110 Stat. 2609; Pub. L. 104–316, title I, § 120(b), Oct. 19, 1996, 110 Stat. 3836. |
+| 581 | 40:490(a). | June 30, 1949, ch. 288, title II, § 210(a), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 580; Pub. L. 85–886, § 1, Sept. 2, 1958, 72 Stat. 1709; Pub. L. 89–276, Oct. 20, 1965, 79 Stat. 1010; Pub. L. 90–626, Oct. 22, 1968, 82 Stat. 1319; Pub. L. 94–541, title I, § 104(a), Oct. 18, 1976, 90 Stat. 2506; Pub. L. 104–201, title VIII, § 823, Sept. 23, 1996, 110 Stat. 2609; Pub. L. 104–316, title I, § 120(b), Oct. 19, 1996, 110 Stat. 3836. |
 
 In this section, 40:490(a)(7) is omitted as obsolete because the pneumatic tube system referred to in the provision is no longer used or maintained and 40:490(a)(9) is omitted as obsolete because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
@@ -2486,9 +2486,9 @@ In subsection (g)(1), the words “mixed-ownership Government corporation” are
 
 2006—Subsec. (b). Pub. L. 109–284 substituted “The Administrator of General Services may—” for “The Administrator may—” in introductory provisions.
 
-2002—Subsec. (a). Pub. L. 107–296, § 1706(a)(1), struck out subsec. (a) which read as follows: “Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
+2002—Subsec. (a). Pub. L. 107–296, § 1706(a)(1), struck out subsec. (a) which read as follows: “Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
 
-Subsec. (b). Pub. L. 107–296, § 1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
+Subsec. (b). Pub. L. 107–296, § 1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2554,7 +2554,7 @@ This memorandum shall be published in the Federal Register.
 
 William J. Clinton.
 
-### § 582. Management of buildings by Administrator of General Services
+### § 582. Management of buildings by Administrator of General Services
 
 **(a) Request by Federal Agency or Instrumentality.—** At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may operate, maintain, and protect a building that is owned by the Federal Government (or, in the case of a wholly owned or mixed-ownership Government corporation, by the corporation) and occupied by the agency or instrumentality making the request.
 
@@ -2584,14 +2584,14 @@ William J. Clinton.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 582(a) | 40:490(b). | June 30, 1949, ch. 288, title II, § 210(b), (d), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 581, 582; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433. |
+| 582(a) | 40:490(b). | June 30, 1949, ch. 288, title II, § 210(b), (d), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 581, 582; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433. |
 | 582(b) | 40:490(d). |  |
 
 In subsection (a), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency in the subsection and with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(b) of the Federal Property and Administrative Services Act of 1949, because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (b), the words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 210(i) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
 
-### § 583. Construction of buildings
+### § 583. Construction of buildings
 
 **(a) Authority.—** At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may—
 
@@ -2609,13 +2609,13 @@ In subsection (b), the words “Director of the Office of Management and Budget�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 583 | 40:490(c). | June 30, 1949, ch. 288, title II, § 210(c), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 582. |
+| 583 | 40:490(c). | June 30, 1949, ch. 288, title II, § 210(c), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 582. |
 
 In subsection (a), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency in the subsection and with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(c) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (b), the words “salaries and expenses for preparing plans and specifications and for field supervision” are substituted for “salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service” to eliminate unnecessary words.
 
-### § 584. Assignment and reassignment of space
+### § 584. Assignment and reassignment of space
 
 **(a) Authority.—**
 
@@ -2637,13 +2637,13 @@ In subsection (b), the words “salaries and expenses for preparing plans and sp
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 584 | 40:490(e). | June 30, 1949, ch. 288, title II, § 210(e), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 582; Pub. L. 94–541, title I, § 104(b), Oct. 18, 1976, 90 Stat. 2506. |
+| 584 | 40:490(e). | June 30, 1949, ch. 288, title II, § 210(e), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 582; Pub. L. 94–541, title I, § 104(b), Oct. 18, 1976, 90 Stat. 2506. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Utilizing Space Efficiently and Improving Technologies Act**
 
-Pub. L. 118–272, div. B, title III, § 2302, Jan. 4, 2025, 138 Stat. 3218, provided that:
+Pub. L. 118–272, div. B, title III, § 2302, Jan. 4, 2025, 138 Stat. 3218, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2807,7 +2807,7 @@ Sec. 2. The Administrator of General Services is delegated authority, to the ext
 
 Ronald Reagan.
 
-### § 585. Lease agreements
+### § 585. Lease agreements
 
 **(a) In General.—**
 
@@ -2829,16 +2829,16 @@ Ronald Reagan.
 
 **(d)** Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2021, pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1112; Pub. L. 117–257, § 1, Dec. 21, 2022, 136 Stat. 2371.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1112; Pub. L. 117–257, § 1, Dec. 21, 2022, 136 Stat. 2371.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 585(a) | 40:490(h)(1). | June 30, 1949, ch. 288, title II, § 210(h)(1), as added Pub. L. 85–493, § 1, July 2, 1958, 72 Stat. 294; Pub. L. 86–249, § 12(e), formerly § 12(d), Sept. 9, 1959, 73 Stat. 482; redesignated § 12(e), Pub. L. 94–541, title I, § 103(3) (related to § 12(e)), Oct. 18, 1976, 90 Stat. 2506. |
-|  | 40:490e. | Pub. L. 101–136, title IV, § 22, Nov. 3, 1989, 103 Stat. 807. |
-| 585(b) | 40:490(h)(2). | June 30, 1949, ch. 288, title II, § 210(h)(2), as added Pub. L. 85–493, § 1, July 2, 1958, 72 Stat. 294. |
-| 585(c) | 40:490d. | Pub. L. 101–136, title IV, § 5, Nov. 3, 1989, 103 Stat. 802. |
+| 585(a) | 40:490(h)(1). | June 30, 1949, ch. 288, title II, § 210(h)(1), as added Pub. L. 85–493, § 1, July 2, 1958, 72 Stat. 294; Pub. L. 86–249, § 12(e), formerly § 12(d), Sept. 9, 1959, 73 Stat. 482; redesignated § 12(e), Pub. L. 94–541, title I, § 103(3) (related to § 12(e)), Oct. 18, 1976, 90 Stat. 2506. |
+|  | 40:490e. | Pub. L. 101–136, title IV, § 22, Nov. 3, 1989, 103 Stat. 807. |
+| 585(b) | 40:490(h)(2). | June 30, 1949, ch. 288, title II, § 210(h)(2), as added Pub. L. 85–493, § 1, July 2, 1958, 72 Stat. 294. |
+| 585(c) | 40:490d. | Pub. L. 101–136, title IV, § 5, Nov. 3, 1989, 103 Stat. 802. |
 
 In subsection (b)(2), the words “Federal Buildings Fund” are substituted for “buildings management fund” because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances in the Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
 
@@ -3018,9 +3018,9 @@ Pub. L. 116–276, Dec. 31, 2020, 134 Stat. 3362, provided that:
 
 **Lease of Building Space by Wholly Owned Government Corporations**
 
-Act July 30, 1947, ch. 358, title III, § 306, 61 Stat. 584, provided in part that: “Wholly owned Government corporations requiring space in office buildings at the seat of government shall occupy only such space as may be allotted in accordance with the provisions of such Act of March 1, 1919, as amended [ch. 86, § 10, 40 Stat. 1269] ([former] 40 U.S.C. 1), and shall pay such rental thereon as may be determined by the Federal Works Administrator [Administrator of General Services], such rental to include all cost of maintenance, upkeep, and repair.”
+Act July 30, 1947, ch. 358, title III, § 306, 61 Stat. 584, provided in part that: “Wholly owned Government corporations requiring space in office buildings at the seat of government shall occupy only such space as may be allotted in accordance with the provisions of such Act of March 1, 1919, as amended [ch. 86, § 10, 40 Stat. 1269] ([former] 40 U.S.C. 1), and shall pay such rental thereon as may be determined by the Federal Works Administrator [Administrator of General Services], such rental to include all cost of maintenance, upkeep, and repair.”
 
-### § 586. Charges for space and services
+### § 586. Charges for space and services
 
 **(a) Definition.—** In this section, “space and services” means space, services, quarters, maintenance, repair, and other facilities.
 
@@ -3046,15 +3046,15 @@ Act July 30, 1947, ch. 358, title III, § 306, 61 Stat. 584, provided in part 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 586(a), (b) | 40:490(j). | June 30, 1949, ch. 288, title II, § 210(j), (k), as added Pub. L. 92–313, § 4, June 16, 1972, 86 Stat. 219. |
+| 586(a), (b) | 40:490(j). | June 30, 1949, ch. 288, title II, § 210(j), (k), as added Pub. L. 92–313, § 4, June 16, 1972, 86 Stat. 219. |
 | 586(c) | 40:490(k). |  |
-| 586(d) | 40:490f. | Pub. L. 102–393, title IV, § 5, Oct. 6, 1992, 106 Stat. 1750. |
+| 586(d) | 40:490f. | Pub. L. 102–393, title IV, § 5, Oct. 6, 1992, 106 Stat. 1750. |
 
 In subsection (b)(3), the words “Federal Buildings Fund” are substituted for “the fund” for clarity and to execute the probable intent of Congress. Sections 3 and 4 of the Public Buildings Amendments of 1972 (Public Law 92–313, 86 Stat. 218) added subsection (j) of 40:490 (in which the words “the fund” appear) and amended subsection (f) to create a fund into which “charges made pursuant to subsection (j)” are deposited (40:490(f)(1)(A)). That fund was subsequently named “Federal Buildings Fund” by section 153(1) of the Energy Policy Act of 1992 (Public Law 102–486, 106 Stat. 2851). If an exemption from charges is granted under 40:490(j), “the fund” that suffers the loss of revenue is the Federal Buildings Fund.
 
 In subsection (d), the words “on and after October 6, 1992” are omitted as obsolete. The words “subsection (b)” are substituted for “section 201(j) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(j))” in section 5(a) of the Independent Agencies Appropriations Act, 1993, to reflect the probable intent of Congress. Section 201 of the Federal Property and Administrative Services Act of 1949 does not contain a subsection (j) and the intended reference was probably “section 210(j)”, which is restated in this section. The text of 40:490f(b) is omitted as executed.
 
-### § 587. Telecommuting and other alternative workplace arrangements
+### § 587. Telecommuting and other alternative workplace arrangements
 
 **(a) Definition.—** In this section, the term “telecommuting centers” means flexiplace work telecommuting centers.
 
@@ -3132,14 +3132,14 @@ In subsection (d), the words “on and after October 6, 1992” are omitted as o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 587(a), (b)(1)– (4)(A) | 40:490(*l*)(1)–(3). | June 30, 1949, ch. 288, title II, § 210(*l*), as added Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(a)], Sept. 30, 1996, 110 Stat. 3009–337. |
-| 587(b)(4)(B) | 40:490h. | Pub. L. 104–52, title IV, § 5, Nov. 19, 1995, 109 Stat. 486. |
+| 587(a), (b)(1)– (4)(A) | 40:490(*l*)(1)–(3). | June 30, 1949, ch. 288, title II, § 210(*l*), as added Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(a)], Sept. 30, 1996, 110 Stat. 3009–337. |
+| 587(b)(4)(B) | 40:490h. | Pub. L. 104–52, title IV, § 5, Nov. 19, 1995, 109 Stat. 486. |
 | 587(c)(1) | 40:490(*l*)(4) (words after 3d comma). |  |
 | 587(c)(2) | 40:490(*l*)(5). |  |
 | 587(c)(3) | 40:490(*l*)(4) (words before 3d comma). |  |
-| 587(d) | 40:490 note. | Pub. L. 105–277, div A, § 101(h) [title VI, § 630], Oct. 21, 1998, 112 Stat. 2681–522. |
+| 587(d) | 40:490 note. | Pub. L. 105–277, div A, § 101(h) [title VI, § 630], Oct. 21, 1998, 112 Stat. 2681–522. |
 
-### § 588. Movement and supply of office furniture
+### § 588. Movement and supply of office furniture
 
 **(a) Definition.—** In this section, the term “controlled space” means a substantial and identifiable segment of space (such as a building, floor, or wing) in a location that the Administrator of General Services controls for purposes of assignment of space.
 
@@ -3169,11 +3169,11 @@ In subsection (d), the words “on and after October 6, 1992” are omitted as o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 588 | 40:490(g). | June 30, 1949, ch. 288, title II, § 210(g), as added Sept. 1, 1954, ch. 1211, § 3, 68 Stat. 1129. |
+| 588 | 40:490(g). | June 30, 1949, ch. 288, title II, § 210(g), as added Sept. 1, 1954, ch. 1211, § 3, 68 Stat. 1129. |
 
 In subsection (f)(2), the reimbursement requirement in 40:490(g) (last sentence) is set out as an exception to a general “without reimbursement” rule in 40:490(g) (3d sentence) to harmonize an inconsistency in the source law.
 
-### § 589. Installation, repair, and replacement of sidewalks
+### § 589. Installation, repair, and replacement of sidewalks
 
 **(a) In General.—** An executive agency may install, repair, and replace sidewalks around buildings, installations, property, or grounds that are—
 
@@ -3201,7 +3201,7 @@ In subsection (f)(2), the reimbursement requirement in 40:490(g) (last sentence)
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 589 | 40:490(i). | June 30, 1949, ch. 288, title II, § 210(i), as added Pub. L. 89–344, Nov. 8, 1965, 79 Stat. 1304. |
+| 589 | 40:490(i). | June 30, 1949, ch. 288, title II, § 210(i), as added Pub. L. 89–344, Nov. 8, 1965, 79 Stat. 1304. |
 
 In subsections (a) and (b), the words “territory or” are added for consistency in the revised title and with other titles of the United States Code.
 
@@ -3209,7 +3209,7 @@ In subsection (c), the words “Director of the Office of Management and Budget�
 
 In subsection (e), the words “beyond such liability presently existing by virtue of any other law” are omitted as unnecessary.
 
-### § 590. Child care
+### § 590. Child care
 
 **(a) Guidance, Assistance, and Oversight.—** Through the General Services Administration’s licensing agreements, the Administrator of General Services shall provide guidance, assistance, and oversight to federal agencies for the development of child care centers to provide economical and effective child care for federal workers.
 
@@ -3257,7 +3257,7 @@ In subsection (e), the words “beyond such liability presently existing by virt
 
 **(2) In general.—** All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 (42 U.S.C. 13041).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Nonapplication to legislative branch facilities.—** This subsection does not apply to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
 
@@ -3285,20 +3285,20 @@ In subsection (e), the words “beyond such liability presently existing by virt
 
 **(B)** amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 117–328, div. I, title I, § 117(a), Dec. 29, 2022, 136 Stat. 4924; Pub. L. 118–47, div. E, title I, § 103(a), Mar. 23, 2024, 138 Stat. 712.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 117–328, div. I, title I, § 117(a), Dec. 29, 2022, 136 Stat. 4924; Pub. L. 118–47, div. E, title I, § 103(a), Mar. 23, 2024, 138 Stat. 712.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 590(a) | 40:490b(c). | Pub. L. 100–202, § 101(m) [title VI, § 616(a)–(d)], Dec. 22, 1987, 101 Stat. 1329–423; Pub. L. 102–393, title V, § 528, Oct. 6, 1992, 106 Stat. 1760. |
+| 590(a) | 40:490b(c). | Pub. L. 100–202, § 101(m) [title VI, § 616(a)–(d)], Dec. 22, 1987, 101 Stat. 1329–423; Pub. L. 102–393, title V, § 528, Oct. 6, 1992, 106 Stat. 1760. |
 | 590(b) | 40:490b(a). |  |
 | 590(c) | 40:490b(b)(1), (2), (4). |  |
 | 590(d) | 40:490b(b)(3). |  |
 |  | 40:490b(d). |  |
-| 590(e) | 40:490b note. | Pub. L. 105–277, div. A, § 101(h) [title VI, § 603], Oct. 21, 1998, 112 Stat. 2681–513. |
-| 590(f) | 40:490b(e). | Pub. L. 100–202, § 101(m) [title VI, § 616(e)], as added Pub. L. 106–554, § 1[(]a)(3) [title VI, § 643], Dec. 21, 2000, 114 Stat. 2763A–169. |
-| 590(g) | 40:490b–1. | Pub. L. 107–67, title VI, § 630, Nov. 12, 2001, 115 Stat. 552. |
+| 590(e) | 40:490b note. | Pub. L. 105–277, div. A, § 101(h) [title VI, § 603], Oct. 21, 1998, 112 Stat. 2681–513. |
+| 590(f) | 40:490b(e). | Pub. L. 100–202, § 101(m) [title VI, § 616(e)], as added Pub. L. 106–554, § 1[(]a)(3) [title VI, § 643], Dec. 21, 2000, 114 Stat. 2763A–169. |
+| 590(g) | 40:490b–1. | Pub. L. 107–67, title VI, § 630, Nov. 12, 2001, 115 Stat. 552. |
 
 In subsection (a), the word “provide” is substituted for “promote the provision of” to eliminate unnecessary words.
 
@@ -3328,13 +3328,13 @@ Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is 
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–47, div. E, title I, § 103(b), Mar. 23, 2024, 138 Stat. 712, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2024 and each succeeding fiscal year.”
+Pub. L. 118–47, div. E, title I, § 103(b), Mar. 23, 2024, 138 Stat. 712, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2024 and each succeeding fiscal year.”
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. I, title I, § 117(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
+Pub. L. 117–328, div. I, title I, § 117(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
-### § 591. Purchase of electricity
+### § 591. Purchase of electricity
 
 **(a) General Limitation on Use of Amounts.—** A department, agency, or instrumentality of the Federal Government may not use amounts appropriated or made available by any law to purchase electricity in a manner inconsistent with state law governing the provision of electric utility service, including—
 
@@ -3348,9 +3348,9 @@ Pub. L. 117–328, div. I, title I, § 117(b), Dec. 29, 2022, 136 Stat. 4924, 
 
 **(2) Energy savings for military installations.—** This section does not preclude the Secretary of a military department from—
 
-**(A)** entering into a contract under section 2394 1
+**(A)** entering into a contract under section 2394 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10; or
 
@@ -3362,7 +3362,7 @@ of title 10; or
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 591 | 40:490 note. | Pub. L. 100–202, § 101(b) [title VIII, § 8093], Dec. 22, 1987, 101 Stat. 1329–79. |
+| 591 | 40:490 note. | Pub. L. 100–202, § 101(b) [title VIII, § 8093], Dec. 22, 1987, 101 Stat. 1329–79. |
 
 In subsection (b)(1), the words “section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287)” are substituted for “42 U.S.C. 8287” in section 8093 of the Department of Defense Appropriations Act, 1988 as the probable intent of Congress.
 
@@ -3370,9 +3370,9 @@ In subsection (b)(1), the words “section 801 of the National Energy Conservati
 
 **References in Text**
 
-Section 2394 of title 10, referred to in subsec. (b)(2)(A), was renumbered section 2922a of such title by Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.
+Section 2394 of title 10, referred to in subsec. (b)(2)(A), was renumbered section 2922a of such title by Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.
 
-### § 592. Federal Buildings Fund
+### § 592. Federal Buildings Fund
 
 **(a) Existence.—** There is in the Treasury a fund known as the Federal Buildings Fund.
 
@@ -3440,17 +3440,17 @@ Section 2394 of title 10, referred to in subsec. (b)(2)(A), was renumbered secti
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 592(a) | 40:490(f)(1) (related to establishment), (3), (4). | June 30, 1949, ch. 288, title II, § 210(f), as added July 12, 1952, ch. 703, § 1(*l*), 66 Stat. 594; Pub. L. 85–886, § 3, Sept. 2, 1958, 72 Stat. 1709; Pub. L. 92–313, § 3, June 16, 1972, 86 Stat. 218; Pub. L. 102–486, title I, § 153, Oct. 24, 1992, 106 Stat. 2851. |
+| 592(a) | 40:490(f)(1) (related to establishment), (3), (4). | June 30, 1949, ch. 288, title II, § 210(f), as added July 12, 1952, ch. 703, § 1(*l*), 66 Stat. 594; Pub. L. 85–886, § 3, Sept. 2, 1958, 72 Stat. 1709; Pub. L. 92–313, § 3, June 16, 1972, 86 Stat. 218; Pub. L. 102–486, title I, § 153, Oct. 24, 1992, 106 Stat. 2851. |
 | 592(b)(1) | 40:490(f)(1) (related to deposits). |  |
 | 592(b)(2) | 40:490(f)(6). |  |
 | 592(b)(3) | 40:490(f)(5). |  |
 | 592(c)(1) | 40:490(f)(2). |  |
-| 592(c)(2) | 40:490a. | Pub. L. 94–91, title IV, § 401, Aug. 9, 1975, 89 Stat. 452. |
-| 592(c)(3) | 40:490a–1. | Pub. L. 101–136, title IV, § 7, Nov. 3, 1989, 103 Stat. 803. |
-| 592(c)(4) | 40:490i. | Pub. L. 105–277, div. A, § 101(h) [title IV, 6th proviso on p. 2681–502], Oct. 21, 1998, 112 Stat. 2681–502. |
+| 592(c)(2) | 40:490a. | Pub. L. 94–91, title IV, § 401, Aug. 9, 1975, 89 Stat. 452. |
+| 592(c)(3) | 40:490a–1. | Pub. L. 101–136, title IV, § 7, Nov. 3, 1989, 103 Stat. 803. |
+| 592(c)(4) | 40:490i. | Pub. L. 105–277, div. A, § 101(h) [title IV, 6th proviso on p. 2681–502], Oct. 21, 1998, 112 Stat. 2681–502. |
 | 592(d) | 40:490(f)(7). |  |
 | 592(e) | 40:490(f)(8). |  |
-| 592(f) | 40:490g. | Pub. L. 102–393, title IV, § 13, Oct. 6, 1992, 106 Stat. 1751. |
+| 592(f) | 40:490g. | Pub. L. 102–393, title IV, § 13, Oct. 6, 1992, 106 Stat. 1751. |
 
 In subsection (a), the words “on such date as may be determined by the Administrator” are omitted as obsolete. The text of 40:490(f)(3) and (4) is omitted as executed.
 
@@ -3466,9 +3466,9 @@ In subsection (f), the words “during a fiscal year” are omitted as unnecessa
 
 **References in Text**
 
-Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)(4)(A), is section 5 of Pub. L. 92–313, June 16, 1972, 86 Stat. 219, which enacted section 602a of former Title 40, Public Buildings, Property, and Works, and was omitted from the Code in the revision and reenactment of this title by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)(4)(A), is section 5 of Pub. L. 92–313, June 16, 1972, 86 Stat. 219, which enacted section 602a of former Title 40, Public Buildings, Property, and Works, and was omitted from the Code in the revision and reenactment of this title by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 593. Protection for veterans preference employees
+### § 593. Protection for veterans preference employees
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -3480,13 +3480,13 @@ Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)
 
 **(c) Exception.—** Amounts made available to the Administration pursuant to section 592 of this title may be obligated and expended to procure covered services by contract with a sheltered workshop or, if sheltered workshops decline to contract for the provision of covered services, by competitive contract for a period of no longer than 5 years. When a competitive contract expires, or is terminated for any reason, the Administration shall again offer to procure the covered services by contract with a sheltered workshop before procuring the covered services by competitive contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1120; Pub. L. 109–284, § 6(6), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 111–350, § 5(*l*)(11), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1120; Pub. L. 109–284, § 6(6), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 111–350, § 5(*l*)(11), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 593 | 40:490c. | Pub. L. 104–52, title V, § 503, Nov. 19, 1995, 109 Stat. 491. |
+| 593 | 40:490c. | Pub. L. 104–52, title V, § 503, Nov. 19, 1995, 109 Stat. 491. |
 
 **Editorial Notes**
 
@@ -3498,7 +3498,7 @@ Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)
 
 ## SUBCHAPTER VI—MOTOR VEHICLE POOLS AND TRANSPORTATION SYSTEMS
 
-### § 601. Purposes
+### § 601. Purposes
 
 In order to provide an economical and efficient system for transportation of Federal Government personnel and property consistent with section 101 of this title, the purposes of this subchapter are—
 
@@ -3518,7 +3518,7 @@ In order to provide an economical and efficient system for transportation of Fed
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 601 | 40:491(a). | June 30, 1949, ch. 288, title II, § 211(a), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
+| 601 | 40:491(a). | June 30, 1949, ch. 288, title II, § 211(a), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3686,7 +3686,7 @@ Sec. 11. *Supplementary regulations*. The Administrator shall, after consultatio
 
 Dwight D. Eisenhower.
 
-### § 602. Authority to establish motor vehicle pools and transportation systems
+### § 602. Authority to establish motor vehicle pools and transportation systems
 
 **(a) In General.—** Subject to section 603 of this title, and regulations issued under section 603, the Administrator of General Services shall—
 
@@ -3712,13 +3712,13 @@ Dwight D. Eisenhower.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 602 | 40:491(b) (related to establishment). | June 30, 1949, ch. 288, title II, § 211(b) (related to establishment), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
+| 602 | 40:491(b) (related to establishment). | June 30, 1949, ch. 288, title II, § 211(b) (related to establishment), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
 
-Subsection (a)(1) is substituted for “in respect of executive agencies, . . . consolidate, take over, acquire, or arrange for the operation by any executive agency of, motor vehicles and other related equipment and supplies for the purpose of establishing motor vehicle pools and systems to serve the needs of executive agencies” for clarity and to eliminate unnecessary words.
+Subsection (a)(1) is substituted for “in respect of executive agencies, . . . consolidate, take over, acquire, or arrange for the operation by any executive agency of, motor vehicles and other related equipment and supplies for the purpose of establishing motor vehicle pools and systems to serve the needs of executive agencies” for clarity and to eliminate unnecessary words.
 
 In subsection (c), the words “mixed-ownership Government corporation” are substituted for “mixed ownership corporation” for consistency with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 211(b) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
-### § 603. Process for establishing motor vehicle pools and transportation systems
+### § 603. Process for establishing motor vehicle pools and transportation systems
 
 **(a) Determination Requirement.—**
 
@@ -3750,13 +3750,13 @@ In subsection (c), the words “mixed-ownership Government corporation” are su
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 603(a)(1) | 40:491(b) (related to determination). | June 30, 1949, ch. 288, title II, § 211(b) (related to determination), (c), (e), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
+| 603(a)(1) | 40:491(b) (related to determination). | June 30, 1949, ch. 288, title II, § 211(b) (related to determination), (c), (e), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
 | 603(a)(2) | 40:491(e). |  |
 | 603(b) | 40:491(c). |  |
 
 In subsection (b)(1), the words “within ninety days after the effective date of this section” are omitted as obsolete.
 
-### § 604. Treatment of assets taken over to establish motor vehicle pools and transportation systems
+### § 604. Treatment of assets taken over to establish motor vehicle pools and transportation systems
 
 **(a) Reimbursement.—**
 
@@ -3770,13 +3770,13 @@ In subsection (b)(1), the words “within ninety days after the effective date o
 
 **(b) Addition to Acquisition Services Fund.—** If the Administrator takes over motor vehicles or related equipment or supplies under section 602 of this title but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the value of the property may be deducted from the Fund.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1122; Pub. L. 109–313, § 3(h)(5), Oct. 6, 2006, 120 Stat. 1736.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1122; Pub. L. 109–313, § 3(h)(5), Oct. 6, 2006, 120 Stat. 1736.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 604(a) | 40:491(g). | June 30, 1949, ch. 288, title II, § 211(g), (h), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
+| 604(a) | 40:491(g). | June 30, 1949, ch. 288, title II, § 211(g), (h), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
 | 604(b) | 40:491(h). |  |
 
 **Editorial Notes**
@@ -3791,7 +3791,7 @@ In subsection (b)(1), the words “within ninety days after the effective date o
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
-### § 605. Payment of costs
+### § 605. Payment of costs
 
 **(a) Use of Acquisition Services Fund To Cover Costs.—** The Acquisition Services Fund provided for in section 321 of this title is available for use by or under the direction and control of the Administrator of General Services to pay the costs of carrying out section 602 of this title, including the cost of purchasing or renting motor vehicles and related equipment and supplies.
 
@@ -3803,21 +3803,21 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 **(c) Accounting Method.—** The purchase price of motor vehicles and related equipment, and any increment for estimated replacement cost, shall be recovered only through charges for the cost of amortization. Costs shall be determined, and financial reports prepared, in accordance with the accrual accounting method.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1123; Pub. L. 109–313, § 3(h)(6), Oct. 6, 2006, 120 Stat. 1736.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1123; Pub. L. 109–313, § 3(h)(6), Oct. 6, 2006, 120 Stat. 1736.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 605 | 40:491(d). | June 30, 1949, ch. 288, title II, § 211(d), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127; Pub. L. 95–506, Oct. 24, 1978, 92 Stat. 1756. |
+| 605 | 40:491(d). | June 30, 1949, ch. 288, title II, § 211(d), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127; Pub. L. 95–506, Oct. 24, 1978, 92 Stat. 1756. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–313, § 3(h)(6)(A), substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
+2006—Subsec. (a). Pub. L. 109–313, § 3(h)(6)(A), substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
 
-Subsec. (b)(2). Pub. L. 109–313, § 3(h)(6)(B), substituted “321(f)” for “321(f)(1)” and “Acquisition Services Fund” for “General Supply Fund”.
+Subsec. (b)(2). Pub. L. 109–313, § 3(h)(6)(B), substituted “321(f)” for “321(f)(1)” and “Acquisition Services Fund” for “General Supply Fund”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3825,7 +3825,7 @@ Subsec. (b)(2). Pub. L. 109–313, § 3(h)(6)(B), substituted “321(f)” for
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
 
-### § 606. Regulations related to operation
+### § 606. Regulations related to operation
 
 **(a) In General.—** The Director of the Office of Personnel Management shall prescribe regulations to govern executive agencies in authorizing civilian personnel to operate Federal Government-owned motor vehicles for official purposes within the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
@@ -3843,11 +3843,11 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 606 | 40:491(j). | June 30, 1949, ch. 288, title II, § 211(j), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128; Pub. L. 86–624, § 27(b), July 12, 1960, 74 Stat. 418. |
+| 606 | 40:491(j). | June 30, 1949, ch. 288, title II, § 211(j), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128; Pub. L. 86–624, § 27(b), July 12, 1960, 74 Stat. 418. |
 
 In subsection (a), the words “Director of the Office of Personnel Management” are substituted for “United States Civil Service Commission” in section 211(j) of the Federal Property and Administrative Services Act of 1949 because of section 102 of Reorganization Plan No. 2 of 1978 (eff. Jan. 1, 1979, 92 Stat. 3783). The words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
 
-### § 607. Records
+### § 607. Records
 
 The Administrator of General Services shall maintain an accurate record of the cost of establishing, maintaining, and operating each motor vehicle pool or system established under section 602 of this title.
 
@@ -3857,9 +3857,9 @@ The Administrator of General Services shall maintain an accurate record of the c
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 607 | 40:491(f) (1st sentence). | June 30, 1949, ch. 288, title II, § 211(f) (1st sentence), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127. |
+| 607 | 40:491(f) (1st sentence). | June 30, 1949, ch. 288, title II, § 211(f) (1st sentence), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127. |
 
-### § 608. Scrip, tokens, tickets
+### § 608. Scrip, tokens, tickets
 
 The Administrator of General Services, in the operation of motor vehicle pools or systems under this subchapter, may provide for the sale and use of scrip, tokens, tickets, and similar devices to collect payment.
 
@@ -3869,9 +3869,9 @@ The Administrator of General Services, in the operation of motor vehicle pools o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 608 | 40:491(i). | June 30, 1949, ch. 288, title II, § 211(i), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
+| 608 | 40:491(i). | June 30, 1949, ch. 288, title II, § 211(i), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
 
-### § 609. Identification of vehicles
+### § 609. Identification of vehicles
 
 **(a) In General.—** Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—
 
@@ -3891,9 +3891,9 @@ The Administrator of General Services, in the operation of motor vehicle pools o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 609 | 40:491(k). | June 30, 1949, ch. 288, title II, § 211(k), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
+| 609 | 40:491(k). | June 30, 1949, ch. 288, title II, § 211(k), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
 
-### § 610. Discontinuance of motor vehicle pool or system
+### § 610. Discontinuance of motor vehicle pool or system
 
 **(a) In General.—** The Administrator of General Services shall discontinue a motor vehicle pool or system if there are no actual savings realized (based on accounting as provided in section 605 of this title) during a reasonable period of not longer than two successive fiscal years.
 
@@ -3905,19 +3905,19 @@ The Administrator of General Services, in the operation of motor vehicle pools o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 610 | 40:491(f) (last sentence). | June 30, 1949, ch. 288, title II, § 211(f) (last sentence), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127. |
+| 610 | 40:491(f) (last sentence). | June 30, 1949, ch. 288, title II, § 211(f) (last sentence), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1127. |
 
-### § 611. Duty to report violations
+### § 611. Duty to report violations
 
 During the regular course of the duties of the Administrator of General Services, if the Administrator becomes aware of a violation of section 1343, 1344, or 1349(b) of title 31 or of section 641 of title 18 involving the conversion by a Federal Government official or employee of a Government-owned or leased motor vehicle to the official or employee’s own use or to the use of others, the Administrator shall report the violation to the head of the agency in which the official or employee is employed, for further investigation and either appropriate disciplinary action under section 1343, 1344, or 1349(b) of title 31 or, if appropriate, referral to the Attorney General for prosecution under section 641 of title 18.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124; Pub. L. 109–284, § 6(7), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124; Pub. L. 109–284, § 6(7), Sept. 27, 2006, 120 Stat. 1212.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 611 | 40:491(*l*). | June 30, 1949, ch. 288, title II, § 211(*l*), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
+| 611 | 40:491(*l*). | June 30, 1949, ch. 288, title II, § 211(*l*), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128. |
 
 The words “section 1343, 1344, or 1349(b) of title 31” are substituted for “section 5 of the Act of July 16, 1914, as amended (5 U.S.C. 78)” and “such section 5” in section 211(*l*) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
@@ -3929,7 +3929,7 @@ The words “section 1343, 1344, or 1349(b) of title 31” are substituted for �
 
 ## SUBCHAPTER VII—PROPERTY MANAGEMENT
 
-### § 621. Definitions
+### § 621. Definitions
 
 In this subchapter:
 
@@ -3957,13 +3957,13 @@ In this subchapter:
 
 **(B)** for program purposes that can be satisfied only with a portion of the property.
 
-(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1608.)
+(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1608.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Purpose**
 
-Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that:
+Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that:
 
 > “The purpose of this Act [see section 1 of Pub. L. 114–318, set out as a Short Title of 2016 Amendment note under section 101 of this title] is to increase the efficiency and effectiveness of the Federal Government in managing property of the Federal Government by—
 
@@ -3973,7 +3973,7 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that:
 
 > **“(3)** establishing a Federal Real Property Council to develop guidance on and ensure the implementation of strategies for better managing Federal property.”
 
-### § 622. Collocation among United States Postal Service properties
+### § 622. Collocation among United States Postal Service properties
 
 **(a) Identification of Postal Property.—** Each year, the Postmaster General shall—
 
@@ -4003,7 +4003,7 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that:
 
 **(e) Rule of Construction.—** Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitive bidding process governing the leasing of postal property.
 
-(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1609.)
+(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1609.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4011,7 +4011,7 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that:
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 623. Establishment of a Federal Real Property Council
+### § 623. Establishment of a Federal Real Property Council
 
 **(a) Establishment.—** There is established a Federal Real Property Council.
 
@@ -4147,7 +4147,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(7)** any property operated and maintained by the United States Postal Service.
 
-(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1609.)
+(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1609.)
 
 **Editorial Notes**
 
@@ -4155,7 +4155,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 The date of enactment of this subchapter, referred to in subsec. (e)(1), (7), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4163,7 +4163,7 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is ac
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 624. Information on certain leasing authorities
+### § 624. Information on certain leasing authorities
 
 **(a) In General.—** Except as provided in subsection (b), not later than December 31 of each year following the date of enactment of this subchapter, a Federal agency with independent leasing authority shall submit to the Council a list of all leases, including operating leases, in effect on the date of enactment of this subchapter that includes—
 
@@ -4187,7 +4187,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(2)** any other property the Director excludes from subsection (a) for reasons of national security.
 
-(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1612.)
+(Added Pub. L. 114–318, § 3(a), Dec. 16, 2016, 130 Stat. 1612.)
 
 **Editorial Notes**
 

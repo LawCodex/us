@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 707—FREDERICK DOUGLASS MEMORIAL AND HISTORICAL ASSOCIATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 707—FREDERICK DOUGLASS MEMORIAL AND HISTORICAL ASSOCIATION"
 identifier: "/us/usc/t36/stII/ptB/ch707"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 707—FREDERICK DOUGLASS MEMORIAL AND HISTORICAL ASSOCIATION
 
-## § 70701. Organization
+## § 70701. Organization
 
 **(a) Federal Charter.—** Frederick Douglass Memorial and Historical Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -27,12 +27,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70701 | 36:4401 (words before “for the following objects and purposes”). | June 6, 1900, ch. 806, §§ 1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663. |
+| 70701 | 36:4401 (words before “for the following objects and purposes”). | June 6, 1900, ch. 806, §§ 1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663. |
 |  | 36:4403. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:4403 is omitted as executed and obsolete.
 
-## § 70702. Purposes
+## § 70702. Purposes
 
 The purposes of the corporation are—
 
@@ -46,11 +46,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70702 | 36:4401 (words beginning with “for the following objects and purposes”). | June 6, 1900, ch. 806, § 1 (words beginning with “for the following objects and purposes”), 31 Stat. 662. |
+| 70702 | 36:4401 (words beginning with “for the following objects and purposes”). | June 6, 1900, ch. 806, § 1 (words beginning with “for the following objects and purposes”), 31 Stat. 662. |
 
 In clause (2), the words “that are donated to, or acquired by, the corporation” are substituted for “as may be donated to said association or acquired by purchase[,] bequest, or other lawful means” to eliminate unnecessary words.
 
-## § 70703. Governing body
+## § 70703. Governing body
 
 **(a) Board of Trustees.—**
 
@@ -74,7 +74,7 @@ In clause (2), the words “that are donated to, or acquired by, the corporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70703(a)(1), (2) | 36:4404 (1st–3d sentences). | June 6, 1900, ch. 806, § 4 (1st–3d sentences, 4th sentence less adopting and altering seal, 5th sentence less establishing bylaws, last sentence less employment authority), 31 Stat. 663; Nov. 9, 1988, Pub. L. 100–642, § 1(a), 102 Stat. 3337. |
+| 70703(a)(1), (2) | 36:4404 (1st–3d sentences). | June 6, 1900, ch. 806, § 4 (1st–3d sentences, 4th sentence less adopting and altering seal, 5th sentence less establishing bylaws, last sentence less employment authority), 31 Stat. 663; Nov. 9, 1988, Pub. L. 100–642, § 1(a), 102 Stat. 3337. |
 | 70703(a)(3) | 36:4404 (4th sentence less adopting and altering seal). |  |
 | 70703(b)(1) | 36:4404 (5th sentence less establishing bylaws). |  |
 | 70703(b)(2), (3) | 36:4404 (last sentence less employment authority). |  |
@@ -85,9 +85,9 @@ In subsection (a)(2), the words “who shall be elected by the corporators at th
 
 In subsection (a)(3), the word “common” is omitted as unnecessary.
 
-Subsection (b)(3) is substituted for “and all of the officers of the association, together with such agents and employees . . . , shall be subject to removal for such causes and under such conditions and regulations as may be prescribed by the by-laws” for clarity and to eliminate unnecessary words.
+Subsection (b)(3) is substituted for “and all of the officers of the association, together with such agents and employees . . . , shall be subject to removal for such causes and under such conditions and regulations as may be prescribed by the by-laws” for clarity and to eliminate unnecessary words.
 
-## § 70704. Powers
+## § 70704. Powers
 
 The corporation may—
 
@@ -109,7 +109,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70704(1) | 36:4404 (5th sentence related to establishing bylaws). | June 6, 1900, ch. 806, §§ 2 (words before last semicolon), 4 (4th sentence related to adopting and altering seal, 5th sentence related to establishing bylaws, last sentence related to employment authority), 31 Stat. 662, 663. |
+| 70704(1) | 36:4404 (5th sentence related to establishing bylaws). | June 6, 1900, ch. 806, §§ 2 (words before last semicolon), 4 (4th sentence related to adopting and altering seal, 5th sentence related to establishing bylaws, last sentence related to employment authority), 31 Stat. 662, 663. |
 | 70704(2) | 36:4404 (4th sentence related to adopting and altering seal). |  |
 | 70704(3) | 36:4404 (last sentence related to employment authority). |  |
 | 70704(4)–(6) | 36:4402 (words before last semicolon). |  |
@@ -126,7 +126,7 @@ Clause (5) is substituted for “and by the same name to sue and be sued, to imp
 
 Clause (6) is substituted for “and generally by and in the same name to do and transact all and every the business touching or concerning the premises” for clarity and to eliminate unnecessary words.
 
-## § 70705. Management of homestead and erection of monument
+## § 70705. Management of homestead and erection of monument
 
 After the corporation has acquired any part of the property occupied by the late Frederick Douglass as his homestead, commonly called Cedar Hill, in the village of Anacostia, District of Columbia, the corporation may—
 
@@ -140,14 +140,14 @@ After the corporation has acquired any part of the property occupied by the late
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70705(1) | 36:4402 (words after last semicolon). | June 6, 1900, ch. 806, §§ 2 (words after last semicolon), 6, 31 Stat. 662, 663. |
+| 70705(1) | 36:4402 (words after last semicolon). | June 6, 1900, ch. 806, §§ 2 (words after last semicolon), 6, 31 Stat. 662, 663. |
 | 70705(2) | 36:4406. |  |
 
 Clause (1) is substituted for “and that after the said association shall have acquired title in fee simple to a whole or a part of certain property situate and being in the village of Anacostia, District of Columbia, commonly called Cedar Hill, and occupied by the late Frederick Douglass as his homestead, the said association may manage, repair, improve, and adorn the same in such manner as the said incorporators or their successors, or a majority of them, may deem meet and proper, in pursuance of and in accordance with the objects and purposes for which this said association is incorporated” to eliminate unnecessary words.
 
 Clause (2) is substituted for 36:4406 to eliminate unnecessary words.
 
-## § 70706. Property exempt from taxation
+## § 70706. Property exempt from taxation
 
 Any property formerly occupied by the late Frederick Douglass as his homestead, commonly called Cedar Hill, in the village of Anacostia, District of Columbia, and owned by the corporation, is exempt from taxation as long as the property is used for the purposes of the corporation.
 
@@ -157,11 +157,11 @@ Any property formerly occupied by the late Frederick Douglass as his homestead, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70706 | 36:4407. | June 6, 1900, ch. 806, § 7, 31 Stat. 663. |
+| 70706 | 36:4407. | June 6, 1900, ch. 806, § 7, 31 Stat. 663. |
 
 This section is substituted for the source provision to eliminate unnecessary words.
 
-## § 70707. Misnomer not to affect transfer of property
+## § 70707. Misnomer not to affect transfer of property
 
 A misnomer of the corporation does not affect any transfer of property to or from the corporation.
 
@@ -171,11 +171,11 @@ A misnomer of the corporation does not affect any transfer of property to or fro
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70707 | 36:4405. | June 6, 1900, ch. 806, § 5, 31 Stat. 663. |
+| 70707 | 36:4405. | June 6, 1900, ch. 806, § 5, 31 Stat. 663. |
 
 In this section, the word “affect” is substituted for “defeat or annul”, and the words “transfer of property” are substituted for “grant, donation, gift, devise, or bequest”, to eliminate unnecessary words.
 
-## § 70708. Nonapplication of audit requirements
+## § 70708. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 

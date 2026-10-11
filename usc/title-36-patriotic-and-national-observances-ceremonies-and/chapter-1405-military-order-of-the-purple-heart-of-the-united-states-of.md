@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1405—MILITARY ORDER OF THE PURPLE HEART OF THE UNITED STATES OF AMERICA, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1405—MILITARY ORDER OF THE PURPLE HEART OF THE UNITED STATES OF AMERICA, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1405"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1405—MILITARY ORDER OF THE PURPLE HEART OF THE UNITED STATES OF AMERICA, INCORPORATED
 
-## § 140501. Organization
+## § 140501. Organization
 
 **(a) Federal Charter.—** Military Order of the Purple Heart of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140501 | 36:821. | Aug. 26, 1958, Pub. L. 85–761, §§ 1, 2, 4(1), 72 Stat. 854, 856. |
+| 140501 | 36:821. | Aug. 26, 1958, Pub. L. 85–761, §§ 1, 2, 4(1), 72 Stat. 854, 856. |
 |  | 36:822. 36:824(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 140502. Principles and purposes
+## § 140502. Principles and purposes
 
 **(a) Principles.—** The principles underlying the corporation are patriotic allegiance to the United States, fidelity to the Constitution and laws of the United States, the security of civil liberty, and the permanence of free institutions.
 
@@ -66,7 +66,7 @@ This section is substituted for the source provisions for consistency in the rev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140502 | 36:823. | Aug. 26, 1958, Pub. L. 85–761, § 3, 72 Stat. 856; June 13, 1991, Pub. L. 102–54, § 13(n)(3), 105 Stat. 278. |
+| 140502 | 36:823. | Aug. 26, 1958, Pub. L. 85–761, § 3, 72 Stat. 856; June 13, 1991, Pub. L. 102–54, § 13(n)(3), 105 Stat. 278. |
 
 In this section, the words “of America” are omitted for consistency in the revised title.
 
@@ -74,7 +74,7 @@ In subsection (b)(3), the word “among” is substituted for “amongst” to u
 
 In subsection (b)(10), the word “whomsoever” is omitted as unnecessary.
 
-## § 140503. Membership
+## § 140503. Membership
 
 **(a) Active Members.—** An individual is eligible for active membership in the corporation if the individual—
 
@@ -86,13 +86,13 @@ In subsection (b)(10), the word “whomsoever” is omitted as unnecessary.
 
 **(c) Voting.—** Each member described in subsection (a) of this section has one vote on each matter submitted to a vote at a meeting of the members.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1382; Pub. L. 110–207, § 2, Apr. 30, 2008, 122 Stat. 719.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1382; Pub. L. 110–207, § 2, Apr. 30, 2008, 122 Stat. 719.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140503 | 36:826. | Aug. 26, 1958, Pub. L. 85–761, § 6, 72 Stat. 857. |
+| 140503 | 36:826. | Aug. 26, 1958, Pub. L. 85–761, § 6, 72 Stat. 857. |
 
 In this section, the text of 36:826(d) is omitted as obsolete.
 
@@ -106,7 +106,7 @@ In subsection (b), the word “may” is substituted for “shall have the power
 
 2008—Subsec. (b). Pub. L. 110–207 substituted “the parents, spouse, siblings, and lineal descendants” for “parents and lineal descendants”.
 
-## § 140504. Governing body
+## § 140504. Governing body
 
 **(a) Board of Directors.—**
 
@@ -126,12 +126,12 @@ In subsection (b), the word “may” is substituted for “shall have the power
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140504(a) | 36:827. | Aug. 26, 1958, Pub. L. 85–761, §§ 7, 8, 72 Stat. 857. |
+| 140504(a) | 36:827. | Aug. 26, 1958, Pub. L. 85–761, §§ 7, 8, 72 Stat. 857. |
 | 140504(b) | 36:828. |  |
 
 In subsection (a), the text of 36:827(a) is omitted as obsolete.
 
-## § 140505. Powers
+## § 140505. Powers
 
 The corporation may—
 
@@ -155,7 +155,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140505 | 36:824(2)–(9). | Aug. 26, 1958, Pub. L. 85–761, §§ 4(2)–(9), 16, 72 Stat. 856, 859. |
+| 140505 | 36:824(2)–(9). | Aug. 26, 1958, Pub. L. 85–761, §§ 4(2)–(9), 16, 72 Stat. 856, 859. |
 |  | 36:836. |  |
 
 In this section, the text of 36:836 is omitted as executed and obsolete.
@@ -168,7 +168,7 @@ In clause (5), the words “for the purposes of the corporation” are omitted a
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 140506. Restrictions
+## § 140506. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -184,7 +184,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140506(a) | 36:832. | Aug. 26, 1958, Pub. L. 85–761, §§ 9, 10, 12, 72 Stat. 858. |
+| 140506(a) | 36:832. | Aug. 26, 1958, Pub. L. 85–761, §§ 9, 10, 12, 72 Stat. 858. |
 | 140506(b) | 36:830. |  |
 | 140506(c) | 36:829(a). |  |
 | 140506(d) | 36:829(b). |  |
@@ -193,7 +193,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 835 of this title” are omitted as unnecessary.
 
-## § 140507. Principal office
+## § 140507. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the national executive board. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -203,11 +203,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140507 | 36:825(a). | Aug. 26, 1958, Pub. L. 85–761, § 5(a), 72 Stat. 856. |
+| 140507 | 36:825(a). | Aug. 26, 1958, Pub. L. 85–761, § 5(a), 72 Stat. 856. |
 
 The word “various” is omitted as unnecessary.
 
-## § 140508. Records and inspection
+## § 140508. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -225,11 +225,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140508 | 36:833. | Aug. 26, 1958, Pub. L. 85–761, § 13, 72 Stat. 858. |
+| 140508 | 36:833. | Aug. 26, 1958, Pub. L. 85–761, § 13, 72 Stat. 858. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 140509. Liability for acts of officers and agents
+## § 140509. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -239,9 +239,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140509 | 36:831. | Aug. 26, 1958, Pub. L. 85–761, § 11, 72 Stat. 858. |
+| 140509 | 36:831. | Aug. 26, 1958, Pub. L. 85–761, § 11, 72 Stat. 858. |
 
-## § 140510. Service of process
+## § 140510. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -251,11 +251,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140510 | 36:825(b). | Aug. 26, 1958, Pub. L. 85–761, § 5(b), 72 Stat. 857. |
+| 140510 | 36:825(b). | Aug. 26, 1958, Pub. L. 85–761, § 5(b), 72 Stat. 857. |
 
 The words “at all times” are omitted as unnecessary.
 
-## § 140511. Distribution of assets on dissolution or final liquidation
+## § 140511. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation.
 
@@ -265,6 +265,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140511 | 36:835. | Aug. 26, 1958, Pub. L. 85–761, § 15, 72 Stat. 859. |
+| 140511 | 36:835. | Aug. 26, 1958, Pub. L. 85–761, § 15, 72 Stat. 859. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

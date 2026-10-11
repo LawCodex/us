@@ -19,45 +19,45 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. O, title X, § 1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 “4–H Club emblem fraudulently used”, 708 “Swiss Confederation coat of arms”, 711 “ ‘Smokey Bear’ character or name”, 711a “ ‘Woodsy Owl’ character, name, or slogan”, and 715 “ ‘The Golden Eagle Insignia’ ”.
+2020—Pub. L. 116–260, div. O, title X, § 1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 “4–H Club emblem fraudulently used”, 708 “Swiss Confederation coat of arms”, 711 “ ‘Smokey Bear’ character or name”, 711a “ ‘Woodsy Owl’ character, name, or slogan”, and 715 “ ‘The Golden Eagle Insignia’ ”.
 
-2007—Pub. L. 109–481, § 2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
+2007—Pub. L. 109–481, § 2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
 
-2006—Pub. L. 109–162, title XI, § 1191(b), Jan. 5, 2006, 119 Stat. 3129, substituted “Public employee insignia and uniform” for “Police badges” in item 716.
+2006—Pub. L. 109–162, title XI, § 1191(b), Jan. 5, 2006, 119 Stat. 3129, substituted “Public employee insignia and uniform” for “Police badges” in item 716.
 
-2000—Pub. L. 106–547, § 3(b), Dec. 19, 2000, 114 Stat. 2740, added item 716.
+2000—Pub. L. 106–547, § 3(b), Dec. 19, 2000, 114 Stat. 2740, added item 716.
 
-1997—Pub. L. 105–55, title III, § 308(e), Oct. 7, 1997, 111 Stat. 1198, substituted “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate” in item 713.
+1997—Pub. L. 105–55, title III, § 308(e), Oct. 7, 1997, 111 Stat. 1198, substituted “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate” in item 713.
 
-1991—Pub. L. 102–229, title II, § 210(e), Dec. 12, 1991, 105 Stat. 1717, substituted “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate.” for “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President.” in item 713.
+1991—Pub. L. 102–229, title II, § 210(e), Dec. 12, 1991, 105 Stat. 1717, substituted “Use of likenesses of the great seal of the United States, the seals of the President and Vice President, and the seal of the United States Senate.” for “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President.” in item 713.
 
-1990—Pub. L. 101–647, title XXXV, § 3518, Nov. 29, 1990, 104 Stat. 4923, inserted a comma after “INSIGNIA” in chapter heading.
+1990—Pub. L. 101–647, title XXXV, § 3518, Nov. 29, 1990, 104 Stat. 4923, inserted a comma after “INSIGNIA” in chapter heading.
 
-1982—Pub. L. 97–258, § 2(d)(1)(A), Sept. 13, 1982, 96 Stat. 1058, struck out item 714 relating to “Johnny Horizon” character or name.
+1982—Pub. L. 97–258, § 2(d)(1)(A), Sept. 13, 1982, 96 Stat. 1058, struck out item 714 relating to “Johnny Horizon” character or name.
 
-1974—Pub. L. 93–318, § 8, June 22, 1974, 88 Stat. 245, added item 711a.
+1974—Pub. L. 93–318, § 8, June 22, 1974, 88 Stat. 245, added item 711a.
 
-1973—Pub. L. 93–147, § 1(b), Nov. 3, 1973, 87 Stat. 555, substituted “Misuse of names, words, emblems, or insignia” for “Misuse of names by collecting agencies to indicate Federal agency” in item 712.
+1973—Pub. L. 93–147, § 1(b), Nov. 3, 1973, 87 Stat. 555, substituted “Misuse of names, words, emblems, or insignia” for “Misuse of names by collecting agencies to indicate Federal agency” in item 712.
 
-1972—Pub. L. 92–347, § 3(c), July 11, 1972, 86 Stat. 462, added item 715.
+1972—Pub. L. 92–347, § 3(c), July 11, 1972, 86 Stat. 462, added item 715.
 
-1971—Pub. L. 91–651, § 2, Jan. 5, 1971, 84 Stat. 1941, inserted “, and of the seals of the President and Vice President” after “United States” in item 713.
+1971—Pub. L. 91–651, § 2, Jan. 5, 1971, 84 Stat. 1941, inserted “, and of the seals of the President and Vice President” after “United States” in item 713.
 
-1970—Pub. L. 91–419, § 4, Sept. 25, 1970, 84 Stat. 871, added item 714.
+1970—Pub. L. 91–419, § 4, Sept. 25, 1970, 84 Stat. 871, added item 714.
 
-1968—Pub. L. 90–381, § 2, July 5, 1968, 82 Stat. 291, added item 700.
+1968—Pub. L. 90–381, § 2, July 5, 1968, 82 Stat. 291, added item 700.
 
-1966—Pub. L. 89–807, § 1(b), Nov. 11, 1966, 80 Stat. 1525, added item 713.
+1966—Pub. L. 89–807, § 1(b), Nov. 11, 1966, 80 Stat. 1525, added item 713.
 
-1959—Pub. L. 86–291, § 3, Sept. 21, 1959, 73 Stat. 570, added item 712.
+1959—Pub. L. 86–291, § 3, Sept. 21, 1959, 73 Stat. 570, added item 712.
 
-1952—Act May 23, 1952, ch. 327, § 2, 66 Stat. 92, added item 711.
+1952—Act May 23, 1952, ch. 327, § 2, 66 Stat. 92, added item 711.
 
-1950—Act Sept. 28, 1950, ch. 1092, § 1(a), 64 Stat. 1077, added item 710.
+1950—Act Sept. 28, 1950, ch. 1092, § 1(a), 64 Stat. 1077, added item 710.
 
-1949—Act May 24, 1949, ch. 139, § 14, 63 Stat. 91, inserted “Uniform of armed forces and Public Health Service” in lieu of enumerating the specific branches in item 702.
+1949—Act May 24, 1949, ch. 139, § 14, 63 Stat. 91, inserted “Uniform of armed forces and Public Health Service” in lieu of enumerating the specific branches in item 702.
 
-## § 700. Desecration of the flag of the United States; penalties
+## § 700. Desecration of the flag of the United States; penalties
 
 **(a)**
 
@@ -75,7 +75,7 @@ retrieved: 2026-10-11
 
 **(2)** The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal and advance on the docket and expedite to the greatest extent possible.
 
-(Added Pub. L. 90–381, § 1, July 5, 1968, 82 Stat. 291; amended Pub. L. 101–131, §§ 2, 3, Oct. 28, 1989, 103 Stat. 777.)
+(Added Pub. L. 90–381, § 1, July 5, 1968, 82 Stat. 291; amended Pub. L. 101–131, §§ 2, 3, Oct. 28, 1989, 103 Stat. 777.)
 
 **Editorial Notes**
 
@@ -85,21 +85,21 @@ For information regarding the constitutionality of this section as amended by Pu
 
 **Amendments**
 
-1989—Subsec. (a). Pub. L. 101–131, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly casts contempt upon any flag of the United States by publicly mutilating, defacing, defiling, burning, or trampling upon it shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
+1989—Subsec. (a). Pub. L. 101–131, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly casts contempt upon any flag of the United States by publicly mutilating, defacing, defiling, burning, or trampling upon it shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
-Subsec. (b). Pub. L. 101–131, § 2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The term ‘flag of the United States’ as used in this section, shall include any flag, standard colors, ensign, or any picture or representation of either, or of any part or parts of either, made of any substance or represented on any substance, of any size evidently purporting to be either of said flag, standard, color, or ensign of the United States of America, or a picture or a representation of either, upon which shall be shown the colors, the stars and the stripes, in any number of either thereof, or of any part or parts of either, by which the average person seeing the same without deliberation may believe the same to represent the flag, standards, colors, or ensign of the United States of America.”
+Subsec. (b). Pub. L. 101–131, § 2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The term ‘flag of the United States’ as used in this section, shall include any flag, standard colors, ensign, or any picture or representation of either, or of any part or parts of either, made of any substance or represented on any substance, of any size evidently purporting to be either of said flag, standard, color, or ensign of the United States of America, or a picture or a representation of either, upon which shall be shown the colors, the stars and the stripes, in any number of either thereof, or of any part or parts of either, by which the average person seeing the same without deliberation may believe the same to represent the flag, standards, colors, or ensign of the United States of America.”
 
-Subsec. (d). Pub. L. 101–131, § 3, added subsec. (d).
+Subsec. (d). Pub. L. 101–131, § 3, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–547, § 1, Dec. 19, 2000, 114 Stat. 2738, provided that: “This Act [enacting sections 716 and 1036 of this title] may be cited as the ‘Enhanced Federal Security Act of 2000’.”
+Pub. L. 106–547, § 1, Dec. 19, 2000, 114 Stat. 2738, provided that: “This Act [enacting sections 716 and 1036 of this title] may be cited as the ‘Enhanced Federal Security Act of 2000’.”
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–131, § 1, Oct. 28, 1989, 103 Stat. 777, provided that: “This Act [amending this section] may be cited as the ‘Flag Protection Act of 1989’.”
+Pub. L. 101–131, § 1, Oct. 28, 1989, 103 Stat. 777, provided that: “This Act [amending this section] may be cited as the ‘Flag Protection Act of 1989’.”
 
 **Executive Documents**
 
@@ -139,15 +139,15 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 701. Official badges, identification cards, other insignia
+## § 701. Official badges, identification cards, other insignia
 
 Whoever manufactures, sells, or possesses any badge, identification card, or other insignia, of the design prescribed by the head of any department or agency of the United States for use by any officer or employee thereof, or any colorable imitation thereof, or photographs, prints, or in any other manner makes or executes any engraving, photograph, print, or impression in the likeness of any such badge, identification card, or other insignia, or any colorable imitation thereof, except as authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 731; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 731; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 76a, 76b (June 29, 1932, ch. 306, §§ 1, 2, 47 Stat. 342; May 22, 1939, ch. 141, 53 Stat. 752).
+Based on title 18, U.S.C., 1940 ed., §§ 76a, 76b (June 29, 1932, ch. 306, §§ 1, 2, 47 Stat. 342; May 22, 1939, ch. 141, 53 Stat. 752).
 
 Sections were consolidated.
 
@@ -161,17 +161,17 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-## § 702. Uniform of armed forces and Public Health Service
+## § 702. Uniform of armed forces and Public Health Service
 
 Whoever, in any place within the jurisdiction of the United States or in the Canal Zone, without authority, wears the uniform or a distinctive part thereof or anything similar to a distinctive part of the uniform of any of the armed forces of the United States, Public Health Service or any auxiliary of such, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 15(a), 63 Stat. 91; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 15(a), 63 Stat. 91; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 1393 of title 10, U.S.C., 1940 ed., Army and Air Force, and section 228 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (June 3, 1916, ch. 134, § 125, 39 Stat. 216 (2d paragraph); July 1, 1944, ch. 373, § 510, 58 Stat. 711).
+Based on section 1393 of title 10, U.S.C., 1940 ed., Army and Air Force, and section 228 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (June 3, 1916, ch. 134, § 125, 39 Stat. 216 (2d paragraph); July 1, 1944, ch. 373, § 510, 58 Stat. 711).
 
 “Auxiliary of such” was inserted to extend protection to the uniforms of any auxiliary corps that may be established.
 
@@ -199,7 +199,7 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 **Change of Name**
 
-Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 **Executive Documents**
 
@@ -207,11 +207,11 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 703. Uniform of friendly nation
+## § 703. Uniform of friendly nation
 
 Whoever, within the jurisdiction of the United States, with intent to deceive or mislead, wears any naval, military, police, or other official uniform, decoration, or regalia of any foreign state, nation, or government with which the United States is at peace, or anything so nearly resembling the same as to be calculated to deceive, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 732; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
@@ -233,7 +233,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-## § 704. Military medals or decorations
+## § 704. Military medals or decorations
 
 **(a) In General.—** Whoever knowingly purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value any decoration or medal authorized by Congress for the armed forces of the United States, or any of the service medals or badges awarded to the members of such forces, or the ribbon, button, or rosette of any such badge, decoration or medal, or any colorable imitation thereof, except when authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -245,15 +245,15 @@ Minor changes were made in phraseology.
 
 **(2) Congressional medal of honor defined.—** In this subsection, the term “Congressional Medal of Honor” means—
 
-**(A)** a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 1
+**(A)** a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14;
 
-**(B)** a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 <sup>1</sup> of title 14; or
+**(B)** a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 <sup>1</sup> of title 14; or
 
-**(C)** a replacement of a medal of honor provided under section 7277, 8303, or 9277 of title 10 or section 501 <sup>1</sup> of title 14.
+**(C)** a replacement of a medal of honor provided under section 7277, 8303, or 9277 of title 10 or section 501 <sup>1</sup> of title 14.
 
 **(d) Enhanced Penalty for Offenses Involving Certain Other Medals.—**
 
@@ -261,7 +261,7 @@ of title 14;
 
 **(2) Combat badge defined.—** In this subsection, the term “combat badge” means a Combat Infantryman’s Badge, Combat Action Badge, Combat Medical Badge, Combat Action Ribbon, or Combat Action Medal.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 16, 63 Stat. 92; Pub. L. 103–322, title XXXII, § 320109, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, § 604(b)(16), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–107, div. A, title V, § 553(e), Dec. 28, 2001, 115 Stat. 1117; Pub. L. 109–437, § 3, Dec. 20, 2006, 120 Stat. 3266; Pub. L. 113–12, § 2, June 3, 2013, 127 Stat. 448; Pub. L. 115–232, div. A, title VIII, § 809(e)(1), Aug. 13, 2018, 132 Stat. 1841.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 16, 63 Stat. 92; Pub. L. 103–322, title XXXII, § 320109, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, § 604(b)(16), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–107, div. A, title V, § 553(e), Dec. 28, 2001, 115 Stat. 1117; Pub. L. 109–437, § 3, Dec. 20, 2006, 120 Stat. 3266; Pub. L. 113–12, § 2, June 3, 2013, 127 Stat. 448; Pub. L. 115–232, div. A, title VIII, § 809(e)(1), Aug. 13, 2018, 132 Stat. 1841.)
 
 **Historical and Revision Notes**
 
@@ -281,51 +281,51 @@ This section [section 16] clarifies the wording of section 704 of title 18, U.S.
 
 **References in Text**
 
-Sections 491, 501, and 504 of title 14, referred to in subsec. (c)(2), were redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Sections 491, 501, and 504 of title 14, referred to in subsec. (c)(2), were redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
-2018—Subsec. (c)(2)(A). Pub. L. 115–232, § 809(e)(1)(A)(i), substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
+2018—Subsec. (c)(2)(A). Pub. L. 115–232, § 809(e)(1)(A)(i), substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
 
-Subsec. (c)(2)(B). Pub. L. 115–232, § 809(e)(1)(A)(ii), substituted “section 7284, 8306, or 9284 of title 10” for “section 3754, 6256, or 8754 of title 10”.
+Subsec. (c)(2)(B). Pub. L. 115–232, § 809(e)(1)(A)(ii), substituted “section 7284, 8306, or 9284 of title 10” for “section 3754, 6256, or 8754 of title 10”.
 
-Subsec. (c)(2)(C). Pub. L. 115–232, § 809(e)(1)(A)(iii), substituted “section 7277, 8303, or 9277 of title 10” for “section 3747, 6253, or 8747 of title 10”.
+Subsec. (c)(2)(C). Pub. L. 115–232, § 809(e)(1)(A)(iii), substituted “section 7277, 8303, or 9277 of title 10” for “section 3747, 6253, or 8747 of title 10”.
 
-Subsec. (d)(1). Pub. L. 115–232, § 809(e)(1)(B), substituted “section 7272 of title 10” for “section 3742 of title 10”, “section 8292 of title 10” for “section 6242 of title 10”, “section 9272 of title 10” for “section 8742 of section 10”, and “section 7276, 8294, or 9276 of title 10” for “section 3746, 6244, or 8746 of title 10”.
+Subsec. (d)(1). Pub. L. 115–232, § 809(e)(1)(B), substituted “section 7272 of title 10” for “section 3742 of title 10”, “section 8292 of title 10” for “section 6242 of title 10”, “section 9272 of title 10” for “section 8742 of section 10”, and “section 7276, 8294, or 9276 of title 10” for “section 3746, 6244, or 8746 of title 10”.
 
-2013—Subsec. (a). Pub. L. 113–12, § 2(a)(1), struck out “wears,” after “Whoever knowingly”.
+2013—Subsec. (a). Pub. L. 113–12, § 2(a)(1), struck out “wears,” after “Whoever knowingly”.
 
-Subsec. (b). Pub. L. 113–12, § 2(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Whoever falsely represents himself or herself, verbally or in writing, to have been awarded any decoration or medal authorized by Congress for the Armed Forces of the United States, any of the service medals or badges awarded to the members of such forces, the ribbon, button, or rosette of any such badge, decoration, or medal, or any colorable imitation of such item shall be fined under this title, imprisoned not more than six months, or both.”
+Subsec. (b). Pub. L. 113–12, § 2(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Whoever falsely represents himself or herself, verbally or in writing, to have been awarded any decoration or medal authorized by Congress for the Armed Forces of the United States, any of the service medals or badges awarded to the members of such forces, the ribbon, button, or rosette of any such badge, decoration, or medal, or any colorable imitation of such item shall be fined under this title, imprisoned not more than six months, or both.”
 
-Subsec. (c)(1). Pub. L. 113–12, § 2(c), struck out “or (b)” after “subsection (a)”.
+Subsec. (c)(1). Pub. L. 113–12, § 2(c), struck out “or (b)” after “subsection (a)”.
 
-Subsec. (d). Pub. L. 113–12, § 2(b), designated existing provisions as par. (1), inserted heading, inserted “a combat badge,” after “1129 of title 10,”, and added par. (2).
+Subsec. (d). Pub. L. 113–12, § 2(b), designated existing provisions as par. (1), inserted heading, inserted “a combat badge,” after “1129 of title 10,”, and added par. (2).
 
-Subsec. (d)(1). Pub. L. 113–12, § 2(c), struck out “or (b)” after “subsection (a)”.
+Subsec. (d)(1). Pub. L. 113–12, § 2(c), struck out “or (b)” after “subsection (a)”.
 
-2006—Subsec. (a). Pub. L. 109–437, § 3(a), substituted “purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value” for “manufactures, or sells”.
+2006—Subsec. (a). Pub. L. 109–437, § 3(a), substituted “purchases, attempts to purchase, solicits for purchase, mails, ships, imports, exports, produces blank certificates of receipt for, manufactures, sells, attempts to sell, advertises for sale, trades, barters, or exchanges for anything of value” for “manufactures, or sells”.
 
-Subsec. (b). Pub. L. 109–437, § 3(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 109–437, § 3(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 109–437, § 3(b)(1), (d)(1), redesignated subsec. (b) as (c) and inserted “Enhanced Penalty for Offenses Involving” before “Congressional Medal of Honor” in heading.
+Subsec. (c). Pub. L. 109–437, § 3(b)(1), (d)(1), redesignated subsec. (b) as (c) and inserted “Enhanced Penalty for Offenses Involving” before “Congressional Medal of Honor” in heading.
 
-Subsec. (c)(1). Pub. L. 109–437, § 3(b)(3), inserted “or (b)” after “subsection (a)”.
+Subsec. (c)(1). Pub. L. 109–437, § 3(b)(3), inserted “or (b)” after “subsection (a)”.
 
-Subsec. (c)(2). Pub. L. 109–437, § 3(d)(2), added par. (2) and struck out former par. (2) which defined “sells” and “Congressional Medal of Honor”.
+Subsec. (c)(2). Pub. L. 109–437, § 3(d)(2), added par. (2) and struck out former par. (2) which defined “sells” and “Congressional Medal of Honor”.
 
-Subsec. (d). Pub. L. 109–437, § 3(c), added subsec. (d).
+Subsec. (d). Pub. L. 109–437, § 3(c), added subsec. (d).
 
 2001—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
 
-1996—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, § 320109(1). See 1994 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, § 320109(1). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–322, §§ 320109(2), 330016(1)(E), amended subsec. (a) identically, substituting “fined under this title” for “fined not more than $250”.
+1994—Subsec. (a). Pub. L. 103–322, §§ 320109(2), 330016(1)(E), amended subsec. (a) identically, substituting “fined under this title” for “fined not more than $250”.
 
-Pub. L. 103–322, § 320109(1), as amended by Pub. L. 104–294, § 604(b)(16), designated existing provisions as subsec. (a) and inserted heading.
+Pub. L. 103–322, § 320109(1), as amended by Pub. L. 104–294, § 604(b)(16), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (b). Pub. L. 103–322, § 320109(3), added subsec. (b).
+Subsec. (b). Pub. L. 103–322, § 320109(3), added subsec. (b).
 
-Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3741”.
+Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3741”.
 
 1949—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
 
@@ -333,7 +333,7 @@ Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3
 
 **References to Sections of Title 14 as Redesignated by Pub. L. 115–282**
 
-Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
+Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
 
 **Effective Date of 2018 Amendment**
 
@@ -345,7 +345,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Findings**
 
-Pub. L. 109–437, § 2, Dec. 20, 2006, 120 Stat. 3266, provided that:
+Pub. L. 109–437, § 2, Dec. 20, 2006, 120 Stat. 3266, provided that:
 
 > “Congress makes the following findings:
 
@@ -355,15 +355,15 @@ Pub. L. 109–437, § 2, Dec. 20, 2006, 120 Stat. 3266, provided that:
 
 > **“(3)** Legislative action is necessary to permit law enforcement officers to protect the reputation and meaning of military decorations and medals.”
 
-## § 705. Badge or medal of veterans’ organizations
+## § 705. Badge or medal of veterans’ organizations
 
 Whoever knowingly manufactures, reproduces, sells or purchases for resale, either separately or on or appended to, any article of merchandise manufactured or sold, any badge, medal, emblem, or other insignia or any colorable imitation thereof, of any veterans’ organization incorporated by enactment of Congress, or of any organization formally recognized by any such veterans’ organization as an auxiliary of such veterans’ organization, or knowingly prints, lithographs, engraves or otherwise reproduces on any poster, circular, periodical, magazine, newspaper, or other publication, or circulates or distributes any such printed matter bearing a reproduction of such badge, medal, emblem, or other insignia or any colorable imitation thereof, except when authorized under rules and regulations prescribed by any such organization, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; Aug. 4, 1950, ch. 578, 64 Stat. 413; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 732; Aug. 4, 1950, ch. 578, 64 Stat. 413; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 76e (June 25, 1940, ch. 426, 54 Stat. 571).
+Based on title 18, U.S.C., 1940 ed., § 76e (June 25, 1940, ch. 426, 54 Stat. 571).
 
 Words beginning the section are from the punishment provision of last sentence which was itself rewritten without surplusage.
 
@@ -377,7 +377,7 @@ Changes were made in phraseology.
 
 1950—Act Aug. 4, 1950, brought within the protection of this section emblems, badges, or insignia of auxiliary organizations of veteran’s organizations incorporated by an act of Congress.
 
-## § 706. Red Cross
+## § 706. Red Cross
 
 Whoever wears or displays the sign of the Red Cross or any insignia colored in imitation thereof for the fraudulent purpose of inducing the belief that he is a member of or an agent for the American National Red Cross; or
 
@@ -387,13 +387,13 @@ Shall be fined under this title or imprisoned not more than six months, or both.
 
 This section shall not make unlawful the use of any such emblem, sign, insignia or words which was lawful on the date of enactment of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 17, 63 Stat. 92; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, § 17, 63 Stat. 92; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 4 of title 36, Patriotic Societies and Observances (Jan. 5, 1905, ch. 23, § 4, 33 Stat. 600; June 23, 1910, ch. 372, § 1, 36 Stat. 604).
+Based on section 4 of title 36, Patriotic Societies and Observances (Jan. 5, 1905, ch. 23, § 4, 33 Stat. 600; June 23, 1910, ch. 372, § 1, 36 Stat. 604).
 
 False personation provision in first part of section was omitted here and incorporated in section 917 of this title.
 
@@ -421,13 +421,13 @@ The date of enactment of this title, referred to in text, means June 25, 1948.
 
 1949—Act May 24, 1949, included all service sanitary units.
 
-## § 706a. Geneva distinctive emblems
+## § 706a. Geneva distinctive emblems
 
 **(a)** Whoever wears or displays the sign of the Red Crescent or the Third Protocol Emblem (the Red Crystal), or any insignia colored in imitation thereof for the fraudulent purpose of inducing the belief that he is a member of or an agent for an authorized national society using the Red Crescent or the Third Protocol Emblem, the International Committee of the Red Cross, or the International Federation of Red Cross and Red Crescent Societies shall be fined under this title or imprisoned not more than 6 months, or both.
 
-**(b)** Except as set forth in section 1
+**(b)** Except as set forth in section 1
 
-<sup>1</sup>  So in original. Probably should be “subsections”.
+<sup>1</sup> So in original. Probably should be “subsections”.
 
 (c) and (d), whoever, whether a corporation, association, or person, uses the emblem of the Red Crescent or the Third Protocol Emblem on a white ground or any sign or insignia made or colored in imitation thereof or the designations “Red Crescent” or “Third Protocol Emblem” shall be fined under this title or imprisoned not more than 6 months, or both.
 
@@ -445,17 +445,17 @@ The date of enactment of this title, referred to in text, means June 25, 1948.
 
 **(e)** A violation of this section or section 706 may be enjoined at the civil suit of the Attorney General.
 
-(Added Pub. L. 109–481, § 2(a), Jan. 12, 2007, 120 Stat. 3673.)
+(Added Pub. L. 109–481, § 2(a), Jan. 12, 2007, 120 Stat. 3673.)
 
-## [§ 707. Repealed. Pub. L. 116–260, div. O, title X, § 1002(3), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 707. Repealed. Pub. L. 116–260, div. O, title X, § 1002(3), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, act June 25, 1948, ch. 645, 62 Stat. 733; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized the fraudulent use of the 4–H club emblem.
+Section, act June 25, 1948, ch. 645, 62 Stat. 733; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized the fraudulent use of the 4–H club emblem.
 
-## [§ 708. Repealed. Pub. L. 116–260, div. O, title X, § 1002(4), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 708. Repealed. Pub. L. 116–260, div. O, title X, § 1002(4), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, act June 25, 1948, ch. 645, 62 Stat. 733; Oct. 31, 1951, ch. 655, § 21a, 65 Stat. 719; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized certain uses of the Swiss Confederation coat of arms.
+Section, act June 25, 1948, ch. 645, 62 Stat. 733; Oct. 31, 1951, ch. 655, § 21a, 65 Stat. 719; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized certain uses of the Swiss Confederation coat of arms.
 
-## § 709. False advertising or misuse of names to indicate Federal agency
+## § 709. False advertising or misuse of names to indicate Federal agency
 
 Whoever, except as permitted by the laws of the United States, uses the words “national”, “Federal”, “United States”, “reserve”, or “Deposit Insurance” as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity engaged in the banking, loan, building and loan, brokerage, factorage, insurance, indemnity, savings or trust business; or
 
@@ -493,11 +493,11 @@ This section shall not make unlawful the use of the word “national” as part 
 
 A violation of this section may be enjoined at the suit of the United States Attorney, upon complaint by any duly authorized representative of any department or agency of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 21, 1950, ch. 967, § 3(a), 64 Stat. 894; Oct. 31, 1951, ch. 655, § 22, 65 Stat. 719; July 3, 1952, ch. 547, 66 Stat. 321; Aug. 2, 1954, ch. 649, title I, § 131, 68 Stat. 609; Aug. 27, 1954, ch. 1008, 68 Stat. 867; Pub. L. 90–19, § 24(b), May 25, 1967, 81 Stat. 27; Pub. L. 90–448, title VIII, § 807(i), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–468, § 5, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 95–630, title XVIII, § 1804, Nov. 10, 1978, 92 Stat. 3723; Pub. L. 99–204, § 16, Dec. 23, 1985, 99 Stat. 1676; Pub. L. 100–690, title VII, § 7079(a), Nov. 18, 1988, 102 Stat. 4406; Pub. L. 102–390, title II, § 223, Oct. 6, 1992, 106 Stat. 1629; Pub. L. 103–322, title XXXII, § 320911(a), title XXXIII, §§ 330004(3), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2127, 2141, 2148; Pub. L. 104–294, title VI, §§ 602(a), 604(b)(19), (41), Oct. 11, 1996, 110 Stat. 3503, 3507, 3509; Pub. L. 105–184, § 7, June 23, 1998, 112 Stat. 522; Pub. L. 107–273, div. B, title IV, § 4002(a)(10), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–254, div. F, title VI, § 1470(g), Oct. 5, 2018, 132 Stat. 3516.)
+(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 21, 1950, ch. 967, § 3(a), 64 Stat. 894; Oct. 31, 1951, ch. 655, § 22, 65 Stat. 719; July 3, 1952, ch. 547, 66 Stat. 321; Aug. 2, 1954, ch. 649, title I, § 131, 68 Stat. 609; Aug. 27, 1954, ch. 1008, 68 Stat. 867; Pub. L. 90–19, § 24(b), May 25, 1967, 81 Stat. 27; Pub. L. 90–448, title VIII, § 807(i), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–468, § 5, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 95–630, title XVIII, § 1804, Nov. 10, 1978, 92 Stat. 3723; Pub. L. 99–204, § 16, Dec. 23, 1985, 99 Stat. 1676; Pub. L. 100–690, title VII, § 7079(a), Nov. 18, 1988, 102 Stat. 4406; Pub. L. 102–390, title II, § 223, Oct. 6, 1992, 106 Stat. 1629; Pub. L. 103–322, title XXXII, § 320911(a), title XXXIII, §§ 330004(3), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2127, 2141, 2148; Pub. L. 104–294, title VI, §§ 602(a), 604(b)(19), (41), Oct. 11, 1996, 110 Stat. 3503, 3507, 3509; Pub. L. 105–184, § 7, June 23, 1998, 112 Stat. 522; Pub. L. 107–273, div. B, title IV, § 4002(a)(10), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–254, div. F, title VI, § 1470(g), Oct. 5, 2018, 132 Stat. 3516.)
 
 **Historical and Revision Notes**
 
-Based on sections 264(v)(1), 583, 584, 585, 586, 587, 1128, 1318, 1441(d), 1731(d) of title 12, U.S.C., 1940 ed., Banks and Banking, section 616(d) of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 1426 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (R.S. § 5243; Dec. 23, 1913, ch. 6, § 12B(v), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 211h, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216, 42 Stat. 1471; May 24, 1926, ch. 377, §§ 1–4, 44 Stat. 628; Jan. 22, 1932, ch. 8, § 16(d), 47 Stat. 12; July 22, 1932, ch. 522, § 21, 47 Stat. 738; June 27, 1934, ch. 847, § 512, 48 Stat. 1265; Aug. 23, 1935, ch. 614, §§ 101, 203a, 318, 332, 49 Stat. 684, 704, 712, 719; Apr. 21, 1936, ch. 244, 49 Stat. 1237; Sept. 1, 1937, ch. 896, § 26, 50 Stat. 899; Feb. 3, 1938, ch. 13, §§ 9, 10, 52 Stat. 24, 25; June 28, 1941, ch. 261, § 10, 55 Stat. 365).
+Based on sections 264(v)(1), 583, 584, 585, 586, 587, 1128, 1318, 1441(d), 1731(d) of title 12, U.S.C., 1940 ed., Banks and Banking, section 616(d) of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 1426 of title 42, U.S.C., 1940 ed., The Public Health and Welfare (R.S. § 5243; Dec. 23, 1913, ch. 6, § 12B(v), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 211h, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216, 42 Stat. 1471; May 24, 1926, ch. 377, §§ 1–4, 44 Stat. 628; Jan. 22, 1932, ch. 8, § 16(d), 47 Stat. 12; July 22, 1932, ch. 522, § 21, 47 Stat. 738; June 27, 1934, ch. 847, § 512, 48 Stat. 1265; Aug. 23, 1935, ch. 614, §§ 101, 203a, 318, 332, 49 Stat. 684, 704, 712, 719; Apr. 21, 1936, ch. 244, 49 Stat. 1237; Sept. 1, 1937, ch. 896, § 26, 50 Stat. 899; Feb. 3, 1938, ch. 13, §§ 9, 10, 52 Stat. 24, 25; June 28, 1941, ch. 261, § 10, 55 Stat. 365).
 
 Numerous sections were consolidated with changes both of phraseology and substance necessary to effect consolidation.
 
@@ -517,7 +517,7 @@ It was necessary to substitute a fine in place of a $50 per diem penalty for bus
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 Chapter 7 of Title 12, referred to in text, which contained the Federal Farm Loan Act (act July 17, 1916, ch. 245, 39 Stat. 360) was classified principally to section 641 et seq. of Title 12. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby “shall be deemed to refer to comparable provisions of this Act”. For further details, see notes under section 2001 of Title 12. For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
 
@@ -527,27 +527,27 @@ The date of enactment of this paragraph, referred to in penultimate par., means 
 
 **Amendments**
 
-2018—Pub. L. 115–254, in twelfth par., substituted “ ‘United States International Development Finance Corporation’ or ‘DFC’ ” for “ ‘Overseas Private Investment’, ‘Overseas Private Investment Corporation’, or ‘OPIC’,”.
+2018—Pub. L. 115–254, in twelfth par., substituted “ ‘United States International Development Finance Corporation’ or ‘DFC’ ” for “ ‘Overseas Private Investment’, ‘Overseas Private Investment Corporation’, or ‘OPIC’,”.
 
 2002—Pub. L. 107–273, in thirteenth par., substituted “Whoever” for “A person who” and inserted “or” at end.
 
 1998—Pub. L. 105–184 inserted fourteenth par. that extended prohibitions of section to unauthorized use of term “United States Marshals Service” or any colorable imitation, or likeness of a United States Marshals Service badge, logo, or insignia on any item of apparel.
 
-1996—Pub. L. 104–294, § 604(b)(41), amended directory language of Pub. L. 103–322, § 330004(3). See 1994 Amendment note below.
+1996—Pub. L. 104–294, § 604(b)(41), amended directory language of Pub. L. 103–322, § 330004(3). See 1994 Amendment note below.
 
-Pub. L. 104–294, § 604(b)(19), amended directory language of Pub. L. 103–322, § 320911(a). See 1994 Amendment notes below.
+Pub. L. 104–294, § 604(b)(19), amended directory language of Pub. L. 103–322, § 320911(a). See 1994 Amendment notes below.
 
-Pub. L. 104–294, § 602(a), which directed amendment of this section by striking out “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”, could not be executed because that language did not appear in text subsequent to amendment by Pub. L. 103–322, § 330004(3), as amended. See 1994 Amendment note below.
+Pub. L. 104–294, § 602(a), which directed amendment of this section by striking out “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”, could not be executed because that language did not appear in text subsequent to amendment by Pub. L. 103–322, § 330004(3), as amended. See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $1,000” in two places in par. relating to punishment.
+1994—Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $1,000” in two places in par. relating to punishment.
 
-Pub. L. 103–322, § 330004(3), struck out seventh par. which read as follows: “Whoever uses the words ‘National Agricultural Credit Corporation’ as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity not organized under the laws of the United States as a National Agricultural Credit Corporation; or”.
+Pub. L. 103–322, § 330004(3), struck out seventh par. which read as follows: “Whoever uses the words ‘National Agricultural Credit Corporation’ as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity not organized under the laws of the United States as a National Agricultural Credit Corporation; or”.
 
-Pub. L. 103–322, § 330004(3), as amended by Pub. L. 104–294, § 604(b)(41), struck out fourteenth par. which read as follows: “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”.
+Pub. L. 103–322, § 330004(3), as amended by Pub. L. 104–294, § 604(b)(41), struck out fourteenth par. which read as follows: “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”.
 
-Pub. L. 103–322, § 320911(a)(2), as amended by Pub. L. 104–294, § 604(b)(19), which directed the insertion of a new par. relating to use of the words “Drug Enforcement Administration” or the initials “DEA” after the fourteenth unnumbered par. was executed by inserting such par. after the twelfth par. relating to the Overseas Private Investment Corporation, to reflect the probable intent of Congress and amendments by Pub. L. 103–322, § 330004(3). See above.
+Pub. L. 103–322, § 320911(a)(2), as amended by Pub. L. 104–294, § 604(b)(19), which directed the insertion of a new par. relating to use of the words “Drug Enforcement Administration” or the initials “DEA” after the fourteenth unnumbered par. was executed by inserting such par. after the twelfth par. relating to the Overseas Private Investment Corporation, to reflect the probable intent of Congress and amendments by Pub. L. 103–322, § 330004(3). See above.
 
-Pub. L. 103–322, § 320911(a)(1), as amended by Pub. L. 104–294, § 604(b)(19), which directed the substitution of “words; or” for “words—” in the fourteenth unnumbered par., could not be executed because that par. was struck out by Pub. L. 103–322, § 330004(3). See above.
+Pub. L. 103–322, § 320911(a)(1), as amended by Pub. L. 104–294, § 604(b)(19), which directed the substitution of “words; or” for “words—” in the fourteenth unnumbered par., could not be executed because that par. was struck out by Pub. L. 103–322, § 330004(3). See above.
 
 1992—Pub. L. 102–390 inserted par. prohibiting unauthorized use of the terms “United States Mint” or “U.S. Mint”.
 
@@ -585,11 +585,11 @@ Amendment by section 604(b)(19), (41) of Pub. L. 104–294 effective Sept. 13, 1
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXII, § 320911(b), Sept. 13, 1994, 108 Stat. 2128, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on the date that is 90 days after the date of enactment of this Act [Sept. 13, 1994].”
+Pub. L. 103–322, title XXXII, § 320911(b), Sept. 13, 1994, 108 Stat. 2128, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on the date that is 90 days after the date of enactment of this Act [Sept. 13, 1994].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VII, § 7079(b), Nov. 18, 1988, 102 Stat. 4406, provided that: “This section [amending this section] shall take effect 90 days after the date of enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–690, title VII, § 7079(b), Nov. 18, 1988, 102 Stat. 4406, provided that: “This section [amending this section] shall take effect 90 days after the date of enactment of this Act [Nov. 18, 1988].”
 
 **Effective Date of 1978 Amendment**
 
@@ -601,7 +601,7 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 
 **Effective Date of 1950 Amendment**
 
-Act Sept. 21, 1950, ch. 967, § 3(b), 64 Stat. 894, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective on January 1, 1951.”
+Act Sept. 21, 1950, ch. 967, § 3(b), 64 Stat. 894, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective on January 1, 1951.”
 
 **Transfer of Functions**
 
@@ -619,11 +619,11 @@ For creation, succession, and principal office, see section 1717 of Title 12, Ba
 
 United States Housing Authority consolidated with other agencies into Housing and Home Finance Agency and name of Authority changed to Public Housing Administration by Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 710. Cremation urns for military use
+## § 710. Cremation urns for military use
 
 Whoever knowingly uses, manufactures, or sells any cremation urn of a design approved by the Secretary of Defense for use to retain the cremated remains of deceased members of the armed forces or an urn which is a colorable imitation of the approved design, except when authorized under regulation made pursuant to law, shall be fined under this title or imprisoned for not more than six months, or both.
 
-(Added Sept. 28, 1950, ch. 1092, § 1(b), 64 Stat. 1077; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Sept. 28, 1950, ch. 1092, § 1(b), 64 Stat. 1077; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -631,19 +631,19 @@ Whoever knowingly uses, manufactures, or sells any cremation urn of a design app
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-## [§ 711. Repealed. Pub. L. 116–260, div. O, title X, § 1002(5), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 711. Repealed. Pub. L. 116–260, div. O, title X, § 1002(5), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added May 23, 1952, ch. 327, § 1, 66 Stat. 92; amended Pub. L. 93–318, § 5, June 22, 1974, 88 Stat. 245; Pub. L. 103–322, title XXXIII, §§ 330004(4), 330016(1)(E), Sept. 13, 1994, 108 Stat. 2141, 2146, penalized unauthorized use of the “Smokey Bear” character or name.
+Section, added May 23, 1952, ch. 327, § 1, 66 Stat. 92; amended Pub. L. 93–318, § 5, June 22, 1974, 88 Stat. 245; Pub. L. 103–322, title XXXIII, §§ 330004(4), 330016(1)(E), Sept. 13, 1994, 108 Stat. 2141, 2146, penalized unauthorized use of the “Smokey Bear” character or name.
 
-## [§ 711a. Repealed. Pub. L. 116–260, div. O, title X, § 1002(6), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 711a. Repealed. Pub. L. 116–260, div. O, title X, § 1002(6), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added Pub. L. 93–318, § 6, June 22, 1974, 88 Stat. 245; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of the “Woodsy Owl” character, name, or slogan.
+Section, added Pub. L. 93–318, § 6, June 22, 1974, 88 Stat. 245; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of the “Woodsy Owl” character, name, or slogan.
 
-## § 712. Misuse of names, words, emblems, or insignia
+## § 712. Misuse of names, words, emblems, or insignia
 
 Whoever, in the course of collecting or aiding in the collection of private debts or obligations, or being engaged in furnishing private police, investigation, or other private detective services, uses or employs in any communication, correspondence, notice, advertisement, or circular the words “national”, “Federal”, or “United States”, the initials “U.S.”, or any emblem, insignia, or name, for the purpose of conveying and in a manner reasonably calculated to convey the false impression that such communication is from a department, agency, bureau, or instrumentality of the United States or in any manner represents the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 86–291, § 1, Sept. 21, 1959, 73 Stat. 570; amended Pub. L. 93–147, § 1(a), Nov. 3, 1973, 87 Stat. 554; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–291, § 1, Sept. 21, 1959, 73 Stat. 570; amended Pub. L. 93–147, § 1(a), Nov. 3, 1973, 87 Stat. 554; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -657,9 +657,9 @@ Whoever, in the course of collecting or aiding in the collection of private debt
 
 **Effective Date**
 
-Pub. L. 86–291, § 2, Sept. 21, 1959, 73 Stat. 570, provided that: “The provisions of this section [enacting this section] shall become effective sixty days from the enactment thereof [Sept. 21, 1959].”
+Pub. L. 86–291, § 2, Sept. 21, 1959, 73 Stat. 570, provided that: “The provisions of this section [enacting this section] shall become effective sixty days from the enactment thereof [Sept. 21, 1959].”
 
-## § 713. Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress
+## § 713. Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress
 
 **(a)** Whoever knowingly displays any printed or other likeness of the great seal of the United States, or of the seals of the President or the Vice President of the United States, or the seal of the United States Senate, or the seal of the United States House of Representatives, or the seal of the United States Congress, or any facsimile thereof, in, or in connection with, any advertisement, poster, circular, book, pamphlet, or other publication, public meeting, play, motion picture, telecast, or other production, or on any building, monument, or stationery, for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression of sponsorship or approval by the Government of the United States or by any department, agency, or instrumentality thereof, shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -681,29 +681,29 @@ Pub. L. 86–291, § 2, Sept. 21, 1959, 73 Stat. 570, provided that: “The pr
 
 **(4)** in the case of the seal of the United States Congress, upon complaint by the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly.
 
-(Added Pub. L. 89–807, § 1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, § 1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II, § 210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 105–55, title III, § 308(a)–(d), Oct. 7, 1997, 111 Stat. 1198.)
+(Added Pub. L. 89–807, § 1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, § 1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II, § 210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 105–55, title III, § 308(a)–(d), Oct. 7, 1997, 111 Stat. 1198.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Pub. L. 105–55, § 308(d), substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
+1997—Pub. L. 105–55, § 308(d), substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
 
-Subsec. (a). Pub. L. 105–55, § 308(a), inserted “or the seal of the United States House of Representatives, or the seal of the United States Congress,” after “Senate,”.
+Subsec. (a). Pub. L. 105–55, § 308(a), inserted “or the seal of the United States House of Representatives, or the seal of the United States Congress,” after “Senate,”.
 
-Subsecs. (d), (e). Pub. L. 105–55, § 308(b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+Subsecs. (d), (e). Pub. L. 105–55, § 308(b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-Subsec. (f). Pub. L. 105–55, § 308(b)(1), redesignated subsec. (d) as (f).
+Subsec. (f). Pub. L. 105–55, § 308(b)(1), redesignated subsec. (d) as (f).
 
-Subsec. (f)(3), (4). Pub. L. 105–55, § 308(c), added pars. (3) and (4).
+Subsec. (f)(3), (4). Pub. L. 105–55, § 308(c), added pars. (3) and (4).
 
 1994—Subsecs. (a) to (c). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-1991—Pub. L. 102–229, § 210(a), substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
+1991—Pub. L. 102–229, § 210(a), substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
 
-Subsec. (a). Pub. L. 102–229, § 210(b), inserted “or the seal of the United States Senate,” after “Vice President of the United States,”.
+Subsec. (a). Pub. L. 102–229, § 210(b), inserted “or the seal of the United States Senate,” after “Vice President of the United States,”.
 
-Subsecs. (c), (d). Pub. L. 102–229, § 210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: “A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States.”
+Subsecs. (c), (d). Pub. L. 102–229, § 210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: “A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States.”
 
 1971—Pub. L. 91–651 substituted “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President” for “Use of the great seal of the United States” in section catchline.
 
@@ -715,7 +715,7 @@ Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–651, § 3, Jan. 5, 1971, 84 Stat. 1941, provided that: “The amendments made by this Act [amending this section] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act [Jan. 5, 1971], until one year after the date of such enactment.”
+Pub. L. 91–651, § 3, Jan. 5, 1971, 84 Stat. 1941, provided that: “The amendments made by this Act [amending this section] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act [Jan. 5, 1971], until one year after the date of such enactment.”
 
 **Executive Documents**
 
@@ -745,29 +745,29 @@ Sec. 2. The manufacture, reproduction, sale, or purchase for resale, either sepa
 
 Richard Nixon.
 
-## [§ 714. Repealed. Pub. L. 97–258, § 2(d)(1)(B), Sept. 13, 1982, 96 Stat. 1058]
+## [§ 714. Repealed. Pub. L. 97–258, § 2(d)(1)(B), Sept. 13, 1982, 96 Stat. 1058]
 
-Section, added Pub. L. 91–419, § 3, Sept. 25, 1970, 84 Stat. 870, defined “Johnny Horizon” for purposes of Pub. L. 91–419.
+Section, added Pub. L. 91–419, § 3, Sept. 25, 1970, 84 Stat. 870, defined “Johnny Horizon” for purposes of Pub. L. 91–419.
 
-## [§ 715. Repealed. Pub. L. 116–260, div. O, title X, § 1002(7), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 715. Repealed. Pub. L. 116–260, div. O, title X, § 1002(7), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added Pub. L. 92–347, § 3(b), July 11, 1972, 86 Stat. 461; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of “The Golden Eagle Insignia”.
+Section, added Pub. L. 92–347, § 3(b), July 11, 1972, 86 Stat. 461; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146, penalized unauthorized use of “The Golden Eagle Insignia”.
 
-## § 716. Public employee insignia and uniform
+## § 716. Public employee insignia and uniform
 
 **(a)** Whoever—
 
 **(1)** knowingly transfers, transports, or receives, in interstate or foreign commerce, a counterfeit official insignia or uniform;
 
-**(2)** knowingly transfers, in interstate or foreign commerce, a genuine official insignia or uniform to an individual, knowing that such individual is not authorized to possess it under the law of the place in which the badge is the official official 1
+**(2)** knowingly transfers, in interstate or foreign commerce, a genuine official insignia or uniform to an individual, knowing that such individual is not authorized to possess it under the law of the place in which the badge is the official official 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 insignia or uniform;
 
 **(3)** knowingly receives a genuine official insignia or uniform in a transfer prohibited by paragraph (2); or
 
-**(4)** being a person not authorized to possess a genuine official insignia or uniform under the law of the place in which the badge is the official official <sup>1</sup> insignia or uniform, knowingly transports that badge in interstate or foreign commerce,
+**(4)** being a person not authorized to possess a genuine official insignia or uniform under the law of the place in which the badge is the official official <sup>1</sup> insignia or uniform, knowingly transports that badge in interstate or foreign commerce,
 
 shall be fined under this title or imprisoned not more than 6 months, or both.
 
@@ -785,9 +785,9 @@ shall be fined under this title or imprisoned not more than 6 months, or both.
 
 **(1)** the term “genuine police badge” means an official badge issued by public authority to identify an individual as a law enforcement officer having police powers;
 
-**(2)** the term “counterfeit police badge” means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and 2
+**(2)** the term “counterfeit police badge” means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(3)** the term “official insignia or uniform” means an article of distinctive clothing or insignia, including a badge, emblem or identification card, that is an indicium of the authority of a public employee;
 
@@ -801,28 +801,28 @@ shall be fined under this title or imprisoned not more than 6 months, or both.
 
 **(2)** for legitimate law enforcement purposes.
 
-(Added Pub. L. 106–547, § 3(a), Dec. 19, 2000, 114 Stat. 2739; amended Pub. L. 109–162, title XI, § 1191(a), Jan. 5, 2006, 119 Stat. 3128.)
+(Added Pub. L. 106–547, § 3(a), Dec. 19, 2000, 114 Stat. 2739; amended Pub. L. 109–162, title XI, § 1191(a), Jan. 5, 2006, 119 Stat. 3128.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–162, § 1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
+2006—Pub. L. 109–162, § 1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–162, § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
+Subsec. (a)(1). Pub. L. 109–162, § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
 
-Subsec. (a)(2). Pub. L. 109–162, § 1191(a)(1), (2), substituted “official insignia or uniform to” for “police badge to” and “official insignia or uniform;” for “badge of the police;”.
+Subsec. (a)(2). Pub. L. 109–162, § 1191(a)(1), (2), substituted “official insignia or uniform to” for “police badge to” and “official insignia or uniform;” for “badge of the police;”.
 
-Subsec. (a)(3). Pub. L. 109–162, § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
+Subsec. (a)(3). Pub. L. 109–162, § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
 
-Subsec. (a)(4). Pub. L. 109–162, § 1191(a)(1), (2), substituted “official insignia or uniform under” for “police badge under” and “official insignia or uniform,” for “badge of the police,”.
+Subsec. (a)(4). Pub. L. 109–162, § 1191(a)(1), (2), substituted “official insignia or uniform under” for “police badge under” and “official insignia or uniform,” for “badge of the police,”.
 
-Subsec. (b). Pub. L. 109–162, § 1191(a)(3)(C), which directed the insertion of “is not used to mislead or deceive, or” before “is used or intended” was executed by making the insertion before “is used or is intended”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–162, § 1191(a)(3)(C), which directed the insertion of “is not used to mislead or deceive, or” before “is used or intended” was executed by making the insertion before “is used or is intended”, to reflect the probable intent of Congress.
 
-Pub. L. 109–162, § 1191(a)(3)(A), (B), substituted “the insignia or uniform” for “the badge” and inserted “is other than a counterfeit insignia or uniform and” before “is used or is intended to be used”.
+Pub. L. 109–162, § 1191(a)(3)(A), (B), substituted “the insignia or uniform” for “the badge” and inserted “is other than a counterfeit insignia or uniform and” before “is used or is intended to be used”.
 
-Pub. L. 109–162, § 1191(a)(1), which directed substitution of “official insignia or uniform” for “police badge” could not be executed because the term “police badge” did not appear.
+Pub. L. 109–162, § 1191(a)(1), which directed substitution of “official insignia or uniform” for “police badge” could not be executed because the term “police badge” did not appear.
 
-Subsec. (c)(3) to (5). Pub. L. 109–162, § 1191(a)(4), added pars. (3) to (5).
+Subsec. (c)(3) to (5). Pub. L. 109–162, § 1191(a)(4), added pars. (3) to (5).
 
-Subsec. (d). Pub. L. 109–162, § 1191(a)(5), added subsec. (d).
+Subsec. (d). Pub. L. 109–162, § 1191(a)(5), added subsec. (d).

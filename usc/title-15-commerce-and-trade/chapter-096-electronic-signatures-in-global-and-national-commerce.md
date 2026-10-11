@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ELECTRONIC RECORDS AND SIGNATURES IN COMMERCE
 
-### § 7001. General rule of validity
+### § 7001. General rule of validity
 
 **(a) In general** Notwithstanding any statute, regulation, or other rule of law (other than this subchapter and subchapter II), with respect to any transaction in or affecting interstate or foreign commerce—
 
@@ -133,7 +133,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 **(3)** the agent or broker did not deviate from such procedures.
 
-(Pub. L. 106–229, title I, § 101, June 30, 2000, 114 Stat. 464.)
+(Pub. L. 106–229, title I, § 101, June 30, 2000, 114 Stat. 464.)
 
 **Editorial Notes**
 
@@ -147,7 +147,7 @@ For the effective date of this subchapter, referred to in subsec. (c)(5), see Ef
 
 **Effective Date**
 
-Pub. L. 106–229, title I, § 107, June 30, 2000, 114 Stat. 473, provided that:
+Pub. L. 106–229, title I, § 107, June 30, 2000, 114 Stat. 473, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title [enacting this subchapter] shall be effective on October 1, 2000.
 
@@ -173,9 +173,9 @@ Pub. L. 106–229, title I, § 107, June 30, 2000, 114 Stat. 473, provided tha
 
 **Short Title**
 
-Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Act [enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
+Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Act [enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
 
-### § 7002. Exemption to preemption
+### § 7002. Exemption to preemption
 
 **(a) In general** A State statute, regulation, or other rule of law may modify, limit, or supersede the provisions of section 7001 of this title with respect to State law only if such statute, regulation, or rule of law—
 
@@ -199,7 +199,7 @@ Subsection (a)(2)(A)(ii) shall not apply to the statutes, regulations, or other 
 
 Subsection (a) does not permit a State to circumvent this subchapter or subchapter II through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
 
-(Pub. L. 106–229, title I, § 102, June 30, 2000, 114 Stat. 467.)
+(Pub. L. 106–229, title I, § 102, June 30, 2000, 114 Stat. 467.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,7 +207,7 @@ Subsection (a) does not permit a State to circumvent this subchapter or subchapt
 
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under section 7001 of this title.
 
-### § 7003. Specific exceptions
+### § 7003. Specific exceptions
 
 **(a) Excepted requirements** The provisions of section 7001 of this title shall not apply to a contract or other record to the extent it is governed by—
 
@@ -243,7 +243,7 @@ The Secretary of Commerce, acting through the Assistant Secretary for Communicat
 
 If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of section 7001 of this title to the exceptions identified in such finding.
 
-(Pub. L. 106–229, title I, § 103, June 30, 2000, 114 Stat. 468.)
+(Pub. L. 106–229, title I, § 103, June 30, 2000, 114 Stat. 468.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,7 +251,7 @@ If a Federal regulatory agency, with respect to matter within its jurisdiction, 
 
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under section 7001 of this title.
 
-### § 7004. Applicability to Federal and State governments
+### § 7004. Applicability to Federal and State governments
 
 **(a) Filing and access requirements**
 
@@ -325,7 +325,7 @@ Within 30 days after June 30, 2000, the Securities and Exchange Commission shall
 
 The Federal Communications Commission shall not hold any contract for telecommunications service or letter of agency for a preferred carrier change, that otherwise complies with the Commission’s rules, to be legally ineffective, invalid, or unenforceable solely because an electronic record or electronic signature was used in its formation or authorization.
 
-(Pub. L. 106–229, title I, § 104, June 30, 2000, 114 Stat. 469.)
+(Pub. L. 106–229, title I, § 104, June 30, 2000, 114 Stat. 469.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of
 
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under section 7001 of this title.
 
-### § 7005. Studies
+### § 7005. Studies
 
 **(a) Delivery**
 
@@ -351,7 +351,7 @@ Within 12 months after June 30, 2000, the Secretary of Commerce shall conduct an
 
 Within 12 months after June 30, 2000, the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by section 7001(c)(1)(C)(ii) of this title; any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by section 7001(c)(1)(C)(ii) of this title would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.
 
-(Pub. L. 106–229, title I, § 105, June 30, 2000, 114 Stat. 471.)
+(Pub. L. 106–229, title I, § 105, June 30, 2000, 114 Stat. 471.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -359,7 +359,7 @@ Within 12 months after June 30, 2000, the Secretary of Commerce and the Federal 
 
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under section 7001 of this title.
 
-### § 7006. Definitions
+### § 7006. Definitions
 
 For purposes of this subchapter:
 
@@ -417,7 +417,7 @@ The term “State” includes the District of Columbia and the territories and p
 
 **(B)** the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.
 
-(Pub. L. 106–229, title I, § 106, June 30, 2000, 114 Stat. 472.)
+(Pub. L. 106–229, title I, § 106, June 30, 2000, 114 Stat. 472.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -427,7 +427,7 @@ Section effective Oct. 1, 2000, with exceptions relating to record retention and
 
 ## SUBCHAPTER II—TRANSFERABLE RECORDS
 
-### § 7021. Transferable records
+### § 7021. Transferable records
 
 **(a) Definitions** For purposes of this section:
 
@@ -483,17 +483,17 @@ If requested by a person against which enforcement is sought, the person seeking
 
 For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.
 
-(Pub. L. 106–229, title II, § 201, June 30, 2000, 114 Stat. 473.)
+(Pub. L. 106–229, title II, § 201, June 30, 2000, 114 Stat. 473.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–229, title II, § 202, June 30, 2000, 114 Stat. 475, provided that: “This title [enacting this subchapter] shall be effective 90 days after the date of enactment of this Act [June 30, 2000].”
+Pub. L. 106–229, title II, § 202, June 30, 2000, 114 Stat. 475, provided that: “This title [enacting this subchapter] shall be effective 90 days after the date of enactment of this Act [June 30, 2000].”
 
 ## SUBCHAPTER III—PROMOTION OF INTERNATIONAL ELECTRONIC COMMERCE
 
-### § 7031. Principles governing the use of electronic signatures in international transactions
+### § 7031. Principles governing the use of electronic signatures in international transactions
 
 **(a) Promotion of electronic signatures**
 
@@ -519,4 +519,4 @@ In conducting the activities required by this section, the Secretary shall consu
 
 As used in this section, the terms “electronic record” and “electronic signature” have the same meanings provided in section 7006 of this title.
 
-(Pub. L. 106–229, title III, § 301, June 30, 2000, 114 Stat. 475.)
+(Pub. L. 106–229, title III, § 301, June 30, 2000, 114 Stat. 475.)

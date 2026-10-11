@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–222, § 3(b)(1), Sept. 28, 2016, 130 Stat. 853, added item 1605B.
+2016—Pub. L. 114–222, § 3(b)(1), Sept. 28, 2016, 130 Stat. 853, added item 1605B.
 
-2008—Pub. L. 110–181, div. A, title X, § 1083(a)(2), Jan. 28, 2008, 122 Stat. 341, added item 1605A.
+2008—Pub. L. 110–181, div. A, title X, § 1083(a)(2), Jan. 28, 2008, 122 Stat. 341, added item 1605A.
 
-## § 1602. Findings and declaration of purpose
+## § 1602. Findings and declaration of purpose
 
 The Congress finds that the determination by United States courts of the claims of foreign states to immunity from the jurisdiction of such courts would serve the interests of justice and would protect the rights of both foreign states and litigants in United States courts. Under international law, states are not immune from the jurisdiction of foreign courts insofar as their commercial activities are concerned, and their commercial property may be levied upon for the satisfaction of judgments rendered against them in connection with their commercial activities. Claims of foreign states to immunity should henceforth be decided by courts of the United States and of the States in conformity with the principles set forth in this chapter.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 94–583, § 8, Oct. 21, 1976, 90 Stat. 2898, provided that: “This Act [enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title] shall take effect ninety days after the date of its enactment [Oct. 21, 1976].”
+Pub. L. 94–583, § 8, Oct. 21, 1976, 90 Stat. 2898, provided that: “This Act [enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title] shall take effect ninety days after the date of its enactment [Oct. 21, 1976].”
 
 **Short Title**
 
@@ -41,9 +41,9 @@ For short title of Pub. L. 94–583 as the “Foreign Sovereign Immunities Act o
 
 **Separability**
 
-Pub. L. 94–583, § 7, Oct. 21, 1976, 90 Stat. 2898, provided that: “If any provision of this Act [enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.”
+Pub. L. 94–583, § 7, Oct. 21, 1976, 90 Stat. 2898, provided that: “If any provision of this Act [enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.”
 
-## § 1603. Definitions
+## § 1603. Definitions
 
 For purposes of this chapter—
 
@@ -63,7 +63,7 @@ For purposes of this chapter—
 
 **(e)** A “commercial activity carried on in the United States by a foreign state” means commercial activity carried on by such state and having substantial contact with the United States.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 109–2, § 4(b)(2), Feb. 18, 2005, 119 Stat. 12.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 109–2, § 4(b)(2), Feb. 18, 2005, 119 Stat. 12.)
 
 **Editorial Notes**
 
@@ -81,11 +81,11 @@ Amendment by Pub. L. 109–2 applicable to any civil action commenced on or afte
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1604. Immunity of a foreign state from jurisdiction
+## § 1604. Immunity of a foreign state from jurisdiction
 
 Subject to existing international agreements to which the United States is a party at the time of enactment of this Act a foreign state shall be immune from the jurisdiction of the courts of the United States and of the States except as provided in sections 1605 to 1607 of this chapter.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892.)
 
 **Editorial Notes**
 
@@ -99,7 +99,7 @@ The time of enactment of this Act, referred to in text, probably means the time 
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1605. General exceptions to the jurisdictional immunity of a foreign state
+## § 1605. General exceptions to the jurisdictional immunity of a foreign state
 
 **(a)** A foreign state shall not be immune from the jurisdiction of courts of the United States or of the States in any case—
 
@@ -129,7 +129,7 @@ Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583
 
 **(d)** A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
-**[(e)** , (f) Repealed. Pub. L. 110–181, div. A, title X, § 1083(b)(1)(B), Jan. 28, 2008, 122 Stat. 341.]
+**[(e)** , (f) Repealed. Pub. L. 110–181, div. A, title X, § 1083(b)(1)(B), Jan. 28, 2008, 122 Stat. 341.]
 
 **(g) Limitation on Discovery.—**
 
@@ -209,7 +209,7 @@ any activity in the United States of such foreign state, or of any carrier, that
 
 **(C)** the term “covered period” means the period beginning on January 30, 1933, and ending on May 8, 1945.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, § 1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, § 2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, § 325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, § 221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, § 626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, § 208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, § 17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, § 1083(b)(1), Jan. 28, 2008, 122 Stat. 341; Pub. L. 114–222, § 3(b)(2), Sept. 28, 2016, 130 Stat. 853; Pub. L. 114–319, § 2(a), Dec. 16, 2016, 130 Stat. 1618.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, § 1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, § 2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, § 325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, § 221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, § 626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, § 208, Jan. 10, 2002, 115 Stat. 2299; Pub. L. 109–304, § 17(f)(2), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 110–181, div. A, title X, § 1083(b)(1), Jan. 28, 2008, 122 Stat. 341; Pub. L. 114–222, § 3(b)(2), Sept. 28, 2016, 130 Stat. 853; Pub. L. 114–319, § 2(a), Dec. 16, 2016, 130 Stat. 1618.)
 
 **Editorial Notes**
 
@@ -223,11 +223,11 @@ Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in su
 
 Subsec. (h). Pub. L. 114–319 added subsec. (h).
 
-2008—Subsec. (a)(7). Pub. L. 110–181, § 1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
+2008—Subsec. (a)(7). Pub. L. 110–181, § 1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
 
-Subsecs. (e), (f). Pub. L. 110–181, § 1083(b)(1)(B), struck out subsecs. (e) and (f) which defined “torture”, “extrajudicial killing”, “hostage taking”, and “aircraft sabotage” and provided for a 10-year statute of limitations for actions brought under former subsec. (a)(7) of this section.
+Subsecs. (e), (f). Pub. L. 110–181, § 1083(b)(1)(B), struck out subsecs. (e) and (f) which defined “torture”, “extrajudicial killing”, “hostage taking”, and “aircraft sabotage” and provided for a 10-year statute of limitations for actions brought under former subsec. (a)(7) of this section.
 
-Subsec. (g)(1)(A). Pub. L. 110–181, § 1083(b)(1)(C), substituted “but for section 1605A” for “but for subsection (a)(7)”.
+Subsec. (g)(1)(A). Pub. L. 110–181, § 1083(b)(1)(C), substituted “but for section 1605A” for “but for subsection (a)(7)”.
 
 2006—Subsec. (d). Pub. L. 109–304 substituted “section 31301 of title 46” and “chapter 313 of title 46” for “the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following)” and “that Act”, respectively.
 
@@ -237,27 +237,27 @@ Subsec. (g)(1)(A). Pub. L. 110–181, § 1083(b)(1)(C), substituted “but for
 
 1997—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 
-1996—Subsec. (a)(7). Pub. L. 104–132, § 221(a)(1), added par. (7).
+1996—Subsec. (a)(7). Pub. L. 104–132, § 221(a)(1), added par. (7).
 
-Subsecs. (e) to (g). Pub. L. 104–132, § 221(a)(2), added subsecs. (e) to (g).
+Subsecs. (e) to (g). Pub. L. 104–132, § 221(a)(2), added subsecs. (e) to (g).
 
 1990—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
 1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
-Subsec. (b). Pub. L. 100–702, § 1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: *Provided*, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
+Subsec. (b). Pub. L. 100–702, § 1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: *Provided*, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
-Subsec. (b)(1). Pub. L. 100–640, § 1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
+Subsec. (b)(1). Pub. L. 100–640, § 1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
 
-Subsec. (b)(2). Pub. L. 100–640, § 1(2), substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
+Subsec. (b)(2). Pub. L. 100–640, § 1(2), substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
 
-Subsecs. (c), (d). Pub. L. 100–702, § 1(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 100–702, § 1(3), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–319, § 2(b), Dec. 16, 2016, 130 Stat. 1619, provided that: “The amendment made by this section [amending this section] shall apply to any civil action commenced on or after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–319, § 2(b), Dec. 16, 2016, 130 Stat. 1619, provided that: “The amendment made by this section [amending this section] shall apply to any civil action commenced on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 of Pub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
 
@@ -271,11 +271,11 @@ Pub. L. 105–11 provided that the amendment made by that Act was effective with
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–132, title II, § 221(c), Apr. 24, 1996, 110 Stat. 1243, provided that: “The amendments made by this subtitle [subtitle B (§ 221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act [Apr. 24, 1996].”
+Pub. L. 104–132, title II, § 221(c), Apr. 24, 1996, 110 Stat. 1243, provided that: “The amendments made by this subtitle [subtitle B (§ 221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act [Apr. 24, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–640, § 3, Nov. 9, 1988, 102 Stat. 3334, provided that: “The amendments made by this Act [amending this section and section 1610 of this title] shall apply to actions commenced on or after the date of the enactment of this Act [Nov. 9, 1988].”
+Pub. L. 100–640, § 3, Nov. 9, 1988, 102 Stat. 3334, provided that: “The amendments made by this Act [amending this section and section 1610 of this title] shall apply to actions commenced on or after the date of the enactment of this Act [Nov. 9, 1988].”
 
 **Effective Date**
 
@@ -283,17 +283,17 @@ Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583
 
 **Notification**
 
-Pub. L. 114–319, § 3, Dec. 16, 2016, 130 Stat. 1620, provided that: “The Secretary of State shall ensure that foreign states that apply for immunity under Public Law 89–259 (22 U.S.C. 2459) are appropriately notified of the text of this Act [amending this section and enacting provisions set out as notes under this section and section 1 of this title].”
+Pub. L. 114–319, § 3, Dec. 16, 2016, 130 Stat. 1620, provided that: “The Secretary of State shall ensure that foreign states that apply for immunity under Public Law 89–259 (22 U.S.C. 2459) are appropriately notified of the text of this Act [amending this section and enacting provisions set out as notes under this section and section 1 of this title].”
 
 **Civil Liability for Acts of State Sponsored Terrorism**
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 589], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
+Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 589], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
 > **“(a)** an [sic] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated [sic] under [former] section 6(j) of the Export Administration Act of 1979 [former 50 U.S.C. 4605(j)] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national’s legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under [former] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in [former] section 1605(a)(7).
 
 > **“(b)** Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action [sic] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
 
-## § 1605A. Terrorism exception to the jurisdictional immunity of a foreign state
+## § 1605A. Terrorism exception to the jurisdictional immunity of a foreign state
 
 **(a) In General.—**
 
@@ -347,7 +347,7 @@ for personal injury or death caused by acts described in subsection (a)(1) of th
 
 **(2) Transfer of funds.—** The Attorney General shall transfer, from funds available for the program under section 1404C of the Victims of Crime Act of 1984 (42 U.S.C. 10603c),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to the Administrator of the United States district court in which any case is pending which has been brought or maintained under this section such funds as may be required to cover the costs of special masters appointed under paragraph (1). Any amount paid in compensation to any such special master shall constitute an item of court costs.
 
@@ -383,7 +383,7 @@ to the Administrator of the United States district court in which any case is pe
 
 **(7)** the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 (28 U.S.C. 1350 note).
 
-(Added Pub. L. 110–181, div. A, title X, § 1083(a)(1), Jan. 28, 2008, 122 Stat. 338.)
+(Added Pub. L. 110–181, div. A, title X, § 1083(a)(1), Jan. 28, 2008, 122 Stat. 338.)
 
 **Editorial Notes**
 
@@ -393,11 +393,11 @@ Section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008, 
 
 The enactment of this section and the date of the enactment of this section, referred to in subsecs. (a)(2)(A)(i)(II) and (b), refers to the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
-Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 589], which is set out as a note under section 1605 of this title.
+Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 589], which is set out as a note under section 1605 of this title.
 
 Section 1404C of the Victims of Crime Act of 1984, referred to in subsec. (e)(2), is section 1404C of chapter XIV of title II of Pub. L. 98–473, which was classified to section 10603c of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20106 of Title 34, Crime Control and Law Enforcement.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (h)(7), is section 3 of Pub. L. 102–256, which is set out as a note under section 1350 of this title.
 
@@ -405,7 +405,7 @@ Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (
 
 **Effective Date**
 
-Pub. L. 110–181, div. A, title X, § 1083(c), Jan. 28, 2008, 122 Stat. 342, provided that:
+Pub. L. 110–181, div. A, title X, § 1083(c), Jan. 28, 2008, 122 Stat. 342, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement] shall apply to any claim arising under section 1605A of title 28, United States Code.
 
@@ -451,7 +451,7 @@ Pub. L. 110–181, div. A, title X, § 1083(c), Jan. 28, 2008, 122 Stat. 342, 
 
 **Severability**
 
-Pub. L. 110–181, div. A, title X, § 1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: “If any provision of this section [enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Pub. L. 110–181, div. A, title X, § 1083(e), Jan. 28, 2008, 122 Stat. 344, provided that: “If any provision of this section [enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
 **Sudan Claims Resolution**
 
@@ -723,7 +723,7 @@ Pub. L. 110–301, Aug. 4, 2008, 122 Stat. 2999, provided that:
 
 > **“(A)** Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, [former] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or [former] 1605(a)(7)) of title 28, United States Code;
 
-> **“(B)** section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 [Pub. L. 104–208, div. A, title I, § 101(c)] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
+> **“(B)** section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 [Pub. L. 104–208, div. A, title I, § 101(c)] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
 > **“(C)** any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
@@ -743,7 +743,7 @@ Pub. L. 110–301, Aug. 4, 2008, 122 Stat. 2999, provided that:
 
 **Applicability to Iraq**
 
-Pub. L. 110–181, div. A, title X, § 1083(d), Jan. 28, 2008, 122 Stat. 343, provided that:
+Pub. L. 110–181, div. A, title X, § 1083(d), Jan. 28, 2008, 122 Stat. 343, provided that:
 
 > **“(1) Applicability.—** The President may waive any provision of this section [enacting this section and amending sections 1605, 1607 and 1610 of this title and section 20104 of Title 34, Crime Control and Law Enforcement] with respect to Iraq, insofar as that provision may, in the President’s determination, affect Iraq or any agency or instrumentality thereof, if the President determines that—
 
@@ -817,13 +817,13 @@ Memorandum for the Secretary of State
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 1083(d) of the National Defense Authorization Act for Fiscal Year 2008 (the “Act”), I hereby determine that:
 
-• All provisions of section 1083 of the Act, if applied to Iraq or any agency or instrumentality thereof, may affect Iraq or its agencies or instrumentalities, by exposing Iraq or its agencies or instrumentalities to liability in United States courts and by entangling their assets in litigation.
+• All provisions of section 1083 of the Act, if applied to Iraq or any agency or instrumentality thereof, may affect Iraq or its agencies or instrumentalities, by exposing Iraq or its agencies or instrumentalities to liability in United States courts and by entangling their assets in litigation.
 
-• The economic security and successful reconstruction of Iraq continue to be top national security priorities of the United States. Section 1083 of the Act threatens those key priorities. If permitted to apply to Iraq, section 1083 would risk the entanglement of substantial Iraqi assets in litigation in the United States—including those of the Development Fund for Iraq, the Central Bank of Iraq, and commercial entities in the United States in which Iraq has an interest. Section 1083 also would expose Iraq to new liability of at least several billion dollars by undoing judgments favorable to Iraq, by foreclosing available defenses on which Iraq is relying in pending litigation, and by creating a new Federal cause of action backed by the prospect of punitive damages to support claims that may previously have been foreclosed. If permitted to apply to Iraq, section 1083 would have a significant financial impact on Iraq and would result in the redirection of financial resources from the continued reconstruction of Iraq and the harming of Iraq’s stability, contrary to the interests of the United States.
+• The economic security and successful reconstruction of Iraq continue to be top national security priorities of the United States. Section 1083 of the Act threatens those key priorities. If permitted to apply to Iraq, section 1083 would risk the entanglement of substantial Iraqi assets in litigation in the United States—including those of the Development Fund for Iraq, the Central Bank of Iraq, and commercial entities in the United States in which Iraq has an interest. Section 1083 also would expose Iraq to new liability of at least several billion dollars by undoing judgments favorable to Iraq, by foreclosing available defenses on which Iraq is relying in pending litigation, and by creating a new Federal cause of action backed by the prospect of punitive damages to support claims that may previously have been foreclosed. If permitted to apply to Iraq, section 1083 would have a significant financial impact on Iraq and would result in the redirection of financial resources from the continued reconstruction of Iraq and the harming of Iraq’s stability, contrary to the interests of the United States.
 
-• A waiver of all provisions of section 1083 with respect to Iraq and any agency or instrumentality of Iraq is therefore in the national security interest of the United States and will promote the reconstruction of, the consolidation of democracy in, and the relations of the United States with, Iraq.
+• A waiver of all provisions of section 1083 with respect to Iraq and any agency or instrumentality of Iraq is therefore in the national security interest of the United States and will promote the reconstruction of, the consolidation of democracy in, and the relations of the United States with, Iraq.
 
-• Iraq continues to be a reliable ally of the United States and a partner in combating acts of international terrorism. The November 26, 2007, Declaration of Principles for a Long-Term Relationship of Cooperation and Friendship between the Republic of Iraq and the United States of America confirmed the commitment of the United States and Iraq to build an enduring relationship in the political, diplomatic, economic, and security arenas and to work together to combat all terrorist groups, including al-Qaida.
+• Iraq continues to be a reliable ally of the United States and a partner in combating acts of international terrorism. The November 26, 2007, Declaration of Principles for a Long-Term Relationship of Cooperation and Friendship between the Republic of Iraq and the United States of America confirmed the commitment of the United States and Iraq to build an enduring relationship in the political, diplomatic, economic, and security arenas and to work together to combat all terrorist groups, including al-Qaida.
 
 Accordingly, I hereby waive all provisions of section 1083 of the Act with respect to Iraq and any agency or instrumentality thereof.
 
@@ -831,7 +831,7 @@ You are authorized and directed to notify the Congress of this determination and
 
 George W. Bush.
 
-## § 1605B. Responsibility of foreign states for international terrorism against the United States
+## § 1605B. Responsibility of foreign states for international terrorism against the United States
 
 **(a) Definition.—** In this section, the term “international terrorism”—
 
@@ -849,7 +849,7 @@ George W. Bush.
 
 **(d) Rule of Construction.—** A foreign state shall not be subject to the jurisdiction of the courts of the United States under subsection (b) on the basis of an omission or a tortious act or acts that constitute mere negligence.
 
-(Added Pub. L. 114–222, § 3(a), Sept. 28, 2016, 130 Stat. 853.)
+(Added Pub. L. 114–222, § 3(a), Sept. 28, 2016, 130 Stat. 853.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -859,7 +859,7 @@ Section applicable to any civil action pending on, or commenced on or after, Sep
 
 **Stay of Actions Pending State Negotiations**
 
-Pub. L. 114–222, § 5, Sept. 28, 2016, 130 Stat. 854, provided that:
+Pub. L. 114–222, § 5, Sept. 28, 2016, 130 Stat. 854, provided that:
 
 > **“(a) Exclusive Jurisdiction.—** The courts of the United States shall have exclusive jurisdiction in any action in which a foreign state is subject to the jurisdiction of a court of the United States under section 1605B of title 28, United States Code, as added by section 3(a) of this Act.
 
@@ -879,31 +879,31 @@ Pub. L. 114–222, § 5, Sept. 28, 2016, 130 Stat. 854, provided that:
 
 > **“(ii) Recertification.—** A court shall grant an extension under clause (i) if the Secretary of State recertifies that the United States remains engaged in good faith discussions with the foreign state defendant concerning the resolution of the claims against the foreign state, or any other parties as to whom a stay of claims is sought.”
 
-## § 1606. Extent of liability
+## § 1606. Extent of liability
 
 As to any claim for relief with respect to which a foreign state is not entitled to immunity under section 1605 or 1607 of this chapter, the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances; but a foreign state except for an agency or instrumentality thereof shall not be liable for punitive damages; if, however, in any case wherein death was caused, the law of the place where the action or omission occurred provides, or has been construed to provide, for damages only punitive in nature, the foreign state shall be liable for actual or compensatory damages measured by the pecuniary injuries resulting from such death which were incurred by the persons for whose benefit the action was brought.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894; amended Pub. L. 105–277, div. A, § 101(h) [title I, § 117(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, § 2002(g)(2), formerly § 2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(2), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894; amended Pub. L. 105–277, div. A, § 101(h) [title I, § 117(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, § 2002(g)(2), formerly § 2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(2), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–386, § 2002(g)(2), formerly § 2002(f)(2), as renumbered by Pub. L. 107–297, which directed repeal of section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, was executed by striking out “, except any action under section 1605(a)(7) or 1610(f)” after “punitive damages”, to reflect the probable intent of Congress. See 1998 Amendment note below.
+2000—Pub. L. 106–386, § 2002(g)(2), formerly § 2002(f)(2), as renumbered by Pub. L. 107–297, which directed repeal of section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, was executed by striking out “, except any action under section 1605(a)(7) or 1610(f)” after “punitive damages”, to reflect the probable intent of Congress. See 1998 Amendment note below.
 
-1998—Pub. L. 105–277 inserted “, except any action under section 1605(a)(7) or 1610(f)” after “punitive damages”.
+1998—Pub. L. 105–277 inserted “, except any action under section 1605(a)(7) or 1610(f)” after “punitive damages”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Amendment by Pub. L. 105–277 applicable to any claim for which a foreign state is not immune under section 1605(a)(7) of this title arising before, on, or after Oct. 21, 1998, see section 101(h) [title I, § 117(c)] of Pub. L. 105–277, set out as a note under section 1610 of this title.
+Amendment by Pub. L. 105–277 applicable to any claim for which a foreign state is not immune under section 1605(a)(7) of this title arising before, on, or after Oct. 21, 1998, see section 101(h) [title I, § 117(c)] of Pub. L. 105–277, set out as a note under section 1610 of this title.
 
 **Effective Date**
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1607. Counterclaims
+## § 1607. Counterclaims
 
 In any action brought by a foreign state, or in which a foreign state intervenes, in a court of the United States or of a State, the foreign state shall not be accorded immunity with respect to any counterclaim—
 
@@ -913,7 +913,7 @@ In any action brought by a foreign state, or in which a foreign state intervenes
 
 **(c)** to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894; amended Pub. L. 110–181, div. A, title X, § 1083(b)(2), Jan. 28, 2008, 122 Stat. 341.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894; amended Pub. L. 110–181, div. A, title X, § 1083(b)(2), Jan. 28, 2008, 122 Stat. 341.)
 
 **Editorial Notes**
 
@@ -931,7 +931,7 @@ For applicability of amendments by Pub. L. 110–181 to pending cases, see secti
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1608. Service; time to answer; default
+## § 1608. Service; time to answer; default
 
 **(a)** Service in the courts of the United States and of the States shall be made upon a foreign state or political subdivision of a foreign state:
 
@@ -969,7 +969,7 @@ As used in this subsection, a “notice of suit” shall mean a notice addressed
 
 **(e)** No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -977,15 +977,15 @@ As used in this subsection, a “notice of suit” shall mean a notice addressed
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1609. Immunity from attachment and execution of property of a foreign state
+## § 1609. Immunity from attachment and execution of property of a foreign state
 
-Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment 1
+Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
-arrest 1 and execution except as provided in sections 1610 and 1611 of this chapter.
+arrest 1 and execution except as provided in sections 1610 and 1611 of this chapter.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2895.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2895.)
 
 **Editorial Notes**
 
@@ -999,7 +999,7 @@ The time of enactment of this Act, referred to in text, probably means the time 
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.
 
-## § 1610. Exceptions to the immunity from attachment or execution
+## § 1610. Exceptions to the immunity from attachment or execution
 
 **(a)** The property in the United States of a foreign state, as defined in section 1603(a) of this chapter, used for a commercial activity in the United States, shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
@@ -1045,7 +1045,7 @@ Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583
 
 **(A)** Notwithstanding any other provision of law, including but not limited to section 208(f) of the Foreign Missions Act (22 U.S.C. 4308(f)), and except as provided in subparagraph (B), any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), or any other proclamation, order, regulation, or license issued pursuant thereto, shall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A.
 
@@ -1081,7 +1081,7 @@ section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sectio
 
 **(3) Third-party joint property holders.—** Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
 
-(Added Pub. L. 94–583, §  4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, § 2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, § 3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, § 325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, § 221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, § 101(h) [title I, § 117(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, § 2002(g)(1), formerly § 2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(1), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, § 1083(b)(3), Jan. 28, 2008, 122 Stat. 341; Pub. L. 112–158, title V, § 502(e)(1), Aug. 10, 2012, 126 Stat. 1260.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, § 2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, § 3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, § 325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, § 221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, § 101(h) [title I, § 117(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, § 2002(g)(1), formerly § 2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(1), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, § 1083(b)(3), Jan. 28, 2008, 122 Stat. 341; Pub. L. 112–158, title V, § 502(e)(1), Aug. 10, 2012, 126 Stat. 1260.)
 
 **Editorial Notes**
 
@@ -1091,35 +1091,35 @@ The effective date of this Act, referred to in subsecs. (a) and (b), is 90 days 
 
 The enactment of section 1605A, referred to in subsec. (f)(1)(A), (2)(A), refers to the enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
-The Trading with the Enemy Act, referred to in subsecs. (f)(1)(A) and (g)(2), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 53 (§ 4301 et seq.) of Title 50. Section 5(b) of the Act, which was classified to section 5(b) of the former Appendix to Title 50, is classified to section 4305(b) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsecs. (f)(1)(A) and (g)(2), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 53 (§ 4301 et seq.) of Title 50. Section 5(b) of the Act, which was classified to section 5(b) of the former Appendix to Title 50, is classified to section 4305(b) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Amendments**
 
-2012—Subsec. (a)(7). Pub. L. 112–158, § 502(e)(1)(A), inserted “or section 1605(a)(7) (as such section was in effect on January 27, 2008)” after “section 1605A”.
+2012—Subsec. (a)(7). Pub. L. 112–158, § 502(e)(1)(A), inserted “or section 1605(a)(7) (as such section was in effect on January 27, 2008)” after “section 1605A”.
 
-Subsec. (b)(2). Pub. L. 112–158, § 502(e)(1)(B)(i)(I), substituted “(5) or 1605(b)” for “(5), 1605(b), or 1605A”.
+Subsec. (b)(2). Pub. L. 112–158, § 502(e)(1)(B)(i)(I), substituted “(5) or 1605(b)” for “(5), 1605(b), or 1605A”.
 
-Subsec. (b)(3). Pub. L. 112–158, § 502(e)(1)(B)(i)(II), (ii), added par. (3).
+Subsec. (b)(3). Pub. L. 112–158, § 502(e)(1)(B)(i)(II), (ii), added par. (3).
 
-2008—Subsec. (a)(7). Pub. L. 110–181, § 1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
+2008—Subsec. (a)(7). Pub. L. 110–181, § 1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
 
-Subsec. (b)(2). Pub. L. 110–181, § 1083(b)(3)(B), substituted “or (5), 1605(b), or 1605A” for “(5), or (7), or 1605(b)”.
+Subsec. (b)(2). Pub. L. 110–181, § 1083(b)(3)(B), substituted “or (5), 1605(b), or 1605A” for “(5), or (7), or 1605(b)”.
 
-Subsec. (f)(1)(A), (2)(A). Pub. L. 110–181, § 1083(b)(3)(C), inserted “(as in effect before the enactment of section 1605A) or section 1605A” after “section 1605(a)(7)”.
+Subsec. (f)(1)(A), (2)(A). Pub. L. 110–181, § 1083(b)(3)(C), inserted “(as in effect before the enactment of section 1605A) or section 1605A” after “section 1605(a)(7)”.
 
-Subsec. (g). Pub. L. 110–181, § 1083(b)(3)(D), added subsec. (g).
+Subsec. (g). Pub. L. 110–181, § 1083(b)(3)(D), added subsec. (g).
 
-2000—Subsec. (f)(2)(A), (B)(ii). Pub. L. 106–386, § 2002(g)(1)(A), formerly § 2002(f)(1)(A), as renumbered by Pub. L. 107–297, substituted “should make every effort to” for “shall”.
+2000—Subsec. (f)(2)(A), (B)(ii). Pub. L. 106–386, § 2002(g)(1)(A), formerly § 2002(f)(1)(A), as renumbered by Pub. L. 107–297, substituted “should make every effort to” for “shall”.
 
-Subsec. (f)(3). Pub. L. 106–386, § 2002(g)(1)(B), formerly § 2002(f)(1)(B), as renumbered by Pub. L. 107–297, added par. (3).
+Subsec. (f)(3). Pub. L. 106–386, § 2002(g)(1)(B), formerly § 2002(f)(1)(B), as renumbered by Pub. L. 107–297, added par. (3).
 
 1998—Subsec. (f). Pub. L. 105–277 added subsec. (f).
 
-1996—Subsec. (a)(7). Pub. L. 104–132, § 221(b)(1), added par. (7).
+1996—Subsec. (a)(7). Pub. L. 104–132, § 221(b)(1), added par. (7).
 
-Subsec. (b)(2). Pub. L. 104–132, § 221(b)(2), substituted “(5), or (7),” for “or (5),” and “involved in the act” for “used for the activity”.
+Subsec. (b)(2). Pub. L. 104–132, § 221(b)(2), substituted “(5), or (7),” for “or (5),” and “involved in the act” for “used for the activity”.
 
 1990—Subsecs. (a)(6), (e). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
@@ -1135,7 +1135,7 @@ For applicability of amendments by Pub. L. 110–181 to pending cases, see secti
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(h) [title I, § 117(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1606 of this title] shall apply to any claim for which a foreign state is not immune under section 1605(a)(7) of title 28, United States Code, arising before, on, or after the date of enactment of this Act [Oct. 21, 1998].”
+Pub. L. 105–277, div. A, § 101(h) [title I, § 117(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1606 of this title] shall apply to any claim for which a foreign state is not immune under section 1605(a)(7) of title 28, United States Code, arising before, on, or after the date of enactment of this Act [Oct. 21, 1998].”
 
 **Effective Date of 1996 Amendment**
 
@@ -1151,7 +1151,7 @@ Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583
 
 **Satisfaction of Judgments From Blocked Assets of Terrorists, Terrorist Organizations, and State Sponsors of Terrorism**
 
-Pub. L. 107–297, title II, § 201(a), (b), (d), Nov. 26, 2002, 116 Stat. 2337, 2339, as amended by Pub. L. 112–158, title V, § 502(e)(2), Aug. 10, 2012, 126 Stat. 1260, provided that:
+Pub. L. 107–297, title II, § 201(a), (b), (d), Nov. 26, 2002, 116 Stat. 2337, 2339, as amended by Pub. L. 112–158, title V, § 502(e)(2), Aug. 10, 2012, 126 Stat. 1260, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, and except as provided in subsection (b), in every case in which a person has obtained a judgment against a terrorist party on a claim based upon an act of terrorism, or for which a terrorist party is not immune under section 1605A or 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28, United States Code, the blocked assets of that terrorist party (including the blocked assets of any agency or instrumentality of that terrorist party) shall be subject to execution or attachment in aid of execution in order to satisfy such judgment to the extent of any compensatory damages for which such terrorist party has been adjudged liable.
 
@@ -1189,25 +1189,25 @@ Pub. L. 107–297, title II, § 201(a), (b), (d), Nov. 26, 2002, 116 Stat. 233
 
 **Waiver of Exception to Immunity From Attachment or Execution**
 
-Pub. L. 105–277, div. A, § 101(h) [title I, § 117(d)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorized the President to waive the requirements of section 101(h) [title I, § 117] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, § 2002(g)(2), formerly § 2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(2), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
+Pub. L. 105–277, div. A, § 101(h) [title I, § 117(d)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorized the President to waive the requirements of section 101(h) [title I, § 117] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, § 2002(g)(2), formerly § 2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered § 2002(g)(2), Pub. L. 107–297, title II, § 201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
 
 **Executive Documents**
 
 **Determination To Waive Attachment Provisions Relating to Blocked Property of Terrorist-List States**
 
-Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201, which provided for waiver of requirements of section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, relating to blocked property of terrorist-list states, was superseded by Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, set out below.
+Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201, which provided for waiver of requirements of section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, relating to blocked property of terrorist-list states, was superseded by Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, set out below.
 
 Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) [now 2002(g)] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) [section 2002(g) of Pub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a note above], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.[C.] App. 5(b)[)] [now 50 U.S.C. 4305(b)], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) [now 2002(g)] of H.R. 3244, the “Victim’s of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act [probably means subsec. (f)(2) of this section] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 [section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, amending section 1606 of this title], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 [amending this section and section 1606 of this title], executed on October 21, 1998 [former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201].
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) [now 2002(g)] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) [section 2002(g) of Pub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a note above], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.[C.] App. 5(b)[)] [now 50 U.S.C. 4305(b)], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) [now 2002(g)] of H.R. 3244, the “Victim’s of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act [probably means subsec. (f)(2) of this section] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 [section 101(h) [title I, § 117(b)] of div. A of Pub. L. 105–277, amending section 1606 of this title], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 [amending this section and section 1606 of this title], executed on October 21, 1998 [former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201].
 
 The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 
 William J. Clinton.
 
-## § 1611. Certain types of property immune from execution
+## § 1611. Certain types of property immune from execution
 
 **(a)** Notwithstanding the provisions of section 1610 of this chapter, the property of those organizations designated by the President as being entitled to enjoy the privileges, exemptions, and immunities provided by the International Organizations Immunities Act shall not be subject to attachment or any other judicial process impeding the disbursement of funds to, or on the order of, a foreign state as the result of an action brought in the courts of the United States or of the States.
 
@@ -1223,13 +1223,13 @@ William J. Clinton.
 
 **(c)** Notwithstanding the provisions of section 1610 of this chapter, the property of a foreign state shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2897; amended Pub. L. 104–114, title III, § 302(e), Mar. 12, 1996, 110 Stat. 818.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2897; amended Pub. L. 104–114, title III, § 302(e), Mar. 12, 1996, 110 Stat. 818.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, referred to in subsec. (c), is section 302 of Pub. L. 104–114, which amended this section and enacted section 6082 of Title 22, Foreign Relations and Intercourse.
 

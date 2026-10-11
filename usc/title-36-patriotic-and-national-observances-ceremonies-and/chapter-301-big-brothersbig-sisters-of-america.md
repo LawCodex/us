@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 301—BIG BROTHERS—BIG SISTERS OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 301—BIG BROTHERS—BIG SISTERS OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch301"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 301—BIG BROTHERS—BIG SISTERS OF AMERICA
 
-## § 30101. Organization
+## § 30101. Organization
 
 **(a) Federal Charter.—** Big Brothers—Big Sisters of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,15 +29,15 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30101 | 36:881. | Sept. 2, 1958, Pub. L. 85–870, § 1, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95–167, § 1(a), 91 Stat. 1347. |
-|  | 36:882. | Sept. 2, 1958, Pub. L. 85–870, §§ 2, 4(1), 72 Stat. 1691. |
+| 30101 | 36:881. | Sept. 2, 1958, Pub. L. 85–870, § 1, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95–167, § 1(a), 91 Stat. 1347. |
+|  | 36:882. | Sept. 2, 1958, Pub. L. 85–870, §§ 2, 4(1), 72 Stat. 1691. |
 |  | 36:884(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:881(b) is omitted as unnecessary because of the restatement.
 
 The text of 36:882 is omitted as executed and obsolete.
 
-## § 30102. Purposes
+## § 30102. Purposes
 
 The purposes of the corporation are—
 
@@ -53,13 +53,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30102 | 36:883. | Sept. 2, 1958, Pub. L. 85–870, § 3, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95–167, § 1(b), 91 Stat. 1347. |
+| 30102 | 36:883. | Sept. 2, 1958, Pub. L. 85–870, § 3, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95–167, § 1(b), 91 Stat. 1347. |
 
 In clause (1), the words “aid” and “of America” are omitted as unnecessary.
 
 Clause (2) is substituted for “to promote the use of the techniques of such assistance developed by the corporation, by other lay and professional agencies and workers” for clarity.
 
-## § 30103. Membership
+## § 30103. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
 
@@ -71,13 +71,13 @@ Clause (2) is substituted for “to promote the use of the techniques of such as
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30103 | 36:886. | Sept. 2, 1958, Pub. L. 85–870, § 6, 72 Stat. 1692. |
+| 30103 | 36:886. | Sept. 2, 1958, Pub. L. 85–870, § 6, 72 Stat. 1692. |
 
-In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b), the words “the right to” are omitted as unnecessary.
 
-## § 30104. Governing body
+## § 30104. Governing body
 
 **(a) Board of Directors.—**
 
@@ -97,12 +97,12 @@ In subsection (b), the words “the right to” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30104(a) | 36:887. | Sept. 2, 1958, Pub. L. 85–870, § 7, 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95–167, § 1(d), 91 Stat. 1347. |
-| 30104(b) | 36:888. | Sept. 2, 1958, Pub. L. 85–870, § 8, 72 Stat. 1693. |
+| 30104(a) | 36:887. | Sept. 2, 1958, Pub. L. 85–870, § 7, 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95–167, § 1(d), 91 Stat. 1347. |
+| 30104(b) | 36:888. | Sept. 2, 1958, Pub. L. 85–870, § 8, 72 Stat. 1693. |
 
 In subsection (a), the text of 36:887(a) is omitted as executed and obsolete. In paragraph (1), the word “governing” is substituted for “managing” for consistency in the revised title.
 
-## § 30105. Powers
+## § 30105. Powers
 
 The corporation may—
 
@@ -126,8 +126,8 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30105 | 36:884(2)–(9). | Sept. 2, 1958, Pub. L. 85–870, § 4(2)–(9), 72 Stat. 1691. |
-|  | 36:896. | Sept. 2, 1958, Pub. L. 85–870, § 16, 72 Stat. 1695; Nov. 11, 1977, Pub. L. 95–167, § 1(f), 91 Stat. 1347. |
+| 30105 | 36:884(2)–(9). | Sept. 2, 1958, Pub. L. 85–870, § 4(2)–(9), 72 Stat. 1691. |
+|  | 36:896. | Sept. 2, 1958, Pub. L. 85–870, § 16, 72 Stat. 1695; Nov. 11, 1977, Pub. L. 95–167, § 1(f), 91 Stat. 1347. |
 
 In this section, the text of 36:896 is omitted as executed and obsolete.
 
@@ -145,7 +145,7 @@ In clause (6), the words “instruments of indebtedness” are substituted for �
 
 In clause (7), the words “complain, and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 30106. Exclusive right to names, seals, emblems, and badges
+## § 30106. Exclusive right to names, seals, emblems, and badges
 
 The corporation and its subordinate divisions have the exclusive right to use the names “The Big Brothers of America, Big Sisters International, Incorporated”, “Big Sisters of America”, “Big Brothers”, “Big Sisters”, “Big Brothers—Big Sisters of America”, and “Big Sisters—Big Brothers”, and to use and to allow others to use seals, emblems, and badges the corporation adopts.
 
@@ -155,11 +155,11 @@ The corporation and its subordinate divisions have the exclusive right to use th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30106 | 36:895. | Sept. 2, 1958, Pub. L. 85–870, § 15, 72 Stat. 1694; Nov. 11, 1977, Pub. L. 95–167, § 1(e), 91 Stat. 1347. |
+| 30106 | 36:895. | Sept. 2, 1958, Pub. L. 85–870, § 15, 72 Stat. 1694; Nov. 11, 1977, Pub. L. 95–167, § 1(e), 91 Stat. 1347. |
 
 The word “sole” is omitted as included in “exclusive”. The words “or refuse” are omitted as unnecessary. The words “the corporation adopts” are substituted for “as have heretofore been used by the predecessor New York corporation, Big Brothers of America, Incorporated, described in section 896(a) of this title, and by the District of Columbia corporation, Big Sisters International, Incorporated, described in section 896(b) of this title, and the right to which may be transferred to the corporation” for consistency in the revised title.
 
-## § 30107. Restrictions
+## § 30107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -175,7 +175,7 @@ The word “sole” is omitted as included in “exclusive”. The words “or r
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30107(a) | 36:892. | Sept. 2, 1958, Pub. L. 85–870, §§ 9, 10, 12, 72 Stat. 1693, 1694. |
+| 30107(a) | 36:892. | Sept. 2, 1958, Pub. L. 85–870, §§ 9, 10, 12, 72 Stat. 1693, 1694. |
 | 30107(b) | 36:890. |  |
 | 30107(c) | 36:889(a). |  |
 | 30107(d) | 36:889(b). |  |
@@ -186,7 +186,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 30108. Principal office
+## § 30108. Principal office
 
 The principal office of the corporation shall be in Philadelphia, Pennsylvania, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -196,11 +196,11 @@ The principal office of the corporation shall be in Philadelphia, Pennsylvania, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30108 | 36:885(a). | Sept. 2, 1958, Pub. L. 85–870, § 5(a), 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95–167, § 1(c), 91 Stat. 1347. |
+| 30108 | 36:885(a). | Sept. 2, 1958, Pub. L. 85–870, § 5(a), 72 Stat. 1692; Nov. 11, 1977, Pub. L. 95–167, § 1(c), 91 Stat. 1347. |
 
 The word “various” is omitted as unnecessary.
 
-## § 30109. Records and inspection
+## § 30109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -218,11 +218,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30109 | 36:893. | Sept. 2, 1958, Pub. L. 85–870, § 13, 72 Stat. 1694. |
+| 30109 | 36:893. | Sept. 2, 1958, Pub. L. 85–870, § 13, 72 Stat. 1694. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 30110. Service of process
+## § 30110. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -232,11 +232,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30110 | 36:885(b). | Sept. 2, 1958, Pub. L. 85–870, § 5(b), 72 Stat. 1692. |
+| 30110 | 36:885(b). | Sept. 2, 1958, Pub. L. 85–870, § 5(b), 72 Stat. 1692. |
 
 The words “at all times” are omitted as unnecessary.
 
-## § 30111. Liability for acts of officers and agents
+## § 30111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -246,9 +246,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30111 | 36:891. | Sept. 2, 1958, Pub. L. 85–870, § 11, 72 Stat. 1694. |
+| 30111 | 36:891. | Sept. 2, 1958, Pub. L. 85–870, § 11, 72 Stat. 1694. |
 
-## § 30112. Distribution of assets on dissolution or final liquidation
+## § 30112. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation.
 
@@ -258,6 +258,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30112 | 36:897. | Sept. 2, 1958, Pub. L. 85–870, § 17, 72 Stat. 1695. |
+| 30112 | 36:897. | Sept. 2, 1958, Pub. L. 85–870, § 17, 72 Stat. 1695. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

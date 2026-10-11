@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Limitation Relating to Establishment or Support of Cybersecurity Unit With the Russian Federation**
 
-Pub. L. 116–92, div. E, title LXVII, § 6701, Dec. 20, 2019, 133 Stat. 2221, provided that:
+Pub. L. 116–92, div. E, title LXVII, § 6701, Dec. 20, 2019, 133 Stat. 2221, provided that:
 
 > **“(a) Appropriate Congressional Committees Defined.—** In this section, the term ‘appropriate congressional committees’ means—
 
@@ -305,7 +305,7 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—CYBERSECURITY INFORMATION SHARING
 
-### § 1500. National Cyber Director
+### § 1500. National Cyber Director
 
 **(a) Establishment**
 
@@ -475,7 +475,7 @@ Nothing in paragraph (1)(C) may be construed as imposing any limitation on any o
 
 **(6)** The term “intelligence” has the meaning given such term in section 3003 of title 50.
 
-(Pub. L. 116–283, div. A, title XVII, § 1752, Jan. 1, 2021, 134 Stat. 4144; Pub. L. 117–81, div. A, title XV, § 1552, Dec. 27, 2021, 135 Stat. 2070.)
+(Pub. L. 116–283, div. A, title XVII, § 1752, Jan. 1, 2021, 134 Stat. 4144; Pub. L. 117–81, div. A, title XV, § 1552, Dec. 27, 2021, 135 Stat. 2070.)
 
 **Editorial Notes**
 
@@ -487,17 +487,17 @@ Section is comprised of section 1752 of Pub. L. 116–283. Subsec. (d) of sectio
 
 **Amendments**
 
-2021—Subsec. (e). Pub. L. 117–81, § 1552(1), (2), (4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1) and realigned margins, and added par. (2).
+2021—Subsec. (e). Pub. L. 117–81, § 1552(1), (2), (4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Subsec. (e)(1)(C) to (I). Pub. L. 117–81, § 1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) (as redesignated by section 1552(1) of Pub. L. 117–81, see above) as (D) to (I), respectively.
+Subsec. (e)(1)(C) to (I). Pub. L. 117–81, § 1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) (as redesignated by section 1552(1) of Pub. L. 117–81, see above) as (D) to (I), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–260, § 1, Dec. 21, 2022, 136 Stat. 2389, provided that: “This Act [enacting section 1526 of this title and provisions set out as notes under section 1526 of this title] may be cited as the ‘Quantum Computing Cybersecurity Preparedness Act’.”
+Pub. L. 117–260, § 1, Dec. 21, 2022, 136 Stat. 2389, provided that: “This Act [enacting section 1526 of this title and provisions set out as notes under section 1526 of this title] may be cited as the ‘Quantum Computing Cybersecurity Preparedness Act’.”
 
-### § 1501. Definitions
+### § 1501. Definitions
 
 In this subchapter:
 
@@ -609,31 +609,31 @@ The term “security vulnerability” has the meaning given the term in section 
 
 The term “tribal” has the meaning given the term “Indian tribe” in section 5304 of title 25.
 
-(Pub. L. 114–113, div. N, title I, § 102, Dec. 18, 2015, 129 Stat. 2936; Pub. L. 117–263, div. G, title LXXI, § 7143(b)(4), Dec. 23, 2022, 136 Stat. 3661.)
+(Pub. L. 114–113, div. N, title I, § 102, Dec. 18, 2015, 129 Stat. 2936; Pub. L. 117–263, div. G, title LXXI, § 7143(b)(4), Dec. 23, 2022, 136 Stat. 3661.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pars. (4) to (7). Pub. L. 117–263, § 7143(b)(4)(A), added pars. (4) to (7) and struck out former pars. (4) to (7) which defined cybersecurity purpose, cybersecurity threat, cyber threat indicator, and defensive measure, respectively.
+2022—Pars. (4) to (7). Pub. L. 117–263, § 7143(b)(4)(A), added pars. (4) to (7) and struck out former pars. (4) to (7) which defined cybersecurity purpose, cybersecurity threat, cyber threat indicator, and defensive measure, respectively.
 
-Par. (9). Pub. L. 117–263, § 7143(b)(4)(B), added par. (9) and struck out former par. (9) which defined information system.
+Par. (9). Pub. L. 117–263, § 7143(b)(4)(B), added par. (9) and struck out former par. (9) which defined information system.
 
-Pars. (11) to (13). Pub. L. 117–263, § 7143(b)(4)(C), added pars. (11) to (13) and struck out former pars. (11) to (13) which defined malicious cyber command and control, malicious reconnaissance, and monitor, respectively.
+Pars. (11) to (13). Pub. L. 117–263, § 7143(b)(4)(C), added pars. (11) to (13) and struck out former pars. (11) to (13) which defined malicious cyber command and control, malicious reconnaissance, and monitor, respectively.
 
-Pars. (16), (17). Pub. L. 117–263, § 7143(b)(4)(D), added pars. (16) and (17) and struck out former pars. (16) and (17) which defined security control and security vulnerability, respectively.
+Pars. (16), (17). Pub. L. 117–263, § 7143(b)(4)(D), added pars. (16) and (17) and struck out former pars. (16) and (17) which defined security control and security vulnerability, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–113, div. N, § 1(a), Dec. 18, 2015, 129 Stat. 2935, provided that: “This division [enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, section 1029 of Title 18, Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and section 301 of Title 5, Government Organization and Employees] may be cited as the ‘Cybersecurity Act of 2015’.”
+Pub. L. 114–113, div. N, § 1(a), Dec. 18, 2015, 129 Stat. 2935, provided that: “This division [enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, section 1029 of Title 18, Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and section 301 of Title 5, Government Organization and Employees] may be cited as the ‘Cybersecurity Act of 2015’.”
 
-Pub. L. 114–113, div. N, title I, § 101, Dec. 18, 2015, 129 Stat. 2936, provided that: “This title [enacting this subchapter] may be cited as the ‘Cybersecurity Information Sharing Act of 2015’.”
+Pub. L. 114–113, div. N, title I, § 101, Dec. 18, 2015, 129 Stat. 2936, provided that: “This title [enacting this subchapter] may be cited as the ‘Cybersecurity Information Sharing Act of 2015’.”
 
-Pub. L. 114–113, div. N, title II, § 221, Dec. 18, 2015, 129 Stat. 2963, provided that: “This subtitle [subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, enacting subchapter II of this chapter and sections 149 and 151 of this title, amending sections 148, 149, and 150 of this title and sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 151 of this title] may be cited as the ‘Federal Cybersecurity Enhancement Act of 2015’.”
+Pub. L. 114–113, div. N, title II, § 221, Dec. 18, 2015, 129 Stat. 2963, provided that: “This subtitle [subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, enacting subchapter II of this chapter and sections 149 and 151 of this title, amending sections 148, 149, and 150 of this title and sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 151 of this title] may be cited as the ‘Federal Cybersecurity Enhancement Act of 2015’.”
 
-### § 1502. Sharing of information by the Federal Government
+### § 1502. Sharing of information by the Federal Government
 
 **(a) In general** Consistent with the protection of classified information, intelligence sources and methods, and privacy and civil liberties, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of Defense, and the Attorney General, in consultation with the heads of the appropriate Federal entities, shall jointly develop and issue procedures to facilitate and promote—
 
@@ -675,9 +675,9 @@ In developing the procedures required under this section, the Director of Nation
 
 Not later than 60 days after December 18, 2015, the Director of National Intelligence, in consultation with the heads of the appropriate Federal entities, shall submit to Congress the procedures required by subsection (a).
 
-(Pub. L. 114–113, div. N, title I, § 103, Dec. 18, 2015, 129 Stat. 2939.)
+(Pub. L. 114–113, div. N, title I, § 103, Dec. 18, 2015, 129 Stat. 2939.)
 
-### § 1503. Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats
+### § 1503. Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats
 
 **(a) Authorization for monitoring**
 
@@ -799,9 +799,9 @@ Except as provided in section 1507(e) of this title, it shall not be considered 
 
 The sharing of a cyber threat indicator or defensive measure with a non-Federal entity under this subchapter shall not create a right or benefit to similar information by such non-Federal entity or any other non-Federal entity.
 
-(Pub. L. 114–113, div. N, title I, § 104, Dec. 18, 2015, 129 Stat. 2940.)
+(Pub. L. 114–113, div. N, title I, § 104, Dec. 18, 2015, 129 Stat. 2940.)
 
-### § 1504. Sharing of cyber threat indicators and defensive measures with the Federal Government
+### § 1504. Sharing of cyber threat indicators and defensive measures with the Federal Government
 
 **(a) Requirement for policies and procedures**
 
@@ -1033,9 +1033,9 @@ Cyber threat indicators and defensive measures provided to the Federal Governmen
 
 Clause (i) shall not apply to procedures developed and implemented under this subchapter.
 
-(Pub. L. 114–113, div. N, title I, § 105, Dec. 18, 2015, 129 Stat. 2943.)
+(Pub. L. 114–113, div. N, title I, § 105, Dec. 18, 2015, 129 Stat. 2943.)
 
-### § 1505. Protection from liability
+### § 1505. Protection from liability
 
 **(a) Monitoring of information systems**
 
@@ -1061,9 +1061,9 @@ No cause of action shall lie or be maintained in any court against any private e
 
 **(2)** to undermine or limit the availability of otherwise applicable common law or statutory defenses.
 
-(Pub. L. 114–113, div. N, title I, § 106, Dec. 18, 2015, 129 Stat. 2950.)
+(Pub. L. 114–113, div. N, title I, § 106, Dec. 18, 2015, 129 Stat. 2950.)
 
-### § 1506. Oversight of government activities
+### § 1506. Oversight of government activities
 
 **(a) Report on implementation**
 
@@ -1103,11 +1103,11 @@ Not later than 2 years after December 18, 2015 and not less frequently than once
 
 **(i)** The number of cyber threat indicators or defensive measures shared through the capability and process developed under section 1504(c) of this title.
 
-**(ii)** An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government 1
+**(ii)** An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-entity with the Federal government 1 in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
+entity with the Federal government 1 in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
 
 **(iii)** The number of times, according to the Attorney General, that information shared under this subchapter was used by a Federal entity to prosecute an offense listed in section 1504(d)(5)(A) of this title.
 
@@ -1133,9 +1133,9 @@ Each report required under this section shall be submitted in an unclassified fo
 
 The unclassified portions of the reports required under this section shall be made available to the public.
 
-(Pub. L. 114–113, div. N, title I, § 107, Dec. 18, 2015, 129 Stat. 2951.)
+(Pub. L. 114–113, div. N, title I, § 107, Dec. 18, 2015, 129 Stat. 2951.)
 
-### § 1507. Construction and preemption
+### § 1507. Construction and preemption
 
 **(a) Otherwise lawful disclosures** Nothing in this subchapter shall be construed—
 
@@ -1221,7 +1221,7 @@ Nothing in this subchapter shall be construed to limit the authority of the Secr
 
 Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.
 
-(Pub. L. 114–113, div. N, title I, § 108, Dec. 18, 2015, 129 Stat. 2953; Pub. L. 115–232, div. A, title XVI, § 1631(b), Aug. 13, 2018, 132 Stat. 2123.)
+(Pub. L. 114–113, div. N, title I, § 108, Dec. 18, 2015, 129 Stat. 2953; Pub. L. 115–232, div. A, title XVI, § 1631(b), Aug. 13, 2018, 132 Stat. 2123.)
 
 **Editorial Notes**
 
@@ -1229,7 +1229,7 @@ Nothing in this subchapter shall be construed to prevent the disclosure of a cyb
 
 2018—Subsec. (m). Pub. L. 115–232 substituted “section 394” for “section 130g”.
 
-### § 1508. Report on cybersecurity threats
+### § 1508. Report on cybersecurity threats
 
 **(a) Report required**
 
@@ -1255,15 +1255,15 @@ The report required by subsection (a) shall be made available in classified and 
 
 In this section, the term “intelligence community” has the meaning given that term in section 3003 of title 50.
 
-(Pub. L. 114–113, div. N, title I, § 109, Dec. 18, 2015, 129 Stat. 2955.)
+(Pub. L. 114–113, div. N, title I, § 109, Dec. 18, 2015, 129 Stat. 2955.)
 
-### § 1509. Exception to limitation on authority of Secretary of Defense to disseminate certain information
+### § 1509. Exception to limitation on authority of Secretary of Defense to disseminate certain information
 
 Notwithstanding subsection (c)(3) of section 393 of title 10, the Secretary of Defense may authorize the sharing of cyber threat indicators and defensive measures pursuant to the policies, procedures, and guidelines developed or issued under this subchapter.
 
-(Pub. L. 114–113, div. N, title I, § 110, Dec. 18, 2015, 129 Stat. 2956.)
+(Pub. L. 114–113, div. N, title I, § 110, Dec. 18, 2015, 129 Stat. 2956.)
 
-### § 1510. Effective period
+### § 1510. Effective period
 
 **(a) In general**
 
@@ -1273,7 +1273,7 @@ Except as provided in subsection (b), this subchapter and the amendments made by
 
 With respect to any action authorized by this subchapter or information obtained pursuant to an action authorized by this subchapter, which occurred before the date on which the provisions referred to in subsection (a) cease to have effect, the provisions of this subchapter shall continue in effect.
 
-(Pub. L. 114–113, div. N, title I, § 111, Dec. 18, 2015, 129 Stat. 2956; Pub. L. 119–75, div. I, § 5008, Feb. 3, 2026, 140 Stat. 630.)
+(Pub. L. 114–113, div. N, title I, § 111, Dec. 18, 2015, 129 Stat. 2956; Pub. L. 119–75, div. I, § 5008, Feb. 3, 2026, 140 Stat. 630.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ The amendments made by this subchapter, referred to in subsec. (a), was in the o
 
 ## SUBCHAPTER II—FEDERAL CYBERSECURITY ENHANCEMENT
 
-### § 1521. Definitions
+### § 1521. Definitions
 
 In this subchapter:
 
@@ -1325,23 +1325,23 @@ The term “national security system” has the meaning given the term in sectio
 
 The term “Secretary” means the Secretary of Homeland Security.
 
-(Pub. L. 114–113, div. N, title II, § 222, Dec. 18, 2015, 129 Stat. 2963; Pub. L. 115–278, § 2(h)(1)(D), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(A), Dec. 23, 2022, 136 Stat. 3663.)
+(Pub. L. 114–113, div. N, title II, § 222, Dec. 18, 2015, 129 Stat. 2963; Pub. L. 115–278, § 2(h)(1)(D), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(A), Dec. 23, 2022, 136 Stat. 3663.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 **Amendments**
 
 2022—Par. (4). Pub. L. 117–263 substituted “section 650 of this title” for “section 659 of this title”.
 
-2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “section 660 of this title” for “section 149 of this title, as added by section 223(a)(4) of this division”.
+2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “section 660 of this title” for “section 149 of this title, as added by section 223(a)(4) of this division”.
 
-Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “section 659 of this title” for “section 148 of this title, as so redesignated by section 223(a)(3) of this division”.
+Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “section 659 of this title” for “section 148 of this title, as so redesignated by section 223(a)(3) of this division”.
 
-### § 1522. Advanced internal defenses
+### § 1522. Advanced internal defenses
 
 **(a) Advanced network security tools**
 
@@ -1373,7 +1373,7 @@ The Director, in consultation with the Secretary, shall increase transparency to
 
 The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
 
-(Pub. L. 114–113, div. N, title II, § 224, Dec. 18, 2015, 129 Stat. 2967.)
+(Pub. L. 114–113, div. N, title II, § 224, Dec. 18, 2015, 129 Stat. 2967.)
 
 **Editorial Notes**
 
@@ -1381,13 +1381,13 @@ The requirements under this section shall not apply to the Department of Defense
 
 Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. Subsec. (e) of section 224 of title II of div. N of Pub. L. 114–113 amended section 3553 of Title 44, Public Printing and Documents.
 
-### § 1523. Federal cybersecurity requirements
+### § 1523. Federal cybersecurity requirements
 
 **(a) Implementation of Federal cybersecurity standards**
 
-Consistent with section 3553 of title 44, the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 1
+Consistent with section 3553 of title 44, the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for securing agency information systems.
 
@@ -1429,15 +1429,15 @@ Nothing in this section shall be construed to alter the authority of the Secreta
 
 The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
 
-(Pub. L. 114–113, div. N, title II, § 225, Dec. 18, 2015, 129 Stat. 2967.)
+(Pub. L. 114–113, div. N, title II, § 225, Dec. 18, 2015, 129 Stat. 2967.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The text of section 11331 of title 40, referred to in subsec. (a), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
+The text of section 11331 of title 40, referred to in subsec. (a), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
-### § 1524. Assessment; reports
+### § 1524. Assessment; reports
 
 **(a) Definitions** In this section:
 
@@ -1497,9 +1497,9 @@ Not later than 3 years after December 18, 2015, the Comptroller General of the U
 
 **(i)** the effectiveness of the system in detecting, disrupting, and preventing cyber-threat actors, including advanced persistent threats, from accessing agency information and agency information systems;
 
-**(ii)** whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D 1
+**(ii)** whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title II of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) are effective in securing Federal information systems;
 
@@ -1531,27 +1531,27 @@ of title II of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) are effe
 
 Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 114–113, div. N, title II, § 226, Dec. 18, 2015, 129 Stat. 2969; Pub. L. 115–278, § 2(h)(1)(F), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(B), Dec. 23, 2022, 136 Stat. 3663.)
+(Pub. L. 114–113, div. N, title II, § 226, Dec. 18, 2015, 129 Stat. 2969; Pub. L. 115–278, § 2(h)(1)(F), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(B), Dec. 23, 2022, 136 Stat. 3663.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. Subtitle D was redesignated subtitle C of title II of the Homeland Security Act of 2002 by Pub. L. 115–278, § 2(g)(2)(K), Nov. 16, 2018, 132 Stat. 4178, and is classified principally to part C (§ 161 et seq.) of subchapter II of chapter 1 of this title. For complete classification of subtitle C to the Code, see Tables.
+Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. Subtitle D was redesignated subtitle C of title II of the Homeland Security Act of 2002 by Pub. L. 115–278, § 2(g)(2)(K), Nov. 16, 2018, 132 Stat. 4178, and is classified principally to part C (§ 161 et seq.) of subchapter II of chapter 1 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 **Amendments**
 
 2022—Subsec. (a)(2). Pub. L. 117–263 substituted “section 650 of this title” for “section 1501 of this title”.
 
-2018—Subsec. (a)(1). Pub. L. 115–278, § 2(h)(1)(F)(i)(I), substituted “section 2213” for “section 230” and struck out before period at end “, as added by section 223(a)(6) of this division”.
+2018—Subsec. (a)(1). Pub. L. 115–278, § 2(h)(1)(F)(i)(I), substituted “section 2213” for “section 230” and struck out before period at end “, as added by section 223(a)(6) of this division”.
 
-Subsec. (a)(4). Pub. L. 115–278, § 2(h)(1)(F)(i)(II), substituted “section 2210(b)(1)” for “section 228(b)(1)” and struck out before period at end “, as added by section 223(a)(4) of this division”.
+Subsec. (a)(4). Pub. L. 115–278, § 2(h)(1)(F)(i)(II), substituted “section 2210(b)(1)” for “section 228(b)(1)” and struck out before period at end “, as added by section 223(a)(4) of this division”.
 
-Subsec. (a)(5). Pub. L. 115–278, § 2(h)(1)(F)(i)(III), substituted “section 2213(b)” for “section 230(b)” and struck out before period at end “, as added by section 223(a)(6) of this division”.
+Subsec. (a)(5). Pub. L. 115–278, § 2(h)(1)(F)(i)(III), substituted “section 2213(b)” for “section 230(b)” and struck out before period at end “, as added by section 223(a)(6) of this division”.
 
-Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “section 2213(c)(5)” for “section 230(c)(5)” and struck out “, as added by section 223(a)(6) of this division” after “Homeland Security Act of 2002”.
+Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “section 2213(c)(5)” for “section 230(c)(5)” and struck out “, as added by section 223(a)(6) of this division” after “Homeland Security Act of 2002”.
 
-### § 1525. Termination
+### § 1525. Termination
 
 **(a) In general**
 
@@ -1559,13 +1559,13 @@ The authority provided under section 663 of this title, and the reporting requir
 
 **(b) Rule of construction**
 
-Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under section 663(d)(2) 1
+Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under section 663(d)(2) 1
 
-<sup>1</sup>  So in original. Probably should be “663(c)(2)”.
+<sup>1</sup> So in original. Probably should be “663(c)(2)”.
 
 of this title, if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
 
-(Pub. L. 114–113, div. N, title II, § 227, Dec. 18, 2015, 129 Stat. 2971; Pub. L. 115–278, § 2(h)(1)(G), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–328, div. O, title I, § 101, Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–47, div. G, title I, § 106, Mar. 23, 2024, 138 Stat. 857; Pub. L. 118–83, div. B, title I, § 103, Sept. 26, 2024, 138 Stat. 1534; Pub. L. 118–158, div. E, § 5104, Dec. 21, 2024, 138 Stat. 1771; Pub. L. 119–4, div. C, § 3104, Mar. 15, 2025, 139 Stat. 46; Pub. L. 119–75, div. I, § 5007, Feb. 3, 2026, 140 Stat. 630.)
+(Pub. L. 114–113, div. N, title II, § 227, Dec. 18, 2015, 129 Stat. 2971; Pub. L. 115–278, § 2(h)(1)(G), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–328, div. O, title I, § 101, Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–47, div. G, title I, § 106, Mar. 23, 2024, 138 Stat. 857; Pub. L. 118–83, div. B, title I, § 103, Sept. 26, 2024, 138 Stat. 1534; Pub. L. 118–158, div. E, § 5104, Dec. 21, 2024, 138 Stat. 1771; Pub. L. 119–4, div. C, § 3104, Mar. 15, 2025, 139 Stat. 46; Pub. L. 119–75, div. I, § 5007, Feb. 3, 2026, 140 Stat. 630.)
 
 **Editorial Notes**
 
@@ -1583,11 +1583,11 @@ Pub. L. 118–47 substituted “September 30, 2024” for “September 30, 2023�
 
 2022—Subsec. (a). Pub. L. 117–328 substituted “September 30, 2023” for “the date that is 7 years after December 18, 2015”.
 
-2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “section 663 of this title” for “section 151 of this title, as added by section 223(a)(6) of this division,”.
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “section 663 of this title” for “section 151 of this title, as added by section 223(a)(6) of this division,”.
 
-Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “section 663(d)(2) of this title” for “section 151(d)(2) of this title, as added by section 223(a)(6) of this division,”.
+Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “section 663(d)(2) of this title” for “section 151(d)(2) of this title, as added by section 223(a)(6) of this division,”.
 
-### § 1526. Inventory of cryptographic systems; migration to post-quantum cryptography
+### § 1526. Inventory of cryptographic systems; migration to post-quantum cryptography
 
 **(a) Inventory**
 
@@ -1639,7 +1639,7 @@ The Director of OMB shall ensure that the prioritizations made under subsection 
 
 Not later than 1 year after the date on which the Director of OMB issues guidance under subsection (c)(2), and thereafter until the date that is 5 years after the date on which post-quantum cryptographic standards are issued, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives, with the report submitted pursuant to section 3553(c) of title 44, a report on the progress of agencies in adopting post-quantum cryptography standards.
 
-(Pub. L. 117–260, § 4, Dec. 21, 2022, 136 Stat. 2390.)
+(Pub. L. 117–260, § 4, Dec. 21, 2022, 136 Stat. 2390.)
 
 **Editorial Notes**
 
@@ -1655,7 +1655,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Findings; Sense of Congress**
 
-Pub. L. 117–260, § 2, Dec. 21, 2022, 136 Stat. 2389, provided that:
+Pub. L. 117–260, § 2, Dec. 21, 2022, 136 Stat. 2389, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -1675,11 +1675,11 @@ Pub. L. 117–260, § 2, Dec. 21, 2022, 136 Stat. 2389, provided that:
 
 **Exemption of National Security Systems**
 
-Pub. L. 117–260, § 5, Dec. 21, 2022, 136 Stat. 2392, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 1500 of this title] shall not apply to any national security system.”
+Pub. L. 117–260, § 5, Dec. 21, 2022, 136 Stat. 2392, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 1500 of this title] shall not apply to any national security system.”
 
 **Definitions**
 
-Pub. L. 117–260, § 3, Dec. 21, 2022, 136 Stat. 2389, provided that:
+Pub. L. 117–260, § 3, Dec. 21, 2022, 136 Stat. 2389, provided that:
 
 > “In this Act [see Short Title of 2022 Amendment note set out under section 1500 of this title]:
 
@@ -1711,7 +1711,7 @@ Pub. L. 117–260, § 3, Dec. 21, 2022, 136 Stat. 2389, provided that:
 
 ## SUBCHAPTER III—OTHER CYBER MATTERS
 
-### § 1531. Apprehension and prosecution of international cyber criminals
+### § 1531. Apprehension and prosecution of international cyber criminals
 
 **(a) International cyber criminal defined** In this section, the term “international cyber criminal” means an individual—
 
@@ -1757,9 +1757,9 @@ The report required by this subsection shall be in unclassified form to the maxi
 
 **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives.
 
-(Pub. L. 114–113, div. N, title IV, § 403, Dec. 18, 2015, 129 Stat. 2979.)
+(Pub. L. 114–113, div. N, title IV, § 403, Dec. 18, 2015, 129 Stat. 2979.)
 
-### § 1532. Enhancement of emergency services
+### § 1532. Enhancement of emergency services
 
 **(a) Collection of data**
 
@@ -1789,15 +1789,15 @@ The Director of the National Institute of Standards and Technology shall submit 
 
 **(B)** follow the result of the activities carried out under subsection (c), including any methods developed under such subsection.
 
-(Pub. L. 114–113, div. N, title IV, § 404, Dec. 18, 2015, 129 Stat. 2980; Pub. L. 115–278, § 2(h)(1)(H), Nov. 16, 2018, 132 Stat. 4183.)
+(Pub. L. 114–113, div. N, title IV, § 404, Dec. 18, 2015, 129 Stat. 2980; Pub. L. 115–278, § 2(h)(1)(H), Nov. 16, 2018, 132 Stat. 4183.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(H), substituted “section 659 of this title” for “section 148 of this title, as redesignated by section 223(a)(3) of this division,” and “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(H), substituted “section 659 of this title” for “section 148 of this title, as redesignated by section 223(a)(3) of this division,” and “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
 
-Subsec. (b). Pub. L. 115–278, § 2(h)(1)(H)(ii), substituted “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
+Subsec. (b). Pub. L. 115–278, § 2(h)(1)(H)(ii), substituted “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1805,7 +1805,7 @@ Subsec. (b). Pub. L. 115–278, § 2(h)(1)(H)(ii), substituted “Assistant Di
 
 Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 
-### § 1533. Improving cybersecurity in the health care industry
+### § 1533. Improving cybersecurity in the health care industry
 
 **(a) Definitions** In this section:
 
@@ -1923,7 +1923,7 @@ In carrying out the activities under this section, the Secretary may incorporate
 
 Nothing in this section shall be construed to limit the antitrust exemption under section 1503(e) of this title or the protection from liability under section 1505 of this title.
 
-(Pub. L. 114–113, div. N, title IV, § 405, Dec. 18, 2015, 129 Stat. 2981.)
+(Pub. L. 114–113, div. N, title IV, § 405, Dec. 18, 2015, 129 Stat. 2981.)
 
 **Editorial Notes**
 
@@ -1933,7 +1933,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 The Health Information Technology for Economic and Clinical Health Act, referred to in subsec. (d)(1)(C)(iii), is title XIII of div. A and title IV of div. B of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 226, 467, also known as the HITECH Act. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
-### § 1534. Cybercrime
+### § 1534. Cybercrime
 
 Subject to the availability of appropriations, and in accordance with the comparable level of the General Schedule, the Attorney General and the Secretary of Homeland Security shall provide incentive pay, in an amount that is not more than 25 percent of the basic pay of the individual, to an individual appointed to a position in the Department of Justice (including the Federal Bureau of Investigation) or the Department of Homeland Security (including positions in Homeland Security Investigations), respectively, requiring significant cyber skills, including to aid in—
 
@@ -1943,7 +1943,7 @@ Subject to the availability of appropriations, and in accordance with the compar
 
 **(3)** the prosecution of technology-facilitated crimes against children by buyers or traffickers in persons.
 
-(Pub. L. 117–347, title IV, § 401, Jan. 5, 2023, 136 Stat. 6207.)
+(Pub. L. 117–347, title IV, § 401, Jan. 5, 2023, 136 Stat. 6207.)
 
 **Editorial Notes**
 

@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. A, title I, § 11119(b)(1), Nov. 15, 2021, 135 Stat. 497, added item 208.
+2021—Pub. L. 117–58, div. A, title I, § 11119(b)(1), Nov. 15, 2021, 135 Stat. 497, added item 208.
 
-2015—Pub. L. 114–94, div. A, title I, §§ 1109(c)(6)(B), 1121(b), Dec. 4, 2015, 129 Stat. 1344, 1368, added item 207 and struck out item 213 “Transportation alternatives”.
+2015—Pub. L. 114–94, div. A, title I, §§ 1109(c)(6)(B), 1121(b), Dec. 4, 2015, 129 Stat. 1344, 1368, added item 207 and struck out item 213 “Transportation alternatives”.
 
-2012—Pub. L. 112–141, div. A, title I, §§ 1114(b)(2)(B), 1119(c)(1), 1122(b), 1519(c)(1)(B), July 6, 2012, 126 Stat. 468, 491, 497, 575, substituted “Federal lands and tribal transportation programs” for “Authorizations” in item 201, “Tribal transportation program” for “Allocations” in item 202, “Federal lands transportation program” for “Availability of funds” in item 203, and “Federal lands access program” for “Federal lands highways program” in item 204, struck out item 212 “Inter-American Highway”, added item 213, and struck out items 214 “Public lands development roads and trails”, 215 “Territorial highway program”, and 216 “Darien Gap Highway”.
+2012—Pub. L. 112–141, div. A, title I, §§ 1114(b)(2)(B), 1119(c)(1), 1122(b), 1519(c)(1)(B), July 6, 2012, 126 Stat. 468, 491, 497, 575, substituted “Federal lands and tribal transportation programs” for “Authorizations” in item 201, “Tribal transportation program” for “Allocations” in item 202, “Federal lands transportation program” for “Availability of funds” in item 203, and “Federal lands access program” for “Federal lands highways program” in item 204, struck out item 212 “Inter-American Highway”, added item 213, and struck out items 214 “Public lands development roads and trails”, 215 “Territorial highway program”, and 216 “Darien Gap Highway”.
 
-2005—Pub. L. 109–59, title I, § 1118(b)(3), Aug. 10, 2005, 119 Stat. 1181, substituted “Territorial highway program” for “Territories highway development program” in item 215.
+2005—Pub. L. 109–59, title I, § 1118(b)(3), Aug. 10, 2005, 119 Stat. 1181, substituted “Territorial highway program” for “Territories highway development program” in item 215.
 
-1998—Pub. L. 105–178, title I, § 1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
+1998—Pub. L. 105–178, title I, § 1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
 
-1987—Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access road hearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
+1987—Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access road hearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
 
-1983—Pub. L. 97–424, title I, § 126(e)(1), Jan. 6, 1983, 96 Stat. 2115, substituted “Allocations” for “Apportionment for allocation” in item 202.
+1983—Pub. L. 97–424, title I, § 126(e)(1), Jan. 6, 1983, 96 Stat. 2115, substituted “Allocations” for “Apportionment for allocation” in item 202.
 
-Pub. L. 97–424, title I, § 126(e)(2), Jan. 6, 1983, 96 Stat. 2115, substituted “Federal lands highways programs” for “Forest highways” in item 204.
+Pub. L. 97–424, title I, § 126(e)(2), Jan. 6, 1983, 96 Stat. 2115, substituted “Federal lands highways programs” for “Forest highways” in item 204.
 
-Pub. L. 97–424, title I, § 126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted “Repealed” in items 206 through 209 which read “Park roads and trails”, “Parkways”, “Indian reservation roads”, “Public lands highways”, respectively.
+Pub. L. 97–424, title I, § 126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted “Repealed” in items 206 through 209 which read “Park roads and trails”, “Parkways”, “Indian reservation roads”, “Public lands highways”, respectively.
 
-1976—Pub. L. 94–280, title I, § 135(b), May 5, 1976, 90 Stat. 442, substituted item 219 “Safer of off-system roads” for “Off-system roads”.
+1976—Pub. L. 94–280, title I, § 135(b), May 5, 1976, 90 Stat. 442, substituted item 219 “Safer of off-system roads” for “Off-system roads”.
 
-1975—Pub. L. 93–643, § 122(b), Jan. 4, 1975, 88 Stat. 2290, added item 219.
+1975—Pub. L. 93–643, § 122(b), Jan. 4, 1975, 88 Stat. 2290, added item 219.
 
-1973—Pub. L. 93–87, title I, §§ 124(b), 127(a)(2), Aug. 13, 1973, 87 Stat. 262, 264, added items 217 and 218.
+1973—Pub. L. 93–87, title I, §§ 124(b), 127(a)(2), Aug. 13, 1973, 87 Stat. 262, 264, added items 217 and 218.
 
-1970—Pub. L. 91–605, title I, §§ 112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
+1970—Pub. L. 91–605, title I, §§ 112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
 
-1962—Pub. L. 87–866, § 6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
+1962—Pub. L. 87–866, § 6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
 
-## § 201. Federal lands and tribal transportation programs
+## § 201. Federal lands and tribal transportation programs
 
 **(a) Purpose.—** Recognizing the need for all public Federal and tribal transportation facilities to be treated under uniform policies similar to the policies that apply to Federal-aid highways and other public transportation facilities, the Secretary of Transportation, in collaboration with the Secretaries of the appropriate Federal land management agencies, shall coordinate a uniform policy for all public Federal and tribal transportation facilities that shall apply to Federal lands transportation facilities, tribal transportation facilities, and Federal lands access transportation facilities.
 
@@ -89,9 +89,9 @@ Pub. L. 97–424, title I, § 126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substitu
 
 **(A) Tribal and federal lands transportation program.—** The Federal share of the cost of a project carried out under the Federal lands transportation program or the tribal transportation program shall be 100 percent.
 
-**(B) Federal lands access program.—** The Federal share of the cost of a project carried out under the Federal lands access program shall be be 1
+**(B) Federal lands access program.—** The Federal share of the cost of a project carried out under the Federal lands access program shall be be 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 up to 100 percent.
 
@@ -199,7 +199,7 @@ up to 100 percent.
 
 **(B)** modifies the point of obligation of Federal salaries and expenses.
 
-(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473; amended Pub. L. 114–94, div. A, title I, §§ 1117(a), 1120, Dec. 4, 2015, 129 Stat. 1356, 1358; Pub. L. 117–58, div. A, title I, §§ 11113(a), 11305(a), 11525(*l*), Nov. 15, 2021, 135 Stat. 479, 531, 607.)
+(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473; amended Pub. L. 114–94, div. A, title I, §§ 1117(a), 1120, Dec. 4, 2015, 129 Stat. 1356, 1358; Pub. L. 117–58, div. A, title I, §§ 11113(a), 11305(a), 11525(*l*), Nov. 15, 2021, 135 Stat. 479, 531, 607.)
 
 **Editorial Notes**
 
@@ -207,27 +207,27 @@ up to 100 percent.
 
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 201, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 105–178, title I, § 1115(e)(1), June 9, 1998, 112 Stat. 158, related to authorizations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
+A prior section 201, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 105–178, title I, § 1115(e)(1), June 9, 1998, 112 Stat. 158, related to authorizations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 **Amendments**
 
-2021—Subsec. (b)(7)(B). Pub. L. 117–58, § 11113(a)(1), substituted “be up to 100 percent” for “determined in accordance with section 120”.
+2021—Subsec. (b)(7)(B). Pub. L. 117–58, § 11113(a)(1), substituted “be up to 100 percent” for “determined in accordance with section 120”.
 
-Subsec. (c)(6)(A)(ii). Pub. L. 117–58, § 11525(*l*), substituted “(25 U.S.C. 5301 et seq.)” for “(25 U.S.C. 450 et seq.)”.
+Subsec. (c)(6)(A)(ii). Pub. L. 117–58, § 11525(*l*), substituted “(25 U.S.C. 5301 et seq.)” for “(25 U.S.C. 450 et seq.)”.
 
-Subsec. (c)(8)(A). Pub. L. 117–58, § 11113(a)(2), substituted “20 percent” for “5 percent”.
+Subsec. (c)(8)(A). Pub. L. 117–58, § 11113(a)(2), substituted “20 percent” for “5 percent”.
 
-Subsec. (f). Pub. L. 117–58, § 11305(a), added subsec. (f).
+Subsec. (f). Pub. L. 117–58, § 11305(a), added subsec. (f).
 
-2015—Subsec. (c)(6)(A). Pub. L. 114–94, § 1120(1), inserted cl. (i) designation and heading, substituted period for “in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), including—”, added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
+2015—Subsec. (c)(6)(A). Pub. L. 114–94, § 1120(1), inserted cl. (i) designation and heading, substituted period for “in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), including—”, added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
 
-Subsec. (c)(6)(C). Pub. L. 114–94, § 1117(a), added subpar. (C).
+Subsec. (c)(6)(C). Pub. L. 114–94, § 1117(a), added subpar. (C).
 
-Subsec. (c)(7), (8). Pub. L. 114–94, § 1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: “To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.”
+Subsec. (c)(7), (8). Pub. L. 114–94, § 1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: “To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -245,7 +245,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **Use of Alternative Contracting Methods**
 
-Pub. L. 117–58, div. A, title I, § 11305(c), Nov. 15, 2021, 135 Stat. 532, provided that:
+Pub. L. 117–58, div. A, title I, § 11305(c), Nov. 15, 2021, 135 Stat. 532, provided that:
 
 > “In carrying out an alternative contracting method under section 201(f) or 308(a)(4) of title 23, United States Code, the Secretary [of Transportation] shall—
 
@@ -261,7 +261,7 @@ Pub. L. 117–58, div. A, title I, § 11305(c), Nov. 15, 2021, 135 Stat. 532, 
 
 **Nationally Significant Federal Lands and Tribal Projects Program**
 
-Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, as amended by Pub. L. 117–58, div. A, title I, § 11127, Nov. 15, 2021, 135 Stat. 507, provided that:
+Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, as amended by Pub. L. 117–58, div. A, title I, § 11127, Nov. 15, 2021, 135 Stat. 507, provided that:
 
 > **“(a) Purpose.—** The Secretary [of Transportation] shall establish a nationally significant Federal lands and tribal projects program (referred to in this section as the ‘program’) to provide funding to construct, reconstruct, or rehabilitate nationally significant Federal lands and tribal transportation projects.
 
@@ -335,7 +335,7 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, as a
 
 > **“(3) Availability.—** Amounts made available to carry out this section shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated.”
 
-## § 202. Tribal transportation program
+## § 202. Tribal transportation program
 
 **(a) Use of Funds.—**
 
@@ -543,9 +543,9 @@ Pub. L. 114–94, div. A, title I, § 1123, Dec. 4, 2015, 129 Stat. 1370, as a
 
 **(6) Contracts and agreements with indian tribes.—**
 
-**(A) In general.—** Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 1
+**(A) In general.—** Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
@@ -619,7 +619,7 @@ Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
 **(f) Federal-aid Eligible Projects.—** Before approving as a project on a tribal transportation facility any project eligible for funds apportioned under section 104 in a State, the Secretary shall, for projects on tribal transportation facilities, determine that the obligation of funds for the project is supplementary to and not in lieu of the obligation of a fair and equitable share of funds apportioned to the State under section 104.
 
-(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 476; amended Pub. L. 114–94, div. A, title I, §§ 1118, 1446(a)(12), Dec. 4, 2015, 129 Stat. 1358, 1438; Pub. L. 117–58, div. A, title I, §§ 11524(c), 11525(m), title IV, §§ 14004, 14008(d), Nov. 15, 2021, 135 Stat. 606, 608, 648, 651.)
+(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 476; amended Pub. L. 114–94, div. A, title I, §§ 1118, 1446(a)(12), Dec. 4, 2015, 129 Stat. 1358, 1438; Pub. L. 117–58, div. A, title I, §§ 11524(c), 11525(m), title IV, §§ 14004, 14008(d), Nov. 15, 2021, 135 Stat. 606, 608, 648, 651.)
 
 **Editorial Notes**
 
@@ -627,41 +627,41 @@ Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
 The date of enactment of the MAP–21, referred to in subsec. (b)(3)(A)(ii), (C)(ii)(II)(aa)(AA), (III), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(B), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(B), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, § 133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, § 126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, § 1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§ 1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, § 9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, § 1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
+A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, § 133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, § 126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, § 1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§ 1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, § 9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, § 1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 11525(m)(1), substituted “(25 U.S.C. 5301 et seq.)” for “(25 U.S.C. 450 et seq.)” wherever appearing.
+2021—Pub. L. 117–58, § 11525(m)(1), substituted “(25 U.S.C. 5301 et seq.)” for “(25 U.S.C. 450 et seq.)” wherever appearing.
 
-Subsec. (a)(10)(B). Pub. L. 117–58, § 11525(m)(2), substituted “(25 U.S.C. 5307(b))” for “(25 U.S.C. 450e(b))”.
+Subsec. (a)(10)(B). Pub. L. 117–58, § 11525(m)(2), substituted “(25 U.S.C. 5307(b))” for “(25 U.S.C. 450e(b))”.
 
-Subsec. (b)(5). Pub. L. 117–58, § 11525(m)(3), inserted “the” after “agreement under” in introductory provisions.
+Subsec. (b)(5). Pub. L. 117–58, § 11525(m)(3), inserted “the” after “agreement under” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 117–58, § 11524(c)(1), substituted “bridges eligible for the tribal transportation program classified as in poor condition, having low load capacity, or needing geometric improvements” for “deficient bridges eligible for the tribal transportation program”.
+Subsec. (d)(1). Pub. L. 117–58, § 11524(c)(1), substituted “bridges eligible for the tribal transportation program classified as in poor condition, having low load capacity, or needing geometric improvements” for “deficient bridges eligible for the tribal transportation program”.
 
-Subsec. (d)(2). Pub. L. 117–58, § 14004, added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+Subsec. (d)(2). Pub. L. 117–58, § 14004, added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
 
 “(A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
 
 “(B) to implement any countermeasure for deficient tribal transportation facility bridges, including multiple-pipe culverts.”
 
-Subsec. (d)(3)(C). Pub. L. 117–58, § 11524(c)(2), substituted “classified as in poor condition, having a low load capacity, or needing geometric improvements” for “structurally deficient or functionally obsolete”.
+Subsec. (d)(3)(C). Pub. L. 117–58, § 11524(c)(2), substituted “classified as in poor condition, having a low load capacity, or needing geometric improvements” for “structurally deficient or functionally obsolete”.
 
-Subsec. (e)(1). Pub. L. 117–58, § 14008(d), substituted “4 percent” for “2 percent”.
+Subsec. (e)(1). Pub. L. 117–58, § 14008(d), substituted “4 percent” for “2 percent”.
 
-2015—Subsec. (a)(6). Pub. L. 114–94, § 1118(1), substituted “5 percent” for “6 percent”.
+2015—Subsec. (a)(6). Pub. L. 114–94, § 1118(1), substituted “5 percent” for “6 percent”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 114–94, § 1446(a)(12)(A), inserted “(a)(6),” after “subsections” in introductory provisions.
+Subsec. (b)(3)(A)(i). Pub. L. 114–94, § 1446(a)(12)(A), inserted “(a)(6),” after “subsections” in introductory provisions.
 
-Subsec. (b)(3)(C)(ii)(IV). Pub. L. 114–94, § 1446(a)(12)(B), substituted “(III).” for “(III).]”.
+Subsec. (b)(3)(C)(ii)(IV). Pub. L. 114–94, § 1446(a)(12)(B), substituted “(III).” for “(III).]”.
 
-Subsec. (d)(2). Pub. L. 114–94, § 1118(2), substituted “3 percent” for “2 percent” in introductory provisions.
+Subsec. (d)(2). Pub. L. 114–94, § 1118(2), substituted “3 percent” for “2 percent” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **Environmental Reviews for Certain Tribal Transportation Facilities**
 
-Pub. L. 117–58, div. A, title IV, § 14002, Nov. 15, 2021, 135 Stat. 646, provided that:
+Pub. L. 117–58, div. A, title IV, § 14002, Nov. 15, 2021, 135 Stat. 646, provided that:
 
 > **“(a) Definition of Tribal Transportation Safety Project.—**
 
@@ -713,7 +713,7 @@ Pub. L. 117–58, div. A, title IV, § 14002, Nov. 15, 2021, 135 Stat. 646, pr
 
 **Programmatic Agreements for Tribal Categorical Exclusions**
 
-Pub. L. 117–58, div. A, title IV, § 14003, Nov. 15, 2021, 135 Stat. 648, provided that:
+Pub. L. 117–58, div. A, title IV, § 14003, Nov. 15, 2021, 135 Stat. 648, provided that:
 
 > **“(a) In General.—** The Secretary [of the Interior] and the Secretary of Transportation shall enter into programmatic agreements with Indian tribes that establish efficient administrative procedures for carrying out environmental reviews for projects eligible for assistance under section 202 of title 23, United States Code.
 
@@ -739,7 +739,7 @@ Pub. L. 117–58, div. A, title IV, § 14003, Nov. 15, 2021, 135 Stat. 648, pr
 
 **Study of Road Maintenance on Indian Land**
 
-Pub. L. 117–58, div. A, title IV, § 14006, Nov. 15, 2021, 135 Stat. 649, provided that:
+Pub. L. 117–58, div. A, title IV, § 14006, Nov. 15, 2021, 135 Stat. 649, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -787,11 +787,11 @@ Pub. L. 117–58, div. A, title IV, § 14006, Nov. 15, 2021, 135 Stat. 649, pr
 
 **Maintenance of Certain Indian Reservation Roads**
 
-Pub. L. 117–58, div. A, title IV, § 14007, Nov. 15, 2021, 135 Stat. 650, provided that: “The Commissioner of U.S. Customs and Border Protection may transfer funds to the Director of the Bureau of Indian Affairs to maintain, repair, or reconstruct roads under the jurisdiction of the Director, subject to the condition that the Commissioner and the Director shall mutually agree that the primary user of the subject road is U.S. Customs and Border Protection.”
+Pub. L. 117–58, div. A, title IV, § 14007, Nov. 15, 2021, 135 Stat. 650, provided that: “The Commissioner of U.S. Customs and Border Protection may transfer funds to the Director of the Bureau of Indian Affairs to maintain, repair, or reconstruct roads under the jurisdiction of the Director, subject to the condition that the Commissioner and the Director shall mutually agree that the primary user of the subject road is U.S. Customs and Border Protection.”
 
 **Tribal Transportation Safety Needs**
 
-Pub. L. 117–58, div. A, title IV, § 14008(a)–(c), Nov. 15, 2021, 135 Stat. 650, 651, provided that:
+Pub. L. 117–58, div. A, title IV, § 14008(a)–(c), Nov. 15, 2021, 135 Stat. 650, 651, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -821,7 +821,7 @@ Pub. L. 117–58, div. A, title IV, § 14008(a)–(c), Nov. 15, 2021, 135 Stat
 
 **Tribal High Priority Projects Program**
 
-Pub. L. 112–141, div. A, title I, § 1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, § 1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, § 1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, § 1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, § 1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, § 1001(b)(2), Nov. 20, 2015, 129 Stat. 678; Pub. L. 117–58, div. A, title I, § 11128, Nov. 15, 2021, 135 Stat. 508, provided that:
+Pub. L. 112–141, div. A, title I, § 1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, § 1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, § 1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, § 1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, § 1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, § 1001(b)(2), Nov. 20, 2015, 129 Stat. 678; Pub. L. 117–58, div. A, title I, § 11128, Nov. 15, 2021, 135 Stat. 508, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -981,7 +981,7 @@ Pub. L. 112–141, div. A, title I, § 1123, July 6, 2012, 126 Stat. 497, as a
 
 **Additional Authorization of Contract Authority for States With Indian Reservations**
 
-Pub. L. 105–178, title I, § 1214(d), June 9, 1998, 112 Stat. 205, as amended by Pub. L. 109–59, title I, § 1806, Aug. 10, 2005, 119 Stat. 1460, provided that:
+Pub. L. 105–178, title I, § 1214(d), June 9, 1998, 112 Stat. 205, as amended by Pub. L. 109–59, title I, § 1806, Aug. 10, 2005, 119 Stat. 1460, provided that:
 
 > **“(1) Availability to states.—** Not later than October 1 of each fiscal year, funds made available under paragraph (5) for the fiscal year shall be made available by the Secretary, in equal amounts, to each State that has within the boundaries of the State all or part of an Indian reservation having a land area of 10,000,000 acres or more.
 
@@ -1019,15 +1019,15 @@ Pub. L. 105–178, title I, § 1214(d), June 9, 1998, 112 Stat. 205, as amende
 
 **Indian Reservation Roads**
 
-Pub. L. 102–240, title I, § 1032(d), Dec. 18, 1991, 105 Stat. 1975, provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
+Pub. L. 102–240, title I, § 1032(d), Dec. 18, 1991, 105 Stat. 1975, provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
 
-Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, § 1501(c), Nov. 10, 1998, 112 Stat. 3294.
+Pub. L. 102–240, title I, § 1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, § 1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
 **Definition of Secretary**
 
-Pub. L. 117–58, div. A, title IV, § 14001, Nov. 15, 2021, 135 Stat. 646, provided that: “In this title [amending this section and section 102 of Title 49, Transportation, and enacting provisions set out as notes under this section], the term ‘Secretary’ means the Secretary of the Interior.”
+Pub. L. 117–58, div. A, title IV, § 14001, Nov. 15, 2021, 135 Stat. 646, provided that: “In this title [amending this section and section 102 of Title 49, Transportation, and enacting provisions set out as notes under this section], the term ‘Secretary’ means the Secretary of the Interior.”
 
-## § 203. Federal lands transportation program
+## § 203. Federal lands transportation program
 
 **(a) Use of Funds.—**
 
@@ -1057,9 +1057,9 @@ Pub. L. 117–58, div. A, title IV, § 14001, Nov. 15, 2021, 135 Stat. 646, pr
 
 **(C)** any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
 
-**(D)** not more $20,000,000 1
+**(D)** not more $20,000,000 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
 
@@ -1199,37 +1199,37 @@ of the amounts made available per fiscal year to carry out this section for acti
 
 **(5) Mitigation commitments.—** The Secretary shall assist the Federal land management agency with all design and mitigation commitments made jointly by the Secretary and the project sponsor in any environmental document prepared by the Secretary in accordance with this subsection.
 
-(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 486; amended Pub. L. 114–94, div. A, title I, § 1119, Dec. 4, 2015, 129 Stat. 1358; Pub. L. 117–58, div. A, title I, §§ 11112, 11311, Nov. 15, 2021, 135 Stat. 479, 536.)
+(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 486; amended Pub. L. 114–94, div. A, title I, § 1119, Dec. 4, 2015, 129 Stat. 1358; Pub. L. 117–58, div. A, title I, §§ 11112, 11311, Nov. 15, 2021, 135 Stat. 479, 536.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (c)(5) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (c)(5) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 203, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 86–657, § 8(b), July 14, 1960, 74 Stat. 524; Pub. L. 87–866, § 7, Oct. 23, 1962, 76 Stat. 1147; Pub. L. 94–280, title I, § 117(b), May 5, 1976, 90 Stat. 437; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 102–240, title I, § 1032(f), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 105–178, title I, § 1115(c), (e)(3), June 9, 1998, 112 Stat. 156, 158, related to availability of funds, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
+A prior section 203, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 86–657, § 8(b), July 14, 1960, 74 Stat. 524; Pub. L. 87–866, § 7, Oct. 23, 1962, 76 Stat. 1147; Pub. L. 94–280, title I, § 117(b), May 5, 1976, 90 Stat. 437; Pub. L. 97–424, title I, § 126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 102–240, title I, § 1032(f), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 105–178, title I, § 1115(c), (e)(3), June 9, 1998, 112 Stat. 156, 158, related to availability of funds, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 **Amendments**
 
-2021—Subsec. (a)(1)(D). Pub. L. 117–58, § 11112(1), substituted “$20,000,000” for “$10,000,000”.
+2021—Subsec. (a)(1)(D). Pub. L. 117–58, § 11112(1), substituted “$20,000,000” for “$10,000,000”.
 
-Subsec. (a)(6). Pub. L. 117–58, § 11112(2), added par. (6).
+Subsec. (a)(6). Pub. L. 117–58, § 11112(2), added par. (6).
 
-Subsec. (e). Pub. L. 117–58, § 11311, added subsec. (e).
+Subsec. (e). Pub. L. 117–58, § 11311, added subsec. (e).
 
-2015—Subsec. (a)(1)(B). Pub. L. 114–94, § 1119(1)(A), substituted “capital, operations,” for “operation”.
+2015—Subsec. (a)(1)(B). Pub. L. 114–94, § 1119(1)(A), substituted “capital, operations,” for “operation”.
 
-Subsec. (a)(1)(D). Pub. L. 114–94, § 1119(1)(B), substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
+Subsec. (a)(1)(D). Pub. L. 114–94, § 1119(1)(B), substituted “subparagraph (A)(iv)(I)” for “subparagraph (A)(iv)”.
 
-Subsec. (b)(1)(B)(vi), (vii). Pub. L. 114–94, § 1119(2)(A), added cls. (vi) and (vii).
+Subsec. (b)(1)(B)(vi), (vii). Pub. L. 114–94, § 1119(2)(A), added cls. (vi) and (vii).
 
-Subsec. (b)(2)(B). Pub. L. 114–94, § 1119(2)(B)(i), inserted “performance management, including” after “support” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 114–94, § 1119(2)(B)(i), inserted “performance management, including” after “support” in introductory provisions.
 
-Subsec. (b)(2)(B)(i)(II). Pub. L. 114–94, § 1119(2)(B)(ii), substituted “; and” for “, and”.
+Subsec. (b)(2)(B)(i)(II). Pub. L. 114–94, § 1119(2)(B)(ii), substituted “; and” for “, and”.
 
-Subsec. (c)(2)(B)(vi). Pub. L. 114–94, § 1119(3), added cl. (vi).
+Subsec. (c)(2)(B)(vi). Pub. L. 114–94, § 1119(3), added cl. (vi).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1245,7 +1245,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 204. Federal lands access program
+## § 204. Federal lands access program
 
 **(a) Use of Funds.—**
 
@@ -1383,23 +1383,23 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(3) Project preference.—** In making a programming decision under paragraph (1), the committee shall give preference to projects that provide access to, are adjacent to, or are located within high-use Federal recreation sites or Federal economic generators, as identified by the Secretaries of the appropriate Federal land management agencies.
 
-(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 489; amended Pub. L. 117–58, div. A, title I, § 11113(b), Nov. 15, 2021, 135 Stat. 479.)
+(Added Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 489; amended Pub. L. 117–58, div. A, title I, § 11113(b), Nov. 15, 2021, 135 Stat. 479.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 204, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, § 126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, § 133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§ 1030, 1032(b), title VI, § 6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, § 1115(d), (e)(4), title V, § 5119(a), June 9, 1998, 112 Stat. 156, 158, 452; Pub. L. 109–59, title I, § 1119(h)–(k), Aug. 10, 2005, 119 Stat. 1187–1189, related to Federal lands highways program, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
+A prior section 204, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, § 126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, § 133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§ 1030, 1032(b), title VI, § 6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, § 1115(d), (e)(4), title V, § 5119(a), June 9, 1998, 112 Stat. 156, 158, 452; Pub. L. 109–59, title I, § 1119(h)–(k), Aug. 10, 2005, 119 Stat. 1187–1189, related to Federal lands highways program, prior to repeal by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473.
 
 **Amendments**
 
-2021—Subsec. (a)(1)(A). Pub. L. 117–58, § 11113(b)(1)(A), inserted “context-sensitive solutions,” after “restoration,” in introductory provisions.
+2021—Subsec. (a)(1)(A). Pub. L. 117–58, § 11113(b)(1)(A), inserted “context-sensitive solutions,” after “restoration,” in introductory provisions.
 
-Subsec. (a)(1)(A)(i). Pub. L. 117–58, § 11113(b)(1)(B), inserted “, including interpretive panels in or adjacent to those areas” after “areas”.
+Subsec. (a)(1)(A)(i). Pub. L. 117–58, § 11113(b)(1)(B), inserted “, including interpretive panels in or adjacent to those areas” after “areas”.
 
-Subsec. (a)(1)(A)(vi) to (ix). Pub. L. 117–58, § 11113(b)(1)(C)–(E), added cls. (vi) to (viii) and redesignated former cl. (vi) as (ix).
+Subsec. (a)(1)(A)(vi) to (ix). Pub. L. 117–58, § 11113(b)(1)(C)–(E), added cls. (vi) to (viii) and redesignated former cl. (vi) as (ix).
 
-Subsec. (a)(6). Pub. L. 117–58, § 11113(b)(2), added par. (6).
+Subsec. (a)(6). Pub. L. 117–58, § 11113(b)(2), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1411,7 +1411,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 205. Forest development roads and trails
+## § 205. Forest development roads and trails
 
 **(a)** Funds available for forest development roads and trails shall be used by the Secretary of Agriculture to pay for the costs of construction and maintenance thereof, including roads and trails on experimental and other areas under Forest Service administration. In connection therewith, the Secretary of Agriculture may enter into contracts with a State or civil subdivision thereof, and issue such regulations as he deems advisable.
 
@@ -1421,13 +1421,13 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(d)** Funds available for forest development roads and trails shall be available for adjacent vehicular parking areas, which may include electric vehicle charging stations or natural gas vehicle refueling stations, and for sanitary, water, and fire control facilities.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 86–657, § 8(c), July 14, 1960, 74 Stat. 524; Pub. L. 88–423, § 4(d), Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–495, § 9, Aug. 23, 1968, 82 Stat. 820; Pub. L. 102–240, title I, § 1032(c), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 112–141, div. A, title I, § 1513(c), July 6, 2012, 126 Stat. 572.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 86–657, § 8(c), July 14, 1960, 74 Stat. 524; Pub. L. 88–423, § 4(d), Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–495, § 9, Aug. 23, 1968, 82 Stat. 820; Pub. L. 102–240, title I, § 1032(c), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 112–141, div. A, title I, § 1513(c), July 6, 2012, 126 Stat. 572.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (d). Pub. L. 112–141 inserted “, which may include electric vehicle charging stations or natural gas vehicle refueling stations,” after “parking areas”.
+2012—Subsec. (d). Pub. L. 112–141 inserted “, which may include electric vehicle charging stations or natural gas vehicle refueling stations,” after “parking areas”.
 
 1991—Subsec. (c). Pub. L. 102–240 substituted “$50,000” for “$15,000” wherever appearing.
 
@@ -1451,7 +1451,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under section 101 of this title.
 
-## § 206. Recreational trails program
+## § 206. Recreational trails program
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -1603,49 +1603,49 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
 **(j) Use of Other Apportioned Funds.—** Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
 
-(Added Pub. L. 105–178, title I, § 1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, § 1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, § 101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, § 5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§ 11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
+(Added Pub. L. 105–178, title I, § 1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, § 1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, § 101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, § 5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§ 11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of Title 16 and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of Title 16 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 **Prior Provisions**
 
-A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
+A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 **Amendments**
 
-2021—Subsec. (d)(2)(G). Pub. L. 117–58, § 11525(n), substituted “uses of recreational trails” for “use of recreational trails”.
+2021—Subsec. (d)(2)(G). Pub. L. 117–58, § 11525(n), substituted “uses of recreational trails” for “use of recreational trails”.
 
-Subsec. (j). Pub. L. 117–58, § 11134, added subsec. (j).
+Subsec. (j). Pub. L. 117–58, § 11134, added subsec. (j).
 
-2014—Subsec. (d)(1)(B). Pub. L. 113–287, § 5(f)(3)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 et seq.)”.
+2014—Subsec. (d)(1)(B). Pub. L. 113–287, § 5(f)(3)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 et seq.)”.
 
-Subsec. (d)(2)(D)(ii). Pub. L. 113–287, § 5(f)(3)(B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 et seq.)”.
+Subsec. (d)(2)(D)(ii). Pub. L. 113–287, § 5(f)(3)(B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 et seq.)”.
 
-Subsec. (h)(3). Pub. L. 113–287, § 5(f)(3)(C), substituted “section 200305(f)(3) of title 54” for “section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–8(f)(3))”.
+Subsec. (h)(3). Pub. L. 113–287, § 5(f)(3)(C), substituted “section 200305(f)(3) of title 54” for “section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–8(f)(3))”.
 
 2008—Subsec. (d)(3)(A). Pub. L. 110–244 substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
 
-2005—Subsec. (d)(2). Pub. L. 109–59, § 1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
+2005—Subsec. (d)(2). Pub. L. 109–59, § 1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
 
-Subsec. (d)(3)(C), (D). Pub. L. 109–59, § 1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
+Subsec. (d)(3)(C), (D). Pub. L. 109–59, § 1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
 
-Subsec. (f)(1). Pub. L. 109–59, § 1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determined in accordance with section 120(b)” for “not exceed 80 percent”.
+Subsec. (f)(1). Pub. L. 109–59, § 1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determined in accordance with section 120(b)” for “not exceed 80 percent”.
 
-Subsec. (f)(2)(A). Pub. L. 109–59, § 1109(d)(2), substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
+Subsec. (f)(2)(A). Pub. L. 109–59, § 1109(d)(2), substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
 
-Subsec. (f)(2)(B). Pub. L. 109–59, § 1109(d)(3), inserted “sponsoring the project” after “Federal agency”.
+Subsec. (f)(2)(B). Pub. L. 109–59, § 1109(d)(3), inserted “sponsoring the project” after “Federal agency”.
 
-Subsec. (f)(4), (5). Pub. L. 109–59, § 1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
+Subsec. (f)(4), (5). Pub. L. 109–59, § 1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
 
-Subsec. (h)(1)(C). Pub. L. 109–59, § 1109(e), added subpar. (C).
+Subsec. (h)(1)(C). Pub. L. 109–59, § 1109(e), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1655,7 +1655,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 **Nonhighway Recreational Fuel Study**
 
-Pub. L. 117–58, div. A, title I, § 11512, Nov. 15, 2021, 135 Stat. 594, provided that:
+Pub. L. 117–58, div. A, title I, § 11512, Nov. 15, 2021, 135 Stat. 594, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1695,7 +1695,7 @@ Pub. L. 117–58, div. A, title I, § 11512, Nov. 15, 2021, 135 Stat. 594, pro
 
 **Use of Youth Service and Conservation Corps**
 
-Pub. L. 112–141, div. A, title I, § 1524, July 6, 2012, 126 Stat. 580, provided that:
+Pub. L. 112–141, div. A, title I, § 1524, July 6, 2012, 126 Stat. 580, provided that:
 
 > **“(a) In General.—** The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of Public Law 101–610 (42 U.S.C. 12572(a)(2)) and 106(c)(3) of Public Law 103–82 (42 U.S.C. 12656(c)(3)) to perform appropriate projects eligible under sections 162, 206, [former] 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU (119 Stat. 1228).
 
@@ -1711,11 +1711,11 @@ Pub. L. 112–141, div. A, title I, § 1524, July 6, 2012, 126 Stat. 580, prov
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 109–59, title I, § 1109(f), Aug. 10, 2005, 119 Stat. 1170.
+Pub. L. 109–59, title I, § 1109(f), Aug. 10, 2005, 119 Stat. 1170.
 
-Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
+Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
 
-## § 207. Tribal transportation self-governance program
+## § 207. Tribal transportation self-governance program
 
 **(a) Establishment.—** Subject to the requirements of this section, the Secretary shall establish and carry out a program to be known as the tribal transportation self-governance program. The Secretary may delegate responsibilities for administration of the program as the Secretary determines appropriate.
 
@@ -2011,7 +2011,7 @@ Pub. L. 105–178, title I, § 1112(e), June 9, 1998, 112 Stat. 151.
 
 **(4) Effect of circulars, policies, manuals, guidance, and rules.—** Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except regulations promulgated under this section.
 
-(Added Pub. L. 114–94, div. A, title I, § 1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, § 1, Aug. 14, 2018, 132 Stat. 2443; Pub. L. 117–58, div. A, title I, § 11525(*o*), Nov. 15, 2021, 135 Stat. 608.)
+(Added Pub. L. 114–94, div. A, title I, § 1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, § 1, Aug. 14, 2018, 132 Stat. 2443; Pub. L. 117–58, div. A, title I, § 11525(*o*), Nov. 15, 2021, 135 Stat. 608.)
 
 **Editorial Notes**
 
@@ -2021,39 +2021,39 @@ The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(
 
 The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (*l*), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (*l*), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93–87, title I, § 150, Aug. 13, 1973, 87 Stat. 275, provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
+A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93–87, title I, § 150, Aug. 13, 1973, 87 Stat. 275, provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 **Amendments**
 
-2021—Subsec. (g). Pub. L. 117–58, § 11525(*o*)(1), substituted “(25 U.S.C. 5325)” for “(25 U.S.C. 450j–1)” and “(25 U.S.C. 5325(f))” for “(25 U.S.C. 450j–1(f))”.
+2021—Subsec. (g). Pub. L. 117–58, § 11525(*o*)(1), substituted “(25 U.S.C. 5325)” for “(25 U.S.C. 450j–1)” and “(25 U.S.C. 5325(f))” for “(25 U.S.C. 450j–1(f))”.
 
-Subsec. (*l*)(1). Pub. L. 117–58, § 11525(*o*(2)(A), substituted “(25 U.S.C. 5386)” for “(25 U.S.C. 458aaa–5)”.
+Subsec. (*l*)(1). Pub. L. 117–58, § 11525(*o*(2)(A), substituted “(25 U.S.C. 5386)” for “(25 U.S.C. 458aaa–5)”.
 
-Subsec. (*l*)(2). Pub. L. 117–58, § 11525(*o*)(2)(B), substituted “(25 U.S.C. 5387)” for “(25 U.S.C. 458aaa–6)”.
+Subsec. (*l*)(2). Pub. L. 117–58, § 11525(*o*)(2)(B), substituted “(25 U.S.C. 5387)” for “(25 U.S.C. 458aaa–6)”.
 
-Subsec. (*l*)(3). Pub. L. 117–58, § 11525(*o*)(2)(C), substituted “(25 U.S.C. 5388)” for “(25 U.S.C. 458aaa–7)”.
+Subsec. (*l*)(3). Pub. L. 117–58, § 11525(*o*)(2)(C), substituted “(25 U.S.C. 5388)” for “(25 U.S.C. 458aaa–7)”.
 
-Subsec. (*l*)(4). Pub. L. 117–58, § 11525(*o*)(2)(D), substituted “(25 U.S.C. 5390)” for “(25 U.S.C. 458aaa–9)”.
+Subsec. (*l*)(4). Pub. L. 117–58, § 11525(*o*)(2)(D), substituted “(25 U.S.C. 5390)” for “(25 U.S.C. 458aaa–9)”.
 
-Subsec. (*l*)(5). Pub. L. 117–58, § 11525(*o*)(2)(E), substituted “(25 U.S.C. 5391)” for “(25 U.S.C. 458aaa–10)”.
+Subsec. (*l*)(5). Pub. L. 117–58, § 11525(*o*)(2)(E), substituted “(25 U.S.C. 5391)” for “(25 U.S.C. 458aaa–10)”.
 
-Subsec. (*l*)(6). Pub. L. 117–58, § 11525(*o*)(2)(F), substituted “(25 U.S.C. 5392)” for “(25 U.S.C. 458aaa–11)”.
+Subsec. (*l*)(6). Pub. L. 117–58, § 11525(*o*)(2)(F), substituted “(25 U.S.C. 5392)” for “(25 U.S.C. 458aaa–11)”.
 
-Subsec. (*l*)(7). Pub. L. 117–58, § 11525(*o*)(2)(G), substituted “(25 U.S.C. 5395)” for “(25 U.S.C. 458aaa–14)”.
+Subsec. (*l*)(7). Pub. L. 117–58, § 11525(*o*)(2)(G), substituted “(25 U.S.C. 5395)” for “(25 U.S.C. 458aaa–14)”.
 
-Subsec. (*l*)(8). Pub. L. 117–58, § 11525(*o*)(2)(H), substituted “(25 U.S.C. 5396)” for “(25 U.S.C. 458aaa–15)”.
+Subsec. (*l*)(8). Pub. L. 117–58, § 11525(*o*)(2)(H), substituted “(25 U.S.C. 5396)” for “(25 U.S.C. 458aaa–15)”.
 
-Subsec. (*l*)(9). Pub. L. 117–58, § 11525(*o*)(2)(I), substituted “(25 U.S.C. 5398)” for “(25 U.S.C. 458aaa–17)”.
+Subsec. (*l*)(9). Pub. L. 117–58, § 11525(*o*)(2)(I), substituted “(25 U.S.C. 5398)” for “(25 U.S.C. 458aaa–17)”.
 
-Subsec. (m)(2). Pub. L. 117–58, § 11525(*o*)(3), substituted “501” for “505” and “(25 U.S.C. 5304; 5381)” for “(25 U.S.C. 450b; 458aaa)”.
+Subsec. (m)(2). Pub. L. 117–58, § 11525(*o*)(3), substituted “501” for “505” and “(25 U.S.C. 5304; 5381)” for “(25 U.S.C. 450b; 458aaa)”.
 
-2018—Subsec. (n)(1)(B). Pub. L. 115–235, § 1(1), substituted “42 months” for “21 months”.
+2018—Subsec. (n)(1)(B). Pub. L. 115–235, § 1(1), substituted “42 months” for “21 months”.
 
-Subsec. (n)(1)(C). Pub. L. 115–235, § 1(2), substituted “48 months” for “30 months”.
+Subsec. (n)(1)(C). Pub. L. 115–235, § 1(2), substituted “48 months” for “30 months”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2065,7 +2065,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
-## § 208. Safe routes to school
+## § 208. Safe routes to school
 
 **(a) Definitions.—** In this section:
 
@@ -2131,13 +2131,13 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 **(i) Treatment of Projects.—** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1.
 
-(Added Pub. L. 117–58, div. A, title I, § 11119(a), Nov. 15, 2021, 135 Stat. 495.)
+(Added Pub. L. 117–58, div. A, title I, § 11119(a), Nov. 15, 2021, 135 Stat. 495.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub. L. 93–643, § 102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under section 104 of this title, for use of Indian labor in such projects, and for cooperation with States and localities, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
+A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub. L. 93–643, § 102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under section 104 of this title, for use of Indian labor in such projects, and for cooperation with States and localities, prior to repeal by Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2145,11 +2145,11 @@ A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87�
 
 Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under section 101 of this title.
 
-## [§ 209. Repealed. Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115]
+## [§ 209. Repealed. Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115]
 
-Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 88–423, § 4(b), Aug. 13, 1964, 78 Stat. 397, provided for use of funds for construction and maintenance of public lands highways, cooperation with State agencies, the application of section 112 of this title to public lands highways, and for use of such funds for adjacent ancillary facilities and services.
+Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 88–423, § 4(b), Aug. 13, 1964, 78 Stat. 397, provided for use of funds for construction and maintenance of public lands highways, cooperation with State agencies, the application of section 112 of this title to public lands highways, and for use of such funds for adjacent ancillary facilities and services.
 
-## § 210. Defense access roads
+## § 210. Defense access roads
 
 **(a) Authorization.—**
 
@@ -2201,27 +2201,27 @@ Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 88–423, § 4
 
 **(i) Repair of Certain Damages and Infrastructure.—** The funds appropriated to carry out this section may be used to pay the cost of repairing damage caused, or any infrastructure to mitigate a risk posed, to a defense access road by recurrent or projected recurrent flooding, sea level fluctuation, a natural disaster, or any other current or projected change in applicable environmental conditions, if the Secretary determines that continued access to a military installation, defense industry site, air or sea port necessary for or planned to be used for the deployment or sustainment of members of the Armed Forces, equipment, or supplies, or to a source of raw materials, has been or is projected to be impacted by those events or conditions.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 86–657, § 8(d), July 14, 1960, 74 Stat. 524; Pub. L. 87–61, title I, § 105, June 29, 1961, 75 Stat. 123; Pub. L. 97–424, title I, § 155, Jan. 6, 1983, 96 Stat. 2134; Pub. L. 100–17, title I, § 133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, § 3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110–417, div. B, title XXVIII, § 2814(a), Oct. 14, 2008, 122 Stat. 4728; Pub. L. 112–81, div. B, title XXVIII, § 2816(a), Dec. 31, 2011, 125 Stat. 1689; Pub. L. 112–141, div. A, title I, § 1516, July 6, 2012, 126 Stat. 574; Pub. L. 115–232, div. B, title XXVIII, § 2865, Aug. 13, 2018, 132 Stat. 2285; Pub. L. 116–92, div. B, title XXVIII, § 2808, Dec. 20, 2019, 133 Stat. 1885.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 86–657, § 8(d), July 14, 1960, 74 Stat. 524; Pub. L. 87–61, title I, § 105, June 29, 1961, 75 Stat. 123; Pub. L. 97–424, title I, § 155, Jan. 6, 1983, 96 Stat. 2134; Pub. L. 100–17, title I, § 133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, § 3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110–417, div. B, title XXVIII, § 2814(a), Oct. 14, 2008, 122 Stat. 4728; Pub. L. 112–81, div. B, title XXVIII, § 2816(a), Dec. 31, 2011, 125 Stat. 1689; Pub. L. 112–141, div. A, title I, § 1516, July 6, 2012, 126 Stat. 574; Pub. L. 115–232, div. B, title XXVIII, § 2865, Aug. 13, 2018, 132 Stat. 2285; Pub. L. 116–92, div. B, title XXVIII, § 2808, Dec. 20, 2019, 133 Stat. 1885.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 2808(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary is authorized, out of the funds appropriated for defense access roads, to provide for the construction and maintenance of defense access roads (including bridges, tubes, and tunnels thereon) to military reservations, to defense industries and defense industry sites, and to the sources of raw materials when such roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, and for replacing existing highways and highway connections that are shut off from the general public use by necessary closures, closures due to mean sea level fluctuation and flooding, or restrictions at military reservations and defense industry sites.”
+2019—Subsec. (a)(1). Pub. L. 116–92, § 2808(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary is authorized, out of the funds appropriated for defense access roads, to provide for the construction and maintenance of defense access roads (including bridges, tubes, and tunnels thereon) to military reservations, to defense industries and defense industry sites, and to the sources of raw materials when such roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, and for replacing existing highways and highway connections that are shut off from the general public use by necessary closures, closures due to mean sea level fluctuation and flooding, or restrictions at military reservations and defense industry sites.”
 
-Subsec. (b). Pub. L. 116–92, § 2808(2), substituted “construction, reconstruction, resurfacing, restoration, rehabilitation, and preservation of, or enhancements to,” for “the construction and maintenance of”.
+Subsec. (b). Pub. L. 116–92, § 2808(2), substituted “construction, reconstruction, resurfacing, restoration, rehabilitation, and preservation of, or enhancements to,” for “the construction and maintenance of”.
 
-Subsec. (c). Pub. L. 116–92, § 2808(3), substituted “certified to the Secretary” for “certified to him”, “activities for construction, maintenance, reconstruction, enhancement, improvement, and repair” for “construction, maintenance, and repair work”, “in those areas” for “therein”, and “condition for—” and pars. (1) and (2) for “condition for such training purposes and for repairing the damage caused to such highways by the operations of men and equipment in such training.”
+Subsec. (c). Pub. L. 116–92, § 2808(3), substituted “certified to the Secretary” for “certified to him”, “activities for construction, maintenance, reconstruction, enhancement, improvement, and repair” for “construction, maintenance, and repair work”, “in those areas” for “therein”, and “condition for—” and pars. (1) and (2) for “condition for such training purposes and for repairing the damage caused to such highways by the operations of men and equipment in such training.”
 
-Subsec. (g). Pub. L. 116–92, § 2808(4), substituted “the Secretary may advance” for “he may advance”, “construction and other activities” for “construction which has been”, and “upon demand by the Secretary” for “upon his demand”.
+Subsec. (g). Pub. L. 116–92, § 2808(4), substituted “the Secretary may advance” for “he may advance”, “construction and other activities” for “construction which has been”, and “upon demand by the Secretary” for “upon his demand”.
 
-Subsec. (i). Pub. L. 116–92, § 2808(5), added subsec. (i) and struck out former subsec. (i) which read as follows: “Beginning in fiscal year 2019, funds appropriated for the purposes of this section shall be available to pay the cost of repairing damage caused to, and for any infrastructure to mitigate the risks posed to, highways by recurrent flooding and sea level fluctuation, if the Secretary of Defense shall determine that continued access to a military installation has been impacted by past flooding and mean sea level fluctuation.”
+Subsec. (i). Pub. L. 116–92, § 2808(5), added subsec. (i) and struck out former subsec. (i) which read as follows: “Beginning in fiscal year 2019, funds appropriated for the purposes of this section shall be available to pay the cost of repairing damage caused to, and for any infrastructure to mitigate the risks posed to, highways by recurrent flooding and sea level fluctuation, if the Secretary of Defense shall determine that continued access to a military installation has been impacted by past flooding and mean sea level fluctuation.”
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 2865(a), substituted “closures, closures due to mean sea level fluctuation and flooding, or restrictions” for “closures or restrictions”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 2865(a), substituted “closures, closures due to mean sea level fluctuation and flooding, or restrictions” for “closures or restrictions”.
 
-Subsec. (i). Pub. L. 115–232, § 2865(b), added subsec. (i).
+Subsec. (i). Pub. L. 115–232, § 2865(b), added subsec. (i).
 
-2012—Subsec. (a)(2). Pub. L. 112–141 inserted “, in consultation with the Secretary of Transportation,” before “shall determine”.
+2012—Subsec. (a)(2). Pub. L. 112–141 inserted “, in consultation with the Secretary of Transportation,” before “shall determine”.
 
 2011—Subsec. (a)(2). Pub. L. 112–81 inserted at end “The Secretary of Defense shall determine the magnitude of the required improvements without regard to the extent to which traffic generated by the reservation is greater than other traffic in the vicinity of the reservation.”
 
@@ -2247,7 +2247,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Economic Adjustment Committee Consideration of Additional Defense Access Roads Funding Sources**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2816(b), Dec. 31, 2011, 125 Stat. 1689, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2816(b), Dec. 31, 2011, 125 Stat. 1689, provided that:
 
 > **“(1) Convening of committee.—** Not later than 90 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense, as the chairperson of the Economic Adjustment Committee established in Executive Order No. 127887 [12788] (10 U.S.C. 2391 note), shall convene the Economic Adjustment Committee to consider additional sources of funding for the defense access roads program under section 210 of title 23, United States Code.
 
@@ -2255,13 +2255,13 @@ Pub. L. 112–81, div. B, title XXVIII, § 2816(b), Dec. 31, 2011, 125 Stat. 1
 
 **Separate Budget Request for Program**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2816(c), Dec. 31, 2011, 125 Stat. 1689, provided that: “Amounts requested for a fiscal year for the defense access roads program under section 210 of title 23, United States Code, shall be set forth as a separate budget request in the budget transmitted by the President to Congress for that fiscal year under section 1105 of title 31, United States.”
+Pub. L. 112–81, div. B, title XXVIII, § 2816(c), Dec. 31, 2011, 125 Stat. 1689, provided that: “Amounts requested for a fiscal year for the defense access roads program under section 210 of title 23, United States Code, shall be set forth as a separate budget request in the budget transmitted by the President to Congress for that fiscal year under section 1105 of title 31, United States.”
 
-## [§ 211. Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]
+## [§ 211. Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]
 
 Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 909, related to timber access road hearings.
 
-## [§ 212. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
+## [§ 212. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
 
 Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 909, related to the Inter-American Highway.
 
@@ -2271,11 +2271,11 @@ Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 909, related to the Inter-Ame
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## [§ 213. Repealed. Pub. L. 114–94, div. A, title I, § 1109(c)(2), Dec. 4, 2015, 129 Stat. 1343]
+## [§ 213. Repealed. Pub. L. 114–94, div. A, title I, § 1109(c)(2), Dec. 4, 2015, 129 Stat. 1343]
 
-Section, added Pub. L. 112–141, div. A, title I, § 1122(a), July 6, 2012, 126 Stat. 494, related to transportation alternatives.
+Section, added Pub. L. 112–141, div. A, title I, § 1122(a), July 6, 2012, 126 Stat. 494, related to transportation alternatives.
 
-A prior section 213, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 911, related to construction of Rama Road in Republic of Nicaragua, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
+A prior section 213, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 911, related to construction of Rama Road in Republic of Nicaragua, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2283,21 +2283,9 @@ A prior section 213, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 911, related to c
 
 Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
-## [§ 214. Repealed. Pub. L. 112–141, div. A, title I, § 1119(b), July 6, 2012, 126 Stat. 491]
+## [§ 214. Repealed. Pub. L. 112–141, div. A, title I, § 1119(b), July 6, 2012, 126 Stat. 491]
 
-Section, added Pub. L. 87–866, § 6(b), Oct. 23, 1962, 76 Stat. 1147; amended Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115, related to public lands development roads and trails.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
-
-## [§ 215. Repealed. Pub. L. 112–141, div. A, title I, § 1114(b)(2)(A), July 6, 2012, 126 Stat. 468]
-
-Section, added Pub. L. 109–59, title I, § 1118(a), Aug. 10, 2005, 119 Stat. 1179, related to territorial highway program.
-
-A prior section 215, added Pub. L. 91–605, title I, § 112(a), Dec. 31, 1970, 84 Stat. 1720; amended Pub. L. 95–599, title I, § 129(f), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 96–106, § 9, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, § 133(b)(16), Apr. 2, 1987, 101 Stat. 172, related to territorial highway program, prior to repeal by Pub. L. 109–59, title I, § 1118(a), Aug. 10, 2005, 119 Stat. 1179.
+Section, added Pub. L. 87–866, § 6(b), Oct. 23, 1962, 76 Stat. 1147; amended Pub. L. 97–424, title I, § 126(d), Jan. 6, 1983, 96 Stat. 2115, related to public lands development roads and trails.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2305,9 +2293,11 @@ A prior section 215, added Pub. L. 91–605, title I, § 112(a), Dec. 31, 1970
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## [§ 216. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
+## [§ 215. Repealed. Pub. L. 112–141, div. A, title I, § 1114(b)(2)(A), July 6, 2012, 126 Stat. 468]
 
-Section, added Pub. L. 91–605, title I, § 113(a), Dec. 31, 1970, 84 Stat. 1721, related to the Darien Gap Highway.
+Section, added Pub. L. 109–59, title I, § 1118(a), Aug. 10, 2005, 119 Stat. 1179, related to territorial highway program.
+
+A prior section 215, added Pub. L. 91–605, title I, § 112(a), Dec. 31, 1970, 84 Stat. 1720; amended Pub. L. 95–599, title I, § 129(f), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 96–106, § 9, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, § 133(b)(16), Apr. 2, 1987, 101 Stat. 172, related to territorial highway program, prior to repeal by Pub. L. 109–59, title I, § 1118(a), Aug. 10, 2005, 119 Stat. 1179.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2315,7 +2305,17 @@ Section, added Pub. L. 91–605, title I, § 113(a), Dec. 31, 1970, 84 Stat. 1
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 217. Bicycle transportation and pedestrian walkways
+## [§ 216. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
+
+Section, added Pub. L. 91–605, title I, § 113(a), Dec. 31, 1970, 84 Stat. 1721, related to the Darien Gap Highway.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+## § 217. Bicycle transportation and pedestrian walkways
 
 **(a) Use of STP and Congestion Mitigation Program Funds.—** Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle and shared micromobility transportation facilities and for carrying out nonconstruction projects related to safe access for bicyclists and pedestrians.
 
@@ -2387,21 +2387,21 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 **(4) Wheelchair.—** The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, § 124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, § 134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, § 141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, § 126A, formerly § 126, Jan. 6, 1983, 96 Stat. 2116, renumbered § 126A, Pub. L. 100–17, title I, § 133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, § 127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, § 1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, § 310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, § 1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, § 1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, § 1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, § 1446(a)(13), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, §§ 11133, 11525(p), Nov. 15, 2021, 135 Stat. 514, 608.)
+(Added Pub. L. 93–87, title I, § 124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, § 134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, § 141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, § 126A, formerly § 126, Jan. 6, 1983, 96 Stat. 2116, renumbered § 126A, Pub. L. 100–17, title I, § 133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, § 127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, § 1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, § 310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, § 1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, § 1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, § 1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, § 1446(a)(13), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, §§ 11133, 11525(p), Nov. 15, 2021, 135 Stat. 514, 608.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–58, § 11133(1), substituted “pedestrian walkways and bicycle and shared micromobility” for “pedestrian walkways and bicycle” and “safe access for bicyclists and pedestrians” for “safe bicycle use”.
+2021—Subsec. (a). Pub. L. 117–58, § 11133(1), substituted “pedestrian walkways and bicycle and shared micromobility” for “pedestrian walkways and bicycle” and “safe access for bicyclists and pedestrians” for “safe bicycle use”.
 
-Subsec. (d). Pub. L. 117–58, §§ 11133(2), 11525(p), substituted “104(b)(4)” for “104(b)(3)” and “up to 2 positions” for “a position”.
+Subsec. (d). Pub. L. 117–58, §§ 11133(2), 11525(p), substituted “104(b)(4)” for “104(b)(3)” and “up to 2 positions” for “a position”.
 
-Subsec. (e). Pub. L. 117–58, § 11133(3), substituted “pedestrians or bicyclists” for “bicycles” in two places.
+Subsec. (e). Pub. L. 117–58, § 11133(3), substituted “pedestrians or bicyclists” for “bicycles” in two places.
 
-Subsec. (f). Pub. L. 117–58, § 11133(4), substituted “or a bicycle or shared micromobility” for “and a bicycle”.
+Subsec. (f). Pub. L. 117–58, § 11133(4), substituted “or a bicycle or shared micromobility” for “and a bicycle”.
 
-Subsec. (j)(2). Pub. L. 117–58, § 11133(5), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘electric bicycle’ means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.”
+Subsec. (j)(2). Pub. L. 117–58, § 11133(5), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘electric bicycle’ means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.”
 
 2015—Subsec. (a). Pub. L. 114–94 substituted “104(b)(4)” for “104(b)(3)”.
 
@@ -2409,19 +2409,19 @@ Subsec. (j)(2). Pub. L. 117–58, § 11133(5), added par. (2) and struck out f
 
 2005—Subsec. (c). Pub. L. 109–59 struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
 
-1998—Subsec. (b). Pub. L. 105–178, § 1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
+1998—Subsec. (b). Pub. L. 105–178, § 1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
 
-Subsec. (e). Pub. L. 105–178, § 1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
+Subsec. (e). Pub. L. 105–178, § 1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
 
-Subsec. (g). Pub. L. 105–178, § 1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+Subsec. (g). Pub. L. 105–178, § 1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
 
-Subsec. (h). Pub. L. 105–178, § 1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
+Subsec. (h). Pub. L. 105–178, § 1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
 
-Subsec. (h)(3). Pub. L. 105–178, § 1202(a)(5), substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
+Subsec. (h)(3). Pub. L. 105–178, § 1202(a)(5), substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
 
-Subsec. (h)(4), (5). Pub. L. 105–178, § 1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (h)(4), (5). Pub. L. 105–178, § 1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (j). Pub. L. 105–178, § 1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
+Subsec. (j). Pub. L. 105–178, § 1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
 
 1995—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
 
@@ -2469,7 +2469,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 **Active Transportation Infrastructure Investment Program**
 
-Pub. L. 117–58, div. A, title I, § 11529, Nov. 15, 2021, 135 Stat. 612, provided that:
+Pub. L. 117–58, div. A, title I, § 11529, Nov. 15, 2021, 135 Stat. 612, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary [of Transportation] shall carry out an active transportation infrastructure investment program to make grants, on a competitive basis, to eligible organizations to construct eligible projects to provide safe and connected active transportation facilities in an active transportation network or active transportation spine.
 
@@ -2611,7 +2611,7 @@ Pub. L. 117–58, div. A, title I, § 11529, Nov. 15, 2021, 135 Stat. 612, pro
 
 **Nonmotorized Transportation Pilot Program**
 
-Pub. L. 109–59, title I, § 1807, Aug. 10, 2005, 119 Stat. 1460, as amended by Pub. L. 110–244, title I, § 106, June 6, 2008, 122 Stat. 1602, provided that:
+Pub. L. 109–59, title I, § 1807, Aug. 10, 2005, 119 Stat. 1460, as amended by Pub. L. 110–244, title I, § 106, June 6, 2008, 122 Stat. 1602, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Transportation] shall establish and carry out a nonmotorized transportation pilot program to construct, in the following 4 communities selected by the Secretary, a network of nonmotorized transportation infrastructure facilities, including sidewalks, bicycle lanes, and pedestrian and bicycle trails, that connect directly with transit stations, schools, residences, businesses, recreation areas, and other community activity centers:
 
@@ -2641,7 +2641,7 @@ Pub. L. 109–59, title I, § 1807, Aug. 10, 2005, 119 Stat. 1460, as amended 
 
 **Design Guidance**
 
-Pub. L. 105–178, title I, § 1202(b), June 9, 1998, 112 Stat. 169, provided that:
+Pub. L. 105–178, title I, § 1202(b), June 9, 1998, 112 Stat. 169, provided that:
 
 > **“(1) In general.—** In implementing section 217(g) of title 23, United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations, shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
 
@@ -2653,17 +2653,17 @@ Pub. L. 105–178, title I, § 1202(b), June 9, 1998, 112 Stat. 169, provided 
 
 **Energy Conservation Bicycle Transportation Program; Report**
 
-Pub. L. 95–619, title VI, § 682, Nov. 9, 1978, 92 Stat. 3287, set forth findings respecting an energy conservation bicycle transportation program and required a study and report not more than one year after Nov. 9, 1978, by the Secretary of Transportation for bicycle use potential, etc.
+Pub. L. 95–619, title VI, § 682, Nov. 9, 1978, 92 Stat. 3287, set forth findings respecting an energy conservation bicycle transportation program and required a study and report not more than one year after Nov. 9, 1978, by the Secretary of Transportation for bicycle use potential, etc.
 
 **Bikeway Construction Projects**
 
-Pub. L. 95–599, title I, § 141(a)–(e), (i), Nov. 6, 1978, 92 Stat. 2711, 2712, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by Pub. L. 100–17, title I, § 133(e)(2), Apr. 2, 1987, 101 Stat. 173.
+Pub. L. 95–599, title I, § 141(a)–(e), (i), Nov. 6, 1978, 92 Stat. 2711, 2712, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by Pub. L. 100–17, title I, § 133(e)(2), Apr. 2, 1987, 101 Stat. 173.
 
 **Bikeway Demonstration Program**
 
-Pub. L. 93–643, § 119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by Pub. L. 100–17, title I, § 133(e)(2), Apr. 2, 1987, 101 Stat. 173.
+Pub. L. 93–643, § 119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by Pub. L. 100–17, title I, § 133(e)(2), Apr. 2, 1987, 101 Stat. 173.
 
-## § 218. Alaska Highway
+## § 218. Alaska Highway
 
 **(a)** Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border at Beaver Creek, Yukon Territory, to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, Alaska, the Secretary may provide for the necessary reconstruction of the highway using funds awarded through an applicable competitive grant program, if the highway meets all applicable eligibility requirements for the program, except for the specific requirements established by the agreement for the Alaska Highway Project between the Government of the United States and the Government of Canada. In addition to the funds described in the previous sentence, notwithstanding any other provision of law and on agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. No expenditures shall be made for the construction of the portion of such highways that are in Canada unless an agreement is in place between the Government of Canada and the Government of the United States (including an agreement in existence on the date of enactment of the Surface Transportation Reauthorization Act of 2021) that provides, in part, that the Canadian Government—
 
@@ -2683,7 +2683,7 @@ Pub. L. 93–643, § 119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to St
 
 **(d)** Notwithstanding any other provision of law, a project assisted under this section in the State of Alaska shall be treated as a project on a Federal-aid highway under chapter 1.
 
-(Added Pub. L. 93–87, title I, § 127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, § 158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, § 101(g) [title III, § 316], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, § 327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, § 4409, Aug. 10, 2005, 119 Stat. 1778; Pub. L. 112–141, div. A, title I, § 1519(c)(10), formerly § 1519(c)(11), July 6, 2012, 126 Stat. 576, renumbered § 1519(c)(10), Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, § 11116, div. G, title XI, § 71103(g)(2), Nov. 15, 2021, 135 Stat. 482, 1326.)
+(Added Pub. L. 93–87, title I, § 127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, § 158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, § 101(g) [title III, § 316], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, § 327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, § 4409, Aug. 10, 2005, 119 Stat. 1778; Pub. L. 112–141, div. A, title I, § 1519(c)(10), formerly § 1519(c)(11), July 6, 2012, 126 Stat. 576, renumbered § 1519(c)(10), Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, § 11116, div. G, title XI, § 71103(g)(2), Nov. 15, 2021, 135 Stat. 482, 1326.)
 
 **Editorial Notes**
 
@@ -2693,29 +2693,29 @@ The date of enactment of the Surface Transportation Reauthorization Act of 2021,
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 11116, amended section generally. Prior to amendment, section read as follows:
+2021—Pub. L. 117–58, § 11116, amended section generally. Prior to amendment, section read as follows:
 
 “(a) Notwithstanding any other provision of law upon agreement with the State of Alaska, the Secretary is authorized to expend on the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum.
 
 “(b) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.”
 
-Subsec. (c). Pub. L. 117–58, § 71103(g)(2), inserted “operation, repair,” after “purchase,”.
+Subsec. (c). Pub. L. 117–58, § 71103(g)(2), inserted “operation, repair,” after “purchase,”.
 
-2015—Pub. L. 114–94 amended Pub. L. 112–141, § 1519(c). See 2012 Amendment notes below.
+2015—Pub. L. 114–94 amended Pub. L. 112–141, § 1519(c). See 2012 Amendment notes below.
 
-2012—Subsec. (a). Pub. L. 112–141, § 1519(c)(10)(A), formerly § 1519(c)(11)(A), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
+2012—Subsec. (a). Pub. L. 112–141, § 1519(c)(10)(A), formerly § 1519(c)(11)(A), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
 
-Subsecs. (b), (c). Pub. L. 112–141, § 1519(c)(10)(B), (C), formerly § 1519(c)(11)(B), (C), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
+Subsecs. (b), (c). Pub. L. 112–141, § 1519(c)(10)(B), (C), formerly § 1519(c)(11)(B), (C), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
 
-2005—Subsec. (a). Pub. L. 109–59, § 4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
+2005—Subsec. (a). Pub. L. 109–59, § 4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–59, § 4409(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–59, § 4409(2), added subsec. (c).
 
 2003—Subsec. (a). Pub. L. 108–7 inserted “reauthorization of the” before “Transportation”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 101(g) [title III, § 316(1)(A)], substituted “to Haines” for “to the south Alaskan border” in first sentence, substituted “such highway or the Alaska Marine Highway System” for “such highway” in third sentence, substituted “any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century” for “any other fiscal year thereafter” in fourth sentence, substituted “construction of the portion of such highways that are in Canada until an agreement” for “construction of such highways until an agreement” in fifth sentence.
+1998—Subsec. (a). Pub. L. 105–277, § 101(g) [title III, § 316(1)(A)], substituted “to Haines” for “to the south Alaskan border” in first sentence, substituted “such highway or the Alaska Marine Highway System” for “such highway” in third sentence, substituted “any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century” for “any other fiscal year thereafter” in fourth sentence, substituted “construction of the portion of such highways that are in Canada until an agreement” for “construction of such highways until an agreement” in fifth sentence.
 
-Subsec. (b). Pub. L. 105–277, § 101(g) [title III, § 316(2)], inserted “in Canada” after “undertaken”.
+Subsec. (b). Pub. L. 105–277, § 101(g) [title III, § 316(2)], inserted “in Canada” after “undertaken”.
 
 1983—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
@@ -2729,7 +2729,7 @@ Amendment by section 11116 of Pub. L. 117–58 effective Oct. 1, 2021, see secti
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 **Effective Date of 2012 Amendment**
 
@@ -2737,12 +2737,12 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Alaskan Roads Study; Investigation; Report to Congress**
 
-Pub. L. 94–280, title I, § 151, May 5, 1976, 90 Stat. 448, authorized the Secretary of Transportation to undertake an investigation and study to determine the cost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline, and required the Secretary to report the initial findings to the Congress on or before Sept. 30, 1976, and the final conclusions on rebuilding costs no later than three months after completion of pipeline construction.
+Pub. L. 94–280, title I, § 151, May 5, 1976, 90 Stat. 448, authorized the Secretary of Transportation to undertake an investigation and study to determine the cost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline, and required the Secretary to report the initial findings to the Congress on or before Sept. 30, 1976, and the final conclusions on rebuilding costs no later than three months after completion of pipeline construction.
 
 **Appropriations Authorization**
 
-Pub. L. 93–87, title I, § 127(b), Aug. 13, 1973, 87 Stat. 264, provided that: “For the purpose of completing necessary reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to the south Alaskan border there is authorized to be appropriated the sum of $58,670,000 to be expended in accordance with the provisions of section 218 of title 23 of the United States Code.”
+Pub. L. 93–87, title I, § 127(b), Aug. 13, 1973, 87 Stat. 264, provided that: “For the purpose of completing necessary reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to the south Alaskan border there is authorized to be appropriated the sum of $58,670,000 to be expended in accordance with the provisions of section 218 of title 23 of the United States Code.”
 
-## [§ 219. Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]
+## [§ 219. Repealed. Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173]
 
-Section, added Pub. L. 93–643, § 122(a), Jan. 4, 1975, 88 Stat. 2289; amended Pub. L. 94–280, title I, § 135(a), May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, § 168(d), Nov. 6, 1978, 92 Stat. 2723; Pub. L. 96–106, § 10(a), Nov. 9, 1979, 93 Stat. 798, related to projects for safer off-system roads.
+Section, added Pub. L. 93–643, § 122(a), Jan. 4, 1975, 88 Stat. 2289; amended Pub. L. 94–280, title I, § 135(a), May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, § 168(d), Nov. 6, 1978, 92 Stat. 2723; Pub. L. 96–106, § 10(a), Nov. 9, 1979, 93 Stat. 798, related to projects for safer off-system roads.

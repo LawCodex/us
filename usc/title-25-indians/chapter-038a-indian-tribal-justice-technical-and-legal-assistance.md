@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38A—INDIAN TRIBAL JUSTICE TECHNICAL AND LEGAL ASSISTANCE
 
-## § 3651. Findings
+## § 3651. Findings
 
 The Congress finds and declares that—
 
@@ -41,19 +41,19 @@ The Congress finds and declares that—
 
 **(11)** the provision of adequate technical assistance to tribal courts and legal assistance to both individuals and tribal courts is an essential element in the development of strong tribal court systems.
 
-(Pub. L. 106–559, § 2, Dec. 21, 2000, 114 Stat. 2778.)
+(Pub. L. 106–559, § 2, Dec. 21, 2000, 114 Stat. 2778.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–559, § 1, Dec. 21, 2000, 114 Stat. 2778, provided that: “This Act [enacting this chapter and amending section 3621 of this title and sections 1629e and 1629g of Title 43, Public Lands] may be cited as the ‘Indian Tribal Justice Technical and Legal Assistance Act of 2000’.”
+Pub. L. 106–559, § 1, Dec. 21, 2000, 114 Stat. 2778, provided that: “This Act [enacting this chapter and amending section 3621 of this title and sections 1629e and 1629g of Title 43, Public Lands] may be cited as the ‘Indian Tribal Justice Technical and Legal Assistance Act of 2000’.”
 
 **Availability of Funds for Courts or Law Enforcement Officers of Certain Tribes or Villages**
 
-Pub. L. 108–199, div. B, title I, § 112(a)(1), Jan. 23, 2004, 118 Stat. 62, which prohibited use of funds provided in div. B of Pub. L. 108–199 or on or after Jan. 23, 2004, for courts or law enforcement officers for a tribe or village in which fewer than 25 Native members live in the village year round or that is located within certain areas, was repealed by Pub. L. 111–211, title II, § 247(e)(1), July 29, 2010, 124 Stat. 2297.
+Pub. L. 108–199, div. B, title I, § 112(a)(1), Jan. 23, 2004, 118 Stat. 62, which prohibited use of funds provided in div. B of Pub. L. 108–199 or on or after Jan. 23, 2004, for courts or law enforcement officers for a tribe or village in which fewer than 25 Native members live in the village year round or that is located within certain areas, was repealed by Pub. L. 111–211, title II, § 247(e)(1), July 29, 2010, 124 Stat. 2297.
 
-## § 3652. Purposes
+## § 3652. Purposes
 
 The purposes of this chapter are as follows:
 
@@ -67,7 +67,7 @@ The purposes of this chapter are as follows:
 
 **(5)** To assist in the development of tribal judicial systems by supplementing prior congressional efforts such as the Indian Tribal Justice Act [25 U.S.C. 3601 et seq.] (Public Law 103–176).
 
-(Pub. L. 106–559, § 3, Dec. 21, 2000, 114 Stat. 2779.)
+(Pub. L. 106–559, § 3, Dec. 21, 2000, 114 Stat. 2779.)
 
 **Editorial Notes**
 
@@ -75,9 +75,9 @@ The purposes of this chapter are as follows:
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–559, Dec. 21, 2000, 114 Stat. 2778, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3651 of this title and Tables.
 
-The Indian Tribal Justice Act, referred to in par. (5), is Pub. L. 103–176, Dec. 3, 1993, 107 Stat. 2004, which is classified generally to chapter 38 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Indian Tribal Justice Act, referred to in par. (5), is Pub. L. 103–176, Dec. 3, 1993, 107 Stat. 2004, which is classified generally to chapter 38 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-## § 3653. Definitions
+## § 3653. Definitions
 
 For purposes of this chapter:
 
@@ -113,7 +113,7 @@ The term “Office of Tribal Justice” means the Office of Tribal Justice in th
 
 The term “tribal court”, “tribal court system”, or “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including, but not limited to, traditional methods and fora for dispute resolution, trial courts, appellate courts, including inter-tribal appellate courts, alternative dispute resolution systems, and circuit rider systems, established by inherent tribunal authority whether or not they constitute a court of record.
 
-(Pub. L. 106–559, § 4, Dec. 21, 2000, 114 Stat. 2779; Pub. L. 111–211, title II, § 214(a)(1), July 29, 2010, 124 Stat. 2270.)
+(Pub. L. 106–559, § 4, Dec. 21, 2000, 114 Stat. 2779; Pub. L. 111–211, title II, § 214(a)(1), July 29, 2010, 124 Stat. 2270.)
 
 **Editorial Notes**
 
@@ -123,17 +123,17 @@ The term “tribal court”, “tribal court system”, or “tribal justice sys
 
 ## SUBCHAPTER I—TRAINING AND TECHNICAL ASSISTANCE, CIVIL AND CRIMINAL LEGAL ASSISTANCE GRANTS
 
-### § 3661. Tribal justice training and technical assistance grants
+### § 3661. Tribal justice training and technical assistance grants
 
 Subject to the availability of appropriations, the Attorney General, in consultation with the Office of Tribal Justice, shall award grants to national or regional membership organizations and associations whose membership consists of judicial system personnel within tribal justice systems which submit an application to the Attorney General in such form and manner as the Attorney General may prescribe to provide training and technical assistance for the development, enrichment, enhancement of tribal justice systems, or other purposes consistent with this chapter.
 
-(Pub. L. 106–559, title I, § 101, Dec. 21, 2000, 114 Stat. 2780.)
+(Pub. L. 106–559, title I, § 101, Dec. 21, 2000, 114 Stat. 2780.)
 
-### § 3662. Tribal civil legal assistance grants
+### § 3662. Tribal civil legal assistance grants
 
 Subject to the availability of appropriations, the Attorney General, in consultation with the Office of Tribal Justice, shall award grants to non-profit entities, as defined under section 501(c)(3) of title 26, which provide legal assistance services for Indian tribes, members of Indian tribes, or tribal justice systems pursuant to Federal poverty guidelines that submit an application to the Attorney General in such form and manner as the Attorney General may prescribe for the provision of civil legal assistance (including guardians ad litem and court-appointed special advocates for children and juveniles) to members of Indian tribes and tribal justice systems, and/or other purposes consistent with this chapter.
 
-(Pub. L. 106–559, title I, § 102, Dec. 21, 2000, 114 Stat. 2780; Pub. L. 111–211, title II, § 242(b)(1), July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 106–559, title I, § 102, Dec. 21, 2000, 114 Stat. 2780; Pub. L. 111–211, title II, § 242(b)(1), July 29, 2010, 124 Stat. 2292.)
 
 **Editorial Notes**
 
@@ -141,11 +141,11 @@ Subject to the availability of appropriations, the Attorney General, in consulta
 
 2010—Pub. L. 111–211 inserted “(including guardians ad litem and court-appointed special advocates for children and juveniles)” after “civil legal assistance”.
 
-### § 3663. Tribal criminal assistance grants
+### § 3663. Tribal criminal assistance grants
 
 Subject to the availability of appropriations, the Attorney General, in consultation with the Office of Tribal Justice, shall award grants to non-profit entities, as defined by section 501(c)(3) of title 26, which provide legal assistance services for Indian tribes, members of Indian tribes, or tribal justice systems pursuant to Federal poverty guidelines that submit an application to the Attorney General in such form and manner as the Attorney General may prescribe for the provision of defense counsel services to all defendants in tribal court criminal proceedings and prosecution and judicial services for tribal courts, and/or other purposes consistent with this chapter. Funding under this subchapter may apply to programs, procedures, or proceedings involving adult criminal actions, juvenile delinquency actions, and/or guardian-ad-litem appointments arising out of criminal or delinquency acts.
 
-(Pub. L. 106–559, title I, § 103, Dec. 21, 2000, 114 Stat. 2780; Pub. L. 111–211, title II, § 242(b)(2), July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 106–559, title I, § 103, Dec. 21, 2000, 114 Stat. 2780; Pub. L. 111–211, title II, § 242(b)(2), July 29, 2010, 124 Stat. 2292.)
 
 **Editorial Notes**
 
@@ -153,13 +153,13 @@ Subject to the availability of appropriations, the Attorney General, in consulta
 
 2010—Pub. L. 111–211 substituted “defense counsel services to all defendants in tribal court criminal proceedings and prosecution and judicial services for tribal courts” for “criminal legal assistance to members of Indian tribes and tribal justice systems”.
 
-### § 3664. No offset
+### § 3664. No offset
 
 No Federal agency shall offset funds made available pursuant to this chapter for Indian tribal court membership organizations or Indian legal services organizations against other funds otherwise available for use in connection with technical or legal assistance to tribal justice systems or members of Indian tribes.
 
-(Pub. L. 106–559, title I, § 104, Dec. 21, 2000, 114 Stat. 2781.)
+(Pub. L. 106–559, title I, § 104, Dec. 21, 2000, 114 Stat. 2781.)
 
-### § 3665. Tribal authority
+### § 3665. Tribal authority
 
 Nothing in this chapter shall be construed to—
 
@@ -175,9 +175,9 @@ Nothing in this chapter shall be construed to—
 
 **(6)** diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
 
-(Pub. L. 106–559, title I, § 105, Dec. 21, 2000, 114 Stat. 2781.)
+(Pub. L. 106–559, title I, § 105, Dec. 21, 2000, 114 Stat. 2781.)
 
-### § 3665a. Office of Tribal Justice
+### § 3665a. Office of Tribal Justice
 
 **(a) In general**
 
@@ -203,7 +203,7 @@ The Attorney General shall provide to the Office of Tribal Justice such personne
 
 **(D)** any other tribal interest.
 
-(Pub. L. 106–559, title I, § 106, as added Pub. L. 111–211, title II, § 214(a)(2)(B), July 29, 2010, 124 Stat. 2270.)
+(Pub. L. 106–559, title I, § 106, as added Pub. L. 111–211, title II, § 214(a)(2)(B), July 29, 2010, 124 Stat. 2270.)
 
 **Editorial Notes**
 
@@ -211,21 +211,21 @@ The Attorney General shall provide to the Office of Tribal Justice such personne
 
 A prior section 106 of Pub. L. 106–559 was renumbered section 107 and is classified to section 3666 of this title.
 
-### § 3666. Authorization of appropriations
+### § 3666. Authorization of appropriations
 
 For purposes of carrying out the activities under this subchapter, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
 
-(Pub. L. 106–559, title I, § 107, formerly § 106, Dec. 21, 2000, 114 Stat. 2781; renumbered § 107 and amended Pub. L. 111–211, title II, §§ 214(a)(2)(A), 242(b)(3)(A), July 29, 2010, 124 Stat. 2270, 2292.)
+(Pub. L. 106–559, title I, § 107, formerly § 106, Dec. 21, 2000, 114 Stat. 2781; renumbered § 107 and amended Pub. L. 111–211, title II, §§ 214(a)(2)(A), 242(b)(3)(A), July 29, 2010, 124 Stat. 2270, 2292.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–211, § 242(b)(3)(A), substituted “2011 through 2015” for “2000 through 2004”.
+2010—Pub. L. 111–211, § 242(b)(3)(A), substituted “2011 through 2015” for “2000 through 2004”.
 
 ## SUBCHAPTER II—INDIAN TRIBAL COURTS
 
-### § 3681. Grants
+### § 3681. Grants
 
 **(a) In general** The Attorney General may award grants and provide technical assistance to Indian tribes to enable such tribes to carry out programs to support—
 
@@ -255,7 +255,7 @@ The Attorney General may promulgate such regulations and guidelines as may be ne
 
 For purposes of carrying out the activities under this section, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
 
-(Pub. L. 106–559, title II, § 201, Dec. 21, 2000, 114 Stat. 2781; Pub. L. 111–211, title II, § 242(b)(3)(B), July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 106–559, title II, § 201, Dec. 21, 2000, 114 Stat. 2781; Pub. L. 111–211, title II, § 242(b)(3)(B), July 29, 2010, 124 Stat. 2292.)
 
 **Editorial Notes**
 
@@ -263,7 +263,7 @@ For purposes of carrying out the activities under this section, there are author
 
 2010—Subsec. (d). Pub. L. 111–211 substituted “2011 through 2015” for “2000 through 2004”.
 
-### § 3682. Assistant probation officers
+### § 3682. Assistant probation officers
 
 To the maximum extent practicable, the chief judge or chief probation or pretrial services officer of each judicial district, in coordination with the Office of Tribal Justice and the Office of Justice Services, shall—
 
@@ -271,4 +271,4 @@ To the maximum extent practicable, the chief judge or chief probation or pretria
 
 **(2)** provide substance abuse, mental health, and other related treatment services to offenders residing on Indian land.
 
-(Pub. L. 106–559, title II, § 203, as added Pub. L. 111–211, title II, § 245, July 29, 2010, 124 Stat. 2295.)
+(Pub. L. 106–559, title II, § 203, as added Pub. L. 111–211, title II, § 245, July 29, 2010, 124 Stat. 2295.)

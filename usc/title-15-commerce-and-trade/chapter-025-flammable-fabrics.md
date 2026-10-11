@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—FLAMMABLE FABRICS
 
-## § 1191. Definitions
+## § 1191. Definitions
 
 As used in this chapter—
 
@@ -39,51 +39,51 @@ As used in this chapter—
 
 **(j)** The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914, as amended [15 U.S.C. 41 et seq.].
 
-(June 30, 1953, ch. 164, § 2, 67 Stat. 111; Pub. L. 90–189, § 1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 110–314, title II, § 204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, § 2, 67 Stat. 111; Pub. L. 90–189, § 1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 110–314, title II, § 204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
 2008—Par. (i). Pub. L. 110–314 added par. (i) and struck out former par. (i) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
 
-1967—Par. (b). Pub. L. 90–189, § 1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to include commerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
+1967—Par. (b). Pub. L. 90–189, § 1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to include commerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
 
-Par. (c). Pub. L. 90–189, § 1(2), reduced from capital to lower-case the first letter of “territory” wherever appearing.
+Par. (c). Pub. L. 90–189, § 1(2), reduced from capital to lower-case the first letter of “territory” wherever appearing.
 
-Par. (d). Pub. L. 90–189, § 1(3), struck out provisions which excepted hats, gloves, and footwear from definition of “article of wearing apparel” provided that: such hats did not constitute or form part of a covering for the neck, face, or shoulders when worn by individuals; such gloves were not more than fourteen inches in length and were not affixed to or did not form an integral part of another garment; and such footwear did not consist of hosiery in whole or in part and was not affixed to or did not form an integral part of another garment.
+Par. (d). Pub. L. 90–189, § 1(3), struck out provisions which excepted hats, gloves, and footwear from definition of “article of wearing apparel” provided that: such hats did not constitute or form part of a covering for the neck, face, or shoulders when worn by individuals; such gloves were not more than fourteen inches in length and were not affixed to or did not form an integral part of another garment; and such footwear did not consist of hosiery in whole or in part and was not affixed to or did not form an integral part of another garment.
 
-Par. (e). Pub. L. 90–189, § 1(5), (6), added par. (e) and redesignated former par. (e) as (f).
+Par. (e). Pub. L. 90–189, § 1(5), (6), added par. (e) and redesignated former par. (e) as (f).
 
-Par. (f). Pub. L. 90–189, § 1(4), (5), (7), redesignated par. (e) as (f), substituted “(except fiber, filament, or yarn for other than retail sale)” for “(other than fiber, filament, or yarn)” and “for use or which may reasonably be expected to be used, in any product as defined in subsection (h)” for “or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter”, and struck out former par. (f) which defined “interlining”.
+Par. (f). Pub. L. 90–189, § 1(4), (5), (7), redesignated par. (e) as (f), substituted “(except fiber, filament, or yarn for other than retail sale)” for “(other than fiber, filament, or yarn)” and “for use or which may reasonably be expected to be used, in any product as defined in subsection (h)” for “or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter”, and struck out former par. (f) which defined “interlining”.
 
-Pars. (g) to (j). Pub. L. 90–189, § 1(5), (8), added pars. (g) and (h) and redesignated former pars. (g) and (h) as (i) and (j), respectively.
+Pars. (g) to (j). Pub. L. 90–189, § 1(5), (8), added pars. (g) and (h) and redesignated former pars. (g) and (h) as (i) and (j), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Act June 30, 1953, ch. 164, § 12, 67 Stat. 115, provided: “This Act [enacting this chapter] shall take effect one year after the date of its passage [June 30, 1953].”
+Act June 30, 1953, ch. 164, § 12, 67 Stat. 115, provided: “This Act [enacting this chapter] shall take effect one year after the date of its passage [June 30, 1953].”
 
 **Short Title**
 
-Act June 30, 1953, ch. 164, § 1, 67 Stat. 111, provided: “This Act [enacting this chapter] may be cited as the ‘Flammable Fabrics Act’.”
+Act June 30, 1953, ch. 164, § 1, 67 Stat. 111, provided: “This Act [enacting this chapter] may be cited as the ‘Flammable Fabrics Act’.”
 
 **Savings Provision**
 
-Pub. L. 90–189, § 11, Dec. 14, 1967, 81 Stat. 574, provided that: “Notwithstanding the provisions of this Act [amending this section and sections 1192 to 1195, 1197, 1198, and 1200 of this title and enacting sections 1201 to 1204 of this title], the standards of flammability in effect under the provisions of the Flammable Fabrics Act, as amended [this chapter], on the day preceding the date of enactment of this Act [Dec. 14, 1967], shall continue in effect for the fabrics and articles of wearing apparel to which they are applicable until superseded or modified by the Secretary of Commerce pursuant to the authority conferred by the amendments made by this Act.”
+Pub. L. 90–189, § 11, Dec. 14, 1967, 81 Stat. 574, provided that: “Notwithstanding the provisions of this Act [amending this section and sections 1192 to 1195, 1197, 1198, and 1200 of this title and enacting sections 1201 to 1204 of this title], the standards of flammability in effect under the provisions of the Flammable Fabrics Act, as amended [this chapter], on the day preceding the date of enactment of this Act [Dec. 14, 1967], shall continue in effect for the fabrics and articles of wearing apparel to which they are applicable until superseded or modified by the Secretary of Commerce pursuant to the authority conferred by the amendments made by this Act.”
 
 **Appropriations**
 
-Act June 30, 1953, ch. 164, § 13, 67 Stat. 115, as amended by Pub. L. 90–189, § 9, Dec. 14, 1967, 81 Stat. 573; Pub. L. 92–542, Oct. 25, 1972, 86 Stat. 1108, appropriated $1,500,000 for the fiscal year ending June 30, 1968, $2,250,000 each for the fiscal year ending June 30, 1969, and the fiscal year ending June 30, 1970, and $4,000,000 for the fiscal year ending June 30, 1973, to carry out the provisions of this chapter.
+Act June 30, 1953, ch. 164, § 13, 67 Stat. 115, as amended by Pub. L. 90–189, § 9, Dec. 14, 1967, 81 Stat. 573; Pub. L. 92–542, Oct. 25, 1972, 86 Stat. 1108, appropriated $1,500,000 for the fiscal year ending June 30, 1968, $2,250,000 each for the fiscal year ending June 30, 1969, and the fiscal year ending June 30, 1970, and $4,000,000 for the fiscal year ending June 30, 1973, to carry out the provisions of this chapter.
 
 **COVID–19 Regulatory Relief and Work From Home Safety Act**
 
-Pub. L. 116–260, div. FF, title XXI, § 2101, Dec. 27, 2020, 134 Stat. 3303, provided that:
+Pub. L. 116–260, div. FF, title XXI, § 2101, Dec. 27, 2020, 134 Stat. 3303, provided that:
 
 > **“(a) Short Title.—** This title may be cited as the ‘COVID–19 Regulatory Relief and Work From Home Safety Act’.
 
@@ -159,9 +159,9 @@ Pub. L. 116–260, div. FF, title XXI, § 2101, Dec. 27, 2020, 134 Stat. 3303,
 
 **Hazardous Substances**
 
-Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see Pub. L. 86–613, § 18, (formerly § 17), July 12, 1960, 74 Stat. 380, as amended Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 190, set out as a note under section 1261 of this title.
+Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see Pub. L. 86–613, § 18, (formerly § 17), July 12, 1960, 74 Stat. 380, as amended Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 190, set out as a note under section 1261 of this title.
 
-## § 1192. Prohibited transactions
+## § 1192. Prohibited transactions
 
 **(a) Nonconforming products**
 
@@ -171,13 +171,13 @@ The manufacture for sale, the sale, or the offering for sale, in commerce, or th
 
 The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to an applicable standard or regulation issued or amended under section 1193 of this title, and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(June 30, 1953, ch. 164, § 3, 67 Stat. 111; Pub. L. 90–189, § 2, Dec. 14, 1967, 81 Stat. 568.)
+(June 30, 1953, ch. 164, § 3, 67 Stat. 111; Pub. L. 90–189, § 2, Dec. 14, 1967, 81 Stat. 568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
@@ -191,7 +191,7 @@ Subsecs. (b), (c). Pub. L. 90–189 struck out former subsec. (b) which made the
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1193. Flammability standards or regulations
+## § 1193. Flammability standards or regulations
 
 **(a) Proceedings by Commission for determination**
 
@@ -211,9 +211,9 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 **(e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action**
 
-**(1)** Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him 1
+**(1)** Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him 1
 
-<sup>1</sup>  So in original. Probably should be “it”.
+<sup>1</sup> So in original. Probably should be “it”.
 
 for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
 
@@ -241,7 +241,7 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 **(5)** invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), an existing standard or a portion of a standard as a proposed regulation.2
 
-<sup>2</sup>  So in original. Probably should be “regulation; and”.
+<sup>2</sup> So in original. Probably should be “regulation; and”.
 
 **(6)** invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
@@ -313,43 +313,43 @@ The Commission shall publish its final regulatory analysis with the regulation.
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(June 30, 1953, ch. 164, § 4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, § 3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 94–284, § 20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, § 1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§ 107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114; Pub. L. 110–314, title II, § 204(c)(1), (2)(B)–(E), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, § 4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, § 3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 94–284, § 20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, § 1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§ 107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114; Pub. L. 110–314, title II, § 204(c)(1), (2)(B)–(E), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(c)(2)(B), (D), substituted “Commission” for “Secretary of Commerce” and “it” for “he”.
+2008—Subsec. (a). Pub. L. 110–314, § 204(c)(2)(B), (D), substituted “Commission” for “Secretary of Commerce” and “it” for “he”.
 
-Subsec. (b). Pub. L. 110–314, § 204(c)(2)(B)–(D), substituted “Commission finds for” for “Secretary of Commerce finds for”, “Commission finds that” for “Secretary finds that”, “Commission may” for “Secretary may”, and “it may” for “he may”.
+Subsec. (b). Pub. L. 110–314, § 204(c)(2)(B)–(D), substituted “Commission finds for” for “Secretary of Commerce finds for”, “Commission finds that” for “Secretary finds that”, “Commission may” for “Secretary may”, and “it may” for “he may”.
 
-Subsec. (c). Pub. L. 110–314, § 204(c)(2)(B)–(D), substituted “Commission may” for “Secretary of Commerce may”, “it is required” for “he is required”, “Commission or its” for “Secretary or his”, “Commission or any” for “Secretary or any”, and “its control” for “his control”.
+Subsec. (c). Pub. L. 110–314, § 204(c)(2)(B)–(D), substituted “Commission may” for “Secretary of Commerce may”, “it is required” for “he is required”, “Commission or its” for “Secretary or his”, “Commission or any” for “Secretary or any”, and “its control” for “his control”.
 
-Subsec. (e)(1). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary” wherever appearing.
+Subsec. (e)(1). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary” wherever appearing.
 
-Subsec. (e)(2). Pub. L. 110–314, § 204(c)(2)(C), (D), substituted “Commission” for “Secretary” and “its” for “his” wherever appearing and substituted “it” for “he”.
+Subsec. (e)(2). Pub. L. 110–314, § 204(c)(2)(C), (D), substituted “Commission” for “Secretary” and “its” for “his” wherever appearing and substituted “it” for “he”.
 
-Subsec. (e)(4). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary”.
+Subsec. (e)(4). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary”.
 
-Subsec. (e)(5), (6). Pub. L. 110–314, § 204(c)(2)(E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.”
+Subsec. (e)(5), (6). Pub. L. 110–314, § 204(c)(2)(E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.”
 
-Subsec. (f). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary”.
+Subsec. (f). Pub. L. 110–314, § 204(c)(2)(C), substituted “Commission” for “Secretary”.
 
-Subsec. (g). Pub. L. 110–314, § 204(c)(1)(A), substituted “may be commenced by a notice of proposed rulemaking or” for “shall be commenced” in introductory provisions.
+Subsec. (g). Pub. L. 110–314, § 204(c)(1)(A), substituted “may be commenced by a notice of proposed rulemaking or” for “shall be commenced” in introductory provisions.
 
-Subsec. (i). Pub. L. 110–314, § 204(c)(1)(B), (C), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
+Subsec. (i). Pub. L. 110–314, § 204(c)(1)(B), (C), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
-1990—Subsec. (h)(2). Pub. L. 101–608, § 108(c), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+1990—Subsec. (h)(2). Pub. L. 101–608, § 108(c), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-Subsec. (h)(3). Pub. L. 101–608, § 107(c), added par. (3).
+Subsec. (h)(3). Pub. L. 101–608, § 107(c), added par. (3).
 
-Subsec. (k). Pub. L. 101–608, § 110(c), added subsec. (k).
+Subsec. (k). Pub. L. 101–608, § 110(c), added subsec. (k).
 
 1981—Subsecs. (g) to (j). Pub. L. 97–35 added subsecs. (g) to (j).
 
-1976—Subsec. (d). Pub. L. 94–284, § 20(a)(1), provided that standards, regulations, and amendments made thereto, be made in accordance with section 553 of title 5, except that oral presentation be available with a transcript of such oral presentation kept.
+1976—Subsec. (d). Pub. L. 94–284, § 20(a)(1), provided that standards, regulations, and amendments made thereto, be made in accordance with section 553 of title 5, except that oral presentation be available with a transcript of such oral presentation kept.
 
-Subsec. (e)(3). Pub. L. 94–284, § 20(a)(2), provided that the court not affirm a standard or regulation unless the findings of the Secretary are supported by substantial evidence on the record.
+Subsec. (e)(3). Pub. L. 94–284, § 20(a)(2), provided that the court not affirm a standard or regulation unless the findings of the Secretary are supported by substantial evidence on the record.
 
 1967—Pub. L. 90–189 revised section generally to achieve greater flexibility in the promulgation of flammability standards by substituting provisions authorizing the Secretary of Commerce to issue standards of flammability or regulations (including labeling) for fabrics, related materials or products after observing certain specified procedural requirements for provisions which prescribed certain fixed standards of flammability which could be updated only by legislation.
 
@@ -367,9 +367,9 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–284, § 20(b), May 11, 1976, 90 Stat. 515, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to standards, regulations, and amendments to standards and regulations, under section 4 of the Flammable Fabrics Act [this section] the proceedings for the promulgation of which were begun after the date of the enactment of this Act [May 11, 1976].”
+Pub. L. 94–284, § 20(b), May 11, 1976, 90 Stat. 515, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to standards, regulations, and amendments to standards and regulations, under section 4 of the Flammable Fabrics Act [this section] the proceedings for the promulgation of which were begun after the date of the enactment of this Act [May 11, 1976].”
 
-## § 1194. Administration and enforcement
+## § 1194. Administration and enforcement
 
 **(a) Enforcement under Federal Trade Commission Act provisions; civil action to enforce standard or regulation**
 
@@ -395,9 +395,9 @@ The Commission is authorized and directed to prescribe such rules and regulation
 
 **(2)** In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
 
-**(3)** Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and 1
+**(3)** Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the appropriateness of such penalty to the size of the business of the persons charged, the severity of the risk of injury, and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 the occurrence or absence of injury, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
@@ -429,43 +429,43 @@ the occurrence or absence of injury, and such other factors as appropriate. The 
 
 **(II)** the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
 
-(June 30, 1953, ch. 164, § 5, 67 Stat. 112; Pub. L. 90–189, § 4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§ 115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122; Pub. L. 110–314, title II, § 217(a)(3), (b)(1)(C), Aug. 14, 2008, 122 Stat. 3058, 3059.)
+(June 30, 1953, ch. 164, § 5, 67 Stat. 112; Pub. L. 90–189, § 4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§ 115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122; Pub. L. 110–314, title II, § 217(a)(3), (b)(1)(C), Aug. 14, 2008, 122 Stat. 3058, 3059.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-2008—Subsec. (e)(1). Pub. L. 110–314, § 217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
+2008—Subsec. (e)(1). Pub. L. 110–314, § 217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
 
-Subsec. (e)(2). Pub. L. 110–314, § 217(b)(1)(C)(i), substituted “nature, circumstances, extent, and gravity” for “nature and number” and “absence of injury,” for “absence of injury, and” and inserted “, and such other factors as appropriate” before period at end.
+Subsec. (e)(2). Pub. L. 110–314, § 217(b)(1)(C)(i), substituted “nature, circumstances, extent, and gravity” for “nature and number” and “absence of injury,” for “absence of injury, and” and inserted “, and such other factors as appropriate” before period at end.
 
-Subsec. (e)(3). Pub. L. 110–314, § 217(b)(1)(C)(ii)(III), which directed insertion of “, and such other factors as appropriate” before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
+Subsec. (e)(3). Pub. L. 110–314, § 217(b)(1)(C)(ii)(III), which directed insertion of “, and such other factors as appropriate” before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
 
-Pub. L. 110–314, § 217(b)(1)(C)(ii)(II), which directed the substitution of “absence of injury,” for “absence of injury, and”, could not be executed because “absence of injury, and” did not appear in par. (3).
+Pub. L. 110–314, § 217(b)(1)(C)(ii)(II), which directed the substitution of “absence of injury,” for “absence of injury, and”, could not be executed because “absence of injury, and” did not appear in par. (3).
 
-Pub. L. 110–314, § 217(b)(1)(C)(ii)(I), substituted “nature, circumstances, extent, and gravity” for “nature and number”.
+Pub. L. 110–314, § 217(b)(1)(C)(ii)(I), substituted “nature, circumstances, extent, and gravity” for “nature and number”.
 
-Subsec. (e)(5)(B). Pub. L. 110–314, § 217(a)(3)(C), which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
+Subsec. (e)(5)(B). Pub. L. 110–314, § 217(a)(3)(C), which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
 
-1990—Subsec. (a). Pub. L. 101–608, § 118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
+1990—Subsec. (a). Pub. L. 101–608, § 118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under section 1193 of this title that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of section 2073 of this title shall apply to any such action.”
 
-Subsec. (e). Pub. L. 101–608, § 115(c), added subsec. (e).
+Subsec. (e). Pub. L. 101–608, § 115(c), added subsec. (e).
 
-1967—Subsec. (c). Pub. L. 90–189, § 4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+1967—Subsec. (c). Pub. L. 90–189, § 4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
 
-Subsec. (d)(1). Pub. L. 90–189, § 4(b), substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
+Subsec. (d)(1). Pub. L. 90–189, § 4(b), substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
 
-Subsec. (d)(2). Pub. L. 90–189, § 4(b), substituted “or territory or with the District of Columbia or the Commonwealth of Puerto Rico” for “, Territory, or possession or with the District of Columbia”.
+Subsec. (d)(2). Pub. L. 90–189, § 4(b), substituted “or territory or with the District of Columbia or the Commonwealth of Puerto Rico” for “, Territory, or possession or with the District of Columbia”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–314, title II, § 217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: “The amendments made by this subsection [amending this section and sections 1264 and 2069 of this title] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) [set out as a note under section 2069 of this title] or 1 year after the date of enactment of this Act [Aug. 14, 2008].”
+Pub. L. 110–314, title II, § 217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: “The amendments made by this subsection [amending this section and sections 1264 and 2069 of this title] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) [set out as a note under section 2069 of this title] or 1 year after the date of enactment of this Act [Aug. 14, 2008].”
 
 **Transfer of Functions**
 
@@ -475,7 +475,7 @@ Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce,
 
 The Consumer Product Safety Commission to issue a final regulation providing its interpretation of penalty factors described in subsec. (e)(2) of this section no later than 1 year after Aug. 14, 2008, see section 217(b)(2) of Pub. L. 110–314, set out as a note under section 2069 of this title.
 
-## § 1195. Injunction and condemnation proceedings
+## § 1195. Injunction and condemnation proceedings
 
 **(a) Temporary injunction; venue**
 
@@ -493,23 +493,23 @@ In any such action the court, upon application seasonably made before trial, sha
 
 If such products, fabrics, or related materials are condemned by the court they shall be disposed of by destruction, by delivery to the owner or claimant thereof upon payment of court costs and fees and storage and other proper expenses and upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce, or by sale upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce. If such products, fabrics, or related materials are disposed of by sale the proceeds, less costs and charges, shall be paid into the Treasury of the United States.
 
-(June 30, 1953, ch. 164, § 6, 67 Stat. 113; Pub. L. 90–189, § 5, Dec. 14, 1967, 81 Stat. 571.)
+(June 30, 1953, ch. 164, § 6, 67 Stat. 113; Pub. L. 90–189, § 5, Dec. 14, 1967, 81 Stat. 571.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-1967—Subsec. (a). Pub. L. 90–189, § 5(a), inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “section 1192 of this title” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
+1967—Subsec. (a). Pub. L. 90–189, § 5(a), inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “section 1192 of this title” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
 
-Subsec. (b). Pub. L. 90–189, § 5(b), substituted “product” for “article of wearing apparel”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places and “products, fabrics, or related materials” for “articles of wearing apparel or fabrics”, and inserted “or related material” before “has been introduced in commerce”.
+Subsec. (b). Pub. L. 90–189, § 5(b), substituted “product” for “article of wearing apparel”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places and “products, fabrics, or related materials” for “articles of wearing apparel or fabrics”, and inserted “or related material” before “has been introduced in commerce”.
 
-Subsec. (c). Pub. L. 90–189, § 5(b), substituted “product, fabric, or related material” for “article of wearing apparel or fabric”.
+Subsec. (c). Pub. L. 90–189, § 5(b), substituted “product, fabric, or related material” for “article of wearing apparel or fabric”.
 
-Subsec. (d). Pub. L. 90–189, § 5(b), substituted “products, fabrics, or related materials” for “articles of wearing apparel or fabrics” wherever appearing and struck out “for wearing apparel purposes” before “until properly and adequately treated or processed” in two places.
+Subsec. (d). Pub. L. 90–189, § 5(b), substituted “products, fabrics, or related materials” for “articles of wearing apparel or fabrics” wherever appearing and struck out “for wearing apparel purposes” before “until properly and adequately treated or processed” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -517,7 +517,7 @@ Subsec. (d). Pub. L. 90–189, § 5(b), substituted “products, fabrics, or r
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1196. Penalties
+## § 1196. Penalties
 
 Violation of section 1192 or 1197(b) of this title, or failure to comply with section 1202(c) of this title, is punishable by—
 
@@ -527,7 +527,7 @@ Violation of section 1192 or 1197(b) of this title, or failure to comply with se
 
 **(3)** both.
 
-(June 30, 1953, ch. 164, § 7, 67 Stat. 114; Pub. L. 95–631, § 8(b), Nov. 10, 1978, 92 Stat. 3747; Pub. L. 110–314, title II, § 217(c)(4), Aug. 14, 2008, 122 Stat. 3060.)
+(June 30, 1953, ch. 164, § 7, 67 Stat. 114; Pub. L. 95–631, § 8(b), Nov. 10, 1978, 92 Stat. 3747; Pub. L. 110–314, title II, § 217(c)(4), Aug. 14, 2008, 122 Stat. 3060.)
 
 **Editorial Notes**
 
@@ -537,7 +537,7 @@ Violation of section 1192 or 1197(b) of this title, or failure to comply with se
 
 1978—Pub. L. 95–631 authorized penalties for noncompliance with section 1202(c) of this title.
 
-## § 1197. Guaranties
+## § 1197. Guaranties
 
 **(a) Defense to prosecution**
 
@@ -547,13 +547,13 @@ No person shall be subject to prosecution under section 1196 of this title for a
 
 It shall be unlawful for any person to furnish, with respect to any product, fabric, or related material, a false guaranty (except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person by whom the product, fabric, or related material guaranteed was manufactured or from whom it was received) with reason to believe the product, fabric, or related material falsely guaranteed may be introduced, sold, or transported in commerce, and any person who violates the provisions of this subsection is guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(June 30, 1953, ch. 164, § 8, 67 Stat. 114; Pub. L. 90–189, § 6, Dec. 14, 1967, 81 Stat. 572.)
+(June 30, 1953, ch. 164, § 8, 67 Stat. 114; Pub. L. 90–189, § 6, Dec. 14, 1967, 81 Stat. 572.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
@@ -567,11 +567,11 @@ Subsec. (b). Pub. L. 90–189 substituted “product, fabric, or related materia
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1198. Shipments from foreign countries; demand for redelivery; claim for liquidated damages
+## § 1198. Shipments from foreign countries; demand for redelivery; claim for liquidated damages
 
 An imported product, fabric, or related material to which flammability standards under this chapter are applicable shall not be delivered from customs custody except as provided in section 1499 of title 19. In the event an imported product, fabric, or related material is delivered from customs custody under bond, as provided in section 1499 of title 19 and fails to conform with an applicable flammability standard in effect on the date of entry of such merchandise, the Secretary of the Treasury shall demand redelivery and in the absence thereof shall assert a claim for liquidated damages for breach of a condition of the bond arising out of such failure to conform or redeliver in accordance with regulations prescribed by the Secretary of the Treasury or his delegate. When asserting a claim for liquidated damages against an importer for failure to redeliver such nonconforming goods, the liquidated damages shall be not less than 10 per centum of the value of the nonconforming merchandise if, within five years prior thereto, the importer has previously been assessed liquidated damages for failure to redeliver nonconforming goods in response to a demand from the Secretary of the Treasury as set forth above.
 
-(June 30, 1953, ch. 164, § 9, 67 Stat. 114; Pub. L. 90–189, § 7, Dec. 14, 1967, 81 Stat. 572.)
+(June 30, 1953, ch. 164, § 9, 67 Stat. 114; Pub. L. 90–189, § 7, Dec. 14, 1967, 81 Stat. 572.)
 
 **Editorial Notes**
 
@@ -585,11 +585,11 @@ An imported product, fabric, or related material to which flammability standards
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1199. Chapter as additional legislation
+## § 1199. Chapter as additional legislation
 
 The provisions of this chapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other law. If any provision of this chapter or the application thereof to any person or circumstances is held invalid the remainder of the chapter and the application of such provisions to any other person or circumstances shall not be affected thereby.
 
-(June 30, 1953, ch. 164, § 10, 67 Stat. 115.)
+(June 30, 1953, ch. 164, § 10, 67 Stat. 115.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,11 +597,11 @@ The provisions of this chapter shall be held to be in addition to, and not in su
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1200. Persons excluded from operation of chapter
+## § 1200. Persons excluded from operation of chapter
 
 The provisions of this chapter shall not apply (a) to any common carrier, contract carrier, or freight forwarder in transporting a product, fabric, or related material shipped or delivered for shipment into commerce in the ordinary course of its business; (b) to any converter, processor, or finisher in performing a contract or commission service for the account of a person subject to the provisions of this chapter: *Provided*, That said converter, processor, or finisher does not cause any product, fabric, or related material to become subject to this chapter contrary to the terms of the contract or commission service; or (c) to any product, fabric, or related material shipped or delivered for shipment into commerce for the purpose of finishing or processing such product, fabric, or related material so that it conforms with applicable flammability standards issued or amended under the provisions of section 1193 of this title.
 
-(June 30, 1953, ch. 164, § 11, 67 Stat. 115; Pub. L. 90–189, § 8, Dec. 14, 1967, 81 Stat. 573.)
+(June 30, 1953, ch. 164, § 11, 67 Stat. 115; Pub. L. 90–189, § 8, Dec. 14, 1967, 81 Stat. 573.)
 
 **Editorial Notes**
 
@@ -615,7 +615,7 @@ The provisions of this chapter shall not apply (a) to any common carrier, contra
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-## § 1201. Study and investigation; research, development and training
+## § 1201. Study and investigation; research, development and training
 
 **(a)** The Consumer Product Safety Commission shall conduct a continuing study and investigation of the deaths, injuries, and economic losses resulting from accidental burning of products, fabrics, or related materials.
 
@@ -629,7 +629,7 @@ Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce,
 
 **(4)** offer appropriate training in the use of flammability test methods and testing devices.
 
-(June 30, 1953, ch. 164, § 14, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, § 30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, § 114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, § 1211(e), Aug. 13, 1981, 95 Stat. 721; Pub. L. 110–314, title II, § 204(c)(2)(B), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, § 14, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, § 30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, § 114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, § 1211(e), Aug. 13, 1981, 95 Stat. 721; Pub. L. 110–314, title II, § 204(c)(2)(B), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
@@ -657,9 +657,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 **Toxicologic Risks of Flame-Retardant Chemicals in Residential Upholstered Furniture**
 
-Pub. L. 105–276, title IV, § 423, Oct. 21, 1998, 112 Stat. 2510, provided that within 90 days of Oct. 21, 1998, the Consumer Product Safety Commission was to make all necessary arrangements for the Committee on Toxicology of the National Academy of Sciences (NAS) to conduct an independent 12-month study of the potential toxicologic risks of all flame-retardant chemicals identified by the NAS and the Commission as likely candidates for use in residential upholstered furniture for the purpose of meeting regulations proposed by the Commission for flame resistance of residential upholstered furniture, and that the Academy would send the report, when complete, to the Commission, which would provide the report to Congress.
+Pub. L. 105–276, title IV, § 423, Oct. 21, 1998, 112 Stat. 2510, provided that within 90 days of Oct. 21, 1998, the Consumer Product Safety Commission was to make all necessary arrangements for the Committee on Toxicology of the National Academy of Sciences (NAS) to conduct an independent 12-month study of the potential toxicologic risks of all flame-retardant chemicals identified by the NAS and the Commission as likely candidates for use in residential upholstered furniture for the purpose of meeting regulations proposed by the Commission for flame resistance of residential upholstered furniture, and that the Academy would send the report, when complete, to the Commission, which would provide the report to Congress.
 
-## § 1202. Exemptions
+## § 1202. Exemptions
 
 **(a) Exports; risk of injury to residents of United States**
 
@@ -681,23 +681,23 @@ Notwithstanding any other provision of this section, the Consumer Product Safety
 
 Nothing in this section shall apply to any fabric or related material, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title.
 
-(June 30, 1953, ch. 164, § 15, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 95–631, § 8(a), Nov. 10, 1978, 92 Stat. 3746; Pub. L. 110–314, title II, §§ 204(c)(2)(F), 221(b), Aug. 14, 2008, 122 Stat. 3042, 3066.)
+(June 30, 1953, ch. 164, § 15, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 95–631, § 8(a), Nov. 10, 1978, 92 Stat. 3746; Pub. L. 110–314, title II, §§ 204(c)(2)(F), 221(b), Aug. 14, 2008, 122 Stat. 3042, 3066.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(c)(2)(F), which directed the substitution of “Commission” for “Consumer Product Safety Commission (hereinafter in this section referred to as the ‘Commission’) in section 15 (15 U.S.C. 1202)”, was executed by making the substitution for “Consumer Product Safety Commission (hereinafter in this section referred to as the ‘Commission’)” to reflect the probable intent of Congress.
+2008—Subsec. (a). Pub. L. 110–314, § 204(c)(2)(F), which directed the substitution of “Commission” for “Consumer Product Safety Commission (hereinafter in this section referred to as the ‘Commission’) in section 15 (15 U.S.C. 1202)”, was executed by making the substitution for “Consumer Product Safety Commission (hereinafter in this section referred to as the ‘Commission’)” to reflect the probable intent of Congress.
 
-Subsecs. (d), (e). Pub. L. 110–314, § 221(b), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 110–314, § 221(b), added subsecs. (d) and (e).
 
-1978—Subsec. (a). Pub. L. 95–631, § 8(a)(1), made chapter applicable to exports when the Commission determines that exportation presents an unreasonable risk of injury to persons residing within the United States.
+1978—Subsec. (a). Pub. L. 95–631, § 8(a)(1), made chapter applicable to exports when the Commission determines that exportation presents an unreasonable risk of injury to persons residing within the United States.
 
-Subsec. (b). Pub. L. 95–631, § 8(a)(2), made chapter applicable to imports intended for export when the Commission determines that exportation presents an unreasonable risk of injury to persons residing within the United States.
+Subsec. (b). Pub. L. 95–631, § 8(a)(2), made chapter applicable to imports intended for export when the Commission determines that exportation presents an unreasonable risk of injury to persons residing within the United States.
 
-Subsec. (c). Pub. L. 95–631, § 8(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 95–631, § 8(a)(3), added subsec. (c).
 
-## § 1203. Preemption of Federal standards
+## § 1203. Preemption of Federal standards
 
 **(a) Standards or regulations designed to protect against same risk as State standards or regulations; identical State standards**
 
@@ -723,7 +723,7 @@ In determining the burden, if any, of a State or political subdivision flammabil
 
 In this section, a reference to a flammability standard or other regulation for a fabric, related material, or product in effect under this chapter includes a standard of flammability continued in effect by section 11 of the Act of December 14, 1967 (Public Law 90–189).
 
-(June 30, 1953, ch. 164, § 16, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 94–284, § 17(b), May 11, 1976, 90 Stat. 512; Pub. L. 110–314, title II, § 204(c)(2)(G), Aug. 14, 2008, 122 Stat. 3043.)
+(June 30, 1953, ch. 164, § 16, as added Pub. L. 90–189, § 10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 94–284, § 17(b), May 11, 1976, 90 Stat. 512; Pub. L. 110–314, title II, § 204(c)(2)(G), Aug. 14, 2008, 122 Stat. 3043.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ Section 11 of the Act of December 14, 1967 (Public Law 90–189), referred to in
 
 The provisions of this section establishing the extent to which the Flammable Fabrics Act (15 U.S.C. 1191 et seq.) preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Flammable Fabrics Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 1204. Congressional veto of flammability regulations
+## § 1204. Congressional veto of flammability regulations
 
 **(a) Transmission to Congress**
 
@@ -755,7 +755,7 @@ The Commission shall transmit to the Secretary of the Senate and the Clerk of th
 
 **(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) shall not take effect if—
 
-**(1)** within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the flammability regulation which was promulgated under the Flammable Fabrics Act by the Consumer Product Safety Commission with respect to            and which was transmitted to the Congress on            and disapproves the regulation for the following reasons:           .”; or
+**(1)** within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the flammability regulation which was promulgated under the Flammable Fabrics Act by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the regulation for the following reasons: .”; or
 
 **(2)** within the sixty calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the thirty calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -769,7 +769,7 @@ Congressional inaction on, or rejection of, a concurrent resolution of disapprov
 
 **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
-(June 30, 1953, ch. 164, § 17, as added Pub. L. 97–35, title XII, § 1207(d), Aug. 13, 1981, 95 Stat. 719; amended Pub. L. 110–314, title II, § 204(c)(2)(C), (H), Aug. 14, 2008, 122 Stat. 3042, 3043.)
+(June 30, 1953, ch. 164, § 17, as added Pub. L. 97–35, title XII, § 1207(d), Aug. 13, 1981, 95 Stat. 719; amended Pub. L. 110–314, title II, § 204(c)(2)(C), (H), Aug. 14, 2008, 122 Stat. 3042, 3043.)
 
 **Editorial Notes**
 
@@ -779,13 +779,13 @@ The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch.
 
 **Prior Provisions**
 
-A prior section 1204, act June 30, 1953, ch. 164, § 17, as added Dec. 14, 1967, Pub. L. 90–189, § 10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, § 19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, § 1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
+A prior section 1204, act June 30, 1953, ch. 164, § 17, as added Dec. 14, 1967, Pub. L. 90–189, § 10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, § 19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, § 1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
 
 **Amendments**
 
-2008—Pub. L. 110–314, § 204(c)(2)(H), which directed substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a) before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
+2008—Pub. L. 110–314, § 204(c)(2)(H), which directed substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a) before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 110–314, § 204(c)(2)(C), which directed substitution of “Commission” for “Secretary” wherever appearing in the Flammable Fabrics Act, classified to this chapter, was not executed in subsec. (a) of this section, where “Secretary” precedes “of the Senate”, to reflect the probable intent of Congress. Amendment was part of a series of conforming amendments to change references to the “Secretary” of Commerce to “Commission”.
+Subsec. (a). Pub. L. 110–314, § 204(c)(2)(C), which directed substitution of “Commission” for “Secretary” wherever appearing in the Flammable Fabrics Act, classified to this chapter, was not executed in subsec. (a) of this section, where “Secretary” precedes “of the Senate”, to reflect the probable intent of Congress. Amendment was part of a series of conforming amendments to change references to the “Secretary” of Commerce to “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—NATIONAL DRUG CONTROL POLICY
 
-## § 1701. Definitions
+## § 1701. Definitions
 
 In this chapter:
 
@@ -89,9 +89,9 @@ The term “law enforcement” or “drug law enforcement” means all efforts b
 
 **(10) National Drug Control Program**
 
-The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 1
+The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 1
 
-<sup>1</sup>  So in original. Probably should be “Tribal”.
+<sup>1</sup> So in original. Probably should be “Tribal”.
 
 affairs.
 
@@ -147,7 +147,7 @@ The term “substance use disorder treatment” means an evidence-based, profess
 
 **(H)** research related to any of the activities described in this paragraph.
 
-(Pub. L. 105–277, div. C, title VII, §§ 702, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693; Pub. L. 109–469, title I, § 101, title VI, § 602, Dec. 29, 2006, 120 Stat. 3503, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8216, Oct. 24, 2018, 132 Stat. 4110, 4117; Pub. L. 116–74, § 2(a)(1), (3), Nov. 27, 2019, 133 Stat. 1155.)
+(Pub. L. 105–277, div. C, title VII, §§ 702, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693; Pub. L. 109–469, title I, § 101, title VI, § 602, Dec. 29, 2006, 120 Stat. 3503, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8216, Oct. 24, 2018, 132 Stat. 4110, 4117; Pub. L. 116–74, § 2(a)(1), (3), Nov. 27, 2019, 133 Stat. 1155.)
 
 **Editorial Notes**
 
@@ -157,69 +157,69 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Amendments**
 
-2019—Pars. (3), (11). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency”.
+2019—Pars. (3), (11). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency”.
 
-Par. (15). Pub. L. 116–74, § 2(a)(3), substituted “Tribal” for “tribal” wherever appearing.
+Par. (15). Pub. L. 116–74, § 2(a)(3), substituted “Tribal” for “tribal” wherever appearing.
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out below.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out below.
 
-Pars. (1), (2). Pub. L. 115–271, § 8216(6), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
+Pars. (1), (2). Pub. L. 115–271, § 8216(6), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
 
-Par. (3). Pub. L. 115–271, § 8216(5), (7), redesignated par. (1) as (3) and amended it generally. Prior to amendment, par. defined demand reduction.
+Par. (3). Pub. L. 115–271, § 8216(5), (7), redesignated par. (1) as (3) and amended it generally. Prior to amendment, par. defined demand reduction.
 
-Par. (4). Pub. L. 115–271, § 8216(5), redesignated par. (2) as (4). Former par. (4) redesignated (6).
+Par. (4). Pub. L. 115–271, § 8216(5), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-Par. (5). Pub. L. 115–271, § 8216(1), (5), redesignated par. (3) as (5) and struck out former par. (5) which defined the term “Fund” as the fund established under section 1702(d) of this title.
+Par. (5). Pub. L. 115–271, § 8216(1), (5), redesignated par. (3) as (5) and struck out former par. (5) which defined the term “Fund” as the fund established under section 1702(d) of this title.
 
-Par. (6). Pub. L. 115–271, § 8216(5), redesignated par. (4) as (6). Former par. (6) redesignated (10).
+Par. (6). Pub. L. 115–271, § 8216(5), redesignated par. (4) as (6). Former par. (6) redesignated (10).
 
-Pars. (7) to (9). Pub. L. 115–271, § 8216(8), added pars. (7) to (9). Former pars. (7), (8), and (9) redesignated (11), (12), and (14), respectively.
+Pars. (7) to (9). Pub. L. 115–271, § 8216(8), added pars. (7) to (9). Former pars. (7), (8), and (9) redesignated (11), (12), and (14), respectively.
 
-Par. (10). Pub. L. 115–271, § 8216(4), redesignated par. (6) as (10). Former par. (10) redesignated (15).
+Par. (10). Pub. L. 115–271, § 8216(4), redesignated par. (6) as (10). Former par. (10) redesignated (15).
 
-Par. (11). Pub. L. 115–271, § 8216(4), (9), redesignated par. (7) as (11) and amended it generally. Prior to amendment, text read as follows: “The term ‘National Drug Control Program agency’ means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
+Par. (11). Pub. L. 115–271, § 8216(4), (9), redesignated par. (7) as (11) and amended it generally. Prior to amendment, text read as follows: “The term ‘National Drug Control Program agency’ means any agency that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program, the Joint Military Intelligence Program or Tactical Intelligence and Related Activities, or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28, unless such agency has been designated—
 
 “(A) by the President; or
 
 “(B) jointly by the Director and the head of the agency.”
 
-Par. (12). Pub. L. 115–271, § 8216(10), inserted “or ‘Strategy’ ” before “means” and “, including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy” before period at end.
+Par. (12). Pub. L. 115–271, § 8216(10), inserted “or ‘Strategy’ ” before “means” and “, including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy” before period at end.
 
-Pub. L. 115–271, § 8216(1), (4), redesignated par. (8) as (12) and struck out former par. (12). Prior to amendment, text of par. (12) read as follows: “Except where otherwise provided, the term ‘appropriate congressional committees’ means the Committee on the Judiciary, the Committee on Appropriations, and the Caucus on International Narcotics Control of the Senate and the Committee on Government Reform, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives.”
+Pub. L. 115–271, § 8216(1), (4), redesignated par. (8) as (12) and struck out former par. (12). Prior to amendment, text of par. (12) read as follows: “Except where otherwise provided, the term ‘appropriate congressional committees’ means the Committee on the Judiciary, the Committee on Appropriations, and the Caucus on International Narcotics Control of the Senate and the Committee on Government Reform, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives.”
 
-Par. (13). Pub. L. 115–271, § 8216(1), (11), added par. (13) and struck out former par. (13). Prior to amendment, text read as follows: “The term ‘law enforcement’ or ‘drug law enforcement’ means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.”
+Par. (13). Pub. L. 115–271, § 8216(1), (11), added par. (13) and struck out former par. (13). Prior to amendment, text read as follows: “The term ‘law enforcement’ or ‘drug law enforcement’ means all efforts by a Federal, State, local, or tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.”
 
-Par. (14). Pub. L. 115–271, § 8216(3), (12), redesignated par. (9) as (14) and substituted “The” for “Unless the context clearly indicates otherwise, the”.
+Par. (14). Pub. L. 115–271, § 8216(3), (12), redesignated par. (9) as (14) and substituted “The” for “Unless the context clearly indicates otherwise, the”.
 
-Par. (15). Pub. L. 115–271, § 8216(3), redesignated par. (10) as (15).
+Par. (15). Pub. L. 115–271, § 8216(3), redesignated par. (10) as (15).
 
-Par. (16). Pub. L. 115–271, § 8216(13), added par. (16).
+Par. (16). Pub. L. 115–271, § 8216(13), added par. (16).
 
-Par. (17). Pub. L. 115–271, § 8216(2), redesignated par. (11) as (17).
+Par. (17). Pub. L. 115–271, § 8216(2), redesignated par. (11) as (17).
 
-Par. (17)(B) to (H). Pub. L. 115–271, § 8216(14), added subpar. (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and added subpars. (G) and (H).
+Par. (17)(B) to (H). Pub. L. 115–271, § 8216(14), added subpar. (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and added subpars. (G) and (H).
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Par. (1)(G). Pub. L. 109–469, § 101(a)(2), substituted “, including the testing of employees;” for period at end.
+Par. (1)(G). Pub. L. 109–469, § 101(a)(2), substituted “, including the testing of employees;” for period at end.
 
-Par. (1)(H) to (J). Pub. L. 109–469, § 101(a)(1), (3), added subpars. (H) to (J).
+Par. (1)(H) to (J). Pub. L. 109–469, § 101(a)(1), (3), added subpars. (H) to (J).
 
-Par. (6). Pub. L. 109–469, § 101(b), inserted “, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs” before period at end.
+Par. (6). Pub. L. 109–469, § 101(b), inserted “, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs” before period at end.
 
-Par. (7). Pub. L. 109–469, § 101(c), in introductory provisions, substituted “National Intelligence Program,” for “National Foreign Intelligence Program,” and inserted “or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28,” after “Related Activities,”.
+Par. (7). Pub. L. 109–469, § 101(c), in introductory provisions, substituted “National Intelligence Program,” for “National Foreign Intelligence Program,” and inserted “or (for purposes of section 1703(d) of this title) an agency that is described in section 530C(a) of title 28,” after “Related Activities,”.
 
-Par. (9). Pub. L. 109–469, § 101(d), substituted “indicates” for “implicates”.
+Par. (9). Pub. L. 109–469, § 101(d), substituted “indicates” for “implicates”.
 
-Par. (10). Pub. L. 109–469, § 101(e), amended par. (10) generally. Prior to amendment, text defined the term “State and local affairs”.
+Par. (10). Pub. L. 109–469, § 101(e), amended par. (10) generally. Prior to amendment, text defined the term “State and local affairs”.
 
-Par. (11). Pub. L. 109–469, § 101(f), amended par. (11) generally. Prior to amendment, text defined the term “supply reduction”.
+Par. (11). Pub. L. 109–469, § 101(f), amended par. (11) generally. Prior to amendment, text defined the term “supply reduction”.
 
-Pars. (12), (13). Pub. L. 109–469, § 101(g), added pars. (12) and (13).
+Pars. (12), (13). Pub. L. 109–469, § 101(g), added pars. (12) and (13).
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,29 +229,29 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–74, § 1, Nov. 27, 2019, 133 Stat. 1155, provided that: “This Act [see Tables for classification] may be cited as the ‘ONDCP Technical Corrections Act of 2019’.”
+Pub. L. 116–74, § 1, Nov. 27, 2019, 133 Stat. 1155, provided that: “This Act [see Tables for classification] may be cited as the ‘ONDCP Technical Corrections Act of 2019’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–271, title VIII, § 8201, Oct. 24, 2018, 132 Stat. 4110, provided that: “This subtitle [subtitle K (§§ 8201–8222) of title VIII of Pub. L. 115–271, see Tables for classification] may be cited as the ‘Substance Abuse Prevention Act of 2018’.”
+Pub. L. 115–271, title VIII, § 8201, Oct. 24, 2018, 132 Stat. 4110, provided that: “This subtitle [subtitle K (§§ 8201–8222) of title VIII of Pub. L. 115–271, see Tables for classification] may be cited as the ‘Substance Abuse Prevention Act of 2018’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–356, § 1, Jan. 4, 2011, 124 Stat. 3976, provided that: “This Act [amending provisions set out as a note under section 1705 of this title] may be cited as the ‘Northern Border Counternarcotics Strategy Act of 2010’.”
+Pub. L. 111–356, § 1, Jan. 4, 2011, 124 Stat. 3976, provided that: “This Act [amending provisions set out as a note under section 1705 of this title] may be cited as the ‘Northern Border Counternarcotics Strategy Act of 2010’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–469, § 1(a), Dec. 29, 2006, 120 Stat. 3502, provided that: “This Act [enacting sections 1708a, 1714, 2001 to 2003, and 2011 to 2014 of this title, amending this section, sections 823, 1524, 1532, 1702 to 1708, 1710 to 1712 of this title, and section 458 of Title 6, Domestic Security, repealing sections 1509, 1709, and 1801 to 1804 of this title, enacting provisions set out as notes under this section, sections 1532, 1705, 1706, and 2001 of this title, and section 112 of Title 32, National Guard, amending provisions set out as a note under section 1521 of this title, and repealing provisions set out as a note under section 1801 of this title] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 2006’.”
+Pub. L. 109–469, § 1(a), Dec. 29, 2006, 120 Stat. 3502, provided that: “This Act [enacting sections 1708a, 1714, 2001 to 2003, and 2011 to 2014 of this title, amending this section, sections 823, 1524, 1532, 1702 to 1708, 1710 to 1712 of this title, and section 458 of Title 6, Domestic Security, repealing sections 1509, 1709, and 1801 to 1804 of this title, enacting provisions set out as notes under this section, sections 1532, 1705, 1706, and 2001 of this title, and section 112 of Title 32, National Guard, amending provisions set out as a note under section 1521 of this title, and repealing provisions set out as a note under section 1801 of this title] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 2006’.”
 
-Pub. L. 109–469, title III, § 302(a), Dec. 29, 2006, 120 Stat. 3524, provided that: “This section [amending section 1706 of this title and enacting provisions set out as a note under section 1706 of this title] may be cited as the ‘Dawson Family Community Protection Act’.”
+Pub. L. 109–469, title III, § 302(a), Dec. 29, 2006, 120 Stat. 3524, provided that: “This section [amending section 1706 of this title and enacting provisions set out as a note under section 1706 of this title] may be cited as the ‘Dawson Family Community Protection Act’.”
 
 **Short Title**
 
-Pub. L. 105–277, div. C, title VII, §§ 701, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693, as amended by Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, provided that: “This title [enacting this chapter and amending section 1509 of this title, sections 5312 to 5314 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 1998’.”
+Pub. L. 105–277, div. C, title VII, §§ 701, 715, Oct. 21, 1998, 112 Stat. 2681–670, 2681–693, as amended by Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, provided that: “This title [enacting this chapter and amending section 1509 of this title, sections 5312 to 5314 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 1998’.”
 
 **Reauthorization of the Office of National Drug Control Policy and Revival of Office of National Drug Control Policy Reauthorization Act of 1998**
 
-Pub. L. 115–271, title VIII, § 8202(a), Oct. 24, 2018, 132 Stat. 4110, provided that:
+Pub. L. 115–271, title VIII, § 8202(a), Oct. 24, 2018, 132 Stat. 4110, provided that:
 
 > **“(1) In general.—** The Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701 et seq.) [title VII of div. C of Pub. L. 105–277, see Short Title note set out above], as in effect on September 29, 2003, and as amended by the laws described in paragraph (2), is revived and restored.
 
@@ -263,13 +263,13 @@ Pub. L. 115–271, title VIII, § 8202(a), Oct. 24, 2018, 132 Stat. 4110, prov
 
 **Model Acts**
 
-Pub. L. 109–469, title XI, § 1105, Dec. 29, 2006, 120 Stat. 3541, which directed the Director of the Office of National Drug Control Policy to enter into an agreement with a non-profit corporation to advise States on establishing laws and policies to address alcohol and other drug issues based on the model State drug laws developed by the President’s Commission on Model State Drug Laws in 1993, was repealed by Pub. L. 115–271, title VIII, § 8217(h), Oct. 24, 2018, 132 Stat. 4125. See section 1703(i) of this title.
+Pub. L. 109–469, title XI, § 1105, Dec. 29, 2006, 120 Stat. 3541, which directed the Director of the Office of National Drug Control Policy to enter into an agreement with a non-profit corporation to advise States on establishing laws and policies to address alcohol and other drug issues based on the model State drug laws developed by the President’s Commission on Model State Drug Laws in 1993, was repealed by Pub. L. 115–271, title VIII, § 8217(h), Oct. 24, 2018, 132 Stat. 4125. See section 1703(i) of this title.
 
 **Executive Documents**
 
 **Ex. Ord. No. 13165. White House Task Force on Drug Use in Sports and United States Representative on the Board of the World Anti-Doping Agency**
 
-Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 13286, § 11, Feb. 28, 2003, 68 F.R. 10622, provided:
+Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 13286, § 11, Feb. 28, 2003, 68 F.R. 10622, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Office of National Drug Control [Policy] Reauthorization Act of 1998, (21 U.S.C. 1701 *et seq*.), and in order to develop recommendations for Federal agency actions to address the use of drugs in sports, in particular among young people, it is hereby ordered as follows:
 
@@ -289,7 +289,7 @@ Sec. 3. *Participation in the World Anti-Doping Agency*. (a) As part of my Admin
 
 (c) To assist the Director in carrying out these responsibilities as the United States Government representative to the WADA and to the extent permitted by law, Federal employees may serve in their official capacity, *inter alia*, on WADA Committees or WADA advisory committees, serving as experts to the WADA.
 
-## § 1702. Office of National Drug Control Policy
+## § 1702. Office of National Drug Control Policy
 
 **(a) Establishment of Office** There is established in the Executive Office of the President an Office of National Drug Control Policy, which shall—
 
@@ -299,9 +299,9 @@ Sec. 3. *Participation in the World Anti-Doping Agency*. (a) As part of my Admin
 
 **(3)** assess and certify the adequacy of National Drug Control Programs and the budget for those programs;
 
-**(4)** evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies’ 1
+**(4)** evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies’ 1
 
-<sup>1</sup>  So in original. Probably should be “agencies’ ”.
+<sup>1</sup> So in original. Probably should be “agencies’ ”.
 
 programs, by developing and applying specific goals and performance measurements and monitoring the agencies’ program-level spending;
 
@@ -311,7 +311,7 @@ programs, by developing and applying specific goals and performance measurements
 
 **(7)** facilitate broad-scale information sharing and data standardization among Federal, State, and local entities to support the national drug control efforts.
 
-**(b) Repealed. Pub. L. 115–271, title VIII, § 8222(1), Oct. 24, 2018, 132 Stat. 4142**
+**(b) Repealed. Pub. L. 115–271, title VIII, § 8222(1), Oct. 24, 2018, 132 Stat. 4142**
 
 **(c) Access by Congress** The location of the Office in the Executive Office of the President shall not be construed as affecting access by Congress, or any committee of the House of Representatives or the Senate, to any—
 
@@ -349,7 +349,7 @@ Amounts deposited in the Fund are authorized to be appropriated, to remain avail
 
 The Director shall include in the annual assessment under section 1705(g) of this title a copy of the registry maintained under paragraph (5).
 
-(Pub. L. 105–277, div. C, title VII, §§ 703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, § 102, title VI, § 602, title XI, § 1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142; Pub. L. 116–74, § 2(a)(2), (4), Nov. 27, 2019, 133 Stat. 1155.)
+(Pub. L. 105–277, div. C, title VII, §§ 703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, § 102, title VI, § 602, title XI, § 1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142; Pub. L. 116–74, § 2(a)(2), (4), Nov. 27, 2019, 133 Stat. 1155.)
 
 **Editorial Notes**
 
@@ -359,39 +359,39 @@ This chapter, referred to in subsec. (d)(4), was in the original a reference to 
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies”.
+2019—Subsec. (a)(1). Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies”.
 
-Subsec. (a)(4). Pub. L. 116–74, § 2(a)(4)(A)(i), substituted “programs,” for “program,”.
+Subsec. (a)(4). Pub. L. 116–74, § 2(a)(4)(A)(i), substituted “programs,” for “program,”.
 
-Subsec. (a)(6). Pub. L. 116–74, § 2(a)(4)(A)(ii), substituted “High Intensity” for “High-Intensity”.
+Subsec. (a)(6). Pub. L. 116–74, § 2(a)(4)(A)(ii), substituted “High Intensity” for “High-Intensity”.
 
-Subsec. (d)(4). Pub. L. 116–74, § 2(a)(4)(B), made technical amendment to reference in original act which appears in text as reference to this chapter in subpars. (A) and (B).
+Subsec. (d)(4). Pub. L. 116–74, § 2(a)(4)(B), made technical amendment to reference in original act which appears in text as reference to this chapter in subpars. (A) and (B).
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-Subsec. (a). Pub. L. 115–271, § 8217(a)(4), struck out concluding provisions which read as follows: “When developing the national drug control policy, any policy of the Director relating to syringe exchange programs for intravenous drug users shall be based on the best available medical and scientific evidence regarding their effectiveness in promoting individual health and preventing the spread of infectious disease, and their impact on drug addiction and use. In making any policy relating to syringe exchange programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.”
+Subsec. (a). Pub. L. 115–271, § 8217(a)(4), struck out concluding provisions which read as follows: “When developing the national drug control policy, any policy of the Director relating to syringe exchange programs for intravenous drug users shall be based on the best available medical and scientific evidence regarding their effectiveness in promoting individual health and preventing the spread of infectious disease, and their impact on drug addiction and use. In making any policy relating to syringe exchange programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.”
 
-Subsec. (a)(1). Pub. L. 115–271, § 8217(a)(1), added par. (1) and struck out former par. (1) which read as follows: “develop national drug control policy;”.
+Subsec. (a)(1). Pub. L. 115–271, § 8217(a)(1), added par. (1) and struck out former par. (1) which read as follows: “develop national drug control policy;”.
 
-Subsec. (a)(2). Pub. L. 115–271, § 8217(a)(2), inserted before semicolon at end “, including the National Drug Control Strategy”.
+Subsec. (a)(2). Pub. L. 115–271, § 8217(a)(2), inserted before semicolon at end “, including the National Drug Control Strategy”.
 
-Subsec. (a)(4) to (7). Pub. L. 115–271, § 8217(a)(3), (4), added pars. (4) to (7) and struck out former par. (4) which read as follows: “evaluate the effectiveness of the national drug control policy and the National Drug Control Program agencies’ programs, by developing and applying specific goals and performance measurements.”
+Subsec. (a)(4) to (7). Pub. L. 115–271, § 8217(a)(3), (4), added pars. (4) to (7) and struck out former par. (4) which read as follows: “evaluate the effectiveness of the national drug control policy and the National Drug Control Program agencies’ programs, by developing and applying specific goals and performance measurements.”
 
-Subsec. (b). Pub. L. 115–271, § 8222(1), struck out subsec. (b) which related to Director of National Drug Control Policy and Deputy Directors.
+Subsec. (b). Pub. L. 115–271, § 8222(1), struck out subsec. (b) which related to Director of National Drug Control Policy and Deputy Directors.
 
-Subsec. (d)(4) to (6). Pub. L. 115–271, § 8217(b), added pars. (4) to (6).
+Subsec. (d)(4) to (6). Pub. L. 115–271, § 8217(b), added pars. (4) to (6).
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Subsec. (a). Pub. L. 109–469, § 1120, inserted concluding provisions.
+Subsec. (a). Pub. L. 109–469, § 1120, inserted concluding provisions.
 
-Pub. L. 109–469, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
+Pub. L. 109–469, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
 
-Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
+Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -441,15 +441,15 @@ Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 446.
 
 Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 530.
 
-Pub. L. 106–554, § 1(a)(3) [title III], Dec. 21, 2000, 114 Stat. 2763, 2763A–139.
+Pub. L. 106–554, § 1(a)(3) [title III], Dec. 21, 2000, 114 Stat. 2763, 2763A–139.
 
 Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 447.
 
-Pub. L. 105–277, div. A, § 101(h) [title III], Oct. 21, 1998, 112 Stat. 2681–480, 2681–496.
+Pub. L. 105–277, div. A, § 101(h) [title III], Oct. 21, 1998, 112 Stat. 2681–480, 2681–496.
 
 Pub. L. 105–61, title III, Oct. 10, 1997, 111 Stat. 1293.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title III], Sept. 30, 1996, 110 Stat. 3009–314, 3009–329.
+Pub. L. 104–208, div. A, title I, § 101(f) [title III], Sept. 30, 1996, 110 Stat. 3009–314, 3009–329.
 
 Pub. L. 104–52, title III, Nov. 19, 1995, 109 Stat. 479.
 
@@ -485,7 +485,7 @@ William J. Clinton.
 
 [image]
 
-## § 1703. Appointment and duties of Director and Deputy Directors
+## § 1703. Appointment and duties of Director and Deputy Directors
 
 **(a) Appointment**
 
@@ -547,9 +547,9 @@ No funds authorized under this chapter may be obligated for the purpose of expre
 
 **(1)** shall assist the President in the establishment of policies, goals, objectives, and priorities for the National Drug Control Program;
 
-**(2)** shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) 1
+**(2)** shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title in accordance with section 1705 of this title;
 
@@ -581,15 +581,15 @@ of this title in accordance with section 1705 of this title;
 
 **(B)** has not been approved for use for medical purposes by the Food and Drug Administration;
 
-**(13)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A), Oct. 24, 2018, 132 Stat. 4142.
+**(13)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A), Oct. 24, 2018, 132 Stat. 4142.
 
 **(14)** shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
 
 **(A)** each of the evaluations received by the Director under section 1705(g)(2) of this title; and
 
-**(B)** the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2
+**(B)** the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2
 
-<sup>2</sup>  Probably should be “1705(h)”.
+<sup>2</sup> Probably should be “1705(h)”.
 
 of this title;
 
@@ -607,7 +607,7 @@ of this title;
 
 **(16)** shall coordinate with the private sector to promote private research and development of medications to treat addiction;
 
-**(17)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A), Oct. 24, 2018, 132 Stat. 4142.
+**(17)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A), Oct. 24, 2018, 132 Stat. 4142.
 
 **(18)** shall monitor and evaluate the allocation of resources among Federal law enforcement agencies in response to significant local and regional drug trafficking and production threats;
 
@@ -901,13 +901,13 @@ The Director shall designate or appoint a United States State, Local, and Tribal
 
 When developing the national drug control policy, any policy of the Director, including policies relating to syringe exchange programs for intravenous drug users, shall be based on the best available medical and scientific evidence regarding the effectiveness of such policy in promoting individual health and preventing the spread of infectious disease and the impact of such policy on drug addiction and use. In making any policy relating to harm reduction programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.
 
-(Pub. L. 105–277, div. C, title VII, §§ 704, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §§ 103(a)–(e), (f)(3), 105, title VI, § 602, Dec. 29, 2006, 120 Stat. 3506, 3507, 3510, 3511, 3533; Pub. L. 112–166, § 2(t), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8217(c)–(f), 8221(b)(1), 8222(2), Oct. 24, 2018, 132 Stat. 4110, 4120–4122, 4142; Pub. L. 116–74, § 2(a)(1), (2), (5), Nov. 27, 2019, 133 Stat. 1155.)
+(Pub. L. 105–277, div. C, title VII, §§ 704, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §§ 103(a)–(e), (f)(3), 105, title VI, § 602, Dec. 29, 2006, 120 Stat. 3506, 3507, 3510, 3511, 3533; Pub. L. 112–166, § 2(t), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8217(c)–(f), 8221(b)(1), 8222(2), Oct. 24, 2018, 132 Stat. 4110, 4120–4122, 4142; Pub. L. 116–74, § 2(a)(1), (2), (5), Nov. 27, 2019, 133 Stat. 1155.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1705 of this title, referred to in subsec. (b)(2), (14)(B), was amended by Pub. L. 115–271, title VIII, § 8221(a), Oct. 24, 2018, 132 Stat. 4134. Subsec. (b) of section 1705 no longer relates to reports for National Drug Control Program Agencies, but similar provisions can be found elsewhere in that section. Subsec. (c) of section 1705 was redesignated (h).
+Section 1705 of this title, referred to in subsec. (b)(2), (14)(B), was amended by Pub. L. 115–271, title VIII, § 8221(a), Oct. 24, 2018, 132 Stat. 4134. Subsec. (b) of section 1705 no longer relates to reports for National Drug Control Program Agencies, but similar provisions can be found elsewhere in that section. Subsec. (c) of section 1705 was redesignated (h).
 
 This chapter, referred to in subsec. (b)(21)(A)(iii), was in the original a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
@@ -917,165 +917,165 @@ Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and 
 
 This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
-In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
 
-Subsec. (a)(1)(C)(i). Pub. L. 116–74, § 2(a)(5)(A)(i)(I), substituted “subsection (c)(5)” for “subsection (c)(4)”.
+Subsec. (a)(1)(C)(i). Pub. L. 116–74, § 2(a)(5)(A)(i)(I), substituted “subsection (c)(5)” for “subsection (c)(4)”.
 
-Subsec. (a)(1)(C)(iv). Pub. L. 116–74, § 2(a)(5)(A)(i)(II), made technical amendment to reference in original act which appears in text as reference to subsection (j).
+Subsec. (a)(1)(C)(iv). Pub. L. 116–74, § 2(a)(5)(A)(i)(II), made technical amendment to reference in original act which appears in text as reference to subsection (j).
 
-Subsec. (a)(1)(D). Pub. L. 116–74, § 2(a)(5)(A)(ii), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”.
+Subsec. (a)(1)(D). Pub. L. 116–74, § 2(a)(5)(A)(ii), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”.
 
-Subsec. (b)(21)(A)(iii). Pub. L. 116–74, § 2(a)(5)(B), made technical amendment to reference in original act which appears in text as reference to this chapter.
+Subsec. (b)(21)(A)(iii). Pub. L. 116–74, § 2(a)(5)(B), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 116–74, § 2(a)(5)(C)(i), substituted “of” for “fo”.
+Subsec. (c)(2)(A)(ii). Pub. L. 116–74, § 2(a)(5)(C)(i), substituted “of” for “fo”.
 
-Subsec. (c)(3)(E)(ii)(I). Pub. L. 116–74, § 2(a)(5)(C)(ii)(I), substituted “clause (i)” for “subparagraph (A)”.
+Subsec. (c)(3)(E)(ii)(I). Pub. L. 116–74, § 2(a)(5)(C)(ii)(I), substituted “clause (i)” for “subparagraph (A)”.
 
-Subsec. (c)(3)(E)(ii)(II). Pub. L. 116–74, § 2(a)(5)(C)(ii)(II), substituted “subclause (I)” for “clause (i)”.
+Subsec. (c)(3)(E)(ii)(II). Pub. L. 116–74, § 2(a)(5)(C)(ii)(II), substituted “subclause (I)” for “clause (i)”.
 
-Subsec. (c)(5)(A)(i). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” in two places.
+Subsec. (c)(5)(A)(i). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” in two places.
 
-Subsec. (c)(5)(B). Pub. L. 116–74, § 2(a)(5)(C)(iii), substituted “For purposes of carrying out subparagraph (A), the Director shall designate or appoint an” for ‘The Director shall determine whether the coordinator position is a noncareer”.
+Subsec. (c)(5)(B). Pub. L. 116–74, § 2(a)(5)(C)(iii), substituted “For purposes of carrying out subparagraph (A), the Director shall designate or appoint an” for ‘The Director shall determine whether the coordinator position is a noncareer”.
 
-Subsec. (d)(8)(F). Pub. L. 116–74, § 2(a)(5)(D)(i), redesignated subpar. (E)(iii) as subpar. (F), redesignated subcls. (I) to (V) of former subpar. (E)(iii) as cls. (i) to (v) of subpar. (F), respectively, realigned margins, and substituted “activities;” for “activities.” in cl. (v).
+Subsec. (d)(8)(F). Pub. L. 116–74, § 2(a)(5)(D)(i), redesignated subpar. (E)(iii) as subpar. (F), redesignated subcls. (I) to (V) of former subpar. (E)(iii) as cls. (i) to (v) of subpar. (F), respectively, realigned margins, and substituted “activities;” for “activities.” in cl. (v).
 
-Subsec. (d)(9). Pub. L. 116–74, § 2(a)(5)(D)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (f)(5), and inserted “and” at end.
+Subsec. (d)(9). Pub. L. 116–74, § 2(a)(5)(D)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (f)(5), and inserted “and” at end.
 
-Subsec. (j). Pub. L. 116–74, § 2(a)(5)(E), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”, and inserted “section” before “1705”.
+Subsec. (j). Pub. L. 116–74, § 2(a)(5)(E), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”, and inserted “section” before “1705”.
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-Subsec. (a)(1). Pub. L. 115–271, § 8217(c)(1), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which related to appointment of Director, Deputy Directors, and Deputy Director for Demand Reduction, respectively.
+Subsec. (a)(1). Pub. L. 115–271, § 8217(c)(1), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which related to appointment of Director, Deputy Directors, and Deputy Director for Demand Reduction, respectively.
 
-Subsec. (a)(5). Pub. L. 115–271, § 8217(c)(2), substituted “such officer or employee” for “such official”.
+Subsec. (a)(5). Pub. L. 115–271, § 8217(c)(2), substituted “such officer or employee” for “such official”.
 
-Subsec. (a)(6). Pub. L. 115–271, § 8217(c)(3), added par. (6).
+Subsec. (a)(6). Pub. L. 115–271, § 8217(c)(3), added par. (6).
 
-Subsec. (b)(13). Pub. L. 115–271, § 8221(b)(1)(A), struck out par. (13) which required each National Drug Control Program agency to submit annual progress reports.
+Subsec. (b)(13). Pub. L. 115–271, § 8221(b)(1)(A), struck out par. (13) which required each National Drug Control Program agency to submit annual progress reports.
 
-Subsec. (b)(14)(A). Pub. L. 115–271, § 8221(b)(1)(B), substituted “section 1705(g)(2) of this title” for “paragraph (13)”.
+Subsec. (b)(14)(A). Pub. L. 115–271, § 8221(b)(1)(B), substituted “section 1705(g)(2) of this title” for “paragraph (13)”.
 
-Subsec. (b)(17). Pub. L. 115–271, § 8221(b)(1)(A), struck out par. (17) which read as follows: “shall seek the support and commitment of State, local, and tribal officials in the formulation and implementation of the National Drug Control Strategy;”.
+Subsec. (b)(17). Pub. L. 115–271, § 8221(b)(1)(A), struck out par. (17) which read as follows: “shall seek the support and commitment of State, local, and tribal officials in the formulation and implementation of the National Drug Control Strategy;”.
 
-Subsec. (b)(21). Pub. L. 115–271, § 8217(d), added par. (21).
+Subsec. (b)(21). Pub. L. 115–271, § 8217(d), added par. (21).
 
-Subsec. (c)(2)(A). Pub. L. 115–271, § 8217(e)(1)(A), substituted “paragraph (1)(C) and include—” for “paragraph (1)(C);” and added cls. (i) and (ii).
+Subsec. (c)(2)(A). Pub. L. 115–271, § 8217(e)(1)(A), substituted “paragraph (1)(C) and include—” for “paragraph (1)(C);” and added cls. (i) and (ii).
 
-Subsec. (c)(2)(B). Pub. L. 115–271, § 8217(e)(1)(B), substituted “the President and Congress.” for “the President; and”.
+Subsec. (c)(2)(B). Pub. L. 115–271, § 8217(e)(1)(B), substituted “the President and Congress.” for “the President; and”.
 
-Subsec. (c)(2)(C). Pub. L. 115–271, § 8217(e)(1)(C), struck out subpar. (C) which read as follows: “after submission under subparagraph (B), submit the consolidated budget proposal to Congress.”
+Subsec. (c)(2)(C). Pub. L. 115–271, § 8217(e)(1)(C), struck out subpar. (C) which read as follows: “after submission under subparagraph (B), submit the consolidated budget proposal to Congress.”
 
-Subsec. (c)(3)(C). Pub. L. 115–271, § 8222(2)(A)(i)(I), inserted “requests a level of funding that will not enable achievement of the goals of the National Drug Control Strategy, including” after “request that” in introductory provisions.
+Subsec. (c)(3)(C). Pub. L. 115–271, § 8222(2)(A)(i)(I), inserted “requests a level of funding that will not enable achievement of the goals of the National Drug Control Strategy, including” after “request that” in introductory provisions.
 
-Subsec. (c)(3)(C)(iii). Pub. L. 115–271, § 8222(2)(A)(i)(II), substituted “substance use disorder prevention and treatment” for “drug treatment” and “; and” for semicolon at end.
+Subsec. (c)(3)(C)(iii). Pub. L. 115–271, § 8222(2)(A)(i)(II), substituted “substance use disorder prevention and treatment” for “drug treatment” and “; and” for semicolon at end.
 
-Subsec. (c)(3)(C)(iv), (v). Pub. L. 115–271, § 8222(2)(A)(i)(III)–(V), redesignated cl. (v) as (iv), substituted period for semicolon at end, and struck out former cl. (iv) which read as follows: “requests funding for any activities of the Safe and Drug-Free Schools Program that do not include a clear anti-drug message or purpose intended to reduce drug use;”.
+Subsec. (c)(3)(C)(iv), (v). Pub. L. 115–271, § 8222(2)(A)(i)(III)–(V), redesignated cl. (v) as (iv), substituted period for semicolon at end, and struck out former cl. (iv) which read as follows: “requests funding for any activities of the Safe and Drug-Free Schools Program that do not include a clear anti-drug message or purpose intended to reduce drug use;”.
 
-Subsec. (c)(3)(C)(vi), (vii). Pub. L. 115–271, § 8222(2)(A)(i)(III), struck out cls. (vi) and (vii) which read as follows:
+Subsec. (c)(3)(C)(vi), (vii). Pub. L. 115–271, § 8222(2)(A)(i)(III), struck out cls. (vi) and (vii) which read as follows:
 
 “(vi) requests funding for fiscal year 2007 for activities of the Department of Education, unless it is accompanied by a report setting forth a plan for providing expedited consideration of student loan applications for all individuals who submitted an application for any Federal grant, loan, or work assistance that was rejected or denied pursuant to 1091(r)(1) of title 20 by reason of a conviction for a drug-related offense not occurring during a period of enrollment for which the individual was receiving any Federal grant, loan, or work assistance; and
 
 “(vii) requests funding for the operations and management of the Department of Homeland Security that does not include a specific request for funds for the Office of Counternarcotics Enforcement to carry out its responsibilities under section 458 of title 6.”
 
-Subsec. (c)(3)(E)(ii). Pub. L. 115–271, § 8217(e)(2), added cl. (ii) and struck out former cl. (ii) which related to certification by Director of National Drug Control Program agency budget submissions.
+Subsec. (c)(3)(E)(ii). Pub. L. 115–271, § 8217(e)(2), added cl. (ii) and struck out former cl. (ii) which related to certification by Director of National Drug Control Program agency budget submissions.
 
-Subsec. (c)(4)(A). Pub. L. 115–271, § 8222(2)(A)(ii), substituted “$5,000,000 or 10 percent of a specific program or account” for “$1,000,000”.
+Subsec. (c)(4)(A). Pub. L. 115–271, § 8222(2)(A)(ii), substituted “$5,000,000 or 10 percent of a specific program or account” for “$1,000,000”.
 
-Subsec. (c)(5), (6). Pub. L. 115–271, § 8217(e)(3), added pars. (5) and (6).
+Subsec. (c)(5), (6). Pub. L. 115–271, § 8217(e)(3), added pars. (5) and (6).
 
-Subsec. (d)(8)(D). Pub. L. 115–271, § 8217(f)(1)(A), struck out “and” at end.
+Subsec. (d)(8)(D). Pub. L. 115–271, § 8217(f)(1)(A), struck out “and” at end.
 
-Subsec. (d)(8)(E)(i). Pub. L. 115–271, § 8217(f)(1)(B)(i), substituted “the appropriate congressional committees” for “Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office,” and struck out “or agencies” after “affected agency”.
+Subsec. (d)(8)(E)(i). Pub. L. 115–271, § 8217(f)(1)(B)(i), substituted “the appropriate congressional committees” for “Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office,” and struck out “or agencies” after “affected agency”.
 
-Subsec. (d)(8)(E)(ii). Pub. L. 115–271, § 8217(f)(1)(B)(ii), substituted “the appropriate congressional committees” for “Congress” and inserted “and” at end.
+Subsec. (d)(8)(E)(ii). Pub. L. 115–271, § 8217(f)(1)(B)(ii), substituted “the appropriate congressional committees” for “Congress” and inserted “and” at end.
 
-Subsec. (d)(8)(E)(iii). Pub. L. 115–271, § 8217(f)(1)(B)(iii), added cl. (iii).
+Subsec. (d)(8)(E)(iii). Pub. L. 115–271, § 8217(f)(1)(B)(iii), added cl. (iii).
 
-Subsec. (e)(2)(A). Pub. L. 115–271, § 8217(f)(2), substituted “Subject to the availability of appropriations” for “Notwithstanding any other provision of law”.
+Subsec. (e)(2)(A). Pub. L. 115–271, § 8217(f)(2), substituted “Subject to the availability of appropriations” for “Notwithstanding any other provision of law”.
 
-Subsec. (f)(4). Pub. L. 115–271, § 8217(2)(B)(ii), which directed the amendment of subsec. (f) by striking “the second paragraph (4)”, was executed by striking the par. (4) added by Pub. L. 109–469, § 105(f), to reflect the probable intent of Congress. Text read as follows: “A copy of each fund control notice shall be transmitted to the appropriate congressional committees.”
+Subsec. (f)(4). Pub. L. 115–271, § 8217(2)(B)(ii), which directed the amendment of subsec. (f) by striking “the second paragraph (4)”, was executed by striking the par. (4) added by Pub. L. 109–469, § 105(f), to reflect the probable intent of Congress. Text read as follows: “A copy of each fund control notice shall be transmitted to the appropriate congressional committees.”
 
-Subsec. (f)(5). Pub. L. 115–271, § 8217(2)(B)(i), which directed the amendment of subsec. (f) by striking “the first paragraph (5)”, was executed by striking the par. (5) added by Pub. L. 109–469, § 103(e), to reflect the probable intent of Congress. Text read as follows: “The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner—
+Subsec. (f)(5). Pub. L. 115–271, § 8217(2)(B)(i), which directed the amendment of subsec. (f) by striking “the first paragraph (5)”, was executed by striking the par. (5) added by Pub. L. 109–469, § 103(e), to reflect the probable intent of Congress. Text read as follows: “The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner—
 
 “(A) contrary, in whole or in part, to a specific appropriation; or
 
 “(B) contrary, in whole or in part, to the expressed intent of Congress.”
 
-Subsecs. (i) to (k). Pub. L. 115–271, § 8217(f)(3), added subsecs. (i) to (k).
+Subsecs. (i) to (k). Pub. L. 115–271, § 8217(f)(3), added subsecs. (i) to (k).
 
 2012—Subsec. (a)(1). Pub. L. 112–166 amended par. (1) generally. Prior to amendment, text read as follows: “The Director, the Deputy Director of National Drug Control Policy, the Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State and Local Affairs, shall each be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.”
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 109–469, § 103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
+Subsec. (a)(3). Pub. L. 109–469, § 103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
 
-Subsec. (b)(4). Pub. L. 109–469, § 103(b)(1), substituted “National Drug Control Program agencies” for “Federal departments and agencies engaged in drug enforcement”.
+Subsec. (b)(4). Pub. L. 109–469, § 103(b)(1), substituted “National Drug Control Program agencies” for “Federal departments and agencies engaged in drug enforcement”.
 
-Subsec. (b)(7). Pub. L. 109–469, § 103(b)(2), inserted “and the appropriate congressional committees” after “President”.
+Subsec. (b)(7). Pub. L. 109–469, § 103(b)(2), inserted “and the appropriate congressional committees” after “President”.
 
-Subsec. (b)(13). Pub. L. 109–469, § 103(b)(3), struck out “(beginning in 1999)” after “basis” in introductory provisions.
+Subsec. (b)(13). Pub. L. 109–469, § 103(b)(3), struck out “(beginning in 1999)” after “basis” in introductory provisions.
 
-Subsec. (b)(14). Pub. L. 109–469, § 103(b)(4), added par. (14) and struck out former par. (14) which read as follows: “shall submit to the Appropriations committees and the authorizing committees of jurisdiction of the House of Representatives and the Senate on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
+Subsec. (b)(14). Pub. L. 109–469, § 103(b)(4), added par. (14) and struck out former par. (14) which read as follows: “shall submit to the Appropriations committees and the authorizing committees of jurisdiction of the House of Representatives and the Senate on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
 
 “(A) each of the evaluations received by the Director under paragraph (13); and
 
 “(B) the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) of this title; and”.
 
-Subsec. (b)(15)(C). Pub. L. 109–469, § 103(b)(5), added subpar. (C) and struck out former subpar. (C) which read as follows: “developing a single interagency clearinghouse for the dissemination of research and information by such agencies to State and local governments and nongovernmental agencies involved in demand reduction.”
+Subsec. (b)(15)(C). Pub. L. 109–469, § 103(b)(5), added subpar. (C) and struck out former subpar. (C) which read as follows: “developing a single interagency clearinghouse for the dissemination of research and information by such agencies to State and local governments and nongovernmental agencies involved in demand reduction.”
 
-Subsec. (b)(16) to (20). Pub. L. 109–469, § 103(b)(6), added pars. (16) to (20).
+Subsec. (b)(16) to (20). Pub. L. 109–469, § 103(b)(6), added pars. (16) to (20).
 
-Subsec. (c)(1)(C). Pub. L. 109–469, § 105(a), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 109–469, § 105(a), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 109–469, § 105(b)(1), inserted “and the head of each major national organization that represents law enforcement officers, agencies, or associations” after “agency” in introductory provisions.
+Subsec. (c)(2). Pub. L. 109–469, § 105(b)(1), inserted “and the head of each major national organization that represents law enforcement officers, agencies, or associations” after “agency” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 109–469, § 105(b)(2), inserted “and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)” before semicolon at end.
+Subsec. (c)(2)(A). Pub. L. 109–469, § 105(b)(2), inserted “and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C)” before semicolon at end.
 
-Subsec. (c)(3)(C). Pub. L. 109–469, § 105(c)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (c)(3)(C). Pub. L. 109–469, § 105(c)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (c)(3)(C)(iii). Pub. L. 109–469, § 103(c)(1), inserted “and the appropriate congressional committees,” after “House of Representatives”.
+Subsec. (c)(3)(C)(iii). Pub. L. 109–469, § 103(c)(1), inserted “and the appropriate congressional committees,” after “House of Representatives”.
 
-Subsec. (c)(3)(D). Pub. L. 109–469, § 105(c)(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+Subsec. (c)(3)(D). Pub. L. 109–469, § 105(c)(1), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-Subsec. (c)(3)(D)(ii)(II)(bb). Pub. L. 109–469, § 103(c)(2), inserted “and the appropriate congressional committees,” after “House of Representatives”.
+Subsec. (c)(3)(D)(ii)(II)(bb). Pub. L. 109–469, § 103(c)(2), inserted “and the appropriate congressional committees,” after “House of Representatives”.
 
-Subsec. (c)(3)(D)(iii). Pub. L. 109–469, § 105(c)(3), which directed amendment of cl. (iii) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, § 103(c)(1) to subpar. (C)(iii) prior to its redesignation as (D)(iii). See above.
+Subsec. (c)(3)(D)(iii). Pub. L. 109–469, § 105(c)(3), which directed amendment of cl. (iii) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, § 103(c)(1) to subpar. (C)(iii) prior to its redesignation as (D)(iii). See above.
 
-Subsec. (c)(3)(E). Pub. L. 109–469, § 105(c)(1), redesignated subpar. (D) as (E).
+Subsec. (c)(3)(E). Pub. L. 109–469, § 105(c)(1), redesignated subpar. (D) as (E).
 
-Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, § 105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, § 103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
+Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, § 105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, § 103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
 
-Subsec. (c)(4)(A). Pub. L. 109–469, § 105(d), substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
+Subsec. (c)(4)(A). Pub. L. 109–469, § 105(d), substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
 
-Subsec. (d)(8)(D). Pub. L. 109–469, § 105(e)(1), substituted “authorized by law;” for “have been authorized by Congress;”.
+Subsec. (d)(8)(D). Pub. L. 109–469, § 105(e)(1), substituted “authorized by law;” for “have been authorized by Congress;”.
 
-Subsec. (d)(9). Pub. L. 109–469, § 105(e)(2), which directed the substitution of “Strategy and notify the appropriate congressional committees of any fund control notice issued; and” for “Strategy; and”, could not be executed because the words “Strategy; and” did not appear subsequent to amendment by Pub. L. 109–469, § 103(d)(1). See below.
+Subsec. (d)(9). Pub. L. 109–469, § 105(e)(2), which directed the substitution of “Strategy and notify the appropriate congressional committees of any fund control notice issued; and” for “Strategy; and”, could not be executed because the words “Strategy; and” did not appear subsequent to amendment by Pub. L. 109–469, § 103(d)(1). See below.
 
-Pub. L. 109–469, § 103(d)(1), substituted “Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);” for “Strategy; and”.
+Pub. L. 109–469, § 103(d)(1), substituted “Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);” for “Strategy; and”.
 
-Subsec. (d)(10). Pub. L. 109–469, §§ 103(d)(2) and 105(e)(3), made identical amendments, inserting “and section 2291j–1 of title 22” before period at end.
+Subsec. (d)(10). Pub. L. 109–469, §§ 103(d)(2) and 105(e)(3), made identical amendments, inserting “and section 2291j–1 of title 22” before period at end.
 
-Subsec. (f)(4), (5). Pub. L. 109–469, § 105(f), added pars. (4) and (5) set out second.
+Subsec. (f)(4), (5). Pub. L. 109–469, § 105(f), added pars. (4) and (5) set out second.
 
-Pub. L. 109–469, § 103(e), added pars. (4) and (5) set out first.
+Pub. L. 109–469, § 103(e), added pars. (4) and (5) set out first.
 
-Subsec. (g). Pub. L. 109–469, § 103(f)(3)(A), amended subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency.”
+Subsec. (g). Pub. L. 109–469, § 103(f)(3)(A), amended subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency.”
 
-Subsec. (h). Pub. L. 109–469, § 103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: “Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.”
+Subsec. (h). Pub. L. 109–469, § 103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: “Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.”
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1085,7 +1085,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Report on Streamlining Federal Prevention and Treatment Efforts**
 
-Pub. L. 105–277, div. D, title II, § 221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
+Pub. L. 105–277, div. D, title II, § 221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
 
 **Executive Documents**
 
@@ -1125,7 +1125,7 @@ Sec. 2. Goals, Direction, Duties and Responsibilities with Respect to the Nation
 
 William J. Clinton.
 
-## § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs
+## § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs
 
 **(a) Access to information**
 
@@ -1231,57 +1231,57 @@ The Director may meet the requirements of this subsection by utilizing, updating
 
 Not later than 3 years after October 24, 2018, the Comptroller General of the United States shall submit to Congress a report examining implementation of this subsection.
 
-(Pub. L. 105–277, div. C, title VII, §§ 705, 715, Oct. 21, 1998, 112 Stat. 2681–680, 2681–693; Pub. L. 109–469, title I, § 104, title VI, § 602, Dec. 29, 2006, 120 Stat. 3510, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8207, 8217(g), Oct. 24, 2018, 132 Stat. 4110, 4113, 4124; Pub. L. 116–74, § 2(a)(1), (6), Nov. 27, 2019, 133 Stat. 1155, 1156.)
+(Pub. L. 105–277, div. C, title VII, §§ 705, 715, Oct. 21, 1998, 112 Stat. 2681–680, 2681–693; Pub. L. 109–469, title I, § 104, title VI, § 602, Dec. 29, 2006, 120 Stat. 3510, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8207, 8217(g), Oct. 24, 2018, 132 Stat. 4110, 4113, 4124; Pub. L. 116–74, § 2(a)(1), (6), Nov. 27, 2019, 133 Stat. 1155, 1156.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+2019—Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 116–74, § 2(a)(6)(A), substituted “than every” for “that every”.
+Subsec. (d)(1). Pub. L. 116–74, § 2(a)(6)(A), substituted “than every” for “that every”.
 
-Subsec. (f)(1)(A)(i). Pub. L. 116–74, § 2(a)(6)(B)(i)(I), substituted “grant; and” for “grant;”.
+Subsec. (f)(1)(A)(i). Pub. L. 116–74, § 2(a)(6)(B)(i)(I), substituted “grant; and” for “grant;”.
 
-Subsec. (f)(1)(C). Pub. L. 116–74, § 2(a)(6)(B)(i)(II), inserted “that may impede applicants” after “barriers” and struck out “impediments that applicants currently have in the grant application process with applicable agencies” before period at end.
+Subsec. (f)(1)(C). Pub. L. 116–74, § 2(a)(6)(B)(i)(II), inserted “that may impede applicants” after “barriers” and struck out “impediments that applicants currently have in the grant application process with applicable agencies” before period at end.
 
-Subsec. (f)(2). Pub. L. 116–74, § 2(a)(6)(B)(ii), substituted “Drug Control Program” for “Drug Control” in heading.
+Subsec. (f)(2). Pub. L. 116–74, § 2(a)(6)(B)(ii), substituted “Drug Control Program” for “Drug Control” in heading.
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-Subsec. (d). Pub. L. 115–271, § 8217(g)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director shall—
+Subsec. (d). Pub. L. 115–271, § 8217(g)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director shall—
 
 “(A) require the National Drug Control Program agencies to submit to the Director not later than February 1 of each year a detailed accounting of all funds expended by the agencies for National Drug Control Program activities during the previous fiscal year, and require such accounting to be authenticated by the Inspector General for each agency prior to submission to the Director; and
 
 “(B) submit to Congress not later than April 1 of each year the information submitted to the Director under subparagraph (A).”
 
-Subsec. (e). Pub. L. 115–271, § 8207, added subsec. (e).
+Subsec. (e). Pub. L. 115–271, § 8207, added subsec. (e).
 
-Subsec. (f). Pub. L. 115–271, § 8217(g)(2), added subsec. (f).
+Subsec. (f). Pub. L. 115–271, § 8217(g)(2), added subsec. (f).
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Subsec. (a)(1)(A). Pub. L. 109–469, § 104(1), struck out “abuse” after “drug”.
+Subsec. (a)(1)(A). Pub. L. 109–469, § 104(1), struck out “abuse” after “drug”.
 
-Subsec. (a)(2)(A). Pub. L. 109–469, § 104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsec. (a)(2)(A). Pub. L. 109–469, § 104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-Subsec. (a)(2)(B). Pub. L. 109–469, § 104(3), substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+Subsec. (a)(2)(B). Pub. L. 109–469, § 104(3), substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-Subsec. (a)(3). Pub. L. 109–469, § 104(4), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
+Subsec. (a)(3). Pub. L. 109–469, § 104(4), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
 
-Subsec. (b)(2)(B). Pub. L. 109–469, § 104(5), substituted “Strategy” for “Program”.
+Subsec. (b)(2)(B). Pub. L. 109–469, § 104(5), substituted “Strategy” for “Program”.
 
-Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
+Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
-## § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy
+## § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy
 
 **(a) In general**
 
@@ -1457,7 +1457,7 @@ The Director shall ensure the National Drug Control Strategy is based on the bes
 
 **(V)** reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
 
@@ -1515,9 +1515,9 @@ The Director shall publish to the online portal of the Office in a machine-reada
 
 **(V)** the average street price for the calendar year and the highest known street price during the preceding 10-year period; and
 
-**(VI)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 2
+**(VI)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 2
 
-<sup>2</sup>  So in original. Probably should be followed by “and”.
+<sup>2</sup> So in original. Probably should be followed by “and”.
 
 **(ii)** data sufficient to show the frequency of use of such substance, including—
 
@@ -1577,7 +1577,7 @@ Not later than the first Monday in February of each year, the Director shall sub
 
 **(D)** the assessments required under this subsection shall be based on the Performance Measurement System.3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 **(h) Performance measurement system** Not later than February 1 of each year, the Director shall submit to Congress as part of the National Drug Control Strategy, a description of a national drug control performance measurement system, that—
 
@@ -1605,21 +1605,21 @@ Not later than the first Monday in February of each year, the Director shall sub
 
 **(i) Modifications**
 
-A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) 4
+A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) 4
 
-<sup>4</sup>  Probably should be “(h)”.
+<sup>4</sup> Probably should be “(h)”.
 
 shall be included in each report submitted under subsection (b).5
 
-<sup>5</sup>  Probably should be “(d)”.
+<sup>5</sup> Probably should be “(d)”.
 
-(Pub. L. 105–277, div. C, title VII, §§ 706, 715, Oct. 21, 1998, 112 Stat. 2681–681, 2681–693; Pub. L. 109–469, title II, §§ 201, 202, title VI, § 602, Dec. 29, 2006, 120 Stat. 3513, 3517, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8221(a), Oct. 24, 2018, 132 Stat. 4110, 4134; Pub. L. 116–74, § 2(a)(1), (2), (c)(1)(B), (d), Nov. 27, 2019, 133 Stat. 1155, 1158; Pub. L. 117–263, div. E, title LIII, § 5302, Dec. 23, 2022, 136 Stat. 3249.)
+(Pub. L. 105–277, div. C, title VII, §§ 706, 715, Oct. 21, 1998, 112 Stat. 2681–681, 2681–693; Pub. L. 109–469, title II, §§ 201, 202, title VI, § 602, Dec. 29, 2006, 120 Stat. 3513, 3517, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8221(a), Oct. 24, 2018, 132 Stat. 4110, 4134; Pub. L. 116–74, § 2(a)(1), (2), (c)(1)(B), (d), Nov. 27, 2019, 133 Stat. 1155, 1158; Pub. L. 117–263, div. E, title LIII, § 5302, Dec. 23, 2022, 136 Stat. 3249.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This chapter, referred to in subsec. (g)(2), (3)(B), was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
@@ -1627,39 +1627,39 @@ This chapter, referred to in subsec. (g)(2), (3)(B), was in the original “this
 
 2022—Subsec. (h)(7). Pub. L. 117–263 added par. (7).
 
-2019—Pub. L. 116–74, § 2(c)(1)(B), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(B), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
 
-Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
 
-Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
 
-Subsec. (c)(1)(N)(ii). Pub. L. 116–74, § 2(d)(1)(A), substituted “Program agencies” for “Programs”.
+Subsec. (c)(1)(N)(ii). Pub. L. 116–74, § 2(d)(1)(A), substituted “Program agencies” for “Programs”.
 
-Subsec. (c)(1)(N)(iii). Pub. L. 116–74, § 2(d)(1)(B), substituted “Program agencies” for “Agencies”.
+Subsec. (c)(1)(N)(iii). Pub. L. 116–74, § 2(d)(1)(B), substituted “Program agencies” for “Agencies”.
 
-Subsec. (c)(2). Pub. L. 116–74, § 2(d)(2), substituted “paragraph (1)(M)” for “paragraph (1)” in introductory provisions.
+Subsec. (c)(2). Pub. L. 116–74, § 2(d)(2), substituted “paragraph (1)(M)” for “paragraph (1)” in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 116–74, § 2(d)(3)(A), substituted “Office” for “office”.
+Subsec. (f)(2). Pub. L. 116–74, § 2(d)(3)(A), substituted “Office” for “office”.
 
-Subsec. (f)(3)(A)(ii)(III). Pub. L. 116–74, § 2(d)(3)(B)(i), substituted “substance; and” for “substance;”.
+Subsec. (f)(3)(A)(ii)(III). Pub. L. 116–74, § 2(d)(3)(B)(i), substituted “substance; and” for “substance;”.
 
-Subsec. (f)(3)(A)(ii)(IV). Pub. L. 116–74, § 2(d)(3)(B)(ii), substituted “governments.” for “governments;”.
+Subsec. (f)(3)(A)(ii)(IV). Pub. L. 116–74, § 2(d)(3)(B)(ii), substituted “governments.” for “governments;”.
 
-Subsec. (g)(3)(B). Pub. L. 116–74, § 2(d)(4), made technical amendment to reference in original act which appears in text as reference to this chapter.
+Subsec. (g)(3)(B). Pub. L. 116–74, § 2(d)(4), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
-2018—Pub. L. 115–271, § 8221(a), as amended by Pub. L. 116–74, § 2(c)(1)(B)(ii), added subsecs. (a) to (g), redesignated former subsecs. (c) and (d) as (h) and (i), respectively, and struck out former subsecs. (a) and (b) which related to submission of the National Drug Control Strategy and submission of a revised strategy.
+2018—Pub. L. 115–271, § 8221(a), as amended by Pub. L. 116–74, § 2(c)(1)(B)(ii), added subsecs. (a) to (g), redesignated former subsecs. (c) and (d) as (h) and (i), respectively, and struck out former subsecs. (a) and (b) which related to submission of the National Drug Control Strategy and submission of a revised strategy.
 
-Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Pub. L. 109–469, § 201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
+Pub. L. 109–469, § 201, amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
 
-Subsecs. (c), (d). Pub. L. 109–469, § 202, added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 109–469, § 202, added subsecs. (c) and (d).
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1669,13 +1669,13 @@ Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in 
 
 **Requirement for Southwest Border Counternarcotics Strategy**
 
-Pub. L. 109–469, title XI, § 1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
+Pub. L. 109–469, title XI, § 1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
 
 **Requirement for Northern Border Counternarcotics Strategy**
 
-Pub. L. 109–469, title XI, § 1110A, as added by Pub. L. 111–356, § 2, Jan. 4, 2011, 124 Stat. 3976, which directed the Director of National Drug Control Policy to develop, in consultation with the head of each relevant National Drug Control Program Agency, and to submit to Congress every two years, a Northern Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(C) of this section.
+Pub. L. 109–469, title XI, § 1110A, as added by Pub. L. 111–356, § 2, Jan. 4, 2011, 124 Stat. 3976, which directed the Director of National Drug Control Policy to develop, in consultation with the head of each relevant National Drug Control Program Agency, and to submit to Congress every two years, a Northern Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(C) of this section.
 
-## § 1706. High Intensity Drug Trafficking Areas Program
+## § 1706. High Intensity Drug Trafficking Areas Program
 
 **(a) Establishment**
 
@@ -1875,9 +1875,9 @@ Before the Director awards any funds to a high intensity drug trafficking area, 
 
 **(4)** $270,000,000 for fiscal year 2010;
 
-**(5)** $280,000,000 for each of 1
+**(5)** $280,000,000 for each of 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 fiscal year 2011; and
 
@@ -1913,7 +1913,7 @@ The Director shall work with HIDTAs to develop and maintain best practice models
 
 **(3)** purchasing protective equipment, including overdose reversal drugs.
 
-(Pub. L. 105–277, div. C, title VII, §§ 707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§ 301, § 302(c), title VI, § 602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114; Pub. L. 116–74, § 2(a)(7), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 105–277, div. C, title VII, §§ 707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§ 301, § 302(c), title VI, § 602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114; Pub. L. 116–74, § 2(a)(7), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
@@ -1925,39 +1925,39 @@ December 29, 2006, referred to in subsecs. (k)(1), (*l*), and (m) was in the ori
 
 2019—Subsec. (*o*)(2)(B). Pub. L. 116–74 substituted “802(33) of this title)” for “802(33) of this title”.
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-Subsec. (f). Pub. L. 115–271, § 8205(1), substituted “not more than a total of 5 percent of Federal funds appropriated for the Program are expended for substance use disorder treatment programs and drug prevention programs.” for “no Federal funds appropriated for the Program are expended for the establishment or expansion of drug treatment programs, and shall ensure that not more than 5 percent of the Federal funds appropriated for the Program are expended for the establishment of drug prevention programs.”
+Subsec. (f). Pub. L. 115–271, § 8205(1), substituted “not more than a total of 5 percent of Federal funds appropriated for the Program are expended for substance use disorder treatment programs and drug prevention programs.” for “no Federal funds appropriated for the Program are expended for the establishment or expansion of drug treatment programs, and shall ensure that not more than 5 percent of the Federal funds appropriated for the Program are expended for the establishment of drug prevention programs.”
 
-Subsec. (p)(6). Pub. L. 115–271, § 8205(2), added par. (6).
+Subsec. (p)(6). Pub. L. 115–271, § 8205(2), added par. (6).
 
-Subsec. (q)(2). Pub. L. 115–271, § 8205(3)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The funds used under paragraph (1) shall be used—
+Subsec. (q)(2). Pub. L. 115–271, § 8205(3)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The funds used under paragraph (1) shall be used—
 
 “(A) to ensure the safety of neighborhoods and the protection of communities, including the prevention of the intimidation of potential witnesses of illegal drug distribution and related activities; and
 
 “(B) to combat illegal drug trafficking through such methods as the Director considers appropriate, such as establishing or operating (or both) a toll-free telephone hotline for use by the public to provide information about illegal drug-related activities.”
 
-Subsec. (q)(3). Pub. L. 115–271, § 8205(3)(B), added par. (3).
+Subsec. (q)(3). Pub. L. 115–271, § 8205(3)(B), added par. (3).
 
-Subsec. (r). Pub. L. 115–271, § 8208, added subsec. (r).
+Subsec. (r). Pub. L. 115–271, § 8208, added subsec. (r).
 
-Subsec. (s). Pub. L. 115–271, § 8209, added subsec. (s).
+Subsec. (s). Pub. L. 115–271, § 8209, added subsec. (s).
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Pub. L. 109–469, § 301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
+Pub. L. 109–469, § 301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
 
-Subsec. (q). Pub. L. 109–469, § 302(c), added subsec. (q).
+Subsec. (q). Pub. L. 109–469, § 302(c), added subsec. (q).
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 109–469, title III, § 302(b), Dec. 29, 2006, 120 Stat. 3524, provided that:
+Pub. L. 109–469, title III, § 302(b), Dec. 29, 2006, 120 Stat. 3524, provided that:
 
 > “Congress finds the following:
 
@@ -1979,7 +1979,7 @@ Pub. L. 109–469, title III, § 302(b), Dec. 29, 2006, 120 Stat. 3524, provid
 
 **Combating Methamphetamine and Amphetamine in High Intensity Drug Trafficking Areas**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3624, Oct. 17, 2000, 114 Stat. 1232, provided that:
+Pub. L. 106–310, div. B, title XXXVI, § 3624, Oct. 17, 2000, 114 Stat. 1232, provided that:
 
 > **“(a) In General.—**
 
@@ -2015,11 +2015,11 @@ Pub. L. 106–310, div. B, title XXXVI, § 3624, Oct. 17, 2000, 114 Stat. 1232
 
 Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 448, provided in part: “That, hereafter, of the amount appropriated for fiscal year 2000 or any succeeding fiscal year for the High Intensity Drug Trafficking Areas Program, the funds to be obligated or expended during such fiscal year for programs addressing the treatment or prevention of drug use as part of the approved strategy for a designated High Intensity Drug Trafficking Area (HIDTA) shall not be less than the funds obligated or expended for such programs during fiscal year 1999 for each designated HIDTA without the prior approval of the Committees on Appropriations”.
 
-## § 1707. Repealed. Pub. L. 115–271, title VIII, § 8222(3), Oct. 24, 2018, 132 Stat. 4143
+## § 1707. Repealed. Pub. L. 115–271, title VIII, § 8222(3), Oct. 24, 2018, 132 Stat. 4143
 
-Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112 Stat. 2681–687, 2681–693; Pub. L. 109–469, title IV, § 401, title VI, § 602, Dec. 29, 2006, 120 Stat. 3525, 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, related to Counter-Drug Technology Assessment Center.
+Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112 Stat. 2681–687, 2681–693; Pub. L. 109–469, title IV, § 401, title VI, § 602, Dec. 29, 2006, 120 Stat. 3525, 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, related to Counter-Drug Technology Assessment Center.
 
-## § 1708. Emerging Threats Committee, plan, and media campaign
+## § 1708. Emerging Threats Committee, plan, and media campaign
 
 **(a) Emerging and Continuing Threats Coordinator**
 
@@ -2317,7 +2317,7 @@ Any communication, including an advertisement, paid for or otherwise disseminate
 
 There is authorized to be appropriated to the Office to carry out this section, $25,000,000 for each of fiscal years 2018 through 2023.
 
-(Pub. L. 105–277, div. C, title VII, §§ 709, 715, Oct. 21, 1998, 112 Stat. 2681–688, 2681–693; Pub. L. 109–469, title V, § 501(a), title VI, § 602, Dec. 29, 2006, 120 Stat. 3527, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8218(a), Oct. 24, 2018, 132 Stat. 4110, 4125; Pub. L. 116–74, § 2(a)(1), (2), (8), Nov. 27, 2019, 133 Stat. 1155, 1157.)
+(Pub. L. 105–277, div. C, title VII, §§ 709, 715, Oct. 21, 1998, 112 Stat. 2681–688, 2681–693; Pub. L. 109–469, title V, § 501(a), title VI, § 602, Dec. 29, 2006, 120 Stat. 3527, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8218(a), Oct. 24, 2018, 132 Stat. 4110, 4125; Pub. L. 116–74, § 2(a)(1), (2), (8), Nov. 27, 2019, 133 Stat. 1155, 1157.)
 
 **Editorial Notes**
 
@@ -2327,29 +2327,29 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
 
-Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
 
-Subsec. (a). Pub. L. 116–74, § 2(a)(8)(A), in heading, inserted “and Continuing” before “Threats”, and in text, substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “an appointee” for “a career appointee”.
+Subsec. (a). Pub. L. 116–74, § 2(a)(8)(A), in heading, inserted “and Continuing” before “Threats”, and in text, substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “an appointee” for “a career appointee”.
 
-Subsec. (d)(3)(F). Pub. L. 116–74, § 2(a)(8)(B)(i), substituted “response to” for “response of”.
+Subsec. (d)(3)(F). Pub. L. 116–74, § 2(a)(8)(B)(i), substituted “response to” for “response of”.
 
-Subsec. (d)(4)(B)(iii). Pub. L. 116–74, § 2(a)(8)(B)(ii), inserted “the” before “plan, where”.
+Subsec. (d)(4)(B)(iii). Pub. L. 116–74, § 2(a)(8)(B)(ii), inserted “the” before “plan, where”.
 
-Subsec. (f)(1). Pub. L. 116–74, § 2(a)(8)(C), substituted “subsection” for “chapter”.
+Subsec. (f)(1). Pub. L. 116–74, § 2(a)(8)(C), substituted “subsection” for “chapter”.
 
-2018—Pub. L. 115–271, § 8218(a), amended section generally. Prior to amendment, section related to national youth anti-drug media campaign.
+2018—Pub. L. 115–271, § 8218(a), amended section generally. Prior to amendment, section related to national youth anti-drug media campaign.
 
-Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Pub. L. 109–469, § 501(a), amended section catchline and text generally. Prior to amendment, section related to the President’s Council on Counter-Narcotics.
+Pub. L. 109–469, § 501(a), amended section catchline and text generally. Prior to amendment, section related to the President’s Council on Counter-Narcotics.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2371,7 +2371,7 @@ Pub. L. 117–99, Mar. 14, 2022, 136 Stat. 43, provided that:
 
 **Ex. Ord. No. 12992. President’s Council on Counter-Narcotics**
 
-Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§ 2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, § 8, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§ 2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, § 8, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -2455,15 +2455,15 @@ Section 1. The Council established by Executive Order 12992 [set out above] shal
 
 William J. Clinton.
 
-## § 1708a. Repealed. Pub. L. 116–74, § 2(b)(1), Nov. 27, 2019, 133 Stat. 1157
+## § 1708a. Repealed. Pub. L. 116–74, § 2(b)(1), Nov. 27, 2019, 133 Stat. 1157
 
-Section, Pub. L. 109–469, title II, § 203, Dec. 29, 2006, 120 Stat. 3517; Pub. L. 112–234, § 2(c), Dec. 28, 2012, 126 Stat. 1624; Pub. L. 115–271, title VIII, § 8218(b), Oct. 24, 2018, 132 Stat. 4132, required the Government Accountability Office to conduct and supervise an audit and investigation and prepare and report every 3 years.
+Section, Pub. L. 109–469, title II, § 203, Dec. 29, 2006, 120 Stat. 3517; Pub. L. 112–234, § 2(c), Dec. 28, 2012, 126 Stat. 1624; Pub. L. 115–271, title VIII, § 8218(b), Oct. 24, 2018, 132 Stat. 4132, required the Government Accountability Office to conduct and supervise an audit and investigation and prepare and report every 3 years.
 
-## § 1709. Repealed. Pub. L. 109–469, title XI, § 1101(a), Dec. 29, 2006, 120 Stat. 3539
+## § 1709. Repealed. Pub. L. 109–469, title XI, § 1101(a), Dec. 29, 2006, 120 Stat. 3539
 
-Section, Pub. L. 105–277, div. C, title VII, § 710, Oct. 21, 1998, 112 Stat. 2681–689, related to Parents Advisory Council on Youth Drug Abuse.
+Section, Pub. L. 105–277, div. C, title VII, § 710, Oct. 21, 1998, 112 Stat. 2681–689, related to Parents Advisory Council on Youth Drug Abuse.
 
-## § 1710. Drug Interdiction Coordinator and Committee
+## § 1710. Drug Interdiction Coordinator and Committee
 
 **(a) United States Interdiction Coordinator**
 
@@ -2541,7 +2541,7 @@ Not later than September 30 of each year, the Chairperson of the Interdiction Co
 
 The Director may facilitate international drug control coordination efforts.
 
-(Pub. L. 105–277, div. C, title VII, § 711, as added Pub. L. 109–469, title I, § 103(f)(1), Dec. 29, 2006, 120 Stat. 3507; amended Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8219, Oct. 24, 2018, 132 Stat. 4110, 4132.)
+(Pub. L. 105–277, div. C, title VII, § 711, as added Pub. L. 109–469, title I, § 103(f)(1), Dec. 29, 2006, 120 Stat. 3507; amended Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), 8219, Oct. 24, 2018, 132 Stat. 4110, 4132.)
 
 **Editorial Notes**
 
@@ -2551,59 +2551,59 @@ The General Schedule, referred to in subsec. (a)(1), is set out under section 53
 
 **Prior Provisions**
 
-A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132. See 2018 and 2006 Amendment notes below.
+A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132. See 2018 and 2006 Amendment notes below.
 
 **Amendments**
 
-2018—Pub. L. 115–271, § 8219(a), repealed Pub. L. 105–277, div. C, title VII, § 711, Oct. 21, 1998, 112 Stat. 2681–691. See 2006 Amendment note below.
+2018—Pub. L. 115–271, § 8219(a), repealed Pub. L. 105–277, div. C, title VII, § 711, Oct. 21, 1998, 112 Stat. 2681–691. See 2006 Amendment note below.
 
-Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-Subsec. (a)(1). Pub. L. 115–271, § 8219(b)(1)(A), substituted “The Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent) as the United” for “The United” and “to perform” for “shall perform”.
+Subsec. (a)(1). Pub. L. 115–271, § 8219(b)(1)(A), substituted “The Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent) as the United” for “The United” and “to perform” for “shall perform”.
 
-Subsec. (a)(2)(B). Pub. L. 115–271, § 8219(b)(1)(B), substituted “September 1” for “March 1” and “paragraph (4)” for “paragraph (3)”.
+Subsec. (a)(2)(B). Pub. L. 115–271, § 8219(b)(1)(B), substituted “September 1” for “March 1” and “paragraph (4)” for “paragraph (3)”.
 
-Subsec. (a)(3). Pub. L. 115–271, § 8219(b)(1)(C), struck out “also, at his discretion,” after “and may” and substituted “assist in carrying out such responsibilities” for “the Office of Supply Reduction for that purpose”.
+Subsec. (a)(3). Pub. L. 115–271, § 8219(b)(1)(C), struck out “also, at his discretion,” after “and may” and substituted “assist in carrying out such responsibilities” for “the Office of Supply Reduction for that purpose”.
 
-Subsec. (a)(4)(B). Pub. L. 115–271, § 8219(b)(1)(D)(i), substituted “Before submission of the National Drug Control Strategy or annual assessment required under section 1705 of this title, as applicable, the United” for “The United”.
+Subsec. (a)(4)(B). Pub. L. 115–271, § 8219(b)(1)(D)(i), substituted “Before submission of the National Drug Control Strategy or annual assessment required under section 1705 of this title, as applicable, the United” for “The United”.
 
-Subsec. (a)(4)(C). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(I), in introductory provisions, substituted “September 1” for “March 1” and “a report that” for “, which shall include”, inserted “the Director, acting through” after “each year,” and a comma after “Coordinator”, and struck out “a report on behalf of the Director” after “shall provide”.
+Subsec. (a)(4)(C). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(I), in introductory provisions, substituted “September 1” for “March 1” and “a report that” for “, which shall include”, inserted “the Director, acting through” after “each year,” and a comma after “Coordinator”, and struck out “a report on behalf of the Director” after “shall provide”.
 
-Pub. L. 115–271, § 8219(b)(1)(D)(ii), (iii), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: “The National Interdiction Command and Control Plan shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws.”
+Pub. L. 115–271, § 8219(b)(1)(D)(ii), (iii), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: “The National Interdiction Command and Control Plan shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws.”
 
-Subsec. (a)(4)(C)(i). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(II), (III), inserted cl. (i) designation and introductory provisions and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i).
+Subsec. (a)(4)(C)(i). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(II), (III), inserted cl. (i) designation and introductory provisions and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i).
 
-Subsec. (a)(4)(C)(i)(I). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(aa), inserted “, including information about how each National Drug Control Program agency conducting drug interdiction activities is engaging with relevant international partners” after “Plan”.
+Subsec. (a)(4)(C)(i)(I). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(aa), inserted “, including information about how each National Drug Control Program agency conducting drug interdiction activities is engaging with relevant international partners” after “Plan”.
 
-Subsec. (a)(4)(C)(i)(II). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(bb), substituted “and statistical” for “, as well as statistical”.
+Subsec. (a)(4)(C)(i)(II). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(bb), substituted “and statistical” for “, as well as statistical”.
 
-Subsec. (a)(4)(C)(i)(III). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(cc), substituted “and statistical” for “, as well as statistical” and “; and” for period at end.
+Subsec. (a)(4)(C)(i)(III). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(IV)(cc), substituted “and statistical” for “, as well as statistical” and “; and” for period at end.
 
-Subsec. (a)(4)(C)(ii). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(V), added cl. (ii). Former cl. (ii) redesignated subcl. (II) of cl. (i).
+Subsec. (a)(4)(C)(ii). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(V), added cl. (ii). Former cl. (ii) redesignated subcl. (II) of cl. (i).
 
-Subsec. (a)(4)(C)(iii). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(II), redesignated cl. (iii) as subcl. (III) of cl. (i).
+Subsec. (a)(4)(C)(iii). Pub. L. 115–271, § 8219(b)(1)(D)(iv)(II), redesignated cl. (iii) as subcl. (III) of cl. (i).
 
-Subsec. (a)(4)(D). Pub. L. 115–271, § 8219(b)(1)(D)(v), added subpar. (D).
+Subsec. (a)(4)(D). Pub. L. 115–271, § 8219(b)(1)(D)(v), added subpar. (D).
 
-Subsec. (b)(1)(B). Pub. L. 115–271, § 8219(b)(2)(A), inserted “and how to strengthen international partnerships to better achieve the goals of that plan” after “that plan”.
+Subsec. (b)(1)(B). Pub. L. 115–271, § 8219(b)(2)(A), inserted “and how to strengthen international partnerships to better achieve the goals of that plan” after “that plan”.
 
-Subsec. (b)(2). Pub. L. 115–271, § 8219(b)(2)(B), substituted “Chairperson” for “Chairman” in heading and for “chairman” in text.
+Subsec. (b)(2). Pub. L. 115–271, § 8219(b)(2)(B), substituted “Chairperson” for “Chairman” in heading and for “chairman” in text.
 
-Subsec. (b)(3). Pub. L. 115–271, § 8219(b)(2)(C), substituted “before June 1” for “prior to March 1”, “Chairperson” for “current chairman”, and “the members may” for “they may” and struck out “either” after “the call of” and after “by the members”.
+Subsec. (b)(3). Pub. L. 115–271, § 8219(b)(2)(C), substituted “before June 1” for “prior to March 1”, “Chairperson” for “current chairman”, and “the members may” for “they may” and struck out “either” after “the call of” and after “by the members”.
 
-Subsec. (b)(4). Pub. L. 115–271, § 8219(b)(2)(D), struck out “a report” after “shall submit”, inserted “a report” after “committees”, and substituted “Chairperson of the Interdiction Committee” for “chairman of the Interdiction Committee” and “The report required under this paragraph shall be in unclassified form, but may include a classified annex.” for “Any content of such a report that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director, the chairman, or any member, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the report.”
+Subsec. (b)(4). Pub. L. 115–271, § 8219(b)(2)(D), struck out “a report” after “shall submit”, inserted “a report” after “committees”, and substituted “Chairperson of the Interdiction Committee” for “chairman of the Interdiction Committee” and “The report required under this paragraph shall be in unclassified form, but may include a classified annex.” for “Any content of such a report that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director, the chairman, or any member, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the report.”
 
-Subsec. (c). Pub. L. 115–271, § 8219(b)(3), added subsec. (c).
+Subsec. (c). Pub. L. 115–271, § 8219(b)(3), added subsec. (c).
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Pub. L. 109–469, § 103(f)(1), directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, which comprises this section. A prior section 711 of the Act was repealed by Pub. L. 115–271, § 8219(a). See 2018 Amendment note above.
+Pub. L. 109–469, § 103(f)(1), directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, which comprises this section. A prior section 711 of the Act was repealed by Pub. L. 115–271, § 8219(a). See 2018 Amendment note above.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of title VII of the Office of National Drug Control Policy Reauthorization Act of 1988 (Pub. L. 105–277, div. C, title VII) effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of title VII of the Office of National Drug Control Policy Reauthorization Act of 1988 (Pub. L. 105–277, div. C, title VII) effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
-## § 1710a. Requirement for disclosure of Federal sponsorship of all Federal advertising or other communication materials
+## § 1710a. Requirement for disclosure of Federal sponsorship of all Federal advertising or other communication materials
 
 **(a) Requirement**
 
@@ -2615,7 +2615,7 @@ Each advertisement or other communication paid for by the Office, either directl
 
 **(2)** a communication by an individual in any form, including speech, print, or by any electronic means.
 
-(Pub. L. 105–277, div. C, title VII, § 712, as added Pub. L. 109–469, title XI, § 1118, Dec. 29, 2006, 120 Stat. 3546; amended Pub. L. 105–277, div. C. title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110.)
+(Pub. L. 105–277, div. C, title VII, § 712, as added Pub. L. 109–469, title XI, § 1118, Dec. 29, 2006, 120 Stat. 3546; amended Pub. L. 105–277, div. C. title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110.)
 
 **Editorial Notes**
 
@@ -2625,19 +2625,19 @@ Another section 712 of title VII of div. C of Pub. L. 105–277 amended former s
 
 **Amendments**
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
-## § 1711. Authorization of appropriations
+## § 1711. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter except activities otherwise specified, to remain available until expended, $18,400,000 for each of fiscal years 2018 through 2023.
 
-(Pub. L. 105–277, div. C, title VII, §§ 714, 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, §§ 601, 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202, Oct. 24, 2018, 132 Stat. 4110.)
+(Pub. L. 105–277, div. C, title VII, §§ 714, 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, §§ 601, 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202, Oct. 24, 2018, 132 Stat. 4110.)
 
 **Editorial Notes**
 
@@ -2647,17 +2647,17 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Amendments**
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(b)(1), substituted “$18,400,000 for each of fiscal years 2018 through 2023” for “such sums as may be necessary for each of fiscal years 2006 through 2010”.
+Pub. L. 115–271, § 8202(b)(1), substituted “$18,400,000 for each of fiscal years 2018 through 2023” for “such sums as may be necessary for each of fiscal years 2006 through 2010”.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-Pub. L. 109–469, § 601, substituted “chapter except activities otherwise specified,” for “chapter,” and “2006 through 2010” for “1999 through 2003”.
+Pub. L. 109–469, § 601, substituted “chapter except activities otherwise specified,” for “chapter,” and “2006 through 2010” for “1999 through 2003”.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2671,15 +2671,15 @@ Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3249, 3250.
 
 Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 324.
 
-## § 1712. Repealed. Pub. L. 115–271, title VIII, § 8202(b)(2), Oct. 24, 2018, 132 Stat. 4110
+## § 1712. Repealed. Pub. L. 115–271, title VIII, § 8202(b)(2), Oct. 24, 2018, 132 Stat. 4110
 
-Section, Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), Oct. 24, 2018, 132 Stat. 4110, provided for the termination of Office of National Drug Control Policy and repealed this chapter effective Sept. 30, 2010.
+Section, Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), Oct. 24, 2018, 132 Stat. 4110, provided for the termination of Office of National Drug Control Policy and repealed this chapter effective Sept. 30, 2010.
 
-## § 1713. Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops
+## § 1713. Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops
 
 The Secretary of State, the Attorney General, the Secretary of Agriculture, the Secretary of Defense, the Director of the Office of National Drug Control Policy, and the Administrator of the Environmental Protection Agency are authorized to support the development and use of environmentally-approved herbicides to eliminate illicit narcotics crops, including coca, cannabis, and opium poppy, both in the United States and in foreign countries.
 
-(Pub. L. 105–277, div. C, title VIII, § 834, Oct. 21, 1998, 112 Stat. 2681–702.)
+(Pub. L. 105–277, div. C, title VIII, § 834, Oct. 21, 1998, 112 Stat. 2681–702.)
 
 **Editorial Notes**
 
@@ -2687,7 +2687,7 @@ The Secretary of State, the Attorney General, the Secretary of Agriculture, the 
 
 Section was enacted as part of the Western Hemisphere Drug Elimination Act, and not as part of the Office of National Drug Control Policy Reauthorization Act of 1998 which comprises this chapter.
 
-## § 1714. Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions
+## § 1714. Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions
 
 **(a) Awards required**
 
@@ -2735,29 +2735,29 @@ Not later than June 1, 2010, the Director shall submit to Congress a report on t
 
 There is authorized to be appropriated to carry out this section $4,900,000 for each of fiscal years 2007 through 2009.
 
-(Pub. L. 105–277, div. C, title VII, § 716, as added Pub. L. 109–469, title XI, § 1119, Dec. 29, 2006, 120 Stat. 3547; amended Pub. L. 105–277, div. C. title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110.)
+(Pub. L. 105–277, div. C, title VII, § 716, as added Pub. L. 109–469, title XI, § 1119, Dec. 29, 2006, 120 Stat. 3547; amended Pub. L. 105–277, div. C. title VII, § 715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
-Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
-2006—Pub. L. 109–469 amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
+2006—Pub. L. 109–469 amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former section 1712 of this title.
 
-## § 1715. GAO audit
+## § 1715. GAO audit
 
 Not later than 4 years after October 24, 2018, and every 4 years thereafter, the Comptroller General of the United States shall—
 
 **(1)** conduct an audit relating to the programs and operations of—
 
-**(A)** the Office; 1
+**(A)** the Office; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -2769,7 +2769,7 @@ and
 
 **(iii)** the campaign under section 1708(f) of this title; and
 
-**(2)** submit to the Director <sup>1</sup> and the appropriate congressional committees <sup>1</sup> a report containing an evaluation of and recommendations on the—
+**(2)** submit to the Director <sup>1</sup> and the appropriate congressional committees <sup>1</sup> a report containing an evaluation of and recommendations on the—
 
 **(A)** policies and activities of the programs and operations subject to the audit;
 
@@ -2777,7 +2777,7 @@ and
 
 **(C)** policy or management changes needed to prevent and detect fraud and abuse in such programs and operations.
 
-(Pub. L. 115–271, title VIII, § 8220, Oct. 24, 2018, 132 Stat. 4134.)
+(Pub. L. 115–271, title VIII, § 8220, Oct. 24, 2018, 132 Stat. 4134.)
 
 **Editorial Notes**
 

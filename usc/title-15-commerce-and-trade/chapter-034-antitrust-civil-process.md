@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 34—ANTITRUST CIVIL PROCESS
 
-## § 1311. Definitions
+## § 1311. Definitions
 
 For the purposes of this chapter—
 
@@ -45,7 +45,7 @@ For the purposes of this chapter—
 
 **(k)** The term “foreign antitrust laws” has the meaning given such term in section 12 of the International Antitrust Enforcement Assistance Act of 1994 [15 U.S.C. 6211].
 
-(Pub. L. 87–664, § 2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, § 101, Sept. 30, 1976, 90 Stat. 1383; Pub. L. 96–349, §§ 2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, § 3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, § 2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, § 101, Sept. 30, 1976, 90 Stat. 1383; Pub. L. 96–349, §§ 2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, § 3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 **Editorial Notes**
 
@@ -53,49 +53,49 @@ For the purposes of this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (d), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (d), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 **Amendments**
 
-1994—Subsec. (d). Pub. L. 103–438, § 3(e)(1)(A)(i), substituted “, any” for “or any” and inserted before semicolon at end “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, any of the foreign antitrust laws”.
+1994—Subsec. (d). Pub. L. 103–438, § 3(e)(1)(A)(i), substituted “, any” for “or any” and inserted before semicolon at end “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, any of the foreign antitrust laws”.
 
-Subsec. (k). Pub. L. 103–438, § 3(e)(1)(A)(ii), added subsec. (k).
+Subsec. (k). Pub. L. 103–438, § 3(e)(1)(A)(ii), added subsec. (k).
 
-1980—Subsec. (g). Pub. L. 96–349, § 2(a)(1), extended definition of “documentary material” to include any product of discovery.
+1980—Subsec. (g). Pub. L. 96–349, § 2(a)(1), extended definition of “documentary material” to include any product of discovery.
 
-Subsec. (h). Pub. L. 96–349, § 2(a)(2), substituted a semicolon for period at end.
+Subsec. (h). Pub. L. 96–349, § 2(a)(2), substituted a semicolon for period at end.
 
-Subsec. (i). Pub. L. 96–349, § 2(a)(3), added subsec. (i).
+Subsec. (i). Pub. L. 96–349, § 2(a)(3), added subsec. (i).
 
-Subsec. (j). Pub. L. 96–349, § 7(a)(1), added subsec. (j).
+Subsec. (j). Pub. L. 96–349, § 7(a)(1), added subsec. (j).
 
-1976—Subsec. (a). Pub. L. 94–435, § 101(1), in par. (1) inserted “and” after semicolon preceding par. (2), struck out par. (2) which included the Federal Trade Commission Act in definition of antitrust law for purposes of this chapter, redesignated par. (3) as (2), struck out “(A)” before “any restraint”, and struck out subpar. (B) which related to any unfair trade practice in or affecting interstate or foreign trade or commerce.
+1976—Subsec. (a). Pub. L. 94–435, § 101(1), in par. (1) inserted “and” after semicolon preceding par. (2), struck out par. (2) which included the Federal Trade Commission Act in definition of antitrust law for purposes of this chapter, redesignated par. (3) as (2), struck out “(A)” before “any restraint”, and struck out subpar. (B) which related to any unfair trade practice in or affecting interstate or foreign trade or commerce.
 
-Subsec. (c). Pub. L. 94–435, § 101(2), inserted “or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in an antitrust violation;” after “engaged in any antitrust violation”.
+Subsec. (c). Pub. L. 94–435, § 101(2), inserted “or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in an antitrust violation;” after “engaged in any antitrust violation”.
 
-Subsec. (f). Pub. L. 94–435, § 101(3), included “any natural person” and “any person acting under color or authority of State law” in definition of “person”.
+Subsec. (f). Pub. L. 94–435, § 101(3), included “any natural person” and “any person acting under color or authority of State law” in definition of “person”.
 
-Subsec. (h). Pub. L. 94–435, § 101(4), substituted “the custodian” for “the antitrust document custodian”.
+Subsec. (h). Pub. L. 94–435, § 101(4), substituted “the custodian” for “the antitrust document custodian”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–435, title I, § 106, Sept. 30, 1976, 90 Stat. 1390, provided that: “The amendments to the Antitrust Civil Process Act [see section 1 of Pub. L. 87–664 set out as a Short Title note under this section] and to section 1505 of title 18, United States Code, made by this title [title I of Pub. L. 94–435] shall take effect on the date of enactment of this Act [Sept. 30, 1976], except section 3(i)(8) of the Antitrust Civil Process Act [section 1312(i)(8) of this title] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act [Sept. 30, 1976], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material, answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred.”
+Pub. L. 94–435, title I, § 106, Sept. 30, 1976, 90 Stat. 1390, provided that: “The amendments to the Antitrust Civil Process Act [see section 1 of Pub. L. 87–664 set out as a Short Title note under this section] and to section 1505 of title 18, United States Code, made by this title [title I of Pub. L. 94–435] shall take effect on the date of enactment of this Act [Sept. 30, 1976], except section 3(i)(8) of the Antitrust Civil Process Act [section 1312(i)(8) of this title] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act [Sept. 30, 1976], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material, answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–349, § 1, Sept. 12, 1980, 94 Stat. 1154, provided: “That this Act [amending sections 15, 15a, 15c, 16, 18, and 1311 to 1314 of this title, section 1905 of Title 18, Crimes and Criminal Procedure, and section 1927 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 15, 16, and 18 of this title] may be cited as the ‘Antitrust Procedural Improvements Act of 1980’.”
+Pub. L. 96–349, § 1, Sept. 12, 1980, 94 Stat. 1154, provided: “That this Act [amending sections 15, 15a, 15c, 16, 18, and 1311 to 1314 of this title, section 1905 of Title 18, Crimes and Criminal Procedure, and section 1927 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 15, 16, and 18 of this title] may be cited as the ‘Antitrust Procedural Improvements Act of 1980’.”
 
 **Short Title**
 
-Pub. L. 87–664, § 1, Sept. 19, 1962, 76 Stat. 548, provided: “That this Act [enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Antitrust Civil Process Act’.”
+Pub. L. 87–664, § 1, Sept. 19, 1962, 76 Stat. 548, provided: “That this Act [enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Antitrust Civil Process Act’.”
 
 **Savings Provision**
 
-Pub. L. 87–664, § 7, Sept. 19, 1962, 76 Stat. 552, provided that: “Nothing contained in this Act [see Short Title note above] shall impair the authority of the Attorney General, the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, or any antitrust investigator to (a) lay before any grand jury impaneled before any district court of the United States any evidence concerning any alleged antitrust violation, (b) invoke the power of any such court to compel the production of any evidence before any such grand jury, or (c) institute any proceeding for the enforcement of any order or process issued in execution of such power, or to punish disobedience of any such order of process by any person, including a natural person.”
+Pub. L. 87–664, § 7, Sept. 19, 1962, 76 Stat. 552, provided that: “Nothing contained in this Act [see Short Title note above] shall impair the authority of the Attorney General, the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, or any antitrust investigator to (a) lay before any grand jury impaneled before any district court of the United States any evidence concerning any alleged antitrust violation, (b) invoke the power of any such court to compel the production of any evidence before any such grand jury, or (c) institute any proceeding for the enforcement of any order or process issued in execution of such power, or to punish disobedience of any such order of process by any person, including a natural person.”
 
-## § 1312. Civil investigative demands
+## § 1312. Civil investigative demands
 
 **(a) Issuance; service; production of material; testi­mony**
 
@@ -149,9 +149,9 @@ Any such demand which is an express demand for any product of discovery shall no
 
 **(1)** Any such demand may be served by any antitrust investigator, or by any United States marshal or deputy marshal, at any place within the territorial jurisdiction of any court of the United States.
 
-**(2)** any 1
+**(2)** any 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 such demand or any petition filed under section 1314 of this title may be served upon any person who is not to be found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this chapter by such person that such court would have if such person were personally within the jurisdiction of such court.
 
@@ -187,9 +187,9 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 **(1)** The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
-**(2)** The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 2
+**(2)** The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title shall not apply to such examinations.
 
@@ -209,27 +209,27 @@ of this title shall not apply to such examinations.
 
 **(8)** Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
-(Pub. L. 87–664, § 3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, § 102, Sept. 30, 1976, 90 Stat. 1384; Pub. L. 96–349, § 2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, § 3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, § 3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, § 102, Sept. 30, 1976, 90 Stat. 1384; Pub. L. 96–349, § 2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, § 3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
-Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, § 14102(f), Nov. 2, 2002, 116 Stat. 1922.
+Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, § 14102(f), Nov. 2, 2002, 116 Stat. 1922.
 
 **Amendments**
 
 1994—Subsec. (a). Pub. L. 103–438 inserted “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, an investigation authorized by section 3 of such Act” after “investigation” and “by the United States” after “proceeding”.
 
-1980—Subsec. (a). Pub. L. 96–349, § 2(b)(1), inserted provision for service and notice of a civil investigative demand for any product of discovery.
+1980—Subsec. (a). Pub. L. 96–349, § 2(b)(1), inserted provision for service and notice of a civil investigative demand for any product of discovery.
 
-Subsec. (b). Pub. L. 96–349, § 2(b)(2), inserted provision respecting time demand for product of discovery is returnable.
+Subsec. (b). Pub. L. 96–349, § 2(b)(2), inserted provision respecting time demand for product of discovery is returnable.
 
-Subsec. (c). Pub. L. 96–349, § 2(b)(3), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
+Subsec. (c). Pub. L. 96–349, § 2(b)(3), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
 1976—Subsec. (a). Pub. L. 94–435 struck out “under investigation” before “may be in possession”, inserted “or may have any information” after “any documentary material”, and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing of any combination of such material, answers, or testimony.
 
@@ -249,7 +249,7 @@ Subsecs. (g) to (i). Pub. L. 94–435 added subsecs. (g) to (i).
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, except subsec. (i)(8) of this section effective Oct. 1, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
 
-## § 1313. Custodian of documents, answers and transcripts
+## § 1313. Custodian of documents, answers and transcripts
 
 **(a) Designation**
 
@@ -257,9 +257,9 @@ The Assistant Attorney General in charge of the Antitrust Division of the Depart
 
 **(b) Production of materials**
 
-Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) 1
+Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
 
@@ -291,7 +291,7 @@ the custodian shall, upon written request of the person who produced such materi
 
 In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced under any demand issued pursuant to this chapter, or the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Assistant Attorney General in charge of the Antitrust Division shall promptly (1) designate another antitrust investigator to serve as custodian of such material, answers, or transcripts, and (2) transmit in writing to the person who produced such material, answers, or testimony notice as to the identity and address of the successor so designated. Any successor designated under this subsection shall have with regard to such material, answers, or transcripts all duties and responsibilities imposed by this chapter upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred prior to his designation.
 
-(Pub. L. 87–664, § 4, Sept. 19, 1962, 76 Stat. 549; Pub. L. 94–435, title I, § 103, Sept. 30, 1976, 90 Stat. 1387; Pub. L. 96–349, §§ 2(b)(4), 7(a)(2), Sept. 12, 1980, 94 Stat. 1155, 1158.)
+(Pub. L. 87–664, § 4, Sept. 19, 1962, 76 Stat. 549; Pub. L. 94–435, title I, § 103, Sept. 30, 1976, 90 Stat. 1387; Pub. L. 96–349, §§ 2(b)(4), 7(a)(2), Sept. 12, 1980, 94 Stat. 1155, 1158.)
 
 **Editorial Notes**
 
@@ -303,9 +303,9 @@ This chapter, referred to in subsecs. (c), (e), and (f), was in the original “
 
 **Amendments**
 
-1980—Subsec. (c)(2). Pub. L. 96–349, § 7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
+1980—Subsec. (c)(2). Pub. L. 96–349, § 7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
 
-Subsec. (c)(3). Pub. L. 96–349, §§ 2(b)(4), 7(a)(2), inserted “, and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained” before “, by any individual” and reference to “agent” of the Department of Justice.
+Subsec. (c)(3). Pub. L. 96–349, §§ 2(b)(4), 7(a)(2), inserted “, and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained” before “, by any individual” and reference to “agent” of the Department of Justice.
 
 1976—Subsec. (a). Pub. L. 94–435 substituted “custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this chapter” for “antitrust documentary custodian”.
 
@@ -325,7 +325,7 @@ Subsecs. (f), (g). Pub. L. 94–435 redesignated subsec. (g) as (f). Former subs
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
 
-## § 1314. Judicial proceedings
+## § 1314. Judicial proceedings
 
 **(a) Petition for enforcement; venue**
 
@@ -361,7 +361,7 @@ To the extent that such rules may have application and are not inconsistent with
 
 Any documentary material, answers to written interrogatories, or transcripts of oral testimony provided pursuant to any demand issued under this chapter shall be exempt from disclosure under section 552 of title 5.
 
-(Pub. L. 87–664, § 5, Sept. 19, 1962, 76 Stat. 551; Pub. L. 94–435, title I, § 104, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 96–349, § 2(b)(5), Sept. 12, 1980, 94 Stat. 1155.)
+(Pub. L. 87–664, § 5, Sept. 19, 1962, 76 Stat. 551; Pub. L. 94–435, title I, § 104, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 96–349, § 2(b)(5), Sept. 12, 1980, 94 Stat. 1155.)
 
 **Editorial Notes**
 
@@ -373,19 +373,19 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in
 
 **Amendments**
 
-1980—Subsec. (b). Pub. L. 96–349, § 2(b)(5)(A), designated existing provisions as par. (1), provided for filing and serving a petition for an order modifying or setting aside a demand in the case of an express demand for any product of discovery upon the person from whom the discovery was obtained, incorporated existing provision in cl. (A), added cl. (B), and designated existing provisions as par. (2).
+1980—Subsec. (b). Pub. L. 96–349, § 2(b)(5)(A), designated existing provisions as par. (1), provided for filing and serving a petition for an order modifying or setting aside a demand in the case of an express demand for any product of discovery upon the person from whom the discovery was obtained, incorporated existing provision in cl. (A), added cl. (B), and designated existing provisions as par. (2).
 
-Subsecs. (c), (d). Pub. L. 96–349, § 2(b)(5)(B) to (D), added subsec. (c), redesignated former subsec. (c) as (d) and authorized petition, in the case of an express demand for any product of discovery, by the person from whom the discovery was obtained, for an order requiring performance by the custodian of his duties. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 96–349, § 2(b)(5)(B) to (D), added subsec. (c), redesignated former subsec. (c) as (d) and authorized petition, in the case of an express demand for any product of discovery, by the person from whom the discovery was obtained, for an order requiring performance by the custodian of his duties. Former subsec. (d) redesignated (e).
 
-Subsecs. (e) to (g). Pub. L. 96–349, § 2(b)(5)(B), redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (e) to (g). Pub. L. 96–349, § 2(b)(5)(B), redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1976—Subsec. (a). Pub. L. 94–435, § 104(a), struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition.
+1976—Subsec. (a). Pub. L. 94–435, § 104(a), struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition.
 
-Subsec. (b). Pub. L. 94–435, § 104(b), (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
+Subsec. (b). Pub. L. 94–435, § 104(b), (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
 
-Subsec. (c). Pub. L. 94–435, § 104(d), substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”.
+Subsec. (c). Pub. L. 94–435, § 104(d), substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”.
 
-Subsec. (f). Pub. L. 94–435, § 104(e), added subsec. (f).
+Subsec. (f). Pub. L. 94–435, § 104(e), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 111–350, § 5(*l*)(1), Jan. 4, 2011, 124 Stat. 3850, substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in item 111.
+2011—Pub. L. 111–350, § 5(*l*)(1), Jan. 4, 2011, 124 Stat. 3850, substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in item 111.
 
 ## SUBCHAPTER I—PURPOSE AND DEFINITIONS
 
-### § 101. Purpose
+### § 101. Purpose
 
 The purpose of this subtitle is to provide the Federal Government with an economical and efficient system for the following activities:
 
@@ -41,87 +41,87 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
+| 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–182, § 1, Dec. 23, 2024, 138 Stat. 2623, provided that: “This Act [amending sections 321 and 323 of this title] may be cited as the ‘GSA Technology Accountability Act’.”
+Pub. L. 118–182, § 1, Dec. 23, 2024, 138 Stat. 2623, provided that: “This Act [amending sections 321 and 323 of this title] may be cited as the ‘GSA Technology Accountability Act’.”
 
-Pub. L. 118–99, § 1, Oct. 1, 2024, 138 Stat. 1578, provided that: “This Act [enacting section 530 of this title, amending sections 529 and 530 of this title, and enacting provisions set out as a note under section 529 of this title] may be cited as the ‘Reuse Excess Property Act’.”
+Pub. L. 118–99, § 1, Oct. 1, 2024, 138 Stat. 1578, provided that: “This Act [enacting section 530 of this title, amending sections 529 and 530 of this title, and enacting provisions set out as a note under section 529 of this title] may be cited as the ‘Reuse Excess Property Act’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. Z, § 101, Dec. 29, 2022, 136 Stat. 5523, provided that: “This division [enacting section 549a of this title and provisions set out as a note under section 549a of this title] may be cited as the ‘Computers for Veterans and Students Act of 2022’ or the ‘COVS Act’.”
+Pub. L. 117–328, div. Z, § 101, Dec. 29, 2022, 136 Stat. 5523, provided that: “This division [enacting section 549a of this title and provisions set out as a note under section 549a of this title] may be cited as the ‘Computers for Veterans and Students Act of 2022’ or the ‘COVS Act’.”
 
-Pub. L. 117–202, § 1, Oct. 17, 2022, 136 Stat. 2224, provided that: “This Act [amending section 3313 of this title and enacting provisions set out as a note under section 3313 of this title] may be cited as the ‘Bulb Replacement Improving Government with High-efficiency Technology Act’ or the ‘BRIGHT Act’.”
+Pub. L. 117–202, § 1, Oct. 17, 2022, 136 Stat. 2224, provided that: “This Act [amending section 3313 of this title and enacting provisions set out as a note under section 3313 of this title] may be cited as the ‘Bulb Replacement Improving Government with High-efficiency Technology Act’ or the ‘BRIGHT Act’.”
 
-Pub. L. 117–148, § 1, June 16, 2022, 136 Stat. 1288, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Supreme Court Police Parity Act of 2022’.”
+Pub. L. 117–148, § 1, June 16, 2022, 136 Stat. 1288, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Supreme Court Police Parity Act of 2022’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–333, § 1, Jan. 13, 2021, 134 Stat. 5113, provided that: “This Act [enacting section 3318 of this title] may be cited as the ‘Transparency in Federal Buildings Projects Act of 2019’.”
+Pub. L. 116–333, § 1, Jan. 13, 2021, 134 Stat. 5113, provided that: “This Act [enacting section 3318 of this title] may be cited as the ‘Transparency in Federal Buildings Projects Act of 2019’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–194, § 1, Dec. 3, 2020, 134 Stat. 981, provided that: “This Act [enacting provisions set out as a note under section 11301 of this title] may be cited as the ‘Information Technology Modernization Centers of Excellence Program Act’.”
+Pub. L. 116–194, § 1, Dec. 3, 2020, 134 Stat. 981, provided that: “This Act [enacting provisions set out as a note under section 11301 of this title] may be cited as the ‘Information Technology Modernization Centers of Excellence Program Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–75, § 1, Nov. 27, 2019, 133 Stat. 1160, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Reauthorizing Security for Supreme Court Justices Act of 2019’.”
+Pub. L. 116–75, § 1, Nov. 27, 2019, 133 Stat. 1160, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Reauthorizing Security for Supreme Court Justices Act of 2019’.”
 
-Pub. L. 116–30, § 1, July 25, 2019, 133 Stat. 1032, provided that: “This Act [enacting section 3318 of this title and provisions set out as a note under section 3318 of this title] may be cited as the ‘Fairness For Breastfeeding Mothers Act of 2019’.”
+Pub. L. 116–30, § 1, July 25, 2019, 133 Stat. 1032, provided that: “This Act [enacting section 3318 of this title and provisions set out as a note under section 3318 of this title] may be cited as the ‘Fairness For Breastfeeding Mothers Act of 2019’.”
 
-Pub. L. 115–419, § 1, Jan. 3, 2019, 132 Stat. 5442, provided that: “This Act [amending sections 506 and 524 of this title] may be cited as the ‘Federal Personal Property Management Act of 2018’.”
+Pub. L. 115–419, § 1, Jan. 3, 2019, 132 Stat. 5442, provided that: “This Act [amending sections 506 and 524 of this title] may be cited as the ‘Federal Personal Property Management Act of 2018’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–271, title VIII, § 8061, Oct. 24, 2018, 132 Stat. 4094, provided that: “This subtitle [subtitle E (§§ 8061, 8062) of title VIII of Pub. L. 115–271, enacting section 14510 of this title] may be cited as the ‘Treating Barriers to Prosperity Act of 2018’.”
+Pub. L. 115–271, title VIII, § 8061, Oct. 24, 2018, 132 Stat. 4094, provided that: “This subtitle [subtitle E (§§ 8061, 8062) of title VIII of Pub. L. 115–271, enacting section 14510 of this title] may be cited as the ‘Treating Barriers to Prosperity Act of 2018’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–88, § 1, Nov. 21, 2017, 131 Stat. 1278, provided that: “This Act [amending sections 11302 and 11319 of this title and provisions set out as a note under section 3601 of Title 44, Public Printing and Documents] may be cited as the ‘FITARA Enhancement Act of 2017’.”
+Pub. L. 115–88, § 1, Nov. 21, 2017, 131 Stat. 1278, provided that: “This Act [amending sections 11302 and 11319 of this title and provisions set out as a note under section 3601 of Title 44, Public Printing and Documents] may be cited as the ‘FITARA Enhancement Act of 2017’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–318, § 1, Dec. 16, 2016, 130 Stat. 1608, provided that: “This Act [enacting subchapter VII of chapter 5 of this title and chapter 29 of Title 39, Postal Service, amending sections 102, 524, and 571 of this title, enacting provisions set out as notes under sections 571 and 621 of this title, and amending provisions set out as a note under section 1303 of this title] may be cited as the ‘Federal Property Management Reform Act of 2016’.”
+Pub. L. 114–318, § 1, Dec. 16, 2016, 130 Stat. 1608, provided that: “This Act [enacting subchapter VII of chapter 5 of this title and chapter 29 of Title 39, Postal Service, amending sections 102, 524, and 571 of this title, enacting provisions set out as notes under sections 571 and 621 of this title, and amending provisions set out as a note under section 1303 of this title] may be cited as the ‘Federal Property Management Reform Act of 2016’.”
 
-Pub. L. 114–235, § 1, Oct. 7, 2016, 130 Stat. 964, provided that: “This Act [enacting section 3314 of this title, renumbering former section 3314 and sections 3315 and 3316 of this title as sections 3315 to 3317 of this title, respectively, and enacting provisions set out as a note under section 3314 of this title] may be cited as the ‘Bathrooms Accessible in Every Situation Act’ or ‘BABIES Act’.”
+Pub. L. 114–235, § 1, Oct. 7, 2016, 130 Stat. 964, provided that: “This Act [enacting section 3314 of this title, renumbering former section 3314 and sections 3315 and 3316 of this title as sections 3315 to 3317 of this title, respectively, and enacting provisions set out as a note under section 3314 of this title] may be cited as the ‘Bathrooms Accessible in Every Situation Act’ or ‘BABIES Act’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title VIII, subtitle D (§§ 831–837), Dec. 19, 2014, 128 Stat. 3438, which enacted section 11319 of this title, amended sections 11302 and 11319 of this title, and enacted provisions set out as notes under sections 1704 and 3301 of Title 41, Public Contracts, and section 3601 of Title 44, Public Printing and Documents, is popularly known as the “Federal Information Technology Acquisition Reform Act” or “FITARA”.
+Pub. L. 113–291, div. A, title VIII, subtitle D (§§ 831–837), Dec. 19, 2014, 128 Stat. 3438, which enacted section 11319 of this title, amended sections 11302 and 11319 of this title, and enacted provisions set out as notes under sections 1704 and 3301 of Title 41, Public Contracts, and section 3601 of Title 44, Public Printing and Documents, is popularly known as the “Federal Information Technology Acquisition Reform Act” or “FITARA”.
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–50, § 1, Nov. 21, 2013, 127 Stat. 578, provided that: “This Act [amending sections 3144 and 3703 of this title] may be cited as the ‘Streamlining Claims Processing for Federal Contractor Employees Act’.”
+Pub. L. 113–50, § 1, Nov. 21, 2013, 127 Stat. 578, provided that: “This Act [amending sections 3144 and 3703 of this title] may be cited as the ‘Streamlining Claims Processing for Federal Contractor Employees Act’.”
 
-Pub. L. 113–26, § 1, Aug. 9, 2013, 127 Stat. 502, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013’ or the ‘FOR VETS Act of 2013’.”
+Pub. L. 113–26, § 1, Aug. 9, 2013, 127 Stat. 502, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013’ or the ‘FOR VETS Act of 2013’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–338, § 1, Dec. 22, 2010, 124 Stat. 3590, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010’or ‘FOR VETS Act of 2010’.”
+Pub. L. 111–338, § 1, Dec. 22, 2010, 124 Stat. 3590, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010’or ‘FOR VETS Act of 2010’.”
 
-Pub. L. 111–263, § 1, Oct. 8, 2010, 124 Stat. 2787, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Federal Supply Schedules Usage Act of 2010’.”
+Pub. L. 111–263, § 1, Oct. 8, 2010, 124 Stat. 2787, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Federal Supply Schedules Usage Act of 2010’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–371, § 1, Oct. 8, 2008, 122 Stat. 4037, provided that: “This Act [enacting section 14508 of this title and amending sections 14102, 14321, 14502 to 14507, 14526, 14703, and 14704 of this title] may be cited as the ‘Appalachian Regional Development Act Amendments of 2008’.”
+Pub. L. 110–371, § 1, Oct. 8, 2008, 122 Stat. 4037, provided that: “This Act [enacting section 14508 of this title and amending sections 14102, 14321, 14502 to 14507, 14526, 14703, and 14704 of this title] may be cited as the ‘Appalachian Regional Development Act Amendments of 2008’.”
 
-Pub. L. 110–248, § 1, June 26, 2008, 122 Stat. 2316, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Local Preparedness Acquisition Act’.”
+Pub. L. 110–248, § 1, June 26, 2008, 122 Stat. 2316, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Local Preparedness Acquisition Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–396, § 1, Dec. 15, 2006, 120 Stat. 2711, provided that: “This Act [enacting provisions set out as notes under sections 524 and 5102 of this title, provisions listed in a table of Commemorative Works set out under section 8903 of this title, and provisions set out as a note under section 225b of Title 24, Hospitals and Asylums] may be cited as the ‘Federal and District of Columbia Government Real Property Act of 2006’.”
+Pub. L. 109–396, § 1, Dec. 15, 2006, 120 Stat. 2711, provided that: “This Act [enacting provisions set out as notes under sections 524 and 5102 of this title, provisions listed in a table of Commemorative Works set out under section 8903 of this title, and provisions set out as a note under section 225b of Title 24, Hospitals and Asylums] may be cited as the ‘Federal and District of Columbia Government Real Property Act of 2006’.”
 
-Pub. L. 109–313, § 1, Oct. 6, 2006, 120 Stat. 1734, provided that: “This Act [amending sections 303, 321, 549, 573, 604, and 605 of this title, section 5316 of Title 5, Government Organization and Employees, section 2669 of Title 22, Foreign Relations and Intercourse, and section 433 of Title 41, Public Contracts, repealing section 322 of this title, enacting provisions set out as notes under sections 303 and 321 of this title and section 5316 of Title 5, and amending provisions set out as notes under section 2302 of Title 10, Armed Forces, and section 2107 of Title 44, Public Printing and Documents] may be cited as the ‘General Services Administration Modernization Act’.”
+Pub. L. 109–313, § 1, Oct. 6, 2006, 120 Stat. 1734, provided that: “This Act [amending sections 303, 321, 549, 573, 604, and 605 of this title, section 5316 of Title 5, Government Organization and Employees, section 2669 of Title 22, Foreign Relations and Intercourse, and section 433 of Title 41, Public Contracts, repealing section 322 of this title, enacting provisions set out as notes under sections 303 and 321 of this title and section 5316 of Title 5, and amending provisions set out as notes under section 2302 of Title 10, Armed Forces, and section 2107 of Title 44, Public Printing and Documents] may be cited as the ‘General Services Administration Modernization Act’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–126, title II, § 201, Nov. 17, 2003, 117 Stat. 1349, provided that: “This title [amending sections 8901 to 8906 and 8908 of this title and enacting provisions set out as notes under section 8901 of this title] may be cited as the ‘Commemorative Works Clarification and Revision Act of 2003’.”
+Pub. L. 108–126, title II, § 201, Nov. 17, 2003, 117 Stat. 1349, provided that: “This title [amending sections 8901 to 8906 and 8908 of this title and enacting provisions set out as notes under section 8901 of this title] may be cited as the ‘Commemorative Works Clarification and Revision Act of 2003’.”
 
-### § 102. Definitions
+### § 102. Definitions
 
 Except as provided in subchapter VII of chapter 5 of this title, the following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
@@ -175,13 +175,13 @@ Except as provided in subchapter VII of chapter 5 of this title, the following d
 
 **(10) Surplus property.—** The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, § 5(*l*)(2), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 114–318, § 3(b)(2), Dec. 16, 2016, 130 Stat. 1613.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, § 5(*l*)(2), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 114–318, § 3(b)(2), Dec. 16, 2016, 130 Stat. 1613.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 102 | 40:472. | June 30, 1949, ch. 288, § 3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§ 7(a), 8(a), 64 Stat. 590, 591; July 12, 1952, ch. 703, § 1(a), (b), 66 Stat. 593; Sept. 1, 1954, ch. 1211, § 4(c), 68 Stat. 1129; Aug. 12, 1955, ch. 874, § 2, 69 Stat. 722; Pub. L. 85–337, § 5, Feb. 28, 1958, 72 Stat. 29; Pub. L. 86–70, § 30(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 27(a), July 12, 1960, 74 Stat. 418; Pub. L. 93–594, Jan. 2, 1975, 88 Stat. 1926. |
+| 102 | 40:472. | June 30, 1949, ch. 288, § 3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§ 7(a), 8(a), 64 Stat. 590, 591; July 12, 1952, ch. 703, § 1(a), (b), 66 Stat. 593; Sept. 1, 1954, ch. 1211, § 4(c), 68 Stat. 1129; Aug. 12, 1955, ch. 874, § 2, 69 Stat. 722; Pub. L. 85–337, § 5, Feb. 28, 1958, 72 Stat. 29; Pub. L. 86–70, § 30(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 27(a), July 12, 1960, 74 Stat. 418; Pub. L. 93–594, Jan. 2, 1975, 88 Stat. 1926. |
 
 In this section, the words “and in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The definition of “Administrator” is omitted as unnecessary. The text of 40:472(i) is omitted as unnecessary because of the definition of “person” in 1:1.
 
@@ -197,7 +197,7 @@ In clause (6), the words “the Northern Mariana Islands, the Federated States o
 
 ## SUBCHAPTER II—SCOPE
 
-### § 111. Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41
+### § 111. Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41
 
 In the following provisions, the words “this subtitle” are deemed to refer also to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
@@ -253,7 +253,7 @@ In the following provisions, the words “this subtitle” are deemed to refer a
 
 **(26)** Section 572(b)(4) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065; Pub. L. 111–350, § 5(*l*)(3), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065; Pub. L. 111–350, § 5(*l*)(3), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Historical and Revision Notes**
 
@@ -269,21 +269,21 @@ This section is added to provide an accurate literal translation of the words �
 
 2011—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in section catchline and for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
 
-### § 112. Applicability of certain policies, procedures, and directives in effect on July 1, 1949
+### § 112. Applicability of certain policies, procedures, and directives in effect on July 1, 1949
 
 **(a) In General.—** A policy, procedure, or directive described in subsection (b) remains in effect until superseded or amended under this subtitle or other appropriate authority.
 
 **(b) Description.—** A policy, procedure, or directive referred to in subsection (a) is one that was in effect on July 1, 1949, and that was prescribed by—
 
-**(1)** the Director of the Bureau of Federal Supply or the Secretary of the Treasury and that related to a function transferred to or vested in the Administrator of General Services on June 30, 1949, by the Federal Property and Administrative Services Act of 1949; 1
+**(1)** the Director of the Bureau of Federal Supply or the Secretary of the Treasury and that related to a function transferred to or vested in the Administrator of General Services on June 30, 1949, by the Federal Property and Administrative Services Act of 1949; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** an officer of the Federal Government under authority of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) or other authority related to surplus property or foreign excess property;
 
 **(3)** the Federal Works Administrator or the head of a constituent agency of the Federal Works Agency; or
 
-**(4)** the Archivist of the United States or another officer or body whose functions were transferred on June 30, 1949, by title I <sup>1</sup> of the Federal Property and Administrative Services Act of 1949.
+**(4)** the Archivist of the United States or another officer or body whose functions were transferred on June 30, 1949, by title I <sup>1</sup> of the Federal Property and Administrative Services Act of 1949.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065.)
 
@@ -291,25 +291,25 @@ This section is added to provide an accurate literal translation of the words �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 112 | 40:473. | June 30, 1949, ch. 288, title VI, § 601, formerly title V, § 501, 63 Stat. 399; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. |
+| 112 | 40:473. | June 30, 1949, ch. 288, title VI, § 601, formerly title V, § 501, 63 Stat. 399; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), (4), is act June 30, 1949, ch. 288, 63 Stat. 377, which was substantially repealed and restated in this chapter, chapters 3 to 11 of this title, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, which Act enacted this title, and Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855, which Act enacted Title 41. Provisions of former title I of act June 30, 1949, now appear in chapter 3 of this title relating to organization of General Services Administration. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 40, Public Buildings, Property, and Works, and former Title 41, Public Contracts, see Disposition Tables preceding section 101 of this title and section 101 of Title 41, respectively.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), (4), is act June 30, 1949, ch. 288, 63 Stat. 377, which was substantially repealed and restated in this chapter, chapters 3 to 11 of this title, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, which Act enacted this title, and Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855, which Act enacted Title 41. Provisions of former title I of act June 30, 1949, now appear in chapter 3 of this title relating to organization of General Services Administration. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 40, Public Buildings, Property, and Works, and former Title 41, Public Contracts, see Disposition Tables preceding section 101 of this title and section 101 of Title 41, respectively.
 
-The Surplus Property Act of 1944, referred to in subsec. (b)(2), is act Oct. 3, 1944, ch. 479, 58 Stat. 765, which was classified principally to sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense, and was repealed effective July 1, 1949, with the exception of sections 1622, 1631, 1637, and 1641 of the former Appendix to Title 50, by act June 30, 1949, ch. 288, title VI, § 602(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. Sections 1622 and 1641 were partially repealed by the 1949 act, and section 1622 was editorially reclassified and is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works. Section 1622(g) was repealed and reenacted as sections 47151 to 47153 of Title 49, Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 1278–1280, 1379. Section 1631 was repealed by act June 7, 1939, ch. 190, § 6(e), as added by act July 23, 1946, ch. 590, 60 Stat. 599, and is covered by sections 98 et seq. of Title 50. Section 1637 was repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and is covered by section 3287 of Title 18, Crimes and Criminal Procedure. Provisions of section 1641 not repealed by the 1949 act were repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538, and are covered by chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. The provisions of the Surplus Property Act of 1944 originally repealed by the 1949 act are covered by provisions of the 1949 act which were classified to chapter 10 (§ 471 et seq.) of former Title 40, Public Buildings, Property, and Works, and which were repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of this title.
+The Surplus Property Act of 1944, referred to in subsec. (b)(2), is act Oct. 3, 1944, ch. 479, 58 Stat. 765, which was classified principally to sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense, and was repealed effective July 1, 1949, with the exception of sections 1622, 1631, 1637, and 1641 of the former Appendix to Title 50, by act June 30, 1949, ch. 288, title VI, § 602(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. Sections 1622 and 1641 were partially repealed by the 1949 act, and section 1622 was editorially reclassified and is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works. Section 1622(g) was repealed and reenacted as sections 47151 to 47153 of Title 49, Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 1278–1280, 1379. Section 1631 was repealed by act June 7, 1939, ch. 190, § 6(e), as added by act July 23, 1946, ch. 590, 60 Stat. 599, and is covered by sections 98 et seq. of Title 50. Section 1637 was repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and is covered by section 3287 of Title 18, Crimes and Criminal Procedure. Provisions of section 1641 not repealed by the 1949 act were repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538, and are covered by chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. The provisions of the Surplus Property Act of 1944 originally repealed by the 1949 act are covered by provisions of the 1949 act which were classified to chapter 10 (§ 471 et seq.) of former Title 40, Public Buildings, Property, and Works, and which were repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of this title.
 
-### § 113. Limitations
+### § 113. Limitations
 
 **(a) In General.—** Except as otherwise provided in this section, the authority conferred by this subtitle is in addition to any other authority conferred by law and is not subject to any inconsistent provision of law.
 
-**(b) Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41.—** The authority conferred by this subtitle is subject to division B (Except 1
+**(b) Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41.—** The authority conferred by this subtitle is subject to division B (Except 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-Sections 1 1704 and 2303) of subtitle I of title 41.
+Sections 1 1704 and 2303) of subtitle I of title 41.
 
 **(c) Limitation Regarding Certain Government Corporations and Agencies.—** Sections 121(b) and 506(c) of this title do not apply to a Government corporation or agency that is subject to chapter 91 of title 31.
 
@@ -375,13 +375,13 @@ Sections 1 1704 and 2303) of subtitle I of title 41.
 
 **(20)** the Office of the Director of National Intelligence.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, § 1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, § 5(*l*)(4), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 117–81, div. A, title XVII, § 1702(g)(1), Dec. 27, 2021, 135 Stat. 2157.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, § 1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, § 5(*l*)(4), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 117–81, div. A, title XVII, § 1702(g)(1), Dec. 27, 2021, 135 Stat. 2157.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 113(a) | 40:474(c) (words before 1st comma). | June 30, 1949, ch. 288, title VI, § 602(c)–(e), formerly § 502(c)–(e), 63 Stat. 401; renumbered § 602(c)–(e), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; Sept. 5, 1950, ch. 849, §§ 7(e), (f), 8(c), 64 Stat. 590, 591; Pub. L. 85–726, title XIV, § 1406, Aug. 23, 1958, 72 Stat. 808; Pub. L. 87–456, title III, § 303(b), May 24, 1962, 76 Stat. 78; Pub. L. 89–343, § 6, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 90–19, § 7, May 25, 1967, 81 Stat. 22; Pub. L. 91–375, § 6(m)(2), Aug. 12, 1970, 84 Stat. 782; Pub. L. 93–400, § 15(4), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–60, title II, § 203(c), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–83, § 10(b), Oct. 10, 1979, 93 Stat. 652; Pub. L. 97–31, § 12(13), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–191, §§ 8(d)(2), 9(a)(3), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 101–73, title VII, § 744(f), Aug. 9, 1989, 103 Stat. 438; Pub. L. 106–78, title VII, § 752(b)(14), Oct. 22, 1999, 113 Stat. 1170. |
+| 113(a) | 40:474(c) (words before 1st comma). | June 30, 1949, ch. 288, title VI, § 602(c)–(e), formerly § 502(c)–(e), 63 Stat. 401; renumbered § 602(c)–(e), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; Sept. 5, 1950, ch. 849, §§ 7(e), (f), 8(c), 64 Stat. 590, 591; Pub. L. 85–726, title XIV, § 1406, Aug. 23, 1958, 72 Stat. 808; Pub. L. 87–456, title III, § 303(b), May 24, 1962, 76 Stat. 78; Pub. L. 89–343, § 6, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 90–19, § 7, May 25, 1967, 81 Stat. 22; Pub. L. 91–375, § 6(m)(2), Aug. 12, 1970, 84 Stat. 782; Pub. L. 93–400, § 15(4), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–60, title II, § 203(c), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–83, § 10(b), Oct. 10, 1979, 93 Stat. 652; Pub. L. 97–31, § 12(13), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–191, §§ 8(d)(2), 9(a)(3), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 101–73, title VII, § 744(f), Aug. 9, 1989, 103 Stat. 438; Pub. L. 106–78, title VII, § 752(b)(14), Oct. 22, 1999, 113 Stat. 1170. |
 | 113(b) | 40:474(c) (words between 1st and last commas). |  |
 | 113(c) | 40:474(c) (words after last comma). |  |
 | 113(d) | 40:474(e). |  |
@@ -405,7 +405,7 @@ In subsection (e)(6), the words “the Munitions Board” are omitted because se
 
 In subsection (e)(8), the words “or the Department of Agriculture” are omitted as unnecessary because of section 1 of Reorganization Plan No. 2 of 1953 (eff. June 30, 1953, 67 Stat. 638). The words “the Act of August 31, 1947, Public Law 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities” are omitted because the intended reference is probably to the Act of July 31, 1947 (ch. 413, 61 Stat. 694), which was repealed by section 205(a) of the Housing Act of 1950 (ch. 94, 64 Stat. 73).
 
-In subsection (e)(9), the words “an official or entity under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)” are substituted for “the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640*l*(b) of title 12” because section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (12:2001 note), repealed 12:640*l*, and provided that “[a]ll references in other legislation . . . to the Acts repealed hereby shall be deemed to refer to comparable provisions of [the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)]”.
+In subsection (e)(9), the words “an official or entity under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)” are substituted for “the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640*l*(b) of title 12” because section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (12:2001 note), repealed 12:640*l*, and provided that “[a]ll references in other legislation . . . to the Acts repealed hereby shall be deemed to refer to comparable provisions of [the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)]”.
 
 In subsection (e)(10), the words “Secretary of Housing and Urban Development” are substituted for “Department of Housing and Urban Development” because of 42:3532. The words “Federal Deposit Insurance Corporation” are substituted for “Resolution Trust Corporation” because under 12:1441a(m)(1), the Resolution Trust Corporation terminated on December 31, 1995, and was succeeded by the Federal Deposit Insurance Corporation.
 
@@ -423,29 +423,29 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 
 **References in Text**
 
-The Philippine Property Act of 1946, referred to in subsec. (e)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
+The Philippine Property Act of 1946, referred to in subsec. (e)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-The Foreign Service Buildings Act, 1926, referred to in subsec. (e)(7), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (e)(7), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (e)(8)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (e)(8)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Farmers Home Administration Act of 1946, referred to in subsec. (e)(8)(B), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062. Such act was substantially repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, and act Aug. 8, 1961, Pub. L. 87–128, title III, § 341(a), 75 Stat. 318. For complete classification of this Act to the Code, see Tables.
+The Farmers Home Administration Act of 1946, referred to in subsec. (e)(8)(B), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062. Such act was substantially repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, and act Aug. 8, 1961, Pub. L. 87–128, title III, § 341(a), 75 Stat. 318. For complete classification of this Act to the Code, see Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (e)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (e)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
 **Amendments**
 
-2021—Subsec. (e)(3). Pub. L. 117–81, § 1702(g)(1)(A), substituted “section 3063” for “chapter 137” and “the provisions of that title referred to in section 3016 of such title as ‘chapter 137 legacy provisions’;” for “that chapter;”.
+2021—Subsec. (e)(3). Pub. L. 117–81, § 1702(g)(1)(A), substituted “section 3063” for “chapter 137” and “the provisions of that title referred to in section 3016 of such title as ‘chapter 137 legacy provisions’;” for “that chapter;”.
 
-Subsec. (e)(5). Pub. L. 117–81, § 1702(g)(1)(B), substituted “section 4881” for “section 2535”.
+Subsec. (e)(5). Pub. L. 117–81, § 1702(g)(1)(B), substituted “section 4881” for “section 2535”.
 
 2011—Subsec. (b). Pub. L. 111–350 substituted “Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41” for “the Office of Federal Procurement Policy Act” in heading and “division B (Except Sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” in text.
 
@@ -461,7 +461,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 ## SUBCHAPTER III—ADMINISTRATIVE AND GENERAL
 
-### § 121. Administrative
+### § 121. Administrative
 
 **(a) Policies Prescribed by the President.—** The President may prescribe policies and directives that the President considers necessary to carry out this subtitle. The policies must be consistent with this subtitle.
 
@@ -527,13 +527,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 121(a), (b) | 40:486(a), (b). | June 30, 1949, ch. 288, title II, § 205, 63 Stat. 389; Sept. 5, 1950, ch. 849, § 9, 64 Stat. 591; Pub. L. 87–619, Aug. 31, 1962, 76 Stat. 414. |
-| 121(c)(1) | 40:751(f). | June 30, 1949, ch. 288, title I, § 101(f), as added Pub. L. 99–500, § 101(m) [title VIII, § 832], Oct. 18, 1986, 100 Stat. 1783–345; Pub. L. 99–591, § 101(m) [title VIII, § 832], Oct. 30, 1986, 100 Stat. 3341–345. |
+| 121(a), (b) | 40:486(a), (b). | June 30, 1949, ch. 288, title II, § 205, 63 Stat. 389; Sept. 5, 1950, ch. 849, § 9, 64 Stat. 591; Pub. L. 87–619, Aug. 31, 1962, 76 Stat. 414. |
+| 121(c)(1) | 40:751(f). | June 30, 1949, ch. 288, title I, § 101(f), as added Pub. L. 99–500, § 101(m) [title VIII, § 832], Oct. 18, 1986, 100 Stat. 1783–345; Pub. L. 99–591, § 101(m) [title VIII, § 832], Oct. 30, 1986, 100 Stat. 3341–345. |
 | 121(c)(2) | 40:486(c). |  |
 | 121(d)(1), (2) | 40:486(d). |  |
-| 121(d)(3) | 40:486a. | Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009–355. |
+| 121(d)(3) | 40:486a. | Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009–355. |
 | 121(e)(1) | 40:486(e). |  |
-|  | 40:754 (1st sentence). | June 30, 1949, ch. 288, title I, § 106, 63 Stat. 381. |
+|  | 40:754 (1st sentence). | June 30, 1949, ch. 288, title I, § 106, 63 Stat. 381. |
 | 121(e)(2)(A) | 40:754 (last sentence). |  |
 | 121(e)(2)(B) | 40:486(f). |  |
 | 121(f) | 40:486(g). |  |
@@ -560,7 +560,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **Ex. Ord. No. 12072. Federal Space Management**
 
-Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, § 1, Aug. 24, 2020, 85 F.R. 52879; Ex. Ord. No. 14091, § 6(c), Feb. 16, 2023, 88 F.R. 10830, provided:
+Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, § 1, Aug. 24, 2020, 85 F.R. 52879; Ex. Ord. No. 14091, § 6(c), Feb. 16, 2023, 88 F.R. 10830, provided:
 
 By the authority vested in me as President of the United States of America by Section 205(a) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 486(a)) [now 40 U.S.C. 121(a)], and in order to prescribe appropriate policies and directives, not inconsistent with that Act [now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and other applicable provisions of law, for the planning, acquisition, utilization, and management of Federal space facilities, it is hereby ordered as follows:
 
@@ -640,7 +640,7 @@ By the authority vested in me as President of the United States of America by Se
 
 **Executive Order No. 12512**
 
-Ex. Ord. No. 12512, Apr. 29, 1985, 50 F.R. 18453, which related to Federal real property management, was revoked by Ex. Ord. No. 13327, § 8, Feb. 4, 2004, 69 F.R. 5897, set out below.
+Ex. Ord. No. 12512, Apr. 29, 1985, 50 F.R. 18453, which related to Federal real property management, was revoked by Ex. Ord. No. 13327, § 8, Feb. 4, 2004, 69 F.R. 5897, set out below.
 
 **Ex. Ord. No. 12954. Ensuring the Economical and Efficient Administration and Completion of Federal Government Contracts**
 
@@ -692,11 +692,11 @@ William J. Clinton.
 
 **Executive Order No. 12977**
 
-Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, as amended by Ex. Ord. No. 13286, § 23, Feb. 28, 2003, 68 F.R. 10624, which established the Interagency Security Committee, was superseded and revoked by Ex. Ord. No. 14111, § 7, Nov. 27, 2023, 88 F.R. 83811, set out in a note below.
+Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, as amended by Ex. Ord. No. 13286, § 23, Feb. 28, 2003, 68 F.R. 10624, which established the Interagency Security Committee, was superseded and revoked by Ex. Ord. No. 14111, § 7, Nov. 27, 2023, 88 F.R. 83811, set out in a note below.
 
 **Ex. Ord. No. 13327. Federal Real Property Asset Management**
 
-Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, § 11(c), Jan. 24, 2007, 72 F.R. 3923; Ex. Ord. No. 13693, § 16(d), Mar. 19, 2015, 80 F.R. 15881, provided:
+Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, § 11(c), Jan. 24, 2007, 72 F.R. 3923; Ex. Ord. No. 13693, § 16(d), Mar. 19, 2015, 80 F.R. 15881, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and in order to promote the efficient and economical use of Federal real property resources in accordance with their value as national assets and in the best interests of the Nation, it is hereby ordered as follows:
 
@@ -950,7 +950,7 @@ Sec. 9. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-### § 122. Prohibition on sex discrimination
+### § 122. Prohibition on sex discrimination
 
 **(a) Prohibition.—** With respect to a program or activity carried on or receiving federal assistance under this subtitle, an individual may not be excluded from participation, denied benefits, or otherwise discriminated against based on sex.
 
@@ -962,15 +962,15 @@ J.R. Biden, Jr.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 122 | 40:476. | June 30, 1949, ch. 288, title VI, § 606, as added Pub. L. 94–519, § 8, Oct. 17, 1976, 90 Stat. 2456. |
+| 122 | 40:476. | June 30, 1949, ch. 288, title VI, § 606, as added Pub. L. 94–519, § 8, Oct. 17, 1976, 90 Stat. 2456. |
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-### § 123. Civil remedies for fraud
+### § 123. Civil remedies for fraud
 
 **(a) In General.—** In connection with the procurement, transfer or disposition of property under this subtitle, a person that uses or causes to be used, or enters into an agreement, combination, or conspiracy to use or cause to be used, a fraudulent trick, scheme, or device for the purpose of obtaining or aiding to obtain, for any person, money, property, or other benefit from the Federal Government—
 
@@ -1004,7 +1004,7 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 123(a) | 40:489(b). | June 30, 1949, ch. 288, title II, § 209, 63 Stat. 392. |
+| 123(a) | 40:489(b). | June 30, 1949, ch. 288, title II, § 209, 63 Stat. 392. |
 | 123(b) | 40:489(d). |  |
 | 123(c) | 40:489(a). |  |
 | 123(d) | 40:489(c). |  |
@@ -1019,11 +1019,11 @@ In subsection (a)(3), the words “fraudulently obtained” are substituted for 
 
 In subsection (d)(1), the word “several” is omitted as unnecessary. The words “the District Court of the United States for the District of Columbia” in section 209(c) of the Federal Property and Administrative Services Act of 1949 are omitted as included in “a district court of the United States” because of sections 88 and 132(a) of title 28.
 
-Subsection (d)(2) is substituted for “[D]istrict courts . . . within whose jurisdictional limits the person, or persons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit” for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
+Subsection (d)(2) is substituted for “[D]istrict courts . . . within whose jurisdictional limits the person, or persons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit” for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
 
 In subsection (d)(3), the words “A defendant that does not reside and may not be found in the court’s judicial district” are substituted for “and such person or persons as are not inhabitants of or found within the district in which suit is brought” for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
 
-### § 124. Agency use of amounts for property management
+### § 124. Agency use of amounts for property management
 
 Amounts appropriated, allocated, or available to a federal agency for purposes similar to the purposes in section 121 of this title or subchapter I (except section 506), II, or III of chapter 5 of this title may be used by the agency for the disposition of property under this subtitle, and for the care and handling of property pending the disposition, if the Director of the Office of Management and Budget authorizes the use.
 
@@ -1033,11 +1033,11 @@ Amounts appropriated, allocated, or available to a federal agency for purposes s
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 124 | 40:475(b). | June 30, 1949, ch. 288, title VI, § 603(b), formerly § 503(b), 63 Stat. 403; renumbered [§] 603(b), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. |
+| 124 | 40:475(b). | June 30, 1949, ch. 288, title VI, § 603(b), formerly § 503(b), 63 Stat. 403; renumbered [§] 603(b), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. |
 
 The words “heretofore or hereafter” are omitted as unnecessary. The words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 603(b) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
 
-### § 125. Library memberships
+### § 125. Library memberships
 
 Amounts appropriated may be used, when authorized by the Administrator of General Services, for payment in advance for library memberships in societies whose publications are available to members only, or to members at a lower price than that charged to the general public.
 
@@ -1047,11 +1047,11 @@ Amounts appropriated may be used, when authorized by the Administrator of Genera
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 125 | 40:475(a). | June 30, 1949, ch. 288, title VI, § 603(a), formerly § 503(a), 63 Stat. 403; renumbered [§] 603(a), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; Sept. 5, 1950, ch. 849, § 7(g), 64 Stat. 590. |
+| 125 | 40:475(a). | June 30, 1949, ch. 288, title VI, § 603(a), formerly § 503(a), 63 Stat. 403; renumbered [§] 603(a), Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; Sept. 5, 1950, ch. 849, § 7(g), 64 Stat. 590. |
 
 The words “such sums as may be necessary to carry out the provisions of this Act” are omitted as unnecessary.
 
-### § 126. Reports to Congress
+### § 126. Reports to Congress
 
 The Administrator of General Services, at times the Administrator considers desirable, shall submit a report to Congress on the administration of this subtitle. The report shall include any recommendation for amendment of this subtitle that the Administrator considers appropriate and shall identify any law that is obsolete because of the enactment or operation of this subtitle.
 
@@ -1061,6 +1061,6 @@ The Administrator of General Services, at times the Administrator considers desi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 126 | 40:492. | June 30, 1949, ch. 288, title II, § 212, formerly § 210, 63 Stat. 393; renumbered § 212, Sept. 5, 1950, ch. 849, § 5(a), 64 Stat. 580. |
+| 126 | 40:492. | June 30, 1949, ch. 288, title II, § 212, formerly § 210, 63 Stat. 393; renumbered § 212, Sept. 5, 1950, ch. 849, § 5(a), 64 Stat. 580. |
 
 The words “in January of each year and” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 174 of House Document No. 103–7.

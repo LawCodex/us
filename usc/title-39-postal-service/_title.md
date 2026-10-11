@@ -13,15 +13,15 @@ retrieved: 2026-10-11
 
 # Title 39—POSTAL SERVICE
 
-This title was enacted by Pub. L. 86–682, § 1, Sept. 2, 1960, 74 Stat. 578, and was revised and reenacted by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719
+This title was enacted by Pub. L. 86–682, § 1, Sept. 2, 1960, 74 Stat. 578, and was revised and reenacted by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Table I**
 
 **This Table lists the sections of former Title 39, The Postal Service, and indicates the sections of Title 39, as enacted in 1960, which covered similar and related subject matter.**
 
-| *Title 39* *Former Sections* | *Title 39* *1960 Revision Sections* |
+| *Title 39* *Former Sections* | *Title 39* *1960 Revision Sections* |
 |---|---|
 | 1–3 | 701 |
 | 4, 5 | 707 |
@@ -132,10 +132,10 @@ Current through 119-102not101
 | 228 | 4366 |
 | 229 | 4355 |
 | 230 | 4356 |
-| 231 | 4368; T. 18 § 1733 |
+| 231 | 4368; T. 18 § 1733 |
 | 232 | 4352 |
 | 233 | 4369 |
-| 234 | 4367; T. 18 § 1734 |
+| 234 | 4367; T. 18 § 1734 |
 | 235 | 4451, 4555 |
 | 236–238 | 4451 |
 | 239 | 4060 |
@@ -528,16 +528,16 @@ Current through 119-102not101
 | 831–833 | Rep. |
 | 834 | 3302 |
 | 835, 836 | Rep. |
-| 837 | See T. 28 § 2710 |
-| 838 | See T. 28 § 2711 |
-| 839 | See T. 28 § 2712 |
-| 840 | See T. 28 § 2713 |
-| 841 | See T. 28 § 2714 |
-| 842 | See T. 28 § 2715 |
-| 843 | See T. 28 § 2716 |
-| 844 | See T. 28 § 2717 |
+| 837 | See T. 28 § 2710 |
+| 838 | See T. 28 § 2711 |
+| 839 | See T. 28 § 2712 |
+| 840 | See T. 28 § 2713 |
+| 841 | See T. 28 § 2714 |
+| 842 | See T. 28 § 2715 |
+| 843 | See T. 28 § 2716 |
+| 844 | See T. 28 § 2717 |
 | 845 | Rep. |
-| 846 | See T. 28 § 2718 |
+| 846 | See T. 28 § 2718 |
 | 847, 847a | 504 |
 | 848, 848a | Rep. |
 | 848b | 2202 |
@@ -605,7 +605,7 @@ Current through 119-102not101
 
 **This Table lists the sections of former Title 39, The Postal Service, and indicates the sections of Title 39, Postal Service, as revised in 1970, which cover similar and related subject matter.**
 
-| *Title 39* *1960 Revision Sections* | *Title 39* *New Sections* |
+| *Title 39* *1960 Revision Sections* | *Title 39* *New Sections* |
 |---|---|
 | 1 | See 102, 2001 |
 | 2 | See 403 |
@@ -852,7 +852,7 @@ Current through 119-102not101
 
 **This Table lists the sections of Title 39, Postal Service, as revised in 1970, and indicates the sections of former Title 39, The Postal Service, which covered similar and related subject matter.**
 
-| *Title 39* *New Sections* | *Title 39* *Former Sections* |
+| *Title 39* *New Sections* | *Title 39* *Former Sections* |
 |---|---|
 | 101 | 2301, 2302, 6005, 6107 |
 | 102 | 1 |
@@ -994,17 +994,17 @@ Current through 119-102not101
 
 **Positive Law**
 
-This title was enacted into law by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719, which provided that: “Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. § \_”.
+This title was enacted into law by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719, which provided that: “Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. § \_”.
 
 **Effective Dates**
 
-Pub. L. 91–375, § 15, Aug. 12, 1970, 84 Stat. 787, provided that:
+Pub. L. 91–375, § 15, Aug. 12, 1970, 84 Stat. 787, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, this section and sections 9 through 13 of this Act [set out as notes below and under sections 1001, 1003, 1201, and 2004 of this title], and sections 202, 203, 205(b) and (c), 206, and 401(2), and subchapter I of chapter 36 of title 39, United States Code [sections 3601 to 3604 of this title], as enacted by section 2 of this Act, shall become effective on the date of enactment of this Act [Aug. 12, 1970]. Except as otherwise provided in this Act [see Short Title note set out under section 101 of this title] the other provisions of this Act shall become effective within 1 year after the enactment of this Act [Aug. 12, 1970] on the date or dates established therefor by the Board of Governors and published by it in the Federal Register. References to the Postal Service in any provision of this Act [see Short Title note set out under section 101 of this title] (other than a provision referred to in the first sentence of this subsection) which becomes effective before the Postal Service commences operations shall be held and considered to refer to the Post Office Department until the Postal Service commences operations.
 
 > **“(b)** Sections 3010 and 3011 of title 39, United States Code, as enacted by section 2 of this Act, and sections 1735, 1736, and 1737 of title 18, United States Code, as enacted by section 6(j) of this Act, shall become effective on the first day of the sixth month which begins after the date of enactment of this Act [Aug. 12, 1970].”
 
-The provisions of Title 39, as revised by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719, are effective on the following dates:
+The provisions of Title 39, as revised by Pub. L. 91–375, § 2, Aug. 12, 1970, 84 Stat. 719, are effective on the following dates:
 
 Effective Aug. 12, 1970, pursuant to section 15(a) of Pub. L. 91–375:
 
@@ -1034,7 +1034,7 @@ Effective July 1, 1971, all other provisions of Title 39, pursuant to Resolution
 
 **Savings Provision**
 
-Pub. L. 91–375, § 5, Aug. 12, 1970, 84 Stat. 774, provided that:
+Pub. L. 91–375, § 5, Aug. 12, 1970, 84 Stat. 774, provided that:
 
 > **“(a)** All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
 
@@ -1080,7 +1080,7 @@ Provisions of section 5 of Pub. L. 91–375 effective within 1 year after Aug. 1
 
 **Corresponding References**
 
-Pub. L. 91–375, § 6(*o*)–(q), Aug. 12, 1970, 84 Stat. 783, provided that:
+Pub. L. 91–375, § 6(*o*)–(q), Aug. 12, 1970, 84 Stat. 783, provided that:
 
 > **“(o)** Whenever any reference is made in any provision of law (other than this Act [see Short Title note set out under section 101 of this title] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
 
@@ -1092,7 +1092,7 @@ Provisions of section 6(*o*) to (q) of Pub. L. 91–375 effective within 1 year 
 
 **Separability; Legislative Construction**
 
-Pub. L. 91–375, § 11, Aug. 12, 1970, 84 Stat. 785, provided that:
+Pub. L. 91–375, § 11, Aug. 12, 1970, 84 Stat. 785, provided that:
 
 > **“(a)** If a part of title 39, United States Code, as enacted by section 2 of this Act, is held invalid, the remainder of such title shall not be affected thereby; and if any other part of this Act [see Short Title note set out under section 101 of this title] is held to be invalid, the remainder of the Act shall not be affected thereby.
 
@@ -1102,7 +1102,7 @@ Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see sectio
 
 ## PART I—GENERAL
 
-2006—Pub. L. 109–435, title VI, § 601(c), Dec. 20, 2006, 120 Stat. 3239, added item for chapter 5.
+2006—Pub. L. 109–435, title VI, § 601(c), Dec. 20, 2006, 120 Stat. 3239, added item for chapter 5.
 
 - [CHAPTER 1—POSTAL POLICY AND DEFINITIONS](chapter-001-postal-policy-and-definitions.md)
 
@@ -1126,11 +1126,11 @@ Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see sectio
 
 **Amendments**
 
-2016—Pub. L. 114–318, § 4(b), Dec. 16, 2016, 130 Stat. 1614, added item for chapter 29.
+2016—Pub. L. 114–318, § 4(b), Dec. 16, 2016, 130 Stat. 1614, added item for chapter 29.
 
-2006—Pub. L. 109–435, title X, § 1010(g)(2), Dec. 20, 2006, 120 Stat. 3262, substituted “Strategic Planning and Performance Management” for “Strategic planning and performance management” in item for chapter 28.
+2006—Pub. L. 109–435, title X, § 1010(g)(2), Dec. 20, 2006, 120 Stat. 3262, substituted “Strategic Planning and Performance Management” for “Strategic planning and performance management” in item for chapter 28.
 
-1993—Pub. L. 103–62, § 11(c), Aug. 3, 1993, 107 Stat. 296, added item for chapter 28.
+1993—Pub. L. 103–62, § 11(c), Aug. 3, 1993, 107 Stat. 296, added item for chapter 28.
 
 - [CHAPTER 20—FINANCE](chapter-020-finance.md)
 
@@ -1146,7 +1146,7 @@ Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see sectio
 
 ## PART IV—MAIL MATTER
 
-2022—Pub. L. 117–108, title I, § 103(a)(2), Apr. 6, 2022, 136 Stat. 1144, added item for chapter 37.
+2022—Pub. L. 117–108, title I, § 103(a)(2), Apr. 6, 2022, 136 Stat. 1144, added item for chapter 37.
 
 - [CHAPTER 30—NONMAILABLE MATTER](chapter-030-nonmailable-matter.md)
 
@@ -1164,7 +1164,7 @@ Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see sectio
 
 **Amendments**
 
-2006—Pub. L. 109–435, title X, § 1002(c), Dec. 20, 2006, 120 Stat. 3255, struck out item relating to chapter 52 “Transportation of Mail by Surface Carrier”.
+2006—Pub. L. 109–435, title X, § 1002(c), Dec. 20, 2006, 120 Stat. 3255, struck out item relating to chapter 52 “Transportation of Mail by Surface Carrier”.
 
 - [CHAPTER 50—GENERAL](chapter-050-general.md)
 

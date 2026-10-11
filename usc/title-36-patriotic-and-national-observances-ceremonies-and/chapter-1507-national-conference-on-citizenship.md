@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1507—NATIONAL CONFERENCE ON CITIZENSHIP"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1507—NATIONAL CONFERENCE ON CITIZENSHIP"
 identifier: "/us/usc/t36/stII/ptB/ch1507"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1507—NATIONAL CONFERENCE ON CITIZENSHIP
 
-## § 150701. Organization
+## § 150701. Organization
 
 **(a) Federal Charter.—** National Conference on Citizenship (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,12 +27,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150701 | 36:431. | Aug. 13, 1953, ch. 427, §§ 1, 2, 67 Stat. 562. |
+| 150701 | 36:431. | Aug. 13, 1953, ch. 427, §§ 1, 2, 67 Stat. 562. |
 |  | 36:432. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 150702. Purposes
+## § 150702. Purposes
 
 The purposes of the corporation are—
 
@@ -48,9 +48,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150702 | 36:433. | Aug. 13, 1953, ch. 427, § 3, 67 Stat. 562. |
+| 150702 | 36:433. | Aug. 13, 1953, ch. 427, § 3, 67 Stat. 562. |
 
-## § 150703. Membership
+## § 150703. Membership
 
 **(a) Eligibility.—** Membership in the corporation is confined to agencies and organizations. Except as provided in this chapter, the rights and privileges of members are as provided in the bylaws.
 
@@ -62,9 +62,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150703 | 36:436. | Aug. 13, 1953, ch. 427, § 6, 67 Stat. 563. |
+| 150703 | 36:436. | Aug. 13, 1953, ch. 427, § 6, 67 Stat. 563. |
 
-## § 150704. National officers
+## § 150704. National officers
 
 **(a) National Officers.—** The national officers of the corporation are a president, a first vice president, a second vice president, a third vice president, a secretary, and a treasurer. The president is chairman of the board of directors and of the executive committee described in section 150705(d) of this title.
 
@@ -76,11 +76,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150704 | 36:437. | Aug. 13, 1953, ch. 427, § 7, 67 Stat. 563. |
+| 150704 | 36:437. | Aug. 13, 1953, ch. 427, § 7, 67 Stat. 563. |
 
 In subsection (b), the words “For the purposes of initiating the corporation, the national officers shall be elected within ten days of August 13, 1953, by the persons named in section 431 of this title, to serve until the final session of the next following annual conference. Thereafter” are omitted as obsolete. The words “one vote to each such agency and to each such organization” are omitted because section 150703(b) of the revised title already states that each of those agencies and organizations has one vote.
 
-## § 150705. Board of directors
+## § 150705. Board of directors
 
 **(a) General.—** The board of directors is the governing body of the corporation. The board shall exercise the powers granted to the corporation.
 
@@ -98,9 +98,9 @@ In subsection (b), the words “For the purposes of initiating the corporation, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150705 | 36:438. | Aug. 13, 1953, ch. 427, § 8, 67 Stat. 564. |
+| 150705 | 36:438. | Aug. 13, 1953, ch. 427, § 8, 67 Stat. 564. |
 
-In subsection (a), the words “From August 13, 1953, until the final session of the next following annual conference . . . shall be the persons named in section 431 of this title and such additional persons as shall be named by them. Thereafter” are omitted as obsolete.
+In subsection (a), the words “From August 13, 1953, until the final session of the next following annual conference . . . shall be the persons named in section 431 of this title and such additional persons as shall be named by them. Thereafter” are omitted as obsolete.
 
 In subsection (b), the words “one vote to each such agency and to each such organization” are omitted because section 150703(b) of the revised title already states that each of those agencies and organizations has one vote.
 
@@ -110,7 +110,7 @@ In subsection (d), the words “and exercise” are omitted as unnecessary.
 
 In subsection (e), the words “who shall have the qualifications and terms of employment decided” are substituted for “in keeping with qualifications and terms of employment adopted” for clarity and consistency.
 
-## § 150706. Powers
+## § 150706. Powers
 
 The corporation may—
 
@@ -142,7 +142,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150706 | 36:434. | Aug. 13, 1953, ch. 427, § 4, 67 Stat. 562. |
+| 150706 | 36:434. | Aug. 13, 1953, ch. 427, § 4, 67 Stat. 562. |
 
 In clause (1), the word “alter” is omitted as unnecessary. The words “not inconsistent with the laws of the United States or any State in which such corporation is to operate” are omitted as unnecessary.
 
@@ -160,7 +160,7 @@ In clause (10), the words “complain, and defend in any court of competent juri
 
 In clause (11), the words “any other act” are substituted for “any and all acts and things” to eliminate unnecessary words. The word “objects” is omitted as unnecessary.
 
-## § 150707. Exclusive right to name, seals, emblems, and badges
+## § 150707. Exclusive right to name, seals, emblems, and badges
 
 The corporation has the exclusive right to use the name “National Conference on Citizenship” and seals, emblems, and badges the corporation adopts.
 
@@ -170,11 +170,11 @@ The corporation has the exclusive right to use the name “National Conference o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150707 | 36:446. | Aug. 13, 1953, ch. 427, § 16, 67 Stat. 565. |
+| 150707 | 36:446. | Aug. 13, 1953, ch. 427, § 16, 67 Stat. 565. |
 
 The word “sole” is omitted as unnecessary and for consistency in the revised title.
 
-## § 150708. Restrictions
+## § 150708. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -190,7 +190,7 @@ The word “sole” is omitted as unnecessary and for consistency in the revised
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150708(a) | 36:442. | Aug. 13, 1953, ch. 427, §§ 9, 10, 12, 67 Stat. 564, 565. |
+| 150708(a) | 36:442. | Aug. 13, 1953, ch. 427, §§ 9, 10, 12, 67 Stat. 564, 565. |
 | 150708(b) | 36:440. |  |
 | 150708(c) | 36:439(a). |  |
 | 150708(d) | 36:439(b). |  |
@@ -199,7 +199,7 @@ In subsection (a), the words “any shares of” and “its objects and purposes
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “such person, agency, or organization” are interpreted as referring to a “member, officer, or director” and are omitted as unnecessary. The words “as provided in section 445 of this title” are omitted as unnecessary. The words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent” to eliminate unnecessary words.
 
-## § 150709. Headquarters and principal office
+## § 150709. Headquarters and principal office
 
 The headquarters and principal office of the corporation shall be in the District of Columbia, Maryland, or Virginia. However, the activities of the corporation are not confined to the District of Columbia, Maryland, and Virginia but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -209,11 +209,11 @@ The headquarters and principal office of the corporation shall be in the Distric
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150709 | 36:435(a). | Aug. 13, 1953, ch. 427, § 5(a), 67 Stat. 563. |
+| 150709 | 36:435(a). | Aug. 13, 1953, ch. 427, § 5(a), 67 Stat. 563. |
 
 The word “office” is substituted for “offices” for consistency with section 150710 and other sections of the revised title. The words “the States of” and “various” are omitted as unnecessary.
 
-## § 150710. Records and inspection
+## § 150710. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -231,11 +231,11 @@ The word “office” is substituted for “offices” for consistency with sect
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150710 | 36:443. | Aug. 13, 1953, ch. 427, § 13, 67 Stat. 565. |
+| 150710 | 36:443. | Aug. 13, 1953, ch. 427, § 13, 67 Stat. 565. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 150711. Service of process
+## § 150711. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -245,11 +245,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150711 | 36:435(b). | Aug. 13, 1953, ch. 427, § 5(b), 67 Stat. 563. |
+| 150711 | 36:435(b). | Aug. 13, 1953, ch. 427, § 5(b), 67 Stat. 563. |
 
 The word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed sufficient notice or service upon”, for consistency in the revised title.
 
-## § 150712. Liability for acts of officers and agents
+## § 150712. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -259,9 +259,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150712 | 36:441. | Aug. 13, 1953, ch. 427, § 11, 67 Stat. 565. |
+| 150712 | 36:441. | Aug. 13, 1953, ch. 427, § 11, 67 Stat. 565. |
 
-## § 150713. Distribution of assets on dissolution or final liquidation
+## § 150713. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be transferred by the board of directors to a recognized agency or agencies engaged in the furtherance and advancement of citizenship.
 
@@ -271,6 +271,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150713 | 36:445. | Aug. 13, 1953, ch. 427, § 15, 67 Stat. 565. |
+| 150713 | 36:445. | Aug. 13, 1953, ch. 427, § 15, 67 Stat. 565. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

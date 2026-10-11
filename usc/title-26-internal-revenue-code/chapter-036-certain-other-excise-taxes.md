@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–21, title VII, § 70604(b), July 4, 2025, 139 Stat. 286, added item for subchapter C.
+2025—Pub. L. 119–21, title VII, § 70604(b), July 4, 2025, 139 Stat. 286, added item for subchapter C.
 
-1997—Pub. L. 105–34, title XIV, § 1432(b)(2), Aug. 5, 1997, 110 Stat. 1050, struck out item for subchapter F “Tax on removal of hard mineral resources from deep seabed”.
+1997—Pub. L. 105–34, title XIV, § 1432(b)(2), Aug. 5, 1997, 110 Stat. 1050, struck out item for subchapter F “Tax on removal of hard mineral resources from deep seabed”.
 
-1989—Pub. L. 101–239, title VII, § 7504(b), Dec. 19, 1989, 103 Stat. 2363, added item for subchapter B.
+1989—Pub. L. 101–239, title VII, § 7504(b), Dec. 19, 1989, 103 Stat. 2363, added item for subchapter B.
 
-1986—Pub. L. 99–662, title XIV, § 1402(b), Nov. 17, 1986, 100 Stat. 4269, added item for subchapter A.
+1986—Pub. L. 99–662, title XIV, § 1402(b), Nov. 17, 1986, 100 Stat. 4269, added item for subchapter A.
 
-1982—Pub. L. 97–248, title II, § 280(c)(2)(A), Sept. 3, 1982, 96 Stat. 564, struck out item for subchapter E.
+1982—Pub. L. 97–248, title II, § 280(c)(2)(A), Sept. 3, 1982, 96 Stat. 564, struck out item for subchapter E.
 
-1980—Pub. L. 96–283, title IV, § 402(b), June 28, 1980, 94 Stat. 584, added item for subchapter F.
+1980—Pub. L. 96–283, title IV, § 402(b), June 28, 1980, 94 Stat. 584, added item for subchapter F.
 
-1970—Pub. L. 91–258, title II, § 206(d)(1), May 21, 1970, 84 Stat. 246, added item for subchapter E.
+1970—Pub. L. 91–258, title II, § 206(d)(1), May 21, 1970, 84 Stat. 246, added item for subchapter E.
 
-1965—Pub. L. 89–44, title IV, §§ 402, 404, June 21, 1965, 79 Stat. 148, 149, struck out items for subchapters A and C.
+1965—Pub. L. 89–44, title IV, §§ 402, 404, June 21, 1965, 79 Stat. 148, 149, struck out items for subchapters A and C.
 
-1956—Act June 29, 1956, ch. 462, title II, § 206(c), 70 Stat. 391, added item for subchapter D.
+1956—Act June 29, 1956, ch. 462, title II, § 206(c), 70 Stat. 391, added item for subchapter D.
 
 ## Subchapter A—Harbor Maintenance Tax
 
@@ -43,9 +43,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior subchapter A (§§ 4451 to 4457), act Aug. 16, 1954, ch. 736, 68A Stat. 529, 530, related to tax on playing cards, prior to repeal by Pub. L. 89–44, title IV, § 402, June 21, 1965, 79 Stat. 148. Repeal of sections 4451 to 4457 applicable on and after June 22, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4905 of this title.
+A prior subchapter A (§§ 4451 to 4457), act Aug. 16, 1954, ch. 736, 68A Stat. 529, 530, related to tax on playing cards, prior to repeal by Pub. L. 89–44, title IV, § 402, June 21, 1965, 79 Stat. 148. Repeal of sections 4451 to 4457 applicable on and after June 22, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4905 of this title.
 
-### § 4461. Imposition of tax
+### § 4461. Imposition of tax
 
 **(a) General rule**
 
@@ -67,7 +67,7 @@ The amount of the tax imposed by subsection (a) on any port use shall be an amou
 
 Except as provided by regulations, the tax imposed by subsection (a) shall be imposed at the time of unloading.
 
-(Added Pub. L. 99–662, title XIV, § 1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 101–508, title XI, § 11214(a), Nov. 5, 1990, 104 Stat. 1388–436; Pub. L. 109–59, title XI, § 11116(b), Aug. 10, 2005, 119 Stat. 1951.)
+(Added Pub. L. 99–662, title XIV, § 1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 101–508, title XI, § 11214(a), Nov. 5, 1990, 104 Stat. 1388–436; Pub. L. 109–59, title XI, § 11116(b), Aug. 10, 2005, 119 Stat. 1951.)
 
 **Editorial Notes**
 
@@ -77,9 +77,9 @@ For prior section 4461, see Prior Provisions note set out preceding section 4471
 
 **Amendments**
 
-2005—Subsec. (c)(1). Pub. L. 109–59, § 11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
+2005—Subsec. (c)(1). Pub. L. 109–59, § 11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
 
-Subsec. (c)(2). Pub. L. 109–59, § 11116(b)(2), substituted “imposed” for “imposed—
+Subsec. (c)(2). Pub. L. 109–59, § 11116(b)(2), substituted “imposed” for “imposed—
 
 “(A) in the case of cargo to be exported from the United States, at the time of loading, and
 
@@ -91,25 +91,25 @@ Subsec. (c)(2). Pub. L. 109–59, § 11116(b)(2), substituted “imposed” fo
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11116(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section [amending this section and section 4462 of this title] shall take effect before, on, and after the date of the enactment of this Act [Aug. 10, 2005].”
+Pub. L. 109–59, title XI, § 11116(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section [amending this section and section 4462 of this title] shall take effect before, on, and after the date of the enactment of this Act [Aug. 10, 2005].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11214(b), Nov. 5, 1990, 104 Stat. 1388–436, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, § 11214(b), Nov. 5, 1990, 104 Stat. 1388–436, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1991.”
 
 **Effective Date**
 
-Pub. L. 99–662, title XIV, § 1402(c), Nov. 17, 1986, 100 Stat. 4269, provided that: “The amendments made by this section [enacting this section and section 4462 of this title] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, § 1402(c), Nov. 17, 1986, 100 Stat. 4269, provided that: “The amendments made by this section [enacting this section and section 4462 of this title] shall take effect on April 1, 1987.”
 
 **Authorization of Appropriations**
 
-Pub. L. 99–662, title XIV, § 1403(b), Nov. 17, 1986, 100 Stat. 4270, authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by Pub. L. 103–182, title VI, § 690(c)(8), Dec. 8, 1993, 107 Stat. 2223.
+Pub. L. 99–662, title XIV, § 1403(b), Nov. 17, 1986, 100 Stat. 4270, authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by Pub. L. 103–182, title VI, § 690(c)(8), Dec. 8, 1993, 107 Stat. 2223.
 
 **Study of Cargo Diversion**
 
-Pub. L. 99–662, title XIV, § 1407, Nov. 17, 1986, 100 Stat. 4272, as amended by Pub. L. 100–647, title II, § 2002(c), Nov. 10, 1988, 102 Stat. 3597, provided that the Secretary of the Treasury would conduct a study to determine the impact of the port use tax imposed under this section on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States, and submit the report of the study to Congress not later than Dec. 1, 1988.
+Pub. L. 99–662, title XIV, § 1407, Nov. 17, 1986, 100 Stat. 4272, as amended by Pub. L. 100–647, title II, § 2002(c), Nov. 10, 1988, 102 Stat. 3597, provided that the Secretary of the Treasury would conduct a study to determine the impact of the port use tax imposed under this section on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States, and submit the report of the study to Congress not later than Dec. 1, 1988.
 
-### § 4462. Definitions and special rules
+### § 4462. Definitions and special rules
 
 **(a) Definitions** For purposes of this subchapter—
 
@@ -251,7 +251,7 @@ No tax shall be imposed under this subchapter on any nonprofit organization or c
 
 **(4)** providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added Pub. L. 99–662, title XIV, § 1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, § 2002(b), title VI, §§ 6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, § 1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, § 11116(a), Aug. 10, 2005, 119 Stat. 1950.)
+(Added Pub. L. 99–662, title XIV, § 1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, § 2002(b), title VI, §§ 6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, § 1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, § 11116(a), Aug. 10, 2005, 119 Stat. 1950.)
 
 **Editorial Notes**
 
@@ -263,13 +263,13 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 
 2005—Subsec. (d). Pub. L. 109–59 amended heading and text of subsec. (d) generally, substituting provisions relating to nonapplicability of tax imposed by section 4461(a) to exports for provisions relating to nonapplicability of tax imposed by section 4461(a) to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country and inapplicability of this provision to certain cargo exported to Canada or Mexico.
 
-1996—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
+1996—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–647, § 2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+1988—Subsec. (b)(1)(B). Pub. L. 100–647, § 2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
 
-Subsec. (g)(3). Pub. L. 100–647, § 6110(a), added par. (3).
+Subsec. (g)(3). Pub. L. 100–647, § 6110(a), added par. (3).
 
-Subsecs. (h), (i). Pub. L. 100–647, § 6109(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 100–647, § 6109(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,15 +279,15 @@ Amendment by Pub. L. 109–59 effective before, on, and after Aug. 10, 2005, see
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1704(i)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 [Pub. L. 99–662, title XIV].”
+Pub. L. 104–188, title I, § 1704(i)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 [Pub. L. 99–662, title XIV].”
 
 **Effective Date of 1988 Amendment**
 
 Amendment by section 2002(b) of Pub. L. 100–647 effective as if included in the provision of the Harbor Maintenance Revenue Act of 1986, Pub. L. 99–662, title XIV, to which it relates, see section 2002(d) of Pub. L. 100–647, set out as a note under section 4042 of this title.
 
-Pub. L. 100–647, title VI, § 6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on April 1, 1987.”
+Pub. L. 100–647, title VI, § 6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on April 1, 1987.”
 
-Pub. L. 100–647, title VI, § 6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date**
 
@@ -303,21 +303,21 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Prior Provisions**
 
-A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to repeal by Pub. L. 95–600, title V, § 521(b), Nov. 6, 1978, 92 Stat. 2884, applicable with respect to years beginning after June 30, 1980.
+A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to repeal by Pub. L. 95–600, title V, § 521(b), Nov. 6, 1978, 92 Stat. 2884, applicable with respect to years beginning after June 30, 1980.
 
-Section 4461, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 21, 1959, Pub. L. 86–344, § 6(a), 73 Stat. 620; June 21, 1965, Pub. L. 89–44, title IV, § 403(a), 79 Stat. 148, imposed a special tax on persons who maintained for use or permitted use of coin-operated gaming devices and provided an exception from such tax.
+Section 4461, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 21, 1959, Pub. L. 86–344, § 6(a), 73 Stat. 620; June 21, 1965, Pub. L. 89–44, title IV, § 403(a), 79 Stat. 148, imposed a special tax on persons who maintained for use or permitted use of coin-operated gaming devices and provided an exception from such tax.
 
-Section 4462, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 2, 1958, Pub. L. 85–859, title I, § 152(a), 72 Stat. 1304; June 21, 1965, Pub. L. 89–44, title IV, § 403(b), 79 Stat. 149; Oct. 4, 1976, Pub. L. 94–455, title XII, § 1208(b), 90 Stat. 1709, defined coin-operated gaming devices.
+Section 4462, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 2, 1958, Pub. L. 85–859, title I, § 152(a), 72 Stat. 1304; June 21, 1965, Pub. L. 89–44, title IV, § 403(b), 79 Stat. 149; Oct. 4, 1976, Pub. L. 94–455, title XII, § 1208(b), 90 Stat. 1709, defined coin-operated gaming devices.
 
 Section 4463, act Aug. 16, 1954, ch. 736, 68A Stat. 531, related to administrative provisions.
 
-Section 4464, added Pub. L. 92–178, title IV, § 402(a), Dec. 10, 1971, 85 Stat. 534, and amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, § 521(a), Nov. 6, 1978, 92 Stat. 2884, related to credit for State-imposed taxes.
+Section 4464, added Pub. L. 92–178, title IV, § 402(a), Dec. 10, 1971, 85 Stat. 534, and amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, § 521(a), Nov. 6, 1978, 92 Stat. 2884, related to credit for State-imposed taxes.
 
 **Amendments**
 
-1996—Pub. L. 104–188, title I, § 1704(t)(11), Aug. 20, 1996, 110 Stat. 1888, struck out “and special rules” after “Definitions” in item 4472.
+1996—Pub. L. 104–188, title I, § 1704(t)(11), Aug. 20, 1996, 110 Stat. 1888, struck out “and special rules” after “Definitions” in item 4472.
 
-### § 4471. Imposition of tax
+### § 4471. Imposition of tax
 
 **(a) In general**
 
@@ -331,25 +331,25 @@ The tax imposed by this section shall be paid by the person providing the covere
 
 The tax imposed by this section shall be imposed only once for each passenger on a covered voyage, either at the time of first embarkation or disembarkation in the United States.
 
-(Added Pub. L. 101–239, title VII, § 7504(a), Dec. 19, 1989, 103 Stat. 2362.)
+(Added Pub. L. 101–239, title VII, § 7504(a), Dec. 19, 1989, 103 Stat. 2362.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4471 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149.
+A prior section 4471 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–239, title VII, § 7504(c), Dec. 19, 1989, 103 Stat. 2363, provided that:
+Pub. L. 101–239, title VII, § 7504(c), Dec. 19, 1989, 103 Stat. 2363, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this subchapter] shall apply to voyages beginning after December 31, 1989, which were not paid for before such date.
 
 > **“(2) No deposits required before april 1, 1990.—** No deposit of any tax imposed by subchapter B of chapter 36 of the Internal Revenue Code of 1986, as added by this section, shall be required to be made before April 1, 1990.”
 
-### § 4472. Definitions
+### § 4472. Definitions
 
 For purposes of this subchapter—
 
@@ -371,13 +371,13 @@ The term “covered voyage” shall not include a voyage of a passenger vessel o
 
 The term “passenger vessel” means any vessel having berth or stateroom accommodations for more than 16 passengers.
 
-(Added Pub. L. 101–239, title VII, § 7504(a), Dec. 19, 1989, 103 Stat. 2362.)
+(Added Pub. L. 101–239, title VII, § 7504(a), Dec. 19, 1989, 103 Stat. 2362.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4472 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149.
+A prior section 4472 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149.
 
 ## Subchapter C—Remittance Transfers
 
@@ -385,17 +385,17 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 
 **Prior Provisions**
 
-A prior subchapter C consisted of sections 4471 to 4474 of this title, prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149. Repeal of sections 4471 to 4474 applicable on and after July 1, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4402 of this title.
+A prior subchapter C consisted of sections 4471 to 4474 of this title, prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149. Repeal of sections 4471 to 4474 applicable on and after July 1, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4402 of this title.
 
 Section 4471, act Aug. 16, 1954, ch. 736, 68A Stat. 532, imposed a $20 annual tax upon bowling alleys, billiard tables, and pool tables to be paid by operators of bowling alleys, billiard rooms, and pool rooms.
 
 Section 4472, act Aug. 16, 1954, ch. 736, 68A Stat. 532, defined bowling alley, billiard room, and pool room.
 
-Section 4473, acts Aug. 16, 1954, ch. 736, 68A Stat. 532; Sept. 2, 1958, Pub. L. 85–859, title I, § 153(a), 72 Stat. 1305, granted exemptions for hospitals, the armed forces, and certain non-profit and governmental organizations.
+Section 4473, acts Aug. 16, 1954, ch. 736, 68A Stat. 532; Sept. 2, 1958, Pub. L. 85–859, title I, § 153(a), 72 Stat. 1305, granted exemptions for hospitals, the armed forces, and certain non-profit and governmental organizations.
 
 Section 4474, act Aug. 16, 1954, ch. 736, 68A Stat. 532, made cross references to chapter 40 and subtitle F for penalties and administrative provisions.
 
-### § 4475. Imposition of tax
+### § 4475. Imposition of tax
 
 **(a) In general**
 
@@ -411,7 +411,7 @@ The tax imposed by this section with respect to any remittance transfer shall be
 
 The remittance transfer provider with respect to any remittance transfer shall collect the amount of the tax imposed under subsection (a) with respect to such transfer from the sender and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary,1
 
-<sup>1</sup>  So in original. The comma probably should be a period.
+<sup>1</sup> So in original. The comma probably should be a period.
 
 **(3) Secondary liability**
 
@@ -449,13 +449,13 @@ The term “debit card” has the same meaning given such term under section 920
 
 For purposes of section 7701(*l*), with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction.
 
-(Added Pub. L. 119–21, title VII, § 70604(a), July 4, 2025, 139 Stat. 285.)
+(Added Pub. L. 119–21, title VII, § 70604(a), July 4, 2025, 139 Stat. 285.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 119–21, title VII, § 70604(c), July 4, 2025, 139 Stat. 286, provided that: “The amendments made by this section [enacting this subchapter] shall apply to transfers made after December 31, 2025.”
+Pub. L. 119–21, title VII, § 70604(c), July 4, 2025, 139 Stat. 286, provided that: “The amendments made by this section [enacting this subchapter] shall apply to transfers made after December 31, 2025.”
 
 ## Subchapter D—Tax on Use of Certain Vehicles
 
@@ -463,11 +463,11 @@ Pub. L. 119–21, title VII, § 70604(c), July 4, 2025, 139 Stat. 286, provide
 
 **Amendments**
 
-1983—Pub. L. 97–473, title II, § 202(b)(11), Jan. 14, 1983, 96 Stat. 2610, substituted “Cross references” for “Cross reference” in item 4484.
+1983—Pub. L. 97–473, title II, § 202(b)(11), Jan. 14, 1983, 96 Stat. 2610, substituted “Cross references” for “Cross reference” in item 4484.
 
-1956—Act June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 389, added subchapter heading and analysis of sections.
+1956—Act June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 389, added subchapter heading and analysis of sections.
 
-### § 4481. Imposition of tax
+### § 4481. Imposition of tax
 
 **(a) Imposition of tax**
 
@@ -510,7 +510,7 @@ Any taxpayer who files a return under this section with respect to 25 or more ve
 
 The tax imposed by this section shall apply only to use before October 1, 2029.
 
-(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, § 203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, § 303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, § 734(f), title IX, § 901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§ 502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, § 11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, § 1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, § 9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, § 867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, § 9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(b)(1), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(b)(1), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–141, div. D, title I, § 40102(b)(1)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, § 401(b)(43), Mar. 23, 2018, 132 Stat. 1204; Pub. L. 117–58, div. H, title I, § 80102(b)(1), Nov. 15, 2021, 135 Stat. 1327.)
+(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, § 203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, § 303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, § 734(f), title IX, § 901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§ 502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, § 11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, § 1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, § 9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, § 867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, § 9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(b)(1), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(b)(1), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–141, div. D, title I, § 40102(b)(1)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, § 401(b)(43), Mar. 23, 2018, 132 Stat. 1204; Pub. L. 117–58, div. H, title I, § 80102(b)(1), Nov. 15, 2021, 135 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -536,11 +536,11 @@ Pub. L. 112–102 substituted “2013” for “2012”.
 
 Pub. L. 109–14 substituted “2006” for “2005”.
 
-2004—Subsec. (c)(2). Pub. L. 108–357, § 867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
+2004—Subsec. (c)(2). Pub. L. 108–357, § 867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
 
-Subsec. (c)(2)(A). Pub. L. 108–357, § 867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
+Subsec. (c)(2)(A). Pub. L. 108–357, § 867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
 
-Subsecs. (e), (f). Pub. L. 108–357, § 867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 108–357, § 867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1998—Subsec. (e). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -550,11 +550,11 @@ Subsecs. (e), (f). Pub. L. 108–357, § 867(c), added subsec. (e) and redesig
 
 1990—Subsec. (e). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1987—Subsec. (b). Pub. L. 100–17, § 507(a), inserted “or contiguous foreign country” after “State”.
+1987—Subsec. (b). Pub. L. 100–17, § 507(a), inserted “or contiguous foreign country” after “State”.
 
-Subsec. (e). Pub. L. 100–17, § 502(a)(5), substituted “1993” for “1988”.
+Subsec. (e). Pub. L. 100–17, § 502(a)(5), substituted “1993” for “1988”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
+1984—Subsec. (a). Pub. L. 98–369, § 901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
 
 <table>
 <tr><th colspan="2">Taxable gross weight</th><th rowspan="2">Rate of tax</th></tr>
@@ -566,33 +566,33 @@ Subsec. (e). Pub. L. 100–17, § 502(a)(5), substituted “1993” for “198
 
 and struck out par. (2) which provided applicable rates and maximum taxes for taxable periods beginning July 1, 1984 through 1988 or thereafter.
 
-Pub. L. 98–369, § 734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
+Pub. L. 98–369, § 734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 97–424, § 513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
+1983—Subsec. (a). Pub. L. 97–424, § 513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
 
-Subsec. (c). Pub. L. 97–424, § 513(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 97–424, § 513(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 97–424, § 516(a)(4), substituted “1988” for “1984” after “October 1,”.
+Subsec. (e). Pub. L. 97–424, § 516(a)(4), substituted “1988” for “1984” after “October 1,”.
 
-1978—Subsec. (a). Pub. L. 95–599, § 502(a)(6), substituted “1984” for “1979” in two places.
+1978—Subsec. (a). Pub. L. 95–599, § 502(a)(6), substituted “1984” for “1979” in two places.
 
-Subsec. (e). Pub. L. 95–599, § 502(a)(7), substituted “1984” for “1979”.
+Subsec. (e). Pub. L. 95–599, § 502(a)(7), substituted “1984” for “1979”.
 
-1976—Subsec. (a). Pub. L. 94–280, § 303(a)(7), substituted “1979” for “1977” in two places.
+1976—Subsec. (a). Pub. L. 94–280, § 303(a)(7), substituted “1979” for “1977” in two places.
 
-Subsec. (e). Pub. L. 94–280, § 303(a)(8), substituted “1979” for “1977”.
+Subsec. (e). Pub. L. 94–280, § 303(a)(8), substituted “1979” for “1977”.
 
-1970—Subsec. (a). Pub. L. 91–605, § 303(a)(7), substituted “1977” for “1972” in two places.
+1970—Subsec. (a). Pub. L. 91–605, § 303(a)(7), substituted “1977” for “1972” in two places.
 
-Subsec. (e). Pub. L. 91–605, § 303(a)(8), substituted “1977” for “1972”.
+Subsec. (e). Pub. L. 91–605, § 303(a)(8), substituted “1977” for “1972”.
 
-1961—Subsec. (a). Pub. L. 87–61, § 203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
+1961—Subsec. (a). Pub. L. 87–61, § 203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
-Subsec. (c). Pub. L. 87–61, § 203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
+Subsec. (c). Pub. L. 87–61, § 203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
 
-Subsec. (d). Pub. L. 87–61, § 203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
+Subsec. (d). Pub. L. 87–61, § 203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
-Subsec. (e). Pub. L. 87–61, § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+Subsec. (e). Pub. L. 87–61, § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -616,25 +616,25 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub.
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–14, § 9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section [amending this section and sections 4482, 4483, 9503, and 9504 of this title] shall take effect on the date of the enactment of this Act [May 31, 2005].”
+Pub. L. 109–14, § 9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section [amending this section and sections 4482, 4483, 9503, and 9504 of this title] shall take effect on the date of the enactment of this Act [May 31, 2005].”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 867(e), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendments made by this section [amending this section and section 4483 of this title and repealing section 6156 of this title] shall apply to taxable periods beginning after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 867(e), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendments made by this section [amending this section and section 4483 of this title and repealing section 6156 of this title] shall apply to taxable periods beginning after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–17, title V, § 507(d), Apr. 2, 1987, 101 Stat. 260, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4483 of this title] shall take effect on July 1, 1987.”
+Pub. L. 100–17, title V, § 507(d), Apr. 2, 1987, 101 Stat. 260, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4483 of this title] shall take effect on July 1, 1987.”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
-Pub. L. 98–369, div. A, title IX, § 901(c), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by subsection (a) [amending this section] (and the provisions of subsection (b) [set out below]) shall take effect on July 1, 1984.”
+Pub. L. 98–369, div. A, title IX, § 901(c), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by subsection (a) [amending this section] (and the provisions of subsection (b) [set out below]) shall take effect on July 1, 1984.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–424, title V, § 513(f), Jan. 6, 1983, 96 Stat. 2179, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–424, title V, § 513(f), Jan. 6, 1983, 96 Stat. 2179, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 4482 and 4483 of this title and enacting provisions set out below] shall take effect on July 1, 1984.
 
@@ -670,7 +670,7 @@ Section effective June 29, 1956, see section 211 of act June 29, 1956, set out a
 
 **Regulations**
 
-Pub. L. 100–17, title V, § 507(c), Apr. 2, 1987, 101 Stat. 260, provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section [Apr. 2, 1987] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
+Pub. L. 100–17, title V, § 507(c), Apr. 2, 1987, 101 Stat. 260, provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section [Apr. 2, 1987] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
 
 **Savings Provision**
 
@@ -678,7 +678,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Special Rules in the Case of Certain Owner-Operators**
 
-Pub. L. 98–369, div. A, title IX, § 901(b), July 18, 1984, 98 Stat. 1003, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title IX, § 901(b), July 18, 1984, 98 Stat. 1003, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) Special rule for taxable period beginning on july 1, 1984.—** In the case of a small owner-operator, the amount of the tax imposed by section 4481 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on the use of any highway motor vehicle subject to tax under section 4481(a) of such Code (as amended by subsection (a)) for the taxable period which begins on July 1, 1984, shall be the lesser of—
 
@@ -694,13 +694,13 @@ Pub. L. 98–369, div. A, title IX, § 901(b), July 18, 1984, 98 Stat. 1003, a
 
 **Studies Relating to Heavy Vehicle Use Tax**
 
-Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
+Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, would conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system, a study to determine the significance of the tax imposed by this section (relating to tax on use of certain vehicles) on trans-border trucking operations, and a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered, and submit to Congress a report of each study, together with any recommendations, by Oct. 1, 1987.
 
 **Study of Alternatives to Tax on Use of Heavy Trucks**
 
-Pub. L. 97–424, title V, § 513(g), Jan. 6, 1983, 96 Stat. 2180, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
+Pub. L. 97–424, title V, § 513(g), Jan. 6, 1983, 96 Stat. 2180, provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
 
-### § 4482. Definitions
+### § 4482. Definitions
 
 **(a) Highway motor vehicle**
 
@@ -744,7 +744,7 @@ A semitrailer or trailer shall be treated as customarily used in connection with
 
 In the case of the taxable period which ends on September 30, 2029, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
-(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, § 203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, § 303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§ 1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, § 502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§ 513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, § 502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, § 11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, § 9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(b)(2), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(b)(2), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(e), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(b)(1)(B), (2)(A), July 6, 2012, 126 Stat. 845; Pub. L. 114–94, div. C, title XXXI, § 31102(b)(2), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(b)(2), Nov. 15, 2021, 135 Stat. 1327.)
+(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, § 203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, § 303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§ 1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, § 502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§ 513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, § 502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, § 11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, § 8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, § 9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(b)(2), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(b)(2), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(e), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(b)(1)(B), (2)(A), July 6, 2012, 126 Stat. 845; Pub. L. 114–94, div. C, title XXXI, § 31102(b)(2), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(b)(2), Nov. 15, 2021, 135 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -754,13 +754,13 @@ In the case of the taxable period which ends on September 30, 2029, the amount o
 
 2015—Subsecs. (c)(4), (d). Pub. L. 114–94 substituted “2023” for “2017” wherever appearing.
 
-2012—Subsec. (c)(4). Pub. L. 112–141, § 40102(b)(2)(A), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘taxable period’ means any year beginning before July 1, 2013, and the period which begins on July 1, 2013, and ends at the close of September 30, 2013.”
+2012—Subsec. (c)(4). Pub. L. 112–141, § 40102(b)(2)(A), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘taxable period’ means any year beginning before July 1, 2013, and the period which begins on July 1, 2013, and ends at the close of September 30, 2013.”
 
-Pub. L. 112–140, §§ 1(c), 402(e), temporarily amended par. (4) generally, resulting in text identical to that after amendment by Pub. L. 112–102. See Amendment and Effective and Termination Dates of 2012 Amendment notes below.
+Pub. L. 112–140, §§ 1(c), 402(e), temporarily amended par. (4) generally, resulting in text identical to that after amendment by Pub. L. 112–102. See Amendment and Effective and Termination Dates of 2012 Amendment notes below.
 
 Pub. L. 112–102 substituted “2013” for “2012” wherever appearing.
 
-Subsec. (d). Pub. L. 112–141, § 40102(b)(1)(B), substituted “2017” for “2013”.
+Subsec. (d). Pub. L. 112–141, § 40102(b)(1)(B), substituted “2017” for “2013”.
 
 Pub. L. 112–102 substituted “2013” for “2012”.
 
@@ -778,19 +778,19 @@ Pub. L. 109–14 substituted “2006” for “2005” wherever appearing.
 
 1987—Subsecs. (c)(4), (d). Pub. L. 100–17 substituted “1993” for “1988” wherever appearing.
 
-1983—Subsec. (c). Pub. L. 97–424, § 513(c)(2), inserted “and special rule” in heading.
+1983—Subsec. (c). Pub. L. 97–424, § 513(c)(2), inserted “and special rule” in heading.
 
-Subsec. (c)(4). Pub. L. 97–424, § 516(a)(4), substituted “1988” for “1984” wherever appearing.
+Subsec. (c)(4). Pub. L. 97–424, § 516(a)(4), substituted “1988” for “1984” wherever appearing.
 
-Subsec. (c)(5). Pub. L. 97–424, § 513(c)(1), added par. (5).
+Subsec. (c)(5). Pub. L. 97–424, § 513(c)(1), added par. (5).
 
-Subsec. (d). Pub. L. 97–424, § 513(e), added subsec. (d).
+Subsec. (d). Pub. L. 97–424, § 513(e), added subsec. (d).
 
 1978—Subsec. (c)(4). Pub. L. 95–599 substituted “1984” for “1979” wherever appearing.
 
-1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(1). Pub. L. 94–455, § 1904(c), substituted “State and the District of Columbia” for “State, a Territory of the United States, and the District of Columbia”.
+Subsec. (c)(1). Pub. L. 94–455, § 1904(c), substituted “State and the District of Columbia” for “State, a Territory of the United States, and the District of Columbia”.
 
 Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever appearing.
 
@@ -810,7 +810,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pu
 
 **Effective and Termination Dates of 2012 Amendment**
 
-Pub. L. 112–141, div. D, title I, § 40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: “The amendment made by this paragraph [amending this section] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II [Pub. L. 112–30].”
+Pub. L. 112–141, div. D, title I, § 40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: “The amendment made by this paragraph [amending this section] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II [Pub. L. 112–30].”
 
 Amendment by section 40102(b)(1)(B) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
@@ -840,7 +840,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the case of a small owner-operator, notwithstanding section 513(f)(2) of Pub. L. 97–424, see section 901(b)(2) of Pub. L. 98–369, set out as a note under section 4481 of this title.
 
-### § 4483. Exemptions
+### § 4483. Exemptions
 
 **(a) State and local governmental exemption**
 
@@ -928,7 +928,7 @@ For purposes of this subsection, the term “owner” means, with respect to any
 
 **(2)** such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
 
-**[(f) Repealed. Pub. L. 108–357, title VIII, § 867(d), Oct. 22, 2004, 118 Stat. 1622]**
+**[(f) Repealed. Pub. L. 108–357, title VIII, § 867(d), Oct. 22, 2004, 118 Stat. 1622]**
 
 **(g) Exemption for mobile machinery**
 
@@ -956,7 +956,7 @@ The term “qualified blood collector organization” has the meaning given such
 
 Subsections (a) and (c) shall not apply on and after October 1, 2029.
 
-(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, § 233(a)(3)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §§ 513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§ 902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§ 502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, § 11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(b)(2), June 9, 1998, 112 Stat. 500; Pub. L. 108–357, title VIII, §§ 851(b)(1), 867(d), Oct. 22, 2004, 118 Stat. 1607, 1622; Pub. L. 109–14, § 9(c)(4), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(b)(2), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, § 1207(d), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 112–30, title I, § 142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(d)(2), July 6, 2012, 126 Stat. 845; Pub. L. 114–94, div. C, title XXXI, § 31102(d)(2), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(d)(2), Nov. 15, 2021, 135 Stat. 1328.)
+(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, § 233(a)(3)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §§ 513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§ 902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§ 502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, § 11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(b)(2), June 9, 1998, 112 Stat. 500; Pub. L. 108–357, title VIII, §§ 851(b)(1), 867(d), Oct. 22, 2004, 118 Stat. 1607, 1622; Pub. L. 109–14, § 9(c)(4), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, § 11101(b)(2), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, § 1207(d), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 112–30, title I, § 142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, § 402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, § 402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, § 40102(d)(2), July 6, 2012, 126 Stat. 845; Pub. L. 114–94, div. C, title XXXI, § 31102(d)(2), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 117–58, div. H, title I, § 80102(d)(2), Nov. 15, 2021, 135 Stat. 1328.)
 
 **Editorial Notes**
 
@@ -972,7 +972,7 @@ The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. 
 
 2012—Subsec. (i). Pub. L. 112–141 substituted “October 1, 2017” for “July 1, 2012”.
 
-Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
@@ -984,9 +984,9 @@ Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 Pub. L. 109–14 substituted “2006” for “2005”.
 
-2004—Subsec. (f). Pub. L. 108–357, § 867(d), struck out heading and text of subsec. (f). Text read as follows: “If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.”
+2004—Subsec. (f). Pub. L. 108–357, § 867(d), struck out heading and text of subsec. (f). Text read as follows: “If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.”
 
-Subsecs. (g), (h). Pub. L. 108–357, § 851(b)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 108–357, § 851(b)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1998—Subsec. (g). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -994,25 +994,25 @@ Subsecs. (g), (h). Pub. L. 108–357, § 851(b)(1), added subsec. (g) and rede
 
 1990—Subsec. (g). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1987—Subsec. (f). Pub. L. 100–17, § 507(b), added subsec. (f). Former subsec. (f) redesignated (g).
+1987—Subsec. (f). Pub. L. 100–17, § 507(b), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 100–17, § 502(b)(5), substituted “1993” for “1988”.
+Pub. L. 100–17, § 502(b)(5), substituted “1993” for “1988”.
 
-Subsec. (g). Pub. L. 100–17, § 507(b), redesignated former subsec. (f) as (g).
+Subsec. (g). Pub. L. 100–17, § 507(b), redesignated former subsec. (f) as (g).
 
-1984—Subsec. (d)(5), (6). Pub. L. 98–369, § 903(a), added par. (5) and redesignated former par. (5) as (6).
+1984—Subsec. (d)(5), (6). Pub. L. 98–369, § 903(a), added par. (5) and redesignated former par. (5) as (6).
 
-Subsecs. (e), (f). Pub. L. 98–369, § 902(a), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 98–369, § 902(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (d). Pub. L. 97–424, § 513(b), added subsec. (d).
+1983—Subsec. (d). Pub. L. 97–424, § 513(b), added subsec. (d).
 
-Subsec. (e). Pub. L. 97–424, § 516(b)(3), added subsec. (e).
+Subsec. (e). Pub. L. 97–424, § 516(b)(3), added subsec. (e).
 
 1978—Subsec. (c). Pub. L. 95–618 inserted “(as in effect on the day before the date of the enactment of the Energy Tax Act of 1978)” after “section 6421(b)(2)”.
 
-1976—Subsecs. (a), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsecs. (a), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1044,7 +1044,7 @@ Amendment by Pub. L. 109–280 effective Jan. 1, 2007, and applicable to taxable
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 851(b)(2), Oct. 22, 2004, 118 Stat. 1608, provided that: “The amendments made by this subsection [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 851(b)(2), Oct. 22, 2004, 118 Stat. 1608, provided that: “The amendments made by this subsection [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
 
 Amendment by section 867(d) of Pub. L. 108–357 applicable to taxable periods beginning after Oct. 22, 2004, see section 867(e) of Pub. L. 108–357, set out as a note under section 4481 of this title.
 
@@ -1054,9 +1054,9 @@ Amendment by section 507(b) of Pub. L. 100–17 effective July 1, 1987, see sect
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IX, § 902(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by this section [amending this section] shall take effect on July 1, 1984.”
+Pub. L. 98–369, div. A, title IX, § 902(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by this section [amending this section] shall take effect on July 1, 1984.”
 
-Pub. L. 98–369, div. A, title IX, § 903(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 513 of the Highway Revenue Act of 1982 [Pub. L. 97–424, see section 513(f) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note under section 4481 of this title].”
+Pub. L. 98–369, div. A, title IX, § 903(b), July 18, 1984, 98 Stat. 1004, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 513 of the Highway Revenue Act of 1982 [Pub. L. 97–424, see section 513(f) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note under section 4481 of this title].”
 
 **Effective Date of 1983 Amendment**
 
@@ -1070,13 +1070,13 @@ Amendment by Pub. L. 95–618 effective on first day of first calendar month whi
 
 Amendment by section 513(b) of Pub. L. 97–424 effective July 1, 1984, in the case of a small owner-operator, notwithstanding section 513(f)(2) of Pub. L. 97–424, see section 901(b)(2) of Pub. L. 98–369, set out as a note under section 4481 of this title.
 
-### § 4484. Cross references
+### § 4484. Cross references
 
 **(1)** For penalties and administrative provisions applicable to this subchapter, see subtitle F.
 
 **(2)** For exemption for uses by Indian tribal governments (or their subdivisions), see section 7871.
 
-(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 391; amended Pub. L. 97–473, title II, § 202(b)(10), Jan. 14, 1983, 96 Stat. 2610.)
+(Added June 29, 1956, ch. 462, title II, § 206(a), 70 Stat. 391; amended Pub. L. 97–473, title II, § 202(b)(10), Jan. 14, 1983, 96 Stat. 2610.)
 
 **Editorial Notes**
 
@@ -1096,15 +1096,15 @@ Section effective June 29, 1956, see section 211 of act June 29, 1956, set out a
 
 ## [Subchapter E—Repealed]
 
-### [§§ 4491 to 4494. Repealed. Pub. L. 97–248, title II, § 280(c)(1), Sept. 3, 1982, 96 Stat. 564]
+### [§§ 4491 to 4494. Repealed. Pub. L. 97–248, title II, § 280(c)(1), Sept. 3, 1982, 96 Stat. 564]
 
-Section 4491, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 243; amended Pub. L. 91–614, title III, § 305(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 96–298, § 1(c)(1), July 1, 1980, 94 Stat. 829, provided for imposition of a tax on use of civil aircraft.
+Section 4491, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 243; amended Pub. L. 91–614, title III, § 305(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 96–298, § 1(c)(1), July 1, 1980, 94 Stat. 829, provided for imposition of a tax on use of civil aircraft.
 
-Section 4492, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 243; amended Pub. L. 94–530, § 2(a), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705, provided definitions to be used for purposes of this subchapter.
+Section 4492, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 243; amended Pub. L. 94–530, § 2(a), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705, provided definitions to be used for purposes of this subchapter.
 
-Section 4493, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 244; amended Pub. L. 94–455, title XIX, §§ 1904(a)(13), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1814, 1834, enumerated special rules for payment of tax by lessees and certain persons engaged in foreign air commerce.
+Section 4493, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 244; amended Pub. L. 94–455, title XIX, §§ 1904(a)(13), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1814, 1834, enumerated special rules for payment of tax by lessees and certain persons engaged in foreign air commerce.
 
-Section 4494, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 245, provided a cross reference to subtitle F of this title for penalties and administrative provisions applicable to this subchapter.
+Section 4494, added Pub. L. 91–258, title II, § 206(a), May 21, 1970, 84 Stat. 245, provided a cross reference to subtitle F of this title for penalties and administrative provisions applicable to this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1114,16 +1114,16 @@ Repeal applicable with respect to transportation beginning after Aug. 31, 1982, 
 
 **Tax on Use of Aircraft**
 
-Pub. L. 96–298, § 1(c)(2), (3), July 1, 1980, 94 Stat. 829, set out various changes in the amount and rate of tax under former section 4491 of this title for period beginning on July 1, 1980, and ending on Oct. 1, 1980, and provided that due date for filing any tax return of tax imposed by such section 4491, with respect to any use after June 30, 1980, would not be earlier than Oct. 31, 1980.
+Pub. L. 96–298, § 1(c)(2), (3), July 1, 1980, 94 Stat. 829, set out various changes in the amount and rate of tax under former section 4491 of this title for period beginning on July 1, 1980, and ending on Oct. 1, 1980, and provided that due date for filing any tax return of tax imposed by such section 4491, with respect to any use after June 30, 1980, would not be earlier than Oct. 31, 1980.
 
 ## [Subchapter F—Repealed]
 
-### [§§ 4495 to 4498. Repealed. Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050]
+### [§§ 4495 to 4498. Repealed. Pub. L. 105–34, title XIV, § 1432(b)(1), Aug. 5, 1997, 111 Stat. 1050]
 
-Section 4495, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 582, provided for imposition of tax on removal of hard mineral resource from deep seabed.
+Section 4495, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 582, provided for imposition of tax on removal of hard mineral resource from deep seabed.
 
-Section 4496, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 583, defined terms for purposes of this subchapter.
+Section 4496, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 583, defined terms for purposes of this subchapter.
 
-Section 4497, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 583; amended Pub. L. 99–514, title XV, § 1511(c)(7), Oct. 22, 1986, 100 Stat. 2745, related to imputed values for commercially recoverable metals and minerals and provided for suspension of tax on minerals held for later processing.
+Section 4497, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 583; amended Pub. L. 99–514, title XV, § 1511(c)(7), Oct. 22, 1986, 100 Stat. 2745, related to imputed values for commercially recoverable metals and minerals and provided for suspension of tax on minerals held for later processing.
 
-Section 4498, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 584, provided for termination of tax imposed by section 4495.
+Section 4498, added Pub. L. 96–283, title IV, § 402(a), June 28, 1980, 94 Stat. 584, provided for termination of tax imposed by section 4495.

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 36—WATER RESOURCES DEVELOPMENT
 
-## § 2201. “Secretary” defined
+## § 2201. “Secretary” defined
 
 For purposes of this Act, the term “Secretary” means the Secretary of the Army.
 
-(Pub. L. 99–662, § 2, Nov. 17, 1986, 100 Stat. 4082.)
+(Pub. L. 99–662, § 2, Nov. 17, 1986, 100 Stat. 4082.)
 
 **Editorial Notes**
 
@@ -31,73 +31,73 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 118–272, § 101(a), Jan. 4, 2025, 138 Stat. 2992, provided that: “This Act [see Tables for classification] may be cited as the ‘Thomas R. Carper Water Resources Development Act of 2024’.”
+Pub. L. 118–272, § 101(a), Jan. 4, 2025, 138 Stat. 2992, provided that: “This Act [see Tables for classification] may be cited as the ‘Thomas R. Carper Water Resources Development Act of 2024’.”
 
-Pub. L. 118–272, div. A, § 1001, Jan. 4, 2025, 138 Stat. 2996, provided that: “This division [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2024’.”
+Pub. L. 118–272, div. A, § 1001, Jan. 4, 2025, 138 Stat. 2996, provided that: “This division [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2024’.”
 
-Pub. L. 118–272, div. A, title I, § 1160, Jan. 4, 2025, 138 Stat. 3046, provided that: “This subtitle [subtitle B (§§ 1160–1165) of title I of div. A of Pub. L. 118–272, enacting section 2281d of this title, amending section 390b–2 of Title 43, Public Lands, and enacting provisions set out as notes under section 2319 of this title] may be cited as the ‘Grace F. Napolitano Priority for Water Supply, Water Conservation, and Drought Resiliency Act of 2024’.”
+Pub. L. 118–272, div. A, title I, § 1160, Jan. 4, 2025, 138 Stat. 3046, provided that: “This subtitle [subtitle B (§§ 1160–1165) of title I of div. A of Pub. L. 118–272, enacting section 2281d of this title, amending section 390b–2 of Title 43, Public Lands, and enacting provisions set out as notes under section 2319 of this title] may be cited as the ‘Grace F. Napolitano Priority for Water Supply, Water Conservation, and Drought Resiliency Act of 2024’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8001(a), Dec. 23, 2022, 136 Stat. 3691, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2022’.”
+Pub. L. 117–263, div. H, title LXXXI, § 8001(a), Dec. 23, 2022, 136 Stat. 3691, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2022’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. AA, § 1(a), Dec. 27, 2020, 134 Stat. 2615, provided that: “This division [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2020’.”
+Pub. L. 116–260, div. AA, § 1(a), Dec. 27, 2020, 134 Stat. 2615, provided that: “This division [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–270, § 1(a), Oct. 23, 2018, 132 Stat. 3765, provided that: “This Act [see Tables for classification] may be cited as ‘America’s Water Infrastructure Act of 2018’.”
+Pub. L. 115–270, § 1(a), Oct. 23, 2018, 132 Stat. 3765, provided that: “This Act [see Tables for classification] may be cited as ‘America’s Water Infrastructure Act of 2018’.”
 
-Pub. L. 115–270, title I, § 101, Oct. 23, 2018, 132 Stat. 3768, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2018’.”
+Pub. L. 115–270, title I, § 101, Oct. 23, 2018, 132 Stat. 3768, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2018’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–322, § 1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Infrastructure Improvements for the Nation Act’ or the ‘WIIN Act’.”
+Pub. L. 114–322, § 1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Infrastructure Improvements for the Nation Act’ or the ‘WIIN Act’.”
 
-Pub. L. 114–322, title I, § 1001, Dec. 16, 2016, 130 Stat. 1632, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2016’.”
+Pub. L. 114–322, title I, § 1001, Dec. 16, 2016, 130 Stat. 1632, provided that: “This title [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2016’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–121, § 1(a), June 10, 2014, 128 Stat. 1193, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Reform and Development Act of 2014’.”
+Pub. L. 113–121, § 1(a), June 10, 2014, 128 Stat. 1193, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Reform and Development Act of 2014’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–114, § 1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2007’.”
+Pub. L. 110–114, § 1(a), Nov. 8, 2007, 121 Stat. 1041, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2007’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–541, § 1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2000’.”
+Pub. L. 106–541, § 1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 2000’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–53, § 1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1999’.”
+Pub. L. 106–53, § 1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1999’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–303, § 1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1996’.”
+Pub. L. 104–303, § 1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This Act [see Tables for classification] may be cited as the ‘Water Resources Development Act of 1996’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–580, § 1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act [enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467*l*, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands] may be cited as the ‘Water Resources Development Act of 1992’.”
+Pub. L. 102–580, § 1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act [enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467*l*, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands] may be cited as the ‘Water Resources Development Act of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–640, § 1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act [enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16] may be cited as the ‘Water Resources Development Act of 1990’.”
+Pub. L. 101–640, § 1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act [enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16] may be cited as the ‘Water Resources Development Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–676, § 1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act [enacting sections 59j–1, 59y, 59z, and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and section 1962d–5a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and section 1962d–5g of Title 42, and amending provisions set out as a note under section 2294 of this title] may be cited as the ‘Water Resources Development Act of 1988’.”
+Pub. L. 100–676, § 1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This Act [enacting sections 59j–1, 59y, 59z, and 2312 to 2315 of this title, amending sections 426j, 701b–12, 1293a, 2211, 2239, 2280, and 2291 of this title and section 1962d–5a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 579a, 988, 2211, 2294, 2300, and 2314 of this title, and section 1962d–5g of Title 42, and amending provisions set out as a note under section 2294 of this title] may be cited as the ‘Water Resources Development Act of 1988’.”
 
 **Short Title**
 
-Pub. L. 99–662, § 1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: “This Act [enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426*o*, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42] may be cited as the ‘Water Resources Development Act of 1986’.”
+Pub. L. 99–662, § 1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: “This Act [enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426*o*, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42] may be cited as the ‘Water Resources Development Act of 1986’.”
 
-Pub. L. 99–662, title II, § 215, Nov. 17, 1986, 100 Stat. 4109, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
+Pub. L. 99–662, title II, § 215, Nov. 17, 1986, 100 Stat. 4109, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
 **Notice to Congress Regarding WRDA Implementation**
 
-Pub. L. 118–272, div. A, title I, § 1102, Jan. 4, 2025, 138 Stat. 2997, provided that:
+Pub. L. 118–272, div. A, title I, § 1102, Jan. 4, 2025, 138 Stat. 2997, provided that:
 
 > **“(a) Plan of Implementation.—**
 
@@ -205,7 +205,7 @@ Pub. L. 118–272, div. A, title I, § 1102, Jan. 4, 2025, 138 Stat. 2997, pro
 
 **Continuing authority programs**
 
-Pub. L. 118–272, div. A, title I, § 1107(a), Jan. 4, 2025, 138 Stat. 3002, provided that:
+Pub. L. 118–272, div. A, title I, § 1107(a), Jan. 4, 2025, 138 Stat. 3002, provided that:
 
 > **“(a) Pilot Program for Alternative Project Delivery for Continuing Authority Program Projects.—**
 
@@ -293,7 +293,7 @@ Pub. L. 118–272, div. A, title I, § 1107(a), Jan. 4, 2025, 138 Stat. 3002, 
 
 **Prior Guidance**
 
-Pub. L. 118–272, div. A, title I, § 1150(c), Jan. 4, 2025, 138 Stat. 3042, provided that:
+Pub. L. 118–272, div. A, title I, § 1150(c), Jan. 4, 2025, 138 Stat. 3042, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall issue the guidance required pursuant to each of the following provisions:
 
@@ -311,7 +311,7 @@ Pub. L. 118–272, div. A, title I, § 1150(c), Jan. 4, 2025, 138 Stat. 3042, 
 
 **Public-Private Partnership User’s Guide**
 
-Pub. L. 118–272, div. A, title II, § 1241, Jan. 4, 2025, 138 Stat. 3090, provided that:
+Pub. L. 118–272, div. A, title II, § 1241, Jan. 4, 2025, 138 Stat. 3090, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall develop and make publicly available on an existing website of the Corps of Engineers a guide on the use of public-private partnerships for water resources development projects.
 
@@ -337,7 +337,7 @@ Pub. L. 118–272, div. A, title II, § 1241, Jan. 4, 2025, 138 Stat. 3090, pr
 
 **Environmental Infrastructure Pilot Program**
 
-Pub. L. 118–272, div. A, title III, § 1305, Jan. 4, 2025, 138 Stat. 3134, provided that:
+Pub. L. 118–272, div. A, title III, § 1305, Jan. 4, 2025, 138 Stat. 3134, provided that:
 
 > **“(a) In General.—** Notwithstanding subsection (b) of section 219 of the Water Resources Development Act of 1992 [Pub. L. 102–580] (106 Stat. 4835) and subject to the availability of appropriations, in carrying out projects under that section benefitting an economically disadvantaged community (as defined by the Secretary [of the Army] under section 160 of the Water Resources Development Act of 2020 [div. AA of Pub. L. 116–260] (33 U.S.C. 2201 note)), the Secretary may increase the Federal share of the cost of those projects to not more than 90 percent.
 
@@ -347,7 +347,7 @@ Pub. L. 118–272, div. A, title III, § 1305, Jan. 4, 2025, 138 Stat. 3134, p
 
 **Pilot Programs on the Formulation of Corps of Engineers Projects in Rural Communities and Economically Disadvantaged Communities**
 
-Pub. L. 116–260, div. AA, title I, § 118, Dec. 27, 2020, 134 Stat. 2629, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8118(a), Dec. 23, 2022, 136 Stat. 3710; Pub. L. 118–272, div. A, title III, § 1303(h), Jan. 4, 2025, 138 Stat. 3115, provided that:
+Pub. L. 116–260, div. AA, title I, § 118, Dec. 27, 2020, 134 Stat. 2629, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8118(a), Dec. 23, 2022, 136 Stat. 3710; Pub. L. 118–272, div. A, title III, § 1303(h), Jan. 4, 2025, 138 Stat. 3115, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall establish and implement pilot programs, in accordance with this section, to evaluate opportunities to address the flood risk management and hurricane and storm damage risk reduction needs of rural communities and economically disadvantaged communities.
 
@@ -441,7 +441,7 @@ Pub. L. 116–260, div. AA, title I, § 118, Dec. 27, 2020, 134 Stat. 2629, as
 
 **Non-Federal Project Implementation for Comprehensive Everglades Restoration Plan Projects**
 
-Pub. L. 116–260, div. AA, title I, § 134(b), Dec. 27, 2020, 134 Stat. 2649, provided that:
+Pub. L. 116–260, div. AA, title I, § 134(b), Dec. 27, 2020, 134 Stat. 2649, provided that:
 
 > **“(1) In general.—** In carrying out the pilot program authorized under section 1043(b) of the Water Resources Reform and Development Act of 2014 [Pub. L. 113–121] (33 U.S.C. 2201 note), the Secretary [of the Army] is authorized to include a project authorized to be implemented by, or in accordance with, section 601 of the Water Resources Development Act of 2000 [Pub. L. 106–541, 114 Stat. 2680], in accordance with such section 1043(b).
 
@@ -451,7 +451,7 @@ Pub. L. 116–260, div. AA, title I, § 134(b), Dec. 27, 2020, 134 Stat. 2649,
 
 **Uniformity of Notification Systems**
 
-Pub. L. 116–260, div. AA, title I, § 139, Dec. 27, 2020, 134 Stat. 2651, provided that:
+Pub. L. 116–260, div. AA, title I, § 139, Dec. 27, 2020, 134 Stat. 2651, provided that:
 
 > **“(a) Inventory.—** Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall complete an inventory of all systems used by the Corps of Engineers for external communication and notification with respect to projects, initiatives, and facilities of the Corps of Engineers.
 
@@ -479,11 +479,11 @@ Pub. L. 116–260, div. AA, title I, § 139, Dec. 27, 2020, 134 Stat. 2651, pr
 
 **Continuing Authority Programs**
 
-Pub. L. 116–260, div. AA, title I, § 165, Dec. 27, 2020, 134 Stat. 2668, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8118(b), Dec. 23, 2022, 136 Stat. 3711, which related to continuing authority programs, was transferred to section 2281c of this title.
+Pub. L. 116–260, div. AA, title I, § 165, Dec. 27, 2020, 134 Stat. 2668, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8118(b), Dec. 23, 2022, 136 Stat. 3711, which related to continuing authority programs, was transferred to section 2281c of this title.
 
 **Reports to Congress**
 
-Pub. L. 113–121, title I, § 1042, June 10, 2014, 128 Stat. 1243, provided that:
+Pub. L. 113–121, title I, § 1042, June 10, 2014, 128 Stat. 1243, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary [of the Army] shall complete and submit to Congress by the applicable date required the reports that address public safety and enhanced local participation in project delivery described in subsection (b).
 
@@ -521,7 +521,7 @@ Pub. L. 113–121, title I, § 1042, June 10, 2014, 128 Stat. 1243, provided t
 
 **Non-Federal Implementation Pilot Program**
 
-Pub. L. 113–121, title I, § 1043, June 10, 2014, 128 Stat. 1244, as amended by Pub. L. 115–270, title I, § 1137, Oct. 23, 2018, 132 Stat. 3783; Pub. L. 116–260, div. AA, title I, § 134(a), Dec. 27, 2020, 134 Stat. 2648; Pub. L. 118–272, div. A, title III, § 1303(e), Jan. 4, 2025, 138 Stat. 3114, provided that:
+Pub. L. 113–121, title I, § 1043, June 10, 2014, 128 Stat. 1244, as amended by Pub. L. 115–270, title I, § 1137, Oct. 23, 2018, 132 Stat. 3783; Pub. L. 116–260, div. AA, title I, § 134(a), Dec. 27, 2020, 134 Stat. 2648; Pub. L. 118–272, div. A, title III, § 1303(e), Jan. 4, 2025, 138 Stat. 3114, provided that:
 
 > **“(a) Non-Federal Implementation of Feasibility Studies.—**
 
@@ -693,7 +693,7 @@ Pub. L. 113–121, title I, § 1043, June 10, 2014, 128 Stat. 1244, as amended
 
 **Water Infrastructure Public-Private Partnership Pilot Program**
 
-Pub. L. 113–121, title V, § 5014, June 10, 2014, 128 Stat. 1329, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8147, Dec. 23, 2022, 136 Stat. 3730, provided that:
+Pub. L. 113–121, title V, § 5014, June 10, 2014, 128 Stat. 1329, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8147, Dec. 23, 2022, 136 Stat. 3730, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, ecosystem restoration, and hurricane and storm damage reduction.
 
@@ -799,11 +799,11 @@ Pub. L. 113–121, title V, § 5014, June 10, 2014, 128 Stat. 1329, as amended
 
 **Funding to Process Permits**
 
-Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212, which related to funding to process permits and was formerly set out as a note under this section, was transferred to section 2352 of this title.
+Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212, which related to funding to process permits and was formerly set out as a note under this section, was transferred to section 2352 of this title.
 
 **Monitoring**
 
-Pub. L. 106–541, title II, § 223, Dec. 11, 2000, 114 Stat. 2597, provided that:
+Pub. L. 106–541, title II, § 223, Dec. 11, 2000, 114 Stat. 2597, provided that:
 
 > **“(a) In General.—** The Secretary shall conduct a monitoring program of the economic and environmental results of up to 5 eligible projects selected by the Secretary.
 
@@ -827,7 +827,7 @@ Pub. L. 106–541, title II, § 223, Dec. 11, 2000, 114 Stat. 2597, provided t
 
 **Water Control Management**
 
-Pub. L. 106–53, title V, § 511, Aug. 17, 1999, 113 Stat. 341, provided that:
+Pub. L. 106–53, title V, § 511, Aug. 17, 1999, 113 Stat. 341, provided that:
 
 > **“(a) In General.—** In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b).
 
@@ -845,13 +845,13 @@ Pub. L. 106–53, title V, § 511, Aug. 17, 1999, 113 Stat. 341, provided that
 
 **Buy American; Sense of Congress; Requirement Regarding Notice**
 
-Pub. L. 106–53, title II, § 222, Aug. 17, 1999, 113 Stat. 295, provided that:
+Pub. L. 106–53, title II, § 222, Aug. 17, 1999, 113 Stat. 295, provided that:
 
 > **“(a) In General.—** It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American made.
 
 > **“(b) Notice to Recipients of Assistance.—** In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
-Pub. L. 104–303, title II, § 235, Oct. 12, 1996, 110 Stat. 3704, provided that:
+Pub. L. 104–303, title II, § 235, Oct. 12, 1996, 110 Stat. 3704, provided that:
 
 > **“(a) Purchase of American-Made Equipment and Products.—** It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made.
 
@@ -859,11 +859,11 @@ Pub. L. 104–303, title II, § 235, Oct. 12, 1996, 110 Stat. 3704, provided t
 
 **Budget Act Requirements**
 
-Pub. L. 99–662, title IX, § 948, Nov. 17, 1986, 100 Stat. 4201, provided that: “Any spending authority under this Act [see Short Title note above] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
+Pub. L. 99–662, title IX, § 948, Nov. 17, 1986, 100 Stat. 4201, provided that: “Any spending authority under this Act [see Short Title note above] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
 
 **Definition of Economically Disadvantaged Community**
 
-Pub. L. 116–260, div. AA, title I, § 160, Dec. 27, 2020, 134 Stat. 2665, provided that:
+Pub. L. 116–260, div. AA, title I, § 160, Dec. 27, 2020, 134 Stat. 2665, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall issue guidance defining the term ‘economically disadvantaged community’ for the purposes of this Act [div. AA of Pub. L. 116–260, see Short Title of 2020 Amendment note above] and the amendments made by this Act.
 
@@ -873,39 +873,39 @@ Pub. L. 116–260, div. AA, title I, § 160, Dec. 27, 2020, 134 Stat. 2665, pr
 
 **“Secretary” Defined**
 
-Pub. L. 118–272, div. A, § 1002, Jan. 4, 2025, 138 Stat. 2996, provided that: “In this division [div. A of Pub. L. 118–272, see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 118–272, div. A, § 1002, Jan. 4, 2025, 138 Stat. 2996, provided that: “In this division [div. A of Pub. L. 118–272, see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 117–263, div. H, title LXXXI, § 8002, Dec. 23, 2022, 136 Stat. 3694, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 117–263, div. H, title LXXXI, § 8002, Dec. 23, 2022, 136 Stat. 3694, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 116–260, div. AA, § 2, Dec. 27, 2020, 134 Stat. 2618, provided that: “In this Act [div. AA of Pub. L. 116–260, see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 116–260, div. AA, § 2, Dec. 27, 2020, 134 Stat. 2618, provided that: “In this Act [div. AA of Pub. L. 116–260, see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 115–270, title I, § 102, Oct. 23, 2018, 132 Stat. 3768, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 115–270, title I, § 102, Oct. 23, 2018, 132 Stat. 3768, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 114–322, title I, § 1002, Dec. 16, 2016, 130 Stat. 1632, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 114–322, title I, § 1002, Dec. 16, 2016, 130 Stat. 1632, provided that: “In this title [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 113–121, § 2, June 10, 2014, 128 Stat. 1195, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 113–121, § 2, June 10, 2014, 128 Stat. 1195, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 110–114, § 2, Nov. 8, 2007, 121 Stat. 1049, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 110–114, § 2, Nov. 8, 2007, 121 Stat. 1049, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 106–541, § 2, Dec. 11, 2000, 114 Stat. 2575, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 106–541, § 2, Dec. 11, 2000, 114 Stat. 2575, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 106–53, § 2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 106–53, § 2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 104–303, § 2, Oct. 12, 1996, 110 Stat. 3662, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 104–303, § 2, Oct. 12, 1996, 110 Stat. 3662, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 102–580, § 3, Oct. 31, 1992, 106 Stat. 4801, provided that: “For purposes of this Act [see Short Title of 1992 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 102–580, § 3, Oct. 31, 1992, 106 Stat. 4801, provided that: “For purposes of this Act [see Short Title of 1992 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 101–640, § 2, Nov. 28, 1990, 104 Stat. 4605, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 101–640, § 2, Nov. 28, 1990, 104 Stat. 4605, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
 
-Pub. L. 100–676, § 2, Nov. 17, 1988, 102 Stat. 4013, provided that: “For purposes of this Act [see Short Title of 1988 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
+Pub. L. 100–676, § 2, Nov. 17, 1988, 102 Stat. 4013, provided that: “For purposes of this Act [see Short Title of 1988 Amendment note above], the term ‘Secretary’ means the Secretary of the Army.”
 
 **Executive Documents**
 
 **Promoting the Reliable Supply and Delivery of Water in the West**
 
-Memorandum of President of the United States, Oct. 19, 2018, 83 F.R. 53961, which related to water infrastructure throughout the western United States, was revoked by Ex. Ord. No. 13990, § 7(d), Jan. 20, 2021, 86 F.R. 7042, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
+Memorandum of President of the United States, Oct. 19, 2018, 83 F.R. 53961, which related to water infrastructure throughout the western United States, was revoked by Ex. Ord. No. 13990, § 7(d), Jan. 20, 2021, 86 F.R. 7042, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
 
-## § 2202. Non-Federal engagement and review
+## § 2202. Non-Federal engagement and review
 
 **(a) Issuance**
 
@@ -959,7 +959,7 @@ When developing implementation guidance for a covered water resources developmen
 
 **(D)** any Federal water resources development law enacted after October 23, 2018.
 
-(Pub. L. 115–270, title I, § 1105, Oct. 23, 2018, 132 Stat. 3772.)
+(Pub. L. 115–270, title I, § 1105, Oct. 23, 2018, 132 Stat. 3772.)
 
 **Editorial Notes**
 
@@ -979,7 +979,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 **Non-Federal Interest Advisory Committee**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8150, Dec. 23, 2022, 136 Stat. 3731, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8150, Dec. 23, 2022, 136 Stat. 3731, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary [of the Army] shall establish a committee, to be known as the ‘Non-Federal Interest Advisory Committee’ and referred to in this section as the ‘Committee’, to develop and make recommendations to the Secretary and the Chief of Engineers on activities and actions that should be undertaken by the Corps of Engineers to ensure more effective and efficient delivery of water resources development projects, programs, and other assistance.
 
@@ -1057,13 +1057,13 @@ Pub. L. 117–263, div. H, title LXXXI, § 8150, Dec. 23, 2022, 136 Stat. 3731
 
 **Implementation Guidance**
 
-Pub. L. 116–260, div. AA, title II, § 223(d), Dec. 27, 2020, 134 Stat. 2696, provided that: “The Secretary [of the Army] shall expeditiously issue any guidance necessary to implement any provision of this Act [div. AA of Pub. L. 116–260, see Tables for classification], including any amendments made by this Act, in accordance with section 1105 of the Water Resources Development Act of 2018 (33 U.S.C. 2202).”
+Pub. L. 116–260, div. AA, title II, § 223(d), Dec. 27, 2020, 134 Stat. 2696, provided that: “The Secretary [of the Army] shall expeditiously issue any guidance necessary to implement any provision of this Act [div. AA of Pub. L. 116–260, see Tables for classification], including any amendments made by this Act, in accordance with section 1105 of the Water Resources Development Act of 2018 (33 U.S.C. 2202).”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-## § 2203. Review of contracting policies
+## § 2203. Review of contracting policies
 
 **(a) Review of contractual agreements**
 
@@ -1085,7 +1085,7 @@ The Secretary shall provide the best practices guidance included under paragraph
 
 It is the sense of Congress that the Secretary should maximize use of nonprice tradeoff procedures in competitive acquisitions for carrying out emergency work in an area with respect to which the President has declared a major disaster under section 5170 of title 42.
 
-(Pub. L. 116–260, div. AA, title I, § 136, Dec. 27, 2020, 134 Stat. 2649.)
+(Pub. L. 116–260, div. AA, title I, § 136, Dec. 27, 2020, 134 Stat. 2649.)
 
 **Editorial Notes**
 
@@ -1101,7 +1101,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 ## SUBCHAPTER I—COST SHARING
 
-### § 2211. Harbors
+### § 2211. Harbors
 
 **(a) Construction**
 
@@ -1165,7 +1165,7 @@ The amount of any non-Federal share of the cost of any navigation project for a 
 
 **(3)** use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
 
-(Pub. L. 99–662, title I, § 101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, § 13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, § 333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, § 201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, § 2102(b), June 10, 2014, 128 Stat. 1278; Pub. L. 114–322, title I, § 1111, Dec. 16, 2016, 130 Stat. 1636; Pub. L. 118–272, div. A, title I, § 1117, Jan. 4, 2025, 138 Stat. 3012.)
+(Pub. L. 99–662, title I, § 101, Nov. 17, 1986, 100 Stat. 4082; Pub. L. 100–676, § 13(a), Nov. 17, 1988, 102 Stat. 4025; Pub. L. 102–580, title III, § 333(b)(1), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 104–303, title II, § 201(a)–(d), Oct. 12, 1996, 110 Stat. 3671, 3672; Pub. L. 113–121, title II, § 2102(b), June 10, 2014, 128 Stat. 1278; Pub. L. 114–322, title I, § 1111, Dec. 16, 2016, 130 Stat. 1636; Pub. L. 118–272, div. A, title I, § 1117, Jan. 4, 2025, 138 Stat. 3012.)
 
 **Editorial Notes**
 
@@ -1175,29 +1175,29 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100
 
 **Amendments**
 
-2025—Subsec. (a)(1)(B), (C). Pub. L. 118–272, § 1117(a), substituted “55 feet” for “50 feet”.
+2025—Subsec. (a)(1)(B), (C). Pub. L. 118–272, § 1117(a), substituted “55 feet” for “50 feet”.
 
-Subsec. (b)(1). Pub. L. 118–272, § 1117(b), substituted “55 feet” for “50 feet”.
+Subsec. (b)(1). Pub. L. 118–272, § 1117(b), substituted “55 feet” for “50 feet”.
 
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1111(1), substituted “June 10, 2014,” for “November 17, 1986,” in introductory provisions.
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1111(1), substituted “June 10, 2014,” for “November 17, 1986,” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 114–322, § 1111(2), substituted “50 feet” for “45 feet”.
+Subsec. (a)(1)(B). Pub. L. 114–322, § 1111(2), substituted “50 feet” for “45 feet”.
 
-Subsec. (a)(1)(C). Pub. L. 114–322, § 1111(3), substituted “50 feet” for “45 feet”.
+Subsec. (a)(1)(C). Pub. L. 114–322, § 1111(3), substituted “50 feet” for “45 feet”.
 
 2014—Subsec. (b)(1). Pub. L. 113–121 substituted “50 feet” for “45 feet”.
 
-1996—Subsec. (a)(2). Pub. L. 104–303, § 201(a)(1), inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
+1996—Subsec. (a)(2). Pub. L. 104–303, § 201(a)(1), inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
 
-Subsec. (a)(3). Pub. L. 104–303, § 201(a)(2), inserted “and” after “rights-of-way,”, struck out “, and dredged material disposal areas” after “relocations under paragraph (4))”, and inserted before period at end “, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities”.
+Subsec. (a)(3). Pub. L. 104–303, § 201(a)(2), inserted “and” after “rights-of-way,”, struck out “, and dredged material disposal areas” after “relocations under paragraph (4))”, and inserted before period at end “, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities”.
 
-Subsec. (a)(5). Pub. L. 104–303, § 201(a)(3), added par. (5).
+Subsec. (a)(5). Pub. L. 104–303, § 201(a)(3), added par. (5).
 
-Subsec. (b). Pub. L. 104–303, § 201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
+Subsec. (b). Pub. L. 104–303, § 201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 104–303, § 201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
+Subsec. (e)(1). Pub. L. 104–303, § 201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
 
-Subsec. (f). Pub. L. 104–303, § 201(d), added subsec. (f).
+Subsec. (f). Pub. L. 104–303, § 201(d), added subsec. (f).
 
 1992—Subsec. (a)(3). Pub. L. 102–580 substituted “Except as provided under section 906(c), the non-Federal” for “The non-Federal”.
 
@@ -1207,11 +1207,11 @@ Subsec. (f). Pub. L. 104–303, § 201(d), added subsec. (f).
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–676, § 13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on November 17, 1986.”
+Pub. L. 100–676, § 13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on November 17, 1986.”
 
 **Deep Draft Harbor Cost Sharing**
 
-Pub. L. 106–53, title IV, § 401, Aug. 17, 1999, 113 Stat. 322, provided that:
+Pub. L. 106–53, title IV, § 401, Aug. 17, 1999, 113 Stat. 322, provided that:
 
 > **“(a) In General.—** The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
 
@@ -1231,11 +1231,11 @@ Pub. L. 106–53, title IV, § 401, Aug. 17, 1999, 113 Stat. 322, provided tha
 
 **Amendment of Cooperation Agreement**
 
-Pub. L. 104–303, title II, § 201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendments made by this section [amending this section and section 2241 of this title] to any project for which a contract for construction has not been awarded on or before that date.”
+Pub. L. 104–303, title II, § 201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act [Oct. 12, 1996] to reflect the application of the amendments made by this section [amending this section and section 2241 of this title] to any project for which a contract for construction has not been awarded on or before that date.”
 
 **Increases in Non-Federal Share of Costs**
 
-Pub. L. 104–303, title II, § 201(g), Oct. 12, 1996, 110 Stat. 3673, provided that:
+Pub. L. 104–303, title II, § 201(g), Oct. 12, 1996, 110 Stat. 3673, provided that:
 
 > “Nothing in this section [amending this section and section 2241 of this title and enacting provisions set out above] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
 
@@ -1247,9 +1247,9 @@ Pub. L. 104–303, title II, § 201(g), Oct. 12, 1996, 110 Stat. 3673, provide
 
 **Dredged Material Disposal Areas Study**
 
-Pub. L. 102–580, title II, § 216, Oct. 31, 1992, 106 Stat. 4832, directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
+Pub. L. 102–580, title II, § 216, Oct. 31, 1992, 106 Stat. 4832, directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
 
-### § 2211a. Preserving United States harbors
+### § 2211a. Preserving United States harbors
 
 **(a) In general**
 
@@ -1273,7 +1273,7 @@ As the Secretary determines to be appropriate, the Secretary may use the informa
 
 Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under section 2211(b) of this title.
 
-(Pub. L. 113–121, title II, § 2107, June 10, 2014, 128 Stat. 1281.)
+(Pub. L. 113–121, title II, § 2107, June 10, 2014, 128 Stat. 1281.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2212. Inland waterway transportation
+### § 2212. Inland waterway transportation
 
 **(a) Construction** 75 percent of the costs of construction—
 
@@ -1323,7 +1323,7 @@ The non-Federal share of the cost of operation, maintenance, repair, rehabilitat
 
 which responsibility is not provided for in subsection (a) of this section shall be paid only from amounts appropriated from the general fund of the Treasury.
 
-(Pub. L. 99–662, title I, § 102, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 113–121, title II, § 2013, June 10, 2014, 128 Stat. 1271; Pub. L. 117–263, div. H, title LXXXI, § 8157(a), Dec. 23, 2022, 136 Stat. 3738; Pub. L. 118–272, div. A, title I, § 1126(a), Jan. 4, 2025, 138 Stat. 3018.)
+(Pub. L. 99–662, title I, § 102, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 113–121, title II, § 2013, June 10, 2014, 128 Stat. 1271; Pub. L. 117–263, div. H, title LXXXI, § 8157(a), Dec. 23, 2022, 136 Stat. 3738; Pub. L. 118–272, div. A, title I, § 1126(a), Jan. 4, 2025, 138 Stat. 3018.)
 
 **Editorial Notes**
 
@@ -1345,19 +1345,19 @@ Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 8
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–272, div. A, title I, § 1126(b), Jan. 4, 2025, 138 Stat. 3018, provided that: “The amendments made by subsection (a) [amending this section] shall apply beginning on October 1, 2024, to any construction of a project for navigation on the inland waterways that is new or ongoing on or after that date.”
+Pub. L. 118–272, div. A, title I, § 1126(b), Jan. 4, 2025, 138 Stat. 3018, provided that: “The amendments made by subsection (a) [amending this section] shall apply beginning on October 1, 2024, to any construction of a project for navigation on the inland waterways that is new or ongoing on or after that date.”
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8157(b), Dec. 23, 2022, 136 Stat. 3738, provided that: “The amendments made by subsection (a) [amending this section] shall apply beginning on October 1, 2022, to any construction of a project for navigation on the inland waterways that is new or ongoing on or after that date.”
+Pub. L. 117–263, div. H, title LXXXI, § 8157(b), Dec. 23, 2022, 136 Stat. 3738, provided that: “The amendments made by subsection (a) [amending this section] shall apply beginning on October 1, 2022, to any construction of a project for navigation on the inland waterways that is new or ongoing on or after that date.”
 
 **Inland Waterway Projects**
 
-Pub. L. 116–260, div. AA, title I, § 109, Dec. 27, 2020, 134 Stat. 2624, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8157(c), Dec. 23, 2022, 136 Stat. 3738, provided that: “Notwithstanding section 102 of the Water Resources Development Act of 1986 (33 U.S.C. 2212), for a project for navigation on the inland waterways receiving a construction appropriation during any of fiscal years 2021 through 2022, 35 percent of the costs of construction of the project shall be paid from amounts appropriated from the Inland Waterways Trust Fund until such construction of the project is complete.”
+Pub. L. 116–260, div. AA, title I, § 109, Dec. 27, 2020, 134 Stat. 2624, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8157(c), Dec. 23, 2022, 136 Stat. 3738, provided that: “Notwithstanding section 102 of the Water Resources Development Act of 1986 (33 U.S.C. 2212), for a project for navigation on the inland waterways receiving a construction appropriation during any of fiscal years 2021 through 2022, 35 percent of the costs of construction of the project shall be paid from amounts appropriated from the Inland Waterways Trust Fund until such construction of the project is complete.”
 
 **Acceptance of Contributed Funds To Increase Lock Operations**
 
-Pub. L. 113–121, title I, § 1017, June 10, 2014, 128 Stat. 1223, as amended by Pub. L. 115–270, title I, § 1135, Oct. 23, 2018, 132 Stat. 3783, provided that:
+Pub. L. 113–121, title I, § 1017, June 10, 2014, 128 Stat. 1223, as amended by Pub. L. 115–270, title I, § 1135, Oct. 23, 2018, 132 Stat. 3783, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army], after providing public notice, shall establish a pilot program for the acceptance and expenditure of funds contributed by non-Federal interests to increase the hours of operation of locks at water resources development projects.
 
@@ -1379,7 +1379,7 @@ Pub. L. 113–121, title I, § 1017, June 10, 2014, 128 Stat. 1223, as amended
 
 > **“(f) Termination.—** The authority to accept funds under this section shall terminate 10 years after the date of enactment of this Act.”
 
-### § 2213. Flood control and other purposes
+### § 2213. Flood control and other purposes
 
 **(a) Flood control**
 
@@ -1669,9 +1669,9 @@ The Secretary may include a determination to reduce the non-Federal share requir
 
 Nothing in this subsection shall be construed to affect the Secretary’s authority under section 903(c).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 99–662, title I, § 103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, § 305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, § 201(a), title III, § 333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§ 202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§ 215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, § 5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, § 204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§ 2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078; Pub. L. 116–260, div. AA, title I, §§ 115(b), 143, title III, § 351, Dec. 27, 2020, 134 Stat. 2627, 2653, 2717; Pub. L. 117–263, div. H, title LXXXI, §§ 8385, 8386, Dec. 23, 2022, 136 Stat. 3829, 3830; Pub. L. 118–272, div. A, title I, § 1139(a), title III, §§ 1358, 1359, Jan. 4, 2025, 138 Stat. 3026, 3162.)
+(Pub. L. 99–662, title I, § 103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, § 305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, § 201(a), title III, § 333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§ 202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§ 215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, § 5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, § 204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§ 2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078; Pub. L. 116–260, div. AA, title I, §§ 115(b), 143, title III, § 351, Dec. 27, 2020, 134 Stat. 2627, 2653, 2717; Pub. L. 117–263, div. H, title LXXXI, §§ 8385, 8386, Dec. 23, 2022, 136 Stat. 3829, 3830; Pub. L. 118–272, div. A, title I, § 1139(a), title III, §§ 1358, 1359, Jan. 4, 2025, 138 Stat. 3026, 3162.)
 
 **Editorial Notes**
 
@@ -1695,59 +1695,59 @@ Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99�
 
 **Amendments**
 
-2025—Subsec. (k)(4)(A)(i). Pub. L. 118–272, § 1358(1)(A), substituted “made” for “makes”.
+2025—Subsec. (k)(4)(A)(i). Pub. L. 118–272, § 1358(1)(A), substituted “made” for “makes”.
 
-Subsec. (k)(4)(A)(ii). Pub. L. 118–272, § 1358(1)(B), substituted “made a payment of an additional $200,000,000 for that eligible deferred payment agreement on or before” for “repays an amount equal to ⅔ of the remaining principal by”.
+Subsec. (k)(4)(A)(ii). Pub. L. 118–272, § 1358(1)(B), substituted “made a payment of an additional $200,000,000 for that eligible deferred payment agreement on or before” for “repays an amount equal to ⅔ of the remaining principal by”.
 
-Subsec. (k)(4)(B), (i)(II). Pub. L. 118–272, § 1358(2), which directed amendment of subpar. (B) by inserting “interest’s” after “non-Federal”, was executed by making the insertion after “non-Federal” the first and fourth place appearing, to reflect the probable intent of Congress.
+Subsec. (k)(4)(B), (i)(II). Pub. L. 118–272, § 1358(2), which directed amendment of subpar. (B) by inserting “interest’s” after “non-Federal”, was executed by making the insertion after “non-Federal” the first and fourth place appearing, to reflect the probable intent of Congress.
 
-Subsec. (k)(4)(C). Pub. L. 118–272, § 1358(3), added subpar. (C).
+Subsec. (k)(4)(C). Pub. L. 118–272, § 1358(3), added subpar. (C).
 
-Subsec. (k)(5). Pub. L. 118–272, § 1359, added par. (5).
+Subsec. (k)(5). Pub. L. 118–272, § 1359, added par. (5).
 
-Subsec. (m)(2), (3). Pub. L. 118–272, § 1139(a)(1), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to criteria and procedures and revision of criteria and procedures, respectively.
+Subsec. (m)(2), (3). Pub. L. 118–272, § 1139(a)(1), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to criteria and procedures and revision of criteria and procedures, respectively.
 
-Subsec. (m)(5), (6). Pub. L. 118–272, § 1139(a)(2), added pars. (5) and (6).
+Subsec. (m)(5), (6). Pub. L. 118–272, § 1139(a)(2), added pars. (5) and (6).
 
-2022—Subsec. (k)(4). Pub. L. 117–263, § 8386, designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and realigned margins, substituted “$200,000,000” for “$200 million” in cl. (i), inserted “an amount equal to ⅔ of” after “repays” in cl. (ii), and added cl. (iii) of subpar. (A) and subpar. (B).
+2022—Subsec. (k)(4). Pub. L. 117–263, § 8386, designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and realigned margins, substituted “$200,000,000” for “$200 million” in cl. (i), inserted “an amount equal to ⅔ of” after “repays” in cl. (ii), and added cl. (iii) of subpar. (A) and subpar. (B).
 
-Subsec. (*l*). Pub. L. 117–263, § 8385, struck out “initial” before “payment” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+Subsec. (*l*). Pub. L. 117–263, § 8385, struck out “initial” before “payment” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
-2020—Subsec. (b). Pub. L. 116–260, § 115(b)(1), substituted “Projects using nonstructural, natural, or nature-based features” for “Nonstructural flood control projects” in heading.
+2020—Subsec. (b). Pub. L. 116–260, § 115(b)(1), substituted “Projects using nonstructural, natural, or nature-based features” for “Nonstructural flood control projects” in heading.
 
-Subsec. (b)(1). Pub. L. 116–260, § 115(b)(2), substituted “a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title),” for “nonstructural flood control measures” and “cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent” for “cash during construction of the project”.
+Subsec. (b)(1). Pub. L. 116–260, § 115(b)(2), substituted “a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title),” for “nonstructural flood control measures” and “cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent” for “cash during construction of the project”.
 
-Subsec. (j)(1). Pub. L. 116–260, § 143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (j)(1). Pub. L. 116–260, § 143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (k). Pub. L. 116–260, § 351, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
+Subsec. (k). Pub. L. 116–260, § 351, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
-2007—Subsec. (m)(2). Pub. L. 110–114, § 2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
+2007—Subsec. (m)(2). Pub. L. 110–114, § 2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
 
-Subsec. (n). Pub. L. 110–114, § 2001, added subsec. (n).
+Subsec. (n). Pub. L. 110–114, § 2001, added subsec. (n).
 
-2000—Subsec. (m)(1), (2). Pub. L. 106–541, § 204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
+2000—Subsec. (m)(1), (2). Pub. L. 106–541, § 204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
 
-Subsec. (m)(3)(B), (C). Pub. L. 106–541, § 204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
+Subsec. (m)(3)(B), (C). Pub. L. 106–541, § 204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
 
-1999—Subsec. (b). Pub. L. 106–53, § 219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+1999—Subsec. (b). Pub. L. 106–53, § 219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
-Subsec. (b)(2). Pub. L. 106–53, § 219(c)(2), added par. (2).
+Subsec. (b)(2). Pub. L. 106–53, § 219(c)(2), added par. (2).
 
-Subsec. (d). Pub. L. 106–53, § 215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (d). Pub. L. 106–53, § 215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer’s Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
 
-1996—Subsecs. (a)(2), (b). Pub. L. 104–303, § 202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
+1996—Subsecs. (a)(2), (b). Pub. L. 104–303, § 202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
 
-Subsec. (c)(7). Pub. L. 104–303, § 210(a), added par. (7).
+Subsec. (c)(7). Pub. L. 104–303, § 210(a), added par. (7).
 
-Subsec. (e)(1). Pub. L. 104–303, § 202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
+Subsec. (e)(1). Pub. L. 104–303, § 202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
 
-Subsec. (m). Pub. L. 104–303, § 202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+Subsec. (m). Pub. L. 104–303, § 202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
 
-1992—Subsec. (i). Pub. L. 102–580, § 333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
+1992—Subsec. (i). Pub. L. 102–580, § 333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
 
-Subsec. (m). Pub. L. 102–580, § 201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
+Subsec. (m). Pub. L. 102–580, § 201(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows:
 
 “(1) General rule.—Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay.
 
@@ -1765,9 +1765,9 @@ Subsec. (m). Pub. L. 102–580, § 201(a), amended subsec. (m) generally. Prio
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–303, title II, § 202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to any project authorized after the date of the enactment of this Act [Oct. 12, 1996] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
+Pub. L. 104–303, title II, § 202(a)(1)(B), Oct. 12, 1996, 110 Stat. 3673, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to any project authorized after the date of the enactment of this Act [Oct. 12, 1996] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
 
-Pub. L. 104–303, title II, § 202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that:
+Pub. L. 104–303, title II, § 202(b)(2), Oct. 12, 1996, 110 Stat. 3674, provided that:
 
 > **“(A) Generally.—** Subject to subparagraph (C), the amendment made by paragraph (1) [amending this section] shall apply to any project, or separable element thereof, with respect to which the Secretary and the non-Federal interest enter into a project cooperation agreement after December 31, 1997.
 
@@ -1777,21 +1777,21 @@ Pub. L. 104–303, title II, § 202(b)(2), Oct. 12, 1996, 110 Stat. 3674, prov
 
 [Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.]
 
-Pub. L. 104–303, title II, § 210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) [amending this section] apply only to projects authorized after the date of the enactment of this Act [Oct. 12, 1996].”
+Pub. L. 104–303, title II, § 210(b), Oct. 12, 1996, 110 Stat. 3681, provided that: “The amendments made by subsection (a) [amending this section] apply only to projects authorized after the date of the enactment of this Act [Oct. 12, 1996].”
 
 **Continuation of Existing Regulations**
 
-Pub. L. 101–640, title III, § 305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 [33 U.S.C. 2213(m)] before the date of the enactment of this Act [Nov. 28, 1990] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
+Pub. L. 101–640, title III, § 305(b), Nov. 28, 1990, 104 Stat. 4635, provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 [33 U.S.C. 2213(m)] before the date of the enactment of this Act [Nov. 28, 1990] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
 
 **Update to Guidance**
 
-Pub. L. 118–272, div. A, title I, § 1139(b), Jan. 4, 2025, 138 Stat. 3027, provided that: “Not later than 1 year after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any agency guidance or regulation relating to the ability of a non-Federal interest to pay as necessary to reflect the amendments made by this section [amending this section].”
+Pub. L. 118–272, div. A, title I, § 1139(b), Jan. 4, 2025, 138 Stat. 3027, provided that: “Not later than 1 year after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any agency guidance or regulation relating to the ability of a non-Federal interest to pay as necessary to reflect the amendments made by this section [amending this section].”
 
 **Reports to Congress**
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 [33 U.S.C. 2213(m)] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act [July 11, 1987] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
 
-### § 2213a. Treatment of certain benefits and costs
+### § 2213a. Treatment of certain benefits and costs
 
 **(a) In general**
 
@@ -1803,7 +1803,7 @@ In the case of a flood risk management or coastal storm risk management project 
 
 **(2)** subject to cost-share requirements otherwise applicable to the project.
 
-(Pub. L. 116–260, div. AA, title I, § 152, Dec. 27, 2020, 134 Stat. 2658; Pub. L. 117–263, div. H, title LXXXI, § 8380, Dec. 23, 2022, 136 Stat. 3828.)
+(Pub. L. 116–260, div. AA, title I, § 152, Dec. 27, 2020, 134 Stat. 2658; Pub. L. 117–263, div. H, title LXXXI, § 8380, Dec. 23, 2022, 136 Stat. 3828.)
 
 **Editorial Notes**
 
@@ -1821,7 +1821,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2214. General credit for flood control
+### § 2214. General credit for flood control
 
 **(a) Guidelines**
 
@@ -1855,7 +1855,7 @@ Any flood control work included as part of the non-Federal share of the cost of 
 
 Nothing in this section affects the requirement of section 2213(a)(1)(A) of this title.
 
-(Pub. L. 99–662, title I, § 104, Nov. 17, 1986, 100 Stat. 4087.)
+(Pub. L. 99–662, title I, § 104, Nov. 17, 1986, 100 Stat. 4087.)
 
 **Editorial Notes**
 
@@ -1863,7 +1863,7 @@ Nothing in this section affects the requirement of section 2213(a)(1)(A) of this
 
 This Act, referred to in subsecs. (b) and (c), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2215. Feasibility studies; planning, engineering, and design
+### § 2215. Feasibility studies; planning, engineering, and design
 
 **(a) Feasibility studies**
 
@@ -1929,7 +1929,7 @@ The term “detailed project report” means a report for a project not specific
 
 The term “feasibility study” means a study that results in a feasibility report under section 2282 of this title, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
-(Pub. L. 99–662, title I, § 105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, § 301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, § 203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, § 225, Dec. 11, 2000, 114 Stat. 2598; Pub. L. 110–114, title II, § 2043(a), Nov. 8, 2007, 121 Stat. 1101.)
+(Pub. L. 99–662, title I, § 105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, § 301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, § 203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, § 225, Dec. 11, 2000, 114 Stat. 2598; Pub. L. 110–114, title II, § 2043(a), Nov. 8, 2007, 121 Stat. 1101.)
 
 **Editorial Notes**
 
@@ -1939,17 +1939,17 @@ The Water Resources Development Act of 2000, referred to in subsec. (d)(2), is P
 
 **Amendments**
 
-2007—Subsec. (a)(3). Pub. L. 110–114, § 2043(a)(1), added par. (3).
+2007—Subsec. (a)(3). Pub. L. 110–114, § 2043(a)(1), added par. (3).
 
-Subsec. (b). Pub. L. 110–114, § 2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
+Subsec. (b). Pub. L. 110–114, § 2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
 
-Subsec. (d). Pub. L. 110–114, § 2043(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 110–114, § 2043(a)(3), added subsec. (d).
 
 2000—Subsec. (a)(1)(E). Pub. L. 106–541 substituted “The” for “Not more than ½ of the”.
 
-1996—Subsec. (a)(1). Pub. L. 104–303, § 203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
+1996—Subsec. (a)(1). Pub. L. 104–303, § 203(a)(1), inserted heading and amended text of par. (1) generally. Prior to amendment text read as follows: “The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost for such study during the period of such study. Not more than one-half of such non-Federal contribution may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.”
 
-Subsec. (a)(2). Pub. L. 104–303, § 203(a)(2), inserted heading.
+Subsec. (a)(2). Pub. L. 104–303, § 203(a)(2), inserted heading.
 
 1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
 
@@ -1957,17 +1957,17 @@ Subsec. (a)(2). Pub. L. 104–303, § 203(a)(2), inserted heading.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–303, title II, § 203(b), Oct. 12, 1996, 110 Stat. 3678, provided that: “The amendments made by subsection (a) [amending this section] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act [Oct. 12, 1996] so as to conform the agreements with the amendments.”
+Pub. L. 104–303, title II, § 203(b), Oct. 12, 1996, 110 Stat. 3678, provided that: “The amendments made by subsection (a) [amending this section] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act [Oct. 12, 1996] so as to conform the agreements with the amendments.”
 
 **No Requirement of Reimbursement**
 
-Pub. L. 104–303, title II, § 203(c), Oct. 12, 1996, 110 Stat. 3678, provided that: “Nothing in this section [amending this section and enacting provisions set out above] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
+Pub. L. 104–303, title II, § 203(c), Oct. 12, 1996, 110 Stat. 3678, provided that: “Nothing in this section [amending this section and enacting provisions set out above] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
 
-### § 2216. Rate of interest
+### § 2216. Rate of interest
 
 Whenever a non-Federal interest is required or elects to repay an amount under this Act over a period of time, the amount to be repaid shall include interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or in the case of recalculation the fiscal year in which the recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs; except that such rates for hydroelectric power shall be in accordance with existing law.
 
-(Pub. L. 99–662, title I, § 106, Nov. 17, 1986, 100 Stat. 4089.)
+(Pub. L. 99–662, title I, § 106, Nov. 17, 1986, 100 Stat. 4089.)
 
 **Editorial Notes**
 
@@ -1975,11 +1975,11 @@ Whenever a non-Federal interest is required or elects to repay an amount under t
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2217. Limitation on applicability of certain provisions in reports
+### § 2217. Limitation on applicability of certain provisions in reports
 
 If any provision in any report designated by this Act recommends that a State contribute in cash 5 percent of the construction costs allocated to non-vendible project purposes and 10 percent of the construction costs allocated to vendible project purposes, such provision shall not apply to the project recommended in such report.
 
-(Pub. L. 99–662, title I, § 107, Nov. 17, 1986, 100 Stat. 4089.)
+(Pub. L. 99–662, title I, § 107, Nov. 17, 1986, 100 Stat. 4089.)
 
 **Editorial Notes**
 
@@ -1987,11 +1987,11 @@ If any provision in any report designated by this Act recommends that a State co
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2218. General applicability of cost sharing
+### § 2218. General applicability of cost sharing
 
 Unless otherwise specified, the cost sharing provisions of this subchapter shall apply to all projects in this Act. The Federal share of any cost of a project authorized by this Act for which cost a Federal share is not established in this subchapter, shall be the share of such cost otherwise provided by law.
 
-(Pub. L. 99–662, title I, § 108, Nov. 17, 1986, 100 Stat. 4089.)
+(Pub. L. 99–662, title I, § 108, Nov. 17, 1986, 100 Stat. 4089.)
 
 **Editorial Notes**
 
@@ -1999,13 +1999,13 @@ Unless otherwise specified, the cost sharing provisions of this subchapter shall
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2219. Definitions
+### § 2219. Definitions
 
 For purposes of this subchapter, terms shall have the meanings given by section 2241 of this title.
 
-(Pub. L. 99–662, title I, § 109, Nov. 17, 1986, 100 Stat. 4089.)
+(Pub. L. 99–662, title I, § 109, Nov. 17, 1986, 100 Stat. 4089.)
 
-### § 2220. Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes
+### § 2220. Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes
 
 **(a) Congressional declaration of policy; purchase of indebtedness and loans to local interests to meet contribution requirements**
 
@@ -2015,13 +2015,13 @@ In the prosecution of projects for rivers and harbors and other waterways for th
 
 There is hereby authorized to be appropriated to carry out this section, not to exceed $10,000,000 per fiscal year for the fiscal year ending June 30, 1966, and for each fiscal year thereafter through and including the fiscal year ending June 30, 1970.
 
-(Pub. L. 89–298, title II, § 217, Oct. 27, 1965, 79 Stat. 1088.)
+(Pub. L. 89–298, title II, § 217, Oct. 27, 1965, 79 Stat. 1088.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 **Codification**
 
@@ -2029,25 +2029,25 @@ Section was formerly classified to section 3142a of Title 42, The Public Health 
 
 Section was not enacted as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-### § 2221. Cost limitations on projects
+### § 2221. Cost limitations on projects
 
-Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to section 560 of this title; section 561 1
+Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005, pursuant to section 560 of this title; section 561 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 ; section 1962d–5a of title 42; sections 2214, 2231, and 2232 of this title; section 426i–1 1 of this title; section 701b–13 1 of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
+of this title; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 ; section 1962d–5a of title 42; sections 2214, 2231, and 2232 of this title; section 426i–1 1 of this title; section 701b–13 1 of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
 
-(Pub. L. 109–103, title I, § 102, Nov. 19, 2005, 119 Stat. 2253.)
+(Pub. L. 109–103, title I, § 102, Nov. 19, 2005, 119 Stat. 2253.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 561 of this title, referred to in text, was repealed by Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798.
+Section 561 of this title, referred to in text, was repealed by Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798.
 
-The Civil Functions Appropriations Act, 1936, Public Law 75–208, referred to in text, may mean the War Department Civil Appropriation Act, 1938, act July 19, 1937, ch. 511, 50 Stat. 515, 518, which amended act June 22, 1936, ch. 688, § 5, by adding the proviso classified to section 701h of this title.
+The Civil Functions Appropriations Act, 1936, Public Law 75–208, referred to in text, may mean the War Department Civil Appropriation Act, 1938, act July 19, 1937, ch. 511, 50 Stat. 515, 518, which amended act June 22, 1936, ch. 688, § 5, by adding the proviso classified to section 701h of this title.
 
-Sections 426i–1 and 701b–13 of this title, referred to in text, were repealed by Pub. L. 113–121, title I, § 1014(c)(2), (3), June 10, 2014, 128 Stat. 1222.
+Sections 426i–1 and 701b–13 of this title, referred to in text, were repealed by Pub. L. 113–121, title I, § 1014(c)(2), (3), June 10, 2014, 128 Stat. 1222.
 
 **Codification**
 
@@ -2057,19 +2057,19 @@ Section was enacted as part of the Energy and Water Development Appropriations A
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. C, title I, § 101, Dec. 8, 2004, 118 Stat. 2941; Pub. L. 109–13, div. A, title VI, § 6005, May 11, 2005, 119 Stat. 282.
+Pub. L. 108–447, div. C, title I, § 101, Dec. 8, 2004, 118 Stat. 2941; Pub. L. 109–13, div. A, title VI, § 6005, May 11, 2005, 119 Stat. 282.
 
-Pub. L. 108–137, title I, § 101, Dec. 1, 2003, 117 Stat. 1833.
+Pub. L. 108–137, title I, § 101, Dec. 1, 2003, 117 Stat. 1833.
 
-Pub. L. 108–7, div. D, title I, § 101, Feb. 20, 2003, 117 Stat. 138.
+Pub. L. 108–7, div. D, title I, § 101, Feb. 20, 2003, 117 Stat. 138.
 
-Pub. L. 107–66, title I, § 103, Nov. 12, 2001, 115 Stat. 493.
+Pub. L. 107–66, title I, § 103, Nov. 12, 2001, 115 Stat. 493.
 
-Pub. L. 106–377, § 1(a)(2) [title I, § 102], Oct. 27, 2000, 114 Stat. 1441, 1441A–65.
+Pub. L. 106–377, § 1(a)(2) [title I, § 102], Oct. 27, 2000, 114 Stat. 1441, 1441A–65.
 
-Pub. L. 106–60, title I, § 102, Sept. 29, 1999, 113 Stat. 487.
+Pub. L. 106–60, title I, § 102, Sept. 29, 1999, 113 Stat. 487.
 
-### § 2222. Use of other Federal funds
+### § 2222. Use of other Federal funds
 
 The non-Federal interest for a water resources development study or project, including a study or project under a continuing authority program (as defined in section 2282d(c)(1)(D) of this title) and a study or project under an environmental infrastructure assistance program, may use, and the Secretary shall accept, funds provided by a Federal agency under any other Federal program, to satisfy, in whole or in part, the non-Federal share of the cost of the study or project if—
 
@@ -2077,7 +2077,7 @@ The non-Federal interest for a water resources development study or project, inc
 
 **(2)** the Federal agency that provides the funds determines that the study or project activities for which the funds will be used are otherwise eligible for funding under such statutory authority.
 
-(Pub. L. 110–114, title II, § 2007, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 117–263, div. H, title LXXXI, § 8149, Dec. 23, 2022, 136 Stat. 3731.)
+(Pub. L. 110–114, title II, § 2007, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 117–263, div. H, title LXXXI, § 8149, Dec. 23, 2022, 136 Stat. 3731.)
 
 **Editorial Notes**
 
@@ -2095,7 +2095,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2223. Transfer of excess credit
+### § 2223. Transfer of excess credit
 
 **(a) Application of credit**
 
@@ -2165,7 +2165,7 @@ Not later than December 31, 2030, the Secretary shall submit to the Committee on
 
 **(C)** an assessment of the impact of the authority under this section on other water resources projects.
 
-(Pub. L. 113–121, title I, § 1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, § 1166, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, § 8383, Dec. 23, 2022, 136 Stat. 3829; Pub. L. 118–272, div. A, title III, § 1303(g), Jan. 4, 2025, 138 Stat. 3114.)
+(Pub. L. 113–121, title I, § 1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, § 1166, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, § 8383, Dec. 23, 2022, 136 Stat. 3829; Pub. L. 118–272, div. A, title III, § 1303(g), Jan. 4, 2025, 138 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -2181,13 +2181,13 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 2025—Subsecs. (d), (e)(1)(B). Pub. L. 118–272 substituted “2030” for “2028”.
 
-2022—Subsec. (a)(3). Pub. L. 117–263, § 8383(1), added par. (3).
+2022—Subsec. (a)(3). Pub. L. 117–263, § 8383(1), added par. (3).
 
-Subsec. (b)(3). Pub. L. 117–263, § 8383(2), added par. (3).
+Subsec. (b)(3). Pub. L. 117–263, § 8383(2), added par. (3).
 
-Subsec. (d). Pub. L. 117–263, § 8383(3), substituted “on December 31, 2028” for “10 years after June 10, 2014”.
+Subsec. (d). Pub. L. 117–263, § 8383(3), substituted “on December 31, 2028” for “10 years after June 10, 2014”.
 
-Subsec. (e)(1)(B). Pub. L. 117–263, § 8383(4), substituted “December 31, 2028” for “10 years after June 10, 2014”.
+Subsec. (e)(1)(B). Pub. L. 117–263, § 8383(4), substituted “December 31, 2028” for “10 years after June 10, 2014”.
 
 2016—Subsec. (a). Pub. L. 114–322 substituted “Application of credit” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
 
@@ -2197,11 +2197,11 @@ Subsec. (e)(1)(B). Pub. L. 117–263, § 8383(4), substituted “December 31, 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2224. Crediting authority for federally authorized navigation projects
+### § 2224. Crediting authority for federally authorized navigation projects
 
 A non-Federal interest may carry out operation and maintenance activities for an authorized navigation project, subject to the condition that the non-Federal interest complies with all Federal laws and regulations applicable to such operation and maintenance activities, and may receive credit for the costs incurred by the non-Federal interest in carrying out such activities towards the share of construction costs of that non-Federal interest for another element of the same project or another authorized navigation project, except that in no instance may such credit exceed 20 percent of the total costs associated with construction of the general navigation features of the project for which such credit may be applied pursuant to this section.
 
-(Pub. L. 113–121, title I, § 1021, June 10, 2014, 128 Stat. 1228.)
+(Pub. L. 113–121, title I, § 1021, June 10, 2014, 128 Stat. 1228.)
 
 **Editorial Notes**
 
@@ -2209,13 +2209,13 @@ A non-Federal interest may carry out operation and maintenance activities for an
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-### § 2225. Credit or reimbursement
+### § 2225. Credit or reimbursement
 
 **(a) Requests for credits**
 
-With respect to an authorized flood damage reduction project, or separable element thereof, that has been constructed by a non-Federal interest under section 701b–13 1
+With respect to an authorized flood damage reduction project, or separable element thereof, that has been constructed by a non-Federal interest under section 701b–13 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or an authorized coastal navigation project that has been constructed by the Corps of Engineers pursuant to section 561 of this title before October 23, 2018, the Secretary may provide to the non-Federal interest, at the request of the non-Federal interest, a credit in an amount equal to the estimated Federal share of the cost of the project or separable element, in lieu of providing to the non-Federal interest a reimbursement in that amount or reimbursement of funds of an equivalent amount, subject to the availability of appropriations.
 
@@ -2227,7 +2227,7 @@ At the request of the non-Federal interest, the Secretary may apply all or a por
 
 At the request of the non-Federal interest, the Secretary may apply such funds, subject to the availability of appropriations, equal to the share of the cost of the non-Federal interest of carrying out other flood damage reduction and coastal navigation projects or studies.
 
-(Pub. L. 113–121, title I, § 1022, June 10, 2014, 128 Stat. 1228; Pub. L. 114–322, title I, § 1171, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, § 1136(a), Oct. 23, 2018, 132 Stat. 3783.)
+(Pub. L. 113–121, title I, § 1022, June 10, 2014, 128 Stat. 1228; Pub. L. 114–322, title I, § 1171, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, § 1136(a), Oct. 23, 2018, 132 Stat. 3783.)
 
 **Editorial Notes**
 
@@ -2239,9 +2239,9 @@ Section 701b–13 of this title, referred to in subsec. (a), was repealed by Pub
 
 2018—Pub. L. 115–270 amended section generally. Prior to amendment, section related to credit in lieu of reimbursement.
 
-2016—Subsec. (a). Pub. L. 114–322, § 1171(1), substituted “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under section 701b–13 of this title (as it existed before the repeal made by section 1014(c)(3))” for “that has been constructed by a non-Federal interest under section 701b–13 of this title before June 10, 2014”.
+2016—Subsec. (a). Pub. L. 114–322, § 1171(1), substituted “for which a written agreement with the Corps of Engineers for construction was finalized on or before December 31, 2014, under section 701b–13 of this title (as it existed before the repeal made by section 1014(c)(3))” for “that has been constructed by a non-Federal interest under section 701b–13 of this title before June 10, 2014”.
 
-Subsec. (b). Pub. L. 114–322, § 1171(2), substituted “non-Federal share of the cost of carrying out other water resources development projects or studies of the non-Federal interest” for “share of the cost of the non-Federal interest of carrying out other flood damage reduction projects or studies”.
+Subsec. (b). Pub. L. 114–322, § 1171(2), substituted “non-Federal share of the cost of carrying out other water resources development projects or studies of the non-Federal interest” for “share of the cost of the non-Federal interest of carrying out other flood damage reduction projects or studies”.
 
 **Codification**
 
@@ -2253,7 +2253,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2226. Water resources projects on Federal land
+### § 2226. Water resources projects on Federal land
 
 **(a) In general**
 
@@ -2267,7 +2267,7 @@ The Secretary may carry out a project pursuant to subsection (a) only after the 
 
 Nothing in this section alters any non-Federal cost-sharing requirements for the project.
 
-(Pub. L. 113–121, title I, § 1025, June 10, 2014, 128 Stat. 1229.)
+(Pub. L. 113–121, title I, § 1025, June 10, 2014, 128 Stat. 1229.)
 
 **Editorial Notes**
 
@@ -2281,11 +2281,11 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2227. Clarification of impacts to other Federal facilities
+### § 2227. Clarification of impacts to other Federal facilities
 
 In any case where the modification or construction of a water resources development project carried out by the Secretary adversely impacts other Federal facilities, the Secretary may accept from other Federal agencies such funds as may be necessary to address the adverse impact, including by removing, relocating, or reconstructing those facilities.
 
-(Pub. L. 113–121, title I, § 1026, June 10, 2014, 128 Stat. 1229.)
+(Pub. L. 113–121, title I, § 1026, June 10, 2014, 128 Stat. 1229.)
 
 **Editorial Notes**
 
@@ -2301,7 +2301,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 ## SUBCHAPTER II—HARBOR DEVELOPMENT
 
-### § 2231. Study of water resources development projects by non-Federal interests
+### § 2231. Study of water resources development projects by non-Federal interests
 
 **(a) Submission to Secretary**
 
@@ -2417,53 +2417,53 @@ In carrying out this section, the Secretary shall ensure that the use of funds a
 
 There is authorized to be appropriated to the Secretary $1,000,000 for each fiscal year to carry out this section.
 
-(Pub. L. 99–662, title II, § 203, Nov. 17, 1986, 100 Stat. 4098; Pub. L. 113–121, title I, § 1014(a), June 10, 2014, 128 Stat. 1219; Pub. L. 114–322, title I, § 1126, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1152, Oct. 23, 2018, 132 Stat. 3788; Pub. L. 116–260, div. AA, title I, § 161(a), Dec. 27, 2020, 134 Stat. 2665; Pub. L. 118–272, div. A, title I, § 1109(a), Jan. 4, 2025, 138 Stat. 3007.)
+(Pub. L. 99–662, title II, § 203, Nov. 17, 1986, 100 Stat. 4098; Pub. L. 113–121, title I, § 1014(a), June 10, 2014, 128 Stat. 1219; Pub. L. 114–322, title I, § 1126, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1152, Oct. 23, 2018, 132 Stat. 3788; Pub. L. 116–260, div. AA, title I, § 161(a), Dec. 27, 2020, 134 Stat. 2665; Pub. L. 118–272, div. A, title I, § 1109(a), Jan. 4, 2025, 138 Stat. 3007.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(1)(A). Pub. L. 118–272, § 1109(a)(1)(A)(i), substituted “may undertake and submit to the Secretary—
+2025—Subsec. (a)(1)(A). Pub. L. 118–272, § 1109(a)(1)(A)(i), substituted “may undertake and submit to the Secretary—
 
 “(A) a federally authorized feasibility study of a proposed water resources development project; or” for “may undertake a federally authorized feasibility study of a proposed water resources development project, or,”.
 
-Subsec. (a)(1)(B). Pub. L. 118–272, § 1109(a)(1)(A)(ii), (iii), substituted “(B) upon the determination” for “upon the written approval”, struck out “undertake” before “a feasibility”, and substituted “or constructed by a non-Federal interest pursuant to section 2232 of this title” for “, and submit the study to the Secretary”.
+Subsec. (a)(1)(B). Pub. L. 118–272, § 1109(a)(1)(A)(ii), (iii), substituted “(B) upon the determination” for “upon the written approval”, struck out “undertake” before “a feasibility”, and substituted “or constructed by a non-Federal interest pursuant to section 2232 of this title” for “, and submit the study to the Secretary”.
 
-Subsec. (a)(2). Pub. L. 118–272, § 1109(a)(1)(B)(i), in introductory provisions, struck out “, as soon as practicable,” after “Secretary” and substituted “non-Federal interests that” for “non-Federal interests to”.
+Subsec. (a)(2). Pub. L. 118–272, § 1109(a)(1)(B)(i), in introductory provisions, struck out “, as soon as practicable,” after “Secretary” and substituted “non-Federal interests that” for “non-Federal interests to”.
 
-Subsec. (a)(2)(A). Pub. L. 118–272, § 1109(a)(1)(B)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “ensure that any feasibility study with respect to which the Secretary submits an assessment to Congress under subsection (c) complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and”.
+Subsec. (a)(2)(A). Pub. L. 118–272, § 1109(a)(1)(B)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “ensure that any feasibility study with respect to which the Secretary submits an assessment to Congress under subsection (c) complies with all of the requirements that would apply to a feasibility study undertaken by the Secretary; and”.
 
-Subsec. (a)(2)(C), (D). Pub. L. 118–272, § 1109(a)(1)(B)(iii), (iv), added subpars. (C) and (D).
+Subsec. (a)(2)(C), (D). Pub. L. 118–272, § 1109(a)(1)(B)(iii), (iv), added subpars. (C) and (D).
 
-Subsec. (a)(3). Pub. L. 118–272, § 1109(a)(1)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 118–272, § 1109(a)(1)(C), added par. (3).
 
-Subsec. (b)(3)(B). Pub. L. 118–272, § 1109(a)(2)(A)(i), substituted “receives a study submission under subsection (a) or receives a request under subparagraph (A)” for “receives a request under this paragraph”.
+Subsec. (b)(3)(B). Pub. L. 118–272, § 1109(a)(2)(A)(i), substituted “receives a study submission under subsection (a) or receives a request under subparagraph (A)” for “receives a request under this paragraph”.
 
-Subsec. (b)(3)(C). Pub. L. 118–272, § 1109(a)(2)(A)(ii), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 118–272, § 1109(a)(2)(A)(ii), added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 118–272, § 1109(a)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Upon receipt of a request under paragraph (3), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the request and a timeline for completion of the required analyses, reviews, and compliance processes.”
+Subsec. (b)(4). Pub. L. 118–272, § 1109(a)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Upon receipt of a request under paragraph (3), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of the request and a timeline for completion of the required analyses, reviews, and compliance processes.”
 
-Subsec. (b)(5). Pub. L. 118–272, § 1109(a)(2)(C), substituted “receiving a study submission under subsection (a) or a request under paragraph (3)(A)” for “receiving a request under paragraph (3)”.
+Subsec. (b)(5). Pub. L. 118–272, § 1109(a)(2)(C), substituted “receiving a study submission under subsection (a) or a request under paragraph (3)(A)” for “receiving a request under paragraph (3)”.
 
-Subsec. (d). Pub. L. 118–272, § 1109(a)(3), designated existing provisions as par. (1), inserted heading, substituted “of the project or modification to the project” for “of the project”, and added par. (2).
+Subsec. (d). Pub. L. 118–272, § 1109(a)(3), designated existing provisions as par. (1), inserted heading, substituted “of the project or modification to the project” for “of the project”, and added par. (2).
 
-Subsec. (f). Pub. L. 118–272, § 1109(a)(4), added subsec. (f).
+Subsec. (f). Pub. L. 118–272, § 1109(a)(4), added subsec. (f).
 
-2020—Subsec. (a)(1). Pub. L. 116–260, § 161(a)(1)(A), inserted “, or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers,” after “water resources development project”.
+2020—Subsec. (a)(1). Pub. L. 116–260, § 161(a)(1)(A), inserted “, or, upon the written approval of the Secretary that the modifications are consistent with the authorized purposes of the project, undertake a feasibility study on modifications to a water resources development project constructed by the Corps of Engineers,” after “water resources development project”.
 
-Subsec. (a)(2). Pub. L. 116–260, § 161(a)(1)(B), substituted “for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—” for “for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.” and added subpars. (A) and (B).
+Subsec. (a)(2). Pub. L. 116–260, § 161(a)(1)(B), substituted “for the formulation of feasibility studies of water resources development projects undertaken by non-Federal interests to—” for “for feasibility studies of water resources development projects to provide sufficient information for the formulation of the studies.” and added subpars. (A) and (B).
 
-Subsec. (b). Pub. L. 116–260, § 161(a)(2), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
+Subsec. (b). Pub. L. 116–260, § 161(a)(2), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
 
-Subsec. (c)(1). Pub. L. 116–260, § 161(a)(3), in introductory provisions, substituted “after the completion of review of a feasibility study under subsection (b)” for “after the date of receipt of a feasibility study of a project under subsection (a)(1)” and “an assessment” for “a report”.
+Subsec. (c)(1). Pub. L. 116–260, § 161(a)(3), in introductory provisions, substituted “after the completion of review of a feasibility study under subsection (b)” for “after the date of receipt of a feasibility study of a project under subsection (a)(1)” and “an assessment” for “a report”.
 
-2018—Subsec. (a)(1). Pub. L. 115–270, § 1152(1), inserted “federally authorized” before “feasibility study”.
+2018—Subsec. (a)(1). Pub. L. 115–270, § 1152(1), inserted “federally authorized” before “feasibility study”.
 
-Subsec. (c). Pub. L. 115–270, § 1152(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+Subsec. (c). Pub. L. 115–270, § 1152(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Not later than 180 days after the date of receipt of a feasibility study of a project under subsection (a)(1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
 
 “(1) the results of the Secretary’s review of the study under subsection (b), including a determination of whether the project is feasible;
 
@@ -2471,7 +2471,7 @@ Subsec. (c). Pub. L. 115–270, § 1152(2), amended subsec. (c) generally. Pri
 
 “(3) any conditions the Secretary may require for construction of the project.”
 
-Subsec. (e). Pub. L. 115–270, § 1152(3), amended subsec. (e) generally. Prior to amendment, text read as follows “At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.”.
+Subsec. (e). Pub. L. 115–270, § 1152(3), amended subsec. (e) generally. Prior to amendment, text read as follows “At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.”.
 
 2016—Subsec. (e). Pub. L. 114–322 added subsec. (e).
 
@@ -2485,31 +2485,31 @@ For short title of title II of Pub. L. 99–662, enacting this subchapter, as th
 
 **Guidance**
 
-Pub. L. 118–272, div. A, title I, § 1109(b), Jan. 4, 2025, 138 Stat. 3009, provided that: “Not later than 18 months after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any guidance as necessary to reflect the amendments made by this section [amending this section].”
+Pub. L. 118–272, div. A, title I, § 1109(b), Jan. 4, 2025, 138 Stat. 3009, provided that: “Not later than 18 months after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any guidance as necessary to reflect the amendments made by this section [amending this section].”
 
 **Implementation**
 
-Pub. L. 118–272, div. A, title I, § 1109(c), Jan. 4, 2025, 138 Stat. 3009, provided that: “Any non-Federal interest that has entered in a written agreement with the Secretary [of the Army] related to carrying out a feasibility study pursuant to section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) before the date of enactment of this Act [Jan. 4, 2025] may submit to the Secretary a request to amend such agreement to reflect the amendments made by this section [amending this section].”
+Pub. L. 118–272, div. A, title I, § 1109(c), Jan. 4, 2025, 138 Stat. 3009, provided that: “Any non-Federal interest that has entered in a written agreement with the Secretary [of the Army] related to carrying out a feasibility study pursuant to section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) before the date of enactment of this Act [Jan. 4, 2025] may submit to the Secretary a request to amend such agreement to reflect the amendments made by this section [amending this section].”
 
 **Deadline**
 
-Pub. L. 116–260, div. AA, title I, § 161(b), Dec. 27, 2020, 134 Stat. 2667, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall issue revised guidelines under section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) to implement the amendments made by this section [amending this section].”
+Pub. L. 116–260, div. AA, title I, § 161(b), Dec. 27, 2020, 134 Stat. 2667, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall issue revised guidelines under section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) to implement the amendments made by this section [amending this section].”
 
 **Hold Harmless**
 
-Pub. L. 116–260, div. AA, title I, § 161(c), Dec. 27, 2020, 134 Stat. 2667, provided that:
+Pub. L. 116–260, div. AA, title I, § 161(c), Dec. 27, 2020, 134 Stat. 2667, provided that:
 
 > **“(1) One-year window.—** The amendments made by this section [amending this section] shall not apply to any feasibility study submitted to the Secretary [of the Army] under section 203 of the Water Resources Development Act of 1986 (33 U.S.C. 2231) during the one-year period prior to the date of enactment of this section [Dec. 27, 2020].
 
 > **“(2) 2020 projects.—** The amendments made by this section shall not apply to any project authorized by section 403 of this Act [section 403 of div. AA of Pub. L. 116–260, 134 Stat. 2743, which is not classified to the Code].”
 
-### § 2232. Construction of water resources development projects by non-Federal interests
+### § 2232. Construction of water resources development projects by non-Federal interests
 
 **(a) Water resources development project defined** In this section, the term “water resources development project” means a project recommendation that results from—
 
-**(1)** a feasibility report, as such term is defined in section 2282d(f) 1
+**(1)** a feasibility report, as such term is defined in section 2282d(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -2675,65 +2675,65 @@ If a non-Federal interest notifies the Secretary that the non-Federal interest i
 
 In the case of improvements determined by the Secretary pursuant to paragraph (1)(A)(i) to deviate from the national economic development plan, the Secretary shall be responsible for all operation and maintenance costs of such improvements, as described in section 2211(b) of this title, including costs in excess of the costs of the national economic development plan, if the Secretary determines that the improvements satisfy the requirements of paragraph (1).
 
-(Pub. L. 99–662, title II, § 204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, § 303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, § 1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, § 1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1153, Oct. 23, 2018, 132 Stat. 3789; Pub. L. 116–260, div. AA, title I, § 105(a), (b), Dec. 27, 2020, 134 Stat. 2622; Pub. L. 118–272, div. A, title I, § 1110(a), Jan. 4, 2025, 138 Stat. 3009.)
+(Pub. L. 99–662, title II, § 204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, § 303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, § 1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, § 1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1153, Oct. 23, 2018, 132 Stat. 3789; Pub. L. 116–260, div. AA, title I, § 105(a), (b), Dec. 27, 2020, 134 Stat. 2622; Pub. L. 118–272, div. A, title I, § 1110(a), Jan. 4, 2025, 138 Stat. 3009.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282d(g) of this title by Pub. L. 115–270, title I, § 1332(a)(3), Oct. 23, 2018, 132 Stat. 3834. Section 2282d(g) of this title was subsequently redesignated section 2282d(i) of this title by Pub. L. 118–272, div. A, title I, § 1111(2), Jan. 4, 2025, 138 Stat. 3010.
+Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282d(g) of this title by Pub. L. 115–270, title I, § 1332(a)(3), Oct. 23, 2018, 132 Stat. 3834. Section 2282d(g) of this title was subsequently redesignated section 2282d(i) of this title by Pub. L. 118–272, div. A, title I, § 1111(2), Jan. 4, 2025, 138 Stat. 3010.
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 118–272, § 1110(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.”
+2025—Subsec. (c)(1). Pub. L. 118–272, § 1110(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.”
 
-Subsec. (d)(1)(A)(i), (ii). Pub. L. 118–272, § 1110(a)(2)(A), substituted “plan” for “plans”.
+Subsec. (d)(1)(A)(i), (ii). Pub. L. 118–272, § 1110(a)(2)(A), substituted “plan” for “plans”.
 
-Subsec. (d)(3)(B). Pub. L. 118–272, § 1110(a)(2)(B), inserted “, discrete segment of the project, or separable element of the project” after “certifies that the project”.
+Subsec. (d)(3)(B). Pub. L. 118–272, § 1110(a)(2)(B), inserted “, discrete segment of the project, or separable element of the project” after “certifies that the project”.
 
-Subsec. (d)(5)(A)(ii), (B)(ii). Pub. L. 118–272, § 1110(a)(2)(C), substituted “plan” for “plans”.
+Subsec. (d)(5)(A)(ii), (B)(ii). Pub. L. 118–272, § 1110(a)(2)(C), substituted “plan” for “plans”.
 
-Subsec. (d)(6). Pub. L. 118–272, § 1110(a)(2)(D), added par. (6).
+Subsec. (d)(6). Pub. L. 118–272, § 1110(a)(2)(D), added par. (6).
 
-2020—Subsec. (c)(1). Pub. L. 116–260, § 105(a), substituted “under this section” for “under subsection (b)”.
+2020—Subsec. (c)(1). Pub. L. 116–260, § 105(a), substituted “under this section” for “under subsection (b)”.
 
-Subsec. (f). Pub. L. 116–260, § 105(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to operation and maintenance.
+Subsec. (f). Pub. L. 116–260, § 105(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to operation and maintenance.
 
-2018—Subsec. (b)(1). Pub. L. 115–270, § 1153(1)(A), inserted “federally authorized” before “water resources development project” in introductory provisions.
+2018—Subsec. (b)(1). Pub. L. 115–270, § 1153(1)(A), inserted “federally authorized” before “water resources development project” in introductory provisions.
 
-Subsec. (b)(2)(A). Pub. L. 115–270, § 1153(1)(B), inserted “, except as provided in paragraph (3)” after “Federal or State law”.
+Subsec. (b)(2)(A). Pub. L. 115–270, § 1153(1)(B), inserted “, except as provided in paragraph (3)” after “Federal or State law”.
 
-Subsec. (b)(3), (4). Pub. L. 115–270, § 1153(1)(C), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 115–270, § 1153(1)(C), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 115–270, § 1153(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.”
+Subsec. (c). Pub. L. 115–270, § 1153(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.”
 
-Subsec. (d)(3)(C). Pub. L. 115–270, § 1153(3)(A), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 115–270, § 1153(3)(A), added subpar. (C).
 
-Subsec. (d)(5). Pub. L. 115–270, § 1153(3)(B)(i), substituted “water resources development” for “flood damage reduction” wherever appearing.
+Subsec. (d)(5). Pub. L. 115–270, § 1153(3)(B)(i), substituted “water resources development” for “flood damage reduction” wherever appearing.
 
-Subsec. (d)(5)(A). Pub. L. 115–270, § 1153(3)(B)(ii), substituted “for carrying out a discrete segment of a federally authorized” for “for a discrete segment of a” in introductory provisions.
+Subsec. (d)(5)(A). Pub. L. 115–270, § 1153(3)(B)(ii), substituted “for carrying out a discrete segment of a federally authorized” for “for a discrete segment of a” in introductory provisions.
 
-Subsec. (d)(5)(D). Pub. L. 115–270, § 1153(3)(B)(iii), inserted “to be carried out” after “project” in introductory provisions.
+Subsec. (d)(5)(D). Pub. L. 115–270, § 1153(3)(B)(iii), inserted “to be carried out” after “project” in introductory provisions.
 
 2016—Subsec. (d)(5). Pub. L. 114–322 added par. (5).
 
 2014—Pub. L. 113–121 amended section generally. Prior to amendment, section related to construction of projects by non-Federal interests.
 
-1990—Subsec. (c). Pub. L. 101–640, § 303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
+1990—Subsec. (c). Pub. L. 101–640, § 303(a), inserted after first sentence “The Secretary is further authorized to complete and transmit to the appropriate non-Federal interest any study for improvement to harbors or inland harbors of the United States that is initiated pursuant to section 577 of this title or, upon request of such non-Federal interest, to terminate such study and transmit such partially completed study to the non-Federal interest.”
 
-Subsec. (e). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
+Subsec. (e). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f).
 
-Subsec. (e)(1). Pub. L. 101–640, § 303(b)(2), (3), in introductory provisions inserted “including any small navigation project approved pursuant to section 577 of this title,” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
+Subsec. (e)(1). Pub. L. 101–640, § 303(b)(2), (3), in introductory provisions inserted “including any small navigation project approved pursuant to section 577 of this title,” after “or separable element thereof,” and in subpar. (A) inserted “(or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers)” after “authorization of the project”.
 
-Subsec. (f). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (e), relating to operation and maintenance, as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 101–640, § 303(b)(1), redesignated subsec. (f) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 113–121, title I, § 1014(d), June 10, 2014, 128 Stat. 1222, provided that:
+Pub. L. 113–121, title I, § 1014(d), June 10, 2014, 128 Stat. 1222, provided that:
 
 > “Nothing in this section [amending this section and section 2231 of this title, repealing sections 426i–1 and 701b–13 of this title, and repealing provisions set out as a note under this section] may be construed to affect an agreement in effect on the date of enactment of this Act [June 10, 2014], or an agreement that is finalized between the Corps of Engineers and a non-Federal interest on or before December 31, 2014, under any of the following sections (as such sections were in effect on the day before such date of enactment):
 
@@ -2745,15 +2745,15 @@ Pub. L. 113–121, title I, § 1014(d), June 10, 2014, 128 Stat. 1222, provide
 
 **Guidance**
 
-Pub. L. 118–272, div. A, title I, § 1110(b), Jan. 4, 2025, 138 Stat. 3010, provided that: “Not later than 18 months after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any guidance as necessary to reflect the amendments made by this section [amending this section].”
+Pub. L. 118–272, div. A, title I, § 1110(b), Jan. 4, 2025, 138 Stat. 3010, provided that: “Not later than 18 months after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update any guidance as necessary to reflect the amendments made by this section [amending this section].”
 
 **Implementation**
 
-Pub. L. 118–272, div. A, title I, § 1110(c), Jan. 4, 2025, 138 Stat. 3010, provided that: “Any non-Federal interest that has entered in a written agreement with the Secretary [of the Army] to carry out a water resources development project pursuant to section 204 of the Water Resources Development Act of 1986 (33 U.S.C. 2232) before the date of enactment of this Act [Jan. 4, 2025] may submit to the Secretary a request to amend such agreement to reflect the amendments made by this section [amending this section].”
+Pub. L. 118–272, div. A, title I, § 1110(c), Jan. 4, 2025, 138 Stat. 3010, provided that: “Any non-Federal interest that has entered in a written agreement with the Secretary [of the Army] to carry out a water resources development project pursuant to section 204 of the Water Resources Development Act of 1986 (33 U.S.C. 2232) before the date of enactment of this Act [Jan. 4, 2025] may submit to the Secretary a request to amend such agreement to reflect the amendments made by this section [amending this section].”
 
 **Report on Improvements by Non–Federal Interest**
 
-Pub. L. 116–260, div. AA, title I, § 105(c), Dec. 27, 2020, 134 Stat. 2623, provided that:
+Pub. L. 116–260, div. AA, title I, § 105(c), Dec. 27, 2020, 134 Stat. 2623, provided that:
 
 > “A non-Federal interest may submit to the Secretary [of the Army] a report on improvements to a federally authorized harbor or inland harbor to be carried out by the non-Federal interest, containing any information necessary for the Secretary determine whether the improvements satisfy the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2232[(f)(1)]), including—
 
@@ -2767,11 +2767,11 @@ Pub. L. 116–260, div. AA, title I, § 105(c), Dec. 27, 2020, 134 Stat. 2623,
 
 **Project Studies Subject to Independent Peer Review**
 
-Pub. L. 116–260, div. AA, title I, § 105(d), Dec. 27, 2020, 134 Stat. 2623, provided that: “The Secretary [of the Army] shall not be required to subject a project study for a project with a cost of less than $200,000,000, which the Secretary determines satisfies the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2232[(f)(1)]), to independent peer review under section 2034(a)(3)(A)(i) of the Water Resources Development Act of 2007 (33 U.S.C. 2343(a)(3)(A)(i)).”
+Pub. L. 116–260, div. AA, title I, § 105(d), Dec. 27, 2020, 134 Stat. 2623, provided that: “The Secretary [of the Army] shall not be required to subject a project study for a project with a cost of less than $200,000,000, which the Secretary determines satisfies the requirements of section 204(f)(1) of the Water Resources Development Act of 1986 (33 U.S.C. 2232[(f)(1)]), to independent peer review under section 2034(a)(3)(A)(i) of the Water Resources Development Act of 2007 (33 U.S.C. 2343(a)(3)(A)(i)).”
 
 **Preconstruction Engineering Design Demonstration Program**
 
-Pub. L. 115–270, title I, § 1176, Oct. 23, 2018, 132 Stat. 3801, provided that:
+Pub. L. 115–270, title I, § 1176, Oct. 23, 2018, 132 Stat. 3801, provided that:
 
 > **“(a) Definition of Environmental Impact Statement.—** In this section, the term ‘environmental impact statement’ means the detailed written statement required under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
 
@@ -2795,17 +2795,17 @@ Pub. L. 115–270, title I, § 1176, Oct. 23, 2018, 132 Stat. 3801, provided t
 
 **Navigation Safety**
 
-Pub. L. 114–322, title I, § 1102, Dec. 16, 2016, 130 Stat. 1633, provided that: “The Secretary [of the Army] shall use section 5 of the Act of March 4, 1915 (38 Stat. 1053, chapter 142; 33 U.S.C. 562), to carry out navigation safety activities at those projects eligible for operation and maintenance under section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)).”
+Pub. L. 114–322, title I, § 1102, Dec. 16, 2016, 130 Stat. 1633, provided that: “The Secretary [of the Army] shall use section 5 of the Act of March 4, 1915 (38 Stat. 1053, chapter 142; 33 U.S.C. 562), to carry out navigation safety activities at those projects eligible for operation and maintenance under section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)).”
 
 **Operation and Maintenance of Certain Projects**
 
-Pub. L. 113–121, title I, § 1016, June 10, 2014, 128 Stat. 1223, provided that: “The Secretary [of the Army] may assume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 (33 U.S.C. 2211(b)) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)) are met.”
+Pub. L. 113–121, title I, § 1016, June 10, 2014, 128 Stat. 1223, provided that: “The Secretary [of the Army] may assume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 (33 U.S.C. 2211(b)) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)) are met.”
 
 **Demonstration of Construction of Federal Project by Non-Federal Interests**
 
-Pub. L. 101–640, title IV, § 404, Nov. 28, 1990, 104 Stat. 4646, which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by Pub. L. 113–121, title I, § 1014(c)(1), June 10, 2014, 128 Stat. 1222.
+Pub. L. 101–640, title IV, § 404, Nov. 28, 1990, 104 Stat. 4646, which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by Pub. L. 113–121, title I, § 1014(c)(1), June 10, 2014, 128 Stat. 1222.
 
-### § 2233. Coordination and scheduling of Federal, State, and local actions
+### § 2233. Coordination and scheduling of Federal, State, and local actions
 
 **(a) Notice of intent**
 
@@ -2843,7 +2843,7 @@ Not later than the final day of the schedule, the Secretary shall notify the non
 
 Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
-(Pub. L. 99–662, title II, § 205, Nov. 17, 1986, 100 Stat. 4101.)
+(Pub. L. 99–662, title II, § 205, Nov. 17, 1986, 100 Stat. 4101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2851,11 +2851,11 @@ Not later than one year after November 17, 1986, the Secretary shall prepare and
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 2234. Nonapplicability to Saint Lawrence Seaway
+### § 2234. Nonapplicability to Saint Lawrence Seaway
 
 Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Great Lakes St. Lawrence Seaway Development Corporation.
 
-(Pub. L. 99–662, title II, § 206, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(A), Dec. 27, 2020, 134 Stat. 2756.)
+(Pub. L. 99–662, title II, § 206, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(A), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
@@ -2863,13 +2863,13 @@ Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland
 
 2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-### § 2235. Construction in usable increments
+### § 2235. Construction in usable increments
 
 Any navigation project for a harbor or inland harbor authorized by this subchapter or any other provision of law enacted before, on, or after November 17, 1986, may be constructed in usable increments.
 
-(Pub. L. 99–662, title II, § 207, Nov. 17, 1986, 100 Stat. 4102.)
+(Pub. L. 99–662, title II, § 207, Nov. 17, 1986, 100 Stat. 4102.)
 
-### § 2236. Port or harbor dues
+### § 2236. Port or harbor dues
 
 **(a) Consent of Congress** Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
@@ -2939,15 +2939,15 @@ only vessels at least comparable in size to those used to justify these features
 
 **(A)** file a schedule of any port or harbor dues levied under this subsection with the Secretary and the Federal Maritime Commission, which the Commission shall make available for public inspection;
 
-**(B)** provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) 1
+**(B)** provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section;
 
 **(C)** designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and such other documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
 
-**(D)** consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) <sup>1</sup> of this section.
+**(D)** consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) <sup>1</sup> of this section.
 
 **(b) Jurisdiction**
 
@@ -2965,7 +2965,7 @@ of this section;
 
 **(c) Collection of duties**
 
-**(1) 2 [footnote: 2 So in original. No par. (2) has been enacted.] Delivery of certificate and manifest**
+**(1) 2 [footnote: 2 So in original. No par. (2) has been enacted.] Delivery of certificate and manifest**
 
 **(A) Upon arrival of vessel**
 
@@ -2985,7 +2985,7 @@ The shipper, consignor, or terminal operator having custody of any cargo to be l
 
 Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
 
-(Pub. L. 99–662, title II, § 208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, § 1021(g), Dec. 21, 1995, 109 Stat. 713.)
+(Pub. L. 99–662, title II, § 208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, § 1021(g), Dec. 21, 1995, 109 Stat. 713.)
 
 **Editorial Notes**
 
@@ -2995,11 +2995,11 @@ Subsection (b) of this section, referred to in subsec. (a)(6)(B), which related 
 
 Subsection (c) of this section, referred to in subsec. (a)(6)(D), which related to jurisdiction, was redesignated as subsec. (b) by Pub. L. 104–66.
 
-The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Codification**
 
-In subsec. (d)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (d)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 **Amendments**
 
@@ -3011,13 +3011,13 @@ In subsec. (d)(1), “section 60105 of title 46” substituted for “section 41
 
 “(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.”
 
-### § 2237. Information for national security
+### § 2237. Information for national security
 
 Any non-Federal interest shall provide the United States the information necessary for military readiness planning and harbor, inland harbor, and national security, including information necessary to obtain national security clearances for individuals employed in critical harbor and inland harbor positions.
 
-(Pub. L. 99–662, title II, § 209, Nov. 17, 1986, 100 Stat. 4106.)
+(Pub. L. 99–662, title II, § 209, Nov. 17, 1986, 100 Stat. 4106.)
 
-### § 2238. Authorization of appropriations
+### § 2238. Authorization of appropriations
 
 **(a) Trust fund** There are authorized to be appropriated out of the Harbor Maintenance Trust Fund, established by section 9505 of title 26, for each fiscal year such sums as may be necessary to pay—
 
@@ -3183,9 +3183,9 @@ Not later than 270 days after June 10, 2014, and biennially thereafter, the Secr
 
 **(C) Opportunities for beneficial use of dredged materials**
 
-In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 (130 Stat. 1645; 33 U.S.C. 2326 note 1
+In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 (130 Stat. 1645; 33 U.S.C. 2326 note 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ).
 
@@ -3273,49 +3273,49 @@ The term “harbor maintenance tax” means the amounts collected under section 
 
 For purposes of this paragraph, State and local investments in infrastructure shall include infrastructure investments made using amounts made available for activities under section 5305(a)(9) of title 42.
 
-(Pub. L. 99–662, title II, § 210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, § 316, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 113–121, title II, § 2102(a), June 10, 2014, 128 Stat. 1273; Pub. L. 114–322, title I, §§ 1103, 1107, 1114, Dec. 16, 2016, 130 Stat. 1633, 1634, 1638; Pub. L. 115–270, title I, § 1216, Oct. 23, 2018, 132 Stat. 3810; Pub. L. 116–260, div. AA, title I, § 102(b), title V, § 512(c)(5)(B), Dec. 27, 2020, 134 Stat. 2619, 2756; Pub. L. 118–272, div. A, title II, § 1206(d)(1), Jan. 4, 2025, 138 Stat. 3077.)
+(Pub. L. 99–662, title II, § 210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, § 316, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 113–121, title II, § 2102(a), June 10, 2014, 128 Stat. 1273; Pub. L. 114–322, title I, §§ 1103, 1107, 1114, Dec. 16, 2016, 130 Stat. 1633, 1634, 1638; Pub. L. 115–270, title I, § 1216, Oct. 23, 2018, 132 Stat. 3810; Pub. L. 116–260, div. AA, title I, § 102(b), title V, § 512(c)(5)(B), Dec. 27, 2020, 134 Stat. 2619, 2756; Pub. L. 118–272, div. A, title II, § 1206(d)(1), Jan. 4, 2025, 138 Stat. 3077.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1122 of the Water Resources Development Act of 2016, referred to in subsec. (e)(2)(C), is section 1122 of Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645. Subsecs. (a) to (h) of section 1122, which was formerly set out as a note under section 2326 of this title, was transferred to section 2326i of this title. Subsec. (i) of section 1122 amended section 2326 of this title. Subsec. (j) of section 1122 amended section 1962d–5f of Title 42, The Public Health and Welfare.
+Section 1122 of the Water Resources Development Act of 2016, referred to in subsec. (e)(2)(C), is section 1122 of Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645. Subsecs. (a) to (h) of section 1122, which was formerly set out as a note under section 2326 of this title, was transferred to section 2326i of this title. Subsec. (i) of section 1122 amended section 2326 of this title. Subsec. (j) of section 1122 amended section 1962d–5f of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
 2025—Subsec. (e)(3). Pub. L. 118–272 struck out par. (3) which related to report to Congress with respect to harbors and inland harbors referred to in subsection (a)(2).
 
-2020—Subsec. (a)(1). Pub. L. 116–260, § 512(c)(5)(B), substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+2020—Subsec. (a)(1). Pub. L. 116–260, § 512(c)(5)(B), substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-Subsec. (c)(3). Pub. L. 116–260, § 102(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 116–260, § 102(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (e)(2)(A)(ii). Pub. L. 116–260, § 102(b)(2), inserted “uses described in subsection (c)(3)(B) and” after “costs for”.
+Subsec. (e)(2)(A)(ii). Pub. L. 116–260, § 102(b)(2), inserted “uses described in subsection (c)(3)(B) and” after “costs for”.
 
-Subsec. (f)(2), (3). Pub. L. 116–260, § 102(b)(3)(C), added pars. (2) and (3) and struck out former par. (2) which defined “emerging harbor project”.
+Subsec. (f)(2), (3). Pub. L. 116–260, § 102(b)(3)(C), added pars. (2) and (3) and struck out former par. (2) which defined “emerging harbor project”.
 
-Subsec. (f)(4). Pub. L. 116–260, § 102(b)(3)(B), redesignated par. (3) as (4) and added subpars. (C) and (D). Former par. (4) redesignated (5).
+Subsec. (f)(4). Pub. L. 116–260, § 102(b)(3)(B), redesignated par. (3) as (4) and added subpars. (C) and (D). Former par. (4) redesignated (5).
 
-Subsec. (f)(4)(C), (D). Pub. L. 116–260, § 102(b)(3)(D), added subpars. (C) and (D).
+Subsec. (f)(4)(C), (D). Pub. L. 116–260, § 102(b)(3)(D), added subpars. (C) and (D).
 
-Subsec. (f)(5). Pub. L. 116–260, § 102(b)(3)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (f)(5). Pub. L. 116–260, § 102(b)(3)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (f)(6). Pub. L. 116–260, § 102(b)(3)(A), (B), redesignated par. (5) as (6) and struck out former par. (6) which defined “high-use harbor project”.
+Subsec. (f)(6). Pub. L. 116–260, § 102(b)(3)(A), (B), redesignated par. (5) as (6) and struck out former par. (6) which defined “high-use harbor project”.
 
-2018—Subsec. (e)(1). Pub. L. 115–270, § 1216(1), substituted “shall assess, and issue a report to Congress on, the” for “shall assess the”.
+2018—Subsec. (e)(1). Pub. L. 115–270, § 1216(1), substituted “shall assess, and issue a report to Congress on, the” for “shall assess the”.
 
-Subsec. (e)(2)(C). Pub. L. 115–270, § 1216(2), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 115–270, § 1216(2), added subpar. (C).
 
-2016—Subsec. (c)(3). Pub. L. 114–322, § 1103(1), substituted “for each fiscal year” for “for each of fiscal years 2015 through 2022”.
+2016—Subsec. (c)(3). Pub. L. 114–322, § 1103(1), substituted “for each fiscal year” for “for each of fiscal years 2015 through 2022”.
 
-Subsec. (d)(1)(A). Pub. L. 114–322, § 1103(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
+Subsec. (d)(1)(A). Pub. L. 114–322, § 1103(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
 
 “(i) 90 percent of the priority funds shall be used for high- and moderate-use harbor projects.
 
 “(ii) 10 percent of the priority funds shall be used for emerging harbor projects.”
 
-Subsec. (d)(1)(B). Pub. L. 114–322, § 1107, substituted “For each fiscal year” for “For each of fiscal years 2015 through 2024” in introductory provisions.
+Subsec. (d)(1)(B). Pub. L. 114–322, § 1107, substituted “For each fiscal year” for “For each of fiscal years 2015 through 2024” in introductory provisions.
 
-Subsec. (e)(3)(B), (C). Pub. L. 114–322, § 1114, added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (e)(3)(B), (C). Pub. L. 114–322, § 1114, added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2014—Subsecs. (c) to (f). Pub. L. 113–121 added subsecs. (c) to (f).
 
@@ -3325,7 +3325,7 @@ Subsec. (e)(3)(B), (C). Pub. L. 114–322, § 1114, added subpar. (B) and rede
 
 **Emerging Harbors**
 
-Pub. L. 118–272, div. A, title I, § 1129, Jan. 4, 2025, 138 Stat. 3018, provided that:
+Pub. L. 118–272, div. A, title I, § 1129, Jan. 4, 2025, 138 Stat. 3018, provided that:
 
 > “Not later than 90 days after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall—
 
@@ -3335,7 +3335,7 @@ Pub. L. 118–272, div. A, title I, § 1129, Jan. 4, 2025, 138 Stat. 3018, pro
 
 **Annual Report on Harbor Maintenance Needs and Trust Fund Expenditures**
 
-Pub. L. 118–272, div. A, title II, § 1206(a)–(c), Jan. 4, 2025, 138 Stat. 3076, 3077, provided that:
+Pub. L. 118–272, div. A, title II, § 1206(a)–(c), Jan. 4, 2025, 138 Stat. 3076, 3077, provided that:
 
 > **“(a) In General.—** On the date on which the budget of the President is submitted to Congress pursuant to section 1105 of title 31, United States Code, for fiscal year 2026, and for each fiscal year thereafter, the Secretary [of the Army] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing—
 
@@ -3357,7 +3357,7 @@ Pub. L. 118–272, div. A, title II, § 1206(a)–(c), Jan. 4, 2025, 138 Stat.
 
 **Criteria for Funding Operation and Maintenance of Small, Remote, and Subsistence Harbors**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8131, Dec. 23, 2022, 136 Stat. 3718, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8131, Dec. 23, 2022, 136 Stat. 3718, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary [of the Army] shall develop specific criteria for the annual evaluation and ranking of maintenance dredging requirements for small harbors and remote and subsistence harbors, taking into account the following:
 
@@ -3379,7 +3379,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8131, Dec. 23, 2022, 136 Stat. 3718
 
 **Authorization of Appropriations for Navigation**
 
-Pub. L. 116–260, div. AA, title I, § 102(a), Dec. 27, 2020, 134 Stat. 2618, provided that:
+Pub. L. 116–260, div. AA, title I, § 102(a), Dec. 27, 2020, 134 Stat. 2618, provided that:
 
 > **“(1) In general.—** In carrying out subsection (c) of section 210 of the Water Resources Development Act of 1986 (33 U.S.C. 2238), for each fiscal year, of the funds made available under such section (including funds appropriated from the Harbor Maintenance Trust Fund), the Secretary [of the Army] shall, to the extent practicable, unless otherwise directed in an Act making appropriations for the Corps of Engineers, make expenditures to pay for operation and maintenance costs of the harbors and inland harbors referred to in subsection (a)(2) of such section, to the extent there are identifiable operations and maintenance needs, of—
 
@@ -3409,9 +3409,9 @@ Pub. L. 116–260, div. AA, title I, § 102(a), Dec. 27, 2020, 134 Stat. 2618,
 
 **Guidance**
 
-Pub. L. 113–121, title II, § 2102(d), as added by Pub. L. 114–322, title I, § 1112, Dec. 16, 2016, 130 Stat. 1637, provided that: “Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 [Dec. 16, 2016], the Secretary [of the Army] shall publish on the website of the Corps of Engineers guidance on the implementation of this section [amending this section, section 2211 of this title, and section 9505 of Title 26, Internal Revenue Code] and the amendments made by this section.”
+Pub. L. 113–121, title II, § 2102(d), as added by Pub. L. 114–322, title I, § 1112, Dec. 16, 2016, 130 Stat. 1637, provided that: “Not later than 90 days after the date of enactment of the Water Resources Development Act of 2016 [Dec. 16, 2016], the Secretary [of the Army] shall publish on the website of the Corps of Engineers guidance on the implementation of this section [amending this section, section 2211 of this title, and section 9505 of Title 26, Internal Revenue Code] and the amendments made by this section.”
 
-### § 2238a. Estimate of harbor maintenance needs
+### § 2238a. Estimate of harbor maintenance needs
 
 For fiscal year 2014 and each fiscal year thereafter, the President’s budget request submitted pursuant to section 1105 of title 31, United States Code, shall include—
 
@@ -3419,7 +3419,7 @@ For fiscal year 2014 and each fiscal year thereafter, the President’s budget r
 
 **(2)** an estimate of the average annual amount of appropriations from the Harbor Maintenance Trust Fund that would be required to increase that average availability to 95 percent over a 3-year period.
 
-(Pub. L. 112–141, div. A, title I, § 1537, July 6, 2012, 126 Stat. 585.)
+(Pub. L. 112–141, div. A, title I, § 1537, July 6, 2012, 126 Stat. 585.)
 
 **Editorial Notes**
 
@@ -3433,7 +3433,7 @@ Section was enacted as part of the Moving Ahead for Progress in the 21st Century
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-### § 2238b. Funding for harbor maintenance programs
+### § 2238b. Funding for harbor maintenance programs
 
 **(a) Definitions** In this section:
 
@@ -3491,7 +3491,7 @@ It is the sense of Congress that any increase in funding for harbor maintenance 
 
 The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.
 
-(Pub. L. 113–121, title II, § 2101, June 10, 2014, 128 Stat. 1272; Pub. L. 114–322, title I, § 1108, Dec. 16, 2016, 130 Stat. 1634.)
+(Pub. L. 113–121, title II, § 2101, June 10, 2014, 128 Stat. 1272; Pub. L. 114–322, title I, § 1108, Dec. 16, 2016, 130 Stat. 1634.)
 
 **Editorial Notes**
 
@@ -3501,9 +3501,9 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-Subsec. (b)(1). Pub. L. 114–322, § 1108(1), substituted “Except as provided in subsection (c), the target total” for “The target total” in introductory provisions.
+Subsec. (b)(1). Pub. L. 114–322, § 1108(1), substituted “Except as provided in subsection (c), the target total” for “The target total” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 114–322, § 1108(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 114–322, § 1108(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3511,7 +3511,7 @@ Subsecs. (c), (d). Pub. L. 114–322, § 1108(2), (3), added subsec. (c) and r
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2238b–1. Budgetary treatment expansion and adjustment for the Harbor Maintenance Trust Fund
+### § 2238b–1. Budgetary treatment expansion and adjustment for the Harbor Maintenance Trust Fund
 
 Any discretionary appropriation for the Corps of Engineers—
 
@@ -3565,7 +3565,7 @@ Any discretionary appropriation for the Corps of Engineers—
 
 shall be subtracted from the estimate of discretionary budget authority and outlays for any estimate of an appropriations Act under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985.
 
-(Pub. L. 116–136, div. B, title IV, § 14003, Mar. 27, 2020, 134 Stat. 526; Pub. L. 116–260, div. AA, title I, § 101, Dec. 27, 2020, 134 Stat. 2618.)
+(Pub. L. 116–136, div. B, title IV, § 14003, Mar. 27, 2020, 134 Stat. 526; Pub. L. 116–260, div. AA, title I, § 101, Dec. 27, 2020, 134 Stat. 2618.)
 
 **Editorial Notes**
 
@@ -3573,7 +3573,7 @@ shall be subtracted from the estimate of discretionary budget authority and outl
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in concluding provisions, is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in concluding provisions, is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in concluding provisions, is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Codification**
 
@@ -3583,7 +3583,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: “Any discretionary appropriation for the Corps of Engineers derived from the Harbor Maintenance Trust Fund (not to exceed the total amount deposited in the Harbor Maintenance Trust Fund in the prior fiscal year) shall be subtracted from the estimate of discretionary budget authority and outlays for any estimate of an appropriations Act under the Congressional Budget and Impoundment Control Act of 1974 or the Balanced Budget and Emergency Deficit Control Act of 1985: *Provided*, That the modifications described in this section shall not take effect until the earlier of January 1, 2021 or the date of enactment of legislation authorizing the development of water resources and shall remain in effect thereafter.”
 
-### § 2238c. Additional measures at donor ports and energy transfer ports
+### § 2238c. Additional measures at donor ports and energy transfer ports
 
 **(a) Definitions** In this section:
 
@@ -3723,7 +3723,7 @@ The Secretary, in consultation with a port electing to provide payments under su
 
 Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
 
-(Pub. L. 113–121, title II, § 2106, June 10, 2014, 128 Stat. 1280; Pub. L. 114–322, title I, § 1110, Dec. 16, 2016, 130 Stat. 1634; Pub. L. 116–260, div. AA, title I, § 104(a)–(b)(2), Dec. 27, 2020, 134 Stat. 2621, 2622.)
+(Pub. L. 113–121, title II, § 2106, June 10, 2014, 128 Stat. 1280; Pub. L. 114–322, title I, § 1110, Dec. 16, 2016, 130 Stat. 1634; Pub. L. 116–260, div. AA, title I, § 104(a)–(b)(2), Dec. 27, 2020, 134 Stat. 2621, 2622.)
 
 **Editorial Notes**
 
@@ -3733,83 +3733,83 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2020—Subsec. (a)(3)(A)(ii). Pub. L. 116–260, § 104(b)(1)(A)(i), amended cl. (ii) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;”.
+2020—Subsec. (a)(3)(A)(ii). Pub. L. 116–260, § 104(b)(1)(A)(i), amended cl. (ii) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;”.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 116–260, § 104(b)(1)(A)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
+Subsec. (a)(3)(A)(iii). Pub. L. 116–260, § 104(b)(1)(A)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
 
-Subsec. (a)(3)(A)(iv). Pub. L. 116–260, § 104(b)(1)(A)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
+Subsec. (a)(3)(A)(iv). Pub. L. 116–260, § 104(b)(1)(A)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
 
-Subsec. (a)(5)(B). Pub. L. 116–260, § 104(b)(1)(B), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012” in two places.
+Subsec. (a)(5)(B). Pub. L. 116–260, § 104(b)(1)(B), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012” in two places.
 
-Subsec. (a)(8), (9). Pub. L. 116–260, § 104(b)(1)(C), added par. (8) and redesignated former par. (8) as (9).
+Subsec. (a)(8), (9). Pub. L. 116–260, § 104(b)(1)(C), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (a)(9)(B). Pub. L. 116–260, § 104(b)(1)(D)(i), amended subpar. (B) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;”.
+Subsec. (a)(9)(B). Pub. L. 116–260, § 104(b)(1)(D)(i), amended subpar. (B) generally. Prior to amendment, text read as follows: “at which the total amount of harbor maintenance taxes collected comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;”.
 
-Subsec. (a)(9)(C). Pub. L. 116–260, § 104(b)(1)(D)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
+Subsec. (a)(9)(C). Pub. L. 116–260, § 104(b)(1)(D)(ii), inserted “(including the estimated taxes related to domestic cargo and cruise passengers)” after “taxes collected” and substituted “3 fiscal years” for “5 fiscal years”.
 
-Subsec. (a)(9)(D). Pub. L. 116–260, § 104(b)(1)(D)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
+Subsec. (a)(9)(D). Pub. L. 116–260, § 104(b)(1)(D)(iii), substituted “on an average annual basis for the previous 3 fiscal years” for “in fiscal year 2012”.
 
-Subsec. (e). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to report to Congress.
+Subsec. (e). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to report to Congress.
 
-Subsec. (e)(1). Pub. L. 116–260, § 104(b)(2)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.”
+Subsec. (e)(1). Pub. L. 116–260, § 104(b)(2)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2020.”
 
-Subsec. (f). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 116–260, § 104(a)(1), substituted “2022” for “2020”.
+Subsec. (f)(1). Pub. L. 116–260, § 104(a)(1), substituted “2022” for “2020”.
 
-Subsec. (f)(3). Pub. L. 116–260, § 104(a)(2), struck out par. (3). Prior to amendment, text read as follows: “If the target total budget resources under subparagraphs (A) through (D) of section 2238b(b)(1) of this title are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.”
+Subsec. (f)(3). Pub. L. 116–260, § 104(a)(2), struck out par. (3). Prior to amendment, text read as follows: “If the target total budget resources under subparagraphs (A) through (D) of section 2238b(b)(1) of this title are met for each of fiscal years 2016 through 2020, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.”
 
-Subsec. (g). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 116–260, § 104(b)(2)(A), redesignated subsec. (g) as (f).
 
-2016—Subsec. (a)(2). Pub. L. 114–322, § 1110(1)(B), added par. (2). Former par. (2) redesignated (3).
+2016—Subsec. (a)(2). Pub. L. 114–322, § 1110(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 114–322, § 1110(1)(C), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
+Subsec. (a)(3). Pub. L. 114–322, § 1110(1)(C), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
-Pub. L. 114–322, § 1110(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Pub. L. 114–322, § 1110(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 114–322, § 1110(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 114–322, § 1110(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 114–322, § 1110(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 114–322, § 1110(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(5)(A). Pub. L. 114–322, § 1110(1)(D), substituted “Code of Federal Regulations” for “Code of Federal Regulation”.
+Subsec. (a)(5)(A). Pub. L. 114–322, § 1110(1)(D), substituted “Code of Federal Regulations” for “Code of Federal Regulation”.
 
-Subsec. (a)(6), (7). Pub. L. 114–322, § 1110(1)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
+Subsec. (a)(6), (7). Pub. L. 114–322, § 1110(1)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (a)(8). Pub. L. 114–322, § 1110(1)(E), added par. (8).
+Subsec. (a)(8). Pub. L. 114–322, § 1110(1)(E), added par. (8).
 
-Subsec. (b)(1). Pub. L. 114–322, § 1110(2)(A), substituted “donor ports, medium-sized donor ports,” for “donor ports”.
+Subsec. (b)(1). Pub. L. 114–322, § 1110(2)(A), substituted “donor ports, medium-sized donor ports,” for “donor ports”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 114–322, § 1110(2)(B), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “shall be made available to a port as either a donor port or an energy transfer port and no port may receive amounts as both a donor port and an energy transfer port.”
+Subsec. (b)(2)(B), (C). Pub. L. 114–322, § 1110(2)(B), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “shall be made available to a port as either a donor port or an energy transfer port and no port may receive amounts as both a donor port and an energy transfer port.”
 
-Subsec. (c). Pub. L. 114–322, § 1110(3)(A), substituted “donor port, a medium-sized donor port,” for “donor port” in introductory provisions.
+Subsec. (c). Pub. L. 114–322, § 1110(3)(A), substituted “donor port, a medium-sized donor port,” for “donor port” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 114–322, § 1110(3)(B), struck out “or shippers transporting cargo” after “entering cargo” and substituted “the Secretary” for “U.S. Customs and Border Protection” and “value of discretionary cargo” for “amount of harbor maintenance taxes collected”.
+Subsec. (c)(1). Pub. L. 114–322, § 1110(3)(B), struck out “or shippers transporting cargo” after “entering cargo” and substituted “the Secretary” for “U.S. Customs and Border Protection” and “value of discretionary cargo” for “amount of harbor maintenance taxes collected”.
 
-Subsec. (d). Pub. L. 114–322, § 1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers.”
+Subsec. (d). Pub. L. 114–322, § 1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers.”
 
-Subsec. (f)(1). Pub. L. 114–322, § 1110(5)(A), substituted “2020” for “2018”.
+Subsec. (f)(1). Pub. L. 114–322, § 1110(5)(A), substituted “2020” for “2018”.
 
-Subsec. (f)(2). Pub. L. 114–322, § 1110(5)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to donor ports and energy transfer ports.”
+Subsec. (f)(2). Pub. L. 114–322, § 1110(5)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “For each fiscal year, amounts made available to carry out this section shall be provided in equal amounts to donor ports and energy transfer ports.”
 
-Subsec. (f)(3). Pub. L. 114–322, § 1110(5)(C), substituted “2016 through 2020” for “2015 through 2018” and “2021 through 2025” for “2019 through 2022”.
+Subsec. (f)(3). Pub. L. 114–322, § 1110(5)(C), substituted “2016 through 2020” for “2015 through 2018” and “2021 through 2025” for “2019 through 2022”.
 
-Subsec. (g). Pub. L. 114–322, § 1110(6), added subsec. (g).
+Subsec. (g). Pub. L. 114–322, § 1110(6), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. AA, title I, § 104(b)(3), Dec. 27, 2020, 134 Stat. 2622, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 2022.”
+Pub. L. 116–260, div. AA, title I, § 104(b)(3), Dec. 27, 2020, 134 Stat. 2622, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 2022.”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2238d. Maintenance of harbors of refuge
+### § 2238d. Maintenance of harbors of refuge
 
 The Secretary is authorized to maintain federally authorized harbors of refuge to restore and maintain the authorized dimensions of the harbors.
 
-(Pub. L. 114–322, title I, § 1109, Dec. 16, 2016, 130 Stat. 1634.)
+(Pub. L. 114–322, title I, § 1109, Dec. 16, 2016, 130 Stat. 1634.)
 
 **Editorial Notes**
 
@@ -3823,7 +3823,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2238e. Additional projects for underserved community harbors
+### § 2238e. Additional projects for underserved community harbors
 
 **(a) In general**
 
@@ -3885,7 +3885,7 @@ Not less than 35 percent of the amounts made available to carry out this section
 
 The Secretary may carry out not more than 10 projects under this section that are projects for an underserved community harbor that is a marina or berthing area described in subsection (g)(2).
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8132, Dec. 23, 2022, 136 Stat. 3719; Pub. L. 118–272, div. A, title III, § 1356, Jan. 4, 2025, 138 Stat. 3161.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8132, Dec. 23, 2022, 136 Stat. 3719; Pub. L. 118–272, div. A, title III, § 1356, Jan. 4, 2025, 138 Stat. 3161.)
 
 **Editorial Notes**
 
@@ -3899,13 +3899,13 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 1356(1), inserted “and for purposes of contributing to ecosystem restoration” before period at end.
+2025—Subsec. (a). Pub. L. 118–272, § 1356(1), inserted “and for purposes of contributing to ecosystem restoration” before period at end.
 
-Subsec. (g)(2). Pub. L. 118–272, § 1356(2), in introductory provisions, inserted “, a harbor where passenger or freight service is provided to island communities dependent on that service, or a marina or berthing area that is located adjacent to, or is accessible by, a Federal navigation project,” before “for which”.
+Subsec. (g)(2). Pub. L. 118–272, § 1356(2), in introductory provisions, inserted “, a harbor where passenger or freight service is provided to island communities dependent on that service, or a marina or berthing area that is located adjacent to, or is accessible by, a Federal navigation project,” before “for which”.
 
-Subsec. (h)(1). Pub. L. 118–272, § 1356(3), substituted “2029” for “2026”.
+Subsec. (h)(1). Pub. L. 118–272, § 1356(3), substituted “2029” for “2026”.
 
-Subsec. (i). Pub. L. 118–272, § 1356(4), added subsec. (i).
+Subsec. (i). Pub. L. 118–272, § 1356(4), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3913,15 +3913,15 @@ Subsec. (i). Pub. L. 118–272, § 1356(4), added subsec. (i).
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2239. Repealed. Pub. L. 101–640, title IV, § 412(f), Nov. 28, 1990, 104 Stat. 4650
+### § 2239. Repealed. Pub. L. 101–640, title IV, § 412(f), Nov. 28, 1990, 104 Stat. 4650
 
-Section, Pub. L. 99–662, title II, § 211, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 100–676, § 32, Nov. 17, 1988, 102 Stat. 4030, directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
+Section, Pub. L. 99–662, title II, § 211, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 100–676, § 32, Nov. 17, 1988, 102 Stat. 4030, directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sediments Decontamination Technology**
 
-Pub. L. 102–580, title IV, § 405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, § 226, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, § 204, Aug. 17, 1999, 113 Stat. 285, provided that:
+Pub. L. 102–580, title IV, § 405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, § 226, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, § 204, Aug. 17, 1999, 113 Stat. 285, provided that:
 
 > **“(a) Decontamination Project.—**
 
@@ -3945,7 +3945,7 @@ Pub. L. 102–580, title IV, § 405, Oct. 31, 1992, 106 Stat. 4863, as amended
 
 **Alternatives to Mud Dump Site for Disposal of Dredged Material**
 
-Pub. L. 101–640, title IV, § 412, Nov. 28, 1990, 104 Stat. 4650, provided that:
+Pub. L. 101–640, title IV, § 412, Nov. 28, 1990, 104 Stat. 4650, provided that:
 
 > **“(a) Report.—** Within 90 days after the date of the enactment of this Act [Nov. 28, 1990], the Administrator of the Environmental Protection Agency shall submit to the Congress a final report on the feasibility of designating an alternative site to the Mud Dump Site at a distance not less than 20 miles from the shoreline.
 
@@ -3971,7 +3971,7 @@ Pub. L. 101–640, title IV, § 412, Nov. 28, 1990, 104 Stat. 4650, provided t
 
 > **“(f) Repeal.—** Section 211 of the Water Resources Development Act of 1986 (33 U.S.C. 2239) is repealed.”
 
-### § 2240. Emergency response services
+### § 2240. Emergency response services
 
 **(a) Grants**
 
@@ -3981,9 +3981,9 @@ The Secretary is authorized to make grants to any non-Federal interest operating
 
 There is authorized to be appropriated for fiscal years beginning after September 30, 1986, and ending before October 1, 1992, $5,000,000.
 
-(Pub. L. 99–662, title II, § 212, Nov. 17, 1986, 100 Stat. 4107.)
+(Pub. L. 99–662, title II, § 212, Nov. 17, 1986, 100 Stat. 4107.)
 
-### § 2241. Definitions
+### § 2241. Definitions
 
 For purposes of this subchapter—
 
@@ -4039,7 +4039,7 @@ The term “non-Federal interest” has the meaning such term has under section 
 
 The term “United States” means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
-(Pub. L. 99–662, title II, § 214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, § 201(e), Oct. 12, 1996, 110 Stat. 3672; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(C), Dec. 27, 2020, 134 Stat. 2756.)
+(Pub. L. 99–662, title II, § 214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, § 201(e), Oct. 12, 1996, 110 Stat. 3672; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(C), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
@@ -4051,9 +4051,9 @@ Section 202 of this title, referred to in pars. (1) and (3), is section 202 of t
 
 2020—Par. (2)(B). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-1996—Par. (2)(A). Pub. L. 104–303, § 201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
+1996—Par. (2)(A). Pub. L. 104–303, § 201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
 
-Par. (2)(C). Pub. L. 104–303, § 201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
+Par. (2)(C). Pub. L. 104–303, § 201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4067,7 +4067,7 @@ Amendment by Pub. L. 104–303 not to increase, or result in increase of, non-Fe
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2242. Remote and subsistence harbors
+### § 2242. Remote and subsistence harbors
 
 **(a) In general** In conducting a study of harbor and navigation improvements, the Secretary may recommend a project without the need to demonstrate that the project is justified solely by national economic development benefits if the Secretary determines that—
 
@@ -4109,7 +4109,7 @@ In evaluating and implementing a project under this section, the Secretary shall
 
 For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title.
 
-(Pub. L. 110–114, title II, § 2006, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 113–121, title II, § 2104, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1105, Dec. 16, 2016, 130 Stat. 1633; Pub. L. 118–272, div. A, title I, § 1147, Jan. 4, 2025, 138 Stat. 3038.)
+(Pub. L. 110–114, title II, § 2006, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 113–121, title II, § 2104, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1105, Dec. 16, 2016, 130 Stat. 1633; Pub. L. 118–272, div. A, title I, § 1147, Jan. 4, 2025, 138 Stat. 3038.)
 
 **Editorial Notes**
 
@@ -4123,33 +4123,33 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 118–272, § 1147(1), added par. (1) and struck out former par. (1) which read as follows:
+2025—Subsec. (a)(1). Pub. L. 118–272, § 1147(1), added par. (1) and struck out former par. (1) which read as follows:
 
 “(1)(A) the community to be served by the project is at least 70 miles from the nearest surface accessible commercial port and has no direct rail or highway link to another community served by a surface accessible port or harbor; or
 
 “(B) the project would be located in the State of Hawaii or Alaska, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa;”.
 
-Subsec. (a)(2). Pub. L. 118–272, § 1147(1), added par. (2) and struck out former par. (2) which read as follows: “the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the region served by the harbor and navigation improvement, as determined by the Secretary, including consideration of information provided by the non-Federal interest; and”.
+Subsec. (a)(2). Pub. L. 118–272, § 1147(1), added par. (2) and struck out former par. (2) which read as follows: “the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the region served by the harbor and navigation improvement, as determined by the Secretary, including consideration of information provided by the non-Federal interest; and”.
 
-Subsec. (a)(3). Pub. L. 118–272, § 1147(1), struck out par. (3) which read as follows: “the long-term viability of the community in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project, would be threatened without the harbor and navigation improvement.”
+Subsec. (a)(3). Pub. L. 118–272, § 1147(1), struck out par. (3) which read as follows: “the long-term viability of the community in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project, would be threatened without the harbor and navigation improvement.”
 
-Subsec. (b). Pub. L. 118–272, § 1147(2)(A), in introductory provisions, substituted “benefits of the project to any of” for “benefits of the project to”.
+Subsec. (b). Pub. L. 118–272, § 1147(2)(A), in introductory provisions, substituted “benefits of the project to any of” for “benefits of the project to”.
 
-Subsec. (b)(4). Pub. L. 118–272, § 1147(2)(B), substituted “; or” for “; and”.
+Subsec. (b)(4). Pub. L. 118–272, § 1147(2)(B), substituted “; or” for “; and”.
 
-2016—Subsec. (a)(3). Pub. L. 114–322, § 1105(1), inserted “in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project,” after “the community”.
+2016—Subsec. (a)(3). Pub. L. 114–322, § 1105(1), inserted “in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project,” after “the community”.
 
-Subsec. (b)(1). Pub. L. 114–322, § 1105(2)(A), inserted “and communities that are located in the region to be served by the project and that will rely on the project” after “local community”.
+Subsec. (b)(1). Pub. L. 114–322, § 1105(2)(A), inserted “and communities that are located in the region to be served by the project and that will rely on the project” after “local community”.
 
-Subsec. (b)(4). Pub. L. 114–322, § 1105(2)(B), substituted “regional population to be served by the project” for “local population”.
+Subsec. (b)(4). Pub. L. 114–322, § 1105(2)(B), substituted “regional population to be served by the project” for “local population”.
 
-Subsec. (b)(5). Pub. L. 114–322, § 1105(2)(C), substituted “local community and communities that are located in the region to be served by the project and that will rely on the project” for “community”.
+Subsec. (b)(5). Pub. L. 114–322, § 1105(2)(C), substituted “local community and communities that are located in the region to be served by the project and that will rely on the project” for “community”.
 
-2014—Subsec. (a)(1)(B). Pub. L. 113–121, § 2104(1)(A), inserted “or Alaska” after “Hawaii”.
+2014—Subsec. (a)(1)(B). Pub. L. 113–121, § 2104(1)(A), inserted “or Alaska” after “Hawaii”.
 
-Subsec. (a)(2). Pub. L. 113–121, § 2104(1)(B), substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”.
+Subsec. (a)(2). Pub. L. 113–121, § 2104(1)(B), substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”.
 
-Subsecs. (c) to (e). Pub. L. 113–121, § 2104(2), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 113–121, § 2104(2), added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4157,19 +4157,19 @@ Subsecs. (c) to (e). Pub. L. 113–121, § 2104(2), added subsecs. (c) to (e).
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2243. Arctic deep draft port development partnerships
+### § 2243. Arctic deep draft port development partnerships
 
 **(a) In general**
 
-The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 1
+The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 , for the development, construction, operation, and maintenance of channels, harbors, and related infrastructure associated with deep draft ports for purposes of dealing with Arctic development and security needs.
 
 **(b) Acceptance of funds**
 
-The Secretary is authorized to accept and expend funds provided by non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 <sup>1</sup>, to carry out the technical assistance activities described in subsection (a).
+The Secretary is authorized to accept and expend funds provided by non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 <sup>1</sup>, to carry out the technical assistance activities described in subsection (a).
 
 **(c) Limitation**
 
@@ -4187,7 +4187,7 @@ The Secretary shall prioritize technical assistance provided under this section 
 
 **(3)** may consider such benefits in determining whether an Arctic deep draft port is feasible.
 
-(Pub. L. 113–121, title II, § 2105, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1202(c), Dec. 16, 2016, 130 Stat. 1684.)
+(Pub. L. 113–121, title II, § 2105, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1202(c), Dec. 16, 2016, 130 Stat. 1684.)
 
 **Editorial Notes**
 
@@ -4197,11 +4197,11 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2016—Subsecs. (a), (b). Pub. L. 114–322, § 1202(c)(1), inserted “and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43” after “title 25)” and made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
+2016—Subsecs. (a), (b). Pub. L. 114–322, § 1202(c)(1), inserted “and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43” after “title 25)” and made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
 
-Subsec. (d). Pub. L. 114–322, § 1202(c)(2), substituted “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of Homeland Security”.
+Subsec. (d). Pub. L. 114–322, § 1202(c)(2), substituted “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of Homeland Security”.
 
-Subsec. (e). Pub. L. 114–322, § 1202(c)(3), added subsec. (e).
+Subsec. (e). Pub. L. 114–322, § 1202(c)(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4215,7 +4215,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **Inland Waterways Regional Dredge Pilot Program**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8133, Dec. 23, 2022, 136 Stat. 3720, as amended by Pub. L. 118–272, div. A, title I, § 1118, Jan. 4, 2025, 138 Stat. 3012, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8133, Dec. 23, 2022, 136 Stat. 3720, as amended by Pub. L. 118–272, div. A, title I, § 1118, Jan. 4, 2025, 138 Stat. 3012, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] is authorized to establish a pilot program (referred to in this section as the ‘pilot program’) to conduct a multiyear demonstration program to award contracts with a duration of up to 5 years for dredging projects on inland waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804).
 
@@ -4251,7 +4251,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8133, Dec. 23, 2022, 136 Stat. 3720
 
 **Inland Waterways Pilot Program**
 
-Pub. L. 116–260, div. AA, title I, § 159, Dec. 27, 2020, 134 Stat. 2663, provided that:
+Pub. L. 116–260, div. AA, title I, § 159, Dec. 27, 2020, 134 Stat. 2663, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -4333,7 +4333,7 @@ Pub. L. 116–260, div. AA, title I, § 159, Dec. 27, 2020, 134 Stat. 2663, pr
 
 > **“(2) Reimbursement eligibility.—** The termination of authority under paragraph (1) shall not extinguish the eligibility of a non-Federal interest to seek reimbursement under subsection (e).”
 
-### § 2251. Inland Waterways Users Board
+### § 2251. Inland Waterways Users Board
 
 **(a) Establishment of Users Board**
 
@@ -4411,23 +4411,23 @@ For the purposes of complying with chapter 10 of title 5, the members of the Use
 
 Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
-(Pub. L. 99–662, title III, § 302, Nov. 17, 1986, 100 Stat. 4111; Pub. L. 106–109, § 8(a), Nov. 24, 1999, 113 Stat. 1495; Pub. L. 113–121, title II, § 2002(d), June 10, 2014, 128 Stat. 1262; Pub. L. 117–286, § 4(a)(202), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 99–662, title III, § 302, Nov. 17, 1986, 100 Stat. 4111; Pub. L. 106–109, § 8(a), Nov. 24, 1999, 113 Stat. 1495; Pub. L. 113–121, title II, § 2002(d), June 10, 2014, 128 Stat. 1262; Pub. L. 117–286, § 4(a)(202), Dec. 27, 2022, 136 Stat. 4328.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (f)(1). Pub. L. 117–286, § 4(a)(202)(A), substituted “chapter 10 of title 5, other than section 1013,” for “the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14,”.
+2022—Subsec. (f)(1). Pub. L. 117–286, § 4(a)(202)(A), substituted “chapter 10 of title 5, other than section 1013,” for “the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14,”.
 
-Subsec. (f)(2). Pub. L. 117–286, § 4(a)(202)(B), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
+Subsec. (f)(2). Pub. L. 117–286, § 4(a)(202)(B), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
 
-2014—Subsec. (b). Pub. L. 113–121, § 2002(d)(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.”
+2014—Subsec. (b). Pub. L. 113–121, § 2002(d)(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.”
 
-Subsecs. (c) to (f). Pub. L. 113–121, § 2002(d)(2), added subsecs. (c) to (f) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Users Board shall be subject to the Federal Advisory Committee Act, other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency. Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.”
+Subsecs. (c) to (f). Pub. L. 113–121, § 2002(d)(2), added subsecs. (c) to (f) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Users Board shall be subject to the Federal Advisory Committee Act, other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency. Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.”
 
 1999—Subsec. (b). Pub. L. 106–109, in last sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the” for “The”.
 
-### § 2252. Project delivery process reforms
+### § 2252. Project delivery process reforms
 
 **(a) Requirements for qualifying projects** With respect to each qualifying project, the Secretary shall require—
 
@@ -4481,13 +4481,13 @@ Subject to paragraph (2), the Secretary may carry out pilot projects to evaluate
 
 **(C)** applicable principles, procedures, and processes used for military construction projects.
 
-(Pub. L. 113–121, title II, § 2002, June 10, 2014, 128 Stat. 1261.)
+(Pub. L. 113–121, title II, § 2002, June 10, 2014, 128 Stat. 1261.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsec. (b)(3), is subtitle A (§§ 2001–2013) of title II of Pub. L. 113–121, which enacted this section and sections 2253, 2254, and 2255 of this title, amended sections 2212, 2251, and 2327 of this title, and enacted provisions set out as a note under this section. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in subsec. (b)(3), is subtitle A (§§ 2001–2013) of title II of Pub. L. 113–121, which enacted this section and sections 2253, 2254, and 2255 of this title, amended sections 2212, 2251, and 2327 of this title, and enacted provisions set out as a note under this section. For complete classification of subtitle A to the Code, see Tables.
 
 **Codification**
 
@@ -4501,7 +4501,7 @@ Section is comprised of section 2002 of Pub. L. 113–121. Subsec. (d) of sectio
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-Pub. L. 113–121, title II, § 2001, June 10, 2014, 128 Stat. 1260, provided that:
+Pub. L. 113–121, title II, § 2001, June 10, 2014, 128 Stat. 1260, provided that:
 
 > “In this title [enacting this section and sections 2211a, 2238b, 2238c, 2243, 2253, 2254, and 2255 of this title and amending sections 2211, 2212, 2238, 2242, 2251, 2282a, and 2327 of this title and section 9505 of Title 26, Internal Revenue Code]:
 
@@ -4515,15 +4515,15 @@ Pub. L. 113–121, title II, § 2001, June 10, 2014, 128 Stat. 1260, provided 
 
 > **“(C)** funded at least in part from the Inland Waterways Trust Fund.”
 
-### § 2253. Annual financial review
+### § 2253. Annual financial review
 
-For any inland waterways project that the Secretary carries out that has an estimated total cost of $500,000,000 or more, the Secretary shall submit to the congressional committees referred to in subsection (a) 1
+For any inland waterways project that the Secretary carries out that has an estimated total cost of $500,000,000 or more, the Secretary shall submit to the congressional committees referred to in subsection (a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of any future increases of the cost to complete the project.
 
-(Pub. L. 113–121, title II, § 2007(b), June 10, 2014, 128 Stat. 1268.)
+(Pub. L. 113–121, title II, § 2007(b), June 10, 2014, 128 Stat. 1268.)
 
 **Editorial Notes**
 
@@ -4541,7 +4541,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2254. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway
+### § 2254. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway
 
 **(a) In general**
 
@@ -4577,7 +4577,7 @@ Not later than 90 days after June 10, 2014, the Secretary shall assess the opera
 
 **(3)** identifies the unmet operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway.
 
-(Pub. L. 113–121, title II, § 2008, June 10, 2014, 128 Stat. 1268.)
+(Pub. L. 113–121, title II, § 2008, June 10, 2014, 128 Stat. 1268.)
 
 **Editorial Notes**
 
@@ -4591,7 +4591,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2255. Inland waterways riverbank stabilization
+### § 2255. Inland waterways riverbank stabilization
 
 **(a) In general** Not later than 1 year after June 10, 2014, and biennially thereafter, the Secretary shall conduct a study to determine the feasibility of—
 
@@ -4631,7 +4631,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 For a project recommended pursuant to the study that cannot be carried out under any of the authorities specified in subsection (c), upon a determination by the Secretary of the feasibility of the project, the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title.
 
-(Pub. L. 113–121, title II, § 2009, June 10, 2014, 128 Stat. 1269.)
+(Pub. L. 113–121, title II, § 2009, June 10, 2014, 128 Stat. 1269.)
 
 **Editorial Notes**
 
@@ -4645,7 +4645,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2255a. High water-low water preparedness
+### § 2255a. High water-low water preparedness
 
 **(a) Definitions** In this section:
 
@@ -4683,7 +4683,7 @@ Subject to paragraph (2) and the availability of appropriations, and in accordan
 
 There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2022 through 2024, to remain available until expended.
 
-(Pub. L. 116–260, div. AA, title I, § 151, Dec. 27, 2020, 134 Stat. 2657.)
+(Pub. L. 116–260, div. AA, title I, § 151, Dec. 27, 2020, 134 Stat. 2657.)
 
 **Editorial Notes**
 
@@ -4699,11 +4699,11 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 ## SUBCHAPTER IV—WATER RESOURCES STUDIES
 
-### § 2261. Territories development study
+### § 2261. Territories development study
 
 The Secretary is hereby authorized and directed to make studies in cooperation with the Secretary of the Interior and the governments of the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the purposes of providing plans for the development, utilization, and conservation of water and related land resources of such jurisdiction, at a total cost of $2,000,000 for each of the five studies. Such studies shall include appropriate consideration of the needs for flood protection, wise use of flood plain lands, navigation facilities, hydroelectric power generation, regional water supply and waste water management facilities systems, general recreation facilities, enhancement and control of water quality, enhancement and conservation of fish and wildlife, and other measures for environmental enhancement, economic and human resources development. Such studies shall be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies. Any funds made available under this section for a study for any such jurisdiction which is not needed for such study shall be available to the Secretary to construct authorized water resources projects in such jurisdiction and to implement the findings of such study with appropriate cost sharing as provided in this Act.
 
-(Pub. L. 99–662, title VII, § 702, Nov. 17, 1986, 100 Stat. 4156.)
+(Pub. L. 99–662, title VII, § 702, Nov. 17, 1986, 100 Stat. 4156.)
 
 **Editorial Notes**
 
@@ -4717,7 +4717,7 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2262. Survey of potential for use of certain facilities as hydroelectric facilities
+### § 2262. Survey of potential for use of certain facilities as hydroelectric facilities
 
 **(a) Survey authority**
 
@@ -4727,9 +4727,9 @@ The Secretary shall, upon the request of local public officials, survey the pote
 
 There is authorized to be appropriated to the Secretary, to implement this section, the sum of $5,000,000 for each of the fiscal years ending September 30, 1988, through September 30, 1992, such sums to remain available until expended.
 
-(Pub. L. 99–662, title VII, § 703, Nov. 17, 1986, 100 Stat. 4156.)
+(Pub. L. 99–662, title VII, § 703, Nov. 17, 1986, 100 Stat. 4156.)
 
-### § 2263. Study of Corps capability to conserve fish and wildlife
+### § 2263. Study of Corps capability to conserve fish and wildlife
 
 **(a) Investigation and study**
 
@@ -4797,17 +4797,17 @@ The non-Federal interest shall be credited with the value of in-kind services pr
 
 In carrying out paragraph (4),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-(Pub. L. 99–662, title VII, § 704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, § 505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, § 342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, § 113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, § 126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, § 5021, Nov. 8, 2007, 121 Stat. 1202; Pub. L. 113–121, title IV, § 4010(b), June 10, 2014, 128 Stat. 1318; Pub. L. 114–322, title I, § 1180, Dec. 16, 2016, 130 Stat. 1677; Pub. L. 118–272, div. A, title III, § 1335, Jan. 4, 2025, 138 Stat. 3147.)
+(Pub. L. 99–662, title VII, § 704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, § 505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, § 342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, § 113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, § 126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, § 5021, Nov. 8, 2007, 121 Stat. 1202; Pub. L. 113–121, title IV, § 4010(b), June 10, 2014, 128 Stat. 1318; Pub. L. 114–322, title I, § 1180, Dec. 16, 2016, 130 Stat. 1677; Pub. L. 118–272, div. A, title III, § 1335, Jan. 4, 2025, 138 Stat. 3147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I, § 113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, § 5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
+Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I, § 113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, § 5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
 
 **Amendments**
 
@@ -4815,27 +4815,27 @@ Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subs
 
 2016—Subsec. (b)(1). Pub. L. 114–322 substituted “$100,000,000” for “$60,000,000”.
 
-2014—Subsec. (b)(1). Pub. L. 113–121, § 4010(b)(1), substituted “$60,000,000” for “$50,000,000”.
+2014—Subsec. (b)(1). Pub. L. 113–121, § 4010(b)(1), substituted “$60,000,000” for “$50,000,000”.
 
-Subsec. (b)(4)(B). Pub. L. 113–121, § 4010(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.”
+Subsec. (b)(4)(B). Pub. L. 113–121, § 4010(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.”
 
-2007—Subsec. (b)(1). Pub. L. 110–114, § 5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
+2007—Subsec. (b)(1). Pub. L. 110–114, § 5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
 
-Subsec. (b)(2). Pub. L. 110–114, § 5021(2)(B), designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
+Subsec. (b)(2). Pub. L. 110–114, § 5021(2)(B), designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
 
-Subsec. (b)(2)(D). Pub. L. 110–114, § 5021(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.”
+Subsec. (b)(2)(D). Pub. L. 110–114, § 5021(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.”
 
-Subsec. (b)(3), (4). Pub. L. 110–114, § 5021(1), (3), added par. (3) and redesignated par. (2) as (4).
+Subsec. (b)(3), (4). Pub. L. 110–114, § 5021(1), (3), added par. (3) and redesignated par. (2) as (4).
 
-Subsec. (b)(5). Pub. L. 110–114, § 5021(4), which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
+Subsec. (b)(5). Pub. L. 110–114, § 5021(4), which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
 
 2005—Subsec. (b)(1). Pub. L. 109–103 substituted “$30,000,000” for “$20,000,000” in introductory provisions.
 
 2001—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
 
-2000—Subsec. (b). Pub. L. 106–541, § 342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
+2000—Subsec. (b). Pub. L. 106–541, § 342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
 
-Subsec. (b)(4). Pub. L. 106–541, § 342(2), added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
+Subsec. (b)(4). Pub. L. 106–541, § 342(2), added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
 
 1996—Subsec. (b). Pub. L. 104–303 substituted “$7,000,000” for “$5,000,000” in introductory provisions and inserted “and Virginia” after “Maryland” in par. (4).
 
@@ -4845,7 +4845,7 @@ Subsec. (b)(4). Pub. L. 106–541, § 342(2), added par. (4) and struck out fo
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a) of this section is listed on page 68), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-### § 2263a. Aquatic invasive species research
+### § 2263a. Aquatic invasive species research
 
 **(a) In general**
 
@@ -4859,7 +4859,7 @@ In carrying out subsection (a), the Secretary shall work with Corps of Engineers
 
 Not later than 180 days after October 23, 2018, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report recommending a plan to address the spread and impacts of aquatic invasive species.
 
-(Pub. L. 115–270, title I, § 1108, Oct. 23, 2018, 132 Stat. 3774; Pub. L. 116–260, div. AA, title V, § 502, Dec. 27, 2020, 134 Stat. 2744; Pub. L. 117–263, div. H, title LXXXI, § 8305(a), Dec. 23, 2022, 136 Stat. 3778.)
+(Pub. L. 115–270, title I, § 1108, Oct. 23, 2018, 132 Stat. 3774; Pub. L. 116–260, div. AA, title V, § 502, Dec. 27, 2020, 134 Stat. 2744; Pub. L. 117–263, div. H, title LXXXI, § 8305(a), Dec. 23, 2022, 136 Stat. 3778.)
 
 **Editorial Notes**
 
@@ -4869,11 +4869,11 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263 inserted “, hydrilla” after “elodea”.
+2022—Subsec. (a). Pub. L. 117–263 inserted “, hydrilla” after “elodea”.
 
-2020—Subsec. (a). Pub. L. 116–260, § 502(1), substituted “prevention, management,” for “management” and inserted “, elodea, quagga mussels,” after “Asian carp”.
+2020—Subsec. (a). Pub. L. 116–260, § 502(1), substituted “prevention, management,” for “management” and inserted “, elodea, quagga mussels,” after “Asian carp”.
 
-Subsec. (b). Pub. L. 116–260, § 502(2), inserted “or could be impacted in the future” after “that are impacted” and substituted “Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary.” for “Pacific, and Gulf coasts and the Great Lakes.”
+Subsec. (b). Pub. L. 116–260, § 502(2), inserted “or could be impacted in the future” after “that are impacted” and substituted “Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary.” for “Pacific, and Gulf coasts and the Great Lakes.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4881,19 +4881,19 @@ Subsec. (b). Pub. L. 116–260, § 502(2), inserted “or could be impacted in
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 2264. Repealed. Pub. L. 116–260, div. AA, title III, § 360(a), Dec. 27, 2020, 134 Stat. 2732
+### § 2264. Repealed. Pub. L. 116–260, div. AA, title III, § 360(a), Dec. 27, 2020, 134 Stat. 2732
 
-Section, Pub. L. 99–662, title VII, § 710, Nov. 17, 1986, 100 Stat. 4160; Pub. L. 106–109, § 8(b), Nov. 24, 1999, 113 Stat. 1495, related to deauthorization of studies.
+Section, Pub. L. 99–662, title VII, § 710, Nov. 17, 1986, 100 Stat. 4160; Pub. L. 106–109, § 8(b), Nov. 24, 1999, 113 Stat. 1495, related to deauthorization of studies.
 
-### § 2265. Columbia River/Arkansas River Basin transfers
+### § 2265. Columbia River/Arkansas River Basin transfers
 
 **(a)** No Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Columbia River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 
 **(b)** For a period of 5 years after November 17, 1986, no Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Arkansas River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 
-(Pub. L. 99–662, title VII, § 715, Nov. 17, 1986, 100 Stat. 4161.)
+(Pub. L. 99–662, title VII, § 715, Nov. 17, 1986, 100 Stat. 4161.)
 
-### § 2266. Canadian tidal power study
+### § 2266. Canadian tidal power study
 
 **(a) Study authority**
 
@@ -4909,9 +4909,9 @@ The Secretary, after consultation with the National Oceanic and Atmospheric Admi
 
 In the fiscal year ending September 30, 1987, or in any fiscal year thereafter, there is authorized to be appropriated to the Secretary the sum of $1,100,000 for the purposes of subsection (b)(1) of this section, and the sum of $8,900,000 for the purposes of subsection (b)(2) of this section, such sums to remain available until expended.
 
-(Pub. L. 99–662, title VII, § 724, Nov. 17, 1986, 100 Stat. 4163.)
+(Pub. L. 99–662, title VII, § 724, Nov. 17, 1986, 100 Stat. 4163.)
 
-### § 2267. New York Bight study
+### § 2267. New York Bight study
 
 **(a) Study authority**
 
@@ -4929,13 +4929,13 @@ The Secretary shall coordinate fully with the Administrator of the Environmental
 
 There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.
 
-(Pub. L. 99–662, title VII, § 728, Nov. 17, 1986, 100 Stat. 4164.)
+(Pub. L. 99–662, title VII, § 728, Nov. 17, 1986, 100 Stat. 4164.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **New York Bight and Harbor Study**
 
-Pub. L. 102–580, title III, § 326, Oct. 31, 1992, 106 Stat. 4850, as amended by Pub. L. 104–303, title IV, § 433, Oct. 12, 1996, 110 Stat. 3746, provided that:
+Pub. L. 102–580, title III, § 326, Oct. 31, 1992, 106 Stat. 4850, as amended by Pub. L. 104–303, title IV, § 433, Oct. 12, 1996, 110 Stat. 3746, provided that:
 
 > **“(a) In General.—** As a continuation of the study pursuant to section 728 of the Water Resources Development Act of 1986 [33 U.S.C. 2267], the Secretary shall study a hydro-environmental monitoring and information system in the New York Bight and New York Harbor and tributaries to the head of tide, in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight and Harbor region) of the following: wind, wave, current, salinity, and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight. This effort will include the study of a verified, nested, high-resolution Harbor/Bight Apex numerical model, and supportive monitoring and information systems.
 
@@ -4957,9 +4957,9 @@ Pub. L. 102–580, title III, § 326, Oct. 31, 1992, 106 Stat. 4850, as amende
 
 > **“(f) Funding.—** There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 
-Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, § 1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
+Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, § 1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
 
-### § 2267a. Watershed and river basin assessments
+### § 2267a. Watershed and river basin assessments
 
 **(a) In general** The Secretary may assess the water resources needs of river basins and watersheds of the United States, including needs relating to—
 
@@ -5067,25 +5067,25 @@ At the request of a non-Federal interest for an assessment completed under this 
 
 **(B)** the watersheds of the Northern Mariana Islands, American Samoa, and Guam.
 
-(Pub. L. 99–662, title VII, § 729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, § 202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, § 2010, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 117–263, div. H, title LXXXI, § 8302, Dec. 23, 2022, 136 Stat. 3776; Pub. L. 118–272, div. A, title I, § 1143, Jan. 4, 2025, 138 Stat. 3034.)
+(Pub. L. 99–662, title VII, § 729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, § 202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, § 2010, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 117–263, div. H, title LXXXI, § 8302, Dec. 23, 2022, 136 Stat. 3776; Pub. L. 118–272, div. A, title I, § 1143, Jan. 4, 2025, 138 Stat. 3034.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (d)(14) to (18). Pub. L. 118–272, § 1143(1), added pars. (14) to (18).
+2025—Subsec. (d)(14) to (18). Pub. L. 118–272, § 1143(1), added pars. (14) to (18).
 
-Subsec. (g). Pub. L. 118–272, § 1143(2), added subsec. (g).
+Subsec. (g). Pub. L. 118–272, § 1143(2), added subsec. (g).
 
-2022—Subsec. (a)(7) to (9). Pub. L. 117–263, § 8302(1), added pars. (7) to (9).
+2022—Subsec. (a)(7) to (9). Pub. L. 117–263, § 8302(1), added pars. (7) to (9).
 
-Subsec. (d)(11) to (13). Pub. L. 117–263, § 8302(2), added pars. (11) to (13).
+Subsec. (d)(11) to (13). Pub. L. 117–263, § 8302(2), added pars. (11) to (13).
 
-2007—Subsec. (d)(6) to (10). Pub. L. 110–114, § 2010(1), added pars. (6) to (10).
+2007—Subsec. (d)(6) to (10). Pub. L. 110–114, § 2010(1), added pars. (6) to (10).
 
-Subsec. (f)(1). Pub. L. 110–114, § 2010(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.”
+Subsec. (f)(1). Pub. L. 110–114, § 2010(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.”
 
-Subsec. (g). Pub. L. 110–114, § 2010(3), struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.”
+Subsec. (g). Pub. L. 110–114, § 2010(3), struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.”
 
 2000—Pub. L. 106–541 amended section catchline and text generally. Prior to amendment, section read as follows:
 
@@ -5095,7 +5095,7 @@ Subsec. (g). Pub. L. 110–114, § 2010(3), struck out heading and text of sub
 
 “(c) There is authorized to be appropriated $5,000,000 for fiscal years beginning after September 30, 1986, to carry out this section.”
 
-### § 2267b. Post-disaster watershed assessments
+### § 2267b. Post-disaster watershed assessments
 
 **(a) Watershed assessments**
 
@@ -5105,9 +5105,9 @@ In an area that the President has declared a major disaster in accordance with s
 
 **(2) Existing projects**
 
-A watershed assessment carried out paragraph 1
+A watershed assessment carried out paragraph 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “under”.
+<sup>1</sup> So in original. Probably should be preceded by “under”.
 
 (1) may identify existing projects being carried out under 1 or more of the authorities referred to in subsection (b)(1).
 
@@ -5159,7 +5159,7 @@ For any major disaster declared in a territory of the United States before Octob
 
 In this subsection, the term “territory of the United States” means an insular area specified in section 2310(a)(1) of this title.
 
-(Pub. L. 113–121, title III, § 3025, June 10, 2014, 128 Stat. 1303; Pub. L. 115–270, title I, § 1139, Oct. 23, 2018, 132 Stat. 3784.)
+(Pub. L. 113–121, title III, § 3025, June 10, 2014, 128 Stat. 1303; Pub. L. 115–270, title I, § 1139, Oct. 23, 2018, 132 Stat. 3784.)
 
 **Editorial Notes**
 
@@ -5191,7 +5191,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2268. Marine technology review
+### § 2268. Marine technology review
 
 **(a) Dredging needs**
 
@@ -5201,7 +5201,7 @@ The Secretary is authorized to conduct such studies as are necessary to provide 
 
 There is authorized to be appropriated $2,500,000 to carry out this section for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.
 
-(Pub. L. 102–580, title IV, § 402, Oct. 31, 1992, 106 Stat. 4862.)
+(Pub. L. 102–580, title IV, § 402, Oct. 31, 1992, 106 Stat. 4862.)
 
 **Editorial Notes**
 
@@ -5215,15 +5215,15 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 2269. Tribal partnership program
+### § 2269. Tribal partnership program
 
 **(a) Definitions** In this section:
 
 **(1) Indian tribe**
 
-The terms “Indian tribe” and “Indian Tribe” have the meanings given the terms “Indian tribe” has the meaning given the term 1
+The terms “Indian tribe” and “Indian Tribe” have the meanings given the terms “Indian tribe” has the meaning given the term 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 in section 5304 of title 25.
 
@@ -5395,7 +5395,7 @@ Not later than 3 years after January 4, 2025, and annually thereafter, the Secre
 
 **(C)** the study of any Federal dam, including the study of power, flood control, or navigation replacement, or the implementation of any functional alteration to that dam, that is located along a body of water described in paragraph (2).
 
-(Pub. L. 106–541, title II, § 203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, § 2011, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 113–121, title I, § 1031(a), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, § 1121, Dec. 16, 2016, 130 Stat. 1644; Pub. L. 115–270, title I, § 1157(i), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 116–260, div. AA, title III, § 303, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8111, Dec. 23, 2022, 136 Stat. 3703; Pub. L. 118–272, div. A, title I, § 1140, Jan. 4, 2025, 138 Stat. 3028.)
+(Pub. L. 106–541, title II, § 203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, § 2011, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 113–121, title I, § 1031(a), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, § 1121, Dec. 16, 2016, 130 Stat. 1644; Pub. L. 115–270, title I, § 1157(i), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 116–260, div. AA, title III, § 303, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8111, Dec. 23, 2022, 136 Stat. 3703; Pub. L. 118–272, div. A, title I, § 1140, Jan. 4, 2025, 138 Stat. 3028.)
 
 **Editorial Notes**
 
@@ -5409,41 +5409,41 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 1140(1), substituted “Definitions” for “Definition of Indian tribe” in heading, and in text, substituted “In this section:” for “In this section, the term”, inserted par. (1) designation and heading and “The terms ‘Indian tribe’ and ‘Indian Tribe’ have the meanings given the terms” before “ ‘Indian tribe’ has” and added pars. (2) and (3).
+2025—Subsec. (a). Pub. L. 118–272, § 1140(1), substituted “Definitions” for “Definition of Indian tribe” in heading, and in text, substituted “In this section:” for “In this section, the term”, inserted par. (1) designation and heading and “The terms ‘Indian tribe’ and ‘Indian Tribe’ have the meanings given the terms” before “ ‘Indian tribe’ has” and added pars. (2) and (3).
 
-Subsec. (b)(1). Pub. L. 118–272, § 1140(2)(A)(i), inserted “, inter-tribal consortiums, Tribal organizations,” after “Indian tribes” in introductory provisions.
+Subsec. (b)(1). Pub. L. 118–272, § 1140(2)(A)(i), inserted “, inter-tribal consortiums, Tribal organizations,” after “Indian tribes” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 118–272, § 1140(2)(A)(ii), inserted “, inter-tribal consortiums, or Tribal organizations” after “Indian tribes”.
+Subsec. (b)(1)(A). Pub. L. 118–272, § 1140(2)(A)(ii), inserted “, inter-tribal consortiums, or Tribal organizations” after “Indian tribes”.
 
-Subsec. (b)(2). Pub. L. 118–272, § 1140(2)(B), added par. (2) and struck out former par. (2) which related to authorized activities conducted under paragraph (1).
+Subsec. (b)(2). Pub. L. 118–272, § 1140(2)(B), added par. (2) and struck out former par. (2) which related to authorized activities conducted under paragraph (1).
 
-Subsec. (b)(3)(A). Pub. L. 118–272, § 1140(2)(C), inserted “, an inter-tribal consortium, or a Tribal organization” after “an Indian tribe” and “, inter-tribal consortium, or Tribal organization” after “the Indian tribe”.
+Subsec. (b)(3)(A). Pub. L. 118–272, § 1140(2)(C), inserted “, an inter-tribal consortium, or a Tribal organization” after “an Indian tribe” and “, inter-tribal consortium, or Tribal organization” after “the Indian tribe”.
 
-Subsec. (b)(4). Pub. L. 118–272, § 1140(2)(D), substituted “$28,500,000” for “$26,000,000”.
+Subsec. (b)(4). Pub. L. 118–272, § 1140(2)(D), substituted “$28,500,000” for “$26,000,000”.
 
-Subsec. (d)(7). Pub. L. 118–272, § 1140(3), added par. (7).
+Subsec. (d)(7). Pub. L. 118–272, § 1140(3), added par. (7).
 
-Subsec. (e). Pub. L. 118–272, § 1140(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2033.”
+Subsec. (e). Pub. L. 118–272, § 1140(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2033.”
 
-2022—Subsec. (a). Pub. L. 117–263, § 8111(1), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
+2022—Subsec. (a). Pub. L. 117–263, § 8111(1), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
 
-Subsec. (b)(2)(A). Pub. L. 117–263, § 8111(2)(A)(i), inserted “hurricane and storm” after “flood” and “including erosion control,” after “reduction,”.
+Subsec. (b)(2)(A). Pub. L. 117–263, § 8111(2)(A)(i), inserted “hurricane and storm” after “flood” and “including erosion control,” after “reduction,”.
 
-Subsec. (b)(2)(C), (D). Pub. L. 117–263, § 8111(2)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (b)(2)(C), (D). Pub. L. 117–263, § 8111(2)(A)(ii)–(iv), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (b)(3)(C). Pub. L. 117–263, § 8111(2)(B), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 117–263, § 8111(2)(B), added subpar. (C).
 
-Subsec. (b)(4)(A). Pub. L. 117–263, § 8111(2)(C)(i), substituted “$26,000,000” for “$18,500,000”.
+Subsec. (b)(4)(A). Pub. L. 117–263, § 8111(2)(C)(i), substituted “$26,000,000” for “$18,500,000”.
 
-Subsec. (b)(4)(B). Pub. L. 117–263, § 8111(2)(C)(ii), substituted “$26,000,000” for “$18,500,000”.
+Subsec. (b)(4)(B). Pub. L. 117–263, § 8111(2)(C)(ii), substituted “$26,000,000” for “$18,500,000”.
 
-Subsec. (b)(5). Pub. L. 117–263, § 8111(2)(D), added par. (5).
+Subsec. (b)(5). Pub. L. 117–263, § 8111(2)(D), added par. (5).
 
-Subsec. (d)(5)(B). Pub. L. 117–263, § 8111(3)(A), substituted “Federal” for “non-Federal” and “100 percent” for “50 percent”.
+Subsec. (d)(5)(B). Pub. L. 117–263, § 8111(3)(A), substituted “Federal” for “non-Federal” and “100 percent” for “50 percent”.
 
-Subsec. (d)(6). Pub. L. 117–263, § 8111(3)(B), added par. (6).
+Subsec. (d)(6). Pub. L. 117–263, § 8111(3)(B), added par. (6).
 
-Subsec. (e). Pub. L. 117–263, § 8111(4), substituted “2033” for “2024”.
+Subsec. (e). Pub. L. 117–263, § 8111(4), substituted “2033” for “2024”.
 
 2020—Subsec. (b)(4). Pub. L. 116–260 substituted “$18,500,000” for “$12,500,000” in subpars. (A) and (B).
 
@@ -5453,37 +5453,37 @@ Subsec. (e). Pub. L. 117–263, § 8111(4), substituted “2033” for “2024
 
 “(B) Specific authorization.—If the Federal share of the cost of a project described in subparagraph (A) is more than $10,000,000, the Secretary may only carry out the project if Congress enacts a law authorizing the Secretary to carry out the project.”
 
-2016—Subsec. (b)(1). Pub. L. 114–322, § 1121(1)(A), substituted “the Secretary may carry out water-related planning activities, or activities relating to the study, design, and construction of water resources development projects,” for “the Secretary may carry out water-related planning activities and study and determine the feasibility of carrying out water resources development projects” in introductory provisions.
+2016—Subsec. (b)(1). Pub. L. 114–322, § 1121(1)(A), substituted “the Secretary may carry out water-related planning activities, or activities relating to the study, design, and construction of water resources development projects,” for “the Secretary may carry out water-related planning activities and study and determine the feasibility of carrying out water resources development projects” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 114–322, § 1121(1)(B), substituted “Authorized activities” for “Matters to be studied” in heading and “An activity” for “A study” in introductory provisions.
+Subsec. (b)(2). Pub. L. 114–322, § 1121(1)(B), substituted “Authorized activities” for “Matters to be studied” in heading and “An activity” for “A study” in introductory provisions.
 
-Subsec. (b)(3), (4). Pub. L. 114–322, § 1121(1)(C), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 114–322, § 1121(1)(C), added pars. (3) and (4).
 
-Subsec. (c)(1). Pub. L. 114–322, § 1121(2)(A), substituted “an activity” for “studies”.
+Subsec. (c)(1). Pub. L. 114–322, § 1121(2)(A), substituted “an activity” for “studies”.
 
-Subsec. (c)(2)(B). Pub. L. 114–322, § 1121(2)(B), substituted “an activity conducted” for “carrying out projects studied”.
+Subsec. (c)(2)(B). Pub. L. 114–322, § 1121(2)(B), substituted “an activity conducted” for “carrying out projects studied”.
 
-Subsec. (d)(1)(A). Pub. L. 114–322, § 1121(3)(A), substituted “an activity conducted” for “a study”.
+Subsec. (d)(1)(A). Pub. L. 114–322, § 1121(3)(A), substituted “an activity conducted” for “a study”.
 
-Subsec. (d)(2) to (5). Pub. L. 114–322, § 1121(3)(B), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.”
+Subsec. (d)(2) to (5). Pub. L. 114–322, § 1121(3)(B), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.”
 
-2014—Subsec. (d)(1)(B). Pub. L. 113–121, § 1031(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+2014—Subsec. (d)(1)(B). Pub. L. 113–121, § 1031(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (e). Pub. L. 113–121, § 1031(a)(2), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
+Subsec. (e). Pub. L. 113–121, § 1031(a)(2), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 2002 to 2012.
 
-2007—Subsec. (b)(1). Pub. L. 110–114, § 2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
+2007—Subsec. (b)(1). Pub. L. 110–114, § 2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 110–114, § 2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “section 1151 of title 18”.
+Subsec. (b)(1)(B). Pub. L. 110–114, § 2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “section 1151 of title 18”.
 
-Subsec. (b)(2). Pub. L. 110–114, § 2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (b)(2). Pub. L. 110–114, § 2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e). Pub. L. 110–114, § 2011(b), substituted “2012” for “2006”.
+Subsec. (e). Pub. L. 110–114, § 2011(b), substituted “2012” for “2006”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Tribal Project Implementation Pilot Program**
 
-Pub. L. 118–272, div. A, title I, § 1141, Jan. 4, 2025, 138 Stat. 3030, provided that:
+Pub. L. 118–272, div. A, title I, § 1141, Jan. 4, 2025, 138 Stat. 3030, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -5567,7 +5567,7 @@ Pub. L. 118–272, div. A, title I, § 1141, Jan. 4, 2025, 138 Stat. 3030, pro
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2270. Subsurface drain systems research and development
+### § 2270. Subsurface drain systems research and development
 
 Subject to the availability of appropriations, the Secretary, acting through the Director of the Engineer Research and Development Center and, where appropriate, in consultation with other Federal agencies, shall carry out research and development activities relating to the use of subsurface drain systems as—
 
@@ -5575,7 +5575,7 @@ Subject to the availability of appropriations, the Secretary, acting through the
 
 **(2)** a coastal storm risk-reduction measure.
 
-(Pub. L. 116–260, div. AA, title II, § 227, Dec. 27, 2020, 134 Stat. 2698.)
+(Pub. L. 116–260, div. AA, title II, § 227, Dec. 27, 2020, 134 Stat. 2698.)
 
 **Editorial Notes**
 
@@ -5591,7 +5591,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 ## SUBCHAPTER V—GENERAL PROVISIONS
 
-### § 2280. Maximum cost of projects
+### § 2280. Maximum cost of projects
 
 **(a) In general** In order to insure against cost overruns, each total cost set forth with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project shall be the maximum cost of that project, except that such maximum amount—
 
@@ -5607,7 +5607,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 Notwithstanding subsection (a), in accordance with section 701h of this title, the Secretary may accept funds from a non-Federal interest for any authorized water resources development project that has exceeded its maximum cost under subsection (a), and use such funds to carry out such project, if the use of such funds does not increase the Federal share of the cost of such project.
 
-(Pub. L. 99–662, title IX, § 902, Nov. 17, 1986, 100 Stat. 4183; Pub. L. 100–676, § 3(b), Nov. 17, 1988, 102 Stat. 4014; Pub. L. 113–121, title I, § 1023, June 10, 2014, 128 Stat. 1228.)
+(Pub. L. 99–662, title IX, § 902, Nov. 17, 1986, 100 Stat. 4183; Pub. L. 100–676, § 3(b), Nov. 17, 1988, 102 Stat. 4014; Pub. L. 113–121, title I, § 1023, June 10, 2014, 128 Stat. 1228.)
 
 **Editorial Notes**
 
@@ -5623,17 +5623,17 @@ The Water Resources Development Act of 1988, referred to in subsec. (a), is Pub.
 
 2014—Pub. L. 113–121 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1988—Pub. L. 100–676, § 3(b)(1), substituted “with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project” for “in this Act, or an amendment made by this Act, for a project”.
+1988—Pub. L. 100–676, § 3(b)(1), substituted “with respect to a project for water resources development and conservation and related purposes authorized to be carried out by the Secretary in this Act or in a law enacted after the date of the enactment of this Act, including the Water Resources Development Act of 1988, or in an amendment made by this Act or any later law with respect to such a project” for “in this Act, or an amendment made by this Act, for a project”.
 
-Par. (1). Pub. L. 100–676, § 3(b)(2), inserted “, in any later law,” after “in this Act”, and “or any later law” after “by this Act”.
+Par. (1). Pub. L. 100–676, § 3(b)(2), inserted “, in any later law,” after “in this Act”, and “or any later law” after “by this Act”.
 
-Par. (2). Pub. L. 100–676, § 3(b)(3), (4), inserted “or any later law” after “of this Act” in subpars. (A) and (B).
+Par. (2). Pub. L. 100–676, § 3(b)(3), (4), inserted “or any later law” after “of this Act” in subpars. (A) and (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuation of Construction**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8155, Dec. 23, 2022, 136 Stat. 3736, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8155, Dec. 23, 2022, 136 Stat. 3736, provided that:
 
 > **“(a) Continuation of Construction.—**
 
@@ -5665,7 +5665,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8155, Dec. 23, 2022, 136 Stat. 3736
 
 > **“(e) Definition of Covered Period.—** In this section, the term ‘covered period’ means the period beginning on the date of enactment of this Act [Dec. 23, 2022] and ending on December 31, 2024.”
 
-### § 2281. Matters to be addressed in planning
+### § 2281. Matters to be addressed in planning
 
 **(a) In general**
 
@@ -5677,7 +5677,7 @@ Enhancing national economic development (including benefits to particular region
 
 **(2)** the water resources project complies with Federal, State, and local laws (including regulations) and public policies.
 
-(Pub. L. 99–662, title IX, § 904, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 101–640, title III, § 315, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 104–303, title II, § 231, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 110–114, title II, § 2033(a), Nov. 8, 2007, 121 Stat. 1084.)
+(Pub. L. 99–662, title IX, § 904, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 101–640, title III, § 315, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 104–303, title II, § 231, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 110–114, title II, § 2033(a), Nov. 8, 2007, 121 Stat. 1084.)
 
 **Editorial Notes**
 
@@ -5693,9 +5693,9 @@ Enhancing national economic development (including benefits to particular region
 
 **Rural Project Evaluation and Selection Criteria**
 
-Pub. L. 102–580, title II, § 214, Oct. 31, 1992, 106 Stat. 4831, directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas, prior to repeal by Pub. L. 104–316, title I, § 117, Oct. 19, 1996, 110 Stat. 3835.
+Pub. L. 102–580, title II, § 214, Oct. 31, 1992, 106 Stat. 4831, directed Comptroller General, not later than 18 months after Oct. 31, 1992, to report to Congress with specific legislative and other recommendations on improving the equitable distribution of water resources development projects in rural areas, prior to repeal by Pub. L. 104–316, title I, § 117, Oct. 19, 1996, 110 Stat. 3835.
 
-### § 2281a. Tribal Liaison
+### § 2281a. Tribal Liaison
 
 **(a) In general**
 
@@ -5739,7 +5739,7 @@ The term “Tribal community” means a community of people who are recognized a
 
 **(B)** ensure consistency in government-to-government relations.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8112, Dec. 23, 2022, 136 Stat. 3704.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8112, Dec. 23, 2022, 136 Stat. 3704.)
 
 **Editorial Notes**
 
@@ -5753,7 +5753,7 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2281b. Corps of Engineers support for underserved communities; outreach
+### § 2281b. Corps of Engineers support for underserved communities; outreach
 
 **(a) In general**
 
@@ -5809,7 +5809,7 @@ In carrying out this subsection, the Secretary shall, to the maximum extent prac
 
 There is authorized to be appropriated to carry out this section $30,000,000 for each fiscal year.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8117, Dec. 23, 2022, 136 Stat. 3709; Pub. L. 118–272, div. A, title I, § 1101(a), Jan. 4, 2025, 138 Stat. 2996.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8117, Dec. 23, 2022, 136 Stat. 3709; Pub. L. 118–272, div. A, title I, § 1101(a), Jan. 4, 2025, 138 Stat. 2996.)
 
 **Editorial Notes**
 
@@ -5823,19 +5823,19 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 **Amendments**
 
-2025—Subsec. (b)(1)(C). Pub. L. 118–272, § 1101(a)(1), added subpar. (C).
+2025—Subsec. (b)(1)(C). Pub. L. 118–272, § 1101(a)(1), added subpar. (C).
 
-Subsec. (b)(2)(B). Pub. L. 118–272, § 1101(a)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “establish and make publicly available (including on a publicly available website), an appropriate point of contact at each district and division office of the Corps of Engineers for inquiries from potential non-Federal interests relating to the water resources development authorities of the Secretary;”.
+Subsec. (b)(2)(B). Pub. L. 118–272, § 1101(a)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “establish and make publicly available (including on a publicly available website), an appropriate point of contact at each district and division office of the Corps of Engineers for inquiries from potential non-Federal interests relating to the water resources development authorities of the Secretary;”.
 
-Subsec. (b)(2)(F). Pub. L. 118–272, § 1101(a)(2)(B)–(D), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 118–272, § 1101(a)(2)(B)–(D), added subpar. (F).
 
-Subsec. (b)(3) to (5). Pub. L. 118–272, § 1101(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (b)(3) to (5). Pub. L. 118–272, § 1101(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Tribal and Economically Disadvantaged Communities Advisory Committee**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8115, Dec. 23, 2022, 136 Stat. 3707, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8115, Dec. 23, 2022, 136 Stat. 3707, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary [of the Army] shall establish a committee, to be known as the ‘Tribal and Economically Disadvantaged Communities Advisory Committee’, to develop and make recommendations to the Secretary and the Chief of Engineers on activities and actions that should be undertaken by the Corps of Engineers to ensure more effective delivery of water resources development projects, programs, and other assistance to Indian Tribes and economically disadvantaged communities, including economically disadvantaged communities located in urban and rural areas.
 
@@ -5885,7 +5885,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8115, Dec. 23, 2022, 136 Stat. 3707
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2281c. Continuing authority programs
+### § 2281c. Continuing authority programs
 
 **(a) Community revitalization program**
 
@@ -5945,7 +5945,7 @@ Notwithstanding section 701g of this title, there is authorized to be appropriat
 
 Notwithstanding section 2309a(h) of this title, there is authorized to be appropriated to carry out such section $50,500,000 for each of fiscal years 2021 through 2024.
 
-(Pub. L. 116–260, div. AA, title I, § 165, Dec. 27, 2020, 134 Stat. 2668; Pub. L. 117–263, div. H, title LXXXI, § 8118(b), Dec. 23, 2022, 136 Stat. 3711; Pub. L. 118–272, div. A, title I, § 1107(k), Jan. 4, 2025, 138 Stat. 3006.)
+(Pub. L. 116–260, div. AA, title I, § 165, Dec. 27, 2020, 134 Stat. 2668; Pub. L. 117–263, div. H, title LXXXI, § 8118(b), Dec. 23, 2022, 136 Stat. 3711; Pub. L. 118–272, div. A, title I, § 1107(k), Jan. 4, 2025, 138 Stat. 3006.)
 
 **Editorial Notes**
 
@@ -5959,17 +5959,17 @@ Section 1107(k) of Pub. L. 118–272, which amended this section, contains two p
 
 **Amendments**
 
-Subsec. (a). Pub. L. 118–272, § 1107(k)(1), substituted “Community revitalization program” for “Pilot Program for Continuing Authority Projects in Small or Disadvantaged Communities” in heading.
+Subsec. (a). Pub. L. 118–272, § 1107(k)(1), substituted “Community revitalization program” for “Pilot Program for Continuing Authority Projects in Small or Disadvantaged Communities” in heading.
 
-Subsec. (a)(1). Pub. L. 118–272, § 1107(k)(2), substituted “a program” for “a pilot program”.
+Subsec. (a)(1). Pub. L. 118–272, § 1107(k)(2), substituted “a program” for “a pilot program”.
 
-Subsec. (a)(2). Pub. L. 118–272, § 1107(k)(3)(A), struck out “pilot” before “program” in heading. See Codification note above.
+Subsec. (a)(2). Pub. L. 118–272, § 1107(k)(3)(A), struck out “pilot” before “program” in heading. See Codification note above.
 
-Subsec. (a)(2)(A). Pub. L. 118–272, § 1107(k)(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “publish a notice in the Federal Register that requests non-Federal interest proposals for a project under a continuing authority program for an economically disadvantaged community; and”. See Codification note above.
+Subsec. (a)(2)(A). Pub. L. 118–272, § 1107(k)(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “publish a notice in the Federal Register that requests non-Federal interest proposals for a project under a continuing authority program for an economically disadvantaged community; and”. See Codification note above.
 
-Subsec. (a)(2)(B). Pub. L. 118–272, § 1107(k)(3)(C), substituted “select projects” for “select a total of 20 projects”. See Codification note above.
+Subsec. (a)(2)(B). Pub. L. 118–272, § 1107(k)(3)(C), substituted “select projects” for “select a total of 20 projects”. See Codification note above.
 
-Subsec. (a)(4), (5). Pub. L. 118–272, § 1107(k)(3)–(6), added par. (5), redesignated former par. (5) as (4), made technical amendment to reference in original act which appears in text as reference to section 2282d(c)(1)(D) of this title, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The authority to commence pursuant to this subsection a project selected under paragraph (2) shall terminate on the date that is 10 years after December 27, 2020.” See Codification note above.
+Subsec. (a)(4), (5). Pub. L. 118–272, § 1107(k)(3)–(6), added par. (5), redesignated former par. (5) as (4), made technical amendment to reference in original act which appears in text as reference to section 2282d(c)(1)(D) of this title, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The authority to commence pursuant to this subsection a project selected under paragraph (2) shall terminate on the date that is 10 years after December 27, 2020.” See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5981,7 +5981,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 For definition of “economically disadvantaged community” as used in subsec. (a)(1) of this section, see section 160 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2281d. Declaration of policy
+### § 2281d. Declaration of policy
 
 **(a) In general** It is the policy of the United States for the Corps of Engineers, consistent with applicable statutory authorities—
 
@@ -6015,7 +6015,7 @@ In support of subsection (a), the Secretary shall give full consideration to req
 
 **(4)** shall be interpreted to supersede or modify any written agreement between the Federal Government and a non-Federal interest that is in effect on January 4, 2025.
 
-(Pub. L. 118–272, div. A, title I, § 1161, Jan. 4, 2025, 138 Stat. 3046.)
+(Pub. L. 118–272, div. A, title I, § 1161, Jan. 4, 2025, 138 Stat. 3046.)
 
 **Editorial Notes**
 
@@ -6029,7 +6029,7 @@ Section was enacted as part of the Grace F. Napolitano Priority for Water Supply
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2282. Feasibility reports
+### § 2282. Feasibility reports
 
 **(a) Preparation of reports**
 
@@ -6045,9 +6045,9 @@ A feasibility report shall describe, with reasonable certainty, the economic, en
 
 **(A)** any study with respect to which a report has been submitted to Congress before November 17, 1986;
 
-**(B)** any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b); 1
+**(B)** any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C)** any study for a project which does not require specific authorization by Congress in law or otherwise; and
 
@@ -6165,9 +6165,9 @@ Each District Engineer shall, to the maximum extent practicable, establish a det
 
 **(A)** submit an annual report that lists all detailed project schedules under paragraph (2) and an explanation of any missed deadlines to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-**(B)** make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date 2
+**(B)** make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 on which a report is submitted to Congress.
 
@@ -6181,7 +6181,7 @@ on which a report is submitted to Congress.
 
 **(B)** not later than 30 days after each missed deadline, make publicly available, including on the Internet, a copy of the amended project schedule described in subparagraph (A)(ii).
 
-(Pub. L. 99–662, title IX, § 905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, § 222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, § 2043(b), Nov. 8, 2007, 121 Stat. 1101; Pub. L. 113–121, title I, § 1002(a)–(c), June 10, 2014, 128 Stat. 1198; Pub. L. 116–260, div. AA, title I, § 117, Dec. 27, 2020, 134 Stat. 2628; Pub. L. 117–263, div. H, title LXXXI, § 8156, Dec. 23, 2022, 136 Stat. 3738; Pub. L. 118–272, div. A, title I, § 1142, Jan. 4, 2025, 138 Stat. 3033.)
+(Pub. L. 99–662, title IX, § 905, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 106–541, title II, § 222(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, § 2043(b), Nov. 8, 2007, 121 Stat. 1101; Pub. L. 113–121, title I, § 1002(a)–(c), June 10, 2014, 128 Stat. 1198; Pub. L. 116–260, div. AA, title I, § 117, Dec. 27, 2020, 134 Stat. 2628; Pub. L. 117–263, div. H, title LXXXI, § 8156, Dec. 23, 2022, 136 Stat. 3738; Pub. L. 118–272, div. A, title I, § 1142, Jan. 4, 2025, 138 Stat. 3033.)
 
 **Editorial Notes**
 
@@ -6197,33 +6197,33 @@ Section 160 of the Water Resources Development Act of 2020, referred to in subse
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 118–272, § 1142(1), amended par. (1) generally. Prior to amendment, par. (1) related to feasibility reports for studies that benefit economically disadvantaged communities and other communities.
+2025—Subsec. (b)(1). Pub. L. 118–272, § 1142(1), amended par. (1) generally. Prior to amendment, par. (1) related to feasibility reports for studies that benefit economically disadvantaged communities and other communities.
 
-Subsec. (b)(2)(B). Pub. L. 118–272, § 1142(2)(B)(i), substituted “$300,000” for “$200,000”.
+Subsec. (b)(2)(B). Pub. L. 118–272, § 1142(2)(B)(i), substituted “$300,000” for “$200,000”.
 
-Subsec. (b)(2)(C). Pub. L. 118–272, § 1142(2)(A), (B)(ii), (C), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 118–272, § 1142(2)(A), (B)(ii), (C), added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 118–272, § 1142(3), added par. (4) and struck out former par. (4) which related to treatment of timing and cost of determination of Federal interest.
+Subsec. (b)(4). Pub. L. 118–272, § 1142(3), added par. (4) and struck out former par. (4) which related to treatment of timing and cost of determination of Federal interest.
 
-Subsec. (b)(6). Pub. L. 118–272, § 1142(4), added par. (6).
+Subsec. (b)(6). Pub. L. 118–272, § 1142(4), added par. (6).
 
 2022—Subsec. (b)(1)(B). Pub. L. 117–263 amended subpar. (B) generally. Prior to amendment, subpar. (B) related to feasibility reports for studies benefitting certain other communities.
 
-2020—Subsec. (b). Pub. L. 116–260 added subsec. (b). A prior subsec. (b) was repealed by Pub. L. 113–121, title I, § 1002(a)(1). See 2014 Amendment note below.
+2020—Subsec. (b). Pub. L. 116–260 added subsec. (b). A prior subsec. (b) was repealed by Pub. L. 113–121, title I, § 1002(a)(1). See 2014 Amendment note below.
 
-2014—Subsec. (a)(1). Pub. L. 113–121, § 1002(a)(2), struck out “perform a reconnaissance study and” after “shall”.
+2014—Subsec. (a)(1). Pub. L. 113–121, § 1002(a)(2), struck out “perform a reconnaissance study and” after “shall”.
 
-Subsec. (a)(2). Pub. L. 113–121, § 1002(b), inserted at end “A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.”
+Subsec. (a)(2). Pub. L. 113–121, § 1002(b), inserted at end “A feasibility report shall include a preliminary analysis of the Federal interest and the costs, benefits, and environmental impacts of the project.”
 
-Subsec. (b). Pub. L. 113–121, § 1002(a)(1), struck out subsec. (b) which related to performing reconnaissance studies prior to initiating feasibility studies.
+Subsec. (b). Pub. L. 113–121, § 1002(a)(1), struck out subsec. (b) which related to performing reconnaissance studies prior to initiating feasibility studies.
 
-Subsec. (g). Pub. L. 113–121, § 1002(c), added subsec. (g).
+Subsec. (g). Pub. L. 113–121, § 1002(c), added subsec. (g).
 
-2007—Subsec. (a). Pub. L. 110–114, § 2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
+2007—Subsec. (a). Pub. L. 110–114, § 2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
 
-Subsec. (b). Pub. L. 110–114, § 2043(b)(2)(A), inserted heading.
+Subsec. (b). Pub. L. 110–114, § 2043(b)(2)(A), inserted heading.
 
-Subsecs. (c) to (f). Pub. L. 110–114, § 2043(b)(2)(B)–(E), added subsec. (c), redesignated former subsecs. (c) to (e) as (d) to (f), respectively, and inserted headings in subsecs. (d) and (e).
+Subsecs. (c) to (f). Pub. L. 110–114, § 2043(b)(2)(B)–(E), added subsec. (c), redesignated former subsecs. (c) to (e) as (d) to (f), respectively, and inserted headings in subsecs. (d) and (e).
 
 2000—Subsec. (e). Pub. L. 106–541 added subsec. (e).
 
@@ -6231,19 +6231,19 @@ Subsecs. (c) to (f). Pub. L. 110–114, § 2043(b)(2)(B)–(E), added subsec. 
 
 **Summary of Analysis**
 
-Pub. L. 116–260, div. AA, title I, § 116(b), Dec. 27, 2020, 134 Stat. 2628, provided that: “To the maximum extent practicable, the Secretary [of the Army] shall include in each feasibility report developed under section 905 of the Water Resources Development Act of 1986 (33 U.S.C. 2282) for a project that contains a flood risk management or hurricane and storm damage risk reduction element, a summary of the natural feature or nature-based feature alternatives, along with their long-term costs and benefits, that were evaluated in the development of the feasibility report, and, if such alternatives were not included in the recommended plan, an explanation of why such alternatives were not included in the recommended plan.”
+Pub. L. 116–260, div. AA, title I, § 116(b), Dec. 27, 2020, 134 Stat. 2628, provided that: “To the maximum extent practicable, the Secretary [of the Army] shall include in each feasibility report developed under section 905 of the Water Resources Development Act of 1986 (33 U.S.C. 2282) for a project that contains a flood risk management or hurricane and storm damage risk reduction element, a summary of the natural feature or nature-based feature alternatives, along with their long-term costs and benefits, that were evaluated in the development of the feasibility report, and, if such alternatives were not included in the recommended plan, an explanation of why such alternatives were not included in the recommended plan.”
 
 **Natural Infrastructure**
 
-Pub. L. 115–270, title I, § 1149(c), Oct. 23, 2018, 132 Stat. 3787, as amended by Pub. L. 116–260, div. AA, title I, § 116(a), Dec. 27, 2020, 134 Stat. 2627, provided that: “In carrying out a feasibility report developed under section 905 of the Water Resources Development Act of 1986 (33 U.S.C. 2282) for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary [of the Army] shall consider the use of both traditional and natural feature or nature-based feature alternatives (as such terms are defined in section 1184 of the Water Resources Development Act of 2016 (32 U.S.C. 2289a)), alone or in conjunction with each other, if those alternatives are practicable.”
+Pub. L. 115–270, title I, § 1149(c), Oct. 23, 2018, 132 Stat. 3787, as amended by Pub. L. 116–260, div. AA, title I, § 116(a), Dec. 27, 2020, 134 Stat. 2627, provided that: “In carrying out a feasibility report developed under section 905 of the Water Resources Development Act of 1986 (33 U.S.C. 2282) for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary [of the Army] shall consider the use of both traditional and natural feature or nature-based feature alternatives (as such terms are defined in section 1184 of the Water Resources Development Act of 2016 (32 U.S.C. 2289a)), alone or in conjunction with each other, if those alternatives are practicable.”
 
 **Continuation of Studies**
 
-Pub. L. 113–121, title I, § 1002(d), June 10, 2014, 128 Stat. 1199, provided that: “The Secretary [of the Army] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act [June 10, 2014] as if this section [amending this section], including the amendments made by this section, had not been enacted.”
+Pub. L. 113–121, title I, § 1002(d), June 10, 2014, 128 Stat. 1199, provided that: “The Secretary [of the Army] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act [June 10, 2014] as if this section [amending this section], including the amendments made by this section, had not been enacted.”
 
 **Expedited Completion of Reports**
 
-Pub. L. 113–121, title I, § 1003, June 10, 2014, 128 Stat. 1199, provided that:
+Pub. L. 113–121, title I, § 1003, June 10, 2014, 128 Stat. 1199, provided that:
 
 > “The Secretary [of the Army] shall—
 
@@ -6253,7 +6253,7 @@ Pub. L. 113–121, title I, § 1003, June 10, 2014, 128 Stat. 1199, provided t
 
 **National Academy of Sciences Study**
 
-Pub. L. 106–541, title II, § 216, Dec. 11, 2000, 114 Stat. 2595, provided that:
+Pub. L. 106–541, title II, § 216, Dec. 11, 2000, 114 Stat. 2595, provided that:
 
 > **“(a) Definitions.—** In this section, the following definitions apply:
 
@@ -6305,13 +6305,13 @@ Pub. L. 106–541, title II, § 216, Dec. 11, 2000, 114 Stat. 2595, provided t
 
 **Engineering Consulting Services**
 
-Pub. L. 106–541, title II, § 219, Dec. 11, 2000, 114 Stat. 2596, provided that: “In conducting a feasibility study for a water resources project, the Secretary [of the Army], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services.”
+Pub. L. 106–541, title II, § 219, Dec. 11, 2000, 114 Stat. 2596, provided that: “In conducting a feasibility study for a water resources project, the Secretary [of the Army], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services.”
 
 **Definitions**
 
 For definition of “economically disadvantaged community” as used in subsec. (b) of this section, see section 160 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2282a. Planning
+### § 2282a. Planning
 
 **(a) Omitted**
 
@@ -6411,13 +6411,13 @@ The reports of the Chief of Engineers shall identify any recommendation that is 
 
 Not later than 180 days after November 8, 2007, with respect to any report of the Chief of Engineers recommending a water resources project that is complete prior to November 8, 2007, the Secretary shall complete review of, and provide recommendations to Congress for, the report in accordance with paragraph (1).
 
-(Pub. L. 110–114, title II, § 2033, Nov. 8, 2007, 121 Stat. 1084; Pub. L. 113–121, title II, § 2103, June 10, 2014, 128 Stat. 1278.)
+(Pub. L. 110–114, title II, § 2033, Nov. 8, 2007, 121 Stat. 1084; Pub. L. 113–121, title II, § 2103, June 10, 2014, 128 Stat. 1278.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -6435,11 +6435,11 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2282b. Submission of reports to Congress
+### § 2282b. Submission of reports to Congress
 
 Beginning on January 17, 2014, and hereafter, not later than 120 days after the date of the Chief of Engineers Report on a water resource matter, the Assistant Secretary of the Army (Civil Works) shall submit the report to the appropriate authorizing and appropriating committees of the Congress.
 
-(Pub. L. 113–76, div. D, title I, § 104, Jan. 17, 2014, 128 Stat. 157.)
+(Pub. L. 113–76, div. D, title I, § 104, Jan. 17, 2014, 128 Stat. 157.)
 
 **Editorial Notes**
 
@@ -6447,7 +6447,7 @@ Beginning on January 17, 2014, and hereafter, not later than 120 days after the 
 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-### § 2282c. Vertical integration and acceleration of studies
+### § 2282c. Vertical integration and acceleration of studies
 
 **(a) In general** To the extent practicable, a feasibility study initiated by the Secretary, after June 10, 2014, under section 2282(a) of this title shall—
 
@@ -6511,7 +6511,7 @@ Each time the Secretary makes a determination under this subsection, the Secreta
 
 **(3)** any recommendations for additional authority necessary to support efforts to expedite the feasibility study process, including an analysis of whether the limitation established by subsection (a)(2) needs to be adjusted to address the impacts of inflation.
 
-(Pub. L. 113–121, title I, § 1001, June 10, 2014, 128 Stat. 1196; Pub. L. 115–270, title I, § 1330(b), Oct. 23, 2018, 132 Stat. 3827; Pub. L. 116–260, div. AA, title III, § 360(c), Dec. 27, 2020, 134 Stat. 2733; Pub. L. 118–272, div. A, title I, § 1103(a), Jan. 4, 2025, 138 Stat. 3000.)
+(Pub. L. 113–121, title I, § 1001, June 10, 2014, 128 Stat. 1196; Pub. L. 115–270, title I, § 1330(b), Oct. 23, 2018, 132 Stat. 3827; Pub. L. 116–260, div. AA, title III, § 360(c), Dec. 27, 2020, 134 Stat. 2733; Pub. L. 118–272, div. A, title I, § 1103(a), Jan. 4, 2025, 138 Stat. 3000.)
 
 **Editorial Notes**
 
@@ -6525,21 +6525,21 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 118–272, § 1103(a)(1), substituted “4 years after the date on which the Secretary determines the Federal interest for purposes of the report pursuant to section 2282(b) of this title” for “3 years after the date of initiation”.
+2025—Subsec. (a)(1). Pub. L. 118–272, § 1103(a)(1), substituted “4 years after the date on which the Secretary determines the Federal interest for purposes of the report pursuant to section 2282(b) of this title” for “3 years after the date of initiation”.
 
-Subsec. (a)(2). Pub. L. 118–272, § 1103(a)(2), added par. (2) and struck out former par. (2) which read as follows: “have a maximum Federal cost of $3,000,000; and”.
+Subsec. (a)(2). Pub. L. 118–272, § 1103(a)(2), added par. (2) and struck out former par. (2) which read as follows: “have a maximum Federal cost of $3,000,000; and”.
 
-2020—Subsec. (c). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.”
+2020—Subsec. (c). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.”
 
-Subsec. (d). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 116–260, § 360(c)(1)(A), (B), substituted “The Secretary” for “Notwithstanding the requirements of subsection (c), the Secretary” and “subsection (a)” for “subsections (a) and (c)”.
+Subsec. (d)(1). Pub. L. 116–260, § 360(c)(1)(A), (B), substituted “The Secretary” for “Notwithstanding the requirements of subsection (c), the Secretary” and “subsection (a)” for “subsections (a) and (c)”.
 
-Subsec. (d)(2). Pub. L. 116–260, § 360(c)(1)(B), substituted “subsection (a)” for “subsections (a) and (c)” in introductory provisions.
+Subsec. (d)(2). Pub. L. 116–260, § 360(c)(1)(B), substituted “subsection (a)” for “subsections (a) and (c)” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 116–260, § 360(c)(1)(C), struck out par. (4). Text read as follows: “The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.”.
+Subsec. (d)(4). Pub. L. 116–260, § 360(c)(1)(C), struck out par. (4). Text read as follows: “The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.”.
 
-Subsecs. (e) to (g). Pub. L. 116–260, § 360(c)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
+Subsecs. (e) to (g). Pub. L. 116–260, § 360(c)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
 
 2018—Subsec. (d)(4). Pub. L. 115–270 substituted “10 years” for “7 years”.
 
@@ -6547,13 +6547,13 @@ Subsecs. (e) to (g). Pub. L. 116–260, § 360(c)(2), redesignated subsecs. (f
 
 **Savings Clause**
 
-Pub. L. 118–272, div. A, title I, § 1103(b), Jan. 4, 2025, 138 Stat. 3000, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed to affect a feasibility study that was initiated prior to the date of the enactment of this Act [Jan. 4, 2025].”
+Pub. L. 118–272, div. A, title I, § 1103(b), Jan. 4, 2025, 138 Stat. 3000, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed to affect a feasibility study that was initiated prior to the date of the enactment of this Act [Jan. 4, 2025].”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2282d. Annual report to Congress
+### § 2282d. Annual report to Congress
 
 **(a) In general** Not later than February 1 of each year, the Secretary shall develop and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report, to be entitled “Report to Congress on Future Water Resources Development”, that identifies the following:
 
@@ -6639,9 +6639,9 @@ The Secretary shall describe in the annual report, to the extent applicable and 
 
 **(i) In general**
 
-With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the 1
+With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “of”.
+<sup>1</sup> So in original. Probably should be preceded by “of”.
 
 project and the justification for the modification is not the result of a change in the scope of the project.
 
@@ -6795,7 +6795,7 @@ The term “non-Federal interest” has the meaning given that term in section 1
 
 The term “water resources development project” includes a project under an environmental infrastructure assistance program.
 
-(Pub. L. 113–121, title VII, § 7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, § 1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, § 1332(a), Oct. 23, 2018, 132 Stat. 3834; Pub. L. 116–260, div. AA, title I, § 127(a), Dec. 27, 2020, 134 Stat. 2640; Pub. L. 118–272, div. A, title I, § 1111, Jan. 4, 2025, 138 Stat. 3010.)
+(Pub. L. 113–121, title VII, § 7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, § 1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, § 1332(a), Oct. 23, 2018, 132 Stat. 3834; Pub. L. 116–260, div. AA, title I, § 127(a), Dec. 27, 2020, 134 Stat. 2640; Pub. L. 118–272, div. A, title I, § 1111, Jan. 4, 2025, 138 Stat. 3010.)
 
 **Editorial Notes**
 
@@ -6805,25 +6805,25 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2025—Subsec. (c)(1)(D)(iii)(X). Pub. L. 118–272, § 1111(1), added subcl. (X).
+2025—Subsec. (c)(1)(D)(iii)(X). Pub. L. 118–272, § 1111(1), added subcl. (X).
 
-Subsecs. (g) to (i). Pub. L. 118–272, § 1111(2), (3), added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
+Subsecs. (g) to (i). Pub. L. 118–272, § 1111(2), (3), added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 
-2020—Subsec. (c)(1)(B)(ii)(III). Pub. L. 116–260, § 127(a)(1)(A)(i), inserted “, regional, or local” after “national”.
+2020—Subsec. (c)(1)(B)(ii)(III). Pub. L. 116–260, § 127(a)(1)(A)(i), inserted “, regional, or local” after “national”.
 
-Subsec. (c)(1)(D). Pub. L. 116–260, § 127(a)(1)(A)(ii), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 116–260, § 127(a)(1)(A)(ii), added subpar. (D).
 
-Subsec. (c)(4)(B)(ii), (iii). Pub. L. 116–260, § 127(a)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 116–260, § 127(a)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (g)(5). Pub. L. 116–260, § 127(a)(2), struck out “if authorized before December 16, 2016” before period at end.
+Subsec. (g)(5). Pub. L. 116–260, § 127(a)(2), struck out “if authorized before December 16, 2016” before period at end.
 
-2018—Subsec. (a)(4). Pub. L. 115–270, § 1332(a)(1), added par. (4).
+2018—Subsec. (a)(4). Pub. L. 115–270, § 1332(a)(1), added par. (4).
 
-Subsec. (b)(1). Pub. L. 115–270, § 1332(a)(2), substituted “studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program” for “studies and proposed modifications to authorized water resources development projects and feasibility studies”.
+Subsec. (b)(1). Pub. L. 115–270, § 1332(a)(2), substituted “studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program” for “studies and proposed modifications to authorized water resources development projects and feasibility studies”.
 
-Subsec. (c)(4). Pub. L. 115–270, § 1332(a)(5), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that those proposals did not meet the criteria for inclusion under such paragraph.”
+Subsec. (c)(4). Pub. L. 115–270, § 1332(a)(5), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that those proposals did not meet the criteria for inclusion under such paragraph.”
 
-Subsecs. (d) to (g). Pub. L. 115–270, § 1332(a)(3), (4), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 115–270, § 1332(a)(3), (4), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 2016—Subsec. (f)(5). Pub. L. 114–322 added par. (5).
 
@@ -6831,15 +6831,15 @@ Subsecs. (d) to (g). Pub. L. 115–270, § 1332(a)(3), (4), added subsec. (d) 
 
 **Over-Budget Cap Programs**
 
-Pub. L. 116–260, div. AA, title I, § 127(b), Dec. 27, 2020, 134 Stat. 2642, provided that: “For any project carried out under a continuing authority program, as such term is defined in section 7001(c)(1)(D) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d[(c)(1)(D)])), [sic] for which the Secretary [of the Army] is required to include a proposed modification in an annual report under such section 7001(c)(1)(D), the Secretary shall, to the extent practicable, inform the non-Federal interest of the process for carrying out the project pursuant to section 105 of the Water Resources Development Act of 1986 (33 U.S.C. 2215) and whether the Secretary has the authority to complete a feasibility study for the project.”
+Pub. L. 116–260, div. AA, title I, § 127(b), Dec. 27, 2020, 134 Stat. 2642, provided that: “For any project carried out under a continuing authority program, as such term is defined in section 7001(c)(1)(D) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d[(c)(1)(D)])), [sic] for which the Secretary [of the Army] is required to include a proposed modification in an annual report under such section 7001(c)(1)(D), the Secretary shall, to the extent practicable, inform the non-Federal interest of the process for carrying out the project pursuant to section 105 of the Water Resources Development Act of 1986 (33 U.S.C. 2215) and whether the Secretary has the authority to complete a feasibility study for the project.”
 
 **Annual Report on Status of Feasibility Studies**
 
-Pub. L. 116–260, div. AA, title I, § 127(c), Dec. 27, 2020, 134 Stat. 2642, provided that: “Concurrent with each report submitted under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d), the Secretary [of the Army] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that provides for an accounting of all outstanding feasibility studies being conducted by the Secretary, including, for each such study, its length, cost, and expected completion date.”
+Pub. L. 116–260, div. AA, title I, § 127(c), Dec. 27, 2020, 134 Stat. 2642, provided that: “Concurrent with each report submitted under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d), the Secretary [of the Army] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that provides for an accounting of all outstanding feasibility studies being conducted by the Secretary, including, for each such study, its length, cost, and expected completion date.”
 
 **Dissemination of Information**
 
-Pub. L. 115–270, title I, § 1104, Oct. 23, 2018, 132 Stat. 3771, as amended by Pub. L. 116–260, div. AA, title II, § 229, Dec. 27, 2020, 134 Stat. 2698, provided that:
+Pub. L. 115–270, title I, § 1104, Oct. 23, 2018, 132 Stat. 3771, as amended by Pub. L. 116–260, div. AA, title II, § 229, Dec. 27, 2020, 134 Stat. 2698, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -6881,7 +6881,7 @@ Pub. L. 115–270, title I, § 1104, Oct. 23, 2018, 132 Stat. 3771, as amended
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2282d–1. Report to Congress on authorized studies and projects
+### § 2282d–1. Report to Congress on authorized studies and projects
 
 **(a) In general** Not later than February 1 of each year, the Secretary shall develop and submit to Congress an annual report, to be entitled “Report to Congress on Authorized Water Resources Development Projects and Studies”, that identifies—
 
@@ -6975,7 +6975,7 @@ The term “non-Federal interest” has the meaning given that term in section 1
 
 The term “water resources development project” includes a separable element of a project, a project under an environmental infrastructure assistance program, and a project the authorized purposes of which include water supply.
 
-(Pub. L. 116–260, div. AA, title II, § 222, Dec. 27, 2020, 134 Stat. 2694.)
+(Pub. L. 116–260, div. AA, title II, § 222, Dec. 27, 2020, 134 Stat. 2694.)
 
 **Editorial Notes**
 
@@ -6989,7 +6989,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2282e. Post-authorization change reports
+### § 2282e. Post-authorization change reports
 
 **(a) In general** The completion of a post-authorization change report prepared by the Corps of Engineers for a water resources development project—
 
@@ -7019,7 +7019,7 @@ Not later than 120 days after December 16, 2016, with respect to any post-author
 
 **(3)** any other report that recommends the modification of an authorized water resources development project.
 
-(Pub. L. 114–322, title I, § 1132, Dec. 16, 2016, 130 Stat. 1653.)
+(Pub. L. 114–322, title I, § 1132, Dec. 16, 2016, 130 Stat. 1653.)
 
 **Editorial Notes**
 
@@ -7033,7 +7033,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2282f. Review of resiliency assessments
+### § 2282f. Review of resiliency assessments
 
 **(a) Resiliency assessment**
 
@@ -7057,7 +7057,7 @@ Upon the request of a non-Federal interest, in carrying out a feasibility study 
 
 To the maximum extent practicable, in carrying out a study pursuant to paragraph (1), the Secretary shall document the potential effects of sea level rise or inland flooding on the project, and the expected benefits of the project relating to sea level rise or inland flooding, during the 50-year period after the date of completion of the project.
 
-(Pub. L. 116–260, div. AA, title I, § 113, Dec. 27, 2020, 134 Stat. 2626.)
+(Pub. L. 116–260, div. AA, title I, § 113, Dec. 27, 2020, 134 Stat. 2626.)
 
 **Editorial Notes**
 
@@ -7071,7 +7071,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2282g. Scope of feasibility studies
+### § 2282g. Scope of feasibility studies
 
 **(a) Flood risk management or hurricane and storm damage risk reduction** In carrying out a feasibility study for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary, at the request of the non-Federal interest for the study, shall formulate alternatives to maximize the net benefits from the reduction of the comprehensive flood risk within the geographic scope of the study from the isolated and compound effects of—
 
@@ -7105,7 +7105,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 All costs to carry out a feasibility study in accordance with this section shall be shared in accordance with the cost share requirements otherwise applicable to the study.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8106, Dec. 23, 2022, 136 Stat. 3699.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8106, Dec. 23, 2022, 136 Stat. 3699.)
 
 **Editorial Notes**
 
@@ -7123,7 +7123,7 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2282h. Economic, hydraulic, and hydrologic modeling
+### § 2282h. Economic, hydraulic, and hydrologic modeling
 
 **(a) Model development**
 
@@ -7169,7 +7169,7 @@ The term “compound flooding” means a flooding event in which two or more flo
 
 The term “economic”, as used in reference to models, means relating to the evaluation of benefits and cost attributable to a project for an economic justification under section 1962–2 of title 42.
 
-(Pub. L. 118–272, div. A, title I, § 1131, Jan. 4, 2025, 138 Stat. 3020.)
+(Pub. L. 118–272, div. A, title I, § 1131, Jan. 4, 2025, 138 Stat. 3020.)
 
 **Editorial Notes**
 
@@ -7183,7 +7183,7 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2283. Fish and wildlife mitigation
+### § 2283. Fish and wildlife mitigation
 
 **(a) Steps to be taken prior to or concurrently with construction**
 
@@ -7417,13 +7417,13 @@ Prior to the expenditure of any funds for a project pursuant to paragraph (1), t
 
 The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
 
-(Pub. L. 99–662, title IX, § 906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, § 333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, § 221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, § 224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, § 2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, § 1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, § 1162, Dec. 16, 2016, 130 Stat. 1668.)
+(Pub. L. 99–662, title IX, § 906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, § 333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, § 221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, § 224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, § 2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, § 1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, § 1162, Dec. 16, 2016, 130 Stat. 1668.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for the Atchafalaya Floodway System, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
@@ -7431,51 +7431,51 @@ The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2016—Subsec. (h)(4)(D) to (F). Pub. L. 114–322, § 1162(1)(A), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+2016—Subsec. (h)(4)(D) to (F). Pub. L. 114–322, § 1162(1)(A), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (h)(6)(C). Pub. L. 114–322, § 1162(1)(B), substituted “impacts, including impacts to habitat connectivity” for “impacts”.
+Subsec. (h)(6)(C). Pub. L. 114–322, § 1162(1)(B), substituted “impacts, including impacts to habitat connectivity” for “impacts”.
 
-Subsec. (h)(11). Pub. L. 114–322, § 1162(1)(C), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: “Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated.”
+Subsec. (h)(11). Pub. L. 114–322, § 1162(1)(C), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: “Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated.”
 
-Subsecs. (j), (k). Pub. L. 114–322, § 1162(2), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 114–322, § 1162(2), added subsecs. (j) and (k).
 
-2014—Subsec. (d)(1). Pub. L. 113–121, § 1040(a)(1)(A), inserted “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”, “ecological resources and” after “impact on”, “without the implementation of mitigation measures” before period at end of first sentence, and “If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title.” after “to the extent possible.”
+2014—Subsec. (d)(1). Pub. L. 113–121, § 1040(a)(1)(A), inserted “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”, “ecological resources and” after “impact on”, “without the implementation of mitigation measures” before period at end of first sentence, and “If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title.” after “to the extent possible.”
 
-Subsec. (d)(2). Pub. L. 113–121, § 1040(a)(1)(B)(iii), which directed insertion of “using a watershed approach” after “projects” was executed by making the insertion after “projects” the first place appearing to reflect the probable intent of Congress.
+Subsec. (d)(2). Pub. L. 113–121, § 1040(a)(1)(B)(iii), which directed insertion of “using a watershed approach” after “projects” was executed by making the insertion after “projects” the first place appearing to reflect the probable intent of Congress.
 
-Pub. L. 113–121, § 1040(a)(1)(B)(i), (ii), substituted “Selection and design” for “Design” in heading and inserted “select and” before “design” in text.
+Pub. L. 113–121, § 1040(a)(1)(B)(i), (ii), substituted “Selection and design” for “Design” in heading and inserted “select and” before “design” in text.
 
-Subsec. (d)(3)(A). Pub. L. 113–121, § 1040(a)(1)(C)(i), inserted “, at a minimum,” after “complies with”.
+Subsec. (d)(3)(A). Pub. L. 113–121, § 1040(a)(1)(C)(i), inserted “, at a minimum,” after “complies with”.
 
-Subsec. (d)(3)(B)(iii) to (vi). Pub. L. 113–121, § 1040(a)(1)(C)(ii), added cls. (iii) and (iv), redesignated former cls. (iv) and (v) as (v) and (vi), respectively, and struck out former cl. (iii) which read as follows: “a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;”.
+Subsec. (d)(3)(B)(iii) to (vi). Pub. L. 113–121, § 1040(a)(1)(C)(ii), added cls. (iii) and (iv), redesignated former cls. (iv) and (v) as (v) and (vi), respectively, and struck out former cl. (iii) which read as follows: “a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;”.
 
-Subsecs. (h), (i). Pub. L. 113–121, § 1040(a)(2), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 113–121, § 1040(a)(2), added subsecs. (h) and (i).
 
-2007—Subsec. (d)(1). Pub. L. 110–114, § 2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
+2007—Subsec. (d)(1). Pub. L. 110–114, § 2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
 
-Subsec. (d)(3) to (5). Pub. L. 110–114, § 2036(a)(3), added pars. (3) to (5).
+Subsec. (d)(3) to (5). Pub. L. 110–114, § 2036(a)(3), added pars. (3) to (5).
 
 2000—Subsec. (d). Pub. L. 106–541 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted “November 17, 1986” for “the date of enactment of this Act”, redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 
 1999—Subsec. (e). Pub. L. 106–53 inserted after second sentence “Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project.”
 
-1992—Subsec. (c). Pub. L. 102–580 inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
+1992—Subsec. (c). Pub. L. 102–580 inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability**
 
-Pub. L. 113–121, title I, § 1040(b), June 10, 2014, 128 Stat. 1243, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to a project for which a mitigation plan has been completed as of the date of enactment of this Act [June 10, 2014].”
+Pub. L. 113–121, title I, § 1040(b), June 10, 2014, 128 Stat. 1243, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to a project for which a mitigation plan has been completed as of the date of enactment of this Act [June 10, 2014].”
 
 **Concurrent Mitigation**
 
-Pub. L. 106–541, title II, § 224(b), Dec. 11, 2000, 114 Stat. 2598, required the Comptroller General to conduct an investigation of the effectiveness of the concurrent mitigation requirements of this section and to transmit to Congress a report on the results of the investigation not later than 1 year after Dec. 11, 2000.
+Pub. L. 106–541, title II, § 224(b), Dec. 11, 2000, 114 Stat. 2598, required the Comptroller General to conduct an investigation of the effectiveness of the concurrent mitigation requirements of this section and to transmit to Congress a report on the results of the investigation not later than 1 year after Dec. 11, 2000.
 
-### § 2283a. Status report
+### § 2283a. Status report
 
 **(1) In general**
 
@@ -7501,7 +7501,7 @@ Concurrent with the President’s submission to Congress of the President’s re
 
 The Secretary shall make information contained in the status report available to the public, including on the Internet.
 
-(Pub. L. 110–114, title II, § 2036(b), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, § 1041, June 10, 2014, 128 Stat. 1243.)
+(Pub. L. 110–114, title II, § 2036(b), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, § 1041, June 10, 2014, 128 Stat. 1243.)
 
 **Editorial Notes**
 
@@ -7519,7 +7519,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2283b. Clarification of mitigation authority
+### § 2283b. Clarification of mitigation authority
 
 **(a) In general** The Secretary may carry out measures to improve fish species habitat within the boundaries and downstream of a water resources project constructed by the Secretary that includes a fish hatchery if the Secretary—
 
@@ -7543,7 +7543,7 @@ Subject to paragraph (2), the non-Federal interest shall contribute 35 percent o
 
 The non-Federal interest shall contribute 100 percent of the costs of operation, maintenance, replacement, repair, and rehabilitation of the measures carried out under this section.
 
-(Pub. L. 113–121, title I, § 1028, June 10, 2014, 128 Stat. 1230.)
+(Pub. L. 113–121, title I, § 1028, June 10, 2014, 128 Stat. 1230.)
 
 **Editorial Notes**
 
@@ -7557,7 +7557,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2283c. Technical assistance
+### § 2283c. Technical assistance
 
 **(1) In general**
 
@@ -7571,7 +7571,7 @@ In providing technical assistance under this section, the Secretary shall give p
 
 The Secretary shall seek to ensure any technical assistance provided under this section will support the establishment of mitigation instruments that will result in restoration of high-priority areas identified in the plans under paragraph (2).
 
-(Pub. L. 113–121, title I, § 1040(c), June 10, 2014, 128 Stat. 1243.)
+(Pub. L. 113–121, title I, § 1040(c), June 10, 2014, 128 Stat. 1243.)
 
 **Editorial Notes**
 
@@ -7585,17 +7585,17 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2284. Benefits and costs attributable to environmental measures
+### § 2284. Benefits and costs attributable to environmental measures
 
 In the evaluation by the Secretary of benefits and costs of a water resources project, the benefits attributable to measures included in a project for the purpose of environmental quality, including improvement of the environment and fish and wildlife enhancement, shall be deemed to be at least equal to the costs of such measures.
 
-(Pub. L. 99–662, title IX, § 907, Nov. 17, 1986, 100 Stat. 4188.)
+(Pub. L. 99–662, title IX, § 907, Nov. 17, 1986, 100 Stat. 4188.)
 
-### § 2284a. Benefits to navigation
+### § 2284a. Benefits to navigation
 
 In evaluating potential improvements to navigation and the maintenance of navigation projects, the Secretary shall consider, and include for purposes of project justification, economic benefits generated by cruise ships as commercial navigation benefits.
 
-(Pub. L. 104–303, title II, § 230, Oct. 12, 1996, 110 Stat. 3704.)
+(Pub. L. 104–303, title II, § 230, Oct. 12, 1996, 110 Stat. 3704.)
 
 **Editorial Notes**
 
@@ -7609,11 +7609,11 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2284b. Scenic and aesthetic considerations
+### § 2284b. Scenic and aesthetic considerations
 
 In conducting studies of potential water resources projects, the Secretary shall consider measures to preserve and enhance scenic and aesthetic qualities in the vicinity of such projects.
 
-(Pub. L. 104–303, title II, § 232, Oct. 12, 1996, 110 Stat. 3704.)
+(Pub. L. 104–303, title II, § 232, Oct. 12, 1996, 110 Stat. 3704.)
 
 **Editorial Notes**
 
@@ -7627,29 +7627,29 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2285. Environmental Protection and Mitigation Fund
+### § 2285. Environmental Protection and Mitigation Fund
 
-There is established an Environmental Protection and Mitigation Fund. There is authorized to be appropriated to such fund $35,000,000 for fiscal years beginning after September 30, 1986. Amounts in the fund 1
+There is established an Environmental Protection and Mitigation Fund. There is authorized to be appropriated to such fund $35,000,000 for fiscal years beginning after September 30, 1986. Amounts in the fund 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall be available for undertaking, in advance of construction of any water resources project authorized to be constructed by the Secretary, such measures authorized as part of such project, including the acquisition of lands and interests therein, as may be necessary to ensure that project-induced losses to fish and wildlife production and habitat will be mitigated. The Secretary shall reimburse the Fund for any amounts expended under this section for a water resources project from the first appropriations made for construction, including planning and designing, of such project.
 
-(Pub. L. 99–662, title IX, § 908, Nov. 17, 1986, 100 Stat. 4188.)
+(Pub. L. 99–662, title IX, § 908, Nov. 17, 1986, 100 Stat. 4188.)
 
-### § 2286. Acceptance of certain funds for mitigation
+### § 2286. Acceptance of certain funds for mitigation
 
 The Secretary is authorized to accept funds from any entity, public or private, in accordance with the Pacific Northwest Electric Power Planning and Conservation Act [16 U.S.C. 839 et seq.] to be used to protect, mitigate, and enhance fish and wildlife in connection with projects constructed or operated by the Secretary. The Secretary may accept and use funds for such purposes without regard to any limitation established under any other provision of law or rule of law.
 
-(Pub. L. 99–662, title XI, § 1146, Nov. 17, 1986, 100 Stat. 4253.)
+(Pub. L. 99–662, title XI, § 1146, Nov. 17, 1986, 100 Stat. 4253.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§ 839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
 
-### § 2287. Continued planning and investigations
+### § 2287. Continued planning and investigations
 
 **(a) Pre-authorization planning and engineering**
 
@@ -7661,7 +7661,7 @@ After the Chief of Engineers transmits his recommendations for a water resources
 
 The authorization made by this section shall be in addition to any other authorizations for planning, engineering, and design of water resources development projects and shall not be construed as a limitation on any other such authorization.
 
-(Pub. L. 99–662, title IX, § 910, Nov. 17, 1986, 100 Stat. 4189.)
+(Pub. L. 99–662, title IX, § 910, Nov. 17, 1986, 100 Stat. 4189.)
 
 **Editorial Notes**
 
@@ -7675,17 +7675,17 @@ Subsec. (b) of this section, which required the Secretary to prepare and transmi
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 2288. Repealed. Pub. L. 113–121, title I, § 1004, June 10, 2014, 128 Stat. 1199
+### § 2288. Repealed. Pub. L. 113–121, title I, § 1004, June 10, 2014, 128 Stat. 1199
 
-Section, Pub. L. 99–662, title IX, § 911, Nov. 17, 1986, 100 Stat. 4189, related to review of cost effectiveness of design.
+Section, Pub. L. 99–662, title IX, § 911, Nov. 17, 1986, 100 Stat. 4189, related to review of cost effectiveness of design.
 
-### § 2289. Urban and rural flood control frequency
+### § 2289. Urban and rural flood control frequency
 
 In the preparation of feasibility reports for projects for flood damage prevention in urban and rural areas, the Secretary may consider and evaluate measures to reduce or eliminate damages from flooding without regard to frequency of flooding, drainage area, and amount of runoff. This section shall apply with respect to any project, or separable element thereof, the Federal share of the cost of which is less than $3,000,000.
 
-(Pub. L. 99–662, title IX, § 914, Nov. 17, 1986, 100 Stat. 4190.)
+(Pub. L. 99–662, title IX, § 914, Nov. 17, 1986, 100 Stat. 4190.)
 
-### § 2289a. Consideration of measures
+### § 2289a. Consideration of measures
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -7721,7 +7721,7 @@ Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary sh
 
 **(C)** A description of any statutory, fiscal, or regulatory barriers to the appropriate consideration and use of a full array of measures for coastal risk reduction.
 
-(Pub. L. 114–322, title I, § 1184, Dec. 16, 2016, 130 Stat. 1679; Pub. L. 115–270, title I, § 1149(b), Oct. 23, 2018, 132 Stat. 3787.)
+(Pub. L. 114–322, title I, § 1184, Dec. 16, 2016, 130 Stat. 1679; Pub. L. 115–270, title I, § 1149(b), Oct. 23, 2018, 132 Stat. 3787.)
 
 **Editorial Notes**
 
@@ -7739,7 +7739,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2289b. Stormwater management projects
+### § 2289b. Stormwater management projects
 
 **(a) In general**
 
@@ -7793,7 +7793,7 @@ The total Federal amount expended for a study or project under this section shal
 
 There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each fiscal year.
 
-(Pub. L. 118–272, div. A, title I, § 1108, Jan. 4, 2025, 138 Stat. 3006.)
+(Pub. L. 118–272, div. A, title I, § 1108, Jan. 4, 2025, 138 Stat. 3006.)
 
 **Editorial Notes**
 
@@ -7807,11 +7807,11 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2290. Flood control in Trust Territory of the Pacific Islands
+### § 2290. Flood control in Trust Territory of the Pacific Islands
 
 The Secretary is authorized to use the authority contained in section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1937 (33 U.S.C. 701g), section 14 of the Flood Control Act of 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled “An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property”, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i) in the Trust Territory of the Pacific Islands.
 
-(Pub. L. 99–662, title IX, § 915(h), Nov. 17, 1986, 100 Stat. 4191.)
+(Pub. L. 99–662, title IX, § 915(h), Nov. 17, 1986, 100 Stat. 4191.)
 
 **Executive Documents**
 
@@ -7819,13 +7819,13 @@ The Secretary is authorized to use the authority contained in section 205 of the
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2291. Federal Project Repayment District
+### § 2291. Federal Project Repayment District
 
 **(a)** The Secretary may enter into a contract providing for the payment or recovery of an appropriate share of the costs of a project under his responsibility with a Federal Project Repayment District or other political subdivision of a State prior to the construction, operation, improvement, or financing of such project. The Federal Project Repayment District shall include lands and improvements which receive identifiable benefits from the construction or operation of such project. Such districts shall be established in accordance with State law, shall have specific boundaries which may be changed from time to time based upon further evaluations of benefits, and shall have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b).
 
 **(b)** Prior to execution of an agreement pursuant to subsection (a) of this section, the Secretary shall require and approve a study from the State or political subdivision demonstrating that the revenues to be derived from a contract under this section, or an agreement with a Federal Project Repayment District, will be sufficient to equal or exceed the cost recovery requirements over the term of repayment required by Federal law.
 
-(Pub. L. 99–662, title IX, § 916, Nov. 17, 1986, 100 Stat. 4191; Pub. L. 100–676, § 15, Nov. 17, 1988, 102 Stat. 4026.)
+(Pub. L. 99–662, title IX, § 916, Nov. 17, 1986, 100 Stat. 4191; Pub. L. 100–676, § 15, Nov. 17, 1988, 102 Stat. 4026.)
 
 **Editorial Notes**
 
@@ -7833,25 +7833,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 1988—Subsec. (a). Pub. L. 100–676 substituted “have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b)” for “include the power to collect a portion of the transfer price from any transaction involving the sale, transfer, or change in beneficial ownership of lands and improvements within the district boundaries”.
 
-### § 2292. Surveying and mapping
+### § 2292. Surveying and mapping
 
 Any surveying or mapping services to be performed in connection with a water resources project which is or has been authorized to be undertaken by the Secretary shall be procured in accordance with title IX of the Federal Property and Administrative Services Act of 1949.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 99–662, title IX, § 918, Nov. 17, 1986, 100 Stat. 4192.)
+(Pub. L. 99–662, title IX, § 918, Nov. 17, 1986, 100 Stat. 4192.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Geomatic Data**
 
-Pub. L. 115–270, title I, § 1118, Oct. 23, 2018, 132 Stat. 3776, provided that:
+Pub. L. 115–270, title I, § 1118, Oct. 23, 2018, 132 Stat. 3776, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall develop guidance for the acceptance and use of information obtained from a non-Federal interest through geomatic techniques, including remote sensing and land surveying, cartography, geographic information systems, global navigation satellite systems, photogrammetry, or other remote means, in carrying out any authority of the Secretary.
 
@@ -7863,7 +7863,7 @@ Pub. L. 115–270, title I, § 1118, Oct. 23, 2018, 132 Stat. 3776, provided t
 
 > **“(2)** changes the current statutory or regulatory requirements of the Corps of Engineers.”
 
-### § 2292a. National coastal mapping program
+### § 2292a. National coastal mapping program
 
 **(a) In general**
 
@@ -7903,7 +7903,7 @@ The Secretary is authorized to carry out a national coastal mapping program to p
 
 There is authorized to be appropriated to carry out this section for each fiscal year $15,000,000, to remain available until expended.
 
-(Pub. L. 118–272, div. A, title I, § 1123, Jan. 4, 2025, 138 Stat. 3015.)
+(Pub. L. 118–272, div. A, title I, § 1123, Jan. 4, 2025, 138 Stat. 3015.)
 
 **Editorial Notes**
 
@@ -7921,7 +7921,7 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2293. Reprogramming during national emergencies
+### § 2293. Reprogramming during national emergencies
 
 **(a) Termination or deferment of civil works projects; application of resources to national defense projects**
 
@@ -7931,19 +7931,19 @@ In the event of a declaration of war or a declaration by the President of a nati
 
 The Secretary shall immediately notify the appropriate committees of Congress of any actions taken pursuant to the authorities provided by this section, and cease to exercise such authorities not later than 180 calendar days after the termination of the state of war or national emergency, whichever occurs later.
 
-(Pub. L. 99–662, title IX, § 923, Nov. 17, 1986, 100 Stat. 4194.)
+(Pub. L. 99–662, title IX, § 923, Nov. 17, 1986, 100 Stat. 4194.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-### § 2293a. Reprogramming of funds for projects by Corps of Engineers
+### § 2293a. Reprogramming of funds for projects by Corps of Engineers
 
 None of the funds made available before, on, or after June 15, 2006, in an appropriations Act may be expended to prevent or limit any reprogramming of funds for a project to be carried out by the Corps of Engineers using funds appropriated in any Act making appropriations for energy and water development, based on whether the project was included by the President in the budget transmitted under section 1105(a) of title 31 or is otherwise proposed by the President or considered part of the budget by the Office of Management and Budget, if the project received funds in an Act making appropriations for energy and water development or any other appropriations Act making additional funds available for energy and water development.
 
-(Pub. L. 109–234, title II, § 2307, June 15, 2006, 120 Stat. 457.)
+(Pub. L. 109–234, title II, § 2307, June 15, 2006, 120 Stat. 457.)
 
 **Editorial Notes**
 
@@ -7951,13 +7951,13 @@ None of the funds made available before, on, or after June 15, 2006, in an appro
 
 Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-### § 2294. Office of Environmental Policy
+### § 2294. Office of Environmental Policy
 
 The Secretary shall establish in the Directorate of Civil Works of the Office of the Chief of Engineers an Office of Environmental Policy. Such Office shall be responsible for the formulation, coordination, and implementation of all matters concerning environmental quality and policy as they relate to the water resources program of the United States Army Corps of Engineers. Such Office shall, among other things, develop, and monitor compliance with, guidelines for the consideration of environmental quality in formulation and planning of water resources projects carried out by the Secretary, the preparation and coordination of environmental impact statements for such projects, and the coordination with Federal, State, and local agencies of environmental aspects of such projects and regulatory responsibilities of the Secretary.
 
-(Pub. L. 99–662, title IX, § 924, Nov. 17, 1986, 100 Stat. 4194.)
+(Pub. L. 99–662, title IX, § 924, Nov. 17, 1986, 100 Stat. 4194.)
 
-### § 2295. Compilation of laws; annual reports
+### § 2295. Compilation of laws; annual reports
 
 **(a) Federal laws relating to improvements of rivers and harbors, flood control, beach erosion, and other water resources development**
 
@@ -7971,13 +7971,13 @@ The Secretary shall prepare and submit the annual report required by section 556
 
 The Secretary shall prepare biennially for public information a report for each State containing a description of each water resources project under the jurisdiction of the Secretary in such State and the status of each such project. Each report shall include an index. The report for each State shall be prepared in a separate volume. The reports under this subsection shall be published at the same time and the first such reports shall be published not later than one year after November 17, 1986.
 
-(Pub. L. 99–662, title IX, § 925, Nov. 17, 1986, 100 Stat. 4194.)
+(Pub. L. 99–662, title IX, § 925, Nov. 17, 1986, 100 Stat. 4194.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Compilation of Laws**
 
-Pub. L. 110–114, title II, § 2004, Nov. 8, 2007, 121 Stat. 1071, provided that:
+Pub. L. 110–114, title II, § 2004, Nov. 8, 2007, 121 Stat. 1071, provided that:
 
 > **“(a) Compilation of Laws Enacted After November 8, 1966.—** The Secretary [of the Army] and the Chief of Engineers shall prepare a compilation of the laws of the United States relating to the improvement of rivers and harbors, flood damage reduction, beach and shoreline erosion, hurricane and storm damage reduction, ecosystem and environmental restoration, and other water resources development enacted after November 8, 1966, and before January 1, 2008, and have such compilation printed for the use of the Department of the Army, Congress, and the general public.
 
@@ -7989,11 +7989,11 @@ Pub. L. 110–114, title II, § 2004, Nov. 8, 2007, 121 Stat. 1071, provided t
 
 > **“(e) Availability.—** The Secretary [of the Army] shall ensure that each volume compiled, and each volume reprinted, pursuant to this section are available through electronic means, including on the Internet.”
 
-### § 2295a. Policy and technical standards
+### § 2295a. Policy and technical standards
 
 Every 5 years, the Secretary shall revise, rescind, or certify as current, as applicable, each policy and technical standards publication for the civil works programs of the Corps of Engineers, including each engineer regulation, engineer circular, engineer manual, engineer pamphlet, engineer technical letter, planning guidance letter, policy guidance letter, planning bulletin, and engineering and construction bulletin.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8140, Dec. 23, 2022, 136 Stat. 3723.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8140, Dec. 23, 2022, 136 Stat. 3723.)
 
 **Editorial Notes**
 
@@ -8007,37 +8007,37 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2296. Acquisition of recreation lands
+### § 2296. Acquisition of recreation lands
 
 **(a)** In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced before November 17, 1986, and which involves the acquisition of lands or interests in lands for recreation purposes, such lands or interests shall be acquired along with the acquisition of lands and interests in lands for other project purposes.
 
 **(b)** The Secretary is authorized to acquire real property by condemnation, purchase, donation, exchange, or otherwise, as a part of any water resources development project for use for public park and recreation purposes, including but not limited to, real property not contiguous to the principal part of the project.
 
-(Pub. L. 99–662, title IX, § 926, Nov. 17, 1986, 100 Stat. 4195.)
+(Pub. L. 99–662, title IX, § 926, Nov. 17, 1986, 100 Stat. 4195.)
 
-### § 2297. Operation and maintenance on recreation lands
+### § 2297. Operation and maintenance on recreation lands
 
 The Secretary shall not require, under section 460d of title 16, and the Federal Water Project Recreation Act [16 U.S.C. 460*l*–12 et seq.], non-Federal interests to assume operation and maintenance of any recreational facility operated by the Secretary at any water resources project as a condition to the construction of new recreational facilities at such project or any other water resources project.
 
-(Pub. L. 99–662, title IX, § 927, Nov. 17, 1986, 100 Stat. 4195.)
+(Pub. L. 99–662, title IX, § 927, Nov. 17, 1986, 100 Stat. 4195.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460*l*–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460*l*–12 of Title 16 and Tables.
+The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460*l*–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460*l*–12 of Title 16 and Tables.
 
-### § 2298. Impact of proposed projects on existing recreation facilities
+### § 2298. Impact of proposed projects on existing recreation facilities
 
 Any report describing a project having recreation benefits that is submitted after November 17, 1986, to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or by the Secretary of Agriculture under authority of the Watershed Protection and Flood Protection Act (68 Stat. 666; 16 U.S.C. 1001 et seq.), shall describe the usage of other, similar public recreational facilities within the general area of the project, and the anticipated impact of the proposed project on the usage of such existing recreational facilities.
 
-(Pub. L. 99–662, title IX, § 928, Nov. 17, 1986, 100 Stat. 4195.)
+(Pub. L. 99–662, title IX, § 928, Nov. 17, 1986, 100 Stat. 4195.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Watershed Protection and Flood Prevention Act, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8045,11 +8045,11 @@ The Watershed Protection and Flood Prevention Act, referred to in text, is act A
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 2298a. Databases of Corps recreational sites
+### § 2298a. Databases of Corps recreational sites
 
 The Secretary shall regularly update publicly available databases maintained, or cooperatively maintained, by the Corps of Engineers with information on sites operated or maintained by the Secretary that are used for recreational purposes, including the operational status of, and the recreational opportunities available at, such sites.
 
-(Pub. L. 118–272, div. A, title I, § 1121, Jan. 4, 2025, 138 Stat. 3015.)
+(Pub. L. 118–272, div. A, title I, § 1121, Jan. 4, 2025, 138 Stat. 3015.)
 
 **Editorial Notes**
 
@@ -8063,47 +8063,47 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2299. Acquisition of beach fill
+### § 2299. Acquisition of beach fill
 
 Notwithstanding any other provision of law, in any case in which the use of fill material for beach erosion and beach nourishment is authorized as a purpose of an authorized water resources project, the Secretary is authorized to acquire by purchase, exchange, or otherwise from nondomestic sources and utilize such material for such purposes if such materials are not available from domestic sources for environmental or economic reasons.
 
-(Pub. L. 99–662, title IX, § 935, Nov. 17, 1986, 100 Stat. 4197.)
+(Pub. L. 99–662, title IX, § 935, Nov. 17, 1986, 100 Stat. 4197.)
 
-### § 2300. Study of Corps capabilities
+### § 2300. Study of Corps capabilities
 
 The Secretary shall study and evaluate the measures necessary to increase the capabilities of the United States Army Corps of Engineers to undertake the planning and construction of water resources projects on an expedited basis and to adequately comply with all requirements of law applicable to the water resources program of the Corps of Engineers. As part of such study the Secretary shall consider appropriate measures to increase reliance on the private sector in the conduct of the water resources program of the Corps of Engineers. The Secretary shall implement such measures as may be necessary to improve the capabilities referred to in the first sentence of this section, including the establishment of increased levels of personnel, changes in project planning and construction procedures designed to lessen the time required for such planning and construction, and procedures for expediting the coordination of water resources projects with Federal, State, and local agencies.
 
-(Pub. L. 99–662, title IX, § 936, Nov. 17, 1986, 100 Stat. 4197.)
+(Pub. L. 99–662, title IX, § 936, Nov. 17, 1986, 100 Stat. 4197.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **GAO Review of Civil Works Program**
 
-Pub. L. 100–676, § 44, Nov. 17, 1988, 102 Stat. 4041, provided that the Comptroller General was to conduct a review of the Civil Works Program of the United States Army Corps of Engineers and to transmit the review to Congress with any recommendations the Comptroller General may make.
+Pub. L. 100–676, § 44, Nov. 17, 1988, 102 Stat. 4041, provided that the Comptroller General was to conduct a review of the Civil Works Program of the United States Army Corps of Engineers and to transmit the review to Congress with any recommendations the Comptroller General may make.
 
-### §§ 2301, 2302. Omitted
+### §§ 2301, 2302. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 2301, Pub. L. 99–662, title IX, § 937, Nov. 17, 1986, 100 Stat. 4198, which required the Secretary of the Army to transmit to certain committees of Congress annual reports on electricity generated by water resource projects constructed by the Secretary and revenues and costs associated with the projects, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
+Section 2301, Pub. L. 99–662, title IX, § 937, Nov. 17, 1986, 100 Stat. 4198, which required the Secretary of the Army to transmit to certain committees of Congress annual reports on electricity generated by water resource projects constructed by the Secretary and revenues and costs associated with the projects, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
 
-Subsec. (a) of section 2302, Pub. L. 99–662, title IX, § 938(a), Nov. 17, 1986, 100 Stat. 4198, which required the Secretary of the Army to transmit an annual report to certain committees of Congress describing contracts awarded, broken down by Engineer District of the Army Corps of Engineers, including the number and dollar amount of contracts set aside for small business concerns, awarded to small business or small disadvantaged business concerns, available for competition by qualified firms of all sizes, and awarded to other than small business or small disadvantaged business concerns, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 69 of House Document No. 103–7.
+Subsec. (a) of section 2302, Pub. L. 99–662, title IX, § 938(a), Nov. 17, 1986, 100 Stat. 4198, which required the Secretary of the Army to transmit an annual report to certain committees of Congress describing contracts awarded, broken down by Engineer District of the Army Corps of Engineers, including the number and dollar amount of contracts set aside for small business concerns, awarded to small business or small disadvantaged business concerns, available for competition by qualified firms of all sizes, and awarded to other than small business or small disadvantaged business concerns, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 69 of House Document No. 103–7.
 
-Subsec. (b) of section 2302, Pub. L. 99–662, title IX, § 938(b), Nov. 17, 1986, 100 Stat. 4198, directed the Comptroller General to conduct a study of the contracting procedures of the Secretary of the Army for civil works projects, examining whether potential bidders or offerors, regardless of their size, are allowed to compete fairly in the interest of lowering cost on contracts for construction, and to report findings and recommendations to Congress within two years of Nov. 17, 1986.
+Subsec. (b) of section 2302, Pub. L. 99–662, title IX, § 938(b), Nov. 17, 1986, 100 Stat. 4198, directed the Comptroller General to conduct a study of the contracting procedures of the Secretary of the Army for civil works projects, examining whether potential bidders or offerors, regardless of their size, are allowed to compete fairly in the interest of lowering cost on contracts for construction, and to report findings and recommendations to Congress within two years of Nov. 17, 1986.
 
-### § 2303. Historical properties
+### § 2303. Historical properties
 
 The Secretary is authorized to preserve, restore, and maintain those historic properties located on water resource development project lands under the jurisdiction of the Department of the Army if such properties have been entered into the National Register of Historic Places.
 
-(Pub. L. 99–662, title IX, § 943, Nov. 17, 1986, 100 Stat. 4200.)
+(Pub. L. 99–662, title IX, § 943, Nov. 17, 1986, 100 Stat. 4200.)
 
-### § 2304. Separability
+### § 2304. Separability
 
 If any provision of this Act, or the application of any provision of this Act to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act, shall not be affected thereby.
 
-(Pub. L. 99–662, title IX, § 949, Nov. 17, 1986, 100 Stat. 4201.)
+(Pub. L. 99–662, title IX, § 949, Nov. 17, 1986, 100 Stat. 4201.)
 
 **Editorial Notes**
 
@@ -8111,17 +8111,17 @@ If any provision of this Act, or the application of any provision of this Act to
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2305. Use of FMHA funds
+### § 2305. Use of FMHA funds
 
 Notwithstanding any other provision of law, Federal assistance made available by the Farmers Home Administration may be used to pay the non-Federal share of any other Federal grant-in-aid program for any project for water resources, including water pollution control.
 
-(Pub. L. 99–662, title IX, § 950, Nov. 17, 1986, 100 Stat. 4201.)
+(Pub. L. 99–662, title IX, § 950, Nov. 17, 1986, 100 Stat. 4201.)
 
-### § 2306. Reports
+### § 2306. Reports
 
 If any report required to be transmitted under this Act to the Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate pertains in whole or in part to fish and wildlife mitigation, benthic environmental repercussions, or ecosystem mitigation, the Federal officer required to prepare or transmit that report also shall transmit a copy of the report to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-(Pub. L. 99–662, title IX, § 951, Nov. 17, 1986, 100 Stat. 4201.)
+(Pub. L. 99–662, title IX, § 951, Nov. 17, 1986, 100 Stat. 4201.)
 
 **Editorial Notes**
 
@@ -8139,7 +8139,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 2307. Control of ice
+### § 2307. Control of ice
 
 **(a) Program authority**
 
@@ -8177,7 +8177,7 @@ Cost sharing applicable to flood control projects under section 2213 of this tit
 
 Not later than March 1, 1989, the Secretary shall report to the Congress on activities under this section.
 
-(Pub. L. 99–662, title XI, § 1101, Nov. 17, 1986, 100 Stat. 4223.)
+(Pub. L. 99–662, title XI, § 1101, Nov. 17, 1986, 100 Stat. 4223.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8185,7 +8185,7 @@ Not later than March 1, 1989, the Secretary shall report to the Congress on acti
 
 For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this section relating to the requirement that the Secretary report annually to Congress on the effectiveness of the program under this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 71 of House Document No. 103–7.
 
-### § 2308. Campgrounds for senior citizens
+### § 2308. Campgrounds for senior citizens
 
 **(a) Establishment and development**
 
@@ -8235,9 +8235,9 @@ thence along the boundary line of tract numbered 3424 north 32 degrees 44 minute
 
 thence along the southwestern boundary line of tract numbered 3420 north 46 degrees 15 minutes west, 460 feet to the beginning point.
 
-(Pub. L. 99–662, title XI, § 1127, Nov. 17, 1986, 100 Stat. 4245.)
+(Pub. L. 99–662, title XI, § 1127, Nov. 17, 1986, 100 Stat. 4245.)
 
-### § 2309. Great Lakes Commodities Marketing Board
+### § 2309. Great Lakes Commodities Marketing Board
 
 **(a) Congressional declaration of purpose**
 
@@ -8307,13 +8307,13 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 **(5)**
 
-**(A)** The Board shall, without regard to section 5311(b) 1
+**(A)** The Board shall, without regard to section 5311(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, have a Director, who shall be appointed by the Board and shall be paid at a rate which the Board considers appropriate.
 
-**(B)** Subject to such rules as may be prescribed by the Board, without regard to 5311(b) <sup>1</sup> of title 5, the Board may appoint and fix the pay of such additional personnel as the Board considers appropriate.
+**(B)** Subject to such rules as may be prescribed by the Board, without regard to 5311(b) <sup>1</sup> of title 5, the Board may appoint and fix the pay of such additional personnel as the Board considers appropriate.
 
 **(C)** Upon request of the Board, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Board to assist the Board in carrying out its duties under this subsection.
 
@@ -8347,13 +8347,13 @@ of title 5, have a Director, who shall be appointed by the Board and shall be pa
 
 The Secretary and the Administrator of the Environmental Protection Agency, in cooperation with the Secretary of the Interior, the Administrator of the National Oceanic and Atmospheric Administration, and other appropriate Federal and non-Federal entities, shall carry out a review of the environmental, economic, and social impacts of navigation in the United States portion of the Great Lakes. In carrying out such review, the Secretary and the Administrator shall use existing research, studies, and investigations relating to such impacts to the maximum extent possible. Special emphasis shall be made in such review of the impacts of navigation on the shoreline and on fish and wildlife habitat, including, but not limited to, impacts associated with resuspension of bottom sediment. The Secretary and the Administrator shall submit to Congress an interim report of such review not later than September 30, 1988, and a final report of such review along with recommendations not later than September 30, 1990.
 
-(Pub. L. 99–662, title XI, § 1132, Nov. 17, 1986, 100 Stat. 4246; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(D), Dec. 27, 2020, 134 Stat. 2756.)
+(Pub. L. 99–662, title XI, § 1132, Nov. 17, 1986, 100 Stat. 4246; Pub. L. 116–260, div. AA, title V, § 512(c)(5)(D), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5311(b) of title 5, referred to in subsec. (b)(5)(A), (B), was repealed by Pub. L. 101–509, title V, § 529 [title I, § 104(c)(1)], Nov. 5, 1990, 104 Stat. 1427, 1447.
+Section 5311(b) of title 5, referred to in subsec. (b)(5)(A), (B), was repealed by Pub. L. 101–509, title V, § 529 [title I, § 104(c)(1)], Nov. 5, 1990, 104 Stat. 1427, 1447.
 
 **Amendments**
 
@@ -8365,7 +8365,7 @@ Section 5311(b) of title 5, referred to in subsec. (b)(5)(A), (B), was repealed 
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(3) of this section relating to the requirement that the international advisory group report biennially to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 193 of House Document No. 103–7.
 
-### § 2309a. Project modifications for improvement of environment or drought resiliency
+### § 2309a. Project modifications for improvement of environment or drought resiliency
 
 **(a) Determination of need** The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of—
 
@@ -8421,7 +8421,7 @@ In this section, the term “water resources project constructed by the Secretar
 
 **(4)** other actions that increase drought resilience, water conservation, or water availability.
 
-(Pub. L. 99–662, title XI, § 1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, § 41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, § 304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, § 202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, § 506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, § 210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, § 2024, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 113–121, title I, § 1030(f), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, § 1157(g), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(g), Jan. 4, 2025, 138 Stat. 3005.)
+(Pub. L. 99–662, title XI, § 1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, § 41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, § 304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, § 202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, § 506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, § 210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, § 2024, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 113–121, title I, § 1030(f), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, § 1157(g), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(g), Jan. 4, 2025, 138 Stat. 3005.)
 
 **Editorial Notes**
 
@@ -8433,17 +8433,17 @@ Section was formerly set out as a note under section 2294 of this title.
 
 **Amendments**
 
-2025—Pub. L. 118–272, § 1107(g)(1), inserted “or drought resiliency” after “environment” in section catchline.
+2025—Pub. L. 118–272, § 1107(g)(1), inserted “or drought resiliency” after “environment” in section catchline.
 
-Subsec. (a). Pub. L. 118–272, § 1107(g)(2), substituted “for the purpose of—” for “for the purpose of”, designated remainder of existing provisions as par. (1), substituted “environment; or” for “environment.”, and added par. (2).
+Subsec. (a). Pub. L. 118–272, § 1107(g)(2), substituted “for the purpose of—” for “for the purpose of”, designated remainder of existing provisions as par. (1), substituted “environment; or” for “environment.”, and added par. (2).
 
-Subsec. (b). Pub. L. 118–272, § 1107(g)(3), substituted “(2) will provide for drought resilience or will improve” for “(2) will improve”.
+Subsec. (b). Pub. L. 118–272, § 1107(g)(3), substituted “(2) will provide for drought resilience or will improve” for “(2) will improve”.
 
-Subsec. (d). Pub. L. 118–272, § 1107(g)(4), substituted “$15,000,000” for “$10,000,000”.
+Subsec. (d). Pub. L. 118–272, § 1107(g)(4), substituted “$15,000,000” for “$10,000,000”.
 
-Subsec. (h). Pub. L. 118–272, § 1107(g)(5), substituted “$62,000,000” for “$50,000,000”.
+Subsec. (h). Pub. L. 118–272, § 1107(g)(5), substituted “$62,000,000” for “$50,000,000”.
 
-Subsec. (j). Pub. L. 118–272, § 1107(g)(6), added subsec. (j).
+Subsec. (j). Pub. L. 118–272, § 1107(g)(6), added subsec. (j).
 
 2018—Subsec. (h). Pub. L. 115–270 substituted “$50,000,000” for “$40,000,000”.
 
@@ -8455,37 +8455,37 @@ Subsec. (j). Pub. L. 118–272, § 1107(g)(6), added subsec. (j).
 
 1999—Subsec. (c). Pub. L. 106–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–303, § 204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
+1996—Subsec. (a). Pub. L. 104–303, § 204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
 
-Subsec. (b). Pub. L. 104–303, § 204(b), struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+Subsec. (b). Pub. L. 104–303, § 204(b), struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
-Subsecs. (c), (d). Pub. L. 104–303, § 204(c)(2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+Subsecs. (c), (d). Pub. L. 104–303, § 204(c)(2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-Subsec. (e). Pub. L. 104–303, § 204(c)(1), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 104–303, § 204(c)(1), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 104–303, § 204(c)(1), (3), redesignated subsec. (d) as (f) and substituted “programs conducted under subsections (b) and (c)” for “program conducted under subsection (b)”.
+Subsec. (f). Pub. L. 104–303, § 204(c)(1), (3), redesignated subsec. (d) as (f) and substituted “programs conducted under subsections (b) and (c)” for “program conducted under subsection (b)”.
 
-Subsec. (g). Pub. L. 104–303, § 204(c)(1), redesignated subsec. (e) as (g).
+Subsec. (g). Pub. L. 104–303, § 204(c)(1), redesignated subsec. (e) as (g).
 
-Subsec. (h). Pub. L. 104–303, § 204(d), added subsec. (h).
+Subsec. (h). Pub. L. 104–303, § 204(d), added subsec. (h).
 
-1992—Subsec. (b). Pub. L. 102–580, § 202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+1992—Subsec. (b). Pub. L. 102–580, § 202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 
-Subsec. (e). Pub. L. 102–580, § 202(2), substituted “$25,000,000” for “$15,000,000”.
+Subsec. (e). Pub. L. 102–580, § 202(2), substituted “$25,000,000” for “$15,000,000”.
 
-1990—Subsec. (a). Pub. L. 101–640, § 304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+1990—Subsec. (a). Pub. L. 101–640, § 304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-Subsec. (b). Pub. L. 101–640, § 304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+Subsec. (b). Pub. L. 101–640, § 304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-Subsec. (d). Pub. L. 101–640, § 304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
+Subsec. (d). Pub. L. 101–640, § 304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
 
-Subsec. (e). Pub. L. 101–640, § 304(d), substituted “$15,000,000 annually to carry out this section” for “$25,000,000 to carry out this section”.
+Subsec. (e). Pub. L. 101–640, § 304(d), substituted “$15,000,000 annually to carry out this section” for “$25,000,000 to carry out this section”.
 
-1988—Subsec. (b). Pub. L. 100–676, § 41(a), substituted “5-year period” for “two-year period”.
+1988—Subsec. (b). Pub. L. 100–676, § 41(a), substituted “5-year period” for “two-year period”.
 
-Subsec. (d). Pub. L. 100–676, § 41(b), substituted “5 years” for “two years”.
+Subsec. (d). Pub. L. 100–676, § 41(b), substituted “5 years” for “two years”.
 
-### § 2310. Cost sharing for Territories and Indian tribes
+### § 2310. Cost sharing for Territories and Indian tribes
 
 **(a) In general** The Secretary shall waive local cost-sharing requirements up to $200,000 for all studies and projects—
 
@@ -8515,25 +8515,25 @@ For purposes of this section, the term “study” includes a watershed assessme
 
 The Secretary shall apply the waiver amount described in subsection (a) to reduce only the non-Federal share of study and project costs.
 
-(Pub. L. 99–662, title XI, § 1156, Nov. 17, 1986, 100 Stat. 4256; Pub. L. 113–121, title I, § 1032, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, § 1119, Dec. 16, 2016, 130 Stat. 1643; Pub. L. 115–270, title I, §§ 1155(a), 1156, Oct. 23, 2018, 132 Stat. 3793; Pub. L. 116–260, div. AA, title I, § 135, Dec. 27, 2020, 134 Stat. 2649; Pub. L. 117–263, div. H, title LXXXI, § 8114, Dec. 23, 2022, 136 Stat. 3707.)
+(Pub. L. 99–662, title XI, § 1156, Nov. 17, 1986, 100 Stat. 4256; Pub. L. 113–121, title I, § 1032, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, § 1119, Dec. 16, 2016, 130 Stat. 1643; Pub. L. 115–270, title I, §§ 1155(a), 1156, Oct. 23, 2018, 132 Stat. 3793; Pub. L. 116–260, div. AA, title I, § 135, Dec. 27, 2020, 134 Stat. 2649; Pub. L. 117–263, div. H, title LXXXI, § 8114, Dec. 23, 2022, 136 Stat. 3707.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(3). Pub. L. 117–263, § 8114(1), added par. (3).
+2022—Subsec. (a)(3). Pub. L. 117–263, § 8114(1), added par. (3).
 
-Subsecs. (c), (d). Pub. L. 117–263, § 8114(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 117–263, § 8114(2), added subsecs. (c) and (d).
 
 2020—Subsec. (b). Pub. L. 116–260 substituted “on an annual basis for inflation.” for “for inflation for the period beginning on November 17, 1986, and ending on October 23, 2018.”
 
-2018—Subsec. (a)(2). Pub. L. 115–270, § 1155(a), substituted “or tribal organization (as those terms are defined in section 5304 of title 25).” for “(as defined in section 5130 of title 25).”
+2018—Subsec. (a)(2). Pub. L. 115–270, § 1155(a), substituted “or tribal organization (as those terms are defined in section 5304 of title 25).” for “(as defined in section 5130 of title 25).”
 
-Subsec. (b). Pub. L. 115–270, § 1156, substituted “October 23, 2018” for “June 10, 2014”.
+Subsec. (b). Pub. L. 115–270, § 1156, substituted “October 23, 2018” for “June 10, 2014”.
 
-2016—Pub. L. 114–322, § 1119(1), inserted “and Indian tribes” after “Territories” in section catchline.
+2016—Pub. L. 114–322, § 1119(1), inserted “and Indian tribes” after “Territories” in section catchline.
 
-Subsec. (a). Pub. L. 114–322, § 1119(2), inserted dash after “projects” and par. (1) designation before “in American” and added par. (2).
+Subsec. (a). Pub. L. 114–322, § 1119(2), inserted dash after “projects” and par. (1) designation before “in American” and added par. (2).
 
 2014—Pub. L. 113–121 designated existing provisions as subsec. (a) and inserted heading, inserted “Puerto Rico,” before “and the Trust Territory of the Pacific Islands”, and added subsec. (b).
 
@@ -8543,17 +8543,17 @@ Subsec. (a). Pub. L. 114–322, § 1119(2), inserted dash after “projects”
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2311. Report to Congress covering proposals for water impoundment facilities
+### § 2311. Report to Congress covering proposals for water impoundment facilities
 
 Any report that is submitted to the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives by the Secretary, or the Secretary of Agriculture acting under Public Law 83–566, as amended [16 U.S.C. 1001 et seq.], which proposes construction of a water impoundment facility, shall include information on the consequences of failure and geologic or design factors which could contribute to the possible failure of such facility.
 
-(Pub. L. 99–662, title XII, § 1202, Nov. 17, 1986, 100 Stat. 4263.)
+(Pub. L. 99–662, title XII, § 1202, Nov. 17, 1986, 100 Stat. 4263.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 83–566, as amended, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, as amended, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8561,11 +8561,11 @@ Public Law 83–566, as amended, referred to in text, is act Aug. 4, 1954, ch. 6
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 2312. Comments on certain changes in operations of reservoirs
+### § 2312. Comments on certain changes in operations of reservoirs
 
 Before the Secretary may make changes in the operation of any reservoir which will result in or require a reallocation of storage space in such reservoir or will significantly affect any project purpose, the Secretary shall provide an opportunity for public review and comment.
 
-(Pub. L. 100–676, § 5, Nov. 17, 1988, 102 Stat. 4022.)
+(Pub. L. 100–676, § 5, Nov. 17, 1988, 102 Stat. 4022.)
 
 **Editorial Notes**
 
@@ -8579,7 +8579,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 2313. Research and development
+### § 2313. Research and development
 
 **(a) In general**
 
@@ -8701,7 +8701,7 @@ Nothing in this section affects the authority of the Secretary to carry out, thr
 
 The Secretary, in consultation with the Director of the Office of Management and Budget, shall establish a separate appropriations account for administering funds made available to carry out this section.
 
-(Pub. L. 100–676, § 7, Nov. 17, 1988, 102 Stat. 4022; Pub. L. 104–303, title II, § 214, Oct. 12, 1996, 110 Stat. 3684; Pub. L. 117–263, div. H, title LXXXI, § 8160(a), Dec. 23, 2022, 136 Stat. 3741.)
+(Pub. L. 100–676, § 7, Nov. 17, 1988, 102 Stat. 4022; Pub. L. 104–303, title II, § 214, Oct. 12, 1996, 110 Stat. 3684; Pub. L. 117–263, div. H, title LXXXI, § 8160(a), Dec. 23, 2022, 136 Stat. 3741.)
 
 **Editorial Notes**
 
@@ -8713,23 +8713,23 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to collaborative research and development with non-Federal entities.
 
-1996—Subsec. (a). Pub. L. 104–303, § 214(a)(1), inserted “civil works” before “mission”.
+1996—Subsec. (a). Pub. L. 104–303, § 214(a)(1), inserted “civil works” before “mission”.
 
-Subsecs. (b), (c). Pub. L. 104–303, § 214(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsecs. (b), (c). Pub. L. 104–303, § 214(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–303, § 214(b)(1), (3), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 104–303, § 214(b)(1), (3), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 104–303, § 214(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 104–303, § 214(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 104–303, § 214(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Notwithstanding the third proviso under the heading ‘General Investigations’ of title I of the Energy and Water Development Appropriations Act, 1989 (102 Stat. 857), an additional $3,000,000 of the funds appropriated under such heading shall be available to the Secretary for obligation to carry out the purposes of this section in fiscal year 1989.”
+Pub. L. 104–303, § 214(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Notwithstanding the third proviso under the heading ‘General Investigations’ of title I of the Energy and Water Development Appropriations Act, 1989 (102 Stat. 857), an additional $3,000,000 of the funds appropriated under such heading shall be available to the Secretary for obligation to carry out the purposes of this section in fiscal year 1989.”
 
-Subsec. (f). Pub. L. 104–303, § 214(b)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 104–303, § 214(b)(1), redesignated subsec. (e) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Magnetic Levitation Technology**
 
-Pub. L. 101–640, title IV, § 417, Nov. 28, 1990, 104 Stat. 4652, provided that:
+Pub. L. 101–640, title IV, § 417, Nov. 28, 1990, 104 Stat. 4652, provided that:
 
 > **“(a) Research and Development.—** The Secretary is authorized, in cooperation with the Secretary of Transportation, to conduct research and development activities on magnetic levitation technology or to provide for such research and development.
 
@@ -8745,7 +8745,7 @@ Pub. L. 101–640, title IV, § 417, Nov. 28, 1990, 104 Stat. 4652, provided t
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 2313a. Engineering and environmental innovations of national significance
+### § 2313a. Engineering and environmental innovations of national significance
 
 **(a) Surveys, plans, and studies**
 
@@ -8761,7 +8761,7 @@ There is authorized to be appropriated to carry out this section $1,000,000 for 
 
 The Secretary may accept and expend additional funds from other Federal agencies, States, or non-Federal entities for purposes of carrying out this section.
 
-(Pub. L. 104–303, title II, § 212, Oct. 12, 1996, 110 Stat. 3684.)
+(Pub. L. 104–303, title II, § 212, Oct. 12, 1996, 110 Stat. 3684.)
 
 **Editorial Notes**
 
@@ -8775,7 +8775,7 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2313b. Support of Army civil works program
+### § 2313b. Support of Army civil works program
 
 **(a) General authority**
 
@@ -8785,7 +8785,7 @@ In carrying out research and development in support of the civil works program o
 
 With respect to contracts for research and development, the Secretary may include requirements that have potential commercial application and may use such potential application as an evaluation factor where appropriate.
 
-(Pub. L. 104–303, title II, § 229, Oct. 12, 1996, 110 Stat. 3703.)
+(Pub. L. 104–303, title II, § 229, Oct. 12, 1996, 110 Stat. 3703.)
 
 **Editorial Notes**
 
@@ -8799,7 +8799,7 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2314. Innovative technology
+### § 2314. Innovative technology
 
 **(a) Use** The Secretary shall, whenever feasible, seek to promote long- and short-term cost savings, increased efficiency, reliability, and safety, and improved environmental results through the use of innovative technology in all phases of water resources development projects and programs under the Secretary’s jurisdiction. To further this goal, Congress encourages the Secretary to—
 
@@ -8839,7 +8839,7 @@ Within 2 years after November 17, 1988, and thereafter at the Secretary’s disc
 
 For the purpose of this section, the term “innovative technology” means designs, methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section.
 
-(Pub. L. 100–676, § 8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, § 503(b), Aug. 17, 1999, 113 Stat. 337; Pub. L. 113–121, title III, § 3021, June 10, 2014, 128 Stat. 1301.)
+(Pub. L. 100–676, § 8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, § 503(b), Aug. 17, 1999, 113 Stat. 337; Pub. L. 113–121, title III, § 3021, June 10, 2014, 128 Stat. 1301.)
 
 **Editorial Notes**
 
@@ -8857,11 +8857,11 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 **Design-Build Contracting**
 
-Pub. L. 106–541, title II, § 221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
+Pub. L. 106–541, title II, § 221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
 
 **Review of Innovative Dredging Technologies**
 
-Pub. L. 106–53, title V, § 503(a), Aug. 17, 1999, 113 Stat. 337, provided that:
+Pub. L. 106–53, title V, § 503(a), Aug. 17, 1999, 113 Stat. 337, provided that:
 
 > **“(1) In general.—** Not later than June 1, 2001, the Secretary shall complete a review of innovative dredging technologies designed to minimize or eliminate contamination of a water column upon removal of contaminated sediments.
 
@@ -8875,7 +8875,7 @@ Pub. L. 106–53, title V, § 503(a), Aug. 17, 1999, 113 Stat. 337, provided t
 
 **Beneficial Use of Waste Tire Rubber**
 
-Pub. L. 106–53, title V, § 561, Aug. 17, 1999, 113 Stat. 355, provided that:
+Pub. L. 106–53, title V, § 561, Aug. 17, 1999, 113 Stat. 355, provided that:
 
 > **“(a) In General.—** The Secretary shall, when appropriate, encourage the beneficial use of waste tire rubber (including crumb rubber and baled tire products) recycled from tires.
 
@@ -8887,7 +8887,7 @@ Pub. L. 106–53, title V, § 561, Aug. 17, 1999, 113 Stat. 355, provided that
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 2314a. Technical assistance program
+### § 2314a. Technical assistance program
 
 **(a) In general** The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
 
@@ -8915,7 +8915,7 @@ The term “United States firm” means a corporation, partnership, limited part
 
 The term “United States”, when used in a geographical sense, means the several States of the United States and the District of Columbia.
 
-(Pub. L. 100–676, § 9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, § 318(c), Nov. 28, 1990, 104 Stat. 4642.)
+(Pub. L. 100–676, § 9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, § 318(c), Nov. 28, 1990, 104 Stat. 4642.)
 
 **Editorial Notes**
 
@@ -8927,11 +8927,11 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 **Amendments**
 
-1990—Pub. L. 101–640, § 318(c)(1), struck out “demonstration” after “Technical assistance” in section catchline.
+1990—Pub. L. 101–640, § 318(c)(1), struck out “demonstration” after “Technical assistance” in section catchline.
 
-Subsec. (a). Pub. L. 101–640, § 318(c)(2), struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”.
+Subsec. (a). Pub. L. 101–640, § 318(c)(2), struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”.
 
-Subsecs. (d), (e). Pub. L. 101–640, § 318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
+Subsecs. (d), (e). Pub. L. 101–640, § 318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8939,7 +8939,7 @@ Subsecs. (d), (e). Pub. L. 101–640, § 318(c)(3), (4), redesignated subsec. 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 2314b. Advanced modeling technologies
+### § 2314b. Advanced modeling technologies
 
 **(a) In general** To the greatest extent practicable, the Secretary shall encourage and incorporate advanced modeling technologies, including 3-dimensional digital modeling, that can expedite project delivery or improve the evaluation of water resources development projects that receive Federal funding by—
 
@@ -8963,7 +8963,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, s
 
 **(3)** promote the use of advanced modeling technologies.
 
-(Pub. L. 113–121, title I, § 1034, June 10, 2014, 128 Stat. 1234.)
+(Pub. L. 113–121, title I, § 1034, June 10, 2014, 128 Stat. 1234.)
 
 **Editorial Notes**
 
@@ -8977,11 +8977,11 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2315. Periodic statements
+### § 2315. Periodic statements
 
 Upon receipt of a request from a non-Federal sponsor of a water resources development project under construction by the Secretary, the Secretary shall provide such sponsor with periodic statements of project expenditures. Such statements shall include an estimate of all Federal and non-Federal funds expended by the Secretary, including overhead expenditures, the purpose for expenditures, and a schedule of anticipated expenditures during the remaining period of construction. Statements shall be provided to the sponsor at intervals of no greater than 6 months.
 
-(Pub. L. 100–676, § 10, Nov. 17, 1988, 102 Stat. 4024.)
+(Pub. L. 100–676, § 10, Nov. 17, 1988, 102 Stat. 4024.)
 
 **Editorial Notes**
 
@@ -8995,11 +8995,11 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 2315a. Transparency in accounting and administrative expenses
+### § 2315a. Transparency in accounting and administrative expenses
 
 On the request of a non-Federal interest, the Secretary shall provide to the non-Federal interest a detailed accounting of the Federal expenses associated with a water resources project.
 
-(Pub. L. 113–121, title I, § 1012(a), June 10, 2014, 128 Stat. 1218.)
+(Pub. L. 113–121, title I, § 1012(a), June 10, 2014, 128 Stat. 1218.)
 
 **Editorial Notes**
 
@@ -9013,7 +9013,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2315b. Transparency and accountability in cost sharing for water resources development projects
+### § 2315b. Transparency and accountability in cost sharing for water resources development projects
 
 **(a) Definition of balance sheet** In this section, the term “balance sheet” means a document that describes—
 
@@ -9031,7 +9031,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 In the case of a water resources development project carried out by the Secretary that is completed at a cost less than the estimated cost, the Secretary shall transfer any excess non-Federal funds to the non-Federal interest in accordance with the cost-share requirement applicable to the project.
 
-(Pub. L. 115–270, title I, § 1120, Oct. 23, 2018, 132 Stat. 3777.)
+(Pub. L. 115–270, title I, § 1120, Oct. 23, 2018, 132 Stat. 3777.)
 
 **Editorial Notes**
 
@@ -9045,7 +9045,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 2316. Environmental protection mission
+### § 2316. Environmental protection mission
 
 **(a) General rule**
 
@@ -9059,7 +9059,7 @@ The Secretary shall include environmental protection as one of the primary missi
 
 **(3)** the application of public interest review procedures for Corps of Engineers permits.
 
-(Pub. L. 101–640, title III, § 306, Nov. 28, 1990, 104 Stat. 4635.)
+(Pub. L. 101–640, title III, § 306, Nov. 28, 1990, 104 Stat. 4635.)
 
 **Editorial Notes**
 
@@ -9073,7 +9073,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2317. Wetlands
+### § 2317. Wetlands
 
 **(a) Goals and action plan**
 
@@ -9169,13 +9169,13 @@ The Secretary is authorized to establish a program for the training and certific
 
 The Secretary shall transmit to Congress periodic reports concerning the status of the program and any recommendations on improving the content and implementation of the Federal Manual for Identifying and Delineating Jurisdictional Wetlands.
 
-(Pub. L. 101–640, title III, § 307, Nov. 28, 1990, 104 Stat. 4635.)
+(Pub. L. 101–640, title III, § 307, Nov. 28, 1990, 104 Stat. 4635.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
@@ -9189,13 +9189,13 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **Wetlands Enhancement Opportunities**
 
-Pub. L. 101–640, title IV, § 409, Nov. 28, 1990, 104 Stat. 4648, provided that: “Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects.”
+Pub. L. 101–640, title IV, § 409, Nov. 28, 1990, 104 Stat. 4648, provided that: “Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects.”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2317a. Cooperative agreements
+### § 2317a. Cooperative agreements
 
 **(a) In general**
 
@@ -9211,7 +9211,7 @@ A cooperative agreement under this section may not obligate the Secretary to pay
 
 The total value of work carried out under cooperative agreements under this section may not exceed $5,000,000 in any fiscal year.
 
-(Pub. L. 110–114, title II, § 2015, Nov. 8, 2007, 121 Stat. 1076.)
+(Pub. L. 110–114, title II, § 2015, Nov. 8, 2007, 121 Stat. 1076.)
 
 **Editorial Notes**
 
@@ -9225,7 +9225,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2317b. Mitigation banks and in-lieu fee arrangements
+### § 2317b. Mitigation banks and in-lieu fee arrangements
 
 **(1) In general**
 
@@ -9247,7 +9247,7 @@ Not later than 180 days after December 16, 2016, the Secretary shall issue imple
 
 **(B)** shall be construed as to limit mitigation alternatives or require the use of mitigation banks or in-lieu fee programs.
 
-(Pub. L. 110–114, title II, § 2036(c), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 114–322, title I, § 1163, Dec. 16, 2016, 130 Stat. 1669.)
+(Pub. L. 110–114, title II, § 2036(c), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 114–322, title I, § 1163, Dec. 16, 2016, 130 Stat. 1669.)
 
 **Editorial Notes**
 
@@ -9265,7 +9265,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2318. Flood plain management
+### § 2318. Flood plain management
 
 **(a) Exclusion of elements from benefit-cost analysis** The Secretary shall not include in the benefit base for justifying Federal flood damage reduction projects—
 
@@ -9305,13 +9305,13 @@ Not later than 6 months after the date on which a report is transmitted to Congr
 
 The provisions of this section shall not apply to any project, or separable element thereof, for which a final report of the Chief of Engineers has been forwarded to the Secretary before the last day of the 6-month period beginning on the date on which regulations are issued pursuant to subsection (a) but not later than July 1, 1993.
 
-(Pub. L. 101–640, title III, § 308, Nov. 28, 1990, 104 Stat. 4638; Pub. L. 106–53, title II, § 219(a), Aug. 17, 1999, 113 Stat. 294.)
+(Pub. L. 101–640, title III, § 308, Nov. 28, 1990, 104 Stat. 4638; Pub. L. 106–53, title II, § 219(a), Aug. 17, 1999, 113 Stat. 294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 **Codification**
 
@@ -9319,13 +9319,13 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–53, § 219(a)(1), inserted “Exclusion of elements from” before “benefit-cost” in heading.
+1999—Subsec. (a). Pub. L. 106–53, § 219(a)(1), inserted “Exclusion of elements from” before “benefit-cost” in heading.
 
-Subsecs. (b) to (d). Pub. L. 106–53, § 219(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+Subsecs. (b) to (d). Pub. L. 106–53, § 219(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 106–53, § 219(a)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 106–53, § 219(a)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–53, § 219(a)(2), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 106–53, § 219(a)(2), redesignated subsec. (e) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9341,17 +9341,17 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Reevaluation of Flood Control Projects**
 
-Pub. L. 106–53, title II, § 219(b), Aug. 17, 1999, 113 Stat. 295, provided that: “At the request of a non-Federal interest for a flood control project, the Secretary shall conduct a reevaluation of a project authorized before the date of enactment of this Act [Aug. 17, 1999] to consider nonstructural alternatives in light of the amendments made by subsection (a) [amending this section].”
+Pub. L. 106–53, title II, § 219(b), Aug. 17, 1999, 113 Stat. 295, provided that: “At the request of a non-Federal interest for a flood control project, the Secretary shall conduct a reevaluation of a project authorized before the date of enactment of this Act [Aug. 17, 1999] to consider nonstructural alternatives in light of the amendments made by subsection (a) [amending this section].”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2319. Reservoir management
+### § 2319. Reservoir management
 
 The Secretary shall ensure that, in developing or revising reservoir operating manuals of the Corps of Engineers, the Corps shall provide significant opportunities for public participation, including opportunities for public hearings. The Secretary shall issue regulations to implement this section, including a requirement that all appropriate informational materials relating to proposed management decisions of the Corps be made available to the public sufficiently in advance of public hearings. Not later than January 1, 1992, the Secretary shall transmit to Congress a report on measures taken pursuant to this section.
 
-(Pub. L. 101–640, title III, § 310, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, § 233, Oct. 12, 1996, 110 Stat. 3704.)
+(Pub. L. 101–640, title III, § 310, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, § 233, Oct. 12, 1996, 110 Stat. 3704.)
 
 **Editorial Notes**
 
@@ -9361,15 +9361,15 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–303, § 233(1), struck out heading and text of subsec. (a). Text read as follows: “Not later than 2 years after November 28, 1990, the Secretary shall establish for major reservoirs under the jurisdiction of the Corps of Engineers a technical advisory committee to provide to the Secretary and Corps of Engineers recommendations on reservoir monitoring and options for reservoir research. The Secretary shall determine the membership of the committee, except that the Secretary may not appoint more than 6 members and shall ensure a predominance of members with appropriate academic, technical, or scientific qualifications. Members shall serve without pay, and the Secretary shall provide any necessary facilities, staff, and other support services in accordance with the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.).”
+1996—Subsec. (a). Pub. L. 104–303, § 233(1), struck out heading and text of subsec. (a). Text read as follows: “Not later than 2 years after November 28, 1990, the Secretary shall establish for major reservoirs under the jurisdiction of the Corps of Engineers a technical advisory committee to provide to the Secretary and Corps of Engineers recommendations on reservoir monitoring and options for reservoir research. The Secretary shall determine the membership of the committee, except that the Secretary may not appoint more than 6 members and shall ensure a predominance of members with appropriate academic, technical, or scientific qualifications. Members shall serve without pay, and the Secretary shall provide any necessary facilities, staff, and other support services in accordance with the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.).”
 
-Subsec. (b). Pub. L. 104–303, § 233(2), struck out “(b) Public Participation.—” before “The Secretary shall ensure”, and substituted “section” for “subsection” in two places.
+Subsec. (b). Pub. L. 104–303, § 233(2), struck out “(b) Public Participation.—” before “The Secretary shall ensure”, and substituted “section” for “subsection” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Forecast-Informed Reservoir Operations**
 
-Pub. L. 118–272, div. A, title I, § 1162, Jan. 4, 2025, 138 Stat. 3047, provided that:
+Pub. L. 118–272, div. A, title I, § 1162, Jan. 4, 2025, 138 Stat. 3047, provided that:
 
 > **“(a) In General.—** In updating a water control manual for any reservoir constructed, owned, or operated by the Secretary [of the Army], including a reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to section 7 of the Act of December 22, 1944 (33 U.S.C. 709), the Secretary shall, to the maximum extent practicable, incorporate the use of forecast-informed reservoir operations, subject to the availability of appropriations.
 
@@ -9391,7 +9391,7 @@ Pub. L. 118–272, div. A, title I, § 1162, Jan. 4, 2025, 138 Stat. 3047, pro
 
 **Emergency Drought Operations Pilot Program**
 
-Pub. L. 118–272, div. A, title I, § 1164, Jan. 4, 2025, 138 Stat. 3048, provided that:
+Pub. L. 118–272, div. A, title I, § 1164, Jan. 4, 2025, 138 Stat. 3048, provided that:
 
 > **“(a) Definition of Covered Project.—** In this section, the term ‘covered project’ means a project—
 
@@ -9459,7 +9459,7 @@ Pub. L. 118–272, div. A, title I, § 1164, Jan. 4, 2025, 138 Stat. 3048, pro
 
 **Forecast-Informed Reservoir Operations**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8303(c), Dec. 23, 2022, 136 Stat. 3777, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8303(c), Dec. 23, 2022, 136 Stat. 3777, provided that:
 
 > **“(1) In general.—** The Secretary [of the Army] is authorized to carry out a research study pilot program at 1 or more dams owned and operated by the Secretary in the North Atlantic Division of the Corps of Engineers to assess the viability of forecast-informed reservoir operations in the eastern United States.
 
@@ -9467,7 +9467,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8303(c), Dec. 23, 2022, 136 Stat. 3
 
 **Dam Optimization**
 
-Pub. L. 113–121, title I, § 1046(a), June 10, 2014, 128 Stat. 1251, provided that:
+Pub. L. 113–121, title I, § 1046(a), June 10, 2014, 128 Stat. 1251, provided that:
 
 > **“(1) Definition of project.—** In this subsection, the term ‘project’ means a water resources development project that is operated and maintained by the Secretary [of the Army].
 
@@ -9551,7 +9551,7 @@ Pub. L. 113–121, title I, § 1046(a), June 10, 2014, 128 Stat. 1251, provide
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2320. Protection of recreational and commercial uses
+### § 2320. Protection of recreational and commercial uses
 
 **(a) General rule**
 
@@ -9589,7 +9589,7 @@ Subsections (b) and (c) shall not apply to any action of the Secretary which is 
 
 Costs incurred by the Secretary to carry out the objectives of this section shall be allocated to recreation and shall be payable by the beneficiaries of the recreation.
 
-(Pub. L. 101–640, title III, § 313, Nov. 28, 1990, 104 Stat. 4640.)
+(Pub. L. 101–640, title III, § 313, Nov. 28, 1990, 104 Stat. 4640.)
 
 **Editorial Notes**
 
@@ -9603,7 +9603,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2321. Operation and maintenance of navigation and hydroelectric facilities
+### § 2321. Operation and maintenance of navigation and hydroelectric facilities
 
 **(a) In general**
 
@@ -9619,7 +9619,7 @@ This section does not prohibit contracting out major maintenance or other functi
 
 **(2)** prohibit the Secretary from contracting out commercial activities after October 23, 2018, at a navigation facility.
 
-(Pub. L. 101–640, title III, § 314, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 115–270, title I, § 1151(a), Oct. 23, 2018, 132 Stat. 3787.)
+(Pub. L. 101–640, title III, § 314, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 115–270, title I, § 1151(a), Oct. 23, 2018, 132 Stat. 3787.)
 
 **Editorial Notes**
 
@@ -9635,7 +9635,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 **Remote Operations at Corps Dams**
 
-Pub. L. 118–272, div. A, title I, § 1149, Jan. 4, 2025, 138 Stat. 3039, provided that:
+Pub. L. 118–272, div. A, title I, § 1149, Jan. 4, 2025, 138 Stat. 3039, provided that:
 
 > “During the 6-year period beginning on the date of enactment of this Act [Jan. 4, 2025], with respect to a water resources development project owned, operated, or managed by the Corps of Engineers, the Secretary [of the Army] is authorized to use remote operation activities at a navigation or hydroelectric power generating facility at such project as a replacement for activities performed, as of the date of enactment of this Act, by personnel under the direction of the Secretary at such project, only after the Secretary provides written notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate that—
 
@@ -9653,7 +9653,7 @@ Pub. L. 118–272, div. A, title I, § 1149, Jan. 4, 2025, 138 Stat. 3039, pro
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2321a. Hydroelectric power project uprating
+### § 2321a. Hydroelectric power project uprating
 
 **(a) In general** In carrying out the operation, maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may, to the extent funds are made available in appropriations Acts or in accordance with subsection (c), take such actions as are necessary to optimize the efficiency of energy production or increase the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that such actions—
 
@@ -9683,7 +9683,7 @@ This section does not apply to any facility of the Department of the Army that i
 
 This section shall not affect the authority of the Secretary and the Administrator of the Bonneville Power Administration under section 839d–1 of title 16.
 
-(Pub. L. 104–303, title II, § 216, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 106–541, title II, § 212, Dec. 11, 2000, 114 Stat. 2593.)
+(Pub. L. 104–303, title II, § 216, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 106–541, title II, § 212, Dec. 11, 2000, 114 Stat. 2593.)
 
 **Editorial Notes**
 
@@ -9693,13 +9693,13 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–541, § 212(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiency of energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—”.
+2000—Subsec. (a). Pub. L. 106–541, § 212(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In carrying out the maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may take, to the extent funds are made available in appropriations Acts, such actions as are necessary to increase the efficiency of energy production or the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that the increase—”.
 
-Subsec. (a)(1). Pub. L. 106–541, § 212(1), substituted “are” for “is” before “economically justified”.
+Subsec. (a)(1). Pub. L. 106–541, § 212(1), substituted “are” for “is” before “economically justified”.
 
-Subsec. (b). Pub. L. 106–541, § 212(2), substituted “any proposed uprating” for “the proposed uprating” in first sentence.
+Subsec. (b). Pub. L. 106–541, § 212(2), substituted “any proposed uprating” for “the proposed uprating” in first sentence.
 
-Subsecs. (c) to (e). Pub. L. 106–541, § 212(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+Subsecs. (c) to (e). Pub. L. 106–541, § 212(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9707,7 +9707,7 @@ Subsecs. (c) to (e). Pub. L. 106–541, § 212(3), (4), added subsecs. (c) and
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2321b. Expediting hydropower at Corps of Engineers facilities
+### § 2321b. Expediting hydropower at Corps of Engineers facilities
 
 **(a) Policy** Congress declares that it is the policy of the United States that—
 
@@ -9785,7 +9785,7 @@ On completion of an evaluation under this subsection, the Secretary shall submit
 
 **(C)** authorizes the Secretary to make any operational changes to a Corps of Engineers water resources development project.
 
-(Pub. L. 113–121, title I, § 1008, June 10, 2014, 128 Stat. 1215; Pub. L. 116–260, div. AA, title I, § 146, Dec. 27, 2020, 134 Stat. 2655; Pub. L. 117–263, div. H, title LXXXI, § 8123, Dec. 23, 2022, 136 Stat. 3714.)
+(Pub. L. 113–121, title I, § 1008, June 10, 2014, 128 Stat. 1215; Pub. L. 116–260, div. AA, title I, § 146, Dec. 27, 2020, 134 Stat. 2655; Pub. L. 117–263, div. H, title LXXXI, § 8123, Dec. 23, 2022, 136 Stat. 3714.)
 
 **Editorial Notes**
 
@@ -9795,15 +9795,15 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2022—Subsec. (b). Pub. L. 117–263, § 8123(3), added subsec. (b). Former subsec. (b) redesignated (c).
+2022—Subsec. (b). Pub. L. 117–263, § 8123(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1). Pub. L. 117–263, § 8123(1), inserted “and to meet the requirements of subsection (b)” after “projects”.
+Subsec. (b)(1). Pub. L. 117–263, § 8123(1), inserted “and to meet the requirements of subsection (b)” after “projects”.
 
-Subsecs. (c), (d). Pub. L. 117–263, § 8123(2), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (c), (d). Pub. L. 117–263, § 8123(2), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
-2020—Subsecs. (a), (b). Pub. L. 116–260, § 146(1), substituted “water resources development” for “civil works” wherever appearing.
+2020—Subsecs. (a), (b). Pub. L. 116–260, § 146(1), substituted “water resources development” for “civil works” wherever appearing.
 
-Subsec. (c). Pub. L. 116–260, § 146(2), added subsec. (c).
+Subsec. (c). Pub. L. 116–260, § 146(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9811,11 +9811,11 @@ Subsec. (c). Pub. L. 116–260, § 146(2), added subsec. (c).
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2322. Single entities
+### § 2322. Single entities
 
 For purposes of Federal participation in water resource development projects which are to be carried out by the Secretary, benefits which are to be provided to a facility owned by a State (including the District of Columbia and a territory or possession of the United States), county, municipality, or other public entity shall not be treated as benefits to be provided a single owner or single entity. The Secretary shall not treat such a facility as a single owner or single entity for any purpose.
 
-(Pub. L. 101–640, title III, § 317, Nov. 28, 1990, 104 Stat. 4641.)
+(Pub. L. 101–640, title III, § 317, Nov. 28, 1990, 104 Stat. 4641.)
 
 **Editorial Notes**
 
@@ -9829,7 +9829,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2323. Technical assistance to private entities
+### § 2323. Technical assistance to private entities
 
 **(a) Use of Corps research and development labs** The Secretary is authorized to use Corps of Engineers research and development laboratories to provide research and development assistance to corporations, partnerships, limited partnerships, consortia, public and private foundations, universities, and nonprofit organizations operating within the United States, territories or possessions of the United States, and the Commonwealths of Puerto Rico and the Northern Mariana Islands—
 
@@ -9847,7 +9847,7 @@ The Secretary may provide research and development assistance under subsection (
 
 **(c) Omitted**
 
-(Pub. L. 101–640, title III, § 318, Nov. 28, 1990, 104 Stat. 4641.)
+(Pub. L. 101–640, title III, § 318, Nov. 28, 1990, 104 Stat. 4641.)
 
 **Editorial Notes**
 
@@ -9863,7 +9863,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2323a. Interagency and international support authority
+### § 2323a. Interagency and international support authority
 
 **(a) In general**
 
@@ -9887,7 +9887,7 @@ There is authorized to be appropriated to carry out this section $2,500,000 for 
 
 The Secretary may accept and expend additional funds from Federal departments or agencies, nongovernmental organizations, international organizations, or foreign governments to carry out this section.
 
-(Pub. L. 104–303, title II, § 234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, § 207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, § 2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, § 1029, June 10, 2014, 128 Stat. 1230; Pub. L. 118–272, div. A, title II, § 1243, Jan. 4, 2025, 138 Stat. 3092.)
+(Pub. L. 104–303, title II, § 234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, § 207, Dec. 11, 2000, 114 Stat. 2590; Pub. L. 110–114, title II, § 2030, Nov. 8, 2007, 121 Stat. 1081; Pub. L. 113–121, title I, § 1029, June 10, 2014, 128 Stat. 1230; Pub. L. 118–272, div. A, title II, § 1243, Jan. 4, 2025, 138 Stat. 3092.)
 
 **Editorial Notes**
 
@@ -9897,23 +9897,23 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 **Amendments**
 
-2025—Subsec. (c). Pub. L. 118–272, § 1243(1), inserted “, including the planning and design expertise,” after “managerial expertise”.
+2025—Subsec. (c). Pub. L. 118–272, § 1243(1), inserted “, including the planning and design expertise,” after “managerial expertise”.
 
-Subsec. (d)(1). Pub. L. 118–272, § 1243(2), substituted “$2,500,000” for “$1,000,000”.
+Subsec. (d)(1). Pub. L. 118–272, § 1243(2), substituted “$2,500,000” for “$1,000,000”.
 
-2014—Subsec. (a). Pub. L. 113–121, § 1029(1), substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,”.
+2014—Subsec. (a). Pub. L. 113–121, § 1029(1), substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,”.
 
-Subsec. (b). Pub. L. 113–121, § 1029(2), inserted “or foreign governments” after “organizations”.
+Subsec. (b). Pub. L. 113–121, § 1029(2), inserted “or foreign governments” after “organizations”.
 
-Subsec. (c). Pub. L. 113–121, § 1029(3), inserted “and restoration” after “protection”.
+Subsec. (c). Pub. L. 113–121, § 1029(3), inserted “and restoration” after “protection”.
 
-Subsec. (d). Pub. L. 113–121, § 1029(4), designated first and second sentences as pars. (1) and (2), respectively, inserted headings, and substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,” in par. (2).
+Subsec. (d). Pub. L. 113–121, § 1029(4), designated first and second sentences as pars. (1) and (2), respectively, inserted headings, and substituted “Federal departments or agencies, nongovernmental organizations,” for “other Federal agencies,” in par. (2).
 
-2007—Subsec. (a). Pub. L. 110–114, § 2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
+2007—Subsec. (a). Pub. L. 110–114, § 2030(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary may engage in activities in support of other Federal agencies or international organizations to address problems of national significance to the United States.”
 
-Subsec. (b). Pub. L. 110–114, § 2030(2), substituted “Department of State” for “Secretary of State”.
+Subsec. (b). Pub. L. 110–114, § 2030(2), substituted “Department of State” for “Secretary of State”.
 
-Subsec. (d). Pub. L. 110–114, § 2030(3), substituted “$1,000,000 for fiscal year 2008” for “$250,000 for fiscal year 2001” and “, international organizations, or foreign governments” for “or international organizations”.
+Subsec. (d). Pub. L. 110–114, § 2030(3), substituted “$1,000,000 for fiscal year 2008” for “$250,000 for fiscal year 2001” and “, international organizations, or foreign governments” for “or international organizations”.
 
 2000—Subsec. (d). Pub. L. 106–541 substituted “There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter.” for “There is authorized to be appropriated $1,000,000 to carry out this section.” and inserted “out” after “carry” in second sentence.
 
@@ -9921,7 +9921,7 @@ Subsec. (d). Pub. L. 110–114, § 2030(3), substituted “$1,000,000 for fisc
 
 **National Recreation Reservation Service**
 
-Pub. L. 106–541, title II, § 206, Dec. 11, 2000, 114 Stat. 2590, provided that:
+Pub. L. 106–541, title II, § 206, Dec. 11, 2000, 114 Stat. 2590, provided that:
 
 > “Notwithstanding section 611 of the Treasury and General Government Appropriations Act, 1999 (112 Stat. 2681–515), the Secretary [of the Army] may—
 
@@ -9933,7 +9933,7 @@ Pub. L. 106–541, title II, § 206, Dec. 11, 2000, 114 Stat. 2590, provided t
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2324. Reduced pricing for certain water supply storage
+### § 2324. Reduced pricing for certain water supply storage
 
 **(a) Provision of storage space**
 
@@ -9967,7 +9967,7 @@ Nothing in this section shall be construed as affecting the responsibility of no
 
 **(2)** a regional water system that serves a population of less than 100,000, for which the per capita income is less than the per capita income of not less than 50 percent of the counties in the United States.
 
-(Pub. L. 101–640, title III, § 322, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 116–260, div. AA, title III, § 350, Dec. 27, 2020, 134 Stat. 2716.)
+(Pub. L. 101–640, title III, § 322, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 116–260, div. AA, title III, § 350, Dec. 27, 2020, 134 Stat. 2716.)
 
 **Editorial Notes**
 
@@ -9977,9 +9977,9 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–260, § 350(1), substituted “3,000,000” for “2,000,000”.
+2020—Subsec. (b). Pub. L. 116–260, § 350(1), substituted “3,000,000” for “2,000,000”.
 
-Subsec. (g). Pub. L. 116–260, § 350(2), substituted “means—” for “means”, inserted par. (1) designation before “a community”, substituted “; or” for period at end, and added par. (2).
+Subsec. (g). Pub. L. 116–260, § 350(2), substituted “means—” for “means”, inserted par. (1) designation before “a community”, substituted “; or” for period at end, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9987,7 +9987,7 @@ Subsec. (g). Pub. L. 116–260, § 350(2), substituted “means—” for “m
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 2325. Voluntary contributions for environmental and recreation projects
+### § 2325. Voluntary contributions for environmental and recreation projects
 
 **(a) Acceptance**
 
@@ -9997,7 +9997,7 @@ In connection with carrying out a water resources project for environmental prot
 
 Any cash or funds received by the Secretary under subsection (a) shall be deposited into the account in the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out water resources projects described in subsection (a).
 
-(Pub. L. 102–580, title II, § 203, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 236(a), Oct. 12, 1996, 110 Stat. 3705.)
+(Pub. L. 102–580, title II, § 203, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 236(a), Oct. 12, 1996, 110 Stat. 3705.)
 
 **Editorial Notes**
 
@@ -10015,7 +10015,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 2325a. Authority to accept and use materials and services
+### § 2325a. Authority to accept and use materials and services
 
 **(a) In general** Subject to subsection (b), the Secretary is authorized to accept and use materials, services, or funds contributed by a non-Federal public entity, a nonprofit entity, or a private entity to repair, restore, replace, or maintain a water resources project in any case in which the District Commander determines that—
 
@@ -10043,7 +10043,7 @@ The Secretary may only accept and use services under this section that provide s
 
 **(2)** a comprehensive description of how the activities are necessary for maintaining a safe and reliable water resources project.
 
-(Pub. L. 113–121, title I, § 1024, June 10, 2014, 128 Stat. 1229; Pub. L. 114–322, title I, § 1153, Dec. 16, 2016, 130 Stat. 1663.)
+(Pub. L. 113–121, title I, § 1024, June 10, 2014, 128 Stat. 1229; Pub. L. 114–322, title I, § 1153, Dec. 16, 2016, 130 Stat. 1663.)
 
 **Editorial Notes**
 
@@ -10053,11 +10053,11 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–322, § 1153(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Subject to subsection (b), the Secretary is authorized to accept and use materials and services contributed by a non-Federal public entity, a nonprofit entity, or a private entity for the purpose of repairing, restoring, or replacing a water resources development project that has been damaged or destroyed as a result of an emergency if the Secretary determines that the acceptance and use of such materials and services is in the public interest.”
+2016—Subsec. (a). Pub. L. 114–322, § 1153(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Subject to subsection (b), the Secretary is authorized to accept and use materials and services contributed by a non-Federal public entity, a nonprofit entity, or a private entity for the purpose of repairing, restoring, or replacing a water resources development project that has been damaged or destroyed as a result of an emergency if the Secretary determines that the acceptance and use of such materials and services is in the public interest.”
 
-Subsec. (c). Pub. L. 114–322, § 1153(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 114–322, § 1153(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 114–322, § 1153(2), (4), redesignated subsec. (c) as (d) and, in introductory provisions, substituted “Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section,” for “Not later than 60 days after initiating an activity under this section,” and “an annual report” for “a report”.
+Subsec. (d). Pub. L. 114–322, § 1153(2), (4), redesignated subsec. (c) as (d) and, in introductory provisions, substituted “Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section,” for “Not later than 60 days after initiating an activity under this section,” and “an annual report” for “a report”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10065,7 +10065,7 @@ Subsec. (d). Pub. L. 114–322, § 1153(2), (4), redesignated subsec. (c) as (
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2325b. Materials, services, and funds for repair, restoration, or rehabilitation of projects
+### § 2325b. Materials, services, and funds for repair, restoration, or rehabilitation of projects
 
 **(a) Definitions** In this section:
 
@@ -10105,15 +10105,15 @@ The Secretary may only reimburse for the use of materials or services accepted u
 
 **(B)** ensures that the materials or services comply with subsection (c) and paragraph (1).
 
-(Pub. L. 116–260, div. AA, title I, § 130, Dec. 27, 2020, 134 Stat. 2642.)
+(Pub. L. 116–260, div. AA, title I, § 130, Dec. 27, 2020, 134 Stat. 2642.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -10125,7 +10125,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2326. Regional sediment management
+### § 2326. Regional sediment management
 
 **(a) In general**
 
@@ -10135,7 +10135,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects, including projects for the beneficial use of dredged materials described in section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 associated with Federal water resources projects for purposes listed in paragraph (3).
 
@@ -10215,9 +10215,9 @@ The Secretary may accept funds from a non-Federal interest to dispose of dredged
 
 **(A)** shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
 
-**(B)** shall not carried 2
+**(B)** shall not carried 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “be”.
+<sup>2</sup> So in original. Probably should be preceded by “be”.
 
 out using amounts made available under subsection (g).
 
@@ -10259,13 +10259,13 @@ out using amounts made available under subsection (g).
 
 There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
 
-(Pub. L. 102–580, title II, § 204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, § 209, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, § 2037(a), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, §§ 1030(d)(1), 1038, June 10, 2014, 128 Stat. 1232, 1236; Pub. L. 114–322, title I, § 1122(i), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §§ 1150, 1157(d), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, § 125(a)(2)(C), Dec. 27, 2020, 134 Stat. 2637; Pub. L. 118–272, div. A, title I, §§ 1107(i), 1130(b), Jan. 4, 2025, 138 Stat. 3005, 3019.)
+(Pub. L. 102–580, title II, § 204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, § 207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, § 209, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, § 2037(a), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, §§ 1030(d)(1), 1038, June 10, 2014, 128 Stat. 1232, 1236; Pub. L. 114–322, title I, § 1122(i), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §§ 1150, 1157(d), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, § 125(a)(2)(C), Dec. 27, 2020, 134 Stat. 2637; Pub. L. 118–272, div. A, title I, §§ 1107(i), 1130(b), Jan. 4, 2025, 138 Stat. 3005, 3019.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1122 of the Water Resources Development Act of 2016, referred to in subsec. (a)(1)(A), is section 1122 of Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645. Subsecs. (a) to (h) of section 1122, which was formerly set out as a note below, was transferred to section 2326i of this title. Subsec. (i) of section 1122 amended this section. Subsec. (j) of section 1122 amended section 1962d–5f of Title 42, The Public Health and Welfare.
+Section 1122 of the Water Resources Development Act of 2016, referred to in subsec. (a)(1)(A), is section 1122 of Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645. Subsecs. (a) to (h) of section 1122, which was formerly set out as a note below, was transferred to section 2326i of this title. Subsec. (i) of section 1122 amended this section. Subsec. (j) of section 1122 amended section 1962d–5f of Title 42, The Public Health and Welfare.
 
 **Codification**
 
@@ -10273,47 +10273,47 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 118–272, § 1130(b)(1), substituted “rehabilitation of projects, including projects for the beneficial use of dredged materials described in section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note),” for “rehabilitation of projects”.
+2025—Subsec. (a)(1). Pub. L. 118–272, § 1130(b)(1), substituted “rehabilitation of projects, including projects for the beneficial use of dredged materials described in section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note),” for “rehabilitation of projects”.
 
-Subsec. (c)(1)(C). Pub. L. 118–272, § 1107(i), substituted “$15,000,000” for “$10,000,000”.
+Subsec. (c)(1)(C). Pub. L. 118–272, § 1107(i), substituted “$15,000,000” for “$10,000,000”.
 
-Subsec. (f)(12). Pub. L. 118–272, § 1130(b)(2), added par. (12).
+Subsec. (f)(12). Pub. L. 118–272, § 1130(b)(2), added par. (12).
 
-2020—Subsec. (d)(1). Pub. L. 116–260, § 125(a)(2)(C)(i)(I), in introductory provisions, substituted “At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select” for “In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest,”.
+2020—Subsec. (d)(1). Pub. L. 116–260, § 125(a)(2)(C)(i)(I), in introductory provisions, substituted “At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select” for “In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest,”.
 
-Subsec. (d)(1)(B). Pub. L. 116–260, § 125(a)(2)(C)(i)(II), substituted “hurricane and storm or flood risk reduction benefits” for “flood and storm damage and flood reduction benefits”.
+Subsec. (d)(1)(B). Pub. L. 116–260, § 125(a)(2)(C)(i)(II), substituted “hurricane and storm or flood risk reduction benefits” for “flood and storm damage and flood reduction benefits”.
 
-Subsec. (d)(5). Pub. L. 116–260, § 125(a)(2)(C)(ii), added par. (5).
+Subsec. (d)(5). Pub. L. 116–260, § 125(a)(2)(C)(ii), added par. (5).
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–270, § 1150, inserted “including a project authorized for flood control,” after “an authorized Federal water resources project,”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–270, § 1150, inserted “including a project authorized for flood control,” after “an authorized Federal water resources project,”.
 
-Subsec. (g). Pub. L. 115–270, § 1157(d), substituted “$62,500,000” for “$50,000,000”.
+Subsec. (g). Pub. L. 115–270, § 1157(d), substituted “$62,500,000” for “$50,000,000”.
 
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1122(i)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1122(i)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (d)(3), (4). Pub. L. 114–322, § 1122(i)(2), added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 114–322, § 1122(i)(2), added pars. (3) and (4).
 
-2014—Subsec. (a)(1). Pub. L. 113–121, § 1038(1)(A), inserted “or used in” after “obtained through”.
+2014—Subsec. (a)(1). Pub. L. 113–121, § 1038(1)(A), inserted “or used in” after “obtained through”.
 
-Subsec. (a)(3)(C). Pub. L. 113–121, § 1038(1)(B), inserted “for the purposes of improving environmental conditions in marsh and littoral systems, stabilizing stream channels, enhancing shorelines, and supporting State and local risk management adaptation strategies” before period at end.
+Subsec. (a)(3)(C). Pub. L. 113–121, § 1038(1)(B), inserted “for the purposes of improving environmental conditions in marsh and littoral systems, stabilizing stream channels, enhancing shorelines, and supporting State and local risk management adaptation strategies” before period at end.
 
-Subsec. (a)(4). Pub. L. 113–121, § 1038(1)(C), added par. (4).
+Subsec. (a)(4). Pub. L. 113–121, § 1038(1)(C), added par. (4).
 
-Subsec. (c)(1)(C). Pub. L. 113–121, § 1030(d)(1)(A), substituted “$10,000,000” for “$5,000,000”.
+Subsec. (c)(1)(C). Pub. L. 113–121, § 1030(d)(1)(A), substituted “$10,000,000” for “$5,000,000”.
 
-Subsec. (d). Pub. L. 113–121, § 1038(2)(A), substituted “Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction” for “Selection of dredged material disposal method for environmental purposes” in heading.
+Subsec. (d). Pub. L. 113–121, § 1038(2)(A), substituted “Selection of dredged material disposal method for purposes related to environmental restoration or storm damage and flood reduction” for “Selection of dredged material disposal method for environmental purposes” in heading.
 
-Subsec. (d)(1). Pub. L. 113–121, § 1038(2)(B), substituted “in relation to—” for “in relation to the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion.” and added subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 113–121, § 1038(2)(B), substituted “in relation to—” for “in relation to the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion.” and added subpars. (A) and (B).
 
-Subsec. (e)(1). Pub. L. 113–121, § 1038(3), added par. (1) and struck out former par. (1) which read as follows: “cooperate with any State in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State;”.
+Subsec. (e)(1). Pub. L. 113–121, § 1038(3), added par. (1) and struck out former par. (1) which read as follows: “cooperate with any State in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State;”.
 
-Subsec. (g). Pub. L. 113–121, § 1030(d)(1)(B), substituted “$50,000,000” for “$30,000,000”.
+Subsec. (g). Pub. L. 113–121, § 1030(d)(1)(B), substituted “$50,000,000” for “$30,000,000”.
 
 2007—Pub. L. 110–114 amended section generally. Prior to amendment, section related to beneficial uses of dredged material.
 
-1999—Subsec. (c). Pub. L. 106–53, § 209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of section 1962d–5b of title 42”.
+1999—Subsec. (c). Pub. L. 106–53, § 209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of section 1962d–5b of title 42”.
 
-Subsec. (g). Pub. L. 106–53, § 209(2), added subsec. (g).
+Subsec. (g). Pub. L. 106–53, § 209(2), added subsec. (g).
 
 1996—Subsecs. (e), (f). Pub. L. 104–303 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -10321,11 +10321,11 @@ Subsec. (g). Pub. L. 106–53, § 209(2), added subsec. (g).
 
 **Applicability**
 
-Pub. L. 110–114, title II, § 2037(c), as added by Pub. L. 113–121, title I, § 1030(d)(2), June 10, 2014, 128 Stat. 1232, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any project authorized under this Act [see Tables for classification] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act [Nov. 8, 2007].”
+Pub. L. 110–114, title II, § 2037(c), as added by Pub. L. 113–121, title I, § 1030(d)(2), June 10, 2014, 128 Stat. 1232, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any project authorized under this Act [see Tables for classification] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act [Nov. 8, 2007].”
 
 **Maximization of Beneficial Use in Dredged Material Management Plans**
 
-Pub. L. 118–272, div. A, title I, § 1130(d), Jan. 4, 2025, 138 Stat. 3019, provided that:
+Pub. L. 118–272, div. A, title I, § 1130(d), Jan. 4, 2025, 138 Stat. 3019, provided that:
 
 > “Each dredged material management plan for a federally authorized water resources development project, and each regional sediment plan developed under section 204 of the Water Resources Development Act of 1992 (33 U.S.C. 2326), including any such plan under development on the date of enactment of this Act [Jan. 4, 2025], shall—
 
@@ -10335,15 +10335,15 @@ Pub. L. 118–272, div. A, title I, § 1130(d), Jan. 4, 2025, 138 Stat. 3019, 
 
 **Project Selection**
 
-Pub. L. 116–260, div. AA, title I, § 125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: “In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note) [set out as a note below], the Secretary [of the Army] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section.”
+Pub. L. 116–260, div. AA, title I, § 125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: “In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note) [set out as a note below], the Secretary [of the Army] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section.”
 
 **Coordination With Existing Authorities**
 
-Pub. L. 116–260, div. AA, title I, § 125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: “The Secretary [of the Army] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 (33 U.S.C. 2326 note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. AA, title I, § 125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: “The Secretary [of the Army] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 (33 U.S.C. 2326 note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act [Dec. 27, 2020].”
 
 **Dredge Pilot Program**
 
-Pub. L. 115–270, title I, § 1111, Oct. 23, 2018, 132 Stat. 3774, as amended by Pub. L. 116–260, div. AA, title I, § 125(d)(1), Dec. 27, 2020, 134 Stat. 2640, provided that:
+Pub. L. 115–270, title I, § 1111, Oct. 23, 2018, 132 Stat. 3774, as amended by Pub. L. 116–260, div. AA, title I, § 125(d)(1), Dec. 27, 2020, 134 Stat. 2640, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] is authorized to carry out a pilot program to award contracts with a duration of up to 5 years for the operation and maintenance of—
 
@@ -10367,7 +10367,7 @@ Pub. L. 115–270, title I, § 1111, Oct. 23, 2018, 132 Stat. 3774, as amended
 
 **Beneficial Use of Dredged Sediment**
 
-Pub. L. 115–270, title I, § 1148, Oct. 23, 2018, 132 Stat. 3787, provided that:
+Pub. L. 115–270, title I, § 1148, Oct. 23, 2018, 132 Stat. 3787, provided that:
 
 > **“(a) In General.—** In carrying out a project for the beneficial reuse of sediment to reduce storm damage to property under section 204 of the Water Resources Development Act of 1992 (33 U.S.C. 2326) that involves only a single application of sediment, the Secretary [of the Army] may grant a temporary easement necessary to facilitate the placement of sediment, if the Secretary determines that granting a temporary easement is in the interest of the United States.
 
@@ -10375,13 +10375,13 @@ Pub. L. 115–270, title I, § 1148, Oct. 23, 2018, 132 Stat. 3787, provided t
 
 **Beneficial Use of Dredged Material**
 
-Pub. L. 114–322, title I, § 1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, § 125(b)(1), Dec. 27, 2020, 134 Stat. 2638; Pub. L. 118–272, div. A, title I, § 1130(a), Jan. 4, 2025, 138 Stat. 3018, which established a pilot program to carry out projects for various beneficial uses of dredged material and was formerly set out as a note under this section, was transferred to section 2326i of this title.
+Pub. L. 114–322, title I, § 1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, § 125(b)(1), Dec. 27, 2020, 134 Stat. 2638; Pub. L. 118–272, div. A, title I, § 1130(a), Jan. 4, 2025, 138 Stat. 3018, which established a pilot program to carry out projects for various beneficial uses of dredged material and was formerly set out as a note under this section, was transferred to section 2326i of this title.
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 2326a. Dredged material disposal facility partnerships
+### § 2326a. Dredged material disposal facility partnerships
 
 **(a) Additional capacity or replacement capacity**
 
@@ -10561,7 +10561,7 @@ The Federal share of such fees shall be equal to the percentage of the total cos
 
 Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 104–303, title II, § 217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, § 2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, § 145, Dec. 27, 2020, 134 Stat. 2654; Pub. L. 118–272, div. A, title I, § 1119(a), Jan. 4, 2025, 138 Stat. 3012.)
+(Pub. L. 104–303, title II, § 217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, § 2005, Nov. 8, 2007, 121 Stat. 1071; Pub. L. 116–260, div. AA, title I, § 145, Dec. 27, 2020, 134 Stat. 2654; Pub. L. 118–272, div. A, title I, § 1119(a), Jan. 4, 2025, 138 Stat. 3012.)
 
 **Editorial Notes**
 
@@ -10575,37 +10575,37 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 118–272, § 1119(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary—
+2025—Subsec. (b)(1). Pub. L. 118–272, § 1119(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary—
 
 “(A) may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by a non-Federal interest if the Secretary determines that such use will not reduce the availability of the facility for project purposes; and
 
 “(B) may impose fees to recover capital, operation, and maintenance costs associated with such use.”
 
-Subsec. (b)(2). Pub. L. 118–272, § 1119(a)(2), substituted “Fees” for “Use of fees” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 118–272, § 1119(a)(2), substituted “Fees” for “Use of fees” in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
 
-Subsec. (b)(3), (4). Pub. L. 118–272, § 1119(a)(3), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 118–272, § 1119(a)(3), added pars. (3) and (4).
 
-2020—Subsec. (a). Pub. L. 116–260, § 145(1), inserted “or replacement capacity” after “Additional capacity” in heading.
+2020—Subsec. (a). Pub. L. 116–260, § 145(1), inserted “or replacement capacity” after “Additional capacity” in heading.
 
-Subsec. (a)(1). Pub. L. 116–260, § 145(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.”
+Subsec. (a)(1). Pub. L. 116–260, § 145(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “At the request of a non-Federal interest with respect to a project, the Secretary may provide additional capacity at a dredged material disposal facility constructed by the Secretary beyond the capacity that would be required for project purposes if the non-Federal interest agrees to pay, during the period of construction, all costs associated with the construction of the additional capacity.”
 
-Subsec. (a)(2). Pub. L. 116–260, § 145(3), inserted “under paragraph (1)(A)(i)” after “additional capacity”.
+Subsec. (a)(2). Pub. L. 116–260, § 145(3), inserted “under paragraph (1)(A)(i)” after “additional capacity”.
 
-Subsec. (a)(3), (4). Pub. L. 116–260, § 145(4), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 116–260, § 145(4), added pars. (3) and (4).
 
-2007—Subsec. (c). Pub. L. 110–114, § 2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
+2007—Subsec. (c). Pub. L. 110–114, § 2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 110–114, § 2005(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 110–114, § 2005(1), redesignated subsec. (c) as (d).
 
-Subsec. (d)(1). Pub. L. 110–114, § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
+Subsec. (d)(1). Pub. L. 110–114, § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
 
-Subsec. (d)(2)(A). Pub. L. 110–114, § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
+Subsec. (d)(2)(A). Pub. L. 110–114, § 2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 118–272, div. A, title I, § 1119(b), Jan. 4, 2025, 138 Stat. 3014, provided that:
+Pub. L. 118–272, div. A, title I, § 1119(b), Jan. 4, 2025, 138 Stat. 3014, provided that:
 
 > “Nothing in the amendments made by subsection (a) [amending this section] shall affect—
 
@@ -10617,7 +10617,7 @@ Pub. L. 118–272, div. A, title I, § 1119(b), Jan. 4, 2025, 138 Stat. 3014, 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2326b. Sediment management
+### § 2326b. Sediment management
 
 **(a) In general**
 
@@ -10685,7 +10685,7 @@ In addition to amounts made available under paragraph (1), there is authorized t
 
 In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.
 
-(Pub. L. 104–303, title V, § 516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, § 505, Dec. 11, 2000, 114 Stat. 2645; Pub. L. 110–114, title V, § 5013, Nov. 8, 2007, 121 Stat. 1195; Pub. L. 116–260, div. AA, title I, § 148, Dec. 27, 2020, 134 Stat. 2656.)
+(Pub. L. 104–303, title V, § 516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, § 505, Dec. 11, 2000, 114 Stat. 2645; Pub. L. 110–114, title V, § 5013, Nov. 8, 2007, 121 Stat. 1195; Pub. L. 116–260, div. AA, title I, § 148, Dec. 27, 2020, 134 Stat. 2656.)
 
 **Editorial Notes**
 
@@ -10695,21 +10695,21 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 **Amendments**
 
-2020—Subsecs. (g), (h). Pub. L. 116–260, § 148(1), (2), added subsec. (g) and redesignated former subsec. (g) as (h).
+2020—Subsecs. (g), (h). Pub. L. 116–260, § 148(1), (2), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-Subsec. (h)(3). Pub. L. 116–260, § 148(3), added par. (3).
+Subsec. (h)(3). Pub. L. 116–260, § 148(3), added par. (3).
 
 2007—Subsec. (g)(2). Pub. L. 110–114 substituted “through 2012” for “through 2006”.
 
-2000—Subsec. (e)(3). Pub. L. 106–541, § 505(1), added par. (3).
+2000—Subsec. (e)(3). Pub. L. 106–541, § 505(1), added par. (3).
 
-Subsec. (g). Pub. L. 106–541, § 505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+Subsec. (g). Pub. L. 106–541, § 505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Dredged Material Management Plans**
 
-Pub. L. 115–270, title I, § 1116, Oct. 23, 2018, 132 Stat. 3776, provided that:
+Pub. L. 115–270, title I, § 1116, Oct. 23, 2018, 132 Stat. 3776, provided that:
 
 > **“(a) In General.—** For purposes of dredged material management plans initiated after the date of enactment of this Act [Oct. 23, 2018], the Secretary [of the Army] shall expedite the dredged material management plan process in order that such plans make maximum use of existing information, studies, and innovative dredged material management practices, and avoid any redundant information collection and studies.
 
@@ -10717,7 +10717,7 @@ Pub. L. 115–270, title I, § 1116, Oct. 23, 2018, 132 Stat. 3776, provided t
 
 **New York-New Jersey Harbor, New York and New Jersey**
 
-Pub. L. 106–53, title V, § 540, Aug. 17, 1999, 113 Stat. 350, provided that:
+Pub. L. 106–53, title V, § 540, Aug. 17, 1999, 113 Stat. 350, provided that:
 
 > **“(a) In General.—** The Secretary shall conduct a study to analyze the economic and environmental benefits and costs of potential sediment management and contaminant reduction measures.
 
@@ -10727,7 +10727,7 @@ Pub. L. 106–53, title V, § 540, Aug. 17, 1999, 113 Stat. 350, provided that
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2326c. Reservoir sediment
+### § 2326c. Reservoir sediment
 
 **(a) In general**
 
@@ -10763,7 +10763,7 @@ Prior to accepting services provided by a non-Federal interest or commercial ent
 
 Not later than 3 years after October 23, 2018, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of the program under this section.
 
-(Pub. L. 106–541, title II, § 215, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 114–322, title I, § 1115(a), Dec. 16, 2016, 130 Stat. 1638; Pub. L. 115–270, title I, § 1146, Oct. 23, 2018, 132 Stat. 3786.)
+(Pub. L. 106–541, title II, § 215, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 114–322, title I, § 1115(a), Dec. 16, 2016, 130 Stat. 1638; Pub. L. 115–270, title I, § 1146, Oct. 23, 2018, 132 Stat. 3786.)
 
 **Editorial Notes**
 
@@ -10773,11 +10773,11 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–270, § 1146(1), substituted “October 23, 2018” for “December 16, 2016” and “shall, using available funds, accept” for “shall establish, using available funds, a pilot program to accept”.
+2018—Subsec. (a). Pub. L. 115–270, § 1146(1), substituted “October 23, 2018” for “December 16, 2016” and “shall, using available funds, accept” for “shall establish, using available funds, a pilot program to accept”.
 
-Subsec. (b)(4). Pub. L. 115–270, § 1146(2), struck out par. (4) which read as follows: “limit the number of dams for which services are accepted to 10.”
+Subsec. (b)(4). Pub. L. 115–270, § 1146(2), struck out par. (4) which read as follows: “limit the number of dams for which services are accepted to 10.”
 
-Subsec. (f). Pub. L. 115–270, § 1146(3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Upon completion of services at the 10 dams allowed under subsection (b)(4), the Secretary shall make publicly available and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report documenting the results of the services.”
+Subsec. (f). Pub. L. 115–270, § 1146(3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Upon completion of services at the 10 dams allowed under subsection (b)(4), the Secretary shall make publicly available and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report documenting the results of the services.”
 
 2016—Pub. L. 114–322 amended section generally. Prior to amendment, section related to a program for direct marketing of dredged material and a pilot program for dredged material recycling.
 
@@ -10787,11 +10787,11 @@ Subsec. (f). Pub. L. 115–270, § 1146(3), added subsec. (f) and struck out f
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2326d. Alternative projects to maintenance dredging
+### § 2326d. Alternative projects to maintenance dredging
 
 The Secretary may enter into agreements to assume the operation and maintenance costs of an alternative project to maintenance dredging for a Federal navigation channel if the costs of the operation and maintenance of the alternative project, and any remaining costs necessary for maintaining the Federal navigation channel, are less than the costs of maintaining such channel without the alternative project.
 
-(Pub. L. 114–322, title I, § 1106, Dec. 16, 2016, 130 Stat. 1634.)
+(Pub. L. 114–322, title I, § 1106, Dec. 16, 2016, 130 Stat. 1634.)
 
 **Editorial Notes**
 
@@ -10805,7 +10805,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2326e. Non-Federal interest dredging authority
+### § 2326e. Non-Federal interest dredging authority
 
 **(a) In general**
 
@@ -10841,7 +10841,7 @@ Before initiating maintenance activities under this section, a non-Federal inter
 
 The authority of the Secretary under this section terminates on the date that is 10 years after December 16, 2016.
 
-(Pub. L. 114–322, title I, § 1113, Dec. 16, 2016, 130 Stat. 1637.)
+(Pub. L. 114–322, title I, § 1113, Dec. 16, 2016, 130 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -10855,7 +10855,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2326f. Maintenance dredging data
+### § 2326f. Maintenance dredging data
 
 **(a) In general**
 
@@ -10873,7 +10873,7 @@ The Secretary shall establish, maintain, and make publicly available a database 
 
 **(5)** the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.
 
-(Pub. L. 114–322, title I, § 1133, Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, § 8207, Dec. 23, 2022, 136 Stat. 3756.)
+(Pub. L. 114–322, title I, § 1133, Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, § 8207, Dec. 23, 2022, 136 Stat. 3756.)
 
 **Editorial Notes**
 
@@ -10883,7 +10883,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 **Amendments**
 
-2022—Subsec. (b)(3). Pub. L. 117–263 inserted “, including a separate line item for all Federal costs associated with the disposal of dredged material” before semicolon at end.
+2022—Subsec. (b)(3). Pub. L. 117–263 inserted “, including a separate line item for all Federal costs associated with the disposal of dredged material” before semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10891,7 +10891,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2326g. Beneficial use of dredged material; dredged material management plans
+### § 2326g. Beneficial use of dredged material; dredged material management plans
 
 **(a) National policy on the beneficial use of dredged material**
 
@@ -10927,7 +10927,7 @@ The economic benefits and efficiencies from the beneficial use of dredged materi
 
 **(C) Omitted**
 
-(Pub. L. 116–260, div. AA, title I, § 125(a), Dec. 27, 2020, 134 Stat. 2636; Pub. L. 118–272, div. A, title I, § 1130(c), Jan. 4, 2025, 138 Stat. 3019.)
+(Pub. L. 116–260, div. AA, title I, § 125(a), Dec. 27, 2020, 134 Stat. 2636; Pub. L. 118–272, div. A, title I, § 1130(c), Jan. 4, 2025, 138 Stat. 3019.)
 
 **Editorial Notes**
 
@@ -10947,7 +10947,7 @@ Section is comprised of section 125(a) of div. AA of Pub. L. 116–260. Par. (2)
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2326h. Five-year regional dredged material management plans
+### § 2326h. Five-year regional dredged material management plans
 
 **(1) In general**
 
@@ -10989,7 +10989,7 @@ As soon as practicable after receiving a plan under subsection (a), the Secretar
 
 **(B)** shall not be subject to the limitations in section 2326(g) of this title.
 
-(Pub. L. 116–260, div. AA, title I, § 125(c), Dec. 27, 2020, 134 Stat. 2638.)
+(Pub. L. 116–260, div. AA, title I, § 125(c), Dec. 27, 2020, 134 Stat. 2638.)
 
 **Editorial Notes**
 
@@ -11003,7 +11003,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2326i. Beneficial use of dredged material
+### § 2326i. Beneficial use of dredged material
 
 **(a) In general** The Secretary is authorized to carry out projects for the beneficial use of dredged material, including projects for the purposes of—
 
@@ -11103,7 +11103,7 @@ The projects carried out under this section shall be carried out notwithstanding
 
 **(i) , (j) Omitted**
 
-(Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645; Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, § 125(b)(1), Dec. 27, 2020, 134 Stat. 2638; Pub. L. 118–272, div. A, title I, § 1130(a), Jan. 4, 2025, 138 Stat. 3018.)
+(Pub. L. 114–322, title I, § 1122, Dec. 16, 2016, 130 Stat. 1645; Pub. L. 115–270, title I, § 1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, § 125(b)(1), Dec. 27, 2020, 134 Stat. 2638; Pub. L. 118–272, div. A, title I, § 1130(a), Jan. 4, 2025, 138 Stat. 3018.)
 
 **Editorial Notes**
 
@@ -11117,27 +11117,27 @@ Section is based on section 1122 of Pub. L. 114–322. Subsecs. (i) and (j) of s
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 1130(a)(1)(A), substituted “The Secretary is authorized” for “Not later than 90 days after December 16, 2016, the Secretary shall establish a pilot program” in introductory provisions.
+2025—Subsec. (a). Pub. L. 118–272, § 1130(a)(1)(A), substituted “The Secretary is authorized” for “Not later than 90 days after December 16, 2016, the Secretary shall establish a pilot program” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 118–272, § 1130(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “reducing storm damage to property and infrastructure;”.
+Subsec. (a)(1). Pub. L. 118–272, § 1130(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “reducing storm damage to property and infrastructure;”.
 
-Subsec. (b). Pub. L. 118–272, § 1130(a)(2)(A), substituted “this section” for “the pilot program” in introductory provisions.
+Subsec. (b). Pub. L. 118–272, § 1130(a)(2)(A), substituted “this section” for “the pilot program” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 118–272, § 1130(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “identify for inclusion in the pilot program and carry out 35 projects for the beneficial use of dredged material;”.
+Subsec. (b)(1). Pub. L. 118–272, § 1130(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “identify for inclusion in the pilot program and carry out 35 projects for the beneficial use of dredged material;”.
 
-Subsec. (c)(1). Pub. L. 118–272, § 1130(a)(3), substituted “The” for “In carrying out the pilot program, the” and “under this section” for “under the pilot program”.
+Subsec. (c)(1). Pub. L. 118–272, § 1130(a)(3), substituted “The” for “In carrying out the pilot program, the” and “under this section” for “under the pilot program”.
 
-Subsec. (d). Pub. L. 118–272, § 1130(a)(4), substituted “this section” for “the pilot program” in introductory provisions.
+Subsec. (d). Pub. L. 118–272, § 1130(a)(4), substituted “this section” for “the pilot program” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 118–272, § 1130(a)(5)(A), substituted “this section” for “the pilot program”.
+Subsec. (f)(1). Pub. L. 118–272, § 1130(a)(5)(A), substituted “this section” for “the pilot program”.
 
-Subsec. (f)(4). Pub. L. 118–272, § 1130(a)(5)(B), substituted “the implementation of this section” for “the pilot program”.
+Subsec. (f)(4). Pub. L. 118–272, § 1130(a)(5)(B), substituted “the implementation of this section” for “the pilot program”.
 
-Subsecs. (g), (h). Pub. L. 118–272, § 1130(a)(6), redesignated subsec. (h) as (g) and struck out former subsec. (g) which provided that the pilot program would terminate after completion of the 35 projects carried out pursuant to subsec. (b)(1).
+Subsecs. (g), (h). Pub. L. 118–272, § 1130(a)(6), redesignated subsec. (h) as (g) and struck out former subsec. (g) which provided that the pilot program would terminate after completion of the 35 projects carried out pursuant to subsec. (b)(1).
 
-2020—Subsec. (a)(8). Pub. L. 116–260, § 125(b)(1)(A), added par. (8).
+2020—Subsec. (a)(8). Pub. L. 116–260, § 125(b)(1)(A), added par. (8).
 
-Subsecs. (b)(1), (g). Pub. L. 116–260, § 125(b)(1)(B), (C), substituted “35” for “20”.
+Subsecs. (b)(1), (g). Pub. L. 116–260, § 125(b)(1)(B), (C), substituted “35” for “20”.
 
 2018—Subsecs. (b)(1), (g). Pub. L. 115–270 substituted “20” for “10”.
 
@@ -11147,7 +11147,7 @@ Subsecs. (b)(1), (g). Pub. L. 116–260, § 125(b)(1)(B), (C), substituted “
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2326j. Transfer of suitable dredged material
+### § 2326j. Transfer of suitable dredged material
 
 **(1) In general**
 
@@ -11157,7 +11157,7 @@ The Secretary is authorized to make available to a non-Federal interest, at no a
 
 The non-Federal interest shall be responsible for all costs to remove and transport such material, and shall certify that the non-Federal interest is responsible for any and all liability related to the removal of such material or the use of such material once it is removed.
 
-(Pub. L. 118–272, div. A, title I, § 1130(e), Jan. 4, 2025, 138 Stat. 3020.)
+(Pub. L. 118–272, div. A, title I, § 1130(e), Jan. 4, 2025, 138 Stat. 3020.)
 
 **Editorial Notes**
 
@@ -11171,7 +11171,7 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2327. Definition of rehabilitation for inland waterway projects
+### § 2327. Definition of rehabilitation for inland waterway projects
 
 For purposes of laws relating to navigation on inland and intracoastal waterways of the United States, the term “rehabilitation” means—
 
@@ -11199,7 +11199,7 @@ For purposes of laws relating to navigation on inland and intracoastal waterways
 
 Such term does not include routine or deferred maintenance. The dollar amounts referred to in paragraphs (1) and (2) shall be adjusted annually according to the economic assumption published each year as guidance in the Annual Program and Budget Request for Civil Works Activities of the Corps of Engineers.
 
-(Pub. L. 102–580, title II, § 205, Oct. 31, 1992, 106 Stat. 4827; Pub. L. 113–121, title II, § 2006(a)(4), June 10, 2014, 128 Stat. 1268.)
+(Pub. L. 102–580, title II, § 205, Oct. 31, 1992, 106 Stat. 4827; Pub. L. 113–121, title II, § 2006(a)(4), June 10, 2014, 128 Stat. 1268.)
 
 **Editorial Notes**
 
@@ -11211,7 +11211,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 2014—Par. (1)(E)(ii). Pub. L. 113–121 substituted “$20,000,000” for “$8,000,000”.
 
-### § 2327a. Rehabilitation of Corps of Engineers constructed pump stations
+### § 2327a. Rehabilitation of Corps of Engineers constructed pump stations
 
 **(a) Definitions** In this section:
 
@@ -11277,7 +11277,7 @@ There is authorized to be appropriated to carry out this section $60,000,000, to
 
 To the maximum extent practicable, the Secretary shall prioritize the rehabilitation of eligible pump stations under this section that benefit economically disadvantaged communities, as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note), including economically disadvantaged communities located in urban and rural areas.
 
-(Pub. L. 116–260, div. AA, title I, § 133, Dec. 27, 2020, 134 Stat. 2647; Pub. L. 117–263, div. H, title LXXXI, § 8152, Dec. 23, 2022, 136 Stat. 3733.)
+(Pub. L. 116–260, div. AA, title I, § 133, Dec. 27, 2020, 134 Stat. 2647; Pub. L. 117–263, div. H, title LXXXI, § 8152, Dec. 23, 2022, 136 Stat. 3733.)
 
 **Editorial Notes**
 
@@ -11291,11 +11291,11 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 8152(1), added par. (1) and struck out former par. (1) which defined eligible pump station.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 8152(1), added par. (1) and struck out former par. (1) which defined eligible pump station.
 
-Subsec. (b). Pub. L. 117–263, § 8152(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may carry out rehabilitation of an eligible pump station, if the Secretary determines that the rehabilitation is feasible.”
+Subsec. (b). Pub. L. 117–263, § 8152(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may carry out rehabilitation of an eligible pump station, if the Secretary determines that the rehabilitation is feasible.”
 
-Subsec. (g). Pub. L. 117–263, § 8152(3), added subsec. (g).
+Subsec. (g). Pub. L. 117–263, § 8152(3), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11303,7 +11303,7 @@ Subsec. (g). Pub. L. 117–263, § 8152(3), added subsec. (g).
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2328. Challenge cost-sharing program for management of recreation facilities
+### § 2328. Challenge cost-sharing program for management of recreation facilities
 
 **(a) In general**
 
@@ -11377,7 +11377,7 @@ The term “non-Federal public entity” means a non-Federal public entity as de
 
 The term “private nonprofit entity” means an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of that title.
 
-(Pub. L. 102–580, title II, § 225, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 104–303, title II, § 236(b), Oct. 12, 1996, 110 Stat. 3705; Pub. L. 114–322, title I, § 1155, Dec. 16, 2016, 130 Stat. 1663; Pub. L. 118–272, div. A, title I, § 1153, Jan. 4, 2025, 138 Stat. 3043; Pub. L. 119–74, div. B, title I, § 109, Jan. 23, 2026, 140 Stat. 70.)
+(Pub. L. 102–580, title II, § 225, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 104–303, title II, § 236(b), Oct. 12, 1996, 110 Stat. 3705; Pub. L. 114–322, title I, § 1155, Dec. 16, 2016, 130 Stat. 1663; Pub. L. 118–272, div. A, title I, § 1153, Jan. 4, 2025, 138 Stat. 3043; Pub. L. 119–74, div. B, title I, § 109, Jan. 23, 2026, 140 Stat. 70.)
 
 **Editorial Notes**
 
@@ -11389,13 +11389,13 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 2026—Subsec. (c)(2)(A)(ii). Pub. L. 119–74 substituted “at any recreation site or facility that is located at the civil works project at which the fee is collected” for “at recreation site at which the fee is collected”.
 
-2025—Subsec. (b). Pub. L. 118–272, § 1153(1), designated existing provisions as par. (1) and inserted heading, substituted “non-Federal public entities and private nonprofit entities” for “non-Federal public and private entities”, and added par. (2).
+2025—Subsec. (b). Pub. L. 118–272, § 1153(1), designated existing provisions as par. (1) and inserted heading, substituted “non-Federal public entities and private nonprofit entities” for “non-Federal public and private entities”, and added par. (2).
 
-Subsec. (c). Pub. L. 118–272, § 1153(2), added subsec. (c) and struck out former subsec. (c) which related to user fees.
+Subsec. (c). Pub. L. 118–272, § 1153(2), added subsec. (c) and struck out former subsec. (c) which related to user fees.
 
-Subsec. (d). Pub. L. 118–272, § 1153(3), designated first sentence of existing provisions as par. (1), inserted heading, and substituted “non-Federal public entities, private nonprofit entities, and other private entities” for “non-Federal public and private entities” and designated second sentence of existing provisions as par. (2), inserted heading, and substituted “under this subsection” for “under this section”.
+Subsec. (d). Pub. L. 118–272, § 1153(3), designated first sentence of existing provisions as par. (1), inserted heading, and substituted “non-Federal public entities, private nonprofit entities, and other private entities” for “non-Federal public and private entities” and designated second sentence of existing provisions as par. (2), inserted heading, and substituted “under this subsection” for “under this section”.
 
-Subsec. (e). Pub. L. 118–272, § 1153(4), added subsec. (e).
+Subsec. (e). Pub. L. 118–272, § 1153(4), added subsec. (e).
 
 2016—Subsecs. (c), (d). Pub. L. 114–322 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -11403,7 +11403,7 @@ Subsec. (e). Pub. L. 118–272, § 1153(4), added subsec. (e).
 
 **Recreation Partnership Initiative**
 
-Pub. L. 104–303, title V, § 519, Oct. 12, 1996, 110 Stat. 3765, as amended by Pub. L. 106–53, title III, § 350(a), Aug. 17, 1999, 113 Stat. 310, provided that:
+Pub. L. 104–303, title V, § 519, Oct. 12, 1996, 110 Stat. 3765, as amended by Pub. L. 106–53, title III, § 350(a), Aug. 17, 1999, 113 Stat. 310, provided that:
 
 > **“(a) In General.—** The Secretary shall promote Federal, non-Federal, and private sector cooperation in creating public recreation opportunities and developing the necessary supporting infrastructure at water resources projects of the Corps of Engineers.
 
@@ -11425,7 +11425,7 @@ Pub. L. 104–303, title V, § 519, Oct. 12, 1996, 110 Stat. 3765, as amended 
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 2328a. Special use permits
+### § 2328a. Special use permits
 
 **(a) Special use permits**
 
@@ -11487,7 +11487,7 @@ If the Secretary determines that it is in the public interest for purposes of en
 
 Any use of funds pursuant to this subsection shall be carried out through the execution of a cooperative agreement, which shall contain such terms and conditions as the Secretary determines to be necessary in the public interest.
 
-(Pub. L. 113–121, title I, § 1047, June 10, 2014, 128 Stat. 1255.)
+(Pub. L. 113–121, title I, § 1047, June 10, 2014, 128 Stat. 1255.)
 
 **Editorial Notes**
 
@@ -11503,7 +11503,7 @@ Section is comprised of section 1047 of Pub. L. 113–121. Subsecs. (d) and (e) 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2329. International outreach program
+### § 2329. International outreach program
 
 **(a) Authorization**
 
@@ -11527,7 +11527,7 @@ The Secretary may carry out the provisions of this section in cooperation with F
 
 The funds to carry out the provisions of this section shall include funds deposited in a special account with the Secretary of the Treasury for such purposes by any cooperating entity or organization according to cost-sharing agreements proscribed by the Secretary. Reimbursement for services provided under this section shall be credited to the appropriation concerned.
 
-(Pub. L. 102–580, title IV, § 401, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 114–322, title I, § 1138, Dec. 16, 2016, 130 Stat. 1657.)
+(Pub. L. 102–580, title IV, § 401, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 114–322, title I, § 1138, Dec. 16, 2016, 130 Stat. 1657.)
 
 **Editorial Notes**
 
@@ -11545,7 +11545,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 2330. Aquatic ecosystem restoration
+### § 2330. Aquatic ecosystem restoration
 
 **(a) General authority**
 
@@ -11621,7 +11621,7 @@ There is authorized to be appropriated to carry out this section $75,000,000 for
 
 The Secretary shall give projects that include measures described in subsection (a)(3) equal priority for implementation as other projects under this section.
 
-(Pub. L. 104–303, title II, § 206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, § 210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, § 2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, § 1030(g), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §§ 1149(a), 1157(f), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, § 126(a), Dec. 27, 2020, 134 Stat. 2640; Pub. L. 118–272, div. A, title I, § 1107(e), Jan. 4, 2025, 138 Stat. 3004.)
+(Pub. L. 104–303, title II, § 206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, § 210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, § 2020, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, § 1030(g), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §§ 1149(a), 1157(f), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, § 126(a), Dec. 27, 2020, 134 Stat. 2640; Pub. L. 118–272, div. A, title I, § 1107(e), Jan. 4, 2025, 138 Stat. 3004.)
 
 **Editorial Notes**
 
@@ -11631,25 +11631,25 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 **Amendments**
 
-2025—Subsec. (a)(4). Pub. L. 118–272, § 1107(e)(1), added par. (4).
+2025—Subsec. (a)(4). Pub. L. 118–272, § 1107(e)(1), added par. (4).
 
-Subsec. (b)(3). Pub. L. 118–272, § 1107(e)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 118–272, § 1107(e)(2), added par. (3).
 
-Subsec. (d). Pub. L. 118–272, § 1107(e)(3), substituted “$15,000,000” for “$10,000,000”.
+Subsec. (d). Pub. L. 118–272, § 1107(e)(3), substituted “$15,000,000” for “$10,000,000”.
 
-Subsec. (f). Pub. L. 118–272, § 1107(e)(4), substituted “$75,000,000” for “$62,500,000”.
+Subsec. (f). Pub. L. 118–272, § 1107(e)(4), substituted “$75,000,000” for “$62,500,000”.
 
-2020—Subsec. (a)(3). Pub. L. 116–260, § 126(a)(1), added par. (3).
+2020—Subsec. (a)(3). Pub. L. 116–260, § 126(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 116–260, § 126(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 116–260, § 126(a)(2), added subsec. (g).
 
-2018—Subsec. (e). Pub. L. 115–270, § 1149(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+2018—Subsec. (e). Pub. L. 115–270, § 1149(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–270, §§ 1149(a)(1), 1157(f), redesignated subsec. (e) as (f) and substituted “$62,500,000” for “$50,000,000”.
+Subsec. (f). Pub. L. 115–270, §§ 1149(a)(1), 1157(f), redesignated subsec. (e) as (f) and substituted “$62,500,000” for “$50,000,000”.
 
 2014—Subsec. (d). Pub. L. 113–121 substituted “$10,000,000” for “$5,000,000”.
 
-2007—Subsec. (a). Pub. L. 110–114, § 2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
+2007—Subsec. (a). Pub. L. 110–114, § 2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
 
 “(a) General authority.—The Secretary may carry out an aquatic ecosystem restoration and protection project if the Secretary determines that the project—
 
@@ -11657,11 +11657,11 @@ Subsec. (f). Pub. L. 115–270, §§ 1149(a)(1), 1157(f), redesignated subsec.
 
 “(2) is cost-effective.”
 
-Subsec. (e). Pub. L. 110–114, § 2020(2), substituted “$50,000,000” for “$25,000,000”.
+Subsec. (e). Pub. L. 110–114, § 2020(2), substituted “$50,000,000” for “$25,000,000”.
 
-1999—Subsec. (b). Pub. L. 106–53, § 210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+1999—Subsec. (b). Pub. L. 106–53, § 210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (c). Pub. L. 106–53, § 210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (c). Pub. L. 106–53, § 210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11669,7 +11669,7 @@ Subsec. (c). Pub. L. 106–53, § 210(2), designated existing provisions as pa
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 
-### § 2330a. Monitoring ecosystem restoration
+### § 2330a. Monitoring ecosystem restoration
 
 **(a) In general**
 
@@ -11703,7 +11703,7 @@ The responsibility of a non-Federal interest for operation and maintenance of th
 
 The Secretary is not responsible for the operation or maintenance of any components of a project with respect to which a non-Federal interest is released from obligations under subsection (e).
 
-(Pub. L. 110–114, title II, § 2039, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1161, Dec. 16, 2016, 130 Stat. 1668.)
+(Pub. L. 110–114, title II, § 2039, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1161, Dec. 16, 2016, 130 Stat. 1668.)
 
 **Editorial Notes**
 
@@ -11721,7 +11721,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2330b. Fish hatcheries
+### § 2330b. Fish hatcheries
 
 **(a) In general**
 
@@ -11731,13 +11731,13 @@ Notwithstanding any other provision of law, the Secretary may operate a fish hat
 
 A non-Federal entity, another Federal agency, or a group of non-Federal entities or other Federal agencies shall be responsible for 100 percent of the additional costs associated with managing a fish hatchery for the purpose described in subsection (a) that are not authorized as of December 16, 2016, for the fish hatchery.
 
-(Pub. L. 114–322, title I, § 1168, Dec. 16, 2016, 130 Stat. 1671.)
+(Pub. L. 114–322, title I, § 1168, Dec. 16, 2016, 130 Stat. 1671.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Codification**
 
@@ -11749,7 +11749,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2330c. Aquatic ecosystem restoration
+### § 2330c. Aquatic ecosystem restoration
 
 **(a) Definition of eligible entity** In this section, the term “eligible entity” means—
 
@@ -11847,15 +11847,15 @@ The Secretary shall comply with applicable State water laws in carrying out this
 
 **(4)** contribute to the restoration of anadromous fish species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
 
-(Pub. L. 116–260, div. FF, title XI, § 1109, Dec. 27, 2020, 134 Stat. 3244.)
+(Pub. L. 116–260, div. FF, title XI, § 1109, Dec. 27, 2020, 134 Stat. 3244.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(2)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(2)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Endangered Species Act of 1973, referred to in subsecs. (c)(2)(D)(ii) and (g)(4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (c)(2)(D)(ii) and (g)(4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Codification**
 
@@ -11865,7 +11865,7 @@ Section was enacted as part of Consolidated Appropriations Act, 2021, and not as
 
 **Definitions**
 
-Pub. L. 116–260, div. FF, title XI, § 1115, Dec. 27, 2020, 134 Stat. 3251, provided that:
+Pub. L. 116–260, div. FF, title XI, § 1115, Dec. 27, 2020, 134 Stat. 3251, provided that:
 
 > “In this title [enacting this section and sections 390g–9 and 1477 of Title 43, Public Lands, and amending sections 1015 and 1015a of Title 16, Conservation, sections 1645 and 1647b of Title 25, Indians, sections 10362 and 10364 of Title 42, The Public Health and Welfare, section 510b of Title 43, and provisions set out as notes under sections 10301 and 10364 of Title 42]:
 
@@ -11875,13 +11875,13 @@ Pub. L. 116–260, div. FF, title XI, § 1115, Dec. 27, 2020, 134 Stat. 3251, 
 
 > **“(3) Secretary.—** The term ‘Secretary’ means the Secretary of the Interior.”
 
-[The first paragraph of 43 U.S.C. 391 is comprised of act June 17, 1902, ch. 1093, § 1 (part), 32 Stat. 388. The second paragraph of 43 U.S.C. 391 is comprised of act June 12, 1906, ch. 3288, 34 Stat. 259, as amended. See Codification note under section 391 of Title 43, Public Lands.]
+[The first paragraph of 43 U.S.C. 391 is comprised of act June 17, 1902, ch. 1093, § 1 (part), 32 Stat. 388. The second paragraph of 43 U.S.C. 391 is comprised of act June 12, 1906, ch. 3288, 34 Stat. 259, as amended. See Codification note under section 391 of Title 43, Public Lands.]
 
-### § 2330d. Public recreational amenities in ecosystem restoration projects
+### § 2330d. Public recreational amenities in ecosystem restoration projects
 
 At the request of a non-Federal interest, the Secretary is authorized to study the incorporation of public recreational amenities, including facilities for hiking, biking, walking, and waterborne recreation, into a project for ecosystem restoration, including a project carried out under section 2330 of this title, if the incorporation of such amenities would be consistent with the ecosystem restoration purposes of the project.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8105, Dec. 23, 2022, 136 Stat. 3699.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8105, Dec. 23, 2022, 136 Stat. 3699.)
 
 **Editorial Notes**
 
@@ -11895,7 +11895,7 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2331. Use of continuing contracts for construction of certain projects
+### § 2331. Use of continuing contracts for construction of certain projects
 
 **(a) In general**
 
@@ -11913,7 +11913,7 @@ The Secretary shall enter into a continuing contract for a project described in 
 
 **(3)** Flood Control, Mississippi River and Tributaries.
 
-(Pub. L. 106–53, title II, § 206, Aug. 17, 1999, 113 Stat. 286.)
+(Pub. L. 106–53, title II, § 206, Aug. 17, 1999, 113 Stat. 286.)
 
 **Editorial Notes**
 
@@ -11927,7 +11927,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2331a. Initiating work on separable elements
+### § 2331a. Initiating work on separable elements
 
 With respect to a water resources development project that has received construction funds in the previous 6-year period, for purposes of initiating work on a separable element of the project—
 
@@ -11935,7 +11935,7 @@ With respect to a water resources development project that has received construc
 
 **(2)** the work shall be treated as ongoing work.
 
-(Pub. L. 114–322, title I, § 1146, Dec. 16, 2016, 130 Stat. 1659.)
+(Pub. L. 114–322, title I, § 1146, Dec. 16, 2016, 130 Stat. 1659.)
 
 **Editorial Notes**
 
@@ -11943,7 +11943,7 @@ With respect to a water resources development project that has received construc
 
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-### § 2332. Shoreline and riverine protection and restoration
+### § 2332. Shoreline and riverine protection and restoration
 
 **(a) In general** The Secretary may carry out studies and projects to—
 
@@ -12133,7 +12133,7 @@ The term “economically disadvantaged community” has the meaning given the te
 
 The terms “natural feature” and “nature-based feature” have the meanings given those terms in section 2289a(a) of this title.
 
-(Pub. L. 106–53, title II, § 212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, § 227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, § 5005, Nov. 8, 2007, 121 Stat. 1192; Pub. L. 117–263, div. H, title LXXXI, § 8103(a), Dec. 23, 2022, 136 Stat. 3696; Pub. L. 118–272, div. A, title I, § 1138, Jan. 4, 2025, 138 Stat. 3026.)
+(Pub. L. 106–53, title II, § 212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, § 227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, § 5005, Nov. 8, 2007, 121 Stat. 1192; Pub. L. 117–263, div. H, title LXXXI, § 8103(a), Dec. 23, 2022, 136 Stat. 3696; Pub. L. 118–272, div. A, title I, § 1138, Jan. 4, 2025, 138 Stat. 3026.)
 
 **Editorial Notes**
 
@@ -12149,43 +12149,43 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 2025—Subsec. (e)(2)(L), (M). Pub. L. 118–272 added subpars. (L) and (M).
 
-2022—Pub. L. 117–263, § 8103(a)(1), substituted “Shoreline and riverine protection and restoration” for “Flood mitigation and riverine restoration program” in section catchline.
+2022—Pub. L. 117–263, § 8103(a)(1), substituted “Shoreline and riverine protection and restoration” for “Flood mitigation and riverine restoration program” in section catchline.
 
-Subsec. (a). Pub. L. 117–263, § 8103(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may undertake a program for the purpose of conducting projects to reduce flood hazards and restore the natural functions and values of rivers throughout the United States.”
+Subsec. (a). Pub. L. 117–263, § 8103(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary may undertake a program for the purpose of conducting projects to reduce flood hazards and restore the natural functions and values of rivers throughout the United States.”
 
-Subsec. (b)(1). Pub. L. 117–263, § 8103(a)(3)(A) added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a).”
+Subsec. (b)(1). Pub. L. 117–263, § 8103(a)(3)(A) added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a).”
 
-Subsec. (b)(3). Pub. L. 117–263, § 8103(a)(3)(B), substituted “flood and hurricane and storm damages, including the use of natural features or nature-based features” for “flood damages”.
+Subsec. (b)(3). Pub. L. 117–263, § 8103(a)(3)(B), substituted “flood and hurricane and storm damages, including the use of natural features or nature-based features” for “flood damages”.
 
-Subsec. (b)(4). Pub. L. 117–263, § 8103(a)(3)(C), inserted “and hurricane and storm” after “flood”, “, shoreline,” after “riverine”, and “and coastal barriers” after “floodplains”.
+Subsec. (b)(4). Pub. L. 117–263, § 8103(a)(3)(C), inserted “and hurricane and storm” after “flood”, “, shoreline,” after “riverine”, and “and coastal barriers” after “floodplains”.
 
-Subsec. (c)(1). Pub. L. 117–263, § 8103(a)(4)(A), inserted “, except that the first $200,000 of the costs of a study conducted under this section shall be at Federal expense” before period at end.
+Subsec. (c)(1). Pub. L. 117–263, § 8103(a)(4)(A), inserted “, except that the first $200,000 of the costs of a study conducted under this section shall be at Federal expense” before period at end.
 
-Subsec. (c)(2). Pub. L. 117–263, § 8103(a)(4)(B)(i), struck out “flood control” after “nonstructural” in heading.
+Subsec. (c)(2). Pub. L. 117–263, § 8103(a)(4)(B)(i), struck out “flood control” after “nonstructural” in heading.
 
-Subsec. (c)(2)(A). Pub. L. 117–263, § 8103(a)(4)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The non-Federal interests shall pay 35 percent of the cost of any environmental restoration or nonstructural flood control project carried out under this section.”
+Subsec. (c)(2)(A). Pub. L. 117–263, § 8103(a)(4)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The non-Federal interests shall pay 35 percent of the cost of any environmental restoration or nonstructural flood control project carried out under this section.”
 
-Subsec. (c)(3). Pub. L. 117–263, § 8103(a)(4)(C), inserted “or hurricane and storm damage reduction” after “flood control” in heading and text, and substituted “section 2213 of this title, except that the non-Federal share of the cost to design and construct such a project benefitting an economically disadvantaged community (including economically disadvantaged communities located in urban and rural areas) shall be 10 percent” for “section 2213(a) of this title” in text.
+Subsec. (c)(3). Pub. L. 117–263, § 8103(a)(4)(C), inserted “or hurricane and storm damage reduction” after “flood control” in heading and text, and substituted “section 2213 of this title, except that the non-Federal share of the cost to design and construct such a project benefitting an economically disadvantaged community (including economically disadvantaged communities located in urban and rural areas) shall be 10 percent” for “section 2213(a) of this title” in text.
 
-Subsec. (d). Pub. L. 117–263, § 8103(a)(5), added subsec. (d) and struck out former subsec. (d) which related to project justification.
+Subsec. (d). Pub. L. 117–263, § 8103(a)(5), added subsec. (d) and struck out former subsec. (d) which related to project justification.
 
-Subsec. (e). Pub. L. 117–263, § 8103(a)(6), substituted “Areas for Examination” for “Priority areas” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (33) as subpars. (A) to (GG), respectively, of par. (1) and realigned margins, and added par. (2).
+Subsec. (e). Pub. L. 117–263, § 8103(a)(6), substituted “Areas for Examination” for “Priority areas” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (33) as subpars. (A) to (GG), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Subsec. (f). Pub. L. 117–263, § 8103(a)(7), (8), redesignated subsec. (h) as (f) and struck out former subsec. (f) which related to program review.
+Subsec. (f). Pub. L. 117–263, § 8103(a)(7), (8), redesignated subsec. (h) as (f) and struck out former subsec. (f) which related to program review.
 
-Subsec. (f)(2). Pub. L. 117–263, § 8103(a)(9), added par. (2) and struck out former par. (2) which related to projects exceeding $15,000,000.
+Subsec. (f)(2). Pub. L. 117–263, § 8103(a)(9), added par. (2) and struck out former par. (2) which related to projects exceeding $15,000,000.
 
-Subsec. (g). Pub. L. 117–263, § 8103(a)(7), (10), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not more than $30,000,000 may be expended by the United States on any single project under this section.”
+Subsec. (g). Pub. L. 117–263, § 8103(a)(7), (10), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not more than $30,000,000 may be expended by the United States on any single project under this section.”
 
-Subsec. (h). Pub. L. 117–263, § 8103(a)(8), redesignated subsec. (h) as (f).
+Subsec. (h). Pub. L. 117–263, § 8103(a)(8), redesignated subsec. (h) as (f).
 
-Subsec. (i). Pub. L. 117–263, § 8103(a)(7), struck out subsec. (i) which related to authorization of appropriations.
+Subsec. (i). Pub. L. 117–263, § 8103(a)(7), struck out subsec. (i) which related to authorization of appropriations.
 
-2007—Subsec. (e)(23). Pub. L. 110–114, § 5005(a)(1), struck out “and” at end.
+2007—Subsec. (e)(23). Pub. L. 110–114, § 5005(a)(1), struck out “and” at end.
 
-Subsec. (e)(29) to (33). Pub. L. 110–114, § 5005(a), added pars. (29) to (33).
+Subsec. (e)(29) to (33). Pub. L. 110–114, § 5005(a), added pars. (29) to (33).
 
-Subsec. (i)(1). Pub. L. 110–114, § 5005(b), substituted “section $20,000,000” for “section—
+Subsec. (i)(1). Pub. L. 110–114, § 5005(b), substituted “section $20,000,000” for “section—
 
 “(A) $20,000,000 for fiscal year 2001;
 
@@ -12207,7 +12207,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2333. Irrigation diversion protection and fisheries enhancement assistance
+### § 2333. Irrigation diversion protection and fisheries enhancement assistance
 
 **(a) In general**
 
@@ -12253,13 +12253,13 @@ This section does not authorize any construction activity.
 
 **(5)** the appropriate Federal role, if any, to encourage the use of those measures.
 
-(Pub. L. 106–53, title V, § 515, Aug. 17, 1999, 113 Stat. 344.)
+(Pub. L. 106–53, title V, § 515, Aug. 17, 1999, 113 Stat. 344.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Codification**
 
@@ -12271,11 +12271,11 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2334. Innovative technologies for watershed restoration
+### § 2334. Innovative technologies for watershed restoration
 
 The Secretary shall examine using, and, if appropriate, encourage the use of, innovative treatment technologies, including membrane technologies, for watershed and environmental restoration and protection projects involving water quality.
 
-(Pub. L. 106–53, title V, § 516, Aug. 17, 1999, 113 Stat. 344.)
+(Pub. L. 106–53, title V, § 516, Aug. 17, 1999, 113 Stat. 344.)
 
 **Editorial Notes**
 
@@ -12289,7 +12289,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2335. Coastal aquatic habitat management
+### § 2335. Coastal aquatic habitat management
 
 **(a) In general**
 
@@ -12311,7 +12311,7 @@ The non-Federal share of operation and maintenance costs for projects constructe
 
 There is authorized to be appropriated to carry out this section $7,000,000 for the period beginning with fiscal year 2000.
 
-(Pub. L. 106–53, title V, § 559, Aug. 17, 1999, 113 Stat. 354.)
+(Pub. L. 106–53, title V, § 559, Aug. 17, 1999, 113 Stat. 354.)
 
 **Editorial Notes**
 
@@ -12325,7 +12325,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2336. Abandoned and inactive noncoal mine restoration
+### § 2336. Abandoned and inactive noncoal mine restoration
 
 **(a) In general**
 
@@ -12355,13 +12355,13 @@ The Secretary may provide assistance to non-Federal and nonprofit entities to de
 
 There is authorized to be appropriated to carry out this section $50,000,000.
 
-(Pub. L. 106–53, title V, § 560, Aug. 17, 1999, 113 Stat. 354; Pub. L. 108–137, title I, § 118, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 110–114, title II, § 2025, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 116–260, div. AA, title III, § 302, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8390, Dec. 23, 2022, 136 Stat. 3831.)
+(Pub. L. 106–53, title V, § 560, Aug. 17, 1999, 113 Stat. 354; Pub. L. 108–137, title I, § 118, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 110–114, title II, § 2025, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 116–260, div. AA, title III, § 302, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8390, Dec. 23, 2022, 136 Stat. 3831.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title IV of the Act is classified generally to subchapter IV (§ 1231 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title IV of the Act is classified generally to subchapter IV (§ 1231 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 **Codification**
 
@@ -12369,11 +12369,11 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 **Amendments**
 
-2022—Subsec. (c). Pub. L. 117–263, § 8390(1), inserted “, on land held in trust by the Secretary of the Interior on behalf of, and for the benefit of, an Indian Tribe, or on restricted land of any Indian Tribe,” after “land owned by the United States”.
+2022—Subsec. (c). Pub. L. 117–263, § 8390(1), inserted “, on land held in trust by the Secretary of the Interior on behalf of, and for the benefit of, an Indian Tribe, or on restricted land of any Indian Tribe,” after “land owned by the United States”.
 
-Subsec. (e). Pub. L. 117–263, § 8390(2), substituted “Restoration” for “Rehabilitation” and “Albuquerque” for “Sacramento”.
+Subsec. (e). Pub. L. 117–263, § 8390(2), substituted “Restoration” for “Rehabilitation” and “Albuquerque” for “Sacramento”.
 
-Subsec. (f). Pub. L. 117–263, § 8390(3), substituted “$50,000,000” for “$30,000,000”.
+Subsec. (f). Pub. L. 117–263, § 8390(3), substituted “$50,000,000” for “$30,000,000”.
 
 2020—Subsec. (f). Pub. L. 116–260 substituted “$30,000,000” for “$20,000,000”.
 
@@ -12387,7 +12387,7 @@ Subsec. (f). Pub. L. 117–263, § 8390(3), substituted “$50,000,000” for 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 2337. Property protection program
+### § 2337. Property protection program
 
 **(a) In general**
 
@@ -12401,7 +12401,7 @@ In carrying out the program, the Secretary may provide rewards (including cash r
 
 There is authorized to be appropriated to carry out this section $500,000 for fiscal year 2001 and each fiscal year thereafter.
 
-(Pub. L. 106–541, title II, § 205, Dec. 11, 2000, 114 Stat. 2590.)
+(Pub. L. 106–541, title II, § 205, Dec. 11, 2000, 114 Stat. 2590.)
 
 **Editorial Notes**
 
@@ -12415,7 +12415,7 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2338. Reburial and conveyance authority
+### § 2338. Reburial and conveyance authority
 
 **(a) Definition of Indian tribe**
 
@@ -12443,7 +12443,7 @@ Subject to paragraph (2), notwithstanding any other provision of law, the Secret
 
 In carrying out paragraph (1), the Secretary shall retain any necessary right-of-way, easement, or other property interest that the Secretary determines to be necessary to carry out the authorized purposes of the project.
 
-(Pub. L. 106–541, title II, § 208, Dec. 11, 2000, 114 Stat. 2590.)
+(Pub. L. 106–541, title II, § 208, Dec. 11, 2000, 114 Stat. 2590.)
 
 **Editorial Notes**
 
@@ -12457,7 +12457,7 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2339. Assistance programs
+### § 2339. Assistance programs
 
 **(a) Conservation and recreation management**
 
@@ -12475,7 +12475,7 @@ The Secretary, to the maximum extent practicable, shall enter into cooperative a
 
 A cooperative agreement entered into under this section shall not be considered to be, or treated as being, a cooperative agreement to which chapter 63 of title 31 applies.
 
-(Pub. L. 106–541, title II, § 213, Dec. 11, 2000, 114 Stat. 2593; Pub. L. 113–121, title I, § 1047(e), June 10, 2014, 128 Stat. 1257; Pub. L. 114–322, title I, § 1101, Dec. 16, 2016, 130 Stat. 1632.)
+(Pub. L. 106–541, title II, § 213, Dec. 11, 2000, 114 Stat. 2593; Pub. L. 113–121, title I, § 1047(e), June 10, 2014, 128 Stat. 1257; Pub. L. 114–322, title I, § 1101, Dec. 16, 2016, 130 Stat. 1632.)
 
 **Editorial Notes**
 
@@ -12495,11 +12495,11 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2339a. Cooperative agreements with Indian tribes
+### § 2339a. Cooperative agreements with Indian tribes
 
 The Secretary may enter into a cooperative agreement with an Indian tribe (or a designated representative of an Indian tribe) to carry out authorized activities of the Corps of Engineers to protect fish, wildlife, water quality, and cultural resources.
 
-(Pub. L. 113–121, title I, § 1031(b), June 10, 2014, 128 Stat. 1233.)
+(Pub. L. 113–121, title I, § 1031(b), June 10, 2014, 128 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -12513,7 +12513,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2340. Revision of project partnership agreement; cost sharing
+### § 2340. Revision of project partnership agreement; cost sharing
 
 **(a) Federal allocation**
 
@@ -12527,7 +12527,7 @@ An increase in the maximum amount of Federal funds that may be allocated for a w
 
 The estimated Federal and non-Federal costs of water resources projects authorized to be carried out by the Secretary before, on, or after November 8, 2007, are for informational purposes only and shall not be interpreted as affecting the cost-sharing responsibilities established by law.
 
-(Pub. L. 110–114, title II, § 2008, Nov. 8, 2007, 121 Stat. 1073.)
+(Pub. L. 110–114, title II, § 2008, Nov. 8, 2007, 121 Stat. 1073.)
 
 **Editorial Notes**
 
@@ -12545,17 +12545,17 @@ Reference to partnership agreement deemed to be reference to cooperation agreeme
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2341. Expedited actions for emergency flood damage reduction
+### § 2341. Expedited actions for emergency flood damage reduction
 
 The Secretary shall expedite any authorized planning, design, and construction of any project for flood damage reduction for an area that, within the preceding 5 years, has been subject to flooding that resulted in the loss of life and caused damage of sufficient severity and magnitude to warrant a declaration of a major disaster by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-(Pub. L. 110–114, title II, § 2009, Nov. 8, 2007, 121 Stat. 1074.)
+(Pub. L. 110–114, title II, § 2009, Nov. 8, 2007, 121 Stat. 1074.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Codification**
 
@@ -12567,7 +12567,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2341a. Prioritization
+### § 2341a. Prioritization
 
 **(a) Prioritization of hurricane and storm damage risk reduction efforts**
 
@@ -12623,7 +12623,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(B)** a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
 
-(Pub. L. 113–121, title I, § 1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, § 1322(a), Dec. 16, 2016, 130 Stat. 1706.)
+(Pub. L. 113–121, title I, § 1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, § 1322(a), Dec. 16, 2016, 130 Stat. 1706.)
 
 **Editorial Notes**
 
@@ -12637,17 +12637,17 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 **Amendments**
 
-2016—Subsec. (a)(1)(C). Pub. L. 114–322, § 1322(a)(1)(A), inserted “restore or” before “prevent the loss”.
+2016—Subsec. (a)(1)(C). Pub. L. 114–322, § 1322(a)(1)(A), inserted “restore or” before “prevent the loss”.
 
-Subsec. (a)(2). Pub. L. 114–322, § 1322(a)(1)(B)(i), substituted “December 16, 2016” for “June 10, 2014” in introductory provisions.
+Subsec. (a)(2). Pub. L. 114–322, § 1322(a)(1)(B)(i), substituted “December 16, 2016” for “June 10, 2014” in introductory provisions.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 114–322, § 1322(a)(1)(B)(ii), struck out before semicolon at end “that—
+Subsec. (a)(2)(A)(ii). Pub. L. 114–322, § 1322(a)(1)(B)(ii), struck out before semicolon at end “that—
 
 “(I) have been authorized for more than 20 years but are less than 75 percent complete; or
 
 “(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report”.
 
-Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
+Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12655,7 +12655,7 @@ Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2341b. Prioritization of certain projects
+### § 2341b. Prioritization of certain projects
 
 The Secretary shall give priority to a project for flood risk management if—
 
@@ -12671,7 +12671,7 @@ The Secretary shall give priority to a project for flood risk management if—
 
 **(B)** that is at significant risk for catastrophic flooding.
 
-(Pub. L. 114–322, title I, § 1144, Dec. 16, 2016, 130 Stat. 1659.)
+(Pub. L. 114–322, title I, § 1144, Dec. 16, 2016, 130 Stat. 1659.)
 
 **Editorial Notes**
 
@@ -12685,7 +12685,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2341c. Criteria for funding environmental infrastructure projects
+### § 2341c. Criteria for funding environmental infrastructure projects
 
 **(a) In general**
 
@@ -12725,7 +12725,7 @@ The Secretary shall include the criteria developed under subsection (a) in the a
 
 For fiscal year 2022, and biennially thereafter, in conjunction with the President’s annual budget submission to Congress under section 1105(a) of title 31, the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that identifies the Secretary’s ranking of individual environmental assistance projects authorized by Congress for the Secretary to carry out, in accordance with the criteria developed under this section.
 
-(Pub. L. 116–260, div. AA, title I, § 137, Dec. 27, 2020, 134 Stat. 2650.)
+(Pub. L. 116–260, div. AA, title I, § 137, Dec. 27, 2020, 134 Stat. 2650.)
 
 **Editorial Notes**
 
@@ -12743,7 +12743,7 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 For definition of “economically disadvantaged community” as used in this section, see section 160 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2342. Access to water resource data
+### § 2342. Access to water resource data
 
 **(a) In general** Using available funds, the Secretary shall make publicly available, including on the Internet, all data in the custody of the Corps of Engineers on—
 
@@ -12763,7 +12763,7 @@ The Secretary shall ensure that data is made publicly available under subsection
 
 In carrying out this section, the Secretary may develop partnerships, including through cooperative agreements, with State, tribal, and local governments and other Federal agencies.
 
-(Pub. L. 110–114, title II, § 2017, Nov. 8, 2007, 121 Stat. 1077; Pub. L. 114–322, title I, § 1135, Dec. 16, 2016, 130 Stat. 1656.)
+(Pub. L. 110–114, title II, § 2017, Nov. 8, 2007, 121 Stat. 1077; Pub. L. 114–322, title I, § 1135, Dec. 16, 2016, 130 Stat. 1656.)
 
 **Editorial Notes**
 
@@ -12779,13 +12779,13 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 **Data Transparency**
 
-Pub. L. 116–260, div. AA, title I, § 158(b), Dec. 27, 2020, 134 Stat. 2662, provided that: “The Secretary [of the Army] shall prioritize making publicly available water resources data in the custody of the Corps of Engineers, as authorized by section 2017 of the Water Resources Development Act of 2007 (33 U.S.C. 2342).”
+Pub. L. 116–260, div. AA, title I, § 158(b), Dec. 27, 2020, 134 Stat. 2662, provided that: “The Secretary [of the Army] shall prioritize making publicly available water resources data in the custody of the Corps of Engineers, as authorized by section 2017 of the Water Resources Development Act of 2007 (33 U.S.C. 2342).”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2343. Independent peer review
+### § 2343. Independent peer review
 
 **(a) Project studies subject to independent peer review**
 
@@ -13009,13 +13009,13 @@ The term “affected State”, as used with respect to a water resources project
 
 The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
-(Pub. L. 110–114, title II, § 2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, § 1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, § 1141, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–286, § 4(a)(203), Dec. 27, 2022, 136 Stat. 4328; Pub. L. 118–272, div. A, title I, § 1122, Jan. 4, 2025, 138 Stat. 3015.)
+(Pub. L. 110–114, title II, § 2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, § 1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, § 1141, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–286, § 4(a)(203), Dec. 27, 2022, 136 Stat. 4328; Pub. L. 118–272, div. A, title I, § 1122, Jan. 4, 2025, 138 Stat. 3015.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(5)(A)(iv), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(5)(A)(iv), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Codification**
 
@@ -13029,17 +13029,17 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 2018—Subsec. (h)(2). Pub. L. 115–270 substituted “17 years” for “12 years”.
 
-2014—Subsec. (a)(3)(A)(i). Pub. L. 113–121, § 1044(a), substituted “$200,000,000” for “$45,000,000”.
+2014—Subsec. (a)(3)(A)(i). Pub. L. 113–121, § 1044(a), substituted “$200,000,000” for “$45,000,000”.
 
-Subsec. (b)(3), (4). Pub. L. 113–121, § 1044(b), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (b)(3), (4). Pub. L. 113–121, § 1044(b), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (c)(4). Pub. L. 113–121, § 1044(c), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.”
+Subsec. (c)(4). Pub. L. 113–121, § 1044(c), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review.”
 
-Subsec. (f)(2), (3). Pub. L. 113–121, § 1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
+Subsec. (f)(2), (3). Pub. L. 113–121, § 1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
 
-Subsec. (h)(2). Pub. L. 113–121, § 1044(e), substituted “12 years” for “7 years”.
+Subsec. (h)(2). Pub. L. 113–121, § 1044(e), substituted “12 years” for “7 years”.
 
-### § 2344. Safety assurance review
+### § 2344. Safety assurance review
 
 **(a) Projects subject to safety assurance review**
 
@@ -13085,7 +13085,7 @@ This section shall apply to any project in design or under construction on Novem
 
 Chapter 10 of title 5 shall not apply to a safety assurance review conducted under this section.
 
-(Pub. L. 110–114, title II, § 2035, Nov. 8, 2007, 121 Stat. 1091; Pub. L. 113–121, title III, § 3028, June 10, 2014, 128 Stat. 1305; Pub. L. 117–286, § 4(a)(204), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 110–114, title II, § 2035, Nov. 8, 2007, 121 Stat. 1091; Pub. L. 113–121, title III, § 3028, June 10, 2014, 128 Stat. 1305; Pub. L. 117–286, § 4(a)(204), Dec. 27, 2022, 136 Stat. 4328.)
 
 **Editorial Notes**
 
@@ -13105,7 +13105,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2345. Electronic submission and tracking of permit applications
+### § 2345. Electronic submission and tracking of permit applications
 
 **(a) Development of electronic system**
 
@@ -13195,7 +13195,7 @@ The requirements described in subsections (c), (d), and (e) shall apply to permi
 
 This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.
 
-(Pub. L. 110–114, title II, § 2040, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1134(a), Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, § 8226, Dec. 23, 2022, 136 Stat. 3764.)
+(Pub. L. 110–114, title II, § 2040, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1134(a), Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, § 8226, Dec. 23, 2022, 136 Stat. 3764.)
 
 **Editorial Notes**
 
@@ -13205,9 +13205,9 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 **Amendments**
 
-2022—Subsec. (f)(1). Pub. L. 117–263, § 8226(1), substituted “December 23, 2022” for “December 16, 2016”.
+2022—Subsec. (f)(1). Pub. L. 117–263, § 8226(1), substituted “December 23, 2022” for “December 16, 2016”.
 
-Subsec. (f)(2). Pub. L. 117–263, § 8226(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Not later than 180 days after the expiration of the deadline under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the measures implemented and barriers faced in carrying out this section.”
+Subsec. (f)(2). Pub. L. 117–263, § 8226(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Not later than 180 days after the expiration of the deadline under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the measures implemented and barriers faced in carrying out this section.”
 
 2016—Pub. L. 114–322 amended section generally. Prior to amendment, section related to electronic submission of permit applications.
 
@@ -13217,7 +13217,7 @@ Subsec. (f)(2). Pub. L. 117–263, § 8226(2), added par. (2) and struck out f
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2346. Project administration
+### § 2346. Project administration
 
 **(a) Project tracking**
 
@@ -13233,7 +13233,7 @@ The Secretary shall provide to the Library of Congress a copy of each final feas
 
 Each document described in paragraph (1) shall be made available to the public, and an electronic copy of each document shall be made permanently available to the public through the Internet.
 
-(Pub. L. 110–114, title II, § 2041, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1136(b), Dec. 16, 2016, 130 Stat. 1657.)
+(Pub. L. 110–114, title II, § 2041, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1136(b), Dec. 16, 2016, 130 Stat. 1657.)
 
 **Editorial Notes**
 
@@ -13251,7 +13251,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2346a. Real estate administrative fees
+### § 2346a. Real estate administrative fees
 
 **(a) In general**
 
@@ -13275,7 +13275,7 @@ Not later than 30 days after January 4, 2025, the Secretary shall initiate the d
 
 **(2)** any other relevant information on real estate administrative fees, including lists of real estate instruments requiring such fees, and methodologies used to set such fees.
 
-(Pub. L. 118–272, div. A, title I, § 1120, Jan. 4, 2025, 138 Stat. 3014.)
+(Pub. L. 118–272, div. A, title I, § 1120, Jan. 4, 2025, 138 Stat. 3014.)
 
 **Editorial Notes**
 
@@ -13289,7 +13289,7 @@ Section was enacted as part of the Water Resources Development Act of 2024, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 2347. Coordination and scheduling of Federal, State, and local actions
+### § 2347. Coordination and scheduling of Federal, State, and local actions
 
 **(a) Notice of intent**
 
@@ -13307,7 +13307,7 @@ The costs incurred by the Secretary to establish and carry out a schedule to con
 
 Not later than 3 years after November 8, 2007, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, local, and tribal permits for the construction of non-Federal projects for water supply, wastewater infrastructure, flood damage reduction, storm damage reduction, ecosystem restoration, and navigation.
 
-(Pub. L. 110–114, title II, § 2044, Nov. 8, 2007, 121 Stat. 1102.)
+(Pub. L. 110–114, title II, § 2044, Nov. 8, 2007, 121 Stat. 1102.)
 
 **Editorial Notes**
 
@@ -13319,7 +13319,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 **Local Government Reservoir Permit Review**
 
-Pub. L. 115–270, title I, § 1119, Oct. 23, 2018, 132 Stat. 3777, as amended by Pub. L. 116–260, div. AA, title III, § 343, Dec. 27, 2020, 134 Stat. 2715, provided that:
+Pub. L. 115–270, title I, § 1119, Oct. 23, 2018, 132 Stat. 3777, as amended by Pub. L. 116–260, div. AA, title III, § 343, Dec. 27, 2020, 134 Stat. 2715, provided that:
 
 > **“(a) In General.—** During the 10-year period after the date of enactment of this section [Oct. 23, 2018], the Secretary [of the Army] shall expedite review of applications for covered permits, if the permit applicant is a local governmental entity with jurisdiction over an area for which—
 
@@ -13339,7 +13339,7 @@ Pub. L. 115–270, title I, § 1119, Oct. 23, 2018, 132 Stat. 3777, as amended
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2347a. Determination of project completion
+### § 2347a. Determination of project completion
 
 **(a) In general**
 
@@ -13361,7 +13361,7 @@ On notification that a non-Federal interest has submitted an appeal under paragr
 
 An independent review carried out under subparagraph (A) shall be completed not later than 180 days after the date on which the Secretary receives an appeal from a non-Federal interest under paragraph (1).
 
-(Pub. L. 113–121, title I, § 1010, June 10, 2014, 128 Stat. 1217.)
+(Pub. L. 113–121, title I, § 1010, June 10, 2014, 128 Stat. 1217.)
 
 **Editorial Notes**
 
@@ -13375,7 +13375,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2347b. Purpose and need
+### § 2347b. Purpose and need
 
 **(a) Purpose and need statements**
 
@@ -13393,13 +13393,13 @@ No environmental impact statement or environmental assessment required under the
 
 A non-Federal interest may use the administrative appeals process described in part 331 of title 33, Code of Federal Regulations (or any succeeding regulation), in relation to a decision of the Secretary related to an application for a water storage project.
 
-(Pub. L. 115–270, title I, § 1126, Oct. 23, 2018, 132 Stat. 3779.)
+(Pub. L. 115–270, title I, § 1126, Oct. 23, 2018, 132 Stat. 3779.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -13411,7 +13411,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 2347c. Small water storage projects
+### § 2347c. Small water storage projects
 
 **(a) In general**
 
@@ -13479,7 +13479,7 @@ Not more than $65,000,000 in Federal funds may be made available to a small wate
 
 There is authorized to be appropriated to carry out this section $130,000,000 annually through fiscal year 2030.
 
-(Pub. L. 116–260, div. AA, title I, § 155, Dec. 27, 2020, 134 Stat. 2660.)
+(Pub. L. 116–260, div. AA, title I, § 155, Dec. 27, 2020, 134 Stat. 2660.)
 
 **Editorial Notes**
 
@@ -13493,7 +13493,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2348. Project acceleration
+### § 2348. Project acceleration
 
 **(a) Definitions** In this section:
 
@@ -13767,9 +13767,9 @@ As soon as practicable but not later than 45 days after the close of the public 
 
 **(2) Comment deadlines** The Federal lead agency shall establish the following deadlines for comment during the environmental review process for a project study:
 
-**(A) Draft environmental impact statements** For comments by Federal and States 1
+**(A) Draft environmental impact statements** For comments by Federal and States 1
 
-<sup>1</sup>  So in original. Probably should be “State”.
+<sup>1</sup> So in original. Probably should be “State”.
 
 agencies and the public on a draft environmental impact statement, a period of not more than 60 days after publication in the Federal Register of notice of the date of public availability of the draft environmental impact statement, unless—
 
@@ -13999,13 +13999,13 @@ The Secretary shall establish a program to measure and report on progress made t
 
 The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
 
-(Pub. L. 110–114, title II, § 2045, Nov. 8, 2007, 121 Stat. 1103; Pub. L. 113–121, title I, § 1005(a)(1), June 10, 2014, 128 Stat. 1199.)
+(Pub. L. 110–114, title II, § 2045, Nov. 8, 2007, 121 Stat. 1103; Pub. L. 113–121, title I, § 1005(a)(1), June 10, 2014, 128 Stat. 1199.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (2), (b)(1), (d)(1), (3)(A), (4)(B), (f)(1)(D)(i), (g)(5)(A), (h)(5)(B), and (j)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (2), (b)(1), (d)(1), (3)(A), (4)(B), (f)(1)(D)(i), (g)(5)(A), (h)(5)(B), and (j)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Water Resources Reform and Development Act of 2014, referred to in subsec. (h)(5)(C)(iii), is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 2201 of this title and Tables.
 
@@ -14023,7 +14023,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 2348a. NEPA reporting
+### § 2348a. NEPA reporting
 
 **(a) Definitions** In this section:
 
@@ -14077,13 +14077,13 @@ The Secretary shall carry out a process to track, and annually submit to the Com
 
 The Secretary shall make each annual report required under paragraph (1) publicly available (including on a publicly available website).
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8134, Dec. 23, 2022, 136 Stat. 3721.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8134, Dec. 23, 2022, 136 Stat. 3721.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -14095,25 +14095,25 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2349. Categorical exclusions in emergencies
+### § 2349. Categorical exclusions in emergencies
 
 For the repair, reconstruction, or rehabilitation of a water resources project that is in operation or under construction when damaged by an event or incident that results in a declaration by the President of a major disaster or emergency pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), the Secretary shall treat such repair, reconstruction, or rehabilitation activity as a class of action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations (or successor regulations), if the repair or reconstruction activity is—
 
-**(1)** in the same location with the same capacity, dimensions, and design as the original water resources project as before the declaration described in this section; 1
+**(1)** in the same location with the same capacity, dimensions, and design as the original water resources project as before the declaration described in this section; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
 **(2)** commenced within a 2-year period beginning on the date of a declaration described in this section.
 
-(Pub. L. 113–121, title I, § 1005(b), June 10, 2014, 128 Stat. 1212.)
+(Pub. L. 113–121, title I, § 1005(b), June 10, 2014, 128 Stat. 1212.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 This section, referred to in par. (1), means section 1005 of title I of Pub. L. 113–121, which amended this section and section 2348 of this title.
 
@@ -14127,7 +14127,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2350. Corrosion prevention
+### § 2350. Corrosion prevention
 
 **(a) In general**
 
@@ -14177,13 +14177,13 @@ To the greatest extent practicable, the Secretary shall encourage and incorporat
 
 **(2)** a description of the projects utilizing corrosion prevention activities, including which activities were undertaken.
 
-(Pub. L. 113–121, title I, § 1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, § 1142, Dec. 16, 2016, 130 Stat. 1658; Pub. L. 118–272, div. A, title I, § 1135, Jan. 4, 2025, 138 Stat. 3025.)
+(Pub. L. 113–121, title I, § 1033, June 10, 2014, 128 Stat. 1233; Pub. L. 114–322, title I, § 1142, Dec. 16, 2016, 130 Stat. 1658; Pub. L. 118–272, div. A, title I, § 1135, Jan. 4, 2025, 138 Stat. 3025.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Apprenticeship Act, referred to in subsec. (c)(3)(B)(ii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The National Apprenticeship Act, referred to in subsec. (c)(3)(B)(ii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 **Codification**
 
@@ -14201,7 +14201,7 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2351. Durability, sustainability, and resilience
+### § 2351. Durability, sustainability, and resilience
 
 In carrying out the activities of the Corps of Engineers, the Secretary, to the maximum extent practicable, shall encourage the use of durable and sustainable materials and resilient construction techniques that—
 
@@ -14215,7 +14215,7 @@ In carrying out the activities of the Corps of Engineers, the Secretary, to the 
 
 **(3)** have the absorptive capacity, adaptive capacity, and recoverability to withstand a potentially disruptive event.
 
-(Pub. L. 113–121, title III, § 3022, June 10, 2014, 128 Stat. 1301.)
+(Pub. L. 113–121, title III, § 3022, June 10, 2014, 128 Stat. 1301.)
 
 **Editorial Notes**
 
@@ -14229,11 +14229,11 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 2351a. Operation and maintenance of existing infrastructure
+### § 2351a. Operation and maintenance of existing infrastructure
 
 The Secretary shall improve the reliability, and operation and maintenance of, existing infrastructure of the Corps of Engineers, and, as necessary, improve its resilience to cyber-related threats.
 
-(Pub. L. 115–270, title I, § 1113, Oct. 23, 2018, 132 Stat. 3775.)
+(Pub. L. 115–270, title I, § 1113, Oct. 23, 2018, 132 Stat. 3775.)
 
 **Editorial Notes**
 
@@ -14247,7 +14247,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 2351b. Federal breakwaters and jetties
+### § 2351b. Federal breakwaters and jetties
 
 **(a) In general**
 
@@ -14267,7 +14267,7 @@ In carrying out repair or maintenance activity of a Federal jetty, pile dike, or
 
 **(B)** the pile dike has disconnected from an authorized navigation project as a result of a lack of such regular and routine Federal maintenance activity.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8101, Dec. 23, 2022, 136 Stat. 3695; Pub. L. 118–272, div. A, title I, § 1136, Jan. 4, 2025, 138 Stat. 3025.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8101, Dec. 23, 2022, 136 Stat. 3695; Pub. L. 118–272, div. A, title I, § 1136, Jan. 4, 2025, 138 Stat. 3025.)
 
 **Editorial Notes**
 
@@ -14277,9 +14277,9 @@ Section was enacted as part of the Water Resources Development Act of 2022, and 
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 1136(1), inserted “, pile dike,” after “jetty” in two places.
+2025—Subsec. (a). Pub. L. 118–272, § 1136(1), inserted “, pile dike,” after “jetty” in two places.
 
-Subsec. (b). Pub. L. 118–272, § 1136(1), inserted “, pile dike,” after “jetty” wherever appearing.
+Subsec. (b). Pub. L. 118–272, § 1136(1), inserted “, pile dike,” after “jetty” wherever appearing.
 
 Subsec. (b)(2). Pub. L. 118–272 substituted “if the Secretary” for “if—” and “(A) the Secretary”, “breakwater and—” for “breakwater; and”, redesignated former subpar. (B) as (A), and added subpar. (B).
 
@@ -14289,7 +14289,7 @@ Subsec. (b)(2). Pub. L. 118–272 substituted “if the Secretary” for “if�
 
 Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.
 
-### § 2352. Funding to process permits
+### § 2352. Funding to process permits
 
 **(a) Funding to process permits**
 
@@ -14381,7 +14381,7 @@ The Secretary shall make all active agreements to accept funds under this sectio
 
 **(B)** make each report received under subparagraph (A) available on a single publicly accessible Internet site.
 
-(Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212; Pub. L. 114–322, title I, § 1125, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1145, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, § 8135, Dec. 23, 2022, 136 Stat. 3722; Pub. L. 118–272, div. A, title I, § 1133, Jan. 4, 2025, 138 Stat. 3024.)
+(Pub. L. 106–541, title II, § 214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, § 114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, § 1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, § 1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, § 1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, § 2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, § 1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, § 1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, § 1006, June 10, 2014, 128 Stat. 1212; Pub. L. 114–322, title I, § 1125, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, § 1145, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, § 8135, Dec. 23, 2022, 136 Stat. 3722; Pub. L. 118–272, div. A, title I, § 1133, Jan. 4, 2025, 138 Stat. 3024.)
 
 **Editorial Notes**
 
@@ -14393,43 +14393,43 @@ Section was formerly classified as a note under section 2201 of this title.
 
 **Amendments**
 
-2025—Subsec. (a)(1)(D). Pub. L. 118–272, § 1133(1), added subpar. (D).
+2025—Subsec. (a)(1)(D). Pub. L. 118–272, § 1133(1), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 118–272, § 1133(2)(A), inserted “Indian Tribe,” after “public-utility company,” in two places.
+Subsec. (a)(2). Pub. L. 118–272, § 1133(2)(A), inserted “Indian Tribe,” after “public-utility company,” in two places.
 
-Subsec. (a)(2)(A). Pub. L. 118–272, § 1133(2)(B), inserted “, including an aquatic ecosystem restoration project” before period at end.
+Subsec. (a)(2)(A). Pub. L. 118–272, § 1133(2)(B), inserted “, including an aquatic ecosystem restoration project” before period at end.
 
-Subsec. (a)(4). Pub. L. 118–272, § 1133(3), struck out par. (4), which required the Comptroller General to carry out a followup study of the implementation of par. (2).
+Subsec. (a)(4). Pub. L. 118–272, § 1133(3), struck out par. (4), which required the Comptroller General to carry out a followup study of the implementation of par. (2).
 
 2022—Subsec. (a)(2). Pub. L. 117–263 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-2018—Subsec. (a)(3). Pub. L. 115–270, § 1145(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The authority provided under paragraph (2) to a public-utility company, natural gas company, or railroad carrier shall expire on the date that is 10 years after June 10, 2014.”
+2018—Subsec. (a)(3). Pub. L. 115–270, § 1145(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The authority provided under paragraph (2) to a public-utility company, natural gas company, or railroad carrier shall expire on the date that is 10 years after June 10, 2014.”
 
 Subsec. (a)(4), (5). Pub. L. 115–270 redesignated par. (5) as (4) and substituted “December 31, 2022” for “4 years after June 10, 2014” and “carry out a followup study” for “carry out a study”.
 
-2016—Subsec. (a)(1)(C). Pub. L. 114–322, § 1125(1), added subpar. (C).
+2016—Subsec. (a)(1)(C). Pub. L. 114–322, § 1125(1), added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 114–322, § 1125(2), substituted “, natural gas company, or railroad carrier” for “or natural gas company” and “, company, or carrier” for “or company”.
+Subsec. (a)(2). Pub. L. 114–322, § 1125(2), substituted “, natural gas company, or railroad carrier” for “or natural gas company” and “, company, or carrier” for “or company”.
 
-Subsec. (a)(3). Pub. L. 114–322, § 1125(3), substituted “, natural gas company, or railroad carrier” for “or natural gas company” and “10 years” for “7 years”.
+Subsec. (a)(3). Pub. L. 114–322, § 1125(3), substituted “, natural gas company, or railroad carrier” for “or natural gas company” and “10 years” for “7 years”.
 
-Subsec. (a)(5). Pub. L. 114–322, § 1125(4), substituted “, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws” for “and natural gas companies”.
+Subsec. (a)(5). Pub. L. 114–322, § 1125(4), substituted “, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws” for “and natural gas companies”.
 
-2014—Subsec. (a)(1), (2). Pub. L. 113–121, § 1006(1)(A), (B), substituted “Funding to process permits” for “In general” in subsec. heading, added par. (1), redesignated text of subsec. (a) as par. (2), inserted heading, and inserted “or a public-utility company or natural gas company” after “non-Federal public entity” and “or company” after “that entity”.
+2014—Subsec. (a)(1), (2). Pub. L. 113–121, § 1006(1)(A), (B), substituted “Funding to process permits” for “In general” in subsec. heading, added par. (1), redesignated text of subsec. (a) as par. (2), inserted heading, and inserted “or a public-utility company or natural gas company” after “non-Federal public entity” and “or company” after “that entity”.
 
-Subsec. (a)(3) to (5). Pub. L. 113–121, § 1006(1)(C), added pars. (3) to (5).
+Subsec. (a)(3) to (5). Pub. L. 113–121, § 1006(1)(C), added pars. (3) to (5).
 
-Subsecs. (d), (e). Pub. L. 113–121, § 1006(2), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which read as follows:
+Subsecs. (d), (e). Pub. L. 113–121, § 1006(2), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which read as follows:
 
 “(d) Public Availability.—The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.
 
 “(e) Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016.”
 
-2010—Subsec. (a). Pub. L. 111–315, § 1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.”
+2010—Subsec. (a). Pub. L. 111–315, § 1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.”
 
-Subsec. (b). Pub. L. 111–315, § 1(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.”
+Subsec. (b). Pub. L. 111–315, § 1(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.”
 
-Subsecs. (c) to (e). Pub. L. 111–315, § 1(2)–(4), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and, in subsec. (e), substituted “2016” for “2010”.
+Subsecs. (c) to (e). Pub. L. 111–315, § 1(2)–(4), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and, in subsec. (e), substituted “2016” for “2010”.
 
 2009—Subsec. (c). Pub. L. 111–120 substituted “2010” for “2009”.
 
@@ -14439,9 +14439,9 @@ Subsecs. (c) to (e). Pub. L. 111–315, § 1(2)–(4), added subsecs. (c) and 
 
 Pub. L. 109–209 substituted “December 31, 2006” for “March 31, 2006”.
 
-2005—Subsec. (a). Pub. L. 109–99, § 1(1), substituted “The” for “In fiscal years 2001 through 2005, the”.
+2005—Subsec. (a). Pub. L. 109–99, § 1(1), substituted “The” for “In fiscal years 2001 through 2005, the”.
 
-Subsec. (c). Pub. L. 109–99, § 1(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–99, § 1(2), added subsec. (c).
 
 2003—Subsec. (a). Pub. L. 108–137 substituted “2005” for “2003”.
 
@@ -14449,13 +14449,13 @@ Subsec. (c). Pub. L. 109–99, § 1(2), added subsec. (c).
 
 **Processing Timelines**
 
-Pub. L. 118–272, div. A, title I, § 1106, Jan. 4, 2025, 138 Stat. 3002, provided that: “Not later than 30 days after the end of each fiscal year, the Secretary [of the Army] shall ensure that the public website for the ‘permit finder’ of the Corps of Engineers accurately reflects the current status of permits for which funds have been contributed under section 214 of the Water Resources Development Act of 2000 (33 U.S.C. 2352).”
+Pub. L. 118–272, div. A, title I, § 1106, Jan. 4, 2025, 138 Stat. 3002, provided that: “Not later than 30 days after the end of each fiscal year, the Secretary [of the Army] shall ensure that the public website for the ‘permit finder’ of the Corps of Engineers accurately reflects the current status of permits for which funds have been contributed under section 214 of the Water Resources Development Act of 2000 (33 U.S.C. 2352).”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 2353. Structural health monitoring
+### § 2353. Structural health monitoring
 
 **(a) In general** The Secretary shall design and develop a structural health monitoring program to assess and improve the condition of infrastructure constructed and maintained by the Corps of Engineers, including research, design, and development of systems and frameworks for—
 
@@ -14473,7 +14473,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, s
 
 **(2)** consider models for maintenance and repair information, the development of degradation models for real-time measurements and environmental inputs, and research on qualitative inspection data as surrogate sensors.
 
-(Pub. L. 114–322, title I, § 1151, Dec. 16, 2016, 130 Stat. 1661.)
+(Pub. L. 114–322, title I, § 1151, Dec. 16, 2016, 130 Stat. 1661.)
 
 **Editorial Notes**
 
@@ -14487,7 +14487,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2353a. Aging infrastructure
+### § 2353a. Aging infrastructure
 
 **(a) Definitions** In this section:
 
@@ -14519,7 +14519,7 @@ The Secretary shall not require a non-Federal entity associated with a project u
 
 The Secretary is authorized to accept funds from an owner or operator of aging infrastructure, and may use such funds to carry out an enhanced inspection pursuant to a contract entered into with such owner or operator under this section.
 
-(Pub. L. 116–260, div. AA, title I, § 138, Dec. 27, 2020, 134 Stat. 2651.)
+(Pub. L. 116–260, div. AA, title I, § 138, Dec. 27, 2020, 134 Stat. 2651.)
 
 **Editorial Notes**
 
@@ -14533,7 +14533,7 @@ Section was enacted as part of the Water Resources Development Act of 2020, and 
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2354. Easements for electric, telephone, or broadband service facilities
+### § 2354. Easements for electric, telephone, or broadband service facilities
 
 **(a) Definition of water resources development project**
 
@@ -14547,13 +14547,13 @@ The Secretary may not collect consideration for an easement across water resourc
 
 Nothing in this section affects the authority of the Secretary under section 2695 of title 10 or under section 9701 of title 31 to collect funds to cover reasonable administrative expenses incurred by the Secretary.
 
-(Pub. L. 114–322, title I, § 1172, Dec. 16, 2016, 130 Stat. 1671.)
+(Pub. L. 114–322, title I, § 1172, Dec. 16, 2016, 130 Stat. 1671.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 **Codification**
 
@@ -14563,7 +14563,7 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 **Nonrecreation Outgrant Policy**
 
-Pub. L. 118–272, div. A, title I, § 1113, Jan. 4, 2025, 138 Stat. 3010, provided that:
+Pub. L. 118–272, div. A, title I, § 1113, Jan. 4, 2025, 138 Stat. 3010, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update the policy guidance of the Corps of Engineers for the evaluation and approval of nonrecreational real estate outgrant requests for the installation, on lands and waters operated and maintained by the Secretary, of infrastructure for the provision of broadband services.
 
@@ -14587,11 +14587,11 @@ Pub. L. 118–272, div. A, title I, § 1113, Jan. 4, 2025, 138 Stat. 3010, pro
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 2355. Prior project authorization
+### § 2355. Prior project authorization
 
 In any case in which a project under the jurisdiction of the Secretary is budgeted under a different business line than the business line under which the project was originally authorized, the Secretary shall ensure that the project is carried out in accordance with any requirements that apply to the business line under which the project was originally authorized.
 
-(Pub. L. 115–270, title I, § 1127, Oct. 23, 2018, 132 Stat. 3780.)
+(Pub. L. 115–270, title I, § 1127, Oct. 23, 2018, 132 Stat. 3780.)
 
 **Editorial Notes**
 
@@ -14605,7 +14605,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 2356. Project consultation
+### § 2356. Project consultation
 
 **(a) Reports required** Not later than 180 days after December 27, 2020, the Secretary shall submit the following reports:
 
@@ -14649,7 +14649,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall review, and s
 
 **(3)** cooperate with Indian Tribes to avoid, or otherwise find alternate solutions with respect to, such areas.
 
-(Pub. L. 116–260, div. AA, title I, § 112, Dec. 27, 2020, 134 Stat. 2625.)
+(Pub. L. 116–260, div. AA, title I, § 112, Dec. 27, 2020, 134 Stat. 2625.)
 
 **Editorial Notes**
 
@@ -14669,7 +14669,7 @@ Section was enacted as a part of the Water Resources Development Act of 2020, an
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 2357. Managed aquifer recharge study and working group
+### § 2357. Managed aquifer recharge study and working group
 
 **(a) Assessment**
 
@@ -14757,7 +14757,7 @@ The term “managed aquifer recharge” means the intentional banking and treatm
 
 The term “managed aquifer recharge project” means a project to incorporate managed aquifer recharge features into a water resources development project.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8108, Dec. 23, 2022, 136 Stat. 3700.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8108, Dec. 23, 2022, 136 Stat. 3700.)
 
 **Editorial Notes**
 

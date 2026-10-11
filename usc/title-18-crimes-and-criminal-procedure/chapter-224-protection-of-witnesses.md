@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–647, title XXXV, § 3581, Nov. 29, 1990, 104 Stat. 4929, substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
+1990—Pub. L. 101–647, title XXXV, § 3581, Nov. 29, 1990, 104 Stat. 4929, substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
 
-## § 3521. Witness relocation and protection
+## § 3521. Witness relocation and protection
 
 **(a)**
 
@@ -93,7 +93,7 @@ Each such memorandum of understanding shall also set forth the protection which 
 
 **(f)** The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, § 3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, § 115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, § 506(a)(7), Mar. 9, 2006, 120 Stat. 248.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, § 3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, § 115(a)(9), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 109–177, title V, § 506(a)(7), Mar. 9, 2006, 120 Stat. 248.)
 
 **Editorial Notes**
 
@@ -103,15 +103,15 @@ Each such memorandum of understanding shall also set forth the protection which 
 
 1997—Subsec. (b)(1)(H), (I). Pub. L. 105–119 added subpar. (H) and redesignated former subpar. (H) as (I).
 
-1990—Subsec. (b)(1). Pub. L. 101–647, § 3582(1), inserted “(G)” after “subparagraph” in last sentence.
+1990—Subsec. (b)(1). Pub. L. 101–647, § 3582(1), inserted “(G)” after “subparagraph” in last sentence.
 
-Subsec. (d)(3). Pub. L. 101–647, § 3582(2), inserted “the” before “Civil Rights Division”.
+Subsec. (d)(3). Pub. L. 101–647, § 3582(2), inserted “the” before “Civil Rights Division”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–119, title I, § 115(c), Nov. 26, 1997, 111 Stat. 2467, provided that:
+Pub. L. 105–119, title I, § 115(c), Nov. 26, 1997, 111 Stat. 2467, provided that:
 
 > “This section [amending this section, sections 3563, 3583, 4042, and 4209 of this title, and sections 14071 and 14072 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 951 of Title 10, Armed Forces, and section 14039 of Title 42, and amending provisions set out as a note under section 14071 of Title 42] shall take effect on the date of the enactment of this Act [Nov. 26, 1997], except that—
 
@@ -121,33 +121,33 @@ Pub. L. 105–119, title I, § 115(c), Nov. 26, 1997, 111 Stat. 2467, provided
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 1210, Oct. 12, 1984, 98 Stat. 2163, provided that: “This subpart [subpart A (§§ 1207–1210) of part F of chapter XII of title II of Pub. L. 98–473, see Short Title note below] and the amendments made by this subpart shall take effect on October 1, 1984.”
+Pub. L. 98–473, title II, § 1210, Oct. 12, 1984, 98 Stat. 2163, provided that: “This subpart [subpart A (§§ 1207–1210) of part F of chapter XII of title II of Pub. L. 98–473, see Short Title note below] and the amendments made by this subpart shall take effect on October 1, 1984.”
 
 **Short Title**
 
-Pub. L. 98–473, title II, § 1207, Oct. 12, 1984, 98 Stat. 2153, provided that: “This subpart [subpart A (§§ 1207–1210) of part F of chapter XII of title II of Pub. L. 98–473, enacting this chapter, repealing provisions set out as a note preceding section 3481 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Witness Security Reform Act of 1984’.”
+Pub. L. 98–473, title II, § 1207, Oct. 12, 1984, 98 Stat. 2153, provided that: “This subpart [subpart A (§§ 1207–1210) of part F of chapter XII of title II of Pub. L. 98–473, enacting this chapter, repealing provisions set out as a note preceding section 3481 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Witness Security Reform Act of 1984’.”
 
-## § 3522. Probationers and parolees
+## § 3522. Probationers and parolees
 
 **(a)** A probation officer may, upon the request of the Attorney General, supervise any person provided protection under this chapter who is on probation or parole under State law, if the State involved consents to such supervision. Any person so supervised shall be under Federal jurisdiction during the period of supervision and shall, during that period be subject to all laws of the United States which pertain to probationers or parolees, as the case may be.
 
 **(b)** The failure by any person provided protection under this chapter who is supervised under subsection (a) to comply with the memorandum of understanding entered into by that person pursuant to section 3521(d) of this title shall be grounds for the revocation of probation or parole, as the case may be.
 
-**(c)** The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with respect to a probationer or parolee transferred from State supervision pursuant to this section as they have with respect to an offender convicted in a court of the United States and paroled under chapter 311 1
+**(c)** The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with respect to a probationer or parolee transferred from State supervision pursuant to this section as they have with respect to an offender convicted in a court of the United States and paroled under chapter 311 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title. The provisions of sections 4201 through 4204, 4205(a), (e), and (h), 4206 through 4215, and 4218 1 of this title shall apply following a revocation of probation or parole under this section.
+of this title. The provisions of sections 4201 through 4204, 4205(a), (e), and (h), 4206 through 4215, and 4218 1 of this title shall apply following a revocation of probation or parole under this section.
 
 **(d)** If a person provided protection under this chapter who is on probation or parole and is supervised under subsection (a) of this section has been ordered by the State court which imposed sentence on the person to pay a sum of money to the victim of the offense involved for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be distributed to the victim.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157; amended Pub. L. 99–646, § 75, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, § 7072(b), Nov. 18, 1988, 102 Stat. 4405.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157; amended Pub. L. 99–646, § 75, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, § 7072(b), Nov. 18, 1988, 102 Stat. 4405.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, was repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, was repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
 **Amendments**
 
@@ -161,7 +161,7 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 
 Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
 
-## § 3523. Civil judgments
+## § 3523. Civil judgments
 
 **(a)** If a person provided protection under this chapter is named as a defendant in a civil cause of action arising prior to or during the period in which the protection is provided, process in the civil proceeding may be served upon that person or an agent designated by that person for that purpose. The Attorney General shall make reasonable efforts to serve a copy of the process upon the person protected at the person’s last known address. The Attorney General shall notify the plaintiff in the action whether such process has been served. If a judgment in such action is entered against that person the Attorney General shall determine whether the person has made reasonable efforts to comply with the judgment. The Attorney General shall take appropriate steps to urge the person to comply with the judgment. If the Attorney General determines that the person has not made reasonable efforts to comply with the judgment, the Attorney General may, after considering the danger to the person and upon the request of the person holding the judgment disclose the identity and location of the person to the plaintiff entitled to recovery pursuant to the judgment. Any such disclosure of the identity and location of the person shall be made upon the express condition that further disclosure by the plaintiff of such identity or location may be made only if essential to the plaintiff’s efforts to recover under the judgment, and only to such additional persons as is necessary to effect the recovery. Any such disclosure or nondisclosure by the Attorney General shall not subject the United States and its officers or employees to any civil liability.
 
@@ -183,7 +183,7 @@ Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as
 
 **(c)** The provisions of this section shall not apply to a court order to which section 3524 of this title applies.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2157.)
 
 **Editorial Notes**
 
@@ -197,7 +197,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(5), are set out
 
 Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
 
-## § 3524. Child custody arrangements
+## § 3524. Child custody arrangements
 
 **(a)** The Attorney General may not relocate any child in connection with protection provided to a person under this chapter if it appears that a person other than that protected person has legal custody of that child.
 
@@ -239,7 +239,7 @@ Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as
 
 **(i)** As used in this section, the term “parent” includes any person who stands in the place of a parent by law.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2159.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2159.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out
 
 Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
 
-## § 3525. Victims Compensation Fund
+## § 3525. Victims Compensation Fund
 
 **(a)** The Attorney General may pay restitution to, or in the case of death, compensation for the death of any victim of a crime that causes or threatens death or serious bodily injury and that is committed by any person during a period in which that person is provided protection under this chapter.
 
@@ -261,21 +261,21 @@ Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as
 
 **(c)** There are authorized to be appropriated for the fiscal year 1985 and for each fiscal year thereafter, $1,000,000 for payments under this section.
 
-**(d)** The Attorney General shall establish guidelines and procedures for making payments under this section. The payments to victims under this section shall be made for the types of expenses provided for in section 3579(b) 1
+**(d)** The Attorney General shall establish guidelines and procedures for making payments under this section. The payments to victims under this section shall be made for the types of expenses provided for in section 3579(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, except that in the case of the death of the victim, an amount not to exceed $50,000 may be paid to the victim’s estate. No payment may be made under this section to a victim unless the victim has sought restitution and compensation provided under Federal or State law or by civil action. Such payments may be made only to the extent the victim, or the victim’s estate, has not otherwise received restitution and compensation, including insurance payments, for the crime involved. Payments may be made under this section to victims of crimes occurring on or after the date of the enactment of this chapter.1 In the case of a crime occurring before the date of the enactment of this chapter,1 a payment may be made under this section only in the case of the death of the victim, and then only in an amount not exceeding $25,000, and such a payment may be made notwithstanding the requirements of the third sentence of this subsection.
 
 **(e)** Nothing in this section shall be construed to create a cause of action against the United States.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2162.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2162.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3579(b) of this title, referred to in subsec. (d), was renumbered section 3663(b) of this title by Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.
+Section 3579(b) of this title, referred to in subsec. (d), was renumbered section 3663(b) of this title by Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of Pub. L. 98–473, which was approved Oct. 12, 1984.
 
@@ -287,15 +287,15 @@ Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as
 
 **Restitution to Estate of Victims Killed Before October 12, 1984; Limitation**
 
-Pub. L. 99–180, title II, § 200, Dec. 13, 1985, 99 Stat. 1142, provided: “That restitution of not to exceed $25,000 shall be paid to the estate of victims killed before October 12, 1984 as a result of crimes committed by persons who have been enrolled in the Federal witness protection program, if such crimes were committed within two years after protection was terminated, notwithstanding any limitations contained in part (a) of section 3525 of title 18 of the United States Code.”
+Pub. L. 99–180, title II, § 200, Dec. 13, 1985, 99 Stat. 1142, provided: “That restitution of not to exceed $25,000 shall be paid to the estate of victims killed before October 12, 1984 as a result of crimes committed by persons who have been enrolled in the Federal witness protection program, if such crimes were committed within two years after protection was terminated, notwithstanding any limitations contained in part (a) of section 3525 of title 18 of the United States Code.”
 
 **Similar Provisions**
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 303.
+Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 303.
 
-## § 3526. Cooperation of other Federal agencies and State governments; reimbursement of expenses
+## § 3526. Cooperation of other Federal agencies and State governments; reimbursement of expenses
 
 **(a)** Each Federal agency shall cooperate with the Attorney General in carrying out the provisions of this chapter and may provide, on a reimbursable basis, such personnel and services as the Attorney General may request in carrying out those provisions.
 
@@ -305,7 +305,7 @@ Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 303.
 
 **(2)** the Attorney General shall enter into an agreement with that State government in which that government agrees to cooperate with the Attorney General in carrying out the provisions of this chapter with respect to all persons.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2162.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2162.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -313,11 +313,11 @@ Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 303.
 
 Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
 
-## § 3527. Additional authority of Attorney General
+## § 3527. Additional authority of Attorney General
 
 The Attorney General may enter into such contracts or other agreements as may be necessary to carry out this chapter. Any such contract or agreement which would result in the United States being obligated to make outlays may be entered into only to the extent and in such amount as may be provided in advance in an appropriation Act.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2163.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2163.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -325,11 +325,11 @@ The Attorney General may enter into such contracts or other agreements as may be
 
 Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under section 3521 of this title.
 
-## § 3528. Definition
+## § 3528. Definition
 
 For purposes of this chapter, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2163.)
+(Added Pub. L. 98–473, title II, § 1208, Oct. 12, 1984, 98 Stat. 2163.)
 
 **Statutory Notes and Related Subsidiaries**
 

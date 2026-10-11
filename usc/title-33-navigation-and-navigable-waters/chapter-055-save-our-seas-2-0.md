@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—SAVE OUR SEAS 2.0
 
-## § 4201. Definitions
+## § 4201. Definitions
 
 In this chapter:
 
@@ -41,9 +41,9 @@ The term “Interagency Marine Debris Coordinating Committee” means the Intera
 
 **(5) Marine debris**
 
-The term “marine debris” has the meaning given that term in section 1981 1
+The term “marine debris” has the meaning given that term in section 1981 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -85,7 +85,7 @@ The term “nonprofit organization” means an organization that is described in
 
 The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 116–224, § 2, Dec. 18, 2020, 134 Stat. 1073; Pub. L. 119–65, § 5(b), Dec. 26, 2025, 139 Stat. 1990.)
+(Pub. L. 116–224, § 2, Dec. 18, 2020, 134 Stat. 1073; Pub. L. 119–65, § 5(b), Dec. 26, 2025, 139 Stat. 1990.)
 
 **Editorial Notes**
 
@@ -93,7 +93,7 @@ The term “Under Secretary” means the Under Secretary of Commerce for Oceans 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1072, known as the Save Our Seas 2.0 Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Section 1981 of this title, referred to in par. (5), was in the original “section 7 of the Marine Debris Act”, and was translated as reading “section 131” of that Act to reflect the probable intent of Congress and the renumbering of section 7 as 131 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.
+Section 1981 of this title, referred to in par. (5), was in the original “section 7 of the Marine Debris Act”, and was translated as reading “section 131” of that Act to reflect the probable intent of Congress and the renumbering of section 7 as 131 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.
 
 **Amendments**
 
@@ -103,7 +103,7 @@ Section 1981 of this title, referred to in par. (5), was in the original “sect
 
 **Short Title**
 
-Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and section 1959 of this title and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”
+Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and section 1959 of this title and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”
 
 ## SUBCHAPTER I—COMBATING MARINE DEBRIS
 
@@ -113,15 +113,15 @@ Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “T
 
 **Codification**
 
-Subtitle B of title I of Pub. L. 116–224, comprising this part, was redesignated subtitle B of Pub. L. 109–449 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, and transferred to subchapter II (§ 1961 et seq.) of chapter 33A of this title.
+Subtitle B of title I of Pub. L. 116–224, comprising this part, was redesignated subtitle B of Pub. L. 109–449 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, and transferred to subchapter II (§ 1961 et seq.) of chapter 33A of this title.
 
-#### §§ 4211 to 4219. Transferred
+#### §§ 4211 to 4219. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 111 to 119 of Pub. L. 116–224, formerly classified to sections 4211 to 4219, respectively, of this title, were renumbered sections 111 to 119 of Pub. L. 109–449 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, and transferred to sections 1961 to 1969, respectively, of this title.
+Sections 111 to 119 of Pub. L. 116–224, formerly classified to sections 4211 to 4219, respectively, of this title, were renumbered sections 111 to 119 of Pub. L. 109–449 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, and transferred to sections 1961 to 1969, respectively, of this title.
 
 ### Part B—Genius Prize for Save Our Seas Innovations
 
@@ -129,19 +129,19 @@ Sections 111 to 119 of Pub. L. 116–224, formerly classified to sections 4211 t
 
 **Codification**
 
-Subtitle C of title I of Pub. L. 116–224, comprising this part, was redesignated subtitle C of Pub. L. 109–449 by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, and transferred to subchapter III (§ 1971 et seq.) of chapter 33A of this title.
+Subtitle C of title I of Pub. L. 116–224, comprising this part, was redesignated subtitle C of Pub. L. 109–449 by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, and transferred to subchapter III (§ 1971 et seq.) of chapter 33A of this title.
 
-#### §§ 4231 to 4237. Transferred
+#### §§ 4231 to 4237. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 121 to 127 of Pub. L. 116–224, formerly classified to sections 4231 to 4237, respectively, of this title, were renumbered sections 121 to 127 of Pub. L. 109–449 by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, and transferred to sections 1971 to 1977, respectively, of this title.
+Sections 121 to 127 of Pub. L. 116–224, formerly classified to sections 4231 to 4237, respectively, of this title, were renumbered sections 121 to 127 of Pub. L. 109–449 by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, and transferred to sections 1971 to 1977, respectively, of this title.
 
 ### Part C—Pilot Projects
 
-#### § 4251. Incentive for fishermen to collect and dispose of plastic found at sea
+#### § 4251. Incentive for fishermen to collect and dispose of plastic found at sea
 
 **(a) In general** The Under Secretary shall establish a pilot program to assess the feasibility and advisability of providing incentives, such as grants, to fishermen based in the United States who incidentally capture marine debris while at sea—
 
@@ -157,11 +157,11 @@ Sections 121 to 127 of Pub. L. 116–224, formerly classified to sections 4231 t
 
 **(3)** prevention of the loss of such gear.
 
-(Pub. L. 116–224, title I, § 137, Dec. 18, 2020, 134 Stat. 1086.)
+(Pub. L. 116–224, title I, § 137, Dec. 18, 2020, 134 Stat. 1086.)
 
 ## SUBCHAPTER II—ENHANCED GLOBAL ENGAGEMENT TO COMBAT MARINE DEBRIS
 
-### § 4261. Statement of policy on international cooperation to combat marine debris
+### § 4261. Statement of policy on international cooperation to combat marine debris
 
 It is the policy of the United States to partner, consult, and coordinate with foreign governments (at the national and subnational levels), civil society, international organizations, international financial institutions, subnational coastal communities, commercial and recreational fishing industry leaders, and the private sector, in a concerted effort—
 
@@ -201,9 +201,9 @@ It is the policy of the United States to partner, consult, and coordinate with f
 
 **(D)** to share best practices in post-consumer materials management systems to prevent the entry of plastic waste into the environment.
 
-(Pub. L. 116–224, title II, § 201, Dec. 18, 2020, 134 Stat. 1086.)
+(Pub. L. 116–224, title II, § 201, Dec. 18, 2020, 134 Stat. 1086.)
 
-### § 4262. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management
+### § 4262. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management
 
 **(a) In general** The Secretary of State shall, in coordination with the Administrator of the United States Agency for International Development, as appropriate, and the officials specified in subsection (b)—
 
@@ -279,9 +279,9 @@ In prioritizing and expediting efforts and assistance under this section, the of
 
 Nothing in this section may be construed to authorize the modification of or the imposition of limits on the portfolios of any agency or institution led by an official specified in subsection (b).
 
-(Pub. L. 116–224, title II, § 202, Dec. 18, 2020, 134 Stat. 1087.)
+(Pub. L. 116–224, title II, § 202, Dec. 18, 2020, 134 Stat. 1087.)
 
-### § 4263. United States leadership in international FORA
+### § 4263. United States leadership in international FORA
 
 In implementing the policy described in section 4261 of this title, the President shall direct the United States representatives to appropriate international bodies and conferences (including the United Nations Environment Programme, the Association of Southeast Asian Nations, the Asia Pacific Economic Cooperation, the Group of 7, the Group of 20, the Organization for Economic Co-Operation and Development (OECD), and the Our Ocean Conference) to use the voice, vote, and influence of the United States, consistent with the broad foreign policy goals of the United States, to advocate that each such body—
 
@@ -351,9 +351,9 @@ In implementing the policy described in section 4261 of this title, the Presiden
 
 **(iv)** marine debris.
 
-(Pub. L. 116–224, title II, § 203, Dec. 18, 2020, 134 Stat. 1089.)
+(Pub. L. 116–224, title II, § 203, Dec. 18, 2020, 134 Stat. 1089.)
 
-### § 4264. Enhancing international outreach and partnership of United States agencies involved in marine debris activities
+### § 4264. Enhancing international outreach and partnership of United States agencies involved in marine debris activities
 
 **(a) Findings**
 
@@ -363,9 +363,9 @@ Congress recognizes the success of the marine debris program of the National Oce
 
 The Under Secretary and the EPA Administrator shall work with the Secretary of State and the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris.
 
-(Pub. L. 116–224, title II, § 204, Dec. 18, 2020, 134 Stat. 1091.)
+(Pub. L. 116–224, title II, § 204, Dec. 18, 2020, 134 Stat. 1091.)
 
-### § 4265. Consideration of marine debris in negotiating international agreements
+### § 4265. Consideration of marine debris in negotiating international agreements
 
 In negotiating any relevant international agreement with any country or countries after December 18, 2020, the President shall, as appropriate—
 
@@ -373,11 +373,11 @@ In negotiating any relevant international agreement with any country or countrie
 
 **(2)** ensure that the agreement strengthens efforts to eliminate land-based sources of plastic waste and other solid waste from that country that impact the marine and aquatic environment.
 
-(Pub. L. 116–224, title II, § 206, Dec. 18, 2020, 134 Stat. 1091.)
+(Pub. L. 116–224, title II, § 206, Dec. 18, 2020, 134 Stat. 1091.)
 
 ## SUBCHAPTER III—IMPROVING DOMESTIC INFRASTRUCTURE TO PREVENT MARINE DEBRIS
 
-### § 4281. Strategy for improving post-consumer materials management and water management
+### § 4281. Strategy for improving post-consumer materials management and water management
 
 **(a) In general**
 
@@ -393,9 +393,9 @@ Not later than 1 year after December 18, 2020, the EPA Administrator shall, in c
 
 **(B)** other nongovernmental entities.
 
-(Pub. L. 116–224, title III, § 301, Dec. 18, 2020, 134 Stat. 1092.)
+(Pub. L. 116–224, title III, § 301, Dec. 18, 2020, 134 Stat. 1092.)
 
-### § 4282. Grant programs
+### § 4282. Grant programs
 
 **(a) Post-consumer materials management infrastructure grant program**
 
@@ -489,18 +489,18 @@ A grant under this section may not be used (directly or indirectly) as a source 
 
 **(g) Authorization of appropriations** There are authorized to be appropriated—
 
-**(1)** for the program described 1
+**(1)** for the program described 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 subsection (a), $55,000,000 for each of fiscal years 2021 through 2025; and
 
-**(2)** for each of the programs described <sup>1</sup> subsections (b), (c), and (d), $10,000,000 for each of fiscal years 2021 through 2025.
+**(2)** for each of the programs described <sup>1</sup> subsections (b), (c), and (d), $10,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 116–224, title III, § 302, Dec. 18, 2020, 134 Stat. 1092.)
+(Pub. L. 116–224, title III, § 302, Dec. 18, 2020, 134 Stat. 1092.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (e)(3), is act June 30, 1948, ch. 758. Title VI of the Act, as added by Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22, is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (e)(3), is act June 30, 1948, ch. 758. Title VI of the Act, as added by Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22, is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.

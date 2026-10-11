@@ -25,31 +25,31 @@ This section amends the analysis of chapter 161 of title 28, U.S.C., to conform 
 
 **Amendments**
 
-1980—Pub. L. 96–481, title II, § 204(b), Oct. 21, 1980, 94 Stat. 2329, substituted “Costs and fees” for “Costs” in item 2412.
+1980—Pub. L. 96–481, title II, § 204(b), Oct. 21, 1980, 94 Stat. 2329, substituted “Costs and fees” for “Costs” in item 2412.
 
-1976—Pub. L. 94–381, § 6, Aug. 12, 1976, 90 Stat. 1120, inserted “or a State” after “United States” in item 2403.
+1976—Pub. L. 94–381, § 6, Aug. 12, 1976, 90 Stat. 1120, inserted “or a State” after “United States” in item 2403.
 
-1972—Pub. L. 92–562, § 3(b), Oct. 25, 1972, 86 Stat. 1177, added item 2409a.
+1972—Pub. L. 92–562, § 3(b), Oct. 25, 1972, 86 Stat. 1177, added item 2409a.
 
-1966—Pub. L. 89–505, § 2, July 18, 1966, 80 Stat. 305, added items 2415 and 2416.
+1966—Pub. L. 89–505, § 2, July 18, 1966, 80 Stat. 305, added items 2415 and 2416.
 
-1961—Pub. L. 87–187, § 2, Aug. 30, 1961, 75 Stat. 416, substituted “and compromise settlements” for “against the United States” in item 2414.
+1961—Pub. L. 87–187, § 2, Aug. 30, 1961, 75 Stat. 416, substituted “and compromise settlements” for “against the United States” in item 2414.
 
-1954—Act July 30, 1954, ch. 648, § 2(b), 68 Stat. 589, struck out “denied” in item 2402.
+1954—Act July 30, 1954, ch. 648, § 2(b), 68 Stat. 589, struck out “denied” in item 2402.
 
-1949—Act May 24, 1949, ch. 139, § 118, 63 Stat. 105, substituted “Interest” for “Interest on judgments against United States” in item 2411.
+1949—Act May 24, 1949, ch. 139, § 118, 63 Stat. 105, substituted “Interest” for “Interest on judgments against United States” in item 2411.
 
-## § 2401. Time for commencing action against United States
+## § 2401. Time for commencing action against United States
 
 **(a)** Except as provided by chapter 71 of title 41, every civil action commenced against the United States shall be barred unless the complaint is filed within six years after the right of action first accrues. The action of any person under legal disability or beyond the seas at the time the claim accrues may be commenced within three years after the disability ceases.
 
 **(b)** A tort claim against the United States shall be forever barred unless it is presented in writing to the appropriate Federal agency within two years after such claim accrues or unless action is begun within six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the agency to which it was presented.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, § 1, 63 Stat. 62; Pub. L. 86–238, § 1(3), Sept. 8, 1959, 73 Stat. 472; Pub. L. 89–506, § 7, July 18, 1966, 80 Stat. 307; Pub. L. 95–563, § 14(b), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 111–350, § 5(g)(8), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, § 1, 63 Stat. 62; Pub. L. 86–238, § 1(3), Sept. 8, 1959, 73 Stat. 472; Pub. L. 89–506, § 7, July 18, 1966, 80 Stat. 307; Pub. L. 95–563, § 14(b), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 111–350, § 5(g)(8), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(20), 942 (Mar. 3, 1911, ch. 231, § 24, part 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, § 420, 60 Stat. 845).
+Based on title 28, U.S.C., 1940 ed., §§ 41(20), 942 (Mar. 3, 1911, ch. 231, § 24, part 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, § 420, 60 Stat. 845).
 
 Section consolidates provision in section 41(20) of title 28, U.S.C., 1940 ed., as to time limitation for bringing actions against the United States under section 1346(a) of this title, with section 942 of said title 28.
 
@@ -95,21 +95,21 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 Amendment by Pub. L. 89–506 applicable to claims accruing six months or more after July 18, 1966, see section 10 of Pub. L. 89–506, set out as a note under section 2672 of this title.
 
-## § 2402. Jury trial in actions against United States
+## § 2402. Jury trial in actions against United States
 
 Subject to chapter 179 of this title, any action against the United States under section 1346 shall be tried by the court without a jury, except that any action against the United States under section 1346(a)(1) shall, at the request of either party to such action, be tried by the court with a jury.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; July 30, 1954, ch. 648, § 2(a), 68 Stat. 589; Pub. L. 104–331, § 3(b)(3), Oct. 26, 1996, 110 Stat. 4069.)
+(June 25, 1948, ch. 646, 62 Stat. 971; July 30, 1954, ch. 648, § 2(a), 68 Stat. 589; Pub. L. 104–331, § 3(b)(3), Oct. 26, 1996, 110 Stat. 4069.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a) (Mar. 3, 1911, ch. 231, § 24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a) (Mar. 3, 1911, ch. 231, § 24, par. 20, 36 Stat. 1093; Nov. 23, 1921, ch. 136, § 1310(c), 42 Stat. 311; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), 43 Stat. 348; Feb. 24, 1925, ch. 309, 43 Stat. 972; Feb. 26, 1926, ch. 27, §§ 1122(c), 1200, 44 Stat. 121, 125; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
 
 Section consolidates non-jury provisions of sections 41(20) and 931(a) of title 28, U.S.C., 1940 ed. For other provisions of said section 931(a) relating to tort claims, see Distribution Table.
 
 Word “actions” was substituted for “suits”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
-Provisions of title 28, U.S.C., 1940 ed., § 41(20) relating to jurisdiction of district courts and time for bringing actions against the United States are the basis of sections 1346 and 2401 of this title.
+Provisions of title 28, U.S.C., 1940 ed., § 41(20) relating to jurisdiction of district courts and time for bringing actions against the United States are the basis of sections 1346 and 2401 of this title.
 
 **Editorial Notes**
 
@@ -125,17 +125,17 @@ Provisions of title 28, U.S.C., 1940 ed., § 41(20) relating to jurisdiction o
 
 Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as an Effective Date note under section 1296 of this title.
 
-## § 2403. Intervention by United States or a State; constitutional question
+## § 2403. Intervention by United States or a State; constitutional question
 
 **(a)** In any action, suit or proceeding in a court of the United States to which the United States or any agency, officer or employee thereof is not a party, wherein the constitutionality of any Act of Congress affecting the public interest is drawn in question, the court shall certify such fact to the Attorney General, and shall permit the United States to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The United States shall, subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
 
 **(b)** In any action, suit, or proceeding in a court of the United States to which a State or any agency, officer, or employee thereof is not a party, wherein the constitutionality of any statute of that State affecting the public interest is drawn in question, the court shall certify such fact to the attorney general of the State, and shall permit the State to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The State shall, subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; Pub. L. 94–381, § 5, Aug. 12, 1976, 90 Stat. 1120.)
+(June 25, 1948, ch. 646, 62 Stat. 971; Pub. L. 94–381, § 5, Aug. 12, 1976, 90 Stat. 1120.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 401 (Aug. 24, 1937, ch. 754, § 1, 50 Stat. 751).
+Based on title 28, U.S.C., 1940 ed., § 401 (Aug. 24, 1937, ch. 754, § 1, 50 Stat. 751).
 
 Word “action” was added before “suit or proceeding”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -149,9 +149,9 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1976—Pub. L. 94–381, § 5(b), inserted “or a State” after “United States” in section catchline.
+1976—Pub. L. 94–381, § 5(b), inserted “or a State” after “United States” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 94–381, § 5(a), designated existing provisions as subsec. (a) and added subsec. (b).
+Subsecs. (a), (b). Pub. L. 94–381, § 5(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,7 +159,7 @@ Subsecs. (a), (b). Pub. L. 94–381, § 5(a), designated existing provisions a
 
 Amendment by Pub. L. 94–381 not applicable to any action commenced on or before Aug. 12, 1976, see section 7 of Pub. L. 94–381, set out as a note under section 2284 of this title.
 
-## § 2404. Death of defendant in damage action
+## § 2404. Death of defendant in damage action
 
 A civil action for damages commenced by or on behalf of the United States or in which it is interested shall not abate on the death of a defendant but shall survive and be enforceable against his estate as well as against surviving defendants.
 
@@ -167,13 +167,13 @@ A civil action for damages commenced by or on behalf of the United States or in 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 780a (June 16, 1933, ch. 103, 48 Stat. 311).
+Based on title 28, U.S.C., 1940 ed., § 780a (June 16, 1933, ch. 103, 48 Stat. 311).
 
 Substitution of parties, see rule 25(a) of the Federal Rules of Civil Procedure.
 
 Changes in phraseology were made.
 
-## § 2405. Garnishment
+## § 2405. Garnishment
 
 In any action or suit commenced by the United States against a corporation for the recovery of money upon a bill, note, or other security, the debtors of the corporation may be summoned as garnishees. Any person so summoned shall appear in open court and depose in writing to the amount of his indebtedness to the corporation at the time of the service of the summons and at the time of making the deposition, and judgment may be entered in favor of the United States for the sum admitted by the garnishee to be due the corporation as if it had been due the United States. A judgment shall not be entered against any garnishee until after judgment has been rendered against the corporation, nor until the sum in which the garnishee is indebted is actually due.
 
@@ -185,19 +185,19 @@ Any garnishee who fails to appear at the term to which he is summoned shall be s
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 748, 749, and 750 (R.S. §§ 935, 936, 937).
+Based on title 28, U.S.C., 1940 ed., §§ 748, 749, and 750 (R.S. §§ 935, 936, 937).
 
 Changes were made in phraseology.
 
-## § 2406. Credits in actions by United States; prior disallowance
+## § 2406. Credits in actions by United States; prior disallowance
 
 In an action by the United States against an individual, evidence supporting the defendant’s claim for a credit shall not be admitted unless he first proves that such claim has been disallowed, in whole or in part, by the Government Accountability Office, or that he has, at the time of the trial, obtained possession of vouchers not previously procurable and has been prevented from presenting such claim to the Government Accountability Office by absence from the United States or unavoidable accident.
 
-(June 25, 1948, ch. 646, 62 Stat. 972; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 646, 62 Stat. 972; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 774 (R.S., §§ 236, 951; June 10, 1921, ch. 18, §§ 304, 305, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., § 774 (R.S., §§ 236, 951; June 10, 1921, ch. 18, §§ 304, 305, 42 Stat. 24).
 
 Word “action” was substituted for “suits”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -211,7 +211,7 @@ Changes in phraseology were made.
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-## § 2407. Delinquents for public money; judgment at return term; continuance
+## § 2407. Delinquents for public money; judgment at return term; continuance
 
 In an action by the United States against any person accountable for public money who fails to pay into the Treasury the sum reported due the United States, upon the adjustment of his account the court shall grant judgment upon motion unless a continuance is granted as specified in this section.
 
@@ -219,11 +219,11 @@ A continuance may be granted if the defendant, in open court and in the presence
 
 A continuance may also be granted if such an action is commenced on a bond or other sealed instrument and the court requires the original instrument to be produced.
 
-(June 25, 1948, ch. 646, 62 Stat. 972; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 646, 62 Stat. 972; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 781 (R.S. § 957; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., § 781 (R.S. § 957; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Word “action” was substituted for “suit”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -237,7 +237,7 @@ Changes were made in phraseology.
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in second par.
 
-## § 2408. Security not required of United States
+## § 2408. Security not required of United States
 
 Security for damages or costs shall not be required of the United States, any department or agency thereof or any party acting under the direction of any such department or agency on the issuance of process or the institution or prosecution of any proceeding.
 
@@ -247,7 +247,7 @@ Costs taxable, under other Acts of Congress, against the United States or any su
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 870 (R.S. § 1001; Mar. 3, 1911, ch. 231, §§ 117, 289, 36 Stat. 1131, 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 19, 1934, ch. 653, § 7, 48 Stat. 1109).
+Based on title 28, U.S.C., 1940 ed., § 870 (R.S. § 1001; Mar. 3, 1911, ch. 231, §§ 117, 289, 36 Stat. 1131, 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 19, 1934, ch. 653, § 7, 48 Stat. 1109).
 
 Section 870 of title 28, U.S.C., 1940 ed., applied only to the Supreme Court and district courts. The revised section applies to all courts.
 
@@ -257,7 +257,7 @@ Word “agency” was substituted for “any corporation all the stock of which 
 
 Changes were made in phraseology.
 
-## § 2409. Partition actions involving United States
+## § 2409. Partition actions involving United States
 
 Any civil action by any tenant in common or joint tenant owning an undivided interest in lands, where the United States is one of such tenants in common or joint tenants, against the United States alone or against the United States and any other of such owners, shall proceed, and be determined, in the same manner as would a similar action between private persons.
 
@@ -267,7 +267,7 @@ Whenever in such action the court orders a sale of the property or any part ther
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 766 (May 17, 1898, ch. 339, §§ 1, 2, 30 Stat. 416).
+Based on title 28, U.S.C., 1940 ed., § 766 (May 17, 1898, ch. 339, §§ 1, 2, 30 Stat. 416).
 
 Provisions relating to service or commencement of the action and duty of United States attorneys to appear, defend, and file answer were omitted as surplusage and covered by Rules 2, 3, and 4 of the Federal Rules of Civil Procedure and section 507 of this title.
 
@@ -275,7 +275,7 @@ Words “shall proceed, and be determined, in the same manner as would a similar
 
 Changes were made in phraseology.
 
-## § 2409a. Real property quiet title actions
+## § 2409a. Real property quiet title actions
 
 **(a)** The United States may be named as a party defendant in a civil action under this section to adjudicate a disputed title to real property in which the United States claims an interest, other than a security interest or water rights. This section does not apply to trust or restricted Indian lands, nor does it apply to or affect actions which may be or could have been brought under sections 1346, 1347, 1491, or 2410 of this title, sections 7424, 7425, or 7426 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 7424, 7425, and 7426), or section 208 of the Act of July 10, 1952 (43 U.S.C. 666).
 
@@ -309,7 +309,7 @@ Changes were made in phraseology.
 
 **(n)** Nothing in this section shall be construed to permit suits against the United States based upon adverse possession.
 
-(Added Pub. L. 92–562, § 3(a), Oct. 25, 1972, 86 Stat. 1176; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–598, Nov. 4, 1986, 100 Stat. 3351.)
+(Added Pub. L. 92–562, § 3(a), Oct. 25, 1972, 86 Stat. 1176; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–598, Nov. 4, 1986, 100 Stat. 3351.)
 
 **Editorial Notes**
 
@@ -321,13 +321,13 @@ Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsecs. (c) to (n). Pub. L. 99–598 added subsecs. (c) and (h) to (m), redesignated former subsecs. (c), (d), (e), (f), and (g) as (d), (e), (f), (g), and (n), respectively, and inserted “, except for an action brought by a State,” in subsec. (g).
+Subsecs. (c) to (n). Pub. L. 99–598 added subsecs. (c) and (h) to (m), redesignated former subsecs. (c), (d), (e), (f), and (g) as (d), (e), (f), (g), and (n), respectively, and inserted “, except for an action brought by a State,” in subsec. (g).
 
 **Short Title**
 
 This section is popularly known as the “Quiet Title Act”.
 
-## § 2410. Actions affecting property on which United States has lien
+## § 2410. Actions affecting property on which United States has lien
 
 **(a)** Under the conditions prescribed in this section and section 1444 of this title for the protection of the United States, the United States may be named a party in any civil action or suit in any district court, or in any State court having jurisdiction of the subject matter—
 
@@ -357,13 +357,13 @@ real or personal property on which the United States has or claims a mortgage or
 
 **(e)** Whenever any person has a lien upon any real or personal property, duly recorded in the jurisdiction in which the property is located, and a junior lien, other than a tax lien, in favor of the United States attaches to such property, such person may make a written request to the officer charged with the administration of the laws in respect of which the lien of the United States arises, to have the same extinguished. If after appropriate investigation, it appears to such officer that the proceeds from the sale of the property would be insufficient to wholly or partly satisfy the lien of the United States, or that the claim of the United States has been satisfied or by lapse of time or otherwise has become unenforceable, such officer may issue a certificate releasing the property from such lien.
 
-(June 25, 1948, ch. 646, 62 Stat. 972; May 24, 1949, ch. 139, § 119, 63 Stat. 105; Pub. L. 85–508, § 12(h), July 7, 1958, 72 Stat. 348; Pub. L. 86–507, § 1(20), June 11, 1960, 74 Stat. 201; Pub. L. 89–719, title II, § 201, Nov. 2, 1966, 80 Stat. 1147; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXVI, § 3630, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–316, title I, § 114, Oct. 19, 1996, 110 Stat. 3834.)
+(June 25, 1948, ch. 646, 62 Stat. 972; May 24, 1949, ch. 139, § 119, 63 Stat. 105; Pub. L. 85–508, § 12(h), July 7, 1958, 72 Stat. 348; Pub. L. 86–507, § 1(20), June 11, 1960, 74 Stat. 201; Pub. L. 89–719, title II, § 201, Nov. 2, 1966, 80 Stat. 1147; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXVI, § 3630, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–316, title I, § 114, Oct. 19, 1996, 110 Stat. 3834.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 901, 902, 904, 905 (Mar. 4, 1931, ch. 515, §§ 1, 2, 4, 5, 46 Stat. 1528, 1529; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; June 6, 1940, ch. 242, 54 Stat. 234; Dec. 2, 1942, ch. 656, §§ 1–3, 56 Stat. 1026).
+Based on title 28, U.S.C., 1940 ed., §§ 901, 902, 904, 905 (Mar. 4, 1931, ch. 515, §§ 1, 2, 4, 5, 46 Stat. 1528, 1529; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; June 6, 1940, ch. 242, 54 Stat. 234; Dec. 2, 1942, ch. 656, §§ 1–3, 56 Stat. 1026).
 
 Provisions including the districts of Hawaii and Puerto Rico, and the District Court of the United States for the District of Columbia, in section 901 of title 28, U.S.C., 1940 ed., were omitted as covered by “any district court.” See section 451 of this title.
 
@@ -431,17 +431,17 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, see section 203 of 
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 2411. Interest
+## § 2411. Interest
 
 In any judgment of any court rendered (whether against the United States, a collector or deputy collector of internal revenue, a former collector or deputy collector, or the personal representative in case of death) for any overpayment in respect of any internal-revenue tax, interest shall be allowed at the overpayment rate established under section 6621 of the Internal Revenue Code of 1986 upon the amount of the overpayment, from the date of the payment or collection thereof to a date preceding the date of the refund check by not more than thirty days, such date to be determined by the Commissioner of Internal Revenue. The Commissioner is authorized to tender by check payment of any such judgment, with interest as herein provided, at any time after such judgment becomes final, whether or not a claim for such payment has been duly filed, and such tender shall stop the running of interest, whether or not such refund check is accepted by the judgment creditor.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; May 24, 1949, ch. 139, § 120, 63 Stat. 106; Pub. L. 93–625, § 7(a)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 97–164, title III, § 302(b), Apr. 2, 1982, 96 Stat. 56; Pub. L. 99–514, § 2, title XV, § 1511(c)(18), Oct. 22, 1986, 100 Stat. 2095, 2746.)
+(June 25, 1948, ch. 646, 62 Stat. 973; May 24, 1949, ch. 139, § 120, 63 Stat. 106; Pub. L. 93–625, § 7(a)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 97–164, title III, § 302(b), Apr. 2, 1982, 96 Stat. 56; Pub. L. 99–514, § 2, title XV, § 1511(c)(18), Oct. 22, 1986, 100 Stat. 2095, 2746.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 765, 931(a), 932, Mar. 3, 1877, ch. 359, § 10, 24 Stat. 507; Feb. 13, 1925, ch. 229, § 8, 43 Stat. 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; Aug. 2, 1946, ch. 753, §§ 410(a), 411, 60 Stat. 843, 844).
+Based on title 28, U.S.C., 1940 ed., §§ 765, 931(a), 932, Mar. 3, 1877, ch. 359, § 10, 24 Stat. 507; Feb. 13, 1925, ch. 229, § 8, 43 Stat. 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; Aug. 2, 1946, ch. 753, §§ 410(a), 411, 60 Stat. 843, 844).
 
 Section consolidates section 765 with provisions of sections 931(a) and 932, all of title 28, U.S.C., 1940 ed., relating to interest on judgments, the latter two sections being applicable to judgments in tort claims cases. For other provisions of said sections 931(a) and 932, see Distribution Table. Said section 932 made the provisions of said section 765 applicable to such judgments, therefore the provisions of said section 931(a) that “the United States shall not be liable for interest prior to judgment” was omitted as covered by the language of said section 765 providing that interest shall be computed from the date of the judgment.
 
@@ -463,9 +463,9 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in text, is class
 
 **Amendments**
 
-1986—Pub. L. 99–514, § 1511(c)(18), substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
+1986—Pub. L. 99–514, § 1511(c)(18), substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-Pub. L. 99–514, § 2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Pub. L. 99–514, § 2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1982—Pub. L. 97–164 struck out “(a)” before “In any judgment” and struck out subsec. (b) which provided that, except as otherwise provided in subsection (a) of this section, on all final judgments rendered against the United States in actions instituted under section 1346 of this title, interest was to be computed at the rate of 4 per centum per annum from the date of the judgment up to, but not exceeding, thirty days after the date of approval of any appropriation Act providing for payment of the judgment.
 
@@ -483,7 +483,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2412. Costs and fees
+## § 2412. Costs and fees
 
 **(a)**
 
@@ -577,11 +577,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(f)** If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under section 1961(a) of this title, and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, § 1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, § 204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, § 292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§ 2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, § 301(a), title V, §§ 502(b), 506(a), title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, § 1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, § 232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, § 512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 111–350, § 5(g)(9), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–9, title IV, § 4201(a)(2), (3), Mar. 12, 2019, 133 Stat. 763, 764.)
+(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, § 1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, § 204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, § 292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§ 2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, § 301(a), title V, §§ 502(b), 506(a), title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, § 1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, § 232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, § 512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 111–350, § 5(g)(9), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–9, title IV, § 4201(a)(2), (3), Mar. 12, 2019, 133 Stat. 763, 764.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 258, 931(a) (Mar. 3, 1911, ch. 231, § 152, 36 Stat. 1138; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
+Based on title 28, U.S.C., 1940 ed., §§ 258, 931(a) (Mar. 3, 1911, ch. 231, § 152, 36 Stat. 1138; Aug. 2, 1946, ch. 753, § 410(a), 60 Stat. 843).
 
 Section consolidates the last sentence of section 931(a) of title 28, U.S.C., 1940 ed., with section 258 of said title 28. For other provisions of said section 931(a), see Distribution Table.
 
@@ -607,61 +607,61 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (e), i
 
 **Amendments**
 
-2019—Subsec. (d)(3). Pub. L. 116–9, § 4201(a)(3)(A), struck out “United States Code,” after “title 5,”.
+2019—Subsec. (d)(3). Pub. L. 116–9, § 4201(a)(3)(A), struck out “United States Code,” after “title 5,”.
 
-Subsec. (d)(5) to (8). Pub. L. 116–9, § 4201(a)(2), added pars. (5) to (8).
+Subsec. (d)(5) to (8). Pub. L. 116–9, § 4201(a)(2), added pars. (5) to (8).
 
-Subsec. (e). Pub. L. 116–9, § 4201(a)(3)(B), substituted “subsection (a) of this section of costs enumerated in section 1920 of this title” for “subsection (a) of section 2412 of title 28, United States Code, of costs enumerated in section 1920 of such title”.
+Subsec. (e). Pub. L. 116–9, § 4201(a)(3)(B), substituted “subsection (a) of this section of costs enumerated in section 1920 of this title” for “subsection (a) of section 2412 of title 28, United States Code, of costs enumerated in section 1920 of such title”.
 
-2011—Subsec. (d)(2)(E). Pub. L. 111–350, § 5(g)(9)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
+2011—Subsec. (d)(2)(E). Pub. L. 111–350, § 5(g)(9)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
-Subsec. (d)(3). Pub. L. 111–350, § 5(g)(9)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
+Subsec. (d)(3). Pub. L. 111–350, § 5(g)(9)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
 1998—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1996—Subsec. (d)(1)(D). Pub. L. 104–121, § 232(a), added subpar. (D).
+1996—Subsec. (d)(1)(D). Pub. L. 104–121, § 232(a), added subpar. (D).
 
-Subsec. (d)(2)(A)(ii). Pub. L. 104–121, § 232(b)(1), substituted “$125” for “$75”.
+Subsec. (d)(2)(A)(ii). Pub. L. 104–121, § 232(b)(1), substituted “$125” for “$75”.
 
-Subsec. (d)(2)(B). Pub. L. 104–121, § 232(b)(2), inserted before semicolon at end “or for purposes of subsection (d)(1)(D), a small entity as defined in section 601 of title 5”.
+Subsec. (d)(2)(B). Pub. L. 104–121, § 232(b)(2), inserted before semicolon at end “or for purposes of subsection (d)(1)(D), a small entity as defined in section 601 of title 5”.
 
-Subsec. (d)(2)(I). Pub. L. 104–121, § 232(b)(3)–(5), added subpar. (I).
+Subsec. (d)(2)(I). Pub. L. 104–121, § 232(b)(3)–(5), added subpar. (I).
 
 1995—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
 
-1992—Subsec. (a). Pub. L. 102–572, § 301(a), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (a). Pub. L. 102–572, § 301(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2)(F). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+Subsec. (d)(2)(F). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Pub. L. 102–573, § 506(a), inserted before semicolon at end “and the United States Court of Veterans Appeals”.
+Pub. L. 102–573, § 506(a), inserted before semicolon at end “and the United States Court of Veterans Appeals”.
 
-Subsec. (d)(5). Pub. L. 102–572, § 502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to section 604 of this title,”.
+Subsec. (d)(5). Pub. L. 102–572, § 502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to section 604 of this title,”.
 
 1986—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsecs. (a), (b). Pub. L. 99–80, § 2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
+1985—Subsecs. (a), (b). Pub. L. 99–80, § 2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
 
-Subsec. (d). Pub. L. 99–80, § 6, repealed amendment made by Pub. L. 96–481, § 204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
+Subsec. (d). Pub. L. 99–80, § 6, repealed amendment made by Pub. L. 96–481, § 204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
 
-Subsec. (d)(1)(A). Pub. L. 99–80, § 2(a)(2), inserted “, including proceedings for judicial review of agency actions,” after “in tort)”.
+Subsec. (d)(1)(A). Pub. L. 99–80, § 2(a)(2), inserted “, including proceedings for judicial review of agency actions,” after “in tort)”.
 
-Subsec. (d)(1)(B). Pub. L. 99–80, § 2(b), inserted provisions directing that whether or not the position of the United States was substantially justified must be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action was based) which is made in the civil action for which fees and other expenses are sought.
+Subsec. (d)(1)(B). Pub. L. 99–80, § 2(b), inserted provisions directing that whether or not the position of the United States was substantially justified must be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action was based) which is made in the civil action for which fees and other expenses are sought.
 
-Subsec. (d)(2)(B). Pub. L. 99–80, § 2(c)(1), substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
+Subsec. (d)(2)(B). Pub. L. 99–80, § 2(c)(1), substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
 
-Subsec. (d)(2)(D) to (H). Pub. L. 99–80, § 2(c)(2), added subpars. (D) to (H).
+Subsec. (d)(2)(D) to (H). Pub. L. 99–80, § 2(c)(2), added subpars. (D) to (H).
 
-Subsec. (d)(4). Pub. L. 99–80, § 2(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (d)(4). Pub. L. 99–80, § 2(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(A) Fees and other expenses awarded under this subsection may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made in accordance with sections 2414 and 2517 of this title.
 
 “(B) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded pursuant to this subsection in such fiscal years.”
 
-Subsec. (f). Pub. L. 99–80, § 2(e), added subsec. (f).
+Subsec. (f). Pub. L. 99–80, § 2(e), added subsec. (f).
 
 1982—Subsec. (e). Pub. L. 97–248 added subsec. (e).
 
-1980—Pub. L. 96–481, § 204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, § 204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
+1980—Pub. L. 96–481, § 204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, § 204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
 1966—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff’s right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
 
@@ -677,9 +677,9 @@ Amendment by Pub. L. 104–121 applicable to civil actions and adversary adjudic
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–572, title V, § 506(b), Oct. 29, 1992, 106 Stat. 4513, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any case pending before the United States Court of Veterans Appeals [now United States Court of Appeals for Veterans Claims] on the date of the enactment of this Act [Oct. 29, 1992], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
+Pub. L. 102–572, title V, § 506(b), Oct. 29, 1992, 106 Stat. 4513, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any case pending before the United States Court of Veterans Appeals [now United States Court of Appeals for Veterans Claims] on the date of the enactment of this Act [Oct. 29, 1992], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
 
-Pub. L. 102–572, title V, § 506(d), Oct. 29, 1992, 106 Stat. 4513, provided that: “This section [amending this section and enacting provisions set out under this section], and the amendment made by this section, shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–572, title V, § 506(d), Oct. 29, 1992, 106 Stat. 4513, provided that: “This section [amending this section and enacting provisions set out under this section], and the amendment made by this section, shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
 
 Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -697,11 +697,11 @@ Amendment by Pub. L. 97–248 applicable to civil actions or proceedings commenc
 
 Amendment by section 204(a) of Pub. L. 96–481 effective Oct. 1, 1981, and applicable to any adversary adjudication, as defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and any civil action or adversary adjudication described in this section which is pending on, or commenced on or after, such date, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5.
 
-Pub. L. 96–481, title II, § 204(c), Oct. 21, 1980, 94 Stat. 2329, which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by Pub. L. 99–80, § 6(b)(2), Aug. 5, 1985, 99 Stat. 186.
+Pub. L. 96–481, title II, § 204(c), Oct. 21, 1980, 94 Stat. 2329, which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by Pub. L. 99–80, § 6(b)(2), Aug. 5, 1985, 99 Stat. 186.
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–507, § 3, July 18, 1966, 80 Stat. 308, provided that: “These amendments [amending this section and section 2520 of this title] shall apply only to judgments entered in actions filed subsequent to the date of enactment of this Act [July 18, 1966]. These amendments shall not authorize the reopening or modification of judgments entered prior to the enactment of this Act.”
+Pub. L. 89–507, § 3, July 18, 1966, 80 Stat. 308, provided that: “These amendments [amending this section and section 2520 of this title] shall apply only to judgments entered in actions filed subsequent to the date of enactment of this Act [July 18, 1966]. These amendments shall not authorize the reopening or modification of judgments entered prior to the enactment of this Act.”
 
 **Revival of Previously Repealed Provisions**
 
@@ -709,7 +709,7 @@ For revival of subsec. (d) of this section effective on or after Aug. 5, 1985, a
 
 **Savings Provision**
 
-Pub. L. 96–481, title II, § 206, Oct. 21, 1980, 94 Stat. 2330, as amended by Pub. L. 99–80, § 3, Aug. 5, 1985, 99 Stat. 186, provided that:
+Pub. L. 96–481, title II, § 206, Oct. 21, 1980, 94 Stat. 2330, as amended by Pub. L. 99–80, § 3, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 > **“(a)** Except as provided in subsection (b), nothing in section 2412(d) of title 28, United States Code, as added by section 204(a) of this title, alters, modifies, repeals, invalidates, or supersedes any other provision of Federal law which authorizes an award of such fees and other expenses to any party other than the United States that prevails in any civil action brought by or against the United States.
 
@@ -717,17 +717,17 @@ Pub. L. 96–481, title II, § 206, Oct. 21, 1980, 94 Stat. 2330, as amended b
 
 **Authority of Court of Appeals for Veterans Claims to Award Fees Under Equal Access to Justice Act for Non-attorney Practitioners.**
 
-Pub. L. 107–330, title IV, § 403, Dec. 6, 2002, 116 Stat. 2833, provided that: “The authority of the United States Court of Appeals for Veterans Claims to award reasonable fees and expenses of attorneys under section 2412(d) of title 28, United States Code, shall include authority to award fees and expenses, in an amount determined appropriate by the United States Court of Appeals for Veterans Claims, of individuals admitted to practice before the Court as non-attorney practitioners under subsection (b) or (c) of Rule 46 of the Rules of Practice and Procedure of the United States Court of Appeals for Veterans Claims.”
+Pub. L. 107–330, title IV, § 403, Dec. 6, 2002, 116 Stat. 2833, provided that: “The authority of the United States Court of Appeals for Veterans Claims to award reasonable fees and expenses of attorneys under section 2412(d) of title 28, United States Code, shall include authority to award fees and expenses, in an amount determined appropriate by the United States Court of Appeals for Veterans Claims, of individuals admitted to practice before the Court as non-attorney practitioners under subsection (b) or (c) of Rule 46 of the Rules of Practice and Procedure of the United States Court of Appeals for Veterans Claims.”
 
 **Nonliability of Judicial Officers for Costs**
 
-Pub. L. 104–317, title III, § 309(a), Oct. 19, 1996, 110 Stat. 3853, provided that: “Notwithstanding any other provision of law, no judicial officer shall be held liable for any costs, including attorney’s fees, in any action brought against such officer for an act or omission taken in such officer’s judicial capacity, unless such action was clearly in excess of such officer’s jurisdiction.”
+Pub. L. 104–317, title III, § 309(a), Oct. 19, 1996, 110 Stat. 3853, provided that: “Notwithstanding any other provision of law, no judicial officer shall be held liable for any costs, including attorney’s fees, in any action brought against such officer for an act or omission taken in such officer’s judicial capacity, unless such action was clearly in excess of such officer’s jurisdiction.”
 
 **Fee Agreements**
 
-Pub. L. 102–572, title V, § 506(c), Oct. 29, 1992, 106 Stat. 4513, provided that: “Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant’s attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant’s attorney refunds to the claimant the amount of the smaller fee.”
+Pub. L. 102–572, title V, § 506(c), Oct. 29, 1992, 106 Stat. 4513, provided that: “Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant’s attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant’s attorney refunds to the claimant the amount of the smaller fee.”
 
-## § 2413. Executions in favor of United States
+## § 2413. Executions in favor of United States
 
 A writ of execution on a judgment obtained for the use of the United States in any court thereof shall be issued from and made returnable to the court which rendered the judgment, but may be executed in any other State, in any Territory, or in the District of Columbia.
 
@@ -735,13 +735,13 @@ A writ of execution on a judgment obtained for the use of the United States in a
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 839 (R.S. § 986).
+Based on title 28, U.S.C., 1940 ed., § 839 (R.S. § 986).
 
 Words “or in the District of Columbia” were added on the authority of 14 Op. Atty. Gen. 384, declaring that, under this section, a writ of execution in favor of the United States, obtained from a Federal court in any State, could be executed in the District of Columbia. (See, also, section 1963 of this title.)
 
 Changes in phraseology were made.
 
-## § 2414. Payment of judgments and compromise settlements
+## § 2414. Payment of judgments and compromise settlements
 
 Except as provided by chapter 71 of title 41, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the Secretary of the Treasury. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the Secretary of the Treasury after certification by the Attorney General that it is in the interest of the United States to pay the same.
 
@@ -749,11 +749,11 @@ Whenever the Attorney General determines that no appeal shall be taken from a ju
 
 Except as otherwise provided by law, compromise settlements of claims referred to the Attorney General for defense of imminent litigation or suits against the United States, or against its agencies or officials upon obligations or liabilities of the United States, made by the Attorney General or any person authorized by him, shall be settled and paid in a manner similar to judgments in like causes and appropriations or funds available for the payment of such judgments are hereby made available for the payment of such compromise settlements.
 
-(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 87–187, § 1, Aug. 30, 1961, 75 Stat. 415; Pub. L. 95–563, § 14(d), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 96–417, title V, § 512, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 104–316, title II, § 202(k), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, § 5(g)(10), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 87–187, § 1, Aug. 30, 1961, 75 Stat. 415; Pub. L. 95–563, § 14(d), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 96–417, title V, § 512, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 104–316, title II, § 202(k), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, § 5(g)(10), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Historical and Revision Notes**
 
-Based on section 228 of title 31, U.S.C., 1940 ed., Money and Finance (Feb. 18, 1904, ch. 160, § 1, 33 Stat. 41; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on section 228 of title 31, U.S.C., 1940 ed., Money and Finance (Feb. 18, 1904, ch. 160, § 1, 33 Stat. 41; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Similar provisions of section 228 of title 31, U.S.C., 1940 ed., relating to judgments of the court of claims are incorporated in section 2517 of this title.
 
@@ -785,7 +785,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
-## § 2415. Time for commencing actions brought by the United States
+## § 2415. Time for commencing actions brought by the United States
 
 **(a)** Subject to the provisions of section 2416 of this title, and except as otherwise provided by Congress, every action for money damages brought by the United States or an officer or agency thereof which is founded upon any contract express or implied in law or fact, shall be barred unless the complaint is filed within six years after the right of action accrues or within one year after final decisions have been rendered in applicable administrative proceedings required by contract or by law, whichever is later: *Provided*, That in the event of later partial payment or written acknowledgment of debt, the right of action shall be deemed to accrue again at the time of each such payment or acknowledgment: *Provided further*, That an action for money damages brought by the United States for or on behalf of a recognized tribe, band or group of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued: *Provided further*, That an action for money damages which accrued on the date of enactment of this Act in accordance with subsection (g) brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status, shall not be barred unless the complaint is filed sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Limitation Act of 1982: *Provided*, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Limitation Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim or more than two years after a final decision has been rendered in applicable administrative proceedings required by contract or by law, whichever is later.
 
@@ -805,7 +805,7 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 **(i)** The provisions of this section shall not prevent the United States or an officer or agency thereof from collecting any claim of the United States by means of administrative offset, in accordance with section 3716 of title 31.
 
-(Added Pub. L. 89–505, § 1, July 18, 1966, 80 Stat. 304; amended Pub. L. 92–353, July 18, 1972, 86 Stat. 499; Pub. L. 92–485, Oct. 13, 1972, 86 Stat. 803; Pub. L. 95–64, July 11, 1977, 91 Stat. 268; Pub. L. 95–103, Aug. 15, 1977, 91 Stat. 842; Pub. L. 96–217, § 1, Mar. 27, 1980, 94 Stat. 126; Pub. L. 97–365, § 9, Oct. 25, 1982, 96 Stat. 1754; Pub. L. 97–394, title I, § 2, Dec. 30, 1982, 96 Stat. 1976; Pub. L. 97–452, § 2(d)(2), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–250, § 4(a), Apr. 3, 1984, 98 Stat. 118.)
+(Added Pub. L. 89–505, § 1, July 18, 1966, 80 Stat. 304; amended Pub. L. 92–353, July 18, 1972, 86 Stat. 499; Pub. L. 92–485, Oct. 13, 1972, 86 Stat. 803; Pub. L. 95–64, July 11, 1977, 91 Stat. 268; Pub. L. 95–103, Aug. 15, 1977, 91 Stat. 842; Pub. L. 96–217, § 1, Mar. 27, 1980, 94 Stat. 126; Pub. L. 97–365, § 9, Oct. 25, 1982, 96 Stat. 1754; Pub. L. 97–394, title I, § 2, Dec. 30, 1982, 96 Stat. 1976; Pub. L. 97–452, § 2(d)(2), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–250, § 4(a), Apr. 3, 1984, 98 Stat. 118.)
 
 **Editorial Notes**
 
@@ -813,7 +813,7 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 The date of enactment of this Act, referred to in subsecs. (a), (b), and (g), means the date of enactment of Pub. L. 89–505, which was approved July 18, 1966.
 
-The Indian Claims Limitation Act of 1982, referred to in subsecs. (a) and (b), is Pub. L. 97–394, title I, §§ 2–6, Dec. 30, 1982, 96 Stat. 1976–1978, which amended this section and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out below and Tables.
+The Indian Claims Limitation Act of 1982, referred to in subsecs. (a) and (b), is Pub. L. 97–394, title I, §§ 2–6, Dec. 30, 1982, 96 Stat. 1976–1978, which amended this section and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out below and Tables.
 
 This Act, referred to in subsec. (h), probably means Pub. L. 89–505, July 18, 1966, 80 Stat. 304, which enacted this section and section 2416 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -823,41 +823,41 @@ This Act, referred to in subsec. (h), probably means Pub. L. 89–505, July 18, 
 
 1983—Subsec. (i). Pub. L. 97–452 substituted “section 3716 of title 31” for “section 5 of the Federal Claims Collection Act of 1966”.
 
-1982—Subsec. (a). Pub. L. 97–394, § 2(a), substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: *Provided*, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
+1982—Subsec. (a). Pub. L. 97–394, § 2(a), substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: *Provided*, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
 
-Subsec. (b). Pub. L. 97–394, § 2(b), substituted “sixty days after the date of the publication of the list required by section 4(c) of the Indian Claims Act of 1982: *Provided*, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “December 31, 1982” at end of proviso.
+Subsec. (b). Pub. L. 97–394, § 2(b), substituted “sixty days after the date of the publication of the list required by section 4(c) of the Indian Claims Act of 1982: *Provided*, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “December 31, 1982” at end of proviso.
 
 Subsec. (i). Pub. L. 97–365 added subsec. (i).
 
-1980—Subsec. (a). Pub. L. 96–217, § 1(a), substituted “December 31, 1982” for “April 30, 1980”.
+1980—Subsec. (a). Pub. L. 96–217, § 1(a), substituted “December 31, 1982” for “April 30, 1980”.
 
-Subsec. (b). Pub. L. 96–217, § 1(b), substituted “December 31, 1982” for “April 1, 1980”.
+Subsec. (b). Pub. L. 96–217, § 1(b), substituted “December 31, 1982” for “April 1, 1980”.
 
-1977—Subsec. (a). Pub. L. 95–103, § 1(a), substituted “after April 1, 1980” for “after August 18, 1977”.
+1977—Subsec. (a). Pub. L. 95–103, § 1(a), substituted “after April 1, 1980” for “after August 18, 1977”.
 
-Pub. L. 95–64, § 1(a), substituted “unless the complaint is filed after August 18, 1977” for “unless the complaint is filed more than eleven years after the right of action accrued” in proviso covering actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
+Pub. L. 95–64, § 1(a), substituted “unless the complaint is filed after August 18, 1977” for “unless the complaint is filed more than eleven years after the right of action accrued” in proviso covering actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
-Subsec. (b). Pub. L. 95–103, § 1(b), substituted “on or before April 1, 1980” for “on or before August 18, 1977”.
+Subsec. (b). Pub. L. 95–103, § 1(b), substituted “on or before April 1, 1980” for “on or before August 18, 1977”.
 
-Pub. L. 95–64, § 1(b), substituted “may be brought on or before August 18, 1977” for “may be brought within eleven years after the right of action accrues” in proviso covering actions for or on behalf of recognized tribes, bands, or groups of American Indians, including actions related to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
+Pub. L. 95–64, § 1(b), substituted “may be brought on or before August 18, 1977” for “may be brought within eleven years after the right of action accrues” in proviso covering actions for or on behalf of recognized tribes, bands, or groups of American Indians, including actions related to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
-1972—Subsec. (a). Pub. L. 92–485, § 1(a), inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
+1972—Subsec. (a). Pub. L. 92–485, § 1(a), inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
 
-Pub. L. 92–353, § 1(a), inserted proviso that an action for money damages brought by the United States on behalf of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued.
+Pub. L. 92–353, § 1(a), inserted proviso that an action for money damages brought by the United States on behalf of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued.
 
-Subsec. (b). Pub. L. 92–485, § 1(b), inserted exception relating to actions for or on behalf of a recognized tribe, band, or group of American Indians, including actions relating to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status.
+Subsec. (b). Pub. L. 92–485, § 1(b), inserted exception relating to actions for or on behalf of a recognized tribe, band, or group of American Indians, including actions relating to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status.
 
-Pub. L. 92–353, § 1(b), increased the period of limitation to six years and ninety days for actions brought by the United States under the subsection for or on behalf of American Indians.
+Pub. L. 92–353, § 1(b), increased the period of limitation to six years and ninety days for actions brought by the United States under the subsection for or on behalf of American Indians.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–394, title I, § 1, Dec. 30, 1982, 96 Stat. 1976, as amended by Pub. L. 98–250, § 4(b), Apr. 3, 1984, 98 Stat. 119, provided in part that: “Sections 2 through 6 of this Act [amending this section and enacting provisions set out below] may be cited as the ‘Indian Claims Limitation Act of 1982’.”
+Pub. L. 97–394, title I, § 1, Dec. 30, 1982, 96 Stat. 1976, as amended by Pub. L. 98–250, § 4(b), Apr. 3, 1984, 98 Stat. 119, provided in part that: “Sections 2 through 6 of this Act [amending this section and enacting provisions set out below] may be cited as the ‘Indian Claims Limitation Act of 1982’.”
 
 **Publication of List of Indian Claims; Additional Claims; Time To Commence Action; Rejection of Claims; Claims Resolved By Legislation**
 
-Pub. L. 97–394, title I, §§ 3–6, Dec. 30, 1982, 96 Stat. 1977, 1978, provided that:
+Pub. L. 97–394, title I, §§ 3–6, Dec. 30, 1982, 96 Stat. 1977, 1978, provided that:
 
 > **“Sec. 3.**
 
@@ -891,9 +891,9 @@ Pub. L. 97–394, title I, §§ 3–6, Dec. 30, 1982, 96 Stat. 1977, 1978, pro
 
 **Legislative Proposals Respecting Appropriateness of Resolution by Litigation of Unresolved Indian Claims**
 
-Pub. L. 96–217, § 2, Mar. 27, 1980, 94 Stat. 126, provided that: “Not later than June 30, 1981, the Secretary of the Interior, after consultation with the Attorney General, shall submit to the Congress legislative proposals to resolve those Indian claims subject to the amendments made by the first section of this Act [amending this section] that the Secretary of the Interior or the Attorney General believes are not appropriate to resolve by litigation.”
+Pub. L. 96–217, § 2, Mar. 27, 1980, 94 Stat. 126, provided that: “Not later than June 30, 1981, the Secretary of the Interior, after consultation with the Attorney General, shall submit to the Congress legislative proposals to resolve those Indian claims subject to the amendments made by the first section of this Act [amending this section] that the Secretary of the Interior or the Attorney General believes are not appropriate to resolve by litigation.”
 
-## § 2416. Time for commencing actions brought by the United States—Exclusions
+## § 2416. Time for commencing actions brought by the United States—Exclusions
 
 For the purpose of computing the limitations periods established in section 2415, there shall be excluded all periods during which—
 
@@ -905,4 +905,4 @@ For the purpose of computing the limitations periods established in section 2415
 
 **(d)** the United States is in a state of war declared pursuant to article I, section 8, of the Constitution of the United States.
 
-(Added Pub. L. 89–505, § 1, July 18, 1966, 80 Stat. 305.)
+(Added Pub. L. 89–505, § 1, July 18, 1966, 80 Stat. 305.)

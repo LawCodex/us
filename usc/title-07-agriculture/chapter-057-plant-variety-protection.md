@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 ### Part A—Organization and Publications
 
-#### § 2321. Establishment
+#### § 2321. Establishment
 
 There is hereby established in the Department of Agriculture an office to be known as the Plant Variety Protection Office, which shall have the functions set forth in this chapter.
 
-(Pub. L. 91–577, title I, § 1, Dec. 24, 1970, 84 Stat. 1542; Pub. L. 96–574, § 1, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title I, § 1, Dec. 24, 1970, 84 Stat. 1542; Pub. L. 96–574, § 1, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -35,49 +35,49 @@ There is hereby established in the Department of Agriculture an office to be kno
 
 **Effective Date**
 
-Pub. L. 91–577, title III, § 141, Dec. 24, 1970, 84 Stat. 1558, provided that: “This Act [this chapter] shall take effect upon enactment [Dec. 24, 1970]. Applications may be filed with the Secretary and held by him until the Office of Plant Variety Protection is organized and in operation”.
+Pub. L. 91–577, title III, § 141, Dec. 24, 1970, 84 Stat. 1558, provided that: “This Act [this chapter] shall take effect upon enactment [Dec. 24, 1970]. Applications may be filed with the Secretary and held by him until the Office of Plant Variety Protection is organized and in operation”.
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–349, § 1(a), Oct. 6, 1994, 108 Stat. 3136, provided that: “This Act [amending sections 2327, 2330, 2353, 2354, 2357, 2401, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under section 2401 of this title] may be cited as the ‘Plant Variety Protection Act Amendments of 1994’.”
+Pub. L. 103–349, § 1(a), Oct. 6, 1994, 108 Stat. 3136, provided that: “This Act [amending sections 2327, 2330, 2353, 2354, 2357, 2401, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under section 2401 of this title] may be cited as the ‘Plant Variety Protection Act Amendments of 1994’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–560, § 1, Oct. 28, 1992, 106 Stat. 4230, provided that: “This Act [enacting section 2570 of this title and section 296 of Title 35, Patents, amending section 2541 of this title and section 271 of Title 35, and enacting provisions set out as a note under section 2541 of this title] may be cited as the ‘Patent and Plant Variety Protection Remedy Clarification Act’.”
+Pub. L. 102–560, § 1, Oct. 28, 1992, 106 Stat. 4230, provided that: “This Act [enacting section 2570 of this title and section 296 of Title 35, Patents, amending section 2541 of this title and section 271 of Title 35, and enacting provisions set out as a note under section 2541 of this title] may be cited as the ‘Patent and Plant Variety Protection Remedy Clarification Act’.”
 
 **Short Title**
 
-Pub. L. 91–577, title III, § 145, Dec. 24, 1970, 84 Stat. 1559, provided that: “This Act [enacting this chapter, section 1611 of this title, and sections 1545 and 2353 of Title 28, Judiciary and Judicial Procedure, amending section 1562 of this title and sections 1338 and 1498 of Title 28, and enacting provisions set out as notes under this section] may be cited as the ‘Plant Variety Protection Act’.”
+Pub. L. 91–577, title III, § 145, Dec. 24, 1970, 84 Stat. 1559, provided that: “This Act [enacting this chapter, section 1611 of this title, and sections 1545 and 2353 of Title 28, Judiciary and Judicial Procedure, amending section 1562 of this title and sections 1338 and 1498 of Title 28, and enacting provisions set out as notes under this section] may be cited as the ‘Plant Variety Protection Act’.”
 
-#### § 2322. Seal
+#### § 2322. Seal
 
 The Plant Variety Protection Office shall have a seal with which documents and certificates evidencing plant variety protection shall be authenticated.
 
-(Pub. L. 91–577, title I, § 2, Dec. 24, 1970, 84 Stat. 1542.)
+(Pub. L. 91–577, title I, § 2, Dec. 24, 1970, 84 Stat. 1542.)
 
-#### § 2323. Organization
+#### § 2323. Organization
 
 The organization of the Plant Variety Protection Office shall, except as provided herein, be determined by the Secretary of Agriculture (hereinafter called the Secretary). The office shall devote itself substantially exclusively to the administration of this chapter.
 
-(Pub. L. 91–577, title I, § 3, Dec. 24, 1970, 84 Stat. 1542.)
+(Pub. L. 91–577, title I, § 3, Dec. 24, 1970, 84 Stat. 1542.)
 
-#### § 2324. Restrictions on employees as to interest in plant variety protection
+#### § 2324. Restrictions on employees as to interest in plant variety protection
 
 Employees of the Plant Variety Protection Office shall be ineligible during the periods of their employment, to apply for plant variety protection and to acquire directly or indirectly, except by inheritance or bequest, any right or interest in any matters before that office. This section shall not apply to members of the Plant Variety Protection Board who are not otherwise employees of the Plant Variety Protection Office.
 
-(Pub. L. 91–577, title I, § 4, Dec. 24, 1970, 84 Stat. 1542.)
+(Pub. L. 91–577, title I, § 4, Dec. 24, 1970, 84 Stat. 1542.)
 
-#### § 2325. Repealed. Pub. L. 96–574, § 2, Dec. 22, 1980, 94 Stat. 3350
+#### § 2325. Repealed. Pub. L. 96–574, § 2, Dec. 22, 1980, 94 Stat. 3350
 
-Section, Pub. L. 91–577, title I, § 5, Dec. 24, 1970, 84 Stat. 1542, required employees designated by Secretary to give bond before entering upon their duties.
+Section, Pub. L. 91–577, title I, § 5, Dec. 24, 1970, 84 Stat. 1542, required employees designated by Secretary to give bond before entering upon their duties.
 
-#### § 2326. Regulations
+#### § 2326. Regulations
 
 The Secretary may establish regulations, not inconsistent with law, for the conduct of proceedings in the Plant Variety Protection Office after consultations with the Plant Variety Protection Board.
 
-(Pub. L. 91–577, title I, § 6, Dec. 24, 1970, 84 Stat. 1542.)
+(Pub. L. 91–577, title I, § 6, Dec. 24, 1970, 84 Stat. 1542.)
 
-#### § 2327. Plant Variety Protection Board
+#### § 2327. Plant Variety Protection Board
 
 **(a) Appointment**
 
@@ -95,7 +95,7 @@ The Secretary shall appoint a Plant Variety Protection Board. The Board shall co
 
 The members of the Plant Variety Protection Board shall serve without compensation except for standard government reimbursable expenses.
 
-(Pub. L. 91–577, title I, § 7, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 103–349, § 13(a), Oct. 6, 1994, 108 Stat. 3142.)
+(Pub. L. 91–577, title I, § 7, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 103–349, § 13(a), Oct. 6, 1994, 108 Stat. 3142.)
 
 **Editorial Notes**
 
@@ -109,11 +109,11 @@ The members of the Plant Variety Protection Board shall serve without compensati
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2328. Library
+#### § 2328. Library
 
 The Secretary shall maintain a library of scientific and other works and periodicals, both foreign and domestic, in the Plant Variety Protection Office to aid the examiners in the discharge of their duties.
 
-(Pub. L. 91–577, title I, § 8, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, § 3, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title I, § 8, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, § 3, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -121,11 +121,11 @@ The Secretary shall maintain a library of scientific and other works and periodi
 
 1980—Pub. L. 96–574 substituted “examiners” for “officers”.
 
-#### § 2329. Register of protected plant varieties
+#### § 2329. Register of protected plant varieties
 
 The Secretary shall maintain a register of descriptions of United States protected plant varieties.
 
-(Pub. L. 91–577, title I, § 9, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, § 4, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title I, § 9, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, § 4, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ The Secretary shall maintain a register of descriptions of United States protect
 
 1980—Pub. L. 96–574 substituted “descriptions” for “published specifications”, and struck out provisions requiring maintenance of a file for other information.
 
-#### § 2330. Publications
+#### § 2330. Publications
 
 **(a)** The Secretary may publish, or cause to be published, in such format as the Secretary shall determine to be suitable, the following:
 
@@ -147,7 +147,7 @@ The Secretary shall maintain a register of descriptions of United States protect
 
 **(c)** The Secretary may exchange any of the publications specified for publications desirable for the use of the Plant Variety Protection Office. The Secretary may exchange copies of descriptions, drawings, and photographs of United States protected plant varieties for copies of descriptions, drawings, and photographs of applications and protected plant varieties of foreign countries.
 
-(Pub. L. 91–577, title I, § 10, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, §§ 5–8, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, § 13(b), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title I, § 10, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, §§ 5–8, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, § 13(b), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -155,11 +155,11 @@ The Secretary shall maintain a register of descriptions of United States protect
 
 1994—Subsec. (a). Pub. L. 103–349 substituted “the Secretary” for “he” before “shall” in introductory provisions.
 
-1980—Subsec. (a)(1). Pub. L. 96–574, § 5, substituted provisions respecting descriptions for provisions respecting specifications.
+1980—Subsec. (a)(1). Pub. L. 96–574, § 5, substituted provisions respecting descriptions for provisions respecting specifications.
 
-Subsec. (b). Pub. L. 96–574, §§ 6, 7, struck out subsec. (b) which related to photolithography and lithography, redesignated subsec. (c) as (b) and substituted “plant breeding” for “the useful arts”.
+Subsec. (b). Pub. L. 96–574, §§ 6, 7, struck out subsec. (b) which related to photolithography and lithography, redesignated subsec. (c) as (b) and substituted “plant breeding” for “the useful arts”.
 
-Subsecs. (c), (d). Pub. L. 96–574, §§ 7, 8, redesignated subsec. (d) as (c) and substituted “descriptions” for “specifications” in two places. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 96–574, §§ 7, 8, redesignated subsec. (d) as (c) and substituted “descriptions” for “specifications” in two places. Former subsec. (c) redesignated (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,11 +167,11 @@ Subsecs. (c), (d). Pub. L. 96–574, §§ 7, 8, redesignated subsec. (d) as (c
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2331. Copies for public libraries
+#### § 2331. Copies for public libraries
 
 The Secretary may supply printed copies of descriptions, drawings, and photographs of protected plant varieties to public libraries in the United States which shall maintain such copies for the use of the public.
 
-(Pub. L. 91–577, title I, § 11, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 96–574, § 9, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title I, § 11, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 96–574, § 9, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -181,23 +181,23 @@ The Secretary may supply printed copies of descriptions, drawings, and photograp
 
 ### Part B—Legal Provisions as to the Plant Variety Protection Office
 
-#### § 2351. Day for taking action falling on Saturday, Sunday, or holiday
+#### § 2351. Day for taking action falling on Saturday, Sunday, or holiday
 
 When the day, or the last day, for taking any action or paying any fee in the United States Plant Variety Protection Office falls on Saturday, Sunday, a holiday within the District of Columbia, or on any other day the Plant Variety Protection Office is closed for the receipt of papers, the action may be taken or the fee paid, on the next succeeding business day.
 
-(Pub. L. 91–577, title I, § 21, Dec. 24, 1970, 84 Stat. 1544.)
+(Pub. L. 91–577, title I, § 21, Dec. 24, 1970, 84 Stat. 1544.)
 
-#### § 2352. Form of papers filed
+#### § 2352. Form of papers filed
 
 The Secretary may by regulations prescribe the form of papers to be filed in the Plant Variety Protection Office.
 
-(Pub. L. 91–577, title I, § 22, Dec. 24, 1970, 84 Stat. 1544.)
+(Pub. L. 91–577, title I, § 22, Dec. 24, 1970, 84 Stat. 1544.)
 
-#### § 2353. Testimony in Plant Variety Protection Office cases
+#### § 2353. Testimony in Plant Variety Protection Office cases
 
 The Secretary may establish regulations for taking affidavits, depositions, and other evidence required in cases before the Plant Variety Protection Office. Any officer authorized by law to take depositions to be used in the courts of the United States, or of the State where the officer resides, may take such affidavits and depositions, and swear the witnesses. If any person acts as a hearing officer by authority of the Secretary, the person shall have like power.
 
-(Pub. L. 91–577, title I, § 23, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 103–349, § 13(c), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title I, § 23, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 103–349, § 13(c), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ The Secretary may establish regulations for taking affidavits, depositions, and 
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2354. Subpoenas; witnesses
+#### § 2354. Subpoenas; witnesses
 
 **(a)** The clerk of any United States court for the district wherein testimony is to be taken in accordance with regulations established by the Secretary for use in any contested case in the Plant Variety Protection Office shall, upon the application of any party thereof, issue a subpoena for any witness residing or being within such district or within one hundred miles of the stated place in such district, commanding the witness to appear and testify before an officer in such district authorized to take depositions and affidavits, at the time and place stated in the subpoena. The provisions of the Federal Rules of Civil Procedure relating to the attendance of witnesses and the production of documents and things shall apply to contested cases in the Plant Variety Protection Office insofar as consistent with such regulations.
 
@@ -219,17 +219,17 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **(c)** A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless the fees and traveling expenses of the witness in going to, and returning from, one day’s attendance at the place of examination, are paid or tendered the witness at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena or of the Secretary.
 
-(Pub. L. 91–577, title I, § 24, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 103–349, § 13(d), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title I, § 24, Dec. 24, 1970, 84 Stat. 1544; Pub. L. 103–349, § 13(d), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–349, § 13(d)(1), substituted “the witness” for “him” in first sentence.
+1994—Subsec. (a). Pub. L. 103–349, § 13(d)(1), substituted “the witness” for “him” in first sentence.
 
-Subsec. (c). Pub. L. 103–349, § 13(d)(2)(B), substituted “the witness” for “him” after “paid or tendered” in second sentence.
+Subsec. (c). Pub. L. 103–349, § 13(d)(2)(B), substituted “the witness” for “him” after “paid or tendered” in second sentence.
 
-Pub. L. 103–349, § 13(d)(2)(A), which directed that second sentence be amended by substituting “the fees and traveling expenses of the witness” for “this fees and traveling expenses”, was executed by making the substitution for “his fees and traveling expenses”, to reflect the probable intent of Congress.
+Pub. L. 103–349, § 13(d)(2)(A), which directed that second sentence be amended by substituting “the fees and traveling expenses of the witness” for “this fees and traveling expenses”, was executed by making the substitution for “his fees and traveling expenses”, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,23 +237,23 @@ Pub. L. 103–349, § 13(d)(2)(A), which directed that second sentence be amen
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2355. Effect of defective execution
+#### § 2355. Effect of defective execution
 
 Any document to be filed in the Plant Variety Protection Office and which is required by any law or regulation to be executed in a specified manner may be provisionally accepted by the Secretary despite a defective execution, provided a properly executed document is submitted within such time as may be prescribed.
 
-(Pub. L. 91–577, title I, § 25, Dec. 24, 1970, 84 Stat. 1545.)
+(Pub. L. 91–577, title I, § 25, Dec. 24, 1970, 84 Stat. 1545.)
 
-#### § 2356. Regulations for practice before the Office
+#### § 2356. Regulations for practice before the Office
 
 The Secretary shall prescribe regulations governing the admission to practice and conduct of persons representing applicants or other parties before the Plant Variety Protection Office. The Secretary may, after notice and opportunity for a hearing, suspend or exclude, either generally or in any particular case, from further practice before the Office of Plant Variety Protection any person shown to be incompetent or disreputable or guilty of gross misconduct.
 
-(Pub. L. 91–577, title I, § 26, Dec. 24, 1970, 84 Stat. 1545.)
+(Pub. L. 91–577, title I, § 26, Dec. 24, 1970, 84 Stat. 1545.)
 
-#### § 2357. Unauthorized practice
+#### § 2357. Unauthorized practice
 
 Anyone who in the United States engages in direct or indirect practice before the Office of Plant Variety Protection while suspended or excluded under section 2356 of this title, or without being admitted to practice before the Office, shall be liable in a civil action for the return of all money received, and for compensation for damage done by such person and also may be enjoined from such practice. However, there shall be no liability for damage if such person establishes that the work was done competently and without negligence. This section does not apply to anyone who, without a claim of self-sufficiency, works under the supervision of another who stands admitted and is the responsible party; or to anyone who establishes that the person acted only on behalf of any employer by whom the person was regularly employed.
 
-(Pub. L. 91–577, title I, § 27, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 103–349, § 13(e), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title I, § 27, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 103–349, § 13(e), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -269,7 +269,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 ### Part C—Plant Variety Protection Fees
 
-#### § 2371. Plant variety protection fees
+#### § 2371. Plant variety protection fees
 
 **(a) In general**
 
@@ -291,7 +291,7 @@ The Attorney General may bring an action for the recovery of charges that have n
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 91–577, title I, § 31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, § 10, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 100–203, title I, § 1505, Dec. 22, 1987, 101 Stat. 1330–28.)
+(Pub. L. 91–577, title I, § 31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, § 10, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 100–203, title I, § 1505, Dec. 22, 1987, 101 Stat. 1330–28.)
 
 **Editorial Notes**
 
@@ -301,17 +301,17 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 1980—Pub. L. 96–574 substituted provisions relating to deposit of fees and authorization of appropriations for provisions relating to recovering of fees, initial capital of the fund, and charging of fees.
 
-#### § 2372. Payment of plant variety protection fees; return of excess amounts
+#### § 2372. Payment of plant variety protection fees; return of excess amounts
 
 All fees shall be paid to the Secretary, and the Secretary may refund any sum paid by mistake or in excess of the fee required.
 
-(Pub. L. 91–577, title I, § 32, Dec. 24, 1970, 84 Stat. 1545.)
+(Pub. L. 91–577, title I, § 32, Dec. 24, 1970, 84 Stat. 1545.)
 
 ## SUBCHAPTER II—PROTECTABILITY OF PLANT VARIETIES AND CERTIFICATES OF PROTECTION
 
 ### Part D—Protectability of Plant Varieties
 
-#### § 2401. Definitions and rules of construction
+#### § 2401. Definitions and rules of construction
 
 **(a) Definitions** As used in this chapter:
 
@@ -401,7 +401,7 @@ A description that meets the requirements of subparagraph (A) shall include a di
 
 A variety may become publicly known and a matter of common knowledge by other means.
 
-(Pub. L. 91–577, title II, § 41, Dec. 24, 1970, 84 Stat. 1546; Pub. L. 103–349, § 2, Oct. 6, 1994, 108 Stat. 3136; Pub. L. 115–334, title X, § 10108(a), Dec. 20, 2018, 132 Stat. 4906.)
+(Pub. L. 91–577, title II, § 41, Dec. 24, 1970, 84 Stat. 1546; Pub. L. 103–349, § 2, Oct. 6, 1994, 108 Stat. 3136; Pub. L. 115–334, title X, § 10108(a), Dec. 20, 2018, 132 Stat. 4906.)
 
 **Editorial Notes**
 
@@ -415,11 +415,11 @@ A variety may become publicly known and a matter of common knowledge by other me
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–349, § 15, Oct. 6, 1994, 108 Stat. 3145, provided that: “This Act [amending this section and sections 2327, 2330, 2353, 2354, 2357, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under this section and section 2321 of this title] and the amendments made by this Act shall become effective 180 days after the date of enactment of this Act [Oct. 6, 1994].”
+Pub. L. 103–349, § 15, Oct. 6, 1994, 108 Stat. 3145, provided that: “This Act [amending this section and sections 2327, 2330, 2353, 2354, 2357, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under this section and section 2321 of this title] and the amendments made by this Act shall become effective 180 days after the date of enactment of this Act [Oct. 6, 1994].”
 
 **Transitional Provisions for 1994 Amendment**
 
-Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that:
+Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that:
 
 > **“(a) In General.—** Except as provided in this section, any variety for which a certificate of plant variety protection has been issued prior to the effective date of this Act [see Effective Date of 1994 Amendment note above], and any variety for which an application is pending on the effective date of this Act, shall continue to be governed by the Plant Variety Protection Act (7 U.S.C. 2321 et seq.), as in effect on the day before the effective date of this Act.
 
@@ -439,7 +439,7 @@ Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that:
 
 > **“(2) Sanctions.—** Any person that makes a false or misleading statement or claim, or uses a false or misleading label, concerning protection described in paragraph (1) shall be subject to the sanctions described in section 128 of the Plant Variety Protection Act (7 U.S.C. 2568).”
 
-#### § 2402. Right to plant variety protection; plant varieties protectable
+#### § 2402. Right to plant variety protection; plant varieties protectable
 
 **(a) In general** The breeder of any sexually reproduced, tuber propagated, or asexually reproduced plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
 
@@ -475,15 +475,15 @@ Except as provided in subparagraph (B), if 2 or more applicants comply with all 
 
 If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.
 
-(Pub. L. 91–577, title II, § 42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, § 3, Oct. 6, 1994, 108 Stat. 3138; Pub. L. 104–127, title IX, § 913(a), Apr. 4, 1996, 110 Stat. 1186; Pub. L. 115–334, title X, § 10108(b), Dec. 20, 2018, 132 Stat. 4906.)
+(Pub. L. 91–577, title II, § 42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, § 3, Oct. 6, 1994, 108 Stat. 3138; Pub. L. 104–127, title IX, § 913(a), Apr. 4, 1996, 110 Stat. 1186; Pub. L. 115–334, title X, § 10108(b), Dec. 20, 2018, 132 Stat. 4906.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334 substituted “, tuber propagated, or asexually reproduced” for “or tuber propagated” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334 substituted “, tuber propagated, or asexually reproduced” for “or tuber propagated” in introductory provisions.
 
-1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
+1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 
 1994—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
 
@@ -493,17 +493,17 @@ If the varieties that are the subject of the applications cannot be distinguishe
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2403. Reciprocity limits
+#### § 2403. Reciprocity limits
 
 Protection under this chapter may, by regulation, be limited to nationals of the United States, except where this limitation would violate a treaty and except that nationals of a foreign state in which they are domiciled shall be entitled to so much of the protection here afforded as is afforded by said foreign state to nationals of the United States for the same genus and species.
 
-(Pub. L. 91–577, title II, § 43, Dec. 24, 1970, 84 Stat. 1547.)
+(Pub. L. 91–577, title II, § 43, Dec. 24, 1970, 84 Stat. 1547.)
 
-#### § 2404. Public interest in wide usage
+#### § 2404. Public interest in wide usage
 
 The Secretary may declare a protected variety open to use on a basis of equitable remuneration to the owner, not less than a reasonable royalty, when the Secretary determines that such declaration is necessary in order to insure an adequate supply of fiber, food, or feed in this country and that the owner is unwilling or unable to supply the public needs for the variety at a price which may reasonably be deemed fair. Such declaration may be, with or without limitation, with or without designation of what the remuneration is to be; and shall be subject to review as under section 2461 or 2462 of this title (any finding that the price is not reasonable being reviewable), and shall remain in effect not more than two years. In the event litigation is required to collect such remuneration, a higher rate may be allowed by the court.
 
-(Pub. L. 91–577, title II, § 44, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, § 13(f), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 44, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, § 13(f), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -519,15 +519,15 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 ### Part E—Applications; Form; Who May File; Relating Back; Confidentiality
 
-#### § 2421. Application for recognition of plant variety rights
+#### § 2421. Application for recognition of plant variety rights
 
 **(a)** An application for a certificate of Plant Variety Protection may be filed by the owner of the variety sought to be protected. The application shall be made in writing to the Secretary, shall be signed by or on behalf of the applicant, and shall be accompanied by the prescribed fee.
 
 **(b)** An error as to the naming of the breeder, without deceptive intent, may be corrected at any time, in accordance with regulations established by the Secretary.
 
-(Pub. L. 91–577, title II, § 51, Dec. 24, 1970, 84 Stat. 1548.)
+(Pub. L. 91–577, title II, § 51, Dec. 24, 1970, 84 Stat. 1548.)
 
-#### § 2422. Content of application
+#### § 2422. Content of application
 
 An application for a certificate recognizing plant variety rights shall contain:
 
@@ -541,21 +541,21 @@ An application for a certificate recognizing plant variety rights shall contain:
 
 **(5)** A statement of the basis of applicant’s ownership.
 
-(Pub. L. 91–577, title II, § 52, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 96–574, § 11, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, § 4, Oct. 6, 1994, 108 Stat. 3139.)
+(Pub. L. 91–577, title II, § 52, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 96–574, § 11, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, § 4, Oct. 6, 1994, 108 Stat. 3139.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Par. (1). Pub. L. 103–349, § 4(1), inserted at end “The variety shall be named in accordance with regulations issued by the Secretary.”
+1994—Par. (1). Pub. L. 103–349, § 4(1), inserted at end “The variety shall be named in accordance with regulations issued by the Secretary.”
 
-Par. (2). Pub. L. 103–349, § 4(2), in first sentence substituted “distinctiveness, uniformity, and stability” for “novelty”.
+Par. (2). Pub. L. 103–349, § 4(2), in first sentence substituted “distinctiveness, uniformity, and stability” for “novelty”.
 
-Par. (3). Pub. L. 103–349, § 4(4), added par. (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 103–349, § 4(4), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 103–349, § 4(3), (5), redesignated par. (3) as (4) and inserted “(including any propagating material)” after “basic seed”. Former par. (4) redesignated (5).
+Par. (4). Pub. L. 103–349, § 4(3), (5), redesignated par. (3) as (4) and inserted “(including any propagating material)” after “basic seed”. Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 103–349, § 4(3), redesignated par. (4) as (5).
+Par. (5). Pub. L. 103–349, § 4(3), redesignated par. (4) as (5).
 
 1980—Par. (3). Pub. L. 96–574 struck out provisions relating to adding of declaration by amendment.
 
@@ -565,21 +565,21 @@ Par. (5). Pub. L. 103–349, § 4(3), redesignated par. (4) as (5).
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2423. Joint breeders
+#### § 2423. Joint breeders
 
 **(a)** When two or more persons are the breeders, one person (or the successor of the person) may apply, naming the others.
 
 **(b)** The Secretary, after such notice as the Secretary may prescribe, may issue a certificate of plant variety protection to the applicant and such of the other breeders (or their successors in interest) as may have subsequently joined in the application.
 
-(Pub. L. 91–577, title II, § 53, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, § 13(g), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 53, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, § 13(g), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–349, § 13(g)(1), substituted “one person (or the successor of the person)” for “one (or his successor)”.
+1994—Subsec. (a). Pub. L. 103–349, § 13(g)(1), substituted “one person (or the successor of the person)” for “one (or his successor)”.
 
-Subsec. (b). Pub. L. 103–349, § 13(g)(2), substituted “the Secretary” for “he” before “may”.
+Subsec. (b). Pub. L. 103–349, § 13(g)(2), substituted “the Secretary” for “he” before “may”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -587,11 +587,11 @@ Subsec. (b). Pub. L. 103–349, § 13(g)(2), substituted “the Secretary” f
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2424. Death or incapacity of breeder
+#### § 2424. Death or incapacity of breeder
 
 Legal representatives of deceased breeders and of those under legal incapacity may make application for plant variety protection upon compliance with the requirements and on the same terms and conditions applicable to the breeder or the successor in interest of the breeder.
 
-(Pub. L. 91–577, title II, § 54, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, § 13(h), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 54, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, § 13(h), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -605,7 +605,7 @@ Legal representatives of deceased breeders and of those under legal incapacity m
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2425. Benefit of earlier filing date
+#### § 2425. Benefit of earlier filing date
 
 **(a)**
 
@@ -627,21 +627,21 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **(c)** A later application shall not by itself establish that a characteristic newly described was in the variety at the time of the earlier application.
 
-(Pub. L. 91–577, title II, § 55, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, §§ 5, 13(i), Oct. 6, 1994, 108 Stat. 3139, 3143.)
+(Pub. L. 91–577, title II, § 55, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, §§ 5, 13(i), Oct. 6, 1994, 108 Stat. 3139, 3143.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–349, § 5(1), designated first sentence as par. (1) and second sentence as par. (2).
+1994—Subsec. (a). Pub. L. 103–349, § 5(1), designated first sentence as par. (1) and second sentence as par. (2).
 
-Subsec. (a)(1). Pub. L. 103–349, § 5(2), inserted before period at end “, not including the date on which the application is filed in the foreign country”.
+Subsec. (a)(1). Pub. L. 103–349, § 5(2), inserted before period at end “, not including the date on which the application is filed in the foreign country”.
 
-Subsec. (a)(2). Pub. L. 103–349, § 13(i)(1), substituted “in the application filed in the United States” for “in his application”.
+Subsec. (a)(2). Pub. L. 103–349, § 13(i)(1), substituted “in the application filed in the United States” for “in his application”.
 
-Subsec. (a)(3). Pub. L. 103–349, § 5(3), added par. (3).
+Subsec. (a)(3). Pub. L. 103–349, § 5(3), added par. (3).
 
-Subsec. (b). Pub. L. 103–349, § 13(i)(2), substituted “the predecessor in title of the person” for “his predecessor in title”.
+Subsec. (b). Pub. L. 103–349, § 13(i)(2), substituted “the predecessor in title of the person” for “his predecessor in title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,11 +649,11 @@ Subsec. (b). Pub. L. 103–349, § 13(i)(2), substituted “the predecessor in
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2426. Confidential status of application
+#### § 2426. Confidential status of application
 
 Applications for plant variety protection and their contents shall be kept in confidence by the Plant Variety Protection Office, by the Board, and by the offices in the Department of Agriculture to which access may be given under regulations. No information concerning the same shall be given without the authority of the owner, unless necessary under special circumstances as may be determined by the Secretary, except that the Secretary may publish the variety names designated in applications, stating the kind to which each applies, the name of the applicant, and whether the applicant specified that the variety is to be sold by variety name only as a class of certified seed.
 
-(Pub. L. 91–577, title II, § 56, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 96–574, § 12, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title II, § 56, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 96–574, § 12, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -661,11 +661,11 @@ Applications for plant variety protection and their contents shall be kept in co
 
 1980—Pub. L. 96–574 inserted provisions relating to name of applicant and sale of the variety.
 
-#### § 2427. Publication
+#### § 2427. Publication
 
 The Secretary may establish regulations for the publication of information regarding any pending application when publication is requested by the owner.
 
-(Pub. L. 91–577, title II, § 57, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 96–574, § 13, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title II, § 57, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 96–574, § 13, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -675,19 +675,19 @@ The Secretary may establish regulations for the publication of information regar
 
 ### Part F—Examinations; Response Time; Initial Appeals
 
-#### § 2441. Examination of application
+#### § 2441. Examination of application
 
 The Secretary shall cause an examination to be made of the application and if on such examination it is determined that the applicant is entitled to plant variety protection under the law, the Secretary shall issue a notice of allowance of plant variety protection therefor as hereinafter provided.
 
-(Pub. L. 91–577, title II, § 61, Dec. 24, 1970, 84 Stat. 1549.)
+(Pub. L. 91–577, title II, § 61, Dec. 24, 1970, 84 Stat. 1549.)
 
-#### § 2442. Notice of refusal; reconsideration
+#### § 2442. Notice of refusal; reconsideration
 
 **(a)** Whenever an application is refused, or any objection or requirement made by the examiner, the Secretary shall notify the applicant thereof, stating the reasons therefor, together with such information and references as may be useful in judging the propriety of continuing the prosecution of the application; and if after receiving such notice the applicant requests reconsideration, with or without amendment, the application shall be reconsidered.
 
 **(b)** For taking appropriate action after the mailing to an applicant of an action other than allowance, the applicant shall be allowed at least 30 days, and not more than 180 days, or such other time as the Secretary shall set in the refusal, or such time as the Secretary may allow as an extension. Without such extension, action may be taken up to three months late by paying an additional fee to be prescribed by the Secretary.
 
-(Pub. L. 91–577, title II, § 62, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 103–349, §§ 6, 13(j), Oct. 6, 1994, 108 Stat. 3140, 3143.)
+(Pub. L. 91–577, title II, § 62, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 103–349, §§ 6, 13(j), Oct. 6, 1994, 108 Stat. 3140, 3143.)
 
 **Editorial Notes**
 
@@ -701,19 +701,19 @@ The Secretary shall cause an examination to be made of the application and if on
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2443. Initial appeal
+#### § 2443. Initial appeal
 
 When an application for plant variety protection has been refused by the Plant Variety Protection Office, the applicant may appeal to the Secretary. The Secretary shall seek the advice of the Plant Variety Protection Board on all appeals, before deciding the appeal.
 
-(Pub. L. 91–577, title II, § 63, Dec. 24, 1970, 84 Stat. 1550.)
+(Pub. L. 91–577, title II, § 63, Dec. 24, 1970, 84 Stat. 1550.)
 
 ### Part G—Appeals to Courts and Other Review
 
-#### § 2461. Appeals
+#### § 2461. Appeals
 
 From the decisions made under sections 2404, 2443, 2501, and 2568 of this title appeal may, within sixty days or such further times as the Secretary allows, be taken under the Federal Rules of Appellate Procedure. The United States Court of Appeals for the Federal Circuit shall have jurisdiction of any such appeal.
 
-(Pub. L. 91–577, title II, § 71, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 97–164, title I, § 145, Apr. 2, 1982, 96 Stat. 45; Pub. L. 103–349, § 8(d)(1), Oct. 6, 1994, 108 Stat. 3141.)
+(Pub. L. 91–577, title II, § 71, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 97–164, title I, § 145, Apr. 2, 1982, 96 Stat. 45; Pub. L. 103–349, § 8(d)(1), Oct. 6, 1994, 108 Stat. 3141.)
 
 **Editorial Notes**
 
@@ -733,11 +733,11 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 2462. Civil action against Secretary
+#### § 2462. Civil action against Secretary
 
 An applicant dissatisfied with a decision under section 2443 or 2501 of this title, may, as an alternative to appeal, have remedy by civil action against the Secretary in the United States District Court for the District of Columbia. Such action shall be commenced within sixty days after such decision or within such further time as the Secretary allows. The court may, in the case of review of a decision by the Secretary refusing plant variety protection, adjudge that such applicant is entitled to receive a certificate of plant variety protection for the variety as specified in the application as the facts of the case may appear, on compliance with the requirements of this chapter.
 
-(Pub. L. 91–577, title II, § 72, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 103–349, § 13(k), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 72, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 103–349, § 13(k), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -751,9 +751,9 @@ An applicant dissatisfied with a decision under section 2443 or 2501 of this tit
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2463. Repealed. Pub. L. 103–349, § 8(c)(2), Oct. 6, 1994, 108 Stat. 3141
+#### § 2463. Repealed. Pub. L. 103–349, § 8(c)(2), Oct. 6, 1994, 108 Stat. 3141
 
-Section, Pub. L. 91–577, title II, § 73, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 103–349, § 8(c)(1), Oct. 6, 1994, 108 Stat. 3140, related to appeal or civil action in contested cases. Prior to repeal, subsec. (b) of this section was transferred to section 2504 of this title by Pub. L. 103–349, § 8(c)(1), Oct. 6, 1994, 108 Stat. 3140.
+Section, Pub. L. 91–577, title II, § 73, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 103–349, § 8(c)(1), Oct. 6, 1994, 108 Stat. 3140, related to appeal or civil action in contested cases. Prior to repeal, subsec. (b) of this section was transferred to section 2504 of this title by Pub. L. 103–349, § 8(c)(1), Oct. 6, 1994, 108 Stat. 3140.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -763,31 +763,31 @@ Repeal effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–34
 
 ### Part H—Certificates of Plant Variety Protection
 
-#### § 2481. Plant variety protection
+#### § 2481. Plant variety protection
 
 **(a)** If it appears that a certificate of plant variety protection should be issued on an application, a written notice of allowance shall be given or mailed to the owner. The notice shall specify the sum, constituting the issue fee, which shall be paid within one month thereafter.
 
-**(b)** Upon timely payment of this sum, and provided that deposit of seed has been made in accordance with section 2422(3) 1
+**(b)** Upon timely payment of this sum, and provided that deposit of seed has been made in accordance with section 2422(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the certificate of plant variety protection shall issue.
 
 **(c)** If any payment required by this section is not timely made, but is submitted with an additional fee prescribed by the Secretary within nine months after the due date or within such further time as the Secretary may allow, it shall be accepted.
 
-(Pub. L. 91–577, title II, § 81, Dec. 24, 1970, 84 Stat. 1551.)
+(Pub. L. 91–577, title II, § 81, Dec. 24, 1970, 84 Stat. 1551.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2422(3) of this title, referred to in subsec. (b), was redesignated section 2422(4) of this title by Pub. L. 103–349, § 4, Oct. 6, 1994, 108 Stat. 3139.
+Section 2422(3) of this title, referred to in subsec. (b), was redesignated section 2422(4) of this title by Pub. L. 103–349, § 4, Oct. 6, 1994, 108 Stat. 3139.
 
-#### § 2482. How issued
+#### § 2482. How issued
 
 A certificate of plant variety protection shall be issued in the name of the United States of America under the seal of the Plant Variety Protection Office, and shall be signed by the Secretary or have the signature of the Secretary placed thereon, and shall be recorded in the Plant Variety Protection Office.
 
-(Pub. L. 91–577, title II, § 82, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 103–349, § 13(*l*), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 82, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 103–349, § 13(*l*), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -801,13 +801,13 @@ A certificate of plant variety protection shall be issued in the name of the Uni
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2483. Contents and term of plant variety protection
+#### § 2483. Contents and term of plant variety protection
 
 **(a) Certificate**
 
 **(1)** Every certificate of plant variety protection shall certify that the breeder (or the successor in interest of the breeder),1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 has the right, during the term of the plant variety protection, to exclude others from selling the variety, or offering it for sale, or reproducing it, or importing it, or exporting it, or using it in producing (as distinguished from developing) a hybrid or different variety therefrom, to the extent provided by this chapter.
 
@@ -837,31 +837,31 @@ If the certificate is not issued within three years from the effective filing da
 
 The term of plant variety protection shall also expire if the owner fails to comply with regulations, in force at the time of certificating, relating to replenishing seed in a public repository, or requiring the submission of a different name for the variety, except that this expiration shall not occur unless notice is mailed to the last owner recorded as provided in section 2531(d) of this title and the last owner fails, within the time allowed thereafter, not less than three months, to comply with said regulations, paying an additional fee to be prescribed by the Secretary.
 
-(Pub. L. 91–577, title II, § 83, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 96–574, § 14, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, §§ 7, 13(m), Oct. 6, 1994, 108 Stat. 3140, 3143; Pub. L. 104–127, title IX, § 913(b), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 91–577, title II, § 83, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 96–574, § 14, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, §§ 7, 13(m), Oct. 6, 1994, 108 Stat. 3140, 3143; Pub. L. 104–127, title IX, § 913(b), Apr. 4, 1996, 110 Stat. 1186.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (b). Pub. L. 104–127, § 913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the term” for “The term”, designated second sentence as par. (2), and inserted par. heading.
+1996—Subsec. (b). Pub. L. 104–127, § 913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the term” for “The term”, designated second sentence as par. (2), and inserted par. heading.
 
-Subsec. (b)(1). Pub. L. 104–127, § 913(b)(3), which directed the amendment of par. (2) by striking out “except that, in the case” and inserting “except that—”, subpar. (A), and “(B) in the case”, was executed to par. (1) to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 104–127, § 913(b)(3), which directed the amendment of par. (2) by striking out “except that, in the case” and inserting “except that—”, subpar. (A), and “(B) in the case”, was executed to par. (1) to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–349, § 7(1)(A), designated first through fourth sentences as pars. (1) to (4), respectively.
+1994—Subsec. (a). Pub. L. 103–349, § 7(1)(A), designated first through fourth sentences as pars. (1) to (4), respectively.
 
-Subsec. (a)(1). Pub. L. 103–349, § 13(m)(1)(A), which directed the substitution of “(or the successor in interest of the breeder)” for “(or his successor in interest) his heirs and assignees”, was executed by making the substitution for “(or his successor in interest) his heirs or assignees”, to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 103–349, § 13(m)(1)(A), which directed the substitution of “(or the successor in interest of the breeder)” for “(or his successor in interest) his heirs and assignees”, was executed by making the substitution for “(or his successor in interest) his heirs or assignees”, to reflect the probable intent of Congress.
 
-Subsec. (a)(2), (3). Pub. L. 103–349, § 7(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (a)(2), (3). Pub. L. 103–349, § 7(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the variety shall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
 
 “(3) Any rights, or all rights except those elected under the preceding sentence, may be waived; and the certificate shall conform to such waiver.”
 
-Subsec. (a)(4). Pub. L. 103–349, § 13(m)(1)(B), substituted “the discretion of the Secretary” for “his discretion”.
+Subsec. (a)(4). Pub. L. 103–349, § 13(m)(1)(B), substituted “the discretion of the Secretary” for “his discretion”.
 
-Subsec. (b). Pub. L. 103–349, § 7(2), in first sentence substituted “20 years” for “eighteen years” and inserted before period at end “, except that, in the case of a tree or vine, the term of the plant variety protection shall expire 25 years from the date of issue of the certificate”.
+Subsec. (b). Pub. L. 103–349, § 7(2), in first sentence substituted “20 years” for “eighteen years” and inserted before period at end “, except that, in the case of a tree or vine, the term of the plant variety protection shall expire 25 years from the date of issue of the certificate”.
 
-Subsec. (c). Pub. L. 103–349, §§ 7(3), 13(m)(2), substituted “repository, or requiring the submission of a different name for the variety, except that” for “repository: *Provided, however*, That” and “the last owner” for “he” before “fails”.
+Subsec. (c). Pub. L. 103–349, §§ 7(3), 13(m)(2), substituted “repository, or requiring the submission of a different name for the variety, except that” for “repository: *Provided, however*, That” and “the last owner” for “he” before “fails”.
 
 1980—Subsec. (b). Pub. L. 96–574 substituted “eighteen” for “seventeen”.
 
@@ -871,11 +871,11 @@ Subsec. (c). Pub. L. 103–349, §§ 7(3), 13(m)(2), substituted “repository
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2484. Correction of Plant Variety Protection Office mistake
+#### § 2484. Correction of Plant Variety Protection Office mistake
 
 Whenever a mistake in a certificate of plant variety protection incurred through the fault of the Plant Variety Protection Office is clearly disclosed by the records of the Office, the Secretary may issue, without charge, a corrected certificate of plant variety protection, stating the fact and nature of such mistake. Such certificate of plant variety protection shall have the same effect and operation in law as if the same had been originally issued in such corrected form.
 
-(Pub. L. 91–577, title II, § 84, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 15, Dec. 22, 1980, 94 Stat. 3350.)
+(Pub. L. 91–577, title II, § 84, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 15, Dec. 22, 1980, 94 Stat. 3350.)
 
 **Editorial Notes**
 
@@ -883,11 +883,11 @@ Whenever a mistake in a certificate of plant variety protection incurred through
 
 1980—Pub. L. 96–574 substituted provisions relating to correction of Plant Variety Protection Office mistake for provisions relating to certificate of correction of Plant Variety Protection Office mistake.
 
-#### § 2485. Correction of applicant’s mistake
+#### § 2485. Correction of applicant’s mistake
 
 Whenever a mistake of a clerical or typographical nature, or of minor character, or in the description of the variety, which was not the fault of the Plant Variety Protection Office, appears in a certificate of plant variety protection and a showing has been made that such mistake occurred in good faith, the Secretary may, upon payment of the required fee, issue a corrected certificate if the correction could have been made before the certificate issued. Such certificate of plant variety protection shall have the same effect and operation in law as if the same had been originally issued in such corrected form.
 
-(Pub. L. 91–577, title II, § 85, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 16, Dec. 22, 1980, 94 Stat. 3351.)
+(Pub. L. 91–577, title II, § 85, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 16, Dec. 22, 1980, 94 Stat. 3351.)
 
 **Editorial Notes**
 
@@ -895,11 +895,11 @@ Whenever a mistake of a clerical or typographical nature, or of minor character,
 
 1980—Pub. L. 96–574 struck out applicability of section 2484 of this title to manner and form of certificate, and reference to trials of actions thereafter arising with respect to effect and operation in law of certificate.
 
-#### § 2486. Correction of named breeder
+#### § 2486. Correction of named breeder
 
 An error as to the naming of a breeder in the application, without deceptive intent, shall not affect validity of plant variety protection and may be corrected at any time by the Secretary in accordance with regulations established by the Secretary or upon order of a federal court before which the matter is called in question. Upon such correction the Secretary shall issue a certificate accordingly. Such correction shall not deprive any person of any rights the person otherwise would have had.
 
-(Pub. L. 91–577, title II, § 86, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 103–349, § 13(n), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title II, § 86, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 103–349, § 13(n), Oct. 6, 1994, 108 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -915,7 +915,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 ### Part I—Reexamination After Issue, and Contested Proceedings
 
-#### § 2501. Reexamination after issue
+#### § 2501. Reexamination after issue
 
 **(a)** Any person may, within five years after the issuance of a certificate of plant variety protection, notify the Secretary in writing of facts which may have a bearing on the protectability of the variety, and the Secretary may cause such plant variety protection to be reexamined in the light thereof.
 
@@ -923,7 +923,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **(c)** If a person acting under subsection (a) makes a prima facie showing of facts needing proof, the Secretary may direct that the reexamination include such interparty proceedings as the Secretary shall establish.
 
-(Pub. L. 91–577, title II, § 91, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 17, Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, § 13(*o*), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title II, § 91, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, § 17, Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, § 13(*o*), Oct. 6, 1994, 108 Stat. 3144.)
 
 **Editorial Notes**
 
@@ -939,11 +939,11 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### §§ 2502, 2503. Repealed. Pub. L. 103–349, § 8(a), Oct. 6, 1994, 108 Stat. 3140
+#### §§ 2502, 2503. Repealed. Pub. L. 103–349, § 8(a), Oct. 6, 1994, 108 Stat. 3140
 
-Section 2502, Pub. L. 91–577, title II, § 92, Dec. 24, 1970, 84 Stat. 1553, related to priority contest.
+Section 2502, Pub. L. 91–577, title II, § 92, Dec. 24, 1970, 84 Stat. 1553, related to priority contest.
 
-Section 2503, Pub. L. 91–577, title II, § 93, Dec. 24, 1970, 84 Stat. 1553; Pub. L. 96–574, § 18, Dec. 22, 1980, 94 Stat. 3351, related to effect of adverse final judgment or of nonaction.
+Section 2503, Pub. L. 91–577, title II, § 93, Dec. 24, 1970, 84 Stat. 1553; Pub. L. 96–574, § 18, Dec. 22, 1980, 94 Stat. 3351, related to effect of adverse final judgment or of nonaction.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -951,19 +951,19 @@ Section 2503, Pub. L. 91–577, title II, § 93, Dec. 24, 1970, 84 Stat. 1553;
 
 Repeal effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as an Effective Date of 1994 Amendment note under section 2401 of this title.
 
-#### § 2504. Interfering plant variety protection
+#### § 2504. Interfering plant variety protection
 
 **(a)** The owner of a certificate of plant variety protection may have relief against another owner of a certificate of the same variety by civil action, and the court may adjudge the question of validity of the respective certificates, or the ownership of the certificate.
 
 **(b)** Such suit may be instituted against the party in interest as shown by the record of the Plant Variety Protection Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the District of Columbia, or any United States district court to which it may transfer the case, shall have jurisdiction and may issue summons against the adverse parties directed to the marshall of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs. The Secretary shall not be made a party but the Secretary shall have the right to intervene. Judgment of the court in favor of the right of an applicant to plant variety protection shall authorize the Secretary to issue a certificate of plant variety protection on the filing in the Plant Variety Protection Office of a certified copy of the judgment and on compliance with the requirements of this chapter.
 
-(Pub. L. 91–577, title II, § 92, formerly § 94, Dec. 24, 1970, 84 Stat. 1553; renumbered § 92 and amended Pub. L. 103–349, §§ 8(b), (c)(1), 13(p), Oct. 6, 1994, 108 Stat. 3140, 3144.)
+(Pub. L. 91–577, title II, § 92, formerly § 94, Dec. 24, 1970, 84 Stat. 1553; renumbered § 92 and amended Pub. L. 103–349, §§ 8(b), (c)(1), 13(p), Oct. 6, 1994, 108 Stat. 3140, 3144.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2463 of this title, which was transferred to subsec. (b) of this section by Pub. L. 103–349, § 8(c)(1), was based on section 73(b) of Pub. L. 91–577, title II, Dec. 24, 1970, 84 Stat. 1550.
+The text of subsec. (b) of section 2463 of this title, which was transferred to subsec. (b) of this section by Pub. L. 103–349, § 8(c)(1), was based on section 73(b) of Pub. L. 91–577, title II, Dec. 24, 1970, 84 Stat. 1550.
 
 **Prior Provisions**
 
@@ -971,9 +971,9 @@ A prior section 92 of Pub. L. 91–577 was classified to section 2502 of this ti
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–349, § 8(b)(2), designated existing provisions as subsec. (a) and struck out at end “The provisions of section 2463(b) of this title shall apply to actions brought under this section.”
+1994—Subsec. (a). Pub. L. 103–349, § 8(b)(2), designated existing provisions as subsec. (a) and struck out at end “The provisions of section 2463(b) of this title shall apply to actions brought under this section.”
 
-Subsec. (b). Pub. L. 103–349, §§ 8(c)(1), 13(p), transferred subsec. (b) of section 2463 of this title to subsec. (b) of this section, and substituted “the Secretary” for “he” before “shall have” in fourth sentence. See Codification note above.
+Subsec. (b). Pub. L. 103–349, §§ 8(c)(1), 13(p), transferred subsec. (b) of section 2463 of this title to subsec. (b) of this section, and substituted “the Secretary” for “he” before “shall have” in fourth sentence. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -985,7 +985,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 ### Part J—Ownership and Assignment
 
-#### § 2531. Ownership and assignment
+#### § 2531. Ownership and assignment
 
 **(a)** Subject to the provisions of this subchapter, plant variety protection shall have the attributes of personal property.
 
@@ -995,13 +995,13 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **(d)** An assignment, grant, conveyance or license shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it, or an acknowledgment thereof by the person giving such encumbrance that there is such encumbrance, is filed for recording in the Plant Variety Protection Office within one month from its date or at least one month prior to the date of such subsequent purchase or mortgage.
 
-(Pub. L. 91–577, title III, § 101, Dec. 24, 1970, 84 Stat. 1554.)
+(Pub. L. 91–577, title III, § 101, Dec. 24, 1970, 84 Stat. 1554.)
 
-#### § 2532. Ownership during testing
+#### § 2532. Ownership during testing
 
 An owner who, with notice that release is for testing only, releases possession of seed or other sexually reproducible or tuber propagable plant material for testing retains ownership with respect thereto; and any diversion from authorized testing, or any unauthorized retention, of such material by anyone who has knowledge that it is under such notice, or who is chargeable with notice, is prohibited, and violates the property rights of the owner. Anyone receiving the material tagged or labeled with the notice is chargeable with the notice. The owner is entitled to remedy and redress in a civil action hereunder. No remedy available by State or local law is hereby excluded. No such notice shall be used, or if used be effective, when the owner has made identical sexually reproducible or tuber propagable plant material available to the public, as by sale thereof.
 
-(Pub. L. 91–577, title III, § 102, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 103–349, § 8(d)(2), Oct. 6, 1994, 108 Stat. 3141.)
+(Pub. L. 91–577, title III, § 102, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 103–349, § 8(d)(2), Oct. 6, 1994, 108 Stat. 3141.)
 
 **Editorial Notes**
 
@@ -1017,7 +1017,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 ### Part K—Infringement of Plant Variety Protection
 
-#### § 2541. Infringement of plant variety protection
+#### § 2541. Infringement of plant variety protection
 
 **(a) Acts constituting infringement** Except as otherwise provided in this subchapter, it shall be an infringement of the rights of the owner of a protected variety to perform without authority, any of the following acts in the United States, or in commerce which can be regulated by Congress or affecting such commerce, prior to expiration of the right to plant variety protection but after either the issue of the certificate or the distribution of a protected plant variety with the notice under section 2567 of this title:
 
@@ -1079,7 +1079,7 @@ It shall not be an infringement of the rights of the owner of a variety to perfo
 
 As used in this section, the term “perform without authority” includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
-(Pub. L. 91–577, title III, § 111, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 96–574, § 19(a), Dec. 22, 1980, 94 Stat. 3351; Pub. L. 102–560, § 3(a), Oct. 28, 1992, 106 Stat. 4231; Pub. L. 103–349, §§ 9, 13(q), Oct. 6, 1994, 108 Stat. 3141, 3144; Pub. L. 115–334, title X, § 10108(c), Dec. 20, 2018, 132 Stat. 4906.)
+(Pub. L. 91–577, title III, § 111, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 96–574, § 19(a), Dec. 22, 1980, 94 Stat. 3351; Pub. L. 102–560, § 3(a), Oct. 28, 1992, 106 Stat. 4231; Pub. L. 103–349, §§ 9, 13(q), Oct. 6, 1994, 108 Stat. 3141, 3144; Pub. L. 115–334, title X, § 10108(c), Dec. 20, 2018, 132 Stat. 4906.)
 
 **Editorial Notes**
 
@@ -1093,31 +1093,31 @@ The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(
 
 2018—Subsec. (a)(3). Pub. L. 115–334 inserted “or asexually” after “sexually”.
 
-1994—Subsec. (a). Pub. L. 103–349, § 9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–349, § 9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 103–349, § 9(1)(B), substituted “or market the protected” for “the novel”.
+Subsec. (a)(1). Pub. L. 103–349, § 9(1)(B), substituted “or market the protected” for “the novel”.
 
-Subsec. (a)(2). Pub. L. 103–349, § 9(1)(C), struck out “novel” before “variety”.
+Subsec. (a)(2). Pub. L. 103–349, § 9(1)(C), struck out “novel” before “variety”.
 
-Subsec. (a)(3). Pub. L. 103–349, § 9(1)(C)–(E), inserted “, or propagate by a tuber or a part of a tuber,” after “multiply”, struck out “novel” before “variety”, and struck out “or” at end.
+Subsec. (a)(3). Pub. L. 103–349, § 9(1)(C)–(E), inserted “, or propagate by a tuber or a part of a tuber,” after “multiply”, struck out “novel” before “variety”, and struck out “or” at end.
 
-Subsec. (a)(4) to (6). Pub. L. 103–349, § 9(1)(C), (E), struck out “novel” before “variety” and struck out “or” at end.
+Subsec. (a)(4) to (6). Pub. L. 103–349, § 9(1)(C), (E), struck out “novel” before “variety” and struck out “or” at end.
 
-Subsec. (a)(7). Pub. L. 103–349, § 9(1)(G), added par. (7). Former par. (7) redesignated (9).
+Subsec. (a)(7). Pub. L. 103–349, § 9(1)(G), added par. (7). Former par. (7) redesignated (9).
 
-Pub. L. 103–349, § 9(1)(C), struck out “novel” before “variety”.
+Pub. L. 103–349, § 9(1)(C), struck out “novel” before “variety”.
 
-Subsec. (a)(8). Pub. L. 103–349, § 9(1)(G), added par. (8). Former par. (8) redesignated (10).
+Subsec. (a)(8). Pub. L. 103–349, § 9(1)(G), added par. (8). Former par. (8) redesignated (10).
 
-Subsec. (a)(9), (10). Pub. L. 103–349, § 9(1)(F), redesignated pars. (7) and (8) as (9) and (10), respectively.
+Subsec. (a)(9), (10). Pub. L. 103–349, § 9(1)(F), redesignated pars. (7) and (8) as (9) and (10), respectively.
 
-Subsecs. (b) to (e). Pub. L. 103–349, § 9(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
+Subsecs. (b) to (e). Pub. L. 103–349, § 9(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
-Subsec. (f). Pub. L. 103–349, §§ 9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
+Subsec. (f). Pub. L. 103–349, §§ 9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
 
 1992—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Par. (5). Pub. L. 96–574 substituted “ ‘Unauthorized Propagation Prohibited’ or ‘Unauthorized Seed Multiplication Prohibited’ ” for “ ‘propagation prohibited’ ”.
+1980—Par. (5). Pub. L. 96–574 substituted “ ‘Unauthorized Propagation Prohibited’ or ‘Unauthorized Seed Multiplication Prohibited’ ” for “ ‘propagation prohibited’ ”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1127,13 +1127,13 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–560, § 4, Oct. 28, 1992, 106 Stat. 4232, provided that: “The amendments made by this Act [enacting section 2570 of this title and section 296 of Title 35, Patents, and amending this section and section 271 of Title 35] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–560, § 4, Oct. 28, 1992, 106 Stat. 4232, provided that: “The amendments made by this Act [enacting section 2570 of this title and section 296 of Title 35, Patents, and amending this section and section 271 of Title 35] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Oct. 28, 1992].”
 
-#### § 2542. Grandfather clause
+#### § 2542. Grandfather clause
 
 Nothing in this chapter shall abridge the right of any person, or the successor in interest of the person, to reproduce or sell a variety developed and produced by such person more than one year prior to the effective filing date of an adverse application for a certificate of plant variety protection.
 
-(Pub. L. 91–577, title III, § 112, Dec. 24, 1970, 84 Stat. 1555; Pub. L. 103–349, § 13(r), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title III, § 112, Dec. 24, 1970, 84 Stat. 1555; Pub. L. 103–349, § 13(r), Oct. 6, 1994, 108 Stat. 3144.)
 
 **Editorial Notes**
 
@@ -1147,27 +1147,27 @@ Nothing in this chapter shall abridge the right of any person, or the successor 
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2543. Right to save seed; crop exemption
+#### § 2543. Right to save seed; crop exemption
 
-Except to the extent that such action may constitute an infringement under subsections (3) and (4) of section 2541 1
+Except to the extent that such action may constitute an infringement under subsections (3) and (4) of section 2541 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, it shall not infringe any right hereunder for a person to save seed produced by the person from seed obtained, or descended from seed obtained, by authority of the owner of the variety for seeding purposes and use such saved seed in the production of a crop for use on the farm of the person, or for sale as provided in this section. A bona fide sale for other than reproductive purposes, made in channels usual for such other purposes, of seed produced on a farm either from seed obtained by authority of the owner for seeding purposes or from seed produced by descent on such farm from seed obtained by authority of the owner for seeding purposes shall not constitute an infringement. A purchaser who diverts seed from such channels to seeding purposes shall be deemed to have notice under section 2567 of this title that the actions of the purchaser constitute an infringement.
 
-(Pub. L. 91–577, title III, § 113, Dec. 24, 1970, 84 Stat. 1555; Pub. L. 103–349, §§ 10, 13(s), Oct. 6, 1994, 108 Stat. 3142, 3144.)
+(Pub. L. 91–577, title III, § 113, Dec. 24, 1970, 84 Stat. 1555; Pub. L. 103–349, §§ 10, 13(s), Oct. 6, 1994, 108 Stat. 3142, 3144.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (3) and (4) of section 2541 of this title, referred to in text, probably means paragraphs (3) and (4) of section 2541 of this title, which were redesignated subsection (a)(3) and (4) of section 2541 of this title by Pub. L. 102–560, § 3(a), Oct. 28, 1992, 106 Stat. 4231.
+Subsections (3) and (4) of section 2541 of this title, referred to in text, probably means paragraphs (3) and (4) of section 2541 of this title, which were redesignated subsection (a)(3) and (4) of section 2541 of this title by Pub. L. 102–560, § 3(a), Oct. 28, 1992, 106 Stat. 4231.
 
 **Amendments**
 
-1994—Pub. L. 103–349, §§ 10, 13(s)(1), in first sentence substituted “produced by the person” for “produced by him”, “the farm of the person” for “his farm”, and “section.” for “section: *Provided*, That without regard to the provisions of section 2541(3) of this title it shall not infringe any right hereunder for a person, whose primary farming occupation is the growing of crops for sale for other than reproductive purposes, to sell such saved seed to other persons so engaged, for reproductive purposes, provided such sale is in compliance with such State laws governing the sale of seed as may be applicable.”
+1994—Pub. L. 103–349, §§ 10, 13(s)(1), in first sentence substituted “produced by the person” for “produced by him”, “the farm of the person” for “his farm”, and “section.” for “section: *Provided*, That without regard to the provisions of section 2541(3) of this title it shall not infringe any right hereunder for a person, whose primary farming occupation is the growing of crops for sale for other than reproductive purposes, to sell such saved seed to other persons so engaged, for reproductive purposes, provided such sale is in compliance with such State laws governing the sale of seed as may be applicable.”
 
-Pub. L. 103–349, § 13(s)(2), substituted “the actions of the purchaser” for “his actions” in third sentence.
+Pub. L. 103–349, § 13(s)(2), substituted “the actions of the purchaser” for “his actions” in third sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1175,25 +1175,25 @@ Pub. L. 103–349, § 13(s)(2), substituted “the actions of the purchaser”
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2544. Research exemption
+#### § 2544. Research exemption
 
 The use and reproduction of a protected variety for plant breeding or other bona fide research shall not constitute an infringement of the protection provided under this chapter.
 
-(Pub. L. 91–577, title III, § 114, Dec. 24, 1970, 84 Stat. 1555.)
+(Pub. L. 91–577, title III, § 114, Dec. 24, 1970, 84 Stat. 1555.)
 
-#### § 2545. Intermediary exemption
+#### § 2545. Intermediary exemption
 
 Transportation or delivery by a carrier in the ordinary course of its business as a carrier, or advertising by a person in the advertising business in the ordinary course of that business, shall not constitute an infringement of the protection provided under this chapter.
 
-(Pub. L. 91–577, title III, § 115, Dec. 24, 1970, 84 Stat. 1555.)
+(Pub. L. 91–577, title III, § 115, Dec. 24, 1970, 84 Stat. 1555.)
 
 ### Part L—Remedies for Infringement of Plant Variety Protection, and Other Actions
 
-#### § 2561. Remedy for infringement of plant variety protection
+#### § 2561. Remedy for infringement of plant variety protection
 
 An owner shall have remedy by civil action for infringement of plant variety protection under section 2541 of this title. If a variety is sold under the name of a variety shown in a certificate, there is a prima facie presumption that it is the same variety.
 
-(Pub. L. 91–577, title III, § 121, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, § 13(t), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title III, § 121, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, § 13(t), Oct. 6, 1994, 108 Stat. 3144.)
 
 **Editorial Notes**
 
@@ -1207,21 +1207,21 @@ An owner shall have remedy by civil action for infringement of plant variety pro
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2562. Presumption of validity; defenses
+#### § 2562. Presumption of validity; defenses
 
 **(a)** Certificates of plant variety protection shall be presumed valid. The burden of establishing invalidity of a plant variety protection shall rest on the party asserting invalidity.
 
 **(b)** The following shall be defenses in any action charging infringement and shall be pleaded: (1) noninfringement, absence of liability for infringement, or unenforceability; (2) invalidity of the plant variety protection in suit on any ground specified in section 2402 of this title as a condition for protectability; (3) invalidity of the plant variety protection in suit for failure to comply with any requirement of section 2422 of this title; (4) that the asserted infringement was performed under an existing certificate adverse to that asserted and prior to notice of the infringement; and (5) any other fact or act made a defense by this chapter.
 
-(Pub. L. 91–577, title III, § 122, Dec. 24, 1970, 84 Stat. 1556.)
+(Pub. L. 91–577, title III, § 122, Dec. 24, 1970, 84 Stat. 1556.)
 
-#### § 2563. Injunction
+#### § 2563. Injunction
 
 The several courts having jurisdiction of cases under this subchapter may grant injunctions in accordance with the principles of equity to prevent the violation of any right hereunder on such terms as the court deems reasonable.
 
-(Pub. L. 91–577, title III, § 123, Dec. 24, 1970, 84 Stat. 1556.)
+(Pub. L. 91–577, title III, § 123, Dec. 24, 1970, 84 Stat. 1556.)
 
-#### § 2564. Damages
+#### § 2564. Damages
 
 **(a)** Upon finding an infringement the court shall award damages adequate to compensate for the infringement but in no event less than a reasonable royalty for the use made of the variety by the infringer, together with interest and costs as fixed by the court.
 
@@ -1231,21 +1231,21 @@ The several courts having jurisdiction of cases under this subchapter may grant 
 
 **(d)** As to infringement prior to, or resulting from a planting prior to, issuance of a certificate for the infringed variety, a court finding the infringer to have established innocent intentions, shall have discretion as to awarding damages.
 
-(Pub. L. 91–577, title III, § 124, Dec. 24, 1970, 84 Stat. 1556.)
+(Pub. L. 91–577, title III, § 124, Dec. 24, 1970, 84 Stat. 1556.)
 
-#### § 2565. Attorney fees
+#### § 2565. Attorney fees
 
 The court in exceptional cases may award reasonable attorney fees to the prevailing party.
 
-(Pub. L. 91–577, title III, § 125, Dec. 24, 1970, 84 Stat. 1556.)
+(Pub. L. 91–577, title III, § 125, Dec. 24, 1970, 84 Stat. 1556.)
 
-#### § 2566. Time limitation on damages
+#### § 2566. Time limitation on damages
 
 **(a)** No recovery shall be had for that part of any infringement committed more than six years (or known to the owner more than one year) prior to the filing of the complaint or counterclaim for infringement in the action.
 
 **(b)** In the case of claims against the United States Government for unauthorized use of a protected variety, the period between the date of receipt of written claim for compensation by the department or agency of the Government having authority to settle such claim, and the date of mailing by the Government of a notice to the claimant that the claim has been denied shall not be counted as part of the period referred to in the preceding paragraph.
 
-(Pub. L. 91–577, title III, § 126, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, § 13(u), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title III, § 126, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, § 13(u), Oct. 6, 1994, 108 Stat. 3144.)
 
 **Editorial Notes**
 
@@ -1259,11 +1259,11 @@ The court in exceptional cases may award reasonable attorney fees to the prevail
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2567. Limitation of damages; marking and notice
+#### § 2567. Limitation of damages; marking and notice
 
 Owners may give notice to the public by physically associating with or affixing to the container of seed of a variety or by fixing to the variety, a label containing either the words “Unauthorized Propagation Prohibited” or the words “Unauthorized Seed Multiplication Prohibited” and after the certificate issues, such additional words as “U.S. Protected Variety”. In the event the variety is distributed by authorization of the owner and is received by the infringer without such marking, no damages shall be recovered against such infringer by the owner in any action for infringement, unless the infringer has actual notice or knowledge that propagation is prohibited or that the variety is a protected variety, in which event damages may be recovered only for infringement occurring after such notice. As to both damages and injunction, a court shall have discretion to be lenient as to disposal of materials acquired in good faith by acts prior to such notice.
 
-(Pub. L. 91–577, title III, § 127, Dec. 24, 1970, 84 Stat. 1557; Pub. L. 96–574, § 19(b), Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, § 11, Oct. 6, 1994, 108 Stat. 3142.)
+(Pub. L. 91–577, title III, § 127, Dec. 24, 1970, 84 Stat. 1557; Pub. L. 96–574, § 19(b), Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, § 11, Oct. 6, 1994, 108 Stat. 3142.)
 
 **Editorial Notes**
 
@@ -1271,7 +1271,7 @@ Owners may give notice to the public by physically associating with or affixing 
 
 1994—Pub. L. 103–349 in first sentence struck out “novel” before “variety or” and before “variety, a”, and in second sentence struck out “novel” before “variety is distributed”.
 
-1980—Pub. L. 96–574 substituted “either the words ‘Unauthorized Propagation Prohibited’ or the words ‘Unauthorized Seed Multiplication Prohibited’ ” for “the words ‘Propagation Prohibited’ ”.
+1980—Pub. L. 96–574 substituted “either the words ‘Unauthorized Propagation Prohibited’ or the words ‘Unauthorized Seed Multiplication Prohibited’ ” for “the words ‘Propagation Prohibited’ ”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1279,7 +1279,7 @@ Owners may give notice to the public by physically associating with or affixing 
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2568. False marking; cease and desist orders
+#### § 2568. False marking; cease and desist orders
 
 **(a)** Each of the following acts, if performed in connection with the sale, offering for sale, or advertising of sexually or asexually reproducible plant material or tubers or parts of tubers, is prohibited, and the Secretary may, if the Secretary determines after an opportunity for hearing that the act is being so performed, issue an order to cease and desist, said order being binding unless appealed under section 2461 of this title:
 
@@ -1295,7 +1295,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 **(c)** Anyone whose business is damaged or is likely to be damaged by an act prohibited in subsection (a) of this section, or is subjected to competition in connection with which such act is performed, may have remedy by civil action.
 
-(Pub. L. 91–577, title III, § 128, Dec. 24, 1970, 84 Stat. 1557; Pub. L. 96–574, § 19(c), Dec. 22, 1980, 94 Stat. 3352; Pub. L. 103–349, §§ 12, 13(v), Oct. 6, 1994, 108 Stat. 3142, 3144; Pub. L. 115–334, title X, § 10108(d), Dec. 20, 2018, 132 Stat. 4906.)
+(Pub. L. 91–577, title III, § 128, Dec. 24, 1970, 84 Stat. 1557; Pub. L. 96–574, § 19(c), Dec. 22, 1980, 94 Stat. 3352; Pub. L. 103–349, §§ 12, 13(v), Oct. 6, 1994, 108 Stat. 3142, 3144; Pub. L. 115–334, title X, § 10108(d), Dec. 20, 2018, 132 Stat. 4906.)
 
 **Editorial Notes**
 
@@ -1313,19 +1313,19 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### § 2569. Nonresident proprietors; service and notice
+#### § 2569. Nonresident proprietors; service and notice
 
 Every owner not residing in the United States may file in the Plant Variety Protection Office a written designation stating the name and address of a person residing within the United States on whom may be served process or notice of proceedings affecting the plant variety protection or rights thereunder. If the person designated cannot be found at the address given in the last designation, or if no person has been designated, the United States District Court for the District of Columbia shall have jurisdiction and summons shall be served by publication or otherwise as the court directs. The court shall have the same jurisdiction to take any action respecting the plant variety protection, or rights thereunder that it would have if the owner were personally within the jurisdiction of the court.
 
-(Pub. L. 91–577, title III, § 129, Dec. 24, 1970, 84 Stat. 1557.)
+(Pub. L. 91–577, title III, § 129, Dec. 24, 1970, 84 Stat. 1557.)
 
-#### § 2570. Liability of States, instrumentalities of States, and State officials for infringement of plant variety protection
+#### § 2570. Liability of States, instrumentalities of States, and State officials for infringement of plant variety protection
 
 **(a)** Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee, shall not be immune, under the eleventh amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for infringement of plant variety protection under section 2541 of this title, or for any other violation under this subchapter.
 
 **(b)** In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any private entity. Such remedies include damages, interest, costs, and treble damages under section 2564 of this title, and attorney fees under section 2565 of this title.
 
-(Pub. L. 91–577, title III, § 130, as added Pub. L. 102–560, § 3(b), Oct. 28, 1992, 106 Stat. 4231; amended Pub. L. 103–349, § 13(w), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title III, § 130, as added Pub. L. 102–560, § 3(b), Oct. 28, 1992, 106 Stat. 4231; amended Pub. L. 103–349, § 13(w), Oct. 6, 1994, 108 Stat. 3144.)
 
 **Editorial Notes**
 
@@ -1345,18 +1345,18 @@ Section effective with respect to violations that occur on or after Oct. 28, 199
 
 ### Part M—Intent and Severability
 
-#### § 2581. Intent
+#### § 2581. Intent
 
 It is the intent of Congress to provide the indicated protection for new varieties by exercise of any constitutional power needed for that end, so as to afford adequate encouragement for research, and for marketing when appropriate, to yield for the public the benefits of new varieties. Constitutional clauses 3 and 8 of article I, section 8 are both relied upon.
 
-(Pub. L. 91–577, title III, § 131, Dec. 24, 1970, 84 Stat. 1558.)
+(Pub. L. 91–577, title III, § 131, Dec. 24, 1970, 84 Stat. 1558.)
 
-#### § 2582. Severability
+#### § 2582. Severability
 
 If this chapter is held unconstitutional as to some provisions or circumstances, it shall remain in force as to the remaining provisions and other circumstances.
 
-(Pub. L. 91–577, title III, § 132, Dec. 24, 1970, 84 Stat. 1558.)
+(Pub. L. 91–577, title III, § 132, Dec. 24, 1970, 84 Stat. 1558.)
 
-#### § 2583. Repealed. Pub. L. 96–574, § 20, Dec. 22, 1980, 94 Stat. 3352
+#### § 2583. Repealed. Pub. L. 96–574, § 20, Dec. 22, 1980, 94 Stat. 3352
 
-Section, Pub. L. 91–577, title III, § 144, Dec. 24, 1970, 84 Stat. 1559, exempted certain plants from provisions of this chapter.
+Section, Pub. L. 91–577, title III, § 144, Dec. 24, 1970, 84 Stat. 1559, exempted certain plants from provisions of this chapter.

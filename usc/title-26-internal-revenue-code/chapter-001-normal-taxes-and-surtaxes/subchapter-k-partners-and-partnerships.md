@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–74, title XI, § 1101(b)(1), Nov. 2, 2015, 129 Stat. 625, struck out item for part IV “Special rules for electing large partnerships”.
+2015—Pub. L. 114–74, title XI, § 1101(b)(1), Nov. 2, 2015, 129 Stat. 625, struck out item for part IV “Special rules for electing large partnerships”.
 
-1997—Pub. L. 105–34, title XII, § 1221(b), Aug. 5, 1997, 111 Stat. 1008, added item for part IV.
+1997—Pub. L. 105–34, title XII, § 1221(b), Aug. 5, 1997, 111 Stat. 1008, added item for part IV.
 
 ## PART I—DETERMINATION OF TAX LIABILITY
 
@@ -29,15 +29,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1976—Pub. L. 94–455, title II, § 213(b)(2), title XIX, § 1901(b)(23), Oct. 4, 1976, 90 Stat. 1547, 1798, struck out part IV “Effective date for subchapter” in table of parts of subchapter K of chapter 1 and added item 709.
+1976—Pub. L. 94–455, title II, § 213(b)(2), title XIX, § 1901(b)(23), Oct. 4, 1976, 90 Stat. 1547, 1798, struck out part IV “Effective date for subchapter” in table of parts of subchapter K of chapter 1 and added item 709.
 
-### § 701. Partners, not partnership, subject to tax
+### § 701. Partners, not partnership, subject to tax
 
 A partnership as such shall not be subject to the income tax imposed by this chapter. Persons carrying on business as partners shall be liable for income tax only in their separate or individual capacities.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 239.)
 
-### § 702. Income and credits of partner
+### § 702. Income and credits of partner
 
 **(a) General rule** In determining his income tax, each partner shall take into account separately his distributive share of the partnership’s—
 
@@ -69,7 +69,7 @@ In any case where it is necessary to determine the gross income of a partner for
 
 For rules relating to procedures for determining the tax treatment of partnership items see subchapter C of chapter 63 (section 6221 and following).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 239; Pub. L. 88–272, title II, § 201(d)(7), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–455, title XIV, § 1402(b)(1)(L), (2), title XIX, §§ 1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834; Pub. L. 96–223, title IV, § 404(b)(5), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 301(b)(5), (6)(C), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title IV, § 402(c)(1), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–448, title I, § 103(a)(4), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, § 1001(b)(9), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 612(b)(5), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 108–27, title III, § 302(e)(8), May 28, 2003, 117 Stat. 764.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 239; Pub. L. 88–272, title II, § 201(d)(7), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–455, title XIV, § 1402(b)(1)(L), (2), title XIX, §§ 1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834; Pub. L. 96–223, title IV, § 404(b)(5), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 301(b)(5), (6)(C), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title IV, § 402(c)(1), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–448, title I, § 103(a)(4), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, § 1001(b)(9), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 612(b)(5), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 108–27, title III, § 302(e)(8), May 28, 2003, 117 Stat. 764.)
 
 **Editorial Notes**
 
@@ -85,19 +85,19 @@ For rules relating to procedures for determining the tax treatment of partnershi
 
 1982—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
-1981—Subsec. (a)(5). Pub. L. 97–34, § 301(b)(6)(C), inserted reference to “interest” in heading and text which continued the amendment made by Pub. L. 96–223.
+1981—Subsec. (a)(5). Pub. L. 97–34, § 301(b)(6)(C), inserted reference to “interest” in heading and text which continued the amendment made by Pub. L. 96–223.
 
-Pub. L. 97–34, § 301(b)(5), inserted “or 128” after “section 116”.
+Pub. L. 97–34, § 301(b)(5), inserted “or 128” after “section 116”.
 
 1980—Subsec. (a)(5). Pub. L. 96–223 inserted “or interest” after “dividends”.
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+1976—Subsec. (a)(1), (2). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§ 1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related to partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§ 1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related to partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
-Subsec. (b). Pub. L. 94–455, § 1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
+Subsec. (b). Pub. L. 94–455, § 1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
 
 1964—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
 
@@ -121,7 +121,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title IV, § 407(a), Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title IV, § 407(a), Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by sections 402, 403, and 404 [enacting sections 6221 to 6234 of this title and section 1508 of Title 28, Judiciary and Judicial Procedure, amending this section and sections 6031, 6213, 6216, 6422, 6501, 6504, 6511, 6512, 6515, 7422, 7451, 7456, 7459, 7482, and 7485 of this title and section 1346 of Title 28, and enacting provisions set out as a note under section 6031 of this title] shall apply to partnership taxable years beginning after the date of the enactment of this Act [Sept. 3, 1982].
 
@@ -139,9 +139,9 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(b)(1)(I)(i), (ii) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -149,7 +149,7 @@ Amendment by section 1901(b)(1)(I)(i), (ii) of Pub. L. 94–455 effective for ta
 
 Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
 
-### § 703. Partnership computations
+### § 703. Partnership computations
 
 **(a) Income and deductions** The taxable income of a partnership shall be computed in the same manner as in the case of an individual except that—
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 88–272 applicable with respect to dividends received afte
 
 shall be made by each partner separately.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 89–570, § 2(b), Sept. 12, 1966, 80 Stat. 764; Pub. L. 91–172, title V, § 504(c)(3), Dec. 30, 1969, 83 Stat. 633; Pub. L. 92–178, title III, § 304(c), Dec. 10, 1971, 85 Stat. 523; Pub. L. 94–12, title V, § 501(b)(3), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, § 1901(b)(21)(F), title XXI, § 2115(c)(2), Oct. 4, 1976, 90 Stat. 1798, 1909; Pub. L. 95–30, title I, § 101(d)(10), May 23, 1977, 91 Stat. 134; Pub. L. 96–589, § 2(e)(1), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 99–514, title V, § 511(d)(2)(B), title VII, § 701(e)(4)(E), Oct. 22, 1986, 100 Stat. 2249, 2343; Pub. L. 100–647, title I, § 1008(i), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 103–66, title XIII, § 13150(c)(9), Aug. 10, 1993, 107 Stat. 448.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 89–570, § 2(b), Sept. 12, 1966, 80 Stat. 764; Pub. L. 91–172, title V, § 504(c)(3), Dec. 30, 1969, 83 Stat. 633; Pub. L. 92–178, title III, § 304(c), Dec. 10, 1971, 85 Stat. 523; Pub. L. 94–12, title V, § 501(b)(3), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, § 1901(b)(21)(F), title XXI, § 2115(c)(2), Oct. 4, 1976, 90 Stat. 1798, 1909; Pub. L. 95–30, title I, § 101(d)(10), May 23, 1977, 91 Stat. 134; Pub. L. 96–589, § 2(e)(1), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 99–514, title V, § 511(d)(2)(B), title VII, § 701(e)(4)(E), Oct. 22, 1986, 100 Stat. 2249, 2343; Pub. L. 100–647, title I, § 1008(i), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 103–66, title XIII, § 13150(c)(9), Aug. 10, 1993, 107 Stat. 448.)
 
 **Editorial Notes**
 
@@ -195,9 +195,9 @@ shall be made by each partner separately.
 
 1977—Subsec. (a)(2). Pub. L. 95–30 struck out subpar. (A) which made reference to the standard deduction provided in section 141, and redesignated subpars. (B) to (G) as (A) to (F), respectively.
 
-1976—Subsec. (a)(2)(G). Pub. L. 94–455, § 2115(c)(2), substituted “wells” for “production subject to the provisions of section 613A(c)”.
+1976—Subsec. (a)(2)(G). Pub. L. 94–455, § 2115(c)(2), substituted “wells” for “production subject to the provisions of section 613A(c)”.
 
-Subsec. (b). Pub. L. 94–455, § 1901(b)(21)(F), struck out “under section 615 (relating to pre-1970 exploration expenditures),” after “of the United States, and any election”.
+Subsec. (b). Pub. L. 94–455, § 1901(b)(21)(F), struck out “under section 615 (relating to pre-1970 exploration expenditures),” after “of the United States, and any election”.
 
 1975—Subsec. (a)(2)(G). Pub. L. 94–12 added subpar. (G).
 
@@ -253,7 +253,7 @@ Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12,
 
 For applicability of amendment by section 701(e)(4)(E) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-### § 704. Partner’s distributive share
+### § 704. Partner’s distributive share
 
 **(a) Effect of partnership agreement**
 
@@ -337,7 +337,7 @@ For purposes of this subsection, an interest purchased by one member of a family
 
 For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see section 706(c)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, § 213(c)(2), (3)(A), (d), (e), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, § 201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, § 71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, § 7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, § 1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, § 1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, § 833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, § 1102(b), Nov. 2, 2015, 129 Stat. 639; Pub. L. 115–97, title I, § 13503(a), Dec. 22, 2017, 131 Stat. 2141.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, § 213(c)(2), (3)(A), (d), (e), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, § 201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, § 71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, § 7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, § 1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, § 1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, § 833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, § 1102(b), Nov. 2, 2015, 129 Stat. 639; Pub. L. 115–97, title I, § 13503(a), Dec. 22, 2017, 131 Stat. 2141.)
 
 **Editorial Notes**
 
@@ -359,33 +359,33 @@ For rules in the case of the sale, exchange, liquidation, or reduction of a part
 
 1978—Subsec. (d). Pub. L. 95–600 struck out provisions relating to adjusted basis of a partner’s interest.
 
-1976—Subsec. (a). Pub. L. 94–455, § 213(c)(2), substituted “except as otherwise provided in this chapter” for “except as otherwise provided in this section”.
+1976—Subsec. (a). Pub. L. 94–455, § 213(c)(2), substituted “except as otherwise provided in this chapter” for “except as otherwise provided in this section”.
 
-Subsec. (b). Pub. L. 94–455, § 213(d), among other changes, substituted “Determination of distributive share” for “Distributive share determined by income or loss ratio” in heading, in provisions preceding par. (1) “the partner’s interest in the partnership (determined by taking into account all facts and circumstances)” for “his distributive share of taxable income or loss of the partnership, as described in section 702(a)(9), for the taxable year”, and in par. (2) provision relating to a lack of substantial economic effect in a partnership agreement for provisions relating to the partnership agreement’s purpose being the avoidance or evasion of taxes.
+Subsec. (b). Pub. L. 94–455, § 213(d), among other changes, substituted “Determination of distributive share” for “Distributive share determined by income or loss ratio” in heading, in provisions preceding par. (1) “the partner’s interest in the partnership (determined by taking into account all facts and circumstances)” for “his distributive share of taxable income or loss of the partnership, as described in section 702(a)(9), for the taxable year”, and in par. (2) provision relating to a lack of substantial economic effect in a partnership agreement for provisions relating to the partnership agreement’s purpose being the avoidance or evasion of taxes.
 
-Subsec. (c)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d). Pub. L. 94–455, § 213(e), inserted provision relating to the determination of the adjusted basis of a partner’s liability where there is no personal liability and the applicability of such determination where section 465 of this title applies or the principal activity of the partnership is real estate investment.
+Subsec. (d). Pub. L. 94–455, § 213(e), inserted provision relating to the determination of the adjusted basis of a partner’s liability where there is no personal liability and the applicability of such determination where section 465 of this title applies or the principal activity of the partnership is real estate investment.
 
-Subsec. (f). Pub. L. 94–455, § 213(c)(3)(A), added subsec. (f).
+Subsec. (f). Pub. L. 94–455, § 213(c)(3)(A), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13503(b), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendments made by this section [amending this section] shall apply to partnership taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13503(b), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendments made by this section [amending this section] shall apply to partnership taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–74, title XI, § 1102(c), Nov. 2, 2015, 129 Stat. 639, provided that: “The amendments made by this section [amending this section and section 761 of this title] shall apply to partnership taxable years beginning after December 31, 2015.”
+Pub. L. 114–74, title XI, § 1102(c), Nov. 2, 2015, 129 Stat. 639, provided that: “The amendments made by this section [amending this section and section 761 of this title] shall apply to partnership taxable years beginning after December 31, 2015.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 833(d)(1), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by subsection (a) [amending this section] shall apply to contributions made after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 833(d)(1), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by subsection (a) [amending this section] shall apply to contributions made after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1063(b), Aug. 5, 1997, 111 Stat. 947, provided that:
+Pub. L. 105–34, title X, § 1063(b), Aug. 5, 1997, 111 Stat. 947, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section and section 737 of this title] shall apply to property contributed to a partnership after June 8, 1997.
 
@@ -393,15 +393,15 @@ Pub. L. 105–34, title X, § 1063(b), Aug. 5, 1997, 111 Stat. 947, provided t
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XIX, § 1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: “The amendments made by this section [enacting section 737 of this title and amending this section and section 731 of this title] shall apply to distributions on or after June 25, 1992.”
+Pub. L. 102–486, title XIX, § 1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: “The amendments made by this section [enacting section 737 of this title and amending this section and section 731 of this title] shall apply to distributions on or after June 25, 1992.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7642(b), Dec. 19, 1989, 103 Stat. 2381, provided that: “The amendment made by subsection (a) [amending this section] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date.”
+Pub. L. 101–239, title VII, § 7642(b), Dec. 19, 1989, 103 Stat. 2381, provided that: “The amendment made by subsection (a) [amending this section] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 71(c), July 18, 1984, 98 Stat. 589, provided that: “The amendments made by this section [amending this section and sections 613A and 743 of this title] shall apply with respect to property contributed to the partnership after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 71(c), July 18, 1984, 98 Stat. 589, provided that: “The amendments made by this section [amending this section and sections 613A and 743 of this title] shall apply with respect to property contributed to the partnership after March 31, 1984, in taxable years ending after such date.”
 
 **Effective Date of 1978 Amendment**
 
@@ -415,9 +415,9 @@ Amendment by section 213(e) of Pub. L. 94–455 applicable to liabilities incurr
 
 **Transitional Rule for Limitation on Allowance of Losses**
 
-Pub. L. 95–600, title II, § 201(b)(2), Nov. 6, 1978, 92 Stat. 2816, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as in effect before the date of the enactment of this Act [Nov. 6, 1978]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 [set out as a note under section 709 of this title].”
+Pub. L. 95–600, title II, § 201(b)(2), Nov. 6, 1978, 92 Stat. 2816, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as in effect before the date of the enactment of this Act [Nov. 6, 1978]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 [set out as a note under section 709 of this title].”
 
-### § 705. Determination of basis of partner’s interest
+### § 705. Determination of basis of partner’s interest
 
 **(a) General rule** The adjusted basis of a partner’s interest in a partnership shall, except as provided in subsection (b), be the basis of such interest determined under section 722 (relating to contributions to a partnership) or section 742 (relating to transfers of partnership interests)—
 
@@ -441,7 +441,7 @@ Pub. L. 95–600, title II, § 201(b)(2), Nov. 6, 1978, 92 Stat. 2816, as amen
 
 The Secretary shall prescribe by regulations the circumstances under which the adjusted basis of a partner’s interest in a partnership may be determined by reference to his proportionate share of the adjusted basis of partnership property upon a termination of the partnership.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2115(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1909; Pub. L. 98–369, div. A, title VII, § 722(e)(1), July 18, 1984, 98 Stat. 974.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2115(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1909; Pub. L. 98–369, div. A, title VII, § 722(e)(1), July 18, 1984, 98 Stat. 974.)
 
 **Editorial Notes**
 
@@ -449,21 +449,21 @@ The Secretary shall prescribe by regulations the circumstances under which the a
 
 1984—Subsec. (a)(3). Pub. L. 98–369 substituted “for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D)” for “under section 611 with respect to oil and gas wells”.
 
-1976—Subsec. (a)(3). Pub. L. 94–455, § 2115(c)(3), added par. (3).
+1976—Subsec. (a)(3). Pub. L. 94–455, § 2115(c)(3), added par. (3).
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 722(e)(3)(A), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1975.”
+Pub. L. 98–369, div. A, title VII, § 722(e)(3)(A), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1975.”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by section 2115(c)(3) of Pub. L. 94–455 effective on Jan. 1, 1975, and applicable to taxable years ending after Dec. 31, 1974, see section 2115(f) of Pub. L. 94–455, set out as a note under section 613A of this title.
 
-### § 706. Taxable years of partner and partnership
+### § 706. Taxable years of partner and partnership
 
 **(a) Year in which partnership income is includible**
 
@@ -583,7 +583,7 @@ then (except to the extent provided in regulations) each partner’s distributiv
 
 For purposes of this subsection, the taxable year of a partnership shall be determined without regard to subsection (c)(2)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, § 213(c)(1), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, § 72(a), (b), July 18, 1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, § 806(a), title XVIII, § 1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, § 1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, § 507(b)(2), title XII, § 1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030; Pub. L. 115–141, div. U, title IV, § 401(a)(139), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, § 213(c)(1), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, § 72(a), (b), July 18, 1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, § 806(a), title XVIII, § 1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, § 1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, § 507(b)(2), title XII, § 1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030; Pub. L. 115–141, div. U, title IV, § 401(a)(139), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -591,21 +591,21 @@ For purposes of this subsection, the taxable year of a partnership shall be dete
 
 2018—Subsec. (b)(5). Pub. L. 115–141 substituted “section 584(i)” for “section 584(h)”.
 
-1997—Subsec. (b)(5). Pub. L. 105–34, § 507(b)(2), substituted “section 644” for “section 645”.
+1997—Subsec. (b)(5). Pub. L. 105–34, § 507(b)(2), substituted “section 644” for “section 645”.
 
-Subsec. (c)(2). Pub. L. 105–34, § 1246(b), substituted “Treatment of dispositions” for “Partner who retires or sells interest in partnership” as heading.
+Subsec. (c)(2). Pub. L. 105–34, § 1246(b), substituted “Treatment of dispositions” for “Partner who retires or sells interest in partnership” as heading.
 
-Subsec. (c)(2)(A). Pub. L. 105–34, § 1246(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The taxable year of a partnership shall close—
+Subsec. (c)(2)(A). Pub. L. 105–34, § 1246(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The taxable year of a partnership shall close—
 
 “(i) with respect to a partner who sells or exchanges his entire interest in a partnership, and
 
 “(ii) with respect to a partner whose interest is liquidated, except that the taxable year of a partnership with respect to a partner who dies shall not close prior to the end of the partnership’s taxable year.”
 
-1988—Subsec. (b)(1)(B)(i). Pub. L. 100–647, § 1008(e)(1)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
+1988—Subsec. (b)(1)(B)(i). Pub. L. 100–647, § 1008(e)(1)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 100–647, § 1008(e)(2), substituted “unless the Secretary by regulations prescribes another period” for “or such other period as the Secretary may prescribe in regulations”.
+Subsec. (b)(1)(B)(iii). Pub. L. 100–647, § 1008(e)(2), substituted “unless the Secretary by regulations prescribes another period” for “or such other period as the Secretary may prescribe in regulations”.
 
-Subsec. (b)(4). Pub. L. 100–647, § 1008(e)(1)(B), substituted “Majority interest taxable year; limitation on required changes” for “Application of majority interest rule” in heading and amended text generally. Prior to amendment, text read as follows: “Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
+Subsec. (b)(4). Pub. L. 100–647, § 1008(e)(1)(B), substituted “Majority interest taxable year; limitation on required changes” for “Application of majority interest rule” in heading and amended text generally. Prior to amendment, text read as follows: “Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
 
 “(A) the 3-taxable year period of such partner or partners ending on or before the beginning of such taxable year of the partnership, or
 
@@ -613,29 +613,29 @@ Subsec. (b)(4). Pub. L. 100–647, § 1008(e)(1)(B), substituted “Majority i
 
 This paragraph shall apply without regard to whether the same partners or interests are taken into account in determining the 50 percent interest during any period.”
 
-Subsec. (b)(5). Pub. L. 100–647, § 1008(e)(3), added par. (5).
+Subsec. (b)(5). Pub. L. 100–647, § 1008(e)(3), added par. (5).
 
-1986—Subsec. (b). Pub. L. 99–514, § 806(a)(3), struck out “Adoption of” before “taxable year” in heading.
+1986—Subsec. (b). Pub. L. 99–514, § 806(a)(3), struck out “Adoption of” before “taxable year” in heading.
 
-Subsec. (b)(1). Pub. L. 99–514, § 806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor.”
+Subsec. (b)(1). Pub. L. 99–514, § 806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor.”
 
-Subsec. (b)(4). Pub. L. 99–514, § 806(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 99–514, § 806(a)(2), added par. (4).
 
-Subsec. (d)(2)(A)(i). Pub. L. 99–514, § 1805(a)(1)(A), substituted “such item” for “each such item”.
+Subsec. (d)(2)(A)(i). Pub. L. 99–514, § 1805(a)(1)(A), substituted “such item” for “each such item”.
 
-Subsec. (d)(2)(B). Pub. L. 99–514, § 1805(a)(1)(B), in introductory provisions, struck out “which are described in paragraph (1) and” after “the following items”.
+Subsec. (d)(2)(B). Pub. L. 99–514, § 1805(a)(1)(B), in introductory provisions, struck out “which are described in paragraph (1) and” after “the following items”.
 
-Subsec. (d)(2)(C)(i). Pub. L. 99–514, § 1805(a)(2), substituted “the first day of the taxable year” for “the first day of such taxable year”.
+Subsec. (d)(2)(C)(i). Pub. L. 99–514, § 1805(a)(2), substituted “the first day of the taxable year” for “the first day of such taxable year”.
 
-1984—Subsec. (c)(2)(A). Pub. L. 98–369, § 72(b)(1), struck out last sentence providing that such partner’s distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
+1984—Subsec. (c)(2)(A). Pub. L. 98–369, § 72(b)(1), struck out last sentence providing that such partner’s distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
 
-Subsec. (c)(2)(B). Pub. L. 98–369, § 72(b)(2), struck out “, but such partner’s distributive share of items described in section 702(a) shall be determined by taking into account his varying interests in the partnership during the taxable year” after “otherwise)”.
+Subsec. (c)(2)(B). Pub. L. 98–369, § 72(b)(2), struck out “, but such partner’s distributive share of items described in section 702(a) shall be determined by taking into account his varying interests in the partnership during the taxable year” after “otherwise)”.
 
-Subsec. (d). Pub. L. 98–369, § 72(a), added subsec. (d).
+Subsec. (d). Pub. L. 98–369, § 72(a), added subsec. (d).
 
-1976—Subsec. (b)(1), (2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(1), (2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(2). Pub. L. 94–455, §§ 213(c)(1), 1906(b)(13)(A), substituted “or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner’s interest, gift, or otherwise)” for “or with respect to a partner whose interest is reduced”, in par. (B), and struck out “or his delegate” after “Secretary” in par. (A).
+Subsec. (c)(2). Pub. L. 94–455, §§ 213(c)(1), 1906(b)(13)(A), substituted “or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner’s interest, gift, or otherwise)” for “or with respect to a partner whose interest is reduced”, in par. (B), and struck out “or his delegate” after “Secretary” in par. (A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -643,7 +643,7 @@ Subsec. (c)(2). Pub. L. 94–455, §§ 213(c)(1), 1906(b)(13)(A), substituted 
 
 Amendment by section 507(b)(2) of Pub. L. 105–34 applicable to sales or exchanges after Aug. 5, 1997, see section 507(c)(2) of Pub. L. 105–34, set out as a note under section 644 of this title.
 
-Pub. L. 105–34, title XII, § 1246(c), Aug. 5, 1997, 111 Stat. 1030, provided that: “The amendments made by this section [amending this section] shall apply to partnership taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, § 1246(c), Aug. 5, 1997, 111 Stat. 1030, provided that: “The amendments made by this section [amending this section] shall apply to partnership taxable years beginning after December 31, 1997.”
 
 **Effective Date of 1988 Amendment**
 
@@ -657,7 +657,7 @@ Amendment by section 1805(a) of Pub. L. 99–514 effective, except as otherwise 
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 72(c), July 18, 1984, 98 Stat. 591, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 72(c), July 18, 1984, 98 Stat. 591, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “The amendments made by this section [amending this section] shall apply—
 
@@ -673,11 +673,11 @@ Amendment by section 213(c)(1) of Pub. L. 94–455 applicable in the case of par
 
 Nothing in section 806 of Pub. L. 99–514 or in any legislative history relating thereto to be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year, see section 1008(e)(9) of Pub. L. 100–647, set out as a note under section 1378 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 707. Transactions between partner and partnership
+### § 707. Transactions between partner and partnership
 
 **(a) Partner not acting in capacity as partner**
 
@@ -733,7 +733,7 @@ For purposes of paragraphs (1) and (2) of this subsection, the ownership of a ca
 
 To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, § 213(b)(3), title XIX, § 1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, § 73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, § 642(a)(2), title XVIII, §§ 1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834; Pub. L. 119–21, title VII, § 70602(a), July 4, 2025, 139 Stat. 284.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, § 213(b)(3), title XIX, § 1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, § 73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, § 642(a)(2), title XVIII, §§ 1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834; Pub. L. 119–21, title VII, § 70602(a), July 4, 2025, 139 Stat. 284.)
 
 **Editorial Notes**
 
@@ -741,29 +741,29 @@ To the extent determined without regard to the income of the partnership, paymen
 
 2025—Subsec. (a)(2). Pub. L. 119–21 substituted “Except as provided” for “Under regulations prescribed” in introductory provisions.
 
-1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–514, § 1805(b), substituted “sale or exchange of property” for “sale of property”.
+1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–514, § 1805(b), substituted “sale or exchange of property” for “sale of property”.
 
-Subsec. (b)(1). Pub. L. 99–514, § 1812(c)(3)(B), inserted at end “For purposes of section 267(a)(2), partnerships described in subparagraph (B) of this paragraph shall be treated as persons specified in section 267(b).”
+Subsec. (b)(1). Pub. L. 99–514, § 1812(c)(3)(B), inserted at end “For purposes of section 267(a)(2), partnerships described in subparagraph (B) of this paragraph shall be treated as persons specified in section 267(b).”
 
-Subsec. (b)(1)(A). Pub. L. 99–514, § 1812(c)(3)(A), substituted “a person” for “a partner”.
+Subsec. (b)(1)(A). Pub. L. 99–514, § 1812(c)(3)(A), substituted “a person” for “a partner”.
 
-Subsec. (b)(2)(A). Pub. L. 99–514, § 1812(c)(3)(A), substituted “a person” for “a partner”.
+Subsec. (b)(2)(A). Pub. L. 99–514, § 1812(c)(3)(A), substituted “a person” for “a partner”.
 
-Pub. L. 99–514, § 642(a)(2), substituted “50 percent” for “80 percent”.
+Pub. L. 99–514, § 642(a)(2), substituted “50 percent” for “80 percent”.
 
-Subsec. (b)(2)(B). Pub. L. 99–514, § 642(a)(2), substituted “50 percent” for “80 percent”.
+Subsec. (b)(2)(B). Pub. L. 99–514, § 642(a)(2), substituted “50 percent” for “80 percent”.
 
 1984—Subsec. (a). Pub. L. 98–369 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, § 1901(b)(3)(C), substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
+1976—Subsec. (b)(2). Pub. L. 94–455, § 1901(b)(3)(C), substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
 
-Subsec. (c). Pub. L. 94–455, § 213(b)(3), substituted “and, subject to section 263, for purposes of section 162(a)” for “and section 162(a)”.
+Subsec. (c). Pub. L. 94–455, § 213(b)(3), substituted “and, subject to section 263, for purposes of section 162(a)” for “and section 162(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70602(b), July 4, 2025, 139 Stat. 284, provided that: “The amendment made by this section [amending this section] shall apply to services performed, and property transferred, after the date of the enactment of this Act [July 4, 2025].”
+Pub. L. 119–21, title VII, § 70602(b), July 4, 2025, 139 Stat. 284, provided that: “The amendment made by this section [amending this section] shall apply to services performed, and property transferred, after the date of the enactment of this Act [July 4, 2025].”
 
 **Effective Date of 1986 Amendment**
 
@@ -771,11 +771,11 @@ Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct
 
 Amendment by sections 1805(b) and 1812(c)(3)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, § 1812(c)(3)(A), Oct. 22, 1986, 100 Stat. 2834, provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
+Pub. L. 99–514, title XVIII, § 1812(c)(3)(A), Oct. 22, 1986, 100 Stat. 2834, provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 73(b), July 18, 1984, 98 Stat. 592, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 73(b), July 18, 1984, 98 Stat. 592, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall apply—
 
@@ -803,13 +803,13 @@ Amendment by section 1901(b)(3)(C) of Pub. L. 94–455 effective for taxable yea
 
 **Rule of Construction**
 
-Pub. L. 119–21, title VII, § 70602(c), July 4, 2025, 139 Stat. 284, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note above], or the amendments made by this section, shall be construed to create any inference with respect to the proper treatment under section 707(a) of the Internal Revenue Code of 1986 with respect to payments from a partnership to a partner for services performed, or property transferred, on or before the date of the enactment of this Act [July 4, 2025].”
+Pub. L. 119–21, title VII, § 70602(c), July 4, 2025, 139 Stat. 284, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note above], or the amendments made by this section, shall be construed to create any inference with respect to the proper treatment under section 707(a) of the Internal Revenue Code of 1986 with respect to payments from a partnership to a partner for services performed, or property transferred, on or before the date of the enactment of this Act [July 4, 2025].”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 708. Continuation of partnership
+### § 708. Continuation of partnership
 
 **(a) General rule**
 
@@ -831,7 +831,7 @@ In the case of the merger or consolidation of two or more partnerships, the resu
 
 In the case of a division of a partnership into two or more partnerships, the resulting partnerships (other than any resulting partnership the members of which had an interest of 50 percent or less in the capital and profits of the prior partnership) shall, for purposes of this section, be considered a continuation of the prior partnership.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 244; Pub. L. 115–97, title I, § 13504(a), Dec. 22, 2017, 131 Stat. 2141.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 244; Pub. L. 115–97, title I, § 13504(a), Dec. 22, 2017, 131 Stat. 2141.)
 
 **Editorial Notes**
 
@@ -845,7 +845,7 @@ In the case of a division of a partnership into two or more partnerships, the re
 
 Amendment by Pub. L. 115–97 applicable to partnership taxable years beginning after Dec. 31, 2017, see section 13504(c) of Pub. L. 115–97, set out as a note under section 168 of this title.
 
-### § 709. Treatment of organization and syndication fees
+### § 709. Treatment of organization and syndication fees
 
 **(a) General rule**
 
@@ -875,7 +875,7 @@ In any case in which a partnership is liquidated before the end of the period to
 
 **(C)** are of a character which, if expended incident to the creation of a partnership having an ascertainable life, would be amortized over such life.
 
-(Added Pub. L. 94–455, title II, § 213(b)(1), Oct. 4, 1976, 90 Stat. 1547; amended Pub. L. 108–357, title VIII, § 902(c), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 109–135, title IV, § 403(*ll*), Dec. 21, 2005, 119 Stat. 2632.)
+(Added Pub. L. 94–455, title II, § 213(b)(1), Oct. 4, 1976, 90 Stat. 1547; amended Pub. L. 108–357, title VIII, § 902(c), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 109–135, title IV, § 403(*ll*), Dec. 21, 2005, 119 Stat. 2632.)
 
 **Editorial Notes**
 
@@ -897,7 +897,7 @@ Amendment by Pub. L. 108–357 applicable to amounts paid or incurred after Oct.
 
 **Effective Date**
 
-Pub. L. 94–455, title II, § 213(f), Oct. 4, 1976, 90 Stat. 1548, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title II, § 213(f), Oct. 4, 1976, 90 Stat. 1548, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and amending sections 179, 704, 706, 707, and 761 of this title] shall apply in the case of partnership taxable years beginning after December 31, 1975.
 
@@ -913,9 +913,9 @@ Pub. L. 94–455, title II, § 213(f), Oct. 4, 1976, 90 Stat. 1548, as amended
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title I, § 74(c), July 18, 1984, 98 Stat. 593, added item 724.
+1984—Pub. L. 98–369, div. A, title I, § 74(c), July 18, 1984, 98 Stat. 593, added item 724.
 
-#### § 721. Nonrecognition of gain or loss on contribution
+#### § 721. Nonrecognition of gain or loss on contribution
 
 **(a) General rule**
 
@@ -933,7 +933,7 @@ The Secretary may provide by regulations that subsection (a) shall not apply to 
 
 For regulatory authority to treat intangibles transferred to a partnership as sold, see section 367(d)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(b), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 105–34, title XI, § 1131(b)(3), (5)(B), Aug. 5, 1997, 111 Stat. 979, 980.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(b), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 105–34, title XI, § 1131(b)(3), (5)(B), Aug. 5, 1997, 111 Stat. 979, 980.)
 
 **Editorial Notes**
 
@@ -943,9 +943,9 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 **Amendments**
 
-1997—Subsec. (c). Pub. L. 105–34, § 1131(b)(3), added subsec. (c).
+1997—Subsec. (c). Pub. L. 105–34, § 1131(b)(3), added subsec. (c).
 
-Subsec. (d). Pub. L. 105–34, § 1131(b)(5)(B), added subsec. (d).
+Subsec. (d). Pub. L. 105–34, § 1131(b)(5)(B), added subsec. (d).
 
 1976—Pub. L. 94–455 designated existing provisions as subsec. (a), added subsec. (a) heading “General rule”, and added subsec. (b).
 
@@ -953,7 +953,7 @@ Subsec. (d). Pub. L. 105–34, § 1131(b)(5)(B), added subsec. (d).
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XXI, § 2131(f)(3)–(5), Oct. 4, 1976, 90 Stat. 1924, 1925, provided that:
+Pub. L. 94–455, title XXI, § 2131(f)(3)–(5), Oct. 4, 1976, 90 Stat. 1924, 1925, provided that:
 
 > **“(3)** Except as provided in paragraph (4), the amendments made by subsections (b) and (c) [amending this section and sections 722 and 723 of this title] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 
@@ -979,11 +979,11 @@ Pub. L. 94–455, title XXI, § 2131(f)(3)–(5), Oct. 4, 1976, 90 Stat. 1924,
 
 > **“(B)** by substituting ‘$25,000,000’ for ‘$100,000,000’ in subparagraph (C)(i) thereof.”
 
-#### § 722. Basis of contributing partner’s interest
+#### § 722. Basis of contributing partner’s interest
 
 The basis of an interest in a partnership acquired by a contribution of property, including money, to the partnership shall be the amount of such money and the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, § 722(f)(1), July 18, 1984, 98 Stat. 974.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, § 722(f)(1), July 18, 1984, 98 Stat. 974.)
 
 **Editorial Notes**
 
@@ -997,17 +997,17 @@ The basis of an interest in a partnership acquired by a contribution of property
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 722(f)(2), July 18, 1984, 98 Stat. 974, provided that: “The amendments made by paragraph (1) [amending this section and section 723 of this title] shall take effect as if included in the amendments made by section 2131 of the Tax Reform Act of 1976 [Pub. L. 94–455].”
+Pub. L. 98–369, div. A, title VII, § 722(f)(2), July 18, 1984, 98 Stat. 974, provided that: “The amendments made by paragraph (1) [amending this section and section 723 of this title] shall take effect as if included in the amendments made by section 2131 of the Tax Reform Act of 1976 [Pub. L. 94–455].”
 
 **Effective Date of 1976 Amendment**
 
 For effective date of amendment made by Pub. L. 94–455, see section 2131(f)(3)–(5) of Pub. L. 94–455, set out as a note under section 721 of this title.
 
-#### § 723. Basis of property contributed to partnership
+#### § 723. Basis of property contributed to partnership
 
 The basis of property contributed to a partnership by a partner shall be the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, § 722(f)(1), July 18, 1984, 98 Stat. 974.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, § 2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, § 722(f)(1), July 18, 1984, 98 Stat. 974.)
 
 **Editorial Notes**
 
@@ -1027,7 +1027,7 @@ Amendment by Pub. L. 98–369 effective as if included in amendments made by sec
 
 For effective date of amendment made by Pub. L. 94–455, see section 2131(f)(3)–(5) of Pub. L. 94–455, set out as a note under section 721 of this title.
 
-#### § 724. Character of gain or loss on contributed unrealized receivables, inventory items, and capital loss property
+#### § 724. Character of gain or loss on contributed unrealized receivables, inventory items, and capital loss property
 
 **(a) Contributions of unrealized receivables** In the case of any property which—
 
@@ -1073,7 +1073,7 @@ If any property described in subsection (a), (b), or (c) is disposed of in a non
 
 Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
 
-(Added Pub. L. 98–369, div. A, title I, § 74(a), July 18, 1984, 98 Stat. 592; amended Pub. L. 104–188, title I, § 1704(t)(63), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
+(Added Pub. L. 98–369, div. A, title I, § 74(a), July 18, 1984, 98 Stat. 592; amended Pub. L. 104–188, title I, § 1704(t)(63), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 
 **Editorial Notes**
 
@@ -1087,7 +1087,7 @@ Subparagraph (A) shall not apply to any stock in a C corporation received in an 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1062(c), Aug. 5, 1997, 111 Stat. 947, provided that:
+Pub. L. 105–34, title X, § 1062(c), Aug. 5, 1997, 111 Stat. 947, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 731, 732, 735, and 751 of this title] shall apply to sales, exchanges, and distributions after the date of the enactment of this Act [Aug. 5, 1997].
 
@@ -1095,7 +1095,7 @@ Pub. L. 105–34, title X, § 1062(c), Aug. 5, 1997, 111 Stat. 947, provided t
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title I, § 74(d)(1), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to property contributed to a partnership after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 74(d)(1), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to property contributed to a partnership after March 31, 1984, in taxable years ending after such date.”
 
 ### Subpart B—Distributions by a Partnership
 
@@ -1103,11 +1103,11 @@ Pub. L. 98–369, div. A, title I, § 74(d)(1), July 18, 1984, 98 Stat. 594, p
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 833(c)(5)(B), Oct. 22, 2004, 118 Stat. 1592, substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in item 734.
+2004—Pub. L. 108–357, title VIII, § 833(c)(5)(B), Oct. 22, 2004, 118 Stat. 1592, substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in item 734.
 
-1992—Pub. L. 102–486, title XIX, § 1937(b)(3), Oct. 24, 1992, 106 Stat. 3033, added item 737.
+1992—Pub. L. 102–486, title XIX, § 1937(b)(3), Oct. 24, 1992, 106 Stat. 3033, added item 737.
 
-#### § 731. Extent of recognition of gain or loss on distribution
+#### § 731. Extent of recognition of gain or loss on distribution
 
 **(a) Partners** In the case of a distribution by a partnership to a partner—
 
@@ -1251,7 +1251,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner’s successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 102–486, title XIX, § 1937(b)(2), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–465, title VII, § 741(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 102–486, title XIX, § 1937(b)(2), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–465, title VII, § 741(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 
 **Editorial Notes**
 
@@ -1265,7 +1265,7 @@ Section 2(a)(32) of the Investment Company Act of 1940, referred to in subsec. (
 
 1994—Subsecs. (c), (d). Pub. L. 103–465 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1992—Subsec. (c). Pub. L. 102–486 substituted “, section 751” for “and section 751” and inserted before period at end “, and section 737 (relating to recognition of precontribution gain in case of certain distributions)”.
+1992—Subsec. (c). Pub. L. 102–486 substituted “, section 751” for “and section 751” and inserted before period at end “, and section 737 (relating to recognition of precontribution gain in case of certain distributions)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1275,7 +1275,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title VII, § 741(c), Dec. 8, 1994, 108 Stat. 5009, provided that:
+Pub. L. 103–465, title VII, § 741(c), Dec. 8, 1994, 108 Stat. 5009, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 737 of this title] shall apply to distributions after the date of the enactment of this Act [Dec. 8, 1994].
 
@@ -1315,7 +1315,7 @@ Pub. L. 103–465, title VII, § 741(c), Dec. 8, 1994, 108 Stat. 5009, provide
 
 Amendment by Pub. L. 102–486 applicable to distributions on or after June 25, 1992, see section 1937(c) of Pub. L. 102–486, set out as a note under section 704 of this title.
 
-#### § 732. Basis of distributed property other than money
+#### § 732. Basis of distributed property other than money
 
 **(a) Distributions other than in liquidation of a partner’s interest**
 
@@ -1417,7 +1417,7 @@ If the property held by a distributed corporation is stock in a corporation whic
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to avoid double counting and to prevent the abuse of such purposes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 246; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §§ 1061(a), 1062(b)(3), Aug. 5, 1997, 111 Stat. 945, 947; Pub. L. 106–170, title V, § 538(a), Dec. 17, 1999, 113 Stat. 1939.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 246; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §§ 1061(a), 1062(b)(3), Aug. 5, 1997, 111 Stat. 945, 947; Pub. L. 106–170, title V, § 538(a), Dec. 17, 1999, 113 Stat. 1939.)
 
 **Editorial Notes**
 
@@ -1425,13 +1425,13 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 1999—Subsec. (f). Pub. L. 106–170 added subsec. (f).
 
-1997—Subsec. (c). Pub. L. 105–34, § 1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
+1997—Subsec. (c). Pub. L. 105–34, § 1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
 “(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
 
 “(2) to the extent of any remaining basis, to any other distributed properties in proportion to their adjusted bases to the partnership.”
 
-Subsec. (c)(1)(A)(i). Pub. L. 105–34, § 1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
+Subsec. (c)(1)(A)(i). Pub. L. 105–34, § 1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
 
 1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1439,7 +1439,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 105–34, § 1062(b)(3), substituted “section 
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–170, title V, § 538(b), Dec. 17, 1999, 113 Stat. 1940, provided that:
+Pub. L. 106–170, title V, § 538(b), Dec. 17, 1999, 113 Stat. 1940, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by this section [amending this section] shall apply to distributions made after July 14, 1999.
 
@@ -1447,11 +1447,11 @@ Pub. L. 106–170, title V, § 538(b), Dec. 17, 1999, 113 Stat. 1940, provided
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title X, § 1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after the date of the enactment of this Act [Aug. 5, 1997].”
 
 Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 
-#### § 733. Basis of distributee partner’s interest
+#### § 733. Basis of distributee partner’s interest
 
 In the case of a distribution by a partnership to a partner other than in liquidation of a partner’s interest, the adjusted basis to such partner of his interest in the partnership shall be reduced (but not below zero) by—
 
@@ -1461,7 +1461,7 @@ In the case of a distribution by a partnership to a partner other than in liquid
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 247.)
 
-#### § 734. Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction
+#### § 734. Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction
 
 **(a) General rule**
 
@@ -1501,25 +1501,25 @@ For regulations to carry out this subsection, see section 743(d)(2).
 
 For purposes of this section, a securitization partnership (as defined in section 743(f)) shall not be treated as having a substantial basis reduction with respect to any distribution of property to a partner.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 247; Pub. L. 98–369, div. A, title I, § 78(a), July 18, 1984, 98 Stat. 597; Pub. L. 108–357, title VIII, § 833(c)(1)–(5)(A), Oct. 22, 2004, 118 Stat. 1591, 1592; Pub. L. 109–135, title IV, § 403(bb), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 247; Pub. L. 98–369, div. A, title I, § 78(a), July 18, 1984, 98 Stat. 597; Pub. L. 108–357, title VIII, § 833(c)(1)–(5)(A), Oct. 22, 2004, 118 Stat. 1591, 1592; Pub. L. 109–135, title IV, § 403(bb), Dec. 21, 2005, 119 Stat. 2630.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–135, § 403(bb)(1), inserted “with respect to such distribution” before period at end.
+2005—Subsec. (a). Pub. L. 109–135, § 403(bb)(1), inserted “with respect to such distribution” before period at end.
 
-Subsec. (b). Pub. L. 109–135, § 403(bb)(2), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In the case of a distribution of property to a partner, a partnership, with respect to which the election provided in section 754 is in effect or unless there is a substantial basis reduction, shall—”.
+Subsec. (b). Pub. L. 109–135, § 403(bb)(2), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In the case of a distribution of property to a partner, a partnership, with respect to which the election provided in section 754 is in effect or unless there is a substantial basis reduction, shall—”.
 
-2004—Pub. L. 108–357, § 833(c)(5)(A), substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
+2004—Pub. L. 108–357, § 833(c)(5)(A), substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
 
-Subsec. (a). Pub. L. 108–357, § 833(c)(1), inserted “or unless there is a substantial basis reduction” before period at end.
+Subsec. (a). Pub. L. 108–357, § 833(c)(1), inserted “or unless there is a substantial basis reduction” before period at end.
 
-Subsec. (b). Pub. L. 108–357, § 833(c)(2), inserted “or unless there is a substantial basis reduction” after “section 754 is in effect” in introductory provisions.
+Subsec. (b). Pub. L. 108–357, § 833(c)(2), inserted “or unless there is a substantial basis reduction” after “section 754 is in effect” in introductory provisions.
 
-Subsec. (d). Pub. L. 108–357, § 833(c)(3), added subsec. (d).
+Subsec. (d). Pub. L. 108–357, § 833(c)(3), added subsec. (d).
 
-Subsec. (e). Pub. L. 108–357, § 833(c)(4), added subsec. (e).
+Subsec. (e). Pub. L. 108–357, § 833(c)(4), added subsec. (e).
 
 1984—Subsec. (b). Pub. L. 98–369 inserted at end “Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect.”
 
@@ -1531,13 +1531,13 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 833(d)(3), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendments made by subsection (c) [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 833(d)(3), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendments made by subsection (c) [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 78(b), July 18, 1984, 98 Stat. 597, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after March 1, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 78(b), July 18, 1984, 98 Stat. 597, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after March 1, 1984, in taxable years ending after such date.”
 
-#### § 735. Character of gain or loss on disposition of distributed property
+#### § 735. Character of gain or loss on disposition of distributed property
 
 **(a) Sale or exchange of certain distributed property**
 
@@ -1569,7 +1569,7 @@ If any property described in subsection (a) is disposed of in a nonrecognition t
 
 Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
 
-(Aug. 16, 1954, ch. 763, 68A Stat. 247; Pub. L. 94–455, title XIX, § 1901(b)(3)(D), Oct. 4, 1976, 90 Stat. 1792; Pub. L. 98–369, div. A, title I, § 74(b), July 18, 1984, 98 Stat. 593; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
+(Aug. 16, 1954, ch. 763, 68A Stat. 247; Pub. L. 94–455, title XIX, § 1901(b)(3)(D), Oct. 4, 1976, 90 Stat. 1792; Pub. L. 98–369, div. A, title I, § 74(b), July 18, 1984, 98 Stat. 593; Pub. L. 105–34, title X, § 1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 
 **Editorial Notes**
 
@@ -1589,13 +1589,13 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 74(d)(2), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (b) [amending this section] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 74(d)(2), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (b) [amending this section] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-#### § 736. Payments to a retiring partner or a deceased partner’s successor in interest
+#### § 736. Payments to a retiring partner or a deceased partner’s successor in interest
 
 **(a) Payments considered as distributive share or guaranteed payment** Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, except as provided in subsection (b), be considered—
 
@@ -1621,15 +1621,15 @@ Payments made in liquidation of the interest of a retiring partner or a deceased
 
 **(B)** the retiring or deceased partner was a general partner in the partnership.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, § 701(u)(13)(B), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 103–66, title XIII, § 13262(a), (b)(2)(B), Aug. 10, 1993, 107 Stat. 541.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, § 701(u)(13)(B), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 103–66, title XIII, § 13262(a), (b)(2)(B), Aug. 10, 1993, 107 Stat. 541.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (b)(3). Pub. L. 103–66, § 13262(a), added par. (3).
+1993—Subsec. (b)(3). Pub. L. 103–66, § 13262(a), added par. (3).
 
-Subsec. (c). Pub. L. 103–66, § 13262(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “For limitation on the tax attributable to certain gain connected with section 1248 stock, see section 751(e).”
+Subsec. (c). Pub. L. 103–66, § 13262(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “For limitation on the tax attributable to certain gain connected with section 1248 stock, see section 751(e).”
 
 1978—Subsec. (c). Pub. L. 95–600 added subsec. (c).
 
@@ -1639,7 +1639,7 @@ Subsec. (c). Pub. L. 103–66, § 13262(b)(2)(B), struck out heading and text 
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13262(c), Aug. 10, 1993, 107 Stat. 541, provided that:
+Pub. L. 103–66, title XIII, § 13262(c), Aug. 10, 1993, 107 Stat. 541, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 751 of this title] shall apply in the case of partners retiring or dying on or after January 5, 1993.
 
@@ -1649,7 +1649,7 @@ Pub. L. 103–66, title XIII, § 13262(c), Aug. 10, 1993, 107 Stat. 541, provi
 
 Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges, and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
 
-#### § 737. Recognition of precontribution gain in case of certain distributions to contributing partner
+#### § 737. Recognition of precontribution gain in case of certain distributions to contributing partner
 
 **(a) General rule** In the case of any distribution by a partnership to a partner, such partner shall be treated as recognizing gain in an amount equal to the lesser of—
 
@@ -1691,7 +1691,7 @@ This section shall not apply to the extent section 751(b) applies to such distri
 
 For treatment of marketable securities as money for purposes of this section, see section 731(c).
 
-(Added Pub. L. 102–486, title XIX, § 1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, § 741(b), Dec. 8, 1994, 108 Stat. 5009; Pub. L. 104–188, title I, § 1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, § 1063(a), Aug. 5, 1997, 111 Stat. 947.)
+(Added Pub. L. 102–486, title XIX, § 1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, § 741(b), Dec. 8, 1994, 108 Stat. 5009; Pub. L. 104–188, title I, § 1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, § 1063(a), Aug. 5, 1997, 111 Stat. 947.)
 
 **Editorial Notes**
 
@@ -1701,9 +1701,9 @@ For treatment of marketable securities as money for purposes of this section, se
 
 1996—Pub. L. 104–188 provided that section 1937(a) of Pub. L. 102–486, shall be applied as if “Subpart B” appeared instead of “Subpart C”. Section 1937(a) of Pub. L. 102–486 directed amendment of subpart C of this part by adding this section at the end thereof.
 
-1994—Subsec. (c)(1). Pub. L. 103–465, § 741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
+1994—Subsec. (c)(1). Pub. L. 103–465, § 741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
 
-Subsec. (e). Pub. L. 103–465, § 741(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 103–465, § 741(b)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1725,13 +1725,13 @@ Section applicable to distributions on or after June 25, 1992, see section 1937(
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 833(b)(6)(B), Oct. 22, 2004, 118 Stat. 1591, substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in item 743.
+2004—Pub. L. 108–357, title VIII, § 833(b)(6)(B), Oct. 22, 2004, 118 Stat. 1591, substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in item 743.
 
-#### § 741. Recognition and character of gain or loss on sale or exchange
+#### § 741. Recognition and character of gain or loss on sale or exchange
 
 In the case of a sale or exchange of an interest in a partnership, gain or loss shall be recognized to the transferor partner. Such gain or loss shall be considered as gain or loss from the sale or exchange of a capital asset, except as otherwise provided in section 751 (relating to unrealized receivables and inventory items).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 107–147, title IV, § 417(12), Mar. 9, 2002, 116 Stat. 56.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 107–147, title IV, § 417(12), Mar. 9, 2002, 116 Stat. 56.)
 
 **Editorial Notes**
 
@@ -1739,13 +1739,13 @@ In the case of a sale or exchange of an interest in a partnership, gain or loss 
 
 2002—Pub. L. 107–147 struck out “which have appreciated substantially in value” after “inventory items”.
 
-#### § 742. Basis of transferee partner’s interest
+#### § 742. Basis of transferee partner’s interest
 
 The basis of an interest in a partnership acquired other than by contribution shall be determined under part II of subchapter O (sec. 1011 and following).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 249.)
 
-#### § 743. Special rules where section 754 election or substantial built-in loss
+#### § 743. Special rules where section 754 election or substantial built-in loss
 
 **(a) General rule**
 
@@ -1829,7 +1829,7 @@ For purposes of this section, a securitization partnership shall not be treated 
 
 For purposes of paragraph (1), the term “securitization partnership” means any partnership the sole business activity of which is to issue securities which provide for a fixed principal (or similar) amount and which are primarily serviced by the cash flows of a discrete pool (either fixed or revolving) of receivables or other financial assets that by their terms convert into cash in a finite period, but only if the sponsor of the pool reasonably believes that the receivables and other financial assets comprising the pool are not acquired so as to be disposed of.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 71(b), July 18, 1984, 98 Stat. 589; Pub. L. 108–357, title VIII, § 833(b)(1)–(4)(A), (5), (6)(A), Oct. 22, 2004, 118 Stat. 1589, 1591; Pub. L. 115–97, title I, §§ 13502(a), 13504(b)(2), Dec. 22, 2017, 131 Stat. 2141, 2142.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 71(b), July 18, 1984, 98 Stat. 589; Pub. L. 108–357, title VIII, § 833(b)(1)–(4)(A), (5), (6)(A), Oct. 22, 2004, 118 Stat. 1589, 1591; Pub. L. 115–97, title I, §§ 13502(a), 13504(b)(2), Dec. 22, 2017, 131 Stat. 2141, 2142.)
 
 **Editorial Notes**
 
@@ -1839,21 +1839,21 @@ Section 3(a)(1)(A), (c)(1), (7) of the Investment Company Act of 1940, referred 
 
 **Amendments**
 
-2017—Subsec. (d)(1). Pub. L. 115–97, § 13502(a), amended par. (1) generally. Prior to amendment, text read as follows: “For purposes of this section, a partnership has a substantial built-in loss with respect to a transfer of an interest in a partnership if the partnership’s adjusted basis in the partnership property exceeds by more than $250,000 the fair market value of such property.”
+2017—Subsec. (d)(1). Pub. L. 115–97, § 13502(a), amended par. (1) generally. Prior to amendment, text read as follows: “For purposes of this section, a partnership has a substantial built-in loss with respect to a transfer of an interest in a partnership if the partnership’s adjusted basis in the partnership property exceeds by more than $250,000 the fair market value of such property.”
 
-Subsec. (e)(4) to (7). Pub. L. 115–97, § 13504(b)(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “This subsection shall be applied without regard to any termination of a partnership under section 708(b)(1)(B).”
+Subsec. (e)(4) to (7). Pub. L. 115–97, § 13504(b)(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “This subsection shall be applied without regard to any termination of a partnership under section 708(b)(1)(B).”
 
-2004—Pub. L. 108–357, § 833(b)(6)(A), substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
+2004—Pub. L. 108–357, § 833(b)(6)(A), substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
 
-Subsec. (a). Pub. L. 108–357, § 833(b)(1), inserted “or unless the partnership has a substantial built-in loss immediately after such transfer” before period at end.
+Subsec. (a). Pub. L. 108–357, § 833(b)(1), inserted “or unless the partnership has a substantial built-in loss immediately after such transfer” before period at end.
 
-Subsec. (b). Pub. L. 108–357, § 833(b)(2), inserted “or which has a substantial built-in loss immediately after such transfer” after “section 754 is in effect” in introductory provisions.
+Subsec. (b). Pub. L. 108–357, § 833(b)(2), inserted “or which has a substantial built-in loss immediately after such transfer” after “section 754 is in effect” in introductory provisions.
 
-Subsec. (d). Pub. L. 108–357, § 833(b)(3), added subsec. (d).
+Subsec. (d). Pub. L. 108–357, § 833(b)(3), added subsec. (d).
 
-Subsec. (e). Pub. L. 108–357, § 833(b)(4)(A), added subsec. (e).
+Subsec. (e). Pub. L. 108–357, § 833(b)(4)(A), added subsec. (e).
 
-Subsec. (f). Pub. L. 108–357, § 833(b)(5), added subsec. (f).
+Subsec. (f). Pub. L. 108–357, § 833(b)(5), added subsec. (f).
 
 1984—Subsec. (b). Pub. L. 98–369 substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
 
@@ -1863,13 +1863,13 @@ Subsec. (f). Pub. L. 108–357, § 833(b)(5), added subsec. (f).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13502(b), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendments made by this section [amending this section] shall apply to transfers of partnership interests after December 31, 2017.”
+Pub. L. 115–97, title I, § 13502(b), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendments made by this section [amending this section] shall apply to transfers of partnership interests after December 31, 2017.”
 
 Amendment by section 13504(b)(2) of Pub. L. 115–97 applicable to partnership taxable years beginning after Dec. 31, 2017, see section 13504(c) of Pub. L. 115–97, set out as a note under section 168 of this title.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 833(d)(2), Oct. 22, 2004, 118 Stat. 1592, provided that:
+Pub. L. 108–357, title VIII, § 833(d)(2), Oct. 22, 2004, 118 Stat. 1592, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendments made by subsection (b) [amending this section and section 6031 of this title] shall apply to transfers after the date of the enactment of this Act [Oct. 22, 2004].
 
@@ -1881,7 +1881,7 @@ Amendment by Pub. L. 98–369 applicable with respect to property contributed to
 
 ### Subpart D—Provisions Common to Other Subparts
 
-#### § 751. Unrealized receivables and inventory items
+#### § 751. Unrealized receivables and inventory items
 
 **(a) Sale or exchange of interest in partnership** The amount of any money, or the fair market value of any property, received by a transferor partner in exchange for all or a part of his interest in the partnership attributable to—
 
@@ -1951,7 +1951,7 @@ For purposes of applying this section and sections 731 and 741 to any amount res
 
 such partnership shall be treated as owning its proportionate share of the property of any other partnership in which it is a partner. Under regulations, rules similar to the rules of the preceding sentence shall also apply in the case of interests in trusts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§ 13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, § 231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, § 1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, § 205(b), title X, § 1042(c)(2), title XI, § 1101(d)(2), title XIX, §§ 1901(a)(93), 1906(b)(13)(A), title XXI, § 2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, § 701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, § 402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, § 102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§ 43(c)(3), 76(a), title IV, § 492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, § 201(d)(10), title XVIII, § 1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§ 13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, § 1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, § 6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, § 532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 413(c)(11), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 115–141, div. U, title IV, § 401(a)(140), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§ 13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, § 231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, § 1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, § 205(b), title X, § 1042(c)(2), title XI, § 1101(d)(2), title XIX, §§ 1901(a)(93), 1906(b)(13)(A), title XXI, § 2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, § 701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, § 402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, § 102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§ 43(c)(3), 76(a), title IV, § 492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, § 201(d)(10), title XVIII, § 1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§ 13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, § 1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, § 6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, § 532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 413(c)(11), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 115–141, div. U, title IV, § 401(a)(140), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -1965,37 +1965,37 @@ such partnership shall be treated as owning its proportionate share of the prope
 
 1998—Subsec. (c). Pub. L. 105–206 substituted “731, 732,” for “731” wherever appearing in concluding provisions.
 
-1997—Subsec. (a)(2). Pub. L. 105–34, § 1062(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “inventory items of the partnership which have appreciated substantially in value,”.
+1997—Subsec. (a)(2). Pub. L. 105–34, § 1062(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “inventory items of the partnership which have appreciated substantially in value,”.
 
-Subsec. (b)(1). Pub. L. 105–34, § 1062(b)(1)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 105–34, § 1062(b)(1)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) partnership property described in subsection (a)(1) or (2) in exchange for all or a part of his interest in other partnership property (including money), or
 
 “(B) partnership property (including money) other than property described in subsection (a)(1) or (2) in exchange for all or a part of his interest in partnership property described in subsection (a)(1) or (2),”.
 
-Subsec. (b)(3). Pub. L. 105–34, § 1062(b)(1)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 105–34, § 1062(b)(1)(B), added par. (3).
 
-Subsec. (d). Pub. L. 105–34, § 1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relating to inventory items which have appreciated substantially in value.
+Subsec. (d). Pub. L. 105–34, § 1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relating to inventory items which have appreciated substantially in value.
 
-1993—Subsec. (c). Pub. L. 103–66, § 13262(b)(1), in concluding provisions, substituted “section 731 or 741” for “section 731, 736, or 741” in two places and “, sections 731 and 741 (but not for purposes of section 736)” for “sections 731, 736, and 741” in two places.
+1993—Subsec. (c). Pub. L. 103–66, § 13262(b)(1), in concluding provisions, substituted “section 731 or 741” for “section 731, 736, or 741” in two places and “, sections 731 and 741 (but not for purposes of section 736)” for “sections 731, 736, and 741” in two places.
 
-Subsec. (d)(1). Pub. L. 103–66, § 13206(e)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Inventory items of the partnership shall be considered to have appreciated substantially in value if their fair market value exceeds—
+Subsec. (d)(1). Pub. L. 103–66, § 13206(e)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Inventory items of the partnership shall be considered to have appreciated substantially in value if their fair market value exceeds—
 
 “(A) 120 percent of the adjusted basis to the partnership of such property, and
 
 “(B) 10 percent of the fair market value of all partnership property, other than money.”
 
-Subsec. (e). Pub. L. 103–66, § 13262(b)(2)(A), substituted “sections 731 and 741” for “sections 731, 736, and 741”.
+Subsec. (e). Pub. L. 103–66, § 13262(b)(2)(A), substituted “sections 731 and 741” for “sections 731, 736, and 741”.
 
-1986—Subsec. (c). Pub. L. 99–514, § 1899A(19), substituted “section 617(f)(2)), stock” for “section 617(f)(2), stock” in second sentence.
+1986—Subsec. (c). Pub. L. 99–514, § 1899A(19), substituted “section 617(f)(2)), stock” for “section 617(f)(2), stock” in second sentence.
 
-Pub. L. 99–514, § 201(d)(10), struck out “section 1245 recovery property (as defined in section 1245(a)(5)),” before “stock in certain foreign corporations” in second sentence.
+Pub. L. 99–514, § 201(d)(10), struck out “section 1245 recovery property (as defined in section 1245(a)(5)),” before “stock in certain foreign corporations” in second sentence.
 
-1984—Subsec. (c). Pub. L. 98–369, § 492(b)(4), struck out “farm recapture property (as defined in section 1251(e)(1)),” before “farm land”, and “1251(c),” after “1250(a),” in second sentence.
+1984—Subsec. (c). Pub. L. 98–369, § 492(b)(4), struck out “farm recapture property (as defined in section 1251(e)(1)),” before “farm land”, and “1251(c),” after “1250(a),” in second sentence.
 
-Pub. L. 98–369, § 43(c)(3), inserted last sentence.
+Pub. L. 98–369, § 43(c)(3), inserted last sentence.
 
-Subsec. (f). Pub. L. 98–369, § 76(a), added subsec. (f).
+Subsec. (f). Pub. L. 98–369, § 76(a), added subsec. (f).
 
 1983—Subsec. (c). Pub. L. 97–448 inserted reference to section 1245 recovery property (as defined in section 1245(a)(5)) in second sentence.
 
@@ -2003,9 +2003,9 @@ Subsec. (f). Pub. L. 98–369, § 76(a), added subsec. (f).
 
 Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, §§ 205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section 1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
+Subsec. (c). Pub. L. 94–455, §§ 205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section 1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
 
 1969—Subsec. (c). Pub. L. 91–172, in second sentence, substituted “section 1250 property (as defined in section 1250(c)), farm recapture property (as defined in section 1251(e)(1)), and farm land (as defined in section 1252(a))”, and “1250(a), 1251(c), or 1252(a)”, for “and section 1250 property (as defined in section 1250(c))” and “1250(a)”, respectively.
 
@@ -2013,9 +2013,9 @@ Subsec. (c). Pub. L. 94–455, §§ 205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93
 
 1964—Subsec. (c). Pub. L. 88–272, in second sentence, inserted reference to section 1250.
 
-1962—Subsec. (c). Pub. L. 87–834, § 13(f)(1), defined “unrealized receivables” for purposes of this section and section 731, 736, and 741, as including section 1245 property, but only to the extent of the amount which would be treated as gain to which section 1245(a) would apply if (at the time of the transaction described in this section or section 731, 736, or 741, as the case may be) such property had been sold by the partnership at its fair market value.
+1962—Subsec. (c). Pub. L. 87–834, § 13(f)(1), defined “unrealized receivables” for purposes of this section and section 731, 736, and 741, as including section 1245 property, but only to the extent of the amount which would be treated as gain to which section 1245(a) would apply if (at the time of the transaction described in this section or section 731, 736, or 741, as the case may be) such property had been sold by the partnership at its fair market value.
 
-Subsec. (d)(2). Pub. L. 87–834, § 14(b)(2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
+Subsec. (d)(2). Pub. L. 87–834, § 14(b)(2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2037,7 +2037,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13206(e)(2), Aug. 10, 1993, 107 Stat. 467, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to sales, exchanges, and distributions after April 30, 1993.”
+Pub. L. 103–66, title XIII, § 13206(e)(2), Aug. 10, 1993, 107 Stat. 467, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to sales, exchanges, and distributions after April 30, 1993.”
 
 Amendment by section 13262(b)(1) and (2)(A) of Pub. L. 103–66 applicable in the case of partners retiring or dying on or after Jan. 5, 1993, with a binding contract exception, see section 13262(c) of Pub. L. 103–66, set out as a note under section 736 of this title.
 
@@ -2051,7 +2051,7 @@ Amendment by section 201(d)(10) of Pub. L. 99–514 not applicable to any proper
 
 Amendment by section 43(c)(3) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Pub. L. 98–369, div. A, title I, § 76(b), July 18, 1984, 98 Stat. 595, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions, sales, and exchanges made after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 76(b), July 18, 1984, 98 Stat. 595, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions, sales, and exchanges made after March 31, 1984, in taxable years ending after such date.”
 
 Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 492(d) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
@@ -2063,7 +2063,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or after Oct. 1, 1978, in taxable years ending on or after such date, see section 402(e) of Pub. L. 95–618, set out as a note under section 263 of this title.
 
-Pub. L. 95–600, title VII, § 701(u)(13)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by this paragraph [amending this section and section 736 of this title] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date.”
+Pub. L. 95–600, title VII, § 701(u)(13)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by this paragraph [amending this section and section 736 of this title] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date.”
 
 **Effective Date of 1976 Amendment**
 
@@ -2075,7 +2075,7 @@ Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchang
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, § 2110(b), Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) [amending this section] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] which occur after December 31, 1976, in taxable years ending after that date.”
+Pub. L. 94–455, title XXI, § 2110(b), Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) [amending this section] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] which occur after December 31, 1976, in taxable years ending after that date.”
 
 **Effective Date of 1969 Amendment**
 
@@ -2095,11 +2095,11 @@ Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years be
 
 Amendment by section 14(b)(2) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as a note under section 312 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 752. Treatment of certain liabilities
+#### § 752. Treatment of certain liabilities
 
 **(a) Increase in partner’s liabilities**
 
@@ -2123,23 +2123,23 @@ In the case of a sale or exchange of an interest in a partnership, liabilities s
 
 **Overruling of Raphan Case**
 
-Pub. L. 98–369, div. A, title I, § 79, July 18, 1984, 98 Stat. 597, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 79, July 18, 1984, 98 Stat. 597, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) General Rule.—** Section 752 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (and the regulations prescribed thereunder) shall be applied without regard to the result reached in the case of Raphan vs the United States, 3 Cl. Ct. 457 (1983).
 
 > **“(b) Regulations.—** In amending the regulations prescribed under section 752 of such Code to reflect subsection (a), the Secretary of the Treasury or his delegate shall prescribe regulations relating to liabilities, including the treatment of guarantees, assumptions, indemnity agreements, and similar arrangements.”
 
-#### § 753. Partner receiving income in respect of decedent
+#### § 753. Partner receiving income in respect of decedent
 
 The amount includible in the gross income of a successor in interest of a deceased partner under section 736(a) shall be considered income in respect of a decedent under section 691.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 251.)
 
-#### § 754. Manner of electing optional adjustment to basis of partnership property
+#### § 754. Manner of electing optional adjustment to basis of partnership property
 
 If a partnership files an election, in accordance with regulations prescribed by the Secretary, the basis of partnership property shall be adjusted, in the case of a distribution of property, in the manner provided in section 734 and, in the case of a transfer of a partnership interest, in the manner provided in section 743. Such an election shall apply with respect to all distributions of property by the partnership and to all transfers of interests in the partnership during the taxable year with respect to which such election was filed and all subsequent taxable years. Such election may be revoked by the partnership, subject to such limitations as may be provided by regulations prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 251; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 251; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -2147,7 +2147,7 @@ If a partnership files an election, in accordance with regulations prescribed by
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 755. Rules for allocation of basis
+#### § 755. Rules for allocation of basis
 
 **(a) General rule** Any increase or decrease in the adjusted basis of partnership property under section 734(b) (relating to the optional adjustment to the basis of undistributed partnership property) or section 743(b) (relating to the optional adjustment to the basis of partnership property in the case of a transfer of an interest in a partnership) shall, except as provided in subsection (b), be allocated—
 
@@ -2171,7 +2171,7 @@ shall be allocated to partnership property of a like character except that the b
 
 Gain shall be recognized to the partnership to the extent that the amount required to be allocated under paragraph (2) to other partnership property exceeds the aggregate adjusted basis of such other property immediately before the allocation required by paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title VIII, § 834(a), Oct. 22, 2004, 118 Stat. 1592.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title VIII, § 834(a), Oct. 22, 2004, 118 Stat. 1592.)
 
 **Editorial Notes**
 
@@ -2185,11 +2185,11 @@ Gain shall be recognized to the partnership to the extent that the amount requir
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 834(b), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by this section [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 834(b), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by this section [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 2004].”
 
 ## PART III—DEFINITIONS
 
-### § 761. Terms defined
+### § 761. Terms defined
 
 **(a) Partnership** For purposes of this subtitle, the term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a corporation or a trust or estate. Under regulations the Secretary may, at the election of all the members of an unincorporated organization, exclude such organization from the application of all or part of this subchapter, if it is availed of—
 
@@ -2245,7 +2245,7 @@ any distribution of an interest in a partnership (not otherwise treated as an ex
 
 For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see sections 704(b) and 706(c)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, § 213(c)(3)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, § 102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, § 75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, § 1805(c)(2), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 110–28, title VIII, § 8215(a), May 25, 2007, 121 Stat. 193; Pub. L. 114–74, title XI, § 1102(a), Nov. 2, 2015, 129 Stat. 638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, § 213(c)(3)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, § 102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, § 75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, § 1805(c)(2), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 110–28, title VIII, § 8215(a), May 25, 2007, 121 Stat. 193; Pub. L. 114–74, title XI, § 1102(a), Nov. 2, 2015, 129 Stat. 638.)
 
 **Editorial Notes**
 
@@ -2261,9 +2261,9 @@ For rules in the case of the sale, exchange, liquidation, or reduction of a part
 
 1980—Subsec. (a)(3). Pub. L. 96–222 added par. (3).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (e). Pub. L. 94–455, § 213(c)(3)(B), added subsec. (e).
+Subsec. (e). Pub. L. 94–455, § 213(c)(3)(B), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2273,7 +2273,7 @@ Amendment by Pub. L. 114–74 applicable to partnership taxable years beginning 
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–28, title VIII, § 8215(c), May 25, 2007, 121 Stat. 194, provided that: “The amendments made by this section [amending this section, section 1402 of this title, and section 411 of Title 42, The Public Health and Welfare] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–28, title VIII, § 8215(c), May 25, 2007, 121 Stat. 194, provided that: “The amendments made by this section [amending this section, section 1402 of this title, and section 411 of Title 42, The Public Health and Welfare] shall apply to taxable years beginning after December 31, 2006.”
 
 **Effective Date of 1986 Amendment**
 
@@ -2291,9 +2291,9 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Amendment by section 213(c)(3)(B) of Pub. L. 94–455 applicable in the case of partnership taxable years beginning after Dec. 31, 1975, see section 213(f)(1) of Pub. L. 94–455, set out as a note under section 709 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ## [PART IV—REPEALED]
 
@@ -2301,25 +2301,25 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **Prior Provisions**
 
-A prior part IV, relating to effective date for subchapter, consisted of section 771 of this title, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(94), Oct. 4, 1976, 90 Stat. 1780.
+A prior part IV, relating to effective date for subchapter, consisted of section 771 of this title, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(94), Oct. 4, 1976, 90 Stat. 1780.
 
-### [§§ 771 to 777. Repealed. Pub. L. 114–74, title XI, § 1101(b)(1), Nov. 2, 2015, 129 Stat. 625]
+### [§§ 771 to 777. Repealed. Pub. L. 114–74, title XI, § 1101(b)(1), Nov. 2, 2015, 129 Stat. 625]
 
-Section 771, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1002, related to application of subchapter to electing large partnerships.
+Section 771, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1002, related to application of subchapter to electing large partnerships.
 
-A prior section 771, act Aug. 16, 1954, ch. 736, 68A Stat. 253, related to the effective date for this subchapter, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(94), Oct. 4, 1976, 90 Stat. 1780.
+A prior section 771, act Aug. 16, 1954, ch. 736, 68A Stat. 253, related to the effective date for this subchapter, prior to repeal by Pub. L. 94–455, title XIX, § 1901(a)(94), Oct. 4, 1976, 90 Stat. 1780.
 
-Section 772, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1002; amended Pub. L. 109–58, title XIII, § 1322(a)(3)(I), (J), Aug. 8, 2005, 119 Stat. 1012, related to simplified flow-through for partners of electing large partnerships.
+Section 772, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1002; amended Pub. L. 109–58, title XIII, § 1322(a)(3)(I), (J), Aug. 8, 2005, 119 Stat. 1012, related to simplified flow-through for partners of electing large partnerships.
 
-Section 773, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1004, related to computations of taxable income at partnership level of electing large partnerships.
+Section 773, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1004, related to computations of taxable income at partnership level of electing large partnerships.
 
-Section 774, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1005; amended Pub. L. 105–206, title VI, § 6012(c), July 22, 1998, 112 Stat. 819, related to other modifications of electing large partnerships.
+Section 774, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1005; amended Pub. L. 105–206, title VI, § 6012(c), July 22, 1998, 112 Stat. 819, related to other modifications of electing large partnerships.
 
-Section 775, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1006; amended Pub. L. 106–170, title V, § 532(c)(2)(G), Dec. 17, 1999, 113 Stat. 1930, defined “electing large partnership”.
+Section 775, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1006; amended Pub. L. 106–170, title V, § 532(c)(2)(G), Dec. 17, 1999, 113 Stat. 1930, defined “electing large partnership”.
 
-Section 776, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1007, related to special rules for electing large partnerships holding oil and gas properties.
+Section 776, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1007, related to special rules for electing large partnerships holding oil and gas properties.
 
-Section 777, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1008, related to regulations under this part.
+Section 777, added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1008, related to regulations under this part.
 
 **Statutory Notes and Related Subsidiaries**
 

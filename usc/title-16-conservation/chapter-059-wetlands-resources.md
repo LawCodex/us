@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3901. Findings and statement of purpose
+### § 3901. Findings and statement of purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -51,7 +51,7 @@ retrieved: 2026-10-11
 
 **(2)** intensifying efforts to protect the wetlands of the Nation through acquisition in fee, easements or other interests and methods by local, State, and Federal governments and the private sector.
 
-(Pub. L. 99–645, § 2, Nov. 10, 1986, 100 Stat. 3582.)
+(Pub. L. 99–645, § 2, Nov. 10, 1986, 100 Stat. 3582.)
 
 **Editorial Notes**
 
@@ -63,17 +63,17 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Short Title**
 
-Pub. L. 99–645, § 1, Nov. 10, 1986, 100 Stat. 3582, provided that: “This Act [enacting this chapter, amending sections 460*l*–8, 460*l*–9, 707, 715k–3, 715k–5, and 718b of this title, and enacting a provision set out in the table under section 668dd of this title] may be cited as the ‘Emergency Wetlands Resources Act of 1986’.”
+Pub. L. 99–645, § 1, Nov. 10, 1986, 100 Stat. 3582, provided that: “This Act [enacting this chapter, amending sections 460*l*–8, 460*l*–9, 707, 715k–3, 715k–5, and 718b of this title, and enacting a provision set out in the table under section 668dd of this title] may be cited as the ‘Emergency Wetlands Resources Act of 1986’.”
 
-### § 3902. Definitions
+### § 3902. Definitions
 
 For the purpose of this chapter:
 
 **(1)** The term “Committees” means the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
 
-**(2)** The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) 1
+**(2)** The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -87,13 +87,13 @@ of this title.
 
 **(5)** The term “wetland” means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.
 
-(Pub. L. 99–645, § 3, Nov. 10, 1986, 100 Stat. 3583; Pub. L. 103–437, § 6(d)(41), Nov. 2, 1994, 108 Stat. 4585.)
+(Pub. L. 99–645, § 3, Nov. 10, 1986, 100 Stat. 3583; Pub. L. 103–437, § 6(d)(41), Nov. 2, 1994, 108 Stat. 4585.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3911 of this title, referred to in par. (2), was repealed by Pub. L. 108–447, div. J, title VIII, § 813(c), Dec. 8, 2004, 118 Stat. 3390.
+Section 3911 of this title, referred to in par. (2), was repealed by Pub. L. 108–447, div. J, title VIII, § 813(c), Dec. 8, 2004, 118 Stat. 3390.
 
 **Amendments**
 
@@ -107,19 +107,19 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 ## SUBCHAPTER II—REVENUES FOR REFUGE OPERATIONS AND THE MIGRATORY BIRD CONSERVATION FUND
 
-### § 3911. Repealed. Pub. L. 108–447, div. J, title VIII, § 813(c), Dec. 8, 2004, 118 Stat. 3390
+### § 3911. Repealed. Pub. L. 108–447, div. J, title VIII, § 813(c), Dec. 8, 2004, 118 Stat. 3390
 
-Section, Pub. L. 99–645, title II, § 201, Nov. 10, 1986, 100 Stat. 3584, related to the sale of admission permits at certain units of the National Wildlife Refuge System.
+Section, Pub. L. 99–645, title II, § 201, Nov. 10, 1986, 100 Stat. 3584, related to the sale of admission permits at certain units of the National Wildlife Refuge System.
 
-### § 3912. Transfers to Migratory Bird Conservation Fund
+### § 3912. Transfers to Migratory Bird Conservation Fund
 
-Notwithstanding any other provision of law, an amount equal to the amount of all import duties collected on arms and ammunition, as specified in chapter 93 of the Harmonized Tariff Schedule of the United States, shall, beginning with the next fiscal year quarter after November 10, 1986, be paid quarterly into the migratory bird conservation fund 1
+Notwithstanding any other provision of law, an amount equal to the amount of all import duties collected on arms and ammunition, as specified in chapter 93 of the Harmonized Tariff Schedule of the United States, shall, beginning with the next fiscal year quarter after November 10, 1986, be paid quarterly into the migratory bird conservation fund 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 established under section 718d of this title.
 
-(Pub. L. 99–645, title II, § 203, Nov. 10, 1986, 100 Stat. 3586; Pub. L. 100–418, title I, § 1214(f), Aug. 23, 1988, 102 Stat. 1156.)
+(Pub. L. 99–645, title II, § 203, Nov. 10, 1986, 100 Stat. 3586; Pub. L. 100–418, title I, § 1214(f), Aug. 23, 1988, 102 Stat. 1156.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 ## SUBCHAPTER III—STATE AND FEDERAL WETLANDS ACQUISITION
 
-### § 3921. National wetlands priority conservation plan
+### § 3921. National wetlands priority conservation plan
 
 **(a) In general**
 
@@ -173,25 +173,25 @@ The Secretary shall establish, and periodically review and revise, a national we
 
 **(E)** other areas or concerns the Secretary considers appropriate.
 
-(Pub. L. 99–645, title III, § 301, Nov. 10, 1986, 100 Stat. 3586.)
+(Pub. L. 99–645, title III, § 301, Nov. 10, 1986, 100 Stat. 3586.)
 
-### § 3922. Federal acquisition
+### § 3922. Federal acquisition
 
 The Secretary is authorized to purchase wetlands or interests in wetlands, which are not acquired under the authority of the Migratory Bird Conservation Act of 1929 (16 U.S.C. 715–715s), consistent with the wetlands priority conservation plan established under section 3921 of this title.
 
-(Pub. L. 99–645, title III, § 304, Nov. 10, 1986, 100 Stat. 3588.)
+(Pub. L. 99–645, title III, § 304, Nov. 10, 1986, 100 Stat. 3588.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act of 1929, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act of 1929, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-### § 3923. Restriction on use of eminent domain in acquisitions
+### § 3923. Restriction on use of eminent domain in acquisitions
 
 The powers of condemnation or eminent domain shall not be used in the acquisition of wetlands under any provision of this chapter where such wetlands have been constructed for the purpose of farming or ranching, or result from conservation activities associated with farming or ranching.
 
-(Pub. L. 99–645, title III, § 305, Nov. 10, 1986, 100 Stat. 3588.)
+(Pub. L. 99–645, title III, § 305, Nov. 10, 1986, 100 Stat. 3588.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER IV—WETLANDS INVENTORY AND TREND ANALYSIS
 
-### § 3931. National wetlands inventory project
+### § 3931. National wetlands inventory project
 
 **(a) In general** The Secretary, acting through the Director of the United States Fish and Wildlife Service, shall continue the National Wetlands Inventory Project and shall—
 
@@ -233,21 +233,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Secretary shall notify the appropriate State and local units of government at such time as he proposes to begin map preparation under subsection (a) in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
 
-(Pub. L. 99–645, title IV, § 401, Nov. 10, 1986, 100 Stat. 3588; Pub. L. 101–233, § 18, Dec. 13, 1989, 103 Stat. 1978; Pub. L. 102–440, title III, § 305, Oct. 23, 1992, 106 Stat. 2235.)
+(Pub. L. 99–645, title IV, § 401, Nov. 10, 1986, 100 Stat. 3588; Pub. L. 101–233, § 18, Dec. 13, 1989, 103 Stat. 1978; Pub. L. 102–440, title III, § 305, Oct. 23, 1992, 106 Stat. 2235.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a)(3). Pub. L. 102–440, § 305(1), substituted “by September 30, 2000” for “as soon as practicable”.
+1992—Subsec. (a)(3). Pub. L. 102–440, § 305(1), substituted “by September 30, 2000” for “as soon as practicable”.
 
-Subsec. (a)(4). Pub. L. 102–440, § 305(2), which directed amendment of par. (4) by substituting a semicolon for “. And”, was executed by making the substitution for “. and”, to reflect the probable intent of Congress.
+Subsec. (a)(4). Pub. L. 102–440, § 305(2), which directed amendment of par. (4) by substituting a semicolon for “. And”, was executed by making the substitution for “. and”, to reflect the probable intent of Congress.
 
-Subsec. (a)(6), (7). Pub. L. 102–440, § 305(3), (4), added pars. (6) and (7).
+Subsec. (a)(6), (7). Pub. L. 102–440, § 305(3), (4), added pars. (6) and (7).
 
 1989—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
 
-### § 3932. Reports to Congress
+### § 3932. Reports to Congress
 
 **(a) In general** The Secretary, in consultation and cooperation with the Secretary of Agriculture, shall prepare and submit to the committees—
 
@@ -291,4 +291,4 @@ Subsec. (a)(6), (7). Pub. L. 102–440, § 305(3), (4), added pars. (6) and (7
 
 **(7)** recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives, and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
 
-(Pub. L. 99–645, title IV, § 402, Nov. 10, 1986, 100 Stat. 3589.)
+(Pub. L. 99–645, title IV, § 402, Nov. 10, 1986, 100 Stat. 3589.)

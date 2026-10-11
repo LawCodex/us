@@ -15,35 +15,35 @@ retrieved: 2026-10-11
 
 # CHAPTER 36—INDIAN EMPLOYMENT, TRAINING AND RELATED SERVICES
 
-## § 3401. Statement of purpose
+## § 3401. Statement of purpose
 
 The purpose of this chapter is to facilitate the ability of Indian tribes and tribal organizations to integrate the employment, training and related services they provide from diverse Federal sources in order to improve the effectiveness of those services, reduce joblessness in Indian communities, and serve tribally determined goals consistent with the policy of self-determination, while reducing administrative, reporting, and accounting costs.
 
-(Pub. L. 102–477, § 2, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 115–93, § 3, Dec. 18, 2017, 131 Stat. 2026.)
+(Pub. L. 102–477, § 2, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 115–93, § 3, Dec. 18, 2017, 131 Stat. 2026.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 115–93 substituted “The purpose of this chapter is to facilitate the ability of Indian tribes and tribal organizations to” for “The purposes of this chapter are to demonstrate how Indian tribal governments can” and “, and serve tribally determined” for “and serve tribally-determined” and inserted “from diverse Federal sources” after “they provide” and “, while reducing administrative, reporting, and accounting costs” after “self-determination”.
+2017—Pub. L. 115–93 substituted “The purpose of this chapter is to facilitate the ability of Indian tribes and tribal organizations to” for “The purposes of this chapter are to demonstrate how Indian tribal governments can” and “, and serve tribally determined” for “and serve tribally-determined” and inserted “from diverse Federal sources” after “they provide” and “, while reducing administrative, reporting, and accounting costs” after “self-determination”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–93, § 1, Dec. 18, 2017, 131 Stat. 2026, provided that: “This Act [amending this section and sections 3402 to 3407, 3409 to 3413, 3416, and 3417 of this title, repealing sections 3414 and 3415 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘Indian Employment, Training and Related Services Consolidation Act of 2017’.”
+Pub. L. 115–93, § 1, Dec. 18, 2017, 131 Stat. 2026, provided that: “This Act [amending this section and sections 3402 to 3407, 3409 to 3413, 3416, and 3417 of this title, repealing sections 3414 and 3415 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘Indian Employment, Training and Related Services Consolidation Act of 2017’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–568, title XI, § 1101, Dec. 27, 2000, 114 Stat. 2930, provided that: “This title [amending sections 3402, 3404, and 3406 to 3408 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Indian Employment, Training, and Related Services Demonstration Act Amendments of 2000’.”
+Pub. L. 106–568, title XI, § 1101, Dec. 27, 2000, 114 Stat. 2930, provided that: “This title [amending sections 3402, 3404, and 3406 to 3408 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Indian Employment, Training, and Related Services Demonstration Act Amendments of 2000’.”
 
 **Short Title**
 
-Pub. L. 102–477, § 1, Oct. 23, 1992, 106 Stat. 2302, as amended by Pub. L. 115–93, § 2(a), Dec. 18, 2017, 131 Stat. 2026, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Employment, Training and Related Services Act of 1992’.”
+Pub. L. 102–477, § 1, Oct. 23, 1992, 106 Stat. 2302, as amended by Pub. L. 115–93, § 2(a), Dec. 18, 2017, 131 Stat. 2026, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Employment, Training and Related Services Act of 1992’.”
 
 **Effect of Pub. L. 115–93**
 
-Pub. L. 115–93, § 17, Dec. 18, 2017, 131 Stat. 2037, provided that:
+Pub. L. 115–93, § 17, Dec. 18, 2017, 131 Stat. 2037, provided that:
 
 > “Nothing in this Act [see Short Title of 2017 Amendment note above] or any amendment made by this Act—
 
@@ -55,11 +55,11 @@ Pub. L. 115–93, § 17, Dec. 18, 2017, 131 Stat. 2037, provided that:
 
 **References**
 
-Pub. L. 115–93, § 2(b), Dec. 18, 2017, 131 Stat. 2026, provided that: “Any reference in law to the ‘Indian Employment, Training and Related Services Demonstration Act of 1992’ shall be deemed to be a reference to the ‘Indian Employment, Training and Related Services Act of 1992’.”
+Pub. L. 115–93, § 2(b), Dec. 18, 2017, 131 Stat. 2026, provided that: “Any reference in law to the ‘Indian Employment, Training and Related Services Demonstration Act of 1992’ shall be deemed to be a reference to the ‘Indian Employment, Training and Related Services Act of 1992’.”
 
 **Congressional Findings and Purposes**
 
-Pub. L. 106–568, title XI, § 1102, Dec. 27, 2000, 114 Stat. 2931, provided that:
+Pub. L. 106–568, title XI, § 1102, Dec. 27, 2000, 114 Stat. 2931, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -85,17 +85,17 @@ Pub. L. 106–568, title XI, § 1102, Dec. 27, 2000, 114 Stat. 2931, provided 
 
 **Report on Expanding Opportunities for Program Integration**
 
-Pub. L. 106–568, title XI, § 1104, Dec. 27, 2000, 114 Stat. 2932, provided that not later than 1 year after Dec. 27, 2000, the Secretary, the Secretary of Health and Human Services, the Secretary of Labor, and the tribes and organizations participating in the integration initiative under title XI of Pub. L. 106–568 (see Short Title of 2000 Amendment note above) would submit a report to Congress on the opportunities for expanding the integration of human resource development and economic development programs under such title, and the feasibility of establishing Joint Funding Agreements to authorize tribes to access and coordinate funds and resources from various agencies for human resources development, physical infrastructure development, and economic development assistance.
+Pub. L. 106–568, title XI, § 1104, Dec. 27, 2000, 114 Stat. 2932, provided that not later than 1 year after Dec. 27, 2000, the Secretary, the Secretary of Health and Human Services, the Secretary of Labor, and the tribes and organizations participating in the integration initiative under title XI of Pub. L. 106–568 (see Short Title of 2000 Amendment note above) would submit a report to Congress on the opportunities for expanding the integration of human resource development and economic development programs under such title, and the feasibility of establishing Joint Funding Agreements to authorize tribes to access and coordinate funds and resources from various agencies for human resources development, physical infrastructure development, and economic development assistance.
 
-## § 3402. Definitions
+## § 3402. Definitions
 
 For the purposes of this chapter, the following definitions apply:
 
 **(1) Federal agency**
 
-The term “federal 1
+The term “federal 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 agency” has the same meaning given the term “agency” in section 551(1) of title 5.
 
@@ -121,19 +121,19 @@ The term “program” means a program described in section 3404(a) of this titl
 
 Except where otherwise provided, the term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 102–477, § 3, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, § 1103(a), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, § 4, Dec. 18, 2017, 131 Stat. 2026.)
+(Pub. L. 102–477, § 3, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, § 1103(a), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, § 4, Dec. 18, 2017, 131 Stat. 2026.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Par. (2). Pub. L. 115–93, § 4(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The terms ‘Indian tribe’ and ‘tribe’ shall have the meaning given the term ‘Indian tribe’ in section 5304(e) of this title.”
+2017—Par. (2). Pub. L. 115–93, § 4(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The terms ‘Indian tribe’ and ‘tribe’ shall have the meaning given the term ‘Indian tribe’ in section 5304(e) of this title.”
 
-Pars. (4), (5). Pub. L. 115–93, § 4(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Pars. (4), (5). Pub. L. 115–93, § 4(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 2000—Pub. L. 106–568 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-## § 3403. Integration of services authorized
+## § 3403. Integration of services authorized
 
 The Secretary shall, after approving a plan submitted by an Indian tribe in accordance with section 3407 of this title, authorize the Indian tribe to, in accordance with the plan—
 
@@ -141,7 +141,7 @@ The Secretary shall, after approving a plan submitted by an Indian tribe in acco
 
 **(2)** coordinate the employment, training, and related services provided with those funds in a consolidated and comprehensive tribal plan.
 
-(Pub. L. 102–477, § 4, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 115–93, § 5, Dec. 18, 2017, 131 Stat. 2027.)
+(Pub. L. 102–477, § 4, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 115–93, § 5, Dec. 18, 2017, 131 Stat. 2027.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ The Secretary shall, after approving a plan submitted by an Indian tribe in acco
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: “The Secretary of the Interior, in cooperation with the appropriate Secretary of Labor, Secretary of Health and Human Services, or Secretary of Education, shall, upon the receipt of a plan acceptable to the Secretary of the Interior submitted by an Indian tribal government, authorize the tribal government to coordinate, in accordance with such plan, its federally funded employment, training, and related services programs in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.”
 
-## § 3404. Programs affected
+## § 3404. Programs affected
 
 **(a) Programs affected**
 
@@ -195,7 +195,7 @@ For purposes of this section, programs funded by block grant funds provided to a
 
 The Secretary shall, in cooperation with the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Education, the Secretary of Energy, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Secretary of Housing and Urban Development, the Secretary of Labor, the Secretary of Transportation, and the Secretary of Veterans Affairs, after the Secretary approves a plan submitted by an Indian tribe or tribal organization under section 3407 of this title, authorize the Indian tribe or tribal organization, as applicable, to coordinate, in accordance with the plan, federally funded employment, training, and related services programs and funding in a manner that integrates the programs and funding into a consolidated and comprehensive program.
 
-(Pub. L. 102–477, § 5, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, § 1103(b), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, § 6, Dec. 18, 2017, 131 Stat. 2027.)
+(Pub. L. 102–477, § 5, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, § 1103(b), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, § 6, Dec. 18, 2017, 131 Stat. 2027.)
 
 **Editorial Notes**
 
@@ -205,7 +205,7 @@ The Secretary shall, in cooperation with the Attorney General, the Secretary of 
 
 2000—Pub. L. 106–568 substituted “assisting Indian youth and adults to succeed in the workforce, encouraging self-sufficiency, familiarizing Indian Youth and adults with the world of work, facilitating the creation of job opportunities and any services related to these activities” for “job training, tribal work experience, employment opportunities, or skill development, or any program designed for the enhancement of job opportunities or employment training”.
 
-## § 3405. Plan requirements
+## § 3405. Plan requirements
 
 A plan submitted to the Secretary for approval under this chapter shall—
 
@@ -231,7 +231,7 @@ A plan submitted to the Secretary for approval under this chapter shall—
 
 **(7)** be approved by the governing body of the Indian tribe.
 
-(Pub. L. 102–477, § 6, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 115–93, § 7, Dec. 18, 2017, 131 Stat. 2028.)
+(Pub. L. 102–477, § 6, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 115–93, § 7, Dec. 18, 2017, 131 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ A plan submitted to the Secretary for approval under this chapter shall—
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, section related to plan requirements, consisting of eight pars.
 
-## § 3406. Plan review
+## § 3406. Plan review
 
 **(a) In general** Upon receipt of a plan from an Indian tribe, the Secretary shall consult with—
 
@@ -253,9 +253,9 @@ The parties identified in subsection (a) shall identify any waivers of applicabl
 
 **(c) Tribal waiver request**
 
-In consultation with the Secretary, a participating Indian tribe may request that the head of each affected agency waive any statutory, regulatory, or administrative requirement, policy, or procedure identified subsection 1
+In consultation with the Secretary, a participating Indian tribe may request that the head of each affected agency waive any statutory, regulatory, or administrative requirement, policy, or procedure identified subsection 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 (b).
 
@@ -263,9 +263,9 @@ In consultation with the Secretary, a participating Indian tribe may request tha
 
 **(1) In general**
 
-Except as provided in paragraph (2), notwithstanding any other provision of law, the head of each affected Federal agency shall waive any applicable statutory, regulatory, or administrative requirement, regulation, policy, or procedure promulgated by the agency that has been identified by the parties under subparagraph 2
+Except as provided in paragraph (2), notwithstanding any other provision of law, the head of each affected Federal agency shall waive any applicable statutory, regulatory, or administrative requirement, regulation, policy, or procedure promulgated by the agency that has been identified by the parties under subparagraph 2
 
-<sup>2</sup>  So in original. Probably should be “subsection”.
+<sup>2</sup> So in original. Probably should be “subsection”.
 
 (b).
 
@@ -319,7 +319,7 @@ If the dispute resolution process fails to resolve the dispute between a partici
 
 **(2)** notice of the right to file an appeal in accordance with the applicable provisions described in section 3407(d) of this title.
 
-(Pub. L. 102–477, § 7, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(c), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, § 8, Dec. 18, 2017, 131 Stat. 2029.)
+(Pub. L. 102–477, § 7, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(c), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, § 8, Dec. 18, 2017, 131 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ If the dispute resolution process fails to resolve the dispute between a partici
 
 2000—Pub. L. 106–568 substituted “Federal agency” for “Federal department” and “Federal agency regulations” for “Federal departmental regulations”, substituted “agency” for “department” wherever appearing, and inserted “statutory requirement,” after “to waive any”.
 
-## § 3407. Plan approval; Secretarial authority; review of decision
+## § 3407. Plan approval; Secretarial authority; review of decision
 
 **(a) In general**
 
@@ -397,7 +397,7 @@ In an action brought under this paragraph, the court may order appropriate relie
 
 **(B)** by an administrative law judge.
 
-(Pub. L. 102–477, § 8, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(d), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, § 9, Dec. 18, 2017, 131 Stat. 2030.)
+(Pub. L. 102–477, § 8, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(d), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, § 9, Dec. 18, 2017, 131 Stat. 2030.)
 
 **Editorial Notes**
 
@@ -405,9 +405,9 @@ In an action brought under this paragraph, the court may order appropriate relie
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: “Within 90 days after the receipt of a tribal government’s plan by the Secretary, the Secretary shall inform the tribal government, in writing, of the Secretary’s approval or disapproval of the plan, including any request for a waiver that is made as part of the plan submitted by the tribal government. If the plan is disapproved, the tribal government shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend its plan or to petition the Secretary to reconsider such disapproval, including reconsidering the disapproval of any waiver requested by the Indian tribe.”
 
-2000—Pub. L. 106–568 inserted “, including any request for a waiver that is made as part of the plan submitted by the tribal government” after “disapproval of the plan” and “, including reconsidering the disapproval of any waiver requested by the Indian tribe” after “reconsider such disapproval”.
+2000—Pub. L. 106–568 inserted “, including any request for a waiver that is made as part of the plan submitted by the tribal government” after “disapproval of the plan” and “, including reconsidering the disapproval of any waiver requested by the Indian tribe” after “reconsider such disapproval”.
 
-## § 3408. Job creation activities authorized
+## § 3408. Job creation activities authorized
 
 **(a) In general**
 
@@ -429,7 +429,7 @@ Notwithstanding any other provisions of law, including any requirement of a prog
 
 The funds used for an expenditure described in subsection (a) may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
 
-(Pub. L. 102–477, § 9, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(e), Dec. 27, 2000, 114 Stat. 2932.)
+(Pub. L. 102–477, § 9, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, § 1103(e), Dec. 27, 2000, 114 Stat. 2932.)
 
 **Editorial Notes**
 
@@ -437,7 +437,7 @@ The funds used for an expenditure described in subsection (a) may only include f
 
 2000—Pub. L. 106–568 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-## § 3409. Employer training placements
+## § 3409. Employer training placements
 
 **(a) In general** Subject to subsection (b), an Indian tribe that has in place an approved plan under this chapter may use the funds made available for the plan under this chapter—
 
@@ -451,7 +451,7 @@ The funds used for an expenditure described in subsection (a) may only include f
 
 **(2)** on satisfactory completion of the training period described in subsection (a)(2), to prioritize the provision of permanent employment to the participants.
 
-(Pub. L. 102–477, § 10, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 10, Dec. 18, 2017, 131 Stat. 2032.)
+(Pub. L. 102–477, § 10, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 10, Dec. 18, 2017, 131 Stat. 2032.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ The funds used for an expenditure described in subsection (a) may only include f
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: “A tribal government participating in a demonstration program under this chapter is authorized to utilize funds available under such plan to place participants in training positions with private employers and pay such participants a training allowance or wage for a period not to exceed 12 months, if the tribal government obtains a written agreement from the private employer to provide on-the-job training to such participants and, upon satisfactory completion of the training period, to guarantee permanent employment to such participants for a minimum of 12 months.”
 
-## § 3410. Federal responsibilities
+## § 3410. Federal responsibilities
 
 **(a) Lead agency**
 
@@ -523,7 +523,7 @@ The lead agency shall develop and distribute to Indian tribes that have in place
 
 The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this chapter but instead shall require the Indian tribe to submit a single report on the expenditure of consolidated funds under such plan.
 
-(Pub. L. 102–477, § 11, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 11, Dec. 18, 2017, 131 Stat. 2032.)
+(Pub. L. 102–477, § 11, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 11, Dec. 18, 2017, 131 Stat. 2032.)
 
 **Editorial Notes**
 
@@ -531,7 +531,7 @@ The report format developed under paragraph (1) shall not require a participatin
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, section related to Federal responsibilities, specifying the responsibilities of Department of the Interior, and report requirements.
 
-## § 3411. No reduction in amounts
+## § 3411. No reduction in amounts
 
 **(a) In general** In no case shall the amount of Federal funds available to an Indian tribe that has in place an approved plan under this chapter be reduced as a result of—
 
@@ -545,19 +545,19 @@ The report format developed under paragraph (1) shall not require a participatin
 
 **(2)** eliminate the applicability of any provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), as the provision relates to a specific program eligible for contracting under that Act.
 
-(Pub. L. 102–477, § 12, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 12, Dec. 18, 2017, 131 Stat. 2034.)
+(Pub. L. 102–477, § 12, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 12, Dec. 18, 2017, 131 Stat. 2034.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: “In no case shall the amount of Federal funds available to a tribal government involved in any demonstration project be reduced as a result of the enactment of this chapter.”
 
-## § 3412. Transfer of funds
+## § 3412. Transfer of funds
 
 **(a) In general**
 
@@ -567,19 +567,19 @@ Notwithstanding any other provision of law, not later than 30 days after the dat
 
 Notwithstanding any other provision of law, at the request of the Indian tribe, all program funds transferred to an Indian tribe in accordance with the approved plan of the Indian tribe shall be transferred to the Indian tribe pursuant to an existing contract, compact, or funding agreement awarded pursuant to title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
-(Pub. L. 102–477, § 13, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 13, Dec. 18, 2017, 131 Stat. 2034.)
+(Pub. L. 102–477, § 13, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 13, Dec. 18, 2017, 131 Stat. 2034.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title I of the Act is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. Title IV of the Act is classified generally to subchapter IV (§ 5361 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title I of the Act is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. Title IV of the Act is classified generally to subchapter IV (§ 5361 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
 **Amendments**
 
 2017—Pub. L. 115–93 amended section generally. Prior to amendment, text read as follows: “The Secretary of the Interior, Secretary of Labor, Secretary of Health and Human Services, or the Secretary of Education, as appropriate, is authorized to take such action as may be necessary to provide for an interagency transfer of funds otherwise available to a tribal government in order to further the purposes of this chapter.”
 
-## § 3413. Administration of funds
+## § 3413. Administration of funds
 
 **(a) Requirements**
 
@@ -649,7 +649,7 @@ An Indian tribe shall be entitled to retain interest earned on any funds transfe
 
 Funds transferred under a plan shall be managed in accordance with the prudent investment standard.
 
-(Pub. L. 102–477, § 14, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 115–93, § 14, Dec. 18, 2017, 131 Stat. 2035.)
+(Pub. L. 102–477, § 14, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 115–93, § 14, Dec. 18, 2017, 131 Stat. 2035.)
 
 **Editorial Notes**
 
@@ -657,13 +657,13 @@ Funds transferred under a plan shall be managed in accordance with the prudent i
 
 2017—Pub. L. 115–93 substituted “Administration of funds” for “Administration of funds and overage” in section catchline, added subsecs. (a) to (c) and (e) to (g), redesignated former subsec. (b) as (d) and designated existing provisions as par. (1), inserted heading, substituted “regulations)” for “regulations), and no overage shall be counted for Federal audit purposes, provided that the overage is used for the purposes provided for under this chapter”, and added par. (2), and struck out former subsec. (a) which related to administration of funds.
 
-## §§ 3414, 3415. Repealed. Pub. L. 115–93, § 16(a), Dec. 18, 2017, 131 Stat. 2036
+## §§ 3414, 3415. Repealed. Pub. L. 115–93, § 16(a), Dec. 18, 2017, 131 Stat. 2036
 
-Section 3414, Pub. L. 102–477, § 15, Oct. 23, 1992, 106 Stat. 2305, related to fiscal accountability.
+Section 3414, Pub. L. 102–477, § 15, Oct. 23, 1992, 106 Stat. 2305, related to fiscal accountability.
 
-Section 3415, Pub. L. 102–477, § 16, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 103–437, § 10(e)(1), (2)(C), Nov. 2, 1994, 108 Stat. 4589, related to report on statutory obstacles to program integration.
+Section 3415, Pub. L. 102–477, § 16, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 103–437, § 10(e)(1), (2)(C), Nov. 2, 1994, 108 Stat. 4589, related to report on statutory obstacles to program integration.
 
-## § 3416. Labor market information on Indian work force
+## § 3416. Labor market information on Indian work force
 
 **(a) Report** The Secretary of Labor, in consultation with the Secretary, Indian tribes, and the Director of the Bureau of the Census, shall develop, maintain and publish, not less than biennially, a report on the population eligible for the services which the Secretary provides to Indian people. The report shall include, but is not limited to, information at the national level by State, Bureau of Indian Affairs Service area, and tribal level for the—
 
@@ -681,7 +681,7 @@ Section 3415, Pub. L. 102–477, § 16, Oct. 23, 1992, 106 Stat. 2305; Pub. L.
 
 The Secretary, in consultation with the Bureau of the Census of the Department of Commerce, and the National Center for Native American Studies and Policy Development authorized by Public Law 101–301, shall prepare a report on the need for comprehensive, accurate and periodically updated information on the size and characteristics of the Indian and Alaska Native population throughout the entire United States. This report shall include the need for information, together with the cost of acquiring such information, on the characteristics and need for education, health, housing, job training, and other basic needs of such population, and shall take into consideration the need for this information by Indian tribes and organizations serving Indians in nonreservation areas. The report shall be submitted to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Education and Labor of the House of Representatives not later than 12 months after October 23, 1992.
 
-(Pub. L. 102–477, § 15, formerly § 17, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 103–437, § 10(e)(1), (2)(C), Nov. 2, 1994, 108 Stat. 4589; renumbered § 15 and amended Pub. L. 115–93, §§ 15, 16(b), Dec. 18, 2017, 131 Stat. 2036.)
+(Pub. L. 102–477, § 15, formerly § 17, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 103–437, § 10(e)(1), (2)(C), Nov. 2, 1994, 108 Stat. 4589; renumbered § 15 and amended Pub. L. 115–93, §§ 15, 16(b), Dec. 18, 2017, 131 Stat. 2036.)
 
 **Editorial Notes**
 
@@ -695,7 +695,7 @@ A prior section 15 of Pub. L. 102–477 was classified to section 3414 of this t
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–93, § 15, in introductory provisions, substituted “The Secretary of Labor, in consultation with the Secretary, Indian tribes, and the Director of the Bureau of the Census, shall” for “The Secretary, in consultation with the Secretary of Labor, shall, in a consistent and reliable manner,” and struck out “, by gender,” after “population”.
+2017—Subsec. (a). Pub. L. 115–93, § 15, in introductory provisions, substituted “The Secretary of Labor, in consultation with the Secretary, Indian tribes, and the Director of the Bureau of the Census, shall” for “The Secretary, in consultation with the Secretary of Labor, shall, in a consistent and reliable manner,” and struck out “, by gender,” after “population”.
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
@@ -705,17 +705,17 @@ A prior section 15 of Pub. L. 102–477 was classified to section 3414 of this t
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 3417. Assignment of Federal personnel to State Indian economic development programs
+## § 3417. Assignment of Federal personnel to State Indian economic development programs
 
 Any State with an economic development program targeted to Indian tribes shall be eligible to receive, at no cost to the State, such Federal personnel assignments as the Secretary, in accordance with the applicable provisions of the Intergovernmental Personnel Act of 1970 [42 U.S.C. 4701 et seq.], may deem appropriate to help ensure the success of such program.
 
-(Pub. L. 102–477, § 16, formerly § 18, Oct. 23, 1992, 106 Stat. 2306; renumbered § 16, Pub. L. 115–93, 16(b), Dec. 18, 2017, 131 Stat. 2036.)
+(Pub. L. 102–477, § 16, formerly § 18, Oct. 23, 1992, 106 Stat. 2306; renumbered § 16, Pub. L. 115–93, 16(b), Dec. 18, 2017, 131 Stat. 2036.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Intergovernmental Personnel Act of 1970, referred to in text, is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in text, is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 
 **Prior Provisions**
 

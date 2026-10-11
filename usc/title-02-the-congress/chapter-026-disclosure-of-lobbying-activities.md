@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—DISCLOSURE OF LOBBYING ACTIVITIES
 
-## § 1601. Findings
+## § 1601. Findings
 
 The Congress finds that—
 
@@ -25,13 +25,13 @@ The Congress finds that—
 
 **(3)** the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
 
-(Pub. L. 104–65, § 2, Dec. 19, 1995, 109 Stat. 691.)
+(Pub. L. 104–65, § 2, Dec. 19, 1995, 109 Stat. 691.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–65, § 24, Dec. 19, 1995, 109 Stat. 705, provided that:
+Pub. L. 104–65, § 24, Dec. 19, 1995, 109 Stat. 705, provided that:
 
 > **“(a)** Except as otherwise provided in this section, this Act [see Short Title note below] and the amendments made by this Act shall take effect on January 1, 1996.
 
@@ -43,25 +43,25 @@ Pub. L. 104–65, § 24, Dec. 19, 1995, 109 Stat. 705, provided that:
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 115–418, § 1, Jan. 3, 2019, 132 Stat. 5440, provided that: “This Act [amending sections 1603 and 1604 of this title] may be cited as the ‘Justice Against Corruption on K Street Act of 2018’ or the ‘JACK Act’.”
+Pub. L. 115–418, § 1, Jan. 3, 2019, 132 Stat. 5440, provided that: “This Act [amending sections 1603 and 1604 of this title] may be cited as the ‘Justice Against Corruption on K Street Act of 2018’ or the ‘JACK Act’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–81, § 1(a), Sept. 14, 2007, 121 Stat. 735, provided that: “This Act [see Tables for classification] may be cited as the ‘Honest Leadership and Open Government Act of 2007’.”
+Pub. L. 110–81, § 1(a), Sept. 14, 2007, 121 Stat. 735, provided that: “This Act [see Tables for classification] may be cited as the ‘Honest Leadership and Open Government Act of 2007’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–166, § 1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Act [amending sections 1602, 1604, and 1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
+Pub. L. 105–166, § 1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Act [amending sections 1602, 1604, and 1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 104–65, § 1, Dec. 19, 1995, 109 Stat. 691, provided that: “This Act [enacting this chapter, amending sections 3304 of Title 5, Government Organization and Employees, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, section 4804 of Title 15, Commerce and Trade, sections 207 and 219 of Title 18, Crimes and Criminal Procedure, section 2171 of Title 19, Customs Duties, sections 611, 613, 614, 616, 618, 621, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, enacting provisions set out as notes under this section, section 3304 of Title 5, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, and section 207 of Title 18, and repealing provisions set out as a note under section 261 of this title] may be cited as the ‘Lobbying Disclosure Act of 1995’.”
+Pub. L. 104–65, § 1, Dec. 19, 1995, 109 Stat. 691, provided that: “This Act [enacting this chapter, amending sections 3304 of Title 5, Government Organization and Employees, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, section 4804 of Title 15, Commerce and Trade, sections 207 and 219 of Title 18, Crimes and Criminal Procedure, section 2171 of Title 19, Customs Duties, sections 611, 613, 614, 616, 618, 621, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, enacting provisions set out as notes under this section, section 3304 of Title 5, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, and section 207 of Title 18, and repealing provisions set out as a note under section 261 of this title] may be cited as the ‘Lobbying Disclosure Act of 1995’.”
 
 **Construction of 2007 Amendment**
 
-Pub. L. 110–81, title VII, § 703, Sept. 14, 2007, 121 Stat. 776, provided that: “Nothing in this Act [see Tables for classification] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
+Pub. L. 110–81, title VII, § 703, Sept. 14, 2007, 121 Stat. 776, provided that: “Nothing in this Act [see Tables for classification] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
 
-## § 1602. Definitions
+## § 1602. Definitions
 
 As used in this chapter:
 
@@ -237,9 +237,9 @@ The term “person or entity” means any individual, corporation, company, foun
 
 **(C)** an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
 
-**(D)** an Indian tribe (as defined in section 5304(e) of title 25; 1
+**(D)** an Indian tribe (as defined in section 5304(e) of title 25; 1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the semicolon.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the semicolon.
 
 **(E)** a national or State political party or any organizational unit thereof; or
 
@@ -249,7 +249,7 @@ The term “person or entity” means any individual, corporation, company, foun
 
 The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 104–65, § 3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§ 2, 3, Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, § 201(b)(1), Sept. 14, 2007, 121 Stat. 742; Pub. L. 117–286, § 4(a)(2), (b)(2), (c)(3), Dec. 27, 2022, 136 Stat. 4305, 4342, 4353.)
+(Pub. L. 104–65, § 3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§ 2, 3, Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, § 201(b)(1), Sept. 14, 2007, 121 Stat. 742; Pub. L. 117–286, § 4(a)(2), (b)(2), (c)(3), Dec. 27, 2022, 136 Stat. 4305, 4342, 4353.)
 
 **Editorial Notes**
 
@@ -259,29 +259,29 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
-The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Whistleblower Protection Act of 1989, referred to in par. (8)(B)(xvii), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, which enacted subchapters II [5 U.S.C. 1211 et seq.] and III [5 U.S.C. 1221 et seq.] of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
 
-The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Amendments**
 
-2022—Par. (4)(D). Pub. L. 117–286, § 4(c)(3), substituted “section 13101(13) of title 5.” for “section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).”
+2022—Par. (4)(D). Pub. L. 117–286, § 4(c)(3), substituted “section 13101(13) of title 5.” for “section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).”
 
-Par. (8)(B)(vi). Pub. L. 117–286, § 4(a)(2), substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act;”.
+Par. (8)(B)(vi). Pub. L. 117–286, § 4(a)(2), substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act;”.
 
-Par. (8)(B)(xvii). Pub. L. 117–286, § 4(b)(2), substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978,”.
+Par. (8)(B)(xvii). Pub. L. 117–286, § 4(b)(2), substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978,”.
 
 2007—Par. (10). Pub. L. 110–81 substituted “3-month period” for “six month period”.
 
-1998—Par. (3)(F). Pub. L. 105–166, § 2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+1998—Par. (3)(F). Pub. L. 105–166, § 2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
-Par. (8)(B)(ix). Pub. L. 105–166, § 3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
+Par. (8)(B)(ix). Pub. L. 105–166, § 3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 
-Par. (15)(F). Pub. L. 105–166, § 3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
+Par. (15)(F). Pub. L. 105–166, § 3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,7 +293,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1603. Registration of lobbyists
+## § 1603. Registration of lobbyists
 
 **(a) Registration**
 
@@ -373,7 +373,7 @@ A registrant who makes more than 1 lobbying contact for the same client shall fi
 
 may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.
 
-(Pub. L. 104–65, § 4, Dec. 19, 1995, 109 Stat. 696; Pub. L. 110–81, title II, §§ 201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, 121 Stat. 742, 747, 748; Pub. L. 115–418, § 2(a), Jan. 3, 2019, 132 Stat. 5440.)
+(Pub. L. 104–65, § 4, Dec. 19, 1995, 109 Stat. 696; Pub. L. 110–81, title II, §§ 201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, 121 Stat. 742, 747, 748; Pub. L. 115–418, § 2(a), Jan. 3, 2019, 132 Stat. 5440.)
 
 **Editorial Notes**
 
@@ -385,25 +385,25 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 
 2019—Subsec. (b)(7). Pub. L. 115–418 added par. (7).
 
-2007—Subsec. (a)(1). Pub. L. 110–81, § 201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
+2007—Subsec. (a)(1). Pub. L. 110–81, § 201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
 
-Subsec. (a)(3)(A). Pub. L. 110–81, § 201(b)(2)(B), substituted “quarterly period” for “semiannual period” in concluding provisions.
+Subsec. (a)(3)(A). Pub. L. 110–81, § 201(b)(2)(B), substituted “quarterly period” for “semiannual period” in concluding provisions.
 
-Subsec. (a)(3)(A)(i). Pub. L. 110–81, § 201(b)(5)(A), substituted “$2,500” for “$5,000”.
+Subsec. (a)(3)(A)(i). Pub. L. 110–81, § 201(b)(5)(A), substituted “$2,500” for “$5,000”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 110–81, § 201(b)(5)(B), substituted “$10,000” for “$20,000”.
+Subsec. (a)(3)(A)(ii). Pub. L. 110–81, § 201(b)(5)(B), substituted “$10,000” for “$20,000”.
 
-Subsec. (b). Pub. L. 110–81, § 207(b), inserted concluding provisions.
+Subsec. (b). Pub. L. 110–81, § 207(b), inserted concluding provisions.
 
-Subsec. (b)(3)(A). Pub. L. 110–81, § 207(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “contributes more than $5,000 toward the lobbying activities of the registrant in a semiannual period described in section 1604(a) of this title; and”.
+Subsec. (b)(3)(A). Pub. L. 110–81, § 207(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “contributes more than $5,000 toward the lobbying activities of the registrant in a semiannual period described in section 1604(a) of this title; and”.
 
-Pub. L. 110–81, § 201(b)(5)(C), substituted “$5,000” for “$10,000”.
+Pub. L. 110–81, § 201(b)(5)(C), substituted “$5,000” for “$10,000”.
 
-Subsec. (b)(3)(B). Pub. L. 110–81, § 207(a)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in whole or in major part plans, supervises, or controls such lobbying activities.”
+Subsec. (b)(3)(B). Pub. L. 110–81, § 207(a)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in whole or in major part plans, supervises, or controls such lobbying activities.”
 
-Subsec. (b)(4). Pub. L. 110–81, § 201(b)(5)(D), substituted “$5,000” for “$10,000” in introductory provisions.
+Subsec. (b)(4). Pub. L. 110–81, § 201(b)(5)(D), substituted “$5,000” for “$10,000” in introductory provisions.
 
-Subsec. (b)(6). Pub. L. 110–81, § 208, substituted “in the 20 years before the date on which the employee first acted” for “in the 2 years before the date on which such employee first acted (after December 19, 1995)”.
+Subsec. (b)(6). Pub. L. 110–81, § 208, substituted “in the 20 years before the date on which the employee first acted” for “in the 2 years before the date on which such employee first acted (after December 19, 1995)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -415,7 +415,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1604. Reports by registered lobbyists
+## § 1604. Reports by registered lobbyists
 
 **(a) Quarterly report**
 
@@ -489,7 +489,7 @@ In this subsection, the term “leadership PAC” has the meaning given such ter
 
 A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-(Pub. L. 104–65, § 5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, § 4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, § 2(b), Jan. 3, 2019, 132 Stat. 5440.)
+(Pub. L. 104–65, § 5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, § 4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, § 2(b), Jan. 3, 2019, 132 Stat. 5440.)
 
 **Editorial Notes**
 
@@ -501,27 +501,27 @@ This chapter, referred to in subsec. (e), was in the original “this Act” mea
 
 2019—Subsec. (b)(6). Pub. L. 115–418 added par. (6).
 
-2007—Subsec. (a). Pub. L. 110–81, § 201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title,” and “such quarterly period” for “such semiannual period”.
+2007—Subsec. (a). Pub. L. 110–81, § 201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title,” and “such quarterly period” for “such semiannual period”.
 
-Subsec. (b). Pub. L. 110–81, § 201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.
+Subsec. (b). Pub. L. 110–81, § 201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–81, § 207(a)(2), inserted “, including information under section 1603(b)(3) of this title” before semicolon.
+Subsec. (b)(1). Pub. L. 110–81, § 207(a)(2), inserted “, including information under section 1603(b)(3) of this title” before semicolon.
 
-Subsec. (b)(2). Pub. L. 110–81, § 201(a)(2)(B), substituted “quarterly period” for “semiannual filing period” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–81, § 201(a)(2)(B), substituted “quarterly period” for “semiannual filing period” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 110–81, § 201(a)(2)(C), substituted “quarterly period” for “semiannual period”.
+Subsec. (b)(3). Pub. L. 110–81, § 201(a)(2)(C), substituted “quarterly period” for “semiannual period”.
 
-Subsec. (b)(4). Pub. L. 110–81, § 201(a)(2)(D), substituted “quarterly period” for “semiannual filing period”.
+Subsec. (b)(4). Pub. L. 110–81, § 201(a)(2)(D), substituted “quarterly period” for “semiannual filing period”.
 
-Subsec. (b)(5). Pub. L. 110–81, § 202, added par. (5).
+Subsec. (b)(5). Pub. L. 110–81, § 202, added par. (5).
 
-Subsec. (c)(1). Pub. L. 110–81, § 201(b)(6)(A), substituted “$5,000” for “$10,000” and “$10,000” for “$20,000”.
+Subsec. (c)(1). Pub. L. 110–81, § 201(b)(6)(A), substituted “$5,000” for “$10,000” and “$10,000” for “$20,000”.
 
-Subsec. (c)(2). Pub. L. 110–81, § 201(b)(6)(B), substituted “$5,000” for “$10,000” in two places.
+Subsec. (c)(2). Pub. L. 110–81, § 201(b)(6)(B), substituted “$5,000” for “$10,000” in two places.
 
-Subsec. (d). Pub. L. 110–81, § 203(a), added subsec. (d).
+Subsec. (d). Pub. L. 110–81, § 203(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 110–81, § 205, added subsec. (e).
+Subsec. (e). Pub. L. 110–81, § 205, added subsec. (e).
 
 1998—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
 
@@ -529,7 +529,7 @@ Subsec. (e). Pub. L. 110–81, § 205, added subsec. (e).
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–81, title II, § 203(b), Sept. 14, 2007, 121 Stat. 744, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 [2 U.S.C. 1604(d)(1)] (as added by this section) that begins after the date of the enactment of this Act [Sept. 14, 2007] and each succeeding semiannual period.”
+Pub. L. 110–81, title II, § 203(b), Sept. 14, 2007, 121 Stat. 744, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 [2 U.S.C. 1604(d)(1)] (as added by this section) that begins after the date of the enactment of this Act [Sept. 14, 2007] and each succeeding semiannual period.”
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
 
@@ -537,7 +537,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1605. Disclosure and enforcement
+## § 1605. Disclosure and enforcement
 
 **(a) In general** The Secretary of the Senate and the Clerk of the House of Representatives shall—
 
@@ -583,7 +583,7 @@ The Attorney General shall report to the congressional committees referred to in
 
 The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
-(Pub. L. 104–65, § 6, Dec. 19, 1995, 109 Stat. 698; Pub. L. 110–81, title II, §§ 201(b)(3), 209(a), (b), 210, Sept. 14, 2007, 121 Stat. 742, 748.)
+(Pub. L. 104–65, § 6, Dec. 19, 1995, 109 Stat. 698; Pub. L. 110–81, title II, §§ 201(b)(3), 209(a), (b), 210, Sept. 14, 2007, 121 Stat. 742, 748.)
 
 **Editorial Notes**
 
@@ -593,13 +593,13 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 **Amendments**
 
-2007—Pub. L. 110–81, § 210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
+2007—Pub. L. 110–81, § 210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
 
-Par. (4). Pub. L. 110–81, § 209(b), inserted before semicolon at end “and, in the case of a report filed in electronic form under section 1604(e) of this title, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
+Par. (4). Pub. L. 110–81, § 209(b), inserted before semicolon at end “and, in the case of a report filed in electronic form under section 1604(e) of this title, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
 
-Par. (6). Pub. L. 110–81, § 201(b)(3), substituted “quarterly period” for “semiannual period”.
+Par. (6). Pub. L. 110–81, § 201(b)(3), substituted “quarterly period” for “semiannual period”.
 
-Pars. (9), (10). Pub. L. 110–81, § 209(a), added pars. (9) and (10).
+Pars. (9), (10). Pub. L. 110–81, § 209(a), added pars. (9) and (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,7 +611,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1606. Penalties
+## § 1606. Penalties
 
 **(a) Civil penalty** Whoever knowingly fails to—
 
@@ -625,7 +625,7 @@ shall, upon proof of such knowing violation by a preponderance of the evidence, 
 
 Whoever knowingly and corruptly fails to comply with any provision of this chapter shall be imprisoned for not more than 5 years or fined under title 18, or both.
 
-(Pub. L. 104–65, § 7, Dec. 19, 1995, 109 Stat. 699; Pub. L. 110–81, title II, § 211(a), Sept. 14, 2007, 121 Stat. 749.)
+(Pub. L. 104–65, § 7, Dec. 19, 1995, 109 Stat. 699; Pub. L. 110–81, title II, § 211(a), Sept. 14, 2007, 121 Stat. 749.)
 
 **Editorial Notes**
 
@@ -641,13 +641,13 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–81, title II, § 211(b), Sept. 14, 2007, 121 Stat. 749, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any violation committed on or after the date of the enactment of this Act [Sept. 14, 2007].”
+Pub. L. 110–81, title II, § 211(b), Sept. 14, 2007, 121 Stat. 749, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any violation committed on or after the date of the enactment of this Act [Sept. 14, 2007].”
 
 **Effective Date**
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1607. Rules of construction
+## § 1607. Rules of construction
 
 **(a) Constitutional rights** Nothing in this chapter shall be construed to prohibit or interfere with—
 
@@ -667,7 +667,7 @@ Nothing in this chapter shall be construed to prohibit, or to authorize any cour
 
 Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.
 
-(Pub. L. 104–65, § 8, Dec. 19, 1995, 109 Stat. 699.)
+(Pub. L. 104–65, § 8, Dec. 19, 1995, 109 Stat. 699.)
 
 **Editorial Notes**
 
@@ -681,11 +681,11 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1608. Severability
+## § 1608. Severability
 
 If any provision of this chapter, or the application thereof, is held invalid, the validity of the remainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 104–65, § 13, Dec. 19, 1995, 109 Stat. 701.)
+(Pub. L. 104–65, § 13, Dec. 19, 1995, 109 Stat. 701.)
 
 **Editorial Notes**
 
@@ -699,7 +699,7 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1609. Identification of clients and covered officials
+## § 1609. Identification of clients and covered officials
 
 **(a) Oral lobbying contacts** Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
 
@@ -717,7 +717,7 @@ Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a
 
 Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.
 
-(Pub. L. 104–65, § 14, Dec. 19, 1995, 109 Stat. 702.)
+(Pub. L. 104–65, § 14, Dec. 19, 1995, 109 Stat. 702.)
 
 **Editorial Notes**
 
@@ -731,7 +731,7 @@ This chapter, referred to in subsecs. (a)(1) and (b), was in the original “thi
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1610. Estimates based on tax reporting system
+## § 1610. Estimates based on tax reporting system
 
 **(a) Entities covered by section 6033(b) of title 26** A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to section 6033(b)(8) of title 26 may—
 
@@ -767,7 +767,7 @@ Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a
 
 **(3)** any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
 
-(Pub. L. 104–65, § 15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, § 4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, § 201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
+(Pub. L. 104–65, § 15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, § 4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, § 201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
 
 **Editorial Notes**
 
@@ -779,13 +779,13 @@ This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original �
 
 2007—Subsecs. (a)(1), (b)(1). Pub. L. 110–81 substituted “quarterly period” for “semiannual period”.
 
-1998—Subsec. (a). Pub. L. 105–166, § 4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
+1998—Subsec. (a). Pub. L. 105–166, § 4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
 
-Subsec. (a)(2). Pub. L. 105–166, § 4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities that are influencing legislation as defined in section 4911(d) of title 26.”
+Subsec. (a)(2). Pub. L. 105–166, § 4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities that are influencing legislation as defined in section 4911(d) of title 26.”
 
-Subsec. (b). Pub. L. 105–166, § 4(b)(1), in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
+Subsec. (b). Pub. L. 105–166, § 4(b)(1), in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
 
-Subsec. (b)(2). Pub. L. 105–166, § 4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities, the costs of which are not deductible pursuant to section 162(e) of title 26.”
+Subsec. (b)(2). Pub. L. 105–166, § 4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities, the costs of which are not deductible pursuant to section 162(e) of title 26.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -797,11 +797,11 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1611. Exempt organizations
+## § 1611. Exempt organizations
 
 An organization described in section 501(c)(4) of title 26 which engages in lobbying activities shall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.
 
-(Pub. L. 104–65, § 18, Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–99, title I, § 129(a), Jan. 26, 1996, 110 Stat. 34.)
+(Pub. L. 104–65, § 18, Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–99, title I, § 129(a), Jan. 26, 1996, 110 Stat. 34.)
 
 **Editorial Notes**
 
@@ -813,7 +813,7 @@ An organization described in section 501(c)(4) of title 26 which engages in lobb
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–99, title I, § 129(b), Jan. 26, 1996, 110 Stat. 34, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the Lobbying Disclosure Act of 1995 [Pub. L. 104–65] on the date of the enactment of such Act [Dec. 19, 1995].”
+Pub. L. 104–99, title I, § 129(b), Jan. 26, 1996, 110 Stat. 34, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the Lobbying Disclosure Act of 1995 [Pub. L. 104–65] on the date of the enactment of such Act [Dec. 19, 1995].”
 
 [For provision that notwithstanding section 106 of Pub. L. 104–99 [110 Stat. 27], section 129 of Pub. L. 104–99 [see above] to remain in effect as if enacted as part of Pub. L. 104–134, see section 21103 of Pub. L. 104–134, set out as a note following note captioned 501 First Street SE., District of Columbia; Disposal of Real Property, under section 2001 of this title].
 
@@ -821,7 +821,7 @@ Pub. L. 104–99, title I, § 129(b), Jan. 26, 1996, 110 Stat. 34, provided th
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1612. Sense of Senate that lobbying expenses should remain nondeductible
+## § 1612. Sense of Senate that lobbying expenses should remain nondeductible
 
 **(a) Findings**
 
@@ -831,7 +831,7 @@ The Senate finds that ordinary Americans generally are not allowed to deduct the
 
 It is the sense of the Senate that lobbying expenses should not be tax deductible.
 
-(Pub. L. 104–65, § 23, Dec. 19, 1995, 109 Stat. 705.)
+(Pub. L. 104–65, § 23, Dec. 19, 1995, 109 Stat. 705.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -839,7 +839,7 @@ It is the sense of the Senate that lobbying expenses should not be tax deductibl
 
 Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under section 1601 of this title.
 
-## § 1613. Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees
+## § 1613. Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees
 
 **(a) Prohibition**
 
@@ -849,15 +849,15 @@ Any person described in subsection (b) may not make a gift or provide travel to 
 
 The persons subject to the prohibition under subsection (a) are any lobbyist that is registered or is required to register under section 1603(a)(1) of this title, any organization that employs 1 or more lobbyists and is registered or is required to register under section 1603(a)(2) of this title, and any employee listed or required to be listed as a lobbyist by a registrant under section 1603(b)(6) or 1604(b)(2)(C) of this title.
 
-(Pub. L. 104–65, § 25, as added Pub. L. 110–81, title II, § 206(a), Sept. 14, 2007, 121 Stat. 747.)
+(Pub. L. 104–65, § 25, as added Pub. L. 110–81, title II, § 206(a), Sept. 14, 2007, 121 Stat. 747.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–81, title II, § 206(b), Sept. 14, 2007, 121 Stat. 747, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 14, 2007].”
+Pub. L. 110–81, title II, § 206(b), Sept. 14, 2007, 121 Stat. 747, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 14, 2007].”
 
-## § 1614. Annual audits and reports by Comptroller General
+## § 1614. Annual audits and reports by Comptroller General
 
 **(a) Audit**
 
@@ -879,7 +879,7 @@ The annual report under paragraph (1) shall include an assessment of compliance 
 
 The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of section 1603(a) of this title and each employee who is listed as a lobbyist under section 1603(b)(6) of this title or section 1604(b)(2)(C) of this title if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.
 
-(Pub. L. 104–65, § 26, as added Pub. L. 110–81, title II, § 213(a), Sept. 14, 2007, 121 Stat. 750.)
+(Pub. L. 104–65, § 26, as added Pub. L. 110–81, title II, § 213(a), Sept. 14, 2007, 121 Stat. 750.)
 
 **Editorial Notes**
 
@@ -891,4 +891,4 @@ This chapter, referred to in subsecs. (a) and (b)(1), was in the original “thi
 
 **Effective Date**
 
-Pub. L. 110–81, title II, § 213(b), Sept. 14, 2007, 121 Stat. 750, provided that: “The initial audit under subsection (a) of section 26 of the Lobbying Disclosure Act of 1995 [2 U.S.C. 1614(a)] (as added by subsection (a) of this section) shall be made with respect to lobbying registrations and reports filed during the first calendar quarter of 2008, and the initial report under subsection (b) of such section shall be filed, with respect to those registrations and reports, not later than 6 months after the end of that calendar quarter.”
+Pub. L. 110–81, title II, § 213(b), Sept. 14, 2007, 121 Stat. 750, provided that: “The initial audit under subsection (a) of section 26 of the Lobbying Disclosure Act of 1995 [2 U.S.C. 1614(a)] (as added by subsection (a) of this section) shall be made with respect to lobbying registrations and reports filed during the first calendar quarter of 2008, and the initial report under subsection (b) of such section shall be filed, with respect to those registrations and reports, not later than 6 months after the end of that calendar quarter.”

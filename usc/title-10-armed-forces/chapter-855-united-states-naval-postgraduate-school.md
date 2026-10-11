@@ -23,25 +23,25 @@ A prior chapter 855, consisting of sections 8721 to 8723, related to hospitaliza
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. B, title XXVIII, § 2872, Dec. 23, 2024, 138 Stat. 2281, added item 8551. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. B, title XXVIII, § 2872, Dec. 23, 2024, 138 Stat. 2281, added item 8551. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title V, § 554(a)(2)(B), Dec. 23, 2022, 136 Stat. 2594, substituted “Provost and Chief Academic Officer” for “Provost and Academic Dean” in item 8543.
+2022—Pub. L. 117–263, div. A, title V, § 554(a)(2)(B), Dec. 23, 2022, 136 Stat. 2594, substituted “Provost and Chief Academic Officer” for “Provost and Academic Dean” in item 8543.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 605 of this title as this chapter and items 7041 to 7050 as 8541 to 8550, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 605 of this title as this chapter and items 7041 to 7050 as 8541 to 8550, respectively.
 
-2008—Pub. L. 110–417, [div. A], title V, § 543(e)(2), Oct. 14, 2008, 122 Stat. 4461, added item 7048 and struck out former item 7048 “Conferring of degrees on graduates”.
+2008—Pub. L. 110–417, [div. A], title V, § 543(e)(2), Oct. 14, 2008, 122 Stat. 4461, added item 7048 and struck out former item 7048 “Conferring of degrees on graduates”.
 
-2006—Pub. L. 109–163, div. A, title V, § 522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added item 7050.
+2006—Pub. L. 109–163, div. A, title V, § 522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added item 7050.
 
-2004—Pub. L. 108–375, div. A, title V, § 557(c), Oct. 28, 2004, 118 Stat. 1916, substituted “President; assistants” for “Superintendent; assistants” in item 7042 and “Provost and Academic Dean” for “Academic Dean” in item 7043.
+2004—Pub. L. 108–375, div. A, title V, § 557(c), Oct. 28, 2004, 118 Stat. 1916, substituted “President; assistants” for “Superintendent; assistants” in item 7042 and “Provost and Academic Dean” for “Academic Dean” in item 7043.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, § 535(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, added item 7049.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, § 535(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, added item 7049.
 
-1997—Pub. L. 105–85, div. A, title V, § 551(b)(2), Nov. 18, 1997, 111 Stat. 1748, substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in item 7045.
+1997—Pub. L. 105–85, div. A, title V, § 551(b)(2), Nov. 18, 1997, 111 Stat. 1748, substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in item 7045.
 
-1992—Pub. L. 102–484, div. A, title X, § 1073(b), Oct. 23, 1992, 106 Stat. 2511, added item 7047 and redesignated former item 7047 as 7048.
+1992—Pub. L. 102–484, div. A, title X, § 1073(b), Oct. 23, 1992, 106 Stat. 2511, added item 7047 and redesignated former item 7047 as 7048.
 
-## § 8541. Function
+## § 8541. Function
 
 There is a United States Naval Postgraduate School, the primary function of which is to provide advanced instruction and professional and technical education and research opportunities for commissioned officers of the naval service in—
 
@@ -51,13 +51,13 @@ There is a United States Naval Postgraduate School, the primary function of whic
 
 **(3)** the integration of naval operations and systems into joint, combined, and multinational operations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7041; Pub. L. 109–163, div. A, title V, § 523(a), Jan. 6, 2006, 119 Stat. 3244; renumbered § 8541, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7041; Pub. L. 109–163, div. A, title V, § 523(a), Jan. 6, 2006, 119 Stat. 3244; renumbered § 8541, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7041 | 34 U.S.C. 1076. | July 31, 1947, ch. 420, § 1, 61 Stat. 705. |
+| 7041 | 34 U.S.C. 1076. | July 31, 1947, ch. 420, § 1, 61 Stat. 705. |
 
 The words “There is a” are substituted for the words “That the Secretary of the Navy is hereby authorized and directed to establish the”, as the Postgraduate School is in operation. The words “technical education” are substituted for the word “training” to describe more aptly the higher level of instruction at the Postgraduate School. The words “naval service” are substituted for the words “Regular Navy and Marine Corps and the reserve components thereof”. The word “their” is substituted for the words “of commissioned officers”.
 
@@ -65,7 +65,7 @@ The words “There is a” are substituted for the words “That the Secretary o
 
 **Prior Provisions**
 
-A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(c)(2), Oct. 5, 1994, 108 Stat. 2982, effective Dec. 1, 1994. See section 10507 of this title.
+A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(c)(2), Oct. 5, 1994, 108 Stat. 2982, effective Dec. 1, 1994. See section 10507 of this title.
 
 **Amendments**
 
@@ -79,7 +79,7 @@ A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized Pre
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8542. President; assistants
+## § 8542. President; assistants
 
 **(a)**
 
@@ -131,23 +131,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** the administration of the Postgraduate School.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7042; Pub. L. 96–513, title V, § 503(53), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 108–375, div. A, title V, § 557(a)(3), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §§ 523(b), 524, Jan. 6, 2006, 119 Stat. 3244, 3245; Pub. L. 109–364, div. A, title V, § 508, Oct. 17, 2006, 120 Stat. 2180; Pub. L. 111–383, div. A, title X, § 1075(b)(49), Jan. 7, 2011, 124 Stat. 4371; renumbered § 8542, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–263, div. A, title V, § 554(a)(2)(C), Dec. 23, 2022, 136 Stat. 2594.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7042; Pub. L. 96–513, title V, § 503(53), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 108–375, div. A, title V, § 557(a)(3), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §§ 523(b), 524, Jan. 6, 2006, 119 Stat. 3244, 3245; Pub. L. 109–364, div. A, title V, § 508, Oct. 17, 2006, 120 Stat. 2180; Pub. L. 111–383, div. A, title X, § 1075(b)(49), Jan. 7, 2011, 124 Stat. 4371; renumbered § 8542, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–263, div. A, title V, § 554(a)(2)(C), Dec. 23, 2022, 136 Stat. 2594.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7042 | 34 U.S.C. 1076a. | July 31, 1947, ch. 420, § 2, 61 Stat. 705. |
+| 7042 | 34 U.S.C. 1076a. | July 31, 1947, ch. 420, § 2, 61 Stat. 705. |
 
 In subsection (a) the word “Regular” is omitted as covered by the term “active list”.
 
-In subsection (b) the words “line and staff” and “as may be necessary” are omitted as surplusage. The word “grades” is substituted for the word “ranks”. The words “advanced instruction and technical education” are substituted for the words “training \* \* \* in the practical and theoretical duties of commissioned naval officers”.
+In subsection (b) the words “line and staff” and “as may be necessary” are omitted as surplusage. The word “grades” is substituted for the word “ranks”. The words “advanced instruction and technical education” are substituted for the words “training \* \* \* in the practical and theoretical duties of commissioned naval officers”.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to detail certain officers as chief and assistant chief of staff of wings of Air National Guard in Federal service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996, effective Dec. 1, 1994. See section 12502(b) of this title.
+A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to detail certain officers as chief and assistant chief of staff of wings of Air National Guard in Federal service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996, effective Dec. 1, 1994. See section 12502(b) of this title.
 
 **Amendments**
 
@@ -159,9 +159,9 @@ A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized Pre
 
 2006—Subsec. (a). Pub. L. 109–364 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to assignment of an officer of the Navy in a grade not below the grade of captain or an appropriately qualified civilian individual to the position of President of the Naval Postgraduate School.
 
-Pub. L. 109–163, § 524, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Navy shall detail as President of the Naval Postgraduate School an officer on the active-duty list in the line of the Navy eligible for command at sea not below the grade of captain. The President has military command of the Postgraduate School.”
+Pub. L. 109–163, § 524, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Navy shall detail as President of the Naval Postgraduate School an officer on the active-duty list in the line of the Navy eligible for command at sea not below the grade of captain. The President has military command of the Postgraduate School.”
 
-Subsec. (b)(1). Pub. L. 109–163, § 523(b), substituted “and professional and technical education of students and the provision of research opportunities for students” for “and technical education of students”.
+Subsec. (b)(1). Pub. L. 109–163, § 523(b), substituted “and professional and technical education of students and the provision of research opportunities for students” for “and technical education of students”.
 
 2004—Pub. L. 108–375 substituted “President” for “Superintendent” wherever appearing in section catchline and text.
 
@@ -171,7 +171,7 @@ Subsec. (b)(1). Pub. L. 109–163, § 523(b), substituted “and professional 
 
 **Change of Name**
 
-Pub. L. 108–375, div. A, title V, § 557(a)(1), (2), Oct. 28, 2004, 118 Stat. 1915, provided that:
+Pub. L. 108–375, div. A, title V, § 557(a)(1), (2), Oct. 28, 2004, 118 Stat. 1915, provided that:
 
 > **“(1)** The position of Superintendent of the Naval Postgraduate School is redesignated as President of the Naval Postgraduate School.
 
@@ -185,13 +185,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8543. Provost and Chief Academic Officer
+## § 8543. Provost and Chief Academic Officer
 
 **(a)** There is at the Naval Postgraduate School the civilian position of Provost and Chief Academic Officer. An individual selected by the Secretary of the Navy for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years. Before making an appointment to the position of Provost and Chief Academic Officer, the Secretary shall consult with the Board of Advisors for the Naval Postgraduate School and shall consider any recommendation of the leadership and faculty of the Naval Postgraduate School regarding an appointment to that position.
 
 **(b)** The Provost and Chief Academic Officer is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7043; Pub. L. 85–861, § 1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, § 513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, § 551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, § 557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916; renumbered § 8543, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–263, div. A, title V, § 554(a)(1), (2)(A), Dec. 23, 2022, 136 Stat. 2594.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7043; Pub. L. 85–861, § 1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, § 513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, § 551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, § 557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916; renumbered § 8543, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–263, div. A, title V, § 554(a)(1), (2)(A), Dec. 23, 2022, 136 Stat. 2594.)
 
 **Historical and Revision Notes**
 
@@ -200,15 +200,15 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 7043 | 34 U.S.C. 1074 (1st 98 words). | June 10, 1946, ch. 298 (1st 98 words), 60 Stat. 236. |
-|  | 34 U.S.C. 1076c. | July 31, 1947, ch. 420, § 4, 61 Stat. 706. |
+|  | 34 U.S.C. 1076c. | July 31, 1947, ch. 420, § 4, 61 Stat. 706. |
 
-The words “of the Naval Academy” following “Postgraduate School” are dropped as a result of § 4 of the Act of July 31, 1947 (supra). This Act created the Postgraduate School and in effect transferred the position of Academic Dean of the Postgraduate School of the Naval Academy to the newly created Postgraduate School.
+The words “of the Naval Academy” following “Postgraduate School” are dropped as a result of § 4 of the Act of July 31, 1947 (supra). This Act created the Postgraduate School and in effect transferred the position of Academic Dean of the Postgraduate School of the Naval Academy to the newly created Postgraduate School.
 
 **1958 Act**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7043 | 34 App.:1076c (less last sentence). | Aug. 9, 1955, ch. 669, § 1 (less last sentence), 69 Stat. 607. |
+| 7043 | 34 App.:1076c (less last sentence). | Aug. 9, 1955, ch. 669, § 1 (less last sentence), 69 Stat. 607. |
 
 **Editorial Notes**
 
@@ -218,23 +218,23 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 **Prior Provisions**
 
-A prior section 8543, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(pp)(1), Dec. 23, 2016, 130 Stat. 2106.
+A prior section 8543, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(pp)(1), Dec. 23, 2016, 130 Stat. 2106.
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 554(a)(2)(A), substituted “Chief Academic Officer” for “Academic Dean” in section catchline.
+2022—Pub. L. 117–263, § 554(a)(2)(A), substituted “Chief Academic Officer” for “Academic Dean” in section catchline.
 
-Pub. L. 117–263, § 554(a)(1)(A), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
+Pub. L. 117–263, § 554(a)(1)(A), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
 
-Subsec. (a). Pub. L. 117–263, § 554(a)(1)(B), substituted “An individual selected by the Secretary of the Navy for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.” for “The Provost and Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy.”
+Subsec. (a). Pub. L. 117–263, § 554(a)(1)(B), substituted “An individual selected by the Secretary of the Navy for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.” for “The Provost and Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy.”
 
 2018—Pub. L. 115–232 renumbered section 7043 of this title as this section.
 
-2004—Pub. L. 108–375, § 557(b)(3)(B), substituted “Provost and Academic Dean” for “Academic Dean” in section catchline.
+2004—Pub. L. 108–375, § 557(b)(3)(B), substituted “Provost and Academic Dean” for “Academic Dean” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, § 557(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is at the Naval Postgraduate School the civilian position of Academic Dean. The Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy upon the recommendation of the Postgraduate School Council consisting of the Superintendent, the Deputy Superintendent, and the directors of the Technical, Administrative, and Professional Divisions of the school.”
+Subsec. (a). Pub. L. 108–375, § 557(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is at the Naval Postgraduate School the civilian position of Academic Dean. The Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy upon the recommendation of the Postgraduate School Council consisting of the Superintendent, the Deputy Superintendent, and the directors of the Technical, Administrative, and Professional Divisions of the school.”
 
-Subsec. (b). Pub. L. 108–375, § 557(b)(4), substituted “Provost and Academic Dean” for “Academic Dean”.
+Subsec. (b). Pub. L. 108–375, § 557(b)(4), substituted “Provost and Academic Dean” for “Academic Dean”.
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “level IV of the Executive Schedule” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
 
@@ -248,7 +248,7 @@ Subsec. (b). Pub. L. 108–375, § 557(b)(4), substituted “Provost and Acade
 
 **Change of Name**
 
-Pub. L. 108–375, div. A, title V, § 557(b)(1), (2), Oct. 28, 2004, 118 Stat. 1915, provided that:
+Pub. L. 108–375, div. A, title V, § 557(b)(1), (2), Oct. 28, 2004, 118 Stat. 1915, provided that:
 
 > **“(1)** The position of Academic Dean of the Naval Postgraduate School is redesignated as Provost and Academic Dean of the Naval Postgraduate School.
 
@@ -262,25 +262,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8544. Civilian teachers: number; compensation
+## § 8544. Civilian teachers: number; compensation
 
 The Secretary of the Navy may employ as many civilians as he considers necessary to serve at the Naval Postgraduate School under the direction of the President of the school as senior professors, professors, associate professors, assistant professors, and instructors. The Secretary shall prescribe the compensation of those persons.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7044; Pub. L. 108–375, div. A, title V, § 557(a)(4)(A), Oct. 28, 2004, 118 Stat. 1915; renumbered § 8544, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7044; Pub. L. 108–375, div. A, title V, § 557(a)(4)(A), Oct. 28, 2004, 118 Stat. 1915; renumbered § 8544, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7044 | 34 U.S.C. 1076b (less last sentence). | July 31, 1947, ch. 420, § 3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, ch. 1076, § 1(21), 68 Stat. 968. |
+| 7044 | 34 U.S.C. 1076b (less last sentence). | July 31, 1947, ch. 420, § 3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, ch. 1076, § 1(21), 68 Stat. 968. |
 
-The words “as many \* \* \* as he considers necessary” are substituted for the words “such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
+The words “as many \* \* \* as he considers necessary” are substituted for the words “such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted performance of civil functions by commissioned officers of Regular Air Force, prior to repeal by Pub. L. 90–235, § 4(a)(6), Jan. 2, 1968, 81 Stat. 759. See section 973 of this title.
+A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted performance of civil functions by commissioned officers of Regular Air Force, prior to repeal by Pub. L. 90–235, § 4(a)(6), Jan. 2, 1968, 81 Stat. 759. See section 973 of this title.
 
 **Amendments**
 
@@ -294,7 +294,7 @@ A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted per
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8545. Officers of the other armed forces; enlisted members: admission
+## § 8545. Officers of the other armed forces; enlisted members: admission
 
 **(a)**
 
@@ -334,15 +334,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d)** The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7045; Pub. L. 96–513, title V, § 513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, § 551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, § 1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, § 1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, § 526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, § 543(a)–(c), Oct. 17, 2006, 120 Stat. 2213; Pub. L. 115–91, div. A, title XVI, § 1649(d)(3), Dec. 12, 2017, 131 Stat. 1753; renumbered § 8545 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 555(a), Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–31, div. A, title IX, § 915, Dec. 22, 2023, 137 Stat. 368.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7045; Pub. L. 96–513, title V, § 513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, § 551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, § 1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, § 1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, § 526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, § 543(a)–(c), Oct. 17, 2006, 120 Stat. 2213; Pub. L. 115–91, div. A, title XVI, § 1649(d)(3), Dec. 12, 2017, 131 Stat. 1753; renumbered § 8545 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 555(a), Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–31, div. A, title IX, § 915, Dec. 22, 2023, 137 Stat. 368.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7045 | 34 U.S.C. 1076e. | July 31, 1947, ch. 420, § 6, 61 Stat. 706. |
+| 7045 | 34 U.S.C. 1076e. | July 31, 1947, ch. 420, § 6, 61 Stat. 706. |
 
-The section is enlarged to cover officers of the Air Force under authority of § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171e).
+The section is enlarged to cover officers of the Air Force under authority of § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171e).
 
 In subsection (a) the words “at the request of the Secretary of the Army and the Secretary of the Treasury” are omitted as surplusage. The words “to receive instruction” are inserted after the listing of the services and the words “attendance and” are omitted. The word “grades” is substituted for the word “ranks”.
 
@@ -352,61 +352,61 @@ In subsection (c) the words “rules and” are omitted. The words “who are of
 
 **Prior Provisions**
 
-A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
+A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
 
 **Amendments**
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 915(1), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 915(1), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
 
-Subsec. (c). Pub. L. 118–31, § 915(2), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
+Subsec. (c). Pub. L. 118–31, § 915(2), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
 
 2022—Subsec. (a)(2)(D)(iii). Pub. L. 117–263 struck out “only on a space-available basis” after “provided”.
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 7045 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 7045 of this title as this section.
 
-Subsec. (a)(2)(D)(iv). Pub. L. 115–232, § 809(a), substituted “section 8548” for “section 7048”.
+Subsec. (a)(2)(D)(iv). Pub. L. 115–232, § 809(a), substituted “section 8548” for “section 7048”.
 
 2017—Subsec. (a)(2)(B). Pub. L. 115–91 substituted “a cyber discipline” for “information assurance” and “Cyber Scholarship program” for “Information Security Scholarship program”.
 
-Subsec. (b)(3). Pub. L. 115–91, § 1649(d)(3)(A), substituted “Cyber Scholarship program” for “Information Security Scholarship program”.
+Subsec. (b)(3). Pub. L. 115–91, § 1649(d)(3)(A), substituted “Cyber Scholarship program” for “Information Security Scholarship program”.
 
-2006—Subsec. (a)(2)(C). Pub. L. 109–364, § 543(a), substituted “armed forces” for “Navy or Marine Corps”.
+2006—Subsec. (a)(2)(C). Pub. L. 109–364, § 543(a), substituted “armed forces” for “Navy or Marine Corps”.
 
-Pub. L. 109–163, § 526(a)(1)(B), added subpar. (C). Former subpar.(C) redesignated (D).
+Pub. L. 109–163, § 526(a)(1)(B), added subpar. (C). Former subpar.(C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 109–364, § 543(b)(2), added subpar. (D). Former subpar. (D) redesignated (E).
+Subsec. (a)(2)(D). Pub. L. 109–364, § 543(b)(2), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Pub. L. 109–163, § 526(a)(1)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
+Pub. L. 109–163, § 526(a)(1)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
 
-Subsec. (a)(2)(E). Pub. L. 109–364, § 543(b)(1), (c)(1), redesignated subpar. (D) as (E) and substituted “(C), and (D)” for “and (C)”.
+Subsec. (a)(2)(E). Pub. L. 109–364, § 543(b)(1), (c)(1), redesignated subpar. (D) as (E) and substituted “(C), and (D)” for “and (C)”.
 
-Subsec. (b)(2). Pub. L. 109–364, § 543(c)(2), substituted “(a)(2)(E)” for “(a)(2)(D)”.
+Subsec. (b)(2). Pub. L. 109–364, § 543(c)(2), substituted “(a)(2)(E)” for “(a)(2)(D)”.
 
-Pub. L. 109–163, § 526(a)(2), substituted “subsection (a)(2)(D)” for “subsection (a)(2)(C)”.
+Pub. L. 109–163, § 526(a)(2), substituted “subsection (a)(2)(D)” for “subsection (a)(2)(C)”.
 
-Subsec. (d). Pub. L. 109–163, § 526(b), added subsec. (d).
+Subsec. (d). Pub. L. 109–163, § 526(b), added subsec. (d).
 
-2003—Subsec. (a)(2). Pub. L. 108–136, § 532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
+2003—Subsec. (a)(2). Pub. L. 108–136, § 532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
 
-Subsec. (b). Pub. L. 108–136, § 532(b), designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
+Subsec. (b). Pub. L. 108–136, § 532(b), designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
 
-2002—Subsec. (a)(1). Pub. L. 107–296, § 1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
+2002—Subsec. (a)(1). Pub. L. 107–296, § 1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
-Subsec. (b). Pub. L. 107–296, § 1704(b)(5), substituted “Department of Homeland Security” for “Department of Transportation” and “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
+Subsec. (b). Pub. L. 107–296, § 1704(b)(5), substituted “Department of Homeland Security” for “Department of Transportation” and “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
 1998—Subsec. (c). Pub. L. 105–261 struck out “the” after “are subject to”.
 
-1997—Pub. L. 105–85, § 551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
+1997—Pub. L. 105–85, § 551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
 
-Subsec. (a). Pub. L. 105–85, § 551(a)(1), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 105–85, § 551(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 105–85, § 551(a)(2), substituted “officers detailed” for “the students detailed” and inserted at end “In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).”
+Subsec. (b). Pub. L. 105–85, § 551(a)(2), substituted “officers detailed” for “the students detailed” and inserted at end “In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).”
 
-Subsec. (c). Pub. L. 105–85, § 551(a)(3), substituted “members” for “officers” in two places and “such regulations, as determined appropriate by the Secretary of the Navy,” for “same regulations”.
+Subsec. (c). Pub. L. 105–85, § 551(a)(3), substituted “members” for “officers” in two places and “such regulations, as determined appropriate by the Secretary of the Navy,” for “same regulations”.
 
-1980—Subsec. (a). Pub. L. 96–513, § 513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
+1980—Subsec. (a). Pub. L. 96–513, § 513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
 
-Subsec. (b). Pub. L. 96–513, § 513(23)(A), substituted reference to Transportation Secretary for reference to Treasury Secretary.
+Subsec. (b). Pub. L. 96–513, § 513(23)(A), substituted reference to Transportation Secretary for reference to Treasury Secretary.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Pilot Program To Provide Graduate Education Opportunities for Enlisted Members of the Army and Navy**
 
-Pub. L. 118–159, div. A, title V, § 559D, Dec. 23, 2024, 138 Stat. 1900, provided that:
+Pub. L. 118–159, div. A, title V, § 559D, Dec. 23, 2024, 138 Stat. 1900, provided that:
 
 > **“(a) Authority.—** The Secretary of the Navy and the Secretary of the Army may jointly conduct a pilot program (referred to in this section as the ‘Program’) under which certain enlisted personnel of the covered Armed Forces may enroll in a master’s degree program at the Naval Postgraduate School.
 
@@ -506,7 +506,7 @@ Pub. L. 118–159, div. A, title V, § 559D, Dec. 23, 2024, 138 Stat. 1900, pr
 
 > **“(B)** the Secretary of the Navy, with respect to matters concerning the Navy.”
 
-## § 8546. Officers of foreign countries: admission
+## § 8546. Officers of foreign countries: admission
 
 **(a)** The Secretary of the Navy, upon authorization of the President, may permit commissioned officers of the military services of foreign countries to receive instruction at the Naval Postgraduate School.
 
@@ -514,13 +514,13 @@ Pub. L. 118–159, div. A, title V, § 559D, Dec. 23, 2024, 138 Stat. 1900, pr
 
 **(c)** No officer of a foreign country is entitled to an appointment in the Navy or the Marine Corps by reason of his completion of the prescribed course of study at the Postgraduate School.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 438, § 7046; renumbered § 8546, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 438, § 7046; renumbered § 8546, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7046 | 34 U.S.C. 1076d. | July 31, 1947, ch. 420, § 5, 61 Stat. 706. |
+| 7046 | 34 U.S.C. 1076d. | July 31, 1947, ch. 420, § 5, 61 Stat. 706. |
 
 In subsection (b) the words “rules and” are omitted. The words “United States naval service” are substituted for the words “United States Navy” for uniformity.
 
@@ -530,7 +530,7 @@ In subsection (c) the words “to any office or position” are omitted as surpl
 
 **Prior Provisions**
 
-A prior section 8546, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, required medical officers and contract surgeons to attend families of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(26), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 8546, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, required medical officers and contract surgeons to attend families of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(26), Sept. 2, 1958, 72 Stat. 1571.
 
 **Amendments**
 
@@ -542,7 +542,7 @@ A prior section 8546, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, required medic
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8547. Students at institutions of higher education: admission
+## § 8547. Students at institutions of higher education: admission
 
 **(a) Admission Pursuant to Reciprocal Agreement.—** The Secretary of the Navy may enter into an agreement with an accredited institution of higher education to permit a student described in subsection (b) enrolled at that institution to receive instruction at the Naval Postgraduate School on a tuition-free basis. In exchange for the admission of the student, the institution of higher education shall be required to permit an officer of the armed forces to attend on a tuition-free basis courses offered by that institution corresponding in length to the instruction provided to the student at the Naval Postgraduate School.
 
@@ -552,7 +552,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** the Secretary of the Navy determines that the student has a demonstrated ability in a field of study designated by the Secretary as related to naval warfare and national security.
 
-(Added Pub. L. 102–484, div. A, title X, § 1073(a)(2), Oct. 23, 1992, 106 Stat. 2510, § 7047; renumbered § 8547, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 102–484, div. A, title X, § 1073(a)(2), Oct. 23, 1992, 106 Stat. 2510, § 7047; renumbered § 8547, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -570,7 +570,7 @@ A prior section 8547 was renumbered section 9217 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8548. Degree granting authority for United States Naval Postgraduate School
+## § 8548. Degree granting authority for United States Naval Postgraduate School
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Navy, the President of the Naval Postgraduate School may, upon the recommendation of the faculty of the Naval Postgraduate School, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -592,13 +592,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Naval Postgraduate School to award any new or existing degree.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 438, § 7047; renumbered § 7048, Pub. L. 102–484, div. A, title X, § 1073(a)(1), Oct. 23, 1992, 106 Stat. 2510; amended Pub. L. 108–375, div. A, title V, § 557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 110–417, [div. A], title V, § 543(e)(1), Oct. 14, 2008, 122 Stat. 4460; renumbered § 8548, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 438, § 7047; renumbered § 7048, Pub. L. 102–484, div. A, title X, § 1073(a)(1), Oct. 23, 1992, 106 Stat. 2510; amended Pub. L. 108–375, div. A, title V, § 557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 110–417, [div. A], title V, § 543(e)(1), Oct. 14, 2008, 122 Stat. 4460; renumbered § 8548, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7047 | 34 U.S.C. 1076f. | Dec. 7, 1945, ch. 559, 59 Stat. 603; July 31, 1947, ch. 420, § 7, 61 Stat. 706. |
+| 7047 | 34 U.S.C. 1076f. | Dec. 7, 1945, ch. 559, 59 Stat. 603; July 31, 1947, ch. 420, § 7, 61 Stat. 706. |
 
 In subsection (a) the words “of science” are omitted as surplusage since the curriculum is in engineering and related fields.
 
@@ -634,7 +634,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2163 of this title.
 
-## § 8549. Defense industry civilians: admission to defense product development program
+## § 8549. Defense industry civilians: admission to defense product development program
 
 **(a) Authority for Admission.—** The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master’s degree or professional continuing education certificate in a curriculum related to defense product development and systems engineering. No more than 125 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 8548 of this title or an appropriate professional continuing education certificate, as applicable.
 
@@ -660,15 +660,15 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 
 **(g) Use of Funds.—** Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 535(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–112, § 7049; amended Pub. L. 108–136, div. A, title X, § 1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, § 557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, § 525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, [div. A], title V, § 542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, § 589(a), Jan. 2, 2013, 126 Stat. 1769; renumbered § 8549 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 535(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–112, § 7049; amended Pub. L. 108–136, div. A, title X, § 1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, § 557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, § 525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, [div. A], title V, § 542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, § 589(a), Jan. 2, 2013, 126 Stat. 1769; renumbered § 8549 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 7049 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 7049 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8548” for “section 7048”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8548” for “section 7048”.
 
 2013—Subsec. (a). Pub. L. 112–239 inserted “or professional continuing education certificate” after “master’s degree” and “or an appropriate professional continuing education certificate, as applicable” before period at end.
 
@@ -678,11 +678,11 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8548” for 
 
 2004—Subsec. (e). Pub. L. 108–375 substituted “President” for “Superintendent”.
 
-2003—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
+2003—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
 
 **Prior Provisions**
 
-A prior section 8549, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, prohibited assignment of female members, except those designated under section 8067, to duty in aircraft engaged in combat missions, prior to repeal by Pub. L. 102–190, div. A, title V, § 531(a)(1), Dec. 5, 1991, 105 Stat. 1365.
+A prior section 8549, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, prohibited assignment of female members, except those designated under section 8067, to duty in aircraft engaged in combat missions, prior to repeal by Pub. L. 102–190, div. A, title V, § 531(a)(1), Dec. 5, 1991, 105 Stat. 1365.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -692,11 +692,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Request for Increase in Number of Defense Industry Civilians Authorized for Admission**
 
-Pub. L. 112–239, div. A, title V, § 589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: “If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase.”
+Pub. L. 112–239, div. A, title V, § 589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: “If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase.”
 
 **Program Evaluation and Report**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 535(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, provided that:
+Pub. L. 106–398, § 1 [[div. A], title V, § 535(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, provided that:
 
 > **“(1)** Before the start of the fourth year of instruction, but no earlier than the start of the third year of instruction, of defense industry employees at the Naval Postgraduate School under section 7049 [now 8549] of title 10, United States Code, as added by subsection (a), the Secretary of the Navy shall conduct an evaluation of the admission of such students under that section. The evaluation shall include the following:
 
@@ -718,7 +718,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 535(b)], Oct. 30, 2000, 114 S
 
 > **“(3)** Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), the Secretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.”
 
-## § 8550. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
+## § 8550. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
 
 **(a) Acceptance of Research Grants.—** The Secretary of the Navy may authorize the President of the Naval Postgraduate School to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the School for a scientific, literary, or educational purpose.
 
@@ -732,33 +732,33 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 535(b)], Oct. 30, 2000, 114 S
 
 **(f) Regulations.—** The Secretary shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 109–163, div. A, title V, § 522(c)(1), Jan. 6, 2006, 119 Stat. 3241, § 7050; renumbered § 8550, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 109–163, div. A, title V, § 522(c)(1), Jan. 6, 2006, 119 Stat. 3241, § 7050; renumbered § 8550, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8571, acts Aug. 10, 1956, ch. 1041, 70A Stat. 528; Sept. 2, 1958, Pub. L. 85–861, §§ 1(183), 33(a)(41), 72 Stat. 1533, 1566; June 30, 1960, Pub. L. 86–559, § 1(64), 74 Stat. 278, provided that commissioned officers of Air Force on active duty in same grade rank themselves according to date of rank and specified procedures for determining date of rank, prior to repeal by Pub. L. 96–513, title II, § 211, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 741 of this title.
+A prior section 8571, acts Aug. 10, 1956, ch. 1041, 70A Stat. 528; Sept. 2, 1958, Pub. L. 85–861, §§ 1(183), 33(a)(41), 72 Stat. 1533, 1566; June 30, 1960, Pub. L. 86–559, § 1(64), 74 Stat. 278, provided that commissioned officers of Air Force on active duty in same grade rank themselves according to date of rank and specified procedures for determining date of rank, prior to repeal by Pub. L. 96–513, title II, § 211, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 741 of this title.
 
 A prior section 8572 was renumbered section 9222 of this title.
 
-Prior sections 8573 and 8574 were repealed by Pub. L. 96–513, title II, § 211, Dec. 12, 1980, 94 Stat. 2885.
+Prior sections 8573 and 8574 were repealed by Pub. L. 96–513, title II, § 211, Dec. 12, 1980, 94 Stat. 2885.
 
 Section 8573, act Aug. 10, 1956, ch. 1041, 70A Stat. 529, specified date of rank of an officer whose regular grade is brigadier general and date of rank of an officer whose regular grade is major general and provided that names of general officers of Regular Air Force be carried on a seniority list in order of seniority in both regular grade and date of rank. See section 741 of this title.
 
-Section 8574, acts Aug. 10, 1956, ch. 1041, 70A Stat. 530; Sept. 2, 1958, Pub. L. 85–861, §§ 1(184), 33(a)(24), 72 Stat. 1533, 1565, provided for determination of rank of commissioned officers of same grade in Regular Air Force who are on same promotion list, rank of commissioned officers of same grade in Regular Air Force who are not on same promotion list or not on a promotion list, and rank among graduates of each class at United States Military, Naval, or Air Force Academies who, upon graduation, are appointed to Regular Air Force. See section 741 of this title.
+Section 8574, acts Aug. 10, 1956, ch. 1041, 70A Stat. 530; Sept. 2, 1958, Pub. L. 85–861, §§ 1(184), 33(a)(24), 72 Stat. 1533, 1565, provided for determination of rank of commissioned officers of same grade in Regular Air Force who are on same promotion list, rank of commissioned officers of same grade in Regular Air Force who are not on same promotion list or not on a promotion list, and rank among graduates of each class at United States Military, Naval, or Air Force Academies who, upon graduation, are appointed to Regular Air Force. See section 741 of this title.
 
 A prior section 8575 was renumbered section 9225 of this title.
 
-A prior section 8576, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for command when different commands of Air Force and Marine Corps joined or served together, prior to repeal by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 747 of this title.
+A prior section 8576, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for command when different commands of Air Force and Marine Corps joined or served together, prior to repeal by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 747 of this title.
 
 A prior section 8577, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for the command of flying units by commissioned officers of Air Force who had received aeronautical ratings as pilots of service types of aircraft, prior to repeal by Pub. L. 93–525, Dec. 18, 1974, 88 Stat. 1695.
 
-A prior section 8578, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for command when two or more commissioned officers of Air Force in same grade were on duty at same place, prior to repeal by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 749 of this title.
+A prior section 8578, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for command when two or more commissioned officers of Air Force in same grade were on duty at same place, prior to repeal by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761. See section 749 of this title.
 
 A prior section 8579 was renumbered section 9229 of this title.
 
-A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secretary of Air Force should prescribe military authority that female members of Air Force, except those designated under former section 8067 of this title to perform professional functions, might exercise, prior to repeal by Pub. L. 90–130, § 1(30), Nov. 8, 1967, 81 Stat. 382.
+A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secretary of Air Force should prescribe military authority that female members of Air Force, except those designated under former section 8067 of this title to perform professional functions, might exercise, prior to repeal by Pub. L. 90–130, § 1(30), Nov. 8, 1967, 81 Stat. 382.
 
 **Amendments**
 
@@ -770,7 +770,7 @@ A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secr
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8551. Development and operation of the Naval Innovation Center at the Naval Postgraduate School
+## § 8551. Development and operation of the Naval Innovation Center at the Naval Postgraduate School
 
 **(a) Authority to Support the Naval Innovation Center.—**
 
@@ -820,7 +820,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The term “partner organization” means an eligible nonprofit organization with which the Secretary of the Navy enters into a contract or other agreement under subsection (a).
 
-(Added Pub. L. 118–159, div. B, title XXVIII, § 2872, Dec. 23, 2024, 138 Stat. 2281.)
+(Added Pub. L. 118–159, div. B, title XXVIII, § 2872, Dec. 23, 2024, 138 Stat. 2281.)
 
 **Editorial Notes**
 

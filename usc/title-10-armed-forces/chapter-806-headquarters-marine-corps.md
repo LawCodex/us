@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title V, § 509B(a)(2), Dec. 23, 2024, 138 Stat. 1872, added item 8048.
+2024—Pub. L. 118–159, div. A, title V, § 509B(a)(2), Dec. 23, 2024, 138 Stat. 1872, added item 8048.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 506 of this title as this chapter and items 5041 to 5047 as 8041 to 8047, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 506 of this title as this chapter and items 5041 to 5047 as 8041 to 8047, respectively.
 
-2002—Pub. L. 107–314, div. A, title V, § 504(d)(3)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5047.
+2002—Pub. L. 107–314, div. A, title V, § 504(d)(3)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5047.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 902(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 902(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
 
-1986—Pub. L. 99–661, div. A, title V, § 509(a)(2), Nov. 14, 1986, 100 Stat. 3868, added item 5046.
+1986—Pub. L. 99–661, div. A, title V, § 509(a)(2), Nov. 14, 1986, 100 Stat. 3868, added item 5046.
 
-## § 8041. Headquarters, Marine Corps: function; composition
+## § 8041. Headquarters, Marine Corps: function; composition
 
 **(a)** There is in the executive part of the Department of the Navy a Headquarters, Marine Corps. The function of the Headquarters, Marine Corps, is to assist the Secretary of the Navy in carrying out his responsibilities.
 
@@ -49,7 +49,7 @@ retrieved: 2026-10-11
 
 **(c)** Except as otherwise specifically prescribed by law, the Headquarters, Marine Corps, shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5041; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 902(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 112–239, div. A, title V, § 531(c), Jan. 2, 2013, 126 Stat. 1726; renumbered § 8041, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5041; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 902(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 112–239, div. A, title V, § 531(c), Jan. 2, 2013, 126 Stat. 1726; renumbered § 8041, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ retrieved: 2026-10-11
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8042. Headquarters, Marine Corps: general duties
+## § 8042. Headquarters, Marine Corps: general duties
 
 **(a)** The Headquarters, Marine Corps, shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Navy and to the Commandant of the Marine Corps.
 
@@ -89,15 +89,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5042; renumbered § 8042 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5042; renumbered § 8042 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5042 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5042 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8014” for “section 5014”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8014” for “section 5014”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -105,7 +105,7 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8014” f
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8043. Commandant of the Marine Corps
+## § 8043. Commandant of the Marine Corps
 
 **(a)**
 
@@ -115,9 +115,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(A)** the officer has had significant experience in joint duty assignments; and
 
-**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
+**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) as a general officer.
 
@@ -125,7 +125,7 @@ of this title) as a general officer.
 
 **(b)** The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
 
-**[(c)** Repealed. Pub. L. 104–106, div. A, title V, § 502(c), Feb. 10, 1996, 110 Stat. 293.]
+**[(c)** Repealed. Pub. L. 104–106, div. A, title V, § 502(c), Feb. 10, 1996, 110 Stat. 293.]
 
 **(d)** Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Commandant performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 
@@ -151,13 +151,13 @@ of this title) as a general officer.
 
 **(3)** Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5043; amended Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, § 505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, § 502(c), Feb. 10, 1996, 110 Stat. 293; Pub. L. 108–136, div. A, title V, § 501(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(C), Nov. 25, 2015, 129 Stat. 880; renumbered § 8043 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1052, § 5043; amended Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, § 505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, § 502(c), Feb. 10, 1996, 110 Stat. 293; Pub. L. 108–136, div. A, title V, § 501(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(C), Nov. 25, 2015, 129 Stat. 880; renumbered § 8043 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 **Prior Provisions**
 
@@ -165,13 +165,13 @@ Provisions similar to those in this section were contained in section 5201 of th
 
 **Amendments**
 
-2021—Subsec. (e)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+2021—Subsec. (e)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
 
-Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5043 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5043 of this title as this section.
 
-Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”.
+Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”.
 
 2015—Subsec. (e)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.
 
-## § 8044. Assistant Commandant of the Marine Corps
+## § 8044. Assistant Commandant of the Marine Corps
 
 **(a)** There is an Assistant Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate, from officers on the active-duty list of the Marine Corps not restricted in the performance of duty.
 
@@ -213,7 +213,7 @@ For provisions giving President temporary authority to waive requirements in sub
 
 **(2)** if there is a vacancy in the office of the Assistant Commandant of the Marine Corps or the Assistant Commandant is absent or disabled, unless the President directs otherwise, the most senior officer of the Marine Corps in the Headquarters, Marine Corps, who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Commandant until a successor to the Commandant or the Assistant Commandant is appointed or until the absence or disability of the Commandant or Assistant Commandant ceases, whichever occurs first.
 
-(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1054, § 5044; renumbered § 8044, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1054, § 5044; renumbered § 8044, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -231,11 +231,11 @@ Provisions similar to those in this section were contained in section 5202 of th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8045. Deputy Commandants
+## § 8045. Deputy Commandants
 
 There are in the Headquarters, Marine Corps, not more than eight Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
 
-(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1054, § 5045; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 902(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–314, div. A, title IX, § 934, Dec. 2, 2002, 116 Stat. 2626; Pub. L. 114–328, div. A, title V, § 503(c), Dec. 23, 2016, 130 Stat. 2107; renumbered § 8045, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 118–159, div. A, title V, § 509A, Dec. 23, 2024, 138 Stat. 1872.)
+(Added Pub. L. 99–433, title V, § 513(b), Oct. 1, 1986, 100 Stat. 1054, § 5045; amended Pub. L. 106–398, § 1 [[div. A], title IX, § 902(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–314, div. A, title IX, § 934, Dec. 2, 2002, 116 Stat. 2626; Pub. L. 114–328, div. A, title V, § 503(c), Dec. 23, 2016, 130 Stat. 2107; renumbered § 8045, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 118–159, div. A, title V, § 509A, Dec. 23, 2024, 138 Stat. 1872.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ There are in the Headquarters, Marine Corps, not more than eight Deputy Commanda
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8046. Staff Judge Advocate to the Commandant of the Marine Corps
+## § 8046. Staff Judge Advocate to the Commandant of the Marine Corps
 
 **(a)** An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
 
@@ -285,7 +285,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** the ability of judge advocates of the Marine Corps assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-(Added Pub. L. 99–661, div. A, title V, § 509(a)(1), Nov. 14, 1986, 100 Stat. 3868, § 5046; amended Pub. L. 103–337, div. A, title V, § 504(b)(4), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 108–375, div. A, title V, § 574(b)(2), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 110–417, [div. A], title V, § 504(a), Oct. 14, 2008, 122 Stat. 4434; Pub. L. 112–239, div. A, title V, § 531(a), (b), Jan. 2, 2013, 126 Stat. 1725, 1726; Pub. L. 114–328, div. A, title V, § 502(x), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, § 508(a), Dec. 12, 2017, 131 Stat. 1375; renumbered § 8046, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–661, div. A, title V, § 509(a)(1), Nov. 14, 1986, 100 Stat. 3868, § 5046; amended Pub. L. 103–337, div. A, title V, § 504(b)(4), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 108–375, div. A, title V, § 574(b)(2), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 110–417, [div. A], title V, § 504(a), Oct. 14, 2008, 122 Stat. 4434; Pub. L. 112–239, div. A, title V, § 531(a), (b), Jan. 2, 2013, 126 Stat. 1725, 1726; Pub. L. 114–328, div. A, title V, § 502(x), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, § 508(a), Dec. 12, 2017, 131 Stat. 1375; renumbered § 8046, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -297,17 +297,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 2016—Subsec. (a). Pub. L. 114–328 struck out last sentence which read as follows: “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.”
 
-2013—Subsec. (a). Pub. L. 112–239, § 531(a), substituted “appointed by the President, by and with the advice and consent of the Senate,” for “detailed” and “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.” for “The Staff Judge Advocate to the Commandant of the Marine Corps, while so serving, has the grade of major general.”
+2013—Subsec. (a). Pub. L. 112–239, § 531(a), substituted “appointed by the President, by and with the advice and consent of the Senate,” for “detailed” and “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.” for “The Staff Judge Advocate to the Commandant of the Marine Corps, while so serving, has the grade of major general.”
 
-Subsecs. (c), (d). Pub. L. 112–239, § 531(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 112–239, § 531(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2008—Subsec. (a). Pub. L. 110–417 substituted “The Staff Judge Advocate to the Commandant of the Marine Corps, while so serving, has the grade of major general.” for “If an officer appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a lower regular grade, the officer shall be appointed in the regular grade of brigadier general.”
 
 2004—Subsec. (c). Pub. L. 108–375 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–337, § 504(b)(4)(A), added second sentence and struck out former second sentence which read as follows: “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general if appointed to that grade by the President, by and with the advice and consent of the Senate.”
+1994—Subsec. (a). Pub. L. 103–337, § 504(b)(4)(A), added second sentence and struck out former second sentence which read as follows: “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general if appointed to that grade by the President, by and with the advice and consent of the Senate.”
 
-Subsec. (b). Pub. L. 103–337, § 504(b)(4)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “An officer retiring from the position of Staff Judge Advocate to the Commandant of the Marine Corps, after serving at least three years in that position, shall be retired in the highest grade in which that officer served on active duty satisfactorily, as determined by the Secretary of the Navy.”
+Subsec. (b). Pub. L. 103–337, § 504(b)(4)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “An officer retiring from the position of Staff Judge Advocate to the Commandant of the Marine Corps, after serving at least three years in that position, shall be retired in the highest grade in which that officer served on active duty satisfactorily, as determined by the Secretary of the Navy.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,19 +317,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title V, § 509(b), Nov. 14, 1986, 100 Stat. 3868, provided that: “Section 5046 [now 8046] of title 10, United States Code, as added by subsection (a), shall apply only with respect to appointments as Staff Judge Advocate to the Commandant of the Marine Corps made on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title V, § 509(b), Nov. 14, 1986, 100 Stat. 3868, provided that: “Section 5046 [now 8046] of title 10, United States Code, as added by subsection (a), shall apply only with respect to appointments as Staff Judge Advocate to the Commandant of the Marine Corps made on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Transition Provision for Retirement of Staff Judge Advocates**
 
-Pub. L. 99–661, div. A, title V, § 509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: “Notwithstanding [former] section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act [Nov. 14, 1986], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy.”
+Pub. L. 99–661, div. A, title V, § 509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: “Notwithstanding [former] section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act [Nov. 14, 1986], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy.”
 
 [In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 in such determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.]
 
-## § 8047. Legislative Assistant to the Commandant
+## § 8047. Legislative Assistant to the Commandant
 
 There is in the Marine Corps a Legislative Assistant to the Commandant.
 
-(Added Pub. L. 107–314, div. A, title V, § 504(d)(3)(A), Dec. 2, 2002, 116 Stat. 2532, § 5047; amended Pub. L. 114–328, div. A, title V, § 502(y), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8047, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 107–314, div. A, title V, § 504(d)(3)(A), Dec. 2, 2002, 116 Stat. 2532, § 5047; amended Pub. L. 114–328, div. A, title V, § 502(y), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8047, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -345,10 +345,10 @@ There is in the Marine Corps a Legislative Assistant to the Commandant.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8048. Medical Officer of the Marine Corps
+## § 8048. Medical Officer of the Marine Corps
 
 **(a)** There is a Medical Officer of the Marine Corps who shall be appointed from among flag officers of the Navy.
 
 **(b)** The Medical Officer of the Marine Corps, while so serving, shall hold the grade of rear admiral (lower half).
 
-(Added Pub. L. 118–159, div. A, title V, § 509B(a)(1), Dec. 23, 2024, 138 Stat. 1872.)
+(Added Pub. L. 118–159, div. A, title V, § 509B(a)(1), Dec. 23, 2024, 138 Stat. 1872.)

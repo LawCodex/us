@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 103—EXPANDING PUBLIC LANDS OUTDOOR RECREATION EXPERIENCES
 
-## § 8401. Definitions
+## § 8401. Definitions
 
 In this chapter:
 
@@ -61,7 +61,7 @@ The term “Secretary” means the Secretary of the Interior.
 
 The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
 
-(Pub. L. 118–234, § 2, Jan. 4, 2025, 138 Stat. 2837.)
+(Pub. L. 118–234, § 2, Jan. 4, 2025, 138 Stat. 2837.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ This chapter, referred to in introductory provisions, was in the original “thi
 
 **Short Title**
 
-Pub. L. 118–234, § 1(a), Jan. 4, 2025, 138 Stat. 2836, provided that: “This Act [enacting this chapter, sections 460*l*–6d, 558a to 558g, and 6804a of this title, and sections 100905 and 308106 of Title 54, National Park Service and Related Programs, amending sections 2113a, 6801 to 6804, 6807, 6809, 6852, 6854, and 6855 of this title, section 1761a of Title 43, Public Lands, and sections 101703, 104909, 200102 to 200104, 308101 to 308103, and 308105 of Title 54, repealing section 460*l*–6d of this title, section 1703 of Title 43, and section 100905 of Title 54, omitting sections 558a to 558d of this title, enacting provisions set out as notes under section 558a of this title, and amending provisions set out as notes under sections 580d and 6804 of this title] may be cited as the ‘Expanding Public Lands Outdoor Recreation Experiences Act’ or the ‘EXPLORE Act’.”
+Pub. L. 118–234, § 1(a), Jan. 4, 2025, 138 Stat. 2836, provided that: “This Act [enacting this chapter, sections 460*l*–6d, 558a to 558g, and 6804a of this title, and sections 100905 and 308106 of Title 54, National Park Service and Related Programs, amending sections 2113a, 6801 to 6804, 6807, 6809, 6852, 6854, and 6855 of this title, section 1761a of Title 43, Public Lands, and sections 101703, 104909, 200102 to 200104, 308101 to 308103, and 308105 of Title 54, repealing section 460*l*–6d of this title, section 1703 of Title 43, and section 100905 of Title 54, omitting sections 558a to 558d of this title, enacting provisions set out as notes under section 558a of this title, and amending provisions set out as notes under sections 580d and 6804 of this title] may be cited as the ‘Expanding Public Lands Outdoor Recreation Experiences Act’ or the ‘EXPLORE Act’.”
 
 **Executive Documents**
 
@@ -153,13 +153,13 @@ Donald J. Trump.
 
 ### Part A—Outdoor Recreation Policy
 
-#### § 8411. Congressional declaration of policy
+#### § 8411. Congressional declaration of policy
 
 Congress declares that it is the policy of the Federal Government to foster and encourage recreation on Federal recreational lands and waters, to the extent consistent with the laws applicable to specific areas of Federal recreational lands and waters, including multiple-use mandates and land management planning requirements.
 
-(Pub. L. 118–234, title I, § 111, Jan. 4, 2025, 138 Stat. 2838.)
+(Pub. L. 118–234, title I, § 111, Jan. 4, 2025, 138 Stat. 2838.)
 
-#### § 8412. Identifying opportunities for recreation
+#### § 8412. Identifying opportunities for recreation
 
 **(a) Inventory and assessments**
 
@@ -201,7 +201,7 @@ To the extent practicable, the Secretary concerned shall use or incorporate exis
 
 **(c) Omitted**
 
-(Pub. L. 118–234, title I, § 112, Jan. 4, 2025, 138 Stat. 2838.)
+(Pub. L. 118–234, title I, § 112, Jan. 4, 2025, 138 Stat. 2838.)
 
 **Editorial Notes**
 
@@ -209,15 +209,15 @@ To the extent practicable, the Secretary concerned shall use or incorporate exis
 
 Section is comprised of section 112 of Pub. L. 118–234. Subsec. (c) of section 112 of Pub. L. 118–234 amended section 200103 of Title 54, National Park Service and Related Programs.
 
-#### § 8413. Recreation budget crosscut
+#### § 8413. Recreation budget crosscut
 
 Not later than 30 days after the end of each fiscal year, beginning with fiscal year 2025, the Director of the Office of Management and Budget shall submit to Congress and make public online a report that describes and itemizes the total amount of funding relating to outdoor recreation that was obligated in the preceding fiscal year in accounts in the Treasury for the Department of the Interior and the Department of Agriculture.
 
-(Pub. L. 118–234, title I, § 114, Jan. 4, 2025, 138 Stat. 2841.)
+(Pub. L. 118–234, title I, § 114, Jan. 4, 2025, 138 Stat. 2841.)
 
 ### Part B—Public Recreation on Federal Recreational Lands and Waters
 
-#### § 8421. Biking on long-distance trails
+#### § 8421. Biking on long-distance trails
 
 **(a) Identification of long-distance trails** Not later than 18 months after January 4, 2025, the Secretaries shall identify—
 
@@ -277,17 +277,17 @@ In carrying out this section, the Secretaries may not use eminent domain or cond
 
 The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
 
-(Pub. L. 118–234, title I, § 121, Jan. 4, 2025, 138 Stat. 2842.)
+(Pub. L. 118–234, title I, § 121, Jan. 4, 2025, 138 Stat. 2842.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Trails System Act, referred to in subsec. (e)(1)(C), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (e)(1)(C), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
-The Wilderness Act, referred to in subsec. (e)(1)(D), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (e)(1)(D), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-#### § 8422. Protecting America’s rock climbing
+#### § 8422. Protecting America’s rock climbing
 
 **(a) In general**
 
@@ -321,17 +321,17 @@ Before finalizing the guidance issued under subsection (a), the Secretary concer
 
 **(2)** includes components of the National Wilderness Preservation System.
 
-(Pub. L. 118–234, title I, § 122, Jan. 4, 2025, 138 Stat. 2843.)
+(Pub. L. 118–234, title I, § 122, Jan. 4, 2025, 138 Stat. 2843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wilderness Act, referred to in subsec. (c)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (c)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2836, known as the Expanding Public Lands Outdoor Recreation Experiences Act and also known as the EXPLORE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
-#### § 8423. Range access
+#### § 8423. Range access
 
 **(a) Definition of target shooting range**
 
@@ -441,9 +441,9 @@ Not later than 2 years after January 4, 2025, and annually thereafter through fi
 
 Nothing in this section affects the authority of the Secretary concerned to administer a target shooting range that is in addition to the target shooting ranges that meet the requirements described in subsection (b)(3)(B) on Federal recreational lands and waters administered by the Secretary concerned.
 
-(Pub. L. 118–234, title I, § 123, Jan. 4, 2025, 138 Stat. 2844.)
+(Pub. L. 118–234, title I, § 123, Jan. 4, 2025, 138 Stat. 2844.)
 
-#### § 8424. Restoration of overnight campsites
+#### § 8424. Restoration of overnight campsites
 
 **(a) Definitions** In this section:
 
@@ -491,9 +491,9 @@ The term “Secretary” means the Secretary of Agriculture.
 
 **(4)** The parking lot in Loop D.
 
-(Pub. L. 118–234, title I, § 124, Jan. 4, 2025, 138 Stat. 2846.)
+(Pub. L. 118–234, title I, § 124, Jan. 4, 2025, 138 Stat. 2846.)
 
-#### § 8425. Motorized and nonmotorized access
+#### § 8425. Motorized and nonmotorized access
 
 **(a) In general** The Secretary concerned shall seek to have, not later than 5 years after January 4, 2025, in a printed and publicly available format that is compliant with the format for geographic information systems—
 
@@ -517,9 +517,9 @@ The Secretaries shall seek to create additional opportunities, as appropriate, a
 
 Nothing in this section prohibits a lawful use, including authorized motorized or nonmotorized uses, on Federal recreational lands and waters administered by the Chief of the Forest Service or the Director of the Bureau of Land Management, if the Secretary concerned fails to meet a timeline established under this section.
 
-(Pub. L. 118–234, title I, § 127, Jan. 4, 2025, 138 Stat. 2855.)
+(Pub. L. 118–234, title I, § 127, Jan. 4, 2025, 138 Stat. 2855.)
 
-#### § 8426. Aquatic resource activities assistance
+#### § 8426. Aquatic resource activities assistance
 
 **(a) Definitions** In this section:
 
@@ -595,9 +595,9 @@ The term “inspection” means actions to find aquatic nuisance species to prev
 
 **(8) Reclamation project**
 
-The term “reclamation 1
+The term “reclamation 1
 
-<sup>1</sup>  So in original. “Reclamation” is capitalized in this term in section 460*l*–32(3) of this title and in this section.
+<sup>1</sup> So in original. “Reclamation” is capitalized in this term in section 460*l*–32(3) of this title and in this section.
 
 project” has the meaning given such term in section 460*l*–32(3) of this title.
 
@@ -671,11 +671,11 @@ Before awarding a grant under paragraph (1), the Secretary shall determine that 
 
 **(C)** the Aquatic Nuisance Species Task Force.
 
-(Pub. L. 118–234, title I, § 128, Jan. 4, 2025, 138 Stat. 2856.)
+(Pub. L. 118–234, title I, § 128, Jan. 4, 2025, 138 Stat. 2856.)
 
 ### Part C—Supporting Gateway Communities and Addressing Park Overcrowding
 
-#### § 8441. Gateway communities
+#### § 8441. Gateway communities
 
 **(a) Assessment of impacts and needs in gateway communities** The Secretaries—
 
@@ -693,7 +693,7 @@ Before awarding a grant under paragraph (1), the Secretary shall determine that 
 
 **(ii)** existing developed and suitable lesser-known recreation sites, as identified under section 5(b)(1)(B),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 on nearby land managed by a State agency or a local agency; and
 
@@ -719,7 +719,7 @@ The Secretary of Agriculture may provide assistance under paragraph (1) through 
 
 In carrying out this section, the Secretaries may, in accordance with applicable laws, enter into a public-private partnership, cooperative agreement, memorandum of understanding, or similar agreement with a gateway community or a business in a gateway community.
 
-(Pub. L. 118–234, title I, § 131, Jan. 4, 2025, 138 Stat. 2858.)
+(Pub. L. 118–234, title I, § 131, Jan. 4, 2025, 138 Stat. 2858.)
 
 **Editorial Notes**
 
@@ -727,7 +727,7 @@ In carrying out this section, the Secretaries may, in accordance with applicable
 
 Section 5(b)(1)(B), referred to in subsec. (a)(1)(D)(ii), probably means section 8442(b)(1)(B) of this title. Section 5(b)(1)(B) probably referred to section 5(b)(1)(B) of H.R. 3200 introduced in the House in the 118th Congress on May 10, 2023. A later version of H.R. 3200 was enacted as subtitle C of title I of Pub. L. 118–234, and, as enacted, does not contain a section 5. However, section 132(b)(1)(B) of Pub. L. 118–234, which is classified to section 8442(b)(1)(B) of this title, contains provisions identical to those in section 5(b)(1)(B) of H.R. 3200.
 
-#### § 8442. Improved recreation visitation data
+#### § 8442. Improved recreation visitation data
 
 **(a) Consistent visitation data**
 
@@ -855,9 +855,9 @@ Not later than 1 year after January 4, 2025, and annually thereafter, the Secret
 
 **(D)** the Assistant Secretary of Army for Civil Works, with respect to lakes and reservoirs under the jurisdiction of the U.S. Army Corps of Engineers.
 
-(Pub. L. 118–234, title I, § 132, Jan. 4, 2025, 138 Stat. 2859.)
+(Pub. L. 118–234, title I, § 132, Jan. 4, 2025, 138 Stat. 2859.)
 
-#### § 8443. Monitoring for improved recreation decision making
+#### § 8443. Monitoring for improved recreation decision making
 
 **(a) In general**
 
@@ -877,11 +877,11 @@ Not later than 1 year after January 4, 2025, and after public notice and comment
 
 **(4)** the Assistant Secretary of Army for Civil Works, with respect to lakes and reservoirs under the jurisdiction of the U.S. Army Corps of Engineers.
 
-(Pub. L. 118–234, title I, § 133, Jan. 4, 2025, 138 Stat. 2862.)
+(Pub. L. 118–234, title I, § 133, Jan. 4, 2025, 138 Stat. 2862.)
 
 ### Part D—Broadband Connectivity on Federal Recreational Lands and Waters
 
-#### § 8451. Connect our parks
+#### § 8451. Connect our parks
 
 **(a) Definitions** In this section:
 
@@ -995,9 +995,9 @@ On completion of the assessment under paragraph (1), the Secretary shall submit 
 
 Notwithstanding paragraph (1), a plan developed under that paragraph shall not be required to address broadband internet access service or cellular service in any National Park with respect to which the superintendent of the National Park determines that there is adequate access to broadband internet access service or cellular service, as applicable.
 
-(Pub. L. 118–234, title I, § 141, Jan. 4, 2025, 138 Stat. 2862.)
+(Pub. L. 118–234, title I, § 141, Jan. 4, 2025, 138 Stat. 2862.)
 
-#### § 8452. Broadband internet connectivity at developed recreation sites
+#### § 8452. Broadband internet connectivity at developed recreation sites
 
 **(a) In general** The Secretary and the Chief of the Forest Service shall enter into an agreement with the Secretary of Commerce to foster the installation or construction of broadband internet infrastructure at developed recreation sites on Federal recreational lands and waters to establish broadband internet connectivity—
 
@@ -1031,9 +1031,9 @@ Notwithstanding paragraph (1), a plan developed under that paragraph shall not b
 
 **(2)** that are located in an economically distressed county that could benefit significantly from developing the outdoor recreation economy of the county.
 
-(Pub. L. 118–234, title I, § 142, Jan. 4, 2025, 138 Stat. 2864.)
+(Pub. L. 118–234, title I, § 142, Jan. 4, 2025, 138 Stat. 2864.)
 
-#### § 8453. Public lands telecommunications cooperative agreements
+#### § 8453. Public lands telecommunications cooperative agreements
 
 **(a) Cooperative agreements for the Department of the Interior** The Secretary may enter into cooperative agreements to carry out activities related to communications sites on lands managed by Federal land management agencies, including—
 
@@ -1047,9 +1047,9 @@ Notwithstanding paragraph (1), a plan developed under that paragraph shall not b
 
 **(5)** obtaining, improving access to, or establishing communications sites on or adjacent to Federal recreational lands and waters managed by a Federal land management agency; and
 
-**(6)** any combination of purposes described in subparagraphs 1
+**(6)** any combination of purposes described in subparagraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraphs”.
+<sup>1</sup> So in original. Probably should be “paragraphs”.
 
 (1) through (5).
 
@@ -1059,7 +1059,7 @@ Notwithstanding paragraph (1), a plan developed under that paragraph shall not b
 
 Not later than 1 year after January 4, 2025, the Secretary shall conduct a comprehensive assessment to evaluate the potential benefits of rental fee retention whereby any fee collected for the occupancy and use of Federal lands and waters authorized by a communications use authorization would be deposited into a special account and used solely for activities related to communications sites on lands and waters managed by the Secretary.
 
-(Pub. L. 118–234, title I, § 143, Jan. 4, 2025, 138 Stat. 2865.)
+(Pub. L. 118–234, title I, § 143, Jan. 4, 2025, 138 Stat. 2865.)
 
 **Editorial Notes**
 
@@ -1069,7 +1069,7 @@ Section is comprised of section 143 of Pub. L. 118–234. Subsec. (b) of section
 
 ### Part E—Public–Private Parks Partnerships
 
-#### § 8461. Partnership agreements to modernize federally owned campgrounds, resorts, cabins, and visitor centers on Federal recreational lands and waters
+#### § 8461. Partnership agreements to modernize federally owned campgrounds, resorts, cabins, and visitor centers on Federal recreational lands and waters
 
 **(a) Definitions** In this section:
 
@@ -1151,15 +1151,15 @@ The Secretaries shall establish a pilot program under which the Secretary concer
 
 A land use fee paid or revenue shared with the Secretary concerned under an agreement or land use authorization under this section shall be available for expenditure by the Secretary concerned for recreation-related purposes on the unit or area of Federal recreational lands and waters at which the land use fee or revenue is collected, without further appropriation.
 
-(Pub. L. 118–234, title I, § 153, Jan. 4, 2025, 138 Stat. 2868.)
+(Pub. L. 118–234, title I, § 153, Jan. 4, 2025, 138 Stat. 2868.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-#### § 8462. Parking and restroom opportunities for Federal recreational lands and waters
+#### § 8462. Parking and restroom opportunities for Federal recreational lands and waters
 
 **(a) Parking opportunities**
 
@@ -1193,9 +1193,9 @@ The Secretaries shall seek to increase and improve the function, cleanliness, an
 
 **(C)** policy recommendations that suggest innovative new models or partnerships to increase or improve the function, cleanliness, and availability of restroom facilities for persons recreating on Federal recreational lands and waters.
 
-(Pub. L. 118–234, title I, § 154, Jan. 4, 2025, 138 Stat. 2870.)
+(Pub. L. 118–234, title I, § 154, Jan. 4, 2025, 138 Stat. 2870.)
 
-#### § 8463. Pay-for-performance projects
+#### § 8463. Pay-for-performance projects
 
 **(a) Definitions** In this section:
 
@@ -1411,15 +1411,15 @@ The authority to enter into a pay-for-performance agreement under this section t
 
 Nothing in paragraph (1) affects any pay-for-performance project agreement entered into by the Secretary of Agriculture under this section before the date described in that paragraph.
 
-(Pub. L. 118–234, title I, § 155, Jan. 4, 2025, 138 Stat. 2871.)
+(Pub. L. 118–234, title I, § 155, Jan. 4, 2025, 138 Stat. 2871.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Subtitle C of title XX of the Act is classified generally to division C (§ 1397n et seq.) of subchapter XX of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Subtitle C of title XX of the Act is classified generally to division C (§ 1397n et seq.) of subchapter XX of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-#### § 8464. Outdoor Recreation Legacy Partnership Program
+#### § 8464. Outdoor Recreation Legacy Partnership Program
 
 **(a) Definitions** In this section:
 
@@ -1449,7 +1449,7 @@ The term “eligible nonprofit organization” means an organization that is des
 
 The term “low-income community” has the same meaning given that term in 26 U.S.C. 45D(e)(1).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(5) Outdoor Recreation Legacy Partnership Program**
 
@@ -1573,7 +1573,7 @@ Wetland areas and interests therein as identified in the wetlands provisions of 
 
 Not later than 90 days after the earlier of the date of expiration of a project period or the completion of a project, each State-lead agency that receives a grant under this section shall submit to the Secretary a final report containing such information as the Secretary may require.
 
-(Pub. L. 118–234, title I, § 156, Jan. 4, 2025, 138 Stat. 2876.)
+(Pub. L. 118–234, title I, § 156, Jan. 4, 2025, 138 Stat. 2876.)
 
 **Editorial Notes**
 
@@ -1583,7 +1583,7 @@ Not later than 90 days after the earlier of the date of expiration of a project 
 
 ## SUBCHAPTER II—ACCESS AMERICA
 
-### § 8471. Definitions
+### § 8471. Definitions
 
 In this subchapter:
 
@@ -1611,11 +1611,11 @@ The term “outdoor constructed feature” has the meaning given such term in ap
 
 The term “veterans organization” means a service provider with outdoor recreation experience that serves members of the Armed Forces, veterans, or Gold Star Family members.
 
-(Pub. L. 118–234, title II, § 201, Jan. 4, 2025, 138 Stat. 2880.)
+(Pub. L. 118–234, title II, § 201, Jan. 4, 2025, 138 Stat. 2880.)
 
 ### Part A—Access for People With Disabilities
 
-#### § 8481. Accessible recreation inventory
+#### § 8481. Accessible recreation inventory
 
 **(a) Assessment** Not later than 5 years after January 4, 2025, the Secretary concerned shall—
 
@@ -1647,17 +1647,17 @@ As part of the comprehensive assessment required under subsection (a)(1), to the
 
 Not later than 7 years after January 4, 2025, the Secretary concerned shall identify opportunities to create, update, or replace signage and other publicly available information, including web page information, related to accessibility and consistent with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) and section 794 of title 29 at outdoor recreation facilities covered by the assessment required under subsection (a)(1).
 
-(Pub. L. 118–234, title II, § 211, Jan. 4, 2025, 138 Stat. 2881.)
+(Pub. L. 118–234, title II, § 211, Jan. 4, 2025, 138 Stat. 2881.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Architectural Barriers Act of 1968, referred to in subsecs. (a)(1) and (c), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsecs. (a)(1) and (c), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Section 794 of title 29, referred to in subsecs. (a)(1) and (c), was in the original a reference to section 504 of the Rehabilitation Act, and was translated as meaning section 504 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
-#### § 8482. Trail inventory
+#### § 8482. Trail inventory
 
 **(a) Assessment** Not later than 7 years after January 4, 2025, the Secretary concerned shall—
 
@@ -1705,17 +1705,17 @@ As part of the assessment required under subsection (a)(1), the Secretary may, t
 
 In publishing information about each trail under this subsection, the Secretary concerned shall make public information about trails that do not meet the Architectural Barriers Act accessibility guidelines but could otherwise provide outdoor recreation opportunities to individuals with disabilities through the use of certain assistive technology.
 
-(Pub. L. 118–234, title II, § 212, Jan. 4, 2025, 138 Stat. 2881.)
+(Pub. L. 118–234, title II, § 212, Jan. 4, 2025, 138 Stat. 2881.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Architectural Barriers Act of 1968, referred to in subsec. (d)(1), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (d)(1), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Section 794 of title 29, referred to in subsec. (d)(1), was in the original a reference to section 504 of the Rehabilitation Act, and was translated as meaning section 504 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
-#### § 8483. Trail pilot program
+#### § 8483. Trail pilot program
 
 **(a) In general** Not later than 2 years after January 4, 2025, the Secretary concerned shall carry out a pilot program to enter into partnerships with eligible entities to—
 
@@ -1745,15 +1745,15 @@ The Secretary concerned shall select no fewer than 5 units or subunits under the
 
 **(c) Sunset**
 
-The pilot program established under this subsection 1
+The pilot program established under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “this section”.
+<sup>1</sup> So in original. Probably should be “this section”.
 
 shall terminate on the date that is 7 years after January 4, 2025.
 
-(Pub. L. 118–234, title II, § 213, Jan. 4, 2025, 138 Stat. 2882.)
+(Pub. L. 118–234, title II, § 213, Jan. 4, 2025, 138 Stat. 2882.)
 
-#### § 8484. Accessible trails
+#### § 8484. Accessible trails
 
 **(a) In general** Not later than 1 year after January 4, 2025, the Secretary concerned shall select a location or locations to develop at least 3 new accessible trails—
 
@@ -1815,21 +1815,21 @@ Not later than 3 years after January 4, 2025, the Secretary concerned, in coordi
 
 Not later than 7 years after January 4, 2025, the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish a final report that lists the accessible trails developed under this section.
 
-(Pub. L. 118–234, title II, § 214, Jan. 4, 2025, 138 Stat. 2883.)
+(Pub. L. 118–234, title II, § 214, Jan. 4, 2025, 138 Stat. 2883.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Architectural Barriers Act of 1968, referred to in subsec. (b)(2)(B), (C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (b)(2)(B), (C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Section 794 of title 29, referred to in subsec. (b)(2)(B), (C), was in the original a reference to section 504 of the Rehabilitation Act, and was translated as meaning section 504 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
 Section 794d of title 29, referred to in subsec. (d)(1), was in the original a reference to section 508 of the Rehabilitation Act, and was translated as meaning section 508 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
-The National Trails System Act, referred to in subsec. (e)(1)(C), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (e)(1)(C), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
-#### § 8485. Accessible recreation opportunities
+#### § 8485. Accessible recreation opportunities
 
 **(a) In general** Not later than 1 year after January 4, 2025, the Secretary concerned shall select a location to develop at least 2 new accessible recreation opportunities—
 
@@ -1909,49 +1909,49 @@ Not later than 3 years after January 4, 2025, the Secretary concerned, in coordi
 
 Not later than 7 years after January 4, 2025, the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish a final report that lists the accessible recreation opportunities developed under this section.
 
-(Pub. L. 118–234, title II, § 215, Jan. 4, 2025, 138 Stat. 2884.)
+(Pub. L. 118–234, title II, § 215, Jan. 4, 2025, 138 Stat. 2884.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Architectural Barriers Act of 1968, referred to in subsec. (b)(2)(B), (C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (b)(2)(B), (C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Section 794 of title 29, referred to in subsec. (b)(2)(B), (C), was in the original a reference to section 504 of the Rehabilitation Act, and was translated as meaning section 504 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
 Section 794d of title 29, referred to in subsec. (e)(1), was in the original a reference to section 508 of the Rehabilitation Act, and was translated as meaning section 508 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
-#### § 8486. Assistive technology
+#### § 8486. Assistive technology
 
 In carrying out this part, the Secretary concerned may enter into partnerships, contracts, or agreements with other Federal, State, Tribal, local, or private entities, including existing outfitting and guiding services, to make assistive technology available on Federal recreational lands and waters.
 
-(Pub. L. 118–234, title II, § 216, Jan. 4, 2025, 138 Stat. 2886.)
+(Pub. L. 118–234, title II, § 216, Jan. 4, 2025, 138 Stat. 2886.)
 
-#### § 8487. Savings clause
+#### § 8487. Savings clause
 
-Nothing in the 1
+Nothing in the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 part shall be construed to create any conflicting standards with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) and section 794 of title 29.
 
-(Pub. L. 118–234, title II, § 217, Jan. 4, 2025, 138 Stat. 2886.)
+(Pub. L. 118–234, title II, § 217, Jan. 4, 2025, 138 Stat. 2886.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Architectural Barriers Act of 1968, referred to in text, is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in text, is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Section 794 of title 29, referred to in text, was in the original a reference to section 504 of the Rehabilitation Act, and was translated as meaning section 504 of the Rehabilitation Act of 1973, Pub. L. 93–112, to reflect the probable intent of Congress.
 
 ### Part B—Military and Veterans in Parks
 
-#### § 8501. Promotion of outdoor recreation for military servicemembers and veterans
+#### § 8501. Promotion of outdoor recreation for military servicemembers and veterans
 
-Not later than 2 years after January 4, 2025, the Secretary concerned, in coordination with the Secretary of Veterans Affairs and the Secretary of Defense, shall develop educational and public awareness materials to disseminate to members of the Armed Forces and veterans, including through preseparation counseling of the Transition Assistance Program under chapter 1
+Not later than 2 years after January 4, 2025, the Secretary concerned, in coordination with the Secretary of Veterans Affairs and the Secretary of Defense, shall develop educational and public awareness materials to disseminate to members of the Armed Forces and veterans, including through preseparation counseling of the Transition Assistance Program under chapter 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1142 of title 10, on—
 
@@ -1971,9 +1971,9 @@ Not later than 2 years after January 4, 2025, the Secretary concerned, in coordi
 
 **(8)** programs and jobs focused on continuing national service such as Public Land Corps, AmeriCorps, and conservation corps programs.
 
-(Pub. L. 118–234, title II, § 221, Jan. 4, 2025, 138 Stat. 2886.)
+(Pub. L. 118–234, title II, § 221, Jan. 4, 2025, 138 Stat. 2886.)
 
-#### § 8502. Military Veterans Outdoor Recreation Liaisons
+#### § 8502. Military Veterans Outdoor Recreation Liaisons
 
 **(a) In general**
 
@@ -1995,17 +1995,17 @@ Not later than 1 year after January 4, 2025, the Secretaries and the Secretary o
 
 **(4)** promote outdoor recreation experiences for veterans on Federal recreational lands and waters through new and innovative approaches.
 
-(Pub. L. 118–234, title II, § 222, Jan. 4, 2025, 138 Stat. 2887.)
+(Pub. L. 118–234, title II, § 222, Jan. 4, 2025, 138 Stat. 2887.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in subsec. (b)(1), was in the original “this subtitle” meaning subtitle B (§§ 221–226) of title II of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2886, which enacted this part and amended section 6803 of this title.
+This part, referred to in subsec. (b)(1), was in the original “this subtitle” meaning subtitle B (§§ 221–226) of title II of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2886, which enacted this part and amended section 6803 of this title.
 
 Section 203 of the Veterans Comprehensive Prevention, Access to Care, and Treatment Act of 2020, also known as the Veterans COMPACT Act of 2020, referred to in subsec. (b)(2), is section 203 of Pub. L. 116–214, Dec. 5, 2020, 134 Stat. 1036, which is not classified to the Code.
 
-#### § 8503. Partnerships to promote military and veteran recreation
+#### § 8503. Partnerships to promote military and veteran recreation
 
 **(a) In general**
 
@@ -2021,15 +2021,15 @@ As part of a partnership or agreement entered into under subsection (a), the Sec
 
 **(2)** the acquisition of assistive technology to facilitate improved outdoor recreation opportunities for members of the Armed Forces or veterans.
 
-(Pub. L. 118–234, title II, § 223, Jan. 4, 2025, 138 Stat. 2887.)
+(Pub. L. 118–234, title II, § 223, Jan. 4, 2025, 138 Stat. 2887.)
 
-#### § 8504. National strategy for military and veteran recreation
+#### § 8504. National strategy for military and veteran recreation
 
 **(a) Strategy**
 
-Not later than 1 year after January 4, 2025, the Federal Interagency Council on Outdoor Recreation established under section 113 1
+Not later than 1 year after January 4, 2025, the Federal Interagency Council on Outdoor Recreation established under section 113 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall develop and make public a strategy to increase visits to Federal recreational lands and waters by members of the Armed Forces, veterans, and Gold Star Family members.
 
@@ -2051,7 +2051,7 @@ shall develop and make public a strategy to increase visits to Federal recreatio
 
 Not later than 5 years after the date of the publication of the strategy required under subsection (a), and every 5 years thereafter, the Federal Interagency Council on Outdoor Recreation shall update the strategy and make public the update.
 
-(Pub. L. 118–234, title II, § 224, Jan. 4, 2025, 138 Stat. 2888.)
+(Pub. L. 118–234, title II, § 224, Jan. 4, 2025, 138 Stat. 2888.)
 
 **Editorial Notes**
 
@@ -2059,7 +2059,7 @@ Not later than 5 years after the date of the publication of the strategy require
 
 Section 113, referred to in subsec. (a), is section 113 of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2839, which amended sections 200102 and 200104 of Title 54, National Park Service and Related Programs. As amended, section 200104 of Title 54 establishes the Federal Interagency Council on Outdoor Recreation.
 
-#### § 8505. Career and volunteer opportunities for veterans
+#### § 8505. Career and volunteer opportunities for veterans
 
 **(a) Veteran hiring**
 
@@ -2091,13 +2091,13 @@ A veteran employed under the pilot program shall be treated as an employee as de
 
 **(B) Implementation briefing**
 
-Not later than 1 year after the date on which the pilot program under subsection (a) 1
+Not later than 1 year after the date on which the pilot program under subsection (a) 1
 
-<sup>1</sup>  So in original. Probably should refer to “this subsection”.
+<sup>1</sup> So in original. Probably should refer to “this subsection”.
 
 commences, the Secretary and the Assistant Secretary of Labor for Veterans’ Employment and Training shall jointly provide to the appropriate congressional committees a briefing on the implementation of the pilot program.
 
-**(C) Final report** Not later than 30 days after the date on which the pilot program under subsection (a) <sup>1</sup> terminates under paragraph (5), the Secretary and the Assistant Secretary of Labor for Veterans’ Employment and Training shall jointly submit to the appropriate congressional committees a report on the pilot program that includes the following:
+**(C) Final report** Not later than 30 days after the date on which the pilot program under subsection (a) <sup>1</sup> terminates under paragraph (5), the Secretary and the Assistant Secretary of Labor for Veterans’ Employment and Training shall jointly submit to the appropriate congressional committees a report on the pilot program that includes the following:
 
 **(i)** The number of veterans who applied to participate in the pilot program.
 
@@ -2121,11 +2121,11 @@ The authority to carry out the pilot program under this subsection shall termina
 
 Each Secretary of a military department is encouraged to allow members of the Armed Forces on active duty status to participate in programs related to environmental stewardship or guided outdoor recreation.
 
-(Pub. L. 118–234, title II, § 226, Jan. 4, 2025, 138 Stat. 2889.)
+(Pub. L. 118–234, title II, § 226, Jan. 4, 2025, 138 Stat. 2889.)
 
 ### Part C—Youth Access
 
-#### § 8521. Increasing youth recreation visits to Federal land
+#### § 8521. Increasing youth recreation visits to Federal land
 
 **(a) Strategy**
 
@@ -2151,11 +2151,11 @@ Not later than 5 years after the date of the publication of the strategy require
 
 The Secretaries may enter into contracts or cost-share agreements (including contracts or agreements for the acquisition of vehicles) to carry out this section.
 
-(Pub. L. 118–234, title II, § 231, Jan. 4, 2025, 138 Stat. 2890.)
+(Pub. L. 118–234, title II, § 231, Jan. 4, 2025, 138 Stat. 2890.)
 
 ## SUBCHAPTER III—SIMPLIFYING OUTDOOR ACCESS FOR RECREATION
 
-### § 8531. Definitions
+### § 8531. Definitions
 
 In this subchapter:
 
@@ -2181,7 +2181,7 @@ The term “special recreation permit” has the meaning given the term in secti
 
 The term “visitor-use day” means a visitor-use day, user day, launch, or other metric used by the Secretary concerned for purposes of authorizing use under a special recreation permit.
 
-(Pub. L. 118–234, title III, § 301, Jan. 4, 2025, 138 Stat. 2891.)
+(Pub. L. 118–234, title III, § 301, Jan. 4, 2025, 138 Stat. 2891.)
 
 **Editorial Notes**
 
@@ -2193,7 +2193,7 @@ Section 311, referred to in pars. (3) and (4), means section 311 of Pub. L. 118�
 
 ### Part A—Modernizing Recreation Permitting
 
-#### § 8541. Permitting process improvements
+#### § 8541. Permitting process improvements
 
 **(a) In general** To simplify the process of the issuance and or reissuance of special recreation permits and reduce the cost of administering special recreation permits under section 6802(h) of this title (as amended by this title), the Secretaries shall each—
 
@@ -2297,7 +2297,7 @@ Nothing in this subsection prevents the Secretary concerned from limiting or aba
 
 A special recreation permit for an organized group recreation activity or event issued under paragraph (3) shall be subject to the health and safety standards required by the Secretary concerned for a permit issued under paragraph (13)(A)(iv) of section 6801 of this title (as amended by this title).
 
-(Pub. L. 118–234, title III, § 312, Jan. 4, 2025, 138 Stat. 2898.)
+(Pub. L. 118–234, title III, § 312, Jan. 4, 2025, 138 Stat. 2898.)
 
 **Editorial Notes**
 
@@ -2307,9 +2307,9 @@ As amended by this title, referred to in subsecs. (a), (c), (d), (e)(1)(A), (2),
 
 This subchapter, referred to in subsec. (b)(2)(A), (B), was in the original “this title”, meaning title III of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2891, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-#### § 8542. Permit flexibility
+#### § 8542. Permit flexibility
 
 **(a) In general**
 
@@ -2349,7 +2349,7 @@ To ensure a recreation service provider described in paragraph (1) is able to ma
 
 Nothing in this section affects any authority of, regulation issued by, or decision of the Secretary concerned relating to the use of electric bicycles on Federal recreational lands and waters under any other Federal law.
 
-(Pub. L. 118–234, title III, § 313, Jan. 4, 2025, 138 Stat. 2901.)
+(Pub. L. 118–234, title III, § 313, Jan. 4, 2025, 138 Stat. 2901.)
 
 **Editorial Notes**
 
@@ -2357,7 +2357,7 @@ Nothing in this section affects any authority of, regulation issued by, or decis
 
 As amended by this title, referred to in subsecs. (a) and (c)(1), means as amended by title III of Pub. L. 118–234.
 
-#### § 8543. Permit administration
+#### § 8543. Permit administration
 
 **(a) Permit availability**
 
@@ -2407,7 +2407,7 @@ The Secretary concerned shall establish a system by which potential applicants f
 
 Nothing in this section applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
 
-(Pub. L. 118–234, title III, § 314, Jan. 4, 2025, 138 Stat. 2902.)
+(Pub. L. 118–234, title III, § 314, Jan. 4, 2025, 138 Stat. 2902.)
 
 **Editorial Notes**
 
@@ -2415,7 +2415,7 @@ Nothing in this section applies to a concession contract issued by the National 
 
 As amended by this title, referred to in subsecs. (a)(3) and (b), means as amended by title III of Pub. L. 118–234.
 
-#### § 8544. Service First Initiative; permits for multijurisdictional trips
+#### § 8544. Service First Initiative; permits for multijurisdictional trips
 
 **(a) Omitted**
 
@@ -2479,7 +2479,7 @@ Each of the Secretaries shall retain the authority to enforce the terms, stipula
 
 Nothing in this subsection applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
 
-(Pub. L. 118–234, title III, § 315, Jan. 4, 2025, 138 Stat. 2903.)
+(Pub. L. 118–234, title III, § 315, Jan. 4, 2025, 138 Stat. 2903.)
 
 **Editorial Notes**
 
@@ -2491,7 +2491,7 @@ As amended by this title, referred to in subsec. (c)(2), means as amended by tit
 
 Section is comprised of section 315 of Pub. L. 118–234. Subsec. (a) of section 315 of Pub. L. 118–234 repealed section 1703 of Title 43, Public Lands.
 
-#### § 8545. Forest Service and Bureau of Land Management temporary special recreation permits for outfitting and guiding
+#### § 8545. Forest Service and Bureau of Land Management temporary special recreation permits for outfitting and guiding
 
 **(a) In general**
 
@@ -2499,25 +2499,25 @@ Not later than 180 days after January 4, 2025, the Secretary concerned shall est
 
 **(b) Term of temporary permits**
 
-A temporary special recreation permit issued under paragraph (1) 1
+A temporary special recreation permit issued under paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (a)”.
+<sup>1</sup> So in original. Probably should be “subsection (a)”.
 
 shall be issued for a period of not more than 2 years.
 
 **(c) Conversion to long-term permit**
 
-If the Secretary concerned determines that a permittee under paragraph (1) <sup>1</sup> has completed 2 years of satisfactory operation under the permit proposed to be converted, the Secretary may provide for the conversion of a temporary special recreation permit issued under paragraph (1) <sup>1</sup> to a long-term special recreation permit.
+If the Secretary concerned determines that a permittee under paragraph (1) <sup>1</sup> has completed 2 years of satisfactory operation under the permit proposed to be converted, the Secretary may provide for the conversion of a temporary special recreation permit issued under paragraph (1) <sup>1</sup> to a long-term special recreation permit.
 
 **(d) Effect**
 
-Nothing in this subsection 2
+Nothing in this subsection 2
 
-<sup>2</sup>  So in original. Probably should be “this section”.
+<sup>2</sup> So in original. Probably should be “this section”.
 
 alters or affects the authority of the Secretary to issue a special recreation permit under subsection (h)(1) of section 6802 of this title (as amended by this title).
 
-(Pub. L. 118–234, title III, § 316, Jan. 4, 2025, 138 Stat. 2905.)
+(Pub. L. 118–234, title III, § 316, Jan. 4, 2025, 138 Stat. 2905.)
 
 **Editorial Notes**
 
@@ -2525,7 +2525,7 @@ alters or affects the authority of the Secretary to issue a special recreation p
 
 As amended by this title, referred to in subsec. (d), means as amended by title III of Pub. L. 118–234.
 
-#### § 8546. Reviews for long-term permits
+#### § 8546. Reviews for long-term permits
 
 **(a) Monitoring** The Secretary concerned shall monitor each recreation service provider issued a special recreation permit for compliance with the terms of the permit—
 
@@ -2551,7 +2551,7 @@ If the Secretary of Agriculture, acting through the Chief of the Forest Service,
 
 **(B)** 1 visitor-use day used, if the Secretary concerned determines the use of the allocated visitor-use day had been or will be prevented by a circumstance beyond the control of the recreation service provider.
 
-(Pub. L. 118–234, title III, § 317, Jan. 4, 2025, 138 Stat. 2905.)
+(Pub. L. 118–234, title III, § 317, Jan. 4, 2025, 138 Stat. 2905.)
 
 **Editorial Notes**
 
@@ -2559,7 +2559,7 @@ If the Secretary of Agriculture, acting through the Chief of the Forest Service,
 
 As amended by this title, referred to in subsecs. (a)(2) and (b)(1), means as amended by title III of Pub. L. 118–234.
 
-#### § 8547. Adjustment of allocated visitor-use days
+#### § 8547. Adjustment of allocated visitor-use days
 
 **(a) Adjustments following use of allocation reviews** On the completion of a use-of-allocation review conducted under section 8546(b) of this title for a special recreation permit described in paragraph (13)(A)(iv)(I) of section 6801 of this title (as amended by this title), the Secretary of Agriculture, acting through the Chief of the Forest Service, or the Secretary, as applicable, shall adjust the number of visitor-use days allocated to a recreation service provider under the special recreation permit as follows:
 
@@ -2577,7 +2577,7 @@ As amended by this title, referred to in subsecs. (a)(2) and (b)(1), means as am
 
 If unallocated visitor-use days are available, the Secretary concerned may, at any time, amend a special recreation permit to allocate additional visitor-use days to a qualified recreation service provider.
 
-(Pub. L. 118–234, title III, § 318, Jan. 4, 2025, 138 Stat. 2906.)
+(Pub. L. 118–234, title III, § 318, Jan. 4, 2025, 138 Stat. 2906.)
 
 **Editorial Notes**
 
@@ -2585,7 +2585,7 @@ If unallocated visitor-use days are available, the Secretary concerned may, at a
 
 As amended by this title, referred to in subsecs. (a) and (b)(2), means as amended by title III of Pub. L. 118–234.
 
-#### § 8548. Liability
+#### § 8548. Liability
 
 **(a) Insurance requirements**
 
@@ -2629,7 +2629,7 @@ Except as provided in paragraph (2), a Federal land management agency shall not 
 
 Nothing in this section applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
 
-(Pub. L. 118–234, title III, § 319, Jan. 4, 2025, 138 Stat. 2907.)
+(Pub. L. 118–234, title III, § 319, Jan. 4, 2025, 138 Stat. 2907.)
 
 **Editorial Notes**
 
@@ -2637,7 +2637,7 @@ Nothing in this section applies to a concession contract issued by the National 
 
 As amended by this title, referred to in subsec. (a)(1), means as amended by title III of Pub. L. 118–234.
 
-#### § 8549. Cost recovery reform
+#### § 8549. Cost recovery reform
 
 **(a) Cost recovery for special recreation permits** In addition to a fee collected under section 6802 of this title or any other authorized fee collected by the Secretary concerned, the Secretary concerned may assess and collect a reasonable fee from an applicant for, or holder of, a special recreation permit to recover administrative costs incurred by the Secretary concerned for—
 
@@ -2667,25 +2667,25 @@ The Secretary concerned shall not assess or collect administrative costs under t
 
 To the maximum extent practicable, the agency processing an application for a special recreation permit shall use existing studies and analysis to reduce the quantity of work and costs necessary to process the application.
 
-(Pub. L. 118–234, title III, § 320, Jan. 4, 2025, 138 Stat. 2908.)
+(Pub. L. 118–234, title III, § 320, Jan. 4, 2025, 138 Stat. 2908.)
 
-#### § 8550. Savings provision
+#### § 8550. Savings provision
 
 Nothing in this part, or in any amendment made by this part, shall be construed as affecting the authority or responsibility of the Secretary of the Interior to award concessions contracts for the provision of accommodations, facilities, and services, or commercial use authorizations to provide services, to visitors to U.S. Fish and Wildlife Service refuges or units of the National Park System pursuant to subchapter II of chapter 1019 of title 54 (formerly known as the “National Park Service Concessions Management Improvement Act of 1998”), except that sections 8543(a), 8544, 8548(a), 8548(b), and 8548(c) of this title shall also apply to commercial use authorizations under that Act.
 
-(Pub. L. 118–234, title III, § 323, Jan. 4, 2025, 138 Stat. 2911.)
+(Pub. L. 118–234, title III, § 323, Jan. 4, 2025, 138 Stat. 2911.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle” meaning subtitle A (§§ 311–323) of title III of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2891, which enacted sections 6804a and 8541 to 8550 of this title, amended sections 6801 to 6804, 6807, and 6809 of this title, and repealed section 1703 of Title 43, Public Lands.
+This part, referred to in text, was in the original “this subtitle” meaning subtitle A (§§ 311–323) of title III of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2891, which enacted sections 6804a and 8541 to 8550 of this title, amended sections 6801 to 6804, 6807, and 6809 of this title, and repealed section 1703 of Title 43, Public Lands.
 
 The National Park Service Concessions Management Improvement Act of 1998, referred to in text, is title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503. For complete classification of this Act to the Code, see Short Title of 1998 Act note set out under section 100101 of Title 54, National Park Service and Related Programs, and Tables.
 
 ### Part B—Making Recreation a Priority
 
-#### § 8561. Extension of seasonal recreation opportunities
+#### § 8561. Extension of seasonal recreation opportunities
 
 **(a) Definition of seasonal closure** In this section, the term “seasonal closure” means any period during which—
 
@@ -2709,13 +2709,13 @@ The National Park Service Concessions Management Improvement Act of 1998, referr
 
 **(2) Local coordination**
 
-As part of the consultation and coordination required under subparagraph 1
+As part of the consultation and coordination required under subparagraph 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (1), the Secretaries shall encourage relevant unit managers of Federal recreational lands and waters managed by the Forest Service, the Bureau of Land Management, and the National Park Service to consult and coordinate with local governments, Indian Tribes, outdoor recreation-related businesses, and other local stakeholders operating on or adjacent to the relevant unit of Federal recreational lands and waters.
 
-**(d) 2 [footnote: 2 So in original. There is no subsec. (c).] Extensions beyond seasonal closures**
+**(d) 2 [footnote: 2 So in original. There is no subsec. (c).] Extensions beyond seasonal closures**
 
 **(1) Extension of recreational season** In the case of a unit of Federal recreational lands and waters managed by the Forest Service, the Bureau of Land Management, or the National Park Service in which recreational use is highly seasonal, the Secretary concerned, acting through the relevant unit manager, may—
 
@@ -2753,11 +2753,11 @@ The Secretary concerned may enter into agreements with businesses, local governm
 
 The Secretary concerned may accept in-kind contributions of goods and services provided by businesses, local governments, or other entities for purposes of paragraph (1).
 
-(Pub. L. 118–234, title III, § 331, Jan. 4, 2025, 138 Stat. 2911.)
+(Pub. L. 118–234, title III, § 331, Jan. 4, 2025, 138 Stat. 2911.)
 
 ### Part C—Recreation Not Red Tape
 
-#### § 8571. Good neighbor authority for recreation
+#### § 8571. Good neighbor authority for recreation
 
 **(a) Definitions** In this section:
 
@@ -2849,7 +2849,7 @@ The Secretary concerned may provide financial or technical assistance to a Gover
 
 Any decision required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any authorized recreation services to be provided under this section on Federal land shall not be delegated to a Governor, Indian Tribe, or county.
 
-(Pub. L. 118–234, title III, § 351, Jan. 4, 2025, 138 Stat. 2915.)
+(Pub. L. 118–234, title III, § 351, Jan. 4, 2025, 138 Stat. 2915.)
 
 **Editorial Notes**
 
@@ -2857,13 +2857,13 @@ Any decision required to be made under the National Environmental Policy Act of 
 
 This subchapter, referred to in subsecs. (a)(5) and (b)(1), was in the original “this title”, meaning title III of Pub. L. 118–234, Jan. 4, 2025, 138 Stat. 2891, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
 Section is comprised of section 351 of Pub. L. 118–234. Subsec. (b)(3)(B) of section 351 of Pub. L. 118–234 amended section 2113a of this title.
 
-#### § 8572. Permit relief for picnic areas
+#### § 8572. Permit relief for picnic areas
 
 **(a) In general**
 
@@ -2873,9 +2873,9 @@ If the Secretary concerned does not require the public to obtain a permit or res
 
 In this section, the term “covered person” means a person (including an educational group) that provides outfitting and guiding services to fewer than 40 customers per year at a picnic area described in subsection (a).
 
-(Pub. L. 118–234, title III, § 352, Jan. 4, 2025, 138 Stat. 2916.)
+(Pub. L. 118–234, title III, § 352, Jan. 4, 2025, 138 Stat. 2916.)
 
-#### § 8573. Interagency report on special recreation permits for underserved communities
+#### § 8573. Interagency report on special recreation permits for underserved communities
 
 **(a) Covered community defined** In this section, the term “covered community” means a rural or urban community, including an Indian Tribe, that is—
 
@@ -2895,13 +2895,13 @@ In this section, the term “covered person” means a person (including an educ
 
 **(5)** any recommendations to facilitate and increase permitted access to Federal recreational lands and waters for covered communities.
 
-(Pub. L. 118–234, title III, § 353, Jan. 4, 2025, 138 Stat. 2917.)
+(Pub. L. 118–234, title III, § 353, Jan. 4, 2025, 138 Stat. 2917.)
 
-#### § 8574. Savings provision
+#### § 8574. Savings provision
 
 No additional Federal funds are authorized to carry out the requirements of this Act and the activities authorized by this Act are subject to the availability of appropriations made in advance for such purposes.
 
-(Pub. L. 118–234, title III, § 355, Jan. 4, 2025, 138 Stat. 2917.)
+(Pub. L. 118–234, title III, § 355, Jan. 4, 2025, 138 Stat. 2917.)
 
 **Editorial Notes**
 

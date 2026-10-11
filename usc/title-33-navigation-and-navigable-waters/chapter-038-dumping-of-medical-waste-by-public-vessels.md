@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38—DUMPING OF MEDICAL WASTE BY PUBLIC VESSELS
 
-## § 2501. Findings
+## § 2501. Findings
 
 The Congress finds the following:
 
@@ -25,15 +25,15 @@ The Congress finds the following:
 
 **(3)** Operators of such vessels must take immediate action to stop disposing of such wastes into ocean waters.
 
-(Pub. L. 100–688, title III, § 3102, Nov. 18, 1988, 102 Stat. 4152.)
+(Pub. L. 100–688, title III, § 3102, Nov. 18, 1988, 102 Stat. 4152.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–688, title III, § 3101, Nov. 18, 1988, 102 Stat. 4152, provided that: “This subtitle [subtitle A (§§ 3101–3105) of title III of Pub. L. 100–688, enacting this chapter] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
+Pub. L. 100–688, title III, § 3101, Nov. 18, 1988, 102 Stat. 4152, provided that: “This subtitle [subtitle A (§§ 3101–3105) of title III of Pub. L. 100–688, enacting this chapter] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
 
-## § 2502. Definitions
+## § 2502. Definitions
 
 For the purposes of this chapter:
 
@@ -45,9 +45,9 @@ The term “potentially infectious medical waste” includes isolation wastes; i
 
 The term “public vessel” means a vessel of any type whatsoever (including hydrofoils, air-cushion vehicles, submersibles, floating craft whether propelled or not, and fixed or floating platforms) that is owned, or demise chartered, and operated by the United States Government, and is not engaged in commercial service.
 
-(Pub. L. 100–688, title III, § 3103, Nov. 18, 1988, 102 Stat. 4152.)
+(Pub. L. 100–688, title III, § 3103, Nov. 18, 1988, 102 Stat. 4152.)
 
-## § 2503. Prohibition
+## § 2503. Prohibition
 
 After 6 months after November 18, 1988, no public vessel shall dispose of potentially infectious medical waste into ocean waters unless—
 
@@ -65,10 +65,10 @@ After 6 months after November 18, 1988, no public vessel shall dispose of potent
 
 **(B)** in the case of a public vessel which is a submersible, the waste is properly packaged and sufficiently weighted to prevent the waste from coming ashore after disposal.
 
-(Pub. L. 100–688, title III, § 3104, Nov. 18, 1988, 102 Stat. 4152.)
+(Pub. L. 100–688, title III, § 3104, Nov. 18, 1988, 102 Stat. 4152.)
 
-## § 2504. Guidance
+## § 2504. Guidance
 
 Not later than 3 months after November 18, 1988, the Secretary of Defense and the head of each affected agency, in consultation with the Administrator of the Environmental Protection Agency, shall each issue guidance for public vessels under the jurisdiction of their agency regarding implementation of section 2503 of this title.
 
-(Pub. L. 100–688, title III, § 3105, Nov. 18, 1988, 102 Stat. 4153.)
+(Pub. L. 100–688, title III, § 3105, Nov. 18, 1988, 102 Stat. 4153.)

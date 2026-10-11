@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 66—TAKE PRIDE IN AMERICA PROGRAM
 
-## § 4601. Establishment of Take Pride in America Program
+## § 4601. Establishment of Take Pride in America Program
 
 **(a) In general**
 
@@ -33,7 +33,7 @@ There is hereby established the Take Pride in America Program within the Departm
 
 **(2)** To conduct a national awards program to honor those individuals and entities which, in the opinion of the Secretary of the Interior (hereafter in this chapter referred to as the “Secretary”), have distinguished themselves in the activities described in paragraph (1) of this subsection.
 
-(Pub. L. 101–628, title XI, § 1102, Nov. 28, 1990, 104 Stat. 4502.)
+(Pub. L. 101–628, title XI, § 1102, Nov. 28, 1990, 104 Stat. 4502.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 **Short Title**
 
-Pub. L. 101–628, title XI, § 1101, Nov. 28, 1990, 104 Stat. 4502, provided that: “This title [enacting this chapter] may be cited as the ‘Take Pride in America Act’.”
+Pub. L. 101–628, title XI, § 1101, Nov. 28, 1990, 104 Stat. 4502, provided that: “This title [enacting this chapter] may be cited as the ‘Take Pride in America Act’.”
 
-## § 4602. Gifts and bequests
+## § 4602. Gifts and bequests
 
 **(a) Authority**
 
@@ -65,15 +65,15 @@ For purposes of Federal law, property accepted pursuant to this section shall be
 
 Any property and the proceeds thereof shall be used as nearly as practicable in accordance with the terms of the gift or bequest.
 
-(Pub. L. 101–628, title XI, § 1103, Nov. 28, 1990, 104 Stat. 4502.)
+(Pub. L. 101–628, title XI, § 1103, Nov. 28, 1990, 104 Stat. 4502.)
 
-## § 4603. Administrative services
+## § 4603. Administrative services
 
 The Secretary of the Interior shall provide such facilities, administrative services, personnel, and support to the TPIA Program as the Secretary determines is necessary and appropriate.
 
-(Pub. L. 101–628, title XI, § 1104, Nov. 28, 1990, 104 Stat. 4502.)
+(Pub. L. 101–628, title XI, § 1104, Nov. 28, 1990, 104 Stat. 4502.)
 
-## § 4604. Volunteers
+## § 4604. Volunteers
 
 **(a) Authority to use volunteers**
 
@@ -91,27 +91,27 @@ The Secretary is authorized to provide for the incidental expenses of such volun
 
 **(3)** For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a volunteer under this subsection shall be considered an employee (as defined in section 8101 of title 5).
 
-(Pub. L. 101–628, title XI, § 1105, Nov. 28, 1990, 104 Stat. 4502.)
+(Pub. L. 101–628, title XI, § 1105, Nov. 28, 1990, 104 Stat. 4502.)
 
-## § 4605. Authority to execute contracts
+## § 4605. Authority to execute contracts
 
 The Secretary is authorized to enter into contracts and cooperative agreements and generally to do any and all lawful acts necessary or appropriate to further the purposes of the TPIA Program.
 
-(Pub. L. 101–628, title XI, § 1106, Nov. 28, 1990, 104 Stat. 4503.)
+(Pub. L. 101–628, title XI, § 1106, Nov. 28, 1990, 104 Stat. 4503.)
 
-## § 4606. Distribution of appropriate items
+## § 4606. Distribution of appropriate items
 
 The Secretary is authorized to distribute pamphlets and other such appropriate items in order to promote the purposes of the TPIA Program.
 
-(Pub. L. 101–628, title XI, § 1107, Nov. 28, 1990, 104 Stat. 4503.)
+(Pub. L. 101–628, title XI, § 1107, Nov. 28, 1990, 104 Stat. 4503.)
 
-## § 4607. Slogan and logo
+## § 4607. Slogan and logo
 
 The “Take Pride in America” slogan and logo, which are registered by the Department of the Interior, and the goodwill associated with such slogan and logo, shall be administered pursuant to the TPIA Program.
 
-(Pub. L. 101–628, title XI, § 1108, Nov. 28, 1990, 104 Stat. 4503.)
+(Pub. L. 101–628, title XI, § 1108, Nov. 28, 1990, 104 Stat. 4503.)
 
-## § 4608. Authorization of appropriations
+## § 4608. Authorization of appropriations
 
 **(a) Department of the Interior**
 
@@ -121,4 +121,4 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 There are authorized to be appropriated to other Federal departments and agencies such sums as may be necessary to carry out the provisions of any other Take Pride in America programs established by such departments or agencies.
 
-(Pub. L. 101–628, title XI, § 1109, Nov. 28, 1990, 104 Stat. 4503.)
+(Pub. L. 101–628, title XI, § 1109, Nov. 28, 1990, 104 Stat. 4503.)

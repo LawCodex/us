@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 84—NATIONAL NUTRITION MONITORING AND RELATED RESEARCH
 
-## § 5301. Congressional statement of purposes
+## § 5301. Congressional statement of purposes
 
 The purposes of this chapter are to—
 
@@ -33,15 +33,15 @@ The purposes of this chapter are to—
 
 **(7)** provide for the conduct of such scientific research and development as may be necessary or appropriate in support of such purposes.
 
-(Pub. L. 101–445, § 2, Oct. 22, 1990, 104 Stat. 1034.)
+(Pub. L. 101–445, § 2, Oct. 22, 1990, 104 Stat. 1034.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–445, § 1, Oct. 22, 1990, 104 Stat. 1034, provided that: “This Act [enacting this chapter] may be cited as the ‘National Nutrition Monitoring and Related Research Act of 1990’.”
+Pub. L. 101–445, § 1, Oct. 22, 1990, 104 Stat. 1034, provided that: “This Act [enacting this chapter] may be cited as the ‘National Nutrition Monitoring and Related Research Act of 1990’.”
 
-## § 5302. Definitions
+## § 5302. Definitions
 
 As used in this chapter—
 
@@ -81,11 +81,11 @@ As used in this chapter—
 
 **(9)** the term “Secretaries” means the Secretary of Agriculture and the Secretary of Health and Human Services, acting jointly.
 
-(Pub. L. 101–445, § 3, Oct. 22, 1990, 104 Stat. 1035.)
+(Pub. L. 101–445, § 3, Oct. 22, 1990, 104 Stat. 1035.)
 
 ## SUBCHAPTER I—NUTRITION MONITORING AND RELATED RESEARCH
 
-### § 5311. Establishment of coordinated program
+### § 5311. Establishment of coordinated program
 
 **(a) In general**
 
@@ -105,9 +105,9 @@ To assist in implementing the coordinated program, there is established an Inter
 
 **(2)** administer the coordinated program with the advice and counsel of the joint chairpersons of the Board, serve as the focal point for the coordinated program, and serve as the Executive Secretary for the National Nutrition Monitoring Advisory Council.
 
-(Pub. L. 101–445, title I, § 101, Oct. 22, 1990, 104 Stat. 1035.)
+(Pub. L. 101–445, title I, § 101, Oct. 22, 1990, 104 Stat. 1035.)
 
-### § 5311a. Joint nutrition monitoring and related research activities
+### § 5311a. Joint nutrition monitoring and related research activities
 
 The Secretary and the Secretary of Health and Human Services shall continue to provide jointly for national nutrition monitoring and related research activities carried out as of the date of enactment of this Act—
 
@@ -123,7 +123,7 @@ The Secretary and the Secretary of Health and Human Services shall continue to p
 
 **(6)** to research and develop data collection methods and standards.
 
-(Pub. L. 110–234, title IV, § 4403, May 22, 2008, 122 Stat. 1137; Pub. L. 110–246, § 4(a), title IV, § 4403, June 18, 2008, 122 Stat. 1664, 1898.)
+(Pub. L. 110–234, title IV, § 4403, May 22, 2008, 122 Stat. 1137; Pub. L. 110–246, § 4(a), title IV, § 4403, June 18, 2008, 122 Stat. 1664, 1898.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 5312. Functions of Secretaries
+### § 5312. Functions of Secretaries
 
 **(a) In general** The Secretaries, with the advice of the Board, shall—
 
@@ -191,7 +191,7 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 **(5)** include an executive summary of the report most recently published by the scientific body, as provided for in subsection (a)(8).
 
-(Pub. L. 101–445, title I, § 102, Oct. 22, 1990, 104 Stat. 1036.)
+(Pub. L. 101–445, title I, § 102, Oct. 22, 1990, 104 Stat. 1036.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -199,7 +199,7 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section requiring submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 31 of House Document No. 103–7.
 
-### § 5313. Development of comprehensive plan for National Nutrition Monitoring and Related Research Program
+### § 5313. Development of comprehensive plan for National Nutrition Monitoring and Related Research Program
 
 **(a) Comprehensive plan** The Secretaries, with the advice of the Board, shall prepare and implement a comprehensive plan for the coordinated program which shall be designed to—
 
@@ -275,9 +275,9 @@ Within sixty days after the comment period under paragraph (1) expires, and afte
 
 **(2)** the obligations of such department or agency with respect to the use of such funds.
 
-(Pub. L. 101–445, title I, § 103, Oct. 22, 1990, 104 Stat. 1037.)
+(Pub. L. 101–445, title I, § 103, Oct. 22, 1990, 104 Stat. 1037.)
 
-### § 5314. Implementation of comprehensive plan
+### § 5314. Implementation of comprehensive plan
 
 **(a) In general** The comprehensive plan shall be carried out during the period ending with the close of the ninth fiscal year following the fiscal year in which the comprehensive plan is submitted in its final form under section 5313(d)(2) of this title and shall be—
 
@@ -291,15 +291,15 @@ Within sixty days after the comment period under paragraph (1) expires, and afte
 
 Nothing in this subchapter may be construed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
 
-(Pub. L. 101–445, title I, § 104, Oct. 22, 1990, 104 Stat. 1040.)
+(Pub. L. 101–445, title I, § 104, Oct. 22, 1990, 104 Stat. 1040.)
 
-### § 5315. Scientific research and development in support of coordinated program and comprehensive plan
+### § 5315. Scientific research and development in support of coordinated program and comprehensive plan
 
 The Secretaries shall coordinate the conduct of, and may contract with the National Science Foundation, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and other suitable Federal agencies for, such scientific research and development as may be necessary or appropriate in support of the coordinated program and the comprehensive plan and in furtherance of the purposes and objectives of this chapter.
 
-(Pub. L. 101–445, title I, § 105, Oct. 22, 1990, 104 Stat. 1040.)
+(Pub. L. 101–445, title I, § 105, Oct. 22, 1990, 104 Stat. 1040.)
 
-### § 5316. Annual budget submission
+### § 5316. Annual budget submission
 
 **(a) Annual report** The President, at the same time as the submission of the annual budget to the Congress, shall submit a report to the Committees on Agriculture and Science, Space, and Technology of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Governmental Affairs of the Senate on expenditures required for carrying out the coordinated program and implementing the comprehensive plan. The report shall detail, for each of the agencies that are allocated responsibilities under the coordinated program—
 
@@ -315,7 +315,7 @@ The Secretaries shall coordinate the conduct of, and may contract with the Natio
 
 **(2)** limit the authority of any of the participating agencies to request and receive funds for such purposes (for use in the coordinated program) under other laws.
 
-(Pub. L. 101–445, title I, § 106, Oct. 22, 1990, 104 Stat. 1040.)
+(Pub. L. 101–445, title I, § 106, Oct. 22, 1990, 104 Stat. 1040.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -325,11 +325,11 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (a) of this section is listed on page 31), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (a) of this section is listed on page 31), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 ## SUBCHAPTER II—NATIONAL NUTRITION MONITORING ADVISORY COUNCIL
 
-### § 5331. Structure of Council
+### § 5331. Structure of Council
 
 **(a) In general**
 
@@ -395,7 +395,7 @@ The Administrator of Nutrition Monitoring and Related Research (if appointed und
 
 The Council shall terminate 10 years after the final comprehensive plan is prepared under section 5313 of this title.
 
-(Pub. L. 101–445, title II, § 201, Oct. 22, 1990, 104 Stat. 1041.)
+(Pub. L. 101–445, title II, § 201, Oct. 22, 1990, 104 Stat. 1041.)
 
 **Executive Documents**
 
@@ -449,7 +449,7 @@ Sec. 7. The Council shall terminate 10 years after the final comprehensive plan 
 
 George Bush.
 
-### § 5332. Functions of Council
+### § 5332. Functions of Council
 
 The Council shall—
 
@@ -465,11 +465,11 @@ The Council shall—
 
 **(B)** shall be included in full in the biennial reports of the Secretaries to the President for transmittal to Congress under section 5312(b) of this title.
 
-(Pub. L. 101–445, title II, § 202, Oct. 22, 1990, 104 Stat. 1042.)
+(Pub. L. 101–445, title II, § 202, Oct. 22, 1990, 104 Stat. 1042.)
 
 ## SUBCHAPTER III—DIETARY GUIDANCE
 
-### § 5341. Establishment of dietary guidelines
+### § 5341. Establishment of dietary guidelines
 
 **(a) Report**
 
@@ -531,26 +531,26 @@ For purposes of this subsection, the term “identified population subgroups” 
 
 **(2)** the presentation of any scientific or medical findings or the exchange or review of scientific or medical information by any Federal agency; or
 
-**(3)** the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321 1
+**(3)** the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321 1
 
-<sup>1</sup>  So in original. Probably should be “301”.
+<sup>1</sup> So in original. Probably should be “301”.
 
 et seq.).
 
-(Pub. L. 101–445, title III, § 301, Oct. 22, 1990, 104 Stat. 1042; Pub. L. 113–79, title IV, § 4204, Feb. 7, 2014, 128 Stat. 822.)
+(Pub. L. 101–445, title III, § 301, Oct. 22, 1990, 104 Stat. 1042; Pub. L. 113–79, title IV, § 4204, Feb. 7, 2014, 128 Stat. 822.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
 2014—Subsec. (a)(3). Pub. L. 113–79 added par. (3).
 
-### § 5342. Nutrition training report
+### § 5342. Nutrition training report
 
 The Secretary of Health and Human Services, in consultation with the Secretaries of Agriculture, Education, and Defense, and the Director of the National Science Foundation, shall submit, within one year after October 22, 1990, a report describing the appropriate Federal role in assuring that students enrolled in United States medical schools and physicians practicing in the United States have access to adequate training in the field of nutrition and its relationship to human health.
 
-(Pub. L. 101–445, title III, § 302, Oct. 22, 1990, 104 Stat. 1044.)
+(Pub. L. 101–445, title III, § 302, Oct. 22, 1990, 104 Stat. 1044.)

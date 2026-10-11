@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 321 “RESEARCH AND DEVELOPMENT GENERALLY”, consisting of reserved section 4201, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior chapter 321 “RESEARCH AND DEVELOPMENT GENERALLY”, consisting of reserved section 4201, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Enhanced Domestic Content Requirement for Major Defense Acquisition Programs**
 
-Pub. L. 118–31, div. A, title VIII, § 835, Dec. 22, 2023, 137 Stat. 338, provided that:
+Pub. L. 118–31, div. A, title VIII, § 835, Dec. 22, 2023, 137 Stat. 338, provided that:
 
 > **“(a) Assessment Required.—**
 
@@ -67,11 +67,11 @@ Pub. L. 118–31, div. A, title VIII, § 835, Dec. 22, 2023, 137 Stat. 338, pr
 
 **Penalty for Cost Overruns**
 
-Pub. L. 114–92, div. A, title VIII, § 828, Nov. 25, 2015, 129 Stat. 910, as amended by Pub. L. 115–91, div. A, title VIII, § 825, Dec. 12, 2017, 131 Stat. 1466; Pub. L. 115–232, div. A, title X, § 1081(d), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, § 805(a), (b)(2), Dec. 20, 2019, 133 Stat. 1485, which required the Secretary of each military department to pay a penalty for cost overruns on the covered major defense acquisition programs of the military department for fiscal years 2018 and 2019, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(D), Dec. 23, 2024, 138 Stat. 1979.
+Pub. L. 114–92, div. A, title VIII, § 828, Nov. 25, 2015, 129 Stat. 910, as amended by Pub. L. 115–91, div. A, title VIII, § 825, Dec. 12, 2017, 131 Stat. 1466; Pub. L. 115–232, div. A, title X, § 1081(d), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, § 805(a), (b)(2), Dec. 20, 2019, 133 Stat. 1485, which required the Secretary of each military department to pay a penalty for cost overruns on the covered major defense acquisition programs of the military department for fiscal years 2018 and 2019, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(D), Dec. 23, 2024, 138 Stat. 1979.
 
-[Pub. L. 115–91, div. A, title VIII, § 825(b), Dec. 12, 2017, 131 Stat. 1466, which provided that the requirements of section 828 of Pub. L. 114–92, as in effect on the day before Dec. 12, 2017, would continue to apply with respect to fiscal years beginning on or before Oct. 1, 2016, was repealed by Pub. L. 116–92, div. A, title VIII, § 805(b)(1), Dec. 20, 2019, 133 Stat. 1485.]
+[Pub. L. 115–91, div. A, title VIII, § 825(b), Dec. 12, 2017, 131 Stat. 1466, which provided that the requirements of section 828 of Pub. L. 114–92, as in effect on the day before Dec. 12, 2017, would continue to apply with respect to fiscal years beginning on or before Oct. 1, 2016, was repealed by Pub. L. 116–92, div. A, title VIII, § 805(b)(1), Dec. 20, 2019, 133 Stat. 1485.]
 
-## § 4201. Major defense acquisition programs: definition; exceptions
+## § 4201. Major defense acquisition programs: definition; exceptions
 
 **(a) Definition.—** Except as provided under subsection (b), in this part, the term “major defense acquisition program” means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
 
@@ -89,11 +89,11 @@ Pub. L. 114–92, div. A, title VIII, § 828, Nov. 25, 2015, 129 Stat. 910, as
 
 **(2)** An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2223a note).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** An acquisition program for software and covered hardware as described by section 3603 of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (c), Jan. 1, 2021, 134 Stat. 4248; Pub. L. 118–159, div. A, title VIII, § 804(c)(2), Dec. 23, 2024, 138 Stat. 1968; Pub. L. 119–60, div. A, title VIII, § 812(a)(9), title XVIII, § 1804(d), Dec. 18, 2025, 139 Stat. 952, 1235.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (c), Jan. 1, 2021, 134 Stat. 4248; Pub. L. 118–159, div. A, title VIII, § 804(c)(2), Dec. 23, 2024, 138 Stat. 1968; Pub. L. 119–60, div. A, title VIII, § 812(a)(9), title XVIII, § 1804(d), Dec. 18, 2025, 139 Stat. 952, 1235.)
 
 **Editorial Notes**
 
@@ -103,23 +103,23 @@ Section 883(e) of the National Defense Authorization Act for Fiscal Year 2016, r
 
 **Codification**
 
-The text of subsec. (a) of section 2430 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1846(c)(1), was based on Pub. L. 100–26, § 7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; Pub. L. 102–484, div. A, title VIII, § 817(b)(1), (2), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 111–23, title II, § 206(b)(1), May 22, 2009, 123 Stat. 1728; Pub. L. 114–328, div. A, title VIII, § 847(a), Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–91, div. A, title VIII, § 831, Dec. 12, 2017, 131 Stat. 1467.
+The text of subsec. (a) of section 2430 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1846(c)(1), was based on Pub. L. 100–26, § 7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; Pub. L. 102–484, div. A, title VIII, § 817(b)(1), (2), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 111–23, title II, § 206(b)(1), May 22, 2009, 123 Stat. 1728; Pub. L. 114–328, div. A, title VIII, § 847(a), Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–91, div. A, title VIII, § 831, Dec. 12, 2017, 131 Stat. 1467.
 
 **Amendments**
 
-2025—Subsec. (a)(2)(A). Pub. L. 119–60, § 1804(d)(1), substituted “$1,000,000,000 (based on fiscal year 2024 constant dollars)” for “$300,000,000 (based on fiscal year 1990 constant dollars)”.
+2025—Subsec. (a)(2)(A). Pub. L. 119–60, § 1804(d)(1), substituted “$1,000,000,000 (based on fiscal year 2024 constant dollars)” for “$300,000,000 (based on fiscal year 1990 constant dollars)”.
 
-Subsec. (a)(2)(B). Pub. L. 119–60, § 1804(d)(2), substituted “$4,500,000,000 (based on fiscal year 2024 constant dollars)” for “$1,800,000,000 (based on fiscal year 1990 constant dollars)”.
+Subsec. (a)(2)(B). Pub. L. 119–60, § 1804(d)(2), substituted “$4,500,000,000 (based on fiscal year 2024 constant dollars)” for “$1,800,000,000 (based on fiscal year 1990 constant dollars)”.
 
-Subsec. (b)(3). Pub. L. 119–60, § 812(a)(9), added par. (3).
+Subsec. (b)(3). Pub. L. 119–60, § 812(a)(9), added par. (3).
 
 2024—Subsec. (b)(1). Pub. L. 118–159, which directed substitution of “section 3602 of this title” for “section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.)”, was executed by making the substitution for “section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note)” to reflect the probable intent of Congress.
 
-2021—Pub. L. 116–283, § 1846(c)(1), transferred subsec. (a) of section 2430 of this title to this section, struck out par. (1) designation, inserted subsec. (a) heading, substituted “under subsection (b), in this part” for “under paragraph (2), in this chapter”, redesignated par. (2) as subsec. (b) and subpars. (A) and (B) of subsecs. (a) and (b) as pars. (1) and (2) of subsecs. (a) and (b), respectively, inserted subsec. (b) heading, and substituted “In this part” for “In this chapter” in introductory provisions of subsec. (b).
+2021—Pub. L. 116–283, § 1846(c)(1), transferred subsec. (a) of section 2430 of this title to this section, struck out par. (1) designation, inserted subsec. (a) heading, substituted “under subsection (b), in this part” for “under paragraph (2), in this chapter”, redesignated par. (2) as subsec. (b) and subpars. (A) and (B) of subsecs. (a) and (b) as pars. (1) and (2) of subsecs. (a) and (b), respectively, inserted subsec. (b) heading, and substituted “In this part” for “In this chapter” in introductory provisions of subsec. (b).
 
-Subsec. (a)(2). Pub. L. 116–283, § 1846(c)(2), substituted “to require—” for “to require”, inserted subpar. (A) designation before “an eventual total expenditure for research” and subpar. (B) designation before “an eventual total expenditure for procurement” and substituted “dollars); or” for “dollars) or”.
+Subsec. (a)(2). Pub. L. 116–283, § 1846(c)(2), substituted “to require—” for “to require”, inserted subpar. (A) designation before “an eventual total expenditure for research” and subpar. (B) designation before “an eventual total expenditure for procurement” and substituted “dollars); or” for “dollars) or”.
 
-Subsec. (b). Pub. L. 116–283, § 1846(c)(3), in introductory provisions, substituted “include the following:” for “include—”, in par. (1), substituted “An” for “an” and period at end for “; or” and in par. (2), substituted “An” for “an”.
+Subsec. (b). Pub. L. 116–283, § 1846(c)(3), in introductory provisions, substituted “include the following:” for “include—”, in par. (1), substituted “An” for “an” and period at end for “; or” and in par. (2), substituted “An” for “an”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -127,7 +127,7 @@ Subsec. (b). Pub. L. 116–283, § 1846(c)(3), in introductory provisions, sub
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4202. Authority to increase definitional threshold amounts: major defense acquisition programs; major systems
+## § 4202. Authority to increase definitional threshold amounts: major defense acquisition programs; major systems
 
 **(a) Adjustments to Thresholds for Major Defense Acquisition Programs.—**
 
@@ -151,37 +151,37 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Notification to Congressional Committees.—** An adjustment under subsection (a) or (b) shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the adjustment.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (d), (e), Jan. 1, 2021, 134 Stat. 4248, 4249.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (d), (e), Jan. 1, 2021, 134 Stat. 4248, 4249.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsecs. (b) and (c) of section 2430 of this title, which was transferred to this section, redesignated as pars. (1) and (2) of subsec. (a), respectively, and amended by Pub. L. 116–283, § 1846(d)(1), (2)(A), was based on Pub. L. 102–484, div. A, title VIII, § 817(b)(3), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, § 206(b)(2), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, § 1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1081(a)(38), Dec. 12, 2017, 131 Stat. 1596.
+The text of subsecs. (b) and (c) of section 2430 of this title, which was transferred to this section, redesignated as pars. (1) and (2) of subsec. (a), respectively, and amended by Pub. L. 116–283, § 1846(d)(1), (2)(A), was based on Pub. L. 102–484, div. A, title VIII, § 817(b)(3), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, § 206(b)(2), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, § 1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, § 1081(a)(38), Dec. 12, 2017, 131 Stat. 1596.
 
-The text of subsec. (c) of section 2302d of this title, which was transferred to this section and redesignated as subsecs. (b) and (c) by Pub. L. 116–283, § 1846(e)(1), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.
+The text of subsec. (c) of section 2302d of this title, which was transferred to this section and redesignated as subsecs. (b) and (c) by Pub. L. 116–283, § 1846(e)(1), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1846(d)(2)(A), (B), inserted subsec. heading and par. (1) designation and heading before “The Secretary” and substituted “in section 4201(a)(2) of this title” for “in subsection (a)(1)(B)”.
+2021—Subsec. (a). Pub. L. 116–283, § 1846(d)(2)(A), (B), inserted subsec. heading and par. (1) designation and heading before “The Secretary” and substituted “in section 4201(a)(2) of this title” for “in subsection (a)(1)(B)”.
 
-Pub. L. 116–283, § 1846(d)(1), transferred subsecs. (b) and (c) of section 2430 of this title to this section, redesignated subsec. (b) and subsec. (c) and its pars. (1) to (4) as subsec. (a) and subsec. (a)(2) and its subpars. (A) to (D), respectively, realigned margin of subsec. (a)(2), and struck out second sentence of subsec. (a)(1) as redesignated which read as follows: “An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.”
+Pub. L. 116–283, § 1846(d)(1), transferred subsecs. (b) and (c) of section 2430 of this title to this section, redesignated subsec. (b) and subsec. (c) and its pars. (1) to (4) as subsec. (a) and subsec. (a)(2) and its subpars. (A) to (D), respectively, realigned margin of subsec. (a)(2), and struck out second sentence of subsec. (a)(1) as redesignated which read as follows: “An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.”
 
-Subsec. (a)(2). Pub. L. 116–283, § 1846(d)(2)(C)(i), (ii), inserted par. heading before “For purposes of” and substituted “section 4201(a)(2) of this title” for “subsection (a)(1)(B)”.
+Subsec. (a)(2). Pub. L. 116–283, § 1846(d)(2)(C)(i), (ii), inserted par. heading before “For purposes of” and substituted “section 4201(a)(2) of this title” for “subsection (a)(1)(B)”.
 
-Subsec. (a)(2)(B). Pub. L. 116–283, § 1846(d)(2)(C)(iii), substituted “section 4251(a)(6)” for “section 2366a(a)(6)”.
+Subsec. (a)(2)(B). Pub. L. 116–283, § 1846(d)(2)(C)(iii), substituted “section 4251(a)(6)” for “section 2366a(a)(6)”.
 
-Subsec. (a)(2)(C). Pub. L. 116–283, § 1846(d)(2)(C)(iv), substituted “section 4252(a)(1)(C)” for “section 2366b(a)(1)(C)”.
+Subsec. (a)(2)(C). Pub. L. 116–283, § 1846(d)(2)(C)(iv), substituted “section 4252(a)(1)(C)” for “section 2366b(a)(1)(C)”.
 
-Subsec. (a)(2)(D). Pub. L. 116–283, § 1846(d)(2)(C)(v), substituted “section 4214” for “section 2435”.
+Subsec. (a)(2)(D). Pub. L. 116–283, § 1846(d)(2)(C)(v), substituted “section 4214” for “section 2435”.
 
-Subsec. (b). Pub. L. 116–283, § 1846(e)(2), substituted “Adjustment Authority for Major Systems” for “Adjustment Authority” in subsec. heading, inserted par. headings, substituted “section 3041(c)(1) of this title” for “subsection (a)” in par. (1), and realigned margins of par. (2).
+Subsec. (b). Pub. L. 116–283, § 1846(e)(2), substituted “Adjustment Authority for Major Systems” for “Adjustment Authority” in subsec. heading, inserted par. headings, substituted “section 3041(c)(1) of this title” for “subsection (a)” in par. (1), and realigned margins of par. (2).
 
-Pub. L. 116–283, § 1846(e)(1), transferred subsec. (c) of section 2302d of this title to subsec. (b) of this section and redesignated par. (3) as subsec. (c).
+Pub. L. 116–283, § 1846(e)(1), transferred subsec. (c) of section 2302d of this title to subsec. (b) of this section and redesignated par. (3) as subsec. (c).
 
-Subsec. (c). Pub. L. 116–283, § 1846(e)(3), inserted heading and substituted “under subsection (a) or (b)” for “under this subsection” in text.
+Subsec. (c). Pub. L. 116–283, § 1846(e)(3), inserted heading and substituted “under subsection (a) or (b)” for “under this subsection” in text.
 
-Pub. L. 116–283, § 1846(e)(1)(B), redesignated par. (3) of subsec. (b) as subsec. (c).
+Pub. L. 116–283, § 1846(e)(1)(B), redesignated par. (3) of subsec. (b) as subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,7 +189,7 @@ Pub. L. 116–283, § 1846(e)(1)(B), redesignated par. (3) of subsec. (b) as s
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4203. Major subprograms
+## § 4203. Major subprograms
 
 **(a) Authority To Designate Major Subprograms as Subject to Acquisition Reporting Requirements.—**
 
@@ -223,17 +223,17 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(4)** the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(Added Pub. L. 110–417, [div. A], title VIII, § 811(a)(1), Oct. 14, 2008, 122 Stat. 4520, § 2430a; amended Pub. L. 111–383, div. A, title VIII, § 814(a), Jan. 7, 2011, 124 Stat. 4266; Pub. L. 112–81, div. A, title IX, § 912, Dec. 31, 2011, 125 Stat. 1536; Pub. L. 114–328, div. A, title VIII, § 850, Dec. 23, 2016, 130 Stat. 2295; renumbered § 4203 and amended Pub. L. 116–283, div. A, title XVIII, § 1846(g), Jan. 1, 2021, 134 Stat. 4251; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(B)(ii), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 110–417, [div. A], title VIII, § 811(a)(1), Oct. 14, 2008, 122 Stat. 4520, § 2430a; amended Pub. L. 111–383, div. A, title VIII, § 814(a), Jan. 7, 2011, 124 Stat. 4266; Pub. L. 112–81, div. A, title IX, § 912, Dec. 31, 2011, 125 Stat. 1536; Pub. L. 114–328, div. A, title VIII, § 850, Dec. 23, 2016, 130 Stat. 2295; renumbered § 4203 and amended Pub. L. 116–283, div. A, title XVIII, § 1846(g), Jan. 1, 2021, 134 Stat. 4251; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(B)(ii), Dec. 27, 2021, 135 Stat. 2147.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1846(g)(2), substituted “this subpart” for “this chapter” wherever appearing.
+2021—Pub. L. 116–283, § 1846(g)(2), substituted “this subpart” for “this chapter” wherever appearing.
 
-Pub. L. 116–283, § 1846(g), renumbered section 2430a of this title as this section.
+Pub. L. 116–283, § 1846(g), renumbered section 2430a of this title as this section.
 
-Subsec. (d). Pub. L. 116–283, § 1846(g)(1), as amended by Pub. L. 117–81, § 1701(*o*)(6)(B)(ii), substituted “section 4351(a)” for “section 2432(a)” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 1846(g)(1), as amended by Pub. L. 117–81, § 1701(*o*)(6)(B)(ii), substituted “section 4351(a)” for “section 2432(a)” in introductory provisions.
 
 2016—Subsec. (a)(1)(B). Pub. L. 114–328, which directed substitution of “major defense acquisition program requires the delivery of two or more increments or blocks” for “major defense acquisition program to purchase satellites requires the delivery of satellites in two or more increments or blocks” in par. (1)(B), was executed by making the substitution in par. (1)(B) of subsec. (a), to reflect the probable intent of Congress.
 
@@ -249,7 +249,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4204. Milestone decision authority
+## § 4204. Milestone decision authority
 
 **(a) Service Acquisition Executive.—** The milestone decision authority for a major defense acquisition program reaching Milestone A after October 1, 2016, shall be the service acquisition executive of the military department that is managing the program, unless the Secretary of Defense designates, under subsection (b), another official to serve as the milestone decision authority.
 
@@ -283,43 +283,43 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(2)** ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (f)(1)–(7), Jan. 1, 2021, 134 Stat. 4248, 4250, 4251; Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(A), (*o*)(6)(B)(i), Dec. 27, 2021, 135 Stat. 2134, 2147; Pub. L. 118–159, div. A, title VIII, § 811(c), Dec. 23, 2024, 138 Stat. 1979.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1846(b), (f)(1)–(7), Jan. 1, 2021, 134 Stat. 4248, 4250, 4251; Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(A), (*o*)(6)(B)(i), Dec. 27, 2021, 135 Stat. 2134, 2147; Pub. L. 118–159, div. A, title VIII, § 811(c), Dec. 23, 2024, 138 Stat. 1979.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (d) of section 2430 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f) and amended by Pub. L. 116–283, § 1846(f)(1), (5)(B), was based on Pub. L. 114–92, div. A, title VIII, § 825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, § 807(b), Dec. 23, 2016, 130 Stat. 2261.
+The text of subsec. (d) of section 2430 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f) and amended by Pub. L. 116–283, § 1846(f)(1), (5)(B), was based on Pub. L. 114–92, div. A, title VIII, § 825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, § 807(b), Dec. 23, 2016, 130 Stat. 2261.
 
 **Amendments**
 
 2024—Subsec. (f). Pub. L. 118–159 struck out subsec. (f). Text read as follows: “The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in subsection (b)(1), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016, and before October 1, 2019.”
 
-2021—Pub. L. 116–283, § 1846(f)(1), transferred subsec. (d) of section 2430 of this title to this section, struck out subsec. designation, and redesignated pars. (1) to (5) as subsecs. (a) to (d), and (f), respectively.
+2021—Pub. L. 116–283, § 1846(f)(1), transferred subsec. (d) of section 2430 of this title to this section, struck out subsec. designation, and redesignated pars. (1) to (5) as subsecs. (a) to (d), and (f), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1846(f)(2), inserted subsec. heading and substituted “under subsection (b)” for “under paragraph (2)”.
+Subsec. (a). Pub. L. 116–283, § 1846(f)(2), inserted subsec. heading and substituted “under subsection (b)” for “under paragraph (2)”.
 
-Subsec. (b). Pub. L. 116–283, § 1846(f)(3)(A)–(C), inserted subsec. heading, substituted “to which any of the following applies:” for “to which—” in introductory provisions, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively.
+Subsec. (b). Pub. L. 116–283, § 1846(f)(3)(A)–(C), inserted subsec. heading, substituted “to which any of the following applies:” for “to which—” in introductory provisions, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1846(f)(3)(D), (G), substituted “Subject to subsection (f)” for “subject to paragraph (5)” and period for semimcolon at end.
+Subsec. (b)(1). Pub. L. 116–283, § 1846(f)(3)(D), (G), substituted “Subject to subsection (f)” for “subject to paragraph (5)” and period for semimcolon at end.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1846(f)(3)(F), (G), substituted “The Secretary” for “the Secretary” and period for semicolon at end.
+Subsec. (b)(2). Pub. L. 116–283, § 1846(f)(3)(F), (G), substituted “The Secretary” for “the Secretary” and period for semicolon at end.
 
-Subsec. (b)(3). Pub. L. 116–283, § 1846(f)(3)(E)–(G), substituted “The program” for “the program”, “sections 4371 through 4375” for “section 2433” and period for semicolon at end.
+Subsec. (b)(3). Pub. L. 116–283, § 1846(f)(3)(E)–(G), substituted “The program” for “the program”, “sections 4371 through 4375” for “section 2433” and period for semicolon at end.
 
-Subsec. (b)(4). Pub. L. 116–283, § 1846(f)(3)(F), (H), substituted “The program” for “the program” and period at end for “; or”.
+Subsec. (b)(4). Pub. L. 116–283, § 1846(f)(3)(F), (H), substituted “The program” for “the program” and period at end for “; or”.
 
-Subsec. (b)(5). Pub. L. 116–283, § 1846(f)(3)(F), substituted “The Secretary” for “the Secretary”.
+Subsec. (b)(5). Pub. L. 116–283, § 1846(f)(3)(F), substituted “The Secretary” for “the Secretary”.
 
-Subsec. (c). Pub. L. 116–283, § 1846(f)(4), inserted subsec. heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, realigned margins, and substituted “under subsection (b)” for “under paragraph (2)” in par. (1) and “sections 4371 through 4375” for “section 2433” in par. (2).
+Subsec. (c). Pub. L. 116–283, § 1846(f)(4), inserted subsec. heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, realigned margins, and substituted “under subsection (b)” for “under paragraph (2)” in par. (1) and “sections 4371 through 4375” for “section 2433” in par. (2).
 
-Subsec. (d). Pub. L. 116–283, § 1846(f)(5), as amended by Pub. L. 117–81, § 1701(*o*)(6)(B)(i), inserted subsec. heading, struck out subpar. (A) designation before “For each”, substituted “under section 4351 of this title—” for “under section 2432 of this title,”, inserted par. (1) designation before “certify that”, substituted “the program; and” for “the program and”, inserted par. (2) designation before “identify and report”, and redesignated subpar. (B) as subsec. (e).
+Subsec. (d). Pub. L. 116–283, § 1846(f)(5), as amended by Pub. L. 117–81, § 1701(*o*)(6)(B)(i), inserted subsec. heading, struck out subpar. (A) designation before “For each”, substituted “under section 4351 of this title—” for “under section 2432 of this title,”, inserted par. (1) designation before “certify that”, substituted “the program; and” for “the program and”, inserted par. (2) designation before “identify and report”, and redesignated subpar. (B) as subsec. (e).
 
-Subsec. (e). Pub. L. 116–283, § 1846(f)(6), as amended by Pub. L. 117–81, § 1701(b)(15)(A), inserted subsec. heading, substituted “programs and shall—” for “programs and shall”, inserted par. (1) designation before “limit outside requirements”, substituted “decision authority; and” for “decision authority and”, and inserted par. (2) designation before “ensure that”.
+Subsec. (e). Pub. L. 116–283, § 1846(f)(6), as amended by Pub. L. 117–81, § 1701(b)(15)(A), inserted subsec. heading, substituted “programs and shall—” for “programs and shall”, inserted par. (1) designation before “limit outside requirements”, substituted “decision authority; and” for “decision authority and”, and inserted par. (2) designation before “ensure that”.
 
-Pub. L. 116–283, § 1846(f)(5)(B), redesignated subpar. (B) of subsec. (d) as subsec. (e).
+Pub. L. 116–283, § 1846(f)(5)(B), redesignated subpar. (B) of subsec. (d) as subsec. (e).
 
-Subsec. (f). Pub. L. 116–283, § 1846(f)(7), inserted subsec. heading and substituted “in subsection (b)(1)” for “in paragraph (2)(A)”.
+Subsec. (f). Pub. L. 116–283, § 1846(f)(7), inserted subsec. heading and substituted “in subsection (b)(1)” for “in paragraph (2)(A)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -331,7 +331,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 note preceding section 3001 of this title.
 
-## § 4205. Weapon systems for which procurement funding requested in budget: development and procurement schedules
+## § 4205. Weapon systems for which procurement funding requested in budget: development and procurement schedules
 
 **(a)** The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
 
@@ -355,55 +355,55 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c)** In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
-(Added Pub. L. 93–155, title VIII, § 803(a), Nov. 16, 1973, 87 Stat. 614, § 139, § 2431; amended Pub. L. 94–106, title VIII, § 805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, § 511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, § 909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, § 3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, § 1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered § 2431 and amended Pub. L. 99–433, title I, §§ 101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, § 1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, § 1301(13), title XIV, § 1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, § 3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(18), Feb. 10, 1996, 110 Stat. 673; renumbered § 4205 and amended Pub. L. 116–283, div. A, title XVIII, § 1846(h), Jan. 1, 2021, 134 Stat. 4251.)
+(Added Pub. L. 93–155, title VIII, § 803(a), Nov. 16, 1973, 87 Stat. 614, § 139, § 2431; amended Pub. L. 94–106, title VIII, § 805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, § 511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, § 909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, § 3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, § 1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered § 2431 and amended Pub. L. 99–433, title I, §§ 101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, § 1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, § 1301(13), title XIV, § 1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, § 3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(18), Feb. 10, 1996, 110 Stat. 673; renumbered § 4205 and amended Pub. L. 116–283, div. A, title XVIII, § 1846(h), Jan. 1, 2021, 134 Stat. 4251.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 92–156, title V, § 506, Nov. 17, 1971, 85 Stat. 429, prior to repeal by Pub. L. 93–155, § 803(b)(2).
+Provisions similar to those in this section were contained in Pub. L. 92–156, title V, § 506, Nov. 17, 1971, 85 Stat. 429, prior to repeal by Pub. L. 93–155, § 803(b)(2).
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1846(h)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: “Weapons development and procurement schedules”.
+2021—Pub. L. 116–283, § 1846(h)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: “Weapons development and procurement schedules”.
 
-Pub. L. 116–283, § 1846(h)(1), renumbered section 2431 of this title as this section.
+Pub. L. 116–283, § 1846(h)(1), renumbered section 2431 of this title as this section.
 
-1996—Subsec. (b). Pub. L. 104–106, § 4321(b)(18)(A)(i), substituted “Any documents” for “Any report” in first sentence.
+1996—Subsec. (b). Pub. L. 104–106, § 4321(b)(18)(A)(i), substituted “Any documents” for “Any report” in first sentence.
 
-Subsec. (b)(3). Pub. L. 104–106, § 4321(b)(18)(A)(ii), substituted “the documents” for “the report”.
+Subsec. (b)(3). Pub. L. 104–106, § 4321(b)(18)(A)(ii), substituted “the documents” for “the report”.
 
-Subsec. (c). Pub. L. 104–106, § 4321(b)(18)(B), substituted “documentation” for “reporting”.
+Subsec. (c). Pub. L. 104–106, § 4321(b)(18)(B), substituted “documentation” for “reporting”.
 
-1994—Subsec. (a). Pub. L. 103–355, § 3001(a), substituted “not later than 45 days after” for “at the same time” and “budget justification documents” for “a written report” in first sentence and “documents” for “report” in second and third sentences.
+1994—Subsec. (a). Pub. L. 103–355, § 3001(a), substituted “not later than 45 days after” for “at the same time” and “budget justification documents” for “a written report” in first sentence and “documents” for “report” in second and third sentences.
 
-Subsec. (b). Pub. L. 103–355, § 3001(b)(1), substituted “include each of the following:” for “include—” in introductory provisions.
+Subsec. (b). Pub. L. 103–355, § 3001(b)(1), substituted “include each of the following:” for “include—” in introductory provisions.
 
-Subsec. (b)(1) to (3). Pub. L. 103–355, § 3001(b)(2)–(4), capitalized first letter of first word in pars. (1) to (3) and substituted period for semicolon at end of pars. (1) and (2) and period for “; and” at end of par. (3).
+Subsec. (b)(1) to (3). Pub. L. 103–355, § 3001(b)(2)–(4), capitalized first letter of first word in pars. (1) to (3) and substituted period for semicolon at end of pars. (1) and (2) and period for “; and” at end of par. (3).
 
-Subsec. (b)(4). Pub. L. 103–355, § 3001(b)(5) amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the most efficient production rate and the most efficient acquisition rate consistent with the program priority established for such weapon system by the Secretary concerned.”
+Subsec. (b)(4). Pub. L. 103–355, § 3001(b)(5) amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the most efficient production rate and the most efficient acquisition rate consistent with the program priority established for such weapon system by the Secretary concerned.”
 
-1990—Subsec. (b). Pub. L. 101–510, § 1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
+1990—Subsec. (b). Pub. L. 101–510, § 1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
 
-Pub. L. 101–510, § 1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplemental report to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
+Pub. L. 101–510, § 1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplemental report to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
 
 “(1) the contractor or contractors for that system have not yet been selected and the Secretary of Defense determines that the submission of that report would adversely affect the source selection process and notifies Congress in writing, prior to such award, of that determination, stating his reasons therefor; or
 
 “(2) the Secretary of Defense determines that the submission of that report would otherwise adversely affect the vital security interests of the United States and notifies Congress in writing of that determination at least 30 days prior to the award, stating his reasons therefor.”
 
-Subsecs. (c), (d). Pub. L. 101–510, § 1301(13)(C), redesignated subsecs. (c) and (d) as (b) and (c), respectively.
+Subsecs. (c), (d). Pub. L. 101–510, § 1301(13)(C), redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-1987—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, § 101(a)(5). See 1986 Amendment note below.
+1987—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, § 101(a)(5). See 1986 Amendment note below.
 
-1986—Pub. L. 99–433, § 101(a)(5), as amended by Pub. L. 100–180, § 1314(a)(1), renumbered section 139 of this title as section 2431.
+1986—Pub. L. 99–433, § 101(a)(5), as amended by Pub. L. 100–180, § 1314(a)(1), renumbered section 139 of this title as section 2431.
 
-Pub. L. 99–433, § 110(d)(12), substituted “Weapons development and procurement schedules” for “Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports” in section catchline.
+Pub. L. 99–433, § 110(d)(12), substituted “Weapons development and procurement schedules” for “Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports” in section catchline.
 
-Subsec. (a). Pub. L. 99–433, § 110(g)(6), substituted “section 114(a)” for “section 138(a)”.
+Subsec. (a). Pub. L. 99–433, § 110(g)(6), substituted “section 114(a)” for “section 138(a)”.
 
-1984—Subsec. (b). Pub. L. 98–525, § 1405(3)(B), substituted “30” for “thirty” and “90” for “ninety” in introductory text.
+1984—Subsec. (b). Pub. L. 98–525, § 1405(3)(B), substituted “30” for “thirty” and “90” for “ninety” in introductory text.
 
-Subsec. (b)(2). Pub. L. 98–525, § 1405(3)(A), substituted “30” for “thirty”.
+Subsec. (b)(2). Pub. L. 98–525, § 1405(3)(A), substituted “30” for “thirty”.
 
 1982—Subsec. (a). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
 
@@ -433,23 +433,23 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Transition of Ballistic Missile Defense Programs to Military Departments**
 
-Pub. L. 115–91, div. A, title XVI, § 1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, § 1679, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1643, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–81, div. A, title XVI, § 1663, Dec. 27, 2021, 135 Stat. 2104; Pub. L. 117–263, div. A, title XVI, § 1655, Dec. 23, 2022, 136 Stat. 2950, directed the Secretary of Defense to transfer, not later than Oct. 1, 2023—except that such requirement to transfer would terminate 60 days after the Secretary submits the report under section 1675(b) of Pub. L. 117–81 (135 Stat. 2113)—the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
+Pub. L. 115–91, div. A, title XVI, § 1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, § 1679, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1643, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–81, div. A, title XVI, § 1663, Dec. 27, 2021, 135 Stat. 2104; Pub. L. 117–263, div. A, title XVI, § 1655, Dec. 23, 2022, 136 Stat. 2950, directed the Secretary of Defense to transfer, not later than Oct. 1, 2023—except that such requirement to transfer would terminate 60 days after the Secretary submits the report under section 1675(b) of Pub. L. 117–81 (135 Stat. 2113)—the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
 
 **Development of Persistent Space-Based Sensor Architecture**
 
-Pub. L. 115–91, div. A, title XVI, § 1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, § 1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160; Pub. L. 116–92, div. A, title XVI, § 1683, Dec. 20, 2019, 133 Stat. 1782; Pub. L. 116–283, div. A, title XVI, § 1645(h), formerly § 1645(g), Jan. 1, 2021, 134 Stat. 4064, renumbered § 1645(h), Pub. L. 117–81, div. A, title XVI, § 1662(b)(1), Dec. 27, 2021, 135 Stat. 2103, directed the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, beginning fiscal year 2019, to develop and rigorously test a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system, to ensure that the sensor architecture developed is compatible with efforts of the Defense Advanced Research Projects Agency relating to space-based sensors for missile defense, to submit to Congress a report on the available options not later than January 31, 2019, to submit to Congress a plan not later than one year after December 12, 2017, and to submit to Congress an update to the plan not later than 90 days after December 20, 2019.
+Pub. L. 115–91, div. A, title XVI, § 1683, Dec. 12, 2017, 131 Stat. 1777, as amended by Pub. L. 115–232, div. A, title XVI, § 1675(a)–(c), (d)(2), Aug. 13, 2018, 132 Stat. 2159, 2160; Pub. L. 116–92, div. A, title XVI, § 1683, Dec. 20, 2019, 133 Stat. 1782; Pub. L. 116–283, div. A, title XVI, § 1645(h), formerly § 1645(g), Jan. 1, 2021, 134 Stat. 4064, renumbered § 1645(h), Pub. L. 117–81, div. A, title XVI, § 1662(b)(1), Dec. 27, 2021, 135 Stat. 2103, directed the Director of the Missile Defense Agency, in coordination with the Commander of the Air Force Space Command and the Commander of the United States Strategic Command, beginning fiscal year 2019, to develop and rigorously test a highly reliable and cost-effective persistent space-based sensor architecture capable of supporting the ballistic missile defense system, to ensure that the sensor architecture developed is compatible with efforts of the Defense Advanced Research Projects Agency relating to space-based sensors for missile defense, to submit to Congress a report on the available options not later than January 31, 2019, to submit to Congress a plan not later than one year after December 12, 2017, and to submit to Congress an update to the plan not later than 90 days after December 20, 2019.
 
 **Boost Phase Ballistic Missile Defense**
 
-Pub. L. 115–91, div. A, title XVI, § 1685, Dec. 12, 2017, 131 Stat. 1781, as amended by Pub. L. 115–232, div. A, title XVI, § 1676, Aug. 13, 2018, 132 Stat. 2160, directed the Secretary of Defense to ensure that an effective interim kinetic or directed energy boost phase ballistic missile defense capability would be available for initial operational deployment as soon as practicable, directed the Secretary to submit to the congressional defense committees, together with the budget submitted to Congress for fiscal year 2019, a plan to achieve such capability, directed the Director of the Missile Defense Agency, beginning fiscal year 2019, to carry out a program to develop kinetic boost phase intercept capabilities, required an independent study on the feasibility of providing an initial or demonstrated boost phase capability using unmanned aerial vehicles and kinetic interceptors, and directed the Secretary of Defense to submit to the congressional defense committees a report on such study not later than July 31, 2019.
+Pub. L. 115–91, div. A, title XVI, § 1685, Dec. 12, 2017, 131 Stat. 1781, as amended by Pub. L. 115–232, div. A, title XVI, § 1676, Aug. 13, 2018, 132 Stat. 2160, directed the Secretary of Defense to ensure that an effective interim kinetic or directed energy boost phase ballistic missile defense capability would be available for initial operational deployment as soon as practicable, directed the Secretary to submit to the congressional defense committees, together with the budget submitted to Congress for fiscal year 2019, a plan to achieve such capability, directed the Director of the Missile Defense Agency, beginning fiscal year 2019, to carry out a program to develop kinetic boost phase intercept capabilities, required an independent study on the feasibility of providing an initial or demonstrated boost phase capability using unmanned aerial vehicles and kinetic interceptors, and directed the Secretary of Defense to submit to the congressional defense committees a report on such study not later than July 31, 2019.
 
 **Ground-Based Interceptor Capability, Capacity, and Reliability**
 
-Pub. L. 115–91, div. A, title XVI, § 1686, Dec. 12, 2017, 131 Stat. 1781, authorized the Secretary of Defense to increase the number of the ground-based interceptors of the United States and to advance missile defense technologies to improve the capability and reliability of those elements of the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 90 days after the date on which the Ballistic Missile Defense Review commenced in 2017 is published, a report on those efforts.
+Pub. L. 115–91, div. A, title XVI, § 1686, Dec. 12, 2017, 131 Stat. 1781, authorized the Secretary of Defense to increase the number of the ground-based interceptors of the United States and to advance missile defense technologies to improve the capability and reliability of those elements of the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 90 days after the date on which the Ballistic Missile Defense Review commenced in 2017 is published, a report on those efforts.
 
 **Plan for Development of Space-Based Ballistic Missile Intercept Layer**
 
-Pub. L. 115–91, div. A, title XVI, § 1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, § 1680, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–92, div. A, title XVI, § 1682, Dec. 20, 2019, 133 Stat. 1782, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1688, Dec. 12, 2017, 131 Stat. 1783, as amended by Pub. L. 115–232, div. A, title XVI, § 1680, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–92, div. A, title XVI, § 1682, Dec. 20, 2019, 133 Stat. 1782, provided that:
 
 > **“(a) Development.—** Subject to the availability of appropriations, the Director of the Missile Defense Agency shall develop a space-based ballistic missile intercept layer to the ballistic missile defense system that is—
 
@@ -501,7 +501,7 @@ Pub. L. 115–91, div. A, title XVI, § 1688, Dec. 12, 2017, 131 Stat. 1783, a
 
 **Designation of Department of Defense Senior Official With Principal Responsibility for Directed Energy Weapons**
 
-Pub. L. 114–328, div. A, title II, § 219, Dec. 23, 2016, 130 Stat. 2053, as amended by Pub. L. 115–91, div. A, title II, § 215, Dec. 12, 2017, 131 Stat. 1326; Pub. L. 115–232, div. A, title II, §§ 212, 237, Aug. 13, 2018, 132 Stat. 1675, 1695; Pub. L. 116–283, div. A, title II, § 215, Jan. 1, 2021, 134 Stat. 3458; Pub. L. 118–159, div. A, title II, § 227, Dec. 23, 2024, 138 Stat. 1832, provided that:
+Pub. L. 114–328, div. A, title II, § 219, Dec. 23, 2016, 130 Stat. 2053, as amended by Pub. L. 115–91, div. A, title II, § 215, Dec. 12, 2017, 131 Stat. 1326; Pub. L. 115–232, div. A, title II, §§ 212, 237, Aug. 13, 2018, 132 Stat. 1675, 1695; Pub. L. 116–283, div. A, title II, § 215, Jan. 1, 2021, 134 Stat. 3458; Pub. L. 118–159, div. A, title II, § 227, Dec. 23, 2024, 138 Stat. 1832, provided that:
 
 > **“(a) Designation of Senior Official.—**
 
@@ -619,13 +619,13 @@ Pub. L. 114–328, div. A, title II, § 219, Dec. 23, 2016, 130 Stat. 2053, as
 
 **National Missile Defense Policy**
 
-Pub. L. 116–92, div. A, title XVI, § 1681(b), Dec. 20, 2019, 133 Stat. 1781, provided that: “Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight.”
+Pub. L. 116–92, div. A, title XVI, § 1681(b), Dec. 20, 2019, 133 Stat. 1781, provided that: “Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight.”
 
-Pub. L. 114–328, div. A, title XVI, § 1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, § 1681(a), Dec. 20, 2019, 133 Stat. 1781; Pub. L. 118–31, div. A, title XVI, § 1663, Dec. 22, 2023, 137 Stat. 603, which related to the national missile defense policy of the United States, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(3), Dec. 23, 2024, 138 Stat. 2199. See section 5501 of this title.
+Pub. L. 114–328, div. A, title XVI, § 1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, § 1681(a), Dec. 20, 2019, 133 Stat. 1781; Pub. L. 118–31, div. A, title XVI, § 1663, Dec. 22, 2023, 137 Stat. 603, which related to the national missile defense policy of the United States, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(3), Dec. 23, 2024, 138 Stat. 2199. See section 5501 of this title.
 
 **Designation of Certain Acquisition Authority**
 
-Pub. L. 114–328, div. A, title XVI, § 1684(e), (f), Dec. 23, 2016, 130 Stat. 2627, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1684(e), (f), Dec. 23, 2016, 130 Stat. 2627, provided that:
 
 > **“(e) Designation Required.—**
 
@@ -647,23 +647,23 @@ Pub. L. 114–328, div. A, title XVI, § 1684(e), (f), Dec. 23, 2016, 130 Stat
 
 **Technical Authority for Integrated Air and Missile Defense Activities and Programs**
 
-Pub. L. 114–328, div. A, title XVI, § 1686(a), Dec. 23, 2016, 130 Stat. 2628, which provided that the Director of the Missile Defense Agency was the technical authority of the Department of Defense for integrated air and missile defense activities and programs and the Director could seek to have staff detailed to the Missile Defense Agency from the Joint Functional Component Command for Integrated Missile Defense and the Joint Integrated Air and Missile Defense Organization, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(4), Dec. 23, 2024, 138 Stat. 2199. See section 5531 of this title.
+Pub. L. 114–328, div. A, title XVI, § 1686(a), Dec. 23, 2016, 130 Stat. 2628, which provided that the Director of the Missile Defense Agency was the technical authority of the Department of Defense for integrated air and missile defense activities and programs and the Director could seek to have staff detailed to the Missile Defense Agency from the Joint Functional Component Command for Integrated Missile Defense and the Joint Integrated Air and Missile Defense Organization, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(4), Dec. 23, 2024, 138 Stat. 2199. See section 5531 of this title.
 
 **Hypersonic Defense Capability Development**
 
-Pub. L. 114–328, div. A, title XVI, § 1687, Dec. 23, 2016, 130 Stat. 2629, which designated the Director of the Missile Defense Agency as the executive agent for the Department of Defense for the development of a capability by the United States to counter hypersonic boost-glide vehicle capabilities and conventional prompt strike capabilities that may be employed against the United States or its allies and directed the Director to establish a program to develop such hypersonic defense capability by not later than Mar. 31, 2017, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(5), Dec. 23, 2024, 138 Stat. 2199. See section 5532 of this title.
+Pub. L. 114–328, div. A, title XVI, § 1687, Dec. 23, 2016, 130 Stat. 2629, which designated the Director of the Missile Defense Agency as the executive agent for the Department of Defense for the development of a capability by the United States to counter hypersonic boost-glide vehicle capabilities and conventional prompt strike capabilities that may be employed against the United States or its allies and directed the Director to establish a program to develop such hypersonic defense capability by not later than Mar. 31, 2017, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(5), Dec. 23, 2024, 138 Stat. 2199. See section 5532 of this title.
 
 **Required Testing by Missile Defense Agency of Ground-Based Midcourse Defense Element of Ballistic Missile Defense System**
 
-Pub. L. 114–328, div. A, title XVI, § 1689, Dec. 23, 2016, 130 Stat. 2631, as amended by Pub. L. 116–92, div. A, title IX, § 902(97), title XVI, § 1684, Dec. 20, 2019, 133 Stat. 1555, 1783; Pub. L. 117–81, div. A, title XVI, § 1668(d), Dec. 27, 2021, 135 Stat. 2107, which authorized the Director of the Missile Defense Agency to administer a required flight test of the ground-based midcourse defense element of the ballistic missile defense system and provided exceptions for such required testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(6), Dec. 23, 2024, 138 Stat. 2199. See section 5533 of this title.
+Pub. L. 114–328, div. A, title XVI, § 1689, Dec. 23, 2016, 130 Stat. 2631, as amended by Pub. L. 116–92, div. A, title IX, § 902(97), title XVI, § 1684, Dec. 20, 2019, 133 Stat. 1555, 1783; Pub. L. 117–81, div. A, title XVI, § 1668(d), Dec. 27, 2021, 135 Stat. 2107, which authorized the Director of the Missile Defense Agency to administer a required flight test of the ground-based midcourse defense element of the ballistic missile defense system and provided exceptions for such required testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(6), Dec. 23, 2024, 138 Stat. 2199. See section 5533 of this title.
 
 **Pilot Program on Loss of Unclassified, Controlled Technical Information**
 
-Pub. L. 114–328, div. A, title XVI, § 1692, Dec. 23, 2016, 130 Stat. 2636, which authorized the Director of the Missile Defense Agency to carry out a pilot program to implement improvements to the data protection options in the programs of the Missile Defense Agency with unclassified, controlled technical information and controlled unclassified information, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(E), Dec. 23, 2024, 138 Stat. 1979.
+Pub. L. 114–328, div. A, title XVI, § 1692, Dec. 23, 2016, 130 Stat. 2636, which authorized the Director of the Missile Defense Agency to carry out a pilot program to implement improvements to the data protection options in the programs of the Missile Defense Agency with unclassified, controlled technical information and controlled unclassified information, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(E), Dec. 23, 2024, 138 Stat. 1979.
 
 **Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability**
 
-Pub. L. 114–92, div. A, title XVI, § 1618, Nov. 25, 2015, 129 Stat. 1108, as amended by Pub. L. 116–92, div. A, title XVI, § 1604, Dec. 20, 2019, 133 Stat. 1723, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1618, Nov. 25, 2015, 129 Stat. 1108, as amended by Pub. L. 116–92, div. A, title XVI, § 1604, Dec. 20, 2019, 133 Stat. 1723, provided that:
 
 > **“(a) Plan.—** Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, shall jointly submit to the appropriate congressional committees a plan for the integration of overhead persistent infrared capabilities to support the missions specified in subsection (b)(1).
 
@@ -697,182 +697,182 @@ Pub. L. 114–92, div. A, title XVI, § 1618, Nov. 25, 2015, 129 Stat. 1108, a
 
 **Integration and Interoperability of Air and Missile Defense Capabilities of the United States**
 
-Pub. L. 114–92, div. A, title XVI, § 1675, Nov. 25, 2015, 129 Stat. 1131, as amended by Pub. L. 116–92, div. A, title IX, § 902(69), Dec. 20, 2019, 133 Stat. 1551; Pub. L. 116–283, div. A, title X, § 1081(f)(3), Jan. 1, 2021, 134 Stat. 3875, which authorized the Vice Chairman of the Joint Chiefs of Staff and the chairman of the Missile Defense Executive Board, acting through the Missile Defense Executive Board, to ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(7), Dec. 23, 2024, 138 Stat. 2199. See section 5534 of this title.
+Pub. L. 114–92, div. A, title XVI, § 1675, Nov. 25, 2015, 129 Stat. 1131, as amended by Pub. L. 116–92, div. A, title IX, § 902(69), Dec. 20, 2019, 133 Stat. 1551; Pub. L. 116–283, div. A, title X, § 1081(f)(3), Jan. 1, 2021, 134 Stat. 3875, which authorized the Vice Chairman of the Joint Chiefs of Staff and the chairman of the Missile Defense Executive Board, acting through the Missile Defense Executive Board, to ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(7), Dec. 23, 2024, 138 Stat. 2199. See section 5534 of this title.
 
 **Boost Phase Defense System**
 
-Pub. L. 114–92, div. A, title XVI, § 1680, Nov. 25, 2015, 129 Stat. 1137, as amended by Pub. L. 118–159, div. A, title XVI, § 1649(c)(2), Dec. 23, 2024, 138 Stat. 2200, directed the Secretary of Defense to develop and field an airborne boost phase defense system by not later than fiscal year 2025, and to submit a report on its efforts to the congressional defense committees not later than 120 days after Nov. 25, 2015.
+Pub. L. 114–92, div. A, title XVI, § 1680, Nov. 25, 2015, 129 Stat. 1137, as amended by Pub. L. 118–159, div. A, title XVI, § 1649(c)(2), Dec. 23, 2024, 138 Stat. 2200, directed the Secretary of Defense to develop and field an airborne boost phase defense system by not later than fiscal year 2025, and to submit a report on its efforts to the congressional defense committees not later than 120 days after Nov. 25, 2015.
 
 **Development and Deployment of Multiple-Object Kill Vehicle for Missile Defense of the United States Homeland**
 
-Pub. L. 114–92, div. A, title XVI, § 1681, Nov. 25, 2015, 129 Stat. 1138, which directed the Director of the Missile Defense Agency to develop a highly reliable multiple-object kill vehicle for the ground-based midcourse defense system using sound acquisition practices, and to include in the budget justification materials submitted to Congress for fiscal year 2017 a report on the funding profile necessary for the program, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(3), Dec. 23, 2024, 138 Stat. 2200.
+Pub. L. 114–92, div. A, title XVI, § 1681, Nov. 25, 2015, 129 Stat. 1138, which directed the Director of the Missile Defense Agency to develop a highly reliable multiple-object kill vehicle for the ground-based midcourse defense system using sound acquisition practices, and to include in the budget justification materials submitted to Congress for fiscal year 2017 a report on the funding profile necessary for the program, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(3), Dec. 23, 2024, 138 Stat. 2200.
 
 **Requirement To Replace Capability Enhancement I Exoatmospheric Kill Vehicles**
 
-Pub. L. 114–92, div. A, title XVI, § 1682, Nov. 25, 2015, 129 Stat. 1139, directed the Director of the Missile Defense Agency to ensure, to the maximum extent practicable, that all remaining ground-based interceptors of the ground-based midcourse defense system that are armed with the capability enhancement I exoatmospheric kill vehicle were replaced with the redesigned exoatmospheric kill vehicle before Sept. 30, 2022.
+Pub. L. 114–92, div. A, title XVI, § 1682, Nov. 25, 2015, 129 Stat. 1139, directed the Director of the Missile Defense Agency to ensure, to the maximum extent practicable, that all remaining ground-based interceptors of the ground-based midcourse defense system that are armed with the capability enhancement I exoatmospheric kill vehicle were replaced with the redesigned exoatmospheric kill vehicle before Sept. 30, 2022.
 
 **Additional Missile Defense Sensor Coverage for Protection of United States Homeland**
 
-Pub. L. 114–92, div. A, title XVI, § 1684, Nov. 25, 2015, 129 Stat. 1140, directed the Director of the Missile Defense Agency to deploy, not later than Dec. 31, 2020, a long-range discrimination radar or other sensor capability to defend the United States from long-range ballistic missile threats from Iran, and to include in the budget justification materials submitted to Congress for fiscal years 2017 to 2020 the plan to carry out such deployment.
+Pub. L. 114–92, div. A, title XVI, § 1684, Nov. 25, 2015, 129 Stat. 1140, directed the Director of the Missile Defense Agency to deploy, not later than Dec. 31, 2020, a long-range discrimination radar or other sensor capability to defend the United States from long-range ballistic missile threats from Iran, and to include in the budget justification materials submitted to Congress for fiscal years 2017 to 2020 the plan to carry out such deployment.
 
 **Concept Development of Space-Based Missile Defense Layer**
 
-Pub. L. 114–92, div. A, title XVI, § 1685, Nov. 25, 2015, 129 Stat. 1142, as amended by Pub. L. 114–328, div. A, title XVI, § 1683, Dec. 23, 2016, 130 Stat. 2624, directed the Director of the Missile Defense Agency, in coordination with the Secretary of the Air Force and the Director of the Defense Advanced Research Projects Agency, to commence, not later than 30 days after Nov. 25, 2015, the concept definition of a space-based ballistic missile intercept layer to the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 1 year after Nov. 25, 2015, a plan for developing one or more programs for a space-based ballistic missile intercept layer, and to commence research and development of such programs not later than 60 days after the submittal of the plan.
+Pub. L. 114–92, div. A, title XVI, § 1685, Nov. 25, 2015, 129 Stat. 1142, as amended by Pub. L. 114–328, div. A, title XVI, § 1683, Dec. 23, 2016, 130 Stat. 2624, directed the Director of the Missile Defense Agency, in coordination with the Secretary of the Air Force and the Director of the Defense Advanced Research Projects Agency, to commence, not later than 30 days after Nov. 25, 2015, the concept definition of a space-based ballistic missile intercept layer to the ballistic missile defense system, and directed the Director of the Missile Defense Agency to submit to the congressional defense committees, not later than 1 year after Nov. 25, 2015, a plan for developing one or more programs for a space-based ballistic missile intercept layer, and to commence research and development of such programs not later than 60 days after the submittal of the plan.
 
 **Development of Requirements To Support Integrated Air and Missile Defense Capabilities**
 
-Pub. L. 114–92, div. A, title XVI, § 1687, Nov. 25, 2015, 129 Stat. 1143, which authorized the Vice Chairman of the Joint Chiefs of Staff to oversee the development of warfighter requirements to support integrated air and missile defense capabilities, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(8), Dec. 23, 2024, 138 Stat. 2199. See section 5535 of this title.
+Pub. L. 114–92, div. A, title XVI, § 1687, Nov. 25, 2015, 129 Stat. 1143, which authorized the Vice Chairman of the Joint Chiefs of Staff to oversee the development of warfighter requirements to support integrated air and missile defense capabilities, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(8), Dec. 23, 2024, 138 Stat. 2199. See section 5535 of this title.
 
 **Testing and Assessment of Missile Defense Systems Prior to Production and Deployment**
 
-Pub. L. 113–291, div. A, title XVI, § 1662, Dec. 19, 2014, 128 Stat. 3657, as amended by Pub. L. 115–91, div. A, title XVI, § 1677(b), Dec. 12, 2017, 131 Stat. 1774, which prohibited the Secretary of Defense from making a final production decision for, or from operationally deploying, certain components of the ballistic missile defense system without sufficient and operationally realistic testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(9), Dec. 23, 2024, 138 Stat. 2199. See section 5536 of this title.
+Pub. L. 113–291, div. A, title XVI, § 1662, Dec. 19, 2014, 128 Stat. 3657, as amended by Pub. L. 115–91, div. A, title XVI, § 1677(b), Dec. 12, 2017, 131 Stat. 1774, which prohibited the Secretary of Defense from making a final production decision for, or from operationally deploying, certain components of the ballistic missile defense system without sufficient and operationally realistic testing, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(9), Dec. 23, 2024, 138 Stat. 2199. See section 5536 of this title.
 
 [For termination, effective Dec. 31, 2021, of reporting provisions in subsecs. (c)(2) and (d)(2) of section 1662 of Pub. L. 113–291, formerly set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
 **Acquisition Plan for Re-Designed Exo-Atmospheric Kill Vehicle**
 
-Pub. L. 113–291, div. A, title XVI, § 1663, Dec. 19, 2014, 128 Stat. 3658, directed the Secretary of Defense to develop an acquisition plan for the re-design of the exo-atmospheric kill vehicle of the ground-based midcourse defense system, and required the Director of the Missile Defense Agency to submit a report to the congressional defense committees on such plan.
+Pub. L. 113–291, div. A, title XVI, § 1663, Dec. 19, 2014, 128 Stat. 3658, directed the Secretary of Defense to develop an acquisition plan for the re-design of the exo-atmospheric kill vehicle of the ground-based midcourse defense system, and required the Director of the Missile Defense Agency to submit a report to the congressional defense committees on such plan.
 
 **Additional Missile Defense Radar for the Protection of the United States Homeland**
 
-Pub. L. 113–66, div. A, title II, § 235, Dec. 26, 2013, 127 Stat. 714, directed the Director of the Missile Defense Agency to deploy a long-range discriminating radar against long-range ballistic missile threats from the Democratic People’s Republic of Korea, directed the Secretary of Defense to ensure that the Secretary was able to deploy additional tracking and discrimination sensor capabilities to defend the United States from future long-range ballistic missile threats from Iran, and required submission to the congressional defense committees of a report on the sensor capabilities of the United States not later than 180 days after Dec. 26, 2013.
+Pub. L. 113–66, div. A, title II, § 235, Dec. 26, 2013, 127 Stat. 714, directed the Director of the Missile Defense Agency to deploy a long-range discriminating radar against long-range ballistic missile threats from the Democratic People’s Republic of Korea, directed the Secretary of Defense to ensure that the Secretary was able to deploy additional tracking and discrimination sensor capabilities to defend the United States from future long-range ballistic missile threats from Iran, and required submission to the congressional defense committees of a report on the sensor capabilities of the United States not later than 180 days after Dec. 26, 2013.
 
 **Plans To Improve the Ground-Based Midcourse Defense System**
 
-Pub. L. 113–66, div. A, title II, § 237, Dec. 26, 2013, 127 Stat. 717, directed the Director of the Missile Defense Agency to develop options to achieve an improved kill assessment capability for the ground-based midcourse defense system by not later than Dec. 31, 2019, to develop an interim capability for improved hit assessment for the ground-based midcourse defense system that could be integrated into near-term exo-atmospheric kill vehicle upgrades and refurbishment, and to submit a report on such development not later than Apr. 1, 2014, and directed the Director of the Missile Defense Agency to submit a plan to develop and deploy an upgraded enhanced exo-atmospheric kill vehicle not later than 120 days after Dec. 26, 2013.
+Pub. L. 113–66, div. A, title II, § 237, Dec. 26, 2013, 127 Stat. 717, directed the Director of the Missile Defense Agency to develop options to achieve an improved kill assessment capability for the ground-based midcourse defense system by not later than Dec. 31, 2019, to develop an interim capability for improved hit assessment for the ground-based midcourse defense system that could be integrated into near-term exo-atmospheric kill vehicle upgrades and refurbishment, and to submit a report on such development not later than Apr. 1, 2014, and directed the Director of the Missile Defense Agency to submit a plan to develop and deploy an upgraded enhanced exo-atmospheric kill vehicle not later than 120 days after Dec. 26, 2013.
 
 **Limitation on Availability of Funds for Missile Defense Interceptors in Europe**
 
-Pub. L. 111–383, div. A, title II, § 223(a)–(d), Jan. 7, 2011, 124 Stat. 4168, 4169, which prohibited the expenditure of Department of Defense funds for the construction or deployment of missile defense interceptors in Europe until the host nation ratified a missile defense basing agreement and a status of forces agreement authorizing such interceptors and the Secretary of Defense submitted to the congressional defense committees the report on the independent assessment of alternative missile defense systems in Europe required by section 235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (Pub. L. 111–84, 123 Stat. 2235), was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(4), Dec. 23, 2024, 138 Stat. 2200.
+Pub. L. 111–383, div. A, title II, § 223(a)–(d), Jan. 7, 2011, 124 Stat. 4168, 4169, which prohibited the expenditure of Department of Defense funds for the construction or deployment of missile defense interceptors in Europe until the host nation ratified a missile defense basing agreement and a status of forces agreement authorizing such interceptors and the Secretary of Defense submitted to the congressional defense committees the report on the independent assessment of alternative missile defense systems in Europe required by section 235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (Pub. L. 111–84, 123 Stat. 2235), was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(4), Dec. 23, 2024, 138 Stat. 2200.
 
 **Limitation on Availability of Funds for Procurement, Construction, and Deployment of Missile Defenses in Europe**
 
-Pub. L. 110–417, [div. A], title II, § 233, Oct. 14, 2008, 122 Stat. 4393, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(3), Jan. 7, 2011, 124 Stat. 4374, prohibited the expenditure of Department of Defense funds for a long-range missile defense system in Europe unless the host nation ratified a missile defense basing agreement, and required a further certification to Congress by the Secretary of Defense.
+Pub. L. 110–417, [div. A], title II, § 233, Oct. 14, 2008, 122 Stat. 4393, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(3), Jan. 7, 2011, 124 Stat. 4374, prohibited the expenditure of Department of Defense funds for a long-range missile defense system in Europe unless the host nation ratified a missile defense basing agreement, and required a further certification to Congress by the Secretary of Defense.
 
 **Policy of the United States on Protection of the United States and its Allies Against Iranian Ballistic Missiles**
 
-Pub. L. 110–181, div. A, title II, § 229, Jan. 28, 2008, 122 Stat. 45, set forth as the policy of the United States to develop, along with its allies, a defense against Iranian ballistic missiles and to encourage the NATO alliance to accelerate its efforts to protect NATO territory against the threat of Iranian ballistic missiles.
+Pub. L. 110–181, div. A, title II, § 229, Jan. 28, 2008, 122 Stat. 45, set forth as the policy of the United States to develop, along with its allies, a defense against Iranian ballistic missiles and to encourage the NATO alliance to accelerate its efforts to protect NATO territory against the threat of Iranian ballistic missiles.
 
 **Policy of the United States on Priorities in the Development, Testing, and Fielding of Missile Defense Capabilities**
 
-Pub. L. 109–364, div. A, title II, § 223, Oct. 17, 2006, 120 Stat. 2130, which set forth as the policy of the United States that the Department of Defense prioritize the development, testing, fielding, and improvement of effective near-term missile defense capabilities, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(5), Dec. 23, 2024, 138 Stat. 2200.
+Pub. L. 109–364, div. A, title II, § 223, Oct. 17, 2006, 120 Stat. 2130, which set forth as the policy of the United States that the Department of Defense prioritize the development, testing, fielding, and improvement of effective near-term missile defense capabilities, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(c)(5), Dec. 23, 2024, 138 Stat. 2200.
 
 **Plans for Test and Evaluation of Operational Capability of the Ballistic Missile Defense System**
 
-Pub. L. 109–163, div. A, title II, § 234, Jan. 6, 2006, 119 Stat. 3174, as amended by Pub. L. 109–364, div. A, title II, § 225, Oct. 17, 2006, 120 Stat. 2130, directed the operational and test components of the Department of Defense to prepare a plan to test the operational capability of each block of the Ballistic Missile Defense System, and directed the Director of Operational Test and Evaluation to submit a report to the congressional defense committees.
+Pub. L. 109–163, div. A, title II, § 234, Jan. 6, 2006, 119 Stat. 3174, as amended by Pub. L. 109–364, div. A, title II, § 225, Oct. 17, 2006, 120 Stat. 2130, directed the operational and test components of the Department of Defense to prepare a plan to test the operational capability of each block of the Ballistic Missile Defense System, and directed the Director of Operational Test and Evaluation to submit a report to the congressional defense committees.
 
 **Integration of Patriot Advanced Capability-3 and Medium Extended Air Defense System Into Ballistic Missile Defense System**
 
-Pub. L. 108–375, div. A, title II, § 232, Oct. 28, 2004, 118 Stat. 1835, designated the Patriot Advanced Capability-3/Medium Extended Air Defense System air and missile defense program as an element of the Ballistic Missile Defense System, prohibited the Secretary of the Army from making any significant change to the baseline technical specifications or the baseline schedule for the PAC–3/MEADS program without the concurrence of the Director of the Missile Defense Agency, and directed the Secretary of Defense to establish procedures for determining the effect of a proposed change to the procurement quantity for the PAC–3/MEADS program and to submit to Congress a report describing such procedures not later than Feb. 1, 2005.
+Pub. L. 108–375, div. A, title II, § 232, Oct. 28, 2004, 118 Stat. 1835, designated the Patriot Advanced Capability-3/Medium Extended Air Defense System air and missile defense program as an element of the Ballistic Missile Defense System, prohibited the Secretary of the Army from making any significant change to the baseline technical specifications or the baseline schedule for the PAC–3/MEADS program without the concurrence of the Director of the Missile Defense Agency, and directed the Secretary of Defense to establish procedures for determining the effect of a proposed change to the procurement quantity for the PAC–3/MEADS program and to submit to Congress a report describing such procedures not later than Feb. 1, 2005.
 
 **Baselines and Operational Test and Evaluation for Ballistic Missile Defense System**
 
-Pub. L. 108–375, div. A, title II, § 234, Oct. 28, 2004, 118 Stat. 1837, directed the Secretary of Defense, in consultation with the Director of Operational Test and Evaluation, to prescribe, not later than Feb. 1, 2005, criteria for operationally realistic testing of fieldable prototypes developed under the ballistic missile defense spiral development program, and to ensure that, not later than Oct. 1, 2005, any test of the ballistic missile defense system was conducted consistent with such criteria.
+Pub. L. 108–375, div. A, title II, § 234, Oct. 28, 2004, 118 Stat. 1837, directed the Secretary of Defense, in consultation with the Director of Operational Test and Evaluation, to prescribe, not later than Feb. 1, 2005, criteria for operationally realistic testing of fieldable prototypes developed under the ballistic missile defense spiral development program, and to ensure that, not later than Oct. 1, 2005, any test of the ballistic missile defense system was conducted consistent with such criteria.
 
 **Provision of Information on Flight Testing of Ground-Based Midcourse National Missile Defense System**
 
-Pub. L. 107–314, div. A, title II, § 224, Dec. 2, 2002, 116 Stat. 2485, which directed the Director of the Missile Defense Agency to provide to the congressional defense committees information on the results of each flight test of the Ground-based Midcourse national missile defense system, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(10), Dec. 23, 2024, 138 Stat. 2200. See section 5553 of this title.
+Pub. L. 107–314, div. A, title II, § 224, Dec. 2, 2002, 116 Stat. 2485, which directed the Director of the Missile Defense Agency to provide to the congressional defense committees information on the results of each flight test of the Ground-based Midcourse national missile defense system, was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(10), Dec. 23, 2024, 138 Stat. 2200. See section 5553 of this title.
 
 **Missile Defense Agency Test Program**
 
-Pub. L. 107–107, div. A, title II, § 232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, § 225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, § 221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, § 233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, § 232, Jan. 6, 2006, 119 Stat. 3174; Pub. L. 109–364, div. A, title II, § 224, Oct. 17, 2006, 120 Stat. 2130; Pub. L. 110–181, div. A, title II, § 225, Jan. 28, 2008, 122 Stat. 41; Pub. L. 110–417, [div. A], title II, § 231(a), (b), Oct. 14, 2008, 122 Stat. 4390, 4391; Pub. L. 111–383, div. A, title X, § 1075(e)(2), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title II, § 232(c), title X, § 1062(h), Dec. 31, 2011, 125 Stat. 1340, 1585, directed the Director of the Missile Defense Agency to ensure that critical technology for a missile defense program was successfully demonstrated before it entered into operational service, and directed the Director of Operational Test and Evaluation to conduct annual assessments of, and to report on, the program and the ballistic missile defense system.
+Pub. L. 107–107, div. A, title II, § 232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, § 225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, § 221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, § 233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, § 232, Jan. 6, 2006, 119 Stat. 3174; Pub. L. 109–364, div. A, title II, § 224, Oct. 17, 2006, 120 Stat. 2130; Pub. L. 110–181, div. A, title II, § 225, Jan. 28, 2008, 122 Stat. 41; Pub. L. 110–417, [div. A], title II, § 231(a), (b), Oct. 14, 2008, 122 Stat. 4390, 4391; Pub. L. 111–383, div. A, title X, § 1075(e)(2), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title II, § 232(c), title X, § 1062(h), Dec. 31, 2011, 125 Stat. 1340, 1585, directed the Director of the Missile Defense Agency to ensure that critical technology for a missile defense program was successfully demonstrated before it entered into operational service, and directed the Director of Operational Test and Evaluation to conduct annual assessments of, and to report on, the program and the ballistic missile defense system.
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 232(h) of Pub. L. 107–107, formerly set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
 **Missile Defense Testing Initiative**
 
-Pub. L. 107–107, div. A, title II, § 234, Dec. 28, 2001, 115 Stat. 1039, set out requirements for the testing infrastructure of the ballistic missile defense program, including specific requirements for ground-based mid-course interceptor systems for fiscal year 2002.
+Pub. L. 107–107, div. A, title II, § 234, Dec. 28, 2001, 115 Stat. 1039, set out requirements for the testing infrastructure of the ballistic missile defense program, including specific requirements for ground-based mid-course interceptor systems for fiscal year 2002.
 
 **National Missile Defense Program**
 
-Pub. L. 105–85, div. A, title II, § 231, Nov. 18, 1997, 111 Stat. 1661, provided that the Secretary of Defense was to ensure that the National Missile Defense Program was structured and programmed for funding so as to support a test, in fiscal year 1999, of an integrated national missile defense system that was representative of the national missile defense system architecture that could achieve initial operational capability in fiscal year 2003, and that not later than Feb. 15, 1998, the Secretary was to submit to the congressional defense committees a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003.
+Pub. L. 105–85, div. A, title II, § 231, Nov. 18, 1997, 111 Stat. 1661, provided that the Secretary of Defense was to ensure that the National Missile Defense Program was structured and programmed for funding so as to support a test, in fiscal year 1999, of an integrated national missile defense system that was representative of the national missile defense system architecture that could achieve initial operational capability in fiscal year 2003, and that not later than Feb. 15, 1998, the Secretary was to submit to the congressional defense committees a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003.
 
 **Enhanced Cooperation Between National Nuclear Security Administration and Missile Defense Agency**
 
-Pub. L. 106–398, § 1 [div. C, title XXXI, § 3132], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L. 107–314, div. A, title II, § 225(b)(3), Dec. 2, 2002, 116 Stat. 2486, directed the Secretary of Energy and the Secretary of Defense to modify the memorandum of understanding entered into under section 3131 of the National Defense Authorization Act for Fiscal Year 1998 (Pub. L. 105–85, formerly set out as a note below) to provide for jointly funded projects.
+Pub. L. 106–398, § 1 [div. C, title XXXI, § 3132], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L. 107–314, div. A, title II, § 225(b)(3), Dec. 2, 2002, 116 Stat. 2486, directed the Secretary of Energy and the Secretary of Defense to modify the memorandum of understanding entered into under section 3131 of the National Defense Authorization Act for Fiscal Year 1998 (Pub. L. 105–85, formerly set out as a note below) to provide for jointly funded projects.
 
-Pub. L. 105–85, div. C, title XXXI, § 3131, Nov. 18, 1997, 111 Stat. 2034, directed the Secretary of Energy and the Secretary of Defense to enter into a memorandum of understanding to improve and facilitate the use of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
+Pub. L. 105–85, div. C, title XXXI, § 3131, Nov. 18, 1997, 111 Stat. 2034, directed the Secretary of Energy and the Secretary of Defense to enter into a memorandum of understanding to improve and facilitate the use of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
 
 **Ballistic Missile Defense Program**
 
-Pub. L. 104–106, div. A, title II, subtitle C, Feb. 10, 1996, 110 Stat. 228–233, as amended by Pub. L. 105–85, div. A, title II, § 236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, § 1041(c), Dec. 2, 2002, 116 Stat. 2646, known as the Ballistic Missile Defense Act of 1995, restructured the core theater missile defense program, directed the Secretary of Defense to prepare a plan to develop theater missile defense systems, prohibited the use of Department of Defense funds to implement an agreement between the United States and any independent state of the former Soviet Union that would establish a demarcation between theater missile defense systems and anti-ballistic missile systems or restrict United States theater missile defense systems, and repealed the Missile Defense Act of 1991 (Pub. L. 102–190, div. A, title II, part C).
+Pub. L. 104–106, div. A, title II, subtitle C, Feb. 10, 1996, 110 Stat. 228–233, as amended by Pub. L. 105–85, div. A, title II, § 236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, § 1041(c), Dec. 2, 2002, 116 Stat. 2646, known as the Ballistic Missile Defense Act of 1995, restructured the core theater missile defense program, directed the Secretary of Defense to prepare a plan to develop theater missile defense systems, prohibited the use of Department of Defense funds to implement an agreement between the United States and any independent state of the former Soviet Union that would establish a demarcation between theater missile defense systems and anti-ballistic missile systems or restrict United States theater missile defense systems, and repealed the Missile Defense Act of 1991 (Pub. L. 102–190, div. A, title II, part C).
 
 **Compliance of Ballistic Missile Defense Systems and Components With ABM Treaty**
 
-Pub. L. 103–337, div. A, title II, § 231, Oct. 5, 1994, 108 Stat. 2699, prohibited the use of funds appropriated to the Department of Defense for the development or testing of anti-ballistic missile systems or components except as consistent with the ABM Treaty, limited the use of funds appropriated for the Brilliant Eyes program until the Secretary of Defense submitted a report to Congress on the compliance of that program with the ABM Treaty, and directed the Secretary of Defense to review the Navy Upper Tier program to determine its compliance with the ABM Treaty.
+Pub. L. 103–337, div. A, title II, § 231, Oct. 5, 1994, 108 Stat. 2699, prohibited the use of funds appropriated to the Department of Defense for the development or testing of anti-ballistic missile systems or components except as consistent with the ABM Treaty, limited the use of funds appropriated for the Brilliant Eyes program until the Secretary of Defense submitted a report to Congress on the compliance of that program with the ABM Treaty, and directed the Secretary of Defense to review the Navy Upper Tier program to determine its compliance with the ABM Treaty.
 
 **Theater Missile Defense Master Plan**
 
-Pub. L. 103–160, div. A, title II, § 235, Nov. 30, 1993, 107 Stat. 1598, directed the Secretary of Defense to maximize the use of existing systems and technologies and promote joint use by the military departments of ballistic missile defense equipment in carrying out the Theater Missile Defense Initiative, to submit to Congress a TMD Master Plan, and to conduct a review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses.
+Pub. L. 103–160, div. A, title II, § 235, Nov. 30, 1993, 107 Stat. 1598, directed the Secretary of Defense to maximize the use of existing systems and technologies and promote joint use by the military departments of ballistic missile defense equipment in carrying out the Theater Missile Defense Initiative, to submit to Congress a TMD Master Plan, and to conduct a review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses.
 
 **Transfer of Follow-On Technology Programs**
 
-Pub. L. 103–160, div. A, title II, § 243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, title X, § 1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 107–314, div. A, title II, § 225(b)(4)(B), Dec. 2, 2002, 116 Stat. 2486, provided that management and budget responsibility for research and development of any program to develop far-term follow-on technology relating to ballistic missile defense was to be provided through the Defense Advanced Research Projects Agency or the appropriate military department, and directed the Secretary of Defense to submit to the congressional defense committees a report identifying each program the Secretary had transferred from the Missile Defense Agency and the agency or military department to which each such transfer was made.
+Pub. L. 103–160, div. A, title II, § 243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, title X, § 1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 107–314, div. A, title II, § 225(b)(4)(B), Dec. 2, 2002, 116 Stat. 2486, provided that management and budget responsibility for research and development of any program to develop far-term follow-on technology relating to ballistic missile defense was to be provided through the Defense Advanced Research Projects Agency or the appropriate military department, and directed the Secretary of Defense to submit to the congressional defense committees a report identifying each program the Secretary had transferred from the Missile Defense Agency and the agency or military department to which each such transfer was made.
 
 **Theater Missile Defense Initiative**
 
-Pub. L. 102–484, div. A, title II, § 231, Oct. 23, 1992, 106 Stat. 2354, established the Theater Missile Defense Initiative to carry out all theater and tactical missile defense activities of the Department of Defense, effective 90 days after Oct. 23, 1992.
+Pub. L. 102–484, div. A, title II, § 231, Oct. 23, 1992, 106 Stat. 2354, established the Theater Missile Defense Initiative to carry out all theater and tactical missile defense activities of the Department of Defense, effective 90 days after Oct. 23, 1992.
 
 **Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union**
 
-Pub. L. 100–180, div. A, title II, § 223, Dec. 4, 1987, 101 Stat. 1056, as amended by Pub. L. 103–199, title II, § 203(a)(1), Dec. 17, 1993, 107 Stat. 2321, prohibited the transfer of technology developed with funds appropriated for the Ballistic Missile Defense Program to Russia or any other independent state of the former Soviet Union unless the President certified to Congress that such transfer was in the national interest and was to be made for the purpose of maintaining peace.
+Pub. L. 100–180, div. A, title II, § 223, Dec. 4, 1987, 101 Stat. 1056, as amended by Pub. L. 103–199, title II, § 203(a)(1), Dec. 17, 1993, 107 Stat. 2321, prohibited the transfer of technology developed with funds appropriated for the Ballistic Missile Defense Program to Russia or any other independent state of the former Soviet Union unless the President certified to Congress that such transfer was in the national interest and was to be made for the purpose of maintaining peace.
 
 **SDI Architecture To Require Human Decision Making**
 
-Pub. L. 100–180, div. A, title II, § 224, Dec. 4, 1987, 101 Stat. 1056, prohibited the Federal Government from funding or otherwise supporting the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats that would permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.
+Pub. L. 100–180, div. A, title II, § 224, Dec. 4, 1987, 101 Stat. 1056, prohibited the Federal Government from funding or otherwise supporting the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats that would permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.
 
 **Establishment of Federally Funded Research and Development Center To Support SDI Program**
 
-Pub. L. 100–180, div. A, title II, § 227, Dec. 4, 1987, 101 Stat. 1057, authorized the Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, to enter into a contract not to be awarded before Oct. 1, 1989, to provide for the establishment and operation of a federally funded research and development center (FFRDC) to provide independent and objective technical support to the Strategic Defense Initiative program, and provided that no Federal funds could be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded.
+Pub. L. 100–180, div. A, title II, § 227, Dec. 4, 1987, 101 Stat. 1057, authorized the Secretary of Defense, using funds appropriated to the Department of Defense for the Strategic Defense Initiative program, to enter into a contract not to be awarded before Oct. 1, 1989, to provide for the establishment and operation of a federally funded research and development center (FFRDC) to provide independent and objective technical support to the Strategic Defense Initiative program, and provided that no Federal funds could be provided to the new FFRDC after the end of the five-year period beginning on the date of the award of the first contract awarded.
 
 **Limitation on Establishment of Federally Funded Research and Development Center for Strategic Defense Initiative Program**
 
-Pub. L. 99–661, div. A, title II, § 213, Nov. 14, 1986, 100 Stat. 3841, prohibited the Secretary of Defense from obligating or expending any funds for the purpose of operating a Federally funded research and development center that was established for the support of the Strategic Defense Initiative Program after Nov. 14, 1986, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report with respect to such proposed center and funds were specifically authorized to be appropriated for such purpose in an Act other than an appropriations Act or a continuing resolution.
+Pub. L. 99–661, div. A, title II, § 213, Nov. 14, 1986, 100 Stat. 3841, prohibited the Secretary of Defense from obligating or expending any funds for the purpose of operating a Federally funded research and development center that was established for the support of the Strategic Defense Initiative Program after Nov. 14, 1986, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report with respect to such proposed center and funds were specifically authorized to be appropriated for such purpose in an Act other than an appropriations Act or a continuing resolution.
 
 **Annual Report on Ballistic Missile Defense Program**
 
-Pub. L. 100–180, div. A, title II, § 231(a), Dec. 4, 1987, 101 Stat. 1059, provided that not later than Mar. 15, 1988 and Mar. 15, 1989, the Secretary of Defense was to transmit to Congress a report on the programs that constitute the Strategic Defense Initiative and on any other program relating to defense against ballistic missiles.
+Pub. L. 100–180, div. A, title II, § 231(a), Dec. 4, 1987, 101 Stat. 1059, provided that not later than Mar. 15, 1988 and Mar. 15, 1989, the Secretary of Defense was to transmit to Congress a report on the programs that constitute the Strategic Defense Initiative and on any other program relating to defense against ballistic missiles.
 
 **Plans for Management of Technical Data and Computer Capability Improvements**
 
-Pub. L. 98–525, title XII, § 1252, Oct. 19, 1984, 98 Stat. 2610, which related to a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(24), Dec. 18, 2025, 139 Stat. 950.
+Pub. L. 98–525, title XII, § 1252, Oct. 19, 1984, 98 Stat. 2610, which related to a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(24), Dec. 18, 2025, 139 Stat. 950.
 
 **Consultation With Allies on Strategic Defense Initiative Program**
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8104], Oct. 12, 1984, 98 Stat. 1904, 1942, conveyed the sense of Congress that the President should consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program and that the Secretary of Defense should report the status of such consultations at the time of the submission of annual budget presentation materials for each fiscal year beginning after Sept. 30, 1984.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8104], Oct. 12, 1984, 98 Stat. 1904, 1942, conveyed the sense of Congress that the President should consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program and that the Secretary of Defense should report the status of such consultations at the time of the submission of annual budget presentation materials for each fiscal year beginning after Sept. 30, 1984.
 
 **Antisatellite Weapons Test**
 
-Pub. L. 100–180, div. A, title II, § 208, Dec. 4, 1986, 101 Stat. 1048, prohibited the Secretary of Defense, until Oct. 1, 1988, from carrying out a test of the Space Defense System (antisatellite weapon) involving the F–15 launched miniature homing vehicle against an object in space until the President certified to Congress that the Soviet Union had conducted, after Dec. 4, 1987, a test against an object in space of a dedicated antisatellite weapon.
+Pub. L. 100–180, div. A, title II, § 208, Dec. 4, 1986, 101 Stat. 1048, prohibited the Secretary of Defense, until Oct. 1, 1988, from carrying out a test of the Space Defense System (antisatellite weapon) involving the F–15 launched miniature homing vehicle against an object in space until the President certified to Congress that the Soviet Union had conducted, after Dec. 4, 1987, a test against an object in space of a dedicated antisatellite weapon.
 
-Pub. L. 99–661, div. A, title II, § 231, Nov. 14, 1986, 100 Stat. 3847, prohibited the Secretary of Defense, until Oct. 1, 1987, from carrying out a test of the Space Defense System (anti-satellite weapon) against an object in space until the President certified to Congress that the Soviet Union had conducted, after Nov. 14, 1986, a test against an object in space of a dedicated anti-satellite weapon.
+Pub. L. 99–661, div. A, title II, § 231, Nov. 14, 1986, 100 Stat. 3847, prohibited the Secretary of Defense, until Oct. 1, 1987, from carrying out a test of the Space Defense System (anti-satellite weapon) against an object in space until the President certified to Congress that the Soviet Union had conducted, after Nov. 14, 1986, a test against an object in space of a dedicated anti-satellite weapon.
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 99–500, § 101(c) [title XI, § 1101], Oct. 18, 1986, 100 Stat. 1783–82, 1783–177, and Pub. L. 99–591, § 101(c) [title XI, § 1101], Oct. 30, 1986, 100 Stat. 3341–82, 3341–177.
+Pub. L. 99–500, § 101(c) [title XI, § 1101], Oct. 18, 1986, 100 Stat. 1783–82, 1783–177, and Pub. L. 99–591, § 101(c) [title XI, § 1101], Oct. 30, 1986, 100 Stat. 3341–82, 3341–177.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8097], Dec. 19, 1985, 99 Stat. 1185, 1219.
+Pub. L. 99–190, § 101(b) [title VIII, § 8097], Dec. 19, 1985, 99 Stat. 1185, 1219.
 
-Pub. L. 99–145, title II, § 208(a), (b), Nov. 8, 1985, 99 Stat. 610, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress as provided in section 8100 of the Department of Defense Appropriations Act, 1985 (Pub. L. 98–473, title I, § 101(h) [title VIII, § 8100], formerly set out as a note below), and provided that no more than three such tests could be conducted before Oct. 1, 1986.
+Pub. L. 99–145, title II, § 208(a), (b), Nov. 8, 1985, 99 Stat. 610, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress as provided in section 8100 of the Department of Defense Appropriations Act, 1985 (Pub. L. 98–473, title I, § 101(h) [title VIII, § 8100], formerly set out as a note below), and provided that no more than three such tests could be conducted before Oct. 1, 1986.
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8100], Oct. 12, 1984, 98 Stat. 1904, 1941, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress that certain conditions had been satisfied, and provided that no more than three such tests could be conducted during fiscal year 1985.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8100], Oct. 12, 1984, 98 Stat. 1904, 1941, prohibited the use of funds to test the miniature homing vehicle (MHV) anti-satellite warhead launched from an F–15 aircraft unless the President made a certification to Congress that certain conditions had been satisfied, and provided that no more than three such tests could be conducted during fiscal year 1985.
 
 Similar provisions were contained in the following prior authorization act:
 
-Pub. L. 98–94, title XI, § 1235, Sept. 24, 1983, 97 Stat. 695; as amended by Pub. L. 98–525, title II, § 205, Oct. 19, 1984, 98 Stat. 2509.
+Pub. L. 98–94, title XI, § 1235, Sept. 24, 1983, 97 Stat. 695; as amended by Pub. L. 98–525, title II, § 205, Oct. 19, 1984, 98 Stat. 2509.
 
 **East Coast Trident Base and MX Missile System Sites; Use of Funds Appropriated to Department of Defense; Assistance to Nearby Communities To Help Meet Costs of Increased Municipal Services**
 
-Pub. L. 96–418, title VIII, § 802, Oct. 10, 1980, 94 Stat. 1775, as amended by Pub. L. 97–99, title IX, § 904(b), Dec. 23, 1981, 95 Stat. 1382; Pub. L. 98–115, title VIII, § 805, Oct. 11, 1983, 97 Stat. 785; Pub. L. 101–510, div. A, title XIII, § 1322(f), Nov. 5, 1990, 104 Stat. 1672, authorized the Secretary of Defense to assist communities located near MX Missile System sites and the East Coast Trident Base, and the States in which such communities were located, in meeting the increased costs of municipal services and facilities resulting from the construction and operation of the MX Missile System or the East Coast Trident Base.
+Pub. L. 96–418, title VIII, § 802, Oct. 10, 1980, 94 Stat. 1775, as amended by Pub. L. 97–99, title IX, § 904(b), Dec. 23, 1981, 95 Stat. 1382; Pub. L. 98–115, title VIII, § 805, Oct. 11, 1983, 97 Stat. 785; Pub. L. 101–510, div. A, title XIII, § 1322(f), Nov. 5, 1990, 104 Stat. 1672, authorized the Secretary of Defense to assist communities located near MX Missile System sites and the East Coast Trident Base, and the States in which such communities were located, in meeting the increased costs of municipal services and facilities resulting from the construction and operation of the MX Missile System or the East Coast Trident Base.
 
 **MX Missile and Basing Mode**
 
-Pub. L. 96–342, title II, § 202, Sept. 8, 1980, 94 Stat. 1079, directed the Secretary of Defense to proceed with the development of the MX missile and a Multiple Protective Structure (MPS) basing mode in order to achieve an Initial Operational Capability not later than Dec. 31, 1986.
+Pub. L. 96–342, title II, § 202, Sept. 8, 1980, 94 Stat. 1079, directed the Secretary of Defense to proceed with the development of the MX missile and a Multiple Protective Structure (MPS) basing mode in order to achieve an Initial Operational Capability not later than Dec. 31, 1986.
 
 **Development of MX Missile System**
 
-Pub. L. 96–29, title II, § 202, June 27, 1979, 93 Stat. 79, directed the Secretary of Defense to proceed with the development of the Multiple Protective Structure (MPS) system concurrently with the development of the MX missile, unless and until the Secretary of Defense certified to the Congress that an alternative basing mode was militarily or technologically superior to, and was more cost effective than, the MPS system or the President informed the Congress that in his view the MPS system was not consistent with United States national security interests.
+Pub. L. 96–29, title II, § 202, June 27, 1979, 93 Stat. 79, directed the Secretary of Defense to proceed with the development of the Multiple Protective Structure (MPS) system concurrently with the development of the MX missile, unless and until the Secretary of Defense certified to the Congress that an alternative basing mode was militarily or technologically superior to, and was more cost effective than, the MPS system or the President informed the Congress that in his view the MPS system was not consistent with United States national security interests.
 
 **Trident Support Site, Bangor, Washington; Financial Aid to Local Communities; Reports**
 
-Pub. L. 93–552, title VI, § 608, Dec. 27, 1974, 88 Stat. 1763, authorized the Secretary of Defense to assist communities located near the TRIDENT Support Site in Bangor, Washington, in meeting the increased costs of municipal services and facilities resulting from the construction and operation of the TRIDENT Weapon System, and directed the Secretary to transmit to the Committees on Armed Services of the Senate and the House of Representatives semiannual reports on such assistance provided during the preceding six-month period.
+Pub. L. 93–552, title VI, § 608, Dec. 27, 1974, 88 Stat. 1763, authorized the Secretary of Defense to assist communities located near the TRIDENT Support Site in Bangor, Washington, in meeting the increased costs of municipal services and facilities resulting from the construction and operation of the TRIDENT Weapon System, and directed the Secretary to transmit to the Committees on Armed Services of the Senate and the House of Representatives semiannual reports on such assistance provided during the preceding six-month period.

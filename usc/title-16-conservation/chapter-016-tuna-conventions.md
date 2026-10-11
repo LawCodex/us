@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—TUNA CONVENTIONS
 
-## § 951. Definitions
+## § 951. Definitions
 
 In this chapter:
 
@@ -45,13 +45,13 @@ The term “United States” includes all areas under the sovereignty of the Uni
 
 **(6) United States Commissioners**
 
-The term “United States commissioners” 1
+The term “United States commissioners” 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 means the individuals appointed in accordance with section 952(a) of this title.
 
-(Sept. 7, 1950, ch. 907, § 2, 64 Stat. 777; Pub. L. 87–814, § 1, Oct. 15, 1962, 76 Stat. 923; Pub. L. 114–81, title II, § 203, Nov. 5, 2015, 129 Stat. 660.)
+(Sept. 7, 1950, ch. 907, § 2, 64 Stat. 777; Pub. L. 87–814, § 1, Oct. 15, 1962, 76 Stat. 923; Pub. L. 114–81, title II, § 203, Nov. 5, 2015, 129 Stat. 660.)
 
 **Editorial Notes**
 
@@ -65,25 +65,25 @@ means the individuals appointed in accordance with section 952(a) of this title.
 
 **Effective Date**
 
-Act Sept. 7, 1950, ch. 907, § 14, 64 Stat. 780, provided: “This Act [this chapter] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior to the date of approval of this Act [Sept. 7, 1950] in which case this Act [this chapter] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
+Act Sept. 7, 1950, ch. 907, § 14, 64 Stat. 780, provided: “This Act [this chapter] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior to the date of approval of this Act [Sept. 7, 1950] in which case this Act [this chapter] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–81, title II, § 201, Nov. 5, 2015, 129 Stat. 660, provided that: “This title [amending sections 951 to 953, 955, 957, 959, and 962 of this title and repealing chapter 16B of this title and provisions set out as a note under section 972 of this title] may be cited as the ‘Antigua Convention Implementing Act of 2015’.”
+Pub. L. 114–81, title II, § 201, Nov. 5, 2015, 129 Stat. 660, provided that: “This title [amending sections 951 to 953, 955, 957, 959, and 962 of this title and repealing chapter 16B of this title and provisions set out as a note under section 972 of this title] may be cited as the ‘Antigua Convention Implementing Act of 2015’.”
 
 **Short Title**
 
-Act Sept. 7, 1950, ch. 907, § 1, 64 Stat. 777, provided: “That this Act [enacting this chapter] may be cited as the ‘Tuna Conventions Act of 1950’.”
+Act Sept. 7, 1950, ch. 907, § 1, 64 Stat. 777, provided: “That this Act [enacting this chapter] may be cited as the ‘Tuna Conventions Act of 1950’.”
 
 **Separability**
 
-Act Sept. 7, 1950, ch. 907, § 13, 64 Stat. 780, provided: “If any provision of this Act [this chapter] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Act Sept. 7, 1950, ch. 907, § 13, 64 Stat. 780, provided: “If any provision of this Act [this chapter] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
 **Landing of Catch of Fish by Foreign Vessels**
 
-Pub. L. 87–814, § 6, Oct. 15, 1962, 76 Stat. 926, provided that: “Nothing in this Act [amending this section and sections 955 to 957, 959 of this title] shall be construed to amend or repeal the provisions of section 4311 of the Revised Statutes, as amended ([former] 46 U.S.C. [App.] 251) [see 46 U.S.C. 55114].”
+Pub. L. 87–814, § 6, Oct. 15, 1962, 76 Stat. 926, provided that: “Nothing in this Act [amending this section and sections 955 to 957, 959 of this title] shall be construed to amend or repeal the provisions of section 4311 of the Revised Statutes, as amended ([former] 46 U.S.C. [App.] 251) [see 46 U.S.C. 55114].”
 
-## § 952. Commissioners
+## § 952. Commissioners
 
 **(a) Commissioners**
 
@@ -109,7 +109,7 @@ The United States Commissioners or Alternate Commissioners, although officers of
 
 **(B)** The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
 
-(Sept. 7, 1950, ch. 907, § 3, 64 Stat. 777; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–523, § 3(a)(1), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, § 7(a), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 106–562, title III, § 302, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title II, § 204, Nov. 5, 2015, 129 Stat. 660.)
+(Sept. 7, 1950, ch. 907, § 3, 64 Stat. 777; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–523, § 3(a)(1), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, § 7(a), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 106–562, title III, § 302, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title II, § 204, Nov. 5, 2015, 129 Stat. 660.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 For additional provisions relating to the designation of Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
 
-## § 953. General Advisory Committee and Scientific Advisory Subcommittee
+## § 953. General Advisory Committee and Scientific Advisory Subcommittee
 
 **(a) General Advisory Committee**
 
@@ -191,7 +191,7 @@ The Secretary and the Secretary of State shall furnish the General Advisory Comm
 
 **(3) Attendance at meetings.—** The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and the General Advisory Committee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
 
-(Sept. 7, 1950, ch. 907, § 4, 64 Stat. 778; Pub. L. 102–523, § 3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, § 7(b), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 114–81, title II, § 205, Nov. 5, 2015, 129 Stat. 661; Pub. L. 117–286, § 4(a)(105), Dec. 27, 2022, 136 Stat. 4317.)
+(Sept. 7, 1950, ch. 907, § 4, 64 Stat. 778; Pub. L. 102–523, § 3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, § 7(b), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 114–81, title II, § 205, Nov. 5, 2015, 129 Stat. 661; Pub. L. 117–286, § 4(a)(105), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
@@ -199,19 +199,19 @@ The Secretary and the Secretary of State shall furnish the General Advisory Comm
 
 This chapter, referred to in subsec. (a)(1)(E), was in the original “this title” and was translated as reading “this Act” to reflect the probable intent of Congress. Act Sept. 7, 1950, which comprises this chapter, does not contain titles.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified generally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified generally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
 2022—Subsec. (a)(1)(E). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-2015—Subsec. (a). Pub. L. 114–81, § 205(1), added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
+2015—Subsec. (a). Pub. L. 114–81, § 205(1), added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
 
-Subsec. (b). Pub. L. 114–81, § 205(2), substituted “Scientific Advisory Subcommittee” for “Functions” in heading.
+Subsec. (b). Pub. L. 114–81, § 205(2), substituted “Scientific Advisory Subcommittee” for “Functions” in heading.
 
-Subsec. (b)(1). Pub. L. 114–81, § 205(2), added par. (1) and struck out former par. (1) which read as follows: “The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions.”
+Subsec. (b)(1). Pub. L. 114–81, § 205(2), added par. (1) and struck out former par. (1) which read as follows: “The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions.”
 
-Subsec. (b)(3). Pub. L. 114–81, § 205(3), substituted “General Advisory Committee” for “General Advisory Subcommittee”.
+Subsec. (b)(3). Pub. L. 114–81, § 205(3), substituted “General Advisory Committee” for “General Advisory Subcommittee”.
 
 1997—Pub. L. 105–42 which directed insertion of catchline and general amendment of text of section 4 of the Tuna Conventions Act, was executed to this section, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The United States Commissioners shall (a) appoint an advisory committee which shall be composed of not less than five nor more than fifteen persons who shall be selected from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations, and (b) shall fix the terms of office of the members of such committee, who shall receive no compensation for their services as such members. The advisory committee shall be invited to attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the commissions. The advisory committee may attend all meetings of the international commissions to which they are invited by such commissions.”
 
@@ -227,11 +227,11 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 954. Repealed. Pub. L. 92–471, title II, § 203(b), Oct. 9, 1972, 86 Stat. 787
+## § 954. Repealed. Pub. L. 92–471, title II, § 203(b), Oct. 9, 1972, 86 Stat. 787
 
-Section, act Sept. 7, 1950, ch. 907, § 5, 64 Stat. 778, provided that service of individuals appointed as United States Commissioners shall not be treated as service for the purposes of certain sections of Title 18, Crimes and Criminal Procedure, and Title 5, Government Organization and Employees.
+Section, act Sept. 7, 1950, ch. 907, § 5, 64 Stat. 778, provided that service of individuals appointed as United States Commissioners shall not be treated as service for the purposes of certain sections of Title 18, Crimes and Criminal Procedure, and Title 5, Government Organization and Employees.
 
-## § 955. Rulemaking
+## § 955. Rulemaking
 
 **(a) Regulations**
 
@@ -241,13 +241,13 @@ The Secretary, in consultation with the Secretary of State and, with respect to 
 
 The Secretary may promulgate regulations as may be necessary to carry out the United States international obligations under the Convention and this chapter, applicable to all vessels and persons subject to the jurisdiction of the United States, including vessels documented under chapter 121 of title 46, wherever they may be operating, on such date as the Secretary shall prescribe.
 
-(Sept. 7, 1950, ch. 907, § 6, 64 Stat. 778; Pub. L. 87–814, § 2, Oct. 15, 1962, 76 Stat. 923; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 114–81, title II, § 206, Nov. 5, 2015, 129 Stat. 663.)
+(Sept. 7, 1950, ch. 907, § 6, 64 Stat. 778; Pub. L. 87–814, § 2, Oct. 15, 1962, 76 Stat. 923; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 114–81, title II, § 206, Nov. 5, 2015, 129 Stat. 663.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -263,11 +263,11 @@ Subsec. (c). Pub. L. 87–814 added subsec. (c).
 
 Functions of the Secretary of the Interior transferred to the Secretary of Commerce in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 956. Inspection of returns, records, or other reports
+## § 956. Inspection of returns, records, or other reports
 
 Any person authorized to carry out enforcement activities under this chapter and any person authorized by the commissions shall have power without warrant or other process, to inspect, at any reasonable time, catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished.
 
-(Sept. 7, 1950, ch. 907, § 7, 64 Stat. 778; Pub. L. 87–814, § 3, Oct. 15, 1962, 76 Stat. 924.)
+(Sept. 7, 1950, ch. 907, § 7, 64 Stat. 778; Pub. L. 87–814, § 3, Oct. 15, 1962, 76 Stat. 924.)
 
 **Editorial Notes**
 
@@ -275,7 +275,7 @@ Any person authorized to carry out enforcement activities under this chapter and
 
 1962—Pub. L. 87–814 substituted provisions respecting inspection of returns, records, or other reports for provisions authorizing a fine not exceeding $1,000 and proceedings for injunction against fishing for or possessing the kind of fish covered by the convention for failure to make, keep, furnish, or refusal to permit inspection of returns, records, or reports or for furnishing a false return, record, or report.
 
-## § 957. Violations; fines and forfeitures; application of related laws
+## § 957. Violations; fines and forfeitures; application of related laws
 
 **(a) Fishing violations**
 
@@ -313,15 +313,15 @@ All provisions of law relating to the seizure, judicial forfeiture, and condemna
 
 For prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
-(Sept. 7, 1950, ch. 907, § 8, 64 Stat. 779; Pub. L. 87–814, § 4, Oct. 15, 1962, 76 Stat. 924; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 114–81, title II, § 207, Nov. 5, 2015, 129 Stat. 663.)
+(Sept. 7, 1950, ch. 907, § 8, 64 Stat. 779; Pub. L. 87–814, § 4, Oct. 15, 1962, 76 Stat. 924; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 114–81, title II, § 207, Nov. 5, 2015, 129 Stat. 663.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsecs. (a), (c). Pub. L. 114–81, § 207(1), substituted “section 955 of this title” for “section 955(c) of this title” wherever appearing.
+2015—Subsecs. (a), (c). Pub. L. 114–81, § 207(1), substituted “section 955 of this title” for “section 955(c) of this title” wherever appearing.
 
-Subsec. (i). Pub. L. 114–81, § 207(2), added subsec. (i).
+Subsec. (i). Pub. L. 114–81, § 207(2), added subsec. (i).
 
 1962—Pub. L. 87–814 substituted provisions respecting violations, fines, and forfeitures, and application of related laws for provisions respecting enforcement of chapter.
 
@@ -331,7 +331,7 @@ Subsec. (i). Pub. L. 114–81, § 207(2), added subsec. (i).
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 955 of this title.
 
-## § 958. Cooperation with other agencies
+## § 958. Cooperation with other agencies
 
 **(a) Coordination of programs**
 
@@ -345,13 +345,13 @@ All agencies of the Federal Government are authorized on request of the commissi
 
 The commissions are authorized and empowered to supply facilities and personnel to existing non-Federal agencies to expedite research work which in the judgment of the commissions is contributing or will contribute directly to the purposes of the conventions.
 
-(Sept. 7, 1950, ch. 907, § 9, 64 Stat. 779.)
+(Sept. 7, 1950, ch. 907, § 9, 64 Stat. 779.)
 
-## § 959. Enforcement
+## § 959. Enforcement
 
 For enforcement of this chapter, see section 1826g of this title.
 
-(Sept. 7, 1950, ch. 907, § 10, 64 Stat. 779; Pub. L. 87–814, § 5, Oct. 15, 1962, 76 Stat. 925; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 114–81, title II, § 208, Nov. 5, 2015, 129 Stat. 663.)
+(Sept. 7, 1950, ch. 907, § 10, 64 Stat. 779; Pub. L. 87–814, § 5, Oct. 15, 1962, 76 Stat. 925; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 114–81, title II, § 208, Nov. 5, 2015, 129 Stat. 663.)
 
 **Editorial Notes**
 
@@ -369,13 +369,13 @@ Subsec. (d). Pub. L. 87–814 incorporated provisions of former subsec. (a) in p
 
 Subsecs. (e), (f). Pub. L. 87–814 added subsecs. (e) and (f).
 
-## § 960. Commissions’ functions not restrained by this chapter or State laws
+## § 960. Commissions’ functions not restrained by this chapter or State laws
 
 None of the prohibitions contained in this chapter or in the laws and regulations of the States shall prevent the commissions from conducting or authorizing the conduct of fishing operations and biological experiments at any time for the purpose of scientific investigations as authorized by the conventions, or shall prevent the commissions from discharging any of its or their functions or duties prescribed by the conventions.
 
-(Sept. 7, 1950, ch. 907, § 11, 64 Stat. 779.)
+(Sept. 7, 1950, ch. 907, § 11, 64 Stat. 779.)
 
-## § 961. Authorization of appropriations
+## § 961. Authorization of appropriations
 
 There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of each convention and of this chapter, including—
 
@@ -389,19 +389,19 @@ There is hereby authorized to be appropriated from time to time, out of any mone
 
 **(e)** purchase, hire, operation, maintenance, and repair of aircraft, motor vehicles (including passenger-carrying vehicles), boats and research vessels.
 
-(Sept. 7, 1950, ch. 907, § 12, 64 Stat. 780.)
+(Sept. 7, 1950, ch. 907, § 12, 64 Stat. 780.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “subchapter I of chapter 57 of title 5, or section 5731(a) of title 5” substituted for “the Travel Expense Act of 1949, or section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b), “subchapter I of chapter 57 of title 5, or section 5731(a) of title 5” substituted for “the Travel Expense Act of 1949, or section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (c), “section 501 of title 44 or section 6101 of title 41” substituted for “section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111), or section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “section 501 of title 44 or section 6101 of title 41” substituted for “section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111), or section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (d), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-## § 962. Reduction of bycatch in eastern tropical Pacific Ocean
+## § 962. Reduction of bycatch in eastern tropical Pacific Ocean
 
 The Secretary of State, in consultation with the Secretary of Commerce and acting through the United States Commissioners, shall seek, in cooperation with other nations whose vessels fish for tuna in the eastern tropical Pacific Ocean, to establish standards and measures for a bycatch reduction program for vessels fishing for yellowfin tuna in the eastern tropical Pacific Ocean. The bycatch reduction program shall include measures—
 
@@ -413,7 +413,7 @@ The Secretary of State, in consultation with the Secretary of Commerce and actin
 
 **(4)** to reduce, to the maximum extent practicable, the mortality of juveniles of the target species.
 
-(Sept. 7, 1950, ch. 907, § 15, as added Pub. L. 105–42, § 7(c), Aug. 15, 1997, 111 Stat. 1138; amended Pub. L. 114–81, title II, § 209, Nov. 5, 2015, 129 Stat. 664.)
+(Sept. 7, 1950, ch. 907, § 15, as added Pub. L. 105–42, § 7(c), Aug. 15, 1997, 111 Stat. 1138; amended Pub. L. 114–81, title II, § 209, Nov. 5, 2015, 129 Stat. 664.)
 
 **Editorial Notes**
 

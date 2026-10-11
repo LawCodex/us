@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 58—POTATO RESEARCH AND PROMOTION
 
-## § 2611. Congressional findings and declaration of policy
+## § 2611. Congressional findings and declaration of policy
 
 Potatoes are a basic food in the United States and foreign countries. They are produced by many individual potato growers in every State in the United States and imported into the United States from foreign countries. In 1966, there were one million four hundred and ninety-seven thousand acres of cropland in the United States devoted to the production of potatoes.
 
@@ -25,33 +25,33 @@ The maintenance and expansion of existing potato markets and the development of 
 
 Therefore, it is the declared policy of the Congress and the purpose of this chapter that it is essential in the public interest, through the exercise of the powers provided herein, to authorize the establishment of an orderly procedure for the financing, through adequate assessments on all potatoes harvested in the United States for commercial use and imported into the United States from foreign countries, and the carrying out of an effective and continuous coordinated program of research, development, advertising, and promotion designed to strengthen potatoes’ competitive position, and to maintain and expand domestic and foreign markets for potatoes and potato products.
 
-(Pub. L. 91–670, title III, § 302, Jan. 11, 1971, 84 Stat. 2041; Pub. L. 101–624, title XIX, § 1936, Nov. 28, 1990, 104 Stat. 3865.)
+(Pub. L. 91–670, title III, § 302, Jan. 11, 1971, 84 Stat. 2041; Pub. L. 101–624, title XIX, § 1936, Nov. 28, 1990, 104 Stat. 3865.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–624, in first par., inserted “and foreign countries” and “and imported into the United States from foreign countries” and struck out at end “Approximately two hundred and seventy-five million hundredweight of potatoes have been produced annually during the past five years with an estimated sales value to the potato producers of $561,000,000.”; in second par., struck out “, in a large part,” after “products move”, inserted “or foreign”, and struck out at end “All potatoes produced in the United States are in the current of interstate commerce or directly burden, obstruct, or affect interstate commerce in potatoes and potato products.” and, in third par., inserted “and imported into the United States from foreign countries” and substituted “and potato products” for “produced in the United States”.
+1990—Pub. L. 101–624, in first par., inserted “and foreign countries” and “and imported into the United States from foreign countries” and struck out at end “Approximately two hundred and seventy-five million hundredweight of potatoes have been produced annually during the past five years with an estimated sales value to the potato producers of $561,000,000.”; in second par., struck out “, in a large part,” after “products move”, inserted “or foreign”, and struck out at end “All potatoes produced in the United States are in the current of interstate commerce or directly burden, obstruct, or affect interstate commerce in potatoes and potato products.” and, in third par., inserted “and imported into the United States from foreign countries” and substituted “and potato products” for “produced in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 91–670, title III, § 319, Jan. 11, 1971, 84 Stat. 2047, provided that: “This title [see Short Title note below] shall take effect upon enactment [Jan. 11, 1971]”.
+Pub. L. 91–670, title III, § 319, Jan. 11, 1971, 84 Stat. 2047, provided that: “This title [see Short Title note below] shall take effect upon enactment [Jan. 11, 1971]”.
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XIX, § 1935, Nov. 28, 1990, 104 Stat. 3865, provided that: “This subtitle [subtitle C (§§ 1935–1946) of title XIX of Pub. L. 101–624, amending this section and sections 2612 to 2614, 2617 to 2619, and 2622 to 2624 of this title, and enacting provisions set out as a note under section 2625 of this title] may be cited as the ‘Potato Research and Promotion Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, § 1935, Nov. 28, 1990, 104 Stat. 3865, provided that: “This subtitle [subtitle C (§§ 1935–1946) of title XIX of Pub. L. 101–624, amending this section and sections 2612 to 2614, 2617 to 2619, and 2622 to 2624 of this title, and enacting provisions set out as a note under section 2625 of this title] may be cited as the ‘Potato Research and Promotion Act Amendments of 1990’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–244, § 1, Aug. 26, 1982, 96 Stat. 310, provided: “That this Act [amending sections 2617, 2621, and 2623 of this title] may be cited as the ‘Potato Research and Promotion Act Amendments of 1982’.”
+Pub. L. 97–244, § 1, Aug. 26, 1982, 96 Stat. 310, provided: “That this Act [amending sections 2617, 2621, and 2623 of this title] may be cited as the ‘Potato Research and Promotion Act Amendments of 1982’.”
 
 **Short Title**
 
-Pub. L. 91–670, title III, § 301, Jan. 11, 1971, 84 Stat. 2041, provided that: “This title [enacting this chapter and provisions set out as a note under this section] may be cited as the ‘Potato Research and Promotion Act’.”
+Pub. L. 91–670, title III, § 301, Jan. 11, 1971, 84 Stat. 2041, provided that: “This title [enacting this chapter and provisions set out as a note under this section] may be cited as the ‘Potato Research and Promotion Act’.”
 
-## § 2612. Definitions
+## § 2612. Definitions
 
 As used in this chapter:
 
@@ -69,21 +69,21 @@ As used in this chapter:
 
 **(g)** The term “importer” means any person who imports tablestock, frozen, or processed potatoes for ultimate consumption by humans or seed potatoes into the United States.
 
-(Pub. L. 91–670, title III, § 303, Jan. 11, 1971, 84 Stat. 2041; Pub. L. 101–624, title XIX, § 1937, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, § 303, Jan. 11, 1971, 84 Stat. 2041; Pub. L. 101–624, title XIX, § 1937, Nov. 28, 1990, 104 Stat. 3866.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (c). Pub. L. 101–624, § 1937(1), substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
+1990—Subsec. (c). Pub. L. 101–624, § 1937(1), substituted “50” for “forty-eight contiguous” and inserted before the period at the end “, and grown in foreign countries and imported into the United States”.
 
-Subsec. (g). Pub. L. 101–624, § 1937(2), added subsec. (g).
+Subsec. (g). Pub. L. 101–624, § 1937(2), added subsec. (g).
 
-## § 2613. Authority for issuance and amendment of plan
+## § 2613. Authority for issuance and amendment of plan
 
 To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and from time to time amend, orders applicable to handlers and importers and shall have authority to issue orders authorizing the collection of assessments on potatoes handled or imported under the provisions of this chapter, and to authorize the use of such funds to provide research, development, advertising, and promotion of potatoes in a manner prescribed in this chapter. Any order issued by the Secretary under this chapter shall hereinafter in this chapter be referred to as a “plan”. Any such plan shall be applicable to potatoes produced in the 50 States of the United States and in foreign countries, if importers are subject to a plan and such potatoes are imported into the United States.
 
-(Pub. L. 91–670, title III, § 304, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 101–624, title XIX, § 1938, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, § 304, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 101–624, title XIX, § 1938, Nov. 28, 1990, 104 Stat. 3866.)
 
 **Editorial Notes**
 
@@ -91,11 +91,11 @@ To effectuate the declared policy of this chapter, the Secretary shall, subject 
 
 1990—Pub. L. 101–624 substituted “handlers and importers” for “persons engaged in the handling of potatoes (hereinafter referred to as handlers)”, inserted “or imported”, substituted “50” for “forty-eight contiguous”, and inserted before period at end “and in foreign countries, if importers are subject to a plan and such potatoes are imported into the United States”.
 
-## § 2614. Notice and hearings
+## § 2614. Notice and hearings
 
 When sufficient evidence is presented to the Secretary by interested persons, or whenever the Secretary has reason to believe that a plan will tend to effectuate the declared policy of this chapter, he shall give due notice and opportunity for a hearing upon a proposed plan. Such hearing may be requested by any interested person, including the Secretary, when the request for such hearing is accompanied by a proposal for a plan.
 
-(Pub. L. 91–670, title III, § 305, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 101–624, title XIX, § 1939, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, § 305, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 101–624, title XIX, § 1939, Nov. 28, 1990, 104 Stat. 3866.)
 
 **Editorial Notes**
 
@@ -103,19 +103,19 @@ When sufficient evidence is presented to the Secretary by interested persons, or
 
 1990—Pub. L. 101–624 substituted “interested persons” for “potato producers” in first sentence and “by any interested person, including the Secretary” for “by potato producers or by any other interested person or persons, including the Secretary” in second sentence.
 
-## § 2615. Finding and issuance of plan
+## § 2615. Finding and issuance of plan
 
 After notice and opportunity for hearing, the Secretary shall issue a plan if he finds, and sets forth in such plan, upon the evidence introduced at such hearing, that the issuance of such plan and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
-(Pub. L. 91–670, title III, § 306, Jan. 11, 1971, 84 Stat. 2042.)
+(Pub. L. 91–670, title III, § 306, Jan. 11, 1971, 84 Stat. 2042.)
 
-## § 2616. Regulations
+## § 2616. Regulations
 
 The Secretary is authorized to make such regulations with the force and effect of law, as may be necessary to carry out the provisions of this chapter and the powers vested in him by this chapter.
 
-(Pub. L. 91–670, title III, § 307, Jan. 11, 1971, 84 Stat. 2042.)
+(Pub. L. 91–670, title III, § 307, Jan. 11, 1971, 84 Stat. 2042.)
 
-## § 2617. Required terms and conditions of plans
+## § 2617. Required terms and conditions of plans
 
 Any plan issued pursuant to this chapter shall contain the following terms and conditions:
 
@@ -165,33 +165,33 @@ Providing the board with authority to enter into contracts or agreements, with t
 
 Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
-(Pub. L. 91–670, title III, § 308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, § 2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, § 2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, § 1940, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, § 308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, § 2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, § 2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, § 1940, Nov. 28, 1990, 104 Stat. 3866.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–624, § 1940(1), inserted after first sentence “If importers are subject to a plan, the board shall also include up to 5 representatives of importers, appointed by the Secretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.”, inserted “or importers” after “If producers”, and inserted “, or to importer approval when importers are subject to a plan,” after “approval” in last sentence.
+1990—Subsec. (b). Pub. L. 101–624, § 1940(1), inserted after first sentence “If importers are subject to a plan, the board shall also include up to 5 representatives of importers, appointed by the Secretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.”, inserted “or importers” after “If producers”, and inserted “, or to importer approval when importers are subject to a plan,” after “approval” in last sentence.
 
-Subsec. (e). Pub. L. 101–624, § 1940(2), substituted “2 cents” for “one cent” and inserted “, and importers when importers are subject to a plan,” after “producers”.
+Subsec. (e). Pub. L. 101–624, § 1940(2), substituted “2 cents” for “one cent” and inserted “, and importers when importers are subject to a plan,” after “producers”.
 
-Subsec. (f)(1). Pub. L. 101–624, § 1940(3), inserted “, or importer approval when importers are subject to a plan,” after “producer approval” in proviso.
+Subsec. (f)(1). Pub. L. 101–624, § 1940(3), inserted “, or importer approval when importers are subject to a plan,” after “producer approval” in proviso.
 
-Subsecs. (g) to (j). Pub. L. 101–624, § 1940(4), redesignated subsecs. (h) to (j) as (g) to (i), respectively, and struck out former subsec. (g) which read as follows: “Providing that, notwithstanding any other provisions of this chapter, any potato producer against whose potatoes any assessment is made and collected under authority of this chapter and who is not in favor of supporting the research and promotion program as provided for under this chapter shall have the right to demand and receive from the board a refund of such assessment: *Provided*, That such demand shall be made personally by such producer in accordance with regulations and on a form and within a time period prescribed by the board and approved by the Secretary, but in no event less than ninety days, and upon submission of proof satisfactory to the board that the producer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand therefor.”
+Subsecs. (g) to (j). Pub. L. 101–624, § 1940(4), redesignated subsecs. (h) to (j) as (g) to (i), respectively, and struck out former subsec. (g) which read as follows: “Providing that, notwithstanding any other provisions of this chapter, any potato producer against whose potatoes any assessment is made and collected under authority of this chapter and who is not in favor of supporting the research and promotion program as provided for under this chapter shall have the right to demand and receive from the board a refund of such assessment: *Provided*, That such demand shall be made personally by such producer in accordance with regulations and on a form and within a time period prescribed by the board and approved by the Secretary, but in no event less than ninety days, and upon submission of proof satisfactory to the board that the producer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand therefor.”
 
-1983—Subsec. (b). Pub. L. 98–171, § 2(a)(1), inserted “The requirement for inclusion of public representatives on the board shall not be subject to producer approval in a referendum.”
+1983—Subsec. (b). Pub. L. 98–171, § 2(a)(1), inserted “The requirement for inclusion of public representatives on the board shall not be subject to producer approval in a referendum.”
 
-Subsec. (e). Pub. L. 98–171, § 2(a)(2), amended subsec. (e) generally, substituting requirement that the Secretary fix “the assessment rate at not more than one cent per one hundred pounds of potatoes handled” for “the assessment rate required for such costs as may be incurred under subsection (d) of this section, including any referendum and administrative costs estimated to be incurred by the United States Department of Agriculture under this chapter” and provision “except that if approved by producers pursuant to section 2623 of this title, the rate of assessment shall not exceed” for “*Provided*, That the rate of assessment for fiscal year 1982 and each fiscal year thereafter shall not exceed”.
+Subsec. (e). Pub. L. 98–171, § 2(a)(2), amended subsec. (e) generally, substituting requirement that the Secretary fix “the assessment rate at not more than one cent per one hundred pounds of potatoes handled” for “the assessment rate required for such costs as may be incurred under subsection (d) of this section, including any referendum and administrative costs estimated to be incurred by the United States Department of Agriculture under this chapter” and provision “except that if approved by producers pursuant to section 2623 of this title, the rate of assessment shall not exceed” for “*Provided*, That the rate of assessment for fiscal year 1982 and each fiscal year thereafter shall not exceed”.
 
-Subsec. (f)(1). Pub. L. 98–171, § 2(a)(3), inserted “*Provided*, That the provision for payment to the Department of Agriculture for any referendum and administrative costs so incurred shall not be subject to producer approval in a referendum”.
+Subsec. (f)(1). Pub. L. 98–171, § 2(a)(3), inserted “*Provided*, That the provision for payment to the Department of Agriculture for any referendum and administrative costs so incurred shall not be subject to producer approval in a referendum”.
 
-1982—Subsec. (b). Pub. L. 97–244, § 2(1), substituted provisions that the board be composed of representatives of producers and the public appointed by the Secretary from nominations submitted in accordance with this subsection, that representatives of producers be nominated by producers in such manner as may be prescribed by the Secretary, that public representatives be nominated by the board in such manner as may be prescribed by the Secretary, and that, if producers fail to select nominees for appointment to the board or the board fails to nominate public representatives, the Secretary may appoint persons on the basis of representation as provided for in such plan for provisions that the board could be composed of representatives of producers selected by the Secretary from nominations made by producers in such manner as might be prescribed by the Secretary and that, in the event producers failed to select nominees for appointment to the board, the Secretary was to appoint producers on the basis of representation provided for in such plan.
+1982—Subsec. (b). Pub. L. 97–244, § 2(1), substituted provisions that the board be composed of representatives of producers and the public appointed by the Secretary from nominations submitted in accordance with this subsection, that representatives of producers be nominated by producers in such manner as may be prescribed by the Secretary, that public representatives be nominated by the board in such manner as may be prescribed by the Secretary, and that, if producers fail to select nominees for appointment to the board or the board fails to nominate public representatives, the Secretary may appoint persons on the basis of representation as provided for in such plan for provisions that the board could be composed of representatives of producers selected by the Secretary from nominations made by producers in such manner as might be prescribed by the Secretary and that, in the event producers failed to select nominees for appointment to the board, the Secretary was to appoint producers on the basis of representation provided for in such plan.
 
-Subsec. (e). Pub. L. 97–244, § 2(2), substituted provisions that the assessment rate include any referendum and administrative costs estimated to be incurred by the Department of Agriculture under this chapter, but that the assessment rate for fiscal year 1982 and each fiscal year thereafter not exceed one-half of 1 per centum of the immediate past ten calendar year United States average price received for potatoes by growers as reported by the Department of Agriculture, for provisions that the assessment rate could not exceed 1 cent per hundred pounds of potatoes handled.
+Subsec. (e). Pub. L. 97–244, § 2(2), substituted provisions that the assessment rate include any referendum and administrative costs estimated to be incurred by the Department of Agriculture under this chapter, but that the assessment rate for fiscal year 1982 and each fiscal year thereafter not exceed one-half of 1 per centum of the immediate past ten calendar year United States average price received for potatoes by growers as reported by the Department of Agriculture, for provisions that the assessment rate could not exceed 1 cent per hundred pounds of potatoes handled.
 
-Subsec. (f)(1). Pub. L. 97–244, § 2(3), substituted “as may be authorized by the Secretary, including any referendum and administrative costs incurred by the Department of Agriculture under this chapter” for “as may be authorized by the Secretary”.
+Subsec. (f)(1). Pub. L. 97–244, § 2(3), substituted “as may be authorized by the Secretary, including any referendum and administrative costs incurred by the Department of Agriculture under this chapter” for “as may be authorized by the Secretary”.
 
-## § 2618. Permissive terms and conditions of plans
+## § 2618. Permissive terms and conditions of plans
 
 Any plan issued pursuant to this chapter may contain one or more of the following terms and conditions:
 
@@ -231,7 +231,7 @@ Providing for authority to assess imports of tablestock, frozen, or processed po
 
 Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such plan.
 
-(Pub. L. 91–670, title III, § 309, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, § 1941, Nov. 28, 1990, 104 Stat. 3867.)
+(Pub. L. 91–670, title III, § 309, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, § 1941, Nov. 28, 1990, 104 Stat. 3867.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ Terms and conditions incidental to and not inconsistent with the terms and condi
 
 1990—Subsecs. (g) to (i). Pub. L. 101–624 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 
-## § 2619. Assessments
+## § 2619. Assessments
 
 **(a) Collection and payment; recordkeeping; limitation**
 
@@ -259,7 +259,7 @@ Handlers and importers responsible for payment of assessments under subsection (
 
 Any such officer or employee violating the provisions of this subsection shall upon conviction be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
-(Pub. L. 91–670, title III, § 310, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, § 1942, Nov. 28, 1990, 104 Stat. 3867; Pub. L. 102–237, title VIII, § 804, Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 91–670, title III, § 310, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, § 1942, Nov. 28, 1990, 104 Stat. 3867; Pub. L. 102–237, title VIII, § 804, Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -267,13 +267,13 @@ Any such officer or employee violating the provisions of this subsection shall u
 
 1991—Subsec. (a)(2). Pub. L. 102–237 substituted “(2) When” for “(2) when”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1942(1), designated existing provisions as par. (1) and added par. (2).
+1990—Subsec. (a). Pub. L. 101–624, § 1942(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 101–624, § 1942(2), inserted “and importers” after “Handlers”.
+Subsec. (b). Pub. L. 101–624, § 1942(2), inserted “and importers” after “Handlers”.
 
-Subsec. (c)(1). Pub. L. 101–624, § 1942(3), inserted “or importers” after “handlers”.
+Subsec. (c)(1). Pub. L. 101–624, § 1942(3), inserted “or importers” after “handlers”.
 
-## § 2620. Procedural rights of persons subject to plan
+## § 2620. Procedural rights of persons subject to plan
 
 **(a) Administrative proceedings; petition; hearing; finality of ruling**
 
@@ -283,9 +283,9 @@ Any person subject to a plan may file a written petition with the Secretary, sta
 
 The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling: *Provided*, That a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to him a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 2621(a) of this title.
 
-(Pub. L. 91–670, title III, § 311, Jan. 11, 1971, 84 Stat. 2045.)
+(Pub. L. 91–670, title III, § 311, Jan. 11, 1971, 84 Stat. 2045.)
 
-## § 2621. Enforcement
+## § 2621. Enforcement
 
 **(a) Jurisdiction of United States district courts; administrative action**
 
@@ -301,7 +301,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(Pub. L. 91–670, title III, § 312, Jan. 11, 1971, 84 Stat. 2045; Pub. L. 97–244, § 3, Aug. 26, 1982, 96 Stat. 310.)
+(Pub. L. 91–670, title III, § 312, Jan. 11, 1971, 84 Stat. 2045; Pub. L. 97–244, § 3, Aug. 26, 1982, 96 Stat. 310.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 Subsec. (b). Pub. L. 97–244 added subsec. (b). Former subsec. (b), which provided that any handler who violated any provision of any plan issued by the Secretary under this chapter, or who failed or refused to remit any assessment or fee duly required of him thereunder, would be subject to criminal prosecution and would be fined not less than $100 nor more than $1,000 for each such offense, was struck out.
 
-## § 2622. Investigations
+## § 2622. Investigations
 
 **(a) Administration of oath; subpena; contempts; process; jurisdiction**
 
@@ -321,7 +321,7 @@ The Secretary may make such investigations as he deems necessary for the effecti
 
 No person shall be excused from attending and testifying or from producing books, papers, and documents before the Secretary, or in obedience to the subpena of the Secretary, or in any cause or proceeding, criminal or otherwise, based upon, or growing out of any alleged violation of this chapter, or of any plan, or rule or regulation issued thereunder on the ground or for the reason that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture; but no individual shall be prosecuted or subjected to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, documentary or otherwise, except that any individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
-(Pub. L. 91–670, title III, § 313, Jan. 11, 1971, 84 Stat. 2046; Pub. L. 101–624, title XIX, § 1943, Nov. 28, 1990, 104 Stat. 3868.)
+(Pub. L. 91–670, title III, § 313, Jan. 11, 1971, 84 Stat. 2046; Pub. L. 101–624, title XIX, § 1943, Nov. 28, 1990, 104 Stat. 3868.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ No person shall be excused from attending and testifying or from producing books
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “any” for “a handler or any other” before “person has engaged” in first sentence, and struck out “handler or other” after “judicial district where such” in last sentence.
 
-## § 2623. Referendum
+## § 2623. Referendum
 
 **(a) Secretary’s duty to conduct; purpose of referendum**
 
@@ -347,19 +347,19 @@ The failure of potato producers and importers to approve an amendment to any pla
 
 The ballots and other information or reports which reveal or tend to reveal the vote of any producer or his production of potatoes, or any importer or the volume of potatoes imported by such importer, shall be held strictly confidential and shall not be disclosed. Any officer or employee of the Department of Agriculture violating the provisions hereof shall upon conviction be subject to the penalties provided in section 2619(c) of this title.
 
-(Pub. L. 91–670, title III, § 314, Jan. 11, 1971, 84 Stat. 2046; Pub. L. 97–244, § 4, Aug. 26, 1982, 96 Stat. 311; Pub. L. 101–624, title XIX, § 1944, Nov. 28, 1990, 104 Stat. 3868.)
+(Pub. L. 91–670, title III, § 314, Jan. 11, 1971, 84 Stat. 2046; Pub. L. 97–244, § 4, Aug. 26, 1982, 96 Stat. 311; Pub. L. 101–624, title XIX, § 1944, Nov. 28, 1990, 104 Stat. 3868.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–624, § 1944(1), inserted at end “When the issuance of a plan would subject importers to the terms and conditions of a plan, the Secretary also shall conduct the referendum among importers, who during a representative period determined by the Secretary have been engaged in the importation of potatoes, for the purpose of ascertaining whether the issuance of such plan is approved or favored by such importers.”
+1990—Subsec. (a). Pub. L. 101–624, § 1944(1), inserted at end “When the issuance of a plan would subject importers to the terms and conditions of a plan, the Secretary also shall conduct the referendum among importers, who during a representative period determined by the Secretary have been engaged in the importation of potatoes, for the purpose of ascertaining whether the issuance of such plan is approved or favored by such importers.”
 
-Subsec. (b). Pub. L. 101–624, § 1944(2), substituted “a majority of the producers voting in such referendum or a majority of the producers and importers when the issuance of a plan would subject importers to the terms and conditions of a plan, voting in such referendum” for “two-thirds of the producers voting in such referendum, or by the producers of not less than two-thirds of the potatoes produced during the representative period by producers voting in such referendum, and by not less than a majority of the producers voting in such referendum”.
+Subsec. (b). Pub. L. 101–624, § 1944(2), substituted “a majority of the producers voting in such referendum or a majority of the producers and importers when the issuance of a plan would subject importers to the terms and conditions of a plan, voting in such referendum” for “two-thirds of the producers voting in such referendum, or by the producers of not less than two-thirds of the potatoes produced during the representative period by producers voting in such referendum, and by not less than a majority of the producers voting in such referendum”.
 
-Subsec. (c). Pub. L. 101–624, § 1944(3), inserted “and importers” after “producers”.
+Subsec. (c). Pub. L. 101–624, § 1944(3), inserted “and importers” after “producers”.
 
-Subsec. (d). Pub. L. 101–624, § 1944(4), inserted “, or any importer or the volume of potatoes imported by such importer,” after “potatoes”.
+Subsec. (d). Pub. L. 101–624, § 1944(4), inserted “, or any importer or the volume of potatoes imported by such importer,” after “potatoes”.
 
 1982—Pub. L. 97–244 designated existing provisions as subsecs. (a), (b) and (d), in subsec. (a), as so redesignated, inserted commas after “referendum among producers” and “production of potatoes”, struck out commas after “who” and “determined by the Secretary”, and substituted “by such producers” for “by producers”, in subsec. (b), as so redesignated, substituted “under this chapter” for “pursuant to this chapter”, and added subsec. (c).
 
@@ -367,9 +367,9 @@ Subsec. (d). Pub. L. 101–624, § 1944(4), inserted “, or any importer or
 
 **Construction of 1982 Referendum on Amendments to Plan**
 
-Pub. L. 98–171, § 2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: “The failure of potato producers in December 1982 to approve amendments to the plan issued under this title [probably means title III of Pub. L. 91–670 which is classified to this chapter] shall not be deemed to invalidate the plan.”
+Pub. L. 98–171, § 2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: “The failure of potato producers in December 1982 to approve amendments to the plan issued under this title [probably means title III of Pub. L. 91–670 which is classified to this chapter] shall not be deemed to invalidate the plan.”
 
-## § 2624. Suspension or termination of plans
+## § 2624. Suspension or termination of plans
 
 **(a) Duty of Secretary**
 
@@ -383,7 +383,7 @@ The Secretary may conduct a referendum at any time and shall hold a referendum o
 
 The termination or suspension of any plan, or any provision thereof, shall not be considered the issuance of a plan within the meaning of this chapter.
 
-(Pub. L. 91–670, title III, § 315, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 101–624, title XIX, § 1945, Nov. 28, 1990, 104 Stat. 3868.)
+(Pub. L. 91–670, title III, § 315, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 101–624, title XIX, § 1945, Nov. 28, 1990, 104 Stat. 3868.)
 
 **Editorial Notes**
 
@@ -393,21 +393,21 @@ This chapter, referred to in subsec. (c), was in the original “this part”, a
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–624, § 1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
+1990—Subsec. (b). Pub. L. 101–624, § 1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
 
-Subsec. (c). Pub. L. 101–624, § 1945(2), added subsec. (c).
+Subsec. (c). Pub. L. 101–624, § 1945(2), added subsec. (c).
 
-## § 2625. Amendment procedure
+## § 2625. Amendment procedure
 
 The provisions of this chapter applicable to plans shall be applicable to amendments to plans.
 
-(Pub. L. 91–670, title III, § 316, Jan. 11, 1971, 84 Stat. 2047.)
+(Pub. L. 91–670, title III, § 316, Jan. 11, 1971, 84 Stat. 2047.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Amendment Procedure**
 
-Pub. L. 101–624, title XIX, § 1946, Nov. 28, 1990, 104 Stat. 3869, provided that:
+Pub. L. 101–624, title XIX, § 1946, Nov. 28, 1990, 104 Stat. 3869, provided that:
 
 > **“(a) In General.—** Notwithstanding any provision of the Potato Research and Promotion Act [7 U.S.C. 2611 et seq.] (hereafter in this section referred to as the ‘Act’), the procedure specified in this section shall apply if a producer or a producer organization requests the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) to amend the plan in effect under that Act (hereafter in this section referred to as the ‘plan’) to—
 
@@ -447,14 +447,14 @@ Pub. L. 101–624, title XIX, § 1946, Nov. 28, 1990, 104 Stat. 3869, provided
 
 > **“(g) Amendment to Include the 50 States.—** Notwithstanding any provision of the Act, the Secretary shall, upon request of a producer or a producer organization, issue an amendment to the plan to include the 50 States of the United States. Such amendment shall not be subject to a referendum.”
 
-## § 2626. Separability
+## § 2626. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 91–670, title III, § 317, Jan. 11, 1971, 84 Stat. 2047.)
+(Pub. L. 91–670, title III, § 317, Jan. 11, 1971, 84 Stat. 2047.)
 
-## § 2627. Authorization
+## § 2627. Authorization
 
 There is hereby made available from the funds provided by section 612c of this title such sums as are necessary to carry out the provisions of this chapter: *Provided*, That no such sum shall be used for the payment of any expenses or expenditures of the board in administering any provision of any plan issued under authority of this chapter.
 
-(Pub. L. 91–670, title III, § 318, Jan. 11, 1971, 84 Stat. 2047.)
+(Pub. L. 91–670, title III, § 318, Jan. 11, 1971, 84 Stat. 2047.)

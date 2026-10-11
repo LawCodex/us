@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1995—Pub. L. 104–88, title III, § 305(c)(1)(A), (E), Dec. 29, 1995, 109 Stat. 944, 945, substituted “SURFACE TRANSPORTATION BOARD” for “INTERSTATE COMMERCE COMMISSION” in chapter heading and “Board’s” for “Commission’s” in item 2321.
+1995—Pub. L. 104–88, title III, § 305(c)(1)(A), (E), Dec. 29, 1995, 109 Stat. 944, 945, substituted “SURFACE TRANSPORTATION BOARD” for “INTERSTATE COMMERCE COMMISSION” in chapter heading and “Board’s” for “Commission’s” in item 2321.
 
-1975—Pub. L. 93–584, § 8, Jan. 2, 1975, 88 Stat. 1918, substituted “Judicial Review of Commission’s orders and decisions; procedure generally; process” for “Procedure generally; process” in item 2321 and struck out item 2324 “Stay of Commission’s order” and item 2325 “Injunction; three-judge court required”.
+1975—Pub. L. 93–584, § 8, Jan. 2, 1975, 88 Stat. 1918, substituted “Judicial Review of Commission’s orders and decisions; procedure generally; process” for “Procedure generally; process” in item 2321 and struck out item 2324 “Stay of Commission’s order” and item 2325 “Injunction; three-judge court required”.
 
-## § 2321. Judicial review of Board’s orders and decisions; procedure generally; process
+## § 2321. Judicial review of Board’s orders and decisions; procedure generally; process
 
 **(a)** Except as otherwise provided by an Act of Congress, a proceeding to enjoin or suspend, in whole or in part, a rule, regulation, or order of the Surface Transportation Board shall be brought in the court of appeals as provided by and in the manner prescribed in chapter 158 of this title.
 
@@ -31,13 +31,13 @@ retrieved: 2026-10-11
 
 **(c)** The orders, writs, and process of the district courts may, in the cases specified in subsection (b) and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49, run, be served and be returnable anywhere in the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 969; May 24, 1949, ch. 139, § 115, 63 Stat. 105; Pub. L. 93–584, § 5, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, § 2(a)(3)(B), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, § 305(c)(1)(B), (C), Dec. 29, 1995, 109 Stat. 945.)
+(June 25, 1948, ch. 646, 62 Stat. 969; May 24, 1949, ch. 139, § 115, 63 Stat. 105; Pub. L. 93–584, § 5, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, § 2(a)(3)(B), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, § 305(c)(1)(B), (C), Dec. 29, 1995, 109 Stat. 945.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 44 (Oct. 22, 1913, ch. 32, 38 Stat. 220.)
+Based on title 28, U.S.C., 1940 ed., § 44 (Oct. 22, 1913, ch. 32, 38 Stat. 220.)
 
 Word “actions” was substituted for “cases,” in view of rule 2 of the Federal Rules of Civil Procedure.
 
@@ -73,9 +73,9 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–584, § 10, Jan. 2, 1975, 88 Stat. 1918, provided that: “This Act [amending this section, sections 1336, 1398, 2323, 2341, and 2342 of this title, and section 305 of former Title 49, Transportation, and repealing sections 2324 and 2325 of this title] shall not apply to any action commenced on or before the last day of the first month beginning after the date of enactment [Jan. 2, 1975]. However, actions to enjoin or suspend orders of the Interstate Commerce Commission which are pending when this Act becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced.”
+Pub. L. 93–584, § 10, Jan. 2, 1975, 88 Stat. 1918, provided that: “This Act [amending this section, sections 1336, 1398, 2323, 2341, and 2342 of this title, and section 305 of former Title 49, Transportation, and repealing sections 2324 and 2325 of this title] shall not apply to any action commenced on or before the last day of the first month beginning after the date of enactment [Jan. 2, 1975]. However, actions to enjoin or suspend orders of the Interstate Commerce Commission which are pending when this Act becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced.”
 
-## § 2322. United States as party
+## § 2322. United States as party
 
 All actions specified in section 2321 of this title shall be brought by or against the United States.
 
@@ -83,13 +83,13 @@ All actions specified in section 2321 of this title shall be brought by or again
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 48 (Mar. 3, 1911, ch. 231, § 211, 36 Stat. 1150; Oct. 22, 1913, ch. 32, 38 Stat. 219).
+Based on title 28, U.S.C., 1940 ed., § 48 (Mar. 3, 1911, ch. 231, § 211, 36 Stat. 1150; Oct. 22, 1913, ch. 32, 38 Stat. 219).
 
 Word “actions” was substituted for “cases and proceedings”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 A provision authorizing intervention by the United States was omitted. The United States, under the provisions of this section, is a necessary and indispensable original party, and hence intervention is unnecessary. (See *Lambert Run Coal Co. v. Baltimore & O. R. Co*., 1922, 42 S.Ct. 349, 258 U.S. 377, 66 L.Ed. 671.)
 
-## § 2323. Duties of Attorney General; intervenors
+## § 2323. Duties of Attorney General; intervenors
 
 The Attorney General shall represent the Government in the actions specified in section 2321 of this title and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49.
 
@@ -99,13 +99,13 @@ Communities, associations, corporations, firms, and individuals interested in th
 
 The Attorney General shall not dispose of or discontinue said action or proceeding over the objection of such party or intervenor, who may prosecute, defend, or continue said action or proceeding unaffected by the action or nonaction of the Attorney General therein.
 
-(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, § 116, 63 Stat. 105; Pub. L. 93–584, § 6, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, § 2(a)(3)(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, § 305(c)(1)(C), (D), Dec. 29, 1995, 109 Stat. 945.)
+(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, § 116, 63 Stat. 105; Pub. L. 93–584, § 6, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, § 2(a)(3)(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, § 305(c)(1)(C), (D), Dec. 29, 1995, 109 Stat. 945.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 45a (Mar. 3, 1911, ch. 231, §§ 212, 213, 36 Stat. 1150, 1151; Oct. 22, 1913, ch. 32, 38 Stat. 220).
+Based on title 28, U.S.C., 1940 ed., § 45a (Mar. 3, 1911, ch. 231, §§ 212, 213, 36 Stat. 1150, 1151; Oct. 22, 1913, ch. 32, 38 Stat. 220).
 
 The provision in the second sentence of section 45a of title 28, U.S.C., 1940 ed., authorizing the Attorney General to employ and compensate special attorneys was omitted as covered by sections 503 and 508 [now 543 and 548] of this title. The provision in the same sentence authorizing the court to make rules for the conduct and procedure of actions under this section were omitted as covered by the Federal Rules of Civil Procedure and section 2071 of this title relating to authority of district courts to promulgate local rules of procedure.
 
@@ -141,7 +141,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
 
-## [§§ 2324, 2325. Repealed. Pub. L. 93–584, § 7, Jan. 2, 1975, 88 Stat. 1918]
+## [§§ 2324, 2325. Repealed. Pub. L. 93–584, § 7, Jan. 2, 1975, 88 Stat. 1918]
 
 Section 2324, act June 25, 1948, ch. 646, 62 Stat. 970, related to power of court to restrain or suspend operation of orders of Interstate Commerce Commission pending final hearing and determination of action.
 

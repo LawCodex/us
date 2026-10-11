@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—NATIONAL POLICY
 
-### § 7901. Congressional declaration of national policy
+### § 7901. Congressional declaration of national policy
 
 **(a) In general** Congress declares that it is the policy of the United States that Federal departments and agencies, in accordance with the missions of the departments and agencies, Executive Orders 12962 and 13443 (60 Fed. Reg. 30769 (June 7, 1995); 72 Fed. Reg. 46537 (August 16, 2007)), and applicable law, shall—
 
@@ -35,11 +35,11 @@ retrieved: 2026-10-11
 
 In this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the term “fishing” does not include commercial fishing in which fish are harvested, either in whole or in part, that are intended to enter commerce through sale.
 
-(Pub. L. 116–9, title IV, § 4001, Mar. 12, 2019, 133 Stat. 756.)
+(Pub. L. 116–9, title IV, § 4001, Mar. 12, 2019, 133 Stat. 756.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ This title, referred to in subsec. (b), means title IV of Pub. L. 116–9, Mar. 
 
 ## SUBCHAPTER II—SPORTSMEN’S ACCESS TO FEDERAL LAND
 
-### § 7911. Definitions
+### § 7911. Definitions
 
 In this subchapter:
 
@@ -69,7 +69,7 @@ In this subchapter:
 
 **(B)** the Secretary, with respect to land described in paragraph (1)(B).
 
-(Pub. L. 116–9, title IV, § 4101, Mar. 12, 2019, 133 Stat. 757.)
+(Pub. L. 116–9, title IV, § 4101, Mar. 12, 2019, 133 Stat. 757.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,7 +77,7 @@ In this subchapter:
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under section 1 of this title.
 
-### § 7912. Federal land open to hunting, fishing, and recreational shooting
+### § 7912. Federal land open to hunting, fishing, and recreational shooting
 
 **(a) In general**
 
@@ -87,9 +87,9 @@ Subject to subsection (b), Federal land shall be open to hunting, fishing, and r
 
 Nothing in this subchapter opens to hunting, fishing, or recreational shooting any land that is not open to those activities as of March 12, 2019.
 
-(Pub. L. 116–9, title IV, § 4102, Mar. 12, 2019, 133 Stat. 757.)
+(Pub. L. 116–9, title IV, § 4102, Mar. 12, 2019, 133 Stat. 757.)
 
-### § 7913. Closure of Federal land to hunting, fishing, and recreational shooting
+### § 7913. Closure of Federal land to hunting, fishing, and recreational shooting
 
 **(a) Authorization**
 
@@ -139,9 +139,9 @@ In making a designation under paragraph (1), the Secretary concerned shall desig
 
 **(II)** not less than 30 days for a temporary closure.
 
-**(B) Final decision** In a final decision to permanently or temporarily close an area to hunting, fishing, or recreation 1
+**(B) Final decision** In a final decision to permanently or temporarily close an area to hunting, fishing, or recreation 1
 
-<sup>1</sup>  So in original. Probably should be “recreational”.
+<sup>1</sup> So in original. Probably should be “recreational”.
 
 shooting, the Secretary concerned shall—
 
@@ -189,9 +189,9 @@ Any Federal land that is temporarily closed to hunting, fishing, or recreational
 
 **(2)** covered by a special use permit.
 
-(Pub. L. 116–9, title IV, § 4103, Mar. 12, 2019, 133 Stat. 757.)
+(Pub. L. 116–9, title IV, § 4103, Mar. 12, 2019, 133 Stat. 757.)
 
-### § 7914. Shooting ranges
+### § 7914. Shooting ranges
 
 **(a) In general**
 
@@ -219,9 +219,9 @@ Except as provided in subsection (b), the Secretary concerned may, in accordance
 
 **(5)** a component of the National Wild and Scenic Rivers System (including areas designated for study for potential addition to the National Wild and Scenic Rivers System).
 
-(Pub. L. 116–9, title IV, § 4104, Mar. 12, 2019, 133 Stat. 759.)
+(Pub. L. 116–9, title IV, § 4104, Mar. 12, 2019, 133 Stat. 759.)
 
-### § 7915. Identifying opportunities for recreation, hunting, and fishing on Federal land
+### § 7915. Identifying opportunities for recreation, hunting, and fishing on Federal land
 
 **(a) Definitions** In this section:
 
@@ -327,13 +327,13 @@ This section shall have no effect on whether a particular recreational use shall
 
 In preparing the priority list under subsection (b), the Secretary shall only consider recreational uses that are allowed on the land at the time that the priority list is prepared.
 
-(Pub. L. 116–9, title IV, § 4105, Mar. 12, 2019, 133 Stat. 759.)
+(Pub. L. 116–9, title IV, § 4105, Mar. 12, 2019, 133 Stat. 759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43, Public Lands, and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43, Public Lands, and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -343,19 +343,19 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9,
 
 ## SUBCHAPTER III—MISCELLANEOUS
 
-### § 7931. Respect for treaties and rights
+### § 7931. Respect for treaties and rights
 
-Nothing in this title 1
+Nothing in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-or the amendments made by this title— 1
+or the amendments made by this title— 1
 
 **(1)** affects or modifies any treaty or other right of any federally recognized Indian Tribe; or
 
 **(2)** modifies any provision of Federal law relating to migratory birds or to endangered or threatened species.
 
-(Pub. L. 116–9, title IV, § 4401, Mar. 12, 2019, 133 Stat. 766.)
+(Pub. L. 116–9, title IV, § 4401, Mar. 12, 2019, 133 Stat. 766.)
 
 **Editorial Notes**
 
@@ -363,15 +363,15 @@ or the amendments made by this title— 1
 
 This title, referred to in text, means title IV of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 756, which enacted this chapter and amended section 704 of this title, section 504 of Title 5, Government Organization and Employees, section 2412 of Title 28, Judiciary and Judicial Procedure, and section 1304 of Title 31, Money and Finance. For complete classification of title IV to the Code, see Tables.
 
-### § 7932. No priority
+### § 7932. No priority
 
-Nothing in this title 1
+Nothing in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-or the amendments made by this title 1 provides a preference to hunting, fishing, or recreational shooting over any other use of Federal land or water.
+or the amendments made by this title 1 provides a preference to hunting, fishing, or recreational shooting over any other use of Federal land or water.
 
-(Pub. L. 116–9, title IV, § 4402, Mar. 12, 2019, 133 Stat. 766.)
+(Pub. L. 116–9, title IV, § 4402, Mar. 12, 2019, 133 Stat. 766.)
 
 **Editorial Notes**
 
@@ -379,17 +379,17 @@ or the amendments made by this title 1 provides a preference to hunting, fishi
 
 This title, referred to in text, means title IV of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 756, which enacted this chapter and amended section 704 of this title, section 504 of Title 5, Government Organization and Employees, section 2412 of Title 28, Judiciary and Judicial Procedure, and section 1304 of Title 31, Money and Finance. For complete classification of title IV to the Code, see Tables.
 
-### § 7933. State authority for fish and wildlife
+### § 7933. State authority for fish and wildlife
 
-Nothing in this title— 1
+Nothing in this title— 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(1)** authorizes the Secretary of Agriculture or the Secretary to require Federal licenses or permits to hunt and fish on Federal land; or
 
 **(2)** enlarges or diminishes the responsibility or authority of States with respect to fish and wildlife management.
 
-(Pub. L. 116–9, title IV, § 4403, Mar. 12, 2019, 133 Stat. 766.)
+(Pub. L. 116–9, title IV, § 4403, Mar. 12, 2019, 133 Stat. 766.)
 
 **Editorial Notes**
 

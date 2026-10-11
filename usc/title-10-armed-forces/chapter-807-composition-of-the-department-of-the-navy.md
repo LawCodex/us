@@ -23,11 +23,11 @@ A prior chapter 807, consisting of sections 8061 to 8084, related to the Air For
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 507 of this title as this chapter and items 5061 to 5063 as 8061 to 8063, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 507 of this title as this chapter and items 5061 to 5063 as 8061 to 8063, respectively.
 
-1986—Pub. L. 99–433, title V, § 511(b)(1), Oct. 1, 1986, 100 Stat. 1042, inserted heading for new chapter 507 relating to composition of the Department of the Navy, and items 5061 to 5063. The heading for former chapter 507, relating to Office of the Comptroller of the Navy, and former items 5061 to 5064 were struck out as part of the repeal of former chapter 507 by Pub. L. 99–433, title V, § 511(a), Oct. 1, 1986, 100 Stat. 1042.
+1986—Pub. L. 99–433, title V, § 511(b)(1), Oct. 1, 1986, 100 Stat. 1042, inserted heading for new chapter 507 relating to composition of the Department of the Navy, and items 5061 to 5063. The heading for former chapter 507, relating to Office of the Comptroller of the Navy, and former items 5061 to 5064 were struck out as part of the repeal of former chapter 507 by Pub. L. 99–433, title V, § 511(a), Oct. 1, 1986, 100 Stat. 1042.
 
-## § 8061. Department of the Navy: composition
+## § 8061. Department of the Navy: composition
 
 The Department of the Navy is composed of the following:
 
@@ -43,7 +43,7 @@ The Department of the Navy is composed of the following:
 
 **(6)** The Coast Guard when it is operating as a service in the Navy.
 
-(Added Pub. L. 99–433, title V, § 511(b)(1), Oct. 1, 1986, 100 Stat. 1043, § 5061; renumbered § 8061, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 511(b)(1), Oct. 1, 1986, 100 Stat. 1043, § 5061; renumbered § 8061, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -67,7 +67,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8062. United States Navy: composition; functions
+## § 8062. United States Navy: composition; functions
 
 **(a)** The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped for the peacetime promotion of the national security interests and prosperity of the United States and for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the duties described in the preceding sentence except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
 
@@ -127,17 +127,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(h)** In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, § 5012; renumbered § 5062 and amended Pub. L. 99–433, title V, § 511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, § 126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, § 1011(a), Oct. 17, 2006, 120 Stat. 2374; Pub. L. 114–328, div. A, title X, § 1042(a), Dec. 23, 2016, 130 Stat. 2393; renumbered § 8062, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–283, div. A, title X, § 1054, Jan. 1, 2021, 134 Stat. 3850; Pub. L. 117–81, div. A, title X, § 1053, Dec. 27, 2021, 135 Stat. 1908; Pub. L. 117–263, div. A, title I, § 121(a), title IX, § 913, title X, § 1023, Dec. 23, 2022, 136 Stat. 2440, 2751, 2764; Pub. L. 118–31, div. A, title I, § 121(a)(1), title XVIII, § 1801(a)(38), Dec. 22, 2023, 137 Stat. 168, 685; Pub. L. 119–60, div. A, title X, § 1011, Dec. 18, 2025, 139 Stat. 1030.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, § 5012; renumbered § 5062 and amended Pub. L. 99–433, title V, § 511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043; Pub. L. 109–163, div. A, title I, § 126(a), Jan. 6, 2006, 119 Stat. 3159; Pub. L. 109–364, div. A, title X, § 1011(a), Oct. 17, 2006, 120 Stat. 2374; Pub. L. 114–328, div. A, title X, § 1042(a), Dec. 23, 2016, 130 Stat. 2393; renumbered § 8062, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–283, div. A, title X, § 1054, Jan. 1, 2021, 134 Stat. 3850; Pub. L. 117–81, div. A, title X, § 1053, Dec. 27, 2021, 135 Stat. 1908; Pub. L. 117–263, div. A, title I, § 121(a), title IX, § 913, title X, § 1023, Dec. 23, 2022, 136 Stat. 2440, 2751, 2764; Pub. L. 118–31, div. A, title I, § 121(a)(1), title XVIII, § 1801(a)(38), Dec. 22, 2023, 137 Stat. 168, 685; Pub. L. 119–60, div. A, title X, § 1011, Dec. 18, 2025, 139 Stat. 1030.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5012 | 5 U.S.C. 411a(b). | July 26, 1947, ch. 343, § 206(b), 61 Stat. 501. |
+| 5012 | 5 U.S.C. 411a(b). | July 26, 1947, ch. 343, § 206(b), 61 Stat. 501. |
 
 **Amendment of Subsection (e)**
 
-Pub. L. 118–31, div. A, title I, § 121(a), Dec. 22, 2023, 137 Stat. 168, provided that, effective one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) of section 121 of Pub. L. 118–31, with an additional notification requirement, subsection (e) of this section is amended to read as follows:
+Pub. L. 118–31, div. A, title I, § 121(a), Dec. 22, 2023, 137 Stat. 168, provided that, effective one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) of section 121 of Pub. L. 118–31, with an additional notification requirement, subsection (e) of this section is amended to read as follows:
 
 *(e) The Secretary of the Navy shall ensure that—*
 
@@ -161,19 +161,19 @@ A prior section 8062 was renumbered section 9062 of this title.
 
 2025—Subsec. (e)(4). Pub. L. 119–60 added par. (4).
 
-2023—Subsec. (e). Pub. L. 118–31, § 121(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the Secretary’s obligation to maintain a minimum of 9 carrier air wings, with future support for 10 carrier air wings.
+2023—Subsec. (e). Pub. L. 118–31, § 121(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the Secretary’s obligation to maintain a minimum of 9 carrier air wings, with future support for 10 carrier air wings.
 
-Subsecs. (g), (h). Pub. L. 118–31, § 1801(a)(38), redesignated subsec. (g) defining amphibious warfare ship as (h).
+Subsecs. (g), (h). Pub. L. 118–31, § 1801(a)(38), redesignated subsec. (g) defining amphibious warfare ship as (h).
 
-2022—Subsec. (a). Pub. L. 117–263, § 913, substituted “for the peacetime promotion of the national security interests and prosperity of the United States and” for “primarily” and “for the duties described in the preceding sentence” for “for the effective prosecution of war”.
+2022—Subsec. (a). Pub. L. 117–263, § 913, substituted “for the peacetime promotion of the national security interests and prosperity of the United States and” for “primarily” and “for the duties described in the preceding sentence” for “for the effective prosecution of war”.
 
-Subsec. (b). Pub. L. 117–263, § 1023(1), inserted “and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships” after “11 operational aircraft carriers” in first sentence and “or amphibious warfare ship” after “aircraft carrier” in two places in second sentence.
+Subsec. (b). Pub. L. 117–263, § 1023(1), inserted “and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships” after “11 operational aircraft carriers” in first sentence and “or amphibious warfare ship” after “aircraft carrier” in two places in second sentence.
 
-Subsec. (f). Pub. L. 117–263, § 121(a), added subsec. (f). Former subsec. (f) redesignated (g) relating to nuclear powered aircraft carrier.
+Subsec. (f). Pub. L. 117–263, § 121(a), added subsec. (f). Former subsec. (f) redesignated (g) relating to nuclear powered aircraft carrier.
 
-Subsec. (g). Pub. L. 117–263, § 1023(2), added subsec. (g) defining amphibious warfare ship.
+Subsec. (g). Pub. L. 117–263, § 1023(2), added subsec. (g) defining amphibious warfare ship.
 
-Pub. L. 117–263, § 121(a), redesignated subsec. (f) as (g) relating to nuclear powered aircraft carrier.
+Pub. L. 117–263, § 121(a), redesignated subsec. (f) as (g) relating to nuclear powered aircraft carrier.
 
 2021—Subsec. (d). Pub. L. 117–81 inserted “the Coast Guard, the Space Force,” after “the Air Force,”.
 
@@ -185,27 +185,27 @@ Subsec. (f). Pub. L. 116–283 added subsec. (f).
 
 2006—Subsec. (b). Pub. L. 109–364 substituted “11” for “12”.
 
-Pub. L. 109–163, § 126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Pub. L. 109–163, § 126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsecs. (c), (d). Pub. L. 109–163, § 126(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (c), (d). Pub. L. 109–163, § 126(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
-1986—Pub. L. 99–433, § 511(b)(3), renumbered section 5012 of this title as this section.
+1986—Pub. L. 99–433, § 511(b)(3), renumbered section 5012 of this title as this section.
 
-Subsec. (a). Pub. L. 99–433, § 511(b)(4)(A), substituted “assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war” for “assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping”.
+Subsec. (a). Pub. L. 99–433, § 511(b)(4)(A), substituted “assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war” for “assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping”.
 
-Subsec. (d). Pub. L. 99–433, § 511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
+Subsec. (d). Pub. L. 99–433, § 511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title I, § 121(a)(2), Dec. 22, 2023, 137 Stat. 168, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) [of section 121 of Pub. L. 118–31, 137 Stat. 169]. The Secretary of the Navy shall notify the Law Revision Counsel of the House of Representatives of the submission of the report so that the Law Revision Counsel may execute the amendment made by paragraph (1) in accordance with the preceding sentence.”
+Pub. L. 118–31, div. A, title I, § 121(a)(2), Dec. 22, 2023, 137 Stat. 168, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) [of section 121 of Pub. L. 118–31, 137 Stat. 169]. The Secretary of the Navy shall notify the Law Revision Counsel of the House of Representatives of the submission of the report so that the Law Revision Counsel may execute the amendment made by paragraph (1) in accordance with the preceding sentence.”
 
 **Effective Date of 2018 Amendment**
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8063. United States Marine Corps: composition; functions
+## § 8063. United States Marine Corps: composition; functions
 
 **(a)** The Marine Corps, within the Department of the Navy, shall be so organized as to include not less than three combat divisions and three air wings, and such other land combat, aviation, and other services as may be organic therein. The Marine Corps shall be organized, trained, and equipped to provide fleet marine forces of combined arms, together with supporting air components, for service with the fleet in the seizure or defense of advanced naval bases and for the conduct of such land operations as may be essential to the prosecution of a naval campaign. In addition, the Marine Corps shall provide detachments and organizations for service on armed vessels of the Navy, shall provide security detachments for the protection of naval property at naval stations and bases, and shall perform such other duties as the President may direct. However, these additional duties may not detract from or interfere with the operations for which the Marine Corps is primarily organized.
 
@@ -213,17 +213,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The Marine Corps is responsible, in accordance with integrated joint mobilization plans, for the expansion of peacetime components of the Marine Corps to meet the needs of war.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 278, § 5013; renumbered § 5063, Pub. L. 99–433, title V, § 511(b)(3), Oct. 1, 1986, 100 Stat. 1043; renumbered § 8063, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 278, § 5013; renumbered § 5063, Pub. L. 99–433, title V, § 511(b)(3), Oct. 1, 1986, 100 Stat. 1043; renumbered § 8063, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5013 | 5 U.S.C. 411a(c) (less last 32 words of 1st sentence). | July 26, 1947, ch. 343, § 206(c) (less last 32 words of 1st sentence), 61 Stat. 502; as amended June 28, 1952, ch. 479, § 1, 66 Stat. 282. |
+| 5013 | 5 U.S.C. 411a(c) (less last 32 words of 1st sentence). | July 26, 1947, ch. 343, § 206(c) (less last 32 words of 1st sentence), 61 Stat. 502; as amended June 28, 1952, ch. 479, § 1, 66 Stat. 282. |
 
 **Prior Provisions**
 
-A prior section 8066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 494; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(36), 72 Stat. 1566, authorized President, by and with consent of the Senate, to make temporary appointments in grades of general and lieutenant general from officers of Air Force on active duty in any grade above brigadier general and specified the number of positions in each such grade, prior to repeal by Pub. L. 96–513, title II, § 201, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 601 of this title.
+A prior section 8066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 494; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(36), 72 Stat. 1566, authorized President, by and with consent of the Senate, to make temporary appointments in grades of general and lieutenant general from officers of Air Force on active duty in any grade above brigadier general and specified the number of positions in each such grade, prior to repeal by Pub. L. 96–513, title II, § 201, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 601 of this title.
 
 A prior section 8067 was renumbered section 9067 of this title.
 

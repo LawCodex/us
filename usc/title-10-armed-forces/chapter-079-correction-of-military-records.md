@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title V, § 523(b)(1), Dec. 20, 2019, 133 Stat. 1354, added item 1553a.
+2019—Pub. L. 116–92, div. A, title V, § 523(b)(1), Dec. 20, 2019, 133 Stat. 1354, added item 1553a.
 
-2017—Pub. L. 115–91, div. A, title V, § 522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
+2017—Pub. L. 115–91, div. A, title V, § 522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
 
-2008—Pub. L. 110–181, div. A, title XVI, § 1643(a)(2), Jan. 28, 2008, 122 Stat. 467, added item 1554a.
+2008—Pub. L. 110–181, div. A, title XVI, § 1643(a)(2), Jan. 28, 2008, 122 Stat. 467, added item 1554a.
 
-2002—Pub. L. 107–314, div. A, title V, § 552(b), Dec. 2, 2002, 116 Stat. 2552, added item 1559.
+2002—Pub. L. 107–314, div. A, title V, § 552(b), Dec. 2, 2002, 116 Stat. 2552, added item 1559.
 
-2001—Pub. L. 107–107, div. A, title V, § 503(a)(2), Dec. 28, 2001, 115 Stat. 1083, added item 1558.
+2001—Pub. L. 107–107, div. A, title V, § 503(a)(2), Dec. 28, 2001, 115 Stat. 1083, added item 1558.
 
-1998—Pub. L. 105–261, div. A, title V, §§ 542(a)(2), 543(a)(2), 544(b), Oct. 17, 1998, 112 Stat. 2020–2022, added items 1555 to 1557.
+1998—Pub. L. 105–261, div. A, title V, §§ 542(a)(2), 543(a)(2), 544(b), Oct. 17, 1998, 112 Stat. 2020–2022, added items 1555 to 1557.
 
-1962—Pub. L. 87–651, title I, § 110(b), Sept. 7, 1962, 76 Stat. 510, substituted “discharge or dismissal” for “discharges or dismissals” in item 1553, and “retirement or separation without pay for physical disability” for “decisions of retiring boards and similar boards” in item 1554.
+1962—Pub. L. 87–651, title I, § 110(b), Sept. 7, 1962, 76 Stat. 510, substituted “discharge or dismissal” for “discharges or dismissals” in item 1553, and “retirement or separation without pay for physical disability” for “decisions of retiring boards and similar boards” in item 1554.
 
-1958—Pub. L. 85–857, § 13(v)(3), Sept. 2, 1958, 72 Stat. 1268, added items 1553 and 1554.
+1958—Pub. L. 85–857, § 13(v)(3), Sept. 2, 1958, 72 Stat. 1268, added items 1553 and 1554.
 
-## § 1551. Correction of name after separation from service under an assumed name
+## § 1551. Correction of name after separation from service under an assumed name
 
 The Secretary of the military department concerned shall issue a certificate of discharge or an order of acceptance of resignation in the true name of any person who was separated from the Army, Navy, Air Force, Marine Corps, or Space Force honorably or under honorable conditions after serving under an assumed name during a war with another nation or people, upon application by, or on behalf of, that person, and upon proof of his identity. However, a certificate or order may not be issued under this section if the name was assumed to conceal a crime or to avoid its consequences.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Y), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Y), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
@@ -60,9 +60,9 @@ The word “shall” is substituted for the words “is authorized and required�
 
 **Personnel Freeze for Service Review Agencies**
 
-Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, provided that, during fiscal years 1999, 2000, and 2001, the Secretary of a military department could not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until: (1) the Secretary had submitted to Congress a report that described the reduction to be made and the rationale for that reduction, and specified the number of such personnel that would be assigned to duty with that agency after the reduction; and (2) a period of 90 days had elapsed after the date on which such report had been submitted.
+Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, provided that, during fiscal years 1999, 2000, and 2001, the Secretary of a military department could not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until: (1) the Secretary had submitted to Congress a report that described the reduction to be made and the rationale for that reduction, and specified the number of such personnel that would be assigned to duty with that agency after the reduction; and (2) a period of 90 days had elapsed after the date on which such report had been submitted.
 
-## § 1552. Correction of military records: claims incident thereto
+## § 1552. Correction of military records: claims incident thereto
 
 **(a)**
 
@@ -148,13 +148,13 @@ Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, pro
 
 **(k)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, § 1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, § 511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, § 11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, § 1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, § 514, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, § 1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, § 545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, [div. A], title V, § 592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, § 521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, § 521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§ 533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§ 520(a), 521(a), (c)(1), title X, § 1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§ 521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vi), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–263, div. A, title V, § 581, Dec. 23, 2022, 136 Stat. 2610; Pub. L. 118–159, div. A, title V, § 523(a), Dec. 23, 2024, 138 Stat. 1884.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, § 1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, § 511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, § 11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, § 1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, § 514, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, § 1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, § 545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, [div. A], title V, § 592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, § 521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, § 521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§ 533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§ 520(a), 521(a), (c)(1), title X, § 1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§ 521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vi), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–263, div. A, title V, § 581, Dec. 23, 2022, 136 Stat. 2610; Pub. L. 118–159, div. A, title V, § 523(a), Dec. 23, 2024, 138 Stat. 1884.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1552(a) | 5:191a(a) (less 2d and last provisos). 5:275(a) (less 2d and last provisos). | Aug. 2, 1946, ch. 753, § 207; restated Oct. 25, 1951, ch. 588, 65 Stat. 655. |
+| 1552(a) | 5:191a(a) (less 2d and last provisos). 5:275(a) (less 2d and last provisos). | Aug. 2, 1946, ch. 753, § 207; restated Oct. 25, 1951, ch. 588, 65 Stat. 655. |
 | 1552(b) | 5:191a(a) (2d and last provisos). |  |
 |  | 5:275(a) (2d and last provisos). |  |
 | 1552(c) | 5:191a(b), (c). |  |
@@ -170,7 +170,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
 In subsection (b), the words “before October 26, 1961” are substituted for the words “or within ten years after the date of enactment of this section”, in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
-In subsection (c), the words “if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another’s service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as the case may be”, “duly appointed”, “otherwise due hereunder”, “decedent’s”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
+In subsection (c), the words “if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another’s service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as the case may be”, “duly appointed”, “otherwise due hereunder”, “decedent’s”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
 
 In subsection (d), the word “but” is substituted for the words “That, continuing payments are authorized to be made to such personnel”, in 5:191a and 275. The words “if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate” are substituted for the words “without the necessity for reenlistment, appointment, or reappointment to the grade, rank, or office to which such pay (including retired or retirement pay), allowances, compensation, emoluments, and other monetary benefits are attached”, in 5:191a and 275. The words “or one year following the date of enactment of this section”, in 5:191a and 275, are omitted as executed. The words “for payment of such sums as may be due for”, in 5:191a and 275, are omitted as surplusage. The words “(including retired or retirement pay)”, in 5:191a and 275, are omitted as covered by the definition of “pay” in section 101(27) of this title.
 
@@ -178,7 +178,7 @@ In subsection (e), the words “No payment may be made under this section” are
 
 **Amendment of Subsection (a)(5)**
 
-Pub. L. 118–159, div. A, title V, § 523, Dec. 23, 2024, 138 Stat. 1884, provided that, effective Oct. 1, 2026, subsection (a)(5) of this section is amended to read as follows:
+Pub. L. 118–159, div. A, title V, § 523, Dec. 23, 2024, 138 Stat. 1884, provided that, effective Oct. 1, 2026, subsection (a)(5) of this section is amended to read as follows:
 
 *(5) Each final decision of the board under this subsection shall be made available to the public in electronic form on a centralized Internet website. The information provided shall include a summary of each decision, to be indexed by subject matter, except that the Secretary shall protect the privacy of claimants by redacting all personally identifiable information.*
 
@@ -188,7 +188,7 @@ See 2024 Amendment note below.
 
 **References in Text**
 
-The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
+The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 **Amendments**
 
@@ -198,33 +198,33 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 2021—Subsec. (c)(1). Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
-2019—Subsec. (a)(4). Pub. L. 116–92, § 523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+2019—Subsec. (a)(4). Pub. L. 116–92, § 523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
-Subsec. (g). Pub. L. 116–92, § 521(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (g). Pub. L. 116–92, § 521(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 2018—Subsec. (j). Pub. L. 115–232 substituted “chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947” for “chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873”.
 
-2017—Subsec. (h). Pub. L. 115–91, § 520(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+2017—Subsec. (h). Pub. L. 115–91, § 520(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 115–91, § 1081(a)(27), substituted “calendar” for “calender” wherever appearing.
+Subsec. (i). Pub. L. 115–91, § 1081(a)(27), substituted “calendar” for “calender” wherever appearing.
 
-Pub. L. 115–91, § 520(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Pub. L. 115–91, § 520(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 115–91, § 521(c)(1)(A), substituted “former member” for “claimant” in two places.
+Subsec. (i)(1). Pub. L. 115–91, § 521(c)(1)(A), substituted “former member” for “claimant” in two places.
 
-Subsec. (i)(2). Pub. L. 115–91, § 521(c)(1)(B), substituted “former member” for “claimant”.
+Subsec. (i)(2). Pub. L. 115–91, § 521(c)(1)(B), substituted “former member” for “claimant”.
 
-Subsec. (i)(3). Pub. L. 115–91, § 521(c)(1)(C), substituted “former members” for “claimants”.
+Subsec. (i)(3). Pub. L. 115–91, § 521(c)(1)(C), substituted “former members” for “claimants”.
 
-Subsec. (i)(4). Pub. L. 115–91, § 521(a), added par. (4).
+Subsec. (i)(4). Pub. L. 115–91, § 521(a), added par. (4).
 
-Subsec. (j). Pub. L. 115–91, § 520(a)(1), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 115–91, § 520(a)(1), redesignated subsec. (i) as (j).
 
-2016—Subsec. (a)(3). Pub. L. 114–328, § 534(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+2016—Subsec. (a)(3). Pub. L. 114–328, § 534(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-Subsec. (a)(5). Pub. L. 114–328, § 534(b), added par. (5).
+Subsec. (a)(5). Pub. L. 114–328, § 534(b), added par. (5).
 
-Subsecs. (h), (i). Pub. L. 114–328, § 533(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 114–328, § 533(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 2015—Subsec. (b). Pub. L. 114–92 substituted “(or the claimant’s heir or legal representative) or the Secretary concerned” for “or his heir or legal representative”, “discovering” for “he discovers”, and “The Secretary concerned may file a request for correction of a military record only if the request is made on behalf of a group of members or former members of the armed forces who were similarly harmed by the same error or injustice. A board” for “However, a board”.
 
@@ -234,21 +234,21 @@ Subsecs. (h), (i). Pub. L. 114–328, § 533(a), added subsec. (h) and redesig
 
 2002—Subsec. (a)(1). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1998—Subsec. (c). Pub. L. 105–261, § 545(a), inserted “, or on account of his or another’s service as a civilian employee” before period at end of first sentence.
+1998—Subsec. (c). Pub. L. 105–261, § 545(a), inserted “, or on account of his or another’s service as a civilian employee” before period at end of first sentence.
 
-Subsec. (g). Pub. L. 105–261, § 545(b), added subsec. (g).
+Subsec. (g). Pub. L. 105–261, § 545(b), added subsec. (g).
 
 1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
-1989—Subsec. (a). Pub. L. 101–189, § 514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+1989—Subsec. (a). Pub. L. 101–189, § 514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
-Subsec. (b). Pub. L. 101–189, § 514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
+Subsec. (b). Pub. L. 101–189, § 514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
 
-Subsec. (e). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (e). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1988—Subsec. (b). Pub. L. 100–456, § 1233(a)(1), substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
+1988—Subsec. (b). Pub. L. 100–456, § 1233(a)(1), substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
 
-Subsec. (c). Pub. L. 100–456, § 1233(a)(2), substituted “The Secretary concerned” for “The department concerned”.
+Subsec. (c). Pub. L. 100–456, § 1233(a)(2), substituted “The Secretary concerned” for “The department concerned”.
 
 1983—Subsec. (f). Pub. L. 98–209 added subsec. (f).
 
@@ -260,7 +260,7 @@ Subsec. (c). Pub. L. 100–456, § 1233(a)(2), substituted “The Secretary co
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title V, § 523(b), Dec. 23, 2024, 138 Stat. 1884, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2026.”
+Pub. L. 118–159, div. A, title V, § 523(b), Dec. 23, 2024, 138 Stat. 1884, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2026.”
 
 **Effective Date of 2018 Amendment**
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title V, § 592(c), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any sentence of a court-martial set aside by a Corrections Board on or after October 1, 2007, when the Corrections Board includes an order or recommendation for the payment of a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, that arose as a result of the conviction. In this subsection, the term ‘Corrections Board’ has the meaning given that term in section 1557 of title 10, United States Code.”
+Pub. L. 110–417, [div. A], title V, § 592(c), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any sentence of a court-martial set aside by a Corrections Board on or after October 1, 2007, when the Corrections Board includes an order or recommendation for the payment of a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, that arose as a result of the conviction. In this subsection, the term ‘Corrections Board’ has the meaning given that term in section 1557 of title 10, United States Code.”
 
 **Effective Date of 2002 Amendment**
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Review of Titling and Indexing Practices of the Army and Certain Other Organizations**
 
-Pub. L. 117–263, div. A, title V, § 549, Dec. 23, 2022, 136 Stat. 2587, provided that:
+Pub. L. 117–263, div. A, title V, § 549, Dec. 23, 2022, 136 Stat. 2587, provided that:
 
 > **“(a) Review of Titling an [sic] Indexing Decisions.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Army shall review the case file of each member or former member of the Army, the Army Reserve, or the Army National Guard who was titled or indexed in connection with the Guard Recruiting Assistance Program, the Army Reserve Recruiting Assistance Program, or any related activity to determine the appropriateness of the titling or indexing decision that was made with respect to such member or former member.
 
@@ -340,7 +340,7 @@ Pub. L. 117–263, div. A, title V, § 549, Dec. 23, 2022, 136 Stat. 2587, pro
 
 **Removal of Personally Identifying and Other Information of Certain Persons From the Department of Defense Central Index of Investigations**
 
-Pub. L. 116–283, div. A, title V, § 545, Jan. 1, 2021, 134 Stat. 3613, as amended by Pub. L. 118–159, div. A, title V, § 569B, Dec. 23, 2024, 138 Stat. 1907, provided that:
+Pub. L. 116–283, div. A, title V, § 545, Jan. 1, 2021, 134 Stat. 3613, as amended by Pub. L. 118–159, div. A, title V, § 569B, Dec. 23, 2024, 138 Stat. 1907, provided that:
 
 > **“(a) Policy and Process Required.—** Not later than October 1, 2025, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person’s name, personally identifying information, and other information pertaining to the person shall, in accordance with subsection (c), be corrected in, or expunged or otherwise removed from, an index item or entry in the Department of Defense Central Index of Investigations.
 
@@ -386,7 +386,7 @@ Pub. L. 116–283, div. A, title V, § 545, Jan. 1, 2021, 134 Stat. 3613, as a
 
 **Correction of Certain Discharge Characterizations**
 
-Pub. L. 116–92, div. A, title V, § 527, Dec. 20, 2019, 133 Stat. 1356, provided that:
+Pub. L. 116–92, div. A, title V, § 527, Dec. 20, 2019, 133 Stat. 1356, provided that:
 
 > **“(a) In General.—** In accordance with this section, and in a manner that is consistent across the military departments to the greatest extent practicable, the appropriate board shall, at the request of a covered member or the authorized representative of a covered member—
 
@@ -414,11 +414,11 @@ Pub. L. 116–92, div. A, title V, § 527, Dec. 20, 2019, 133 Stat. 1356, prov
 
 **Pilot Program on Use of Video Teleconferencing Technology by Boards for the Correction of Military Records and Discharge Review Boards**
 
-Pub. L. 115–91, div. A, title V, § 524, Dec. 12, 2017, 131 Stat. 1381, provided that Secretary of Defense may carry out pilot program on use of video teleconferencing technology by certain boards for correction of military records and certain discharge review boards and terminated authority for carrying out program on Dec. 31, 2020.
+Pub. L. 115–91, div. A, title V, § 524, Dec. 12, 2017, 131 Stat. 1381, provided that Secretary of Defense may carry out pilot program on use of video teleconferencing technology by certain boards for correction of military records and certain discharge review boards and terminated authority for carrying out program on Dec. 31, 2020.
 
 **Training of Members of Boards**
 
-Pub. L. 116–92, div. A, title V, § 525(a), Dec. 20, 2019, 133 Stat. 1356, provided that:
+Pub. L. 116–92, div. A, title V, § 525(a), Dec. 20, 2019, 133 Stat. 1356, provided that:
 
 > “The curriculum of training for members of boards for the correction of military records under section 534(c) of the National Defense Authorization Act for Fiscal Year 2017 [Pub. L. 114–328] (10 U.S.C. 1552 note) shall include training on each of the following:
 
@@ -430,7 +430,7 @@ Pub. L. 116–92, div. A, title V, § 525(a), Dec. 20, 2019, 133 Stat. 1356, p
 
 > **“(4)** The various responses of individuals to trauma.”
 
-Pub. L. 114–328, div. A, title V, § 534(c), Dec. 23, 2016, 130 Stat. 2122, as amended by Pub. L. 115–91, div. A, title V, § 523(a), Dec. 12, 2017, 131 Stat. 1381, provided that:
+Pub. L. 114–328, div. A, title V, § 534(c), Dec. 23, 2016, 130 Stat. 2122, as amended by Pub. L. 115–91, div. A, title V, § 523(a), Dec. 12, 2017, 131 Stat. 1381, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], each Secretary concerned shall develop and implement a comprehensive training curriculum for members of boards for the correction of military records under the jurisdiction of such Secretary in the duties of such boards under section 1552 of title 10, United States Code. The curriculum shall address all areas of administrative law applicable to the duties of such boards. This curriculum shall also address the proper handling of claims in which a sex-related offense is alleged to have contributed to the original characterization of the discharge or release of the claimant, including guidelines for the consideration of evidence substantiating such allegations in accordance with the requirements of section 1554b(b) of title 10, United States Code, as added by section 522 of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91].
 
@@ -456,7 +456,7 @@ Pub. L. 114–328, div. A, title V, § 534(c), Dec. 23, 2016, 130 Stat. 2122, 
 
 **Board for Correction of Military Records**
 
-Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided that:
+Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided that:
 
 > “Not later than 6 months after the date of the enactment of this Act [Dec. 12, 1989], the Secretary of Transportation shall—
 
@@ -464,7 +464,7 @@ Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided t
 
 > **“(2)** appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
 
-## § 1553. Review of discharge or dismissal
+## § 1553. Review of discharge or dismissal
 
 **(a)** The Secretary concerned shall, after consulting the Secretary of Veterans Affairs, establish a board of review, consisting of not fewer than three members, to review the discharge or dismissal (other than a discharge or dismissal by sentence of a general court-martial) of any former member of an armed force under the jurisdiction of his department upon its own motion or upon the request of the former member or, if he is dead, his surviving spouse, next of kin, or legal representative. A motion or request for review must be made within 15 years after the date of the discharge or dismissal. With respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
 
@@ -508,7 +508,7 @@ Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided t
 
 **(4)** The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-(Added Pub. L. 85–857, § 13(v)(2), Sept. 2, 1958, 72 Stat. 1266; amended Pub. L. 87–651, title I, § 110(a), Sept. 7, 1962, 76 Stat. 509; Pub. L. 98–209, § 11(b), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–84, div. A, title V, § 512(b), Oct. 28, 2009, 123 Stat. 2281; Pub. L. 113–291, div. A, title V, § 521(b), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–328, div. A, title V, §§ 533(b), 535, Dec. 23, 2016, 130 Stat. 2121, 2123; Pub. L. 115–91, div. A, title V, §§ 520(b), 521(b), (c)(2), title X, § 1081(a)(28), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 116–92, div. A, title V, §§ 521(b), 522, 523(b)(2)(B), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title X, § 1081(a)(28), Jan. 1, 2021, 134 Stat. 3872.)
+(Added Pub. L. 85–857, § 13(v)(2), Sept. 2, 1958, 72 Stat. 1266; amended Pub. L. 87–651, title I, § 110(a), Sept. 7, 1962, 76 Stat. 509; Pub. L. 98–209, § 11(b), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–84, div. A, title V, § 512(b), Oct. 28, 2009, 123 Stat. 2281; Pub. L. 113–291, div. A, title V, § 521(b), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–328, div. A, title V, §§ 533(b), 535, Dec. 23, 2016, 130 Stat. 2121, 2123; Pub. L. 115–91, div. A, title V, §§ 520(b), 521(b), (c)(2), title X, § 1081(a)(28), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 116–92, div. A, title V, §§ 521(b), 522, 523(b)(2)(B), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title X, § 1081(a)(28), Jan. 1, 2021, 134 Stat. 3872.)
 
 **Historical and Revision Notes**
 
@@ -518,33 +518,33 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 
 **References in Text**
 
-The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
+The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 **Amendments**
 
 2021—Subsec. (d)(1)(B). Pub. L. 116–283 substituted “is based” for “in based”.
 
-2019—Subsec. (a). Pub. L. 116–92, § 522, substituted “not fewer than three” for “five”.
+2019—Subsec. (a). Pub. L. 116–92, § 522, substituted “not fewer than three” for “five”.
 
-Subsec. (b). Pub. L. 116–92, § 523(b)(2)(B), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 116–92, § 523(b)(2)(B), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(1). Pub. L. 116–92, § 521(b), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (d)(1). Pub. L. 116–92, § 521(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-2017—Subsec. (d)(3)(A)(ii). Pub. L. 115–91, § 520(b), substituted “discharge or dismissal or to the original characterization of the member’s discharge or dismissal” for “discharge of a lesser characterization”.
+2017—Subsec. (d)(3)(A)(ii). Pub. L. 115–91, § 520(b), substituted “discharge or dismissal or to the original characterization of the member’s discharge or dismissal” for “discharge of a lesser characterization”.
 
-Subsec. (f). Pub. L. 115–91, § 1081(a)(28), substituted “calendar” for “calender” wherever appearing.
+Subsec. (f). Pub. L. 115–91, § 1081(a)(28), substituted “calendar” for “calender” wherever appearing.
 
-Subsec. (f)(2). Pub. L. 115–91, § 521(c)(2), substituted “former member” for “claimant”.
+Subsec. (f)(2). Pub. L. 115–91, § 521(c)(2), substituted “former member” for “claimant”.
 
-Subsec. (f)(4). Pub. L. 115–91, § 521(b), added par. (4).
+Subsec. (f)(4). Pub. L. 115–91, § 521(b), added par. (4).
 
-2016—Subsec. (d)(3). Pub. L. 114–328, § 535, added par. (3).
+2016—Subsec. (d)(3). Pub. L. 114–328, § 535, added par. (3).
 
-Subsec. (f). Pub. L. 114–328, § 533(b), added subsec. (f).
+Subsec. (f). Pub. L. 114–328, § 533(b), added subsec. (f).
 
-2014—Subsec. (d)(1). Pub. L. 113–291, § 521(b)(1), substituted “clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable)” for “physician, clinical psychologist, or psychiatrist” before period at end.
+2014—Subsec. (d)(1). Pub. L. 113–291, § 521(b)(1), substituted “clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable)” for “physician, clinical psychologist, or psychiatrist” before period at end.
 
-Subsec. (e). Pub. L. 113–291, § 521(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 113–291, § 521(b)(2), added subsec. (e).
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
@@ -562,7 +562,7 @@ Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a 
 
 **Reviews of Characterization of Administrative Discharges of Certain Members on the Basis of Failure To Receive COVID-19 Vaccine**
 
-Pub. L. 118–31, div. A, title V, § 527, Dec. 22, 2023, 137 Stat. 255, provided that:
+Pub. L. 118–31, div. A, title V, § 527, Dec. 22, 2023, 137 Stat. 255, provided that:
 
 > **“(a) Mandatory Review.—** A board established under section 1553 of title 10, United States Code, shall grant a request pursuant to such section to review the characterization of a discharge or dismissal of a former member of a covered Armed Force if such discharge or dismissal was solely based on the failure of such former member to obey a lawful order to receive a vaccine for COVID-19.
 
@@ -570,7 +570,7 @@ Pub. L. 118–31, div. A, title V, § 527, Dec. 22, 2023, 137 Stat. 255, provi
 
 **Discharge Review Boards**
 
-Pub. L. 116–92, div. A, title V, § 525(b), Dec. 20, 2019, 133 Stat. 1356, provided that:
+Pub. L. 116–92, div. A, title V, § 525(b), Dec. 20, 2019, 133 Stat. 1356, provided that:
 
 > **“(1) In general.—** Each Secretary concerned shall develop and provide training for members of discharge review boards under section 1553 of title 10, United States Code, that are under the jurisdiction of such Secretary on each of the following:
 
@@ -588,9 +588,9 @@ Pub. L. 116–92, div. A, title V, § 525(b), Dec. 20, 2019, 133 Stat. 1356, p
 
 **Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces Who Are Victims of Sexual Offenses**
 
-Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which related to review process for correction of military records, consideration of individual experiences in connection with offenses, and preservation of confidentiality, was repealed by Pub. L. 115–91, div. A, title V, § 522(a)(3), Dec. 12, 2017, 131 Stat. 1380. See section 1554b of this title.
+Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which related to review process for correction of military records, consideration of individual experiences in connection with offenses, and preservation of confidentiality, was repealed by Pub. L. 115–91, div. A, title V, § 522(a)(3), Dec. 12, 2017, 131 Stat. 1380. See section 1554b of this title.
 
-## § 1553a. Review of a request for upgrade of discharge or dismissal
+## § 1553a. Review of a request for upgrade of discharge or dismissal
 
 **(a) Establishment.—** The Secretary of Defense shall establish a process by which to conduct a final review of a request for an upgrade in the characterization of a discharge or dismissal.
 
@@ -610,13 +610,13 @@ Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, whi
 
 **(2)** The term “petitioner” means a member or former member of the armed forces (or if the member or former member is dead, the surviving spouse, next of kin, or legal representative of the member or former member) whose request for an upgrade to the characterization of a discharge or dismissal was not granted under sections 1552 and 1553 of this title.
 
-(Added Pub. L. 116–92, div. A, title V, § 523(a), Dec. 20, 2019, 133 Stat. 1354.)
+(Added Pub. L. 116–92, div. A, title V, § 523(a), Dec. 20, 2019, 133 Stat. 1354.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation and Reporting**
 
-Pub. L. 116–92, div. A, title V, § 523(c)–(e), Dec. 20, 2019, 133 Stat. 1355, provided that:
+Pub. L. 116–92, div. A, title V, § 523(c)–(e), Dec. 20, 2019, 133 Stat. 1355, provided that:
 
 > **“(c) Deadline.—** The Secretary of Defense shall implement section 1553a of such title [title 10, United States Code], as added by subsection (a), not later than January 1, 2021.
 
@@ -634,7 +634,7 @@ Pub. L. 116–92, div. A, title V, § 523(c)–(e), Dec. 20, 2019, 133 Stat. 1
 
 > **“(2) Online publication.—** On October 1, 2022, and annually thereafter, the Secretary shall publish the information described in paragraph (1) with regards to the immediately preceding fiscal year on a website of the Department of Defense that is accessible by the public.”
 
-## § 1554. Review of retirement or separation without pay for physical disability
+## § 1554. Review of retirement or separation without pay for physical disability
 
 **(a)** The Secretary concerned shall from time to time establish boards of review, each consisting of five commissioned officers, two of whom shall be selected from officers of the Army Medical Corps, officers of the Navy Medical Corps, Air Force officers designated as medical officers, or officers of the Public Health Service, as the case may be, to review, upon the request of a member or former member of the uniformed services retired or released from active duty without pay for physical disability, the findings and decisions of the retiring board, board of medical survey, or disposition board in the member’s case. A request for review must be made within 15 years after the date of the retirement or separation.
 
@@ -642,7 +642,7 @@ Pub. L. 116–92, div. A, title V, § 523(c)–(e), Dec. 20, 2019, 133 Stat. 1
 
 **(c)** A review by a board established under this section shall be based upon the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
-(Added Pub. L. 85–857, § 13(v)(2), Sept. 2, 1958, 72 Stat. 1267; amended Pub. L. 87–651, title I, § 110(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–383, div. A, title V, § 533(a), Jan. 7, 2011, 124 Stat. 4216.)
+(Added Pub. L. 85–857, § 13(v)(2), Sept. 2, 1958, 72 Stat. 1267; amended Pub. L. 87–651, title I, § 110(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–383, div. A, title V, § 533(a), Jan. 7, 2011, 124 Stat. 4216.)
 
 **Historical and Revision Notes**
 
@@ -670,7 +670,7 @@ Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a 
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
-## § 1554a. Review of separation with disability rating of 20 percent disabled or less
+## § 1554a. Review of separation with disability rating of 20 percent disabled or less
 
 **(a) In General.—**
 
@@ -728,7 +728,7 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 **(3)** Subsection (c)(4) shall not apply with respect to any review conducted by a board for the correction of military records under paragraph (2).
 
-(Added Pub. L. 110–181, div. A, title XVI, § 1643(a)(1), Jan. 28, 2008, 122 Stat. 465; amended Pub. L. 116–283, div. A, title V, § 522, Jan. 1, 2021, 134 Stat. 3597; Pub. L. 117–81, div. A, title X, § 1081(a)(20), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 110–181, div. A, title XVI, § 1643(a)(1), Jan. 28, 2008, 122 Stat. 465; amended Pub. L. 116–283, div. A, title V, § 522, Jan. 1, 2021, 134 Stat. 3597; Pub. L. 117–81, div. A, title X, § 1081(a)(20), Dec. 27, 2021, 135 Stat. 1920.)
 
 **Editorial Notes**
 
@@ -746,9 +746,9 @@ Subsec. (g)(2). Pub. L. 117–81 struck out second period at end.
 
 **Implementation**
 
-Pub. L. 110–181, div. A, title XVI, § 1643(b), Jan. 28, 2008, 122 Stat. 467, provided that: “The Secretary of Defense shall establish the board of review required by section 1554a of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title XVI, § 1643(b), Jan. 28, 2008, 122 Stat. 467, provided that: “The Secretary of Defense shall establish the board of review required by section 1554a of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act [Jan. 28, 2008].”
 
-## § 1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses
+## § 1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses
 
 **(a) Confidential Review Process Through Boards for Correction of Military Records.—** The Secretaries of the military departments shall each establish a confidential process, utilizing boards of the military department concerned established in accordance with this chapter, by which an individual who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense, during service in the armed forces may challenge the terms or characterization of the discharge or separation of the individual from the armed forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of a sex-related offense.
 
@@ -768,33 +768,33 @@ Pub. L. 110–181, div. A, title XVI, § 1643(b), Jan. 28, 2008, 122 Stat. 467
 
 **(3)** An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).
 
-(Added and amended Pub. L. 115–91, div. A, title V, § 522(a)(1), (b), (c), Dec. 12, 2017, 131 Stat. 1380, 1381.)
+(Added and amended Pub. L. 115–91, div. A, title V, § 522(a)(1), (b), (c), Dec. 12, 2017, 131 Stat. 1380, 1381.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 115–91, is based on text of Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which was formerly set out in a note under section 1553 of this title before being transferred to this chapter and designated as the text of this section.
+Text of section, as added by Pub. L. 115–91, is based on text of Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which was formerly set out in a note under section 1553 of this title before being transferred to this chapter and designated as the text of this section.
 
 **Amendments**
 
-2017—Pub. L. 115–91, § 522(a)(1), inserted section enumerator and catchline and transferred text of section 547 of Pub. L. 113–291 to this section. See Codification note above.
+2017—Pub. L. 115–91, § 522(a)(1), inserted section enumerator and catchline and transferred text of section 547 of Pub. L. 113–291 to this section. See Codification note above.
 
-Subsec. (a). Pub. L. 115–91, § 522(c)(2), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records of the military department concerned” and “being the victim of a sex-related offense” for “being the victim of such an offense”.
+Subsec. (a). Pub. L. 115–91, § 522(c)(2), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records of the military department concerned” and “being the victim of a sex-related offense” for “being the victim of such an offense”.
 
-Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
+Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
 
-Pub. L. 115–91, § 522(b), substituted “who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense,” for “who was the victim of a sex-related offense”.
+Pub. L. 115–91, § 522(b), substituted “who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense,” for “who was the victim of a sex-related offense”.
 
-Subsec. (b). Pub. L. 115–91, § 522(c)(3), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records” in introductory provisions.
+Subsec. (b). Pub. L. 115–91, § 522(c)(3), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records” in introductory provisions.
 
-Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
+Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
 
-Subsec. (d)(1). Pub. L. 115–91, § 522(c)(4)(B), substituted “this title” for “title 10, United States Code”.
+Subsec. (d)(1). Pub. L. 115–91, § 522(c)(4)(B), substituted “this title” for “title 10, United States Code”.
 
-Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this title” for “such title”.
+Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this title” for “such title”.
 
-## § 1555. Professional staff
+## § 1555. Professional staff
 
 **(a)** The Secretary of each military department shall assign to the staff of the service review agency of that military department at least one attorney and at least one physician. Such assignments shall be made on a permanent, full-time basis and may be made from members of the armed forces or civilian employees.
 
@@ -812,7 +812,7 @@ Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this ti
 
 **(3)** with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
 
-(Added Pub. L. 105–261, div. A, title V, § 542(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 106–65, div. A, title V, § 582, Oct. 5, 1999, 113 Stat. 634; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(A), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 105–261, div. A, title V, § 542(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 106–65, div. A, title V, § 582, Oct. 5, 1999, 113 Stat. 634; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(A), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
@@ -826,9 +826,9 @@ Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this ti
 
 **Effective Date**
 
-Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, provided that: “Section 1555 of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, provided that: “Section 1555 of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 17, 1998].”
 
-## § 1556. Ex parte communications prohibited
+## § 1556. Ex parte communications prohibited
 
 **(a) In General.—** The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Department of the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant’s case or have a material effect on the applicant’s case.
 
@@ -844,7 +844,7 @@ Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, 
 
 **(5)** Any military record that is (or may be) provided to the applicant by the Secretary of the military department or other source.
 
-(Added Pub. L. 105–261, div. A, title V, § 543(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(B), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 105–261, div. A, title V, § 543(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(B), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
@@ -856,9 +856,9 @@ Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, 
 
 **Effective Date**
 
-Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, provided that: “Section 1556 of title 10, United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, provided that: “Section 1556 of title 10, United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act [Oct. 17, 1998].”
 
-## § 1557. Timeliness standards for disposition of applications before Corrections Boards
+## § 1557. Timeliness standards for disposition of applications before Corrections Boards
 
 **(a) Ten-Month Clearance Percentage.—** Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
 
@@ -886,7 +886,7 @@ Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, 
 
 **(3)** with respect to the Department of the Air Force, the Department of the Air Force Board for Correction of Military Records.
 
-(Added Pub. L. 105–261, div. A, title V, § 544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(d)(12), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(A), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 105–261, div. A, title V, § 544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(d)(12), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(A), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
@@ -904,7 +904,7 @@ Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, 
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-## § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
+## § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
 
 **(a) Correction of Military Records.—** The Secretary of a military department may correct a person’s military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person’s military records.
 
@@ -1010,7 +1010,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 **(2)** the authority of the Secretary of a military department to correct a military record under section 1552 of this title.
 
-(Added Pub. L. 107–107, div. A, title V, § 503(a)(1), Dec. 28, 2001, 115 Stat. 1080; amended Pub. L. 118–31, div. A, title XVII, § 1722(j)(1), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title V, § 513(c)(1), title XVII, § 1701(a)(23), Dec. 23, 2024, 138 Stat. 1876, 2204; Pub. L. 119–60, div. A, title XVII, § 1701(a)(14), Dec. 18, 2025, 139 Stat. 1208.)
+(Added Pub. L. 107–107, div. A, title V, § 503(a)(1), Dec. 28, 2001, 115 Stat. 1080; amended Pub. L. 118–31, div. A, title XVII, § 1722(j)(1), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title V, § 513(c)(1), title XVII, § 1701(a)(23), Dec. 23, 2024, 138 Stat. 1876, 2204; Pub. L. 119–60, div. A, title XVII, § 1701(a)(14), Dec. 18, 2025, 139 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -1018,19 +1018,19 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 2025—Subsec. (c)(1). Pub. L. 119–60 struck out comma after “Space Force”.
 
-2024—Subsec. (b)(2)(A). Pub. L. 118–159, § 1701(a)(23)(B), substituted “14705” for “14507”.
+2024—Subsec. (b)(2)(A). Pub. L. 118–159, § 1701(a)(23)(B), substituted “14705” for “14507”.
 
-Pub. L. 118–159, § 513(c)(1), inserted “14701a,” after “14701,”.
+Pub. L. 118–159, § 513(c)(1), inserted “14701a,” after “14701,”.
 
-Subsecs. (b)(3), (c)(3)(A), (B)(ii). Pub. L. 118–159, § 1701(a)(23)(A), substituted “Space Force,” for “Space Force,,”.
+Subsecs. (b)(3), (c)(3)(A), (B)(ii). Pub. L. 118–159, § 1701(a)(23)(A), substituted “Space Force,” for “Space Force,,”.
 
-2023—Pub. L. 118–31, § 1722(j)(1)(A), inserted “, or the Space Force,” after “reserve component” wherever appearing.
+2023—Pub. L. 118–31, § 1722(j)(1)(A), inserted “, or the Space Force,” after “reserve component” wherever appearing.
 
-Subsec. (b)(1)(C). Pub. L. 118–31, § 1722(j)(1)(B)(i), substituted “section 628, 14502, or 20252” for “section 628 or 14502”.
+Subsec. (b)(1)(C). Pub. L. 118–31, § 1722(j)(1)(B)(i), substituted “section 628, 14502, or 20252” for “section 628 or 14502”.
 
-Subsec. (b)(2)(A). Pub. L. 118–31, § 1722(j)(1)(B)(ii), substituted “14507, or 20403” for “or 14705”.
+Subsec. (b)(2)(A). Pub. L. 118–31, § 1722(j)(1)(B)(ii), substituted “14507, or 20403” for “or 14705”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 118–31, § 1722(j)(1)(B)(iii), substituted “14101(a), or 20211” for “or 14101(a)”.
+Subsec. (b)(2)(B)(i). Pub. L. 118–31, § 1722(j)(1)(B)(iii), substituted “14101(a), or 20211” for “or 14101(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1038,7 +1038,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 118–31, § 1722(j)(1)(B)(iii), substituted “
 
 Section applicable with respect to any proceeding pending on or after Dec. 28, 2001, without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date, but not applicable with respect to any action commenced in a court of the United States before Dec. 28, 2001, see section 503(c) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under section 628 of this title.
 
-## § 1559. Personnel limitation
+## § 1559. Personnel limitation
 
 **(a) Limitation.—** Before December 31, 2025, the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency.
 
@@ -1056,7 +1056,7 @@ Section applicable with respect to any proceeding pending on or after Dec. 28, 2
 
 **(3)** with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
 
-(Added Pub. L. 107–314, div. A, title V, § 552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, § 581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, [div. A], title V, § 593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div. A, title V, § 533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, § 520, title X, § 1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, § 592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, § 524(a), Dec. 20, 2019, 133 Stat. 1355; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(C), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title XVII, § 1701(a)(24), Dec. 23, 2024, 138 Stat. 2204.)
+(Added Pub. L. 107–314, div. A, title V, § 552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, § 581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, [div. A], title V, § 593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div. A, title V, § 533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, § 520, title X, § 1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, § 592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, § 524(a), Dec. 20, 2019, 133 Stat. 1355; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(C), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title XVII, § 1701(a)(24), Dec. 23, 2024, 138 Stat. 2204.)
 
 **Editorial Notes**
 
@@ -1080,11 +1080,11 @@ Section applicable with respect to any proceeding pending on or after Dec. 28, 2
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “December 31, 2019” for “December 31, 2016” in introductory provisions.
 
-2013—Subsec. (a). Pub. L. 112–239, § 1076(b)(2), made technical amendment to directory language of Pub. L. 111–383. See 2011 Amendment note below.
+2013—Subsec. (a). Pub. L. 112–239, § 1076(b)(2), made technical amendment to directory language of Pub. L. 111–383. See 2011 Amendment note below.
 
-Pub. L. 112–239, § 520, substituted “December 31, 2016” for “December 31, 2013” in introductory provisions.
+Pub. L. 112–239, § 520, substituted “December 31, 2016” for “December 31, 2013” in introductory provisions.
 
-2011—Subsec. (a). Pub. L. 111–383, as amended by Pub. L. 112–239, § 1076(b)(2), substituted “December 31, 2013” for “December 31, 2010” in introductory provisions.
+2011—Subsec. (a). Pub. L. 111–383, as amended by Pub. L. 112–239, § 1076(b)(2), substituted “December 31, 2013” for “December 31, 2010” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–417 substituted “December 31, 2010” for “October 1, 2008” in introductory provisions.
 
@@ -1094,4 +1094,4 @@ Pub. L. 112–239, § 520, substituted “December 31, 2016” for “December
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(b), Jan. 2, 2013, 126 Stat. 1949, provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(b), Jan. 2, 2013, 126 Stat. 1949, provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.

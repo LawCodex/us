@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 68—NATIONAL EDUCATION REFORM
 
-## § 5801. Purpose
+## § 5801. Purpose
 
 The purpose of this chapter is to provide a framework for meeting the National Education Goals established by subchapter I of this chapter by—
 
@@ -51,7 +51,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 **(8)** assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 
-(Pub. L. 103–227, § 2, Mar. 31, 1994, 108 Stat. 128; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(2)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, § 2, Mar. 31, 1994, 108 Stat. 128; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(2)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -61,21 +61,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1996—Par. (4)(B) to (D). Pub. L. 104–134, § 101(d) [title VII, § 703(a)(2)(A)], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
+1996—Par. (4)(B) to (D). Pub. L. 104–134, § 101(d) [title VII, § 703(a)(2)(A)], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
 
-Par. (6)(C) to (F). Pub. L. 104–134, § 101(d) [title VII, § 703(a)(2)(B)], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
+Par. (6)(C) to (F). Pub. L. 104–134, § 101(d) [title VII, § 703(a)(2)(B)], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–25, § 1, Apr. 29, 1999, 113 Stat. 41, provided that: “This Act [enacting sections 5891a and 5891b of this title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title] may be cited as the ‘Education Flexibility Partnership Act of 1999’.”
+Pub. L. 106–25, § 1, Apr. 29, 1999, 113 Stat. 41, provided that: “This Act [enacting sections 5891a and 5891b of this title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title] may be cited as the ‘Education Flexibility Partnership Act of 1999’.”
 
 **Short Title**
 
-Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “This Act (other than titles V and IX) [enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42] may be cited as the ‘Goals 2000: Educate America Act’.”
+Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “This Act (other than titles V and IX) [enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, section 5315 of Title 5, Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and section 11901 of Title 42] may be cited as the ‘Goals 2000: Educate America Act’.”
 
-## § 5802. Definitions
+## § 5802. Definitions
 
 **(a) Subchapters I, II, III, and X** As used in subchapters I, II, III, and X of this chapter—
 
@@ -89,9 +89,9 @@ Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “Th
 
 **(5)** the term “Governor” means the chief executive of the State;
 
-**(6)** the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title; 1
+**(6)** the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(7)** the term “outlying areas” means Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia;
 
@@ -101,7 +101,7 @@ Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “Th
 
 **(10)** the term “State assessment” means measures of student performance which include at least 1 instrument of evaluation, and may include other measures of student performance, for a specific purpose and use which are intended to evaluate the progress of all students in the State toward learning the material in State content standards in 1 or more subject areas;
 
-**(11)** the term “school” means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) <sup>1</sup> of this title, a school that is operated or funded by the Bureau;
+**(11)** the term “school” means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) <sup>1</sup> of this title, a school that is operated or funded by the Bureau;
 
 **(12)** the term “Secretary”, unless otherwise provided, means the Secretary of Education; and
 
@@ -109,21 +109,21 @@ Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “Th
 
 **(b) Subchapters IV, V, VI, VII, VIII, and IX** For the purpose of subchapters IV, V, VI, VII, VIII, and IX—
 
-**(1)** except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title; <sup>1</sup>
+**(1)** except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title; <sup>1</sup>
 
 **(2)** the term “Bureau”, unless otherwise provided, means the Bureau of Indian Affairs; and
 
 **(3)** the term “Secretary”, unless otherwise provided, means the Secretary of Education.
 
-(Pub. L. 103–227, § 3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, § 394(f)(1), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(3)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–446, title III, § 305(e), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 103–227, § 3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, § 394(f)(1), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(3)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–446, title III, § 305(e), Dec. 3, 2004, 118 Stat. 2805.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 131–265. Titles I, V, VI, and VIII are classified generally to subchapters I (§ 5811 et seq.), V (§ 5931 et seq.), VI (§ 5951), and VIII (§ 5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§ 5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§ 5961 et seq.) of this chapter and amended section 1221e–1 of this title. Titles III and IV were classified generally to subchapters III (§ 5881 et seq.) and IV (§ 5911 et seq.), respectively, of this chapter and were repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. Section 5895(b) of this title was repealed by Pub. L. 106–113. Title IX enacted subchapter IX (§ 6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§ 6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
+Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 131–265. Titles I, V, VI, and VIII are classified generally to subchapters I (§ 5811 et seq.), V (§ 5931 et seq.), VI (§ 5951), and VIII (§ 5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§ 5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§ 5961 et seq.) of this chapter and amended section 1221e–1 of this title. Titles III and IV were classified generally to subchapters III (§ 5881 et seq.) and IV (§ 5911 et seq.), respectively, of this chapter and were repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. Section 5895(b) of this title was repealed by Pub. L. 106–113. Title IX enacted subchapter IX (§ 6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§ 6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
 
-Section 8801 of this title, referred to in subsecs. (a)(6) and (b)(1), was repealed by Pub. L. 107–110, title X, § 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986.
+Section 8801 of this title, referred to in subsecs. (a)(6) and (b)(1), was repealed by Pub. L. 107–110, title X, § 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in subsec. (a)(7), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
@@ -133,21 +133,21 @@ For Oct. 1, 1994, as the date the Compact of Free Association with the Governmen
 
 1996—Subsec. (a)(7) to (14). Pub. L. 104–134 redesignated pars. (8) to (14) as (7) to (13), respectively, and struck out former par. (7) which read as follows: “the term ‘opportunity-to-learn standards’ means the criteria for, and the basis of, assessing the sufficiency or quality of the resources, practices, and conditions necessary at each level of the education system (schools, local educational agencies, and States) to provide all students with an opportunity to learn the material in voluntary national content standards or State content standards;”.
 
-1994—Subsec. (a)(6). Pub. L. 103–382, § 394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
+1994—Subsec. (a)(6). Pub. L. 103–382, § 394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
 
-Subsec. (a)(10). Pub. L. 103–382, § 394(f)(1)(A)(ii), substituted “section 1401(a)(17)” for “section 1401”.
+Subsec. (a)(10). Pub. L. 103–382, § 394(f)(1)(A)(ii), substituted “section 1401(a)(17)” for “section 1401”.
 
-Subsec. (b)(1). Pub. L. 103–382, § 394(f)(1)(B), substituted “section 8801” for “section 2891”.
+Subsec. (b)(1). Pub. L. 103–382, § 394(f)(1)(B), substituted “section 8801” for “section 2891”.
 
 ## SUBCHAPTER I—NATIONAL EDUCATION GOALS
 
-### § 5811. Purpose
+### § 5811. Purpose
 
 The purpose of this subchapter is to establish National Education Goals.
 
-(Pub. L. 103–227, title I, § 101, Mar. 31, 1994, 108 Stat. 130.)
+(Pub. L. 103–227, title I, § 101, Mar. 31, 1994, 108 Stat. 130.)
 
-### § 5812. National Education Goals
+### § 5812. National Education Goals
 
 The Congress declares that the National Education Goals are the following:
 
@@ -267,27 +267,27 @@ The Congress declares that the National Education Goals are the following:
 
 **(iii)** parents and families will help to ensure that schools are adequately supported and will hold schools and teachers to high standards of accountability.
 
-(Pub. L. 103–227, title I, § 102, Mar. 31, 1994, 108 Stat. 130.)
+(Pub. L. 103–227, title I, § 102, Mar. 31, 1994, 108 Stat. 130.)
 
 ## SUBCHAPTER II—NATIONAL EDUCATION REFORM LEADERSHIP, STANDARDS, AND ASSESSMENTS
 
 ### Part A—National Education Goals Panel
 
-#### §§ 5821 to 5827. Repealed. Pub. L. 107–110, title X, § 1011(4)(A), Jan. 8, 2002, 115 Stat. 1986
+#### §§ 5821 to 5827. Repealed. Pub. L. 107–110, title X, § 1011(4)(A), Jan. 8, 2002, 115 Stat. 1986
 
-Section 5821, Pub. L. 103–227, title II, § 201, Mar. 31, 1994, 108 Stat. 133; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(4)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, set forth purpose of part.
+Section 5821, Pub. L. 103–227, title II, § 201, Mar. 31, 1994, 108 Stat. 133; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(4)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, set forth purpose of part.
 
-Section 5822, Pub. L. 103–227, title II, § 202, Mar. 31, 1994, 108 Stat. 134; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(5)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, established National Education Goals Panel.
+Section 5822, Pub. L. 103–227, title II, § 202, Mar. 31, 1994, 108 Stat. 134; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(5)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, established National Education Goals Panel.
 
-Section 5823, Pub. L. 103–227, title II, § 203, Mar. 31, 1994, 108 Stat. 136; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(6)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, set forth duties of Panel.
+Section 5823, Pub. L. 103–227, title II, § 203, Mar. 31, 1994, 108 Stat. 136; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(6)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, set forth duties of Panel.
 
-Section 5824, Pub. L. 103–227, title II, § 204, Mar. 31, 1994, 108 Stat. 136; Pub. L. 103–382, title III, § 361(b)(1), Oct. 20, 1994, 108 Stat. 3974; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(7)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to powers of Panel.
+Section 5824, Pub. L. 103–227, title II, § 204, Mar. 31, 1994, 108 Stat. 136; Pub. L. 103–382, title III, § 361(b)(1), Oct. 20, 1994, 108 Stat. 3974; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(7)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to powers of Panel.
 
-Section 5825, Pub. L. 103–227, title II, § 205, Mar. 31, 1994, 108 Stat. 137, set forth administrative provisions.
+Section 5825, Pub. L. 103–227, title II, § 205, Mar. 31, 1994, 108 Stat. 137, set forth administrative provisions.
 
-Section 5826, Pub. L. 103–227, title II, § 206, Mar. 31, 1994, 108 Stat. 138, related to appointment of Director and staff and procurement of experts and consultants.
+Section 5826, Pub. L. 103–227, title II, § 206, Mar. 31, 1994, 108 Stat. 138, related to appointment of Director and staff and procurement of experts and consultants.
 
-Section 5827, Pub. L. 103–227, title II, § 207, Mar. 31, 1994, 108 Stat. 138, related to assessment of readiness of children for school.
+Section 5827, Pub. L. 103–227, title II, § 207, Mar. 31, 1994, 108 Stat. 138, related to assessment of readiness of children for school.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,45 +301,45 @@ Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive pro
 
 **Prior Provisions**
 
-A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, § 101(d) [title VII, § 701(1)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, § 101(d) [title VII, § 701(1)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Section 5841, Pub. L. 103–227, title II, § 211, Mar. 31, 1994, 108 Stat. 139, stated purpose.
+Section 5841, Pub. L. 103–227, title II, § 211, Mar. 31, 1994, 108 Stat. 139, stated purpose.
 
-Section 5842, Pub. L. 103–227, title II, § 212, Mar. 31, 1994, 108 Stat. 139, established National Education Standards and Improvement Council and provided for composition, appointment rules and qualifications, terms, date of appointment, initiation of duties, retention of appointment, vacancy, compensation, conflict of interest, travel, and officers.
+Section 5842, Pub. L. 103–227, title II, § 212, Mar. 31, 1994, 108 Stat. 139, established National Education Standards and Improvement Council and provided for composition, appointment rules and qualifications, terms, date of appointment, initiation of duties, retention of appointment, vacancy, compensation, conflict of interest, travel, and officers.
 
-Section 5843, Pub. L. 103–227, title II, § 213, Mar. 31, 1994, 108 Stat. 142, related to duties of Council.
+Section 5843, Pub. L. 103–227, title II, § 213, Mar. 31, 1994, 108 Stat. 142, related to duties of Council.
 
-Section 5844, Pub. L. 103–227, title II, § 214, Mar. 31, 1994, 108 Stat. 147, required Council to submit annual reports to President, Secretary, appropriate committees of Congress, Governor of each State, and Goals Panel regarding its work.
+Section 5844, Pub. L. 103–227, title II, § 214, Mar. 31, 1994, 108 Stat. 147, required Council to submit annual reports to President, Secretary, appropriate committees of Congress, Governor of each State, and Goals Panel regarding its work.
 
-Section 5845, Pub. L. 103–227, title II, § 215, Mar. 31, 1994, 108 Stat. 147; Pub. L. 103–382, title III, § 361(b)(2), Oct. 20, 1994, 108 Stat. 3975, related to powers of Council.
+Section 5845, Pub. L. 103–227, title II, § 215, Mar. 31, 1994, 108 Stat. 147; Pub. L. 103–382, title III, § 361(b)(2), Oct. 20, 1994, 108 Stat. 3975, related to powers of Council.
 
-Section 5846, Pub. L. 103–227, title II, § 216, Mar. 31, 1994, 108 Stat. 148, related to publication in Federal Register for public comment of certain proposed procedures, standards, and criteria.
+Section 5846, Pub. L. 103–227, title II, § 216, Mar. 31, 1994, 108 Stat. 148, related to publication in Federal Register for public comment of certain proposed procedures, standards, and criteria.
 
-Section 5847, Pub. L. 103–227, title II, § 217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisions relating to Council, including provisions relating to meetings, quorum, voting, and public access.
+Section 5847, Pub. L. 103–227, title II, § 217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisions relating to Council, including provisions relating to meetings, quorum, voting, and public access.
 
-Section 5848, Pub. L. 103–227, title II, § 218, Mar. 31, 1994, 108 Stat. 149, related to Council Director and staff, and use of experts and consultants and staffs of Federal agencies.
+Section 5848, Pub. L. 103–227, title II, § 218, Mar. 31, 1994, 108 Stat. 149, related to Council Director and staff, and use of experts and consultants and staffs of Federal agencies.
 
-Section 5849, Pub. L. 103–227, title II, § 219, Mar. 31, 1994, 108 Stat. 149, related to opportunity-to-learn development grants.
+Section 5849, Pub. L. 103–227, title II, § 219, Mar. 31, 1994, 108 Stat. 149, related to opportunity-to-learn development grants.
 
-Section 5850, Pub. L. 103–227, title II, § 220, Mar. 31, 1994, 108 Stat. 150, related to assessment development and evaluation grants.
+Section 5850, Pub. L. 103–227, title II, § 220, Mar. 31, 1994, 108 Stat. 150, related to assessment development and evaluation grants.
 
-Section 5851, Pub. L. 103–227, title II, § 221, Mar. 31, 1994, 108 Stat. 151, required Secretary to make grant, in amount not to exceed $500,000, to National Academy of Sciences or National Academy of Education to evaluate technical quality of work performed, and certain processes used, by Goals Panel and Council, and required recipient of grant to submit final report to Congress, Secretary, and the public regarding activities assisted under this section not later than Jan. 1, 1998.
+Section 5851, Pub. L. 103–227, title II, § 221, Mar. 31, 1994, 108 Stat. 151, required Secretary to make grant, in amount not to exceed $500,000, to National Academy of Sciences or National Academy of Education to evaluate technical quality of work performed, and certain processes used, by Goals Panel and Council, and required recipient of grant to submit final report to Congress, Secretary, and the public regarding activities assisted under this section not later than Jan. 1, 1998.
 
-#### §§ 5861 to 5864. Repealed. Pub. L. 103–382, title III, § 361(a), Oct. 20, 1994, 108 Stat. 3974
+#### §§ 5861 to 5864. Repealed. Pub. L. 103–382, title III, § 361(a), Oct. 20, 1994, 108 Stat. 3974
 
-Section 5861, Pub. L. 103–227, title II, § 231, Mar. 31, 1994, 108 Stat. 151; Pub. L. 103–382, title III, § 394(f)(2), Oct. 20, 1994, 108 Stat. 4027, stated purpose of this part to provide leadership in educational technology.
+Section 5861, Pub. L. 103–227, title II, § 231, Mar. 31, 1994, 108 Stat. 151; Pub. L. 103–382, title III, § 394(f)(2), Oct. 20, 1994, 108 Stat. 4027, stated purpose of this part to provide leadership in educational technology.
 
-Section 5862, Pub. L. 103–227, title II, § 232, Mar. 31, 1994, 108 Stat. 152; Pub. L. 103–382, title III, § 394(f)(3), Oct. 20, 1994, 108 Stat. 4027, related to Federal leadership in use of technology in education.
+Section 5862, Pub. L. 103–227, title II, § 232, Mar. 31, 1994, 108 Stat. 152; Pub. L. 103–382, title III, § 394(f)(3), Oct. 20, 1994, 108 Stat. 4027, related to Federal leadership in use of technology in education.
 
-Section 5863, Pub. L. 103–227, title II, § 234, Mar. 31, 1994, 108 Stat. 155, related to uses of funds.
+Section 5863, Pub. L. 103–227, title II, § 234, Mar. 31, 1994, 108 Stat. 155, related to uses of funds.
 
-Section 5864, Pub. L. 103–227, title II, § 235, Mar. 31, 1994, 108 Stat. 156, related to non-Federal share of cost of activities assisted under grants or contracts under this part.
+Section 5864, Pub. L. 103–227, title II, § 235, Mar. 31, 1994, 108 Stat. 156, related to non-Federal share of cost of activities assisted under grants or contracts under this part.
 
 ### Part C—Authorization of Appropriations
 
-#### § 5871. Repealed. Pub. L. 107–110, title X, § 1011(4)(A), Jan. 8, 2002, 115 Stat. 1986
+#### § 5871. Repealed. Pub. L. 107–110, title X, § 1011(4)(A), Jan. 8, 2002, 115 Stat. 1986
 
-Section, Pub. L. 103–227, title II, § 241, Mar. 31, 1994, 108 Stat. 156; Pub. L. 104–134, title I, § 101(d) [title VII, § 701(3)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, authorized appropriations.
+Section, Pub. L. 103–227, title II, § 241, Mar. 31, 1994, 108 Stat. 156; Pub. L. 104–134, title I, § 101(d) [title VII, § 701(3)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, authorized appropriations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,37 +349,37 @@ Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive pro
 
 ## SUBCHAPTER III—STATE AND LOCAL EDUCATION SYSTEMIC IMPROVEMENT
 
-### §§ 5881 to 5891. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
+### §§ 5881 to 5891. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
 
-Section 5881, Pub. L. 103–227, title III, § 301, Mar. 31, 1994, 108 Stat. 157, related to congressional findings.
+Section 5881, Pub. L. 103–227, title III, § 301, Mar. 31, 1994, 108 Stat. 157, related to congressional findings.
 
-Section 5882, Pub. L. 103–227, title III, § 302, Mar. 31, 1994, 108 Stat. 158, stated purpose of subchapter.
+Section 5882, Pub. L. 103–227, title III, § 302, Mar. 31, 1994, 108 Stat. 158, stated purpose of subchapter.
 
-Section 5883, Pub. L. 103–227, title III, § 303, Mar. 31, 1994, 108 Stat. 158, related to authorization of appropriations.
+Section 5883, Pub. L. 103–227, title III, § 303, Mar. 31, 1994, 108 Stat. 158, related to authorization of appropriations.
 
-Section 5884, Pub. L. 103–227, title III, § 304, Mar. 31, 1994, 108 Stat. 158; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 703(a)(8), 704], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to allotment of funds.
+Section 5884, Pub. L. 103–227, title III, § 304, Mar. 31, 1994, 108 Stat. 158; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 703(a)(8), 704], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to allotment of funds.
 
-Section 5885, Pub. L. 103–227, title III, § 305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, § 101(d) [title VII, § 705(b)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State applications.
+Section 5885, Pub. L. 103–227, title III, § 305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, § 101(d) [title VII, § 705(b)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State applications.
 
-Section 5886, Pub. L. 103–227, title III, § 306, Mar. 31, 1994, 108 Stat. 160; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 702(a), 703(a)(9), 705(a)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State improvement plans.
+Section 5886, Pub. L. 103–227, title III, § 306, Mar. 31, 1994, 108 Stat. 160; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 702(a), 703(a)(9), 705(a)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State improvement plans.
 
-Section 5887, Pub. L. 103–227, title III, § 307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, § 101(d) [title VII, § 705(c)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to Secretary’s review of applications and payments.
+Section 5887, Pub. L. 103–227, title III, § 307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, § 101(d) [title VII, § 705(c)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to Secretary’s review of applications and payments.
 
-Section 5888, Pub. L. 103–227, title III, § 308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(10)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State use of funds.
+Section 5888, Pub. L. 103–227, title III, § 308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(10)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State use of funds.
 
-Section 5889, Pub. L. 103–227, title III, § 309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103–382, title III, § 361(c), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 702(b), 703(a)(11)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to subgrants for local reform and professional development.
+Section 5889, Pub. L. 103–227, title III, § 309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103–382, title III, § 361(c), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 702(b), 703(a)(11)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to subgrants for local reform and professional development.
 
-Section 5890, Pub. L. 103–227, title III, § 310, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, § 394(f)(4), Oct. 20, 1994, 108 Stat. 4028, related to availability of information and training.
+Section 5890, Pub. L. 103–227, title III, § 310, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, § 394(f)(4), Oct. 20, 1994, 108 Stat. 4028, related to availability of information and training.
 
-Section 5891, Pub. L. 103–227, title III, § 311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, § 394(f)(5), Oct. 20, 1994, 108 Stat. 4028, related to waivers of statutory and regulatory requirements.
+Section 5891, Pub. L. 103–227, title III, § 311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, § 394(f)(5), Oct. 20, 1994, 108 Stat. 4028, related to waivers of statutory and regulatory requirements.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265, provided that: “Titles III [enacting this subchapter] and IV [enacting subchapter IV of this chapter] of the Goals 2000: Educate America Act are repealed on September 30, 2000.”
+Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265, provided that: “Titles III [enacting this subchapter] and IV [enacting subchapter IV of this chapter] of the Goals 2000: Educate America Act are repealed on September 30, 2000.”
 
-### § 5891a. Definitions
+### § 5891a. Definitions
 
 In this Act:
 
@@ -399,7 +399,7 @@ The term “Secretary” means the Secretary of Education.
 
 The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
-(Pub. L. 106–25, § 3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, § 1076(*o*), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9207(a), Dec. 10, 2015, 129 Stat. 2141.)
+(Pub. L. 106–25, § 3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, § 1076(*o*), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9207(a), Dec. 10, 2015, 129 Stat. 2141.)
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Findings**
 
-Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that:
+Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that:
 
 > “Congress makes the following findings:
 
@@ -447,7 +447,7 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that:
 
 > **“(7)** To achieve the State goals for the education of children in the State, the focus must be on results in raising the achievement of all students, not process.”
 
-### § 5891b. Educational flexibility program
+### § 5891b. Educational flexibility program
 
 **(a) Educational flexibility program**
 
@@ -709,17 +709,17 @@ The determination referred to in paragraph (1) is a determination that the perfo
 
 A notice of the Secretary’s decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B), shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
 
-(Pub. L. 106–25, § 4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, § 1073, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 109–270, § 2(e), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, § 9207(b), Dec. 10, 2015, 129 Stat. 2141.)
+(Pub. L. 106–25, § 4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, § 1073, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 109–270, § 2(e), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, § 9207(b), Dec. 10, 2015, 129 Stat. 2141.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§ 6311 et seq.), C (§ 6391 et seq.), and D (§ 6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§ 6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act is classified generally to part A (§ 7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§ 6311 et seq.), C (§ 6391 et seq.), and D (§ 6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§ 6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act is classified generally to part A (§ 7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Every Student Succeeds Act, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 **Codification**
 
@@ -759,7 +759,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Educational Flexibility Program Extension**
 
-Pub. L. 109–211, § 1, Mar. 24, 2006, 120 Stat. 320, provided that:
+Pub. L. 109–211, § 1, Mar. 24, 2006, 120 Stat. 320, provided that:
 
 > **“(a) Extension Authority.—** Notwithstanding any other provision of law, the Secretary of Education is authorized to carry out the educational flexibility program under section 4 of the Education Flexibility Partnership Act of 1999 (20 U.S.C. 5891b), until the date of enactment of an Act that reauthorizes programs under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), for any State that was an Ed-Flex Partnership State on September 30, 2004.
 
@@ -771,91 +771,91 @@ Pub. L. 109–211, § 1, Mar. 24, 2006, 120 Stat. 320, provided that:
 
 **Additional State Educational Agencies Authorized To Waive Federal Requirements**
 
-Pub. L. 104–134, title I, § 101(d) [title III], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 [20 U.S.C. 5891(e)], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
+Pub. L. 104–134, title I, § 101(d) [title III], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 [20 U.S.C. 5891(e)], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
 
-### §§ 5892 to 5895. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
+### §§ 5892 to 5895. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
 
-Section 5892, Pub. L. 103–227, title III, § 312, Mar. 31, 1994, 108 Stat. 178; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 703(a)(12), 705(d)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253, 1321–257; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to progress reports.
+Section 5892, Pub. L. 103–227, title III, § 312, Mar. 31, 1994, 108 Stat. 178; Pub. L. 104–134, title I, § 101(d) [title VII, §§ 703(a)(12), 705(d)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253, 1321–257; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to progress reports.
 
-Section 5893, Pub. L. 103–227, title III, § 313, Mar. 31, 1994, 108 Stat. 179, related to technical and other assistance regarding school finance equity.
+Section 5893, Pub. L. 103–227, title III, § 313, Mar. 31, 1994, 108 Stat. 179, related to technical and other assistance regarding school finance equity.
 
-Section 5894, Pub. L. 103–227, title III, § 314, Mar. 31, 1994, 108 Stat. 180; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(13)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to national leadership.
+Section 5894, Pub. L. 103–227, title III, § 314, Mar. 31, 1994, 108 Stat. 180; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(13)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to national leadership.
 
-Section 5895, Pub. L. 103–227, title III, § 315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, § 384, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(14)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to assistance to outlying areas and to Secretary of the Interior.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
-
-### § 5896. Repealed. Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(15)(A)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327
-
-Section, Pub. L. 103–227, title III, § 316, Mar. 31, 1994, 108 Stat. 184, provided that standards or State assessments described in State improvement plan submitted in accordance with section 5886 of this title were not to be required to be certified by Council.
-
-### §§ 5897 to 5900. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
-
-Section 5897, Pub. L. 103–227, title III, § 317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103–382, title III, § 361(d), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(16)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State planning for improving student achievement through integration of technology into curriculum.
-
-Section 5898, Pub. L. 103–227, title III, § 318, Mar. 31, 1994, 108 Stat. 186, related to prohibition on Federal mandates, direction, and control.
-
-Section 5899, Pub. L. 103–227, title III, § 319, Mar. 31, 1994, 108 Stat. 186, related to State and local government control of education.
-
-Section 5900, Pub. L. 103–227, title III, § 320, as added Pub. L. 104–134, title I, § 101(d) [title VII, § 706], Apr. 26, 1996, 110 Stat. 1321–211, 1321–257; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to certain prohibited conditions to receiving assistance and to limitations on Government officials.
+Section 5895, Pub. L. 103–227, title III, § 315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, § 384, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(14)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to assistance to outlying areas and to Secretary of the Interior.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
+Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
+
+### § 5896. Repealed. Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(15)(A)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327
+
+Section, Pub. L. 103–227, title III, § 316, Mar. 31, 1994, 108 Stat. 184, provided that standards or State assessments described in State improvement plan submitted in accordance with section 5886 of this title were not to be required to be certified by Council.
+
+### §§ 5897 to 5900. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
+
+Section 5897, Pub. L. 103–227, title III, § 317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103–382, title III, § 361(d), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(16)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to State planning for improving student achievement through integration of technology into curriculum.
+
+Section 5898, Pub. L. 103–227, title III, § 318, Mar. 31, 1994, 108 Stat. 186, related to prohibition on Federal mandates, direction, and control.
+
+Section 5899, Pub. L. 103–227, title III, § 319, Mar. 31, 1994, 108 Stat. 186, related to State and local government control of education.
+
+Section 5900, Pub. L. 103–227, title III, § 320, as added Pub. L. 104–134, title I, § 101(d) [title VII, § 706], Apr. 26, 1996, 110 Stat. 1321–211, 1321–257; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to certain prohibited conditions to receiving assistance and to limitations on Government officials.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
 
 ## SUBCHAPTER IV—PARENTAL ASSISTANCE
 
-### §§ 5911 to 5918. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
+### §§ 5911 to 5918. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265
 
-Section 5911, Pub. L. 103–227, title IV, § 401, Mar. 31, 1994, 108 Stat. 187, related to parental information and resource centers.
+Section 5911, Pub. L. 103–227, title IV, § 401, Mar. 31, 1994, 108 Stat. 187, related to parental information and resource centers.
 
-Section 5912, Pub. L. 103–227, title IV, § 402, Mar. 31, 1994, 108 Stat. 187, related to applications.
+Section 5912, Pub. L. 103–227, title IV, § 402, Mar. 31, 1994, 108 Stat. 187, related to applications.
 
-Section 5913, Pub. L. 103–227, title IV, § 403, Mar. 31, 1994, 108 Stat. 189, related to uses of funds.
+Section 5913, Pub. L. 103–227, title IV, § 403, Mar. 31, 1994, 108 Stat. 189, related to uses of funds.
 
-Section 5914, Pub. L. 103–227, title IV, § 404, Mar. 31, 1994, 108 Stat. 189, related to technical assistance.
+Section 5914, Pub. L. 103–227, title IV, § 404, Mar. 31, 1994, 108 Stat. 189, related to technical assistance.
 
-Section 5915, Pub. L. 103–227, title IV, § 405, Mar. 31, 1994, 108 Stat. 189, related to definitions.
+Section 5915, Pub. L. 103–227, title IV, § 405, Mar. 31, 1994, 108 Stat. 189, related to definitions.
 
-Section 5916, Pub. L. 103–227, title IV, § 406, Mar. 31, 1994, 108 Stat. 190, related to reports.
+Section 5916, Pub. L. 103–227, title IV, § 406, Mar. 31, 1994, 108 Stat. 190, related to reports.
 
-Section 5917, Pub. L. 103–227, title IV, § 407, Mar. 31, 1994, 108 Stat. 190, related to general provisions prohibiting required participation in any program of parent education or developmental screening or any action infringing on the right of a parent to direct the education of their children.
+Section 5917, Pub. L. 103–227, title IV, § 407, Mar. 31, 1994, 108 Stat. 190, related to general provisions prohibiting required participation in any program of parent education or developmental screening or any action infringing on the right of a parent to direct the education of their children.
 
-Section 5918, Pub. L. 103–227, title IV, § 408, Mar. 31, 1994, 108 Stat. 191, related to authorization of appropriations.
+Section 5918, Pub. L. 103–227, title IV, § 408, Mar. 31, 1994, 108 Stat. 191, related to authorization of appropriations.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
+Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, § 310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.
 
 ## SUBCHAPTER V—NATIONAL SKILL STANDARDS BOARD
 
-### §§ 5931 to 5939. Repealed. Pub. L. 103–227, title V, § 509(a), Mar. 31, 1994, 108 Stat. 200
+### §§ 5931 to 5939. Repealed. Pub. L. 103–227, title V, § 509(a), Mar. 31, 1994, 108 Stat. 200
 
-Section 5931, Pub. L. 103–227, title V, § 501, Mar. 31, 1994, 108 Stat. 191, set forth short title of subchapter as National Skill Standards Act of 1994.
+Section 5931, Pub. L. 103–227, title V, § 501, Mar. 31, 1994, 108 Stat. 191, set forth short title of subchapter as National Skill Standards Act of 1994.
 
-Section 5932, Pub. L. 103–227, title V, § 502, Mar. 31, 1994, 108 Stat. 191, stated purpose of subchapter.
+Section 5932, Pub. L. 103–227, title V, § 502, Mar. 31, 1994, 108 Stat. 191, stated purpose of subchapter.
 
-Section 5933, Pub. L. 103–227, title V, § 503, Mar. 31, 1994, 108 Stat. 192; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(17)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, established National Skill Standards Board.
+Section 5933, Pub. L. 103–227, title V, § 503, Mar. 31, 1994, 108 Stat. 192; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(17)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, established National Skill Standards Board.
 
-Section 5934, Pub. L. 103–227, title V, § 504, Mar. 31, 1994, 108 Stat. 195; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(18)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(17)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, related to functions of National Skill Standards Board.
+Section 5934, Pub. L. 103–227, title V, § 504, Mar. 31, 1994, 108 Stat. 195; Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(18)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(17)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, related to functions of National Skill Standards Board.
 
-Section 5935, Pub. L. 103–227, title V, § 505, Mar. 31, 1994, 108 Stat. 199, related to deadline for identifying occupational clusters and promoting development of skill standards for the clusters.
+Section 5935, Pub. L. 103–227, title V, § 505, Mar. 31, 1994, 108 Stat. 199, related to deadline for identifying occupational clusters and promoting development of skill standards for the clusters.
 
-Section 5936, Pub. L. 103–227, title V, § 506, Mar. 31, 1994, 108 Stat. 199, related to reports to the President and Congress.
+Section 5936, Pub. L. 103–227, title V, § 506, Mar. 31, 1994, 108 Stat. 199, related to reports to the President and Congress.
 
-Section 5937, Pub. L. 103–227, title V, § 507, Mar. 31, 1994, 108 Stat. 199, authorized appropriations.
+Section 5937, Pub. L. 103–227, title V, § 507, Mar. 31, 1994, 108 Stat. 199, authorized appropriations.
 
-Section 5938, Pub. L. 103–227, title V, § 508, Mar. 31, 1994, 108 Stat. 200; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(17)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, related to definitions for subchapter.
+Section 5938, Pub. L. 103–227, title V, § 508, Mar. 31, 1994, 108 Stat. 200; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(17)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, related to definitions for subchapter.
 
-Section 5939, Pub. L. 103–227, title V, § 509, Mar. 31, 1994, 108 Stat. 200, repealed this subchapter effective Sept. 30, 1999.
+Section 5939, Pub. L. 103–227, title V, § 509, Mar. 31, 1994, 108 Stat. 200, repealed this subchapter effective Sept. 30, 1999.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -865,9 +865,9 @@ Repeal effective Sept. 30, 1999, see section 509(a) of Pub. L. 103–227, which 
 
 ## SUBCHAPTER VI—INTERNATIONAL EDUCATION PROGRAM
 
-### § 5951. Repealed. Pub. L. 107–110, title X, § 1011(4)(B), Jan. 8, 2002, 115 Stat. 1986
+### § 5951. Repealed. Pub. L. 107–110, title X, § 1011(4)(B), Jan. 8, 2002, 115 Stat. 1986
 
-Section, Pub. L. 103–227, title VI, § 601, Mar. 31, 1994, 108 Stat. 200; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 301(e)], div. G, subdiv. A, title XIII, § 1335(e), Oct. 21, 1998, 112 Stat. 2681–337, 2681–410, 2681–788, related to International Education Program.
+Section, Pub. L. 103–227, title VI, § 601, Mar. 31, 1994, 108 Stat. 200; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 301(e)], div. G, subdiv. A, title XIII, § 1335(e), Oct. 21, 1998, 112 Stat. 2681–337, 2681–410, 2681–788, related to International Education Program.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -877,7 +877,7 @@ Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive pro
 
 ## SUBCHAPTER VII—SAFE SCHOOLS
 
-### § 5961. Short title; statement of purpose
+### § 5961. Short title; statement of purpose
 
 **(a) Short title**
 
@@ -885,13 +885,13 @@ This subchapter may be cited as the “Safe Schools Act of 1994”.
 
 **(b) Statement of purpose**
 
-It is the purpose of this subchapter to help local school systems achieve Goal Six 1
+It is the purpose of this subchapter to help local school systems achieve Goal Six 1
 
-<sup>1</sup>  So in original. Probably should be “Goal Seven”.
+<sup>1</sup> So in original. Probably should be “Goal Seven”.
 
 of the National Education Goals, which provides that by the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.
 
-(Pub. L. 103–227, title VII, § 701, Mar. 31, 1994, 108 Stat. 204.)
+(Pub. L. 103–227, title VII, § 701, Mar. 31, 1994, 108 Stat. 204.)
 
 **Editorial Notes**
 
@@ -899,15 +899,15 @@ of the National Education Goals, which provides that by the year 2000, every sch
 
 This subchapter, referred to in text, was in the original “this title”, meaning title VII of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 204, which enacted this subchapter and amended section 1221e–1 of this title.
 
-### § 5962. Safe schools program authorized
+### § 5962. Safe schools program authorized
 
 **(a) Authority**
 
 **(1) In general**
 
-From funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 1
+From funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 1
 
-<sup>1</sup>  So in original. Probably should be “Goal Seven”.
+<sup>1</sup> So in original. Probably should be “Goal Seven”.
 
 of the National Education Goals by helping to ensure that all schools are safe and free of violence.
 
@@ -931,9 +931,9 @@ There are authorized to be appropriated $50,000,000 for fiscal year 1994 to carr
 
 The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title, of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title.
 
-(Pub. L. 103–227, title VII, § 702, Mar. 31, 1994, 108 Stat. 204.)
+(Pub. L. 103–227, title VII, § 702, Mar. 31, 1994, 108 Stat. 204.)
 
-### § 5963. Eligible applicants
+### § 5963. Eligible applicants
 
 **(a) In general** To be eligible to receive a grant under this subchapter, a local educational agency shall demonstrate in the application submitted pursuant to section 5964(a) of this title that such agency—
 
@@ -959,9 +959,9 @@ The Secretary is authorized in each fiscal year to reserve not more than 10 perc
 
 **(2)** a high level of youth participation in such projects or activities.
 
-(Pub. L. 103–227, title VII, § 703, Mar. 31, 1994, 108 Stat. 205.)
+(Pub. L. 103–227, title VII, § 703, Mar. 31, 1994, 108 Stat. 205.)
 
-### § 5964. Applications and plans
+### § 5964. Applications and plans
 
 **(a) Application** In order to receive a grant under this subchapter, an eligible local educational agency shall submit to the Secretary an application that includes—
 
@@ -995,17 +995,17 @@ The Secretary is authorized in each fiscal year to reserve not more than 10 perc
 
 In order to receive funds under this subchapter for a second year, a grantee shall submit to the Secretary a comprehensive, long-term, school safety plan for reducing and preventing school violence and discipline problems. Such plan shall contain a description of how the grantee will coordinate the grantee’s school crime and violence prevention efforts with education, law-enforcement, judicial, health, social service, and other appropriate agencies and organizations serving the community.
 
-(Pub. L. 103–227, title VII, § 704, Mar. 31, 1994, 108 Stat. 205.)
+(Pub. L. 103–227, title VII, § 704, Mar. 31, 1994, 108 Stat. 205.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§ 3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
+The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§ 3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
-### § 5965. Use of funds
+### § 5965. Use of funds
 
 **(a) In general** A local educational agency shall use grant funds received under this subchapter for one or more of the following activities:
 
@@ -1071,9 +1071,9 @@ A local educational agency shall only be able to use grant funds received under 
 
 A local educational agency may not use grant funds received under this subchapter for construction.
 
-(Pub. L. 103–227, title VII, § 705, Mar. 31, 1994, 108 Stat. 206.)
+(Pub. L. 103–227, title VII, § 705, Mar. 31, 1994, 108 Stat. 206.)
 
-### § 5966. National activities
+### § 5966. National activities
 
 **(a) National activities**
 
@@ -1097,9 +1097,9 @@ The Secretary may carry out the activities described in paragraph (1) directly, 
 
 The Secretary shall designate the District of Columbia as a national model city and shall provide funds made available pursuant to section 5962(b)(2) of this title in each fiscal year to a local educational agency serving the District of Columbia in an amount sufficient to enable such agency to carry out a comprehensive program to address school and youth violence.
 
-(Pub. L. 103–227, title VII, § 706, Mar. 31, 1994, 108 Stat. 208.)
+(Pub. L. 103–227, title VII, § 706, Mar. 31, 1994, 108 Stat. 208.)
 
-### § 5967. Reports
+### § 5967. Reports
 
 **(a) Report to Secretary**
 
@@ -1109,7 +1109,7 @@ Each local educational agency that receives funds under this subchapter shall su
 
 The Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report not later than October 1, 1995, which shall contain a detailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants under section 5964(a) of this title, and an evaluation of programs assisted under this subchapter.
 
-(Pub. L. 103–227, title VII, § 708, Mar. 31, 1994, 108 Stat. 209.)
+(Pub. L. 103–227, title VII, § 708, Mar. 31, 1994, 108 Stat. 209.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1119,21 +1119,21 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-### § 5968. Coordination of Federal assistance
+### § 5968. Coordination of Federal assistance
 
 The Secretary, as a member of the Coordinating Council on Juvenile Justice and Delinquency Prevention of the Department of Justice, shall coordinate the programs and activities carried out under this subchapter with the programs and activities carried out by the departments and offices represented within the Council that provide assistance under other Federal law for purposes that are determined by the Secretary to be similar to the purpose of this subchapter, in order to avoid redundancy and coordinate Federal assistance, research, and programs for youth violence prevention.
 
-(Pub. L. 103–227, title VII, § 709, Mar. 31, 1994, 108 Stat. 209.)
+(Pub. L. 103–227, title VII, § 709, Mar. 31, 1994, 108 Stat. 209.)
 
 ## SUBCHAPTER VIII—MINORITY-FOCUSED CIVICS EDUCATION
 
-### § 5981. Short title
+### § 5981. Short title
 
 This subchapter may be cited as the “Minority-Focused Civics Education Act of 1994”.
 
-(Pub. L. 103–227, title VIII, § 801, Mar. 31, 1994, 108 Stat. 209.)
+(Pub. L. 103–227, title VIII, § 801, Mar. 31, 1994, 108 Stat. 209.)
 
-### § 5982. Purposes
+### § 5982. Purposes
 
 It is the purpose of this subchapter—
 
@@ -1145,9 +1145,9 @@ It is the purpose of this subchapter—
 
 **(2)** through such improved instruction to improve minority and Native American student knowledge and understanding of the American system of government.
 
-(Pub. L. 103–227, title VIII, § 802, Mar. 31, 1994, 108 Stat. 209.)
+(Pub. L. 103–227, title VIII, § 802, Mar. 31, 1994, 108 Stat. 209.)
 
-### § 5983. Grants authorized; authorization of appropriations
+### § 5983. Grants authorized; authorization of appropriations
 
 **(a) Grants authorized**
 
@@ -1163,9 +1163,9 @@ In awarding grants under this subchapter, the Secretary shall ensure that there 
 
 There are authorized to be appropriated $5,000,000 for fiscal 1995, and such sums as may be necessary for each of the fiscal years 1996, 1997, and 1998, to carry out this subchapter.
 
-(Pub. L. 103–227, title VIII, § 803, Mar. 31, 1994, 108 Stat. 210.)
+(Pub. L. 103–227, title VIII, § 803, Mar. 31, 1994, 108 Stat. 210.)
 
-### § 5984. Definitions
+### § 5984. Definitions
 
 For purposes of this subchapter—
 
@@ -1173,9 +1173,9 @@ For purposes of this subchapter—
 
 **(2)** the term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
 
-(Pub. L. 103–227, title VIII, § 804, Mar. 31, 1994, 108 Stat. 210.)
+(Pub. L. 103–227, title VIII, § 804, Mar. 31, 1994, 108 Stat. 210.)
 
-### § 5985. Applications
+### § 5985. Applications
 
 **(a) Application required**
 
@@ -1229,15 +1229,15 @@ Each eligible entity desiring a grant under this subchapter shall submit an appl
 
 **(5)** the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogical techniques for working with minority and Native American students.
 
-(Pub. L. 103–227, title VIII, § 805, Mar. 31, 1994, 108 Stat. 210.)
+(Pub. L. 103–227, title VIII, § 805, Mar. 31, 1994, 108 Stat. 210.)
 
 ## SUBCHAPTER IX—EDUCATIONAL RESEARCH AND IMPROVEMENT
 
-### § 6001. Short title
+### § 6001. Short title
 
 This subchapter may be cited as the “Educational Research, Development, Dissemination, and Improvement Act of 1994”.
 
-(Pub. L. 103–227, title IX, § 901, Mar. 31, 1994, 108 Stat. 212.)
+(Pub. L. 103–227, title IX, § 901, Mar. 31, 1994, 108 Stat. 212.)
 
 **Editorial Notes**
 
@@ -1245,7 +1245,7 @@ This subchapter may be cited as the “Educational Research, Development, Dissem
 
 This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which enacted this subchapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title.
 
-### § 6002. Findings
+### § 6002. Findings
 
 The Congress finds as follows with respect to improving education in the United States:
 
@@ -1279,49 +1279,49 @@ The Congress finds as follows with respect to improving education in the United 
 
 **(11)** The coordination of the mission of the Office with that of other components of the Department of Education is critical. The Office should improve the coordination of the educational research, development, and dissemination function with those of other Federal agencies.
 
-(Pub. L. 103–227, title IX, § 902, Mar. 31, 1994, 108 Stat. 212.)
+(Pub. L. 103–227, title IX, § 902, Mar. 31, 1994, 108 Stat. 212.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Office of Educational Research and Improvement**
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
 
 ### Part A—General Provisions Regarding Office of Educational Research and Improvement
 
-#### § 6011. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### § 6011. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section, Pub. L. 103–227, title IX, § 912, Mar. 31, 1994, 108 Stat. 213; Pub. L. 103–382, title II, § 271(a)(3)(B), Oct. 20, 1994, 108 Stat. 3929, stated policy and purpose of Office of Educational Research and Improvement and set forth provisions relating to employees, publications, reports on activities, research, coordination of activities, evaluations, definitions, and appropriations.
+Section, Pub. L. 103–227, title IX, § 912, Mar. 31, 1994, 108 Stat. 213; Pub. L. 103–382, title II, § 271(a)(3)(B), Oct. 20, 1994, 108 Stat. 3929, stated policy and purpose of Office of Educational Research and Improvement and set forth provisions relating to employees, publications, reports on activities, research, coordination of activities, evaluations, definitions, and appropriations.
 
 ### Part B—National Educational Research Policy and Priorities Board
 
-#### § 6021. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### § 6021. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section, Pub. L. 103–227, title IX, § 921, Mar. 31, 1994, 108 Stat. 223, established National Educational Research Policy and Priorities Board.
+Section, Pub. L. 103–227, title IX, § 921, Mar. 31, 1994, 108 Stat. 223, established National Educational Research Policy and Priorities Board.
 
 ### Part C—National Research Institutes
 
-#### § 6031. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### § 6031. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section, Pub. L. 103–227, title IX, § 931, Mar. 31, 1994, 108 Stat. 227, established the National Institute on Student Achievement, Curriculum, and Assessment, the National Institute on the Education of At-Risk Students, the National Institute on Educational Governance, Finance, Policy-Making, and Management, the National Institute on Early Childhood Development and Education, and the National Institute on Postsecondary Education, Libraries, and Lifelong Education.
+Section, Pub. L. 103–227, title IX, § 931, Mar. 31, 1994, 108 Stat. 227, established the National Institute on Student Achievement, Curriculum, and Assessment, the National Institute on the Education of At-Risk Students, the National Institute on Educational Governance, Finance, Policy-Making, and Management, the National Institute on Early Childhood Development and Education, and the National Institute on Postsecondary Education, Libraries, and Lifelong Education.
 
 ### Part D—National Education Dissemination System
 
-#### § 6041. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### § 6041. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section, Pub. L. 103–227, title IX, § 941, Mar. 31, 1994, 108 Stat. 243; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 301(b)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410, established Office of Reform Assistance and Dissemination.
+Section, Pub. L. 103–227, title IX, § 941, Mar. 31, 1994, 108 Stat. 243; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 301(b)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410, established Office of Reform Assistance and Dissemination.
 
 ### Part E—National Library of Education
 
-#### § 6051. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### § 6051. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section, Pub. L. 103–227, title IX, § 951, Mar. 31, 1994, 108 Stat. 260, established within the Department of Education a National Library of Education.
+Section, Pub. L. 103–227, title IX, § 951, Mar. 31, 1994, 108 Stat. 260, established within the Department of Education a National Library of Education.
 
 ### Part F—Certain Multiyear Grants and Contracts
 
@@ -1331,7 +1331,7 @@ Section, Pub. L. 103–227, title IX, § 951, Mar. 31, 1994, 108 Stat. 260, es
 
 This part was, in the original, part J of title IX of Pub. L. 103–227 and has been designated part F of this subchapter for purposes of codification.
 
-#### § 6052. Continuation of awards
+#### § 6052. Continuation of awards
 
 **(a) In general** Notwithstanding any other provision of law, from funds appropriated under subsection (b), the Secretary—
 
@@ -1339,19 +1339,19 @@ This part was, in the original, part J of title IX of Pub. L. 103–227 and has 
 
 **(2)** may extend, on a year-to-year basis, any multiyear grant or contract awarded under an authority described in paragraph (1) that expires after January 8, 2002, but before the enactment of successor authority to this subchapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Authorization of appropriations**
 
 There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subsection (a).
 
-(Pub. L. 103–227, title IX, § 995, as added Pub. L. 107–110, title X, § 1074, Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 103–227, title IX, § 995, as added Pub. L. 107–110, title X, § 1074, Jan. 8, 2002, 115 Stat. 2090.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3141 and parts A and C of title XIII of the Elementary and Secondary Education Act of 1965 (as such provisions were in effect on the day preceding January 8, 2002), referred to in subsec. (a)(1), are section 3141 and parts A and C of title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3649, 3877, 3882. Section 3141 of the Act was classified to section 6861 of this title, prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689. Part A of title XIII of the Act was classified to part A (§ 8621 et seq.) of subchapter XIII of chapter 70 of this title, prior to its redesignation as part K of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1021(a), Jan. 8, 2002, 115 Stat. 1987, and transfer to part G (§ 6053 et seq.) of this subchapter. Part C of title XIII of the Act was classified to part C (§ 8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to its redesignation as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1023(a), Jan. 8, 2002, 115 Stat. 1987, and transfer to part I (§ 6055 et seq.) of this subchapter.
+Section 3141 and parts A and C of title XIII of the Elementary and Secondary Education Act of 1965 (as such provisions were in effect on the day preceding January 8, 2002), referred to in subsec. (a)(1), are section 3141 and parts A and C of title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3649, 3877, 3882. Section 3141 of the Act was classified to section 6861 of this title, prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689. Part A of title XIII of the Act was classified to part A (§ 8621 et seq.) of subchapter XIII of chapter 70 of this title, prior to its redesignation as part K of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1021(a), Jan. 8, 2002, 115 Stat. 1987, and transfer to part G (§ 6053 et seq.) of this subchapter. Part C of title XIII of the Act was classified to part C (§ 8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to its redesignation as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1023(a), Jan. 8, 2002, 115 Stat. 1987, and transfer to part I (§ 6055 et seq.) of this subchapter.
 
 This subchapter, referred to in subsec. (a)(2), was in the original “this Act” and has been translated as reading “this title” to reflect the probable intent of Congress.
 
@@ -1367,21 +1367,21 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **Codification**
 
-Part K of title IX of Pub. L. 103–227, which comprised this part, was designated part G of this subchapter for purposes of codification. Part K of title IX of Pub. L. 103–227 was formerly part A of title XIII of Pub. L. 89–10, which was classified to part A (§ 8621 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part K of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1021(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Part K of title IX of Pub. L. 103–227, which comprised this part, was designated part G of this subchapter for purposes of codification. Part K of title IX of Pub. L. 103–227 was formerly part A of title XIII of Pub. L. 89–10, which was classified to part A (§ 8621 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part K of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1021(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-#### §§ 6053 to 6053e. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### §§ 6053 to 6053e. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section 6053, Pub. L. 103–227, title IX, § 1001, formerly Pub. L. 89–10, title XIII, § 13101, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3877; renumbered Pub. L. 103–227, title IX, § 1001, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(2)(A), (17)(A), (B), (19), Jan. 8, 2002, 115 Stat. 1987–1989, authorized program for establishment of comprehensive regional assistance centers.
+Section 6053, Pub. L. 103–227, title IX, § 1001, formerly Pub. L. 89–10, title XIII, § 13101, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3877; renumbered Pub. L. 103–227, title IX, § 1001, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(2)(A), (17)(A), (B), (19), Jan. 8, 2002, 115 Stat. 1987–1989, authorized program for establishment of comprehensive regional assistance centers.
 
-Section 6053a, Pub. L. 103–227, title IX, § 1002, formerly Pub. L. 89–10, title XIII, § 13102, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3878; renumbered Pub. L. 103–227, title IX, § 1002, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(1), (2)(B), (6), (7), (10), (17)(C), (19), Jan. 8, 2002, 115 Stat. 1987–1989, related to requirements of centers.
+Section 6053a, Pub. L. 103–227, title IX, § 1002, formerly Pub. L. 89–10, title XIII, § 13102, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3878; renumbered Pub. L. 103–227, title IX, § 1002, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(1), (2)(B), (6), (7), (10), (17)(C), (19), Jan. 8, 2002, 115 Stat. 1987–1989, related to requirements of centers.
 
-Section 6053b, Pub. L. 103–227, title IX, § 1003, formerly Pub. L. 89–10, title XIII, § 13103, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3879; renumbered Pub. L. 103–227, title IX, § 1003, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(8), (10), (16), Jan. 8, 2002, 115 Stat. 1987–1989, related to maintenance of service and application requirements.
+Section 6053b, Pub. L. 103–227, title IX, § 1003, formerly Pub. L. 89–10, title XIII, § 13103, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3879; renumbered Pub. L. 103–227, title IX, § 1003, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(8), (10), (16), Jan. 8, 2002, 115 Stat. 1987–1989, related to maintenance of service and application requirements.
 
-Section 6053c, Pub. L. 103–227, title IX, § 1004, formerly Pub. L. 89–10, title XIII, § 13104, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1004, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(9), (18), Jan. 8, 2002, 115 Stat. 1987–1989, related to transition and phase in of centers.
+Section 6053c, Pub. L. 103–227, title IX, § 1004, formerly Pub. L. 89–10, title XIII, § 13104, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1004, and amended Pub. L. 107–110, title X, §§ 1021(a),(b), 1025(a)(9), (18), Jan. 8, 2002, 115 Stat. 1987–1989, related to transition and phase in of centers.
 
-Section 6053d, Pub. L. 103–227, title IX, § 1005, formerly Pub. L. 89–10, title XIII, § 13105, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1005, Pub. L. 107–110, title X, § 1021(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
+Section 6053d, Pub. L. 103–227, title IX, § 1005, formerly Pub. L. 89–10, title XIII, § 13105, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1005, Pub. L. 107–110, title X, § 1021(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
 
-Section 6053e, Pub. L. 103–227, title IX, § 1006, as added Pub. L. 107–110, title X, § 1021(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
+Section 6053e, Pub. L. 103–227, title IX, § 1006, as added Pub. L. 107–110, title X, § 1021(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
 
 ### Part H—National Diffusion Network
 
@@ -1389,17 +1389,17 @@ Section 6053e, Pub. L. 103–227, title IX, § 1006, as added Pub. L. 107–11
 
 **Codification**
 
-Part L of title IX of Pub. L. 103–227, which comprised this part, was designated part H of this subchapter for purposes of codification. Part L of title IX of Pub. L. 103–227 was formerly part B of title XIII of Pub. L. 89–10, which was classified to part B (§ 8651 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part L of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1022(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Part L of title IX of Pub. L. 103–227, which comprised this part, was designated part H of this subchapter for purposes of codification. Part L of title IX of Pub. L. 103–227 was formerly part B of title XIII of Pub. L. 89–10, which was classified to part B (§ 8651 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part L of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1022(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-#### §§ 6054 to 6054b. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### §§ 6054 to 6054b. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section 6054, Pub. L. 103–227, title IX, § 1011, formerly Pub. L. 89–10, title XIII, § 13201, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1011, and amended Pub. L. 107–110, title X, §§ 1022(a),(b), 1025(a)(2)(A), (B)–(4), (5), (6), (16), (17)(D), (20), Jan. 8, 2002, 115 Stat. 1987–1989, authorized establishment of National Diffusion Network.
+Section 6054, Pub. L. 103–227, title IX, § 1011, formerly Pub. L. 89–10, title XIII, § 13201, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3880; renumbered Pub. L. 103–227, title IX, § 1011, and amended Pub. L. 107–110, title X, §§ 1022(a),(b), 1025(a)(2)(A), (B)–(4), (5), (6), (16), (17)(D), (20), Jan. 8, 2002, 115 Stat. 1987–1989, authorized establishment of National Diffusion Network.
 
 Another section 1011 of Pub. L. 103–227 is classified to section 6061 of this title.
 
-Section 6054a, Pub. L. 103–227, title IX, § 1012, formerly Pub. L. 89–10, title XIII, § 13202, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, § 1012, Pub. L. 107–110, title X, § 1022(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
+Section 6054a, Pub. L. 103–227, title IX, § 1012, formerly Pub. L. 89–10, title XIII, § 13202, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, § 1012, Pub. L. 107–110, title X, § 1022(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
 
-Section 6054b, Pub. L. 103–227, title IX, § 1013, as added Pub. L. 107–110, title X, § 1022(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
+Section 6054b, Pub. L. 103–227, title IX, § 1013, as added Pub. L. 107–110, title X, § 1022(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
 
 ### Part I—Eisenhower Regional Mathematics and Science Education Consortia
 
@@ -1407,31 +1407,31 @@ Section 6054b, Pub. L. 103–227, title IX, § 1013, as added Pub. L. 107–11
 
 **Codification**
 
-Part M of title IX of Pub. L. 103–227, which comprised this part, was designated part I of this subchapter for purposes of codification. Part M of title IX of Pub. L. 103–227 was formerly part C of title XIII of Pub. L. 89–10, which was classified to part C (§ 8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1023(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Part M of title IX of Pub. L. 103–227, which comprised this part, was designated part I of this subchapter for purposes of codification. Part M of title IX of Pub. L. 103–227 was formerly part C of title XIII of Pub. L. 89–10, which was classified to part C (§ 8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1023(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-#### §§ 6055 to 6055h. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### §§ 6055 to 6055h. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section 6055, Pub. L. 103–227, title IX, § 1021, formerly Pub. L. 89–10, title XIII, § 13301, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, § 1021, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(15), Jan. 8, 2002, 115 Stat. 1987, 1988, authorized grants and contracts for establishment and operation of regional mathematics and science education consortia.
+Section 6055, Pub. L. 103–227, title IX, § 1021, formerly Pub. L. 89–10, title XIII, § 13301, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3882; renumbered Pub. L. 103–227, title IX, § 1021, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(15), Jan. 8, 2002, 115 Stat. 1987, 1988, authorized grants and contracts for establishment and operation of regional mathematics and science education consortia.
 
 Another section 1021 of Pub. L. 103–227 amended section 2421 of this title prior to the general amendment of chapter 44 of this title by Pub. L. 105–332.
 
-Section 6055a, Pub. L. 103–227, title IX, § 1022, formerly Pub. L. 89–10, title XIII, § 13302, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3883; renumbered Pub. L. 103–227, title IX, § 1022, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(11), (14), (21), Jan. 8, 2002, 115 Stat. 1987–1989, related to use of funds.
+Section 6055a, Pub. L. 103–227, title IX, § 1022, formerly Pub. L. 89–10, title XIII, § 13302, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3883; renumbered Pub. L. 103–227, title IX, § 1022, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(11), (14), (21), Jan. 8, 2002, 115 Stat. 1987–1989, related to use of funds.
 
 Another section 1022 of Pub. L. 103–227 is classified to section 6067 of this title.
 
-Section 6055b, Pub. L. 103–227, title IX, § 1023, formerly Pub. L. 89–10, title XIII, § 13303, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3884; renumbered Pub. L. 103–227, title IX, § 1023, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, related to application for grant or contract and review.
+Section 6055b, Pub. L. 103–227, title IX, § 1023, formerly Pub. L. 89–10, title XIII, § 13303, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3884; renumbered Pub. L. 103–227, title IX, § 1023, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, related to application for grant or contract and review.
 
-Section 6055c, Pub. L. 103–227, title IX, § 1024, formerly Pub. L. 89–10, title XIII, § 13304, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1024, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, required each entity in receipt of a grant or contract to establish a regional board for oversight and establishment of program priorities.
+Section 6055c, Pub. L. 103–227, title IX, § 1024, formerly Pub. L. 89–10, title XIII, § 13304, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1024, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, required each entity in receipt of a grant or contract to establish a regional board for oversight and establishment of program priorities.
 
-Section 6055d, Pub. L. 103–227, title IX, § 1025, formerly Pub. L. 89–10, title XIII, § 13305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1025, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(13), Jan. 8, 2002, 115 Stat. 1987, 1988, related to payments and Federal and non-Federal shares.
+Section 6055d, Pub. L. 103–227, title IX, § 1025, formerly Pub. L. 89–10, title XIII, § 13305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1025, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(13), Jan. 8, 2002, 115 Stat. 1987, 1988, related to payments and Federal and non-Federal shares.
 
-Section 6055e, Pub. L. 103–227, title IX, § 1026, formerly Pub. L. 89–10, title XIII, § 13306, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1026, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(22), Jan. 8, 2002, 115 Stat. 1987, 1989, related to evaluations and reports.
+Section 6055e, Pub. L. 103–227, title IX, § 1026, formerly Pub. L. 89–10, title XIII, § 13306, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3885; renumbered Pub. L. 103–227, title IX, § 1026, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(22), Jan. 8, 2002, 115 Stat. 1987, 1989, related to evaluations and reports.
 
-Section 6055f, Pub. L. 103–227, title IX, § 1027, formerly Pub. L. 89–10, title XIII, § 13307, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1027, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(4), (12) Jan. 8, 2002, 115 Stat. 1987, 1988, defined terms for purposes of this part.
+Section 6055f, Pub. L. 103–227, title IX, § 1027, formerly Pub. L. 89–10, title XIII, § 13307, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1027, and amended Pub. L. 107–110, title X, §§ 1023(a),(b), 1025(a)(4), (12) Jan. 8, 2002, 115 Stat. 1987, 1988, defined terms for purposes of this part.
 
-Section 6055g, Pub. L. 103–227, title IX, § 1028, formerly Pub. L. 89–10, title XIII, § 13308, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1028, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
+Section 6055g, Pub. L. 103–227, title IX, § 1028, formerly Pub. L. 89–10, title XIII, § 13308, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1028, Pub. L. 107–110, title X, § 1023(a),(b), Jan. 8, 2002, 115 Stat. 1987, authorized appropriations.
 
-Section 6055h, Pub. L. 103–227, title IX, § 1029, as added Pub. L. 107–110, title X, § 1023(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
+Section 6055h, Pub. L. 103–227, title IX, § 1029, as added Pub. L. 107–110, title X, § 1023(c), Jan. 8, 2002, 115 Stat. 1987, applied section 7801 definitions to this part.
 
 ### Part J—Technology-Based Technical Assistance
 
@@ -1439,15 +1439,15 @@ Section 6055h, Pub. L. 103–227, title IX, § 1029, as added Pub. L. 107–11
 
 **Codification**
 
-Part N of title IX of Pub. L. 103–227, which comprised this part, was designated part J of this subchapter for purposes of codification. Part N of title IX of Pub. L. 103–227 was formerly part D of title XIII of Pub. L. 89–10, which was classified to part D (§ 8701 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part N of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Part N of title IX of Pub. L. 103–227, which comprised this part, was designated part J of this subchapter for purposes of codification. Part N of title IX of Pub. L. 103–227 was formerly part D of title XIII of Pub. L. 89–10, which was classified to part D (§ 8701 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part N of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, § 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-#### §§ 6056, 6056a. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
+#### §§ 6056, 6056a. Repealed. Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985
 
-Section 6056, Pub. L. 103–227, title IX, § 1031, formerly Pub. L. 89–10, title XIII, § 13401, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1031, and amended Pub. L. 107–110, title X, §§ 1024(a),(b), 1025(a)(17)(E), Jan. 8, 2002, 115 Stat. 1987–1989, authorized technology-based technical assistance.
+Section 6056, Pub. L. 103–227, title IX, § 1031, formerly Pub. L. 89–10, title XIII, § 13401, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3886; renumbered Pub. L. 103–227, title IX, § 1031, and amended Pub. L. 107–110, title X, §§ 1024(a),(b), 1025(a)(17)(E), Jan. 8, 2002, 115 Stat. 1987–1989, authorized technology-based technical assistance.
 
 Another section 1031 of Pub. L. 103–227 is set out as a note under section 6301 of this title.
 
-Section 6056a, Pub. L. 103–227, title IX, § 1032, as added Pub. L. 107–110, title X, § 1024(c), Jan. 8, 2002, 115 Stat. 1988, applied section 7801 definitions to this part.
+Section 6056a, Pub. L. 103–227, title IX, § 1032, as added Pub. L. 107–110, title X, § 1024(c), Jan. 8, 2002, 115 Stat. 1988, applied section 7801 definitions to this part.
 
 Another section 1032 of Pub. L. 103–227 enacted section 3351 of this title and amended sections 3381 to 3384 and 3386 of this title prior to the general amendment of chapter 47 of this title by Pub. L. 103–382.
 
@@ -1455,11 +1455,11 @@ Another section 1032 of Pub. L. 103–227 enacted section 3351 of this title and
 
 ### Part A—Miscellaneous Provisions
 
-#### § 6061. School prayer
+#### § 6061. School prayer
 
 No funds authorized to be appropriated under this chapter may be used by any State or local educational agency to adopt policies that prevent voluntary prayer and meditation in public schools.
 
-(Pub. L. 103–227, title X, § 1011, Mar. 31, 1994, 108 Stat. 265.)
+(Pub. L. 103–227, title X, § 1011, Mar. 31, 1994, 108 Stat. 265.)
 
 **Editorial Notes**
 
@@ -1471,7 +1471,7 @@ This chapter, referred to in text, was in the original this “Act”, meaning P
 
 Another section 1011 of Pub. L. 103–227 was classified to section 6054 of this title, prior to repeal by Pub. L. 107–279.
 
-#### § 6062. Funding for Individuals with Disabilities Education Act
+#### § 6062. Funding for Individuals with Disabilities Education Act
 
 **(a) Findings** The Congress finds that—
 
@@ -1485,19 +1485,19 @@ Another section 1011 of Pub. L. 103–227 was classified to section 6054 of this
 
 It is the sense of the Congress that the Federal Government should provide States and communities with adequate resources under the Individuals with Disabilities Education Act [20 U.S.C. 1400 et seq.] as soon as reasonably possible, through the reallocation of noneducation funds within the current budget monetary constraints.
 
-(Pub. L. 103–227, title X, § 1012, Mar. 31, 1994, 108 Stat. 265.)
+(Pub. L. 103–227, title X, § 1012, Mar. 31, 1994, 108 Stat. 265.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Codification**
 
 Another section 1012 of Pub. L. 103–227 was classified to section 6054a of this title, prior to repeal by Pub. L. 107–279.
 
-#### § 6063. Study of Goals 2000 and students with disabilities
+#### § 6063. Study of Goals 2000 and students with disabilities
 
 **(a) Study required**
 
@@ -1533,57 +1533,57 @@ The Secretary shall request the National Academy of Sciences or the National Aca
 
 From funds appropriated to the Secretary for research related to individuals with disabilities the Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
 
-(Pub. L. 103–227, title X, § 1015, Mar. 31, 1994, 108 Stat. 266.)
+(Pub. L. 103–227, title X, § 1015, Mar. 31, 1994, 108 Stat. 266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to this chapter (except subchapters V (§ 5931 et seq.) and IX (§ 6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to this chapter (except subchapters V (§ 5931 et seq.) and IX (§ 6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-#### § 6064. Contraceptive devices
+#### § 6064. Contraceptive devices
 
 The Department of Health and Human Services and the Department of Education shall ensure that all federally funded programs which provide for the distribution of contraceptive devices to unemancipated minors develop procedures to encourage, to the extent practical, family participation in such programs.
 
-(Pub. L. 103–227, title X, § 1018, Mar. 31, 1994, 108 Stat. 268.)
+(Pub. L. 103–227, title X, § 1018, Mar. 31, 1994, 108 Stat. 268.)
 
-#### § 6065. Assessments
+#### § 6065. Assessments
 
 **(a) Subchapter II**
 
 No funds provided under subchapter II of this chapter shall be used to develop or undertake assessments that will be used to make decisions regarding the graduation, grade promotion, or retention of students for 5 years after March 31, 1994.
 
-**(b) Subchapter III 1 [footnote: 1 See References in Text note below.]**
+**(b) Subchapter III 1 [footnote: 1 See References in Text note below.]**
 
-Assessments developed with funds under subchapter III <sup>1</sup> of this chapter may be used for decisions regarding graduation, grade promotion, or retention of students only on the condition that students have been prepared in the content for which the students are being assessed.
+Assessments developed with funds under subchapter III <sup>1</sup> of this chapter may be used for decisions regarding graduation, grade promotion, or retention of students only on the condition that students have been prepared in the content for which the students are being assessed.
 
-(Pub. L. 103–227, title X, § 1019, Mar. 31, 1994, 108 Stat. 269.)
-
-**Editorial Notes**
-
-**References in Text**
-
-Subchapters II and III of this chapter, referred to in text, were in the original references to titles II and III, respectively, of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, 157. Title II enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title III was classified generally to subchapter III (§ 5881 et seq.) of this chapter and was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
-
-#### § 6066. Public schools
-
-Except as provided in section 5890 1
-
-<sup>1</sup>  See References in Text note below.
-
-of this title, nothing in this chapter shall be construed to authorize the use of funds under subchapter III 1 of this chapter to directly or indirectly benefit any school other than a public school.
-
-(Pub. L. 103–227, title X, § 1020, Mar. 31, 1994, 108 Stat. 269.)
+(Pub. L. 103–227, title X, § 1019, Mar. 31, 1994, 108 Stat. 269.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5890 of this title, referred to in text, was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
+Subchapters II and III of this chapter, referred to in text, were in the original references to titles II and III, respectively, of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, 157. Title II enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title III was classified generally to subchapter III (§ 5881 et seq.) of this chapter and was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
 
-Subchapter III of this chapter, referred to in text, was in the original a reference to title III of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 157, which was classified generally to subchapter III (§ 5881 et seq.) of this chapter and was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
+#### § 6066. Public schools
 
-#### § 6067. Sense of Congress
+Except as provided in section 5890 1
+
+<sup>1</sup> See References in Text note below.
+
+of this title, nothing in this chapter shall be construed to authorize the use of funds under subchapter III 1 of this chapter to directly or indirectly benefit any school other than a public school.
+
+(Pub. L. 103–227, title X, § 1020, Mar. 31, 1994, 108 Stat. 269.)
+
+**Editorial Notes**
+
+**References in Text**
+
+Section 5890 of this title, referred to in text, was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
+
+Subchapter III of this chapter, referred to in text, was in the original a reference to title III of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 157, which was classified generally to subchapter III (§ 5881 et seq.) of this chapter and was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
+
+#### § 6067. Sense of Congress
 
 It is the sense of the Congress that—
 
@@ -1591,21 +1591,21 @@ It is the sense of the Congress that—
 
 **(2)** in the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this chapter, entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products;
 
-**(3)** in providing financial assistance under this chapter, the head of each Federal agency should provide to each recipient of the assistance a notice describing the statement made in subsection (a) 1
+**(3)** in providing financial assistance under this chapter, the head of each Federal agency should provide to each recipient of the assistance a notice describing the statement made in subsection (a) 1
 
-<sup>1</sup>  So in original. No subsec. (a) has been enacted.
+<sup>1</sup> So in original. No subsec. (a) has been enacted.
 
 by the Congress; and
 
 **(4)** if it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning to any product sold in or shipped to the United States that is not made in the United States, such person should be ineligible to receive any contract or subcontract made with funds provided pursuant to this chapter, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations, as such sections existed on March 31, 1994.
 
-(Pub. L. 103–227, title X, § 1022, Mar. 31, 1994, 108 Stat. 270.)
+(Pub. L. 103–227, title X, § 1022, Mar. 31, 1994, 108 Stat. 270.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (1), “chapter 83 of title 41” substituted for “sections 2 through 4 of the Act of March 3, 1993 (41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (1), “chapter 83 of title 41” substituted for “sections 2 through 4 of the Act of March 3, 1993 (41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Another section 1022 of Pub. L. 103–227 was classified to section 6055a of this title, prior to repeal by Pub. L. 107–279.
 
@@ -1617,15 +1617,15 @@ Another section 1022 of Pub. L. 103–227 was classified to section 6055a of thi
 
 This part was, in the original, part C of title X of Pub. L. 103–227 and has been designated part B of this subchapter for purposes of codification.
 
-Similar provisions relating to environmental tobacco smoke are contained in part C (§ 7181 et seq.) of subchapter IV of chapter 70 of this title.
+Similar provisions relating to environmental tobacco smoke are contained in part C (§ 7181 et seq.) of subchapter IV of chapter 70 of this title.
 
-#### § 6081. Short title
+#### § 6081. Short title
 
 This part may be cited as the “Pro-Children Act of 1994”.
 
-(Pub. L. 103–227, title X, § 1041, Mar. 31, 1994, 108 Stat. 271.)
+(Pub. L. 103–227, title X, § 1041, Mar. 31, 1994, 108 Stat. 271.)
 
-#### § 6082. Definitions
+#### § 6082. Definitions
 
 As used in this part:
 
@@ -1657,19 +1657,19 @@ The term “indoor facility” means a building that is enclosed.
 
 The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 103–227, title X, § 1042, Mar. 31, 1994, 108 Stat. 271.)
+(Pub. L. 103–227, title X, § 1042, Mar. 31, 1994, 108 Stat. 271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This subchapter, referred to in par. (2)(B), was in the original “this title”, meaning title X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, and enacted provisions set out as notes under section 2701 of this title and section 11901 of Title 42.
 
-#### § 6083. Nonsmoking policy for children’s services
+#### § 6083. Nonsmoking policy for children’s services
 
 **(a) Prohibition**
 
@@ -1745,10 +1745,10 @@ Any person aggrieved by a penalty assessed or an order issued, or both, by the S
 
 If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
-(Pub. L. 103–227, title X, § 1043, Mar. 31, 1994, 108 Stat. 272.)
+(Pub. L. 103–227, title X, § 1043, Mar. 31, 1994, 108 Stat. 272.)
 
-#### § 6084. Preemption
+#### § 6084. Preemption
 
 Nothing in this part is intended to preempt any provision of law of a State or political subdivision of a State that is more restrictive than a provision of this part.
 
-(Pub. L. 103–227, title X, § 1044, Mar. 31, 1994, 108 Stat. 274.)
+(Pub. L. 103–227, title X, § 1044, Mar. 31, 1994, 108 Stat. 274.)

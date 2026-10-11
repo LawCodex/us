@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—NATIVE AMERICAN GRAVES PROTECTION AND REPATRIATION
 
-## § 3001. Definitions
+## § 3001. Definitions
 
 For purposes of this chapter, the term—
 
@@ -27,7 +27,7 @@ For purposes of this chapter, the term—
 
 **(A)** “associated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, and both the human remains and associated funerary objects are presently in the possession or control of a Federal agency or museum, except that other items exclusively made for burial purposes or to contain human remains shall be considered as associated funerary objects.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 **(B)** “unassociated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
 
@@ -69,13 +69,13 @@ shall include the Office of Hawaiian Affairs and Hui Malama I Na Kupuna O Hawai�
 
 **(A)** all lands within the exterior boundaries of any Indian reservation;
 
-**(B)** all dependent Indian communities; 2
+**(B)** all dependent Indian communities; 2
 
-<sup>2</sup>  So in original. Probably should be followed by “and”.
+<sup>2</sup> So in original. Probably should be followed by “and”.
 
 **(C)** any lands administered for the benefit of Native Hawaiians pursuant to the Hawaiian Homes Commission Act, 1920, and section 4 of Public Law 86–3.
 
-(Pub. L. 101–601, § 2, Nov. 16, 1990, 104 Stat. 3048; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 101–601, § 2, Nov. 16, 1990, 104 Stat. 3048; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -85,7 +85,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Hawaiian Homes Commission Act, 1920, referred to in par. (15)(C), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
@@ -103,9 +103,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Short Title**
 
-Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This Act [enacting this chapter and section 1170 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Native American Graves Protection and Repatriation Act’.”
+Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This Act [enacting this chapter and section 1170 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Native American Graves Protection and Repatriation Act’.”
 
-## § 3002. Ownership
+## § 3002. Ownership
 
 **(a) Native American human remains and objects** The ownership or control of Native American cultural items which are excavated or discovered on Federal or tribal lands after November 16, 1990, shall be (with priority given in the order listed)—
 
@@ -153,7 +153,7 @@ Native American cultural items not claimed under subsection (a) shall be dispose
 
 Nothing in this section shall prevent the governing body of an Indian tribe or Native Hawaiian organization from expressly relinquishing control over any Native American human remains, or title to or control over any funerary object, or sacred object.
 
-(Pub. L. 101–601, § 3, Nov. 16, 1990, 104 Stat. 3050.)
+(Pub. L. 101–601, § 3, Nov. 16, 1990, 104 Stat. 3050.)
 
 **Editorial Notes**
 
@@ -165,15 +165,15 @@ The United States Court of Claims, referred to in subsec. (a)(2)(C), and the Uni
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, and which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, and which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-## § 3003. Inventory for human remains and associated funerary objects
+## § 3003. Inventory for human remains and associated funerary objects
 
 **(a) In general**
 
 Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museum or Federal agency, identify the geographical and cultural affiliation of such item.1
 
-<sup>1</sup>  So in original. Probably should be “items.”
+<sup>1</sup> So in original. Probably should be “items.”
 
 **(b) Requirements**
 
@@ -209,7 +209,7 @@ Any museum which has made a good faith effort to carry out an inventory and iden
 
 For the purposes of this section, the term “inventory” means a simple itemized list that summarizes the information called for by this section.
 
-(Pub. L. 101–601, § 5, Nov. 16, 1990, 104 Stat. 3052.)
+(Pub. L. 101–601, § 5, Nov. 16, 1990, 104 Stat. 3052.)
 
 **Editorial Notes**
 
@@ -217,7 +217,7 @@ For the purposes of this section, the term “inventory” means a simple itemiz
 
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3004. Summary for unassociated funerary objects, sacred objects, and cultural patrimony
+## § 3004. Summary for unassociated funerary objects, sacred objects, and cultural patrimony
 
 **(a) In general**
 
@@ -233,15 +233,15 @@ Each Federal agency or museum which has possession or control over holdings or c
 
 **(C)** completed by not later than the date that is 3 years after November 16, 1990.
 
-**(2)** Upon request, Indian Tribes 1
+**(2)** Upon request, Indian Tribes 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 and Native Hawaiian organizations shall have access to records, catalogues, relevant studies or other pertinent data for the limited purposes of determining the geographic origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American objects subject to this section. Such information shall be provided in a reasonable manner to be agreed upon by all parties.
 
-(Pub. L. 101–601, § 6, Nov. 16, 1990, 104 Stat. 3053.)
+(Pub. L. 101–601, § 6, Nov. 16, 1990, 104 Stat. 3053.)
 
-## § 3005. Repatriation
+## § 3005. Repatriation
 
 **(a) Repatriation of Native American human remains and objects possessed or controlled by Federal agencies and museums**
 
@@ -279,13 +279,13 @@ Where there are multiple requests for repatriation of any cultural item and, aft
 
 **(f) Museum obligation**
 
-Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state 1
+Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 law that are inconsistent with the provisions of this chapter.
 
-(Pub. L. 101–601, § 7, Nov. 16, 1990, 104 Stat. 3054.)
+(Pub. L. 101–601, § 7, Nov. 16, 1990, 104 Stat. 3054.)
 
 **Editorial Notes**
 
@@ -293,7 +293,7 @@ law that are inconsistent with the provisions of this chapter.
 
 This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3006. Review committee
+## § 3006. Review committee
 
 **(a) Establishment**
 
@@ -301,9 +301,9 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 **(b) Membership**
 
-**(1)** The Committee 1
+**(1)** The Committee 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 established under subsection (a) shall be composed of 7 members,
 
@@ -349,9 +349,9 @@ Any records and findings made by the review committee pursuant to this chapter r
 
 **(e) Recommendations and report**
 
-The committee shall make the recommendations under paragraph 2
+The committee shall make the recommendations under paragraph 2
 
-<sup>2</sup>  So in original. Probably should be “subsection”.
+<sup>2</sup> So in original. Probably should be “subsection”.
 
 (c)(5) in consultation with Indian tribes and Native Hawaiian organizations and appropriate scientific and museum groups.
 
@@ -373,7 +373,7 @@ The committee established under subsection (a) shall submit an annual report to 
 
 The committee established under subsection (a) shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
 
-(Pub. L. 101–601, § 8, Nov. 16, 1990, 104 Stat. 3055.)
+(Pub. L. 101–601, § 8, Nov. 16, 1990, 104 Stat. 3055.)
 
 **Editorial Notes**
 
@@ -385,9 +385,9 @@ This chapter, referred to in subsecs. (c)(7) and (d), was in the original “thi
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3007. Penalty
+## § 3007. Penalty
 
 **(a) Penalty**
 
@@ -399,7 +399,7 @@ Any museum that fails to comply with the requirements of this chapter may be ass
 
 **(2)** the damages suffered, both economic and noneconomic, by an aggrieved party,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and
 
@@ -413,7 +413,7 @@ If any museum fails to pay an assessment of a civil penalty pursuant to a final 
 
 In hearings held pursuant to subsection (a), subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
 
-(Pub. L. 101–601, § 9, Nov. 16, 1990, 104 Stat. 3057.)
+(Pub. L. 101–601, § 9, Nov. 16, 1990, 104 Stat. 3057.)
 
 **Editorial Notes**
 
@@ -421,7 +421,7 @@ In hearings held pursuant to subsection (a), subpoenas may be issued for the att
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3008. Grants
+## § 3008. Grants
 
 **(a) Indian tribes and Native Hawaiian organizations**
 
@@ -431,9 +431,9 @@ The Secretary is authorized to make grants to Indian tribes and Native Hawaiian 
 
 The Secretary is authorized to make grants to museums for the purpose of assisting the museums in conducting the inventories and identification required under sections 3003 and 3004 of this title.
 
-(Pub. L. 101–601, § 10, Nov. 16, 1990, 104 Stat. 3057.)
+(Pub. L. 101–601, § 10, Nov. 16, 1990, 104 Stat. 3057.)
 
-## § 3009. Savings provision
+## § 3009. Savings provision
 
 Nothing in this chapter shall be construed to—
 
@@ -451,7 +451,7 @@ Nothing in this chapter shall be construed to—
 
 **(5)** limit the application of any State or Federal law pertaining to theft or stolen property.
 
-(Pub. L. 101–601, § 11, Nov. 16, 1990, 104 Stat. 3057.)
+(Pub. L. 101–601, § 11, Nov. 16, 1990, 104 Stat. 3057.)
 
 **Editorial Notes**
 
@@ -459,11 +459,11 @@ Nothing in this chapter shall be construed to—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3010. Special relationship between Federal Government and Indian tribes and Native Hawaiian organizations
+## § 3010. Special relationship between Federal Government and Indian tribes and Native Hawaiian organizations
 
 This chapter reflects the unique relationship between the Federal Government and Indian tribes and Native Hawaiian organizations and should not be construed to establish a precedent with respect to any other individual, organization or foreign government.
 
-(Pub. L. 101–601, § 12, Nov. 16, 1990, 104 Stat. 3058.)
+(Pub. L. 101–601, § 12, Nov. 16, 1990, 104 Stat. 3058.)
 
 **Editorial Notes**
 
@@ -471,11 +471,11 @@ This chapter reflects the unique relationship between the Federal Government and
 
 This chapter, referred to in text, was in the original “This Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3011. Regulations
+## § 3011. Regulations
 
 The Secretary shall promulgate regulations to carry out this chapter within 12 months of November 16, 1990.
 
-(Pub. L. 101–601, § 13, Nov. 16, 1990, 104 Stat. 3058.)
+(Pub. L. 101–601, § 13, Nov. 16, 1990, 104 Stat. 3058.)
 
 **Editorial Notes**
 
@@ -483,11 +483,11 @@ The Secretary shall promulgate regulations to carry out this chapter within 12 m
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3012. Authorization of appropriations
+## § 3012. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 101–601, § 14, Nov. 16, 1990, 104 Stat. 3058.)
+(Pub. L. 101–601, § 14, Nov. 16, 1990, 104 Stat. 3058.)
 
 **Editorial Notes**
 
@@ -495,11 +495,11 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3013. Enforcement
+## § 3013. Enforcement
 
 The United States district courts shall have jurisdiction over any action brought by any person alleging a violation of this chapter and shall have the authority to issue such orders as may be necessary to enforce the provisions of this chapter.
 
-(Pub. L. 101–601, § 15, Nov. 16, 1990, 104 Stat. 3058.)
+(Pub. L. 101–601, § 15, Nov. 16, 1990, 104 Stat. 3058.)
 
 **Editorial Notes**
 

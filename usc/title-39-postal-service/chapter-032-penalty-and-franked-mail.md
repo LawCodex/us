@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1985—Pub. L. 99–87, § 1(a)(2), Aug. 9, 1985, 99 Stat. 290, added item 3220.
+1985—Pub. L. 99–87, § 1(a)(2), Aug. 9, 1985, 99 Stat. 290, added item 3220.
 
-1981—Pub. L. 97–69, § 6(c)(2), Oct. 26, 1981, 95 Stat. 1043, substituted “survivors” for “surviving spouses” in item 3218.
+1981—Pub. L. 97–69, § 6(c)(2), Oct. 26, 1981, 95 Stat. 1043, substituted “survivors” for “surviving spouses” in item 3218.
 
-1973—Pub. L. 93–191, §§ 1(b), 4(b), 12(b), Dec. 18, 1973, 87 Stat. 741, 742, 746, substituted “Franked mail transmitted by the Vice President, Members of Congress, and congressional officials” for “Official correspondence of Vice President and Members of Congress” in item 3210, substituted “President, surviving spouse of former President” for “Presidents” in item 3214, and added item 3219.
+1973—Pub. L. 93–191, §§ 1(b), 4(b), 12(b), Dec. 18, 1973, 87 Stat. 741, 742, 746, substituted “Franked mail transmitted by the Vice President, Members of Congress, and congressional officials” for “Official correspondence of Vice President and Members of Congress” in item 3210, substituted “President, surviving spouse of former President” for “Presidents” in item 3214, and added item 3219.
 
-## § 3201. Definitions
+## § 3201. Definitions
 
 As used in this chapter—
 
@@ -41,7 +41,7 @@ As used in this chapter—
 
 **(6)** “missing child” has the meaning provided by section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 99–87, § 1(b), Aug. 9, 1985, 99 Stat. 291.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 99–87, § 1(b), Aug. 9, 1985, 99 Stat. 291.)
 
 **Editorial Notes**
 
@@ -59,7 +59,7 @@ Section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, refe
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3202. Penalty mail
+## § 3202. Penalty mail
 
 **(a)** Subject to the limitations imposed by sections 3204 and 3207 of this title, there may be transmitted as penalty mail—
 
@@ -83,7 +83,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(c)** This section does not apply to officers who receive a fixed allowance as compensation for their services including expenses of postage.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, § 105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, § 708(b), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 110–234, title VII, § 7404(b)(2)(B), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7404(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2008.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, § 105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, § 708(b), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 110–234, title VII, § 7404(b)(2)(B), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7404(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2008.)
 
 **Editorial Notes**
 
@@ -93,11 +93,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(1)(D) to (F). Pub. L. 110–246, § 7404(b)(2)(B)(i), in subpar. (D) inserted “and” at end, in subpar. (E) substituted period for “; and” at end, and struck out subpar. (F) which read as follows: “any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;”.
+2008—Subsec. (a)(1)(D) to (F). Pub. L. 110–246, § 7404(b)(2)(B)(i), in subpar. (D) inserted “and” at end, in subpar. (E) substituted period for “; and” at end, and struck out subpar. (F) which read as follows: “any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;”.
 
-Subsec. (a)(2) to (4). Pub. L. 110–246, § 7404(b)(2)(B)(ii)–(iv), in par. (2) inserted “and” at end, in par. (3) substituted period for “; and” at end, and struck out par. (4) which read as follows: “mail of State agriculture experiment stations pursuant to sections 325 and 361f of title 7.”
+Subsec. (a)(2) to (4). Pub. L. 110–246, § 7404(b)(2)(B)(ii)–(iv), in par. (2) inserted “and” at end, in par. (3) substituted period for “; and” at end, and struck out par. (4) which read as follows: “mail of State agriculture experiment stations pursuant to sections 325 and 361f of title 7.”
 
-1993—Subsec. (a)(3), (4). Pub. L. 103–123 inserted “and” at end of par. (3) and substituted period for “; and” at end of par. (4).
+1993—Subsec. (a)(3), (4). Pub. L. 103–123 inserted “and” at end of par. (3) and substituted period for “; and” at end of par. (4).
 
 1976—Subsec. (a)(5). Pub. L. 94–553 struck out par. (5) which related to articles for copyright deposited with postmasters and addressed to the Register of Copyrights pursuant to section 15 of title 17.
 
@@ -171,7 +171,7 @@ June 29, 1949, ch. 275, title II, 63 Stat. 293.
 
 June 16, 1948, ch. 472, title I, 62 Stat. 445.
 
-## § 3203. Endorsements on penalty covers
+## § 3203. Endorsements on penalty covers
 
 **(a)** Except as otherwise provided in this section, penalty covers shall bear, over the words “Official Business” an endorsement showing the name of the department, bureau, or office from which, or officer from whom, it is transmitted. The penalty for the unlawful use of all penalty covers shall be printed thereon.
 
@@ -185,7 +185,7 @@ June 16, 1948, ch. 472, title I, 62 Stat. 445.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3204. Restrictions on use of penalty mail
+## § 3204. Restrictions on use of penalty mail
 
 **(a)** Except as otherwise provided in this section or section 3220(a) of this title, an officer, executive department, or independent establishment of the Government of the United States may not mail, as penalty mail, any article or document unless—
 
@@ -211,7 +211,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(8)** articles or documents to educational institutions or public libraries, or to Federal, State, or other public authorities.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 752; Pub. L. 99–87, § 1(c)(1), Aug. 9, 1985, 99 Stat. 291.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 752; Pub. L. 99–87, § 1(c)(1), Aug. 9, 1985, 99 Stat. 291.)
 
 **Editorial Notes**
 
@@ -229,7 +229,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 3205. Accounting for penalty covers
+## § 3205. Accounting for penalty covers
 
 Executive departments and agencies, independent establishments of the Government of the United States, and organizations and persons authorized by law to use penalty mail, shall account for all penalty covers through the Postal Service.
 
@@ -241,7 +241,7 @@ Executive departments and agencies, independent establishments of the Government
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3206. Reimbursement for penalty mail service
+## § 3206. Reimbursement for penalty mail service
 
 **(a)** Except as provided in subsection (b) of this section, executive departments and agencies, independent establishments of the Government of the United States, and Government corporations concerned, shall transfer to the Postal Service as postal revenue out of any appropriations or funds available to them, as a necessary expense of the appropriations or funds and of the activities concerned, the equivalent amount of postage due, as determined by the Postal Service, for matter sent in the mails by or to them as penalty mail under authority of section 3202 of this title.
 
@@ -249,7 +249,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(c)** The Department of State shall transfer to the Postal Service as postal revenues out of any appropriations made to it for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (1)(C) and (D) of section 3202(a) of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 753; Pub. L. 93–191, § 9, Dec. 18, 1973, 87 Stat. 745; Pub. L. 94–553, § 105(e), Oct. 19, 1976, 90 Stat. 2599.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 753; Pub. L. 93–191, § 9, Dec. 18, 1973, 87 Stat. 745; Pub. L. 94–553, § 105(e), Oct. 19, 1976, 90 Stat. 2599.)
 
 **Editorial Notes**
 
@@ -275,7 +275,7 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3207. Limit of weight of penalty mail; postage on overweight matter
+## § 3207. Limit of weight of penalty mail; postage on overweight matter
 
 **(a)** Penalty mail is restricted to articles not in excess of the weight and size prescribed for that class of mail receiving high priority in handling and delivery, except—
 
@@ -301,7 +301,7 @@ is mailable at rates for that class of mail entitled to the lowest priority in h
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3208. Shipment by most economical means
+## § 3208. Shipment by most economical means
 
 Shipments of official matter other than franked mail shall be sent by the most economical means of transportation practicable. The Postal Service may refuse to accept official matter for shipment by mail when in its judgment it may be shipped by other means at less expense, or it may provide for its transportation by freight or express whenever a saving to the Government of the United States will result therefrom without detriment to the public service.
 
@@ -313,7 +313,7 @@ Shipments of official matter other than franked mail shall be sent by the most e
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3209. Executive departments to supply information
+## § 3209. Executive departments to supply information
 
 Persons and governmental organizations authorized to use penalty mail shall supply all information requested by the Postal Service necessary to carry out the provisions of this chapter as soon as practicable after request therefor.
 
@@ -325,7 +325,7 @@ Persons and governmental organizations authorized to use penalty mail shall supp
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
+## § 3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
 
 **(a)**
 
@@ -451,53 +451,53 @@ The House Communications Standards Commission and the Select Committee on Standa
 
 **(g)** Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, § 101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, § 1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, § 714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§ 1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, § 1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, § 318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§ 311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, § 309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, § 102(a), Sept. 16, 1996, 110 Stat. 2401; Pub. L. 109–435, title X, § 1010(g)(4), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 116–136, div. B, title IX, § 19006(a), Mar. 27, 2020, 134 Stat. 578; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(i), (e)(1)–(5)(A), (6), Dec. 27, 2020, 134 Stat. 1637, 1640, 1641.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, § 101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, § 1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, § 714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§ 1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, § 1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, § 318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§ 311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, § 309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, § 102(a), Sept. 16, 1996, 110 Stat. 2401; Pub. L. 109–435, title X, § 1010(g)(4), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 116–136, div. B, title IX, § 19006(a), Mar. 27, 2020, 134 Stat. 578; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(i), (e)(1)–(5)(A), (6), Dec. 27, 2020, 134 Stat. 1637, 1640, 1641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(3)(F). Pub. L. 116–260, § 116(e)(1), struck out “to a person who has achieved some public distinction” after “congratulations”.
+2020—Subsec. (a)(3)(F). Pub. L. 116–260, § 116(e)(1), struck out “to a person who has achieved some public distinction” after “congratulations”.
 
-Subsec. (a)(3)(I). Pub. L. 116–260, § 116(e)(2), substituted “publication, in response to a specific request therefor, or which relates to the Member’s or Member-elect’s official and representational duties,” for “publication or in response to a specific request therefor”.
+Subsec. (a)(3)(I). Pub. L. 116–260, § 116(e)(2), substituted “publication, in response to a specific request therefor, or which relates to the Member’s or Member-elect’s official and representational duties,” for “publication or in response to a specific request therefor”.
 
-Subsec. (a)(3)(J). Pub. L. 116–260, § 116(e)(3), struck out subpar. (J) which read as follows: “mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.”
+Subsec. (a)(3)(J). Pub. L. 116–260, § 116(e)(3), struck out subpar. (J) which read as follows: “mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.”
 
-Subsec. (a)(4). Pub. L. 116–260, § 116(e)(4), substituted “, except that nothing in this paragraph may be construed to prohibit the use of the franking privilege for the transmission of matter which is purely personal to a recipient who is a constituent of a Member of Congress and which is related to the official business, activities, and duties of the Member.” for period at end.
+Subsec. (a)(4). Pub. L. 116–260, § 116(e)(4), substituted “, except that nothing in this paragraph may be construed to prohibit the use of the franking privilege for the transmission of matter which is purely personal to a recipient who is a constituent of a Member of Congress and which is related to the official business, activities, and duties of the Member.” for period at end.
 
-Subsec. (a)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” in concluding provisions.
+Subsec. (a)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards” in concluding provisions.
 
-Subsec. (a)(6)(A)(i). Pub. L. 116–260, § 116(e)(5)(A)(i), struck out “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
+Subsec. (a)(6)(A)(i). Pub. L. 116–260, § 116(e)(5)(A)(i), struck out “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
 
-Subsec. (a)(6)(A)(ii)(II). Pub. L. 116–260, § 116(e)(5)(A)(ii), substituted “60 days” for “90 days”.
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 116–260, § 116(e)(5)(A)(ii), substituted “60 days” for “90 days”.
 
-Subsec. (a)(6)(D). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Subsec. (a)(6)(D). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
 Pub. L. 116–136 substituted “regulations, and in the case of the Commission, to waive this paragraph in the case of mailings sent in response to or to address threats to life safety.” for “regulations.”
 
-Subsec. (a)(6)(E)(iv). Pub. L. 116–260, § 116(e)(6), added cl. (iv).
+Subsec. (a)(6)(E)(iv). Pub. L. 116–260, § 116(e)(6), added cl. (iv).
 
-Subsec. (b)(3). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Subsec. (b)(3). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
-Subsec. (d)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Subsec. (d)(5). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
-Subsec. (d)(6)(A). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
+Subsec. (d)(6)(A). Pub. L. 116–260, § 116(b)(2)(A)(i), substituted “House Communications Standards Commission” for “House Commission on Congressional Mailing Standards”.
 
 2006—Subsec. (a)(6)(C). Pub. L. 109–435 substituted “is postmarked fewer” for “is mailed fewer”.
 
-1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, § 102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
+1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, § 102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
 
-Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, § 102(a)(2), substituted “90 days” for “60 days”.
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, § 102(a)(2), substituted “90 days” for “60 days”.
 
-1992—Subsec. (a)(7). Pub. L. 102–392, § 309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
+1992—Subsec. (a)(7). Pub. L. 102–392, § 309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
 
 “(A) a Member of the House of Representatives may send mass mailings to any area in a county, if any part of the county adjoins or is inside the congressional district of the Member; and
 
 “(B) in the case of redistricting, on and after the date referred to in subsection (d)(1)(B), a Member of the House of Representatives may send mass mailings to the additional area described in that section”.
 
-Subsec. (d)(1). Pub. L. 102–392, § 309(a)(2), struck out subpar. (A) designation, substituted “the Member” for “he” and a period for “; and”, and struck out subpar. (B) which read as follows: “with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings.”
+Subsec. (d)(1). Pub. L. 102–392, § 309(a)(2), struck out subpar. (A) designation, substituted “the Member” for “he” and a period for “; and”, and struck out subpar. (B) which read as follows: “with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings.”
 
-1990—Subsec. (a)(6)(E). Pub. L. 101–520, § 311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “For purposes of this section, the term ‘mass mailing’ means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
+1990—Subsec. (a)(6)(E). Pub. L. 101–520, § 311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “For purposes of this section, the term ‘mass mailing’ means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
 
 “(i) which are in direct response to communications from persons to whom the matter is mailed;
 
@@ -505,33 +505,33 @@ Subsec. (d)(1). Pub. L. 102–392, § 309(a)(2), struck out subpar. (A) design
 
 “(iii) of news releases to the communications media.”
 
-Subsec. (a)(7). Pub. L. 101–520, § 316, added par. (7).
+Subsec. (a)(7). Pub. L. 101–520, § 316, added par. (7).
 
-1989—Subsec. (a)(6). Pub. L. 101–163, § 318(3), which directed the substitution of “is postmarked fewer” for “is mailed fewer” in subparagraph (c) of subsec. (a)(6) of this section, was not executed because subsec. (a)(6) does not have a subparagraph (c). See 2006 Amendment note above.
+1989—Subsec. (a)(6). Pub. L. 101–163, § 318(3), which directed the substitution of “is postmarked fewer” for “is mailed fewer” in subparagraph (c) of subsec. (a)(6) of this section, was not executed because subsec. (a)(6) does not have a subparagraph (c). See 2006 Amendment note above.
 
-Subsec. (a)(6)(A)(i), (ii)(II). Pub. L. 101–163, § 318(1), (2), substituted “is postmarked fewer” for “is mailed fewer”.
+Subsec. (a)(6)(A)(i), (ii)(II). Pub. L. 101–163, § 318(1), (2), substituted “is postmarked fewer” for “is mailed fewer”.
 
-Subsec. (a)(6)(F). Pub. L. 101–163, § 318(4), added subpar. (F).
+Subsec. (a)(6)(F). Pub. L. 101–163, § 318(4), added subpar. (F).
 
 1982—Subsec. (b)(1), (2). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
 
-1981—Subsec. (a)(3)(F). Pub. L. 97–69, § 1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
+1981—Subsec. (a)(3)(F). Pub. L. 97–69, § 1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
 
-Subsec. (a)(5). Pub. L. 97–69, § 2(a), inserted provision relating to brief references in otherwise frankable mail in subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
+Subsec. (a)(5). Pub. L. 97–69, § 2(a), inserted provision relating to brief references in otherwise frankable mail in subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
 
-Subsec. (a)(6). Pub. L. 97–69, § 2(b), added par. (6).
+Subsec. (a)(6). Pub. L. 97–69, § 2(b), added par. (6).
 
-Subsec. (d). Pub. L. 97–69, § 3(a), substituted “Congress” for “the House” in provisions of par. (1) preceding subpar. (A), substituted “congressional district or State” for “congressional district” in par. (1)(A), inserted “with respect to a Member of the House of Representatives” after “(B)” in par. (1)(B), substituted “Congress” for “House of Representatives” and “congressional district or the State” for “congressional district” in par. (2), added pars. (4), (5), and (6), and redesignated former pars. (4) and (5) as (7) and (8), respectively.
+Subsec. (d). Pub. L. 97–69, § 3(a), substituted “Congress” for “the House” in provisions of par. (1) preceding subpar. (A), substituted “congressional district or State” for “congressional district” in par. (1)(A), inserted “with respect to a Member of the House of Representatives” after “(B)” in par. (1)(B), substituted “Congress” for “House of Representatives” and “congressional district or the State” for “congressional district” in par. (2), added pars. (4), (5), and (6), and redesignated former pars. (4) and (5) as (7) and (8), respectively.
 
-Subsec. (e). Pub. L. 97–69, § 4(a), struck out provisions under which the cost of preparing or printing mail matter which was frankable under this section could be paid from any funds, including but not limited to funds collected by a candidate or a political committee required to file reports of receipts and expenditures under the Federal Election Campaign Act of 1971 (Public Law 92–225), or from voluntary newsletter funds, or from similar funds administered or controlled by a Member or by a committee organized to administer such funds.
+Subsec. (e). Pub. L. 97–69, § 4(a), struck out provisions under which the cost of preparing or printing mail matter which was frankable under this section could be paid from any funds, including but not limited to funds collected by a candidate or a political committee required to file reports of receipts and expenditures under the Federal Election Campaign Act of 1971 (Public Law 92–225), or from voluntary newsletter funds, or from similar funds administered or controlled by a Member or by a committee organized to administer such funds.
 
-Subsecs. (f), (g). Pub. L. 97–69, § 4(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 97–69, § 4(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1978—Subsec. (b)(1), (2). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1975—Subsec. (b)(1). Pub. L. 94–177, § 1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
+1975—Subsec. (b)(1). Pub. L. 94–177, § 1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
 
-Subsec. (b)(3). Pub. L. 94–177, § 1(b), added par. (3).
+Subsec. (b)(3). Pub. L. 94–177, § 1(b), added par. (3).
 
 1973—Subsec. (a). Pub. L. 93–191 added subsec. (a). Former first sentence provided in part for franked mail (1) matter, not exceeding 4 pounds in weight, upon official or departmental business, to a Government official, and (2) correspondence, not exceeding 4 ounces in weight, upon official business to any person.
 
@@ -547,19 +547,19 @@ Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. I, title I, § 116(e)(5)(B), Dec. 27, 2020, 134 Stat. 1641, provided that: “The amendments made by paragraph (1) [probably should be “subparagraph (A)”, amending this section] shall apply with respect to the regularly scheduled general election for Federal office held in November 2020 and each succeeding election for public office.”
+Pub. L. 116–260, div. I, title I, § 116(e)(5)(B), Dec. 27, 2020, 134 Stat. 1641, provided that: “The amendments made by paragraph (1) [probably should be “subparagraph (A)”, amending this section] shall apply with respect to the regularly scheduled general election for Federal office held in November 2020 and each succeeding election for public office.”
 
 Amendment by Pub. L. 116–260, except as provided in section 116(e)(5)(B) of div. I of Pub. L. 116–260, applicable with respect to communications disseminated on or after Dec. 27, 2020, see section 116(f) of div. I of Pub. L. 116–260, set out as a note under section 501 of Title 2, The Congress.
 
-Pub. L. 116–136, div. B, title IX, § 19006(b), Mar. 27, 2020, 134 Stat. 579, provided that: “The amendments made by this subsection [probably should be “this section”, amending this section] shall apply with respect to mailings sent on or after the date of the enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. B, title IX, § 19006(b), Mar. 27, 2020, 134 Stat. 579, provided that: “The amendments made by this subsection [probably should be “this section”, amending this section] shall apply with respect to mailings sent on or after the date of the enactment of this Act [Mar. 27, 2020].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–197, title I, § 102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
+Pub. L. 104–197, title I, § 102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–392, title III, § 309(b), Oct. 6, 1992, 106 Stat. 1723, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 6, 1992].”
+Pub. L. 102–392, title III, § 309(b), Oct. 6, 1992, 106 Stat. 1723, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 6, 1992].”
 
 **Effective Date of 1990 Amendment**
 
@@ -567,7 +567,7 @@ Amendment by section 311(h)(1) of Pub. L. 101–520 applicable with respect to s
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–69, § 3(b), Oct. 26, 1981, 95 Stat. 1042, provided that: “This section [amending this section] shall become effective 120 days after the date of enactment of this Act [Oct. 26, 1981].”
+Pub. L. 97–69, § 3(b), Oct. 26, 1981, 95 Stat. 1042, provided that: “This section [amending this section] shall become effective 120 days after the date of enactment of this Act [Oct. 26, 1981].”
 
 **Effective Date of 1978 Amendment**
 
@@ -575,7 +575,7 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–191, § 14, Dec. 18, 1973, 87 Stat. 746, provided that:
+Pub. L. 93–191, § 14, Dec. 18, 1973, 87 Stat. 746, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the provisions of this Act [enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2] shall become effective on the date of enactment of this Act [Dec. 18, 1973].
 
@@ -587,11 +587,11 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Separability**
 
-Pub. L. 93–191, § 15, Dec. 18, 1973, 87 Stat. 746, provided that: “If a provision of this Act [enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3214 to 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2] is held invalid, all valid provisions severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, such provision remains in effect in all valid applications severable from the invalid application or applications.”
+Pub. L. 93–191, § 15, Dec. 18, 1973, 87 Stat. 746, provided that: “If a provision of this Act [enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3214 to 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2] is held invalid, all valid provisions severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, such provision remains in effect in all valid applications severable from the invalid application or applications.”
 
 **Mass Mailings by Senators**
 
-Pub. L. 103–283, title I, §§ 5, 6, July 22, 1994, 108 Stat. 1427, provided that:
+Pub. L. 103–283, title I, §§ 5, 6, July 22, 1994, 108 Stat. 1427, provided that:
 
 > **“Sec. 5.**
 
@@ -623,7 +623,7 @@ Pub. L. 103–283, title I, §§ 5, 6, July 22, 1994, 108 Stat. 1427, provided
 
 > **“(d)** The Senate Committee on Rules and Administration shall prescribe rules and regulations and take other action as the Committee considers necessary and proper for Senators to comply with this section and regulations.”
 
-Pub. L. 101–163, § 316(a), formerly § 316(a), (b), as renumbered and amended by Pub. L. 101–520, title III, § 311(h)(3), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–392, title III, § 308(a), Oct. 6, 1992, 106 Stat. 1722, provided that:
+Pub. L. 101–163, § 316(a), formerly § 316(a), (b), as renumbered and amended by Pub. L. 101–520, title III, § 311(h)(3), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–392, title III, § 308(a), Oct. 6, 1992, 106 Stat. 1722, provided that:
 
 > “Effective January 1, 1990, a mass mailing (as defined in section 3210(a)(6)(E) of title 39, United States Code) by a Senator shall be limited to 2 sheets of paper (or their equivalent), including any enclosure that—
 
@@ -631,13 +631,13 @@ Pub. L. 101–163, § 316(a), formerly § 316(a), (b), as renumbered and ame
 
 > **“(2)** contains information concerning, expresses the views of, or otherwise relates to the Senator who makes the mailing.”
 
-[Pub. L. 102–392, title III, § 308(b), Oct. 6, 1992, 106 Stat. 1722, provided that: “The amendments made by subsection (a) [amending section 316(a) of Pub. L. 101–163, set out above] shall take effect on October 1, 1992.” ]
+[Pub. L. 102–392, title III, § 308(b), Oct. 6, 1992, 106 Stat. 1722, provided that: “The amendments made by subsection (a) [amending section 316(a) of Pub. L. 101–163, set out above] shall take effect on October 1, 1992.” ]
 
-## § 3211. Public documents
+## § 3211. Public documents
 
 The Vice President, Members of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House) during the 90-day period immediately following the expiration of their respective terms of office, may send and receive as franked mail all public documents printed by order of Congress.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 2, Dec. 18, 1973, 87 Stat. 741; Pub. L. 97–69, § 5(a), Oct. 26, 1981, 95 Stat. 1043.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 2, Dec. 18, 1973, 87 Stat. 741; Pub. L. 97–69, § 5(a), Oct. 26, 1981, 95 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -657,13 +657,13 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3212. Congressional Record under frank of Members of Congress
+## § 3212. Congressional Record under frank of Members of Congress
 
 **(a)** Members of Congress may send the Congressional Record as franked mail.
 
 **(b)** Members of Congress may send, as franked mail, any part of, or a reprint of any part of, the Congressional Record, including speeches or reports contained therein, if such matter is mailable as franked mail under section 3210 of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 3, Dec. 18, 1973, 87 Stat. 741.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 3, Dec. 18, 1973, 87 Stat. 741.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3213. Seeds and reports from Department of Agriculture
+## § 3213. Seeds and reports from Department of Agriculture
 
 Seeds and agricultural reports emanating from the Department of Agriculture may be mailed—
 
@@ -691,7 +691,7 @@ Seeds and agricultural reports emanating from the Department of Agriculture may 
 
 **(2)** during the 90-day period immediately following the expiration of their terms of office, as franked mail by Members of Congress.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 97–69, § 5(b), Oct. 26, 1981, 95 Stat. 1043.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 97–69, § 5(b), Oct. 26, 1981, 95 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -705,11 +705,11 @@ Seeds and agricultural reports emanating from the Department of Agriculture may 
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3214. Mailing privilege of former President; surviving spouse of former President
+## § 3214. Mailing privilege of former President; surviving spouse of former President
 
 A former President and the surviving spouse of a former President may send nonpolitical mail within the United States and its territories and possessions as franked mail. Such mail of a former President and of the surviving spouse of a former President marked “Postage and Fees Paid” in the manner prescribed by the Postal Service shall be accepted by the Postal Service for transmission in the international mails.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L. 103–123, title IV, § 6(b), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 105–61, title IV, § 409(b), Oct. 10, 1997, 111 Stat. 1299.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L. 103–123, title IV, § 6(b), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 105–61, title IV, § 409(b), Oct. 10, 1997, 111 Stat. 1299.)
 
 **Editorial Notes**
 
@@ -733,7 +733,7 @@ A former President and the surviving spouse of a former President may send nonpo
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–123, title IV, § 6(c), Oct. 28, 1993, 107 Stat. 1247, provided that: “The amendments made by subsections (a) and (b) [amending this section and provisions set out as a note under section 102 of Title 3, The President] shall take effect on October 1, 1993.”
+Pub. L. 103–123, title IV, § 6(c), Oct. 28, 1993, 107 Stat. 1247, provided that: “The amendments made by subsections (a) and (b) [amending this section and provisions set out as a note under section 102 of Title 3, The President] shall take effect on October 1, 1993.”
 
 **Effective Date of 1973 Amendment**
 
@@ -743,11 +743,11 @@ Amendment by Pub. L. 93–191 effective Dec. 27, 1972, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3215. Lending or permitting use of frank unlawful
+## § 3215. Lending or permitting use of frank unlawful
 
 A person entitled to use a frank may not lend it or permit its use by any committee, organization, or association, or permit its use by any person for the benefit or use of any committee, organization, or association. This section does not apply to any standing, select, special, or joint committee, or subcommittee thereof, or commission, of the Senate, House of Representatives, or Congress, composed of Members of Congress, or to the Democratic caucus or the Republican conference of the House of Representatives or of the Senate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 10, Dec. 18, 1973, 87 Stat. 746.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, § 10, Dec. 18, 1973, 87 Stat. 746.)
 
 **Editorial Notes**
 
@@ -765,7 +765,7 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3216. Reimbursement for franked mailings
+## § 3216. Reimbursement for franked mailings
 
 **(a)** The equivalent of—
 
@@ -791,7 +791,7 @@ shall be paid by appropriations for the official mail costs of the Senate and th
 
 **(2)** Two weeks after the close of the second quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Communications Standards Commission, the Committee on House Oversight, the Secretary of the Senate, and the Senate Committee on Rules and Administration, a statement of the costs of postage on, and fees and charges in connection with, mail matter sent through the mails as described in paragraph (1) of this subsection for the preceding two quarters together with an estimate of such costs for the balance of the fiscal year. As soon as practicable after receipt of this statement, the House Communications Standards Commission, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, § 101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, § 7, Dec. 18, 1973, 87 Stat. 745; Pub. L. 93–255, § 2(a), Mar. 27, 1974, 88 Stat. 52; Pub. L. 95–521, title VII, § 714(b), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, § 6(a), Oct. 26, 1981, 95 Stat. 1043; Pub. L. 97–263, § 1(3), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §§ 316(b), formerly § 316(c), 317, Nov. 21, 1989, 103 Stat. 1067, renumbered § 316(b), Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–90, title III, § 306, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, § 220, Aug. 20, 1996, 110 Stat. 1748; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(ii), Dec. 27, 2020, 134 Stat. 1637.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, § 101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, § 7, Dec. 18, 1973, 87 Stat. 745; Pub. L. 93–255, § 2(a), Mar. 27, 1974, 88 Stat. 52; Pub. L. 95–521, title VII, § 714(b), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, § 6(a), Oct. 26, 1981, 95 Stat. 1043; Pub. L. 97–263, § 1(3), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §§ 316(b), formerly § 316(c), 317, Nov. 21, 1989, 103 Stat. 1067, renumbered § 316(b), Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–90, title III, § 306, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, § 220, Aug. 20, 1996, 110 Stat. 1748; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(ii), Dec. 27, 2020, 134 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -803,11 +803,11 @@ shall be paid by appropriations for the official mail costs of the Senate and th
 
 1991—Subsec. (e)(2). Pub. L. 102–90 substituted “paragraph (1) of this subsection” for “subsection (1) of this section” in two places.
 
-1990—Pub. L. 101–520 made technical amendment to Pub. L. 101–163, § 316(b). See 1989 Amendment note below.
+1990—Pub. L. 101–520 made technical amendment to Pub. L. 101–163, § 316(b). See 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–163, § 316(b), formerly § 316(c), as renumbered by Pub. L. 101–520, which directed substitution of “by appropriations for the official mail costs of the Senate and the House of Representatives” for “by a lump sum appropriation to the legislative branch” was executed by making the substitution for “by a lump-sum appropriation to the legislative branch” to reflect the probable intent of Congress.
+1989—Subsec. (a). Pub. L. 101–163, § 316(b), formerly § 316(c), as renumbered by Pub. L. 101–520, which directed substitution of “by appropriations for the official mail costs of the Senate and the House of Representatives” for “by a lump sum appropriation to the legislative branch” was executed by making the substitution for “by a lump-sum appropriation to the legislative branch” to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 101–163, § 317, added subsec. (e).
+Subsec. (e). Pub. L. 101–163, § 317, added subsec. (e).
 
 1982—Subsec. (a)(1)(A). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
 
@@ -815,7 +815,7 @@ Subsec. (e). Pub. L. 101–163, § 317, added subsec. (e).
 
 1978—Subsec. (a)(1)(A). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1974—Subsec. (a). Pub. L. 93–255 struck out “, and the printed words ‘Postage paid by Congress’ ” at end of last sentence.
+1974—Subsec. (a). Pub. L. 93–255 struck out “, and the printed words ‘Postage paid by Congress’ ” at end of last sentence.
 
 1973—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as par. (1)(A) and (B), substituted in subpar. (a) reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and Sergeant at Arms of House of Representatives, included in subpar. (A) reference to Legislative Counsel of Senate, added par. (2) and provision for the sender’s signature, or facsimile thereof, and printed words “Postage paid by Congress” in upper right-hand corner on transmitted franked mail.
 
@@ -837,7 +837,7 @@ Amendment by Pub. L. 116–260 applicable with respect to communications dissemi
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–163, title III, § 316(b), formerly § 316(c), Nov. 21, 1989, 103 Stat. 1067, renumbered § 316(b), Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280, provided that the amendment made by that section is effective Oct. 1, 1989.
+Pub. L. 101–163, title III, § 316(b), formerly § 316(c), Nov. 21, 1989, 103 Stat. 1067, renumbered § 316(b), Pub. L. 101–520, title III, § 311(h)(3)(B), Nov. 5, 1990, 104 Stat. 2280, provided that the amendment made by that section is effective Oct. 1, 1989.
 
 **Effective Date of 1978 Amendment**
 
@@ -851,7 +851,7 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, except that subsec. (b) o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3217. Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain
+## § 3217. Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain
 
 Correspondence of the members of the diplomatic corps of the countries of the Postal Union of the Americas and Spain stationed in the United States may be reciprocally transmitted in the domestic mails free of postage, and be entitled to free registration without right to indemnity in case of loss. The same privilege is accorded consuls and vice consuls when they are discharging the function of consuls of countries stationed in the United States, for official correspondence among themselves, and with the Government of the United States.
 
@@ -865,13 +865,13 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Free Mailing Privileges Continue Unchanged**
 
-Pub. L. 109–435, title V, § 505(c), Dec. 20, 2006, 120 Stat. 3236, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act shall affect any free mailing privileges accorded under section 3217 or sections 3403 through 3406 of title 39, United States Code.”
+Pub. L. 109–435, title V, § 505(c), Dec. 20, 2006, 120 Stat. 3236, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act shall affect any free mailing privileges accorded under section 3217 or sections 3403 through 3406 of title 39, United States Code.”
 
-## § 3218. Franked mail for survivors of Members of Congress
+## § 3218. Franked mail for survivors of Members of Congress
 
 Upon the death of a Member of Congress during his term of office, the surviving spouse of such Member (or, if there is no surviving spouse, a member of the immediate family of the Member designated by the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, in accordance with rules and procedures established by the Secretary or the Clerk) may send, for a period not to exceed 180 days after his death, as franked mail, nonpolitical correspondence relating to the death of the Member.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 93–191, § 11, Dec. 18, 1973, 87 Stat. 746; Pub. L. 97–69, § 6(b), (c)(1), Oct. 26, 1981, 95 Stat. 1043.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 93–191, § 11, Dec. 18, 1973, 87 Stat. 746; Pub. L. 97–69, § 6(b), (c)(1), Oct. 26, 1981, 95 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -891,11 +891,11 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3219. Mailgrams
+## § 3219. Mailgrams
 
 Any Mailgram sent by the Vice President, a Member of or Member-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, and then delivered by the Postal Service, shall be considered as franked mail, subject to section 3216(a)(2) of this title, if such Mailgram contains matter of the kind authorized to be sent by that official as franked mail under section 3210 of this title.
 
-(Added Pub. L. 93–191, § 12(a), Dec. 18, 1973, 87 Stat. 746; amended Pub. L. 95–521, title VII, § 714(c), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–263, § 1(4), Sept. 24, 1982, 96 Stat. 1132.)
+(Added Pub. L. 93–191, § 12(a), Dec. 18, 1973, 87 Stat. 746; amended Pub. L. 95–521, title VII, § 714(c), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–263, § 1(4), Sept. 24, 1982, 96 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -915,7 +915,7 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 
 Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as an Effective Date of 1976 Amendment note under section 3210 of this title.
 
-## § 3220. Use of official mail in the location and recovery of missing children
+## § 3220. Use of official mail in the location and recovery of missing children
 
 **(a)**
 
@@ -935,7 +935,7 @@ Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as 
 
 **(c)** As used in this section, “Office of Juvenile Justice and Delinquency Prevention” and “Office” each means the Office of Juvenile Justice and Delinquency Prevention within the Department of Justice, as established by section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
-(Added Pub. L. 99–87, § 1(a)(1), Aug. 9, 1985, 99 Stat. 290; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(iii), Dec. 27, 2020, 134 Stat. 1637.)
+(Added Pub. L. 99–87, § 1(a)(1), Aug. 9, 1985, 99 Stat. 290; Pub. L. 116–260, div. I, title I, § 116(b)(2)(A)(iii), Dec. 27, 2020, 134 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -955,11 +955,11 @@ Amendment by Pub. L. 116–260 applicable with respect to communications dissemi
 
 **Termination Date**
 
-Pub. L. 99–87, § 5, Aug. 9, 1985, 99 Stat. 290, as amended by Pub. L. 100–202, § 101(m) [title VI, § 627(a)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, § 1(2), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, § 1(2), Dec. 1, 1997, 111 Stat. 2542, which provided that the amendments made by section 1 of Pub. L. 99–87, enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents, and any guidelines, rules, or regulations prescribed to carry out such amendments were to cease to be effective after December 31, 2002, was repealed by Pub. L. 109–426, § 1, Dec. 20, 2006, 120 Stat. 2911.
+Pub. L. 99–87, § 5, Aug. 9, 1985, 99 Stat. 290, as amended by Pub. L. 100–202, § 101(m) [title VI, § 627(a)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, § 1(2), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, § 1(2), Dec. 1, 1997, 111 Stat. 2542, which provided that the amendments made by section 1 of Pub. L. 99–87, enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents, and any guidelines, rules, or regulations prescribed to carry out such amendments were to cease to be effective after December 31, 2002, was repealed by Pub. L. 109–426, § 1, Dec. 20, 2006, 120 Stat. 2911.
 
 **Issuance of Guidelines, Rules, and Regulations**
 
-Pub. L. 99–87, § 2, Aug. 9, 1985, 99 Stat. 291, provided that:
+Pub. L. 99–87, § 2, Aug. 9, 1985, 99 Stat. 291, provided that:
 
 > **“(a) Guidelines.—** The guidelines described in section 3220(a)(1) of title 39, United States Code, as added by this Act, shall be prescribed not later than ninety days after the date of the enactment of this Act (Aug. 9, 1985).
 
@@ -967,8 +967,8 @@ Pub. L. 99–87, § 2, Aug. 9, 1985, 99 Stat. 291, provided that:
 
 **Reporting Requirements**
 
-Pub. L. 99–87, § 3, Aug. 9, 1985, 99 Stat. 291, as amended by Pub. L. 100–202, § 101(m) (title VI, § 627(b)), Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, § 1(1), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, § 1(1), Dec. 1, 1997, 111 Stat. 2542, required the Office of Juvenile Justice and Delinquency Prevention, the Senate Committee on Rules and Administration, and the House Commission on Congressional Mailing Standards each to submit a report no later than June 30, 2002, on the authority provided by this section.
+Pub. L. 99–87, § 3, Aug. 9, 1985, 99 Stat. 291, as amended by Pub. L. 100–202, § 101(m) (title VI, § 627(b)), Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, § 1(1), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, § 1(1), Dec. 1, 1997, 111 Stat. 2542, required the Office of Juvenile Justice and Delinquency Prevention, the Senate Committee on Rules and Administration, and the House Commission on Congressional Mailing Standards each to submit a report no later than June 30, 2002, on the authority provided by this section.
 
 **Clarification Relating to Coordination of Government Programs**
 
-Pub. L. 99–87, § 4, Aug. 9, 1985, 99 Stat. 292, provided that: “Notwithstanding any other provision of law, the authority provided by section 3220(b) of title 39, United States Code, as added by this Act, shall not be considered to be subject to the authority of any agency within the executive branch of the Government of the United States to coordinate programs relating to missing children.”
+Pub. L. 99–87, § 4, Aug. 9, 1985, 99 Stat. 292, provided that: “Notwithstanding any other provision of law, the authority provided by section 3220(b) of title 39, United States Code, as added by this Act, shall not be considered to be subject to the authority of any agency within the executive branch of the Government of the United States to coordinate programs relating to missing children.”

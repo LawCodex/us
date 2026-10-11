@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—SMITHSONIAN INSTITUTION, NATIONAL GALLERY OF ART, AND JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS
 
-## § 6301. Definition
+## § 6301. Definition
 
 In this chapter, the term “specified buildings and grounds” means—
 
@@ -41,13 +41,13 @@ In this chapter, the term “specified buildings and grounds” means—
 
 **(3) John f. kennedy center for the performing arts.—** The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1184; Pub. L. 115–31, div. G, title IV, § 426, May 5, 2017, 131 Stat. 500.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1184; Pub. L. 115–31, div. G, title IV, § 426, May 5, 2017, 131 Stat. 500.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6301 | 40:193v. | Oct. 24, 1951, ch. 559, § 9, 65 Stat. 635; Pub. L. 88–391, § 3, Aug. 1, 1964, 78 Stat. 366; Pub. L. 90–376, § 3, July 5, 1968, 82 Stat. 286; Pub. L. 102–336, Aug. 7, 1992, 106 Stat. 864; Pub. L. 103–279, § 9(c), July 21, 1994, 108 Stat. 1417; Pub. L. 105–95, § 4 (related to section 9(3) of the Act of October 24, 1951), Nov. 19, 1997, 111 Stat. 2149. |
+| 6301 | 40:193v. | Oct. 24, 1951, ch. 559, § 9, 65 Stat. 635; Pub. L. 88–391, § 3, Aug. 1, 1964, 78 Stat. 366; Pub. L. 90–376, § 3, July 5, 1968, 82 Stat. 286; Pub. L. 102–336, Aug. 7, 1992, 106 Stat. 864; Pub. L. 103–279, § 9(c), July 21, 1994, 108 Stat. 1417; Pub. L. 105–95, § 4 (related to section 9(3) of the Act of October 24, 1951), Nov. 19, 1997, 111 Stat. 2149. |
 
 In clause (1)(A), the words “National Museum of American History” are substituted for “Museum of History and Technology” because of section 3 of the Act of October 13, 1980 (Public Law 96–441, 20:71 note).
 
@@ -61,7 +61,7 @@ In clause (3), the words “the site of” are omitted as unnecessary and for co
 
 2017—Par. (2). Pub. L. 115–31 designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
 
-## § 6302. Public use of grounds
+## § 6302. Public use of grounds
 
 Public travel in, and occupancy of, the grounds specified under section 6301 of this title are restricted to the sidewalks and other paved surfaces, except in the National Zoological Park.
 
@@ -71,9 +71,9 @@ Public travel in, and occupancy of, the grounds specified under section 6301 of 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6302 | 40:193*o*. | Oct. 24, 1951, ch. 559, § 2, 65 Stat. 634. |
+| 6302 | 40:193*o*. | Oct. 24, 1951, ch. 559, § 2, 65 Stat. 634. |
 
-## § 6303. Unlawful activities
+## § 6303. Unlawful activities
 
 **(a) Displays and Solicitations.—** It is unlawful for anyone other than an authorized employee or concessionaire to carry out any of the following activities within the specified buildings and grounds:
 
@@ -95,10 +95,10 @@ Public travel in, and occupancy of, the grounds specified under section 6301 of 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6303(a) | 40:193p. | Oct. 24, 1951, ch. 559, §§ 3, 4, 65 Stat. 634. |
+| 6303(a) | 40:193p. | Oct. 24, 1951, ch. 559, §§ 3, 4, 65 Stat. 634. |
 | 6303(b) | 40:193q. |  |
 
-## § 6304. Additional regulations
+## § 6304. Additional regulations
 
 **(a) Authority To Prescribe Additional Regulations.—** In addition to the restrictions and requirements specified in sections 6302 and 6303 of this title, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts may prescribe for their respective agencies regulations necessary for—
 
@@ -114,9 +114,9 @@ Public travel in, and occupancy of, the grounds specified under section 6301 of 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6304 | 40:193r. | Oct. 24, 1951, ch. 559, § 5, 65 Stat. 634; Pub. L. 88–391, § 1, Aug. 1, 1964, 78 Stat. 365; Pub. L. 103–279, § 9(a), July 21, 1994, 108 Stat. 1416. |
+| 6304 | 40:193r. | Oct. 24, 1951, ch. 559, § 5, 65 Stat. 634; Pub. L. 88–391, § 1, Aug. 1, 1964, 78 Stat. 365; Pub. L. 103–279, § 9(a), July 21, 1994, 108 Stat. 1416. |
 
-## § 6305. Suspension of regulations
+## § 6305. Suspension of regulations
 
 To allow authorized services, training programs, and ceremonies in the specified buildings and grounds, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts (or their designees) may suspend for their respective agencies any of the prohibitions contained in sections 6302 and 6303 of this title as may be necessary for the occasion or circumstance if—
 
@@ -134,11 +134,11 @@ To allow authorized services, training programs, and ceremonies in the specified
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6305 | 40:193u. | Oct. 24, 1951, ch. 559, § 8, 65 Stat. 635; Pub. L. 103–279, § 9(b), July 21, 1994, 108 Stat. 1416. |
+| 6305 | 40:193u. | Oct. 24, 1951, ch. 559, § 8, 65 Stat. 635; Pub. L. 103–279, § 9(b), July 21, 1994, 108 Stat. 1416. |
 
 Before clause (1), the words “or their designees” are substituted for “or their designated representatives” for consistency in the revised section.
 
-## § 6306. Policing of buildings and grounds
+## § 6306. Policing of buildings and grounds
 
 **(a) Designation of Employees as Special Police.—** Subject to section 5375 of title 5, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts (or their designees) may designate employees of their respective agencies as special police, without additional compensation, for duty in connection with the policing of their respective specified buildings and grounds.
 
@@ -156,16 +156,16 @@ Before clause (1), the words “or their designees” are substituted for “or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6306(a) | 40:193n. | Oct. 24, 1951, ch. 559, § 1, 65 Stat. 634; Pub. L. 91–34, § 2(c), June 30, 1969, 83 Stat. 41; Pub. L. 104–134, title I, § 101(c) [title II, proviso in 1st par. under heading “John F. Kennedy Center for the Performing Arts”], Apr. 26, 1996, 110 Stat. 1321–193, renumbered as title I by Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. |
-| 6306(b)(1) | 40:193t (words before 5th comma). | Oct. 24, 1951, ch. 559, § 7, 65 Stat. 635; Pub. L. 88–391, § 2, Aug. 1, 1964, 78 Stat. 365. |
-| 6306(b)(2) | 40:193x. | Oct. 24, 1951, ch. 559, § 11, as added Pub. L. 88–391, § 4, Aug. 1, 1964, 78 Stat. 366. |
+| 6306(a) | 40:193n. | Oct. 24, 1951, ch. 559, § 1, 65 Stat. 634; Pub. L. 91–34, § 2(c), June 30, 1969, 83 Stat. 41; Pub. L. 104–134, title I, § 101(c) [title II, proviso in 1st par. under heading “John F. Kennedy Center for the Performing Arts”], Apr. 26, 1996, 110 Stat. 1321–193, renumbered as title I by Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327. |
+| 6306(b)(1) | 40:193t (words before 5th comma). | Oct. 24, 1951, ch. 559, § 7, 65 Stat. 635; Pub. L. 88–391, § 2, Aug. 1, 1964, 78 Stat. 365. |
+| 6306(b)(2) | 40:193x. | Oct. 24, 1951, ch. 559, § 11, as added Pub. L. 88–391, § 4, Aug. 1, 1964, 78 Stat. 366. |
 | 6306(c) | 40:193t (words after 5th comma). |  |
 
 In subsection (a), the words “section 5375 of title 5” are substituted for “section 5365 of title 5” because of section 801(a)(3)(A)(ii) of the Civil Service Reform Act of 1978 (Public Law 95–454, 92 Stat. 1221), which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375 of title 5. The words “or their designees” are substituted for “or their authorized representatives” for consistency in the revised chapter.
 
 In subsection (b)(2), the words “within which the specified buildings and grounds are located” are substituted for “within which the aforementioned buildings are located” for clarity.
 
-## § 6307. Penalties
+## § 6307. Penalties
 
 **(a) In General.—**
 
@@ -185,7 +185,7 @@ In subsection (b)(2), the words “within which the specified buildings and grou
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6307 | 40:193s. | Oct. 24, 1951, ch. 559, § 6, 65 Stat. 635. |
+| 6307 | 40:193s. | Oct. 24, 1951, ch. 559, § 6, 65 Stat. 635. |
 
 In subsection (a)(1), the words “fined under title 18” are substituted for “fined not more than $100” for consistency with chapter 227 of title 18.
 

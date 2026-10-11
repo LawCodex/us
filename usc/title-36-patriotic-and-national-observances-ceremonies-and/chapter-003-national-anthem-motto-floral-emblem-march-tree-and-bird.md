@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, TREE, AND BIRD"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, TREE, AND BIRD"
 identifier: "/us/usc/t36/stI/ptA/ch3"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
 
 # CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, TREE, AND BIRD
 
@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–206, § 1(c), Dec. 23, 2024, 138 Stat. 2700, substituted “TREE, AND BIRD” for “AND TREE” in chapter heading and added item 306.
+2024—Pub. L. 118–206, § 1(c), Dec. 23, 2024, 138 Stat. 2700, substituted “TREE, AND BIRD” for “AND TREE” in chapter heading and added item 306.
 
-2014—Pub. L. 113–237, § 3(c)(1), Dec. 18, 2014, 128 Stat. 2840, substituted “FLORAL EMBLEM, MARCH” for “FLORAL EMBLEM MARCH” in chapter heading.
+2014—Pub. L. 113–237, § 3(c)(1), Dec. 18, 2014, 128 Stat. 2840, substituted “FLORAL EMBLEM, MARCH” for “FLORAL EMBLEM MARCH” in chapter heading.
 
-2004—Pub. L. 108–447, div. J, title I, § 109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
+2004—Pub. L. 108–447, div. J, title I, § 109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,7 +91,7 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 > **“(b) Rule of Construction.—** Nothing in this Act or the adoption of the North American bison as the national mammal of the United States shall be construed or used as a reason to alter, change, modify, or otherwise affect any plan, policy, management decision, regulation, or other action by the Federal Government.”
 
-## § 301. National anthem
+## § 301. National anthem
 
 **(a) Designation.—** The composition consisting of the words and music known as the Star-Spangled Banner is the national anthem.
 
@@ -107,14 +107,14 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 **(2)** when the flag is not displayed, all present should face toward the music and act in the same manner they would if the flag were displayed.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263; Pub. L. 110–417, [div. A], title V, § 595, Oct. 14, 2008, 122 Stat. 4475.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263; Pub. L. 110–417, [div. A], title V, § 595, Oct. 14, 2008, 122 Stat. 4475.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 301(a) | 36:170. | Mar. 3, 1931, ch. 436, 46 Stat. 1508. |
-| 301(b) | 36:171. | June 22, 1942, ch. 435, § 6, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 6, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, § 1(18), 90 Stat. 812. |
+| 301(b) | 36:171. | June 22, 1942, ch. 435, § 6, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 6, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, § 1(18), 90 Stat. 812. |
 
 **Editorial Notes**
 
@@ -128,11 +128,11 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 “(C) individuals in uniform should give the military salute at the first note of the anthem and maintain that position until the last note; and”.
 
-## § 302. National motto
+## § 302. National motto
 
 “In God we trust” is the national motto.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263; Pub. L. 107–293, § 3(a), Nov. 13, 2002, 116 Stat. 2060.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263; Pub. L. 107–293, § 3(a), Nov. 13, 2002, 116 Stat. 2060.)
 
 **Historical and Revision Notes**
 
@@ -150,9 +150,9 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 **Reaffirmation of Language**
 
-Pub. L. 107–293, § 3(b), Nov. 13, 2002, 116 Stat. 2061, provided that: “In codifying this subsection [probably should be “section”, meaning section 3 of Pub. L. 107–293, which amended this section], the Office of the Law Revision Counsel shall make no change in section 302, title 36, United States Code, but shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Motto for decades.”
+Pub. L. 107–293, § 3(b), Nov. 13, 2002, 116 Stat. 2061, provided that: “In codifying this subsection [probably should be “section”, meaning section 3 of Pub. L. 107–293, which amended this section], the Office of the Law Revision Counsel shall make no change in section 302, title 36, United States Code, but shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Motto for decades.”
 
-## § 303. National floral emblem
+## § 303. National floral emblem
 
 The flower commonly known as the rose is the national floral emblem.
 
@@ -186,7 +186,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, 
 
 Ronald Reagan.
 
-## § 304. National march
+## § 304. National march
 
 The composition by John Philip Sousa entitled “The Stars and Stripes Forever” is the national march.
 
@@ -198,27 +198,27 @@ The composition by John Philip Sousa entitled “The Stars and Stripes Forever�
 |---|---|---|
 | 304 | 36:188. | Dec. 11, 1987, Pub. L. 100–186, 101 Stat. 1286. |
 
-## § 305. National tree
+## § 305. National tree
 
 The tree genus Quercus, commonly known as the oak tree, is the national tree.
 
-(Added Pub. L. 108–447, div. J, title I, § 109(a), Dec. 8, 2004, 118 Stat. 3344.)
+(Added Pub. L. 108–447, div. J, title I, § 109(a), Dec. 8, 2004, 118 Stat. 3344.)
 
-## § 306. National bird
+## § 306. National bird
 
 The bald eagle (Haliaeetus leucocephalus) is the national bird.
 
-(Added Pub. L. 118–206, § 1(b), Dec. 23, 2024, 138 Stat. 2699.)
+(Added Pub. L. 118–206, § 1(b), Dec. 23, 2024, 138 Stat. 2699.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 118–206, § 1(d), Dec. 23, 2024, 138 Stat. 2700, provided that: “Nothing in this section [enacting this section and provisions set out as a note under this section], the amendments made by this section, or the adoption of the bald eagle as the national bird of the United States may be construed or used as a reason to alter, change, modify, or otherwise affect any plan, policy, management decision, regulation, or other action of the Federal Government.”
+Pub. L. 118–206, § 1(d), Dec. 23, 2024, 138 Stat. 2700, provided that: “Nothing in this section [enacting this section and provisions set out as a note under this section], the amendments made by this section, or the adoption of the bald eagle as the national bird of the United States may be construed or used as a reason to alter, change, modify, or otherwise affect any plan, policy, management decision, regulation, or other action of the Federal Government.”
 
 **Findings**
 
-Pub. L. 118–206, § 1(a), Dec. 23, 2024, 138 Stat. 2699, provided that:
+Pub. L. 118–206, § 1(a), Dec. 23, 2024, 138 Stat. 2699, provided that:
 
 > “Congress finds that—
 

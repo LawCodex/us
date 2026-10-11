@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–508, title XI, § 11704(a)(18), Nov. 5, 1990, 104 Stat. 1388–519, substituted “23A—” for “23A.” in chapter heading.
+1990—Pub. L. 101–508, title XI, § 11704(a)(18), Nov. 5, 1990, 104 Stat. 1388–519, substituted “23A—” for “23A.” in chapter heading.
 
-1988—Pub. L. 100–647, title VII, § 7106(a), Nov. 10, 1988, 102 Stat. 3772, reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
+1988—Pub. L. 100–647, title VII, § 7106(a), Nov. 10, 1988, 102 Stat. 3772, reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
 
-## § 3321. Imposition of tax
+## § 3321. Imposition of tax
 
 **(a) General rule**
 
@@ -45,7 +45,7 @@ The rail wages of an employee representative for purposes of paragraph (1) shall
 
 **(2)** no unpaid interest on such transfers.
 
-(Added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 426; amended Pub. L. 99–272, title XIII, § 13301(a), Apr. 7, 1986, 100 Stat. 325; Pub. L. 100–647, title I, § 1018(u)(17), title VIII, § 7106(a), Nov. 10, 1988, 102 Stat. 3590, 3772.)
+(Added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 426; amended Pub. L. 99–272, title XIII, § 13301(a), Apr. 7, 1986, 100 Stat. 325; Pub. L. 100–647, title I, § 1018(u)(17), title VIII, § 7106(a), Nov. 10, 1988, 102 Stat. 3590, 3772.)
 
 **Editorial Notes**
 
@@ -55,9 +55,9 @@ Section 10(d) of the Railroad Unemployment Insurance Act, referred to in subsec.
 
 **Amendments**
 
-1988—Pub. L. 100–647, § 7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
+1988—Pub. L. 100–647, § 7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
 
-Pub. L. 100–647, § 1018(u)(17), added a period at end of par. (4).
+Pub. L. 100–647, § 1018(u)(17), added a period at end of par. (4).
 
 1986—Subsec. (c). Pub. L. 99–272 amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows:
 
@@ -79,15 +79,15 @@ In no event shall the applicable percentage exceed 5 percent.”
 
 Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VII, § 7106(d), Nov. 10, 1988, 102 Stat. 3774, provided that: “The amendments made by this section [amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads], and the provisions of subsection (b) [set out below], shall apply to remuneration paid after December 31, 1988.”
+Pub. L. 100–647, title VII, § 7106(d), Nov. 10, 1988, 102 Stat. 3774, provided that: “The amendments made by this section [amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads], and the provisions of subsection (b) [set out below], shall apply to remuneration paid after December 31, 1988.”
 
 **Effective Date**
 
-Pub. L. 98–76, title II, § 231(d), Aug. 12, 1983, 97 Stat. 429, provided that: “The amendments made by this section [enacting this chapter and amending sections 6157, 6201, 6317, 6513, and 6601 of this title] shall apply to remuneration paid after June 30, 1986.”
+Pub. L. 98–76, title II, § 231(d), Aug. 12, 1983, 97 Stat. 429, provided that: “The amendments made by this section [enacting this chapter and amending sections 6157, 6201, 6317, 6513, and 6601 of this title] shall apply to remuneration paid after June 30, 1986.”
 
 **Continuation of Surtax Rate Through 1990**
 
-Pub. L. 100–647, title VII, § 7106(b), Nov. 10, 1988, 102 Stat. 3773, provided that:
+Pub. L. 100–647, title VII, § 7106(b), Nov. 10, 1988, 102 Stat. 3773, provided that:
 
 > **“(1) In general.—** In the case of any calendar month beginning before January 1, 1991—
 
@@ -105,7 +105,7 @@ Pub. L. 100–647, title VII, § 7106(b), Nov. 10, 1988, 102 Stat. 3773, provi
 
 > **“(B)** zero for any other calendar month.”
 
-## § 3322. Definitions
+## § 3322. Definitions
 
 **(a) Rail employer**
 
@@ -123,7 +123,7 @@ For purposes of this chapter, the term “employee representative” has the mea
 
 For purposes of this chapter, rules similar to the rules of section 3307 and 3308 shall apply.
 
-(Added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 427; amended Pub. L. 99–272, title XIII, § 13301(d), Apr. 7, 1986, 100 Stat. 327; Pub. L. 100–647, title VII, § 7106(a), Nov. 10, 1988, 102 Stat. 3773.)
+(Added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 427; amended Pub. L. 99–272, title XIII, § 13301(d), Apr. 7, 1986, 100 Stat. 327; Pub. L. 100–647, title VII, § 7106(a), Nov. 10, 1988, 102 Stat. 3773.)
 
 **Editorial Notes**
 
@@ -137,9 +137,9 @@ Section 8(a) of the Railroad Unemployment Insurance Act, referred to in subsec. 
 
 1988—Pub. L. 100–647 amended section generally, substituting present provisions for former provisions relating to taxable period, which had provided, in subsec. (a), for a general rule and, in subsec. (b), for earlier termination if loans to rail unemployment fund repaid.
 
-1986—Subsec. (a)(2), (3). Pub. L. 99–272, § 13301(d)(1), struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
+1986—Subsec. (a)(2), (3). Pub. L. 99–272, § 13301(d)(1), struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
 
-Subsec. (b). Pub. L. 99–272, § 13301(d)(2), substituted “The basic rate under section 3321(c)(1)(A) of the tax imposed by section 3321 shall not apply” for “The tax imposed by this chapter shall not apply” in introductory provision, and inserted “made before October 1, 1985,” in par. (1).
+Subsec. (b). Pub. L. 99–272, § 13301(d)(2), substituted “The basic rate under section 3321(c)(1)(A) of the tax imposed by section 3321 shall not apply” for “The tax imposed by this chapter shall not apply” in introductory provision, and inserted “made before October 1, 1985,” in par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,6 +151,6 @@ Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 19
 
 For purposes of this chapter, the term “rail wages” shall not include the amount of any refund required under section 421 of Pub. L. 100–360, 42 U.S.C. 1395b note, see section 10202 of Pub. L. 101–239, set out as a note under section 1395b of Title 42, The Public Health and Welfare.
 
-## [§ 3323. Omitted]
+## [§ 3323. Omitted]
 
-Section, added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 427; amended Pub. L. 99–272, title XIII, § 13301(b), Apr. 7, 1986, 100 Stat. 326, contained definitions, prior to the general amendment of this chapter by Pub. L. 100–647, § 7106(a). See section 3322 of this title.
+Section, added Pub. L. 98–76, title II, § 231(a), Aug. 12, 1983, 97 Stat. 427; amended Pub. L. 99–272, title XIII, § 13301(b), Apr. 7, 1986, 100 Stat. 326, contained definitions, prior to the general amendment of this chapter by Pub. L. 100–647, § 7106(a). See section 3322 of this title.

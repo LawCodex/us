@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-Pub. L. 109–177, title V, § 507(c)(2), Mar. 9, 2006, 120 Stat. 251, substituted “Certification and judicial review” for “Application to State unitary review procedure” in item 2265.
+Pub. L. 109–177, title V, § 507(c)(2), Mar. 9, 2006, 120 Stat. 251, substituted “Certification and judicial review” for “Application to State unitary review procedure” in item 2265.
 
-## § 2261. Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment
+## § 2261. Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment
 
 **(a)** This chapter shall apply to cases arising under section 2254 brought by prisoners in State custody who are subject to a capital sentence. It shall apply only if the provisions of subsections (b) and (c) are satisfied.
 
@@ -43,15 +43,15 @@ Pub. L. 109–177, title V, § 507(c)(2), Mar. 9, 2006, 120 Stat. 251, substit
 
 **(e)** The ineffectiveness or incompetence of counsel during State or Federal post-conviction proceedings in a capital case shall not be a ground for relief in a proceeding arising under section 2254. This limitation shall not preclude the appointment of different counsel, on the court’s own motion or at the request of the prisoner, at any phase of State or Federal post-conviction proceedings on the basis of the ineffectiveness or incompetence of counsel in such proceedings.
 
-(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1221; amended Pub. L. 109–177, title V, § 507(a), (b), Mar. 9, 2006, 120 Stat. 250.)
+(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1221; amended Pub. L. 109–177, title V, § 507(a), (b), Mar. 9, 2006, 120 Stat. 250.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–177, § 507(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.”
+2006—Subsec. (b). Pub. L. 109–177, § 507(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “This chapter is applicable if a State establishes by statute, rule of its court of last resort, or by another agency authorized by State law, a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in State post-conviction proceedings brought by indigent prisoners whose capital convictions and sentences have been upheld on direct appeal to the court of last resort in the State or have otherwise become final for State law purposes. The rule of court or statute must provide standards of competency for the appointment of such counsel.”
 
-Subsec. (d). Pub. L. 109–177, § 507(b), struck out “or on direct appeal” after “at trial”.
+Subsec. (d). Pub. L. 109–177, § 507(b), struck out “or on direct appeal” after “at trial”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -61,9 +61,9 @@ Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2
 
 **Effective Date**
 
-Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided that: “Chapter 154 of title 28, United States Code (as added by subsection (a)) shall apply to cases pending on or after the date of enactment of this Act [Apr. 24, 1996].”
+Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided that: “Chapter 154 of title 28, United States Code (as added by subsection (a)) shall apply to cases pending on or after the date of enactment of this Act [Apr. 24, 1996].”
 
-## § 2262. Mandatory stay of execution; duration; limits on stays of execution; successive petitions
+## § 2262. Mandatory stay of execution; duration; limits on stays of execution; successive petitions
 
 **(a)** Upon the entry in the appropriate State court of record of an order under section 2261(c), a warrant or order setting an execution date for a State prisoner shall be stayed upon application to any court that would have jurisdiction over any proceedings filed under section 2254. The application shall recite that the State has invoked the post-conviction review procedures of this chapter and that the scheduled execution is subject to stay.
 
@@ -77,7 +77,7 @@ Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided
 
 **(c)** If one of the conditions in subsection (b) has occurred, no Federal court thereafter shall have the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).
 
-(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1222.)
+(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1222.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -85,7 +85,7 @@ Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided
 
 Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under section 2261 of this title.
 
-## § 2263. Filing of habeas corpus application; time requirements; tolling rules
+## § 2263. Filing of habeas corpus application; time requirements; tolling rules
 
 **(a)** Any application under this chapter for habeas corpus relief under section 2254 must be filed in the appropriate district court not later than 180 days after final State court affirmance of the conviction and sentence on direct review or the expiration of the time for seeking such review.
 
@@ -101,7 +101,7 @@ Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c
 
 **(B)** a showing of good cause is made for the failure to file the habeas corpus application within the time period established by this section.
 
-(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223.)
+(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -109,7 +109,7 @@ Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c
 
 Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under section 2261 of this title.
 
-## § 2264. Scope of Federal review; district court adjudications
+## § 2264. Scope of Federal review; district court adjudications
 
 **(a)** Whenever a State prisoner under capital sentence files a petition for habeas corpus relief to which this chapter applies, the district court shall only consider a claim or claims that have been raised and decided on the merits in the State courts, unless the failure to raise the claim properly is—
 
@@ -121,7 +121,7 @@ Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c
 
 **(b)** Following review subject to subsections (a), (d), and (e) of section 2254, the court shall rule on the claims properly before it.
 
-(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223.)
+(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c
 
 Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under section 2261 of this title.
 
-## § 2265. Certification and judicial review
+## § 2265. Certification and judicial review
 
 **(a) Certification.—**
 
@@ -155,13 +155,13 @@ Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c
 
 **(3) Standard of review.—** The determination by the Attorney General regarding whether to certify a State under this section shall be subject to de novo review.
 
-(Added Pub. L. 109–177, title V, § 507(c)(1), Mar. 9, 2006, 120 Stat. 250.)
+(Added Pub. L. 109–177, title V, § 507(c)(1), Mar. 9, 2006, 120 Stat. 250.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2265, added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223, related to the application of sections 2262, 2263, 2264, and 2266 of this title to State unitary review procedures, prior to repeal by Pub. L. 109–177, title V, § 507(c)(1), Mar. 9, 2006, 120 Stat. 250.
+A prior section 2265, added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1223, related to the application of sections 2262, 2263, 2264, and 2266 of this title to State unitary review procedures, prior to repeal by Pub. L. 109–177, title V, § 507(c)(1), Mar. 9, 2006, 120 Stat. 250.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ A prior section 2265, added Pub. L. 104–132, title I, § 107(a), Apr. 24, 19
 
 Section applicable to cases pending on or after Mar. 9, 2006, with special rule for certain cases pending on that date, see section 507(d) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under section 2251 of this title.
 
-## § 2266. Limitation periods for determining applications and motions
+## § 2266. Limitation periods for determining applications and motions
 
 **(a)** The adjudication of any application under section 2254 that is subject to this chapter, and the adjudication of any motion under section 2255 by a person under sentence of death, shall be given priority by the district court and by the court of appeals over all noncapital matters.
 
@@ -253,7 +253,7 @@ Section applicable to cases pending on or after Mar. 9, 2006, with special rule 
 
 **(5)** The Administrative Office of the United States Courts shall submit to Congress an annual report on the compliance by the courts of appeals with the time limitations under this section.
 
-(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1224; amended Pub. L. 109–177, title V, § 507(e), Mar. 9, 2006, 120 Stat. 251.)
+(Added Pub. L. 104–132, title I, § 107(a), Apr. 24, 1996, 110 Stat. 1224; amended Pub. L. 109–177, title V, § 507(e), Mar. 9, 2006, 120 Stat. 251.)
 
 **Editorial Notes**
 

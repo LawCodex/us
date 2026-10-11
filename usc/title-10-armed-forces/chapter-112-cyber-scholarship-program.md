@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title XVI, § 1633(b)(2), Aug. 13, 2018, 132 Stat. 2125, added item 2200c and struck out former item 2200c “Centers of Academic Excellence in Cyber Education”.
+2018—Pub. L. 115–232, div. A, title XVI, § 1633(b)(2), Aug. 13, 2018, 132 Stat. 2125, added item 2200c and struck out former item 2200c “Centers of Academic Excellence in Cyber Education”.
 
-2017—Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(A), (2), Dec. 12, 2017, 131 Stat. 1752, 1753, substituted “CYBER” for “INFORMATION SECURITY” in chapter heading and “Centers of Academic Excellence in Cyber Education” for “Centers of Academic Excellence in Information Assurance Education” in item 2200c.
+2017—Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(A), (2), Dec. 12, 2017, 131 Stat. 1752, 1753, substituted “CYBER” for “INFORMATION SECURITY” in chapter heading and “Centers of Academic Excellence in Cyber Education” for “Centers of Academic Excellence in Information Assurance Education” in item 2200c.
 
-## § 2200. Programs; purpose
+## § 2200. Programs; purpose
 
 **(a) In General.—** To encourage the recruitment and retention of Department of Defense personnel who have the computer and network security skills necessary to meet the cyber requirements of the Department of Defense, the Secretary of Defense may carry out programs in accordance with this chapter to provide financial support for education in disciplines relevant to those requirements at institutions of higher education.
 
@@ -35,27 +35,27 @@ retrieved: 2026-10-11
 
 **(c) Name of Program.—** The programs authorized under this chapter shall be known as the “Cyber Scholarship Program”.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–233; amended Pub. L. 115–91, div. A, title XVI, § 1649(a), (d)(1)(B), Dec. 12, 2017, 131 Stat. 1752.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–233; amended Pub. L. 115–91, div. A, title XVI, § 1649(a), (d)(1)(B), Dec. 12, 2017, 131 Stat. 1752.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–91, § 1649(d)(1)(B)(i), substituted “the cyber requirements of the Department of Defense” for “Department of Defense information assurance requirements”.
+2017—Subsec. (a). Pub. L. 115–91, § 1649(d)(1)(B)(i), substituted “the cyber requirements of the Department of Defense” for “Department of Defense information assurance requirements”.
 
-Subsec. (b)(1). Pub. L. 115–91, § 1649(d)(1)(B)(ii), substituted “cyber disciplines” for “information assurance”.
+Subsec. (b)(1). Pub. L. 115–91, § 1649(d)(1)(B)(ii), substituted “cyber disciplines” for “information assurance”.
 
-Subsec. (c). Pub. L. 115–91, § 1649(a), added subsec. (c).
+Subsec. (c). Pub. L. 115–91, § 1649(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 115–91, div. A, title XVI, § 1649(e)(1), Dec. 12, 2017, 131 Stat. 1753, provided that: “The Information Security Scholarship program under chapter 112 of title 10, United States Code, is redesignated as the ‘Cyber Scholarship program’. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to the Information Security Scholarship program shall be deemed to be a reference to the Cyber Scholarship Program.”
+Pub. L. 115–91, div. A, title XVI, § 1649(e)(1), Dec. 12, 2017, 131 Stat. 1753, provided that: “The Information Security Scholarship program under chapter 112 of title 10, United States Code, is redesignated as the ‘Cyber Scholarship program’. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to the Information Security Scholarship program shall be deemed to be a reference to the Cyber Scholarship Program.”
 
 **Department of Defense Cyber Service Academy**
 
-Pub. L. 117–263, div. A, title XV, § 1535, Dec. 23, 2022, 136 Stat. 2907, as amended by Pub. L. 118–31, div. A, title XV, §§ 1531(c)(6), 1533, 1534, Dec. 22, 2023, 137 Stat. 563, 565, 566, provided that:
+Pub. L. 117–263, div. A, title XV, § 1535, Dec. 23, 2022, 136 Stat. 2907, as amended by Pub. L. 118–31, div. A, title XV, §§ 1531(c)(6), 1533, 1534, Dec. 22, 2023, 137 Stat. 563, 565, 566, provided that:
 
 > **“(a) Establishment.—**
 
@@ -237,7 +237,7 @@ Pub. L. 117–263, div. A, title XV, § 1535, Dec. 23, 2022, 136 Stat. 2907, a
 
 **Program To Establish Cyber Institutes at Institutions of Higher Learning**
 
-Pub. L. 115–232, div. A, title XVI, § 1640, Aug. 13, 2018, 132 Stat. 2130, as amended by Pub. L. 116–283, div. A, title XVII, § 1710, Jan. 1, 2021, 134 Stat. 4086; Pub. L. 118–31, div. A, title XV, § 1531(c)(1), Dec. 22, 2023, 137 Stat. 562, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1640, Aug. 13, 2018, 132 Stat. 2130, as amended by Pub. L. 116–283, div. A, title XVII, § 1710, Jan. 1, 2021, 134 Stat. 4086; Pub. L. 118–31, div. A, title XV, § 1531(c)(1), Dec. 22, 2023, 137 Stat. 562, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense may carry out a program to establish a Cyber Institute at institutions of higher learning selected under subsection (b) for purposes of accelerating and focusing the development of foundational expertise in critical cyber operational skills for future military and civilian leaders of the Armed Forces and the Department of Defense, including such leaders of the reserve components.
 
@@ -277,9 +277,9 @@ Pub. L. 115–232, div. A, title XVI, § 1640, Aug. 13, 2018, 132 Stat. 2130, 
 
 **Report**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 922(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
+Pub. L. 106–398, § 1 [[div. A], title IX, § 922(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
 
-## § 2200a. Scholarship program
+## § 2200a. Scholarship program
 
 **(a) Authority.—** The Secretary of Defense may, subject to subsection (f), provide financial assistance in accordance with this section to a person—
 
@@ -333,7 +333,7 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 922(c)], Oct. 30, 2000, 114 
 
 **(2)** may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, § 687(c)(8), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 111–84, div. A, title X, § 1073(a)(20), title XI, § 1103, Oct. 28, 2009, 123 Stat. 2473, 2485; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(J), title XVI, § 1649(b), (d)(1)(C), Dec. 12, 2017, 131 Stat. 1426, 1752; Pub. L. 116–92, div. A, title XVI, § 1637, Dec. 20, 2019, 133 Stat. 1749.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, § 687(c)(8), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 111–84, div. A, title X, § 1073(a)(20), title XI, § 1103, Oct. 28, 2009, 123 Stat. 2473, 2485; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(J), title XVI, § 1649(b), (d)(1)(C), Dec. 12, 2017, 131 Stat. 1426, 1752; Pub. L. 116–92, div. A, title XVI, § 1637, Dec. 20, 2019, 133 Stat. 1749.)
 
 **Editorial Notes**
 
@@ -341,23 +341,23 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 922(c)], Oct. 30, 2000, 114 
 
 2019—Subsec. (a)(1). Pub. L. 116–92 substituted “advanced degree, or certificate” for “or advanced degree, or a certification,”.
 
-2017—Subsec. (a)(1). Pub. L. 115–91, § 1649(d)(1)(C)(i), substituted “a cyber discipline” for “an information assurance discipline”.
+2017—Subsec. (a)(1). Pub. L. 115–91, § 1649(d)(1)(C)(i), substituted “a cyber discipline” for “an information assurance discipline”.
 
-Subsec. (e). Pub. L. 115–91, § 618(a)(1)(J), inserted “or 373” before “of title 37” in pars. (1) and (2).
+Subsec. (e). Pub. L. 115–91, § 618(a)(1)(J), inserted “or 373” before “of title 37” in pars. (1) and (2).
 
-Subsec. (f). Pub. L. 115–91, § 1649(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 115–91, § 1649(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f)(1). Pub. L. 115–91, § 1649(d)(1)(C)(ii), substituted “cyber disciplines” for “information assurance”.
+Subsec. (f)(1). Pub. L. 115–91, § 1649(d)(1)(C)(ii), substituted “cyber disciplines” for “information assurance”.
 
-Subsec. (g)(1). Pub. L. 115–91, § 1649(d)(1)(C)(iii), substituted “a cyber position” for “an information technology position”.
+Subsec. (g)(1). Pub. L. 115–91, § 1649(d)(1)(C)(iii), substituted “a cyber position” for “an information technology position”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
+2009—Subsec. (a). Pub. L. 111–84, § 1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 111–84, § 1073(a)(20), substituted “subsection (b)” for “section (b)”.
+Subsec. (e)(1). Pub. L. 111–84, § 1073(a)(20), substituted “subsection (b)” for “section (b)”.
 
-Subsec. (g). Pub. L. 111–84, § 1103(a), added subsec. (g).
+Subsec. (g). Pub. L. 111–84, § 1103(a), added subsec. (g).
 
-2006—Subsec. (e). Pub. L. 109–163, § 687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
+2006—Subsec. (e). Pub. L. 109–163, § 687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
 “(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
 
@@ -365,7 +365,7 @@ Subsec. (g). Pub. L. 111–84, § 1103(a), added subsec. (g).
 
 “(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.”
 
-Subsecs. (f), (g). Pub. L. 109–163, § 687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
+Subsecs. (f), (g). Pub. L. 109–163, § 687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -373,7 +373,7 @@ Subsecs. (f), (g). Pub. L. 109–163, § 687(c)(8)(B), (C), redesignated subse
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 2200b. Grant program
+## § 2200b. Grant program
 
 **(a) Authority.—** The Secretary of Defense may provide grants of financial assistance to institutions of higher education to support the establishment, improvement, or administration of programs of education in cyber disciplines referred to in section 2200(a) of this title.
 
@@ -387,7 +387,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(4)** Faculty research in information security.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–235; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(D), Dec. 12, 2017, 131 Stat. 1753.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–235; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(D), Dec. 12, 2017, 131 Stat. 1753.)
 
 **Editorial Notes**
 
@@ -395,7 +395,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 Subsec. (a). Pub. L. 115–91 substituted “cyber disciplines” for “information assurance disciplines”.
 
-## § 2200c. Special considerations in awarding scholarships and grants
+## § 2200c. Special considerations in awarding scholarships and grants
 
 **(a) Centers of Academic Excellence in Cyber Education.—** In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
 
@@ -409,7 +409,7 @@ Subsec. (a). Pub. L. 115–91 substituted “cyber disciplines” for “informa
 
 **(2)** in the case of a grant, the recipient is an institution described in such section.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(E), (F), Dec. 12, 2017, 131 Stat. 1753; Pub. L. 115–232, div. A, title XVI, § 1633(a), (b)(1), Aug. 13, 2018, 132 Stat. 2125.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(E), (F), Dec. 12, 2017, 131 Stat. 1753; Pub. L. 115–232, div. A, title XVI, § 1633(a), (b)(1), Aug. 13, 2018, 132 Stat. 2125.)
 
 **Editorial Notes**
 
@@ -423,15 +423,15 @@ Subsec. (a). Pub. L. 115–91 substituted “cyber disciplines” for “informa
 
 **Change of Name**
 
-Pub. L. 115–91, div. A, title XVI, § 1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: “Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall be deemed to be a reference to a Center of Academic Excellence in Cyber Education.”
+Pub. L. 115–91, div. A, title XVI, § 1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: “Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall be deemed to be a reference to a Center of Academic Excellence in Cyber Education.”
 
-## § 2200d. Regulations
+## § 2200d. Regulations
 
 The Secretary of Defense shall prescribe regulations for the administration of this chapter.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236.)
 
-## § 2200e. Definitions
+## § 2200e. Definitions
 
 In this chapter:
 
@@ -449,7 +449,7 @@ In this chapter:
 
 **(3)** The term “Center of Academic Excellence in Cyber Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Cyber Education.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, § 1649(c), Dec. 12, 2017, 131 Stat. 1752.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, § 1649(c), Dec. 12, 2017, 131 Stat. 1752.)
 
 **Editorial Notes**
 
@@ -457,11 +457,11 @@ In this chapter:
 
 2017—Pub. L. 115–91 amended section generally. Prior to amendment, section defined “information assurance”, “institution of higher education”, and “Center of Academic Excellence in Information Assurance Education”.
 
-## § 2200f. Inapplicability to Coast Guard
+## § 2200f. Inapplicability to Coast Guard
 
 This chapter does not apply to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236.)
 
 **Statutory Notes and Related Subsidiaries**
 

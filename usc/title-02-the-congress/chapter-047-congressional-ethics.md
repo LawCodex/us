@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 4701. Subletting duties of employees of Senate or House
+### § 4701. Subletting duties of employees of Senate or House
 
 No employee of Congress, either in the Senate or House, shall sublet to, or hire, another to do or perform any part of the duties or work attached to the position to which he was appointed.
 
-(Mar. 2, 1895, ch. 177, § 1, 28 Stat. 771.)
+(Mar. 2, 1895, ch. 177, § 1, 28 Stat. 771.)
 
 **Editorial Notes**
 
@@ -29,7 +29,7 @@ No employee of Congress, either in the Senate or House, shall sublet to, or hire
 
 Section was formerly classified to section 101 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4702. Notification of post-employment restrictions for Members of Congress and employees
+### § 4702. Notification of post-employment restrictions for Members of Congress and employees
 
 **(a) Notification of post-employment restrictions**
 
@@ -39,7 +39,7 @@ After a Member of Congress or an elected officer of either House of Congress lea
 
 The Clerk of the House of Representatives, with respect to notifications under subsection (a) relating to Members, officers, and employees of the House, and the Secretary of the Senate, with respect to such notifications relating to Members, officers, and employees of the Senate, shall post the information contained in such notifications on the public Internet site of the Office of the Clerk or the Secretary of the Senate, as the case may be, in a format that, to the extent technically practicable, is searchable, sortable, and downloadable.
 
-(Pub. L. 110–81, title I, § 103, Sept. 14, 2007, 121 Stat. 739.)
+(Pub. L. 110–81, title I, § 103, Sept. 14, 2007, 121 Stat. 739.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 **Effective Date**
 
-Pub. L. 110–81, title I, § 105(c), Sept. 14, 2007, 121 Stat. 741, provided that:
+Pub. L. 110–81, title I, § 105(c), Sept. 14, 2007, 121 Stat. 741, provided that:
 
 > **“(1) Notification of post-employment restrictions.—** Subsection (a) of section 103 [2 U.S.C. 4702(a)] shall take effect on the 60th day after the date of the enactment of this Act [Sept. 14, 2007].
 
@@ -63,7 +63,7 @@ Pub. L. 110–81, title I, § 105(c), Sept. 14, 2007, 121 Stat. 741, provided 
 
 ## SUBCHAPTER II—HOUSE OF REPRESENTATIVES
 
-### § 4711. Committee on Standards of Official Conduct of House of Representatives
+### § 4711. Committee on Standards of Official Conduct of House of Representatives
 
 **(a) Omitted**
 
@@ -79,9 +79,9 @@ The respective party caucus or conference of the House of Representatives shall 
 
 **(3)** that the chairman and ranking minority member of the full committee may only serve as non-voting, ex officio members on an investigative subcommittee.
 
-Clause 5(d) of rule XI 1
+Clause 5(d) of rule XI 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Rules of the House of Representatives shall not apply to any investigative subcommittee.
 
@@ -91,13 +91,13 @@ of the Rules of the House of Representatives shall not apply to any investigativ
 
 **(2)** that, if an investigative subcommittee by majority vote of its membership adopts a statement of alleged violation, the remaining members of the committee shall comprise an adjudicatory subcommittee to hold a disciplinary hearing on the violation alleged in the statement;
 
-**(3)** that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee’s final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
+**(3)** that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee’s final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
 
 **(4)** that a quorum for an adjudicatory subcommittee for the purpose of taking testimony and conducting any business shall consist of a majority of the membership of the subcommittee plus one; and
 
 **(5)** that an adjudicatory subcommittee shall determine, after receiving evidence, whether the counts in the statement have been proved and shall report its findings to the committee.
 
-Clause 5(d) of rule XI <sup>1</sup> of the Rules of the House of Representatives shall not apply to any adjudicatory subcommittee.
+Clause 5(d) of rule XI <sup>1</sup> of the Rules of the House of Representatives shall not apply to any adjudicatory subcommittee.
 
 **(e) to (h) Omitted**
 
@@ -117,13 +117,13 @@ Clause 5(d) of rule XI <sup>1</sup> of the Rules of the House of Representativ
 
 **(D)** Developing and carrying out, subject to the approval of the chairman, periodic educational briefings for Members, officers and employees of the House on those laws, rules, regulations, or other standards of conduct applicable to them.
 
-**(4)** No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
+**(4)** No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
 
 **(j) Effective date**
 
 This section shall take effect immediately before noon January 3, 1991, except that subsections (g), (h), and (i) shall take effect on January 1, 1990.
 
-(Pub. L. 101–194, title VIII, § 803, Nov. 30, 1989, 103 Stat. 1774.)
+(Pub. L. 101–194, title VIII, § 803, Nov. 30, 1989, 103 Stat. 1774.)
 
 **Editorial Notes**
 
@@ -145,15 +145,15 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 **Acceptance of Gifts; Amendments to Advisory Opinions**
 
-Pub. L. 101–194, title VIII, § 801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: “The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII [now clause 4 of rule XXIII] of the Rules of the House of Representatives.”
+Pub. L. 101–194, title VIII, § 801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: “The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII [now clause 4 of rule XXIII] of the Rules of the House of Representatives.”
 
 **Noncampaign Use of Campaign Vehicles**
 
-Pub. L. 101–194, title VIII, § 802(e), Nov. 30, 1989, 103 Stat. 1773, provided that: “The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall issue an advisory opinion to provide for appropriate conditions for the incidental noncampaign use of vehicles owned or leased by a campaign committee of a Member of the House of Representatives.”
+Pub. L. 101–194, title VIII, § 802(e), Nov. 30, 1989, 103 Stat. 1773, provided that: “The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall issue an advisory opinion to provide for appropriate conditions for the incidental noncampaign use of vehicles owned or leased by a campaign committee of a Member of the House of Representatives.”
 
 **Restrictions on Reimbursable Travel Expenses**
 
-Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided that:
+Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided that:
 
 > **“(a) Restrictions.—** The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall amend its advisory opinions relating to the acceptance of necessary travel expenses incurred on or after January 1, 1990, in connection with speaking engagements and similar events to—
 
@@ -163,7 +163,7 @@ Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided
 
 > **“(b) Exemption Authority.—** The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives is authorized to grant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances.”
 
-### § 4712. Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives
+### § 4712. Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives
 
 **(a) Requiring posting on Internet** The Clerk of the House of Representatives shall post on the public Internet site of the Office of the Clerk, in a format that is searchable, sortable, and downloadable, to the extent technically practicable, each of the following:
 
@@ -195,7 +195,7 @@ The Clerk of the House of Representatives, in consultation with the Committee on
 
 The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under section 13105(h)(1) of title 5, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
 
-(Pub. L. 110–81, title III, § 304, Sept. 14, 2007, 121 Stat. 752; Pub. L. 112–105, § 19(b)(1), Apr. 4, 2012, 126 Stat. 304; Pub. L. 117–286, § 4(c)(4), Dec. 27, 2022, 136 Stat. 4353.)
+(Pub. L. 110–81, title III, § 304, Sept. 14, 2007, 121 Stat. 752; Pub. L. 112–105, § 19(b)(1), Apr. 4, 2012, 126 Stat. 304; Pub. L. 117–286, § 4(c)(4), Dec. 27, 2022, 136 Stat. 4353.)
 
 **Editorial Notes**
 
@@ -205,11 +205,11 @@ Section was formerly classified to section 104e of this title prior to editorial
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–286, § 4(c)(4)(A), substituted “section 13105(h)(1) of title 5” for “section 103(h)(1) of the Ethics in Government Act of 1978”.
+2022—Subsec. (a)(2). Pub. L. 117–286, § 4(c)(4)(A), substituted “section 13105(h)(1) of title 5” for “section 103(h)(1) of the Ethics in Government Act of 1978”.
 
-Subsec. (c). Pub. L. 117–286, § 4(c)(4)(B), substituted “section 13105(h)(1) of title 5,” for “section 103(h)(1) of the Ethics in Government Act of 1978,”.
+Subsec. (c). Pub. L. 117–286, § 4(c)(4)(B), substituted “section 13105(h)(1) of title 5,” for “section 103(h)(1) of the Ethics in Government Act of 1978,”.
 
-2012—Subsec. (c). Pub. L. 112–105 substituted “, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.” for period at end.
+2012—Subsec. (c). Pub. L. 112–105 substituted “, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -219,11 +219,11 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–105, § 19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) [of Pub. L. 112–105, set out as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees] first take effect.”
+Pub. L. 112–105, § 19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) [of Pub. L. 112–105, set out as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees] first take effect.”
 
 **Rule of Construction**
 
-Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
+Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
 
 > “Nothing in this Act [see Tables for classification], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9[(a)] of this Act [set out as notes preceding section 13101 of Title 5, Government Organization and Employees], shall be construed to—
 
@@ -235,7 +235,7 @@ Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
 
 **Exercise of Rulemaking Authority**
 
-Pub. L. 110–81, title III, § 306, Sept. 14, 2007, 121 Stat. 754, provided that:
+Pub. L. 110–81, title III, § 306, Sept. 14, 2007, 121 Stat. 754, provided that:
 
 > “The provisions of this title [enacting this section] are adopted by the House of Representatives—
 
@@ -243,11 +243,11 @@ Pub. L. 110–81, title III, § 306, Sept. 14, 2007, 121 Stat. 754, provided t
 
 > **“(2)** with full recognition of the constitutional right of the House to change those rules at any time, in the same manner, and to the same extent as in the case of any other rule of the House.”
 
-### § 4713. Reporting payments made to witnesses before Committee on Standards of Official Conduct
+### § 4713. Reporting payments made to witnesses before Committee on Standards of Official Conduct
 
 Notwithstanding any other provision of law or any other rule or regulation, any information on payments made by the Committee on Standards of Official Conduct of the House of Representatives to an individual for attendance as a witness before the Committee in executive session during a Congress shall be reported not later than the second semiannual report filed under section 5535 of this title in the following Congress.
 
-(Pub. L. 105–275, title I, § 105, Oct. 21, 1998, 112 Stat. 2439.)
+(Pub. L. 105–275, title I, § 105, Oct. 21, 1998, 112 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -263,11 +263,11 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 ## SUBCHAPTER III—SENATE
 
-### § 4721. Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation
+### § 4721. Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation
 
 If the Committee on Ethics of the Senate determines that there is a reasonable basis to believe that a Member, officer, or employee of the Senate may have committed an ethics violation, the committee may request the Office of Special Investigations of the Government Accountability Office to conduct factfinding and an investigation into the matter. The Office of Special Investigations shall promptly investigate the matter as directed by the committee.
 
-(Pub. L. 101–194, title V, § 501, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–194, title V, § 501, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ Section was formerly classified to section 72a–1g of this title prior to edito
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
 
-### § 4722. Mandatory Senate ethics training for Members and staff
+### § 4722. Mandatory Senate ethics training for Members and staff
 
 **(a) Training program**
 
@@ -291,7 +291,7 @@ The Select Committee on Ethics shall conduct ongoing ethics training and awarene
 
 **(2)** Senators and Senate staff serving or employed on September 14, 2007, not later than 165 days after September 14, 2007.
 
-(Pub. L. 110–81, title V, § 553, Sept. 14, 2007, 121 Stat. 773.)
+(Pub. L. 110–81, title V, § 553, Sept. 14, 2007, 121 Stat. 773.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ The Select Committee on Ethics shall conduct ongoing ethics training and awarene
 
 Section was formerly classified to section 72a–1h of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4723. Annual report by Select Committee on Ethics
+### § 4723. Annual report by Select Committee on Ethics
 
 The Select Committee on Ethics of the Senate shall issue an annual report due no later than January 31, describing the following:
 
@@ -323,7 +323,7 @@ The Select Committee on Ethics of the Senate shall issue an annual report due no
 
 **(8)** Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.
 
-(Pub. L. 110–81, title V, § 554, Sept. 14, 2007, 121 Stat. 773.)
+(Pub. L. 110–81, title V, § 554, Sept. 14, 2007, 121 Stat. 773.)
 
 **Editorial Notes**
 
@@ -331,13 +331,13 @@ The Select Committee on Ethics of the Senate shall issue an annual report due no
 
 Section was formerly classified to section 72a–1i of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4724. Amendment to Senate conflict of interest rule
+### § 4724. Amendment to Senate conflict of interest rule
 
 **(a)** Except as provided by subsection (b), any employee of the Senate who is required to file a report pursuant to Senate rules shall refrain from participating personally and substantially as an employee of the Senate in any contact with any agency of the executive or judicial branch of Government with respect to non-legislative matters affecting any non-governmental person in which the employee has a significant financial interest.
 
 **(b)** Subsection (a) shall not apply if an employee first advises his supervisor of his significant financial interest and obtains from such supervisor a written waiver stating that the participation of the employee is necessary. A copy of each such waiver shall be filed with the Select Committee.
 
-(Pub. L. 101–194, title IX, § 903, Nov. 30, 1989, 103 Stat. 1781.)
+(Pub. L. 101–194, title IX, § 903, Nov. 30, 1989, 103 Stat. 1781.)
 
 **Editorial Notes**
 
@@ -345,13 +345,13 @@ Section was formerly classified to section 72a–1i of this title prior to edito
 
 Section was formerly classified to section 60–2 of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4725. Gifts and travel
+### § 4725. Gifts and travel
 
 **(a) Gifts**
 
-**(1)** No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts in any calendar year aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater 1
+**(1)** No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts in any calendar year aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 from any person, organization, or corporation unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.
 
@@ -373,19 +373,19 @@ from any person, organization, or corporation unless, in an unusual case, a waiv
 
 **(5)**
 
-**(A)** Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select 2
+**(A)** Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
 
 **(B)** Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,3
 
-<sup>3</sup>  So in original. The comma probably should not appear.
+<sup>3</sup> So in original. The comma probably should not appear.
 
-participating, the supervisors of such individuals where applicable; 4
+participating, the supervisors of such individuals where applicable; 4
 
-<sup>4</sup>  So in original. The semicolon probably should be a comma.
+<sup>4</sup> So in original. The semicolon probably should be a comma.
 
 and the nature and itinerary of such program.
 
@@ -395,7 +395,7 @@ and the nature and itinerary of such program.
 
 The term “necessary expenses”, with respect to limits on domestic and foreign travel by Members and staff of the Senate, means reasonable expenses for food, lodging, or transportation which are incurred by a Member, officer, or employee of the Senate in connection with services provided to (or participation in an event sponsored by) the organization which provides reimbursement for such expenses or which provides the food, lodging, or transportation directly. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for a continuous period in excess of 3 days exclusive of travel time within the United States or 7 days exclusive of travel time outside of the United States unless such travel is approved by the Committee on Ethics as necessary for participation in a conference, seminar, meeting or similar matter. Necessary expenses do not include the provision of food, lodging, or transportation, or the payment for such expenses, for anyone accompanying a Member, officer, or employee of the Senate, other than the spouse or child of such Member, officer, or employee of the Senate or one Senate employee acting as an aide to a Member.
 
-(Pub. L. 101–194, title IX, § 901, Nov. 30, 1989, 103 Stat. 1778; Pub. L. 101–280, § 8, May 4, 1990, 104 Stat. 162; Pub. L. 102–90, title III, § 314(c), Aug. 14, 1991, 105 Stat. 470; Pub. L. 117–286, § 4(c)(5), Dec. 27, 2022, 136 Stat. 4353.)
+(Pub. L. 101–194, title IX, § 901, Nov. 30, 1989, 103 Stat. 1778; Pub. L. 101–280, § 8, May 4, 1990, 104 Stat. 162; Pub. L. 102–90, title III, § 314(c), Aug. 14, 1991, 105 Stat. 470; Pub. L. 117–286, § 4(c)(5), Dec. 27, 2022, 136 Stat. 4353.)
 
 **Editorial Notes**
 
@@ -405,37 +405,37 @@ Section was formerly classified to section 31–2 of this title prior to editori
 
 **Amendments**
 
-2022—Subsec. (a)(2)(B). Pub. L. 117–286, § 4(c)(5)(A), substituted “section 13104(a)(2)(A) of title 5;” for “section 102(a)(2)(A) of the Ethics in Government Act of 1978;”.
+2022—Subsec. (a)(2)(B). Pub. L. 117–286, § 4(c)(5)(A), substituted “section 13104(a)(2)(A) of title 5;” for “section 102(a)(2)(A) of the Ethics in Government Act of 1978;”.
 
-Subsec. (a)(3)(B). Pub. L. 117–286, § 4(c)(5)(B), substituted “section 13101(16) of title 5.” for “section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
+Subsec. (a)(3)(B). Pub. L. 117–286, § 4(c)(5)(B), substituted “section 13101(16) of title 5.” for “section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
 
-1991—Subsec. (a)(1). Pub. L. 102–90, § 314(c)(1)–(3), redesignated par. (2) as (1), substituted “in any calendar year aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater” for “having an aggregate value exceeding $300 during a calendar year”, and struck out former par. (1) which read as follows: “No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts having an aggregate value exceeding $100 during a calendar year directly or indirectly from any person, organization, or corporation having a direct interest in legislation before the Congress or from any foreign national unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.”
+1991—Subsec. (a)(1). Pub. L. 102–90, § 314(c)(1)–(3), redesignated par. (2) as (1), substituted “in any calendar year aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater” for “having an aggregate value exceeding $300 during a calendar year”, and struck out former par. (1) which read as follows: “No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts having an aggregate value exceeding $100 during a calendar year directly or indirectly from any person, organization, or corporation having a direct interest in legislation before the Congress or from any foreign national unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.”
 
-Subsec. (a)(2). Pub. L. 102–90, § 314(c)(2), (4), redesignated par. (5) as (2) and, in subpar. (B), substituted “$100 or less, as adjusted under section 102(a)(2)(A) of the Ethics in Government Act of 1978” for “less than $75”. Former par. (2) redesignated (1).
+Subsec. (a)(2). Pub. L. 102–90, § 314(c)(2), (4), redesignated par. (5) as (2) and, in subpar. (B), substituted “$100 or less, as adjusted under section 102(a)(2)(A) of the Ethics in Government Act of 1978” for “less than $75”. Former par. (2) redesignated (1).
 
-Subsec. (a)(3). Pub. L. 102–90, § 314(c)(5), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “the term ‘foreign national’ means a person acting directly or indirectly on behalf of a foreign corporation, partnership, or business enterprise, a foreign trade, cultural, educational, or other association, a foreign political party, or a foreign government;”.
+Subsec. (a)(3). Pub. L. 102–90, § 314(c)(5), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “the term ‘foreign national’ means a person acting directly or indirectly on behalf of a foreign corporation, partnership, or business enterprise, a foreign trade, cultural, educational, or other association, a foreign political party, or a foreign government;”.
 
-Pub. L. 102–90, § 314(c)(1), (2), redesignated par. (6) as (3) and struck out former par. (3) which read as follows: “In determining the aggregate value of any gift or gifts accepted by an individual during a calendar year from any person, organization, or corporation, there may be deducted the aggregate value of gifts (other than gifts described in paragraph (5)) given by such individual to such person, organization, or corporation during that calendar year.”
+Pub. L. 102–90, § 314(c)(1), (2), redesignated par. (6) as (3) and struck out former par. (3) which read as follows: “In determining the aggregate value of any gift or gifts accepted by an individual during a calendar year from any person, organization, or corporation, there may be deducted the aggregate value of gifts (other than gifts described in paragraph (5)) given by such individual to such person, organization, or corporation during that calendar year.”
 
-Subsec. (a)(4). Pub. L. 102–90, § 314(c)(1), (2), redesignated par. (7) as (4) and struck out former par. (4) which read as follows: “For purposes of this subsection, only the following shall be deemed to have a direct interest in legislation before the Congress:
+Subsec. (a)(4). Pub. L. 102–90, § 314(c)(1), (2), redesignated par. (7) as (4) and struck out former par. (4) which read as follows: “For purposes of this subsection, only the following shall be deemed to have a direct interest in legislation before the Congress:
 
 “(A) a person, organization, or corporation registered under the Federal Regulation of Lobbying Act of 1946, or any successor statute, a person who is an officer or director of such a registered lobbyist, or a person who has been employed or retained by such a registered lobbyist for the purpose of influencing legislation before the Congress; or
 
 “(B) a corporation, labor organization, or other organization which maintains a separate segregated fund for political purposes (within the meaning of section 441b of this title), a person who is an officer or director of such corporation, labor organization, or other organization, or a person who has been employed or retained by such corporation, labor organization, or other organization for the purpose of influencing legislation before the Congress.”
 
-Subsec. (a)(5) to (8). Pub. L. 102–90, § 314(c)(2), redesignated pars. (5) to (8) as (2) to (5), respectively.
+Subsec. (a)(5) to (8). Pub. L. 102–90, § 314(c)(2), redesignated pars. (5) to (8) as (2) to (5), respectively.
 
-1990—Subsec. (a)(5)(D). Pub. L. 101–280, § 8(1)(A), struck out subpar. (D) which read as follows: “from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government.”
+1990—Subsec. (a)(5)(D). Pub. L. 101–280, § 8(1)(A), struck out subpar. (D) which read as follows: “from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government.”
 
-Subsec. (a)(6)(A) to (C). Pub. L. 101–280, § 8(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+Subsec. (a)(6)(A) to (C). Pub. L. 101–280, § 8(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-Subsec. (b). Pub. L. 101–280, § 8(2), substituted “or child of such Member” for “of a Member” and struck out “(and 2 nights)” after “of 3 days” and “(and 6 nights)” after “or 7 days”.
+Subsec. (b). Pub. L. 101–280, § 8(2), substituted “or child of such Member” for “of a Member” and struck out “(and 2 nights)” after “of 3 days” and “(and 6 nights)” after “or 7 days”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–90, title III, § 314(g), Aug. 14, 1991, 105 Stat. 470, as amended by Pub. L. 102–378, § 4(c), Oct. 2, 1992, 106 Stat. 1358, provided that:
+Pub. L. 102–90, title III, § 314(g), Aug. 14, 1991, 105 Stat. 470, as amended by Pub. L. 102–378, § 4(c), Oct. 2, 1992, 106 Stat. 1358, provided that:
 
 > **“(1)** The amendments made by subsections (b) through (f) [amending this section, section 505 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and section 7701 of Title 26, Internal Revenue Code] shall take effect on January 1, 1992.
 
@@ -445,15 +445,15 @@ Pub. L. 102–90, title III, § 314(g), Aug. 14, 1991, 105 Stat. 470, as amend
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–280, § 11, May 4, 1990, 104 Stat. 163, provided that: “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [see Tables for classification] take effect on the date of the enactment of this joint resolution [May 4, 1990].”
+Pub. L. 101–280, § 11, May 4, 1990, 104 Stat. 163, provided that: “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [see Tables for classification] take effect on the date of the enactment of this joint resolution [May 4, 1990].”
 
-### § 4726. Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure
+### § 4726. Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure
 
 **(1) In general** Except as provided in paragraph (4) and not later than 60 days after September 14, 2007, and at annual intervals thereafter, the Select Committee on Ethics shall develop and revise, as necessary—
 
 **(A)** guidelines, for purposes of implementing the amendments made by subsection (a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 on evaluating a trip proposal and judging the reasonableness of an expense or expenditure, including guidelines related to evaluating—
 
@@ -475,7 +475,7 @@ on evaluating a trip proposal and judging the reasonableness of an expense or ex
 
 **(ix)** any other factor deemed relevant by the Select Committee on Ethics; and
 
-**(B)** regulations describing the information it will require individuals subject to the requirements of the amendments made by subsection (a) <sup>1</sup> to submit to the committee in order to obtain the prior approval of the committee for travel under paragraph 2 of rule XXXV of the Standing Rules of the Senate, including any required certifications.
+**(B)** regulations describing the information it will require individuals subject to the requirements of the amendments made by subsection (a) <sup>1</sup> to submit to the committee in order to obtain the prior approval of the committee for travel under paragraph 2 of rule XXXV of the Standing Rules of the Senate, including any required certifications.
 
 **(2) Consideration**
 
@@ -489,7 +489,7 @@ For purposes of this section, travel on a flight described in paragraph 1(c)(1)(
 
 The deadline for the initial guidelines required by paragraph (1) may be extended for 30 days by the Committee on Rules and Administration.
 
-(Pub. L. 110–81, title V, § 544(b), Sept. 14, 2007, 121 Stat. 769.)
+(Pub. L. 110–81, title V, § 544(b), Sept. 14, 2007, 121 Stat. 769.)
 
 **Editorial Notes**
 
@@ -505,13 +505,13 @@ Section was formerly classified to section 31–3 of this title prior to editori
 
 **Effective Date**
 
-Pub. L. 110–81, title V, § 544(f), Sept. 14, 2007, 121 Stat. 771, provided that: “The amendments made by subsections (a) [121 Stat. 767] and (b) [enacting this section] shall take effect 60 days after the date of enactment of this Act [Sept. 14, 2007] or the date the Select Committee on Ethics issues new guidelines as required by subsection (b), whichever is later. Subsection (c) [121 Stat. 770] shall take effect on the date of enactment of this Act.”
+Pub. L. 110–81, title V, § 544(f), Sept. 14, 2007, 121 Stat. 771, provided that: “The amendments made by subsections (a) [121 Stat. 767] and (b) [enacting this section] shall take effect 60 days after the date of enactment of this Act [Sept. 14, 2007] or the date the Select Committee on Ethics issues new guidelines as required by subsection (b), whichever is later. Subsection (c) [121 Stat. 770] shall take effect on the date of enactment of this Act.”
 
 **Separately Regulated Expenses**
 
-Pub. L. 110–81, title V, § 544(e), Sept. 14, 2007, 121 Stat. 771, provided that: “Nothing in this section [enacting this section and provisions set out as a note under this section] or section 541 [121 Stat. 766] is meant to alter treatment under law or Senate rules of expenses that are governed by the Foreign Gifts and Decorations Act [of 1966, 22 U.S.C. 2621 et seq.] or the Mutual Educational and Cultural Exchange Act [of 1961, 22 U.S.C. 2451 et seq.].”
+Pub. L. 110–81, title V, § 544(e), Sept. 14, 2007, 121 Stat. 771, provided that: “Nothing in this section [enacting this section and provisions set out as a note under this section] or section 541 [121 Stat. 766] is meant to alter treatment under law or Senate rules of expenses that are governed by the Foreign Gifts and Decorations Act [of 1966, 22 U.S.C. 2621 et seq.] or the Mutual Educational and Cultural Exchange Act [of 1961, 22 U.S.C. 2451 et seq.].”
 
-### § 4727. Senate privately paid travel public website
+### § 4727. Senate privately paid travel public website
 
 **(a) Travel disclosure** Not later than January 1, 2008, the Secretary of the Senate shall establish a publicly available website without fee or without access charge, that contains information on travel that is subject to disclosure under paragraph 2 of rule XXXV of the Standing Rules of the Senate, that includes, with respect to travel occurring on or after January 1, 2008—
 
@@ -529,11 +529,11 @@ The Secretary of the Senate shall maintain the information posted on the public 
 
 If the Secretary of the Senate is unable to meet the deadline established under subsection (a), the Committee on Rules and Administration of the Senate may grant an extension of the Secretary of the Senate.
 
-**(e) 1 [footnote: 1 So in original. No subsec. (d) has been enacted.] Authorization of appropriations**
+**(e) 1 [footnote: 1 So in original. No subsec. (d) has been enacted.] Authorization of appropriations**
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 110–81, title V, § 546, Sept. 14, 2007, 121 Stat. 772.)
+(Pub. L. 110–81, title V, § 546, Sept. 14, 2007, 121 Stat. 772.)
 
 **Editorial Notes**
 
@@ -541,7 +541,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Section was formerly classified to section 104g of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4728. Notification of post-employment restrictions for Senators and employees
+### § 4728. Notification of post-employment restrictions for Senators and employees
 
 **(a) In general**
 
@@ -551,7 +551,7 @@ After a Senator or an elected officer of the Senate leaves office or after the t
 
 This section shall take effect 60 days after September 14, 2007.
 
-(Pub. L. 110–81, title V, § 535, Sept. 14, 2007, 121 Stat. 766.)
+(Pub. L. 110–81, title V, § 535, Sept. 14, 2007, 121 Stat. 766.)
 
 **Editorial Notes**
 

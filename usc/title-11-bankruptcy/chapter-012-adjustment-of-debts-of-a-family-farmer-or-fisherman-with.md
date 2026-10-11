@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311. Chapter, as in effect on Sept. 30, 1998, reenacted for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999, by Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610. Chapter reenacted for successive periods running from Mar. 31, 1999, to July 1, 2005, by Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610, as successively amended by Pub. L. 106–5, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814, May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2, Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2, Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2, Oct. 25, 2004, 118 Stat. 1749. Chapter, as in effect on June 30, 2005, permanently reenacted effective July 1, 2005, by Pub. L. 109–8, title X, § 1001(a), Apr. 20, 2005, 119 Stat. 185. See Repeal, Reenactment, and Termination of Chapter and Effective Date notes set out under section 1201 of this title.
+Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311. Chapter, as in effect on Sept. 30, 1998, reenacted for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999, by Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610. Chapter reenacted for successive periods running from Mar. 31, 1999, to July 1, 2005, by Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610, as successively amended by Pub. L. 106–5, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814, May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2, Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2, Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2, Oct. 25, 2004, 118 Stat. 1749. Chapter, as in effect on June 30, 2005, permanently reenacted effective July 1, 2005, by Pub. L. 109–8, title X, § 1001(a), Apr. 20, 2005, 119 Stat. 185. See Repeal, Reenactment, and Termination of Chapter and Effective Date notes set out under section 1201 of this title.
 
 **Amendments**
 
-2017—Pub. L. 115–72, div. B, § 1005(b)(2), Oct. 26, 2017, 131 Stat. 1234, added item 1232. Item was added to analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
+2017—Pub. L. 115–72, div. B, § 1005(b)(2), Oct. 26, 2017, 131 Stat. 1234, added item 1232. Item was added to analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
 
-2005—Pub. L. 109–8, title X, § 1007(c)(1), Apr. 20, 2005, 119 Stat. 188, inserted “OR FISHERMAN” after “FAMILY FARMER” in chapter heading.
+2005—Pub. L. 109–8, title X, § 1007(c)(1), Apr. 20, 2005, 119 Stat. 188, inserted “OR FISHERMAN” after “FAMILY FARMER” in chapter heading.
 
 ## SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE
 
-### § 1201. Stay of action against codebtor
+### § 1201. Stay of action against codebtor
 
 **(a)** Except as provided in subsections (b) and (c) of this section, after the order for relief under this chapter, a creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on such debt with the debtor, or that secured such debt, unless—
 
@@ -49,7 +49,7 @@ Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, § 30
 
 **(d)** Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -61,31 +61,31 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–369, § 2(b), Oct. 25, 2004, 118 Stat. 1749, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] are deemed to have taken effect on January 1, 2004.”
+Pub. L. 108–369, § 2(b), Oct. 25, 2004, 118 Stat. 1749, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] are deemed to have taken effect on January 1, 2004.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–73, § 2(b), Aug. 15, 2003, 117 Stat. 891, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] take effect on July 1, 2003.”
+Pub. L. 108–73, § 2(b), Aug. 15, 2003, 117 Stat. 891, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] take effect on July 1, 2003.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–377, § 2(b), Dec. 19, 2002, 116 Stat. 3115, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on January 1, 2003.”
+Pub. L. 107–377, § 2(b), Dec. 19, 2002, 116 Stat. 3115, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on January 1, 2003.”
 
-Pub. L. 107–171, title X, § 10814(b), May 13, 2002, 116 Stat. 532, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2002.”
+Pub. L. 107–171, title X, § 10814(b), May 13, 2002, 116 Stat. 532, provided that: “The amendments made by subsection (a) [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2002.”
 
-Pub. L. 107–170, § 2, May 7, 2002, 116 Stat. 133, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 2001.”
+Pub. L. 107–170, § 2, May 7, 2002, 116 Stat. 133, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 2001.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–17, § 2, June 26, 2001, 115 Stat. 151, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2001.”
+Pub. L. 107–17, § 2, June 26, 2001, 115 Stat. 151, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on June 1, 2001.”
 
-Pub. L. 107–8, § 2, May 11, 2001, 115 Stat. 10, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on July 1, 2000.”
+Pub. L. 107–8, § 2, May 11, 2001, 115 Stat. 10, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on July 1, 2000.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–70, § 2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 1999.”
+Pub. L. 106–70, § 2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on October 1, 1999.”
 
-Pub. L. 106–5, § 2, Mar. 30, 1999, 113 Stat. 9, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on April 1, 1999.”
+Pub. L. 106–5, § 2, Mar. 30, 1999, 113 Stat. 9, provided that: “The amendments made by section 1 [amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section] shall take effect on April 1, 1999.”
 
 **Effective Date**
 
@@ -93,7 +93,7 @@ Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases comme
 
 **Repeal, Reenactment, and Termination of Chapter**
 
-Pub. L. 109–8, title X, § 1001(a), (b), Apr. 20, 2005, 119 Stat. 185, 186, provided that:
+Pub. L. 109–8, title X, § 1001(a), (b), Apr. 20, 2005, 119 Stat. 185, 186, provided that:
 
 > **“(a) Reenactment.—**
 
@@ -103,7 +103,7 @@ Pub. L. 109–8, title X, § 1001(a), (b), Apr. 20, 2005, 119 Stat. 185, 186, 
 
 > **“(b) Amendments—** Chapter 12 of title 11, United States Code, as reenacted by subsection (a), is amended by this Act [see Tables for classification].”
 
-Pub. L. 105–277, div. C, title I, § 149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, § 1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749, provided that:
+Pub. L. 105–277, div. C, title I, § 149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, § 1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749, provided that:
 
 > **“(a)** Chapter 12 of title 11 of the United States Code, as in effect on December 31, 2003, is hereby reenacted for the period beginning on January 1, 2004, and ending on July 1, 2005.
 
@@ -111,7 +111,7 @@ Pub. L. 105–277, div. C, title I, § 149, Oct. 21, 1998, 112 Stat. 2681–61
 
 Chapter was repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, were to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings were to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, formerly set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1202. Trustee
+### § 1202. Trustee
 
 **(a)** If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
 
@@ -173,7 +173,7 @@ Chapter was repealed Oct. 1, 1998, except that cases commenced or pending under 
 
 **(B)** Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
-(Added and amended Pub. L. 99–554, title II, §§ 227, 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 219(c), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 57, 185, 186; Pub. L. 111–327, § 2(a)(38), Dec. 22, 2010, 124 Stat. 3561.)
+(Added and amended Pub. L. 99–554, title II, §§ 227, 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 219(c), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 57, 185, 186; Pub. L. 111–327, § 2(a)(38), Dec. 22, 2010, 124 Stat. 3561.)
 
 **Editorial Notes**
 
@@ -187,15 +187,15 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2010—Subsec. (b)(1). Pub. L. 111–327, § 2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
+2010—Subsec. (b)(1). Pub. L. 111–327, § 2(a)(38)(A), substituted “704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)” for “704(2), 704(3), 704(5), 704(6), 704(7), and 704(9)”.
 
-Subsec. (b)(5). Pub. L. 111–327, § 2(a)(38)(B), substituted “704(a)(8)” for “704(8)”.
+Subsec. (b)(5). Pub. L. 111–327, § 2(a)(38)(B), substituted “704(a)(8)” for “704(8)”.
 
-2005—Subsec. (b)(6). Pub. L. 109–8, § 219(c)(1), added par. (6).
+2005—Subsec. (b)(6). Pub. L. 109–8, § 219(c)(1), added par. (6).
 
-Subsec. (c). Pub. L. 109–8, § 219(c)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 219(c)(2), added subsec. (c).
 
-1986—Subsecs. (c), (d). Pub. L. 99–554, § 227, struck out subsecs. (c) and (d) which read as follows:
+1986—Subsecs. (c), (d). Pub. L. 99–554, § 227, struck out subsecs. (c) and (d) which read as follows:
 
 “(c) If the number of cases under this chapter commenced in a particular judicial district so warrants, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.
 
@@ -239,7 +239,7 @@ Effective date and applicability of amendment by section 227 of Pub. L. 99–554
 
 **References in Subsection (a) Temporarily Deemed To Be References to Other Provisions**
 
-Until the amendments made by subtitle A (§§ 201 to 231) of title II of Pub. L. 99–554 become effective in a district and apply to a case, in subsec. (a) of this section—
+Until the amendments made by subtitle A (§§ 201 to 231) of title II of Pub. L. 99–554 become effective in a district and apply to a case, in subsec. (a) of this section—
 
 (1) the first two references to the United States trustee are deemed to be references to the court, and
 
@@ -247,11 +247,11 @@ Until the amendments made by subtitle A (§§ 201 to 231) of title II of Pub. 
 
 see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28.
 
-### § 1203. Rights and powers of debtor
+### § 1203. Rights and powers of debtor
 
 Subject to such limitations as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under section 330, and powers, and shall perform all the functions and duties, except the duties specified in paragraphs (3) and (4) of section 1106(a), of a trustee serving in a case under chapter 11, including operating the debtor’s farm or commercial fishing operation.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1007(c)(2), Apr. 20, 2005, 119 Stat. 185, 186, 188.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1007(c)(2), Apr. 20, 2005, 119 Stat. 185, 186, 188.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 1007(c)(2), inserted “or commercial fishing operation” after “farm”.
+2005—Pub. L. 109–8, § 1007(c)(2), inserted “or commercial fishing operation” after “farm”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,13 +273,13 @@ Amendment by section 1007(c)(2) of Pub. L. 109–8 effective 180 days after Apr.
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1204. Removal of debtor as debtor in possession
+### § 1204. Removal of debtor as debtor in possession
 
 **(a)** On request of a party in interest, and after notice and a hearing, the court shall order that the debtor shall not be a debtor in possession for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor, either before or after the commencement of the case.
 
 **(b)** On request of a party in interest, and after notice and a hearing, the court may reinstate the debtor in possession.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -293,7 +293,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1205. Adequate protection
+### § 1205. Adequate protection
 
 **(a)** Section 361 does not apply in a case under this chapter.
 
@@ -307,7 +307,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(4)** granting such other relief, other than entitling such entity to compensation allowable under section 503(b)(1) of this title as an administrative expense, as will adequately protect the value of property securing a claim or of such entity’s ownership interest in property.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3107, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -321,11 +321,11 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1206. Sales free of interests
+### § 1206. Sales free of interests
 
 After notice and a hearing, in addition to the authorization contained in section 363(f), the trustee in a case under this chapter may sell property under section 363(b) and (c) free and clear of any interest in such property of an entity other than the estate if the property is farmland, farm equipment, or property used to carry out a commercial fishing operation (including a commercial fishing vessel), except that the proceeds of such sale shall be subject to such interest.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1007(c)(3), Apr. 20, 2005, 119 Stat. 185, 186, 188.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1007(c)(3), Apr. 20, 2005, 119 Stat. 185, 186, 188.)
 
 **Editorial Notes**
 
@@ -335,7 +335,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 1007(c)(3), substituted “if the property is farmland, farm equipment, or property used to carry out a commercial fishing operation (including a commercial fishing vessel)” for “if the property is farmland or farm equipment”.
+2005—Pub. L. 109–8, § 1007(c)(3), substituted “if the property is farmland, farm equipment, or property used to carry out a commercial fishing operation (including a commercial fishing vessel)” for “if the property is farmland or farm equipment”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,7 +347,7 @@ Amendment by section 1007(c)(3) of Pub. L. 109–8 effective 180 days after Apr.
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1207. Property of the estate
+### § 1207. Property of the estate
 
 **(a)** Property of the estate includes, in addition to the property specified in section 541 of this title—
 
@@ -357,7 +357,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(b)** Except as provided in section 1204, a confirmed plan, or an order confirming a plan, the debtor shall remain in possession of all property of the estate.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1208. Conversion or dismissal
+### § 1208. Conversion or dismissal
 
 **(a)** The debtor may convert a case under this chapter to a case under chapter 7 of this title at any time. Any waiver of the right to convert under this subsection is unenforceable.
 
@@ -403,7 +403,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(e)** Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(2), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 52, 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3108, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(2), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 52, 185, 186.)
 
 **Editorial Notes**
 
@@ -413,7 +413,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2005—Subsec. (c)(10). Pub. L. 109–8, § 213(2), added par. (10).
+2005—Subsec. (c)(10). Pub. L. 109–8, § 213(2), added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -427,11 +427,11 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 ## SUBCHAPTER II—THE PLAN
 
-### § 1221. Filing of plan
+### § 1221. Filing of plan
 
 The debtor shall file a plan not later than 90 days after the order for relief under this chapter, except that the court may extend such period if the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §§ 1, 2, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §§ 1, 2, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -447,7 +447,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–65, § 3, Aug. 6, 1993, 107 Stat. 311, provided that:
+Pub. L. 103–65, § 3, Aug. 6, 1993, 107 Stat. 311, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act [amending this section and provisions set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Aug. 6, 1993].
 
@@ -457,7 +457,7 @@ Pub. L. 103–65, § 3, Aug. 6, 1993, 107 Stat. 311, provided that:
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1222. Contents of plan
+### § 1222. Contents of plan
 
 **(a)** The plan shall—
 
@@ -501,7 +501,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(d)** Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title III, § 305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(3), (4), title X, §§ 1001(a)(1), (c), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186; Pub. L. 115–72, div. B, § 1005(b)(1)(A), Oct. 26, 2017, 131 Stat. 1233.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title III, § 305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(3), (4), title X, §§ 1001(a)(1), (c), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186; Pub. L. 115–72, div. B, § 1005(b)(1)(A), Oct. 26, 2017, 131 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -511,15 +511,15 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2017—Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(A)(i), substituted “unless” for “unless—”, struck out subpar. (B) designation before “the holder”, and struck out subpar. (A) which read as follows: “the claim is a claim owed to a governmental unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in the debtor’s farming operation, in which case the claim shall be treated as an unsecured claim that is not entitled to priority under section 507, but the debt shall be treated in such manner only if the debtor receives a discharge; or”.
+2017—Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(A)(i), substituted “unless” for “unless—”, struck out subpar. (B) designation before “the holder”, and struck out subpar. (A) which read as follows: “the claim is a claim owed to a governmental unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in the debtor’s farming operation, in which case the claim shall be treated as an unsecured claim that is not entitled to priority under section 507, but the debt shall be treated in such manner only if the debtor receives a discharge; or”.
 
-Subsec. (a)(5). Pub. L. 115–72, § 1005(b)(1)(A)(ii)–(iv), added par. (5).
+Subsec. (a)(5). Pub. L. 115–72, § 1005(b)(1)(A)(ii)–(iv), added par. (5).
 
-2005—Subsec. (a)(2). Pub. L. 109–8, § 1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;”.
+2005—Subsec. (a)(2). Pub. L. 109–8, § 1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;”.
 
-Subsec. (a)(4). Pub. L. 109–8, § 213(3), added par. (4).
+Subsec. (a)(4). Pub. L. 109–8, § 213(3), added par. (4).
 
-Subsec. (b)(11), (12). Pub. L. 109–8, § 213(4), added par. (11) and redesignated former par. (11) as (12).
+Subsec. (b)(11), (12). Pub. L. 109–8, § 213(4), added par. (11) and redesignated former par. (11) as (12).
 
 1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
@@ -527,7 +527,7 @@ Subsec. (b)(11), (12). Pub. L. 109–8, § 213(4), added par. (11) and redesig
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–72, div. B, § 1005(c), Oct. 26, 2017, 131 Stat. 1234, provided that:
+Pub. L. 115–72, div. B, § 1005(c), Oct. 26, 2017, 131 Stat. 1234, provided that:
 
 > “The amendments made by this section [enacting section 1232 of this title and amending this section and sections 1228 and 1229 of this title] shall apply to—
 
@@ -543,7 +543,7 @@ Pub. L. 115–72, div. B, § 1005(c), Oct. 26, 2017, 131 Stat. 1234, provided 
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title X, § 1003(c), Apr. 20, 2005, 119 Stat. 186, provided that: “This section [amending this section and section 1231 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Apr. 20, 2005] and shall not apply with respect to cases commenced under title 11 of the United States Code before such date.”
+Pub. L. 109–8, title X, § 1003(c), Apr. 20, 2005, 119 Stat. 186, provided that: “This section [amending this section and section 1231 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Apr. 20, 2005] and shall not apply with respect to cases commenced under title 11 of the United States Code before such date.”
 
 Amendment by section 213(3), (4) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
@@ -555,7 +555,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to a
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1223. Modification of plan before confirmation
+### § 1223. Modification of plan before confirmation
 
 **(a)** The debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1222 of this title.
 
@@ -563,7 +563,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(c)** Any holder of a secured claim that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless the modification provides for a change in the rights of such holder from what such rights were under the plan before modification, and such holder changes such holder’s previous acceptance or rejection.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -577,11 +577,11 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1224. Confirmation hearing
+### § 1224. Confirmation hearing
 
 After expedited notice, the court shall hold a hearing on confirmation of the plan. A party in interest, the trustee, or the United States trustee may object to the confirmation of the plan. Except for cause, the hearing shall be concluded not later than 45 days after the filing of the plan.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -595,7 +595,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1225. Confirmation of plan
+### § 1225. Confirmation of plan
 
 **(a)** Except as provided in subsection (b), the court shall confirm a plan if—
 
@@ -641,7 +641,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(c)** After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §§ 213(5), 218, title X, §§ 1001(a)(1), (c), 1006(a), Apr. 20, 2005, 119 Stat. 52, 55, 185–187; Pub. L. 116–260, div. N, title III, § 320(d), (f)(2)(A)(iv), Dec. 27, 2020, 134 Stat. 2016, 2017.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3110, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §§ 213(5), 218, title X, §§ 1001(a)(1), (c), 1006(a), Apr. 20, 2005, 119 Stat. 52, 55, 185–187; Pub. L. 116–260, div. N, title III, § 320(d), (f)(2)(A)(iv), Dec. 27, 2020, 134 Stat. 2016, 2017.)
 
 **Editorial Notes**
 
@@ -651,15 +651,15 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2020—Subsec. (d). Pub. L. 116–260, § 320(f)(2)(A)(iv), contingent on its addition by Pub. L. 116–260, § 320(d), struck out subsec. (d) which read as follows: “Notwithstanding section 1222(a)(2) of this title and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
+2020—Subsec. (d). Pub. L. 116–260, § 320(f)(2)(A)(iv), contingent on its addition by Pub. L. 116–260, § 320(d), struck out subsec. (d) which read as follows: “Notwithstanding section 1222(a)(2) of this title and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in section 503(b)(10) of this title may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
 
-Pub. L. 116–260, § 320(d), added subsec. (d).
+Pub. L. 116–260, § 320(d), added subsec. (d).
 
-2005—Subsec. (a)(7). Pub. L. 109–8, § 213(5), added par. (7).
+2005—Subsec. (a)(7). Pub. L. 109–8, § 213(5), added par. (7).
 
-Subsec. (b)(1)(C). Pub. L. 109–8, § 1006(a), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 109–8, § 1006(a), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 109–8, § 218, inserted “or for a domestic support obligation that first becomes payable after the date of the filing of the petition” after “dependent of the debtor”.
+Subsec. (b)(2)(A). Pub. L. 109–8, § 218, inserted “or for a domestic support obligation that first becomes payable after the date of the filing of the petition” after “dependent of the debtor”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -677,7 +677,7 @@ Amendment by sections 213(5), 218, and 1006(a) of Pub. L. 109–8 effective 180 
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1226. Payments
+### § 1226. Payments
 
 **(a)** Payments and funds received by the trustee shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan. If a plan is not confirmed, the trustee shall return any such payments to the debtor, after deducting—
 
@@ -689,15 +689,15 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(1)** any unpaid claim of the kind specified in section 507(a)(2) of this title; and
 
-**(2)** if a standing trustee appointed under section 1202(c) 1
+**(2)** if a standing trustee appointed under section 1202(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title is serving in the case, the percentage fee fixed for such standing trustee under section 1202(d) 1 of this title.
+of this title is serving in the case, the percentage fee fixed for such standing trustee under section 1202(d) 1 of this title.
 
 **(c)** Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3111, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title V, § 501(d)(36), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), title XV, § 1502(a)(9), Apr. 20, 2005, 119 Stat. 185, 186, 217.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3111, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title V, § 501(d)(36), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), title XV, § 1502(a)(9), Apr. 20, 2005, 119 Stat. 185, 186, 217.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2005—Subsec. (b)(1). Pub. L. 109–8, § 1502(a)(9), substituted “507(a)(2)” for “507(a)(1)”.
+2005—Subsec. (b)(1). Pub. L. 109–8, § 1502(a)(9), substituted “507(a)(2)” for “507(a)(1)”.
 
 1994—Subsec. (b)(2). Pub. L. 103–394 substituted “1202(c)” for “1202(d)” and “1202(d)” for “1202(e)”.
 
@@ -729,7 +729,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1227. Effect of confirmation
+### § 1227. Effect of confirmation
 
 **(a)** Except as provided in section 1228(a) of this title, the provisions of a confirmed plan bind the debtor, each creditor, each equity security holder, and each general partner in the debtor, whether or not the claim of such creditor, such equity security holder, or such general partner in the debtor is provided for by the plan, and whether or not such creditor, such equity security holder, or such general partner in the debtor has objected to, has accepted, or has rejected the plan.
 
@@ -737,7 +737,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(c)** Except as provided in section 1228(a) of this title and except as otherwise provided in the plan or in the order confirming the plan, the property vesting in the debtor under subsection (b) of this section is free and clear of any claim or interest of any creditor provided for by the plan.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -751,7 +751,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1228. Discharge
+### § 1228. Discharge
 
 **(a)** Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan, allowed under section 503 of this title, or disallowed under section 502 of this title, except any debt—
 
@@ -787,7 +787,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(2)** there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, § 208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(6), title III, § 330(c), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 53, 101, 185, 186; Pub. L. 115–72, div. B, § 1005(b)(1)(B), Oct. 26, 2017, 131 Stat. 1233.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, § 208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, § 213(6), title III, § 330(c), title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 53, 101, 185, 186; Pub. L. 115–72, div. B, § 1005(b)(1)(B), Oct. 26, 2017, 131 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -797,19 +797,19 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–72, § 1005(b)(1)(B)(i)(I), in introductory provisions, inserted a comma after “all debts provided for by the plan” and after “allowed under section 503 of this title”.
+2017—Subsec. (a). Pub. L. 115–72, § 1005(b)(1)(B)(i)(I), in introductory provisions, inserted a comma after “all debts provided for by the plan” and after “allowed under section 503 of this title”.
 
-Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(B)(i)(II), substituted “a kind specified in section 523(a) of this title, except as provided in section 1232(c).” for “the kind specified in section 523(a) of this title.”
+Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(B)(i)(II), substituted “a kind specified in section 523(a) of this title, except as provided in section 1232(c).” for “the kind specified in section 523(a) of this title.”
 
-Subsec. (c)(2). Pub. L. 115–72, § 1005(b)(1)(B)(ii), inserted “, except as provided in section 1232(c)” before period at end.
+Subsec. (c)(2). Pub. L. 115–72, § 1005(b)(1)(B)(ii), inserted “, except as provided in section 1232(c)” before period at end.
 
-2005—Subsec. (a). Pub. L. 109–8, § 330(c)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
+2005—Subsec. (a). Pub. L. 109–8, § 330(c)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
 
-Pub. L. 109–8, § 213(6), inserted “, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid” after “completion by the debtor of all payments under the plan” in introductory provisions.
+Pub. L. 109–8, § 213(6), inserted “, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid” after “completion by the debtor of all payments under the plan” in introductory provisions.
 
-Subsec. (b). Pub. L. 109–8, § 330(c)(2), substituted “Subject to subsection (d), at” for “At” in introductory provisions.
+Subsec. (b). Pub. L. 109–8, § 330(c)(2), substituted “Subject to subsection (d), at” for “At” in introductory provisions.
 
-Subsec. (f). Pub. L. 109–8, § 330(c)(3), added subsec. (f).
+Subsec. (f). Pub. L. 109–8, § 330(c)(3), added subsec. (f).
 
 2000—Subsecs. (a), (c)(1). Pub. L. 106–518 substituted “1222(b)(9)” for “1222(b)(10)” wherever appearing.
 
@@ -827,7 +827,7 @@ Amendments by sections 213(6) and 330(c) of Pub. L. 109–8 effective 180 days a
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1229. Modification of plan after confirmation
+### § 1229. Modification of plan after confirmation
 
 **(a)** At any time after confirmation of the plan but before the completion of payments under such plan, the plan may be modified, on request of the debtor, the trustee, or the holder of an allowed unsecured claim, to—
 
@@ -855,7 +855,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(3)** in the last year of the plan by anyone except the debtor, to require payments that would leave the debtor with insufficient funds to carry on the farming operation after the plan is completed.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1006(b), Apr. 20, 2005, 119 Stat. 185–187; Pub. L. 115–72, div. B, § 1005(b)(1)(C), Oct. 26, 2017, 131 Stat. 1234.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, §§ 1001(a)(1), (c), 1006(b), Apr. 20, 2005, 119 Stat. 185–187; Pub. L. 115–72, div. B, § 1005(b)(1)(C), Oct. 26, 2017, 131 Stat. 1234.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 2017—Subsec. (a)(4). Pub. L. 115–72 added par. (4).
 
-2005—Subsec. (d). Pub. L. 109–8, § 1006(b), added subsec. (d).
+2005—Subsec. (d). Pub. L. 109–8, § 1006(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -883,13 +883,13 @@ Amendment by section 1006(b) of Pub. L. 109–8 effective 180 days after Apr. 20
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1230. Revocation of an order of confirmation
+### § 1230. Revocation of an order of confirmation
 
 **(a)** On request of a party in interest at any time within 180 days after the date of the entry of an order of confirmation under section 1225 of this title, and after notice and a hearing, the court may revoke such order if such order was procured by fraud.
 
 **(b)** If the court revokes an order of confirmation under subsection (a) of this section, the court shall dispose of the case under section 1207 of this title, unless, within the time fixed by the court, the debtor proposes and the court confirms a modification of the plan under section 1229 of this title.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title X, § 1001(a)(1), (c), Apr. 20, 2005, 119 Stat. 185, 186.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1231. Special tax provisions
+### § 1231. Special tax provisions
 
 **(a)** The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1225 of this title, may not be taxed under any law imposing a stamp tax or similar tax.
 
@@ -913,7 +913,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(2)** 270 days after such request.
 
-(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title VII, § 719(b)(4), title X, §§ 1001(a)(1), (c), 1003(b), Apr. 20, 2005, 119 Stat. 133, 185, 186.)
+(Added and amended Pub. L. 99–554, title II, § 255, title III, § 302(f), Oct. 27, 1986, 100 Stat. 3113, 3124; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 105–277, div. C, title I, § 149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, § 1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, § 1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, § 1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, § 1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, § 1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, § 10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, § 2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, § 2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, § 2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title VII, § 719(b)(4), title X, §§ 1001(a)(1), (c), 1003(b), Apr. 20, 2005, 119 Stat. 133, 185, 186.)
 
 **Editorial Notes**
 
@@ -923,13 +923,13 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–8, § 719(b)(4), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “For the purpose of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.”
+2005—Subsec. (a). Pub. L. 109–8, § 719(b)(4), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “For the purpose of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.”
 
-Subsec. (b). Pub. L. 109–8, § 1003(b), substituted “any governmental unit” for “a State or local governmental unit”.
+Subsec. (b). Pub. L. 109–8, § 1003(b), substituted “any governmental unit” for “a State or local governmental unit”.
 
-Pub. L. 109–8, § 719(b)(4), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.”
+Pub. L. 109–8, § 719(b)(4), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.”
 
-Subsecs. (c), (d). Pub. L. 109–8, § 719(b)(4)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
+Subsecs. (c), (d). Pub. L. 109–8, § 719(b)(4)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -943,7 +943,7 @@ Amendment by section 719(b)(4) of Pub. L. 109–8 effective 180 days after Apr. 
 
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 
-### § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation
+### § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation
 
 **(a)** Any unsecured claim of a governmental unit against the debtor or the estate that arises before the filing of the petition, or that arises after the filing of the petition and before the debtor’s discharge under section 1228, as a result of the sale, transfer, exchange, or other disposition of any property used in the debtor’s farming operation—
 
@@ -969,7 +969,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 **(4)** A claim filed under this subsection shall be determined and shall be allowed under subsection (a), (b), or (c) of section 502, or disallowed under subsection (d) or (e) of section 502, in the same manner as if the claim had arisen immediately before the date of the filing of the petition.
 
-(Added Pub. L. 115–72, div. B, § 1005(a), Oct. 26, 2017, 131 Stat. 1232.)
+(Added Pub. L. 115–72, div. B, § 1005(a), Oct. 26, 2017, 131 Stat. 1232.)
 
 **Statutory Notes and Related Subsidiaries**
 

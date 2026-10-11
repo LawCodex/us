@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CRIME IDENTIFICATION TECHNOLOGY
 
-### § 40301. State grant program for criminal justice identification, information, and communication
+### § 40301. State grant program for criminal justice identification, information, and communication
 
 **(a) In general** Subject to the availability of amounts provided in advance in appropriations Acts, the Office of Justice Programs relying principally on the expertise of the Bureau of Justice Statistics shall make a grant to each State, in a manner consistent with the national criminal history improvement program, which shall be used by the State, in conjunction with units of local government, State and local courts, other States, or combinations thereof, to establish or upgrade an integrated approach to develop information and identification technologies and systems to—
 
@@ -31,9 +31,9 @@ retrieved: 2026-10-11
 
 **(B)** firearms eligibility determinations;
 
-**(C)** identification of all individuals who have been convicted of a crime punishable by imprisonment for a term exceeding 1 year 1
+**(C)** identification of all individuals who have been convicted of a crime punishable by imprisonment for a term exceeding 1 year 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(D)** identification of sexual offenders;
 
@@ -59,9 +59,9 @@ retrieved: 2026-10-11
 
 **(7)** integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;
 
-**(8)** noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note); 2
+**(8)** noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note); 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(9)** court-based criminal justice information systems that promote—
 
@@ -131,7 +131,7 @@ There is authorized to be appropriated to carry out this section $250,000,000 fo
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 105–251, title I, § 102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, § 102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, § 2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, § 1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, § 1111(c)(1), Jan. 5, 2006, 119 Stat. 3101; Pub. L. 115–141, div. S, title VI, § 604(a), Mar. 23, 2018, 132 Stat. 1136.)
+(Pub. L. 105–251, title I, § 102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, § 102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, § 2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, § 1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, § 1111(c)(1), Jan. 5, 2006, 119 Stat. 3101; Pub. L. 115–141, div. S, title VI, § 604(a), Mar. 23, 2018, 132 Stat. 1136.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Notwithstanding any other provision of this section, the Attorney General may us
 
 Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification as section 40901(b) of this title.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§ 10381 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§ 10381 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -147,19 +147,19 @@ Section was formerly classified to section 14601 of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Subsec. (a)(3)(C) to (F). Pub. L. 115–141, § 604(a)(1), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+2018—Subsec. (a)(3)(C) to (F). Pub. L. 115–141, § 604(a)(1), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
-Subsec. (b)(6). Pub. L. 115–141, § 604(a)(2), substituted “section 40901(b) of this title” for “section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note)” and inserted before semicolon at end “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 40917 of this title”.
+Subsec. (b)(6). Pub. L. 115–141, § 604(a)(2), substituted “section 40901(b) of this title” for “section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note)” and inserted before semicolon at end “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 40917 of this title”.
 
-Subsec. (d). Pub. L. 115–141, § 604(a)(3), inserted “the State has achieved compliance with an implementation plan under section 40917 of this title or” after “unless”.
+Subsec. (d). Pub. L. 115–141, § 604(a)(3), inserted “the State has achieved compliance with an implementation plan under section 40917 of this title or” after “unless”.
 
-Subsec. (e)(1). Pub. L. 115–141, § 604(a)(4), substituted “2018 through 2022” for “2002 through 2007”.
+Subsec. (e)(1). Pub. L. 115–141, § 604(a)(4), substituted “2018 through 2022” for “2002 through 2007”.
 
 2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
-2001—Subsec. (b)(18). Pub. L. 107–56, § 1015(1), added par. (18).
+2001—Subsec. (b)(18). Pub. L. 107–56, § 1015(1), added par. (18).
 
-Subsec. (e)(1). Pub. L. 107–56, § 1015(2), substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
+Subsec. (e)(1). Pub. L. 107–56, § 1015(2), substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
 
 2000—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
 
@@ -175,7 +175,7 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 For short title of title I of Pub. L. 105–251, which is classified to this subchapter, as the “Crime Identification Technology Act of 1998”, see section 101 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under section 10101 of this title.
 
-### § 40302. Funding for improvement of criminal records
+### § 40302. Funding for improvement of criminal records
 
 **(1) Grants for the improvement of criminal records** The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that, as of March 23, 2018, have the lowest percent currency of case dispositions in computerized criminal history files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records, make a grant to each State to be used—
 
@@ -191,7 +191,7 @@ For short title of title I of Pub. L. 105–251, which is classified to this sub
 
 There are authorized to be appropriated for grants under paragraph (1) a total of $200,000,000 for fiscal year 1994 and all fiscal years thereafter.
 
-(Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544; Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 115–141, div. S, title VI, § 604(b), Mar. 23, 2018, 132 Stat. 1136.)
+(Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544; Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 115–141, div. S, title VI, § 604(b), Mar. 23, 2018, 132 Stat. 1136.)
 
 **Editorial Notes**
 
@@ -205,25 +205,25 @@ Section was formerly classified as a note under section 922 of Title 18, Crimes 
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–141, § 604(b)(1), in introductory provisions, substituted “, as of March 23, 2018,” for “as of November 30, 1993,” and “files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records,” for “files,”.
+2018—Par. (1). Pub. L. 115–141, § 604(b)(1), in introductory provisions, substituted “, as of March 23, 2018,” for “as of November 30, 1993,” and “files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records,” for “files,”.
 
-Par. (1)(C). Pub. L. 115–141, § 604(b)(3)(A), struck out “upon establishment of the national system,” before “to assist the State”.
+Par. (1)(C). Pub. L. 115–141, § 604(b)(3)(A), struck out “upon establishment of the national system,” before “to assist the State”.
 
-Par. (1)(D). Pub. L. 115–141, § 604(b)(2), (3)(B), (4), added subpar. (D).
+Par. (1)(D). Pub. L. 115–141, § 604(b)(2), (3)(B), (4), added subpar. (D).
 
-1996—Par. (2). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub. L. 103–322, § 210603(b). See 1994 Amendment note below.
+1996—Par. (2). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub. L. 103–322, § 210603(b). See 1994 Amendment note below.
 
-1994—Par. (2). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31, United States Code,” after “grants under paragraph (1)”.
+1994—Par. (2). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31, United States Code,” after “grants under paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504, provided that: “The amendment made by paragraph (1) [amending section 210603(b) of Pub. L. 103–322, which amended this section and section 40901 of this title] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504, provided that: “The amendment made by paragraph (1) [amending section 210603(b) of Pub. L. 103–322, which amended this section and section 40901 of this title] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
 
 ## SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PURPOSES
 
-### § 40311. Findings
+### § 40311. Findings
 
 Congress finds that—
 
@@ -237,7 +237,7 @@ Congress finds that—
 
 **(5)** such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
 
-(Pub. L. 105–251, title II, § 212, Oct. 9, 1998, 112 Stat. 1874.)
+(Pub. L. 105–251, title II, § 212, Oct. 9, 1998, 112 Stat. 1874.)
 
 **Editorial Notes**
 
@@ -251,7 +251,7 @@ Section was formerly classified to section 14611 of Title 42, The Public Health 
 
 For short title of subtitle A of title II of Pub. L. 105–251, which is classified to this subchapter, as the “National Crime Prevention and Privacy Compact Act of 1998”, see section 211 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under section 10101 of this title.
 
-### § 40312. Definitions
+### § 40312. Definitions
 
 In this subchapter:
 
@@ -279,7 +279,7 @@ The term “Party State” means a State that has ratified the Compact.
 
 The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 105–251, title II, § 213, Oct. 9, 1998, 112 Stat. 1874.)
+(Pub. L. 105–251, title II, § 213, Oct. 9, 1998, 112 Stat. 1874.)
 
 **Editorial Notes**
 
@@ -287,11 +287,11 @@ The term “State” means any State, territory, or possession of the United Sta
 
 Section was formerly classified to section 14612 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40313. Enactment and consent of the United States
+### § 40313. Enactment and consent of the United States
 
 The National Crime Prevention and Privacy Compact, as set forth in section 40316 of this title, is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.
 
-(Pub. L. 105–251, title II, § 214, Oct. 9, 1998, 112 Stat. 1875.)
+(Pub. L. 105–251, title II, § 214, Oct. 9, 1998, 112 Stat. 1875.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ The National Crime Prevention and Privacy Compact, as set forth in section 40316
 
 Section was formerly classified to section 14613 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40314. Effect on other laws
+### § 40314. Effect on other laws
 
 **(a) Privacy Act of 1974**
 
@@ -311,9 +311,9 @@ Nothing in the Compact shall affect the obligations and responsibilities of the 
 
 **(A)** section 9101 of title 5;
 
-**(B)** the National Child Protection Act 1
+**(B)** the National Child Protection Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [34 U.S.C. 40101 et seq.];
 
@@ -341,7 +341,7 @@ The Council shall not be considered to be a Federal advisory committee for purpo
 
 **(2)** to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.
 
-(Pub. L. 105–251, title II, § 215, Oct. 9, 1998, 112 Stat. 1875; Pub. L. 117–286, § 4(a)(213), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 105–251, title II, § 215, Oct. 9, 1998, 112 Stat. 1875; Pub. L. 117–286, § 4(a)(213), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
@@ -349,15 +349,15 @@ The Council shall not be considered to be a Federal advisory committee for purpo
 
 The Privacy Act of 1974, referred to in subsec. (a), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
-The National Child Protection Act, referred to in subsec. (b)(1)(B), probably means the National Child Protection Act of 1993, Pub. L. 103–209, Dec. 20, 1993, 107 Stat. 2490, which is classified principally to chapter 401 (§ 40101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1993 Act note set out under section 10101 of this title and Tables.
+The National Child Protection Act, referred to in subsec. (b)(1)(B), probably means the National Child Protection Act of 1993, Pub. L. 103–209, Dec. 20, 1993, 107 Stat. 2490, which is classified principally to chapter 401 (§ 40101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1993 Act note set out under section 10101 of this title and Tables.
 
 The Brady Handgun Violence Prevention Act, referred to in subsec. (b)(1)(C), is title I of Pub. L. 103–159, Nov. 30, 1993, 107 Stat. 1536, which enacted section 925A of Title 18, Crimes and Criminal Procedure, amended sections 921, 922, and 924 of Title 18 and former section 3759 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 921 and 922 of Title 18. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 921 of Title 18 and Tables.
 
 The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (b)(1)(D), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in subsec. (c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
 
@@ -369,11 +369,11 @@ Section was formerly classified to section 14614 of Title 42, The Public Health 
 
 2022—Subsec. (d). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
-### § 40315. Enforcement and implementation
+### § 40315. Enforcement and implementation
 
 All departments, agencies, officers, and employees of the United States shall enforce the Compact and cooperate with one another and with all Party States in enforcing the Compact and effectuating its purposes. For the Federal Government, the Attorney General shall make such rules, prescribe such instructions, and take such other actions as may be necessary to carry out the Compact and this subchapter.
 
-(Pub. L. 105–251, title II, § 216, Oct. 9, 1998, 112 Stat. 1875.)
+(Pub. L. 105–251, title II, § 216, Oct. 9, 1998, 112 Stat. 1875.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ All departments, agencies, officers, and employees of the United States shall en
 
 Section was formerly classified to section 14615 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40316. National Crime Prevention and Privacy Compact
+### § 40316. National Crime Prevention and Privacy Compact
 
 The Contracting Parties agree to the following:
 
@@ -467,9 +467,9 @@ The term “Executive order” means an order of the President of the United Sta
 
 The term “FBI” means the Federal Bureau of Investigation.
 
-(13) Interstate Identification System 1
+(13) Interstate Identification System 1
 
-<sup>1</sup>  So in original. Probably should be “Interstate Identification Index System”.
+<sup>1</sup> So in original. Probably should be “Interstate Identification Index System”.
 
 The term “Interstate Identification Index System” or “III System”—
 
@@ -781,7 +781,7 @@ The FBI shall exercise immediate and necessary action to preserve the integrity 
 
 The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by section 1446 of title 28, United States Code, or other statutory authority.
 
-(Pub. L. 105–251, title II, § 217, Oct. 9, 1998, 112 Stat. 1876; Pub. L. 117–286, § 4(a)(214), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 105–251, title II, § 217, Oct. 9, 1998, 112 Stat. 1876; Pub. L. 117–286, § 4(a)(214), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 

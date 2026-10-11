@@ -17,61 +17,61 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CONGRESSIONAL AWARD PROGRAM
 
-### § 801. Establishment, etc., of Congressional Award Board
+### § 801. Establishment, etc., of Congressional Award Board
 
 There is established a board to be known as the Congressional Award Board (hereinafter in this subchapter referred to as the “Board”), which shall be responsible for administering the Congressional Award Program described under section 802 of this title. The Board shall not be an agency or instrumentality of the United States, and the United States is not liable for any obligation or liability incurred by the Board.
 
-(Pub. L. 96–114, title I, § 101, formerly § 2, Nov. 16, 1979, 93 Stat. 851; renumbered title I, § 101, and amended Pub. L. 106–533, § 1(b)(1)–(3), Nov. 22, 2000, 114 Stat. 2553.)
+(Pub. L. 96–114, title I, § 101, formerly § 2, Nov. 16, 1979, 93 Stat. 851; renumbered title I, § 101, and amended Pub. L. 106–533, § 1(b)(1)–(3), Nov. 22, 2000, 114 Stat. 2553.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–533, § 1(b)(3)(A), substituted “subchapter” for “chapter”.
+2000—Pub. L. 106–533, § 1(b)(3)(A), substituted “subchapter” for “chapter”.
 
-Pub. L. 106–533, § 1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 802 of this title.
+Pub. L. 106–533, § 1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 802 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–66, § 1, Dec. 26, 2025, 139 Stat. 1992, provided that: “This Act [amending sections 802 and 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act’.”
+Pub. L. 119–66, § 1, Dec. 26, 2025, 139 Stat. 1992, provided that: “This Act [amending sections 802 and 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–268, § 1, Oct. 11, 2018, 132 Stat. 3762, provided that: “This Act [amending section 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2018’.”
+Pub. L. 115–268, § 1, Oct. 11, 2018, 132 Stat. 3762, provided that: “This Act [amending section 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2018’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–43, § 1, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending section 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2013’.”
+Pub. L. 113–43, § 1, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending section 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2013’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–200, § 1, July 7, 2010, 124 Stat. 1368, provided that: “This Act [amending sections 802 to 804, 806, and 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2009’.”
+Pub. L. 111–200, § 1, July 7, 2010, 124 Stat. 1368, provided that: “This Act [amending sections 802 to 804, 806, and 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Program Reauthorization Act of 2009’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–457, § 1, Oct. 23, 1992, 106 Stat. 2265, provided that: “This Act [amending sections 804 and 808 of this title] may be cited as the ‘Congressional Award Act Amendments of 1992’.”
+Pub. L. 102–457, § 1, Oct. 23, 1992, 106 Stat. 2265, provided that: “This Act [amending sections 804 and 808 of this title] may be cited as the ‘Congressional Award Act Amendments of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–525, § 1, Nov. 6, 1990, 104 Stat. 2305, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Amendments of 1990’.”
+Pub. L. 101–525, § 1, Nov. 6, 1990, 104 Stat. 2305, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and enacting provisions set out as a note under section 808 of this title] may be cited as the ‘Congressional Award Amendments of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–674, § 1, Nov. 17, 1988, 102 Stat. 3996, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and enacting provisions set out as a note under section 803 of this title] may be cited as the ‘Congressional Award Act Amendments of 1988’.”
+Pub. L. 100–674, § 1, Nov. 17, 1988, 102 Stat. 3996, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and enacting provisions set out as a note under section 803 of this title] may be cited as the ‘Congressional Award Act Amendments of 1988’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–161, § 1, Nov. 25, 1985, 99 Stat. 934, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and repealing provisions set out as a note under section 803 of this title] may be cited as the ‘Congressional Award Amendments of 1985’.”
+Pub. L. 99–161, § 1, Nov. 25, 1985, 99 Stat. 934, provided that: “This Act [amending sections 802, 803, and 806 to 808 of this title and repealing provisions set out as a note under section 803 of this title] may be cited as the ‘Congressional Award Amendments of 1985’.”
 
 **Short Title**
 
-Pub. L. 96–114, title II, § 201, as added by Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2545, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Congressional Recognition for Excellence in Arts Education Act’.”
+Pub. L. 96–114, title II, § 201, as added by Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2545, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Congressional Recognition for Excellence in Arts Education Act’.”
 
-Pub. L. 96–114, § 1, Nov. 16, 1979, 93 Stat. 851, provided that: “This Act [enacting this chapter] may be cited as the ‘Congressional Award Act’.”
+Pub. L. 96–114, § 1, Nov. 16, 1979, 93 Stat. 851, provided that: “This Act [enacting this chapter] may be cited as the ‘Congressional Award Act’.”
 
-### § 802. Program
+### § 802. Program
 
 **(a) Establishment, functions, and purposes; nature of awards**
 
@@ -115,7 +115,7 @@ The medals struck pursuant to this chapter are National medals for purposes of c
 
 There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
-(Pub. L. 96–114, title I, § 102, formerly § 3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, § 4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, § 2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, § 3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, § 637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, § 1(a), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 102, and amended Pub. L. 106–533, § 1(b)(1), (2), (4), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, § 2(a), July 7, 2010, 124 Stat. 1368; Pub. L. 119–66, § 3, Dec. 26, 2025, 139 Stat. 1992.)
+(Pub. L. 96–114, title I, § 102, formerly § 3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, § 4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, § 2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, § 3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, § 637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, § 1(a), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 102, and amended Pub. L. 106–533, § 1(b)(1), (2), (4), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, § 2(a), July 7, 2010, 124 Stat. 1368; Pub. L. 119–66, § 3, Dec. 26, 2025, 139 Stat. 1992.)
 
 **Editorial Notes**
 
@@ -125,35 +125,35 @@ Subsection (e), which required the Board to submit an annual report to Congress 
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–66, § 3(1), struck out “Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).” after “subsection (b) of this section.”.
+2025—Subsec. (a). Pub. L. 119–66, § 3(1), struck out “Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).” after “subsection (b) of this section.”.
 
-Subsec. (f)(1). Pub. L. 119–66, § 3(2), substituted “The” for “Subject to subsection (a), the” in second sentence.
+Subsec. (f)(1). Pub. L. 119–66, § 3(2), substituted “The” for “Subject to subsection (a), the” in second sentence.
 
-2010—Subsec. (b). Pub. L. 111–200, § 2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
+2010—Subsec. (b). Pub. L. 111–200, § 2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
 
-Subsec. (c). Pub. L. 111–200, § 2(a)(2), substituted “in connection with” for “during” in second sentence.
+Subsec. (c). Pub. L. 111–200, § 2(a)(2), substituted “in connection with” for “during” in second sentence.
 
-2000—Subsec. (e)(3). Pub. L. 106–533, § 1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title, could not be executed because that reference did not appear in the original. See Codification note above.
+2000—Subsec. (e)(3). Pub. L. 106–533, § 1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title, could not be executed because that reference did not appear in the original. See Codification note above.
 
-Subsec. (e)(4). Pub. L. 106–533, § 1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
+Subsec. (e)(4). Pub. L. 106–533, § 1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
 
 1999—Subsec. (e). Pub. L. 106–63 substituted “June 1” for “April 1” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–329, § 637(1), struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
+1994—Subsec. (a). Pub. L. 103–329, § 637(1), struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
 
-Subsec. (f). Pub. L. 103–329, § 637(2), added subsec. (f).
+Subsec. (f). Pub. L. 103–329, § 637(2), added subsec. (f).
 
 1990—Subsec. (e). Pub. L. 101–525 substituted “April 1” for “March 1”.
 
 1988—Subsec. (e)(6) to (8). Pub. L. 100–674 added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-1985—Subsec. (b). Pub. L. 99–161, § 4(a), inserted provision limiting salaries established by Board under par. (3) to $75,000 per annum, such limit after 1986 being increased in proportion to Consumer Price Index.
+1985—Subsec. (b). Pub. L. 99–161, § 4(a), inserted provision limiting salaries established by Board under par. (3) to $75,000 per annum, such limit after 1986 being increased in proportion to Consumer Price Index.
 
-Subsec. (d). Pub. L. 99–161, § 4(b), inserted reference to Silver and Bronze Medals.
+Subsec. (d). Pub. L. 99–161, § 4(b), inserted reference to Silver and Bronze Medals.
 
-Subsec. (e)(4). Pub. L. 99–161, § 4(c), inserted “for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to section 806(g)(1) of this title)”.
+Subsec. (e)(4). Pub. L. 99–161, § 4(c), inserted “for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to section 806(g)(1) of this title)”.
 
-### § 803. Board organization
+### § 803. Board organization
 
 **(a) Membership; composition; appointment criteria; derivation of appointment**
 
@@ -235,7 +235,7 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
-(Pub. L. 96–114, title I, § 103, formerly § 4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, § 1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§ 2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, § 2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§ 4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, § 1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 103, and amended Pub. L. 106–533, § 1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, § 1(c)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(b), July 7, 2010, 124 Stat. 1368.)
+(Pub. L. 96–114, title I, § 103, formerly § 4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, § 1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§ 2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, § 2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§ 4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, § 1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 103, and amended Pub. L. 106–533, § 1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, § 1(c)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(b), July 7, 2010, 124 Stat. 1368.)
 
 **Editorial Notes**
 
@@ -243,55 +243,55 @@ Any member of the Board who fails to attend 4 consecutive Board meetings schedul
 
 2010—Subsec. (b). Pub. L. 111–200 added subsec. (b) and struck out former subsec. (b) which related to terms of appointed members and reappointment of members.
 
-2005—Subsec. (a)(1)(B), (C). Pub. L. 109–143, § 1(c)(1)(A), substituted “a local” for “a a local”.
+2005—Subsec. (a)(1)(B), (C). Pub. L. 109–143, § 1(c)(1)(A), substituted “a local” for “a a local”.
 
-Subsec. (b)(3)(B). Pub. L. 109–143, § 1(c)(1)(B), substituted “subsection” for “section” in two places.
+Subsec. (b)(3)(B). Pub. L. 109–143, § 1(c)(1)(B), substituted “subsection” for “section” in two places.
 
-2000—Subsec. (i). Pub. L. 106–533, § 1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
+2000—Subsec. (i). Pub. L. 106–533, § 1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–63, § 1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
+1999—Subsec. (a)(1)(A). Pub. L. 106–63, § 1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
-Subsec. (a)(1)(B), (C). Pub. L. 106–63, § 1(b)(2), substituted “a local Congressional Award program volunteer” for “representative of a local Congressional Award Council”.
+Subsec. (a)(1)(B), (C). Pub. L. 106–63, § 1(b)(2), substituted “a local Congressional Award program volunteer” for “representative of a local Congressional Award Council”.
 
-Subsec. (a)(1)(D). Pub. L. 106–63, § 1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
+Subsec. (a)(1)(D). Pub. L. 106–63, § 1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
-1990—Subsec. (a)(4). Pub. L. 101–525, § 4, added par. (4).
+1990—Subsec. (a)(4). Pub. L. 101–525, § 4, added par. (4).
 
-Subsec. (b). Pub. L. 101–525, § 5, designated existing provision as par. (1) and substituted “and (unless reappointed under paragraph (3)) shall serve for a term of 4 years” for “but (unless reappointed) shall not serve for more than four years”, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 101–525, § 5, designated existing provision as par. (1) and substituted “and (unless reappointed under paragraph (3)) shall serve for a term of 4 years” for “but (unless reappointed) shall not serve for more than four years”, and added pars. (2) and (3).
 
-Subsec. (j). Pub. L. 101–525, § 6, added subsec. (j).
+Subsec. (j). Pub. L. 101–525, § 6, added subsec. (j).
 
-1988—Subsec. (a)(1). Pub. L. 100–674, § 2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
+1988—Subsec. (a)(1). Pub. L. 100–674, § 2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
 
-Subsec. (d). Pub. L. 100–674, § 2(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A majority of the members of the Board shall constitute a quorum.”
+Subsec. (d). Pub. L. 100–674, § 2(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A majority of the members of the Board shall constitute a quorum.”
 
-1985—Subsec. (a)(2). Pub. L. 99–161, § 2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
+1985—Subsec. (a)(2). Pub. L. 99–161, § 2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
 
-Subsec. (b). Pub. L. 99–161, § 2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members and individuals appointed to Board after March 31, 1983, whose terms were limited.
+Subsec. (b). Pub. L. 99–161, § 2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members and individuals appointed to Board after March 31, 1983, whose terms were limited.
 
-Subsec. (c)(2) to (4). Pub. L. 99–161, § 2(3), struck out par. (2) limiting term of service of any member appointed to fill out an unexpired term to remainder of that term and redesignated pars. (3) and (4) as (2) and (3), respectively.
+Subsec. (c)(2) to (4). Pub. L. 99–161, § 2(3), struck out par. (2) limiting term of service of any member appointed to fill out an unexpired term to remainder of that term and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-Subsec. (f). Pub. L. 99–161, § 4(d), substituted “meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia)” for “meet annually at the call of the Chairman”.
+Subsec. (f). Pub. L. 99–161, § 4(d), substituted “meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia)” for “meet annually at the call of the Chairman”.
 
-Subsec. (i). Pub. L. 99–161, § 4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to comply with section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
+Subsec. (i). Pub. L. 99–161, § 4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to comply with section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
 
-1983—Subsec. (a)(1). Pub. L. 98–33, § 1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
+1983—Subsec. (a)(1). Pub. L. 98–33, § 1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
 
-Subsec. (a)(2). Pub. L. 98–33, § 1(a)(3), struck out “or the Committee for the Establishment and Promotion of the Congressional Award” after “member of the Board”.
+Subsec. (a)(2). Pub. L. 98–33, § 1(a)(3), struck out “or the Committee for the Establishment and Promotion of the Congressional Award” after “member of the Board”.
 
-Subsec. (b). Pub. L. 98–33, § 1(b), designated existing provisions as par. (1); in par. (1), as so designated, redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and substituted “Except as provided in paragraph (2), appointed” for “Appointed”; and added par. (2).
+Subsec. (b). Pub. L. 98–33, § 1(b), designated existing provisions as par. (1); in par. (1), as so designated, redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and substituted “Except as provided in paragraph (2), appointed” for “Appointed”; and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition Provisions**
 
-Pub. L. 100–674, § 3, Nov. 17, 1988, 102 Stat. 3998, provided that: “Not later than 120 days after the date of the enactment of this Act [Nov. 17, 1988], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act [2 U.S.C. 803(a)] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
+Pub. L. 100–674, § 3, Nov. 17, 1988, 102 Stat. 3998, provided that: “Not later than 120 days after the date of the enactment of this Act [Nov. 17, 1988], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act [2 U.S.C. 803(a)] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
 
 **Exceptional Terms for Certain Board Members**
 
-Pub. L. 98–33, § 2, May 25, 1983, 97 Stat. 195, relating to exceptional terms for certain individuals appointed to the Congressional Award Board, was repealed by Pub. L. 99–161, § 5, Nov. 25, 1985, 99 Stat. 936.
+Pub. L. 98–33, § 2, May 25, 1983, 97 Stat. 195, relating to exceptional terms for certain individuals appointed to the Congressional Award Board, was repealed by Pub. L. 99–161, § 5, Nov. 25, 1985, 99 Stat. 936.
 
-### § 804. Administration
+### § 804. Administration
 
 **(a) Director; status; appointment and term; removal**
 
@@ -315,19 +315,19 @@ In the administration of the Congressional Award Program, the Board shall be ass
 
 **(B)** If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.
 
-(Pub. L. 96–114, title I, § 104, formerly § 5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, § 2, Oct. 23, 1992, 106 Stat. 2265; Pub. L. 104–208, div. A, title V, § 5401(a), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, § 1(c), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 104, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 109–143, § 1(a), (c)(2), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(c), July 7, 2010, 124 Stat. 1369; Pub. L. 113–188, title IX, § 902(c)(2), Nov. 26, 2014, 128 Stat. 2021.)
+(Pub. L. 96–114, title I, § 104, formerly § 5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, § 2, Oct. 23, 1992, 106 Stat. 2265; Pub. L. 104–208, div. A, title V, § 5401(a), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, § 1(c), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 104, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 109–143, § 1(a), (c)(2), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(c), July 7, 2010, 124 Stat. 1369; Pub. L. 113–188, title IX, § 902(c)(2), Nov. 26, 2014, 128 Stat. 2021.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (c)(1). Pub. L. 113–188, § 902(c)(2)(A), inserted “policies and” before “procedures” and struck out “fund” before “accounting are established”.
+2014—Subsec. (c)(1). Pub. L. 113–188, § 902(c)(2)(A), inserted “policies and” before “procedures” and struck out “fund” before “accounting are established”.
 
-Subsec. (c)(2)(A). Pub. L. 113–188, § 902(c)(2)(B), substituted “The independent public accountant conducting the annual audit of the financial records of the Board pursuant to section 807(a) of this title” for “The Comptroller General of the United States” and “the independent public accountant” for “the Comptroller General”.
+Subsec. (c)(2)(A). Pub. L. 113–188, § 902(c)(2)(B), substituted “The independent public accountant conducting the annual audit of the financial records of the Board pursuant to section 807(a) of this title” for “The Comptroller General of the United States” and “the independent public accountant” for “the Comptroller General”.
 
-2010—Subsec. (c)(1). Pub. L. 111–200, § 2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
+2010—Subsec. (c)(1). Pub. L. 111–200, § 2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 111–200, § 2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (c)(2). Pub. L. 111–200, § 2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
 
 “(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, and 2009, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) of this title after December 31, 1994.
 
@@ -345,15 +345,15 @@ Subsec. (c)(2). Pub. L. 111–200, § 2(c)(2), added par. (2) and struck out f
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–188, title IX, § 902(c)(3), Nov. 26, 2014, 128 Stat. 2022, provided that: “The amendments made by this subsection [amending this section and section 807 of this title] shall take effect on October 1, 2014.”
+Pub. L. 113–188, title IX, § 902(c)(3), Nov. 26, 2014, 128 Stat. 2022, provided that: “The amendments made by this subsection [amending this section and section 807 of this title] shall take effect on October 1, 2014.”
 
-### § 805. Regional award directors of program; appointment criteria
+### § 805. Regional award directors of program; appointment criteria
 
 Regional award directors may be appointed by the Board, upon recommendation of the Director, for any State or other appropriate geographic area of the United States. The Director shall make such recommendations with respect to a State or geographic area only after soliciting recommendations regarding such appointments from public and private youth organizations within such State or geographic area.
 
-(Pub. L. 96–114, title I, § 105, formerly § 6, Nov. 16, 1979, 93 Stat. 853; renumbered title I, § 105, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553.)
+(Pub. L. 96–114, title I, § 105, formerly § 6, Nov. 16, 1979, 93 Stat. 853; renumbered title I, § 105, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553.)
 
-### § 806. Powers, functions, and limitations
+### § 806. Powers, functions, and limitations
 
 **(a) General operating and expenditure authority** Subject to such limitations as may be provided for under this section, the Board may take such actions and make such expenditures as may be necessary to carry out the Congressional Award Program, except that—
 
@@ -459,21 +459,21 @@ The Board may lease (or otherwise hold), acquire, or dispose of real or personal
 
 **(3)** No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
 
-(Pub. L. 96–114, title I, § 106, formerly § 7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, § 4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, § 2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, § 7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, § 106, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, § 2(d)–(g), July 7, 2010, 124 Stat. 1369.)
+(Pub. L. 96–114, title I, § 106, formerly § 7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, § 4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, § 2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, § 7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, § 106, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, § 2(d)–(g), July 7, 2010, 124 Stat. 1369.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–200, § 2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
+2010—Subsec. (a)(1). Pub. L. 111–200, § 2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
 
-Subsec. (c)(4). Pub. L. 111–200, § 2(e), added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
+Subsec. (c)(4). Pub. L. 111–200, § 2(e), added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
 
-Subsec. (d). Pub. L. 111–200, § 2(f)(1), inserted “to be” after “expenditure is”.
+Subsec. (d). Pub. L. 111–200, § 2(f)(1), inserted “to be” after “expenditure is”.
 
-Subsec. (e)(1)(A). Pub. L. 111–200, § 2(f)(2), inserted “or for scholarships” after “local program”.
+Subsec. (e)(1)(A). Pub. L. 111–200, § 2(f)(2), inserted “or for scholarships” after “local program”.
 
-Subsec. (i). Pub. L. 111–200, § 2(g), added subsec. (i) and struck out former subsec. (i) which read as follows:
+Subsec. (i). Pub. L. 111–200, § 2(g), added subsec. (i) and struck out former subsec. (i) which read as follows:
 
 “(1) The Board shall provide for the establishment of a private nonprofit corporation for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
 
@@ -485,19 +485,19 @@ Subsec. (i). Pub. L. 111–200, § 2(g), added subsec. (i) and struck out form
 
 “(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
 
-1990—Subsec. (a). Pub. L. 101–525, § 7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
+1990—Subsec. (a). Pub. L. 101–525, § 7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 
-Subsec. (b)(2)(C). Pub. L. 101–525, § 7(b)(1)(A), substituted “conduct” for “conducting” and struck out “State and” after “new”.
+Subsec. (b)(2)(C). Pub. L. 101–525, § 7(b)(1)(A), substituted “conduct” for “conducting” and struck out “State and” after “new”.
 
-Subsec. (b)(2)(D), (E). Pub. L. 101–525, § 7(b)(1)(B), added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
+Subsec. (b)(2)(D), (E). Pub. L. 101–525, § 7(b)(1)(B), added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(2)(F). Pub. L. 101–525, § 7(b)(1)(B), (C), redesignated subpar. (E) as (F) and substituted “conduct” for “conducting”. Former subpar. (F) redesignated (G).
+Subsec. (b)(2)(F). Pub. L. 101–525, § 7(b)(1)(B), (C), redesignated subpar. (E) as (F) and substituted “conduct” for “conducting”. Former subpar. (F) redesignated (G).
 
-Subsec. (b)(2)(G), (H). Pub. L. 101–525, § 7(b)(1)(B), redesignated subpars. (F) and (G) as (G) and (H), respectively.
+Subsec. (b)(2)(G), (H). Pub. L. 101–525, § 7(b)(1)(B), redesignated subpars. (F) and (G) as (G) and (H), respectively.
 
-Subsecs. (c), (d). Pub. L. 101–525, § 7(b)(2), added subsec. (c). Former subsecs. (c) and (d) redesignated (d) and (e), respectively.
+Subsecs. (c), (d). Pub. L. 101–525, § 7(b)(2), added subsec. (c). Former subsecs. (c) and (d) redesignated (d) and (e), respectively.
 
-Subsec. (e). Pub. L. 101–525, § 7(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “The Board may seek and accept, from sources other than the Federal Government, funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
+Subsec. (e). Pub. L. 101–525, § 7(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “The Board may seek and accept, from sources other than the Federal Government, funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
 
 “(1) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program; or
 
@@ -505,17 +505,17 @@ Subsec. (e). Pub. L. 101–525, § 7(b)(2), (c), redesignated subsec. (d) as (
 
 The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.” Former subsec. (e) redesignated (f).
 
-Subsecs. (f) to (i). Pub. L. 101–525, § 7(b)(2), redesignated subsecs. (e) to (h) as (f) to (i), respectively.
+Subsecs. (f) to (i). Pub. L. 101–525, § 7(b)(2), redesignated subsecs. (e) to (h) as (f) to (i), respectively.
 
-1988—Pub. L. 100–674, § 2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
+1988—Pub. L. 100–674, § 2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
 
-Subsecs. (b) to (h). Pub. L. 100–674, § 2(c)(2), added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
+Subsecs. (b) to (h). Pub. L. 100–674, § 2(c)(2), added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
 
 1986—Subsec. (a)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1985—Subsec. (c). Pub. L. 99–161 inserted at end “The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.”
 
-### § 807. Audits
+### § 807. Audits
 
 **(a) Contracts with independent public accountant**
 
@@ -533,7 +533,7 @@ Not later than May 15 of each calendar year, the Board shall submit to appropria
 
 **(3)** Not later than 180 days after the date on which the Comptroller General receives a report under subsection (b), the Comptroller General shall submit to Congress a report containing the results of the review conducted under paragraph (1) with respect to the preceding year.
 
-(Pub. L. 96–114, title I, § 107, formerly § 8, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, § 4(g), Nov. 25, 1985, 99 Stat. 935; Pub. L. 100–674, § 2(e), Nov. 17, 1988, 102 Stat. 3998; Pub. L. 101–525, § 8, Nov. 6, 1990, 104 Stat. 2308; renumbered title I, § 107, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 113–188, title IX, § 902(c)(1), Nov. 26, 2014, 128 Stat. 2021.)
+(Pub. L. 96–114, title I, § 107, formerly § 8, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, § 4(g), Nov. 25, 1985, 99 Stat. 935; Pub. L. 100–674, § 2(e), Nov. 17, 1988, 102 Stat. 3998; Pub. L. 101–525, § 8, Nov. 6, 1990, 104 Stat. 2308; renumbered title I, § 107, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 113–188, title IX, § 902(c)(1), Nov. 26, 2014, 128 Stat. 2021.)
 
 **Editorial Notes**
 
@@ -541,19 +541,19 @@ Not later than May 15 of each calendar year, the Board shall submit to appropria
 
 2014—Pub. L. 113–188 amended section generally. Prior to amendment, section related to annual audits and reports by the Comptroller General.
 
-1990—Subsec. (a). Pub. L. 101–525, § 8(1), substituted “section 806(i) of this title” for “section 806(h) of this title” and “annually” for “at least biennially”.
+1990—Subsec. (a). Pub. L. 101–525, § 8(1), substituted “section 806(i) of this title” for “section 806(h) of this title” and “annually” for “at least biennially”.
 
-Subsec. (b). Pub. L. 101–525, § 8(2), added subsec. (b) and struck out former subsec. (b) which required audit to assess adequacy of fiscal control and funds accountability procedures and propriety of expenses.
+Subsec. (b). Pub. L. 101–525, § 8(2), added subsec. (b) and struck out former subsec. (b) which required audit to assess adequacy of fiscal control and funds accountability procedures and propriety of expenses.
 
-Subsecs. (c), (d). Pub. L. 101–525, § 8(2), struck out subsec. (c) which required the Comptroller General to include in report on first audit performed after Nov. 25, 1985, an evaluation of programs and activities under this chapter and specified contents of such evaluation, and subsec. (d) which directed that report on first audit performed after Nov. 25, 1985, was to be submitted on or before May 15, 1988.
+Subsecs. (c), (d). Pub. L. 101–525, § 8(2), struck out subsec. (c) which required the Comptroller General to include in report on first audit performed after Nov. 25, 1985, an evaluation of programs and activities under this chapter and specified contents of such evaluation, and subsec. (d) which directed that report on first audit performed after Nov. 25, 1985, was to be submitted on or before May 15, 1988.
 
 1988—Subsec. (a). Pub. L. 100–674 substituted “section 806(h)” for “section 806(g)”.
 
-1985—Pub. L. 99–161, § 4(g)(1), inserted “and evaluation” after “Audits” in section catchline.
+1985—Pub. L. 99–161, § 4(g)(1), inserted “and evaluation” after “Audits” in section catchline.
 
-Subsec. (a). Pub. L. 99–161, § 4(g)(2)–(4), designated existing provisions as subsec. (a), substituted “shall be audited at least biennially” for “may be audited”, and struck out “at such times as the Comptroller General may determine to be appropriate” after “referred to as the ‘Comptroller General’)”.
+Subsec. (a). Pub. L. 99–161, § 4(g)(2)–(4), designated existing provisions as subsec. (a), substituted “shall be audited at least biennially” for “may be audited”, and struck out “at such times as the Comptroller General may determine to be appropriate” after “referred to as the ‘Comptroller General’)”.
 
-Subsecs. (b) to (d). Pub. L. 99–161, § 4(g)(5), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 99–161, § 4(g)(5), added subsecs. (b) to (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,11 +561,11 @@ Subsecs. (b) to (d). Pub. L. 99–161, § 4(g)(5), added subsecs. (b) to (d).
 
 Amendment by Pub. L. 113–188 effective Oct. 1, 2014, see section 902(c)(3) of Pub. L. 113–188, set out as a note under section 804 of this title.
 
-### § 808. Termination
+### § 808. Termination
 
 The Board shall terminate October 1, 2028.
 
-(Pub. L. 96–114, title I, § 108, formerly § 9, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, § 3, Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, § 2(d), Nov. 17, 1988, 102 Stat. 3997; Pub. L. 101–525, § 2(a), Nov. 6, 1990, 104 Stat. 2305; Pub. L. 102–457, § 3, Oct. 23, 1992, 106 Stat. 2266; Pub. L. 104–208, div. A, title V, § 5401(b), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, § 1(d), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 108, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 109–143, § 1(b)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(h)(1), July 7, 2010, 124 Stat. 1370; Pub. L. 113–43, § 2, Oct. 4, 2013, 127 Stat. 554; Pub. L. 115–268, § 2(a), Oct. 11, 2018, 132 Stat. 3762; Pub. L. 119–66, § 2(a), Dec. 26, 2025, 139 Stat. 1992.)
+(Pub. L. 96–114, title I, § 108, formerly § 9, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, § 3, Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, § 2(d), Nov. 17, 1988, 102 Stat. 3997; Pub. L. 101–525, § 2(a), Nov. 6, 1990, 104 Stat. 2305; Pub. L. 102–457, § 3, Oct. 23, 1992, 106 Stat. 2266; Pub. L. 104–208, div. A, title V, § 5401(b), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, § 1(d), Oct. 1, 1999, 113 Stat. 510; renumbered title I, § 108, Pub. L. 106–533, § 1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 109–143, § 1(b)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, § 2(h)(1), July 7, 2010, 124 Stat. 1370; Pub. L. 113–43, § 2, Oct. 4, 2013, 127 Stat. 554; Pub. L. 115–268, § 2(a), Oct. 11, 2018, 132 Stat. 3762; Pub. L. 119–66, § 2(a), Dec. 26, 2025, 139 Stat. 1992.)
 
 **Editorial Notes**
 
@@ -597,31 +597,31 @@ The Board shall terminate October 1, 2028.
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–66, § 2(b), Dec. 26, 2025, 139 Stat. 1992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted on October 1, 2023.”
+Pub. L. 119–66, § 2(b), Dec. 26, 2025, 139 Stat. 1992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted on October 1, 2023.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–268, § 2(b), Oct. 11, 2018, 132 Stat. 3762, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2018.”
+Pub. L. 115–268, § 2(b), Oct. 11, 2018, 132 Stat. 3762, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2018.”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–43, § 3, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending this section and enacting provisions set out as a note under section 801 of this title] shall take effect as of October 1, 2013.”
+Pub. L. 113–43, § 3, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending this section and enacting provisions set out as a note under section 801 of this title] shall take effect as of October 1, 2013.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–200, § 2(h)(2), July 7, 2010, 124 Stat. 1370, provided that: “This subsection [amending this section] shall take effect as of October 1, 2009.”
+Pub. L. 111–200, § 2(h)(2), July 7, 2010, 124 Stat. 1370, provided that: “This subsection [amending this section] shall take effect as of October 1, 2009.”
 
 **Savings Provision**
 
-Pub. L. 109–143, § 1(b)(2), Dec. 22, 2005, 119 Stat. 2659, provided that: “During the period of October 1, 2004, through the date of the enactment of this section [Dec. 22, 2005], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
+Pub. L. 109–143, § 1(b)(2), Dec. 22, 2005, 119 Stat. 2659, provided that: “During the period of October 1, 2004, through the date of the enactment of this section [Dec. 22, 2005], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 
-Pub. L. 104–208, div. A, title V, § 5401(c), Sept. 30, 1996, 110 Stat. 3009–511, provided that: “During the period of October 1, 1995, through the date of the enactment of this section [Sept. 30, 1996], all actions and functions of the Congressional Award Board under the Congressional Award Act [2 U.S.C. 801 et seq.] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
+Pub. L. 104–208, div. A, title V, § 5401(c), Sept. 30, 1996, 110 Stat. 3009–511, provided that: “During the period of October 1, 1995, through the date of the enactment of this section [Sept. 30, 1996], all actions and functions of the Congressional Award Board under the Congressional Award Act [2 U.S.C. 801 et seq.] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
 
-Pub. L. 101–525, § 2(b), Nov. 6, 1990, 104 Stat. 2305, provided that: “During the period of October 1, 1990, through the date of the enactment of this section [Nov. 6, 1990], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
+Pub. L. 101–525, § 2(b), Nov. 6, 1990, 104 Stat. 2305, provided that: “During the period of October 1, 1990, through the date of the enactment of this section [Nov. 6, 1990], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 
 ## SUBCHAPTER II—CONGRESSIONAL RECOGNITION FOR EXCELLENCE IN ARTS EDUCATION
 
-### §§ 811 to 817c. Omitted
+### §§ 811 to 817c. Omitted
 
 **Editorial Notes**
 
@@ -629,22 +629,22 @@ Pub. L. 101–525, § 2(b), Nov. 6, 1990, 104 Stat. 2305, provided that: “Du
 
 Sections were omitted pursuant to section 817b of this title which provided that the Congressional Recognition for Excellence in Arts Education Awards Board terminated 6 years after November 22, 2000.
 
-Section 811, Pub. L. 96–114, title II, § 202, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2545, related to findings of Congress.
+Section 811, Pub. L. 96–114, title II, § 202, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2545, related to findings of Congress.
 
-Section 812, Pub. L. 96–114, title II, § 203, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546; amended Pub. L. 114–95, title IX, § 9215(u), Dec. 10, 2015, 129 Stat. 2171, related to definitions of terms in subchapter.
+Section 812, Pub. L. 96–114, title II, § 203, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546; amended Pub. L. 114–95, title IX, § 9215(u), Dec. 10, 2015, 129 Stat. 2171, related to definitions of terms in subchapter.
 
-Section 813, Pub. L. 96–114, title II, § 204, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546, related to the establishment of the Board.
+Section 813, Pub. L. 96–114, title II, § 204, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546, related to the establishment of the Board.
 
-Section 814, Pub. L. 96–114, title II, § 205, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546, related to the duties of the Board.
+Section 814, Pub. L. 96–114, title II, § 205, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2546, related to the duties of the Board.
 
-Section 815, Pub. L. 96–114, title II, § 206, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2549, related to the composition of the Board and the establishment of an Advisory Board.
+Section 815, Pub. L. 96–114, title II, § 206, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2549, related to the composition of the Board and the establishment of an Advisory Board.
 
-Section 816, Pub. L. 96–114, title II, § 207, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2551, related to the administration of the Congressional Recognition for Excellence in Arts Awards Program.
+Section 816, Pub. L. 96–114, title II, § 207, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2551, related to the administration of the Congressional Recognition for Excellence in Arts Awards Program.
 
-Section 817, Pub. L. 96–114, title II, § 208, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2551, related to limitations on Board’s authority.
+Section 817, Pub. L. 96–114, title II, § 208, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2551, related to limitations on Board’s authority.
 
-Section 817a, Pub. L. 96–114, title II, § 209, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, related to audits.
+Section 817a, Pub. L. 96–114, title II, § 209, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, related to audits.
 
-Section 817b, Pub. L. 96–114, title II, § 210, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, terminated the Board 6 years after Nov. 22, 2000.
+Section 817b, Pub. L. 96–114, title II, § 210, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, terminated the Board 6 years after Nov. 22, 2000.
 
-Section 817c, Pub. L. 96–114, title II, § 211, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, related to the Congressional Recognition for Excellence in Arts Education Awards Trust Fund.
+Section 817c, Pub. L. 96–114, title II, § 211, as added Pub. L. 106–533, § 1(a), Nov. 22, 2000, 114 Stat. 2552, related to the Congressional Recognition for Excellence in Arts Education Awards Trust Fund.

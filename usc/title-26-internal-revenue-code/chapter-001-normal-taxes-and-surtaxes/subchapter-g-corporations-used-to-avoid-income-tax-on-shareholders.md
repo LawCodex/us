@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–357, title IV, § 413(c)(31), Oct. 22, 2004, 118 Stat. 1509, struck out item for part III “Foreign personal holding companies”.
+2004—Pub. L. 108–357, title IV, § 413(c)(31), Oct. 22, 2004, 118 Stat. 1509, struck out item for part III “Foreign personal holding companies”.
 
 ## PART I—CORPORATIONS IMPROPERLY ACCUMULATING SURPLUS
 
-### § 531. Imposition of accumulated earnings tax
+### § 531. Imposition of accumulated earnings tax
 
 In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the accumulated taxable income (as defined in section 535) of each corporation described in section 532, an accumulated earnings tax equal to 20 percent of the accumulated taxable income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 100–647, title I, § 1001(a)(2)(A), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 103–66, title XIII, §§ 13201(b)(1), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, § 101(c)(4), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, § 302(e)(5), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, § 102(c)(1)(A), Jan. 2, 2013, 126 Stat. 2319.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 100–647, title I, § 1001(a)(2)(A), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 103–66, title XIII, §§ 13201(b)(1), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, § 101(c)(4), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, § 302(e)(5), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, § 102(c)(1)(A), Jan. 2, 2013, 126 Stat. 2319.)
 
 **Editorial Notes**
 
@@ -39,9 +39,9 @@ In addition to other taxes imposed by this chapter, there is hereby imposed for 
 
 2001—Pub. L. 107–16 substituted “equal to the product of the highest rate of tax under section 1(c) and the accumulated taxable income.” for “equal to 39.6 percent of the accumulated taxable income.”
 
-1993—Pub. L. 103–66, § 13202(b), substituted “39.6 percent” for “36 percent”.
+1993—Pub. L. 103–66, § 13202(b), substituted “39.6 percent” for “36 percent”.
 
-Pub. L. 103–66, § 13201(b)(1), substituted “36 percent” for “28 percent”.
+Pub. L. 103–66, § 13201(b)(1), substituted “36 percent” for “28 percent”.
 
 1988—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: “In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the accumulated taxable income (as defined in section 535) of every corporation described in section 532, an accumulated earnings tax equal to the sum of—
 
@@ -69,9 +69,9 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code.”
+Pub. L. 100–647, title I, § 1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code.”
 
-### § 532. Corporations subject to accumulated earnings tax
+### § 532. Corporations subject to accumulated earnings tax
 
 **(a) General rule**
 
@@ -89,7 +89,7 @@ The accumulated earnings tax imposed by section 531 shall apply to every corpora
 
 The application of this part to a corporation shall be determined without regard to the number of shareholders of such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 98–369, div. A, title I, § 58(a), July 18, 1984, 98 Stat. 574; Pub. L. 99–514, title XII, § 1235(f)(1), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, § 1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 109–135, title IV, § 403(n)(1), Dec. 21, 2005, 119 Stat. 2626.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 98–369, div. A, title I, § 58(a), July 18, 1984, 98 Stat. 574; Pub. L. 99–514, title XII, § 1235(f)(1), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, § 1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 109–135, title IV, § 403(n)(1), Dec. 21, 2005, 119 Stat. 2626.)
 
 **Editorial Notes**
 
@@ -111,9 +111,9 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XI, § 1124, Aug. 5, 1997, 111 Stat. 978, provided that:
+Pub. L. 105–34, title XI, § 1124, Aug. 5, 1997, 111 Stat. 978, provided that:
 
-> “The amendments made by this subtitle [subtitle C (§§ 1121–1124) of title XI of Pub. L. 105–34, enacting section 1296 of this title, amending this section and sections 542, 551, 852, 1291, 1293, 1296 to 1298, and 4982 of this title, redesignating subpart C of part VI of subchapter P of this chapter as subpart D of part VI of subchapter P of this chapter, and renumbering sections 1296 and 1297 of this title as sections 1297 and 1298, respectively, of this title] shall apply to—
+> “The amendments made by this subtitle [subtitle C (§§ 1121–1124) of title XI of Pub. L. 105–34, enacting section 1296 of this title, amending this section and sections 542, 551, 852, 1291, 1293, 1296 to 1298, and 4982 of this title, redesignating subpart C of part VI of subchapter P of this chapter as subpart D of part VI of subchapter P of this chapter, and renumbering sections 1296 and 1297 of this title as sections 1297 and 1298, respectively, of this title] shall apply to—
 
 > **“(1)** taxable years of United States persons beginning after December 31, 1997, and
 
@@ -125,9 +125,9 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 58(c), July 18, 1984, 98 Stat. 576, provided that: “The amendments made by this section [amending this section and section 535 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 58(c), July 18, 1984, 98 Stat. 576, provided that: “The amendments made by this section [amending this section and section 535 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [July 18, 1984].”
 
-### § 533. Evidence of purpose to avoid income tax
+### § 533. Evidence of purpose to avoid income tax
 
 **(a) Unreasonable accumulation determinative of purpose**
 
@@ -139,7 +139,7 @@ The fact that any corporation is a mere holding or investment company shall be p
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 179.)
 
-### § 534. Burden of proof
+### § 534. Burden of proof
 
 **(a) General rule** In any proceeding before the Tax Court involving a notice of deficiency based in whole or in part on the allegation that all or any part of the earnings and profits have been permitted to accumulate beyond the reasonable needs of the business, the burden of proof with respect to such allegation shall—
 
@@ -159,25 +159,25 @@ Within such time (but not less than 30 days) after the mailing of the notificati
 
 If pursuant to section 6861(a) a jeopardy assessment is made before the mailing of the notice of deficiency referred to in subsection (a), for purposes of this section such notice of deficiency shall, to the extent that it informs the taxpayer that such deficiency includes the accumulated earnings tax imposed by section 531, constitute the notification described in subsection (b), and in that event the statement described in subsection (c) may be included in the taxpayer’s petition to the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 180; Aug. 11, 1955, ch. 805, §§ 4, 5, 69 Stat. 690, 691; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §§ 1901(a)(73), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 180; Aug. 11, 1955, ch. 805, §§ 4, 5, 69 Stat. 690, 691; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §§ 1901(a)(73), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(1), (2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §§ 1901(a)(73)(A), 1906(b)(13)(A), struck out “In the case of a notice of deficiency to which subsection (e)(2) applies and which is mailed on or before the 30th day after the date of enactment of this sentence, the notification referred to in the preceding sentence may be mailed at any time on or before such 30th day” after “section 531”, and “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §§ 1901(a)(73)(A), 1906(b)(13)(A), struck out “In the case of a notice of deficiency to which subsection (e)(2) applies and which is mailed on or before the 30th day after the date of enactment of this sentence, the notification referred to in the preceding sentence may be mailed at any time on or before such 30th day” after “section 531”, and “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (e). Pub. L. 94–455, § 1901(a)(73)(B), struck out subsec. (e) relating to application of provisions of section.
+Subsec. (e). Pub. L. 94–455, § 1901(a)(73)(B), struck out subsec. (e) relating to application of provisions of section.
 
 1958—Subsec. (b). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
-1955—Subsec. (b). Act Aug. 11, 1955, § 5, inserted second sentence relating to notice of deficiency to which subsec. (e)(2) applies.
+1955—Subsec. (b). Act Aug. 11, 1955, § 5, inserted second sentence relating to notice of deficiency to which subsec. (e)(2) applies.
 
-Subsec. (e). Act Aug. 11, 1955, § 4, permitted, in certain instances, application of this section to cases involving taxable years to which prior revenue laws apply.
+Subsec. (e). Act Aug. 11, 1955, § 4, permitted, in certain instances, application of this section to cases involving taxable years to which prior revenue laws apply.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,7 +189,7 @@ Amendment by section 1901(a)(73) of Pub. L. 94–455 applicable with respect to 
 
 Amendment by Pub. L. 85–866 applicable only if mailing occurred after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
 
-### § 535. Accumulated taxable income
+### § 535. Accumulated taxable income
 
 **(a) Definition**
 
@@ -319,15 +319,15 @@ any distribution out of such earnings and profits (and any interest payment) rec
 
 The term “United States-owned foreign corporation” has the meaning given to such term by section 904(h)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, § 31, title II, § 205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, § 3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, § 9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, § 207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, § 401(b)(2)(C), title V, § 512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, § 304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, § 1033(b)(3), title XIX, §§ 1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, § 232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§ 58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, § 1225(a), title XVIII, § 1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, § 11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, § 402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, § 403(n)(2), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 113–295, div. A, title II, § 221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 13001(b)(5)(B), 14301(c)(4), Dec. 22, 2017, 131 Stat. 2098, 2222.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, § 31, title II, § 205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, § 3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, § 9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, § 207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, § 401(b)(2)(C), title V, § 512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, § 304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, § 1033(b)(3), title XIX, §§ 1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, § 232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§ 58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, § 1225(a), title XVIII, § 1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, § 11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, § 402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, § 403(n)(2), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 113–295, div. A, title II, § 221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 13001(b)(5)(B), 14301(c)(4), Dec. 22, 2017, 131 Stat. 2098, 2222.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b)(1). Pub. L. 115–97, § 14301(c)(4), substituted “section 960” for “section 902(a) or 960(a)(1)”.
+2017—Subsec. (b)(1). Pub. L. 115–97, § 14301(c)(4), substituted “section 960” for “section 902(a) or 960(a)(1)”.
 
-Subsec. (c)(5). Pub. L. 115–97, § 13001(b)(5)(B), amended par. (5) generally. Prior to amendment, text read as follows: “For denial of credit provided in paragraph (2) or (3) where multiple corporations are formed to avoid tax, see section 1551, and for limitation on such credit in the case of certain controlled corporations, see section 1561.”
+Subsec. (c)(5). Pub. L. 115–97, § 13001(b)(5)(B), amended par. (5) generally. Prior to amendment, text read as follows: “For denial of credit provided in paragraph (2) or (3) where multiple corporations are formed to avoid tax, see section 1551, and for limitation on such credit in the case of certain controlled corporations, see section 1561.”
 
 2014—Subsec. (b)(1). Pub. L. 113–295 substituted “section 531 or the personal holding company tax imposed by section 541.” for “section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.”
 
@@ -337,39 +337,39 @@ Subsec. (c)(5). Pub. L. 115–97, § 13001(b)(5)(B), amended par. (5) generall
 
 1990—Subsec. (c)(5). Pub. L. 101–508 substituted “section 1561” for “sections 1561 and 1564”.
 
-1986—Subsec. (b)(5)(C)(i), (8)(C). Pub. L. 99–514, § 1899A(17), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+1986—Subsec. (b)(5)(C)(i), (8)(C). Pub. L. 99–514, § 1899A(17), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
 
-Subsec. (b)(9). Pub. L. 99–514, § 1225(a), added par. (9).
+Subsec. (b)(9). Pub. L. 99–514, § 1225(a), added par. (9).
 
-1984—Subsec. (b)(5). Pub. L. 98–369, § 58(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)” for “There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a)” in subpar. (A) as so redesignated, and added subpars. (B) and (C).
+1984—Subsec. (b)(5). Pub. L. 98–369, § 58(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)” for “There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a)” in subpar. (A) as so redesignated, and added subpars. (B) and (C).
 
-Subsec. (b)(6). Pub. L. 98–369, § 58(b), divided existing par. (6) into subpars. (A) and (B) and substituted references to the application of paragraph (7) for references to capital loss carryback and carryover provided in section 1212.
+Subsec. (b)(6). Pub. L. 98–369, § 58(b), divided existing par. (6) into subpars. (A) and (B) and substituted references to the application of paragraph (7) for references to capital loss carryback and carryover provided in section 1212.
 
-Subsec. (b)(7). Pub. L. 98–369, § 58(b), substituted “Capital loss carryovers” for “Capital loss” in heading, redesignated existing provisions as subpar. (B), and added subpar. (A).
+Subsec. (b)(7). Pub. L. 98–369, § 58(b), substituted “Capital loss carryovers” for “Capital loss” in heading, redesignated existing provisions as subpar. (B), and added subpar. (A).
 
-Subsec. (b)(8). Pub. L. 98–369, § 58(b), added par. (8).
+Subsec. (b)(8). Pub. L. 98–369, § 58(b), added par. (8).
 
-Subsec. (d). Pub. L. 98–369, § 125(a), added subsec. (d).
+Subsec. (d). Pub. L. 98–369, § 125(a), added subsec. (d).
 
-1981—Subsec. (c)(2). Pub. L. 97–34, § 232(a), designated existing provisions as subpar. (A), substituted “$250,000” for “$150,000”, and added subpar. (B).
+1981—Subsec. (c)(2). Pub. L. 97–34, § 232(a), designated existing provisions as subpar. (A), substituted “$250,000” for “$150,000”, and added subpar. (B).
 
-Subsec. (c)(3). Pub. L. 97–34, § 232(b)(1), substituted “$250,000” for “$150,000”.
+Subsec. (c)(3). Pub. L. 97–34, § 232(b)(1), substituted “$250,000” for “$150,000”.
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1033(b)(3), 1901(a)(74), struck out “(other than the excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “income and excess profits taxes”, and substituted “section 902(a) or 960(a)(1)” for “section 902(a)(1) or 960(a)(1)(C)” after “domestic corporation under”.
+1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1033(b)(3), 1901(a)(74), struck out “(other than the excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “income and excess profits taxes”, and substituted “section 902(a) or 960(a)(1)” for “section 902(a)(1) or 960(a)(1)(C)” after “domestic corporation under”.
 
-Subsec. (b)(6). Pub. L. 94–455, § 1901(b)(33)(D), substituted “Net” for “Long-term” after “(6)”.
+Subsec. (b)(6). Pub. L. 94–455, § 1901(b)(33)(D), substituted “Net” for “Long-term” after “(6)”.
 
-Subsec. (b)(8). Pub. L. 94–455, § 1901(b)(20)(A), struck out par. (8) relating to allowance of deduction by bank affiliates.
+Subsec. (b)(8). Pub. L. 94–455, § 1901(b)(20)(A), struck out par. (8) relating to allowance of deduction by bank affiliates.
 
-Subsec. (b)(9), (10). Pub. L. 94–455, § 1901(b)(32)(C), struck out par. (9) relating to allowance of deduction for distributions of divested stock, and struck out par. (10) relating to special adjustment on disposition of antitrust stock received as a dividend.
+Subsec. (b)(9), (10). Pub. L. 94–455, § 1901(b)(32)(C), struck out par. (9) relating to allowance of deduction for distributions of divested stock, and struck out par. (10) relating to special adjustment on disposition of antitrust stock received as a dividend.
 
 1975—Subsec. (c)(2), (3). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
 
-1969—Subsec. (b)(6). Pub. L. 91–172, § 512(f)(5), substituted “capital loss carryback or carryover” for “capital loss carryover” and “capital loss carryback and carryover” for “capital loss carryover” in subpar. (B).
+1969—Subsec. (b)(6). Pub. L. 91–172, § 512(f)(5), substituted “capital loss carryback or carryover” for “capital loss carryover” and “capital loss carryback and carryover” for “capital loss carryover” in subpar. (B).
 
-Subsec. (b)(7). Pub. L. 91–172, § 512(f)(6), substituted “Capital loss” for “Capital loss carryover” in heading and “capital loss carryback or carryover” for “capital loss carryover” in text.
+Subsec. (b)(7). Pub. L. 91–172, § 512(f)(6), substituted “Capital loss” for “Capital loss carryover” in heading and “capital loss carryback or carryover” for “capital loss carryover” in text.
 
-Subsec. (c)(5). Pub. L. 91–172, § 401(b)(2)(C), substituted “section 1551, and for limitation on such credit in the case of certain controlled corporations, see sections 1561 and 1564” for “section 1551”.
+Subsec. (c)(5). Pub. L. 91–172, § 401(b)(2)(C), substituted “section 1551, and for limitation on such credit in the case of certain controlled corporations, see sections 1561 and 1564” for “section 1551”.
 
 1964—Subsec. (b)(1). Pub. L. 88–272 substituted “section 275(a)(4)” for “section 164(b)(6)”.
 
@@ -377,11 +377,11 @@ Subsec. (c)(5). Pub. L. 91–172, § 401(b)(2)(C), substituted “section 1551
 
 Subsec. (b)(9), (10). Pub. L. 87–403 added pars. (9) and (10).
 
-1958—Subsec. (b)(2). Pub. L. 85–866, § 31(a), struck out “the limitation in” after “without regard to”.
+1958—Subsec. (b)(2). Pub. L. 85–866, § 31(a), struck out “the limitation in” after “without regard to”.
 
-Subsec. (b)(6)(B). Pub. L. 85–866, § 31(a), substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
+Subsec. (b)(6)(B). Pub. L. 85–866, § 31(a), substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
 
-Subsec. (c)(2), (3). Pub. L. 85–866, § 205(a), substituted “$100,000” for “$60,000”.
+Subsec. (c)(2), (3). Pub. L. 85–866, § 205(a), substituted “$100,000” for “$60,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -401,17 +401,17 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title IV, § 402(c), Oct. 22, 2004, 118 Stat. 1492, provided that: “The amendments made by this section [amending this section and sections 904 and 936 of this title] shall apply to losses for taxable years beginning after December 31, 2006.”
+Pub. L. 108–357, title IV, § 402(c), Oct. 22, 2004, 118 Stat. 1492, provided that: “The amendments made by this section [amending this section and sections 904 and 936 of this title] shall apply to losses for taxable years beginning after December 31, 2006.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XII, § 1225(c), Oct. 22, 1986, 100 Stat. 2559, as amended by Pub. L. 100–647, title I, § 1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: “The amendments made by this section [amending this section and section 545 of this title] shall apply to gains and losses realized on or after January 1, 1986.”
+Pub. L. 99–514, title XII, § 1225(c), Oct. 22, 1986, 100 Stat. 2559, as amended by Pub. L. 100–647, title I, § 1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: “The amendments made by this section [amending this section and section 545 of this title] shall apply to gains and losses realized on or after January 1, 1986.”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by section 58(b) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 58(c) of Pub. L. 98–369, set out as a note under section 532 of this title.
 
-Pub. L. 98–369, div. A, title I, § 125(b), July 18, 1984, 98 Stat. 647, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 125(b), July 18, 1984, 98 Stat. 647, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to distributions and interest payments received by a United States-owned foreign corporation (within the meaning of section 535(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) on or after May 23, 1983, in taxable years ending on or after such date.
 
@@ -419,7 +419,7 @@ Pub. L. 98–369, div. A, title I, § 125(b), July 18, 1984, 98 Stat. 647, as 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title II, § 232(c), Aug. 13, 1981, 95 Stat. 250, provided that: “The amendments made by this section [amending this section and sections 243, 1551, and 1561 of this title] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, § 232(c), Aug. 13, 1981, 95 Stat. 250, provided that: “The amendments made by this section [amending this section and sections 243, 1551, and 1561 of this title] shall apply to taxable years beginning after December 31, 1981.”
 
 **Effective Date of 1976 Amendment**
 
@@ -429,7 +429,7 @@ Amendment by section 1901(a)(74), (b)(20)(A), (32)(C), (33)(D) of Pub. L. 94–4
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–12, title III, § 305(c), Mar. 29, 1975, 89 Stat. 45, provided that: “The amendments made by section 304 [amending this section and sections 243, 1551, and 1561 of this title] apply to taxable years beginning after December 31, 1974.”
+Pub. L. 94–12, title III, § 305(c), Mar. 29, 1975, 89 Stat. 45, provided that: “The amendments made by section 304 [amending this section and sections 243, 1551, and 1561 of this title] apply to taxable years beginning after December 31, 1974.”
 
 **Effective Date of 1969 Amendment**
 
@@ -451,23 +451,23 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 Amendment by section 31 of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Pub. L. 85–866, title II, § 205(b), Sept. 2, 1958, 72 Stat. 1680, provided that: “The amendments made by subsection (a) [amending this section and section 1551 of this title] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title II, § 205(b), Sept. 2, 1958, 72 Stat. 1680, provided that: “The amendments made by subsection (a) [amending this section and section 1551 of this title] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 536. Income not placed on annual basis
+### § 536. Income not placed on annual basis
 
 Section 443(b) (relating to computation of tax on change of annual accounting period) shall not apply in the computation of the accumulated earnings tax imposed by section 531.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 182.)
 
-### § 537. Reasonable needs of the business
+### § 537. Reasonable needs of the business
 
 **(a) General rule** For purposes of this part, the term “reasonable needs of the business” includes—
 
@@ -501,13 +501,13 @@ The accumulation of reasonable amounts for the payment of reasonably anticipated
 
 The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 91–172, title IX, § 906(a), Dec. 30, 1969, 83 Stat. 714; Pub. L. 94–455, title XIX, § 1901(a)(75), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 95–600, title III, § 371(c), Nov. 6, 1978, 92 Stat. 2859; Pub. L. 104–188, title I, § 1704(t)(33), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–97, title I, § 13302(c)(2)(B), Dec. 22, 2017, 131 Stat. 2123.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 91–172, title IX, § 906(a), Dec. 30, 1969, 83 Stat. 714; Pub. L. 94–455, title XIX, § 1901(a)(75), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 95–600, title III, § 371(c), Nov. 6, 1978, 92 Stat. 2859; Pub. L. 104–188, title I, § 1704(t)(33), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–97, title I, § 13302(c)(2)(B), Dec. 22, 2017, 131 Stat. 2123.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 172(f), referred to in subsec. (b)(4), was repealed by Pub. L. 115–97, title I, § 13302(c)(2)(A), Dec. 22, 2017, 131 Stat. 2122.
+Section 172(f), referred to in subsec. (b)(4), was repealed by Pub. L. 115–97, title I, § 13302(c)(2)(A), Dec. 22, 2017, 131 Stat. 2122.
 
 The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (b)(4), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
@@ -519,9 +519,9 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 
 1978—Subsec. (b)(4), (5). Pub. L. 95–600 added par. (4) and redesignated former par. (4) as (5).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, § 1901(a)(75)(A), struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
+1976—Subsec. (b)(2). Pub. L. 94–455, § 1901(a)(75)(A), struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
 
-Subsec. (b)(4). Pub. L. 94–455, § 1901(a)(75)(B), struck out “or (2)” after “paragraph (1)”.
+Subsec. (b)(4). Pub. L. 94–455, § 1901(a)(75)(B), struck out “or (2)” after “paragraph (1)”.
 
 1969—Pub. L. 91–172 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
 
@@ -541,15 +541,15 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 906(b), Dec. 30, 1969, 83 Stat. 715, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the tax imposed under section 531 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] with respect to taxable years ending after May 26, 1969.”
+Pub. L. 91–172, title IX, § 906(b), Dec. 30, 1969, 83 Stat. 715, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the tax imposed under section 531 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] with respect to taxable years ending after May 26, 1969.”
 
 ## PART II—PERSONAL HOLDING COMPANIES
 
-### § 541. Imposition of personal holding company tax
+### § 541. Imposition of personal holding company tax
 
 In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the undistributed personal holding company income (as defined in section 545) of every personal holding company (as defined in section 542) a personal holding company tax equal to 20 percent of the undistributed personal holding company income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, § 225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, § 101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, § 104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, § 11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 103–66, title XIII, §§ 13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, § 101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, § 302(e)(6), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, § 102(c)(1)(B), Jan. 2, 2013, 126 Stat. 2319.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, § 225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, § 101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, § 104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, § 11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 103–66, title XIII, §§ 13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, § 101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, § 302(e)(6), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, § 102(c)(1)(B), Jan. 2, 2013, 126 Stat. 2319.)
 
 **Editorial Notes**
 
@@ -561,9 +561,9 @@ In addition to other taxes imposed by this chapter, there is hereby imposed for 
 
 2001—Pub. L. 107–16 substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.”
 
-1993—Pub. L. 103–66, § 13202(b), substituted “39.6 percent” for “36 percent”.
+1993—Pub. L. 103–66, § 13202(b), substituted “39.6 percent” for “36 percent”.
 
-Pub. L. 103–66, § 13201(b)(2), substituted “36 percent” for “28 percent”.
+Pub. L. 103–66, § 13201(b)(2), substituted “36 percent” for “28 percent”.
 
 1990—Pub. L. 101–508 struck out “(38.5 percent in the case of taxable years beginning in 1987)” after “28 percent”.
 
@@ -607,7 +607,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### § 542. Definition of personal holding company
+### § 542. Definition of personal holding company
 
 **(a) General rule** For purposes of this subtitle, the term “personal holding company” means any corporation (other than a corporation described in subsection (c)) if—
 
@@ -719,23 +719,23 @@ For purposes of clause (i), the remaining maturity shall be treated as including
 
 For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, § 3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, § 3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, § 1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, § 225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, § 104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, § 101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, § 3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, § 1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, § 5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, § 293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, § 211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, § 1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, § 1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, § 413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, § 401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, § 3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, § 3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, § 1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, § 225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, § 104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, § 101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, § 3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, § 1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, § 5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, § 293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, § 211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, § 1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, § 1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, § 413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, § 401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 **Amendments**
 
-2018—Subsec. (c)(5). Pub. L. 115–141, § 401(a)(132), substituted semicolon for comma at end.
+2018—Subsec. (c)(5). Pub. L. 115–141, § 401(a)(132), substituted semicolon for comma at end.
 
-Subsec. (c)(7). Pub. L. 115–141, § 401(a)(133), substituted “a small business investment” for “A small business investment”.
+Subsec. (c)(7). Pub. L. 115–141, § 401(a)(133), substituted “a small business investment” for “A small business investment”.
 
-2004—Subsec. (c)(5). Pub. L. 108–357, § 413(b)(1)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “a foreign personal holding company as defined in section 552;”.
+2004—Subsec. (c)(5). Pub. L. 108–357, § 413(b)(1)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “a foreign personal holding company as defined in section 552;”.
 
-Subsec. (c)(7) to (10). Pub. L. 108–357, § 413(b)(1)(B)–(D), redesignated pars. (8) and (9) as (7) and (8), respectively, inserted “and” at end of par. (7), substituted period for “; and” at end of par. (8), and struck out former pars. (7) and (10) relating to foreign corporations whose outstanding stock during the last half of the taxable year is owned, directly or indirectly, by nonresident aliens and passive foreign investment companies, respectively.
+Subsec. (c)(7) to (10). Pub. L. 108–357, § 413(b)(1)(B)–(D), redesignated pars. (8) and (9) as (7) and (8), respectively, inserted “and” at end of par. (7), substituted period for “; and” at end of par. (8), and struck out former pars. (7) and (10) relating to foreign corporations whose outstanding stock during the last half of the taxable year is owned, directly or indirectly, by nonresident aliens and passive foreign investment companies, respectively.
 
 1997—Subsec. (c)(10). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
 
@@ -743,21 +743,21 @@ Subsec. (c)(7) to (10). Pub. L. 108–357, § 413(b)(1)(B)–(D), redesignated
 
 1984—Subsec. (b)(5). Pub. L. 98–369 substituted “section 801” for “section 802”.
 
-1982—Subsec. (c)(6)(C)(ii). Pub. L. 97–248, § 293(a), struck out “but not $1,000,000” after “exceeds $500,000”.
+1982—Subsec. (c)(6)(C)(ii). Pub. L. 97–248, § 293(a), struck out “but not $1,000,000” after “exceeds $500,000”.
 
-Subsec. (d)(1)(B)(i). Pub. L. 97–248, § 293(b), substituted “144 months” for “60 months” after “remaining maturity exceeds”, designated existing provisions from “the loans” through “transferor’s trade or business, or” as subcl. (I), and added subcl. (II).
+Subsec. (d)(1)(B)(i). Pub. L. 97–248, § 293(b), substituted “144 months” for “60 months” after “remaining maturity exceeds”, designated existing provisions from “the loans” through “transferor’s trade or business, or” as subcl. (I), and added subcl. (II).
 
-Subsec. (d)(1)(C). Pub. L. 97–248, § 293(c), added subpar. (C).
+Subsec. (d)(1)(C). Pub. L. 97–248, § 293(c), added subpar. (C).
 
 1980—Subsec. (c)(9). Pub. L. 96–589, added par. (9).
 
-1976—Subsec. (a)(2). Pub. L. 94–455, § 1901(a)(76)(A), struck out last sentence providing that the preceding sentence shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+1976—Subsec. (a)(2). Pub. L. 94–455, § 1901(a)(76)(A), struck out last sentence providing that the preceding sentence shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-Subsec. (b)(2). Pub. L. 94–455, § 1901(a)(76)(B), struck out “other than an affiliated group of railroad corporations the common parent of which would be eligible to file a consolidated return under section 141 of the Internal Revenue Act of 1942” after “group of corporations”.
+Subsec. (b)(2). Pub. L. 94–455, § 1901(a)(76)(B), struck out “other than an affiliated group of railroad corporations the common parent of which would be eligible to file a consolidated return under section 141 of the Internal Revenue Act of 1942” after “group of corporations”.
 
-Subsec. (c)(2). Pub. L. 94–455, § 1901(a)(76)(C), struck out “without regard to subparagraphs (D) and (E) thereof” after “meaning of section 7701(a)(19)”.
+Subsec. (c)(2). Pub. L. 94–455, § 1901(a)(76)(C), struck out “without regard to subparagraphs (D) and (E) thereof” after “meaning of section 7701(a)(19)”.
 
-Subsec. (c)(8). Pub. L. 94–455, § 1901(a)(76)(D), inserted “(15 U.S.C. 661 and following)” after “Small Business Investment Act of 1958”.
+Subsec. (c)(8). Pub. L. 94–455, § 1901(a)(76)(D), inserted “(15 U.S.C. 661 and following)” after “Small Business Investment Act of 1958”.
 
 1974—Subsec. (b)(5). Pub. L. 93–480 added par. (5).
 
@@ -765,19 +765,19 @@ Subsec. (c)(8). Pub. L. 94–455, § 1901(a)(76)(D), inserted “(15 U.S.C. 66
 
 1966—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation’s gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
-1964—Subsec. (a)(1). Pub. L. 88–272, § 225(b), substituted “60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))” for “80 percent of its gross income for the taxable year is personal holding company income as defined in section 543”.
+1964—Subsec. (a)(1). Pub. L. 88–272, § 225(b), substituted “60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))” for “80 percent of its gross income for the taxable year is personal holding company income as defined in section 543”.
 
-Subsec. (b). Pub. L. 88–272, § 225(k)(1), substituted “adjusted ordinary gross income” for “gross income”, wherever appearing.
+Subsec. (b). Pub. L. 88–272, § 225(k)(1), substituted “adjusted ordinary gross income” for “gross income”, wherever appearing.
 
-Subsec. (c)(2), (6) to (11). Pub. L. 88–272, § 225(c)(1), (2), inserted among the exceptions, domestic building and loan associations within section 7701(a)(19) without regard to subpars. (D) and (E) thereof, added par. (6), redesignated former pars. (10) and (11) as (7) and (8), respectively, and omitted former pars. (6) to (9) which related to licensed personal finance companies, lending companies, loan or investment corporations, and finance companies, respectively.
+Subsec. (c)(2), (6) to (11). Pub. L. 88–272, § 225(c)(1), (2), inserted among the exceptions, domestic building and loan associations within section 7701(a)(19) without regard to subpars. (D) and (E) thereof, added par. (6), redesignated former pars. (10) and (11) as (7) and (8), respectively, and omitted former pars. (6) to (9) which related to licensed personal finance companies, lending companies, loan or investment corporations, and finance companies, respectively.
 
-Subsec. (d). Pub. L. 88–272, § 225(c)(3), added subsec. (d).
+Subsec. (d). Pub. L. 88–272, § 225(c)(3), added subsec. (d).
 
 1962—Subsec. (c)(7). Pub. L. 87–768 substituted “authorized to engage in and actively and regularly engaged in the small loan business (consumer finance business)” for “authorized to engage in the small loan business”, inserted provisions excepting from the definition of “personal holding company” a lending company that received 80 percent or more of its gross income from lawful income from domestic subsidiary corporations (of which stock possessing at least 80 percent of the voting power of all classes of stock and of which at least 80 percent of each class of the nonvoting stock is owned directly by such lending company), which are themselves excepted under pars. (6), (7), (8), or (9) of this subsection, increased the maximum amount of the loan where no limit is prescribed from $500 to $1,500, and eliminated provisions which required loans to mature in not more than 36 months, and which limited interest, discount and other charges to not more than an amount equal to simple interest at 3 percent per month payable in advance and computed only on unpaid balances.
 
 1959—Subsec. (c)(11). Pub. L. 86–376 added par. (11).
 
-1955—Subsec. (a)(2). Act Aug. 12, 1955, § 3, inserted sentence at end excepting from consideration as “individuals” certain charitable foundations created before July 1, 1950.
+1955—Subsec. (a)(2). Act Aug. 12, 1955, § 3, inserted sentence at end excepting from consideration as “individuals” certain charitable foundations created before July 1, 1950.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -799,7 +799,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 293(d), Sept. 3, 1982, 96 Stat. 575, provided that:
+Pub. L. 97–248, title II, § 293(d), Sept. 3, 1982, 96 Stat. 575, provided that:
 
 > **“(1) Subsection (a).—** The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1981.
 
@@ -815,7 +815,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–480, § 3(b), Oct. 26, 1974, 88 Stat. 1454, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1973.”
+Pub. L. 93–480, § 3(b), Oct. 26, 1974, 88 Stat. 1454, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1973.”
 
 **Effective Date of 1969 Amendment**
 
@@ -831,25 +831,25 @@ Amendment by section 225(b), (c)(2), (3), (k)(1) of Pub. L. 88–272 applicable 
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–768, § 2, Oct. 9, 1962, 76 Stat. 766, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to taxable years beginning after December 31, 1961.”
+Pub. L. 87–768, § 2, Oct. 9, 1962, 76 Stat. 766, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to taxable years beginning after December 31, 1961.”
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–376, § 3(b), Sept. 23, 1959, 73 Stat. 700, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1958.”
+Pub. L. 86–376, § 3(b), Sept. 23, 1959, 73 Stat. 700, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1958.”
 
 **Effective Date of 1955 Amendment**
 
-Act Aug. 12, 1955, ch. 871, § 4, 69 Stat. 718, provided that: “The amendment made by section 3 of this Act [amending this section] shall apply only with respect to taxable years beginning after December 31, 1954.”
+Act Aug. 12, 1955, ch. 871, § 4, 69 Stat. 718, provided that: “The amendment made by section 3 of this Act [amending this section] shall apply only with respect to taxable years beginning after December 31, 1954.”
 
 **Stock Ownership Requirement; Organization or Trust Organized or Created Before July 1, 1950**
 
-Pub. L. 95–600, title VII, § 701(*o*), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, § 701(*o*), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The last sentence of section 542(a)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to stock ownership requirement) shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 > **“(2) Effective date.—** The provisions of paragraph (1) shall apply with respect to taxable years beginning after December 31, 1976.”
 
-### § 543. Personal holding company income
+### § 543. Personal holding company income
 
 **(a) General rule** For purposes of this subtitle, the term “personal holding company income” means the portion of the adjusted ordinary gross income which consists of:
 
@@ -1101,7 +1101,7 @@ the taxpayer shall be treated as having met such requirements.
 
 For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, § 1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, § 3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L. 88–272, title II, § 225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, § 3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, § 104(h)(2), title II, § 206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, § 211(a), title XIX, §§ 1901(b)(32)(D), 1906(b)(13)(A), title XXI, § 2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, § 105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, § 222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, § 712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, § 645(a)(1), (2), (4), title XVIII, § 1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, § 1010(f)(5), title VI, § 6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, § 1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, § 6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, § 532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, § 17(e)(3), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 113–295, div. B, title II, § 207(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 115–141, div. U, title IV, § 401(a)(134), (135), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 119–21, title VII, § 70302(b)(8), July 4, 2025, 139 Stat. 192.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, § 1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, § 3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L. 88–272, title II, § 225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, § 3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, § 104(h)(2), title II, § 206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, § 211(a), title XIX, §§ 1901(b)(32)(D), 1906(b)(13)(A), title XXI, § 2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, § 105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, § 222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, § 712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, § 645(a)(1), (2), (4), title XVIII, § 1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, § 1010(f)(5), title VI, § 6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, § 1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, § 6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, § 532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, § 17(e)(3), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 113–295, div. B, title II, § 207(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 115–141, div. U, title IV, § 401(a)(134), (135), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 119–21, title VII, § 70302(b)(8), July 4, 2025, 139 Stat. 192.)
 
 **Editorial Notes**
 
@@ -1113,15 +1113,15 @@ Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to 
 
 2025—Subsec. (d)(4)(A)(i). Pub. L. 119–21 inserted “174A,” after “174,”.
 
-2018—Subsec. (a)(2)(B)(ii). Pub. L. 115–141, § 401(a)(134), substituted “section 563(c)” for “section 563(d)”.
+2018—Subsec. (a)(2)(B)(ii). Pub. L. 115–141, § 401(a)(134), substituted “section 563(c)” for “section 563(d)”.
 
-Subsec. (d)(5)(A)(ii). Pub. L. 115–141, § 401(a)(135), substituted “section 563(c)” for “section 563(d)”.
+Subsec. (d)(5)(A)(ii). Pub. L. 115–141, § 401(a)(135), substituted “section 563(c)” for “section 563(d)”.
 
 2014—Subsec. (a)(1)(C) to (E). Pub. L. 113–295 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
 2006—Subsec. (a)(1)(B). Pub. L. 109–304 substituted “chapter 533 or 535 of title 46, United States Code” for “section 511 or 607 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1161 or 1177)”.
 
-2004—Subsec. (b)(1). Pub. L. 108–357 inserted “and” at end of subpar. (A), substituted a period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof:”.
+2004—Subsec. (b)(1). Pub. L. 108–357 inserted “and” at end of subpar. (A), substituted a period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof:”.
 
 1999—Subsec. (a)(1)(D)(i). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
@@ -1129,59 +1129,59 @@ Subsec. (d)(5)(A)(ii). Pub. L. 115–141, § 401(a)(135), substituted “secti
 
 1996—Subsec. (a)(2)(B)(ii). Pub. L. 104–188 substituted “563(d)” for “563(c)”.
 
-1988—Subsec. (a)(1)(D). Pub. L. 100–647, § 6279(a), added subpar. (D).
+1988—Subsec. (a)(1)(D). Pub. L. 100–647, § 6279(a), added subpar. (D).
 
-Subsec. (c). Pub. L. 100–647, § 1010(f)(5), substituted “other than life insurance companies” for “other than life or mutual” in heading and “other than a life insurance company” for “other than life or mutual” in text.
+Subsec. (c). Pub. L. 100–647, § 1010(f)(5), substituted “other than life insurance companies” for “other than life or mutual” in heading and “other than a life insurance company” for “other than life or mutual” in text.
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, § 1899A(18), substituted “46 U.S.C. App.” for “46 U.S.C.”.
+1986—Subsec. (a)(1)(B). Pub. L. 99–514, § 1899A(18), substituted “46 U.S.C. App.” for “46 U.S.C.”.
 
-Subsec. (a)(1)(C). Pub. L. 99–514, § 645(a)(1), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 99–514, § 645(a)(1), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 99–514, § 645(a)(4)(A), inserted “This paragraph shall not apply to active business computer software royalties.”
+Subsec. (a)(4). Pub. L. 99–514, § 645(a)(4)(A), inserted “This paragraph shall not apply to active business computer software royalties.”
 
-Subsec. (b)(3)(E). Pub. L. 99–514, § 645(a)(4)(B), added subpar. (E).
+Subsec. (b)(3)(E). Pub. L. 99–514, § 645(a)(4)(B), added subpar. (E).
 
-Subsec. (d). Pub. L. 99–514, § 645(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 99–514, § 645(a)(2), added subsec. (d).
 
 1984—Subsec. (a)(1)(C). Pub. L. 98–369 struck out subpar. (C) providing for nonapplication of par. (1) to dividends to which section 302(b)(4) would apply if the corporation were an individual.
 
 1982—(a)(1)(C). Pub. L. 97–248 added subpar. (C).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, § 1901(b)(32)(D), inserted in subpar. (B) “(46 U.S.C. 1161 or 1177)” after “Merchant Marine Act, 1936”, and struck out subpar. (C) relating to a dividend distribution of divested stock.
+1976—Subsec. (a)(1). Pub. L. 94–455, § 1901(b)(32)(D), inserted in subpar. (B) “(46 U.S.C. 1161 or 1177)” after “Merchant Marine Act, 1936”, and struck out subpar. (C) relating to a dividend distribution of divested stock.
 
 Subsec. (a)(4). Pub. L. 94–553 struck out “(other than by reason of section 2 or 6 thereof)” after “title 17 of the United States Code”.
 
-Subsec. (a)(5)(B). Pub. L. 94–455, § 211(a), inserted “In the case of a producer who actually participates in the production of the film, such term includes an interest in the proceeds or profits from the film, but only to the extent such interest is attributable to such active participation”.
+Subsec. (a)(5)(B). Pub. L. 94–455, § 211(a), inserted “In the case of a producer who actually participates in the production of the film, such term includes an interest in the proceeds or profits from the film, but only to the extent such interest is attributable to such active participation”.
 
-Subsec. (a)(6). Pub. L. 94–455, § 2106(a), redesignated existing provisions as subpars. (A), (B), and (C) and, as redesignated, inserted in subpar. (A) “tangible” after “right to use” and in subpar. (C) inserted exclusions from income embodied in cl. (ii).
+Subsec. (a)(6). Pub. L. 94–455, § 2106(a), redesignated existing provisions as subpars. (A), (B), and (C) and, as redesignated, inserted in subpar. (A) “tangible” after “right to use” and in subpar. (C) inserted exclusions from income embodied in cl. (ii).
 
-Subsec. (b)(2)(A), (B), (D). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(2)(A), (B), (D). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (a)(2). Pub. L. 89–809, § 206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
+1966—Subsec. (a)(2). Pub. L. 89–809, § 206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
 
-Subsec. (b)(1)(C). Pub. L. 89–809, § 104(h)(2), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 89–809, § 104(h)(2), added subpar. (C).
 
-Subsec. (b)(2)(D). Pub. L. 89–809, § 206(b)(2), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 89–809, § 206(b)(2), added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 89–809, § 206(a), struck out “amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B)).” after “but does not include”, and added subpars. (A) to (D).
+Subsec. (b)(3). Pub. L. 89–809, § 206(a), struck out “amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B)).” after “but does not include”, and added subpars. (A) to (D).
 
-1964—Subsec. (a). Pub. L. 88–272, § 225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
+1964—Subsec. (a). Pub. L. 88–272, § 225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
 
 Subsec. (a)(2). Pub. L. 88–484 inserted sentence requiring royalties received for the use of, or for the privilege of using, a patent, invention, model, or design (whether or not patented), secret formula or process, or any other similar property right to be treated as rent, if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers, and if the amount (computed without regard to this sentence) constituting rent from such leases to customers meets the requirements of subparagraph (A).
 
-Subsec. (b). Pub. L. 88–272, § 225(d), added subsec. (b). Former subsec. (b), which provided that gross income and personal holding company income determined with respect to transactions relating to gains from stock and security transactions, and with respect to transactions relating to gains from commodity transactions, should include only the excess of gains over losses from such transactions, was struck out.
+Subsec. (b). Pub. L. 88–272, § 225(d), added subsec. (b). Former subsec. (b), which provided that gross income and personal holding company income determined with respect to transactions relating to gains from stock and security transactions, and with respect to transactions relating to gains from commodity transactions, should include only the excess of gains over losses from such transactions, was struck out.
 
-Subsec. (d). Pub. L. 88–272, § 225(k)(2), struck out subsec. (d) which related to special adjustment on disposition of antitrust stock received as a dividend.
+Subsec. (d). Pub. L. 88–272, § 225(k)(2), struck out subsec. (d) which related to special adjustment on disposition of antitrust stock received as a dividend.
 
 1962—Subsec. (a)(1). Pub. L. 87–403 prescribed conditions making inapplicable the provisions of the paragraph to dividend distribution of divested stock.
 
 Subsec. (d). Pub. L. 87–403 added subsec. (d).
 
-1960—Subsec. (a)(1). Pub. L. 86–435, § 1(b)(1), excluded copyright royalties.
+1960—Subsec. (a)(1). Pub. L. 86–435, § 1(b)(1), excluded copyright royalties.
 
-Subsec. (a)(6). Pub. L. 86–435, § 1(b)(2), inserted sentence providing that copyright royalties constitute personal holding company income.
+Subsec. (a)(6). Pub. L. 86–435, § 1(b)(2), inserted sentence providing that copyright royalties constitute personal holding company income.
 
-Subsec. (a)(9). Pub. L. 86–435, § 1(a), added par. (9).
+Subsec. (a)(9). Pub. L. 86–435, § 1(a), added par. (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1191,7 +1191,7 @@ Amendment by Pub. L. 119–21 applicable to amounts paid or incurred in taxable 
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. B, title II, § 207(b), Dec. 19, 2014, 128 Stat. 4072, provided that: “The amendments made by this Act [probably means this section, section 207 of title II of div. B of Pub. L. 113–295, which amended this section] shall apply to taxable years ending on or after the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–295, div. B, title II, § 207(b), Dec. 19, 2014, 128 Stat. 4072, provided that: “The amendments made by this Act [probably means this section, section 207 of title II of div. B of Pub. L. 113–295, which amended this section] shall apply to taxable years ending on or after the date of the enactment of this Act [Dec. 19, 2014].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1205,11 +1205,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Amendment by section 1010(f)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, § 6279(b), Nov. 10, 1988, 102 Stat. 3754, provided that: “The amendments made by this section [amending this section] shall apply to interest received after the date of the enactment of this Act [Nov. 10, 1988], in taxable years ending after such date.”
+Pub. L. 100–647, title VI, § 6279(b), Nov. 10, 1988, 102 Stat. 3754, provided that: “The amendments made by this section [amending this section] shall apply to interest received after the date of the enactment of this Act [Nov. 10, 1988], in taxable years ending after such date.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 645(e), Oct. 22, 1986, 100 Stat. 2292, provided that: “The amendments made by subsection (a) [amending this section and section 553 of this title] shall apply to royalties received before, on, and after December 31, 1986.”
+Pub. L. 99–514, title VI, § 645(e), Oct. 22, 1986, 100 Stat. 2292, provided that: “The amendments made by subsection (a) [amending this section and section 553 of this title] shall apply to royalties received before, on, and after December 31, 1986.”
 
 **Effective Date of 1984 Amendment**
 
@@ -1223,21 +1223,21 @@ Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, w
 
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding section 101 of Title 17, Copyrights.
 
-Pub. L. 94–455, title II, § 211(b), Oct. 4, 1976, 90 Stat. 1545, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years ending on or after December 31, 1975.”
+Pub. L. 94–455, title II, § 211(b), Oct. 4, 1976, 90 Stat. 1545, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years ending on or after December 31, 1975.”
 
 Amendment by section 1901(b)(32)(D) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, § 2106(b), Oct. 4, 1976, 90 Stat. 1903, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XXI, § 2106(b), Oct. 4, 1976, 90 Stat. 1903, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1976.”
 
 **Effective Date of 1966 Amendment**
 
 Amendment by section 104(h)(2) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-Pub. L. 89–809, title II, § 206(c), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966]. Such amendments shall also apply, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may prescribe), to taxable years beginning on or before such date and ending after December 31, 1965.”
+Pub. L. 89–809, title II, § 206(c), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966]. Such amendments shall also apply, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may prescribe), to taxable years beginning on or before such date and ending after December 31, 1965.”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–484, § 3(b), Aug. 22, 1964, 78 Stat. 598, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–484, § 3(b), Aug. 22, 1964, 78 Stat. 598, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(*l*) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
@@ -1247,11 +1247,11 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–435, § 2, Apr. 22, 1960, 74 Stat. 78, provided that: “The amendments made by the first section of this Act [amending this section and sections 544 and 553 of this title] shall apply only with respect to taxable years beginning after December 31, 1959.”
+Pub. L. 86–435, § 2, Apr. 22, 1960, 74 Stat. 78, provided that: “The amendments made by the first section of this Act [amending this section and sections 544 and 553 of this title] shall apply only with respect to taxable years beginning after December 31, 1959.”
 
 **Treatment of Certain Bank Holding Companies**
 
-Pub. L. 100–647, title VI, § 6280, Nov. 10, 1988, 102 Stat. 3754, provided that:
+Pub. L. 100–647, title VI, § 6280, Nov. 10, 1988, 102 Stat. 3754, provided that:
 
 > **“(a) General Rule.—** For purposes of subtitle A of the 1986 Code, the term ‘personal holding company income’ shall not include any dividend received by a qualified bank holding company from a 25-percent owned bank during any taxable year ending in 1989 or 1990.
 
@@ -1263,7 +1263,7 @@ Pub. L. 100–647, title VI, § 6280, Nov. 10, 1988, 102 Stat. 3754, provided 
 
 **Special Rules for Broker-Dealers, Royalties Received by Qualified Taxpayer, and Treatment of Active Business Computer Royalties for S Corporation Purposes**
 
-Pub. L. 99–514, title VI, § 645(b)–(d), Oct. 22, 1986, 100 Stat. 2292, provided that:
+Pub. L. 99–514, title VI, § 645(b)–(d), Oct. 22, 1986, 100 Stat. 2292, provided that:
 
 > **“(b) Special Rules for Broker-Dealers.—** In the case of a broker-dealer which is part of an affiliated group which files a consolidated Federal income tax return, the common parent of which was incorporated in Nevada on January 27, 1972, the personal holding company income (within the meaning of section 543 of the Internal Revenue Code of 1986) of such broker-dealer, shall not include any interest received after the date of the enactment of this Act [Oct. 22, 1986] with respect to—
 
@@ -1283,11 +1283,11 @@ Pub. L. 99–514, title VI, § 645(b)–(d), Oct. 22, 1986, 100 Stat. 2292, pr
 
 > **“(d) Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes.—** In the case of a taxpayer which was incorporated on May 3, 1977, in California and which elected to be taxed as an S corporation for its taxable year ending on December 31, 1985, any active business computer royalties (within the meaning of section 543(d) of the Internal Revenue Code of 1986 as added by this Act) which are received by the taxpayer in taxable years beginning after December 31, 1984, shall not be treated as passive investment income (within the meaning of section 1362(d)(3)(D) [now section 1362(d)(3)(C)]) for purposes of subchapter S of chapter 1 of such Code.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 544. Rules for determining stock ownership
+### § 544. Rules for determining stock ownership
 
 **(a) Constructive ownership** For purposes of determining whether a corporation is a personal holding company, insofar as such determination is based on stock ownership under section 542(a)(2), section 543(a)(7), section 543(a)(6), or section 543(a)(4)—
 
@@ -1329,7 +1329,7 @@ If stock may be considered as owned by an individual under either paragraph (2) 
 
 The requirement in paragraphs (1), (2), (3), and (4) that all convertible securities must be included if any are to be included shall be subject to the exception that, where some of the outstanding securities are convertible only after a later date than in the case of others, the class having the earlier conversion date may be included although the others are not included, but no convertible securities shall be included unless all outstanding securities having a prior conversion date are also included.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 188; Pub. L. 86–435, § 1(c), (d), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, § 225(k)(3), Feb. 26, 1964, 78 Stat. 93.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 188; Pub. L. 86–435, § 1(c), (d), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, § 225(k)(3), Feb. 26, 1964, 78 Stat. 93.)
 
 **Editorial Notes**
 
@@ -1337,11 +1337,11 @@ The requirement in paragraphs (1), (2), (3), and (4) that all convertible securi
 
 1964—Pub. L. 88–272 substituted “section 543(a)(7)” for “section 543(a)(5)”, and “section 543(a)(4)” for “section 543(a)(9),” wherever appearing.
 
-1960—Subsec. (a). Pub. L. 86–435, § 1(c)(1), inserted reference to section 543(a)(9) in introductory provisions.
+1960—Subsec. (a). Pub. L. 86–435, § 1(c)(1), inserted reference to section 543(a)(9) in introductory provisions.
 
-Subsec. (a)(4)(B). Pub. L. 86–435, § 1(c)(2), included reference to section 543(a)(9).
+Subsec. (a)(4)(B). Pub. L. 86–435, § 1(c)(2), included reference to section 543(a)(9).
 
-Subsec. (b). Pub. L. 86–435, § 1(d), added par. (4), and inserted reference to par. (4) in last sentence.
+Subsec. (b). Pub. L. 86–435, § 1(d), added par. (4), and inserted reference to par. (4) in last sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1353,7 +1353,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 86–435 applicable only with respect to taxable years beginning after Dec. 31, 1959, see section 2 of Pub. L. 86–435, set out as a note under section 543 of this title.
 
-### § 545. Undistributed personal holding company income
+### § 545. Undistributed personal holding company income
 
 **(a) Definition**
 
@@ -1399,7 +1399,7 @@ In the case of a foreign corporation, paragraph (5) shall be applied by taking i
 
 In the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), the taxable income for purposes of subsection (a) shall be the income which constitutes personal holding company income under section 543(a)(7), reduced by the deductions attributable to such income, and adjusted, with respect to such income, in the manner provided in subsection (b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 189; Pub. L. 85–866, title I, § 32(a), (b), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 87–403, § 3(d), Feb. 2, 1962, 76 Stat. 7; Pub. L. 87–834, § 9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §§ 207(b)(5), 209(c)(2), 225(i)(1), (2), Feb. 26, 1964, 78 Stat. 42, 46, 90; Pub. L. 89–719, title I, § 101(b)(2), Nov. 2, 1966, 80 Stat. 1132; Pub. L. 89–809, title I, § 104(h)(3), Nov. 13, 1966, 80 Stat. 1560; Pub. L. 91–172, title II, § 201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title X, § 1033(b)(4), title XIX, §§ 1901(a)(77), (b)(20)(B), (32)(E), (33)(D), 1906(b)(13)(A), 1951(b)(9)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834, 1839; Pub. L. 97–448, title I, § 102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, title XII, § 1225(b), Oct. 22, 1986, 100 Stat. 2559; Pub. L. 101–508, title XI, § 11801(a)(24), (c)(10)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 109–280, title XII, § 1206(b)(2), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 113–295, div. A, title II, § 221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, § 14301(c)(4), Dec. 22, 2017, 131 Stat. 2222.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 189; Pub. L. 85–866, title I, § 32(a), (b), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 87–403, § 3(d), Feb. 2, 1962, 76 Stat. 7; Pub. L. 87–834, § 9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §§ 207(b)(5), 209(c)(2), 225(i)(1), (2), Feb. 26, 1964, 78 Stat. 42, 46, 90; Pub. L. 89–719, title I, § 101(b)(2), Nov. 2, 1966, 80 Stat. 1132; Pub. L. 89–809, title I, § 104(h)(3), Nov. 13, 1966, 80 Stat. 1560; Pub. L. 91–172, title II, § 201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title X, § 1033(b)(4), title XIX, §§ 1901(a)(77), (b)(20)(B), (32)(E), (33)(D), 1906(b)(13)(A), 1951(b)(9)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834, 1839; Pub. L. 97–448, title I, § 102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, title XII, § 1225(b), Oct. 22, 1986, 100 Stat. 2559; Pub. L. 101–508, title XI, § 11801(a)(24), (c)(10)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 109–280, title XII, § 1206(b)(2), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 113–295, div. A, title II, § 221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, § 14301(c)(4), Dec. 22, 2017, 131 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -1417,49 +1417,49 @@ In the case of a foreign corporation all of the outstanding stock of which durin
 
 1983—Subsec. (b)(2). Pub. L. 97–448 substituted “10-percent” for “5-percent”.
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1033(b)(4), 1901(a)(77)(A), struck out “(other than excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “Federal income and excess profits taxes”; substituted “902(a) or 960(a)(1)” for “902(a)(1) or 960(a)(1)(C)” after “corporation under section”; and struck out provisions after “prior income tax law” relating to election by taxpayer who paid Federal income and excess profits taxes to deduct payments, when made, for purposes of computing subchapter A net income or, for a taxable year ending after June 30, 1954, to deduct such taxes when accrued, such election being irrevocable and applied to taxable year for which election was made and to all subsequent taxable years.
+1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1033(b)(4), 1901(a)(77)(A), struck out “(other than excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “Federal income and excess profits taxes”; substituted “902(a) or 960(a)(1)” for “902(a)(1) or 960(a)(1)(C)” after “corporation under section”; and struck out provisions after “prior income tax law” relating to election by taxpayer who paid Federal income and excess profits taxes to deduct payments, when made, for purposes of computing subchapter A net income or, for a taxable year ending after June 30, 1954, to deduct such taxes when accrued, such election being irrevocable and applied to taxable year for which election was made and to all subsequent taxable years.
 
-Subsec. (b)(2). Pub. L. 94–455, § 1901(b)(20)(B)(ii), substituted “paragraph (6)” for “paragraph (8)” after “amount disallowed under”.
+Subsec. (b)(2). Pub. L. 94–455, § 1901(b)(20)(B)(ii), substituted “paragraph (6)” for “paragraph (8)” after “amount disallowed under”.
 
-Subsec. (b)(5). Pub. L. 94–455, § 1901(b)(33)(D), substituted “Net” for “Long-term” after “(5)”.
+Subsec. (b)(5). Pub. L. 94–455, § 1901(b)(33)(D), substituted “Net” for “Long-term” after “(5)”.
 
-Subsec. (b)(6). Pub. L. 94–455, §§ 1901(b)(20)(B)(i), 1906(b)(13)(A), struck out par. (6) relating to deduction allowed to bank affiliates, redesignated former par. (8) as (6) and, as redesignated, struck out “or his delegate” in two places after “Secretary”.
+Subsec. (b)(6). Pub. L. 94–455, §§ 1901(b)(20)(B)(i), 1906(b)(13)(A), struck out par. (6) relating to deduction allowed to bank affiliates, redesignated former par. (8) as (6) and, as redesignated, struck out “or his delegate” in two places after “Secretary”.
 
-Subsec. (b)(7). Pub. L. 94–455, § 1901(a)(77)(B), struck out par. (7) relating to payment of indebtedness incurred prior to January 1, 1934.
+Subsec. (b)(7). Pub. L. 94–455, § 1901(a)(77)(B), struck out par. (7) relating to payment of indebtedness incurred prior to January 1, 1934.
 
-Subsec. (b)(8). Pub. L. 94–455, § 1901(b)(20)(B)(i), redesignated par. (8) as (6).
+Subsec. (b)(8). Pub. L. 94–455, § 1901(b)(20)(B)(i), redesignated par. (8) as (6).
 
-Subsec. (b)(9). Pub. L. 94–455, § 1951(b)(9)(A), struck out par. (9) relating to the deduction of the amount of a lien in favor of the United States.
+Subsec. (b)(9). Pub. L. 94–455, § 1951(b)(9)(A), struck out par. (9) relating to the deduction of the amount of a lien in favor of the United States.
 
-Subsec. (b)(10), (11). Pub. L. 94–455, § 1901(b)(32)(E), struck out par. (10) relating to deduction for distributions of divested stock, and struck out par. (11) relating to special adjustment on the disposition of antitrust stock received as a dividend.
+Subsec. (b)(10), (11). Pub. L. 94–455, § 1901(b)(32)(E), struck out par. (10) relating to deduction for distributions of divested stock, and struck out par. (11) relating to special adjustment on the disposition of antitrust stock received as a dividend.
 
-Subsec. (c)(2)(A). Pub. L. 94–455, § 1901(a)(77)(C), substituted “February 26, 1964” for “the date of enactment of this subsection” after “years ending before”.
+Subsec. (c)(2)(A). Pub. L. 94–455, § 1901(a)(77)(C), substituted “February 26, 1964” for “the date of enactment of this subsection” after “years ending before”.
 
-Subsec. (c)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(5). Pub. L. 94–455, § 1901(b)(20)(B)(iii), substituted “subsection (b)(6)” for “subsection (b)(8)” after “company income under”.
+Subsec. (c)(5). Pub. L. 94–455, § 1901(b)(20)(B)(iii), substituted “subsection (b)(6)” for “subsection (b)(8)” after “company income under”.
 
 1969—Subsec. (b)(2). Pub. L. 91–172 substituted “section 170(b)(1)(A), (B), and (D)”, “section 170(b)(2) and (d)(1)” for “section 170(b)(1)(A) and (B)” and “section 170(b)(2) and (5)”, respectively, in provisions of first sentence setting out the sections appropriate to the computation of the deduction, and in provisions of second sentence describing applicability of terms for purposes of this paragraph, substituted “contribution base” and “section 170(b)(2) and (d)(1)” for “adjusted gross income” and “the first sentence of section 170(b)(2) and (5),” respectively.
 
-1966—Subsec. (a). Pub. L. 89–809, § 104(h)(3)(A), substituted “in the manner provided in subsections (b), (c), and (d)” for “in the manner provided in subsection (b) and (c)” and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
+1966—Subsec. (a). Pub. L. 89–809, § 104(h)(3)(A), substituted “in the manner provided in subsections (b), (c), and (d)” for “in the manner provided in subsection (b) and (c)” and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
 
 Subsec. (b)(9). Pub. L. 89–719 substituted “section 6323(f)” for “section 6323(a)(1), (2), or (3)”.
 
-Subsec. (d). Pub. L. 89–809, § 104(h)(3)(B), added subsec. (d).
+Subsec. (d). Pub. L. 89–809, § 104(h)(3)(B), added subsec. (d).
 
-1964—Subsec. (a). Pub. L. 88–272, § 225(i)(1), inserted reference to subsection (c).
+1964—Subsec. (a). Pub. L. 88–272, § 225(i)(1), inserted reference to subsection (c).
 
-Subsec. (b)(1), (2). Pub. L. 88–272, §§ 207(b)(5), 209(c)(2), substituted “section 275(a)(4)” for “section 164(b)(6)” in par. (1), and inserted reference to section 170(b)(5) in par. (2).
+Subsec. (b)(1), (2). Pub. L. 88–272, §§ 207(b)(5), 209(c)(2), substituted “section 275(a)(4)” for “section 164(b)(6)” in par. (1), and inserted reference to section 170(b)(5) in par. (2).
 
-Subsec. (c). Pub. L. 88–272, § 225(i)(2), added subsec. (c).
+Subsec. (c). Pub. L. 88–272, § 225(i)(2), added subsec. (c).
 
 1962—Subsec. (b)(1). Pub. L. 87–834 substituted “accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a)(1) or 960(a)(1)(C) for the taxable year” for “accrued during the taxable year”.
 
 Subsec. (b)(10), (11). Pub. L. 87–403 added pars. (10) and (11).
 
-1958—Subsec. (b)(2). Pub. L. 85–866, § 32(a), substituted in first sentence “, but in computing such deduction the limitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b) shall not apply” for “but with the limitations in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2)”, and inserted in second sentence “(other than the 5-percent limitation)” and “the first sentence” after “with the adjustments” and “provided in”, respectively.
+1958—Subsec. (b)(2). Pub. L. 85–866, § 32(a), substituted in first sentence “, but in computing such deduction the limitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b) shall not apply” for “but with the limitations in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2)”, and inserted in second sentence “(other than the 5-percent limitation)” and “the first sentence” after “with the adjustments” and “provided in”, respectively.
 
-Subsec. (b)(4). Pub. L. 85–866, § 32(b), inserted “computed without the deductions provided in part VIII (except section 248) of subchapter B”.
+Subsec. (b)(4). Pub. L. 85–866, § 32(b), inserted “computed without the deductions provided in part VIII (except section 248) of subchapter B”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1519,21 +1519,21 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 Amendment by section 32(a) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Pub. L. 85–866, title I, § 32(c), Sept. 2, 1958, 72 Stat. 1632, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (b) of this section [amending this section] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] for taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, § 32(c), Sept. 2, 1958, 72 Stat. 1632, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (b) of this section [amending this section] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] for taxable years beginning after December 31, 1957.”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Pub. L. 94–455, title XIX, § 1951(b)(9)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: “Notwithstanding subparagraph (A) [amending this section], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its income by reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
+Pub. L. 94–455, title XIX, § 1951(b)(9)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: “Notwithstanding subparagraph (A) [amending this section], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its income by reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
 
-### § 546. Income not placed on annual basis
+### § 546. Income not placed on annual basis
 
 Section 443(b) (relating to computation of tax on change of annual accounting period) shall not apply in the computation of the personal holding company tax imposed by section 541.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 191.)
 
-### § 547. Deduction for deficiency dividends
+### § 547. Deduction for deficiency dividends
 
 **(a) General rule**
 
@@ -1595,15 +1595,15 @@ No distraint or proceeding in court shall be begun for the collection of an amou
 
 No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of the deficiency is due to fraud with intent to evade tax, or to wilful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 191; Pub. L. 94–455, title XIX, §§ 1901(a)(78), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1777, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 191; Pub. L. 94–455, title XIX, §§ 1901(a)(78), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1777, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsecs. (c)(3), (e), (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsecs. (c)(3), (e), (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (h). Pub. L. 94–455, § 1901(a)(78), struck out subsec. (h) relating to the effective date of provisions concerning deduction of deficiency dividends.
+Subsec. (h). Pub. L. 94–455, § 1901(a)(78), struck out subsec. (h) relating to the effective date of provisions concerning deduction of deficiency dividends.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1613,23 +1613,23 @@ Amendment by section 1901(a)(78) of Pub. L. 94–455 applicable with respect to 
 
 ## [PART III—REPEALED]
 
-### [§§ 551 to 558. Repealed. Pub. L. 108–357, title IV, § 413(a)(1), Oct. 22, 2004, 118 Stat. 1506]
+### [§§ 551 to 558. Repealed. Pub. L. 108–357, title IV, § 413(a)(1), Oct. 22, 2004, 118 Stat. 1506]
 
-Section 551, acts Aug. 16, 1954, ch. 736, 68A Stat. 193; Pub. L. 88–272, title II, § 225(f)(4), Feb. 26, 1964, 78 Stat. 88; Pub. L. 94–455, title XIX, § 1901(a)(79), (b)(1)(F)(i), (12)(A), Oct. 4, 1976, 90 Stat. 1777, 1790, 1795; Pub. L. 98–369, div. A, title I, § 132(b), July 18, 1984, 98 Stat. 666; Pub. L. 99–514, title XII, § 1235(e), title XVIII, § 1810(h)(2), Oct. 22, 1986, 100 Stat. 2575, 2829; Pub. L. 100–647, title I, § 1012(bb)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3533; Pub. L. 105–34, title XI, § 1122(d)(2), Aug. 5, 1997, 111 Stat. 977, provided for taxation of foreign personal holding company income to United States shareholders.
+Section 551, acts Aug. 16, 1954, ch. 736, 68A Stat. 193; Pub. L. 88–272, title II, § 225(f)(4), Feb. 26, 1964, 78 Stat. 88; Pub. L. 94–455, title XIX, § 1901(a)(79), (b)(1)(F)(i), (12)(A), Oct. 4, 1976, 90 Stat. 1777, 1790, 1795; Pub. L. 98–369, div. A, title I, § 132(b), July 18, 1984, 98 Stat. 666; Pub. L. 99–514, title XII, § 1235(e), title XVIII, § 1810(h)(2), Oct. 22, 1986, 100 Stat. 2575, 2829; Pub. L. 100–647, title I, § 1012(bb)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3533; Pub. L. 105–34, title XI, § 1122(d)(2), Aug. 5, 1997, 111 Stat. 977, provided for taxation of foreign personal holding company income to United States shareholders.
 
-Section 552, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 132(c)(2), July 18, 1984, 98 Stat. 666; Pub. L. 99–514, title XII, § 1222(b), title XVIII, § 1810(h)(1), Oct. 22, 1986, 100 Stat. 2557, 2829; Pub. L. 100–647, title I, § 1012(bb)(1)(C), Nov. 10, 1988, 102 Stat. 3533, defined “foreign personal holding company”.
+Section 552, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 132(c)(2), July 18, 1984, 98 Stat. 666; Pub. L. 99–514, title XII, § 1222(b), title XVIII, § 1810(h)(1), Oct. 22, 1986, 100 Stat. 2557, 2829; Pub. L. 100–647, title I, § 1012(bb)(1)(C), Nov. 10, 1988, 102 Stat. 3533, defined “foreign personal holding company”.
 
-Section 553, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 86–435, § 1(e), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, § 225(e), Feb. 26, 1964, 78 Stat. 85; Pub. L. 94–455, title XIX, § 1901(b)(32)(F), Oct. 4, 1976, 90 Stat. 1800; Pub. L. 99–514, title VI, § 645(a)(3), Oct. 22, 1986, 100 Stat. 2291, related to determination of foreign personal holding company income.
+Section 553, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 86–435, § 1(e), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, § 225(e), Feb. 26, 1964, 78 Stat. 85; Pub. L. 94–455, title XIX, § 1901(b)(32)(F), Oct. 4, 1976, 90 Stat. 1800; Pub. L. 99–514, title VI, § 645(a)(3), Oct. 22, 1986, 100 Stat. 2291, related to determination of foreign personal holding company income.
 
-Section 554, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title II, § 225(e), Feb. 26, 1964, 78 Stat. 86; Pub. L. 98–369, div. A, title I, § 132(a), July 18, 1984, 98 Stat. 665, related to constructive ownership of stock and treatment of convertible securities as outstanding stock.
+Section 554, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title II, § 225(e), Feb. 26, 1964, 78 Stat. 86; Pub. L. 98–369, div. A, title I, § 132(a), July 18, 1984, 98 Stat. 665, related to constructive ownership of stock and treatment of convertible securities as outstanding stock.
 
 Section 555, act Aug. 16, 1954, ch. 736, 68A Stat. 196, related to determination of gross income of foreign personal holding companies.
 
-Section 556, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 85–866, title I, § 33(a), (b)(1), (c)(1), Sept. 2, 1958, 72 Stat. 1632; Pub. L. 87–403, § 3(e), Feb. 2, 1962, 76 Stat. 7; Pub. L. 88–272, title II, §§ 207(b)(6), 209(c)(2), Feb. 26, 1964, 78 Stat. 42, 46; Pub. L. 91–172, title II, § 201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title XIX, §§ 1901(a)(80), (b)(32)(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1778, 1800, 1834; Pub. L. 97–448, title I, § 102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 101–508, title XI, § 11802(d)(1), Nov. 5, 1990, 104 Stat. 1388–529, related to undistributed foreign personal holding company income.
+Section 556, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 85–866, title I, § 33(a), (b)(1), (c)(1), Sept. 2, 1958, 72 Stat. 1632; Pub. L. 87–403, § 3(e), Feb. 2, 1962, 76 Stat. 7; Pub. L. 88–272, title II, §§ 207(b)(6), 209(c)(2), Feb. 26, 1964, 78 Stat. 42, 46; Pub. L. 91–172, title II, § 201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title XIX, §§ 1901(a)(80), (b)(32)(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1778, 1800, 1834; Pub. L. 97–448, title I, § 102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 101–508, title XI, § 11802(d)(1), Nov. 5, 1990, 104 Stat. 1388–529, related to undistributed foreign personal holding company income.
 
 Section 557, act Aug. 16, 1954, ch. 736, 68A Stat. 198, related to inapplicability of section 443(b) of this title in the computation of income.
 
-Section 558, added Pub. L. 85–866, title I, § 33(d)(1), Sept. 2, 1958, 72 Stat. 1632, related to returns of officers, directors, and shareholders of foreign personal holding companies.
+Section 558, added Pub. L. 85–866, title I, § 33(d)(1), Sept. 2, 1958, 72 Stat. 1632, related to returns of officers, directors, and shareholders of foreign personal holding companies.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1639,7 +1639,7 @@ Repeal applicable to taxable years of foreign corporations beginning after Dec. 
 
 ## PART IV—DEDUCTION FOR DIVIDENDS PAID
 
-### § 561. Definition of deduction for dividends paid
+### § 561. Definition of deduction for dividends paid
 
 **(a) General rule** The deduction for dividends paid shall be the sum of—
 
@@ -1653,7 +1653,7 @@ Repeal applicable to taxable years of foreign corporations beginning after Dec. 
 
 In determining the deduction for dividends paid, the rules provided in section 562 (relating to rules applicable in determining dividends eligible for dividends paid deduction) and section 563 (relating to dividends paid after the close of the taxable year) shall be applicable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 87–403, § 3(f), Feb. 2, 1962, 76 Stat. 8; Pub. L. 94–455, title XIX, § 1901(b)(32)(H), Oct. 4, 1976, 90 Stat. 1800.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 87–403, § 3(f), Feb. 2, 1962, 76 Stat. 8; Pub. L. 94–455, title XIX, § 1901(b)(32)(H), Oct. 4, 1976, 90 Stat. 1800.)
 
 **Editorial Notes**
 
@@ -1673,7 +1673,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 87–403 applicable only with respect to distributions made after Feb. 2, 1962, see section 3(g) of Pub. L. 87–403, set out as a note under section 312 of this title.
 
-### § 562. Rules applicable in determining dividends eligible for dividends paid deduction
+### § 562. Rules applicable in determining dividends eligible for dividends paid deduction
 
 **(a) General rule**
 
@@ -1719,29 +1719,29 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 **(B)** such failure is of a type of failure which the Secretary has identified for purposes of this paragraph as being described in subparagraph (A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, § 225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, § 222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, § 102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, § 657(a), title XVIII, § 1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, § 413(c)(9), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 111–325, title III, § 307(a), (b), Dec. 22, 2010, 124 Stat. 3550; Pub. L. 114–113, div. Q, title III, §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, 129 Stat. 3093, 3097.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, § 225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, § 222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, § 102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, § 657(a), title XVIII, § 1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, § 413(c)(9), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 111–325, title III, § 307(a), (b), Dec. 22, 2010, 124 Stat. 3550; Pub. L. 114–113, div. Q, title III, §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, 129 Stat. 3093, 3097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
-2015—Subsec. (c). Pub. L. 114–113, § 314(a), (b), designated existing provisions as par. (1), inserted heading and “or a publicly offered REIT” after “a publicly offered regulated investment company (as defined in section 67(c)(2)(B))” in text, and added par. (2).
+2015—Subsec. (c). Pub. L. 114–113, § 314(a), (b), designated existing provisions as par. (1), inserted heading and “or a publicly offered REIT” after “a publicly offered regulated investment company (as defined in section 67(c)(2)(B))” in text, and added par. (2).
 
-Subsec. (e). Pub. L. 114–113, § 315(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (e). Pub. L. 114–113, § 315(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 114–113, § 320(b), substituted “deduction—” for “deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.” and added subpars. (A) and (B).
+Subsec. (e)(1). Pub. L. 114–113, § 320(b), substituted “deduction—” for “deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.” and added subpars. (A) and (B).
 
 2010—Subsec. (c). Pub. L. 111–325 substituted “Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount” for “The amount” in first sentence and inserted “(other than a publicly offered regulated investment company (as so defined))” after “regulated investment company” in second sentence.
 
 2004—Subsec. (b)(1). Pub. L. 108–357 struck out “or a foreign personal holding company described in section 552” after “section 542” in introductory provisions.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, § 1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
+1986—Subsec. (b)(1). Pub. L. 99–514, § 1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
 
-Subsec. (c). Pub. L. 99–514, § 657(a), inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
+Subsec. (c). Pub. L. 99–514, § 657(a), inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
 
 1983—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
@@ -1753,15 +1753,15 @@ Subsec. (c). Pub. L. 99–514, § 657(a), inserted at end “In the case of a 
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 314(c), Dec. 18, 2015, 129 Stat. 3093, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2014.”
+Pub. L. 114–113, div. Q, title III, § 314(c), Dec. 18, 2015, 129 Stat. 3093, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2014.”
 
-Pub. L. 114–113, div. Q, title III, § 315(b), Dec. 18, 2015, 129 Stat. 3093, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 315(b), Dec. 18, 2015, 129 Stat. 3093, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2015.”
 
-Pub. L. 114–113, div. Q, title III, § 320(c), Dec. 18, 2015, 129 Stat. 3097, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 320(c), Dec. 18, 2015, 129 Stat. 3097, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to taxable years beginning after December 31, 2015.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–325, title III, § 307(c), Dec. 22, 2010, 124 Stat. 3550, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 307(c), Dec. 22, 2010, 124 Stat. 3550, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1769,9 +1769,9 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 657(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title VI, § 657(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after the date of the enactment of this Act [Oct. 22, 1986].”
 
-Pub. L. 99–514, title XVIII, § 1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to distributions after September 27, 1985.”
+Pub. L. 99–514, title XVIII, § 1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to distributions after September 27, 1985.”
 
 **Effective Date of 1983 Amendment**
 
@@ -1785,11 +1785,11 @@ Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, w
 
 Amendment Pub. L. 88–272 applicable to distributions made in any taxable year of the distributing corporation beginning after Dec. 31, 1963, see section 225(*l*) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 563. Rules relating to dividends paid after close of taxable year
+### § 563. Rules relating to dividends paid after close of taxable year
 
 **(a) Accumulated earnings tax**
 
@@ -1805,7 +1805,7 @@ In the determination of the dividends paid deduction for purposes of the accumul
 
 For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the fourth month following the close of the taxable year shall be considered as made on the last day of such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 199; Pub. L. 91–172, title IX, § 914(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 101–239, title VII, § 7401(b), Dec. 19, 1989, 103 Stat. 2356; Pub. L. 108–357, title IV, § 413(c)(10), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 114–41, title II, § 2006(a)(2)(B), July 31, 2015, 129 Stat. 457.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 199; Pub. L. 91–172, title IX, § 914(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 101–239, title VII, § 7401(b), Dec. 19, 1989, 103 Stat. 2356; Pub. L. 108–357, title IV, § 413(c)(10), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 114–41, title II, § 2006(a)(2)(B), July 31, 2015, 129 Stat. 457.)
 
 **Editorial Notes**
 
@@ -1815,11 +1815,11 @@ For the purpose of applying section 562(a), with respect to distributions under 
 
 2004—Subsecs. (c), (d). Pub. L. 108–357 redesignated subsec. (d) as (c), substituted “subsection (a) or (b)” for “subsection (a), (b), or (c)”, and struck out former subsec. (c) which related to foreign personal holding company tax.
 
-1989—Subsec. (c). Pub. L. 101–239, § 7401(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
+1989—Subsec. (c). Pub. L. 101–239, § 7401(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 101–239, § 7401(b)(2), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
+Subsec. (d). Pub. L. 101–239, § 7401(b)(2), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
-Pub. L. 101–239, § 7401(b)(1), redesignated former subsec. (c) as (d).
+Pub. L. 101–239, § 7401(b)(1), redesignated former subsec. (c) as (d).
 
 1969—Subsec. (b)(2). Pub. L. 91–172 substituted “20 percent” for “10 percent”.
 
@@ -1839,9 +1839,9 @@ Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporatio
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 914(b), Dec. 30, 1969, 83 Stat. 723, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, § 914(b), Dec. 30, 1969, 83 Stat. 723, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1969.”
 
-### § 564. Dividend carryover
+### § 564. Dividend carryover
 
 **(a) General rule**
 
@@ -1859,7 +1859,7 @@ For purposes of computing the dividends paid deduction under section 561, in the
 
 **(5)** The amount of the reduction specified in paragraph (4) shall be the amount of the excess of the taxable income, if any, for the first preceding taxable year over such deduction for dividends paid, if any, for the first preceding taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, § 1901(a)(81), Oct. 4, 1976, 90 Stat. 1778.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, § 1901(a)(81), Oct. 4, 1976, 90 Stat. 1778.)
 
 **Editorial Notes**
 
@@ -1873,7 +1873,7 @@ For purposes of computing the dividends paid deduction under section 561, in the
 
 Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-### § 565. Consent dividends
+### § 565. Consent dividends
 
 **(a) General rule**
 
@@ -1909,7 +1909,7 @@ Consent stock, for purposes of this section, means the class or classes of stock
 
 Preferred dividends, for purposes of this section, means a distribution (other than in complete or partial liquidation), limited in amount, which must be made on any class of stock before a further distribution (other than in complete or partial liquidation) of earnings and profits may be made within the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 

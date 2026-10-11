@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–347, title V, § 526(b)(2), Dec. 17, 2002, 116 Stat. 2970, added item 402.
+2002—Pub. L. 107–347, title V, § 526(b)(2), Dec. 17, 2002, 116 Stat. 2970, added item 402.
 
-## § 401. Exchange of census information with Bureau of Economic Analysis
+## § 401. Exchange of census information with Bureau of Economic Analysis
 
 **(a) Exchange of Information.—** The Bureau of the Census shall exchange with the Bureau of Economic Analysis of the Department of Commerce information collected under this title, and under the International Investment and Trade in Services Survey Act, that pertains to any business enterprise that is operating in the United States, if the Secretary of Commerce determines such information is appropriate to augment and improve the quality of data collected under the International Investment and Trade in Services Survey Act. Information provided to the Bureau of Economic Analysis by the Bureau of the Census shall be only those data collected directly from respondents by the Bureau of the Census.
 
@@ -29,19 +29,19 @@ retrieved: 2026-10-11
 
 **(c) Definition.—** As used in subsection (a), the terms “business enterprise” and “United States” have the meanings given those terms in section 3 of the International Investment and Trade in Services Survey Act.
 
-(Added Pub. L. 101–533, § 5(a), Nov. 7, 1990, 104 Stat. 2347.)
+(Added Pub. L. 101–533, § 5(a), Nov. 7, 1990, 104 Stat. 2347.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Investment and Trade in Services Survey Act, referred to in text, is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of Title 22, Foreign Relations and Intercourse. Section 3 of the Act is classified to section 3102 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 22 and Tables.
+The International Investment and Trade in Services Survey Act, referred to in text, is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of Title 22, Foreign Relations and Intercourse. Section 3 of the Act is classified to section 3102 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 22 and Tables.
 
-## § 402. Providing business data to Designated Statistical Agencies
+## § 402. Providing business data to Designated Statistical Agencies
 
 The Bureau of the Census may provide business data to the Bureau of Economic Analysis and the Bureau of Labor Statistics (“Designated Statistical Agencies”) if such information is required for an authorized statistical purpose and the provision is the subject of a written agreement with that Designated Statistical Agency, or their successors, as defined in section 3576(e) of title 44.
 
-(Added Pub. L. 107–347, title V, § 526(b)(1), Dec. 17, 2002, 116 Stat. 2969; amended Pub. L. 115–435, title III, § 302(c)(2), Jan. 14, 2019, 132 Stat. 5553.)
+(Added Pub. L. 107–347, title V, § 526(b)(1), Dec. 17, 2002, 116 Stat. 2969; amended Pub. L. 115–435, title III, § 302(c)(2), Jan. 14, 2019, 132 Stat. 5553.)
 
 **Editorial Notes**
 

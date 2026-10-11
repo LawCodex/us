@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY
 
-## § 3101. Congressional statement of findings and declaration of purpose
+## § 3101. Congressional statement of findings and declaration of purpose
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -45,7 +45,7 @@ It is therefore the purpose of this chapter to provide clear and unambiguous aut
 
 Nothing in this chapter is intended to restrain or deter foreign investment in the United States, United States investment abroad, or trade in services.
 
-(Pub. L. 94–472, § 2, Oct. 11, 1976, 90 Stat. 2059; Pub. L. 98–573, title III, § 306(b)(2), Oct. 30, 1984, 98 Stat. 3009; Pub. L. 101–533, § 6(A)[(a)], Nov. 7, 1990, 104 Stat. 2348.)
+(Pub. L. 94–472, § 2, Oct. 11, 1976, 90 Stat. 2059; Pub. L. 98–573, title III, § 306(b)(2), Oct. 30, 1984, 98 Stat. 3009; Pub. L. 101–533, § 6(A)[(a)], Nov. 7, 1990, 104 Stat. 2348.)
 
 **Editorial Notes**
 
@@ -53,17 +53,17 @@ Nothing in this chapter is intended to restrain or deter foreign investment in t
 
 1990—Subsec. (b). Pub. L. 101–533 inserted “to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons,” after “the impact of such investment and trade,” in first sentence.
 
-1984—Subsec. (a)(7) to (9). Pub. L. 98–573, § 306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
+1984—Subsec. (a)(7) to (9). Pub. L. 98–573, § 306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
 
-Subsec. (b). Pub. L. 98–573, § 306(b)(2)(B), substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
+Subsec. (b). Pub. L. 98–573, § 306(b)(2)(B), substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
 
-Subsec. (c). Pub. L. 98–573, § 306(b)(2)(C), inserted reference to trade in services.
+Subsec. (c). Pub. L. 98–573, § 306(b)(2)(C), inserted reference to trade in services.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–472, § 1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–573, title III, § 306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: “This Act [enacting this chapter] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
+Pub. L. 94–472, § 1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–573, title III, § 306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: “This Act [enacting this chapter] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
 
 **Executive Documents**
 
@@ -81,7 +81,7 @@ Sec. 3. Subject to the provisions of section 1 of this order, and in the absence
 
 Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act [22 U.S.C. 3103(a)(3)].
 
-## § 3102. Definitions
+## § 3102. Definitions
 
 As used in this chapter, the term—
 
@@ -107,7 +107,7 @@ As used in this chapter, the term—
 
 **(11)** “portfolio investment” means any international investment which is not direct investment.
 
-(Pub. L. 94–472, § 3, Oct. 11, 1976, 90 Stat. 2060.)
+(Pub. L. 94–472, § 3, Oct. 11, 1976, 90 Stat. 2060.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ As used in this chapter, the term—
 
 For definition of Canal Zone, referred to in par. (1), see section 3602(b) of this title.
 
-## § 3103. Presidential authority and duties
+## § 3103. Presidential authority and duties
 
 **(a) Data collection program; studies and surveys; periodic report to Congressional committees; statistical information publication** The President shall, to the extent he deems necessary and feasible—
 
@@ -123,11 +123,11 @@ For definition of Canal Zone, referred to in par. (1), see section 3602(b) of th
 
 **(2)** conduct such studies and surveys as may be necessary to prepare reports in a timely manner on specific aspects of international investment and trade in services which may have significant implications for the economic welfare and national security of the United States;
 
-**(3)** study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance 1
+**(3)** study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
-Foreign Relations 1 and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and international developments with respect to laws and regulations affecting international investment and trade in services;
+Foreign Relations 1 and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and international developments with respect to laws and regulations affecting international investment and trade in services;
 
 **(4)** conduct (not more frequently than once every five years and in addition to any other surveys conducted pursuant to paragraphs (1) and (2)) benchmark surveys with respect to trade in services between unaffiliated United States persons and foreign persons; and
 
@@ -173,33 +173,33 @@ In collecting information under this chapter, the President shall give due regar
 
 **(2)** A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
 
-(Pub. L. 94–472, § 4, Oct. 11, 1976, 90 Stat. 2060; Pub. L. 95–381, § 2, Sept. 22, 1978, 92 Stat. 726; H. Res. 89, Feb. 5, 1979; Pub. L. 97–33, §§ 1–3, Aug. 7, 1981, 95 Stat. 170; Pub. L. 97–70, Oct. 26, 1981, 95 Stat. 1045; Pub. L. 98–573, title III, § 306(b)(3), (4), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, § 6(b), (c), Nov. 7, 1990, 104 Stat. 2348.)
+(Pub. L. 94–472, § 4, Oct. 11, 1976, 90 Stat. 2060; Pub. L. 95–381, § 2, Sept. 22, 1978, 92 Stat. 726; H. Res. 89, Feb. 5, 1979; Pub. L. 97–33, §§ 1–3, Aug. 7, 1981, 95 Stat. 170; Pub. L. 97–70, Oct. 26, 1981, 95 Stat. 1045; Pub. L. 98–573, title III, § 306(b)(3), (4), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, § 6(b), (c), Nov. 7, 1990, 104 Stat. 2348.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a)(5). Pub. L. 101–533, § 6(b), inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
+1990—Subsec. (a)(5). Pub. L. 101–533, § 6(b), inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
 
-Subsec. (h). Pub. L. 101–533, § 6(c), added subsec. (h).
+Subsec. (h). Pub. L. 101–533, § 6(c), added subsec. (h).
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–573, § 306(b)(4)(A)(ii), inserted “and trade in services” after “international investment” wherever appearing.
+1984—Subsec. (a)(1), (2). Pub. L. 98–573, § 306(b)(4)(A)(ii), inserted “and trade in services” after “international investment” wherever appearing.
 
-Subsec. (a)(3). Pub. L. 98–573, § 306(b)(3), (4)(A)(i)–(iii), inserted reference to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and substituted “presentation” for “presentation relating to international investment”, inserted “and trade in services” after “international investment” in two places, and struck out “and” at end.
+Subsec. (a)(3). Pub. L. 98–573, § 306(b)(3), (4)(A)(i)–(iii), inserted reference to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and substituted “presentation” for “presentation relating to international investment”, inserted “and trade in services” after “international investment” in two places, and struck out “and” at end.
 
-Subsec. (a)(4), (5). Pub. L. 98–573, § 306(b)(4)(A)(iv), (v), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 98–573, § 306(b)(4)(A)(iv), (v), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(2)(C). Pub. L. 98–573, § 306(b)(4)(B), inserted “(including trade in both goods and services)” after “regarding trade”.
+Subsec. (b)(2)(C). Pub. L. 98–573, § 306(b)(4)(B), inserted “(including trade in both goods and services)” after “regarding trade”.
 
-Subsec. (f). Pub. L. 98–573, § 306(b)(4)(C), inserted “and trade in services” after “international investment”.
+Subsec. (f). Pub. L. 98–573, § 306(b)(4)(C), inserted “and trade in services” after “international investment”.
 
 1981—Subsec. (b). Pub. L. 97–70 substituted “year” for “calendar year” in five places in provisions preceding par. (1).
 
-Pub. L. 97–33, § 1, substituted “With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering calendar year 1980, a benchmark survey covering calendar year 1987, and benchmark surveys covering every fifth calendar year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering calendar year 1982, a benchmark survey covering calendar year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall,” for “With respect to the United States direct investment abroad and foreign direct investment in the United States, the President shall conduct a comprehensive benchmark survey at least once every five years and, for such purpose, shall,” in provisions preceding par (1).
+Pub. L. 97–33, § 1, substituted “With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering calendar year 1980, a benchmark survey covering calendar year 1987, and benchmark surveys covering every fifth calendar year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering calendar year 1982, a benchmark survey covering calendar year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall,” for “With respect to the United States direct investment abroad and foreign direct investment in the United States, the President shall conduct a comprehensive benchmark survey at least once every five years and, for such purpose, shall,” in provisions preceding par (1).
 
-Subsec. (c)(2). Pub. L. 97–33, § 2, substituted “the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year” for “the President shall conduct a benchmark survey of United States portfolio investment abroad and, for such purpose, shall (among other things and to the extent he determines necessary and feasible) determine the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall complete such survey not later than the end of the five-year period beginning on October 11, 1976. After completion of such survey, the President shall report to the Congress on the feasibility and desirability of conducting, on a periodic basis, additional benchmark surveys of United States portfolio investment abroad. If he determines that such additional benchmark surveys are feasible and desirable, he may conduct such surveys”.
+Subsec. (c)(2). Pub. L. 97–33, § 2, substituted “the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year” for “the President shall conduct a benchmark survey of United States portfolio investment abroad and, for such purpose, shall (among other things and to the extent he determines necessary and feasible) determine the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall complete such survey not later than the end of the five-year period beginning on October 11, 1976. After completion of such survey, the President shall report to the Congress on the feasibility and desirability of conducting, on a periodic basis, additional benchmark surveys of United States portfolio investment abroad. If he determines that such additional benchmark surveys are feasible and desirable, he may conduct such surveys”.
 
-Subsecs. (e) to (g). Pub. L. 97–33, § 3, added subsec. (e) and redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 97–33, § 3, added subsec. (e) and redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
 1979—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
 
@@ -215,7 +215,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submitting an analysis of compiled data to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 30 of House Document No. 103–7.
 
-## § 3104. Rules and regulations
+## § 3104. Rules and regulations
 
 **(a) Authorization**
 
@@ -245,23 +245,23 @@ The Bureau of the Census of the Department of Commerce is authorized, for purpos
 
 Any person who willfully violates subsection (c) or (d) shall, upon conviction, be fined not more than $10,000, in addition to any other penalty imposed by law.
 
-(Pub. L. 94–472, § 5, Oct. 11, 1976, 90 Stat. 2062; Pub. L. 98–573, title III, § 306(b)(5), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, §§ 6(d), (e), 7(a), Nov. 7, 1990, 104 Stat. 2349.)
+(Pub. L. 94–472, § 5, Oct. 11, 1976, 90 Stat. 2062; Pub. L. 98–573, title III, § 306(b)(5), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, §§ 6(d), (e), 7(a), Nov. 7, 1990, 104 Stat. 2349.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–533, § 7(a), inserted at end “When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer’s best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.”
+1990—Subsec. (b). Pub. L. 101–533, § 7(a), inserted at end “When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer’s best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.”
 
-Subsec. (c)(2). Pub. L. 101–533, § 6(e)(1), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (c)(2). Pub. L. 101–533, § 6(e)(1), substituted “subsection (e)” for “subsection (d)”.
 
-Subsec. (d). Pub. L. 101–533, § 6(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 101–533, § 6(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 101–533, § 6(d)(1), (e)(2), redesignated subsec. (d) as (e) and inserted “or (d)” after “subsection (c)”.
+Subsec. (e). Pub. L. 101–533, § 6(d)(1), (e)(2), redesignated subsec. (d) as (e) and inserted “or (d)” after “subsection (c)”.
 
 1984—Subsec. (b)(1), (2). Pub. L. 98–573 struck out “international investment” before “surveys”.
 
-## § 3105. Enforcement
+## § 3105. Enforcement
 
 **(a) Civil penalty for failure to furnish information**
 
@@ -275,7 +275,7 @@ Whenever it appears that any person has failed to furnish any information requir
 
 Whoever willfully fails to submit any information required under this chapter, whether required to be furnished in the form of a report or otherwise, or willfully violates any rule, regulation, order, or instruction promulgated under this chapter, upon conviction, shall be fined not more than $10,000 and, if an individual, may be imprisoned for not more than one year, or both, and any officer, director, employee, or agent of any corporation who knowingly participates in such violation, upon conviction, may be punished by a like fine, imprisonment, or both.
 
-(Pub. L. 94–472, § 6, Oct. 11, 1976, 90 Stat. 2063; Pub. L. 101–533, § 7(b), Nov. 7, 1990, 104 Stat. 2349.)
+(Pub. L. 94–472, § 6, Oct. 11, 1976, 90 Stat. 2063; Pub. L. 101–533, § 7(b), Nov. 7, 1990, 104 Stat. 2349.)
 
 **Editorial Notes**
 
@@ -283,13 +283,13 @@ Whoever willfully fails to submit any information required under this chapter, w
 
 1990—Subsec. (a). Pub. L. 101–533 substituted “shall be subject to a civil penalty of not less than $2,500, and not more than $25,000,” for “may be subject to a civil penalty not exceeding $10,000”.
 
-## § 3106. Use of experts and administrative support services
+## § 3106. Use of experts and administrative support services
 
 **(a) Compensation and travel expenses**
 
-Any official designated by the President to carry out this chapter may procure the temporary or intermittent services of experts and consultants in accordance with the provisions of section 3109 of title 5. Persons so employed shall receive compensation at a rate not in excess of the maximum amount payable under such section. While away from his home or regular place of business and engaged in the performance of services in conjunction with the provisions of this chapter, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) 1
+Any official designated by the President to carry out this chapter may procure the temporary or intermittent services of experts and consultants in accordance with the provisions of section 3109 of title 5. Persons so employed shall receive compensation at a rate not in excess of the maximum amount payable under such section. While away from his home or regular place of business and engaged in the performance of services in conjunction with the provisions of this chapter, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5 for persons in the Government service employed intermittently.
 
@@ -297,19 +297,19 @@ of title 5 for persons in the Government service employed intermittently.
 
 Any official designated by the President to carry out this chapter may use, on a reimbursable basis when appropriate (as determined by the President), the available services, equipment, personnel, and facilities of any agency or instrumentality of the United States Government.
 
-(Pub. L. 94–472, § 7, Oct. 11, 1976, 90 Stat. 2064.)
+(Pub. L. 94–472, § 7, Oct. 11, 1976, 90 Stat. 2064.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (a), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (a), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-## § 3107. Consultations; creation of independent public advisory committees
+## § 3107. Consultations; creation of independent public advisory committees
 
 Officials performing functions pursuant to this chapter shall secure balanced, diverse, and responsible views from qualified persons representing business, organized labor, and the academic community and may, where appropriate, create such independent public advisory committees as are necessary to carry out the purposes of this chapter.
 
-(Pub. L. 94–472, § 8, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, § 3, Sept. 22, 1978, 92 Stat. 726; Pub. L. 97–33, § 4, Aug. 7, 1981, 95 Stat. 171.)
+(Pub. L. 94–472, § 8, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, § 3, Sept. 22, 1978, 92 Stat. 726; Pub. L. 97–33, § 4, Aug. 7, 1981, 95 Stat. 171.)
 
 **Editorial Notes**
 
@@ -325,11 +325,11 @@ Officials performing functions pursuant to this chapter shall secure balanced, d
 
 Ex. Ord. No. 11962, Jan. 19, 1977, 42 F.R. 4323, which established the President’s Advisory Board on International Investment, was revoked by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of Appendix of Title 5, Government Organization and Employees.
 
-## § 3108. Authorization of appropriations
+## § 3108. Authorization of appropriations
 
 To carry out this chapter, there are authorized to be appropriated $4,400,000 for the fiscal year ending September 30, 1980, $4,500,000 for the fiscal year ending September 30, 1981, $4,000,000 for the fiscal year ending September 30, 1982, and such sums as may be necessary for any subsequent fiscal years.
 
-(Pub. L. 94–472, § 9, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, § 1, Sept. 22, 1978, 92 Stat. 726; Pub. L. 96–72, § 23(a), Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–33, § 5, Aug. 7, 1981, 95 Stat. 171.)
+(Pub. L. 94–472, § 9, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, § 1, Sept. 22, 1978, 92 Stat. 726; Pub. L. 96–72, § 23(a), Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–33, § 5, Aug. 7, 1981, 95 Stat. 171.)
 
 **Editorial Notes**
 
@@ -345,8 +345,8 @@ To carry out this chapter, there are authorized to be appropriated $4,400,000 fo
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–72, § 23(b), Sept. 29, 1979, 93 Stat. 536, which provided that the amendment made to this section by Pub. L. 96–72 would take effect on Oct. 1, 1979, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Pub. L. 96–72, § 23(b), Sept. 29, 1979, 93 Stat. 536, which provided that the amendment made to this section by Pub. L. 96–72 would take effect on Oct. 1, 1979, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–381, § 4, Sept. 22, 1978, 92 Stat. 726, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 95–381, § 4, Sept. 22, 1978, 92 Stat. 726, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on October 1, 1978.”

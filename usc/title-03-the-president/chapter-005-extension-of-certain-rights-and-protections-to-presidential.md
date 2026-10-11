@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 401. Definitions
+### § 401. Definitions
 
 **(a) In General.—** Except as otherwise specifically provided in this chapter, as used in this chapter:
 
@@ -45,13 +45,13 @@ retrieved: 2026-10-11
 
 **(4)** to which section 416 relates, the term “covered employee” means a covered employee described in section 416(a)(2).
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4054.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4054.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 104–331, § 2(b), Oct. 26, 1996, 110 Stat. 4068, provided that:
+Pub. L. 104–331, § 2(b), Oct. 26, 1996, 110 Stat. 4068, provided that:
 
 > “Appropriate measures shall be taken to ensure that—
 
@@ -61,7 +61,7 @@ Pub. L. 104–331, § 2(b), Oct. 26, 1996, 110 Stat. 4068, provided that:
 
 **Applicability of Future Employment Laws**
 
-Pub. L. 104–331, § 4, Oct. 26, 1996, 110 Stat. 4071, provided that:
+Pub. L. 104–331, § 4, Oct. 26, 1996, 110 Stat. 4071, provided that:
 
 > **“(a) In General.—** Each provision of Federal law that is made applicable to the legislative branch under section 102 of the Congressional Accountability Act of 1995 (2 U.S.C. 1302), and that is enacted later than 12 months after the date of the enactment of this Act [Oct. 26, 1996], shall be deemed to apply with respect to ‘employing offices’ and ‘covered employees’ (within the meaning of section 401 of title 3, United States Code, as added by this Act), unless such law specifically provides otherwise and expressly cites this section.
 
@@ -71,7 +71,7 @@ Pub. L. 104–331, § 4, Oct. 26, 1996, 110 Stat. 4071, provided that:
 
 > **“(2) Agency regulations.—** The regulations issued under paragraph (1) to implement a provision shall be the same as substantive regulations promulgated by the head of the appropriate executive agency to implement the provision, except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under the section.”
 
-### § 402. Application of laws
+### § 402. Application of laws
 
 The following laws shall apply, as prescribed by this chapter, to all employing offices (including employing offices within the meaning of section 411, to the extent prescribed therein):
 
@@ -97,35 +97,35 @@ The following laws shall apply, as prescribed by this chapter, to all employing 
 
 **(11)** Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4054.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4054.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in par. (1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in par. (1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in par. (3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in par. (9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in par. (9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 ## SUBCHAPTER II—EXTENSION OF RIGHTS AND PROTECTIONS
 
 ### Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation
 
-#### § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990
+#### § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990
 
 **(a) Discriminatory Practices Prohibited.—** All personnel actions affecting covered employees shall be made free from any discrimination based on—
 
@@ -187,7 +187,7 @@ In addition, the waiver provisions of section 7(f) of such Act shall apply to co
 
 **(f) Effective Date.—** This section shall take effect on October 1, 1997.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4055; amended Pub. L. 117–286, § 4(a)(3), Dec. 27, 2022, 136 Stat. 4305.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4055; amended Pub. L. 117–286, § 4(a)(3), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 For provisions requiring that appropriate measures be taken to ensure that any regulations required to implement this section be in effect by Oct. 1, 1997, see section 2(b)(1) of Pub. L. 104–331, set out as a note under section 401 of this title.
 
-#### § 412. Rights and protections under the Family and Medical Leave Act of 1993
+#### § 412. Rights and protections under the Family and Medical Leave Act of 1993
 
 **(a) Family and Medical Leave Rights and Protections Provided.—**
 
@@ -265,39 +265,39 @@ For provisions requiring that appropriate measures be taken to ensure that any r
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4057; amended Pub. L. 116–283, div. A, title XI, § 1103(e)(1), Jan. 1, 2021, 134 Stat. 3888.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4057; amended Pub. L. 116–283, div. A, title XI, § 1103(e)(1), Jan. 1, 2021, 134 Stat. 3888.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 101 to 105 and 107 of the Act are classified to sections 2611 to 2615 and 2617, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 101 to 105 and 107 of the Act are classified to sections 2611 to 2615 and 2617, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 The date of enactment of the Presidential and Executive Office Accountability Act, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 104–331, which was approved Oct. 26, 1996.
 
 **Amendments**
 
-2021—Subsec. (a)(3). Pub. L. 116–283, § 1103(e)(1)(A), added par. (3).
+2021—Subsec. (a)(3). Pub. L. 116–283, § 1103(e)(1)(A), added par. (3).
 
-Subsecs. (c), (d). Pub. L. 116–283, § 1103(e)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 116–283, § 1103(e)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2)(C). Pub. L. 116–283, § 1103(e)(1)(D), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 116–283, § 1103(e)(1)(D), added subpar. (C).
 
-Subsec. (e). Pub. L. 116–283, § 1103(e)(1)(B), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 116–283, § 1103(e)(1)(B), redesignated subsec. (d) as (e).
 
-Subsec. (e)(1). Pub. L. 116–283, § 1103(e)(1)(E), inserted “(as in effect on the date of enactment of the Presidential and Executive Office Accountability Act)” after “subsection (c)”.
+Subsec. (e)(1). Pub. L. 116–283, § 1103(e)(1)(E), inserted “(as in effect on the date of enactment of the Presidential and Executive Office Accountability Act)” after “subsection (c)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title XI, § 1103(e)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to any birth or placement occurring on or after October 1, 2020.”
+Pub. L. 116–283, div. A, title XI, § 1103(e)(2), Jan. 1, 2021, 134 Stat. 3889, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to any birth or placement occurring on or after October 1, 2020.”
 
 **Effective Date**
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### § 413. Rights and protections under the Fair Labor Standards Act of 1938
+#### § 413. Rights and protections under the Fair Labor Standards Act of 1938
 
 **(a) Fair Labor Standards.—**
 
@@ -323,13 +323,13 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4058.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4058.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. Sections 6, 7, 12, and 16 of the Act are classified to sections 206, 207, 212, and 216, respectively, of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. Sections 6, 7, 12, and 16 of the Act are classified to sections 206, 207, 212, and 216, respectively, of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,7 +337,7 @@ The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### § 414. Rights and protections under the Employee Polygraph Protection Act of 1988
+#### § 414. Rights and protections under the Employee Polygraph Protection Act of 1988
 
 **(a) Polygraph Practices Prohibited.—** No employing office may require a covered employee to take a lie detector test where such a test would be prohibited if required by an employer under paragraph (1), (2), or (3) of section 3 of the Employee Polygraph Protection Act of 1988. In addition, the waiver provisions of section 6(d) of such Act shall apply to covered employees.
 
@@ -355,7 +355,7 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4058.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4058.)
 
 **Editorial Notes**
 
@@ -369,7 +369,7 @@ Sections 3 and 6 of the Employee Polygraph Protection Act of 1988, referred to i
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### § 415. Rights and protections under the Worker Adjustment and Retraining Notification Act
+#### § 415. Rights and protections under the Worker Adjustment and Retraining Notification Act
 
 **(a) Worker Adjustment and Retraining Notification Rights.—**
 
@@ -403,7 +403,7 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4059.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4059.)
 
 **Editorial Notes**
 
@@ -411,7 +411,7 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 Sections 3 and 5 of the Worker Adjustment and Retraining Notification Act, referred to in subsecs. (a)(1) and (b), are classified to sections 2102 and 2104, respectively, of Title 29, Labor.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -419,7 +419,7 @@ The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), 
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### § 416. Rights and protections relating to veterans’ employment and reemployment
+#### § 416. Rights and protections relating to veterans’ employment and reemployment
 
 **(a) Employment and Reemployment Rights of Members of the Uniformed Services.—**
 
@@ -455,7 +455,7 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4060; amended Pub. L. 111–275, title VII, § 703(c), Oct. 13, 2010, 124 Stat. 2888.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4060; amended Pub. L. 111–275, title VII, § 703(c), Oct. 13, 2010, 124 Stat. 2888.)
 
 **Editorial Notes**
 
@@ -469,17 +469,17 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### § 417. Prohibition of intimidation or reprisal
+#### § 417. Prohibition of intimidation or reprisal
 
 **(a) In General.—** It shall be unlawful for an employing office to intimidate, take reprisal against, or otherwise discriminate against, any covered employee because the covered employee has opposed any practice made unlawful by this chapter, or because the covered employee has initiated proceedings, made a charge, or testified, assisted, or participated in any manner in a hearing or other proceeding under this chapter.
 
 **(b) Remedy.—** A violation of subsection (a) may be remedied by any legal remedy available to redress the practice opposed by the covered employee or other violation of law as to which the covered employee initiated proceedings, made a charge, or engaged in other conduct protected under subsection (a).
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4061.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4061.)
 
 ### Part B—Public Access Provisions Under the Americans With Disabilities Act of 1990
 
-#### § 421. Rights and protections under the Americans with Disabilities Act of 1990
+#### § 421. Rights and protections under the Americans with Disabilities Act of 1990
 
 **(a) Rights and Protections.—** The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans with Disabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
@@ -507,13 +507,13 @@ Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4061; amended Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4061; amended Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (a) to (c), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Sections 201 to 204, 302, 303, 308, and 309 of the Act are classified to sections 12131 to 12134, 12182, 12183, 12188, and 12189, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (a) to (c), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Sections 201 to 204, 302, 303, 308, and 309 of the Act are classified to sections 12131 to 12134, 12182, 12183, 12188, and 12189, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Sections 1, 2, 3, and 6 of the Act of August 12, 1968, commonly known as the Architectural Barriers Act of 1968, referred to in subsec. (d)(2)(B), are classified to sections 4151 to 4153 and 4156, respectively, of Title 42.
 
@@ -531,7 +531,7 @@ Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 ### Part C—Occupational Safety and Health Act of 1970
 
-#### § 425. Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations
+#### § 425. Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations
 
 **(a) Occupational Safety and Health Protections.—**
 
@@ -589,13 +589,13 @@ Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(2)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4062.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4062.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a) to (c)(4) and (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. Sections 5, 6, 8 to 10, 13, and 19 of the Act are classified to sections 654, 655, 657 to 659, 662, and 668, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a) to (c)(4) and (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. Sections 5, 6, 8 to 10, 13, and 19 of the Act are classified to sections 654, 655, 657 to 659, 662, and 668, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -605,7 +605,7 @@ Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 ### Part D—Labor-Management Relations
 
-#### § 431. Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations
+#### § 431. Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations
 
 **(a) Labor-Management Rights.—** Subject to subsection (d), chapter 71 of title 5 shall apply to employing offices and to covered employees and representatives of those employees, except that covered employees shall not have a right to reinstatement pursuant to section 7118(a)(7)(C) or 7123 of title 5.
 
@@ -665,7 +665,7 @@ Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this 
 
 **(B)** October 1, 1998.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4064.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4064.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -675,7 +675,7 @@ Subsecs. (c) and (d) of this section effective Oct. 26, 1996, see section 471(b)
 
 ### Part E—General
 
-#### § 435. Generally applicable remedies and limitations
+#### § 435. Generally applicable remedies and limitations
 
 **(a) Attorney’s Fees.—** If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney’s fees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
 
@@ -699,7 +699,7 @@ Subsecs. (c) and (d) of this section effective Oct. 26, 1996, see section 471(b)
 
 **(g) Political Affiliation.—** It shall not be a violation of any provision of this chapter to consider, or make any employment decision based on, the party affiliation, or political compatibility with the employing office, of an employee who is a covered employee.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4066.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4066.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ Section 2 of the Worker Adjustment and Retraining Notification Act, referred to 
 
 ## SUBCHAPTER III—ADMINISTRATIVE AND JUDICIAL DISPUTE RESOLUTION PROCEDURES
 
-### § 451. Procedure for consideration of alleged violations
+### § 451. Procedure for consideration of alleged violations
 
 The procedure for consideration of alleged violations of part A of subchapter II consists of—
 
@@ -723,15 +723,15 @@ The procedure for consideration of alleged violations of part A of subchapter II
 
 **(B)** a civil action in a district court of the United States as provided in section 1346(g) of title 28.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
-### § 452. Counseling and mediation
+### § 452. Counseling and mediation
 
 **(a) In General.—** The President, or the designee of the President, shall by regulation establish procedures substantially similar to those under sections 402 and 403 of the Congressional Accountability Act of 1995 for the counseling and mediation of alleged violations of a law made applicable under part A of subchapter II.
 
 **(b) Exhaustion Requirement.—** A covered employee who has not exhausted counseling and mediation under subsection (a) shall be ineligible to make any election under section 453 or otherwise pursue any further form of relief under this subchapter.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
 **Editorial Notes**
 
@@ -745,7 +745,7 @@ Sections 402 and 403 of the Congressional Accountability Act of 1995, referred t
 
 Section effective Oct. 1, 1997, except that subsec. (a) of this section effective Oct. 26, 1996, see section 471 of this title.
 
-### § 453. Election of proceeding
+### § 453. Election of proceeding
 
 Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee may either—
 
@@ -753,9 +753,9 @@ Not later than 90 days after a covered employee receives notice of the end of th
 
 **(2)** file a civil action under section 1346(g) of title 28.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
-### § 454. Appropriate agencies
+### § 454. Appropriate agencies
 
 **(a) In General.—** Except as provided in subsection (b), the appropriate agency under this section with respect to an alleged violation of part A of subchapter II shall be the Board. The complaint in an action involving such an alleged violation shall be processed under the procedures specified by the President, or the designee of the President, in such regulations as the President or designee may issue.
 
@@ -767,7 +767,7 @@ Not later than 90 days after a covered employee receives notice of the end of th
 
 **(3) Judicial review.—** Notwithstanding any other provision of law (including any provision of law referenced in paragraph (1) or (2)), judicial review of any administrative decision under this subsection shall be by appeal to the United States Court of Appeals for the Federal Circuit under section 1296 of title 28.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -775,31 +775,31 @@ Not later than 90 days after a covered employee receives notice of the end of th
 
 Section effective Oct. 1, 1997, except that subsec. (a) of this section effective Oct. 26, 1996, see section 471 of this title.
 
-### § 455. Effect of failure to issue regulations
+### § 455. Effect of failure to issue regulations
 
 In any proceeding under section 453(1), if the President, or the designee of the President, has not issued a regulation on a matter for which this chapter requires a regulation to be issued, the administrative agency shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provision at issue in the proceeding.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
 
-### § 456. Confidentiality
+### § 456. Confidentiality
 
 **(a) Counseling.—** All counseling under section 452 shall be strictly confidential, except that, with the consent of the covered employee, the employing office may be notified.
 
 **(b) Mediation.—** All mediation under section 452 shall be strictly confidential.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
 
 ## SUBCHAPTER IV—EFFECTIVE DATE
 
-### § 471. Effective date
+### § 471. Effective date
 
 **(a) In General.—** Except as otherwise provided in this chapter, this chapter shall take effect on October 1, 1997.
 
 **(b) Regulations.—** Sections 411(d), 412(c), 413(c), 414(c), 415(c), 416(c), 421(d), 425(d), 431(c), 431(d), 452(a), and 454(a) shall take effect on the date of enactment of this Act.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
+(Added Pub. L. 104–331, § 2(a), Oct. 26, 1996, 110 Stat. 4068.)
 
 **Editorial Notes**
 

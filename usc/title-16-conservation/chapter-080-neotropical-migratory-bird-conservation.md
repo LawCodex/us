@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 80—NEOTROPICAL MIGRATORY BIRD CONSERVATION
 
-## § 6101. Findings
+## § 6101. Findings
 
 Congress finds that—
 
@@ -35,7 +35,7 @@ Congress finds that—
 
 **(B)** although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
 
-(Pub. L. 106–247, § 2, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(a), Oct. 17, 2006, 120 Stat. 2075.)
+(Pub. L. 106–247, § 2, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(a), Oct. 17, 2006, 120 Stat. 2075.)
 
 **Editorial Notes**
 
@@ -47,17 +47,17 @@ Congress finds that—
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–51, § 1, Apr. 24, 2024, 138 Stat. 1005, provided that: “This Act [amending sections 6103, 6104, 6106, and 6109 of this title] may be cited as the ‘Migratory Birds of the Americas Conservation Enhancements Act of 2023’.”
+Pub. L. 118–51, § 1, Apr. 24, 2024, 138 Stat. 1005, provided that: “This Act [amending sections 6103, 6104, 6106, and 6109 of this title] may be cited as the ‘Migratory Birds of the Americas Conservation Enhancements Act of 2023’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–363, title III, § 301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
+Pub. L. 109–363, title III, § 301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
 
 **Short Title**
 
-Pub. L. 106–247, § 1, July 20, 2000, 114 Stat. 593, provided that: “This Act [enacting this chapter] may be cited as the ‘Neotropical Migratory Bird Conservation Act’.”
+Pub. L. 106–247, § 1, July 20, 2000, 114 Stat. 593, provided that: “This Act [enacting this chapter] may be cited as the ‘Neotropical Migratory Bird Conservation Act’.”
 
-## § 6102. Purposes
+## § 6102. Purposes
 
 The purposes of this chapter are—
 
@@ -67,7 +67,7 @@ The purposes of this chapter are—
 
 **(3)** to provide financial resources and to foster international cooperation for those initiatives.
 
-(Pub. L. 106–247, § 3, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(b), Oct. 17, 2006, 120 Stat. 2075.)
+(Pub. L. 106–247, § 3, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(b), Oct. 17, 2006, 120 Stat. 2075.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ The purposes of this chapter are—
 
 2006—Par. (2). Pub. L. 109–363 inserted “Canada,” after “United States,”.
 
-## § 6103. Definitions
+## § 6103. Definitions
 
 In this chapter:
 
@@ -103,7 +103,7 @@ The term “Fund” means the Neotropical Migratory Bird Conservation Fund estab
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 106–247, § 4, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(c), (h)(3)(A), Oct. 17, 2006, 120 Stat. 2075, 2076; Pub. L. 118–51, § 2(d)(1), Apr. 24, 2024, 138 Stat. 1005.)
+(Pub. L. 106–247, § 4, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(c), (h)(3)(A), Oct. 17, 2006, 120 Stat. 2075, 2076; Pub. L. 118–51, § 2(d)(1), Apr. 24, 2024, 138 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -111,11 +111,11 @@ The term “Secretary” means the Secretary of the Interior.
 
 2024—Pub. L. 118–51 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “The term ‘Fund’ means the Neotropical Migratory Bird Conservation Fund established by section 6108(a) of this title.”
 
-2006—Par. (1). Pub. L. 109–363, § 302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.”
+2006—Par. (1). Pub. L. 109–363, § 302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by section 6108(a) of this title.”
 
-Pars. (2) to (5). Pub. L. 109–363, § 302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
+Pars. (2) to (5). Pub. L. 109–363, § 302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
 
-## § 6104. Financial assistance
+## § 6104. Financial assistance
 
 **(a) In general**
 
@@ -183,7 +183,7 @@ The non-Federal share required to be paid for a project carried out in the Unite
 
 The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.
 
-(Pub. L. 106–247, § 5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, § 302(d), (e), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 118–51, § 2(a), Apr. 24, 2024, 138 Stat. 1005.)
+(Pub. L. 106–247, § 5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, § 302(d), (e), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 118–51, § 2(a), Apr. 24, 2024, 138 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -191,15 +191,15 @@ The non-Federal share required to be paid for a project carried out in Latin Ame
 
 2024—Subsec. (e)(1). Pub. L. 118–51 substituted “33.3 percent” for “25 percent”.
 
-2006—Subsec. (c)(2). Pub. L. 109–363, § 302(d), inserted “Canada,” after “United States,”.
+2006—Subsec. (c)(2). Pub. L. 109–363, § 302(d), inserted “Canada,” after “United States,”.
 
-Subsec. (e)(2)(B). Pub. L. 109–363, § 302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
+Subsec. (e)(2)(B). Pub. L. 109–363, § 302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
 
 “(i) Projects in the united states.—The non-Federal share required to be paid for a project carried out in the United States shall be paid in cash.
 
 “(ii) Projects in foreign countries.—The non-Federal share required to be paid for a project carried out in a foreign country may be paid in cash or in kind.”
 
-## § 6105. Duties of the Secretary
+## § 6105. Duties of the Secretary
 
 In carrying out this chapter, the Secretary shall—
 
@@ -211,9 +211,9 @@ In carrying out this chapter, the Secretary shall—
 
 **(4)** generally implement this chapter in accordance with its purposes.
 
-(Pub. L. 106–247, § 6, July 20, 2000, 114 Stat. 595.)
+(Pub. L. 106–247, § 6, July 20, 2000, 114 Stat. 595.)
 
-## § 6106. Cooperation
+## § 6106. Cooperation
 
 **(a) In general** In carrying out this chapter, the Secretary shall—
 
@@ -259,15 +259,15 @@ Chapter 10 of title 5 shall not apply to the advisory group.
 
 Not later than 180 days after April 24, 2024, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the implementation of subsection (b) by the Secretary, which shall include, if applicable, a description of the composition of the advisory group convened under paragraph (1) of that subsection.
 
-(Pub. L. 106–247, § 7, July 20, 2000, 114 Stat. 595; Pub. L. 109–363, title III, § 302(f)(1), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 117–286, § 4(a)(128), Dec. 27, 2022, 136 Stat. 4319; Pub. L. 118–51, § 2(b), (d)(2), Apr. 24, 2024, 138 Stat. 1005, 1006.)
+(Pub. L. 106–247, § 7, July 20, 2000, 114 Stat. 595; Pub. L. 109–363, title III, § 302(f)(1), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 117–286, § 4(a)(128), Dec. 27, 2022, 136 Stat. 4319; Pub. L. 118–51, § 2(b), (d)(2), Apr. 24, 2024, 138 Stat. 1005, 1006.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (b)(1). Pub. L. 118–51, § 2(d)(2), inserted period at end.
+2024—Subsec. (b)(1). Pub. L. 118–51, § 2(d)(2), inserted period at end.
 
-Subsec. (c). Pub. L. 118–51, § 2(b), added subsec. (c).
+Subsec. (c). Pub. L. 118–51, § 2(b), added subsec. (c).
 
 2022—Subsec. (b)(3). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
@@ -277,13 +277,13 @@ Subsec. (c). Pub. L. 118–51, § 2(b), added subsec. (c).
 
 **Encouragement To Convene**
 
-Pub. L. 109–363, title III, § 302(f)(2), Oct. 17, 2006, 120 Stat. 2076, provided that: “The Secretary of the Interior is encouraged to convene an advisory group under section 7(b)(1) of such Act [Pub. L. 106–247, subsec. (b)(1) of this section] by not later than 6 months after the effective date of this Act [Oct. 17, 2006]. This paragraph shall not be considered to authorize delay of the schedule previously established by the United States Fish and Wildlife Service for the submission, judging, and awarding of grants.”
+Pub. L. 109–363, title III, § 302(f)(2), Oct. 17, 2006, 120 Stat. 2076, provided that: “The Secretary of the Interior is encouraged to convene an advisory group under section 7(b)(1) of such Act [Pub. L. 106–247, subsec. (b)(1) of this section] by not later than 6 months after the effective date of this Act [Oct. 17, 2006]. This paragraph shall not be considered to authorize delay of the schedule previously established by the United States Fish and Wildlife Service for the submission, judging, and awarding of grants.”
 
-## § 6107. Report to Congress
+## § 6107. Report to Congress
 
 Not later than 2 years after October 17, 2006, the Secretary shall submit to Congress a report on the results and effectiveness of the program carried out under this chapter, including recommendations concerning how the chapter might be improved and whether the program should be continued.
 
-(Pub. L. 106–247, § 8, July 20, 2000, 114 Stat. 596; Pub. L. 109–363, title III, § 302(g), Oct. 17, 2006, 120 Stat. 2076.)
+(Pub. L. 106–247, § 8, July 20, 2000, 114 Stat. 596; Pub. L. 109–363, title III, § 302(g), Oct. 17, 2006, 120 Stat. 2076.)
 
 **Editorial Notes**
 
@@ -291,7 +291,7 @@ Not later than 2 years after October 17, 2006, the Secretary shall submit to Con
 
 2006—Pub. L. 109–363 substituted “2 years after October 17, 2006,” for “October 1, 2002,”.
 
-## § 6108. Neotropical Migratory Bird Conservation Fund
+## § 6108. Neotropical Migratory Bird Conservation Fund
 
 **(a) Establishment**
 
@@ -309,39 +309,39 @@ There is established in the Treasury a separate account, which shall be known as
 
 Subject to paragraph (2), the Secretary may use amounts in the Account,1
 
-<sup>1</sup>  So in original. Probably should be “Fund”.
+<sup>1</sup> So in original. Probably should be “Fund”.
 
 without further Act of appropriation, to carry out this chapter.
 
 **(2) Administrative expenses**
 
-Of amounts in the Account <sup>1</sup> available for each fiscal year, the Secretary may expend not more than 3 percent or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+Of amounts in the Account <sup>1</sup> available for each fiscal year, the Secretary may expend not more than 3 percent or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 **(d) Acceptance and use of donations**
 
 The Secretary may accept and use donations to carry out this chapter. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 106–247, § 9, July 20, 2000, 114 Stat. 596; Pub. L. 109–363, title III, § 302(h)(1), (2), (3)(B), Oct. 17, 2006, 120 Stat. 2076, 2077.)
+(Pub. L. 106–247, § 9, July 20, 2000, 114 Stat. 596; Pub. L. 109–363, title III, § 302(h)(1), (2), (3)(B), Oct. 17, 2006, 120 Stat. 2076, 2077.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–363, § 302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
+2006—Pub. L. 109–363, § 302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 109–363, § 302(h)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
+Subsecs. (a), (b). Pub. L. 109–363, § 302(h)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
 
-Subsec. (c)(2). Pub. L. 109–363, § 302(h)(2), substituted “$100,000” for “$80,000”.
+Subsec. (c)(2). Pub. L. 109–363, § 302(h)(2), substituted “$100,000” for “$80,000”.
 
-Subsec. (d). Pub. L. 109–363, § 302(h)(3)(B), substituted “Fund” for “Account”.
+Subsec. (d). Pub. L. 109–363, § 302(h)(3)(B), substituted “Fund” for “Account”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Funds**
 
-Pub. L. 109–363, title III, § 302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: “The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act [Oct. 17, 2006].”
+Pub. L. 109–363, title III, § 302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provided that: “The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act [Oct. 17, 2006].”
 
-## § 6109. Authorization of appropriations
+## § 6109. Authorization of appropriations
 
 **(a) In general**
 
@@ -351,7 +351,7 @@ There is authorized to be appropriated to carry out this chapter $6,500,000 for 
 
 Of the amounts made available under subsection (a) for each fiscal year, not less than 75 percent shall be expended for projects carried out at a location outside of the United States.
 
-(Pub. L. 106–247, § 10, July 20, 2000, 114 Stat. 597; Pub. L. 109–363, title III, § 302(i), Oct. 17, 2006, 120 Stat. 2077; Pub. L. 116–9, title VII, § 7002, Mar. 12, 2019, 133 Stat. 801; Pub. L. 118–51, § 2(c), Apr. 24, 2024, 138 Stat. 1005.)
+(Pub. L. 106–247, § 10, July 20, 2000, 114 Stat. 597; Pub. L. 109–363, title III, § 302(i), Oct. 17, 2006, 120 Stat. 2077; Pub. L. 116–9, title VII, § 7002, Mar. 12, 2019, 133 Stat. 801; Pub. L. 118–51, § 2(c), Apr. 24, 2024, 138 Stat. 1005.)
 
 **Editorial Notes**
 

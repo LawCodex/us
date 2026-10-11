@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6A—NATIONAL LABORATORY ACCREDITATION
 
-## § 138. Definitions
+## § 138. Definitions
 
 As used in this chapter:
 
@@ -39,17 +39,17 @@ The term “pesticide” means any substance that alone, in chemical combination
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 101–624, title XIII, § 1321, Nov. 28, 1990, 104 Stat. 3562.)
+(Pub. L. 101–624, title XIII, § 1321, Nov. 28, 1990, 104 Stat. 3562.)
 
-## § 138a. National Laboratory Accreditation Program
+## § 138a. National Laboratory Accreditation Program
 
 **(a) Establishment of Program**
 
 The Secretary shall administer a National Laboratory Accreditation Program under which laboratories that request accreditation and conduct residue testing of agricultural products, or that make claims to the public or buyers of agricultural products concerning chemical residue levels on agricultural products, shall be determined to meet certain minimum quality and reliability standards.
 
-**(b) Standards** The Secretary of Health and Human Services, after consultation with the Secretary and the Administrator of the Environmental Protection Agency, shall establish, through regulations, standards for the National Laboratory Accreditation program 1
+**(b) Standards** The Secretary of Health and Human Services, after consultation with the Secretary and the Administrator of the Environmental Protection Agency, shall establish, through regulations, standards for the National Laboratory Accreditation program 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 that shall include—
 
@@ -81,9 +81,9 @@ that shall include—
 
 **(4)** a laboratory not operated for commercial purposes that performs pesticide chemical residue analysis on agricultural products for research or quality control for the internal use of a person who is initiating the analysis.
 
-(Pub. L. 101–624, title XIII, § 1322, Nov. 28, 1990, 104 Stat. 3562.)
+(Pub. L. 101–624, title XIII, § 1322, Nov. 28, 1990, 104 Stat. 3562.)
 
-## § 138b. Accreditation
+## § 138b. Accreditation
 
 **(a) In general**
 
@@ -101,9 +101,9 @@ The Secretary shall deny an application for accreditation or shall revoke any ex
 
 The Secretary may issue certificates of accreditation to laboratories that are limited to specific fields of testing.
 
-(Pub. L. 101–624, title XIII, § 1323, Nov. 28, 1990, 104 Stat. 3563.)
+(Pub. L. 101–624, title XIII, § 1323, Nov. 28, 1990, 104 Stat. 3563.)
 
-## § 138c. Samples
+## § 138c. Samples
 
 **(a) Performance evaluation samples**
 
@@ -133,9 +133,9 @@ The Secretary shall evaluate the results of such tests achieved by the laborator
 
 The Secretary shall ensure that performance evaluation samples for analysis are provided to laboratories accredited under this chapter not less than two times a year.
 
-(Pub. L. 101–624, title XIII, § 1324, Nov. 28, 1990, 104 Stat. 3564.)
+(Pub. L. 101–624, title XIII, § 1324, Nov. 28, 1990, 104 Stat. 3564.)
 
-## § 138d. Application
+## § 138d. Application
 
 **(a) Contents of application** An application for accreditation under this chapter shall be prepared and submitted to the Secretary and shall include—
 
@@ -153,9 +153,9 @@ The Secretary shall ensure that performance evaluation samples for analysis are 
 
 A laboratory that has been denied, or has lost, accreditation under this chapter shall not reapply for accreditation until the expiration of at least 6 months after such denial or loss of accreditation. Corrective actions taken by the laboratory to address deficiencies upon which the denial or loss of accreditation was based must accompany the reapplication.
 
-(Pub. L. 101–624, title XIII, § 1325, Nov. 28, 1990, 104 Stat. 3564.)
+(Pub. L. 101–624, title XIII, § 1325, Nov. 28, 1990, 104 Stat. 3564.)
 
-## § 138e. Reporting
+## § 138e. Reporting
 
 **(a) In general** Each laboratory or individual that performs, brokers, or otherwise arranges for the performance of a pesticide chemical analysis of food shall prepare and submit a report, simultaneously to the Secretary, the Secretary of Health and Human Services, and to the owner of such food, that shall contain any finding of pesticide chemical residues in such food—
 
@@ -173,9 +173,9 @@ A laboratory shall submit the report required under subsection (a) to the Secret
 
 The Secretary shall adopt standardized reporting guidelines to be applied to laboratories under this section and shall provide such guidelines to laboratories accredited under this chapter, as well as other sources of information regarding applicable pesticide chemical tolerances.
 
-(Pub. L. 101–624, title XIII, § 1326, Nov. 28, 1990, 104 Stat. 3565.)
+(Pub. L. 101–624, title XIII, § 1326, Nov. 28, 1990, 104 Stat. 3565.)
 
-## § 138f. Fees
+## § 138f. Fees
 
 **(a) In general**
 
@@ -201,40 +201,40 @@ No fees collected under this section may be used to offset the cost of laborator
 
 There are authorized to be appropriated each fiscal year such sums as may be necessary for laboratory accreditation services under this section.
 
-(Pub. L. 101–624, title XIII, § 1327, Nov. 28, 1990, 104 Stat. 3565; Pub. L. 102–237, title X, § 1017, Dec. 13, 1991, 105 Stat. 1904.)
+(Pub. L. 101–624, title XIII, § 1327, Nov. 28, 1990, 104 Stat. 3565; Pub. L. 102–237, title X, § 1017, Dec. 13, 1991, 105 Stat. 1904.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (a), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (a), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
 **Amendments**
 
 1991—Pub. L. 102–237 amended section generally, in subsec. (a), inserting provisions relating to Federal Meat Inspection Act and Poultry Products Inspection Act and provisions relating to crediting and availability of fees, in subsec. (b), substituting provisions relating to fee under this section for provisions relating to fee under subsec. (a) of this section, and provisions relating to laboratory accreditation programs administered by Secretary under statutory authorities set forth in subsec. (a) of this section for provisions relating to program established under this chapter, in subsec. (c), substituting provisions relating to statutory authority set forth in subsec. (a) of this section for provisions relating to this chapter, in subsec. (d), substituting provisions relating to laboratory accreditation programs under statutory authority set forth in subsec. (a) of this section for provisions relating to program established under this chapter, and adding subsecs. (e) and (f).
 
-## § 138g. Public disclosure
+## § 138g. Public disclosure
 
 The results of the evaluations of laboratories conducted by the Secretary under this chapter shall be made available to the Secretary of Health and Human Services and to the public on request.
 
-(Pub. L. 101–624, title XIII, § 1328, Nov. 28, 1990, 104 Stat. 3565.)
+(Pub. L. 101–624, title XIII, § 1328, Nov. 28, 1990, 104 Stat. 3565.)
 
-## § 138h. Regulations
+## § 138h. Regulations
 
 The Secretary shall promulgate regulations to carry out this chapter.
 
-(Pub. L. 101–624, title XIII, § 1329, Nov. 28, 1990, 104 Stat. 3565.)
+(Pub. L. 101–624, title XIII, § 1329, Nov. 28, 1990, 104 Stat. 3565.)
 
-## § 138i. Effect of other laws
+## § 138i. Effect of other laws
 
 Nothing in this chapter shall alter the authority of the Secretary of Health and Human Services under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
 
-(Pub. L. 101–624, title XIII, § 1330, Nov. 28, 1990, 104 Stat. 3565.)
+(Pub. L. 101–624, title XIII, § 1330, Nov. 28, 1990, 104 Stat. 3565.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.

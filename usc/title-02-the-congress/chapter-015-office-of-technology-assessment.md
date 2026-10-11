@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—OFFICE OF TECHNOLOGY ASSESSMENT
 
-## § 471. Congressional findings and declaration of purpose
+## § 471. Congressional findings and declaration of purpose
 
 The Congress hereby finds and declares that:
 
@@ -39,17 +39,17 @@ The Congress hereby finds and declares that:
 
 **(2)** utilize this information, whenever appropriate, as one factor in the legislative assessment of matters pending before the Congress, particularly in those instances where the Federal Government may be called upon to consider support for, or management or regulation of, technological applications.
 
-(Pub. L. 92–484, § 2, Oct. 13, 1972, 86 Stat. 797.)
+(Pub. L. 92–484, § 2, Oct. 13, 1972, 86 Stat. 797.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 92–484, § 1, Oct. 13, 1972, 86 Stat. 797, provided: “That this Act [enacting this chapter and amending section 1862 of Title 42, The Public Health and Welfare] may be cited as the ‘Technology Assessment Act of 1972’.”
+Pub. L. 92–484, § 1, Oct. 13, 1972, 86 Stat. 797, provided: “That this Act [enacting this chapter and amending section 1862 of Title 42, The Public Health and Welfare] may be cited as the ‘Technology Assessment Act of 1972’.”
 
 **Termination of Office of Technology Assessment**
 
-Pub. L. 104–53, title I, §§ 113, 114, Nov. 19, 1995, 109 Stat. 526, provided that:
+Pub. L. 104–53, title I, §§ 113, 114, Nov. 19, 1995, 109 Stat. 526, provided that:
 
 > **“Sec. 113.**
 
@@ -59,7 +59,7 @@ Pub. L. 104–53, title I, §§ 113, 114, Nov. 19, 1995, 109 Stat. 526, provid
 
 > Notwithstanding the provisions of the Federal Property and Administrative Services Act of 1949, as amended [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts], or any other provision of law, upon the abolition of the Office of Technology Assessment, all records and property of the Office (including the Unix system, all computer hardware and software, all library collections and research materials, and all photocopying equipment), shall be under the administrative control of the Architect of the Capitol. Not later than December 31, 1995, the Architect shall submit a proposal to transfer such records and property to appropriate support agencies of the Legislative Branch which request such transfer, and shall carry out such transfer subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate.”
 
-## § 472. Office of Technology Assessment
+## § 472. Office of Technology Assessment
 
 **(a) Creation**
 
@@ -101,9 +101,9 @@ The Office shall consist of a Technology Assessment Board (hereinafter referred 
 
 **(2)** the Board considers it necessary or advisable to withhold such information in accordance with one or more of the numbered paragraphs in section 552(b) of title 5.
 
-(Pub. L. 92–484, § 3, Oct. 13, 1972, 86 Stat. 797.)
+(Pub. L. 92–484, § 3, Oct. 13, 1972, 86 Stat. 797.)
 
-## § 473. Technology Assessment Board
+## § 473. Technology Assessment Board
 
 **(a) Membership** The Board shall consist of thirteen members as follows:
 
@@ -125,9 +125,9 @@ The Board shall select a chairman and a vice chairman from among its members at 
 
 The Board is authorized to sit and act at such places and times during the sessions, recesses, and adjourned periods of Congress, and upon a vote of a majority of its members, to require by subpena or otherwise the attendance of such witnesses and the production of such books, papers, and documents, to administer such oaths and affirmations, to take such testimony, to procure such printing and binding, and to make such expenditures, as it deems advisable. The Board may make such rules respecting its organization and procedures as it deems necessary, except that no recommendation shall be reported from the Board unless a majority of the Board assent. Subpenas may be issued over the signature of the chairman of the Board or of any voting member designated by him or by the Board, and may be served by such person or persons as may be designated by such chairman or member. The chairman of the Board or any voting member thereof may administer oaths or affirmations to witnesses.
 
-(Pub. L. 92–484, § 4, Oct. 13, 1972, 86 Stat. 798.)
+(Pub. L. 92–484, § 4, Oct. 13, 1972, 86 Stat. 798.)
 
-## § 474. Director of Office of Technology Assessment
+## § 474. Director of Office of Technology Assessment
 
 **(a) Appointment; term; compensation**
 
@@ -145,9 +145,9 @@ The Director may appoint with the approval of the Board, a Deputy Director who s
 
 Neither the Director nor the Deputy Director shall engage in any other business, vocation, or employment than that of serving as such Director or Deputy Director, as the case may be; nor shall the Director or Deputy Director, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other arrangement under this chapter.
 
-(Pub. L. 92–484, § 5, Oct. 13, 1972, 86 Stat. 799.)
+(Pub. L. 92–484, § 5, Oct. 13, 1972, 86 Stat. 799.)
 
-## § 475. Powers of Office of Technology Assessment
+## § 475. Powers of Office of Technology Assessment
 
 **(a) Use of public and private personnel and organizations; formation of special ad hoc task forces; contracts with governmental, etc., agencies and instrumentalities; advance, progress, and other payments; utilization of services of voluntary and uncompensated personnel; acquisition, holding, and disposal of real and personal property; promulgation of rules and regulations** The Office shall have the authority, within the limits of available appropriations, to do all things necessary to carry out the provisions of this chapter, including, but without being limited to, the authority to—
 
@@ -183,17 +183,17 @@ On request of the Office, the head of any executive department or agency may det
 
 The Director shall, in accordance with such policies as the Board shall prescribe, appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 92–484, § 6, Oct. 13, 1972, 86 Stat. 799.)
+(Pub. L. 92–484, § 6, Oct. 13, 1972, 86 Stat. 799.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(3), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-## § 476. Technology Assessment Advisory Council
+## § 476. Technology Assessment Advisory Council
 
 **(a) Establishment; composition** The Office shall establish a Technology Assessment Advisory Council (hereinafter referred to as the “Council”). The Council shall be composed of the following twelve members:
 
@@ -221,15 +221,15 @@ The term of office of each member of the Council appointed under subsection (a)(
 
 **(e) Payment to Comptroller General and Director of Congressional Research Service of travel and other necessary expenses; payment to members appointed from public of compensation and reimbursement for travel, subsistence, and other necessary expenses**
 
-**(1)** The members of the Council other than those appointed under subsection (a)(1) shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in 1
+**(1)** The members of the Council other than those appointed under subsection (a)(1) shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in 1
 
-<sup>1</sup>  So in original. Probably should be followed by “section”.
+<sup>1</sup> So in original. Probably should be followed by “section”.
 
 5704 of title 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5, and regulations promulgated thereunder.
 
 **(2)** The members of the Council appointed under subsection (a)(1) shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5, and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
 
-(Pub. L. 92–484, § 7, Oct. 13, 1972, 86 Stat. 800; Pub. L. 99–234, title I, § 107(a), Jan. 2, 1986, 99 Stat. 1759.)
+(Pub. L. 92–484, § 7, Oct. 13, 1972, 86 Stat. 800; Pub. L. 99–234, title I, § 107(a), Jan. 2, 1986, 99 Stat. 1759.)
 
 **Editorial Notes**
 
@@ -249,9 +249,9 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 477. Utilization of services of Library of Congress
+## § 477. Utilization of services of Library of Congress
 
 **(a) Authority of Librarian to make available services and assistance of Congressional Research Service**
 
@@ -269,9 +269,9 @@ Nothing in this section shall alter or modify any services or responsibilities, 
 
 Services and assistance made available to the Office by the Congressional Research Service in accordance with this section may be provided with or without reimbursement from funds of the Office, as agreed upon by the Board and the Librarian of Congress.
 
-(Pub. L. 92–484, § 8, Oct. 13, 1972, 86 Stat. 801.)
+(Pub. L. 92–484, § 8, Oct. 13, 1972, 86 Stat. 801.)
 
-## § 478. Utilization of the Government Accountability Office
+## § 478. Utilization of the Government Accountability Office
 
 **(a) Authority of Government Accountability Office to furnish financial and administrative services**
 
@@ -289,7 +289,7 @@ Nothing in this section shall alter or modify any services or responsibilities, 
 
 Services and assistance made available to the Office by the Government Accountability Office in accordance with this section may be provided with or without reimbursement from funds of the Office, as agreed upon by the Board and the Comptroller General.
 
-(Pub. L. 92–484, § 9, Oct. 13, 1972, 86 Stat. 802; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 92–484, § 9, Oct. 13, 1972, 86 Stat. 802; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -297,7 +297,7 @@ Services and assistance made available to the Office by the Government Accountab
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and wherever appearing in text.
 
-## § 479. Coordination of activities with National Science Foundation
+## § 479. Coordination of activities with National Science Foundation
 
 The Office shall maintain a continuing liaison with the National Science Foundation with respect to—
 
@@ -305,20 +305,20 @@ The Office shall maintain a continuing liaison with the National Science Foundat
 
 **(2)** the promotion of coordination in areas of technology assessment, and the avoidance of unnecessary duplication or overlapping of research activities in the development of technology assessment techniques and programs.
 
-(Pub. L. 92–484, § 10(a), Oct. 13, 1972, 86 Stat. 802.)
+(Pub. L. 92–484, § 10(a), Oct. 13, 1972, 86 Stat. 802.)
 
-## § 480. Omitted
+## § 480. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–484, § 11, Oct. 13, 1972, 86 Stat. 802, which required the Office of Technology Assessment to submit an annual report to Congress on technology assessment and technological areas and programs requiring future analysis, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
+Section, Pub. L. 92–484, § 11, Oct. 13, 1972, 86 Stat. 802, which required the Office of Technology Assessment to submit an annual report to Congress on technology assessment and technological areas and programs requiring future analysis, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
 
-## § 481. Authorization of appropriations; availability of appropriations
+## § 481. Authorization of appropriations; availability of appropriations
 
 **(a)** To enable the Office to carry out its powers and duties, there is hereby authorized to be appropriated to the Office, out of any money in the Treasury not otherwise appropriated, not to exceed $5,000,000 in the aggregate for the two fiscal years ending June 30, 1973, and June 30, 1974, and thereafter such sums as may be necessary.
 
 **(b)** Appropriations made pursuant to the authority provided in subsection (a) shall remain available for obligation, for expenditure, or for obligation and expenditure for such period or periods as may be specified in the Act making such appropriations.
 
-(Pub. L. 92–484, § 12, Oct. 13, 1972, 86 Stat. 803.)
+(Pub. L. 92–484, § 12, Oct. 13, 1972, 86 Stat. 803.)

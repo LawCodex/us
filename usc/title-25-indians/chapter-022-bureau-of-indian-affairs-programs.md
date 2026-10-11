@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Part B of title XI of the Education Amendments of 1978, comprising this chapter, was originally enacted as part B of title XI of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2316, and amended by 1978 Reorg. Plan No. 2, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 99–89, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–228, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–427, Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, May 24, 1990, 104 Stat. 206; Pub. L. 102–531, Oct. 27, 1992, 106 Stat. 3469; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321; Pub. L. 104–140, May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 105–362, Nov. 10, 1998, 112 Stat. 3280; Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763. Part B of title XI of the Act is shown herein, however, as having been added by Pub. L. 107–110 without reference to such intervening amendments because of the extensive amendment of the part’s provisions by Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007.
+Part B of title XI of the Education Amendments of 1978, comprising this chapter, was originally enacted as part B of title XI of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2316, and amended by 1978 Reorg. Plan No. 2, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 99–89, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–228, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–427, Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, May 24, 1990, 104 Stat. 206; Pub. L. 102–531, Oct. 27, 1992, 106 Stat. 3469; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321; Pub. L. 104–140, May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 105–362, Nov. 10, 1998, 112 Stat. 3280; Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763. Part B of title XI of the Act is shown herein, however, as having been added by Pub. L. 107–110 without reference to such intervening amendments because of the extensive amendment of the part’s provisions by Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007.
 
-## § 2000. Declaration of policy
+## § 2000. Declaration of policy
 
 Congress declares that the Federal Government has the sole responsibility for the operation and financial support of the Bureau of Indian Affairs funded school system that it has established on or near Indian reservations and Indian trust lands throughout the Nation for Indian children. It is the policy of the United States to fulfill the Federal Government’s unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children and for the operation and financial support of the Bureau of Indian Affairs-funded school system to work in full cooperation with tribes toward the goal of ensuring that the programs of the Bureau of Indian Affairs-funded school system are of the highest quality and provide for the basic elementary and secondary educational needs of Indian children, including meeting the unique educational and cultural needs of those children.
 
-(Pub. L. 95–561, title XI, § 1120, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007.)
+(Pub. L. 95–561, title XI, § 1120, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,23 +35,23 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–110, title X, § 1041, Jan. 8, 2002, 115 Stat. 2007, provided that: “This part [part D (§§ 1041–1045) of title X of Pub. L. 107–110, enacting this chapter and sections 2501 to 2511 of this title, amending section 13d–2 of this title, and repealing former sections 2501 to 2511 of this title] may be cited as the ‘Native American Education Improvement Act of 2001’.”
+Pub. L. 107–110, title X, § 1041, Jan. 8, 2002, 115 Stat. 2007, provided that: “This part [part D (§§ 1041–1045) of title X of Pub. L. 107–110, enacting this chapter and sections 2501 to 2511 of this title, amending section 13d–2 of this title, and repealing former sections 2501 to 2511 of this title] may be cited as the ‘Native American Education Improvement Act of 2001’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–297, title V, § 5101, Apr. 28, 1988, 102 Stat. 363, provided that: “This part [part A (§§ 5101–5120) of title V of Pub. L. 100–297, enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing section 241bb–1 of Title 20, Education, enacting provisions set out as notes under section 2011 of this title and section 1411 of Title 20, and repealing provisions set out as a note under section 241aa of Title 20] may be cited as the ‘Indian Education Amendments of 1988’.”
+Pub. L. 100–297, title V, § 5101, Apr. 28, 1988, 102 Stat. 363, provided that: “This part [part A (§§ 5101–5120) of title V of Pub. L. 100–297, enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing section 241bb–1 of Title 20, Education, enacting provisions set out as notes under section 2011 of this title and section 1411 of Title 20, and repealing provisions set out as a note under section 241aa of Title 20] may be cited as the ‘Indian Education Amendments of 1988’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–89, § 1(a), Aug. 15, 1985, 99 Stat. 379, provided that: “This Act [amending sections 2001, 2004, 2006, 2008, 2009, 2016, 2020, 2021, and 2022 of this title, repealing section 2023 of this title, and enacting provisions formerly set out as a note under section 2001 of this title] may be cited as the ‘Indian Education Technical Amendments Act of 1985’.”
+Pub. L. 99–89, § 1(a), Aug. 15, 1985, 99 Stat. 379, provided that: “This Act [amending sections 2001, 2004, 2006, 2008, 2009, 2016, 2020, 2021, and 2022 of this title, repealing section 2023 of this title, and enacting provisions formerly set out as a note under section 2001 of this title] may be cited as the ‘Indian Education Technical Amendments Act of 1985’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–511, title V, § 501(a), Oct. 19, 1984, 98 Stat. 2391, provided that: “This title [enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under section 241ff of Title 20] may be cited as the ‘Indian Education Amendments of 1984’.”
+Pub. L. 98–511, title V, § 501(a), Oct. 19, 1984, 98 Stat. 2391, provided that: “This title [enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under section 241ff of Title 20] may be cited as the ‘Indian Education Amendments of 1984’.”
 
 **Bureau of Indian Education Operated Schools**
 
-Pub. L. 112–74, div. E, title I, § 115, Dec. 23, 2011, 125 Stat. 1009, as amended by Pub. L. 113–235, div. F, title I, § 116, Dec. 16, 2014, 128 Stat. 2421; Pub. L. 114–113, div. G, title I, § 113, Dec. 18, 2015, 129 Stat. 2550, provided that:
+Pub. L. 112–74, div. E, title I, § 115, Dec. 23, 2011, 125 Stat. 1009, as amended by Pub. L. 113–235, div. F, title I, § 116, Dec. 16, 2014, 128 Stat. 2421; Pub. L. 114–113, div. G, title I, § 113, Dec. 18, 2015, 129 Stat. 2550, provided that:
 
 > **“(a)**
 
@@ -77,7 +77,7 @@ Pub. L. 112–74, div. E, title I, § 115, Dec. 23, 2011, 125 Stat. 1009, as a
 
 **Therapeutic Model Demonstration Schools**
 
-Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that:
+Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that:
 
 > **“(a) Authorization.—**
 
@@ -129,7 +129,7 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided th
 
 > **“(g) Report.—** Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
 
-## § 2001. Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools
+## § 2001. Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools
 
 **(a) Purpose; declarations of purpose**
 
@@ -177,9 +177,9 @@ The Secretary may provide such assistance directly or through the Department of 
 
 **(4) Application of current standards during accreditation**
 
-A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section 1
+A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and in effect on the day before January 8, 2002, until such time as the school is accredited, except that if any of such standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
 
@@ -249,7 +249,7 @@ A school shall implement the school plan under subparagraph (A) expeditiously, b
 
 **(B) Waiver** The Secretary shall grant a waiver which shall exempt a school from any or all of the requirements of this paragraph and paragraph (7) (though such school shall be required to comply with the standards contained in part 36 of title 25, Code of Federal Register,2
 
-<sup>2</sup>  So in original. Probably should be “Regulations,”.
+<sup>2</sup> So in original. Probably should be “Regulations,”.
 
 as in effect on January 8, 2002) if the school—
 
@@ -285,7 +285,7 @@ as in effect on January 8, 2002) if the school—
 
 **(iv)**
 
-**(I)** Provide the tribe with a 60-day period during which to determine whether the tribe desires to operate the school as a contract or grant school before meeting the accreditation requirements in section 5207(c) of the Tribally Controlled Schools Act of 1988 <sup>1</sup> at the beginning of the next school year following the determination to take corrective action. If the tribe agrees to operate the school as a contract or grant school, the tribe shall prepare a plan, pursuant to paragraph (7), for approval by the Secretary in accordance with paragraph (7), to achieve accreditation.
+**(I)** Provide the tribe with a 60-day period during which to determine whether the tribe desires to operate the school as a contract or grant school before meeting the accreditation requirements in section 5207(c) of the Tribally Controlled Schools Act of 1988 <sup>1</sup> at the beginning of the next school year following the determination to take corrective action. If the tribe agrees to operate the school as a contract or grant school, the tribe shall prepare a plan, pursuant to paragraph (7), for approval by the Secretary in accordance with paragraph (7), to achieve accreditation.
 
 **(II)** If the tribe declines to assume control of the school, the Secretary, in consultation with the tribe, may contract with an outside entity, consistent with applicable law, or appoint a receiver or trustee to operate and administer the affairs of the school until the school is accredited. The outside entity, receiver, or trustee shall prepare a plan, pursuant to paragraph (7), for approval by the Secretary in accordance with paragraph (7).
 
@@ -313,7 +313,7 @@ Upon accreditation of the school, the tribe shall have the option to assume the 
 
 **(v) Retrocede**
 
-Nothing in this subparagraph shall limit a tribe’s right to retrocede operation of a school to the Secretary pursuant to section 105(e) of the Indian Self-Determination Act [25 U.S.C. 5324(e)] (with respect to a contract school) or section 5204(f) of the Tribally Controlled Schools Act of 1988 <sup>1</sup> (with respect to a grant school).
+Nothing in this subparagraph shall limit a tribe’s right to retrocede operation of a school to the Secretary pursuant to section 105(e) of the Indian Self-Determination Act [25 U.S.C. 5324(e)] (with respect to a contract school) or section 5204(f) of the Tribally Controlled Schools Act of 1988 <sup>1</sup> (with respect to a grant school).
 
 **(vi) Consistent**
 
@@ -335,7 +335,7 @@ The Bureau shall, either directly or through contract with an Indian organizatio
 
 **(1) In general**
 
-Except as provided in subsection (b), the Secretary shall implement the standards in effect under this section <sup>1</sup> on the day before January 8, 2002.
+Except as provided in subsection (b), the Secretary shall implement the standards in effect under this section <sup>1</sup> on the day before January 8, 2002.
 
 **(2) Plan**
 
@@ -499,7 +499,7 @@ The Comptroller General of the United States shall conduct a study to determine 
 
 Upon completion of the study, the Secretary of the Interior shall take such action as necessary to ensure distribution of the findings of the study to all affected Indian tribes, local school boards, and associations of local school boards.
 
-(Pub. L. 95–561, title XI, § 1121, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007; amended Pub. L. 109–54, title I, § 127, Aug. 2, 2005, 119 Stat. 525.)
+(Pub. L. 95–561, title XI, § 1121, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007; amended Pub. L. 109–54, title I, § 127, Aug. 2, 2005, 119 Stat. 525.)
 
 **Editorial Notes**
 
@@ -507,17 +507,17 @@ Upon completion of the study, the Secretary of the Interior shall take such acti
 
 This section, referred to in subsec. (b)(4) and the second place appearing in subsec. (c)(1), mean section 1121 of Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110. See Prior Provisions notes below.
 
-The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2001, Pub. L. 95–561, title XI, § 1121, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, § 101(d) [title VII, § 703(d)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, § 801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2001, Pub. L. 95–561, title XI, § 1121, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, § 101(d) [title VII, § 703(d)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, § 801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2001, Pub. L. 95–561, title XI, § 1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, § 2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, § 502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, § 2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, § 4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§ 5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, § 1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, § 312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2001, Pub. L. 95–561, title XI, § 1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, § 2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, § 502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, § 2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, § 4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§ 5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, § 1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, § 312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Amendments**
 
@@ -539,7 +539,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2002. National criteria for home-living situations
+## § 2002. National criteria for home-living situations
 
 **(a) Revision of standards**
 
@@ -599,15 +599,15 @@ The tribal governing body or school board involved shall, not later than 60 days
 
 No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
 
-(Pub. L. 95–561, title XI, § 1122, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2018.)
+(Pub. L. 95–561, title XI, § 1122, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2018.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2002, Pub. L. 95–561, title XI, § 1122, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3984; amended Pub. L. 105–362, title VIII, § 801(c)(2), Nov. 10, 1998, 112 Stat. 3288, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2002, Pub. L. 95–561, title XI, § 1122, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3984; amended Pub. L. 105–362, title VIII, § 801(c)(2), Nov. 10, 1998, 112 Stat. 3288, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2002, Pub. L. 95–561, title XI, § 1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, § 2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, § 5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2002, Pub. L. 95–561, title XI, § 1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, § 2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, § 5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -615,7 +615,7 @@ Another prior section 2002, Pub. L. 95–561, title XI, § 1122, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2003. Codification of regulations
+## § 2003. Codification of regulations
 
 **(a) Part 32 of Title 25, Code of Federal Regulations**
 
@@ -625,7 +625,7 @@ The provisions of part 32 of title 25, Code of Federal Regulations, as in effect
 
 In this section, the term “regulation” means any rule, regulation, guideline, interpretation, order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
 
-(Pub. L. 95–561, title XI, § 1123, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2019.)
+(Pub. L. 95–561, title XI, § 1123, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2019.)
 
 **Editorial Notes**
 
@@ -635,9 +635,9 @@ This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 
 **Prior Provisions**
 
-A prior section 2003, Pub. L. 95–561, title XI, § 1123, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2003, Pub. L. 95–561, title XI, § 1123, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2003, Pub. L. 95–561, title XI, § 1123, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, § 5106, Apr. 28, 1988, 102 Stat. 367, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2003, Pub. L. 95–561, title XI, § 1123, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, § 5106, Apr. 28, 1988, 102 Stat. 367, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -645,7 +645,7 @@ Another prior section 2003, Pub. L. 95–561, title XI, § 1123, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2004. School boundaries
+## § 2004. School boundaries
 
 **(a) Establishment by Secretary**
 
@@ -697,15 +697,15 @@ Notwithstanding any geographical attendance areas, attendance at off-reservation
 
 Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.
 
-(Pub. L. 95–561, title XI, § 1124, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2019.)
+(Pub. L. 95–561, title XI, § 1124, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2019.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2004, Pub. L. 95–561, title XI, § 1124, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3986, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2004, Pub. L. 95–561, title XI, § 1124, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3986, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, § 503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, § 5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, § 503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, § 5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -713,7 +713,7 @@ Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2005. Facilities construction
+## § 2005. Facilities construction
 
 **(a) National survey of facilities conditions**
 
@@ -915,7 +915,7 @@ No funds shall be withheld from the distribution to the budget of any school ope
 
 Nothing in this section shall diminish any Federal funding due to the receipt by the school of funding for facilities improvement or construction from a State or any other source.
 
-(Pub. L. 95–561, title XI, § 1125, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2021; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–561, title XI, § 1125, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2021; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -923,13 +923,13 @@ Nothing in this section shall diminish any Federal funding due to the receipt by
 
 This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 2005, Pub. L. 95–561, title XI, § 1125, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2005, Pub. L. 95–561, title XI, § 1125, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2005, Pub. L. 95–561, title XI, § 1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, § 5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2005, Pub. L. 95–561, title XI, § 1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, § 5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Amendments**
 
@@ -947,9 +947,9 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **Use of Tribal Priority Allocations Funds for School Facilities**
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with [former] 25 U.S.C. 2005(a) [see now 25 U.S.C. 2005(b)], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with [former] 25 U.S.C. 2005(a) [see now 25 U.S.C. 2005(b)], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
 
-## § 2006. Bureau of Indian Affairs education functions
+## § 2006. Bureau of Indian Affairs education functions
 
 **(a) Formulation and establishment of policy and procedure; supervision of programs and expenditures**
 
@@ -1029,7 +1029,7 @@ The requirements of paragraph (2) shall not apply in the case of a gift or beque
 
 For the purpose of this section, the term “functions” includes powers and duties.
 
-(Pub. L. 95–561, title XI, § 1126, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2026.)
+(Pub. L. 95–561, title XI, § 1126, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2026.)
 
 **Editorial Notes**
 
@@ -1037,13 +1037,13 @@ For the purpose of this section, the term “functions” includes powers and du
 
 This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2006, Pub. L. 95–561, title XI, § 1126, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3988, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2006, Pub. L. 95–561, title XI, § 1126, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3988, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 96–46, § 2(b)(6), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 504, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 4, Aug. 15, 1985, 99 Stat. 381; Pub. L. 100–427, § 1(c)(3), Sept. 9, 1988, 102 Stat. 1603, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 96–46, § 2(b)(6), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 504, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 4, Aug. 15, 1985, 99 Stat. 381; Pub. L. 100–427, § 1(c)(3), Sept. 9, 1988, 102 Stat. 1603, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1051,7 +1051,7 @@ Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2007. Allotment formula
+## § 2007. Allotment formula
 
 **(a) Factors considered; revision to reflect standards**
 
@@ -1163,9 +1163,9 @@ The Secretary shall reserve from the funds available for distribution for each f
 
 **(2) Use of funds**
 
-Funds reserved under this subsection may be expended only for education services or programs, including emergency repairs of educational facilities, at a schoolsite (as defined by section 2503(c)(2) 1
+Funds reserved under this subsection may be expended only for education services or programs, including emergency repairs of educational facilities, at a schoolsite (as defined by section 2503(c)(2) 1
 
-<sup>1</sup>  So in original. Probably should be section “2502(c)(2)”.
+<sup>1</sup> So in original. Probably should be section “2502(c)(2)”.
 
 of this title).
 
@@ -1217,21 +1217,21 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 **(1) In general**
 
-Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
+Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
 
 **(2) No administrative cost funds**
 
 No additional administrative cost funds shall be provided under this chapter to pay for administrative costs relating to the instruction of the students.
 
-(Pub. L. 95–561, title XI, § 1127, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2028.)
+(Pub. L. 95–561, title XI, § 1127, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2028.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2007, Pub. L. 95–561, title XI, § 1127, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2007, Pub. L. 95–561, title XI, § 1127, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2007, Pub. L. 95–561, title XI, § 1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2007, Pub. L. 95–561, title XI, § 1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1239,7 +1239,7 @@ Another prior section 2007, Pub. L. 95–561, title XI, § 1127, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2008. Administrative cost grants
+## § 2008. Administrative cost grants
 
 **(a) Definitions** In this section:
 
@@ -1455,9 +1455,9 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 **(2) Reductions**
 
-If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) bears to the total of all grants determined under subsection (c) section 1
+If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) bears to the total of all grants determined under subsection (c) section 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 for all tribes and tribal organizations for such fiscal year.
 
@@ -1469,9 +1469,9 @@ The provisions of this section shall apply to schools operating under the Tribal
 
 **(1) In general**
 
-Beginning with President’s 2
+Beginning with President’s 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 annual budget request under section 1105 of title 31 for fiscal year 2002, and with respect to each succeeding budget request, at the discretion of the Secretary, the Secretary shall submit to the appropriate committees of Congress information and funding requests for the full funding of administrative costs grants required to be paid under this section.
 
@@ -1485,25 +1485,25 @@ With respect to a budget request under paragraph (1), the amount required to pro
 
 With respect to a budget request under paragraph (1), the amount required to provide full funding for an administrative cost grant for each tribe or tribal organization operating a contract or grant school at the time the annual budget request is submitted, which amount shall include the amount of funds required to provide full funding for an administrative cost grant for each tribe or tribal organization which began operation of a contract or grant school with administrative cost grant funds supplied from the amount described in subparagraph (A).
 
-(Pub. L. 95–561, title XI, § 1128, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2032.)
+(Pub. L. 95–561, title XI, § 1128, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2032.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(1) and (k), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(1) and (k), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2008, Pub. L. 95–561, title XI, § 1128, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3993, related to administrative cost grants, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2008, Pub. L. 95–561, title XI, § 1128, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3993, related to administrative cost grants, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2008 and a prior section 2008a were omitted in the general amendment of this chapter by Pub. L. 103–382.
 
-Section 2008, Pub. L. 95–561, title XI, § 1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, § 2(b)(7), (8), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, § 5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, § 1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§ 5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§ 2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, § 5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, § 393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
+Section 2008, Pub. L. 95–561, title XI, § 1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, § 2(b)(7), (8), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, § 5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, § 1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§ 5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§ 2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, § 5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, § 393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
 
-Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–297, title V, § 5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, § 4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, § 5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
+Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–297, title V, § 5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, § 4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, § 5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1511,7 +1511,7 @@ Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–29
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2009. Division of Budget Analysis
+## § 2009. Division of Budget Analysis
 
 **(a) Establishment**
 
@@ -1533,15 +1533,15 @@ In consultation with the tribal governing bodies and tribal school boards, the D
 
 The Director of the Office and the Assistant Secretary for Indian Affairs shall use the annual report required by subsection (c) when preparing annual budget submissions.
 
-(Pub. L. 95–561, title XI, § 1129, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2038.)
+(Pub. L. 95–561, title XI, § 1129, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2038.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2009, Pub. L. 95–561, title XI, § 1129, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2009, Pub. L. 95–561, title XI, § 1129, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V, §§ 506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, § 6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, § 4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§ 5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§ 6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V, §§ 506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, § 6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, § 4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§ 5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§ 6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1549,7 +1549,7 @@ Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2010. Uniform direct funding and support
+## § 2010. Uniform direct funding and support
 
 **(a) Establishment of system and forward funding**
 
@@ -1625,9 +1625,9 @@ A local financial plan under paragraph (1) shall comply with all applicable Fede
 
 **(A) In general**
 
-The financial plan for a school under subparagraph (A) 1
+The financial plan for a school under subparagraph (A) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1)”.
+<sup>1</sup> So in original. Probably should be “paragraph (1)”.
 
 shall be prepared by the supervisor of the school in active consultation with the local school board for the school.
 
@@ -1735,25 +1735,25 @@ Notwithstanding any other provision of law, funds received by a Bureau-funded sc
 
 In considering an application from a Bureau-funded school for participation in a program or project that requires matching funds, the entity administering such program or project or awarding such grant shall not give positive or negative weight to such application based solely on the provisions of paragraph (1).
 
-(Pub. L. 95–561, title XI, § 1130, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2039.)
+(Pub. L. 95–561, title XI, § 1130, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2039.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-This chapter, referred to in subsec. (h)(1), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in subsec. (h)(1), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 **Prior Provisions**
 
-A prior section 2010, Pub. L. 95–561, title XI, § 1130, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2010, Pub. L. 95–561, title XI, § 1130, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2010, Pub. L. 95–561, title XI, § 1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, § 5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, § 7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2010, Pub. L. 95–561, title XI, § 1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, § 5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, § 7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1761,7 +1761,7 @@ Another prior section 2010, Pub. L. 95–561, title XI, § 1130, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2011. Policy for Indian control of Indian education
+## § 2011. Policy for Indian control of Indian education
 
 **(a) Facilitation of Indian control**
 
@@ -1789,7 +1789,7 @@ In this subsection, the term “consultation” means a process involving the op
 
 The Secretary shall submit to any Member of Congress, within 18 days of the receipt of a written request by such Member, a written explanation of any decision made by the Secretary which is not consistent with the views of the interested parties described in subparagraph (B).
 
-(Pub. L. 95–561, title XI, § 1131, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2043.)
+(Pub. L. 95–561, title XI, § 1131, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2043.)
 
 **Editorial Notes**
 
@@ -1799,9 +1799,9 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 95–561, Nov. 1, 1978, 9
 
 **Prior Provisions**
 
-A prior section 2011, Pub. L. 95–561, title XI, § 1131, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4001, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2011, Pub. L. 95–561, title XI, § 1131, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4001, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 92 Stat. 2322; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–511, title V, § 507(b), Oct. 19, 1984, 98 Stat. 2396; Pub. L. 100–297, title V, §§ 5112(a), (b)(1), 5114, 5115, Apr. 28, 1988, 102 Stat. 377, 378, 380; Pub. L. 100–427, § 9(a)–(c), Sept. 9, 1988, 102 Stat. 1606, related to education personnel, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 92 Stat. 2322; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–511, title V, § 507(b), Oct. 19, 1984, 98 Stat. 2396; Pub. L. 100–297, title V, §§ 5112(a), (b)(1), 5114, 5115, Apr. 28, 1988, 102 Stat. 377, 378, 380; Pub. L. 100–427, § 9(a)–(c), Sept. 9, 1988, 102 Stat. 1606, related to education personnel, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1809,7 +1809,7 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2012. Indian education personnel
+## § 2012. Indian education personnel
 
 **(a) In general**
 
@@ -1849,9 +1849,9 @@ Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to
 
 **(B)** a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2), in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2), a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
-**(C)** that 1
+**(C)** that 1
 
-<sup>1</sup>  So in original. The word “that” probably should not appear.
+<sup>1</sup> So in original. The word “that” probably should not appear.
 
 it shall not be a prerequisite to the employment of an individual in an education position at the local level that—
 
@@ -1911,9 +1911,9 @@ Notwithstanding subsection (e), if the individual’s statement is found to have
 
 **(D) Conditional appointment for national provision**
 
-If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) 2
+If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) 2
 
-<sup>2</sup>  So in original. Subsec. (c)(1)(A) does not contain clauses.
+<sup>2</sup> So in original. Subsec. (c)(1)(A) does not contain clauses.
 
 to the position to which such individual was appointed.
 
@@ -2099,9 +2099,9 @@ In a case in which the establishment of rates under clause (i) causes a reductio
 
 **(i)** preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
 
-**(ii)** affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) 3
+**(ii)** affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 as in effect on January 1, 1990.
 
@@ -2153,9 +2153,9 @@ In the case of any educator who is transferred, promoted, or reappointed, withou
 
 An educator who voluntarily terminates employment with the Bureau before the expiration of the existing employment contract between such educator and the Bureau shall not be eligible to be employed in another education position in the Bureau during the remainder of the term of such contract.
 
-**(k) Dual compensation** In the case of any educator employed in an education position described in subsection (*l*)(1)(A) 4
+**(k) Dual compensation** In the case of any educator employed in an education position described in subsection (*l*)(1)(A) 4
 
-<sup>4</sup>  So in original. Subsec. (*l*)(1) does not contain subpars.
+<sup>4</sup> So in original. Subsec. (*l*)(1) does not contain subpars.
 
 who—
 
@@ -2267,15 +2267,15 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 **(q) Furlough without consent**
 
-**(1) In general** An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,5
+**(1) In general** An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,5
 
-<sup>5</sup>  So in original. The comma probably should be a closing parenthesis.
+<sup>5</sup> So in original. The comma probably should be a closing parenthesis.
 
 without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
-**(A)** the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) 6
+**(A)** the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) 6
 
-<sup>6</sup>  So in original. Probably should be section “2010(b)”.
+<sup>6</sup> So in original. Probably should be section “2010(b)”.
 
 of this title; and
 
@@ -2293,7 +2293,7 @@ The supervisor of a Bureau school may appeal to the appropriate agency education
 
 The Secretary is authorized to provide annual stipends to teachers who become certified by the National Board of Professional Teaching Standards, the National Council on Teacher Quality, or other nationally recognized certification or credentialing organizations.
 
-(Pub. L. 95–561, title XI, § 1132, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2044.)
+(Pub. L. 95–561, title XI, § 1132, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2044.)
 
 **Editorial Notes**
 
@@ -2301,15 +2301,15 @@ The Secretary is authorized to provide annual stipends to teachers who become ce
 
 The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
 
 Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (*o*) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
 
 **Prior Provisions**
 
-A prior section 2012, Pub. L. 95–561, title XI, § 1132, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4002; amended Pub. L. 105–362, title VIII, § 801(c)(3), Nov. 10, 1998, 112 Stat. 3288, related to education personnel, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2012, Pub. L. 95–561, title XI, § 1132, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4002; amended Pub. L. 105–362, title VIII, § 801(c)(3), Nov. 10, 1998, 112 Stat. 3288, related to education personnel, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2012, Pub. L. 95–561, title XI, § 1132, Nov. 1, 1978, 92 Stat. 2326; Pub. L. 96–46, § 2(b)(9), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 508, Oct. 19, 1984, 98 Stat. 2397, related to establishment of a computerized management information system, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2012, Pub. L. 95–561, title XI, § 1132, Nov. 1, 1978, 92 Stat. 2326; Pub. L. 96–46, § 2(b)(9), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 508, Oct. 19, 1984, 98 Stat. 2397, related to establishment of a computerized management information system, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2319,19 +2319,19 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions**
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of [former] 25 U.S.C. 2012(h)(1)(A) and (B) [see now 25 U.S.C. 2012(g)(1)(A), (B)], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary [of the Interior] shall establish adjustments to the rates of basic compensation or annual salary rates established under [former] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: *Provided further*, That any reduction to rates of basic compensation or annual salary rates below the rates established under [former] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under [former] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
+Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of [former] 25 U.S.C. 2012(h)(1)(A) and (B) [see now 25 U.S.C. 2012(g)(1)(A), (B)], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary [of the Interior] shall establish adjustments to the rates of basic compensation or annual salary rates established under [former] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: *Provided further*, That any reduction to rates of basic compensation or annual salary rates below the rates established under [former] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under [former] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: “That beginning in fiscal year 1998 and thereafter and notwithstanding [former] 25 U.S.C. 2012(h)(1)(B) [see now 25 U.S.C. 2012(g)(1)(B)], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act [20 U.S.C. 901 et seq.], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively”.
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193.
+Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193.
 
-## § 2013. Computerized management information system
+## § 2013. Computerized management information system
 
 **(a) In general** Not later than 12 months after January 8, 2002, the Secretary shall update the computerized management information system within the Office. The information to be updated shall include information regarding—
 
@@ -2361,15 +2361,15 @@ Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 S
 
 Not later than July 1, 2003, the Secretary shall complete the implementation of the updated computerized management information system at each Bureau field office and Bureau-funded school.
 
-(Pub. L. 95–561, title XI, § 1133, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2055.)
+(Pub. L. 95–561, title XI, § 1133, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2055.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2013, Pub. L. 95–561, title XI, § 1133, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to management information system, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2013, Pub. L. 95–561, title XI, § 1133, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to management information system, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2013, Pub. L. 95–561, title XI, § 1133, Nov. 1, 1978, 92 Stat. 2327, related to Bureau education policies, practices, and procedures, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2013, Pub. L. 95–561, title XI, § 1133, Nov. 1, 1978, 92 Stat. 2327, related to Bureau education policies, practices, and procedures, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2377,19 +2377,19 @@ Another prior section 2013, Pub. L. 95–561, title XI, § 1133, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2014. Recruitment of Indian educators
+## § 2014. Recruitment of Indian educators
 
 The Secretary shall institute a policy for the recruitment of qualified Indian educators and a detailed plan to promote employees from within the Bureau. Such plan shall include opportunities for acquiring work experience prior to actual work assignment.
 
-(Pub. L. 95–561, title XI, § 1134, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2055.)
+(Pub. L. 95–561, title XI, § 1134, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2055.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2014, Pub. L. 95–561, title XI, § 1134, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to Bureau education policies, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2014, Pub. L. 95–561, title XI, § 1134, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to Bureau education policies, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2014, Pub. L. 95–561, title XI, § 1134, Nov. 1, 1978, 92 Stat. 2327, related to uniform education procedures and practices by Bureau divisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2014, Pub. L. 95–561, title XI, § 1134, Nov. 1, 1978, 92 Stat. 2327, related to uniform education procedures and practices by Bureau divisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2397,7 +2397,7 @@ Another prior section 2014, Pub. L. 95–561, title XI, § 1134, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2015. Annual report; audits
+## § 2015. Annual report; audits
 
 **(a) Annual reports** The Secretary shall submit to each appropriate committee of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools, a detailed annual report on the state of education within the Bureau, and any problems encountered in Indian education during the period covered by the report, that includes—
 
@@ -2407,9 +2407,9 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **(b) Budget request**
 
-The annual budget request for the education programs of the Bureau, as submitted as part of the President’s next annual budget request under section 1105 of title 31 shall include the plans required by sections 2001(c), 2002(c), and 2004(c) 1
+The annual budget request for the education programs of the Bureau, as submitted as part of the President’s next annual budget request under section 1105 of title 31 shall include the plans required by sections 2001(c), 2002(c), and 2004(c) 1
 
-<sup>1</sup>  So in original. Probably should be “2005(c)”.
+<sup>1</sup> So in original. Probably should be “2005(c)”.
 
 of this title.
 
@@ -2421,15 +2421,15 @@ The Inspector General of the Department of the Interior shall establish a system
 
 The Director shall, at least once every 3 to 5 years, conduct a comprehensive evaluation of Bureau-operated schools. Such evaluation shall be in addition to any other program review or evaluation that may be required under Federal law.
 
-(Pub. L. 95–561, title XI, § 1135, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
+(Pub. L. 95–561, title XI, § 1135, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2015, Pub. L. 95–561, title XI, § 1135, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to uniform education procedures and practices, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2015, Pub. L. 95–561, title XI, § 1135, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to uniform education procedures and practices, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2015, Pub. L. 95–561, title XI, § 1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2015, Pub. L. 95–561, title XI, § 1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2437,7 +2437,7 @@ Another prior section 2015, Pub. L. 95–561, title XI, § 1135, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2016. Rights of Indian students
+## § 2016. Rights of Indian students
 
 The Secretary shall prescribe such rules and regulations as are necessary to ensure the constitutional and civil rights of Indian students attending Bureau-funded schools, including such students’ rights to—
 
@@ -2447,17 +2447,17 @@ The Secretary shall prescribe such rules and regulations as are necessary to ens
 
 **(3)** due process in connection with disciplinary actions, suspensions, and expulsions.
 
-(Pub. L. 95–561, title XI, § 1136, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
+(Pub. L. 95–561, title XI, § 1136, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2016, Pub. L. 95–561, title XI, § 1136, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to recruitment of Indian educators, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2014 of this title.
+A prior section 2016, Pub. L. 95–561, title XI, § 1136, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to recruitment of Indian educators, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2014 of this title.
 
-Another prior section 2016, Pub. L. 95–561, title XI, § 1136, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 97–375, title II, § 208(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 98–511, title V, § 509, Oct. 19, 1984, 98 Stat. 2397; Pub. L. 99–89, § 7, Aug. 15, 1985, 99 Stat. 383, related to annual reports to Congressional committees and audits, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2016, Pub. L. 95–561, title XI, § 1136, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 97–375, title II, § 208(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 98–511, title V, § 509, Oct. 19, 1984, 98 Stat. 2397; Pub. L. 99–89, § 7, Aug. 15, 1985, 99 Stat. 383, related to annual reports to Congressional committees and audits, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-A prior section 2016a, Pub. L. 100–297, title VI, § 6210, Apr. 28, 1988, 102 Stat. 427, directed Assistant Secretary of the Interior for Bureau of Indian Affairs to submit to appropriate committees of Congress, the President, and the Secretary by September 30 of every other year a report on education of Indian children, prior to repeal by Pub. L. 100–427, § 27, Sept. 9, 1988, 102 Stat. 1614.
+A prior section 2016a, Pub. L. 100–297, title VI, § 6210, Apr. 28, 1988, 102 Stat. 427, directed Assistant Secretary of the Interior for Bureau of Indian Affairs to submit to appropriate committees of Congress, the President, and the Secretary by September 30 of every other year a report on education of Indian children, prior to repeal by Pub. L. 100–427, § 27, Sept. 9, 1988, 102 Stat. 1614.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2465,7 +2465,7 @@ A prior section 2016a, Pub. L. 100–297, title VI, § 6210, Apr. 28, 1988, 10
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2017. Regulations
+## § 2017. Regulations
 
 **(a) Promulgation**
 
@@ -2475,7 +2475,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **(B)** as the Secretary is authorized to promulgate pursuant to section 2510 of this title.1
 
-<sup>1</sup>  So in original. Probably should be section “2509”.
+<sup>1</sup> So in original. Probably should be section “2509”.
 
 **(2) Publication** In promulgating the regulations, the Secretary shall—
 
@@ -2491,7 +2491,7 @@ The regulations shall contain, immediately following each regulatory section, a 
 
 The provisions of this Act shall supersede any conflicting provisions of law (including any conflicting regulations) in effect on the day before the date of enactment of this Act and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this Act.
 
-(Pub. L. 95–561, title XI, § 1137, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
+(Pub. L. 95–561, title XI, § 1137, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2056.)
 
 **Editorial Notes**
 
@@ -2501,9 +2501,9 @@ This Act, referred to in subsec. (b), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 
 **Prior Provisions**
 
-A prior section 2017, Pub. L. 95–561, title XI, § 1137, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–362, title VIII, § 801(c)(4), Nov. 10, 1998, 112 Stat. 3288, related to biennial report, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2015 of this title.
+A prior section 2017, Pub. L. 95–561, title XI, § 1137, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–362, title VIII, § 801(c)(4), Nov. 10, 1998, 112 Stat. 3288, related to biennial report, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2015 of this title.
 
-Another prior section 2017, Pub. L. 95–561, title XI, § 1137, Nov. 1, 1978, 92 Stat. 2327, related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2017, Pub. L. 95–561, title XI, § 1137, Nov. 1, 1978, 92 Stat. 2327, related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2511,7 +2511,7 @@ Another prior section 2017, Pub. L. 95–561, title XI, § 1137, Nov. 1, 1978,
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2018. Regional meetings and negotiated rulemaking
+## § 2018. Regional meetings and negotiated rulemaking
 
 **(a) Regional meetings**
 
@@ -2553,27 +2553,27 @@ The provisions of this section shall supersede any conflicting regulations in ef
 
 The Secretary may modify regulations promulgated under this section or the Tribally Controlled Schools Act of 1988 [25 U.S.C. 2501 et seq.], only in accordance with this section.
 
-(Pub. L. 95–561, title XI, § 1138, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2057; amended Pub. L. 117–286, § 4(a)(182), Dec. 27, 2022, 136 Stat. 4326.)
+(Pub. L. 95–561, title XI, § 1138, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2057; amended Pub. L. 117–286, § 4(a)(182), Dec. 27, 2022, 136 Stat. 4326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tribally Controlled Schools Act of 1988, referred to in subsecs. (a), (b)(1), (2), and (c)(2), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsecs. (a), (b)(1), (2), and (c)(2), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The date of enactment of this chapter, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 107–110, which amended this chapter generally and was approved Jan. 8, 2002.
 
 **Prior Provisions**
 
-A prior section 2018, Pub. L. 95–561, title XI, § 1138, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
+A prior section 2018, Pub. L. 95–561, title XI, § 1138, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
 
-Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, § 510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, § 510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Amendments**
 
-2022—Subsec. (b)(3)(E). Pub. L. 117–286, § 4(a)(182)(A), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+2022—Subsec. (b)(3)(E). Pub. L. 117–286, § 4(a)(182)(A), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-Subsec. (b)(4). Pub. L. 117–286, § 4(a)(182)(B), substituted “section 1006(d) of title 5,” for “section 7(d) of the Federal Advisory Committee Act,”.
+Subsec. (b)(4). Pub. L. 117–286, § 4(a)(182)(B), substituted “section 1006(d) of title 5,” for “section 7(d) of the Federal Advisory Committee Act,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2581,7 +2581,7 @@ Subsec. (b)(4). Pub. L. 117–286, § 4(a)(182)(B), substituted “section 100
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2019. Early childhood development program
+## § 2019. Early childhood development program
 
 **(a) In general**
 
@@ -2665,19 +2665,19 @@ The Secretary shall, out of funds appropriated under subsection (g), include in 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 95–561, title XI, § 1139, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2058; amended Pub. L. 114–95, title IX, § 9215(cc)(1), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 95–561, title XI, § 1139, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2058; amended Pub. L. 114–95, title IX, § 9215(cc)(1), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 2 of part B of title II of the Act is classified generally to subpart 2 (§ 6641 et seq.) of part B of subchapter II of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 2 of part B of title II of the Act is classified generally to subpart 2 (§ 6641 et seq.) of part B of subchapter II of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 **Prior Provisions**
 
-A prior section 2019, Pub. L. 95–561, title XI, § 1139, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, prior to repeal by Pub. L. 105–362, title VIII, § 801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See section 2017 of this title.
+A prior section 2019, Pub. L. 95–561, title XI, § 1139, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, prior to repeal by Pub. L. 105–362, title VIII, § 801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See section 2017 of this title.
 
-Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, § 5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, § 1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, § 5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, § 5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, § 1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, § 5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Amendments**
 
@@ -2693,7 +2693,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2020. Tribal departments or divisions of education
+## § 2020. Tribal departments or divisions of education
 
 **(a) In general**
 
@@ -2747,15 +2747,15 @@ A tribe that receives a grant under this section shall comply with regulations r
 
 There are authorized to be appropriated to carry out this section $2,000,000.
 
-(Pub. L. 95–561, title XI, § 1140, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2059.)
+(Pub. L. 95–561, title XI, § 1140, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2059.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
-Another prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 98–511, title V, § 511, Oct. 19, 1984, 98 Stat. 2397; amended Pub. L. 99–89, § 8, Aug. 15, 1985, 99 Stat. 383, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 98–511, title V, § 511, Oct. 19, 1984, 98 Stat. 2397; amended Pub. L. 99–89, § 8, Aug. 15, 1985, 99 Stat. 383, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2763,7 +2763,7 @@ Another prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub.
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2021. Definitions
+## § 2021. Definitions
 
 For the purposes of this chapter, unless otherwise specified:
 
@@ -2879,47 +2879,47 @@ The term “tribal governing body” means, with respect to any school, the trib
 
 The term “tribe” means any Indian tribe, band, nation, or other organized group or community, including an Alaska Native Regional Corporation or Village Corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-(Pub. L. 95–561, title XI, § 1141, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2061; amended Pub. L. 114–95, title IX, § 9215(cc)(2), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 95–561, title XI, § 1141, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2061; amended Pub. L. 114–95, title IX, § 9215(cc)(2), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 This Act, referred to in par. (16)(A), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-This chapter, referred to in par. (16)(B), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, as amended, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+This chapter, referred to in par. (16)(B), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, as amended, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Prior Provisions**
 
-A prior section 2021, Pub. L. 95–561, title XI, § 1141, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2021, Pub. L. 95–561, title XI, § 1141, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
-Another prior section 2021, Pub. L. 95–561, title XI, § 1140A, formerly § 1141, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398; renumbered § 1140A and amended Pub. L. 99–89, § 9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2021, Pub. L. 95–561, title XI, § 1140A, formerly § 1141, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398; renumbered § 1140A and amended Pub. L. 99–89, § 9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-A prior section 2022, Pub. L. 95–561, title XI, § 1142, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2022, Pub. L. 95–561, title XI, § 1142, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012, related to extracurricular activities, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2022 and prior sections 2022a and 2022b were omitted in the general amendment of this chapter by Pub. L. 103–382.
 
-Section 2022, Pub. L. 95–561, title XI, § 1140B, formerly § 1142, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398; renumbered § 1140B, and amended Pub. L. 99–89, § 9(a)(1), (c), Aug. 15, 1985, 99 Stat. 383, related to extracurricular activities.
+Section 2022, Pub. L. 95–561, title XI, § 1140B, formerly § 1142, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398; renumbered § 1140B, and amended Pub. L. 99–89, § 9(a)(1), (c), Aug. 15, 1985, 99 Stat. 383, related to extracurricular activities.
 
-Section 2022a, Pub. L. 95–561, title XI, § 1141, as added Pub. L. 100–297, title V, § 5116(2), Apr. 28, 1988, 102 Stat. 381, related to early childhood development program.
+Section 2022a, Pub. L. 95–561, title XI, § 1141, as added Pub. L. 100–297, title V, § 5116(2), Apr. 28, 1988, 102 Stat. 381, related to early childhood development program.
 
-Section 2022b, Pub. L. 95–561, title XI, § 1142, as added Pub. L. 100–297, title V, § 5119, Apr. 28, 1988, 102 Stat. 383, related to tribal departments of education.
+Section 2022b, Pub. L. 95–561, title XI, § 1142, as added Pub. L. 100–297, title V, § 5119, Apr. 28, 1988, 102 Stat. 383, related to tribal departments of education.
 
-A prior section 2023, Pub. L. 95–561, title XI, § 1143, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1607(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2019 of this title.
+A prior section 2023, Pub. L. 95–561, title XI, § 1143, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4012; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1607(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2019 of this title.
 
-Another prior section 2023, Pub. L. 95–561, title XI, § 1143, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, § 9(a)(2), Aug. 15, 1985, 99 Stat. 383.
+Another prior section 2023, Pub. L. 95–561, title XI, § 1143, as added Pub. L. 98–511, title V, § 512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, § 9(a)(2), Aug. 15, 1985, 99 Stat. 383.
 
 Prior sections 2024 to 2026 were omitted in the general amendment of this chapter by Pub. L. 107–110.
 
-Section 2024, Pub. L. 95–561, title XI, § 1144, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4013; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal departments of education. See section 2020 of this title.
+Section 2024, Pub. L. 95–561, title XI, § 1144, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4013; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal departments of education. See section 2020 of this title.
 
-Section 2025, Pub. L. 95–561, title XI, § 1145, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015, related to payments to grantees.
+Section 2025, Pub. L. 95–561, title XI, § 1145, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015, related to payments to grantees.
 
-Section 2026, Pub. L. 95–561, title XI, § 1146, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1607(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms. See section 2021 of this title.
+Section 2026, Pub. L. 95–561, title XI, § 1146, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1607(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms. See section 2021 of this title.
 
 **Amendments**
 

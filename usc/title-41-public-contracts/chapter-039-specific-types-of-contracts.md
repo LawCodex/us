@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Separability**
 
-Act June 30, 1949, ch. 288, title VI, § 604, formerly title V, § 504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583, provided that: “If any provision of this Act [see Tables for classification], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Act June 30, 1949, ch. 288, title VI, § 604, formerly title V, § 504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583, provided that: “If any provision of this Act [see Tables for classification], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 **Prohibition on Contracting With Certain Biotechnology Providers**
 
-Pub. L. 119–60, div. A, title VIII, § 851, Dec. 18, 2025, 139 Stat. 981, provided that:
+Pub. L. 119–60, div. A, title VIII, § 851, Dec. 18, 2025, 139 Stat. 981, provided that:
 
 > **“(a) In General.—** The head of an executive agency may not—
 
@@ -459,7 +459,7 @@ Pub. L. 118–31, div. A, title XVIII, subtitle B, Dec. 22, 2023, 137 Stat. 691,
 
 **Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment**
 
-Pub. L. 115–232, div. A, title VIII, § 889, Aug. 13, 2018, 132 Stat. 1917, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(5), Jan. 1, 2021, 134 Stat. 3874, provided that:
+Pub. L. 115–232, div. A, title VIII, § 889, Aug. 13, 2018, 132 Stat. 1917, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(5), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 > **“(a) Prohibition on Use or Procurement.—**
 
@@ -521,11 +521,11 @@ Pub. L. 115–232, div. A, title VIII, § 889, Aug. 13, 2018, 132 Stat. 1917, 
 
 > **“(4) Executive agency.—** The term ‘executive agency’ has the meaning given the term in section 133 of title 41, United States Code.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(5) of Pub. L. 116–283 to section 889 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
+[Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(5) of Pub. L. 116–283 to section 889 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
 
 **Share-in-Savings Contracts**
 
-Act June 30, 1949, ch. 288, title III, § 317, as added Pub. L. 107–347, title II, § 210(b), Dec. 17, 2002, 116 Stat. 2934, provided that:
+Act June 30, 1949, ch. 288, title III, § 317, as added Pub. L. 107–347, title II, § 210(b), Dec. 17, 2002, 116 Stat. 2934, provided that:
 
 > **“(a) Authority To Enter Into Share-in-Savings Contracts.—**
 
@@ -615,7 +615,7 @@ Ex. Ord. No. 13496, Jan. 30, 2009, 74 F.R. 6107, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 *et seq*., and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
 
-Section 1. *Policy*. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods or services, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers’ productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 *et seq*. As the Act recognizes, “encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection” will “eliminate the causes of certain substantial obstructions to the free flow of commerce” and “mitigate and eliminate these obstructions when they have occurred.” 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government’s contracts.
+Section 1. *Policy*. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods or services, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers’ productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 *et seq*. As the Act recognizes, “encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection” will “eliminate the causes of certain substantial obstructions to the free flow of commerce” and “mitigate and eliminate these obstructions when they have occurred.” 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government’s contracts.
 
 Sec. 2. *Contract Clause*. Except in contracts exempted in accordance with section 3 of this order, all Government contracting departments and agencies shall, to the extent consistent with law, include the following provisions in every Government contract, other than collective bargaining agreements as defined in 5 U.S.C. 7103(a)(8) and purchases under the simplified acquisition threshold as defined in the Office of Federal Procurement Policy Act, 41 U.S.C. 403.
 
@@ -693,7 +693,7 @@ Barack Obama.
 
 **Executive Order No. 13502**
 
-Ex. Ord. No. 13502, Feb. 6, 2009, 74 F.R. 6985, relating to use of project labor agreements for Federal construction projects, was revoked by Ex. Ord. 14063, § 10, Feb. 4, 2022, 87 F.R. 7365, set out below, as of the effective date of the final regulations issued by the FAR Council under section 8(a) of Ex. Ord. 14063 [Jan. 22, 2024, see 88 F.R. 88708].
+Ex. Ord. No. 13502, Feb. 6, 2009, 74 F.R. 6985, relating to use of project labor agreements for Federal construction projects, was revoked by Ex. Ord. 14063, § 10, Feb. 4, 2022, 87 F.R. 7365, set out below, as of the effective date of the final regulations issued by the FAR Council under section 8(a) of Ex. Ord. 14063 [Jan. 22, 2024, see 88 F.R. 88708].
 
 **Ex. Ord. No. 13981. Protecting the United States From Certain Unmanned Aircraft Systems**
 
@@ -859,7 +859,7 @@ Sec. 13. *General Provisions*. (a) Nothing in this order shall be construed to i
 
 J.R. Biden, Jr.
 
-## § 3901. Contracts awarded using procedures other than sealed-bid procedures
+## § 3901. Contracts awarded using procedures other than sealed-bid procedures
 
 **(a) Authorized Types.—** Except as provided in section 3905 of this title, contracts awarded after using procedures other than sealed-bid procedures may be of any type which in the opinion of the agency head will promote the best interests of the Federal Government.
 
@@ -871,13 +871,13 @@ J.R. Biden, Jr.
 
 **(3) Nonapplication.—** Paragraph (1) does not apply to a contract for an amount that is not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial products or commercial services.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774; Pub. L. 115–232, div. A, title VIII, § 836(b)(16), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774; Pub. L. 115–232, div. A, title VIII, § 836(b)(16), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3901 | 41:254(a). | June 30, 1949, ch. 288, title III, § 304(a), 63 Stat. 395; Pub. L. 98–369, div. B, title VII, § 2714(a)(3)(A), (B), July 18, 1984, 98 Stat. 1184; Pub. L. 103–355, title IV, § 4103(c), title VIII, § 8204(b), Oct. 13, 1994, 108 Stat. 3341, 3396. |
+| 3901 | 41:254(a). | June 30, 1949, ch. 288, title III, § 304(a), 63 Stat. 395; Pub. L. 98–369, div. B, title VII, § 2714(a)(3)(A), (B), July 18, 1984, 98 Stat. 1184; Pub. L. 103–355, title IV, § 4103(c), title VIII, § 8204(b), Oct. 13, 1994, 108 Stat. 3341, 3396. |
 
 In subsection (b)(2), the words “in its discretion” are omitted as unnecessary.
 
@@ -929,27 +929,27 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 3902. Severable services contracts for periods crossing fiscal years
+## § 3902. Severable services contracts for periods crossing fiscal years
 
 **(a) Authority To Enter Into Contract.—** The head of an executive agency may enter into a contract for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year if (without regard to any option to extend the period of the contract) the contract period does not exceed one year.
 
 **(b) Obligation of Funds.—** Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3902 | 41:253*l*. | June 30, 1949, ch. 288, title III, § 303L, as added Pub. L. 103–355, title I, § 1073, Oct. 13, 1994, 108 Stat. 3271, as amended Pub. L. 104–106, title XLIII, § 4321(a)(1), Feb. 10, 1996, 110 Stat. 671. |
+| 3902 | 41:253*l*. | June 30, 1949, ch. 288, title III, § 303L, as added Pub. L. 103–355, title I, § 1073, Oct. 13, 1994, 108 Stat. 3271, as amended Pub. L. 104–106, title XLIII, § 4321(a)(1), Feb. 10, 1996, 110 Stat. 671. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severable Services and Multiyear Contract Authority of Judicial Entities**
 
-Pub. L. 113–76, div. E, title III, § 306, Jan. 17, 2014, 128 Stat. 203, provided that: “The Supreme Court of the United States, the Federal Judicial Center, and the United States Sentencing Commission are hereby authorized, now and hereafter, to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into contracts for multiple years for the acquisition of property and services, to the same extent as executive agencies under the authority of 41 U.S.C. sections 3902 and 3903, respectively.”
+Pub. L. 113–76, div. E, title III, § 306, Jan. 17, 2014, 128 Stat. 203, provided that: “The Supreme Court of the United States, the Federal Judicial Center, and the United States Sentencing Commission are hereby authorized, now and hereafter, to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into contracts for multiple years for the acquisition of property and services, to the same extent as executive agencies under the authority of 41 U.S.C. sections 3902 and 3903, respectively.”
 
-## § 3903. Multiyear contracts
+## § 3903. Multiyear contracts
 
 **(a) Definition.—** In this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than 5, program years.
 
@@ -971,20 +971,20 @@ Pub. L. 113–76, div. E, title III, § 306, Jan. 17, 2014, 128 Stat. 203, pro
 
 **(f) Other Law Not Affected.—** This section does not modify or affect any other provision of law that authorizes multiyear contracts.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3774.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3903(a) | 41:254c(d) (1st sentence). | June 30, 1949, ch. 288, title III, § 304B, as added Pub. L. 103–355, title I, § 1072, Oct. 13, 1994, 108 Stat. 3270. |
+| 3903(a) | 41:254c(d) (1st sentence). | June 30, 1949, ch. 288, title III, § 304B, as added Pub. L. 103–355, title I, § 1072, Oct. 13, 1994, 108 Stat. 3270. |
 | 3903(b) | 41:254c(a). |  |
 | 3903(c) | 41:254c(b). |  |
 | 3903(d) | 41:254c(c). |  |
 | 3903(e) | 41:254c(d) (last sentence). |  |
 | 3903(f) | 41:254c(e). |  |
 
-## § 3904. Contract authority for severable services contracts and multiyear contracts
+## § 3904. Contract authority for severable services contracts and multiyear contracts
 
 **(a) Comptroller General.—** The Comptroller General may use available funds to enter into contracts for the procurement of severable services for a period that begins in one fiscal year and ends in the next fiscal year and to enter into multiyear contracts for the acquisition of property and nonaudit-related services to the same extent as executive agencies under sections 3902 and 3903 of this title.
 
@@ -1022,20 +1022,20 @@ Pub. L. 113–76, div. E, title III, § 306, Jan. 17, 2014, 128 Stat. 203, pro
 
 **(2)** multiyear contracts for the acquisition of property and services under the authority of section 3903 of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3775.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3775.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3904(a) | 41:253*l*–1. | Pub. L. 105–18, title II, § 7004, June 12, 1997, 111 Stat. 192. |
-| 3904(b) | 41:253*l*–2. | Pub. L. 106–57, title II, § 207, Sept. 29, 1999, 113 Stat. 423. |
-| 3904(c) | 41:253*l*–3. | Pub. L. 106–554, § 1(a)(2) [title I, §§ 101, 110], Dec. 21, 2000, 114 Stat. 2763A–100, 2763A–108. |
+| 3904(a) | 41:253*l*–1. | Pub. L. 105–18, title II, § 7004, June 12, 1997, 111 Stat. 192. |
+| 3904(b) | 41:253*l*–2. | Pub. L. 106–57, title II, § 207, Sept. 29, 1999, 113 Stat. 423. |
+| 3904(c) | 41:253*l*–3. | Pub. L. 106–554, § 1(a)(2) [title I, §§ 101, 110], Dec. 21, 2000, 114 Stat. 2763A–100, 2763A–108. |
 | 3904(d) | 41:253*l*–4. |  |
-| 3904(e) | 41:253*l*–5. | Pub. L. 108–7, div. H, title I, §§ 5, 1002, 1202, Feb. 20, 2003, 117 Stat. 350, 357, 373. |
+| 3904(e) | 41:253*l*–5. | Pub. L. 108–7, div. H, title I, §§ 5, 1002, 1202, Feb. 20, 2003, 117 Stat. 350, 357, 373. |
 | 3904(f) | 41:253*l*–6. |  |
 | 3904(g) | 41:253*l*–7. |  |
-| 3904(h) | 41:253*l*–8. | Pub. L. 108–72, § 4, Aug. 15, 2003, 117 Stat. 889. |
+| 3904(h) | 41:253*l*–8. | Pub. L. 108–72, § 4, Aug. 15, 2003, 117 Stat. 889. |
 
 In subsections (a)–(c) and (e)–(h), the words “procurement of severable services” are substituted for “acquisition of severable services” for consistency with 41:253*l*, restated as section 3902 of the revised title.
 
@@ -1051,7 +1051,7 @@ In subsection (g), the text of 41:253*l*–7(b) is omitted as obsolete.
 
 In subsection (h), the text of 41:253*l*–8(b) is omitted as obsolete.
 
-## § 3905. Cost contracts
+## § 3905. Cost contracts
 
 **(a) Cost-Plus-A-Percentage-Of-Cost Contracts Disallowed.—** The cost-plus-a-percentage-of-cost system of contracting shall not be used.
 
@@ -1067,18 +1067,18 @@ In subsection (h), the text of 41:253*l*–8(b) is omitted as obsolete.
 
 **(d) Right To Audit.—** A procuring agency, through any authorized representative thereof, has the right to inspect the plans and to audit the books and records of a prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3776.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3776.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3905(a) | 41:254(b) (1st sentence words before 1st comma). | June 30, 1949, ch. 288, title III, § 304(b), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 103–355, title I, § 1071, title IV, § 4402(c), title X, § 10005(e), Oct. 13, 1994, 108 Stat. 3270, 3349, 3408. |
+| 3905(a) | 41:254(b) (1st sentence words before 1st comma). | June 30, 1949, ch. 288, title III, § 304(b), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 103–355, title I, § 1071, title IV, § 4402(c), title X, § 10005(e), Oct. 13, 1994, 108 Stat. 3270, 3349, 3408. |
 | 3905(b) | 41:254(b) (1st sentence words after 1st comma). |  |
 | 3905(c) | 41:254(b) (last sentence words before semicolon). |  |
 | 3905(d) | 41:254(b) (last sentence words after semicolon). |  |
 
-## § 3906. Cost-reimbursement contracts
+## § 3906. Cost-reimbursement contracts
 
 **(a) Definition.—** In this section, the term “executive agency” has the same meaning given in section 133 of this title.
 
@@ -1120,13 +1120,13 @@ In subsection (h), the text of 41:253*l*–8(b) is omitted as obsolete.
 
 **(4)** in the case of the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and the House of Representatives.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3777.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3777.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3906 | 41:254 note. | Pub. L. 110–417, [div. A], title VIII, § 864(a), (b), (d), (e), (f)(2), (g), Oct. 14, 2008, 122 Stat. 4549. |
+| 3906 | 41:254 note. | Pub. L. 110–417, [div. A], title VIII, § 864(a), (b), (d), (e), (f)(2), (g), Oct. 14, 2008, 122 Stat. 4549. |
 
 In subsection (b), the words “Not later than 270 days after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall address” are substituted for “shall be revised to address” to reflect the permanence of the provision.
 
@@ -1140,4 +1140,4 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Amendment of Federal Acquisition Regulation**
 
-Pub. L. 111–350, § 6(f)(5), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of section 3906(b) of title 41, United States Code, not later than 270 days after October 14, 2008.”
+Pub. L. 111–350, § 6(f)(5), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of section 3906(b) of title 41, United States Code, not later than 270 days after October 14, 2008.”

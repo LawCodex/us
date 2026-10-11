@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 82—AFGHANISTAN FREEDOM SUPPORT
 
-## § 7501. Definition
+## § 7501. Definition
 
 In this chapter, the term “Government of Afghanistan” includes—
 
@@ -23,21 +23,21 @@ In this chapter, the term “Government of Afghanistan” includes—
 
 **(2)** any agency or instrumentality of the Government of Afghanistan.
 
-(Pub. L. 107–327, § 1(c), Dec. 4, 2002, 116 Stat. 2797.)
+(Pub. L. 107–327, § 1(c), Dec. 4, 2002, 116 Stat. 2797.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–458, title VII, § 7104(a), Dec. 17, 2004, 118 Stat. 3780, provided that: “This section [enacting sections 7536a and 7555 of this title, amending sections 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of this title, repealing section 2374 of this title, and enacting provisions set out as notes under sections 7511, 7513, 7514, and 7536 of this title] may be cited as the ‘Afghanistan Freedom Support Act Amendments of 2004’.”
+Pub. L. 108–458, title VII, § 7104(a), Dec. 17, 2004, 118 Stat. 3780, provided that: “This section [enacting sections 7536a and 7555 of this title, amending sections 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of this title, repealing section 2374 of this title, and enacting provisions set out as notes under sections 7511, 7513, 7514, and 7536 of this title] may be cited as the ‘Afghanistan Freedom Support Act Amendments of 2004’.”
 
 **Short Title**
 
-Pub. L. 107–327, § 1(a), Dec. 4, 2002, 116 Stat. 2797, provided that: “This Act [enacting this chapter] may be cited as the ‘Afghanistan Freedom Support Act of 2002’.”
+Pub. L. 107–327, § 1(a), Dec. 4, 2002, 116 Stat. 2797, provided that: “This Act [enacting this chapter] may be cited as the ‘Afghanistan Freedom Support Act of 2002’.”
 
 ## SUBCHAPTER I—ECONOMIC AND DEMOCRATIC DEVELOPMENT ASSISTANCE FOR AFGHANISTAN
 
-### § 7511. Declaration of policy
+### § 7511. Declaration of policy
 
 Congress makes the following declarations:
 
@@ -53,13 +53,13 @@ Congress makes the following declarations:
 
 **(6)** To foster stability and democratization and to effectively eliminate the causes of terrorism, the United States and the international community should also support efforts that advance the development of democratic civil authorities and institutions in the broader Central Asia region.
 
-(Pub. L. 107–327, title I, § 101, Dec. 4, 2002, 116 Stat. 2798.)
+(Pub. L. 107–327, title I, § 101, Dec. 4, 2002, 116 Stat. 2798.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Meaningful Inclusion of Afghan Women in Peace Negotiations**
 
-Pub. L. 116–92, div. A, title XII, § 1216, Dec. 20, 2019, 133 Stat. 1633, provided that:
+Pub. L. 116–92, div. A, title XII, § 1216, Dec. 20, 2019, 133 Stat. 1633, provided that:
 
 > **“(a) In General.—** The Secretary of State, in coordination with the Secretary of Defense, shall seek to ensure the meaningful participation of Afghan women in the peace process in Afghanistan in a manner consistent with the Women, Peace, and Security Act of 2017 (22 U.S.C. 2152j et seq.), including through advocacy for the inclusion of Afghan women in ongoing and future negotiations to end the conflict in Afghanistan.
 
@@ -73,7 +73,7 @@ Pub. L. 116–92, div. A, title XII, § 1216, Dec. 20, 2019, 133 Stat. 1633, p
 
 **Consultations With Congress on a Bilateral Security Agreement With Afghanistan**
 
-Pub. L. 112–239, div. A, title XII, § 1225, Jan. 2, 2013, 126 Stat. 1999, provided that:
+Pub. L. 112–239, div. A, title XII, § 1225, Jan. 2, 2013, 126 Stat. 1999, provided that:
 
 > **“(a) Consultations Required.—** Commencing not later than 30 days after the date of the enactment of this Act [Jan. 2, 2013], the President shall consult periodically with the appropriate committees of Congress on the status of the negotiations on a bilateral security agreement between the United States of America and the Islamic Republic of Afghanistan. Such consultations shall include a briefing summarizing the purpose, objectives, and key issues relating to the agreement.
 
@@ -89,7 +89,7 @@ Pub. L. 112–239, div. A, title XII, § 1225, Jan. 2, 2013, 126 Stat. 1999, p
 
 **Strategy for the United States Relationship With Afghanistan**
 
-Pub. L. 110–53, title XX, § 2041, Aug. 3, 2007, 121 Stat. 518, provided that:
+Pub. L. 110–53, title XX, § 2041, Aug. 3, 2007, 121 Stat. 518, provided that:
 
 > **“(a) Congressional Findings.—** Congress finds the following:
 
@@ -155,7 +155,7 @@ Pub. L. 110–53, title XX, § 2041, Aug. 3, 2007, 121 Stat. 518, provided tha
 
 **Coordination of Assistance**
 
-Pub. L. 108–458, title VII, § 7104(b), Dec. 17, 2004, 118 Stat. 3780, provided that:
+Pub. L. 108–458, title VII, § 7104(b), Dec. 17, 2004, 118 Stat. 3780, provided that:
 
 > **“(1) Findings.—** Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -189,7 +189,7 @@ Pub. L. 108–458, title VII, § 7104(b), Dec. 17, 2004, 118 Stat. 3780, provi
 
 **Declarations of General Policy**
 
-Pub. L. 108–458, title VII, § 7104(e)(2), Dec. 17, 2004, 118 Stat. 3782, provided that:
+Pub. L. 108–458, title VII, § 7104(e)(2), Dec. 17, 2004, 118 Stat. 3782, provided that:
 
 > “Congress makes the following declarations:
 
@@ -199,7 +199,7 @@ Pub. L. 108–458, title VII, § 7104(e)(2), Dec. 17, 2004, 118 Stat. 3782, pr
 
 > **“(C)** The United States continues to urge North Atlantic Treaty Organization members and other friendly countries to make much greater military contributions toward securing the peace in Afghanistan.”
 
-### § 7512. Purposes of assistance
+### § 7512. Purposes of assistance
 
 The purposes of assistance authorized by this subchapter are—
 
@@ -221,9 +221,9 @@ The purposes of assistance authorized by this subchapter are—
 
 **(9)** to foster the growth of a pluralistic society that promotes and respects religious freedom.
 
-(Pub. L. 107–327, title I, § 102, Dec. 4, 2002, 116 Stat. 2798.)
+(Pub. L. 107–327, title I, § 102, Dec. 4, 2002, 116 Stat. 2798.)
 
-### § 7513. Authorization of assistance
+### § 7513. Authorization of assistance
 
 **(a) In general** Notwithstanding any other provision of law, the President is authorized to provide assistance for Afghanistan for the following activities:
 
@@ -239,7 +239,7 @@ The purposes of assistance authorized by this subchapter are—
 
 **(E)** clearance of landmines and other unexploded ordinance.1
 
-<sup>1</sup>  So in original. Probably should be “ordnance.”
+<sup>1</sup> So in original. Probably should be “ordnance.”
 
 **(2) Repatriation and resettlement of refugees and internally displaced persons** To assist refugees and internally displaced persons as they return to their home communities in Afghanistan and to support their reintegration into those communities, including assistance such as—
 
@@ -447,9 +447,9 @@ The Secretary of State, in consultation with the Administrator for the United St
 
 **(C) Additional requirements**
 
-The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005. Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) 2
+The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005. Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -457,7 +457,7 @@ of this title.
 
 The head of each United States Government agency referred to in paragraph (1) shall provide on a timely basis to the Secretary of State such information as the Secretary may reasonably require to allow the Secretary to prepare and submit the report required under paragraph (1).
 
-(Pub. L. 107–327, title I, § 103, Dec. 4, 2002, 116 Stat. 2799; Pub. L. 108–458, title VII, § 7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, 118 Stat. 3782, 3783, 3785, 3787, 3788.)
+(Pub. L. 107–327, title I, § 103, Dec. 4, 2002, 116 Stat. 2799; Pub. L. 108–458, title VII, § 7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, 118 Stat. 3782, 3783, 3785, 3787, 3788.)
 
 **Editorial Notes**
 
@@ -467,23 +467,23 @@ Section 7536 of this title, referred to in subsec. (d)(1)(C), was omitted from t
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–458, § 7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–458, § 7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
 
-Subsec. (a)(3)(A)(i). Pub. L. 108–458, § 7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
+Subsec. (a)(3)(A)(i). Pub. L. 108–458, § 7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 108–458, § 7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
+Subsec. (a)(3)(A)(ii). Pub. L. 108–458, § 7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, § 7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, § 7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
 
-Subsec. (a)(3)(A)(vi). Pub. L. 108–458, § 7104(j)(1)(D)–(F), added cl. (vi).
+Subsec. (a)(3)(A)(vi). Pub. L. 108–458, § 7104(j)(1)(D)–(F), added cl. (vi).
 
-Subsec. (a)(4)(M). Pub. L. 108–458, § 7104(f)(3), added subpar. (M).
+Subsec. (a)(4)(M). Pub. L. 108–458, § 7104(f)(3), added subpar. (M).
 
-Subsec. (a)(5). Pub. L. 108–458, § 7104(f)(2), amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
+Subsec. (a)(5). Pub. L. 108–458, § 7104(f)(2), amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
 
-Subsec. (a)(7)(A)(xii). Pub. L. 108–458, § 7104(k)(2), substituted “Afghan Independent” for “National”.
+Subsec. (a)(7)(A)(xii). Pub. L. 108–458, § 7104(k)(2), substituted “Afghan Independent” for “National”.
 
-Subsec. (d). Pub. L. 108–458, § 7104(g), added subsec. (d).
+Subsec. (d). Pub. L. 108–458, § 7104(g), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -493,7 +493,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **Plan Required To Promote Security of Afghan Women and Girls**
 
-Pub. L. 114–328, div. A, title XV, § 1521(c)(2), Dec. 23, 2016, 130 Stat. 2576, provided that:
+Pub. L. 114–328, div. A, title XV, § 1521(c)(2), Dec. 23, 2016, 130 Stat. 2576, provided that:
 
 > **“(A) In general.—** The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
 
@@ -539,11 +539,11 @@ Pub. L. 114–328, div. A, title XV, § 1521(c)(2), Dec. 23, 2016, 130 Stat. 2
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 114–92, div. A, title XV, § 1531(c)(2), Nov. 25, 2015, 129 Stat. 1089.
+Pub. L. 114–92, div. A, title XV, § 1531(c)(2), Nov. 25, 2015, 129 Stat. 1089.
 
 **Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan**
 
-Pub. L. 111–383, div. A, title XII, § 1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, § 1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, § 1219, Jan. 2, 2013, 126 Stat. 1991; Pub. L. 113–66, div. A, title XII, § 1215(a), Dec. 26, 2013, 127 Stat. 907; Pub. L. 115–232, div. A, title VIII, § 813(e), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 111–383, div. A, title XII, § 1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, § 1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, § 1219, Jan. 2, 2013, 126 Stat. 1991; Pub. L. 113–66, div. A, title XII, § 1215(a), Dec. 26, 2013, 127 Stat. 907; Pub. L. 115–232, div. A, title VIII, § 813(e), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense and the Secretary of State are authorized to establish a program to develop and carry out infrastructure projects in Afghanistan in accordance with the requirements of this section.
 
@@ -609,7 +609,7 @@ Pub. L. 111–383, div. A, title XII, § 1217, Jan. 7, 2011, 124 Stat. 4393, a
 
 > **“(2) Availability.—** Any funds returned to the Secretary of Defense under this subsection shall be available for use under this section and shall be treated in the same manner as funds not transferred to the Secretary of State.
 
-> **“[(i)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(e), Aug. 13, 2018, 132 Stat. 1851.]
+> **“[(i)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(e), Aug. 13, 2018, 132 Stat. 1851.]
 
 > **“(j) Definition.—** In this section, the term ‘appropriate congressional committees’ means—
 
@@ -617,11 +617,11 @@ Pub. L. 111–383, div. A, title XII, § 1217, Jan. 7, 2011, 124 Stat. 4393, a
 
 > **“(2)** the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
 
-[Pub. L. 113–66, div. A, title XII, § 1215(b), Dec. 26, 2013, 127 Stat. 908, provided that: “The amendments made by this section [amending section 1217 of Pub. L. 111–383, set out above] shall take effect on October 1, 2013.” ]
+[Pub. L. 113–66, div. A, title XII, § 1215(b), Dec. 26, 2013, 127 Stat. 908, provided that: “The amendments made by this section [amending section 1217 of Pub. L. 111–383, set out above] shall take effect on October 1, 2013.” ]
 
 **Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan**
 
-Pub. L. 110–417, [div. A], title XII, § 1215, Oct. 14, 2008, 122 Stat. 4632, provided that:
+Pub. L. 110–417, [div. A], title XII, § 1215, Oct. 14, 2008, 122 Stat. 4632, provided that:
 
 > **“(a) In General.—** The President, acting through the Secretary of Defense and the Secretary of State, shall develop and implement a system to monitor the performance of United States-led Provincial Reconstruction Teams (PRTs) in Afghanistan.
 
@@ -641,9 +641,9 @@ Pub. L. 110–417, [div. A], title XII, § 1215, Oct. 14, 2008, 122 Stat. 4632
 
 **Declarations of Policy**
 
-Pub. L. 108–458, title VII, § 7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 [7511] et seq.), relating to economic and democratic development assistance for Afghanistan.”
+Pub. L. 108–458, title VII, § 7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 [7511] et seq.), relating to economic and democratic development assistance for Afghanistan.”
 
-Pub. L. 108–458, title VII, § 7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
+Pub. L. 108–458, title VII, § 7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
 
 **Relief for Afghan Women and Children**
 
@@ -693,7 +693,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 > **“(c) Availability of Funds.—** Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) [115 Stat. 220], shall be available to carry out this Act.”
 
-### § 7514. Coordination of assistance
+### § 7514. Coordination of assistance
 
 **(a) In general** The President shall designate, within the Department of State, a coordinator who shall be responsible for—
 
@@ -741,15 +741,15 @@ The coordinator designated under subsection (a) shall work with the internationa
 
 The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of this title) to coordinate United States assistance for Afghanistan with international financial institutions.
 
-(Pub. L. 107–327, title I, § 104, Dec. 4, 2002, 116 Stat. 2804; Pub. L. 108–458, title VII, § 7104(c)(2), (d), Dec. 17, 2004, 118 Stat. 3781.)
+(Pub. L. 107–327, title I, § 104, Dec. 4, 2002, 116 Stat. 2804; Pub. L. 108–458, title VII, § 7104(c)(2), (d), Dec. 17, 2004, 118 Stat. 3781.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–458, § 7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–458, § 7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 108–458, § 7104(d), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 108–458, § 7104(d), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -759,7 +759,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **Findings**
 
-Pub. L. 108–458, title VII, § 7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, provided that:
+Pub. L. 108–458, title VII, § 7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, provided that:
 
 > “Congress makes the following findings:
 
@@ -767,7 +767,7 @@ Pub. L. 108–458, title VII, § 7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, pr
 
 > **“(B)** The Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.) contains provisions that provide for flexibility in the provision of assistance for Afghanistan and are not subject to the requirements of typical foreign assistance programs and provide for the designation of a coordinator to oversee United States assistance for Afghanistan.”
 
-### § 7515. Sense of Congress regarding promoting cooperation in opium producing areas
+### § 7515. Sense of Congress regarding promoting cooperation in opium producing areas
 
 It is the sense of Congress that the President should—
 
@@ -777,9 +777,9 @@ It is the sense of Congress that the President should—
 
 **(3)** define or redefine the boundaries of opium producing areas of Afghanistan for the purposes of this section.
 
-(Pub. L. 107–327, title I, § 105, Dec. 4, 2002, 116 Stat. 2805.)
+(Pub. L. 107–327, title I, § 105, Dec. 4, 2002, 116 Stat. 2805.)
 
-### § 7516. Administrative provisions
+### § 7516. Administrative provisions
 
 **(a) Applicable administrative authorities**
 
@@ -815,21 +815,21 @@ The Inspector General of the United States Agency for International Development 
 
 To the maximum extent practicable, assistance authorized under this subchapter should be provided directly to the Government of Afghanistan (including any appropriate ministry thereof).
 
-(Pub. L. 107–327, title I, § 106, Dec. 4, 2002, 116 Stat. 2805.)
+(Pub. L. 107–327, title I, § 106, Dec. 4, 2002, 116 Stat. 2805.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapters 1 and 2 of part III of the Act are classified generally to parts I (§ 2351 et seq.) and II (§ 2381 et seq.), respectively, of subchapter III of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapters 1 and 2 of part III of the Act are classified generally to parts I (§ 2351 et seq.) and II (§ 2381 et seq.), respectively, of subchapter III of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 7517. Relationship to other authority
+### § 7517. Relationship to other authority
 
 The authority to provide assistance under this subchapter is in addition to any other authority to provide assistance to the Government of Afghanistan.
 
-(Pub. L. 107–327, title I, § 107, Dec. 4, 2002, 116 Stat. 2806.)
+(Pub. L. 107–327, title I, § 107, Dec. 4, 2002, 116 Stat. 2806.)
 
-### § 7518. Authorization of appropriations
+### § 7518. Authorization of appropriations
 
 **(a) In general**
 
@@ -841,13 +841,13 @@ There is authorized to be appropriated to the President to carry out this subcha
 
 **(2)** in addition to funds otherwise available for such purposes, including, with respect to food assistance under section 7513(a)(1) of this title, funds available under title II of the Food for Peace Act [7 U.S.C. 1721 et seq.], section 1736*o* of title 7, and section 1431(b) of title 7.
 
-(Pub. L. 107–327, title I, § 108, Dec. 4, 2002, 116 Stat. 2806; Pub. L. 108–106, title II, § 2214, Nov. 6, 2003, 117 Stat. 1232; Pub. L. 108–458, title VII, § 7104(m), Dec. 17, 2004, 118 Stat. 3788; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821.)
+(Pub. L. 107–327, title I, § 108, Dec. 4, 2002, 116 Stat. 2806; Pub. L. 108–106, title II, § 2214, Nov. 6, 2003, 117 Stat. 1232; Pub. L. 108–458, title VII, § 7104(m), Dec. 17, 2004, 118 Stat. 3788; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch. 469, 68 Stat. 454. Title II of the Act is classified generally to subchapter III (§ 1721 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch. 469, 68 Stat. 454. Title II of the Act is classified generally to subchapter III (§ 1721 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 **Amendments**
 
@@ -863,7 +863,7 @@ The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch.
 
 ## SUBCHAPTER II—MILITARY ASSISTANCE FOR AFGHANISTAN AND CERTAIN OTHER FOREIGN COUNTRIES AND INTERNATIONAL ORGANIZATIONS
 
-### §§ 7531 to 7538. Omitted
+### §§ 7531 to 7538. Omitted
 
 **Editorial Notes**
 
@@ -871,41 +871,41 @@ The Food for Peace Act, referred to in subsec. (b)(2), is act July 10, 1954, ch.
 
 Sections 7531 to 7538 of this title were omitted pursuant to section 7538 of this title, which provided that the authority of this subchapter expired after Sept. 30, 2006.
 
-Section 7531, Pub. L. 107–327, title II, § 201, Dec. 4, 2002, 116 Stat. 2807, related to sense of Congress regarding United States support for security during transition in Afghanistan.
+Section 7531, Pub. L. 107–327, title II, § 201, Dec. 4, 2002, 116 Stat. 2807, related to sense of Congress regarding United States support for security during transition in Afghanistan.
 
-Section 7532, Pub. L. 107–327, title II, § 202, Dec. 4, 2002, 116 Stat. 2807; Pub. L. 108–106, title II, § 2206, Nov. 6, 2003, 117 Stat. 1231; Pub. L. 108–287, title IX, § 9008, Aug. 5, 2004, 118 Stat. 1008, provided authorization of drawdown assistance for Afghanistan and other eligible foreign countries and international organizations.
+Section 7532, Pub. L. 107–327, title II, § 202, Dec. 4, 2002, 116 Stat. 2807; Pub. L. 108–106, title II, § 2206, Nov. 6, 2003, 117 Stat. 1231; Pub. L. 108–287, title IX, § 9008, Aug. 5, 2004, 118 Stat. 1008, provided authorization of drawdown assistance for Afghanistan and other eligible foreign countries and international organizations.
 
-Section 7533, Pub. L. 107–327, title II, § 203, Dec. 4, 2002, 116 Stat. 2807, described eligibility criteria for foreign countries and international organizations to receive assistance under section 7532 of this title.
+Section 7533, Pub. L. 107–327, title II, § 203, Dec. 4, 2002, 116 Stat. 2807, described eligibility criteria for foreign countries and international organizations to receive assistance under section 7532 of this title.
 
-Section 7534, Pub. L. 107–327, title II, § 204, Dec. 4, 2002, 116 Stat. 2808, related to reimbursement to the Department of Defense for assistance.
+Section 7534, Pub. L. 107–327, title II, § 204, Dec. 4, 2002, 116 Stat. 2808, related to reimbursement to the Department of Defense for assistance.
 
-Section 7535, Pub. L. 107–327, title II, § 205, Dec. 4, 2002, 116 Stat. 2808, required the President to notify certain congressional committees before providing assistance under this subchapter.
+Section 7535, Pub. L. 107–327, title II, § 205, Dec. 4, 2002, 116 Stat. 2808, required the President to notify certain congressional committees before providing assistance under this subchapter.
 
-Section 7536, Pub. L. 107–327, title II, § 206, Dec. 4, 2002, 116 Stat. 2808; Pub. L. 108–458, title VII, § 7104(h)(2), (i), (k)(1), Dec. 17, 2004, 118 Stat. 3786, 3788, related to promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force.
+Section 7536, Pub. L. 107–327, title II, § 206, Dec. 4, 2002, 116 Stat. 2808; Pub. L. 108–458, title VII, § 7104(h)(2), (i), (k)(1), Dec. 17, 2004, 118 Stat. 3786, 3788, related to promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force.
 
-Section 7536a, Pub. L. 107–327, title II, § 207, as added Pub. L. 108–458, title VII, § 7104(j)(2)(B), Dec. 17, 2004, 118 Stat. 3787, related to sense of Congress regarding counter-drug activities in Afghanistan and required the Secretary of Defense and the Secretary of State to prepare a joint report regarding counter-drug efforts in Afghanistan.
+Section 7536a, Pub. L. 107–327, title II, § 207, as added Pub. L. 108–458, title VII, § 7104(j)(2)(B), Dec. 17, 2004, 118 Stat. 3787, related to sense of Congress regarding counter-drug activities in Afghanistan and required the Secretary of Defense and the Secretary of State to prepare a joint report regarding counter-drug efforts in Afghanistan.
 
-Section 7537, Pub. L. 107–327, title II, § 208, formerly § 207, Dec. 4, 2002, 116 Stat. 2811; renumbered § 208, Pub. L. 108–458, title VII, § 7104(j)(2)(A), Dec. 17, 2004, 118 Stat. 3787, related to relationship to other legal authority to provide assistance.
+Section 7537, Pub. L. 107–327, title II, § 208, formerly § 207, Dec. 4, 2002, 116 Stat. 2811; renumbered § 208, Pub. L. 108–458, title VII, § 7104(j)(2)(A), Dec. 17, 2004, 118 Stat. 3787, related to relationship to other legal authority to provide assistance.
 
-Section 7538, Pub. L. 107–327, title II, § 209, formerly § 208, Dec. 4, 2002, 116 Stat. 2811; renumbered § 209, Pub. L. 108–458, title VII, § 7104(j)(2)(A), Dec. 17, 2004, 118 Stat. 3787, provided that the authority of this subchapter would expire after Sept. 30, 2006.
+Section 7538, Pub. L. 107–327, title II, § 209, formerly § 208, Dec. 4, 2002, 116 Stat. 2811; renumbered § 209, Pub. L. 108–458, title VII, § 7104(j)(2)(A), Dec. 17, 2004, 118 Stat. 3787, provided that the authority of this subchapter would expire after Sept. 30, 2006.
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
-### § 7551. Requirement to comply with procedures relating to the prohibition on assistance to drug traffickers
+### § 7551. Requirement to comply with procedures relating to the prohibition on assistance to drug traffickers
 
 Assistance provided under this chapter shall be subject to the same provisions as are applicable to assistance under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] and the Arms Export Control Act [22 U.S.C. 2751 et seq.] under section 487 of the Foreign Assistance Act of 1961 (relating to the prohibition on assistance to drug traffickers; 22 U.S.C. 2291f), and the applicable regulations issued under that section.
 
-(Pub. L. 107–327, title III, § 301, Dec. 4, 2002, 116 Stat. 2812.)
+(Pub. L. 107–327, title III, § 301, Dec. 4, 2002, 116 Stat. 2812.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-### § 7552. Sense of Congress regarding protecting Afghanistan’s President
+### § 7552. Sense of Congress regarding protecting Afghanistan’s President
 
 It is the sense of Congress that—
 
@@ -915,9 +915,9 @@ It is the sense of Congress that—
 
 **(3)** such a protection force should be limited in duration and should be succeeded by qualified Afghan security forces as soon as practicable.
 
-(Pub. L. 107–327, title III, § 302, Dec. 4, 2002, 116 Stat. 2812.)
+(Pub. L. 107–327, title III, § 302, Dec. 4, 2002, 116 Stat. 2812.)
 
-### § 7553. Donor contributions to Afghanistan and reports
+### § 7553. Donor contributions to Afghanistan and reports
 
 **(a) Findings**
 
@@ -937,7 +937,7 @@ The Secretary of State shall submit reports to the Committee on Foreign Relation
 
 Each report, which shall be unclassified and posted upon the Department of State’s Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
 
-(Pub. L. 107–327, title III, § 303, Dec. 4, 2002, 116 Stat. 2812.)
+(Pub. L. 107–327, title III, § 303, Dec. 4, 2002, 116 Stat. 2812.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -945,7 +945,7 @@ Each report, which shall be unclassified and posted upon the Department of State
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 7554. Reports
+### § 7554. Reports
 
 **(a) In general**
 
@@ -959,7 +959,7 @@ The first report shall be submitted no later than December 31, 2003, and subsequ
 
 Any report or other matter that is required to be submitted to Congress (including a committee of Congress) by this chapter may contain a classified annex.
 
-(Pub. L. 107–327, title III, § 304, as added Pub. L. 108–106, title II, § 2215(c), Nov. 6, 2003, 117 Stat. 1233; amended Pub. L. 108–458, title VII, § 7104(e)(3), Dec. 17, 2004, 118 Stat. 3782.)
+(Pub. L. 107–327, title III, § 304, as added Pub. L. 108–106, title II, § 2215(c), Nov. 6, 2003, 117 Stat. 1233; amended Pub. L. 108–458, title VII, § 7104(e)(3), Dec. 17, 2004, 118 Stat. 3782.)
 
 **Editorial Notes**
 
@@ -973,7 +973,7 @@ Any report or other matter that is required to be submitted to Congress (includi
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 7555. Formulation of long-term strategy for Afghanistan
+### § 7555. Formulation of long-term strategy for Afghanistan
 
 **(a) Strategy**
 
@@ -993,7 +993,7 @@ The strategy formulated under paragraph (1) shall include specific and measurabl
 
 **(b) Monitoring**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Annual report** The President shall transmit on an annual basis through 2010 a report describing the progress made toward the implementation of the strategy required by subsection (a) and any changes to the strategy since the date of the submission of the last report to—
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Annual report** The President shall transmit on an annual basis through 2010 a report describing the progress made toward the implementation of the strategy required by subsection (a) and any changes to the strategy since the date of the submission of the last report to—
 
 **(A)** the Committee on Foreign Relations of the Senate;
 
@@ -1003,7 +1003,7 @@ The strategy formulated under paragraph (1) shall include specific and measurabl
 
 **(D)** the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 107–327, title III, § 305, as added Pub. L. 108–458, title VII, § 7104(e)(4)(A), Dec. 17, 2004, 118 Stat. 3782.)
+(Pub. L. 107–327, title III, § 305, as added Pub. L. 108–458, title VII, § 7104(e)(4)(A), Dec. 17, 2004, 118 Stat. 3782.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1017,7 +1017,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 Reporting functions of President under this section assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.
 
-### § 7556. Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of Afghanistan
+### § 7556. Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of Afghanistan
 
 **(a) Options for expansion of capacity of Afghan National Security Forces** The President shall, acting through the Secretary of Defense, establish and update as appropriate, and submit to Congress, options to accelerate the expansion of the capacity of Afghan National Security Forces with the goal of—
 
@@ -1035,7 +1035,7 @@ The President shall establish, and may update from time to time, a comprehensive
 
 The President shall include the most current set of benchmarks established pursuant to subsection (b) with each report on progress toward security and stability in Afghanistan that is submitted to Congress under sections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 385, 390).
 
-(Pub. L. 112–81, div. A, title XII, § 1221, Dec. 31, 2011, 125 Stat. 1635.)
+(Pub. L. 112–81, div. A, title XII, § 1221, Dec. 31, 2011, 125 Stat. 1635.)
 
 **Editorial Notes**
 
@@ -1051,7 +1051,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **Completion of Accelerated Transition of Security Responsibility From United States Armed Forces to the Afghan National Security Forces**
 
-Pub. L. 113–66, div. A, title XII, § 1222, Dec. 26, 2013, 127 Stat. 917, provided that:
+Pub. L. 113–66, div. A, title XII, § 1222, Dec. 26, 2013, 127 Stat. 917, provided that:
 
 > **“(a) In General.—** It is the policy of the United States, in coordination with the Government of Afghanistan, North Atlantic Treaty Organization (NATO) member countries, and other allies in Afghanistan, that—
 

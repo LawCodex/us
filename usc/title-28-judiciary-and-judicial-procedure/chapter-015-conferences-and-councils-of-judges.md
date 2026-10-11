@@ -17,13 +17,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–466, § 2(b), Oct. 14, 1986, 100 Stat. 1190, added item 335.
+1986—Pub. L. 99–466, § 2(b), Oct. 14, 1986, 100 Stat. 1190, added item 335.
 
-1980—Pub. L. 96–458, § 2(d)(2), Oct. 15, 1980, 94 Stat. 2036, inserted “of circuits” in item 332.
+1980—Pub. L. 96–458, § 2(d)(2), Oct. 15, 1980, 94 Stat. 2036, inserted “of circuits” in item 332.
 
-1958—Pub. L. 85–752, § 2, Aug. 25, 1958, 72 Stat. 845, added item 334.
+1958—Pub. L. 85–752, § 2, Aug. 25, 1958, 72 Stat. 845, added item 334.
 
-## § 331. Judicial Conference of the United States
+## § 331. Judicial Conference of the United States
 
 The Chief Justice of the United States shall summon annually the chief judge of each judicial circuit, the chief judge of the Court of International Trade, and a district judge from each judicial circuit to a conference at such time and place in the United States as he may designate. He shall preside at such conference which shall be known as the Judicial Conference of the United States. Special sessions of the Conference may be called by the Chief Justice at such times and places as he may designate.
 
@@ -41,17 +41,17 @@ The Attorney General shall, upon request of the Chief Justice, report to such Co
 
 The Chief Justice shall submit to Congress an annual report of the proceedings of the Judicial Conference and its recommendations for legislation.
 
-The Judicial Conference shall consult with the Director of 1
+The Judicial Conference shall consult with the Director of 1
 
-<sup>1</sup>  So in original. The word “the” probably should appear.
+<sup>1</sup> So in original. The word “the” probably should appear.
 
 United States Marshals Service on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(June 25, 1948, ch. 646, 62 Stat. 902; July 9, 1956, ch. 517, § 1(d), 70 Stat. 497; Pub. L. 85–202, Aug. 28, 1957, 71 Stat. 476; Pub. L. 85–513, July 11, 1958, 72 Stat. 356; Pub. L. 87–253, §§ 1, 2, Sept. 19, 1961, 75 Stat. 521; Pub. L. 95–598, title II, § 208, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–458, § 4, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 97–164, title I, § 111, Apr. 2, 1982, 96 Stat. 29; Pub. L. 99–466, § 1, Oct. 14, 1986, 100 Stat. 1190; Pub. L. 100–702, title IV, § 402(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 104–317, title VI, § 601(a), Oct. 19, 1996, 110 Stat. 3857; Pub. L. 107–273, div. C, title I, § 11043(b), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 110–177, title I, § 101(b), Jan. 7, 2008, 121 Stat. 2534.)
+(June 25, 1948, ch. 646, 62 Stat. 902; July 9, 1956, ch. 517, § 1(d), 70 Stat. 497; Pub. L. 85–202, Aug. 28, 1957, 71 Stat. 476; Pub. L. 85–513, July 11, 1958, 72 Stat. 356; Pub. L. 87–253, §§ 1, 2, Sept. 19, 1961, 75 Stat. 521; Pub. L. 95–598, title II, § 208, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–458, § 4, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 97–164, title I, § 111, Apr. 2, 1982, 96 Stat. 29; Pub. L. 99–466, § 1, Oct. 14, 1986, 100 Stat. 1190; Pub. L. 100–702, title IV, § 402(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 104–317, title VI, § 601(a), Oct. 19, 1996, 110 Stat. 3857; Pub. L. 107–273, div. C, title I, § 11043(b), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 110–177, title I, § 101(b), Jan. 7, 2008, 121 Stat. 2534.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 218 (Sept. 14, 1922, ch. 306, § 2, 42 Stat. 838; July 5, 1937, ch. 427, 50 Stat. 473).
+Based on title 28, U.S.C., 1940 ed., § 218 (Sept. 14, 1922, ch. 306, § 2, 42 Stat. 838; July 5, 1937, ch. 427, 50 Stat. 473).
 
 Provisions as to associate justice acting when Chief Justice is disabled are omitted as unnecessary in view of section 3 of this title giving senior associate justice power to act upon the disability of the Chief Justice.
 
@@ -83,11 +83,11 @@ Rule 45(c) of the Federal Rules of Civil Procedure, referred to in fourth paragr
 
 1988—Pub. L. 100–702 inserted paragraph requiring Judicial Conference review of section 2071 rules prescribed by courts other than Supreme court or district courts for consistency with Federal law.
 
-1986—Pub. L. 99–466, § 1(a), inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
+1986—Pub. L. 99–466, § 1(a), inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
 
-Pub. L. 99–466, § 1(b), inserted “, the chief judge of the Court of International Trade,” and “or any other judge of the Court of International Trade, as the case may be” in first sentence of third par.
+Pub. L. 99–466, § 1(b), inserted “, the chief judge of the Court of International Trade,” and “or any other judge of the Court of International Trade, as the case may be” in first sentence of third par.
 
-Pub. L. 99–466, § 1(c), substituted “Conference” for “conference” in sixth par.
+Pub. L. 99–466, § 1(c), substituted “Conference” for “conference” in sixth par.
 
 1982—Pub. L. 97–164, in first par., struck out references to the chief judge of the Court of Claims and to the chief judge of the Court of Customs and Patent Appeals in the enumeration of judges which the Chief Justice must summon each year for a conference and, in third par., struck out provision that authorized the Chief Justice to summon an associate judge of the Court of Claims or the Court of Customs and Patent Appeals if the chief judge of either of those courts could not attend.
 
@@ -111,7 +111,7 @@ Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–466, § 4, Oct. 14, 1986, 100 Stat. 1191, provided that: “This Act and the amendments made by this Act [enacting section 335 of this title, amending this section and section 569 of this title, renumbering section 873 of this title as 872, and repealing former section 872 of this title] shall take effect 60 days after the date of the enactment of this Act [Oct. 14, 1986].”
+Pub. L. 99–466, § 4, Oct. 14, 1986, 100 Stat. 1191, provided that: “This Act and the amendments made by this Act [enacting section 335 of this title, amending this section and section 569 of this title, renumbering section 873 of this title as 872, and repealing former section 872 of this title] shall take effect 60 days after the date of the enactment of this Act [Oct. 14, 1986].”
 
 **Effective Date of 1982 Amendment**
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–458, § 7, Oct. 15, 1980, 94 Stat. 2041, provided that: “This Act [amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title] shall become effective on October 1, 1981.”
+Pub. L. 96–458, § 7, Oct. 15, 1980, 94 Stat. 2041, provided that: “This Act [amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title] shall become effective on October 1, 1981.”
 
 **Termination of Reporting Requirements**
 
@@ -127,17 +127,17 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 **Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases**
 
-Pub. L. 108–447, div. B, title III, § 308, Dec. 8, 2004, 118 Stat. 2895, as amended by Pub. L. 109–13, div. A, title VI, § 6066, May 11, 2005, 119 Stat. 299, provided that: “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under 28 U.S.C. 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts.”
+Pub. L. 108–447, div. B, title III, § 308, Dec. 8, 2004, 118 Stat. 2895, as amended by Pub. L. 109–13, div. A, title VI, § 6066, May 11, 2005, 119 Stat. 299, provided that: “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under 28 U.S.C. 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts.”
 
 **Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress**
 
-Pub. L. 101–650, title II, § 205, Dec. 1, 1990, 104 Stat. 5103, provided that the Comptroller General was to review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to Congress the creation of additional Federal judgeships and, not later than 18 months after Dec. 1, 1990, report the results of the review, with recommendations, to the appropriate congressional committees.
+Pub. L. 101–650, title II, § 205, Dec. 1, 1990, 104 Stat. 5103, provided that the Comptroller General was to review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to Congress the creation of additional Federal judgeships and, not later than 18 months after Dec. 1, 1990, report the results of the review, with recommendations, to the appropriate congressional committees.
 
 **Federal Courts Study Committee**
 
 Pub. L. 100–702, title I, Nov. 19, 1988, 102 Stat. 4644, known as the “Federal Courts Study Act”, established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
 
-## § 332. Judicial councils of circuits
+## § 332. Judicial councils of circuits
 
 **(a)**
 
@@ -147,7 +147,7 @@ Pub. L. 100–702, title I, Nov. 19, 1988, 102 Stat. 4644, known as the “Feder
 
 **(3)** Except for the chief judge of the circuit, either judges in regular active service or judges retired from regular active service under section 371(b) of this title may serve as members of the council. Service as a member of a judicial council by a judge retired from regular active service under section 371(b) may not be considered for meeting the requirements of section 371(f)(1)(A), (B), or (C).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** No more than one district judge from any one district shall serve simultaneously on the council, unless at least one district judge from each district within the circuit is already serving as a member of the council.
 
@@ -217,11 +217,11 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 **(5)** The court may appoint either a circuit executive under this subsection or a clerk under section 711 of this title, but not both, or may appoint a combined circuit executive/clerk who shall be paid the salary of a circuit executive.
 
-(June 25, 1948, ch. 646, 62 Stat. 902; Pub. L. 88–176, § 3, Nov. 13, 1963, 77 Stat. 331; Pub. L. 91–647, Jan. 5, 1971, 84 Stat. 1907; Pub. L. 95–598, title II, § 209, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–458, § 2(a)–(d)(1), Oct. 15, 1980, 94 Stat. 2035, 2036; Pub. L. 100–459, title IV, § 407, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 100–702, title IV, § 403(a)(2), (b), title X, §§ 1018, 1020(a)(1), Nov. 19, 1988, 102 Stat. 4651, 4670, 4671; Pub. L. 101–650, title III, §§ 323, 325(b)(1), title IV, § 403, Dec. 1, 1990, 104 Stat. 5120, 5121, 5124; Pub. L. 102–198, § 1, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 104–317, title II, § 208, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–518, title II, § 205, title III, § 306, Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 106–553, § 1(a)(2) [title III, § 306], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. C, title I, § 11043(c), Nov. 2, 2002, 116 Stat. 1855.)
+(June 25, 1948, ch. 646, 62 Stat. 902; Pub. L. 88–176, § 3, Nov. 13, 1963, 77 Stat. 331; Pub. L. 91–647, Jan. 5, 1971, 84 Stat. 1907; Pub. L. 95–598, title II, § 209, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–458, § 2(a)–(d)(1), Oct. 15, 1980, 94 Stat. 2035, 2036; Pub. L. 100–459, title IV, § 407, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 100–702, title IV, § 403(a)(2), (b), title X, §§ 1018, 1020(a)(1), Nov. 19, 1988, 102 Stat. 4651, 4670, 4671; Pub. L. 101–650, title III, §§ 323, 325(b)(1), title IV, § 403, Dec. 1, 1990, 104 Stat. 5120, 5121, 5124; Pub. L. 102–198, § 1, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 104–317, title II, § 208, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–518, title II, § 205, title III, § 306, Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 106–553, § 1(a)(2) [title III, § 306], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. C, title I, § 11043(c), Nov. 2, 2002, 116 Stat. 1855.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 448 (Mar. 3, 1911, ch. 231, § 306, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 448 (Mar. 3, 1911, ch. 231, § 306, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 The final sentence of section 448 of title 28, U.S.C., 1940 ed., excepting from the operation of said section the provisions of existing law as to assignment of district judges outside their districts, was omitted as surplusage, since there is nothing in this section in conflict with section 292 of this title providing for such assignments.
 
@@ -233,15 +233,15 @@ Changes in phraseology were made.
 
 **References in Text**
 
-Section 371(f) of this title, referred to in subsec. (a)(3), was redesignated section 371(e) of this title by Pub. L. 106–398, § 1[[div. A], title VI, § 654(a)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165.
+Section 371(f) of this title, referred to in subsec. (a)(3), was redesignated section 371(e) of this title by Pub. L. 106–398, § 1[[div. A], title VI, § 654(a)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
 **Amendments**
 
-2002—Subsec. (d)(2). Pub. L. 107–273, § 11043(c)(1), substituted “chapter 16 of this title” for “section 372(c) of this title” and “section 353 of this title” for “section 372(c)(4) of this title”.
+2002—Subsec. (d)(2). Pub. L. 107–273, § 11043(c)(1), substituted “chapter 16 of this title” for “section 372(c) of this title” and “section 353 of this title” for “section 372(c)(4) of this title”.
 
-Subsec. (h). Pub. L. 107–273, § 11043(c)(2), struck out subsec. (h) as added by Pub. L. 106–553, which read as follows:
+Subsec. (h). Pub. L. 107–273, § 11043(c)(2), struck out subsec. (h) as added by Pub. L. 106–553, which read as follows:
 
 “(h)(1) The United States Court of Appeals for the Federal Circuit may appoint a circuit executive, who shall serve at the pleasure of the court. In appointing a circuit executive, the court shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated by the court. The duties delegated to the circuit executive may include but need not be limited to the duties specified in subsection (e) of this section, insofar as they are applicable to the Court of Appeals for the Federal Circuit.
 
@@ -253,19 +253,19 @@ Subsec. (h). Pub. L. 107–273, § 11043(c)(2), struck out subsec. (h) as adde
 
 “(5) The court may appoint either a circuit executive under this subsection or a clerk under section 711 of this title, but not both, or may appoint a combined circuit executive/clerk who shall be paid the salary of a circuit executive.”
 
-2000—Subsec. (a)(3). Pub. L. 106–518, § 205(1), added par. (3) and struck out former par. (3) which read as follows: “Only circuit and district judges in regular active service shall serve as members of the council.”
+2000—Subsec. (a)(3). Pub. L. 106–518, § 205(1), added par. (3) and struck out former par. (3) which read as follows: “Only circuit and district judges in regular active service shall serve as members of the council.”
 
-Subsec. (a)(5). Pub. L. 106–518, § 205(2), substituted “retirement under section 371(a) or 372(a) of this title,” for “retirement,”.
+Subsec. (a)(5). Pub. L. 106–518, § 205(2), substituted “retirement under section 371(a) or 372(a) of this title,” for “retirement,”.
 
 Subsec. (h). Pub. L. 106–553 added subsec. (h) relating to circuit executive for United States Court of Appeals for the Federal Circuit, set out second.
 
-Pub. L. 106–518, § 306, added subsec. (h) relating to circuit executive for United States Court of Appeals for the Federal Circuit, set out first.
+Pub. L. 106–518, § 306, added subsec. (h) relating to circuit executive for United States Court of Appeals for the Federal Circuit, set out first.
 
 1996—Subsec. (g). Pub. L. 104–317 added subsec. (g).
 
 1991—Subsec. (a)(1). Pub. L. 102–198 substituted “such number” for “such member” and “service” for “services”.
 
-1990—Subsec. (a)(1). Pub. L. 101–650, § 323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
+1990—Subsec. (a)(1). Pub. L. 101–650, § 323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
 
 “(A) the chief judge of the circuit, who shall preside;
 
@@ -277,31 +277,31 @@ Pub. L. 106–518, § 306, added subsec. (h) relating to circuit executive for
 
 “(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is six or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
 
-Subsec. (a)(3) to (7). Pub. L. 101–650, § 323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
+Subsec. (a)(3) to (7). Pub. L. 101–650, § 323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
 
-Subsec. (d)(2). Pub. L. 101–650, § 403, inserted at end “In the case of failure to comply with an order made under this subsection or a subpoena issued under section 372(c) of this title, a judicial council or a special committee appointed under section 372(c)(4) of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.”
+Subsec. (d)(2). Pub. L. 101–650, § 403, inserted at end “In the case of failure to comply with an order made under this subsection or a subpoena issued under section 372(c) of this title, a judicial council or a special committee appointed under section 372(c)(4) of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.”
 
-Subsec. (f)(1). Pub. L. 101–650, § 325(b)(1), substituted “under section 5315 of title 5” for “(5 U.S.C. 5316)”.
+Subsec. (f)(1). Pub. L. 101–650, § 325(b)(1), substituted “under section 5315 of title 5” for “(5 U.S.C. 5316)”.
 
-1988—Subsec. (c). Pub. L. 100–702, § 1020(a)(1), substituted “semiannual” for “semi-annually”.
+1988—Subsec. (c). Pub. L. 100–702, § 1020(a)(1), substituted “semiannual” for “semi-annually”.
 
-Subsec. (d)(1). Pub. L. 100–702, § 403(b), inserted after first sentence “Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public.”
+Subsec. (d)(1). Pub. L. 100–702, § 403(b), inserted after first sentence “Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public.”
 
-Subsec. (d)(4). Pub. L. 100–702, § 403(a)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 100–702, § 403(a)(2), added par. (4).
 
-Subsec. (e). Pub. L. 100–702, § 1018(1), substituted “executive. In appointing a circuit executive, the judicial council shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training.” for “executive from among persons who shall be certified by the Board of Certification.” in first sentence.
+Subsec. (e). Pub. L. 100–702, § 1018(1), substituted “executive. In appointing a circuit executive, the judicial council shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training.” for “executive from among persons who shall be certified by the Board of Certification.” in first sentence.
 
-Subsec. (f). Pub. L. 100–702, § 1018(2), designated last four undesignated pars. as pars. (1) to (4), respectively, and struck out former first undesignated par. which related to establishment, functions, and staffing of Board of Certification and setting standards for certification as qualified to be circuit executive.
+Subsec. (f). Pub. L. 100–702, § 1018(2), designated last four undesignated pars. as pars. (1) to (4), respectively, and struck out former first undesignated par. which related to establishment, functions, and staffing of Board of Certification and setting standards for certification as qualified to be circuit executive.
 
 Pub. L. 100–459 substituted “level IV” for “level V”.
 
-1980—Pub. L. 96–458, § 2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
+1980—Pub. L. 96–458, § 2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
 
-Subsec. (a). Pub. L. 96–458, § 2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted “each judicial circuit” for “each circuit”, substituted “a meeting of the judicial council of the circuit, consisting of—” for “a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.”, and added subpars. (A) to (C) and pars. (2) to (7).
+Subsec. (a). Pub. L. 96–458, § 2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted “each judicial circuit” for “each circuit”, substituted “a meeting of the judicial council of the circuit, consisting of—” for “a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.”, and added subpars. (A) to (C) and pars. (2) to (7).
 
-Subsec. (c). Pub. L. 96–458, § 2(b), substituted “semiannually” for “quarterly”.
+Subsec. (c). Pub. L. 96–458, § 2(b), substituted “semiannually” for “quarterly”.
 
-Subsec. (d). Pub. L. 96–458, § 2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting “and appropriate” after “all necessary”, substituting “justice within its circuit” for “the business of the courts within its circuit”, striking out “The district judges shall promptly carry into effect all orders of the judicial council.” after “within its circuit.”, inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas and service thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
+Subsec. (d). Pub. L. 96–458, § 2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting “and appropriate” after “all necessary”, substituting “justice within its circuit” for “the business of the courts within its circuit”, striking out “The district judges shall promptly carry into effect all orders of the judicial council.” after “within its circuit.”, inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas and service thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
 
 1978—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting “and bankruptcy judges” after “The district judges”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -313,7 +313,7 @@ Subsec. (d). Pub. L. 96–458, § 2(c), amended subsec. (d) generally, designa
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–650, title IV, § 407, Dec. 1, 1990, 104 Stat. 5124, provided that: “The amendments made by this subtitle [subtitle I (§§ 402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees] shall take effect 90 days after the date of the enactment of this Act [Dec. 1, 1990].”
+Pub. L. 101–650, title IV, § 407, Dec. 1, 1990, 104 Stat. 5124, provided that: “The amendments made by this subtitle [subtitle I (§§ 402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees] shall take effect 90 days after the date of the enactment of this Act [Dec. 1, 1990].”
 
 **Effective Date of 1988 Amendment**
 
@@ -323,7 +323,7 @@ Amendment by section 403(a)(2), (b) of Pub. L. 100–702 effective Dec. 1, 1988,
 
 Amendment by Pub. L. 96–458 effective Oct. 1, 1981, see section 7 of Pub. L. 96–458, set out as a note under section 331 of this title.
 
-## § 333. Judicial conferences of circuits
+## § 333. Judicial conferences of circuits
 
 The chief judge of each circuit may summon biennially, and may summon annually, the circuit, district, magistrate, and bankruptcy judges of the circuit, in active service, to a conference at a time and place that he designates, for the purpose of considering the business of the courts and advising means of improving the administration of justice within such circuit. He may preside at such conference, which shall be known as the Judicial Conference of the circuit. The judges of the District Court of Guam, the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands may also be summoned biennially, and may be summoned annually, to the conferences of their respective circuits.
 
@@ -331,11 +331,11 @@ Every judge summoned may attend.
 
 The court of appeals for each circuit shall provide by its rules for representation and active participation at such conference by members of the bar of such circuit.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, § 38, 65 Stat. 723; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, § 320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, § 101[(a)] [title III, § 305], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–406, § 9, Oct. 13, 2008, 122 Stat. 4293.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, § 38, 65 Stat. 723; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, § 320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, § 101[(a)] [title III, § 305], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–406, § 9, Oct. 13, 2008, 122 Stat. 4293.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 449, 450 (Mar. 3, 1911, ch. 231, §§ 307, 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., §§ 449, 450 (Mar. 3, 1911, ch. 231, §§ 307, 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 Section consolidates parts of sections 449 and 450 of title 28, U.S.C., 1940 ed.
 
@@ -351,9 +351,9 @@ The provision as to travel and subsistence which was contained in said section 4
 
 2008—Pub. L. 110–406 inserted “magistrate,” after “district,” in first par.
 
-1996—Pub. L. 104–134, § 101[(a)] [title III, § 305(1)], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
+1996—Pub. L. 104–134, § 101[(a)] [title III, § 305(1)], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
 
-Pub. L. 104–134, § 101[(a)] [title III, § 305(2)], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
+Pub. L. 104–134, § 101[(a)] [title III, § 305(2)], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
 
 1990—Pub. L. 101–650 substituted “biennially, and may summon annually,” for “annually”, struck out “the United States District Court for the District of the Canal Zone,” after “The judges of”, and substituted “the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually,” for “and the District Court of the Virgin Islands shall also be summoned annually”.
 
@@ -379,7 +379,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 334. Institutes and joint councils on sentencing
+## § 334. Institutes and joint councils on sentencing
 
 **(a)** In the interest of uniformity in sentencing procedures, there is hereby authorized to be established under the auspices of the Judicial Conference of the United States, institutes and joint councils on sentencing. The Attorney General and/or the chief judge of each circuit may at any time request, through the Director of the Administrative Office of the United States Courts, the Judicial Conference to convene such institutes and joint councils for the purpose of studying, discussing, and formulating the objectives, policies, standards, and criteria for sentencing those convicted of crimes and offenses in the courts of the United States. The agenda of the institutes and joint councils may include but shall not be limited to: (1) The development of standards for the content and utilization of presentence reports; (2) the establishment of factors to be used in selecting cases for special study and observation in prescribed diagnostic clinics; (3) the determination of the importance of psychiatric, emotional, sociological and physiological factors involved in crime and their bearing upon sentences; (4) the discussion of special sentencing problems in unusual cases such as treason, violation of public trust, subversion, or involving abnormal sex behavior, addiction to drugs or alcohol, and mental or physical handicaps; (5) the formulation of sentencing principles and criteria which will assist in promoting the equitable administration of the criminal laws of the United States.
 
@@ -389,21 +389,21 @@ For termination of the United States District Court for the District of the Cana
 
 **(d)** The expenses of attendance of judges shall be paid from applicable appropriations for the judiciary of the United States. The expenses connected with the preparation of the plans and agenda for the conference and for the travel and other expenses incident to the attendance of officials and other participants invited by the Attorney General shall be paid from applicable appropriations of the Department of Justice.
 
-(Added Pub. L. 85–752, § 1, Aug. 25, 1958, 72 Stat. 845.)
+(Added Pub. L. 85–752, § 1, Aug. 25, 1958, 72 Stat. 845.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sentencing Procedures**
 
-Pub. L. 85–752, § 7, Aug. 25, 1958, 72 Stat. 847, provided that: “This Act [enacting this section, sections 4208 and 4209 of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 4208 of Title 18] does not apply to any offense for which there is provided a mandatory penalty.”
+Pub. L. 85–752, § 7, Aug. 25, 1958, 72 Stat. 847, provided that: “This Act [enacting this section, sections 4208 and 4209 of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 4208 of Title 18] does not apply to any offense for which there is provided a mandatory penalty.”
 
-## § 335. Judicial Conference of the Court of International Trade
+## § 335. Judicial Conference of the Court of International Trade
 
 **(a)** The chief judge of the Court of International Trade is authorized to summon annually the judges of such court to a judicial conference, at a time and place that such chief judge designates, for the purpose of considering the business of such court and improvements in the administration of justice in such court.
 
 **(b)** The Court of International Trade shall provide by its rules for representation and active participation at such conference by members of the bar.
 
-(Added Pub. L. 99–466, § 2(a), Oct. 14, 1986, 100 Stat. 1190.)
+(Added Pub. L. 99–466, § 2(a), Oct. 14, 1986, 100 Stat. 1190.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 12D—COLUMBIA BASIN PROJECT
 
-## § 835. Project authorized; laws applicable
+## § 835. Project authorized; laws applicable
 
 In addition to the primary purposes for which the Grand Coulee Dam project (hereafter to be known as the Columbia Basin project and herein called the “project”) was authorized under the provisions of the Act of August 30, 1935 (49 Stat. 1028), the project is authorized and reauthorized as a project subject to the Reclamation Project Act of 1939; and the provisions of each of those two Acts together with the provisions of this Act shall govern the repayment of expenditures and the construction, operation, and maintenance of the works constructed as a part of the project.
 
-(May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
+(May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
 
 **Editorial Notes**
 
@@ -41,27 +41,27 @@ This Act, referred to in text, is act May 27, 1937, ch. 269, as amended generall
 
 **Short Title**
 
-Act May 27, 1937, ch. 269, § 11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “This Act [enacting this section, sections 835a to 835c–5 of this title, and provisions set out as a note below] may be cited as ‘The Columbia Basin Project Act’.”
+Act May 27, 1937, ch. 269, § 11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “This Act [enacting this section, sections 835a to 835c–5 of this title, and provisions set out as a note below] may be cited as ‘The Columbia Basin Project Act’.”
 
 **Separability**
 
-Act May 27, 1937, ch. 269, § 10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “If any provision of this Act [see Short Title note above] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Act May 27, 1937, ch. 269, § 10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “If any provision of this Act [see Short Title note above] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 **Transfer of Functions**
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-## § 835–1. Laws governing
+## § 835–1. Laws governing
 
 The Columbia Basin project shall be governed by the Federal reclamation laws, being the Act of June 17, 1902 (32 Stat. 388), and all Acts amendatory thereof or supplementary thereto.
 
-(Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678.)
+(Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 17, 1902 (32 Stat. 388), referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902 (32 Stat. 388), referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 **Codification**
 
@@ -73,21 +73,21 @@ Section is derived from part of section 3 of Pub. L. 87–728. Remainder of such
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-## §§ 835a, 835b. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
+## §§ 835a, 835b. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
 
-Section 835a, acts May 27, 1937, ch. 269, § 2, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 14; Sept. 26, 1950, ch. 1048, § 1(1), (2), 64 Stat. 1037; Sept. 2, 1957, Pub. L. 85–264, § 1(a)–(c), 71 Stat. 590, related to the use of project appropriations for irrigation features; appraisals and reappraisals of lands; contracts with subdivisions of state; irrigation blocks; boundaries as determining right to water; temporary delivery to excess lands; definition of owners, community property; necessity of execution of recordable contract; contractual requirements; filing of instruments.
+Section 835a, acts May 27, 1937, ch. 269, § 2, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 14; Sept. 26, 1950, ch. 1048, § 1(1), (2), 64 Stat. 1037; Sept. 2, 1957, Pub. L. 85–264, § 1(a)–(c), 71 Stat. 590, related to the use of project appropriations for irrigation features; appraisals and reappraisals of lands; contracts with subdivisions of state; irrigation blocks; boundaries as determining right to water; temporary delivery to excess lands; definition of owners, community property; necessity of execution of recordable contract; contractual requirements; filing of instruments.
 
-Section 835b, acts May 27, 1937, ch. 269, § 3, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, § 1(3), 64 Stat. 1037, related to consideration for conveyance of lands.
+Section 835b, acts May 27, 1937, ch. 269, § 3, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, § 1(3), 64 Stat. 1037, related to consideration for conveyance of lands.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 87–728, § 5(b), Oct. 1, 1962, 76 Stat. 679, provided that: “The rights of any vendee or grantee as defined in section 3 of the Columbia Basin Project Act of 1943 [section 835b of this title] are hereby preserved as to any transactions that were consummated by contract or deed prior to repeal of said section 3 by this Act.”
+Pub. L. 87–728, § 5(b), Oct. 1, 1962, 76 Stat. 679, provided that: “The rights of any vendee or grantee as defined in section 3 of the Columbia Basin Project Act of 1943 [section 835b of this title] are hereby preserved as to any transactions that were consummated by contract or deed prior to repeal of said section 3 by this Act.”
 
 **Amendatory Repayment Contract**
 
-Pub. L. 87–728, §§ 1, 2, Oct. 1, 1962, 76 Stat. 677, 678, provided:
+Pub. L. 87–728, §§ 1, 2, Oct. 1, 1962, 76 Stat. 677, 678, provided:
 
 > “That the amendatory repayment contract with the Quincy Columbia Basin Irrigation District negotiated by the Secretary of the Interior, pursuant to subsection (a) of section 7 of the Reclamation Project Act of 1939 (53 Stat. 1192; 43 U.S.C. 485f) [section 485f(a) of Title 43, Public Lands], which contract was approved by the district electors on February 13, 1962, is hereby approved and the Secretary is hereby authorized to execute it on behalf of the United States and to negotiate and execute on behalf of the United States amendatory repayment contracts in substantially the same form or amendatory repayment contracts containing substantially the same provisions with the South and East Columbia Basin Irrigation Districts.
 
@@ -103,13 +103,13 @@ Pub. L. 86–52 was amended to permit delivery of water to State owned lands, se
 
 **Delivery of Water to State Owned Land**
 
-Pub. L. 87–728, § 7, Oct. 1, 1962, 76 Stat. 679, provided that: “The Act of June 23, 1959 (73 Stat. 87) [set out as a note above] is hereby amended to permit delivery of water to not to exceed six hundred and forty acres of irrigable lands whether or not said lands are in conformed farm units, owned by the State of Washington for use by the Washington State University for agricultural research purposes.”
+Pub. L. 87–728, § 7, Oct. 1, 1962, 76 Stat. 679, provided that: “The Act of June 23, 1959 (73 Stat. 87) [set out as a note above] is hereby amended to permit delivery of water to not to exceed six hundred and forty acres of irrigable lands whether or not said lands are in conformed farm units, owned by the State of Washington for use by the Washington State University for agricultural research purposes.”
 
 **Delivery of Water to Farms Platted Prior to October 1, 1962, Exceeding 160 Acres**
 
-Pub. L. 87–728, § 5(a), Oct. 1, 1962, 76 Stat. 679, provided that: “Notwithstanding the provisions of the Federal reclamation laws [for definition, see section 835–1 of this title], water may be delivered to farm unit platted before the enactment of this Act [Oct. 1, 1962] that contains a nominal quarter section of land exceeding one hundred and sixty irrigable acres insofar as those provisions limit the delivery of water to irrigable lands in excess of one hundred and sixty irrigable acres.”
+Pub. L. 87–728, § 5(a), Oct. 1, 1962, 76 Stat. 679, provided that: “Notwithstanding the provisions of the Federal reclamation laws [for definition, see section 835–1 of this title], water may be delivered to farm unit platted before the enactment of this Act [Oct. 1, 1962] that contains a nominal quarter section of land exceeding one hundred and sixty irrigable acres insofar as those provisions limit the delivery of water to irrigable lands in excess of one hundred and sixty irrigable acres.”
 
-## § 835c. Duties of Secretary of the Interior
+## § 835c. Duties of Secretary of the Interior
 
 **(a) Administer, sell, and exchange lands, dedicate portions for public purposes, etc.**
 
@@ -119,7 +119,7 @@ For the purposes of assisting in the permanent settlement of farm families, prot
 
 Contracts, exchanges, and leases made under this section shall be on terms that, in the Secretary’s judgment, are in keeping with sound project development. In addition, land sale and exchange contracts shall be on a basis that, in the Secretary’s judgment, provides for the return, in a reasonable period of years, of not less than the appraised value of the land and improvements thereon. Qualification of applicants for the purchase of land for irrigation farming shall be prescribed as provided in section 433 of title 43, notwithstanding any other provisions of law. No farm unit shall be sold to, and no contract to sell a farm unit shall be entered into with, any person, corporation, or joint-stock association which has theretofore purchased or entered into a contract to purchase a farm unit from the United States on the Columbia Basin project. The foregoing provisions of this subsection shall apply only to the sale of farm units which are suitable for settlement purposes. Farm units which, in the opinion of the Secretary, are not suitable for settlement purposes may be sold with a preference to resident project landowners as supplemental units, subject to the applicable irrigable acreage limitations on the delivery of water, but the purchasers thereof shall not be entitled to benefits of the Act of August 13, 1953 (67 Stat. 566) [43 U.S.C. 451 et seq.] with respect thereto.
 
-(May 27, 1937, ch. 269, § 4, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, § 1(4), 64 Stat. 1037; Pub. L. 85–264, § 1(d), Sept. 2, 1957, 71 Stat. 591; Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678.)
+(May 27, 1937, ch. 269, § 4, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, § 1(4), 64 Stat. 1037; Pub. L. 85–264, § 1(d), Sept. 2, 1957, 71 Stat. 591; Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Contracts, exchanges, and leases made under this section shall be on terms that,
 
 This Act, referred to in subsec. (a), is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a, 835b, and 835c–1 to 835c–5 of this title, and provisions set out as a note under section 835 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 835 of this title and Tables.
 
-Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, which is classified generally to subchapter VII (§ 451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
+Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, which is classified generally to subchapter VII (§ 451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -145,11 +145,11 @@ Subsec. (b). Pub. L. 87–728 authorized farm units which are not suitable for s
 
 **Amendment of Contracts, Instruments, Rules, Regulations, Forms, and Procedures**
 
-Pub. L. 87–728, § 4, Oct. 1, 1962, 76 Stat. 679, provided that: “The Secretary is hereby authorized and directed to amend or modify all existing contracts, instruments, rules, regulations, forms, and procedures entered into or issued under the Columbia Basin Project Act, as amended (16 U.S.C., chap. 12D) [sections 835 and 835a to 835c–5 of this title] prior to the date of enactment of this act [Oct. 1, 1962] to conform to the provisions of this Act [enacting section 835–1 of this title, amending sections 835c, 835c–1, 835–2, 835c–4 of this title, repealing sections 835a, 835b, 835c–3, and 835c–5 of this title, and enacting provisions set out as notes under sections 835a and 835b of this title].”
+Pub. L. 87–728, § 4, Oct. 1, 1962, 76 Stat. 679, provided that: “The Secretary is hereby authorized and directed to amend or modify all existing contracts, instruments, rules, regulations, forms, and procedures entered into or issued under the Columbia Basin Project Act, as amended (16 U.S.C., chap. 12D) [sections 835 and 835a to 835c–5 of this title] prior to the date of enactment of this act [Oct. 1, 1962] to conform to the provisions of this Act [enacting section 835–1 of this title, amending sections 835c, 835c–1, 835–2, 835c–4 of this title, repealing sections 835a, 835b, 835c–3, and 835c–5 of this title, and enacting provisions set out as notes under sections 835a and 835b of this title].”
 
 **Amendment of Contracts, Deeds or Documents by Secretary**
 
-Pub. L. 85–264, § 2, Sept. 2, 1957, 71 Stat. 591, provided that: “The Secretary of the Interior is authorized to amend any contract, which has been entered into prior to the date of enactment of this Act [Sept. 2, 1957], or any existing deed or other document to conform with the provisions of the first section of this Act [amending this section and section 835a of this title]. The consent of the United States is hereby given to the recording, at the expense of the party benefited thereby, of any such amendment.”
+Pub. L. 85–264, § 2, Sept. 2, 1957, 71 Stat. 591, provided that: “The Secretary of the Interior is authorized to amend any contract, which has been entered into prior to the date of enactment of this Act [Sept. 2, 1957], or any existing deed or other document to conform with the provisions of the first section of this Act [amending this section and section 835a of this title]. The consent of the United States is hereby given to the recording, at the expense of the party benefited thereby, of any such amendment.”
 
 **Coulee Dam Community Act of 1957**
 
@@ -287,7 +287,7 @@ Pub. L. 85–240, Aug. 30, 1957, 71 Stat. 524, provided:
 
 > ]. This Act may be cited as the ‘Coulee Dam Community Act of 1957’.”
 
-## § 835c–1. Taxation and assessments; applicability of State laws
+## § 835c–1. Taxation and assessments; applicability of State laws
 
 **(a) Payments in lieu of taxes**
 
@@ -301,7 +301,7 @@ Any public lands within the project and any lands or interests in lands acquired
 
 In addition to taxation or assessment under subsection (b) upon execution by the United States of a contract of sale of any lands within the project, the lands under contract may be taxed by the State or political subdivision thereof in the same manner and to the same extent as privately owned lands of a like character. All taxes legally so assessed may be enforced in the same manner and under the same proceeding whereby said taxes are enforced against privately owned lands, subject to the limitations in favor of the United States that govern the enforcement of district assessments or taxes as provided in subsection (b). If lands under any such contract shall at any time revert to the United States before transfer of title under the contract by reason of default thereunder, all liens or tax titles resulting from taxes levied pursuant to the authority of this subsection upon such lands shall be thereupon extinguished; and the levying of any such tax by such State or political subdivision shall be deemed to be an agreement on its part, in the event of such reversion, to execute and record a formal release of such lien or tax title.
 
-(May 27, 1937, ch. 269, § 5, as added Mar. 10, 1943, ch. 14, 57 Stat. 19; amended Pub. L. 87–728, § 6(a), Oct. 1, 1962, 76 Stat. 679.)
+(May 27, 1937, ch. 269, § 5, as added Mar. 10, 1943, ch. 14, 57 Stat. 19; amended Pub. L. 87–728, § 6(a), Oct. 1, 1962, 76 Stat. 679.)
 
 **Editorial Notes**
 
@@ -313,11 +313,11 @@ This Act, referred to in subsecs. (a) and (b), is act May 27, 1937, ch. 269, as 
 
 1962—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effective when filed for record in the manner provided in section 835a(f) of this title”.
 
-## § 835c–2. Authorization of appropriations; establishment of Columbia Basin Land Development Account
+## § 835c–2. Authorization of appropriations; establishment of Columbia Basin Land Development Account
 
 There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such moneys as may be necessary to carry out the provisions of this Act, to be reimbursable to the extent required by this Act. All revenues received in carrying out the provisions of section 4 hereof [16 U.S.C. 835c] shall be covered into the General Treasury as miscellaneous receipts. Amounts equal to appropriated funds requisitioned by the Secretary and made available for disbursement on the books of the Treasurer of the United States shall be debited in a special account in the Treasury, to be known as the Columbia Basin Land Development Account. Amounts equal to revenues covered into the General Treasury as miscellaneous receipts shall be credited in said special account. After such credits equal the amount of the debits with interest thereon at the rate of 3 per centum per annum from the respective dates of the debits, additional credits in said special account shall be made by the Secretary, in the manner determined by him, the basis of corresponding credits to the construction cost obligations of the district or districts entering into contracts for the repayment thereof.
 
-(May 27, 1937, ch. 269, § 6, as added Mar. 10, 1943, ch. 14, 57 Stat. 19; amended Pub. L. 87–728, § 6(b), Oct. 1, 1962, 76 Stat. 679.)
+(May 27, 1937, ch. 269, § 6, as added Mar. 10, 1943, ch. 14, 57 Stat. 19; amended Pub. L. 87–728, § 6(b), Oct. 1, 1962, 76 Stat. 679.)
 
 **Editorial Notes**
 
@@ -329,15 +329,15 @@ This Act, referred to in text, is act May 27, 1937, ch. 269, as amended generall
 
 1962—Pub. L. 87–728 substituted “for the repayment thereof” for “under section 835a of this title”.
 
-## § 835c–3. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
+## § 835c–3. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
 
-Section, act May 27, 1937, ch. 269, § 7, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Sept. 27, 1950, ch. 1060, 64 Stat. 1074, related to the consent of the State of Washington to the provisions of sections 835 and 835a to 835c–5 of this title, and to the effect of constitutional limitations.
+Section, act May 27, 1937, ch. 269, § 7, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Sept. 27, 1950, ch. 1060, 64 Stat. 1074, related to the consent of the State of Washington to the provisions of sections 835 and 835a to 835c–5 of this title, and to the effect of constitutional limitations.
 
-## § 835c–4. General powers of Secretary of the Interior; delegation to authorized representatives
+## § 835c–4. General powers of Secretary of the Interior; delegation to authorized representatives
 
 The Secretary is authorized to perform such acts, to make such rules and regulations, and to include in contracts relating to the Columbia Basin project such provisions as he deems proper for carrying out the provisions of this Act; and in connection with sales or exchanges under the Act, he is authorized to effect conveyances without regard to the law governing the patenting of public lands. Wherever in this Act functions, powers, or duties are conferred upon the Secretary, said functions, powers, or duties may be performed, exercised, or discharged by his duly authorized representatives.
 
-(May 27, 1937, ch. 269, § 8, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Pub. L. 87–728, § 6(c), Oct. 1, 1962, 76 Stat. 679.)
+(May 27, 1937, ch. 269, § 8, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Pub. L. 87–728, § 6(c), Oct. 1, 1962, 76 Stat. 679.)
 
 **Editorial Notes**
 
@@ -359,19 +359,19 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 835c–5. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
+## § 835c–5. Repealed. Pub. L. 87–728, § 3, Oct. 1, 1962, 76 Stat. 678
 
-Section, act May 27, 1937, ch. 269, § 9, as added Mar. 10, 1943, ch. 14, 57 Stat. 20, related to the consent of the Government to the sale of school and public lands of the State of Washington.
+Section, act May 27, 1937, ch. 269, § 9, as added Mar. 10, 1943, ch. 14, 57 Stat. 20, related to the consent of the Government to the sale of school and public lands of the State of Washington.
 
-## § 835d. Acquisition of Indian lands, Spokane and Colville Reservations
+## § 835d. Acquisition of Indian lands, Spokane and Colville Reservations
 
 In aid of the construction, operation and maintenance of the Columbia Basin project (formerly the Grand Coulee Dam project), authorized by the Act of August 30, 1935 (49 Stat. 1028), the Act of August 4, 1939 (53 Stat. 1187), and the Columbia Basin Project Act (Public, Numbered 8, Seventy-eighth Congress, first session, 57 Stat. 14), there is hereby granted to the United States, subject to the provisions of this section and sections 835e to 835h of this title, (a) all the right, title, and interest of the Indians in and to the tribal and allotted lands within the Spokane and Colville Reservations, including sites of agency and school buildings and related structures and unsold lands in the Klaxta town site, as may be designated therefor by the Secretary of the Interior from time to time: *Provided*, That no lands shall be taken for reservoir purposes above the elevation of one thousand three hundred and ten feet above sea level as shown by Bureau of Land Management surveys, except in Klaxta town site and except where in the judgment of the Secretary of the Interior, special circumstances concerning the reservoir or its operation and maintenance require the taking of land above that elevation; and (b) such other interests in or to any such lands and property within these reservations as may be required and as may be designated by the Secretary of the Interior from time to time for the construction of pipe lines, highways, railroads, telegraph, telephone, and electric-transmission lines in connection with the project, or for the relocation or reconstruction of such facilities made necessary by the construction of the project.
 
 The Secretary of the Interior, in lieu of reserving rights of hunting, fishing, and boating to the Indians in the areas granted under this section and sections 835e to 835h of this title, shall set aside approximately one-quarter of the entire reservoir area for the paramount use of the Indians of the Spokane and Colville Reservations for hunting, fishing, and boating purposes, which rights shall be subject only to such reasonable regulations as the Secretary may prescribe for the protection and conservation of fish and wildlife: *Provided*, That the exercise of the Indians’ rights shall not interfere with project operations. The Secretary shall also, where necessary, grant to the Indians reasonable rights of access to such area or areas across any project lands.
 
-(June 29, 1940, ch. 460, § 1, 54 Stat. 703; Dec. 16, 1944, ch. 602, 58 Stat. 813; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(June 29, 1940, ch. 460, § 1, 54 Stat. 703; Dec. 16, 1944, ch. 602, 58 Stat. 813; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -393,11 +393,11 @@ The Columbia Basin Project Act, referred to in text, is act May 27, 1937, ch. 26
 
 Functions of General Land Office transferred to Bureau of Land Management by Reorg. Plan No. 3 of 1946. See note set out under section 1 of Title 43, Public Lands.
 
-## § 835e. Payment for lands acquired from Spokane and Colville Reservations
+## § 835e. Payment for lands acquired from Spokane and Colville Reservations
 
 As lands or interests in lands are designated from time to time under sections 835d to 835h of this title, the Secretary of the Interior shall determine the amount of money to be paid to the Indians as just and equitable compensation therefor. As to the tribal lands, the amounts so determined shall be transferred in the Treasury of the United States from the funds now or hereafter made available for the construction of the Columbia Basin project to the credit of the appropriate tribe pursuant to the provisions of section 155 of title 25. The amounts due individual landowners or their heirs or devisees shall be paid from funds now or hereafter made available for the construction of said project to the superintendent of the Colville Indian Agency or such other officer as shall be designated by the Secretary of the Interior for credit on the books of said agency to the accounts of the individuals concerned.
 
-(June 29, 1940, ch. 460, § 2, 54 Stat. 703; May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
+(June 29, 1940, ch. 460, § 2, 54 Stat. 703; May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -409,49 +409,49 @@ Act May 27, 1937, as amended by act Mar. 10, 1943, changed name of project from 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 835f. Use of funds deposited to allottees; land and improvements
+## § 835f. Use of funds deposited to allottees; land and improvements
 
 Funds deposited to the credit of allottees, their heirs or devisees may be used in the discretion of the Secretary of the Interior, for the acquisition of other lands and improvements, or the relocation of existing improvements or construction of new improvements on the lands so acquired for the allottees or heirs whose lands and improvements are acquired under the provisions of sections 835d to 835h of this title. Lands so acquired shall be held in the same status as those from which the funds were derived, and shall be nontaxable until otherwise provided by Congress.
 
-(June 29, 1940, ch. 460, § 3, 54 Stat. 703.)
+(June 29, 1940, ch. 460, § 3, 54 Stat. 703.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 835g. Relocation of Indian cemeteries
+## § 835g. Relocation of Indian cemeteries
 
 As to any Indian cemetery lands required for the project, the Secretary of the Interior is authorized, in his discretion, in lieu of requiring payment therefor, to establish cemeteries on other lands that he may select and acquire for the purpose, and to remove bodies, markers, and other appurtenances to the new sites. All costs incurred in connection with any such relocation shall be paid from moneys appropriated for the project. All right, title, and interest of the Indians in the lands within any cemetery so relocated shall terminate and the grant of title under sections 835d to 835h of this title take effect as of the date the Secretary of the Interior authorizes the relocation. Sites of the relocated cemeteries shall be held in trust by the United States for the Spokane or Colville Tribe, as the case may be, and shall be nontaxable.
 
-(June 29, 1940, ch. 460, § 4, 54 Stat. 703.)
+(June 29, 1940, ch. 460, § 4, 54 Stat. 703.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 835h. Acts and regulations by Secretary of the Interior
+## § 835h. Acts and regulations by Secretary of the Interior
 
 The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 835d to 835g of this title.
 
-(June 29, 1940, ch. 460, § 5, 54 Stat. 704.)
+(June 29, 1940, ch. 460, § 5, 54 Stat. 704.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 835i. Contracts with State of Washington for maintenance and operation of fish hatcheries
+## § 835i. Contracts with State of Washington for maintenance and operation of fish hatcheries
 
 In connection with fish hatcheries built or to be built as a part of the fish-protection program required on the Columbia Basin Dam project, the Secretary of the Interior is authorized to contract with the State of Washington for the maintenance and operation of any of them at the expense of said State.
 
-(Oct. 9, 1940, ch. 794, 54 Stat. 1085; May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
+(Oct. 9, 1940, ch. 794, 54 Stat. 1085; May 27, 1937, ch. 269, § 1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,11 +459,11 @@ In connection with fish hatcheries built or to be built as a part of the fish-pr
 
 Act May 27, 1937, as amended by act Mar. 10, 1943, changed name of project from “Grand Coulee Dam” to “Columbia Basin”.
 
-## § 835j. Projects marketing commercial power and energy; consolidated financial statement to President and Congress; adjustment of rates to assure return of reimbursable construction costs within prescribed period
+## § 835j. Projects marketing commercial power and energy; consolidated financial statement to President and Congress; adjustment of rates to assure return of reimbursable construction costs within prescribed period
 
 The Secretary of the Interior shall prepare, maintain, and present annually to the President and the Congress a consolidated financial statement for all projects heretofore or hereafter authorized, including the third powerplant at Grand Coulee Dam, from or by means of which commercial power and energy is marketed through the facilities of the Federal Columbia River power system and for all other projects associated therewith to the extent that the costs of these projects are required by law to be charged to and returned from net revenues derived from the power and energy, or any power and energy, so marketed, and he shall, if said consolidated statement indicates that the reimbursable construction costs of the projects, or any of the projects, covered thereby which are chargeable to and returnable from the commercial power and energy so marketed are likely not to be returned within the period prescribed by law, take prompt action to adjust the rates charged for such power and energy to the extent necessary to assure such return.
 
-(Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, renumbered Pub. L. 89–561, § 6(1), Sept. 7, 1966, 80 Stat. 714.)
+(Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, renumbered Pub. L. 89–561, § 6(1), Sept. 7, 1966, 80 Stat. 714.)
 
 **Editorial Notes**
 
@@ -485,7 +485,7 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Ex. Ord. No. 8526. Coordinating the Electrical Facilities of Grand Coulee Dam Project and Bonneville Project**
 
-Ex. Ord. No. 8526, Aug. 26, 1940, 5 F.R. 3390, as amended by Ex. Ord. No. 12038, § 3(a), Feb. 3, 1978, 43 F.R. 4957, provided:
+Ex. Ord. No. 8526, Aug. 26, 1940, 5 F.R. 3390, as amended by Ex. Ord. No. 12038, § 3(a), Feb. 3, 1978, 43 F.R. 4957, provided:
 
 WHEREAS the Bureau of Reclamation is constructing the Grand Coulee Dam Project [now Columbia Basin Project] pursuant to authority delegated under section 2 of the act of August 30, 1935, 49 Stat. 1028, 1039, and in connection therewith will operate and maintain facilities for the generation of electrical power and energy; and
 
@@ -505,17 +505,17 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 \5. In aid of this delegation of authority to the Secretary of the Interior and the Secretary of Energy, the Commissioner of the Bureau of Reclamation and the Bonneville Power Administrator shall, subject to the approval of the Secretary of the Interior and the Secretary of Energy, and the terms of this order, enter into any and all agreements that are necessary for the interconnection of the Bonneville Project and the Grand Coulee Dam Project and to carry out the provisions of this order.
 
-## § 835k. Return of construction costs from marketing revenues in event of inability of irrigation water users to repay within repayment period and lack of other sources of revenue
+## § 835k. Return of construction costs from marketing revenues in event of inability of irrigation water users to repay within repayment period and lack of other sources of revenue
 
 Subject to the provisions of section 835*l* of this title, that portion of the construction cost of any project hereafter authorized to be constructed, operated, and maintained by the Secretary of the Interior under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto) within the Pacific Northwest which, though allocated to irrigation, is beyond the ability of the irrigation water users to repay within the repayment period prescribed by law for that project and cannot be returned within the same period from other project sources of revenue shall be charged to and returned within that period from net revenues derived from the marketing of commercial power and energy through the Federal Columbia River power system, unless otherwise provided by law. As used in this section, the term “Pacific Northwest” has the meaning ascribed to it in section 837 of this title.
 
-(Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, renumbered and amended Pub. L. 89–561, § 6(1), (2), Sept. 7, 1966, 80 Stat. 714.)
+(Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, renumbered and amended Pub. L. 89–561, § 6(1), (2), Sept. 7, 1966, 80 Stat. 714.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 **Codification**
 
@@ -523,7 +523,7 @@ Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so d
 
 **Amendments**
 
-1966—Pub. L. 89–561, § 6(2), substituted “Subject to the provisions of section 835*l* of this title, that” for “That”.
+1966—Pub. L. 89–561, § 6(2), substituted “Subject to the provisions of section 835*l* of this title, that” for “That”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -531,11 +531,11 @@ Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so d
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-## § 835l. Congressional declaration of financial policy; limitations on assistance; analyses and studies; “net revenues” defined
+## § 835l. Congressional declaration of financial policy; limitations on assistance; analyses and studies; “net revenues” defined
 
 It is declared to be the policy of the Congress that reclamation projects hereafter authorized in the Pacific Northwest to receive financial assistance from the Federal Columbia River power system shall receive such assistance only from the net revenues of that system as provided in this section, and that their construction shall be so scheduled that such assistance, together with similar assistance for previously authorized reclamation projects (including projects not now receiving such assistance for which the Congress may hereafter authorize financial assistance) will not cause increases in the rates and charges of the Bonneville Power Administration. It is further declared to be the policy of the Congress that the total assistance to all irrigation projects, both existing and future, in the Pacific Northwest shall not average more than $30,000,000 annually in any period of twenty consecutive years. Any analyses and studies authorized by the Congress for reclamation projects in the Pacific Northwest shall be prepared in accordance with the provisions of sections 835j to 835m of this title. As used in sections 835j to 835m of this title, the term “net revenues” means revenues as determined from time to time which are not required for the repayment of (1) all costs allocated to power at projects in the Pacific Northwest then existing or authorized, including the cost of acquiring power by purchase or exchange, and (2) presently authorized assistance from power to irrigation at projects in the Pacific Northwest existing and authorized prior to September 7, 1966.
 
-(Pub. L. 89–448, § 2(b), as added Pub. L. 89–561, § 6(3), Sept. 7, 1966, 80 Stat. 714.)
+(Pub. L. 89–448, § 2(b), as added Pub. L. 89–561, § 6(3), Sept. 7, 1966, 80 Stat. 714.)
 
 **Editorial Notes**
 
@@ -549,11 +549,11 @@ Section is comprised of subsec. (b) of section 2 of Pub. L. 89–448, as added b
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 835m. Recommendations for changes in limitations on financial assistance; time and frequency of submission
+## § 835m. Recommendations for changes in limitations on financial assistance; time and frequency of submission
 
 On December 20, 1974, and thereafter at intervals coinciding with anniversary dates of Federal Energy Regulatory Commission general review of the rates and charges of the Bonneville Power Administration, the Secretary of the Interior shall recommend to the Congress any changes in the dollar limitations herein placed upon financial assistance to Pacific Northwest reclamation projects that he believes justified by changes in the cost-price levels existing on July 1, 1966, or by other relevant changes of circumstances.
 
-(Pub. L. 89–448, § 2(c), as added Pub. L. 89–561, § 6(3), Sept. 7, 1966, 80 Stat. 715; amended Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583.)
+(Pub. L. 89–448, § 2(c), as added Pub. L. 89–561, § 6(3), Sept. 7, 1966, 80 Stat. 715; amended Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583.)
 
 **Editorial Notes**
 
@@ -565,7 +565,7 @@ Section is comprised of subsec. (c) of section 2 of Pub. L. 89–448, as added b
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 

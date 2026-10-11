@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 37—NONPOSTAL SERVICES
 
-## § 3701. Purpose
+## § 3701. Purpose
 
 The purpose of this chapter is to enable the Postal Service to increase its net revenues through specific nonpostal products and services that are expressly authorized by this chapter.
 
-(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1140.)
+(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1140.)
 
-## § 3702. Definitions
+## § 3702. Definitions
 
 In this chapter—
 
@@ -39,9 +39,9 @@ In this chapter—
 
 **(7)** the term “United States”, when used in a geographical sense, means the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1140.)
+(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1140.)
 
-## § 3703. Postal Service program for State governments
+## § 3703. Postal Service program for State governments
 
 **(a) In General.—** Notwithstanding any other provision of this title, the Postal Service may establish a program to enter into agreements with an agency of any State government, local government, or tribal government to provide property or nonpostal services to the public on behalf of such agencies for non-commercial purposes, but only if—
 
@@ -71,15 +71,15 @@ In this chapter—
 
 **(2)** exempt from public disclosure under section 552(b) of title 5.
 
-(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1141.)
+(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1141.)
 
-## § 3704. Postal Service program for other Government agencies
+## § 3704. Postal Service program for other Government agencies
 
 The Postal Service may establish a program to provide property and nonpostal services to other Government agencies within the meaning of section 411, but only if such program provides a net contribution to the Postal Service, defined as reimbursement that covers at least 100 percent of the costs attributable for property and nonpostal services provided by the Postal Service in each year to such agencies.
 
-(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1142.)
+(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1142.)
 
-## § 3705. Transparency and accountability for nonpostal services
+## § 3705. Transparency and accountability for nonpostal services
 
 **(a) Annual Report to the Commission.—**
 
@@ -131,4 +131,4 @@ The Postal Service may establish a program to provide property and nonpostal ser
 
 **(g) Experimental Product Authority.—** The Postal Service may conduct market tests of agreements pursuant to section 3703 and section 3704 of this chapter subject to the same terms and conditions described in section 3641 of this title. For the purposes of a market test, the cost coverage requirements in sections 3703 and 3704 of this chapter shall not apply.
 
-(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1142.)
+(Added Pub. L. 117–108, title I, § 103(a)(1), Apr. 6, 2022, 136 Stat. 1142.)

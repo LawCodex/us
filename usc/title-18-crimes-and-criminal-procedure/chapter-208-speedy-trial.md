@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1979—Pub. L. 96–43, § 11, Aug. 2, 1979, 93 Stat. 332, substituted “Persons detained or designated as being of high risk” for “Interim limits” in item 3164 and inserted “and implementation” in item 3174.
+1979—Pub. L. 96–43, § 11, Aug. 2, 1979, 93 Stat. 332, substituted “Persons detained or designated as being of high risk” for “Interim limits” in item 3164 and inserted “and implementation” in item 3174.
 
-1975—Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2076, added chapter 208 and items 3161 to 3174.
+1975—Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2076, added chapter 208 and items 3161 to 3174.
 
-## § 3161. Time limits and exclusions
+## § 3161. Time limits and exclusions
 
 **(a)** In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
@@ -121,41 +121,41 @@ retrieved: 2026-10-11
 
 **(2)** If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant’s subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§ 2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, § 1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, § 6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–406, § 13, Oct. 13, 2008, 122 Stat. 4294.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§ 2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, § 1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, § 6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–406, § 13, Oct. 13, 2008, 122 Stat. 4294.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (h)(1)(B) to (J). Pub. L. 110–406, § 13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
+2008—Subsec. (h)(1)(B) to (J). Pub. L. 110–406, § 13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 of title 28, United States Code;
 
 “(C) delay resulting from deferral of prosecution pursuant to section 2902 of title 28, United States Code;”.
 
-Subsec. (h)(5) to (9). Pub. L. 110–406, § 13(2), (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to section 2902 of title 28, United States Code.”
+Subsec. (h)(5) to (9). Pub. L. 110–406, § 13(2), (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to section 2902 of title 28, United States Code.”
 
 1988—Subsec. (k). Pub. L. 100–690 added subsec. (k).
 
-1984—Subsec. (h)(8)(C). Pub. L. 98–473, § 1219(1), substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
+1984—Subsec. (h)(8)(C). Pub. L. 98–473, § 1219(1), substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
 
-Subsec. (h)(9). Pub. L. 98–473, § 1219(2), added par. (9).
+Subsec. (h)(9). Pub. L. 98–473, § 1219(2), added par. (9).
 
-1979—Subsec. (c)(1). Pub. L. 96–43, § 2, merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
+1979—Subsec. (c)(1). Pub. L. 96–43, § 2, merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
 
-Subsec. (c)(2). Pub. L. 96–43, § 2, added par. (2).
+Subsec. (c)(2). Pub. L. 96–43, § 2, added par. (2).
 
-Subsec. (d). Pub. L. 96–43, § 3(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 96–43, § 3(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 96–43, § 3(b), substituted “seventy days” for “sixty days” in three places and inserted provisions excluding the periods of delay enumerated in subsec. (h) of this section in computing the time limitations specified in this section and applying the sanctions of section 3162 of this title to this subsection.
+Subsec. (e). Pub. L. 96–43, § 3(b), substituted “seventy days” for “sixty days” in three places and inserted provisions excluding the periods of delay enumerated in subsec. (h) of this section in computing the time limitations specified in this section and applying the sanctions of section 3162 of this title to this subsection.
 
-Subsec. (h)(1). Pub. L. 96–43, § 4, added to the listing of excludable delays, delays resulting from the deferral of prosecution under section 2902 of title 28, delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods of delay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
+Subsec. (h)(1). Pub. L. 96–43, § 4, added to the listing of excludable delays, delays resulting from the deferral of prosecution under section 2902 of title 28, delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods of delay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
 
-Subsec. (h)(8)(B)(ii). Pub. L. 96–43, § 5(a), expanded provisions authorizing the granting of continuances based on the complexity or unusual nature of a case to include delays in preparation of all phases of a case, including pretrial motion preparation.
+Subsec. (h)(8)(B)(ii). Pub. L. 96–43, § 5(a), expanded provisions authorizing the granting of continuances based on the complexity or unusual nature of a case to include delays in preparation of all phases of a case, including pretrial motion preparation.
 
-Subsec. (h)(8)(B)(iii). Pub. L. 96–43, § 5(b), inserted provision authorizing a continuance where the delay in filing the indictment is caused by the arrest taking place at such time that the return and filing of the indictment can not reasonably be expected within the period specified in section 3161(b) of this title.
+Subsec. (h)(8)(B)(iii). Pub. L. 96–43, § 5(b), inserted provision authorizing a continuance where the delay in filing the indictment is caused by the arrest taking place at such time that the return and filing of the indictment can not reasonably be expected within the period specified in section 3161(b) of this title.
 
-Subsec. (h)(8)(B)(iv). Pub. L. 96–43, § 5(c), added cl. (iv).
+Subsec. (h)(8)(B)(iv). Pub. L. 96–43, § 5(c), added cl. (iv).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,13 +169,13 @@ Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section
 
 **Short Title of 1979 Amendment**
 
-Pub. L. 96–43, § 1, Aug. 2, 1979, 93 Stat. 327, provided: “That this Act [amending this section and sections 3163 to 3168, 3170 and 3174 of this title] may be cited as the ‘Speedy Trial Act Amendments Act of 1979’.”
+Pub. L. 96–43, § 1, Aug. 2, 1979, 93 Stat. 327, provided: “That this Act [amending this section and sections 3163 to 3168, 3170 and 3174 of this title] may be cited as the ‘Speedy Trial Act Amendments Act of 1979’.”
 
 **Short Title**
 
-Pub. L. 93–619, § 1, Jan. 3, 1975, 88 Stat. 2076, provided: “That this Act [enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Speedy Trial Act of 1974’.”
+Pub. L. 93–619, § 1, Jan. 3, 1975, 88 Stat. 2076, provided: “That this Act [enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Speedy Trial Act of 1974’.”
 
-## § 3162. Sanctions
+## § 3162. Sanctions
 
 **(a)**
 
@@ -199,9 +199,9 @@ The authority to punish provided for by this subsection shall be in addition to 
 
 **(c)** The court shall follow procedures established in the Federal Rules of Criminal Procedure in punishing any counsel or attorney for the Government pursuant to this section.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2079.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2079.)
 
-## § 3163. Effective dates
+## § 3163. Effective dates
 
 **(a)** The time limitation in section 3161(b) of this chapter—
 
@@ -217,7 +217,7 @@ The authority to punish provided for by this subsection shall be in addition to 
 
 **(c)** Subject to the provisions of section 3174(c), section 3162 of this chapter shall become effective and apply to all cases commenced by arrest or summons, and all informations or indictments filed, on or after July 1, 1980.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2080; amended Pub. L. 96–43, § 6, Aug. 2, 1979, 93 Stat. 328.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2080; amended Pub. L. 96–43, § 6, Aug. 2, 1979, 93 Stat. 328.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ The authority to punish provided for by this subsection shall be in addition to 
 
 1979—Subsec. (c). Pub. L. 96–43 substituted provision that section 3162 of this title was to become effective and apply to all cases commenced by arrest or summons, and all informations and indictments filed, on or after July 1, 1980, subject to section 3174(c) of this title, for provision that such section was to become effective after the date of expiration of the fourth twelve-calendar-month period following July 1, 1975.
 
-## § 3164. Persons detained or designated as being of high risk
+## § 3164. Persons detained or designated as being of high risk
 
 **(a)** The trial or other disposition of cases involving—
 
@@ -239,19 +239,19 @@ shall be accorded priority.
 
 **(c)** Failure to commence trial of a detainee as specified in subsection (b), through no fault of the accused or his counsel, or failure to commence trial of a designated releasee as specified in subsection (b), through no fault of the attorney for the Government, shall result in the automatic review by the court of the conditions of release. No detainee, as defined in subsection (a), shall be held in custody pending trial after the expiration of such ninety-day period required for the commencement of his trial. A designated releasee, as defined in subsection (a), who is found by the court to have intentionally delayed the trial of his case shall be subject to an order of the court modifying his nonfinancial conditions of release under this title to insure that he shall appear at trial as required.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, § 7, Aug. 2, 1979, 93 Stat. 329.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, § 7, Aug. 2, 1979, 93 Stat. 329.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1979—Pub. L. 96–43, § 7(1), substituted “Persons detained or designated as being of high risk” for “Interim limits” in section catchline.
+1979—Pub. L. 96–43, § 7(1), substituted “Persons detained or designated as being of high risk” for “Interim limits” in section catchline.
 
-Subsec. (a). Pub. L. 96–43, § 7(2), struck out provisions limiting the trial priority to be accorded persons specified in cls. (1) and (2) of this subsection to the interim period commencing ninety days following July 1, 1975 and ending on the date immediately preceding the date on which the time limits provided for under section 3161(b) and (c) of this title become effective.
+Subsec. (a). Pub. L. 96–43, § 7(2), struck out provisions limiting the trial priority to be accorded persons specified in cls. (1) and (2) of this subsection to the interim period commencing ninety days following July 1, 1975 and ending on the date immediately preceding the date on which the time limits provided for under section 3161(b) and (c) of this title become effective.
 
-Subsec. (b). Pub. L. 96–43, § 7(3), struck out provisions making trial priority provisions of this subsection applicable during an interim period only and requiring the trial of any person detained or designated by the government as being of high risk on or before the first day of such interim period to commence no later than ninety days following the first day of the period and inserted provision excluding the periods of delay specified in section 3161(h) of this title in computing the time limitation of this section.
+Subsec. (b). Pub. L. 96–43, § 7(3), struck out provisions making trial priority provisions of this subsection applicable during an interim period only and requiring the trial of any person detained or designated by the government as being of high risk on or before the first day of such interim period to commence no later than ninety days following the first day of the period and inserted provision excluding the periods of delay specified in section 3161(h) of this title in computing the time limitation of this section.
 
-## § 3165. District plans—generally
+## § 3165. District plans—generally
 
 **(a)** Each district court shall conduct a continuing study of the administration of criminal justice in the district court and before United States magistrate judges of the district and shall prepare plans for the disposition of criminal cases in accordance with this chapter. Each such plan shall be formulated after consultation with, and after considering the recommendations of, the Federal Judicial Center and the planning group established for that district pursuant to section 3168. The plans shall be prepared in accordance with the schedule set forth in subsection (e) of this section.
 
@@ -271,7 +271,7 @@ Subsec. (b). Pub. L. 96–43, § 7(3), struck out provisions making trial prio
 
 **(f)** Plans adopted pursuant to this section shall, upon adoption, and recommendations of the district planning group shall, upon completion, become public documents.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, § 8, Aug. 2, 1979, 93 Stat. 329; Pub. L. 101–647, title XXXV, § 3577, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, § 8, Aug. 2, 1979, 93 Stat. 329; Pub. L. 101–647, title XXXV, § 3577, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -283,9 +283,9 @@ For the effective date of subsection 3161(b) and subsection 3161(c) in effect pr
 
 1990—Subsec. (e)(2). Pub. L. 101–647 substituted “twelve-calendar-month” for “twelve-calendar month”.
 
-1979—Subsec. (e)(2). Pub. L. 96–43, § 8(1), substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
+1979—Subsec. (e)(2). Pub. L. 96–43, § 8(1), substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
 
-Subsec. (e)(3). Pub. L. 96–43, § 8(2), added par. (3).
+Subsec. (e)(3). Pub. L. 96–43, § 8(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,7 +293,7 @@ Subsec. (e)(3). Pub. L. 96–43, § 8(2), added par. (3).
 
 “United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3166. District plans—contents
+## § 3166. District plans—contents
 
 **(a)** Each plan shall include a description of the time limits, procedural techniques, innovations, systems and other methods, including the development of reliable methods for gathering and monitoring information and statistics, by which the district court, the United States attorney, the Federal public defender, if any, and private attorneys experienced in the defense of criminal cases, have expedited or intend to expedite the trial or other disposition of criminal cases, consistent with the time limits and other objectives of this chapter.
 
@@ -345,7 +345,7 @@ Subsec. (e)(3). Pub. L. 96–43, § 8(2), added par. (3).
 
 **(f)** Each plan may be accompanied by guidelines promulgated by the judicial council of the circuit for use by all district courts within that circuit to implement and secure compliance with this chapter.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2082; amended Pub. L. 96–43, § 9(a)–(c), Aug. 2, 1979, 93 Stat. 329; Pub. L. 101–647, title XXXV, § 3578, Nov. 29, 1990, 104 Stat. 4929.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2082; amended Pub. L. 96–43, § 9(a)–(c), Aug. 2, 1979, 93 Stat. 329; Pub. L. 101–647, title XXXV, § 3578, Nov. 29, 1990, 104 Stat. 4929.)
 
 **Editorial Notes**
 
@@ -353,13 +353,13 @@ Subsec. (e)(3). Pub. L. 96–43, § 8(2), added par. (3).
 
 1990—Subsec. (b)(8). Pub. L. 101–647 substituted “extension” for “extention”.
 
-1979—Subsec. (b)(9). Pub. L. 96–43, § 9(a), added par. (9).
+1979—Subsec. (b)(9). Pub. L. 96–43, § 9(a), added par. (9).
 
-Subsec. (c)(7). Pub. L. 96–43, § 9(b), added par. (7).
+Subsec. (c)(7). Pub. L. 96–43, § 9(b), added par. (7).
 
-Subsec. (f). Pub. L. 96–43, § 9(c), added subsec. (f).
+Subsec. (f). Pub. L. 96–43, § 9(c), added subsec. (f).
 
-## § 3167. Reports to Congress
+## § 3167. Reports to Congress
 
 **(a)** The Administrative Office of the United States Courts, with the approval of the Judicial Conference, shall submit periodic reports to Congress detailing the plans submitted pursuant to section 3165. The reports shall be submitted within three months following the final dates for the submission of plans under section 3165(e) of this title.
 
@@ -389,17 +389,17 @@ Subsec. (f). Pub. L. 96–43, § 9(c), added subsec. (f).
 
 **(5)** the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, § 9(e), Aug. 2, 1979, 93 Stat. 330.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, § 9(e), Aug. 2, 1979, 93 Stat. 330.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1979—Subsec. (b). Pub. L. 96–43, § 9(e)(1), inserted last sentence containing pars. (1) to (6).
+1979—Subsec. (b). Pub. L. 96–43, § 9(e)(1), inserted last sentence containing pars. (1) to (6).
 
-Subsec. (c). Pub. L. 96–43, § 9(e)(2), added subsec. (c).
+Subsec. (c). Pub. L. 96–43, § 9(e)(2), added subsec. (c).
 
-## § 3168. Planning process
+## § 3168. Planning process
 
 **(a)** Within sixty days after July 1, 1975, each United States district court shall convene a planning group consisting at minimum of the Chief Judge, a United States magistrate judge, if any designated by the Chief Judge, the United States Attorney, the Clerk of the district court, the Federal Public Defender, if any, two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district, the Chief United States Probation Officer for the district, and a person skilled in criminal justice research who shall act as reporter for the group. The group shall advise the district court with respect to the formulation of all district plans and shall submit its recommendations to the district court for each of the district plans required by section 3165. The group shall be responsible for the initial formulation of all district plans and of the reports required by this chapter and in aid thereof, it shall be entitled to the planning funds specified in section 3171.
 
@@ -407,7 +407,7 @@ Subsec. (c). Pub. L. 96–43, § 9(e)(2), added subsec. (c).
 
 **(c)** Members of the planning group with the exception of the reporter shall receive no additional compensation for their services, but shall be reimbursed for travel, subsistence and other necessary expenses incurred by them in carrying out the duties of the advisory group in accordance with the provisions of title 5, United States Code, chapter 57. The reporter shall be compensated in accordance with section 3109 of title 5, United States Code, and notwithstanding other provisions of law he may be employed for any period of time during which his services are needed.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, § 9(d), Aug. 2, 1979, 93 Stat. 330; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, § 9(d), Aug. 2, 1979, 93 Stat. 330; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -421,13 +421,13 @@ Subsec. (c). Pub. L. 96–43, § 9(e)(2), added subsec. (c).
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3169. Federal Judicial Center
+## § 3169. Federal Judicial Center
 
 The Federal Judicial Center shall advise and consult with the planning groups and the district courts in connection with their duties under this chapter.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084.)
 
-## § 3170. Speedy trial data
+## § 3170. Speedy trial data
 
 **(a)** To facilitate the planning process, the implementation of the time limits, and continuous and permanent compliance with the objectives of this chapter, the clerk of each district court shall assemble the information and compile the statistics described in sections 3166(b) and 3166(c) of this title. The clerk of each district court shall assemble such information and compile such statistics on such forms and under such regulations as the Administrative Office of the United States Courts shall prescribe with the approval of the Judicial Conference and after consultation with the Attorney General.
 
@@ -435,7 +435,7 @@ The Federal Judicial Center shall advise and consult with the planning groups an
 
 **(c)** The information and statistics compiled by the clerk pursuant to this section shall be made available to the district court, the planning group, the circuit council, and the Administrative Office of the United States Courts.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084; amended Pub. L. 96–43, § 9(f), Aug. 2, 1979, 93 Stat. 331; Pub. L. 101–647, title XXXV, § 3579, Nov. 29, 1990, 104 Stat. 4929.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084; amended Pub. L. 96–43, § 9(f), Aug. 2, 1979, 93 Stat. 331; Pub. L. 101–647, title XXXV, § 3579, Nov. 29, 1990, 104 Stat. 4929.)
 
 **Editorial Notes**
 
@@ -445,15 +445,15 @@ The Federal Judicial Center shall advise and consult with the planning groups an
 
 1979—Subsec. (a). Pub. L. 96–43 inserted “continuous and permanent compliance with the” and substituted “described in” for “required by”.
 
-## § 3171. Planning appropriations
+## § 3171. Planning appropriations
 
 **(a)** There is authorized to be appropriated for the fiscal year ending June 30, 1975, to the Federal judiciary the sum of $2,500,000 to be allocated by the Administrative Office of the United States Courts to Federal judicial districts to carry out the initial phases of planning and implementation of speedy trial plans under this chapter. The funds so appropriated shall remain available until expended.
 
 **(b)** No funds appropriated under this section may be expended in any district except by two-thirds vote of the planning group. Funds to the extent available may be expended for personnel, facilities, and any other purpose permitted by law.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2084.)
 
-## § 3172. Definitions
+## § 3172. Definitions
 
 As used in this chapter—
 
@@ -461,7 +461,7 @@ As used in this chapter—
 
 **(2)** the term “offense” means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 98–473, title II, § 223(i), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 98–473, title II, § 223(i), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -479,13 +479,13 @@ As used in this chapter—
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 3173. Sixth amendment rights
+## § 3173. Sixth amendment rights
 
 No provision of this chapter shall be interpreted as a bar to any claim of denial of speedy trial as required by amendment VI of the Constitution.
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085.)
 
-## § 3174. Judicial emergency and implementation
+## § 3174. Judicial emergency and implementation
 
 **(a)** In the event that any district court is unable to comply with the time limits set forth in section 3161(c) due to the status of its court calendars, the chief judge, where the existing resources are being efficiently utilized, may, after seeking the recommendations of the planning group, apply to the judicial council of the circuit for a suspension of such time limits as provided in subsection (b). The judicial council of the circuit shall evaluate the capabilities of the district, the availability of visiting judges from within and without the circuit, and make any recommendations it deems appropriate to alleviate calendar congestion resulting from the lack of resources.
 
@@ -505,7 +505,7 @@ No provision of this chapter shall be interpreted as a bar to any claim of denia
 
 **(e)** If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of great urgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
 
-(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 96–43, § 10, Aug. 2, 1979, 93 Stat. 331.)
+(Added Pub. L. 93–619, title I, § 101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 96–43, § 10, Aug. 2, 1979, 93 Stat. 331.)
 
 **Editorial Notes**
 
@@ -515,12 +515,12 @@ The date of enactment of the Speedy Trial Act Amendments Act of 1979, referred t
 
 **Amendments**
 
-1979—Pub. L. 96–43, § 10(6), inserted “and implementation” in section catchline.
+1979—Pub. L. 96–43, § 10(6), inserted “and implementation” in section catchline.
 
-Subsec. (a). Pub. L. 96–43, § 10(1), inserted “as provided by subsection (b)”.
+Subsec. (a). Pub. L. 96–43, § 10(1), inserted “as provided by subsection (b)”.
 
-Subsec. (b). Pub. L. 96–43, § 10(2), (3), substituted provisions authorizing the circuit judicial council, upon application of the chief judge of a district, to grant a suspension of the time limits prescribed by section 3161(c) of this title for provisions requiring such circuit council to apply to the Judicial Council of the United States for a suspension of such time limits and substituted provision placing a one hundred and eighty day limit on any time increase from indictment to trial for provision placing such limit for any increase from arraignment to trial.
+Subsec. (b). Pub. L. 96–43, § 10(2), (3), substituted provisions authorizing the circuit judicial council, upon application of the chief judge of a district, to grant a suspension of the time limits prescribed by section 3161(c) of this title for provisions requiring such circuit council to apply to the Judicial Council of the United States for a suspension of such time limits and substituted provision placing a one hundred and eighty day limit on any time increase from indictment to trial for provision placing such limit for any increase from arraignment to trial.
 
-Subsec. (c). Pub. L. 96–43, § 10(4), substituted provisions authorizing the chief judge of any district, with the approval of the planning group convened in such district, to apply to the circuit council to implement the provisions of section 3162 of this title at any time prior to the date the sanctions prescribed therein were to become effective, so long as there was concurrence that the district was prepared to fully implement the provisions of such section for provisions specifying the reporting requirements of this chapter, assuring involvement of the Congress in the suspension process, and guaranteeing that there be an interval of at least six months between consecutive suspension periods. See subsec. (d) of this section.
+Subsec. (c). Pub. L. 96–43, § 10(4), substituted provisions authorizing the chief judge of any district, with the approval of the planning group convened in such district, to apply to the circuit council to implement the provisions of section 3162 of this title at any time prior to the date the sanctions prescribed therein were to become effective, so long as there was concurrence that the district was prepared to fully implement the provisions of such section for provisions specifying the reporting requirements of this chapter, assuring involvement of the Congress in the suspension process, and guaranteeing that there be an interval of at least six months between consecutive suspension periods. See subsec. (d) of this section.
 
-Subsecs. (d), (e). Pub. L. 96–43, § 10(5), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 96–43, § 10(5), added subsecs. (d) and (e).

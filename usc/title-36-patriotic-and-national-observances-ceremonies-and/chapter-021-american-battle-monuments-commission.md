@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part B—United States Government Organizations Involved With Observances and Ceremonies / CHAPTER 21—AMERICAN BATTLE MONUMENTS COMMISSION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part B—United States Government Organizations Involved With Observances and Ceremonies / CHAPTER 21—AMERICAN BATTLE MONUMENTS COMMISSION"
 identifier: "/us/usc/t36/stI/ptB/ch21"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part B—United States Government Organizations Involved With Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part B—United States Government Organizations Involved With Observances and Ceremonies*
 
 # CHAPTER 21—AMERICAN BATTLE MONUMENTS COMMISSION
 
@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–227, § 1(b), Sept. 29, 2016, 130 Stat. 934, added item 2115.
+2016—Pub. L. 114–227, § 1(b), Sept. 29, 2016, 130 Stat. 934, added item 2115.
 
-1999—Pub. L. 106–117, title VI, §§ 601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
+1999—Pub. L. 106–117, title VI, §§ 601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
 
-## § 2101. Membership
+## § 2101. Membership
 
 **(a) Composition and Terms.—** The American Battle Monuments Commission has not more than 11 members appointed by the President. The President also shall appoint one officer of the Regular Army to serve as secretary of the Commission. The members and secretary serve at the pleasure of the President. The President shall fill any vacancies that occur. Notwithstanding any other law, members of the Armed Forces may be appointed members of the Commission.
 
@@ -37,15 +37,15 @@ retrieved: 2026-10-11
 
 **(c) Expenses of Officers of Armed Forces Serving on Commission.—** An officer of the Armed Forces serving as a member or as secretary of the Commission may be reimbursed for expenses when traveling on business of the Commission in the same way as civilian members of the Commission.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 106–117, title VI, § 604(1), Nov. 30, 1999, 113 Stat. 1580; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(g), Dec. 23, 2022, 136 Stat. 2629.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 106–117, title VI, § 604(1), Nov. 30, 1999, 113 Stat. 1580; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(g), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2101(a) | 36:121 (1st par.). | Mar. 4, 1923, ch. 283, § 1 (1st par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; Dec. 18, 1989, Pub. L. 101–237, title V, § 503, 103 Stat. 2094. |
-| 2101(b) | 36:121 (2d par.). | Mar. 4, 1923, ch. 283, § 1 (2d par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640; Oct. 21, 1970, Pub. L. 91–480, 84 Stat. 1081; Apr. 1, 1976, Pub. L. 94–256, 90 Stat. 301. |
-|  | 36:121 (last par.). | Mar. 4, 1923, ch. 283, § 1 (last par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640. |
+| 2101(a) | 36:121 (1st par.). | Mar. 4, 1923, ch. 283, § 1 (1st par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; Dec. 18, 1989, Pub. L. 101–237, title V, § 503, 103 Stat. 2094. |
+| 2101(b) | 36:121 (2d par.). | Mar. 4, 1923, ch. 283, § 1 (2d par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640; Oct. 21, 1970, Pub. L. 91–480, 84 Stat. 1081; Apr. 1, 1976, Pub. L. 94–256, 90 Stat. 301. |
+|  | 36:121 (last par.). | Mar. 4, 1923, ch. 283, § 1 (last par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640. |
 | 2101(c) | 36:122. | Sept. 26, 1996, Pub. L. 104–204, title III, (2d proviso in par. under heading “American Battle Monuments Commission”), 110 Stat. 2907. |
 
 In subsection (a), the words “from time to time” are omitted as unnecessary.
@@ -60,21 +60,21 @@ Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph 
 
 2022—Subsec. (b)(2). Pub. L. 117–263 substituted “section 405” for “section 475”.
 
-2013—Subsec. (b)(2). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
+2013—Subsec. (b)(2). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
-2011—Subsec. (b)(2). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.
+2011—Subsec. (b)(2). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.
 
-1999—Subsec. (b)(2). Pub. L. 106–117, § 604(1)(A), struck out “, United States Code,” after “title 37”.
+1999—Subsec. (b)(2). Pub. L. 106–117, § 604(1)(A), struck out “, United States Code,” after “title 37”.
 
-Subsec. (b)(3). Pub. L. 106–117, § 604(1)(B), struck out “, United States Code,” after “title 5”.
+Subsec. (b)(3). Pub. L. 106–117, § 604(1)(B), struck out “, United States Code,” after “title 5”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
-## § 2102. Employment of personnel
+## § 2102. Employment of personnel
 
 **(a) General.—** Within the limits of an appropriation made to employ personnel, the American Battle Monuments Commission may employ personnel necessary to carry out this chapter. To ensure adequate care and maintenance of cemeteries, monuments, and memorials, the Commission, subject to the availability of appropriations, shall employ—
 
@@ -88,7 +88,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, 
 
 **(d) Citizenship Requirement.—** An individual may be employed as the superintendent, or as an assistant superintendent, of a cemetery operated by the Commission only if the individual is a citizen of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 105–354, § 1(2), Nov. 3, 1998, 112 Stat. 3239; Pub. L. 106–117, title VI, § 604(2), Nov. 30, 1999, 113 Stat. 1580.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 105–354, § 1(2), Nov. 3, 1998, 112 Stat. 3239; Pub. L. 106–117, title VI, § 604(2), Nov. 30, 1999, 113 Stat. 1580.)
 
 **Historical and Revision Notes**
 
@@ -96,7 +96,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2102(a) | 36:121 (3d par. 2d, 3d sentences). | Mar. 4, 1923, ch. 283, § 1 (3d par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640; Oct. 18, 1978, Pub. L. 95–479, title III, § 306, 92 Stat. 1566; Oct. 7, 1980, Pub. L. 96–385, title V, § 506, 94 Stat. 1537. |
+| 2102(a) | 36:121 (3d par. 2d, 3d sentences). | Mar. 4, 1923, ch. 283, § 1 (3d par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 1, 70 Stat. 640; Oct. 18, 1978, Pub. L. 95–479, title III, § 306, 92 Stat. 1566; Oct. 7, 1980, Pub. L. 96–385, title V, § 506, 94 Stat. 1537. |
 | 2102(b) | 36:121 (3d par. 1st sentence). 36:122a. | Sept. 26, 1996, Pub. L. 104–204, title III, (1st, last provisos in par. under heading “American Battle Monuments Commission”), 110 Stat. 2907. |
 | 2102(c) | 36:121b. |  |
 | 2102(d) | 36:121 (3d par. last sentence). |  |
@@ -117,11 +117,11 @@ This amends section 2102(b) of title 36 to clarify the language.
 
 **Amendments**
 
-1999—Subsec. (a)(1). Pub. L. 106–117 struck out “, United States Code” after “title 5”.
+1999—Subsec. (a)(1). Pub. L. 106–117 struck out “, United States Code” after “title 5”.
 
 1998—Subsec. (b). Pub. L. 105–354 substituted “personnel made available to the Commission” for “designated personnel”.
 
-## § 2103. Administrative
+## § 2103. Administrative
 
 **(a) General Authority.—** Subject to appropriations made to carry out this chapter, the American Battle Monuments Commission may—
 
@@ -163,24 +163,24 @@ This amends section 2102(b) of title 36 to clarify the language.
 
 **(k) Disbursements Outside Continental United States.—** Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§ 602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580; Pub. L. 107–217, § 3(i)(1), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 112–234, § 2(g), Dec. 28, 2012, 126 Stat. 1625.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§ 602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580; Pub. L. 107–217, § 3(i)(1), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 112–234, § 2(g), Dec. 28, 2012, 126 Stat. 1625.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2103(a) | 36:138b (1st par.). | Mar. 4, 1923, ch. 283, § 12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(c)(1), (2), 70 Stat. 640, 641. |
-| 2103(b) | 36:137. | Feb. 11, 1927, ch. 104, § 1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
+| 2103(a) | 36:138b (1st par.). | Mar. 4, 1923, ch. 283, § 12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(c)(1), (2), 70 Stat. 640, 641. |
+| 2103(b) | 36:137. | Feb. 11, 1927, ch. 104, § 1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
 |  | 36:138b (3d par.). |  |
 | 2103(c) | 36:138b (2d par.). |  |
 | 2103(d) | 36:138b (last par.). |  |
-| 2103(e) | 36:128. | Mar. 4, 1923, ch. 283, § 7, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317. |
-| 2103(f) | 36:138d(c). | Mar. 4, 1923, ch. 283, § 14, as added Oct. 9, 1996, Pub. L. 104–275, title VI, § 602(b), 110 Stat. 3345. |
-| 2103(g) | 36:131. | Mar. 4, 1923, ch. 283, § 8, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 2(c), (d), 70 Stat. 640; Apr. 21, 1976, Pub. L. 94–273, § 3(19), 90 Stat. 377. |
+| 2103(e) | 36:128. | Mar. 4, 1923, ch. 283, § 7, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317. |
+| 2103(f) | 36:138d(c). | Mar. 4, 1923, ch. 283, § 14, as added Oct. 9, 1996, Pub. L. 104–275, title VI, § 602(b), 110 Stat. 3345. |
+| 2103(g) | 36:131. | Mar. 4, 1923, ch. 283, § 8, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 2(c), (d), 70 Stat. 640; Apr. 21, 1976, Pub. L. 94–273, § 3(19), 90 Stat. 377. |
 | 2103(h) | 36:138d(a), (b). |  |
-| 2103(i) | 36:138. | Mar. 4, 1923, ch. 283, § 9, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(a), 70 Stat. 640, 641. |
-| 2103(j) | 36:136. | Feb. 11, 1927, ch. 104, § 1 (3d proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
-| 2103(k) | 36:133. | Feb. 11, 1927, ch. 104, § 1 (last proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
+| 2103(i) | 36:138. | Mar. 4, 1923, ch. 283, § 9, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(a), 70 Stat. 640, 641. |
+| 2103(j) | 36:136. | Feb. 11, 1927, ch. 104, § 1 (3d proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
+| 2103(k) | 36:133. | Feb. 11, 1927, ch. 104, § 1 (last proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071. |
 
 In this section, the word “terms” is omitted as included in “conditions”.
 
@@ -198,15 +198,15 @@ In subsection (c), the words “in its discretion”, “by contract or otherwis
 
 2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 
-1999—Subsec. (d). Pub. L. 106–117, § 604(3)(C), substituted “Chairman” for “chairman”.
+1999—Subsec. (d). Pub. L. 106–117, § 604(3)(C), substituted “Chairman” for “chairman”.
 
-Subsec. (e). Pub. L. 106–117, § 602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
+Subsec. (e). Pub. L. 106–117, § 602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
 
-Subsec. (h)(2)(A)(i). Pub. L. 106–117, § 604(3)(A), struck out “, United States Code” after “title 31”.
+Subsec. (h)(2)(A)(i). Pub. L. 106–117, § 604(3)(A), struck out “, United States Code” after “title 31”.
 
-Subsec. (i). Pub. L. 106–117, § 604(3)(B), struck out “, United States Code” after “title 44”.
+Subsec. (i). Pub. L. 106–117, § 604(3)(B), struck out “, United States Code” after “title 44”.
 
-## § 2104. Military cemeteries in foreign countries
+## § 2104. Military cemeteries in foreign countries
 
 When, as a result of combat operations, the Armed Forces establish military cemeteries in zones of operations outside the United States and the territories and possessions of the United States, the American Battle Monuments Commission and the Secretary of the Army, immediately on the cessation of hostilities, shall decide which of the cemeteries will become permanent cemeteries or, if they decide it is desirable, shall select new sites for the cemeteries at any other location. The Commission is solely responsible for the design and construction of the permanent cemeteries, and of all buildings, plantings, headstones, and other permanent improvements incidental to the cemeteries, except that—
 
@@ -224,7 +224,7 @@ When, as a result of combat operations, the Armed Forces establish military ceme
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2104 | 36:122b. | Mar. 4, 1923, ch. 283, § 2, as added July 25, 1956, ch. 721, § 3(a), 70 Stat. 640. |
+| 2104 | 36:122b. | Mar. 4, 1923, ch. 283, § 2, as added July 25, 1956, ch. 721, § 3(a), 70 Stat. 640. |
 
 In this section, before clause (1), the words “so established, if any” are omitted as unnecessary. In clause (1), the words “such time as” are omitted as unnecessary. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “in nature” are omitted as unnecessary.
 
@@ -232,7 +232,7 @@ In this section, before clause (1), the words “so established, if any” are o
 
 **Restoration, Operation, and Maintenance of Clark Veterans Cemetery**
 
-Pub. L. 112–260, title I, § 106, Jan. 10, 2013, 126 Stat. 2421, provided that:
+Pub. L. 112–260, title I, § 106, Jan. 10, 2013, 126 Stat. 2421, provided that:
 
 > **“(a) In General.—** After an agreement is made between the Government of the Republic of the Philippines and the United States Government, Clark Veterans Cemetery in the Republic of the Philippines shall be treated, for purposes of section 2104 of title 36, United States Code, as a cemetery for which it was decided under such section that the cemetery will become a permanent cemetery and the American Battle Monuments Commission shall restore, operate, and maintain Clark Veterans Cemetery (to the degree the Commission considers appropriate) under such section in cooperation with the Government of the Republic of the Philippines.
 
@@ -244,7 +244,7 @@ Pub. L. 112–260, title I, § 106, Jan. 10, 2013, 126 Stat. 2421, provided th
 
 > **“(2)** amounts necessary to operate and maintain the cemetery described in subsection (a).”
 
-## § 2105. Monuments built by the United States Government
+## § 2105. Monuments built by the United States Government
 
 **(a) Memorials.—** The American Battle Monuments Commission shall prepare plans and estimates to build suitable memorials commemorating the service of American Armed Forces, and shall build and maintain memorials in the United States and, as the Commission decides, at any place outside the United States where the Armed Forces have served since April 6, 1917.
 
@@ -258,16 +258,16 @@ Pub. L. 112–260, title I, § 106, Jan. 10, 2013, 126 Stat. 2421, provided th
 
 **(d) Approval by National Commission of Fine Arts.—** A design for a memorial must be approved by the National Commission of Fine Arts before the Commission can accept it.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1271; Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1271; Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2105(a) | 36:123 (1st par. 1st sentence). | Mar. 4, 1923, ch. 283, § 3, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(b), (d), 3(b), 70 Stat. 640, 641. |
+| 2105(a) | 36:123 (1st par. 1st sentence). | Mar. 4, 1923, ch. 283, § 3, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(b), (d), 3(b), 70 Stat. 640, 641. |
 | 2105(b) | 36:123 (1st par. 2d, last sentences). |  |
 | 2105(c) | 36:123 (2d, last pars.). |  |
-| 2105(d) | 36:124. | Mar. 4, 1923, ch. 283, § 4, 42 Stat. 1510; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(b), (d), 3(c), 70 Stat. 640, 641. |
+| 2105(d) | 36:124. | Mar. 4, 1923, ch. 283, § 4, 42 Stat. 1510; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(b), (d), 3(c), 70 Stat. 640, 641. |
 
 In subsections (a) and (c)(2), the word “American” is omitted as unnecessary.
 
@@ -283,7 +283,7 @@ In subsection (c)(2), the words “duties and powers” are substituted for “f
 
 1998—Subsec. (b). Pub. L. 105–368 substituted “National Cemetery Administration” for “National Cemetery System”.
 
-## § 2106. War memorials not built by the United States Government
+## § 2106. War memorials not built by the United States Government
 
 **(a) Cooperation With Others.—** The American Battle Monuments Commission may cooperate with citizens of the United States, States, municipalities, or associations desiring to build war memorials outside the continental limits of the United States in the way the Commission decides. An administrative agency of the United States Government may give assistance to build the memorial only if a plan for the memorial has been approved under this chapter.
 
@@ -335,8 +335,8 @@ In subsection (c)(2), the words “duties and powers” are substituted for “f
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2106(a) | 36:125(a). | Mar. 4, 1923, ch. 283, § 5(a), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 2(b), (d), 70 Stat. 640; Jan. 2, 1974, Pub. L. 93–244, 87 Stat. 1070. |
-| 2106(b)(1) | 36:125(b)(1) (1st sentence), (d). | Mar. 4, 1923, ch. 283, § 5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244, 87 Stat. 1070; Oct. 9, 1996, Pub. L. 104–275, title VI, § 602(a), 110 Stat. 3344. |
+| 2106(a) | 36:125(a). | Mar. 4, 1923, ch. 283, § 5(a), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, § 2(b), (d), 70 Stat. 640; Jan. 2, 1974, Pub. L. 93–244, 87 Stat. 1070. |
+| 2106(b)(1) | 36:125(b)(1) (1st sentence), (d). | Mar. 4, 1923, ch. 283, § 5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244, 87 Stat. 1070; Oct. 9, 1996, Pub. L. 104–275, title VI, § 602(a), 110 Stat. 3344. |
 | 2106(b)(2) | 36:125(b)(1) (last sentence), (d). |  |
 | 2106(b)(3) | 36:125(b)(2)(A), (d). |  |
 | 2106(c) | 36:125(b)(2)(B), (d). |  |
@@ -351,13 +351,13 @@ In subsection (b)(1), before clause (A), the words “in its discretion” and �
 
 **Maintenance and Repair of Pacific Battle Monuments**
 
-Pub. L. 103–160, div. A, title III, § 369, Nov. 30, 1993, 107 Stat. 1634, provided that:
+Pub. L. 103–160, div. A, title III, § 369, Nov. 30, 1993, 107 Stat. 1634, provided that:
 
 > **“(a) Authority.—** The Commandant of the Marine Corps may provide necessary minor maintenance and repairs to the Pacific battle monuments until such time as the Secretary of the American Battle Monuments Commission and the Commandant of the Marine Corps agree that the repair and maintenance will be performed by the American Battle Monuments Commission.
 
 > **“(b) Funding.—** Of the amounts authorized to be appropriated to the Marine Corps for operation and maintenance in a fiscal year, not more than $15,000 may be made available to repair and maintain Pacific battle monuments, except that of the amounts available to the Marine Corps for operation and maintenance in fiscal year 1994, $150,000 may be made available to repair and relocate a monument located on Iwo Jima commemorating the heroic efforts of United States military personnel during World War II.”
 
-## § 2107. National Memorial Cemetery of the Pacific
+## § 2107. National Memorial Cemetery of the Pacific
 
 With the consent of the Secretary of Veterans Affairs, the American Battle Monuments Commission may build works of architecture and art in the National Memorial Cemetery of the Pacific.
 
@@ -367,11 +367,11 @@ With the consent of the Secretary of Veterans Affairs, the American Battle Monum
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2107 | 36:125a. | June 24, 1954, ch. 359, § 101 (1st proviso in last par. under heading “American Battle Monuments Commission”), 68 Stat. 275. |
+| 2107 | 36:125a. | June 24, 1954, ch. 359, § 101 (1st proviso in last par. under heading “American Battle Monuments Commission”), 68 Stat. 275. |
 
 The words “Secretary of Veterans Affairs” are substituted for “Secretary of the Army” because of section 6 of the National Cemeteries Act of 1973 (Public Law 93–43, 38 U.S.C. 2404 note), which transferred jurisdiction over and responsibility for the national cemeteries (with certain exceptions) from the Secretary of the Army to the Administrator of Veterans’ Affairs. The words “as may be determined by the Commission” are omitted as unnecessary.
 
-## § 2108. Pacific War Memorial and other historical and memorial sites on Corregidor
+## § 2108. Pacific War Memorial and other historical and memorial sites on Corregidor
 
 **(a) General.—** After an agreement is made between the Government of the Republic of the Philippines and the United States Government, the American Battle Monuments Commission shall restore, operate, and maintain the Pacific War Memorial and other historical and memorial sites on Corregidor.
 
@@ -409,7 +409,7 @@ The words “Secretary of Veterans Affairs” are substituted for “Secretary o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2108(a) | 36:125b(a), (b). | Nov. 18, 1988, Pub. L. 100–687, title XVI, § 1602, 102 Stat. 4137. |
+| 2108(a) | 36:125b(a), (b). | Nov. 18, 1988, Pub. L. 100–687, title XVI, § 1602, 102 Stat. 4137. |
 | 2108(b) | 36:125b(c). |  |
 | 2108(c) | 36:125b(d). |  |
 | 2108(d) | 36:125b(f). |  |
@@ -417,7 +417,7 @@ The words “Secretary of Veterans Affairs” are substituted for “Secretary o
 | 2108(f) | 36:125b(g). |  |
 | 2108(g) | 36:125b(h). |  |
 
-## § 2109. Foreign Currency Fluctuations Account
+## § 2109. Foreign Currency Fluctuations Account
 
 **(a) Establishment and Purpose.—** There is an account in the Treasury known as the “Foreign Currency Fluctuations, American Battle Monuments Commission, Account”. The Account shall be used to provide amounts, in addition to amounts appropriated for salaries and expenses of the Commission, to pay the cost of salaries and expenses that exceeds the amount appropriated for salaries and expenses because of fluctuations in currency exchange rates of foreign countries occurring after a budget request for the Commission is submitted to Congress. The Account may not be used for any other purpose.
 
@@ -449,7 +449,7 @@ The words “Secretary of Veterans Affairs” are substituted for “Secretary o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2109(a) | 36:138c(a) (1st–3d sentences). | Mar. 4, 1923, ch. 283, § 13, as added May 20, 1988, Pub. L. 100–322, title III, § 345(a), 102 Stat. 540. |
+| 2109(a) | 36:138c(a) (1st–3d sentences). | Mar. 4, 1923, ch. 283, § 13, as added May 20, 1988, Pub. L. 100–322, title III, § 345(a), 102 Stat. 540. |
 | 2109(b) | 36:138c(b) (last sentence). |  |
 | 2109(c)(1) | 36:138c(a) (last sentence), (b) (1st sentence). |  |
 | 2109(c)(2) | 36:138c(d). |  |
@@ -457,9 +457,9 @@ The words “Secretary of Veterans Affairs” are substituted for “Secretary o
 | 2109(d) | 36:138c(c). |  |
 | 2109(e) | 36:138c(f). |  |
 | 2109(f) | 36:138c(g). |  |
-| 2109(g) | 36:138c note. | May 20, 1988, Pub. L. 100–322, title III, § 345(b), 102 Stat. 540. |
+| 2109(g) | 36:138c note. | May 20, 1988, Pub. L. 100–322, title III, § 345(b), 102 Stat. 540. |
 
-## § 2110. Claims against the Commission
+## § 2110. Claims against the Commission
 
 A claim against the American Battle Monuments Commission that is similar to a claim described in section 2734 of title 10, that is based on damage to, or loss or destruction of, property, or personal injury or death of an individual, and that is caused by the negligent or wrongful act or omission of an officer or civilian employee of the Commission acting within the scope of the officer’s or employee’s office or employment, may be settled, decided, and paid as provided in section 2734 for the settlement of Army claims. However, the Secretary of the Army may appoint an officer or employee of the Commission to a claims commission or as an officer to approve settlements of claims made by the claims commission. All payments in settlement of a claim shall be made out of appropriations made to carry out this chapter.
 
@@ -469,11 +469,11 @@ A claim against the American Battle Monuments Commission that is similar to a cl
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2110 | 36:138b (4th par.). | Mar. 4, 1923, ch. 283, § 12 (4th par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(c)(3), 70 Stat. 640, 642. |
+| 2110 | 36:138b (4th par.). | Mar. 4, 1923, ch. 283, § 12 (4th par.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(c)(3), 70 Stat. 640, 642. |
 
 The words “section 2734 of title 10” and “section 2734” are substituted for “the first section of the Act entitled ‘An Act to provide for the prompt settlement of claims for damages occasioned by Army, Navy, and Marine Corps forces in foreign countries’, approved January 2, 1942 (55 Stat. 880, as amended; 31 U.S.C. 224d)” and “such Act”, respectively, in section 12 (4th par.) of the Act of March 4, 1923 (ch. 283), as added by section 4(c)(3) of the Act of July 25, 1956 (ch. 721, 70 Stat. 642), because of section 49(b) of the Act of August 10, 1956 (ch. 1041, 70A Stat. 640). The 1942 law enacted former 31:224d, 224h, and 224i. Those sections subsequently were codified as 10:2734 and repealed by the Act of August 10, 1956 (ch. 1041, 70A Stat. 154, 672). The words “both real and personal” are omitted as unnecessary. The words “on or after July 25, 1956” are omitted as obsolete. The words “or commissions” are omitted because of 1:1. The words “settled, decided” are substituted for “considered, ascertained, adjusted, determined” to eliminate unnecessary words.
 
-## § 2111. Presidential duties and powers
+## § 2111. Presidential duties and powers
 
 **(a) Arrangements With Foreign Countries.—** The President is requested to make the necessary arrangements with the proper authorities of the appropriate foreign countries to enable the American Battle Monuments Commission to carry out this chapter.
 
@@ -497,8 +497,8 @@ The words “section 2734 of title 10” and “section 2734” are substituted 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2111(a) | 36:127. | Mar. 4, 1923, ch. 283, § 6, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317. |
-| 2111(b) | 36:132. | Mar. 4, 1923, ch. 283, § 10, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(b), 70 Stat. 640, 641. |
+| 2111(a) | 36:127. | Mar. 4, 1923, ch. 283, § 6, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317. |
+| 2111(b) | 36:132. | Mar. 4, 1923, ch. 283, § 10, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§ 2(c), (d), 4(b), 70 Stat. 640, 641. |
 
 In subsection (b)(1), the words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
 
@@ -570,7 +570,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Jimmy Carter.
 
-## § 2112. Care and maintenance of Surrender Tree site
+## § 2112. Care and maintenance of Surrender Tree site
 
 The American Battle Monuments Commission is responsible for the care and maintenance of the Surrender Tree site in Santiago, Cuba.
 
@@ -584,7 +584,7 @@ The American Battle Monuments Commission is responsible for the care and mainten
 
 The last sentence of the Act of August 13, 1957 (Public Law 85–125, 71 Stat. 344), is omitted as obsolete.
 
-## § 2113. World War II memorial in the District of Columbia
+## § 2113. World War II memorial in the District of Columbia
 
 **(a) Solicitation and Acceptance of Contributions.—**
 
@@ -644,7 +644,7 @@ The last sentence of the Act of August 13, 1957 (Public Law 85–125, 71 Stat. 3
 
 **(h) Extension of Authority To Establish Memorial.—** Notwithstanding section 8903(e) of title 40, the authority for the construction of the World War II memorial provided by Public Law 103–32 (40 U.S.C. 8903 note) expires on December 31, 2005.
 
-(Added Pub. L. 106–117, title VI, § 601(a)(1), Nov. 30, 1999, 113 Stat. 1576; amended Pub. L. 108–178, § 4(h), Dec. 15, 2003, 117 Stat. 2641.)
+(Added Pub. L. 106–117, title VI, § 601(a)(1), Nov. 30, 1999, 113 Stat. 1576; amended Pub. L. 108–178, § 4(h), Dec. 15, 2003, 117 Stat. 2641.)
 
 **Editorial Notes**
 
@@ -654,13 +654,13 @@ The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec
 
 **Amendments**
 
-2003—Subsec. (a)(2). Pub. L. 108–178, § 4(h)(1), substituted “(40 U.S.C. 8903 note)” for “(40 U.S.C. 1003 note)”.
+2003—Subsec. (a)(2). Pub. L. 108–178, § 4(h)(1), substituted “(40 U.S.C. 8903 note)” for “(40 U.S.C. 1003 note)”.
 
-Subsec. (c)(1). Pub. L. 108–178, § 4(h)(2), substituted “section 8906(b) of title 40” for “section 8(b) of the Commemorative Works Act (40 U.S.C. 1008(b))”.
+Subsec. (c)(1). Pub. L. 108–178, § 4(h)(2), substituted “section 8906(b) of title 40” for “section 8(b) of the Commemorative Works Act (40 U.S.C. 1008(b))”.
 
-Subsec. (e). Pub. L. 108–178, § 4(h)(3), substituted “section 8906 of title 40” for “section 8 of the Commemorative Works Act (40 U.S.C. 1008)”.
+Subsec. (e). Pub. L. 108–178, § 4(h)(3), substituted “section 8906 of title 40” for “section 8 of the Commemorative Works Act (40 U.S.C. 1008)”.
 
-Subsec. (h). Pub. L. 108–178, § 4(h)(4), substituted “section 8903(e) of title 40” for “section 10 of the Commemorative Works Act (40 U.S.C. 1010)” and “(40 U.S.C. 8903 note)” for “(40 U.S.C. 1003 note)”.
+Subsec. (h). Pub. L. 108–178, § 4(h)(4), substituted “section 8903(e) of title 40” for “section 10 of the Commemorative Works Act (40 U.S.C. 1010)” and “(40 U.S.C. 8903 note)” for “(40 U.S.C. 1003 note)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -670,9 +670,9 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **Effect of Repeal of Current Memorial Fund**
 
-Pub. L. 106–117, title VI, § 601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: “Upon the enactment of this Act [Nov. 30, 1999], the Secretary of the Treasury shall transfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) [now 40 U.S.C. 8903 note] to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a).”
+Pub. L. 106–117, title VI, § 601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: “Upon the enactment of this Act [Nov. 30, 1999], the Secretary of the Treasury shall transfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) [now 40 U.S.C. 8903 note] to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a).”
 
-## § 2114. Intellectual property and related items
+## § 2114. Intellectual property and related items
 
 **(a) Authority To Use and Register Intellectual Property.—** The American Battle Monuments Commission may—
 
@@ -692,10 +692,10 @@ Pub. L. 106–117, title VI, § 601(c), Nov. 30, 1999, 113 Stat. 1578, provide
 
 **(e) Irrevocability of Transfers of Copyrights to Commission.—** Section 203 of title 17 shall not apply to any copyright transferred in any manner to the Commission.
 
-(Added Pub. L. 106–117, title VI, § 603(a), Nov. 30, 1999, 113 Stat. 1579.)
+(Added Pub. L. 106–117, title VI, § 603(a), Nov. 30, 1999, 113 Stat. 1579.)
 
-## § 2115. Acquisition, operation, and maintenance of Lafayette Escadrille Memorial
+## § 2115. Acquisition, operation, and maintenance of Lafayette Escadrille Memorial
 
 The American Battle Monuments Commission may enter into an agreement with the Lafayette Escadrille Memorial Foundation to acquire, operate, and maintain the Lafayette Escadrille Memorial in Marnes-la-Coquette, France. Under such an agreement, the Commission shall make necessary arrangements to ensure the ongoing maintenance of the memorial, including the cemetery at the memorial that contains the remains of 49 aviators of the United States who died during World War I.
 
-(Added Pub. L. 114–227, § 1(a), Sept. 29, 2016, 130 Stat. 934.)
+(Added Pub. L. 114–227, § 1(a), Sept. 29, 2016, 130 Stat. 934.)

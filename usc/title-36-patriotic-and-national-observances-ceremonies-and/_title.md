@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
 identifier: "/us/usc/t36"
 type: code
 jurisdiction: us
@@ -11,25 +11,25 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&ed
 retrieved: 2026-10-11
 ---
 
-# Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
+# Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
-This title was enacted by Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253
+This title was enacted by Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253
 
-Current through 119-36
+Current through 119-36
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. E, title LI, § 5103(b), Dec. 22, 2023, 137 Stat. 938, which directed amendment of analysis for subtitle II of this title by adding item 1504, was executed by making the addition to this analysis to reflect the probable intent of Congress.
+2023—Pub. L. 118–31, div. E, title LI, § 5103(b), Dec. 22, 2023, 137 Stat. 938, which directed amendment of analysis for subtitle II of this title by adding item 1504, was executed by making the addition to this analysis to reflect the probable intent of Congress.
 
-2020—Pub. L. 116–189, § 4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting “United States Olympic and Paralympic Committee” for “United States Olympic Committee” in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
+2020—Pub. L. 116–189, § 4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting “United States Olympic and Paralympic Committee” for “United States Olympic Committee” in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
 
-2014—Pub. L. 113–237, § 3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
+2014—Pub. L. 113–237, § 3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
 
 **Table Showing Disposition of All Sections of Former Title 36**
 
-| *Title 36* *Former Sections* | *Title 36* *New Sections* |
+| *Title 36* *Former Sections* | *Title 36* *New Sections* |
 |---|---|
 | 1, 1a, 2 (1st sentence words before 2d comma) | 300101 |
 | 2 (1st sentence words between 2d comma and 3d semicolon) | 300105 |
@@ -223,7 +223,7 @@ Current through 119-36
 | 132 | 2111 |
 | 133 | 2103 |
 | 134, 135 | Rep. |
-| 135a | (Previously transferred to T. 41 § 6v and subsequently repealed) |
+| 135a | (Previously transferred to T. 41 § 6v and subsequently repealed) |
 | 136–138 | 2103 |
 | 138a | Rep. |
 | 138b (1st–3d pars.) | 2103 |
@@ -256,7 +256,7 @@ Current through 119-36
 | 151a | 134 |
 | 152 | Prev. Rep. |
 | 153 | 106 |
-| 154 | T. 8 § 1448a |
+| 154 | T. 8 § 1448a |
 | 155 | 121 |
 | 155a | 2502 |
 | 155b | 2501 |
@@ -297,7 +297,7 @@ Current through 119-36
 | 169*l* | 129 |
 | 169m | 127 |
 | 170, 171 | 301 |
-| 172–178 | T. 4 §§ 4–10 |
+| 172–178 | T. 4 §§ 4–10 |
 | 179–182 | 901 |
 | 182a–184 | Prev. Rep. |
 | 185 | (See former 169h) |
@@ -1542,13 +1542,13 @@ Current through 119-36
 
 **Enacting Clause**
 
-Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: “Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, ‘Patriotic and National Observances, Ceremonies, and Organizations’ ”.
+Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: “Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, ‘Patriotic and National Observances, Ceremonies, and Organizations’ ”.
 
 **Legislative Purpose and Construction**
 
-Pub. L. 113–237, § 2, Dec. 18, 2014, 128 Stat. 2833, provided that: “The purpose of this Act [see Tables for classification] is to make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.”
+Pub. L. 113–237, § 2, Dec. 18, 2014, 128 Stat. 2833, provided that: “The purpose of this Act [see Tables for classification] is to make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.”
 
-Pub. L. 105–354, § 4, Nov. 3, 1998, 112 Stat. 3245, provided that:
+Pub. L. 105–354, § 4, Nov. 3, 1998, 112 Stat. 3245, provided that:
 
 > **“(a) No Substantive Change.—**
 
@@ -1566,7 +1566,7 @@ Pub. L. 105–354, § 4, Nov. 3, 1998, 112 Stat. 3245, provided that:
 
 > **“(f) Severability.—** If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Pub. L. 105–225, § 5, Aug. 12, 1998, 112 Stat. 1499, provided that:
+Pub. L. 105–225, § 5, Aug. 12, 1998, 112 Stat. 1499, provided that:
 
 > **“(a) No Substantive Change.—** Sections 1 and 2 of this Act restate, without substantive change, laws enacted before August 16, 1997, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after August 15, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -1582,13 +1582,13 @@ Pub. L. 105–225, § 5, Aug. 12, 1998, 112 Stat. 1499, provided that:
 
 **Repeals and Savings Provisions**
 
-Pub. L. 105–354, § 5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–354, § 5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 105–354, § 5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
+Pub. L. 105–354, § 5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
 
-Pub. L. 105–225, § 6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–225, § 6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
+Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
 
 ## Subtitle I—Patriotic and National Observances and Ceremonies
 
@@ -1596,9 +1596,9 @@ Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified 
 
 **Amendments**
 
-2014—Pub. L. 113–237, § 3(a)(2)(A), Dec. 18, 2014, 128 Stat. 2835, struck out item for part A “Observances and Ceremonies”, which consisted of items for chapters 1 to 9, and item for part B “United States Government Organizations Involved With Observances and Ceremonies”, which consisted of items for chapters 21 to 25.
+2014—Pub. L. 113–237, § 3(a)(2)(A), Dec. 18, 2014, 128 Stat. 2835, struck out item for part A “Observances and Ceremonies”, which consisted of items for chapters 1 to 9, and item for part B “United States Government Organizations Involved With Observances and Ceremonies”, which consisted of items for chapters 21 to 25.
 
-2004—Pub. L. 108–447, div. J, title I, § 109(b)(1), Dec. 8, 2004, 118 Stat. 3344, substituted “March, and Tree” for “, and March” in item for chapter 3.
+2004—Pub. L. 108–447, div. J, title I, § 109(b)(1), Dec. 8, 2004, 118 Stat. 3344, substituted “March, and Tree” for “, and March” in item for chapter 3.
 
 ### Part A—Observances and Ceremonies
 
@@ -1626,19 +1626,19 @@ Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified 
 
 **Amendments**
 
-2014—Pub. L. 113–237, § 3(a)(2)(B), Dec. 18, 2014, 128 Stat. 2836, struck out item for part A “General”, which consisted of item for chapter 101, and item for part B “Organizations”, which consisted of items for chapters 201 to 2701.
+2014—Pub. L. 113–237, § 3(a)(2)(B), Dec. 18, 2014, 128 Stat. 2836, struck out item for part A “General”, which consisted of item for chapter 101, and item for part B “Organizations”, which consisted of items for chapters 201 to 2701.
 
-2009—Pub. L. 111–95, § 1(b), Nov. 6, 2009, 123 Stat. 3003, added item for chapter 1404.
+2009—Pub. L. 111–95, § 1(b), Nov. 6, 2009, 123 Stat. 3003, added item for chapter 1404.
 
-2008—Pub. L. 110–254, § 1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting “Korean War Veterans Association, Incorporated” for “[Reserved]”.
+2008—Pub. L. 110–254, § 1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting “Korean War Veterans Association, Incorporated” for “[Reserved]”.
 
-2002—Pub. L. 107–252, title VI, § 601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
+2002—Pub. L. 107–252, title VI, § 601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
 
-Pub. L. 107–241, § 1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)” in item for chapter 227.
+Pub. L. 107–241, § 1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)” in item for chapter 227.
 
-2000—Pub. L. 106–474, title II, § 201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
+2000—Pub. L. 106–474, title II, § 201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
 
-1998—Pub. L. 105–354, § 1(4)(B), (5)(B), Nov. 3, 1998, 112 Stat. 3241, 3244, added items for chapters 202 and 210.
+1998—Pub. L. 105–354, § 1(4)(B), (5)(B), Nov. 3, 1998, 112 Stat. 3241, 3244, added items for chapters 202 and 210.
 
 ### Part A—General
 
@@ -1650,7 +1650,7 @@ Pub. L. 107–241, § 1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted �
 
 **National Foundation on Fitness, Sports, and Nutrition**
 
-Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, as amended by Pub. L. 117–286, § 4(c)(37), Dec. 27, 2022, 136 Stat. 4358, provided that:
+Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, as amended by Pub. L. 117–286, § 4(c)(37), Dec. 27, 2022, 136 Stat. 4358, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -2028,6 +2028,6 @@ Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, as amended by Pub. L. 117–28
 
 **Amendments**
 
-2014—Pub. L. 113–237, § 3(a)(2)(C), Dec. 18, 2014, 128 Stat. 2836, struck out item for chapter 3001 “The American National Red Cross”.
+2014—Pub. L. 113–237, § 3(a)(2)(C), Dec. 18, 2014, 128 Stat. 2836, struck out item for chapter 3001 “The American National Red Cross”.
 
 - [CHAPTER 3001—THE AMERICAN NATIONAL RED CROSS](chapter-3001-the-american-national-red-cross.md)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 36—CIGARETTE LABELING AND ADVERTISING
 
-## § 1331. Congressional declaration of policy and purpose
+## § 1331. Congressional declaration of policy and purpose
 
 It is the policy of the Congress, and the purpose of this chapter, to establish a comprehensive Federal Program to deal with cigarette labeling and advertising with respect to any relationship between smoking and health, whereby—
 
@@ -23,7 +23,7 @@ It is the policy of the Congress, and the purpose of this chapter, to establish 
 
 **(2)** commerce and the national economy may be (A) protected to the maximum extent consistent with this declared policy and (B) not impeded by diverse, nonuniform, and confusing cigarette labeling and advertising regulations with respect to any relationship between smoking and health.
 
-(Pub. L. 89–92, § 2, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 87; Pub. L. 98–474, § 6(a), Oct. 12, 1984, 98 Stat. 2204.)
+(Pub. L. 89–92, § 2, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 87; Pub. L. 98–474, § 6(a), Oct. 12, 1984, 98 Stat. 2204.)
 
 **Editorial Notes**
 
@@ -37,37 +37,37 @@ It is the policy of the Congress, and the purpose of this chapter, to establish 
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “All other provisions of the amendment made by this Act [enacting section 1340 of this title, amending this section and sections 1332 and 1335 to 1339 of this title, and enacting provisions set out as notes under this section] except where otherwise specified shall take effect on January 1, 1970.”
+Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “All other provisions of the amendment made by this Act [enacting section 1340 of this title, amending this section and sections 1332 and 1335 to 1339 of this title, and enacting provisions set out as notes under this section] except where otherwise specified shall take effect on January 1, 1970.”
 
 **Effective Date**
 
-Pub. L. 89–92, § 12, formerly § 11, July 27, 1965, 79 Stat. 284, as renumbered by Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “This Act [this chapter] shall take effect on January 1, 1966.”
+Pub. L. 89–92, § 12, formerly § 11, July 27, 1965, 79 Stat. 284, as renumbered by Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “This Act [this chapter] shall take effect on January 1, 1966.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–474, § 1, Oct. 12, 1984, 98 Stat. 2200, provided that: “This Act [enacting sections 1335a and 1341 of this title, amending this section and sections 1332, 1333, 1336, and 1337 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1335a of this title] may be cited as the ‘Comprehensive Smoking Education Act’.”
+Pub. L. 98–474, § 1, Oct. 12, 1984, 98 Stat. 2200, provided that: “This Act [enacting sections 1335a and 1341 of this title, amending this section and sections 1332, 1333, 1336, and 1337 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1335a of this title] may be cited as the ‘Comprehensive Smoking Education Act’.”
 
 **Short Title of 1973 Amendment**
 
-Pub. L. 93–109, § 1, Sept. 21, 1973, 87 Stat. 352, provided: “That this Act [amending sections 1332 and 1335 of this title] may be cited as the ‘Little Cigar Act of 1973’.”
+Pub. L. 93–109, § 1, Sept. 21, 1973, 87 Stat. 352, provided: “That this Act [amending sections 1332 and 1335 of this title] may be cited as the ‘Little Cigar Act of 1973’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–222, § 1, Apr. 1, 1970, 84 Stat. 87, provided: “That this Act [enacting section 1340 of this title, amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title] may be cited as the ‘Public Health Cigarette Smoking Act of 1969’.”
+Pub. L. 91–222, § 1, Apr. 1, 1970, 84 Stat. 87, provided: “That this Act [enacting section 1340 of this title, amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title] may be cited as the ‘Public Health Cigarette Smoking Act of 1969’.”
 
 **Short Title**
 
-Pub. L. 89–92, § 1, July 27, 1965, 79 Stat. 282, provided: “This Act [enacting this chapter] may be cited as the ‘Federal Cigarette Labeling and Advertising Act’.”
+Pub. L. 89–92, § 1, July 27, 1965, 79 Stat. 282, provided: “This Act [enacting this chapter] may be cited as the ‘Federal Cigarette Labeling and Advertising Act’.”
 
 **Separability**
 
-Pub. L. 89–92, § 13, formerly § 12, as added by Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 90, and renumbered Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstances is held invalid, the other provisions of this Act [this chapter] and the application of such provisions to other persons or circumstances shall not be affected thereby.”
+Pub. L. 89–92, § 13, formerly § 12, as added by Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 90, and renumbered Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstances is held invalid, the other provisions of this Act [this chapter] and the application of such provisions to other persons or circumstances shall not be affected thereby.”
 
 **Congressional Statement of Purpose**
 
-Pub. L. 98–474, § 2, Oct. 12, 1984, 98 Stat. 2200, provided that: “It is the purpose of this Act [see Short Title of 1984 Amendment note above] to provide a new strategy for making Americans more aware of any adverse health effects of smoking, to assure the timely and widespread dissemination of research findings and to enable individuals to make informed decisions about smoking.”
+Pub. L. 98–474, § 2, Oct. 12, 1984, 98 Stat. 2200, provided that: “It is the purpose of this Act [see Short Title of 1984 Amendment note above] to provide a new strategy for making Americans more aware of any adverse health effects of smoking, to assure the timely and widespread dissemination of research findings and to enable individuals to make informed decisions about smoking.”
 
-## § 1332. Definitions
+## § 1332. Definitions
 
 As used in this chapter—
 
@@ -93,7 +93,7 @@ As used in this chapter—
 
 **(9)** The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 89–92, § 3, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 93–109, § 2, Sept. 21, 1973, 87 Stat. 352; Pub. L. 98–474, § 6(b), Oct. 12, 1984, 98 Stat. 2204; Pub. L. 99–92, § 11(b), Aug. 16, 1985, 99 Stat. 403.)
+(Pub. L. 89–92, § 3, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 93–109, § 2, Sept. 21, 1973, 87 Stat. 352; Pub. L. 98–474, § 6(b), Oct. 12, 1984, 98 Stat. 2204; Pub. L. 99–92, § 11(b), Aug. 16, 1985, 99 Stat. 403.)
 
 **Editorial Notes**
 
@@ -111,13 +111,13 @@ As used in this chapter—
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–109, § 4, Sept. 21, 1973, 87 Stat. 352, provided that: “The amendment made by this Act [amending this section and section 1335 of this title] shall become effective thirty days after the date of enactment [Sept. 21, 1973].”
+Pub. L. 93–109, § 4, Sept. 21, 1973, 87 Stat. 352, provided that: “The amendment made by this Act [amending this section and section 1335 of this title] shall become effective thirty days after the date of enactment [Sept. 21, 1973].”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1333. Labeling
+## § 1333. Labeling
 
 **(a) Label requirements**
 
@@ -199,7 +199,7 @@ The label statements specified in subsection (a)(1) shall be rotated quarterly i
 
 This subsection and subsection (b) apply to a retailer only if that retailer is responsible for or directs the label statements required under this section except that this paragraph shall not relieve a retailer of liability if the retailer displays, in a location open to the public, an advertisement that does not contain a warning label or has been altered by the retailer in a way that is material to the requirements of this subsection and subsection (b).
 
-**(d) 1 [footnote: 1 So in original. There are two subsecs. designated (d).] Graphic label statements**
+**(d) 1 [footnote: 1 So in original. There are two subsecs. designated (d).] Graphic label statements**
 
 Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.
 
@@ -225,21 +225,21 @@ In addition to the disclosures required by paragraph (1), the Secretary may, und
 
 This subsection applies to a retailer only if that retailer is responsible for or directs the label statements required under this section.
 
-(Pub. L. 89–92, § 4, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 98–474, § 4(a), Oct. 12, 1984, 98 Stat. 2201; Pub. L. 99–92, § 11[(a)], Aug. 16, 1985, 99 Stat. 402; Pub. L. 99–117, § 11(d), Oct. 7, 1985, 99 Stat. 495; Pub. L. 111–31, div. A, title II, §§ 201(a), 202(b), 206, June 22, 2009, 123 Stat. 1842, 1845, 1849.)
+(Pub. L. 89–92, § 4, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 98–474, § 4(a), Oct. 12, 1984, 98 Stat. 2201; Pub. L. 99–92, § 11[(a)], Aug. 16, 1985, 99 Stat. 402; Pub. L. 99–117, § 11(d), Oct. 7, 1985, 99 Stat. 495; Pub. L. 111–31, div. A, title II, §§ 201(a), 202(b), 206, June 22, 2009, 123 Stat. 1842, 1845, 1849.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4), (d), and (e)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4), (d), and (e)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
-2009—Pub. L. 111–31, § 201(a), amended section generally. Prior to amendment, section related to cigarette labeling requirements.
+2009—Pub. L. 111–31, § 201(a), amended section generally. Prior to amendment, section related to cigarette labeling requirements.
 
-Subsec. (d). Pub. L. 111–31, § 202(b), added subsec. (d) relating to change in required statements.
+Subsec. (d). Pub. L. 111–31, § 202(b), added subsec. (d) relating to change in required statements.
 
-Subsec. (e). Pub. L. 111–31, § 206, added subsec. (e).
+Subsec. (e). Pub. L. 111–31, § 206, added subsec. (e).
 
 1985—Subsec. (c). Pub. L. 99–92 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The label”, and added par. (2).
 
@@ -253,11 +253,11 @@ Subsec. (c)(2)(A). Pub. L. 99–117 substituted “brand style” for “brand�
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–31, div. A, title II, § 201(b), June 22, 2009, 123 Stat. 1845, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 15 months after the issuance of the regulations required by subsection (a) [final rule issued June 22, 2011, eff. Sept. 22, 2012; see 76 F.R. 36628]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a).”
+Pub. L. 111–31, div. A, title II, § 201(b), June 22, 2009, 123 Stat. 1845, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 15 months after the issuance of the regulations required by subsection (a) [final rule issued June 22, 2011, eff. Sept. 22, 2012; see 76 F.R. 36628]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a).”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–92, § 11(c), Aug. 16, 1985, 99 Stat. 403, provided that:
+Pub. L. 99–92, § 11(c), Aug. 16, 1985, 99 Stat. 403, provided that:
 
 > **“(1)** The amendments made by subsection (a) [probably refers to undesignated par. preceding subsec. (b), amending this section] shall take effect October 12, 1985, except that—
 
@@ -269,13 +269,13 @@ Pub. L. 99–92, § 11(c), Aug. 16, 1985, 99 Stat. 403, provided that:
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–474, § 4(b), Oct. 12, 1984, 98 Stat. 2203, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the expiration of a one-year period beginning on the date of the enactment of this Act [Oct. 12, 1984].”
+Pub. L. 98–474, § 4(b), Oct. 12, 1984, 98 Stat. 2203, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the expiration of a one-year period beginning on the date of the enactment of this Act [Oct. 12, 1984].”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “Section 4 of the amendment made by this Act [amending this section] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act [Apr. 1, 1970].”
+Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “Section 4 of the amendment made by this Act [amending this section] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act [Apr. 1, 1970].”
 
-## § 1334. Preemption
+## § 1334. Preemption
 
 **(a) Additional statements**
 
@@ -289,7 +289,7 @@ No requirement or prohibition based on smoking and health shall be imposed under
 
 Notwithstanding subsection (b), a State or locality may enact statutes and promulgate regulations, based on smoking and health, that take effect after the effective date of the Family Smoking Prevention and Tobacco Control Act, imposing specific bans or restrictions on the time, place, and manner, but not content, of the advertising or promotion of any cigarettes.
 
-(Pub. L. 89–92, § 5, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 111–31, div. A, title II, §§ 202(a), 203, June 22, 2009, 123 Stat. 1845, 1846.)
+(Pub. L. 89–92, § 5, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 111–31, div. A, title II, §§ 202(a), 203, June 22, 2009, 123 Stat. 1845, 1846.)
 
 **Editorial Notes**
 
@@ -301,9 +301,9 @@ The effective date of the Family Smoking Prevention and Tobacco Control Act, ref
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–31, § 202(a), substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 387c(a)(2) of title 21 or section 387t(a) of title 21, no” for “No”.
+2009—Subsec. (a). Pub. L. 111–31, § 202(a), substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 387c(a)(2) of title 21 or section 387t(a) of title 21, no” for “No”.
 
-Subsec. (c). Pub. L. 111–31, § 203, added subsec. (c).
+Subsec. (c). Pub. L. 111–31, § 203, added subsec. (c).
 
 1970—Subsec. (b). Pub. L. 91–222 substituted provision that no requirement or prohibition based on smoking and health should be imposed under State law with respect to the advertising or promotion of any cigarettes which packages are labeled in conformity with the provisions of this chapter for provision that no statement relating to smoking and health should be required in the advertising of any cigarettes which packages are labeled in conformity with the provisions of this chapter.
 
@@ -313,13 +313,13 @@ Subsecs. (c), (d). Pub. L. 91–222 struck out subsecs. (c) and (d) relating to 
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “Section 5 of the amendment made by this Act [amending this section] shall take effect as of July 1, 1969.”
+Pub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “Section 5 of the amendment made by this Act [amending this section] shall take effect as of July 1, 1969.”
 
-## § 1335. Unlawful advertisements on medium of electronic communication
+## § 1335. Unlawful advertisements on medium of electronic communication
 
 After January 1, 1971, it shall be unlawful to advertise cigarettes and little cigars on any medium of electronic communication subject to the jurisdiction of the Federal Communications Commission.
 
-(Pub. L. 89–92, § 6, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; Pub. L. 93–109, § 3, Sept. 21, 1973, 87 Stat. 352.)
+(Pub. L. 89–92, § 6, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; Pub. L. 93–109, § 3, Sept. 21, 1973, 87 Stat. 352.)
 
 **Editorial Notes**
 
@@ -339,7 +339,7 @@ Amendment by Pub. L. 93–109 effective thirty days after Sept. 21, 1973, see se
 
 Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1335a. List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality
+## § 1335a. List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality
 
 **(a)** Each person who manufactures, packages, or imports cigarettes shall annually provide the Secretary with a list of the ingredients added to tobacco in the manufacture of cigarettes which does not identify the company which uses the ingredients or the brand of cigarettes which contain the ingredients. A person or group of persons required to provide a list by this subsection may designate an individual or entity to provide the list required by this subsection.
 
@@ -367,7 +367,7 @@ Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise spe
 
 Such procedures shall require that any person permitted access to the information shall be instructed in writing not to disclose the information to anyone who is not entitled to have access to the information.
 
-(Pub. L. 89–92, § 7, as added Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
+(Pub. L. 89–92, § 7, as added Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -379,13 +379,13 @@ A prior section 7 of Pub. L. 89–92 was renumbered section 8 and is classified 
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–474, § 5(b), Oct. 12, 1984, 98 Stat. 2204, provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act [this section] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act [Oct. 12, 1984].”
+Pub. L. 98–474, § 5(b), Oct. 12, 1984, 98 Stat. 2204, provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act [this section] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act [Oct. 12, 1984].”
 
-## § 1336. Authority of Federal Trade Commission; unfair or deceptive acts or practices
+## § 1336. Authority of Federal Trade Commission; unfair or deceptive acts or practices
 
 Nothing in this chapter (other than the requirements of section 1333 of this title) shall be construed to limit, restrict, expand, or otherwise affect the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of cigarettes.
 
-(Pub. L. 89–92, § 8, formerly § 7, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 8 and amended Pub. L. 98–474, §§ 5(a), 6(c), Oct. 12, 1984, 98 Stat. 2203, 2204; Pub. L. 99–92, § 12, Aug. 16, 1985, 99 Stat. 404.)
+(Pub. L. 89–92, § 8, formerly § 7, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 8 and amended Pub. L. 98–474, §§ 5(a), 6(c), Oct. 12, 1984, 98 Stat. 2203, 2204; Pub. L. 99–92, § 12, Aug. 16, 1985, 99 Stat. 404.)
 
 **Editorial Notes**
 
@@ -407,21 +407,21 @@ A prior section 8 of Pub. L. 89–92 was renumbered section 9, classified to sec
 
 Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1337. Omitted
+## § 1337. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 89–92, § 9, formerly § 8, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 9 and amended Pub. L. 98–474, §§ 5(a), 6(d), Oct. 12, 1984, 98 Stat. 2203, 2205, which required the Secretary of Health and Human Services to transmit an annual report to Congress concerning health consequences of smoking and recommendations for legislation, and which required the Federal Trade Commission to transmit an annual report to Congress concerning practices and methods of cigarette advertising and promotion and recommendations for legislation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 95 and 172 of House Document No. 103–7.
+Section, Pub. L. 89–92, § 9, formerly § 8, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 9 and amended Pub. L. 98–474, §§ 5(a), 6(d), Oct. 12, 1984, 98 Stat. 2203, 2205, which required the Secretary of Health and Human Services to transmit an annual report to Congress concerning health consequences of smoking and recommendations for legislation, and which required the Federal Trade Commission to transmit an annual report to Congress concerning practices and methods of cigarette advertising and promotion and recommendations for legislation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 95 and 172 of House Document No. 103–7.
 
 A prior section 9 of Pub. L. 89–92 was renumbered section 10 and is classified to section 1338 of this title.
 
-## § 1338. Criminal penalty
+## § 1338. Criminal penalty
 
 Any person who violates the provisions of this chapter shall be guilty of a misdemeanor and shall on conviction thereof be subject to a fine of not more than $10,000.
 
-(Pub. L. 89–92, § 10, formerly § 9, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 10, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
+(Pub. L. 89–92, § 10, formerly § 9, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 10, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -439,11 +439,11 @@ A prior section 10 of Pub. L. 89–92 was renumbered section 11 and is classifie
 
 Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1339. Injunction proceedings
+## § 1339. Injunction proceedings
 
 The several district courts of the United States are invested with jurisdiction, for cause shown, to prevent and restrain violations of this chapter upon the application of the Attorney General of the United States acting through the several United States attorneys in their several districts.
 
-(Pub. L. 89–92, § 11, formerly § 10, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 11, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
+(Pub. L. 89–92, § 11, formerly § 10, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 11, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -461,11 +461,11 @@ Two prior sections 11 of Pub. L. 89–92 were renumbered section 12 by section 5
 
 Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1340. Cigarettes for export
+## § 1340. Cigarettes for export
 
 Packages of cigarettes manufactured, imported, or packaged (1) for export from the United States or (2) for delivery to a vessel or aircraft, as supplies, for consumption beyond the jurisdiction of the internal revenue laws of the United States shall be exempt from the requirements of this chapter, but such exemptions shall not apply to cigarettes manufactured, imported, or packaged for sale or distribution to members or units of the Armed Forces of the United States located outside of the United States.
 
-(Pub. L. 89–92, § 12, formerly § 11, as added Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 12, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
+(Pub. L. 89–92, § 12, formerly § 11, as added Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 89; renumbered § 12, Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -483,7 +483,7 @@ A prior section 12 of Pub. L. 89–92 was renumbered section 13 and is set out a
 
 Section effective Jan. 1, 1970, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 
-## § 1341. Smoking, research, education and information
+## § 1341. Smoking, research, education and information
 
 **(a) Establishment of program; Secretary; functions** The Secretary of Health and Human Services (hereinafter in this section referred to as the “Secretary”) shall establish and carry out a program to inform the public of any dangers to human health presented by cigarette smoking. In carrying out such program, the Secretary shall—
 
@@ -513,7 +513,7 @@ The Secretary shall designate the chairman of the Committee.
 
 **(2)** While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistance,1
 
-<sup>1</sup>  So in original. Probably should be “subsistence,”.
+<sup>1</sup> So in original. Probably should be “subsistence,”.
 
 in the manner provided by sections 5702 and 5703 of title 5.
 
@@ -529,7 +529,7 @@ in the manner provided by sections 5702 and 5703 of title 5.
 
 **(4)** such recommendations as the Secretary may consider appropriate.
 
-(Pub. L. 98–474, § 3, Oct. 12, 1984, 98 Stat. 2200; Pub. L. 99–92, § 13, Aug. 16, 1985, 99 Stat. 404; Pub. L. 102–531, title III, § 312(a), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 110–154, § 1(c)(1), Dec. 21, 2007, 121 Stat. 1827.)
+(Pub. L. 98–474, § 3, Oct. 12, 1984, 98 Stat. 2200; Pub. L. 99–92, § 13, Aug. 16, 1985, 99 Stat. 404; Pub. L. 102–531, title III, § 312(a), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 110–154, § 1(c)(1), Dec. 21, 2007, 121 Stat. 1827.)
 
 **Editorial Notes**
 

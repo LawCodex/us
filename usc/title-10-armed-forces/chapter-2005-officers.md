@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(a), (c), Dec. 22, 2023, 137 Stat. 631, 634, 638, 649, 653, added items for subchapters I to V. Amendments were made pursuant to operation of section 102 of this title. Amendment by section 1716(c) adding subchapters II to V to chapter “205” of this title was executed by adding items for subchapters II to V to the analysis for this chapter, which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, § 1716(a), (c), Dec. 22, 2023, 137 Stat. 631, 634, 638, 649, 653, added items for subchapters I to V. Amendments were made pursuant to operation of section 102 of this title. Amendment by section 1716(c) adding subchapters II to V to chapter “205” of this title was executed by adding items for subchapters II to V to the analysis for this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 ## SUBCHAPTER I—ORIGINAL APPOINTMENTS
 
@@ -27,9 +27,9 @@ Pub. L. 118–31, div. A, title XVII, § 1716(a), (c), Dec. 22, 2023, 137 Stat
 
 **Amendments**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631, 632, added items 20201 to 20203. Amendment was made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631, 632, added items 20201 to 20203. Amendment was made pursuant to operation of section 102 of this title.
 
-### § 20201. Original appointments: how made
+### § 20201. Original appointments: how made
 
 **(a) In General.—** The provisions of section 531 of this title shall apply to original appointments of commissioned officers in the Space Force.
 
@@ -39,9 +39,9 @@ Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631
 
 **(2)** The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component shall be determined under section 20203(e) of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631.)
 
-### § 20202. Original appointments: qualifications
+### § 20202. Original appointments: qualifications
 
 **(a) In General.—** An original appointment as a commissioned officer in the Space Force may be given only to a person who—
 
@@ -53,9 +53,9 @@ Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631
 
 **(b) Exception.—** A person who is otherwise qualified, but who has a physical condition that the Secretary of the Air Force determines will not interfere with the performance of the duties to which that person may be assigned, may be appointed as an officer in the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 632.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 632.)
 
-### § 20203. Original appointments: service credit
+### § 20203. Original appointments: service credit
 
 **(a) In General.—** The provisions of section 533 of this title shall apply to the crediting of prior active commissioned service for original appointments of commissioned officers.
 
@@ -103,7 +103,7 @@ Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 631
 
 **(f) Continuity of Existing Delegation of Presidential Appointment Functions.—** Except as otherwise provided by the President by Executive order, the provisions of Executive Order 13384 (10 U.S.C. 531 note) relating to the functions of the President under section 531(a) of this title shall apply in the same manner to functions of the President under section 20201 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 632.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(a), Dec. 22, 2023, 137 Stat. 632.)
 
 **Editorial Notes**
 
@@ -117,13 +117,13 @@ Executive Order 13384, referred to in subsec. (f), is Ex. Ord. No. 13384, July 2
 
 **Codification**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 **Amendments**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634–638, added items 20211 to 20217. Amendment was made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634–638, added items 20211 to 20217. Amendment was made pursuant to operation of section 102 of this title.
 
-### § 20211. Convening of selection boards
+### § 20211. Convening of selection boards
 
 **(a) In General.—** Whenever the needs of the service require, the Secretary of the Air Force shall convene selection boards to recommend for promotion to the next higher permanent grade officers of the Space Force in each permanent grade from first lieutenant through brigadier general.
 
@@ -133,7 +133,7 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 **(d) Regulations.—** The convening of selection boards under subsection (a) shall be under regulations prescribed by the Secretary of the Defense.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, § 521(n), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, § 521(n), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -141,7 +141,7 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “20239(c)(4)(A)” for “20238(a)(4)(A)”.
 
-### § 20212. Composition of selection boards
+### § 20212. Composition of selection boards
 
 **(a) Appointment and Composition of Boards.—**
 
@@ -179,7 +179,7 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 **(3)** The Secretary of Defense may waive the requirement in paragraph (1) for any selection board of the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, § 521(*o*), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634; amended Pub. L. 118–159, div. A, title V, § 521(*o*), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 2024—Subsec. (a)(1). Pub. L. 118–159 substituted “Secretary of the Air Force” for “Secretary of Air Force”.
 
-### § 20213. Notice of convening of selection boards
+### § 20213. Notice of convening of selection boards
 
 **(a) Notice to Eligible Officers.—** At least 30 days before a selection board is convened under section 20211 of this title to recommend officers in a grade for promotion to the next higher grade, the Secretary of the Air Force shall—
 
@@ -199,15 +199,15 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 **(c) Notice of Intent of Certain Officers To Serve on or Off Active Duty.—** An officer on the Space Force officer list in the grade of colonel or brigadier general who receives a notice under subsection (a) shall inform the Secretary of the officer’s preference to serve either on or off sustained duty if promoted to the grade of brigadier general or major general, respectively.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 635.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 635.)
 
-### § 20214. Information furnished to selection boards
+### § 20214. Information furnished to selection boards
 
 The provisions of section 615 of this title shall apply to information furnished to selection boards.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 636.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 636.)
 
-### § 20215. Recommendations for promotion by selection boards
+### § 20215. Recommendations for promotion by selection boards
 
 **(a) Board to Recommend Officers Best Qualified for Promotion.—** A selection board convened under section 20211 of this title shall recommend for promotion to the next higher grade those officers considered by the board whom the board, giving due consideration to the needs of the Space Force for officers with particular skills (as noted in the guidelines or information furnished the board under section 615(b) of this title), considers best qualified for promotion within each competitive category considered by the board.
 
@@ -239,9 +239,9 @@ The provisions of section 615 of this title shall apply to information furnished
 
 **(3)** For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend, pursuant to guidelines and procedures prescribed by the Secretary, the order in which those officers should be placed on the list.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 636.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 636.)
 
-### § 20216. Reports of selection boards
+### § 20216. Reports of selection boards
 
 **(a) In General.—** Each selection board convened under section 20211 of this title shall submit to the Secretary of the Air Force a written report, signed by each member of the board, containing a list of the names of the officers it recommends for promotion and certifying—
 
@@ -255,7 +255,7 @@ The provisions of section 615 of this title shall apply to information furnished
 
 **(d) Recommendation for Officers to Be Excluded From Future Consideration for Promotion.—** A selection board convened under section 20211 of this title may include in its report a recommendation that an officer considered by the board be excluded from future consideration for promotion under this chapter.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 637; amended Pub. L. 118–159, div. A, title V, § 521(p), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 637; amended Pub. L. 118–159, div. A, title V, § 521(p), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -263,13 +263,13 @@ The provisions of section 615 of this title shall apply to information furnished
 
 2024—Subsec. (c). Pub. L. 118–159 substituted “20215(g)” for “20214(g)”.
 
-### § 20217. Action on reports of selection boards for promotion to brigadier general or major general
+### § 20217. Action on reports of selection boards for promotion to brigadier general or major general
 
 **(a) In General.—** After reviewing a report received under section 20215 of this title recommending officers on the Space Force officer list for promotion to the grade of brigadier general or major general, but before submitting the report to the Secretary of Defense, the Secretary of the Air Force may, under regulations prescribed by the Secretary of the Air Force, adjust the placement of officers as recommended in the report in order to ensure that sufficient number of officers on both sustained and non-sustained duty are promoted to meet the requirements of the Space Force to fill general officer vacancies.
 
 **(b) Report.—** Whenever the Secretary of the Air Force uses the authority under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report informing the committees that the authority has been used and the reason for the use of the authority.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 638.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 638.)
 
 ## SUBCHAPTER III—PROMOTIONS
 
@@ -277,15 +277,15 @@ The provisions of section 615 of this title shall apply to information furnished
 
 **Codification**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 638, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 638, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1601(d)(1), Dec. 18, 2025, 139 Stat. 1174, added item 20244. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1601(d)(1), Dec. 18, 2025, 139 Stat. 1174, added item 20244. Amendment was made pursuant to operation of section 102 of this title.
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 638, 641–645, 647–649, added items 20231 to 20243. Amendment was made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 638, 641–645, 647–649, added items 20231 to 20243. Amendment was made pursuant to operation of section 102 of this title.
 
-### § 20231. Eligibility for consideration for promotion: general rules
+### § 20231. Eligibility for consideration for promotion: general rules
 
 **(a) In General.—**
 
@@ -355,19 +355,19 @@ Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634
 
 **(f) Certain Officers Not to Be Considered for Selection for Promotion.—** The Secretary of the Air Force may provide that an officer who is in a space force active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section, shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the Space Force officer list.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 638; amended Pub. L. 118–159, div. A, title V, § 521(q), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 638; amended Pub. L. 118–159, div. A, title V, § 521(q), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (b)(4). Pub. L. 118–159, § 521(q)(1)(A), substituted “20239(c)(4)” for “20238(a)(4)”.
+2024—Subsec. (b)(4). Pub. L. 118–159, § 521(q)(1)(A), substituted “20239(c)(4)” for “20238(a)(4)”.
 
-Subsec. (b)(5). Pub. L. 118–159, § 521(q)(1)(B), substituted “section 20232” for “20232”.
+Subsec. (b)(5). Pub. L. 118–159, § 521(q)(1)(B), substituted “section 20232” for “20232”.
 
-Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary of the Air Force” for “Secretary Air Force”.
+Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary of the Air Force” for “Secretary Air Force”.
 
-### § 20232. Authority to allow officers to opt out of selection board consideration
+### § 20232. Authority to allow officers to opt out of selection board consideration
 
 **(a) Authority.—** The Secretary of the Air Force may provide that an officer on the Space Force officer list may, upon the officer’s request and with the approval of the Secretary, be excluded from consideration by a selection board convened under section 20211 of this title to consider officers for promotion to the next higher grade.
 
@@ -397,9 +397,9 @@ Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary o
 
 **(C)** the officer has not previously opted out of a promotion board under this section.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 641.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 641.)
 
-### § 20233. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to brigadier general; exceptions
+### § 20233. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to brigadier general; exceptions
 
 **(a) General Rule.—** An officer on the Space Force officer list may not be appointed to the grade of brigadier general unless the officer has been designated as a joint qualified officer in accordance with section 661 of this title.
 
@@ -433,7 +433,7 @@ Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary o
 
 **(g) Exemption.—** Subsection (a) shall not apply to an officer who transfers to the Space Force from a reserve component before the first day of the sixth fiscal year beginning after the date of the enactment of this section, and who, as of the date of the transfer, is serving in the grade of major, lieutenant colonel, or colonel or, in the case of the Navy or Coast Guard, lieutenant commander, commander, or captain.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 642.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 642.)
 
 **Editorial Notes**
 
@@ -441,7 +441,7 @@ Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary o
 
 The date of the enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
-### § 20234. Opportunities for consideration for promotion
+### § 20234. Opportunities for consideration for promotion
 
 **(a) Specification of Number of Opportunities for Consideration for Promotion.—** The Secretary of the Air Force shall specify the number of opportunities for consideration for promotion to be afforded to Space Force officers for promotion to each grade above the grade of captain.
 
@@ -453,7 +453,7 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 **(e) Effect of Certain Reduction in Number of Opportunities Specified.—** If, by reason of a reduction in the number of opportunities for consideration for promotion under this section, an officer would no longer have one or more opportunities for consideration for promotion that were available to the officer before the reduction, the officer shall be afforded one additional opportunity for consideration for promotion after the reduction.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 643; amended Pub. L. 118–159, div. A, title V, § 521(r), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 643; amended Pub. L. 118–159, div. A, title V, § 521(r), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -461,7 +461,7 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “pursuant to subsection (a)” for “pursuant subsection (a)”.
 
-### § 20235. Space Force officer list
+### § 20235. Space Force officer list
 
 **(a) Single List.—** The Secretary of the Air Force shall maintain a single list of all Space Force officers serving in a space force active status. The list shall be known as the “Space Force officer list”.
 
@@ -469,17 +469,17 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 **(c) Effect of Service in a Temporary Appointment.—** An officer whose position on the Space Force officer list results from service under a temporary appointment or in a grade held by reason of assignment to a position has, when that appointment or assignment ends, the grade and position on the Space Force officer list that the officer would have held if the officer had not received that appointment or assignment.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 643.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 643.)
 
-### § 20236. Competitive categories
+### § 20236. Competitive categories
 
 **(a) Requirement to Establish Competitive Categories for Promotion.—** Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force shall establish at least one competitive category for promotion for officers on the Space Force officer list. Each officer whose name appears on the Space Force officer list shall be carried in a competitive category of officers. Officers in the same competitive category shall compete among themselves for promotion.
 
 **(b) Single Competitive Category for Promotion to General Officer Grades.—** The Secretary of the Air Force shall establish a single competitive category for all officers on the Space Force officer list who will be considered by a selection board convened under section 20211 of this title for promotion to the grade of brigadier general or major general.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 644.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 644.)
 
-### § 20237. Numbers to be recommended for promotion
+### § 20237. Numbers to be recommended for promotion
 
 **(a) Promotion to Grades Below Brigadier General.—**
 
@@ -503,9 +503,9 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 **(B)** the estimated number of officers on sustained duty and not on sustained duty needed to fill vacancies in those positions over the 24-month period beginning on the date on which the selection board convenes.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 644.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 644.)
 
-### § 20238. Establishment of promotion zones
+### § 20238. Establishment of promotion zones
 
 **(a) In General.—** Before convening a selection board under section 20211 of this title to consider officers for promotion to any grade above first lieutenant or lieutenant (junior grade), the Secretary of the Air Force shall establish a promotion zone for officers serving in each grade and competitive category to be considered by the board.
 
@@ -519,9 +519,9 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 **(4)** the number of officers that should be placed in that promotion zone in each of the next five years to provide to officers in those years relatively similar opportunity for promotion.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 645.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 645.)
 
-### § 20239. Promotions: how made
+### § 20239. Promotions: how made
 
 **(a) Promotion Lists.—**
 
@@ -567,25 +567,25 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 **(f) Authority to Delay Appointments for Specified Reasons.—** The provisions of section 14311 of this title shall apply to the appointment of an officer under this section in the same manner as they apply to an appointment of an officer under that section, and any reference in that section to an reserve active-status list shall be treated for purposes of applicability to an officer of the Space Force as referring to the Space Force officer list.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 645; amended Pub. L. 118–159, div. A, title V, § 521(s), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 645; amended Pub. L. 118–159, div. A, title V, § 521(s), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (c)(2). Pub. L. 118–159, § 521(s)(1), substituted “paragraph (1)” for “subparagraph (A)”.
+2024—Subsec. (c)(2). Pub. L. 118–159, § 521(s)(1), substituted “paragraph (1)” for “subparagraph (A)”.
 
-Subsec. (d)(2). Pub. L. 118–159, § 521(s)(2), substituted “section 741(d)(4)(C)(ii) of this title” for “subparagraph (C)(ii) of such section”.
+Subsec. (d)(2). Pub. L. 118–159, § 521(s)(2), substituted “section 741(d)(4)(C)(ii) of this title” for “subparagraph (C)(ii) of such section”.
 
-### § 20240. Acceptance of promotions; oath of office
+### § 20240. Acceptance of promotions; oath of office
 
 **(a) Acceptance.—** An officer who is appointed to a higher grade under section 20239 of this title is considered to have accepted the appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 
 **(b) Oath.—** An officer who has served continuously since taking the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under section 20239 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 647.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 647.)
 
-### § 20241. Removal of officers from a list of officers recommended for promotion
+### § 20241. Removal of officers from a list of officers recommended for promotion
 
 **(a) Removal by President.—** The President may remove the name of any officer from a promotion list at any time before the date on which the officer is promoted.
 
@@ -609,7 +609,7 @@ Subsec. (d)(2). Pub. L. 118–159, § 521(s)(2), substituted “section 741(d)
 
 **(f) Applicability of Previous Executive Order.—** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 629 or 14310 of this title shall apply in the same manner to functions of the President under this section.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 647; amended Pub. L. 118–159, div. A, title V, § 509E, Dec. 23, 2024, 138 Stat. 1874.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 647; amended Pub. L. 118–159, div. A, title V, § 509E, Dec. 23, 2024, 138 Stat. 1874.)
 
 **Editorial Notes**
 
@@ -621,15 +621,15 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 2024—Subsec. (f). Pub. L. 118–159 substituted “section 629 or 14310” for “section 14310”.
 
-### § 20242. Authority to vacate promotions to grade of brigadier general
+### § 20242. Authority to vacate promotions to grade of brigadier general
 
 **(a) Authority.—** The President may vacate the appointment of a Space Force officer to the grade of brigadier general if the period of time during which the officer has served in that grade after promotion to that grade is less than 18 months.
 
 **(b) Effect of Promotion Being Vacated.—** An officer whose promotion to the grade of brigadier general is vacated under this section holds the grade of colonel. Upon assuming the grade of colonel under this section, the officer shall have the same position on the Space Force officer list as the officer would have had if the officer had not served in the higher grade.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 648.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 648.)
 
-### § 20243. General officers ceasing to occupy positions commensurate with grade
+### § 20243. General officers ceasing to occupy positions commensurate with grade
 
 **(a) General Officers.—** Within 60 days after an officer of the Space Force on the Space Force officer list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary of the Air Force shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
 
@@ -643,7 +643,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 **(b) Credit for Service in Grade.—** An officer who is appointed under subsection (a)(3) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 649; amended Pub. L. 118–159, div. A, title V, § 521(t), Dec. 23, 2024, 138 Stat. 1883.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 649; amended Pub. L. 118–159, div. A, title V, § 521(t), Dec. 23, 2024, 138 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -651,7 +651,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 2024—Subsec. (a)(3). Pub. L. 118–159 struck out “as a” after “held by the officer”.
 
-### § 20244. Eligibility for consideration for promotion: duty assignments
+### § 20244. Eligibility for consideration for promotion: duty assignments
 
 **(a) Regulations.—** The Secretary of the Air Force shall prescribe regulations to ensure that an officer on the Space Force officer list is not considered for promotion to the grade of brigadier general unless the officer has completed—
 
@@ -665,7 +665,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 **(2)** The regulations required under subsection (a) shall apply to officers considered for promotion to brigadier general on or after January 1, 2035.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(d)(1), Dec. 18, 2025, 139 Stat. 1174.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(d)(1), Dec. 18, 2025, 139 Stat. 1174.)
 
 **Editorial Notes**
 
@@ -679,23 +679,23 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Codification**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 649, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 649, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title V, § 521(v)(2), Dec. 23, 2024, 138 Stat. 1883, renumbered item 20251 “Special selection boards; correction of errors” as 20252.
+2024—Pub. L. 118–159, div. A, title V, § 521(v)(2), Dec. 23, 2024, 138 Stat. 1883, renumbered item 20251 “Special selection boards; correction of errors” as 20252.
 
-2023—Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.
 
-### § 20251. Failure of selection for promotion
+### § 20251. Failure of selection for promotion
 
 **(a) In General.—** Except as provided in this section, sections 14501, 14503, 14504, 631, and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
 
 **(1)** any reference in those sections to the reserve active-status list or the active-duty list shall apply to the Space Force officer list; and
 
-**(2)** any reference in those sections to a board convened under section 14201 1
+**(2)** any reference in those sections to a board convened under section 14201 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or section 611 of this title shall apply to a board convened under section 20211 of this title.
 
@@ -709,7 +709,7 @@ or section 611 of this title shall apply to a board convened under section 20211
 
 **(2)** any reference in section 631(a) or 632(a) of this title, or in sections 14504 through 14506 of this title, to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer on the Space Force officer list who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under section 20234 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 649; amended Pub. L. 118–159, div. A, title V, § 521(u), Dec. 23, 2024, 138 Stat. 1883; Pub. L. 119–60, div. A, title XVII, § 1701(a)(43), Dec. 18, 2025, 139 Stat. 1210.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 649; amended Pub. L. 118–159, div. A, title V, § 521(u), Dec. 23, 2024, 138 Stat. 1883; Pub. L. 119–60, div. A, title XVII, § 1701(a)(43), Dec. 18, 2025, 139 Stat. 1210.)
 
 **Editorial Notes**
 
@@ -725,13 +725,13 @@ Another section 20251 was renumbered section 20252 of this title by section 521(
 
 2025—Subsec. (a). Pub. L. 119–60 struck out “and” before “14504, 631, and 632”.
 
-2024—Subsec. (a). Pub. L. 118–159, § 521(u)(1)(A), substituted “14504, 631, and 632” for “14504 and section 631 and 632” in introductory provisions. See Codification note above.
+2024—Subsec. (a). Pub. L. 118–159, § 521(u)(1)(A), substituted “14504, 631, and 632” for “14504 and section 631 and 632” in introductory provisions. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 118–159, § 521(u)(1)(B), substituted “section 14201 or section 611” for “section 14201 or 611”. See Codification note above.
+Subsec. (a)(2). Pub. L. 118–159, § 521(u)(1)(B), substituted “section 14201 or section 611” for “section 14201 or 611”. See Codification note above.
 
-Subsec. (d)(1). Pub. L. 118–159, § 521(u)(2), substituted “14501(b)” for “14502(b)”. See Codification note above.
+Subsec. (d)(1). Pub. L. 118–159, § 521(u)(2), substituted “14501(b)” for “14502(b)”. See Codification note above.
 
-### § 20252. Special selection boards; correction of errors
+### § 20252. Special selection boards; correction of errors
 
 **(a) Persons Not Considered by Promotion Board Because of Administrative Error.—**
 
@@ -801,31 +801,31 @@ Subsec. (d)(1). Pub. L. 118–159, § 521(u)(2), substituted “14501(b)” fo
 
 **(j) Designation of Boards.—** The Secretary of the Air Force may designate a promotion board convened under section 20201(a) of this title as a special selection board convened under this section.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 650, § 20251; renumbered § 20252 and amended Pub. L. 118–159, div. A, title V, § 521(v), Dec. 23, 2024, 138 Stat. 1883.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 650, § 20251; renumbered § 20252 and amended Pub. L. 118–159, div. A, title V, § 521(v), Dec. 23, 2024, 138 Stat. 1883.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 521(v)(2), renumbered the second section 20251 of this title as this section.
+2024—Pub. L. 118–159, § 521(v)(2), renumbered the second section 20251 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 118–159, § 521(v)(1)(A)(i), substituted “(1)” for “((1)” and “such” for “sch”.
+Subsec. (b)(2). Pub. L. 118–159, § 521(v)(1)(A)(i), substituted “(1)” for “((1)” and “such” for “sch”.
 
-Subsec. (b)(4). Pub. L. 118–159, § 521(v)(1)(A)(ii), substituted “an officer” for “a officer”.
+Subsec. (b)(4). Pub. L. 118–159, § 521(v)(1)(A)(ii), substituted “an officer” for “a officer”.
 
-Subsec. (f)(2). Pub. L. 118–159, § 521(v)(1)(B), substituted “which an officer” for “which of officer”.
+Subsec. (f)(2). Pub. L. 118–159, § 521(v)(1)(B), substituted “which an officer” for “which of officer”.
 
-### § 20252a. Special selection review boards: reference
+### § 20252a. Special selection review boards: reference
 
 Section 628a of this title, relating to the convening of a special selection review board when credible information of an adverse nature was not furnished to a promotion board, applies with respect to persons recommended by a selection board for promotion to a grade at or below the grade of major general in the Space Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
 
-### § 20253. Retirement: retirement for years of service
+### § 20253. Retirement: retirement for years of service
 
 Sections 633 through 636 of this title shall apply to the retirement of officers on the Space Force officer list in the same manner as to officers of the Regular Air Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
 
 ## SUBCHAPTER V—CONTINUATION ON ACTIVE DUTY AND SELECTIVE EARLY RETIREMENT; OTHER PROVISIONS
 
@@ -833,33 +833,33 @@ Sections 633 through 636 of this title shall apply to the retirement of officers
 
 **Codification**
 
-Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 653, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 653, which directed amendment of chapter “205” of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 653, added items 20261 to 20264. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 634, 653, added items 20261 to 20264. Amendment was made pursuant to operation of section 102 of this title.
 
-### § 20261. Selection of officers for continuation on the Space Force officer list
+### § 20261. Selection of officers for continuation on the Space Force officer list
 
 Section 14701 of this title shall apply in continuation or retention on the Space Force officer in the same manner as to continuation on the reserve active-status list.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
 
-### § 20262. Retirement: selective early retirement
+### § 20262. Retirement: selective early retirement
 
 Sections 638 and 638a of this title shall apply to the retirement of officers on the Space Force officer list in the same manner as to officers of the Regular Air Force.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
 
-### § 20263. Entitlement of officers discharged or retired under this chapter to separation pay or retired pay
+### § 20263. Entitlement of officers discharged or retired under this chapter to separation pay or retired pay
 
 **(a) Separation Pay.—** An officer who is discharged under this chapter is entitled, if eligible therefor, to separation pay under section 1174 of this title.
 
 **(b) Retired Pay.—** An officer who is retired under this chapter is entitled to retired pay computed under chapter 71 or 1223 of this title, as applicable.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
 
-### § 20264. Other administrative authorities
+### § 20264. Other administrative authorities
 
 The following provisions of this title shall apply to officers on the Space Force officer list in the same manner as to officers subject to those provisions:
 
@@ -869,4 +869,4 @@ The following provisions of this title shall apply to officers on the Space Forc
 
 **(3)** Section 14704, relating to the selective early removal from the reserve active-status list.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 653.)

@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—WEIGHTS, MEASURES, AND STANDARDS GENERALLY
 
-### § 201. Sets of standard weights and measures for agricultural colleges
+### § 201. Sets of standard weights and measures for agricultural colleges
 
 The Secretary of Commerce is directed to cause a complete set of all the weights and measures adopted as standards to be delivered to the governor of each State in the Union for the use of agricultural colleges in the States, respectively, which have received a grant of lands from the United States, and also one set of the same for the use of the Smithsonian Institution: *Provided*, That the cost of each set shall not exceed $200.
 
-(Mar. 3, 1881, No. 26, 21 Stat. 521; Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+(Mar. 3, 1881, No. 26, 21 Stat. 521; Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,11 +41,11 @@ A sum sufficient to carry out the provisions of this section was appropriated ou
 
 The Secretary of the Treasury was directed to cause a complete set of all the weights and measures adopted as standards to be delivered to the governor of each state for the use of the states by Res. June 14, 1836, No. 7, 5 Stat. 133, which provision was not incorporated into the Revised Statutes.
 
-### § 202. Repairs to standards
+### § 202. Repairs to standards
 
 Such necessary repairs and adjustments shall be made to the standards furnished to the several States and Territories as may be requested by the governors thereof, and also to standard weights and measures that have been or may be supplied to United States customhouses and other offices of the United States under Act of Congress, when requested by the Secretary of Commerce.
 
-(July 11, 1890, ch. 667, § 1, 26 Stat. 242; Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+(July 11, 1890, ch. 667, § 1, 26 Stat. 242; Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,11 +57,11 @@ Act Mar. 4, 1913, created Department of Labor and renamed Department of Commerce
 
 Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.
 
-### § 203. Replacing lost standard weights and measures; cost
+### § 203. Replacing lost standard weights and measures; cost
 
 The Secretary of Commerce is authorized and directed to furnish precise copies of standard weights and measures, bearing the seal of the National Institute of Standards and Technology and accompanied by a suitable certificate, to any State, Territory, or institution heretofore furnished with the same, upon application in writing by the governor in the case of a State or Territory, or by the official head in the case of an institution, setting forth that the copies of standards applied for are to replace similar ones heretofore furnished, in accordance with law, which have been lost or destroyed: *Provided*, That the applicant shall, before the said standards are delivered, first deposit with the Secretary of Commerce the amount of money necessary to defray all expenses incurred by the National Institute of Standards and Technology in furnishing the same, which amount shall be covered into the Treasury of the United States to the credit of miscellaneous receipts as soon as the weights or measures are delivered for transportation into the hands of such persons as are designated by the officers ordering the same.
 
-(Aug. 18, 1894, ch. 301, § 1, 28 Stat. 383; Mar. 3, 1901, ch. 872, § 1, 31 Stat. 1449; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Aug. 18, 1894, ch. 301, § 1, 28 Stat. 383; Mar. 3, 1901, ch. 872, § 1, 31 Stat. 1449; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -81,17 +81,17 @@ Act Mar. 3, 1901, provided that Office of Standard Weights and Measures should t
 
 Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.
 
-### § 204. Metric system authorized
+### § 204. Metric system authorized
 
 It shall be lawful throughout the United States of America to employ the weights and measures of the metric system; and no contract or dealing, or pleading in any court, shall be deemed invalid or liable to objection because the weights or measures expressed or referred to therein are weights or measures of the metric system.
 
-(R.S. § 3569.)
+(R.S. § 3569.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 3569 derived from act July 28, 1866, ch. 301, § 1, 14 Stat. 339.
+R.S. § 3569 derived from act July 28, 1866, ch. 301, § 1, 14 Stat. 339.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,17 +99,17 @@ R.S. § 3569 derived from act July 28, 1866, ch. 301, § 1, 14 Stat. 339.
 
 Pub. L. 90–472, Aug. 9, 1968, 82 Stat. 693, authorized the Secretary of Commerce to conduct a program of investigation, research, and survey to determine the impact of increasing worldwide use of the metric system on the United States; to appraise the desirability and practicability of increasing the use of metric weights and measures in the United States; to study the feasibility of retaining and promoting by international use of dimensional and other engineering standards based on the customary measurement units of the United States; and to evaluate the costs and benefits of alternative courses of action which might be feasible for the United States. The Secretary was directed to submit to the Congress such interim reports as he deemed desirable, and within three years after Aug. 9, 1968, a full and complete report of the findings made under the study, together with such recommendations as he considered to be appropriate and in the best interests of the United States. By its own terms, the Act expired thirty days after the submission of the final report.
 
-### § 205. Metric system defined
+### § 205. Metric system defined
 
 The metric system of measurement shall be defined as the International System of Units as established in 1960, and subsequently maintained, by the General Conference of Weights and Measures, and as interpreted or modified for the United States by the Secretary of Commerce.
 
-(R.S. § 3570; Pub. L. 110–69, title III, § 3013(c)(1), Aug. 9, 2007, 121 Stat. 598.)
+(R.S. § 3570; Pub. L. 110–69, title III, § 3013(c)(1), Aug. 9, 2007, 121 Stat. 598.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 3570 derived from act July 28, 1866, ch. 301, § 2, 14 Stat. 339, 340.
+R.S. § 3570 derived from act July 28, 1866, ch. 301, § 2, 14 Stat. 339, 340.
 
 **Amendments**
 
@@ -117,7 +117,7 @@ R.S. § 3570 derived from act July 28, 1866, ch. 301, § 2, 14 Stat. 339, 34
 
 ## SUBCHAPTER II—METRIC CONVERSION
 
-### § 205a. Congressional statement of findings
+### § 205a. Congressional statement of findings
 
 The Congress finds as follows:
 
@@ -135,13 +135,13 @@ The Congress finds as follows:
 
 **(7)** The metric system of measurement can provide substantial advantages to the Federal Government in its own operations.
 
-(Pub. L. 94–168, § 2, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, § 5164(a), Aug. 23, 1988, 102 Stat. 1451.)
+(Pub. L. 94–168, § 2, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, § 5164(a), Aug. 23, 1988, 102 Stat. 1451.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R.S. § 3569 authorizing use of the metric system, which is classified to section 204 of this title.
+Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R.S. § 3569 authorizing use of the metric system, which is classified to section 204 of this title.
 
 **Amendments**
 
@@ -151,15 +151,15 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–289, § 1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Act [enacting section 205*l* of this title, amending sections 205c and 205*l* of this title, and enacting provisions set out as notes under this section and section 205c of this title] may be cited as the ‘Savings in Construction Act of 1996’.”
+Pub. L. 104–289, § 1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Act [enacting section 205*l* of this title, amending sections 205c and 205*l* of this title, and enacting provisions set out as notes under this section and section 205c of this title] may be cited as the ‘Savings in Construction Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 94–168, § 1, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act [enacting this subchapter] may be cited as the ‘Metric Conversion Act of 1975’.”
+Pub. L. 94–168, § 1, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act [enacting this subchapter] may be cited as the ‘Metric Conversion Act of 1975’.”
 
 **Congressional Statement of Findings; Metric Conversion in Federal Construction Projects**
 
-Pub. L. 104–289, § 2, Oct. 11, 1996, 110 Stat. 3411, provided that:
+Pub. L. 104–289, § 2, Oct. 11, 1996, 110 Stat. 3411, provided that:
 
 > “The Congress finds the following:
 
@@ -231,7 +231,7 @@ Sec. 4. *Judicial Review*. This order is intended only to improve the internal m
 
 George Bush.
 
-### § 205b. Declaration of policy
+### § 205b. Declaration of policy
 
 It is therefore the declared policy of the United States—
 
@@ -243,7 +243,7 @@ It is therefore the declared policy of the United States—
 
 **(4)** to permit the continued use of traditional systems of weights and measures in non-business activities.
 
-(Pub. L. 94–168, § 3, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, § 5164(b), Aug. 23, 1988, 102 Stat. 1452.)
+(Pub. L. 94–168, § 3, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, § 5164(b), Aug. 23, 1988, 102 Stat. 1452.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ It is therefore the declared policy of the United States—
 
 Secretary of Commerce designated to direct and coordinate implementation of Government metric usage, see section 1 of Ex. Ord. No. 12770, July 25, 1991, 56 F.R. 35801, set out as a note under section 205a of this title.
 
-### § 205c. Definitions
+### § 205c. Definitions
 
 As used in this subchapter, the term—
 
@@ -277,9 +277,9 @@ As used in this subchapter, the term—
 
 **(8)** “cost or pricing data or price analysis” has the meaning given such terms in section 3501(a) of title 41; and
 
-**(9)** “Federal facility” means any public building (as defined under section 3301(a) of title 40 1
+**(9)** “Federal facility” means any public building (as defined under section 3301(a) of title 40 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 and shall include any Federal building or construction project—
 
@@ -293,9 +293,9 @@ and shall include any Federal building or construction project—
 
 **(E)** on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
 
-**(F)** on installations of the Department of Veteran 2
+**(F)** on installations of the Department of Veteran 2
 
-<sup>2</sup>  So in original. Probably should be “Veterans”.
+<sup>2</sup> So in original. Probably should be “Veterans”.
 
 Affairs used for hospital or domiciliary purposes; or
 
@@ -303,17 +303,17 @@ Affairs used for hospital or domiciliary purposes; or
 
 but does not include (i) any Federal building or construction project the exclusion of which the President deems to be justified in the public interest, or (ii) any construction project or building owned or controlled by a State government, local government, Indian tribe, or any private entity.
 
-(Pub. L. 94–168, § 4, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 104–289, § 3, Oct. 11, 1996, 110 Stat. 3411.)
+(Pub. L. 94–168, § 4, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 104–289, § 3, Oct. 11, 1996, 110 Stat. 3411.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (5), “section 107 of title 41” substituted for “section 403(6) of title 41, United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (5), “section 107 of title 41” substituted for “section 403(6) of title 41, United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In par. (8), “section 3501(a) of title 41” substituted for “section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (8), “section 3501(a) of title 41” substituted for “section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In par. (9), “section 3301(a) of title 40” substituted for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In par. (9), “section 3301(a) of title 40” substituted for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
@@ -323,13 +323,13 @@ In par. (9), “section 3301(a) of title 40” substituted for “section 13 of 
 
 **Effective Date of 1996 Amendment; Savings Provision**
 
-Pub. L. 104–289, § 6, Oct. 11, 1996, 110 Stat. 3415, provided that:
+Pub. L. 104–289, § 6, Oct. 11, 1996, 110 Stat. 3415, provided that:
 
 > **“(a) Effective Date.—** This Act [See Short Title of 1996 Amendment note set out under section 205a of this title] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act [Oct. 11, 1996].
 
 > **“(b) Savings Provisions.—** This Act shall not apply to contracts awarded and solicitations issued on or before the effective date of this Act, unless the head of a Federal agency makes a written determination in his or her sole discretion that it would be in the public interest to apply one or more provisions of this Act or its amendments to these existing contracts or solicitations.”
 
-### § 205d. United States Metric Board
+### § 205d. United States Metric Board
 
 **(a) Establishment**
 
@@ -373,9 +373,9 @@ Unless otherwise provided by the Congress, the Board shall have no compulsory po
 
 The Board shall cease to exist when the Congress, by law, determines that its mission has been accomplished.
 
-(Pub. L. 94–168, § 5, Dec. 23, 1975, 89 Stat. 1007.)
+(Pub. L. 94–168, § 5, Dec. 23, 1975, 89 Stat. 1007.)
 
-### § 205e. Functions and powers of Board
+### § 205e. Functions and powers of Board
 
 It shall be the function of the Board to devise and carry out a broad program of planning, coordination, and public education, consistent with other national policy and interests, with the aim of implementing the policy set forth in this subchapter. In carrying out this program, the Board shall—
 
@@ -405,15 +405,15 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 **(9)** conduct research, including appropriate surveys; publish the results of such research; and recommend to the Congress and to the President such action as may be appropriate to deal with any unresolved problems, issues, and questions associated with metric conversion, or usage, such problems, issues, and questions may include, but are not limited to, the impact on workers (such as costs of tools and training) and on different occupations and industries, possible increased costs to consumers, the impact on society and the economy, effects on small business, the impact on the international trade position of the United States, the appropriateness of and methods for using procurement by the Federal Government as a means to effect conversion to the metric system, the proper conversion or transition period in particular sectors of society, and consequences for national defense;
 
-**(10)** submit annually to the Congress and to the President a report on its activities. Each such report shall include a status report on the conversion process as well as projections for the conversion process. Such report may include recommendations covering any legislation or executive action needed to implement the the 1
+**(10)** submit annually to the Congress and to the President a report on its activities. Each such report shall include a status report on the conversion process as well as projections for the conversion process. Such report may include recommendations covering any legislation or executive action needed to implement the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 programs of conversion accepted by the Board. The Board may also submit such other reports and recommendations as it deems necessary; and
 
 **(11)** submit to the Congress and to the President, not later than 1 year after the date of enactment of the Act making appropriations for carrying out this subchapter, a report on the need to provide an effective structural mechanism for converting customary units to metric units in statutes, regulations, and other laws at all levels of government, on a coordinated and timely basis, in response to voluntary conversion programs adopted and implemented by various sectors of society under the auspices and with the approval of the Board. If the Board determines that such a need exists, such report shall include recommendations as to appropriate and effective means for establishing and implementing such a mechanism.
 
-(Pub. L. 94–168, § 6, Dec. 23, 1975, 89 Stat. 1008; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 94–168, § 6, Dec. 23, 1975, 89 Stat. 1008; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -425,7 +425,7 @@ programs of conversion accepted by the Board. The Board may also submit such oth
 
 For termination, effective May 15, 2000, of provisions in par. (10) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
 
-### § 205f. Duties of Board
+### § 205f. Duties of Board
 
 In carrying out its duties under this subchapter, the Board may—
 
@@ -441,15 +441,15 @@ In carrying out its duties under this subchapter, the Board may—
 
 **(6)** perform such other acts as may be necessary to carry out the duties prescribed by this subchapter.
 
-(Pub. L. 94–168, § 7, Dec. 23, 1975, 89 Stat. 1011.)
+(Pub. L. 94–168, § 7, Dec. 23, 1975, 89 Stat. 1011.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (4), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (4), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 205g. Gifts, donations and bequests to Board
+### § 205g. Gifts, donations and bequests to Board
 
 **(a) Authorization; deposit into Treasury and disbursement**
 
@@ -467,21 +467,21 @@ Upon the request of the Board, the Secretary of the Treasury may invest and rein
 
 Funds not expended by the Board as of the date when it ceases to exist, in accordance with section 205d(d) of this title, shall revert to the Treasury of the United States as of such date.
 
-(Pub. L. 94–168, § 8, Dec. 23, 1975, 89 Stat. 1011.)
+(Pub. L. 94–168, § 8, Dec. 23, 1975, 89 Stat. 1011.)
 
-### § 205h. Compensation of Board members; travel expenses
+### § 205h. Compensation of Board members; travel expenses
 
 Members of the Board who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate not to exceed the daily rate currently being paid grade 18 of the General Schedule (under section 5332 of title 5), including traveltime. While so serving, on the business of the Board away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons employed intermittently in the Government service. Payments under this section shall not render members of the Board employees or officials of the United States for any purpose. Members of the Board who are in the employ of the United States shall be entitled to travel expenses when traveling on the business of the Board.
 
-(Pub. L. 94–168, § 9, Dec. 23, 1975, 89 Stat. 1011.)
+(Pub. L. 94–168, § 9, Dec. 23, 1975, 89 Stat. 1011.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 205i. Personnel
+### § 205i. Personnel
 
 **(a) Executive Director; appointment; tenure; duties**
 
@@ -499,39 +499,39 @@ The Board may appoint and fix the compensation of such staff personnel as may be
 
 The Board may (1) employ experts and consultants or organizations thereof, as authorized by section 3109 of title 5; (2) compensate individuals so employed at rates not in excess of the rate currently being paid grade 18 of the General Schedule under section 5332 of such title, including traveltime; and (3) may allow such individuals, while away from their homes or regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently: *Provided, however*, That contracts for such temporary employment may be renewed annually.
 
-(Pub. L. 94–168, § 10, Dec. 23, 1975, 89 Stat. 1012.)
+(Pub. L. 94–168, § 10, Dec. 23, 1975, 89 Stat. 1012.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 205j. Financial and administrative services; source and reimbursement
+### § 205j. Financial and administrative services; source and reimbursement
 
 Financial and administrative services, including those related to budgeting, accounting, financial reporting, personnel, and procurement, and such other staff services as may be needed by the Board, may be obtained by the Board from the Secretary of Commerce or other appropriate sources in the Federal Government. Payment for such services shall be made by the Board, in advance or by reimbursement, from funds of the Board in such amounts as may be agreed upon by the Chairman of the Board and by the source of the services being rendered.
 
-(Pub. L. 94–168, § 11, Dec. 23, 1975, 89 Stat. 1012.)
+(Pub. L. 94–168, § 11, Dec. 23, 1975, 89 Stat. 1012.)
 
-### § 205j–1. Repealed. Pub. L. 104–66, title III, § 3001(e), Dec. 21, 1995, 109 Stat. 734
+### § 205j–1. Repealed. Pub. L. 104–66, title III, § 3001(e), Dec. 21, 1995, 109 Stat. 734
 
-Section, Pub. L. 94–168, § 12, as added Pub. L. 100–418, title V, § 5164(c), Aug. 23, 1988, 102 Stat. 1452, related to agency guidelines to carry out metric conversion policy.
+Section, Pub. L. 94–168, § 12, as added Pub. L. 100–418, title V, § 5164(c), Aug. 23, 1988, 102 Stat. 1452, related to agency guidelines to carry out metric conversion policy.
 
 A prior section 12 of Pub. L. 94–168 was renumbered section 13 and is classified to section 205k of this title.
 
-### § 205k. Authorization of appropriations; availability
+### § 205k. Authorization of appropriations; availability
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Appropriations to carry out the provisions of this subchapter may remain available for obligation and expenditure for such period or periods as may be specified in the Acts making such appropriations.
 
-(Pub. L. 94–168, § 13, formerly § 12, Dec. 23, 1975, 89 Stat. 1012, renumbered § 13, Pub. L. 100–418, title V, § 5164(c), Aug. 23, 1988, 102 Stat. 1452.)
+(Pub. L. 94–168, § 13, formerly § 12, Dec. 23, 1975, 89 Stat. 1012, renumbered § 13, Pub. L. 100–418, title V, § 5164(c), Aug. 23, 1988, 102 Stat. 1452.)
 
-### § 205l. Implementation in acquisition of construction services and materials for Federal facilities
+### § 205l. Implementation in acquisition of construction services and materials for Federal facilities
 
 **(a) In general**
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in the provisions of title 10, referred to in section 3016 of such title as “chapter 137 legacy provisions”, section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 3453(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 1
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in the provisions of title 10, referred to in section 3016 of such title as “chapter 137 legacy provisions”, section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 3453(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 3453 or 3307(b) to (d) shall take precedence.
 
@@ -561,7 +561,7 @@ Construction services and materials for Federal facilities shall be procured in 
 
 The provisions of subsections (b) and (c) of this section shall not apply to Federal contracts to acquire construction products for the construction of facilities outside of the United States and its territories.
 
-**(e) Repealed. Pub. L. 108–423, § 6, Nov. 30, 2004, 118 Stat. 2402**
+**(e) Repealed. Pub. L. 108–423, § 6, Nov. 30, 2004, 118 Stat. 2402**
 
 **(f) Agency ombudsman**
 
@@ -587,7 +587,7 @@ The construction metrication ombudsman shall be independent of the contracting o
 
 **(5)** Nothing in this section shall be construed to supersede the bid protest process established under subchapter V of chapter 35 of title 31.
 
-(Pub. L. 94–168, § 14, as added and amended Pub. L. 104–289, §§ 4(a), 5, Oct. 11, 1996, 110 Stat. 3412, 3414; Pub. L. 108–423, § 6, Nov. 30, 2004, 118 Stat. 2402; Pub. L. 117–81, div. A, title XVII, § 1702(e)(1), Dec. 27, 2021, 135 Stat. 2156.)
+(Pub. L. 94–168, § 14, as added and amended Pub. L. 104–289, §§ 4(a), 5, Oct. 11, 1996, 110 Stat. 3412, 3414; Pub. L. 108–423, § 6, Nov. 30, 2004, 118 Stat. 2402; Pub. L. 117–81, div. A, title XVII, § 1702(e)(1), Dec. 27, 2021, 135 Stat. 2156.)
 
 **Editorial Notes**
 
@@ -601,7 +601,7 @@ The effective date of the Savings in Construction Act of 1996, referred to in su
 
 2004—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: “The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996.”
 
-1996—Pub. L. 104–289, § 5, added subsec. (f).
+1996—Pub. L. 104–289, § 5, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,7 +611,7 @@ Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awa
 
 ## SUBCHAPTER III—STANDARD GAUGE FOR IRON AND STEEL
 
-### § 206. Standard gauge for sheet and plate iron and steel
+### § 206. Standard gauge for sheet and plate iron and steel
 
 For the purpose of securing uniformity the following is established as the only standard gauge for sheet and plate iron and steel in the United States of America, namely:
 
@@ -665,7 +665,7 @@ For the purpose of securing uniformity the following is established as the only 
 
 The same and no other shall be used in determining duties and taxes levied by the United States of America on sheet and plate iron and steel. But this subchapter shall not be construed to increase duties upon any articles which may be imported.
 
-(Mar. 3, 1893, ch. 221, § 1, 27 Stat. 746.)
+(Mar. 3, 1893, ch. 221, § 1, 27 Stat. 746.)
 
 **Editorial Notes**
 
@@ -673,11 +673,11 @@ The same and no other shall be used in determining duties and taxes levied by th
 
 This subchapter, referred to in text, was in the original “this act”, meaning act Mar. 3, 1893, ch. 221, 27 Stat. 746, which is classified to sections 206 to 208 of this title.
 
-### § 207. Preparation of standards by Secretary of Commerce
+### § 207. Preparation of standards by Secretary of Commerce
 
 The Secretary of Commerce is authorized and required to prepare suitable standards in accordance with section 206 of this title.
 
-(Mar. 3, 1893, ch. 221, § 2, 27 Stat. 746; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+(Mar. 3, 1893, ch. 221, § 2, 27 Stat. 746; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -689,81 +689,81 @@ Act Mar. 4, 1913, created Department of Labor, and renamed Department of Commerc
 
 Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.
 
-### § 208. Variations
+### § 208. Variations
 
-In the practical use and application of the standard gauge esablished 1
+In the practical use and application of the standard gauge esablished 1
 
-<sup>1</sup>  So in original. Probably should be “established”.
+<sup>1</sup> So in original. Probably should be “established”.
 
 in section 206 of this title a variation of 2½ percent, either way may be allowed.
 
-(Mar. 3, 1893, ch. 221, § 3, 27 Stat. 746.)
+(Mar. 3, 1893, ch. 221, § 3, 27 Stat. 746.)
 
 ## SUBCHAPTER IV—SCREW THREADS
 
-### §§ 208a to 212. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644, 646
+### §§ 208a to 212. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644, 646
 
-Sections, acts July 18, 1918, ch. 156, §§ 1–5, 40 Stat. 912, 913; Mar. 3, 1919, ch. 96, 40 Stat. 1291; Apr. 16, 1926, ch. 148, 44 Stat. 297, created Commission for the Standardization of Screw Threads and provided for composition of Commission, its duties, and pay.
+Sections, acts July 18, 1918, ch. 156, §§ 1–5, 40 Stat. 912, 913; Mar. 3, 1919, ch. 96, 40 Stat. 1291; Apr. 16, 1926, ch. 148, 44 Stat. 297, created Commission for the Standardization of Screw Threads and provided for composition of Commission, its duties, and pay.
 
 ## SUBCHAPTER V—STANDARDS OF ELECTRICITY
 
-### §§ 221, 222. Repealed. July 21, 1950, ch. 484, § 13, 64 Stat. 370
+### §§ 221, 222. Repealed. July 21, 1950, ch. 484, § 13, 64 Stat. 370
 
-Sections, act July 12, 1894, ch. 131, §§ 1, 2, 28 Stat. 101, 102, related to units of electrical measure.
+Sections, act July 12, 1894, ch. 131, §§ 1, 2, 28 Stat. 101, 102, related to units of electrical measure.
 
-### §§ 223, 224. Repealed. Pub. L. 110–69, title III, § 3013(c)(2), Aug. 9, 2007, 121 Stat. 598
+### §§ 223, 224. Repealed. Pub. L. 110–69, title III, § 3013(c)(2), Aug. 9, 2007, 121 Stat. 598
 
-Section 223, acts July 21, 1950, ch. 484, §§ 1–11, 64 Stat. 369; Pub. L. 88–165, Nov. 4, 1963, 77 Stat. 299, related to units of electrical measure.
+Section 223, acts July 21, 1950, ch. 484, §§ 1–11, 64 Stat. 369; Pub. L. 88–165, Nov. 4, 1963, 77 Stat. 299, related to units of electrical measure.
 
-Section 224, act July 21, 1950, ch. 484, § 12, 64 Stat. 370, related to establishment of values of primary electric and photometric units in absolute measure and legal values for those units.
+Section 224, act July 21, 1950, ch. 484, § 12, 64 Stat. 370, related to establishment of values of primary electric and photometric units in absolute measure and legal values for those units.
 
 ## SUBCHAPTER VI—STANDARD BARRELS
 
-### § 231. Standard barrel for apples; steel barrels
+### § 231. Standard barrel for apples; steel barrels
 
 The standard barrel for apples shall be of the following dimensions when measured without distention of its parts: Length of stave, twenty-eight and one-half inches; diameter of head, seventeen and one-eighth inches; distance between heads, twenty-six inches; circumference of bulge, sixty-four inches outside measurement, representing as nearly as possible seven thousand and fifty-six cubic inches: *Provided*, That steel barrels containing the interior dimensions provided for in this section shall be construed as a compliance therewith.
 
-(Aug. 3, 1912, ch. 273, § 1, 37 Stat. 250.)
+(Aug. 3, 1912, ch. 273, § 1, 37 Stat. 250.)
 
-### § 232. Barrels below standard; marking
+### § 232. Barrels below standard; marking
 
 All barrels packed with apples shall be deemed to be below standard if the barrel bears any statement, design, or device indicating that the barrel is a standard barrel of apples, as defined in section 231 of this title, and the capacity of the barrel is less than the capacity prescribed by said section, unless the barrel shall be plainly marked on end and side with words or figures showing the fractional relation which the actual capacity of the barrel bears to the capacity prescribed by said section. The marking required by this section shall be in block letters of size not less than seventy-two point (one-inch) gothic.
 
-(Aug. 3, 1912, ch. 273, § 4, 37 Stat. 251.)
+(Aug. 3, 1912, ch. 273, § 4, 37 Stat. 251.)
 
-### § 233. Penalty for violations
+### § 233. Penalty for violations
 
 Any person, firm, or corporation, or association who shall knowingly pack or cause to be packed apples in barrels, or who shall knowingly sell or offer for sale such barrels in violation of the provisions of this Act shall be liable to a penalty of $1 and costs for each such barrel so sold or offered for sale, to be recovered at the suit of the United States in any court of the United States having jurisdiction.
 
-(Aug. 3, 1912, ch. 273, § 6, 37 Stat. 251.)
+(Aug. 3, 1912, ch. 273, § 6, 37 Stat. 251.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act Aug. 3, 1912, ch. 273, §§ 1–6, 37 Stat. 250, 251, which is classified to sections 231 to 233 of this title and to sections 20 to 23 of Title 21, Food and Drugs.
+This Act, referred to in text, is act Aug. 3, 1912, ch. 273, §§ 1–6, 37 Stat. 250, 251, which is classified to sections 231 to 233 of this title and to sections 20 to 23 of Title 21, Food and Drugs.
 
 **Codification**
 
 This section is also set out as section 23 of Title 21, Food and Drugs.
 
-### § 234. Standard barrel for fruits or other dry commodity
+### § 234. Standard barrel for fruits or other dry commodity
 
 The standard barrel for fruits, vegetables, and other dry commodities other than cranberries shall be of the following dimensions when measured without distention of its parts: Length of stave, twenty-eight and one-half inches; diameter of heads, seventeen and one-eighth inches; distance between heads, twenty-six inches; circumference of bulge, sixty-four inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch: *Provided*, That any barrel of a different form having a capacity of seven thousand and fifty-six cubic inches shall be a standard barrel. The standard barrel for cranberries shall be of the following dimensions when measured without distention of its parts: Length of staves, twenty-eight and one-half inches; diameter of head, sixteen and one-fourth inches; distance between heads, twenty-five and one-fourth inches; circumference of bulge, fifty-eight and one-half inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch.
 
-(Mar. 4, 1915, ch. 158, § 1, 38 Stat. 1186.)
+(Mar. 4, 1915, ch. 158, § 1, 38 Stat. 1186.)
 
-### § 235. Sale or shipment of barrel of less capacity than standard; punishment
+### § 235. Sale or shipment of barrel of less capacity than standard; punishment
 
 It shall be unlawful to sell, offer, or expose for sale in any State, Territory, or the District of Columbia, or to ship from any State, Territory, or the District of Columbia to any other State, Territory, or the District of Columbia or to a foreign country, a barrel containing fruits or vegetables or any other dry commodity of less capacity than the standard barrels defined in section 234 of this title, known as the third, half, and three-quarters barrel, and any person guilty of a willful violation of any of the provisions of sections 234 to 236 of this title shall be deemed guilty of a misdemeanor and be liable to a fine not to exceed $500, or imprisonment not to exceed six months, in the court of the United States having jurisdiction: *Provided, however*, That no barrel shall be deemed below standard within the meaning of said sections when shipped to any foreign country and constructed according to the specifications or directions of the foreign purchaser if not constructed in conflict with the laws of the foreign country to which the same is intended to be shipped.
 
-(Mar. 4, 1915, ch. 158, § 2, 38 Stat. 1186.)
+(Mar. 4, 1915, ch. 158, § 2, 38 Stat. 1186.)
 
-### § 236. Variations from standard permitted; prosecutions; law not applicable to certain barrels
+### § 236. Variations from standard permitted; prosecutions; law not applicable to certain barrels
 
 Reasonable variations shall be permitted and tolerance shall be established by rules and regulations made by the Director of the National Institute of Standards and Technology and approved by the Secretary of Commerce. Prosecutions for offenses under this section or sections 234 or 235 of this title may be begun upon complaint of local sealers of weights and measures or other officers of the several States and Territories appointed to enforce the laws of the said States or Territories, respectively, relating to weights and measures: *Provided, however*, That nothing in this section or sections 234 and 235 of this title shall apply to barrels used in packing or shipping commodities sold exclusively by weight or numerical count.
 
-(Mar. 4, 1915, ch. 158, § 3, 38 Stat. 1187; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Mar. 4, 1915, ch. 158, § 3, 38 Stat. 1187; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -775,31 +775,31 @@ Reasonable variations shall be permitted and tolerance shall be established by r
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 237. Standard barrels for lime
+### § 237. Standard barrels for lime
 
 There is established a large and a small barrel of lime, the large barrel to consist of two hundred and eighty pounds and the small barrel to consist of one hundred and eighty pounds, net weight.
 
-(Aug. 23, 1916, ch. 396, § 1, 39 Stat. 530.)
+(Aug. 23, 1916, ch. 396, § 1, 39 Stat. 530.)
 
-### § 238. Penalty for selling in barrels not marked
+### § 238. Penalty for selling in barrels not marked
 
 It shall be unlawful for any person to sell or offer for sale lime imported in barrels from a foreign country, or to sell or offer for sale lime in barrels for shipment from any State or Territory or the District of Columbia, to any other State or Territory or the District of Columbia, unless there shall be stenciled or otherwise clearly marked on one or both heads of the small barrel the figures “180 lbs. net” and of the large barrel the figures “280 lbs. net” before the importation or shipment, and on either barrel in addition the name of the manufacturer of the lime and where manufactured, and, if imported, the name of the country from which it is imported.
 
-(Aug. 23, 1916, ch. 396, § 2, 39 Stat. 530.)
+(Aug. 23, 1916, ch. 396, § 2, 39 Stat. 530.)
 
-### § 239. Sale in containers of less capacity than barrel
+### § 239. Sale in containers of less capacity than barrel
 
 When lime is sold in interstate or foreign commerce in containers of less capacity than the standard small barrel, it shall be sold in fractional parts of said standard small barrel, and the net weight of lime contained in such container shall by stencil or otherwise be clearly marked thereon, together with the name of the manufacturer thereof, and the name of the brand, if any, under which it is sold, and, if imported, the name of the country from which it is imported.
 
-(Aug. 23, 1916, ch. 396, § 3, 39 Stat. 530.)
+(Aug. 23, 1916, ch. 396, § 3, 39 Stat. 530.)
 
-### § 240. Rules and regulations
+### § 240. Rules and regulations
 
 Rules and regulations for the enforcement of sections 237 to 242 of this title, not inconsistent with the provisions of said sections, shall be made by the Director of the National Institute of Standards and Technology and approved by the Secretary of Commerce, and such rules and regulations shall include reasonable variations or tolerances which may be allowed.
 
-(Aug. 23, 1916, ch. 396, § 4, 39 Stat. 531; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Aug. 23, 1916, ch. 396, § 4, 39 Stat. 531; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -811,19 +811,19 @@ Rules and regulations for the enforcement of sections 237 to 242 of this title, 
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 241. Penalty for selling lime in unmarked barrels and containers
+### § 241. Penalty for selling lime in unmarked barrels and containers
 
 It shall be unlawful to pack, sell, or offer for sale for shipment from any State or Territory or the District of Columbia to any other State or Territory or the District of Columbia, any barrels or other containers of lime which are not marked as provided in sections 238 and 239 of this title, or to sell, charge for, or purport to deliver from any State or Territory or the District of Columbia to any other State or Territory or the District of Columbia, as a large or small barrel or a fractional part of said small barrel of lime, any less weight of lime than is established by the provisions of sections 237 to 242 of this title and any person guilty of a violation of the provisions of said sections shall be deemed guilty of a misdemeanor and be liable to a fine not exceeding $100.
 
-(Aug. 23, 1916, ch. 396, § 5, 39 Stat. 531.)
+(Aug. 23, 1916, ch. 396, § 5, 39 Stat. 531.)
 
-### § 242. Duty of United States attorney to enforce law
+### § 242. Duty of United States attorney to enforce law
 
 It shall be the duty of each United States attorney, to whom satisfactory evidence of any violation of sections 237 to 242 of this title is presented, to cause appropriate proceedings to be commenced and prosecuted in the United States court having jurisdiction of such offense.
 
-(Aug. 23, 1916, ch. 396, § 6, 39 Stat. 531; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Aug. 23, 1916, ch. 396, § 6, 39 Stat. 531; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -833,49 +833,49 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” 
 
 ## SUBCHAPTER VII—STANDARD BASKETS AND CONTAINERS
 
-### §§ 251 to 256. Repealed. Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320
+### §§ 251 to 256. Repealed. Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320
 
-Section 251, acts Aug. 31, 1916, ch. 426, § 1, 39 Stat. 673; June 11, 1934, ch. 447, § 1, 48 Stat. 930, set standards for Climax baskets for grapes and other fruits and vegetables and for mushrooms.
+Section 251, acts Aug. 31, 1916, ch. 426, § 1, 39 Stat. 673; June 11, 1934, ch. 447, § 1, 48 Stat. 930, set standards for Climax baskets for grapes and other fruits and vegetables and for mushrooms.
 
-Section 252, act Aug. 31, 1916, ch. 426, § 2, 39 Stat. 673, set standards for standard basket or container for small fruits and vegetables.
+Section 252, act Aug. 31, 1916, ch. 426, § 2, 39 Stat. 673, set standards for standard basket or container for small fruits and vegetables.
 
-Section 253, acts Aug. 31, 1916, ch. 426, § 3, 39 Stat. 674; June 11, 1934, c. 447, § 2, 48 Stat. 930, set penalties for failure to conform to standards.
+Section 253, acts Aug. 31, 1916, ch. 426, § 3, 39 Stat. 674; June 11, 1934, c. 447, § 2, 48 Stat. 930, set penalties for failure to conform to standards.
 
-Section 254, act Aug. 31, 1916, ch. 426, § 4, 39 Stat. 674, provided for examinations and tests by Department of Agriculture and for promulgation of rules and regulations covering allowable tolerances and variations.
+Section 254, act Aug. 31, 1916, ch. 426, § 4, 39 Stat. 674, provided for examinations and tests by Department of Agriculture and for promulgation of rules and regulations covering allowable tolerances and variations.
 
-Section 255, acts Aug. 31, 1916, ch. 426, § 5, 39 Stat. 674; June 25, 1948, ch. 646, § 1, 62 Stat. 909, made United States attorney responsible for commencing actions to enforce penalties.
+Section 255, acts Aug. 31, 1916, ch. 426, § 5, 39 Stat. 674; June 25, 1948, ch. 646, § 1, 62 Stat. 909, made United States attorney responsible for commencing actions to enforce penalties.
 
-Section 256, act Aug. 31, 1916, ch. 426, § 6, 39 Stat. 674, covered guaranty given by manufacturers or sellers of baskets as to correctness of such containers.
+Section 256, act Aug. 31, 1916, ch. 426, § 6, 39 Stat. 674, covered guaranty given by manufacturers or sellers of baskets as to correctness of such containers.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 90–628, § 3, Oct. 22, 1968, 82 Stat. 1320, provided that: “This Act [repealing sections 251 to 257i of this title and amending section 1459 of this title] shall become effective 60 days after enactment [Oct. 22, 1968].”
+Pub. L. 90–628, § 3, Oct. 22, 1968, 82 Stat. 1320, provided that: “This Act [repealing sections 251 to 257i of this title and amending section 1459 of this title] shall become effective 60 days after enactment [Oct. 22, 1968].”
 
 ## SUBCHAPTER VIII—STANDARD HAMPERS, ROUND STAVE BASKETS, AND SPLINT BASKETS FOR FRUITS AND VEGETABLES
 
-### §§ 257 to 257i. Repealed. Pub. L. 90–628, § 1(b), Oct. 22, 1968, 82 Stat. 1320
+### §§ 257 to 257i. Repealed. Pub. L. 90–628, § 1(b), Oct. 22, 1968, 82 Stat. 1320
 
-Section 257, acts May 21, 1928, ch. 664, § 1, 45 Stat. 685; June 28, 1954, ch. 406, § 1, 68 Stat. 301; Aug. 30, 1964, Pub. L. 88–516, § 1, 78 Stat. 697, set dimensions for standard hampers and round stave baskets.
+Section 257, acts May 21, 1928, ch. 664, § 1, 45 Stat. 685; June 28, 1954, ch. 406, § 1, 68 Stat. 301; Aug. 30, 1964, Pub. L. 88–516, § 1, 78 Stat. 697, set dimensions for standard hampers and round stave baskets.
 
-Section 257a, acts May 21, 1928, ch. 664, § 2, 45 Stat. 685; Aug. 30, 1964, Pub. L. 88–516, § 2, 78 Stat. 697, set dimensions for standard splint baskets.
+Section 257a, acts May 21, 1928, ch. 664, § 2, 45 Stat. 685; Aug. 30, 1964, Pub. L. 88–516, § 2, 78 Stat. 697, set dimensions for standard splint baskets.
 
-Section 257b, act May 21, 1928, ch. 664, § 3, 45 Stat. 686, provided for promulgation of regulations allowing reasonable variations in hampers and baskets.
+Section 257b, act May 21, 1928, ch. 664, § 3, 45 Stat. 686, provided for promulgation of regulations allowing reasonable variations in hampers and baskets.
 
-Section 257c, act May 21, 1928, ch. 664, § 4, 45 Stat. 686, required approval by Secretary of Agriculture of manufacturer’s dimension specifications for hampers and baskets.
+Section 257c, act May 21, 1928, ch. 664, § 4, 45 Stat. 686, required approval by Secretary of Agriculture of manufacturer’s dimension specifications for hampers and baskets.
 
-Section 257d, acts May 21, 1928, ch. 664, § 5, 45 Stat. 686; Aug. 30, 1964, Pub. L. 88–516, § 3, 78 Stat. 697, set out penalties for violations and covered guaranty given by manufacturers and sellers of hampers and baskets as to their correctness.
+Section 257d, acts May 21, 1928, ch. 664, § 5, 45 Stat. 686; Aug. 30, 1964, Pub. L. 88–516, § 3, 78 Stat. 697, set out penalties for violations and covered guaranty given by manufacturers and sellers of hampers and baskets as to their correctness.
 
-Section 257e, act May 21, 1928, ch. 664, § 6, 45 Stat. 686, provided for seizure of illegal hampers and baskets, and procedure covering their condemnation.
+Section 257e, act May 21, 1928, ch. 664, § 6, 45 Stat. 686, provided for seizure of illegal hampers and baskets, and procedure covering their condemnation.
 
-Section 257f, act May 21, 1928, ch. 664, § 7, 45 Stat. 687, allowed manufacture of hampers and baskets for foreign sale in conformity with foreign specifications.
+Section 257f, act May 21, 1928, ch. 664, § 7, 45 Stat. 687, allowed manufacture of hampers and baskets for foreign sale in conformity with foreign specifications.
 
-Section 257g, acts May 21, 1928, ch. 664, § 8, 45 Stat. 687; June 25, 1948, ch. 646, § 1, 62 Stat. 909, placed upon the United States Attorney the duty to prosecute for violations of sections 257 to 257i of this title.
+Section 257g, acts May 21, 1928, ch. 664, § 8, 45 Stat. 687; June 25, 1948, ch. 646, § 1, 62 Stat. 909, placed upon the United States Attorney the duty to prosecute for violations of sections 257 to 257i of this title.
 
-Section 257h, act May 21, 1928, ch. 664, § 9, 45 Stat. 687, provided for promulgation of regulations covering examinations and tests by Secretary of Agriculture.
+Section 257h, act May 21, 1928, ch. 664, § 9, 45 Stat. 687, provided for promulgation of regulations covering examinations and tests by Secretary of Agriculture.
 
-Section 257i, act May 21, 1968, ch. 664, § 10, 45 Stat. 687, authorized Secretary of Agriculture to cooperate with other agencies in carrying out sections 257 to 257i of this title.
+Section 257i, act May 21, 1968, ch. 664, § 10, 45 Stat. 687, authorized Secretary of Agriculture to cooperate with other agencies in carrying out sections 257 to 257i of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -885,11 +885,11 @@ Repeal effective 60 days after Oct. 22, 1968, see section 3 of Pub. L. 90–628,
 
 ## SUBCHAPTER IX—STANDARD TIME
 
-### § 260. Congressional declaration of policy; adoption and observance of uniform standard of time; authority of Secretary of Transportation
+### § 260. Congressional declaration of policy; adoption and observance of uniform standard of time; authority of Secretary of Transportation
 
 It is the policy of the United States to promote the adoption and observance of uniform time within the standard time zones prescribed by sections 261 to 264 of this title, as modified by section 265 of this title. To this end the Secretary of Transportation is authorized and directed to foster and promote widespread and uniform adoption and observance of the same standard of time within and throughout each such standard time zone.
 
-(Pub. L. 89–387, § 2, Apr. 13, 1966, 80 Stat. 107; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
+(Pub. L. 89–387, § 2, Apr. 13, 1966, 80 Stat. 107; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -901,13 +901,13 @@ It is the policy of the United States to promote the adoption and observance of 
 
 **Effective Date**
 
-Pub. L. 89–387, § 6, Apr. 13, 1966, 80 Stat. 108, provided that: “This Act [enacting this section and sections 260a, 266, and 267 of this title and amending sections 261 to 263 of this title] shall take effect on April 1, 1967; except that if any State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any political subdivision thereof, observes daylight saving time in the year 1966, such time shall advance the standard time otherwise applicable in such place by one hour and shall commence at 2 o’clock antemeridian on the last Sunday in April of the year 1966 and shall end at 2 o’clock antemeridian on the last Sunday in October of the year 1966.”
+Pub. L. 89–387, § 6, Apr. 13, 1966, 80 Stat. 108, provided that: “This Act [enacting this section and sections 260a, 266, and 267 of this title and amending sections 261 to 263 of this title] shall take effect on April 1, 1967; except that if any State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any political subdivision thereof, observes daylight saving time in the year 1966, such time shall advance the standard time otherwise applicable in such place by one hour and shall commence at 2 o’clock antemeridian on the last Sunday in April of the year 1966 and shall end at 2 o’clock antemeridian on the last Sunday in October of the year 1966.”
 
 **Short Title**
 
-Pub. L. 89–387, § 1, Apr. 13, 1966, 80 Stat. 107, provided: “That this Act [enacting this section and sections 260a, 266, and 267 of this title and amending sections 261 to 263 of this title] may be cited as the ‘Uniform Time Act of 1966’.”
+Pub. L. 89–387, § 1, Apr. 13, 1966, 80 Stat. 107, provided: “That this Act [enacting this section and sections 260a, 266, and 267 of this title and amending sections 261 to 263 of this title] may be cited as the ‘Uniform Time Act of 1966’.”
 
-### § 260a. Advancement of time or changeover dates
+### § 260a. Advancement of time or changeover dates
 
 **(a) Duration of period; State exemption**
 
@@ -921,7 +921,7 @@ It is hereby declared that it is the express intent of Congress by this section 
 
 For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
-(Pub. L. 89–387, § 3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, § 2(b), July 8, 1986, 100 Stat. 764; Pub. L. 109–58, title I, § 110(a), Aug. 8, 2005, 119 Stat. 615.)
+(Pub. L. 89–387, § 3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, § 2(b), July 8, 1986, 100 Stat. 764; Pub. L. 109–58, title I, § 110(a), Aug. 8, 2005, 119 Stat. 615.)
 
 **Editorial Notes**
 
@@ -939,15 +939,15 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–58, title I, § 110(b), Aug. 8, 2005, 119 Stat. 615, provided that: “Subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Aug. 8, 2005] or March 1, 2007, whichever is later.”
+Pub. L. 109–58, title I, § 110(b), Aug. 8, 2005, 119 Stat. 615, provided that: “Subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Aug. 8, 2005] or March 1, 2007, whichever is later.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–359, § 2(e), July 8, 1986, 100 Stat. 765, provided that: “This section [amending this section and enacting provisions set out as notes below] shall take effect 60 days after the date of enactment of this Act [July 8, 1986], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
+Pub. L. 99–359, § 2(e), July 8, 1986, 100 Stat. 765, provided that: “This section [amending this section and enacting provisions set out as notes below] shall take effect 60 days after the date of enactment of this Act [July 8, 1986], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
 
 **Study and Report on Energy Consumption; Reversion**
 
-Pub. L. 109–58, title I, § 110(c), (d), Aug. 8, 2005, 119 Stat. 615, provided that:
+Pub. L. 109–58, title I, § 110(c), (d), Aug. 8, 2005, 119 Stat. 615, provided that:
 
 > **“(c) Report to Congress.—** Not later than 9 months after the effective date stated in subsection (b) [set out above], the Secretary [of Energy] shall report to Congress on the impact of this section [amending this section] on energy consumption in the United States.
 
@@ -955,7 +955,7 @@ Pub. L. 109–58, title I, § 110(c), (d), Aug. 8, 2005, 119 Stat. 615, provid
 
 **Congressional Findings; Expansion of Daylight Saving Time**
 
-Pub. L. 99–359, § 2(a), July 8, 1986, 100 Stat. 764, provided that:
+Pub. L. 99–359, § 2(a), July 8, 1986, 100 Stat. 764, provided that:
 
 > “The Congress finds—
 
@@ -969,7 +969,7 @@ Pub. L. 99–359, § 2(a), July 8, 1986, 100 Stat. 764, provided that:
 
 **Effectiveness of State Exemption in Effect on July 8, 1986**
 
-Pub. L. 99–359, § 2(c), July 8, 1986, 100 Stat. 764, provided that:
+Pub. L. 99–359, § 2(c), July 8, 1986, 100 Stat. 764, provided that:
 
 > “Any law in effect on the date of the enactment of this Act [July 8, 1986]—
 
@@ -981,7 +981,7 @@ Pub. L. 99–359, § 2(c), July 8, 1986, 100 Stat. 764, provided that:
 
 **Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations**
 
-Pub. L. 99–359, § 2(d), July 8, 1986, 100 Stat. 764, provided that:
+Pub. L. 99–359, § 2(d), July 8, 1986, 100 Stat. 764, provided that:
 
 > **“(1)** Notwithstanding any other law or any regulation issued under any such law, the Federal Communications Commission shall, consistent with any existing treaty or other agreement, make such adjustment by general rules, or by interim action pending such general rules, with respect to hours of operation of daytime standard amplitude modulation broadcast stations, as may be consistent with the public interest, including the public’s interest in receiving interference-free service.
 
@@ -1009,13 +1009,13 @@ Sec. 3. In carrying out his responsibilities under this order, the Secretary sha
 
 Richard Nixon.
 
-### § 261. Zones for standard time; interstate or foreign commerce
+### § 261. Zones for standard time; interstate or foreign commerce
 
 **(a) In general**
 
-For the purpose of establishing the standard time of the United States, the territory of the United States shall be divided into nine zones in the manner provided in this section. Except as provided in section 260a(a) of this title, the standard time of the first zone shall be Coordinated Universal Time retarded by 4 hours; that of the second zone retarded by 5 hours; that of the third zone retarded by 6 hours; that of the fourth zone retarded by 7 hours; that of the fifth zone retarded 1
+For the purpose of establishing the standard time of the United States, the territory of the United States shall be divided into nine zones in the manner provided in this section. Except as provided in section 260a(a) of this title, the standard time of the first zone shall be Coordinated Universal Time retarded by 4 hours; that of the second zone retarded by 5 hours; that of the third zone retarded by 6 hours; that of the fourth zone retarded by 7 hours; that of the fifth zone retarded 1
 
-<sup>1</sup>  So in original. Probably should be followed by “by”.
+<sup>1</sup> So in original. Probably should be followed by “by”.
 
 8 hours; that of the sixth zone retarded by 9 hours; that of the seventh zone retarded by 10 hours; that of the eighth zone retarded by 11 hours; and that of the ninth zone shall be Coordinated Universal Time advanced by 10 hours. The limits of each zone shall be defined by an order of the Secretary of Transportation, having regard for the convenience of commerce and the existing junction points and division points of common carriers engaged in interstate or foreign commerce, and any such order may be modified from time to time. As used in sections 261 to 264 of this title, the term “interstate or foreign commerce” means commerce between a State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof.
 
@@ -1023,7 +1023,7 @@ For the purpose of establishing the standard time of the United States, the terr
 
 In this section, the term “Coordinated Universal Time” means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Secretary of Commerce in coordination with the Secretary of the Navy.
 
-(Mar. 19, 1918, ch. 24, § 1, 40 Stat. 450; Pub. L. 89–387, § 4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, § 1(a), Dec. 23, 2000, 114 Stat. 2811; Pub. L. 110–69, title III, § 3013(c)(3), Aug. 9, 2007, 121 Stat. 598.)
+(Mar. 19, 1918, ch. 24, § 1, 40 Stat. 450; Pub. L. 89–387, § 4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, § 1(a), Dec. 23, 2000, 114 Stat. 2811; Pub. L. 110–69, title III, § 3013(c)(3), Aug. 9, 2007, 121 Stat. 598.)
 
 **Editorial Notes**
 
@@ -1031,7 +1031,7 @@ In this section, the term “Coordinated Universal Time” means the time scale 
 
 2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted second sentence for former second sentence which read as follows: “Except as provided in section 260a(a) of this title, the standard time of the first zone shall be based on the mean solar time of the sixtieth degree of longitude west from Greenwich; that of the second zone on the seventy-fifth degree; that of the third zone on the ninetieth degree; that of the fourth zone on the one hundred and fifth degree; that of the fifth zone on the one hundred and twentieth degree; that of the sixth zone on the one hundred and thirty-fifth degree; that of the seventh zone on the one hundred and fiftieth degree; that of the eighth zone on the one hundred and sixty-fifth degree; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich..”, and added subsec. (b).
 
-2000—Pub. L. 106–564, in first sentence, substituted “nine zones” for “eight zones” and, in second sentence, substituted “; that of the eighth” for “; and that of the eighth” and inserted before period at end “; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich.”
+2000—Pub. L. 106–564, in first sentence, substituted “nine zones” for “eight zones” and, in second sentence, substituted “; that of the eighth” for “; and that of the eighth” and inserted before period at end “; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich.”
 
 1983—Pub. L. 97–449 substituted “Secretary of Transportation” for “Interstate Commerce Commission”.
 
@@ -1055,11 +1055,11 @@ Act Mar. 31, 1949, ch. 43, 63 Stat. 29, authorized the Board of Commissioners [n
 
 Act Sept. 25, 1945, ch. 388, 59 Stat. 537, provided, that, notwithstanding the provisions of act Jan. 20, 1942, ch. 7, 56 Stat. 9, which provided for war time, the standard time for each zone as provided for in sections 261 to 264 of this title should again become effective as of Sept. 30, 1945, at 2:00 A.M.
 
-### § 262. Duty to observe standard time of zones
+### § 262. Duty to observe standard time of zones
 
 Within the respective zones created under the authority of sections 261 to 264 of this title the standard time of the zone shall insofar as practicable (as determined by the Secretary of Transportation) govern the movement of all common carriers engaged in interstate or foreign commerce. In all statutes, orders, rules, and regulations relating to the time of performance of any act by any officer or department of the United States, whether in the legislative, executive, or judicial branches of the Government, or relating to the time within which any rights shall accrue or determine, or within which any act shall or shall not be performed by any person subject to the jurisdiction of the United States, it shall be understood and intended that the time shall insofar as practicable (as determined by the Secretary of Transportation) be the United States standard time of the zone within which the act is to be performed.
 
-(Mar. 19, 1918, ch. 24, § 2, 40 Stat. 451; Pub. L. 89–387, § 4(b), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
+(Mar. 19, 1918, ch. 24, § 2, 40 Stat. 451; Pub. L. 89–387, § 4(b), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -1069,17 +1069,17 @@ Within the respective zones created under the authority of sections 261 to 264 o
 
 1966—Pub. L. 89–387 inserted “insofar as practicable (as determined by the Interstate Commerce Commission)” in two places and substituted “engaged in interstate or foreign commerce” for “engaged in commerce between the several States or between a State and any one of the Territories of the United States, or between a State or the Territory of Alaska and any one of the insular possessions of the United States or any foreign country”.
 
-### § 263. Designation of zone standard times
+### § 263. Designation of zone standard times
 
 The standard time of the first zone shall be known and designated as Atlantic standard time; that of the second zone shall be known and designated as eastern standard time; that of the third zone shall be known and designated as central standard time; that of the fourth zone shall be known and designated as mountain standard time; that of the fifth zone shall be known and designated as Pacific standard time; that of the sixth zone shall be known and designated as Alaska standard time; that of the seventh zone shall be known and designated as Hawaii-Aleutian standard time; that of the eighth zone shall be known and designated as Samoa standard time; and that of the ninth zone shall be known as Chamorro standard time.
 
-(Mar. 19, 1918, ch. 24, § 4, 40 Stat. 451; Pub. L. 89–387, § 4(c), Apr. 13, 1966, 80 Stat. 108; Pub. L. 98–181, title II, § 2003(a), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 106–564, § 1(b), Dec. 23, 2000, 114 Stat. 2811.)
+(Mar. 19, 1918, ch. 24, § 4, 40 Stat. 451; Pub. L. 89–387, § 4(c), Apr. 13, 1966, 80 Stat. 108; Pub. L. 98–181, title II, § 2003(a), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 106–564, § 1(b), Dec. 23, 2000, 114 Stat. 2811.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–564 struck out “and” before “that of the eighth” and inserted before period at end “; and that of the ninth zone shall be known as Chamorro standard time”.
+2000—Pub. L. 106–564 struck out “and” before “that of the eighth” and inserted before period at end “; and that of the ninth zone shall be known as Chamorro standard time”.
 
 1983—Pub. L. 98–181 substituted “Alaska” for “Yukon”, “Hawaii-Aleutian” for “Alaska-Hawaii”, and “Samoa” for “Bering”.
 
@@ -1089,7 +1089,7 @@ The standard time of the first zone shall be known and designated as Atlantic st
 
 **Conforming Changes in Time Zone Designations**
 
-Pub. L. 98–181, title II, § 2003(b), Nov. 30, 1983, 97 Stat. 1297, provided that:
+Pub. L. 98–181, title II, § 2003(b), Nov. 30, 1983, 97 Stat. 1297, provided that:
 
 > **“(1)** Any reference to Yukon standard time in any law, regulation, map, document, record, or other paper of the United States shall be held and considered to be a reference to Alaska standard time.
 
@@ -1097,11 +1097,11 @@ Pub. L. 98–181, title II, § 2003(b), Nov. 30, 1983, 97 Stat. 1297, provided
 
 > **“(3)** Any reference to Bering standard time in any law, regulation, map, document, record, or other paper of the United States shall be held and considered to be a reference to Samoa standard time.”
 
-### § 264. Part of Idaho in fourth zone
+### § 264. Part of Idaho in fourth zone
 
 In the division of territory, and in the definition of the limits of each zone, as provided in sections 261 to 264 of this title, so much of the State of Idaho as lies south of the Salmon River, traversing the State from east to west near forty-five degrees thirty minutes latitude shall be embraced in the fourth zone: *Provided*, That common carriers within such portion of the State of Idaho may conduct their operations on Pacific time.
 
-(Mar. 19, 1918, ch. 24, § 3, as added Mar. 3, 1923, ch. 216, 42 Stat. 1434; amended June 24, 1948, ch. 631, § 1, 62 Stat. 646; Pub. L. 110–69, title III, § 3013(c)(4), Aug. 9, 2007, 121 Stat. 599.)
+(Mar. 19, 1918, ch. 24, § 3, as added Mar. 3, 1923, ch. 216, 42 Stat. 1434; amended June 24, 1948, ch. 631, § 1, 62 Stat. 646; Pub. L. 110–69, title III, § 3013(c)(4), Aug. 9, 2007, 121 Stat. 599.)
 
 **Editorial Notes**
 
@@ -1119,9 +1119,9 @@ The original section 3 of act Mar. 19, 1918, providing for daylight-savings, was
 
 **Effective Date of 1948 Amendment**
 
-Act June 24, 1948, ch. 631, § 2, 62 Stat. 646, provided that: “This Act [amending this section] shall take effect at 2 o’clock antemeridian of the second Monday following the date of its enactment.”
+Act June 24, 1948, ch. 631, § 2, 62 Stat. 646, provided that: “This Act [amending this section] shall take effect at 2 o’clock antemeridian of the second Monday following the date of its enactment.”
 
-### § 265. Transfer of certain territory to standard central-time zone
+### § 265. Transfer of certain territory to standard central-time zone
 
 The Panhandle and Plains sections of Texas and Oklahoma are transferred to and placed within the United States standard central-time zone.
 
@@ -1129,7 +1129,7 @@ The Secretary of Transportation is authorized and directed to issue an order pla
 
 Beginning at a point where such western boundary time zone line crosses the State boundary line between Kansas and Oklahoma; thence westerly along said State boundary line to the northwest corner of the State of Oklahoma; thence in a southerly direction along the west State boundary line of Oklahoma and the west State boundary line of Texas to the southeastern corner of the State of New Mexico; thence in a westerly direction along the State boundary line between the States of Texas and New Mexico to the Rio Grande River; thence down the Rio Grande River as the boundary line between the United States and Mexico: *Provided*, That the Chicago, Rock Island and Gulf Railway Company and the Chicago, Rock Island and Pacific Railway Company may use Tucumcari, New Mexico, as the point at which they change from central to mountain time and vice versa; the Colorado Southern and Fort Worth and Denver City Railway Companies may use Sixela, New Mexico, as such changing point; the Atchison, Topeka and Santa Fe Railway Company and other branches of the Santa Fe system may use Clovis, New Mexico, as such changing point, and those railways running into or through El Paso may use El Paso as such point: *Provided further*, That this section shall not, except as herein provided, interfere with the adjustment of time zones as established by the Secretary of Transportation.
 
-(Mar. 4, 1921, ch. 173, § 1, 41 Stat. 1446; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
+(Mar. 4, 1921, ch. 173, § 1, 41 Stat. 1446; Pub. L. 97–449, § 2(c), Jan. 12, 1983, 96 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -1147,11 +1147,11 @@ Section 2 of act Mar. 4, 1921, repealed all conflicting laws and parts of laws.
 
 Pub. L. 91–228, Apr. 10, 1970, 84 Stat. 119, provided: “That, notwithstanding the first section of the Act of March 4, 1921 (15 U.S.C. 265), the Secretary of Transportation may, upon the written request of the County Commissioners Court of El Paso County, Texas, change the boundary line between the central standard time zone and the mountain standard time zone, so as to place El Paso County in the mountain standard time zone, in the manner prescribed in section 1 of the Act of March 19, 1918, as amended (15 U.S.C. 261), and section 5 of the Act of April 13, 1966 (15 U.S.C. 266). In the same manner, the Secretary of Transportation may also place Hudspeth County, Texas, in the mountain standard time zone, if the Hudspeth County Commissioners Court so requests in writing and if El Paso County is to be placed in that time zone.”
 
-### § 266. Applicability of administrative procedure provisions
+### § 266. Applicability of administrative procedure provisions
 
 Subchapter II of chapter 5, and chapter 7, of title 5 shall apply to all proceedings under this Act, sections 261 to 264 of this title, and section 265 of this title.
 
-(Pub. L. 89–387, § 5, Apr. 13, 1966, 80 Stat. 108.)
+(Pub. L. 89–387, § 5, Apr. 13, 1966, 80 Stat. 108.)
 
 **Editorial Notes**
 
@@ -1161,13 +1161,13 @@ This Act, referred to in text, is Pub. L. 89–387, Apr. 13, 1966, 80 Stat. 107,
 
 **Codification**
 
-“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “The Administrative Procedure Act (5 U.S.C. 1001–1011)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “The Administrative Procedure Act (5 U.S.C. 1001–1011)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-### § 267. “State” defined
+### § 267. “State” defined
 
 As used in this Act, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or any possession of the United States.
 
-(Pub. L. 89–387, § 7, Apr. 13, 1966, 80 Stat. 109; Pub. L. 106–564, § 1(c), Dec. 23, 2000, 114 Stat. 2811.)
+(Pub. L. 89–387, § 7, Apr. 13, 1966, 80 Stat. 109; Pub. L. 106–564, § 1(c), Dec. 23, 2000, 114 Stat. 2811.)
 
 **Editorial Notes**
 

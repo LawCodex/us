@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1097(b)(1)(A), Dec. 12, 2017, 131 Stat. 1616, struck out item 2307 “Information on whistleblower protections”.
+2017—Pub. L. 115–91, div. A, title X, § 1097(b)(1)(A), Dec. 12, 2017, 131 Stat. 1616, struck out item 2307 “Information on whistleblower protections”.
 
-Pub. L. 115–73, title I, § 107(c), Oct. 26, 2017, 131 Stat. 1240, added item 2307.
+Pub. L. 115–73, title I, § 107(c), Oct. 26, 2017, 131 Stat. 1240, added item 2307.
 
-2012—Pub. L. 112–199, § 109(b), Nov. 27, 2012, 126 Stat. 1471, added items 2304 to 2306 and struck out former items 2304 “Responsibility of the Government Accountability Office” and 2305 “Coordination with certain other provisions of law”.
+2012—Pub. L. 112–199, § 109(b), Nov. 27, 2012, 126 Stat. 1471, added items 2304 to 2306 and struck out former items 2304 “Responsibility of the Government Accountability Office” and 2305 “Coordination with certain other provisions of law”.
 
-2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
+2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
 
-## § 2301. Merit system principles
+## § 2301. Merit system principles
 
 **(a)** This section shall apply to—
 
@@ -71,7 +71,7 @@ Pub. L. 115–73, title I, § 107(c), Oct. 26, 2017, 131 Stat. 1240, added ite
 
 which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.
 
-(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1113; amended Pub. L. 101–474, § 5(c), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1113; amended Pub. L. 101–474, § 5(c), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Training for Supervisors**
 
-Pub. L. 115–73, title I, § 106, Oct. 26, 2017, 131 Stat. 1238, provided that:
+Pub. L. 115–73, title I, § 106, Oct. 26, 2017, 131 Stat. 1238, provided that:
 
 > “In consultation with the Special Counsel and the Inspector General of the agency (or senior ethics official of the agency for an agency without an Inspector General), the head of each agency shall provide training regarding how to respond to complaints alleging a violation of whistleblower protections (as defined in [former] section 2307 of title 5, United States Code, as added by section 107) available to employees of the agency—
 
@@ -103,7 +103,7 @@ Pub. L. 115–73, title I, § 106, Oct. 26, 2017, 131 Stat. 1238, provided tha
 
 **Notification and Federal Employee Antidiscrimination and Retaliation**
 
-Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 116–283, div. A, title XI, §§ 1132–1134(a)(1), (b), 1135–1137, Jan. 1, 2021, 134 Stat. 3900–3903, provided that:
+Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 116–283, div. A, title XI, §§ 1132–1134(a)(1), (b), 1135–1137, Jan. 1, 2021, 134 Stat. 3900–3903, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -543,17 +543,17 @@ Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435,
 
 > **“(d) Special Counsel Approval.—** A Federal agency may not take disciplinary action against a Federal employee for an alleged act of discrimination (including retaliation) referred by the Commission under this section, except in accordance with the requirements of section 1214(f) of title 5, United States Code.”
 
-[Pub. L. 116–283, div. A, title XI, § 1134(a)(2), Jan. 1, 2021, 134 Stat. 3901, provided that: “The amendment made by paragraph (1)(C) [amending section 203(a) of Pub. L. 107–174, set out above] shall take effect on the date that is 1 year after the date of enactment of this Act [Jan. 1, 2021].” ]
+[Pub. L. 116–283, div. A, title XI, § 1134(a)(2), Jan. 1, 2021, 134 Stat. 3901, provided that: “The amendment made by paragraph (1)(C) [amending section 203(a) of Pub. L. 107–174, set out above] shall take effect on the date that is 1 year after the date of enactment of this Act [Jan. 1, 2021].” ]
 
 [For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.]
 
 [For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.]
 
-[Pub. L. 116–283, div. A, title XI, § 1134(a)(3), Jan. 1, 2021, 134 Stat. 3901, provided that: “Notwithstanding the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 [Pub. L. 107–174] (5 U.S.C. 2301 note) [set out above], the report required under such section 203(a) may be submitted in an electronic format, as prescribed by the Director of the Office of Personnel Management, during the period beginning on the date of enactment of this Act [Jan. 1, 2021] and ending on the effective date in paragraph (2) [1 year after the date of enactment of this Act].” ]
+[Pub. L. 116–283, div. A, title XI, § 1134(a)(3), Jan. 1, 2021, 134 Stat. 3901, provided that: “Notwithstanding the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 [Pub. L. 107–174] (5 U.S.C. 2301 note) [set out above], the report required under such section 203(a) may be submitted in an electronic format, as prescribed by the Director of the Office of Personnel Management, during the period beginning on the date of enactment of this Act [Jan. 1, 2021] and ending on the effective date in paragraph (2) [1 year after the date of enactment of this Act].” ]
 
 [Memorandum of President of the United States, July 8, 2003, 68 F.R. 45155, delegated to Director of Office of Personnel Management authority of President under section 204(a) of Public Law 107–174, set out above.]
 
-## § 2302. Prohibited personnel practices
+## § 2302. Prohibited personnel practices
 
 **(a)**
 
@@ -669,7 +669,7 @@ if such disclosure is not specifically prohibited by law and if such information
 
 **(II)** does not reveal intelligence sources and methods.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(9)** take or fail to take, or threaten to take or fail to take, any personnel action against any employee or applicant for employment because of—
 
@@ -771,9 +771,9 @@ This subsection shall not be construed to authorize the withholding of informati
 
 **(E)** Sections 106(f),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-7281(e), and 7802(5) 2 of title 38.
+7281(e), and 7802(5) 2 of title 38.
 
 **(F)** Section 1005(a) of title 39.
 
@@ -803,7 +803,7 @@ This subsection shall not be construed to authorize the withholding of informati
 
 **(2)** If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigate and disclose wrongdoing (referred to in this paragraph as the “disclosing employee”), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
 
-(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, § 4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, § 5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, § 2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, § 8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, § 501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, § 5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, § 315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, § 1122(a)(1), title XVI, § 1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, § 6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§ 101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, § 505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, § 238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, § 2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§ 103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, § 1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618; Pub. L. 116–92, div. E, title LVII, § 5721, Dec. 20, 2019, 133 Stat. 2175; Pub. L. 116–283, div. A, title XI, § 1138, Jan. 1, 2021, 134 Stat. 3905.)
+(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, § 4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, § 5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, § 2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, § 8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, § 501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, § 5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, § 315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, § 1122(a)(1), title XVI, § 1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, § 6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§ 101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, § 505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, § 238, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 115–40, § 2, June 14, 2017, 131 Stat. 861; Pub. L. 115–73, title I, §§ 103, 107(a)(1), Oct. 26, 2017, 131 Stat. 1236, 1238; Pub. L. 115–91, div. A, title X, § 1097(b)(1)(B), (c)(1), Dec. 12, 2017, 131 Stat. 1616, 1618; Pub. L. 116–92, div. E, title LVII, § 5721, Dec. 20, 2019, 133 Stat. 2175; Pub. L. 116–283, div. A, title XI, § 1138, Jan. 1, 2021, 134 Stat. 3905.)
 
 **Editorial Notes**
 
@@ -815,29 +815,29 @@ Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)
 
 Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subsequent to the enactment of subsec. (e) of this section.
 
-Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, § 304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
+Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, § 304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 **Amendments**
 
 2021—Subsec. (b)(13). Pub. L. 116–283 substituted “agreement—” for “agreement”, designated remainder of existing provisions as subpar. (A), inserted “or the Office of Special Counsel” after “Inspector General”, and added subpar. (B).
 
-2019—Subsec. (b)(8)(C). Pub. L. 116–92, § 5721(1), added subpar. (C).
+2019—Subsec. (b)(8)(C). Pub. L. 116–92, § 5721(1), added subpar. (C).
 
-Subsec. (c)(2)(C)(iii)(III). Pub. L. 116–92, § 5721(2), inserted “(including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods)” after “Congress”.
+Subsec. (c)(2)(C)(iii)(III). Pub. L. 116–92, § 5721(2), inserted “(including any committee of Congress with respect to information that is not classified or, if classified, has been classified by the head of an agency that is not an element of the intelligence community and does not reveal intelligence sources and methods)” after “Congress”.
 
-2017—Subsec. (b)(9)(C). Pub. L. 115–91, § 1097(c)(1)(A), inserted “(or any other component responsible for internal investigation or review)” after “Inspector General”.
+2017—Subsec. (b)(9)(C). Pub. L. 115–91, § 1097(c)(1)(A), inserted “(or any other component responsible for internal investigation or review)” after “Inspector General”.
 
-Subsec. (b)(9)(D). Pub. L. 115–40 struck out “for” after “(D)” and inserted “, rule, or regulation” after “a law”.
+Subsec. (b)(9)(D). Pub. L. 115–40 struck out “for” after “(D)” and inserted “, rule, or regulation” after “a law”.
 
-Subsec. (b)(14). Pub. L. 115–73, § 103, added par. (14).
+Subsec. (b)(14). Pub. L. 115–73, § 103, added par. (14).
 
-Subsecs. (c) to (f). Pub. L. 115–91, § 1097(b)(1)(B), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+Subsecs. (c) to (f). Pub. L. 115–91, § 1097(b)(1)(B), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-Pub. L. 115–73, § 107(a)(1), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: “The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.”
+Pub. L. 115–73, § 107(a)(1), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: “The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.”
 
-Subsec. (f)(1)(F), (G). Pub. L. 115–91, § 1097(c)(1)(B)(i), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (f)(1)(F), (G). Pub. L. 115–91, § 1097(c)(1)(B)(i), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (f)(2). Pub. L. 115–91, § 1097(c)(1)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: “If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.”
+Subsec. (f)(2). Pub. L. 115–91, § 1097(c)(1)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: “If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.”
 
 2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–113 inserted “or under title 38” after “chapter 43 of this title”.
 
@@ -847,65 +847,65 @@ Subsec. (f)(2). Pub. L. 115–91, § 1097(c)(1)(B)(ii), added par. (2) and str
 
 “(II) as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities, provided that the determination be made prior to a personnel action; or”.
 
-2012—Subsec. (a)(2)(A)(xi), (xii). Pub. L. 112–199, § 104(a), added cl. (xi) and redesignated former cl. (xi) as (xii).
+2012—Subsec. (a)(2)(A)(xi), (xii). Pub. L. 112–199, § 104(a), added cl. (xi) and redesignated former cl. (xi) as (xii).
 
-Subsec. (a)(2)(C)(i). Pub. L. 112–199, § 101(b)(1)(B), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “(b)(8)”.
+Subsec. (a)(2)(C)(i). Pub. L. 112–199, § 101(b)(1)(B), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “(b)(8)”.
 
-Subsec. (a)(2)(C)(ii). Pub. L. 112–199, § 105, added cl. (ii) and struck out former cl. (ii) which read as follows: “the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or”.
+Subsec. (a)(2)(C)(ii). Pub. L. 112–199, § 105, added cl. (ii) and struck out former cl. (ii) which read as follows: “the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or”.
 
-Subsec. (a)(2)(D). Pub. L. 112–199, § 102, added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 112–199, § 102, added subpar. (D).
 
-Subsec. (b). Pub. L. 112–199, § 103, amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.”
+Subsec. (b). Pub. L. 112–199, § 103, amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.”
 
-Subsec. (b)(8)(A)(i). Pub. L. 112–199, § 101(a)(1), substituted “any violation” for “a violation”.
+Subsec. (b)(8)(A)(i). Pub. L. 112–199, § 101(a)(1), substituted “any violation” for “a violation”.
 
-Subsec. (b)(8)(B)(i). Pub. L. 112–199, § 101(a)(2), substituted “any violation (other than a violation of this section)” for “a violation”.
+Subsec. (b)(8)(B)(i). Pub. L. 112–199, § 101(a)(2), substituted “any violation (other than a violation of this section)” for “a violation”.
 
-Subsec. (b)(9)(A). Pub. L. 112–199, § 101(b)(2)(B)(i), added subpar. (A) and struck out former subpar. (A) read as follows: “the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;”.
+Subsec. (b)(9)(A). Pub. L. 112–199, § 101(b)(2)(B)(i), added subpar. (A) and struck out former subpar. (A) read as follows: “the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;”.
 
-Subsec. (b)(9)(B). Pub. L. 112–199, § 101(b)(2)(B)(ii), inserted “(i) or (ii)” after “subparagraph (A)”.
+Subsec. (b)(9)(B). Pub. L. 112–199, § 101(b)(2)(B)(ii), inserted “(i) or (ii)” after “subparagraph (A)”.
 
-Subsec. (b)(13). Pub. L. 112–199, § 104(b)(1), added par. (13).
+Subsec. (b)(13). Pub. L. 112–199, § 104(b)(1), added par. (13).
 
-Subsec. (c). Pub. L. 112–199, § 112, inserted “, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures” after “chapter 12 of this title”.
+Subsec. (c). Pub. L. 112–199, § 112, inserted “, including how to make a lawful disclosure of information that is specifically required by law or Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs to the Special Counsel, the Inspector General of an agency, Congress, or other agency employee designated to receive such disclosures” after “chapter 12 of this title”.
 
-Subsec. (f). Pub. L. 112–199, § 101(b)(2)(C), added subsec. (f).
+Subsec. (f). Pub. L. 112–199, § 101(b)(2)(C), added subsec. (f).
 
 2008—Subsec. (a)(2)(C)(ii). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2004—Subsec. (a)(2)(C)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (a)(1). Pub. L. 105–339, § 6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
+1998—Subsec. (a)(1). Pub. L. 105–339, § 6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
 
 “(A) Any action described in subsection (b) of this section.
 
 “(B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.”
 
-Subsec. (b)(10) to (12). Pub. L. 105–339, § 6(a), struck out “or” at end of par. (10), added par. (11), and redesignated former par. (11) as (12).
+Subsec. (b)(10) to (12). Pub. L. 105–339, § 6(a), struck out “or” at end of par. (10), added par. (11), and redesignated former par. (11) as (12).
 
-Subsec. (e). Pub. L. 105–339, § 6(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–339, § 6(b), added subsec. (e).
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
+1996—Subsec. (a)(1). Pub. L. 104–201, § 1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
 
-Subsec. (a)(2)(C)(ii). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+Subsec. (a)(2)(C)(ii). Pub. L. 104–201, § 1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 Subsec. (b)(2). Pub. L. 104–197 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action except as provided under section 3303(f);”.
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–424, § 5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
+1994—Subsec. (a)(2)(A). Pub. L. 103–424, § 5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
 
-Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, § 5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee’s salary or grade level;”.
+Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, § 5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee’s salary or grade level;”.
 
-Subsec. (a)(2)(B). Pub. L. 103–424, § 5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
+Subsec. (a)(2)(B). Pub. L. 103–424, § 5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
 
 “(i) a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
 “(ii) any position excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration.”
 
-Subsec. (a)(2)(C)(i). Pub. L. 103–424, § 5(c), inserted before semicolon “, except in the case of an alleged prohibited personnel practice described under subsection (b)(8)”.
+Subsec. (a)(2)(C)(i). Pub. L. 103–424, § 5(c), inserted before semicolon “, except in the case of an alleged prohibited personnel practice described under subsection (b)(8)”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-Subsec. (c). Pub. L. 103–424, § 5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
+Subsec. (c). Pub. L. 103–424, § 5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
 
 1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
@@ -915,11 +915,11 @@ Subsec. (c). Pub. L. 103–424, § 5(d), inserted before period at end of firs
 
 1992—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
 
-1990—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+1990—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
-1989—Subsec. (b)(8). Pub. L. 101–12, § 4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
+1989—Subsec. (b)(8). Pub. L. 101–12, § 4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
 
-Subsec. (b)(9). Pub. L. 101–12, § 4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
+Subsec. (b)(9). Pub. L. 101–12, § 4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -935,7 +935,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
-Pub. L. 104–197, title III, § 315(c), Sept. 16, 1996, 110 Stat. 2416, provided that: “This section [amending this section and section 3303 of this title] shall take effect 30 days after the date of the enactment of this Act [Sept. 16, 1996].”
+Pub. L. 104–197, title III, § 315(c), Sept. 16, 1996, 110 Stat. 2416, provided that: “This section [amending this section and section 3303 of this title] shall take effect 30 days after the date of the enactment of this Act [Sept. 16, 1996].”
 
 **Effective Date of 1993 Amendment; Savings Provision**
 
@@ -947,17 +947,17 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **Savings Provision**
 
-Pub. L. 112–199, title II, § 201, Nov. 27, 2012, 126 Stat. 1475, provided that: “Nothing in this Act [see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title] shall be construed to imply any limitation on any protections afforded by any other provision of law to employees and applicants.”
+Pub. L. 112–199, title II, § 201, Nov. 27, 2012, 126 Stat. 1475, provided that: “Nothing in this Act [see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title] shall be construed to imply any limitation on any protections afforded by any other provision of law to employees and applicants.”
 
-Pub. L. 105–339, § 6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section [amending this section and repealing section 1599c of Title 10, Armed Forces] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act [Oct. 31, 1998].”
+Pub. L. 105–339, § 6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section [amending this section and repealing section 1599c of Title 10, Armed Forces] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act [Oct. 31, 1998].”
 
 **Agency Websites**
 
-Pub. L. 112–199, title I, § 104(b)(2), Nov. 27, 2012, 126 Stat. 1467, provided that: “Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions.”
+Pub. L. 112–199, title I, § 104(b)(2), Nov. 27, 2012, 126 Stat. 1467, provided that: “Agencies making use of any nondisclosure policy, form, or agreement shall also post the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) on the agency website, accompanied by the specific list of controlling Executive orders and statutory provisions.”
 
 **Nondisclosure Policy, Form, or Agreement in Effect Before the Effective Date**
 
-Pub. L. 112–199, title I, § 104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided that:
+Pub. L. 112–199, title I, § 104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided that:
 
 > “With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act [see Effective Date of 2012 Amendment note above], but that does not contain the statement required under section 2302(b)(13) of title 5, United States Code (as added by this Act) for implementation or enforcement—
 
@@ -967,7 +967,7 @@ Pub. L. 112–199, title I, § 104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provi
 
 **Disclosure of Censorship Related to Research, Analysis, or Technical Information**
 
-Pub. L. 112–199, title I, § 110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, § 107(a)(2)(C), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
+Pub. L. 112–199, title I, § 110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, § 107(a)(2)(C), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
 
 > **“(a) Definitions.—** In this subsection—
 
@@ -1013,7 +1013,7 @@ Pub. L. 112–199, title I, § 110, Nov. 27, 2012, 126 Stat. 1471, as amended 
 
 **Nondisclosure Policies, Forms, and Agreements**
 
-Pub. L. 112–199, title I, § 115, Nov. 27, 2012, 126 Stat. 1472, provided that:
+Pub. L. 112–199, title I, § 115, Nov. 27, 2012, 126 Stat. 1472, provided that:
 
 > **“(a) In General.—**
 
@@ -1119,7 +1119,7 @@ Sec. 6. *Publication*. The Director of OPM is hereby authorized and directed to 
 
 Barack Obama.
 
-## § 2303. Prohibited personnel practices in the Federal Bureau of Investigation
+## § 2303. Prohibited personnel practices in the Federal Bureau of Investigation
 
 **(a)** Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—
 
@@ -1159,7 +1159,7 @@ For the purpose of this subsection, “personnel action” means any action desc
 
 **(2)** If no final determination or corrective action order has been made or issued for an allegation described in paragraph (1) before the expiration of the 180-day period beginning on the date on which the allegation is received by the Federal Bureau of Investigation, the employee described in that paragraph may seek corrective action directly from the Merit Systems Protection Board pursuant to section 1221.
 
-(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, § 9(a)(1), Apr. 10, 1989, 103 Stat. 34; Pub. L. 114–302, § 2, Dec. 16, 2016, 130 Stat. 1516; Pub. L. 117–263, div. E, title LIII, § 5304(a), Dec. 23, 2022, 136 Stat. 3250.)
+(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, § 9(a)(1), Apr. 10, 1989, 103 Stat. 34; Pub. L. 114–302, § 2, Dec. 16, 2016, 130 Stat. 1516; Pub. L. 117–263, div. E, title LIII, § 5304(a), Dec. 23, 2022, 136 Stat. 3250.)
 
 **Editorial Notes**
 
@@ -1183,7 +1183,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **Whistleblower Protections for Federal Bureau of Investigation Contractors**
 
-Pub. L. 115–118, title I, § 110(b), Jan. 19, 2018, 132 Stat. 16, provided that:
+Pub. L. 115–118, title I, § 110(b), Jan. 19, 2018, 132 Stat. 16, provided that:
 
 > **“(1) In general.—** Any employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to a contractor employee as a reprisal for a disclosure of information—
 
@@ -1237,7 +1237,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-## § 2304. Prohibited personnel practices affecting the Transportation Security Administration
+## § 2304. Prohibited personnel practices affecting the Transportation Security Administration
 
 **(a) In General.—** Notwithstanding any other provision of law, any individual holding or applying for a position within the Transportation Security Administration shall be covered by—
 
@@ -1249,7 +1249,7 @@ William J. Clinton.
 
 **(b) Rule of Construction.—** Nothing in this section shall be construed to affect any rights, apart from those described in subsection (a), to which an individual described in subsection (a) might otherwise be entitled under law.
 
-(Added Pub. L. 112–199, title I, § 109(a)(2), Nov. 27, 2012, 126 Stat. 1470.)
+(Added Pub. L. 112–199, title I, § 109(a)(2), Nov. 27, 2012, 126 Stat. 1470.)
 
 **Editorial Notes**
 
@@ -1261,13 +1261,13 @@ A prior section 2304 was renumbered section 2305 of this title.
 
 **Effective Date**
 
-Pub. L. 112–199, title I, § 109(c), Nov. 27, 2012, 126 Stat. 1471, provided that: “The amendments made by this section [enacting this section and renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title] shall take effect on the date of enactment of this section [Nov. 27, 2012].”
+Pub. L. 112–199, title I, § 109(c), Nov. 27, 2012, 126 Stat. 1471, provided that: “The amendments made by this section [enacting this section and renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title] shall take effect on the date of enactment of this section [Nov. 27, 2012].”
 
-## § 2305. Responsibility of the Government Accountability Office
+## § 2305. Responsibility of the Government Accountability Office
 
 If requested by either House of the Congress (or any committee thereof), or if considered necessary by the Comptroller General, the Government Accountability Office shall conduct audits and reviews to assure compliance with the laws, rules, and regulations governing employment in the executive branch and in the competitive service and to assess the effectiveness and soundness of Federal personnel management.
 
-(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1118, § 2304; amended Pub. L. 102–378, § 2(6), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 104–66, title II, § 2181(e), Dec. 21, 1995, 109 Stat. 732; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; renumbered § 2305, Pub. L. 112–199, title I, § 109(a)(1), Nov. 27, 2012, 126 Stat. 1470.)
+(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1118, § 2304; amended Pub. L. 102–378, § 2(6), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 104–66, title II, § 2181(e), Dec. 21, 1995, 109 Stat. 732; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; renumbered § 2305, Pub. L. 112–199, title I, § 109(a)(1), Nov. 27, 2012, 126 Stat. 1470.)
 
 **Editorial Notes**
 
@@ -1289,32 +1289,32 @@ A prior section 2305 was renumbered section 2306 of this title.
 
 1992—Subsec. (b). Pub. L. 102–378 substituted “The” for “the” at beginning of first sentence.
 
-## § 2306. Coordination with certain other provisions of law
+## § 2306. Coordination with certain other provisions of law
 
 No provision of this chapter, or action taken under this chapter, shall be construed to impair the authorities and responsibilities set forth in section 102 of the National Security Act of 1947 (61 Stat. 495; 50 U.S.C. 403),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Central Intelligence Agency Act of 1949 (63 Stat. 208; 50 U.S.C. 403a and following),1 the Act entitled “An Act to provide certain administrative authorities for the National Security Agency, and for other purposes”, approved May 29, 1959 (73 Stat. 63; 50 U.S.C. 402 note),1 and the Act entitled “An Act to amend the Internal Security Act of 1950”, approved March 26, 1964 (78 Stat. 168; 50 U.S.C. 831–835).
 
-(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1118, § 2305; renumbered § 2306, Pub. L. 112–199, title I, § 109(a)(1), Nov. 27, 2012, 126 Stat. 1470.)
+(Added Pub. L. 95–454, title I, § 101(a), Oct. 13, 1978, 92 Stat. 1118, § 2305; renumbered § 2306, Pub. L. 112–199, title I, § 109(a)(1), Nov. 27, 2012, 126 Stat. 1470.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 102 of the Act was repealed by Pub. L. 104–293, title VIII, § 805(a), Oct. 11, 1996, 110 Stat. 3477, another section 102 was repealed by Pub. L. 108–458, title I, §§ 1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, and subsequently another section 102, as added by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644, was classified to section 403 of Title 50 prior to editorial reclassification to section 3023 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 102 of the Act was repealed by Pub. L. 104–293, title VIII, § 805(a), Oct. 11, 1996, 110 Stat. 3477, another section 102 was repealed by Pub. L. 108–458, title I, §§ 1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, and subsequently another section 102, as added by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644, was classified to section 403 of Title 50 prior to editorial reclassification to section 3023 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in text, is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in text, is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Act entitled “An Act to provide certain administrative authorities for the National Security Agency, and for other purposes”, approved May 29, 1959, referred to in text, is Pub. L. 86–36, May 29, 1959, 73 Stat. 63, which was formerly set out as a note under section 402 of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 47 (§ 3601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act to provide certain administrative authorities for the National Security Agency, and for other purposes”, approved May 29, 1959, referred to in text, is Pub. L. 86–36, May 29, 1959, 73 Stat. 63, which was formerly set out as a note under section 402 of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 47 (§ 3601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Act entitled “An Act to amend the Internal Security Act of 1950”, approved March 26, 1964, referred to in text, is act Sept. 23, 1950, ch. 1024, title III, as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 168, which is classified principally to subchapter III (§ 831 et seq.) of chapter 23 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act to amend the Internal Security Act of 1950”, approved March 26, 1964, referred to in text, is act Sept. 23, 1950, ch. 1024, title III, as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 168, which is classified principally to subchapter III (§ 831 et seq.) of chapter 23 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2012—Pub. L. 112–199 renumbered section 2305 of this title as this section.
 
-## [§ 2307. Repealed. Pub. L. 115–91, div. A, title X, § 1097(b)(1)(A), Dec. 12, 2017, 131 Stat. 1616]
+## [§ 2307. Repealed. Pub. L. 115–91, div. A, title X, § 1097(b)(1)(A), Dec. 12, 2017, 131 Stat. 1616]
 
-Section, added Pub. L. 115–73, title I, § 107(b), Oct. 26, 2017, 131 Stat. 1239, related to information on whistleblower protections and agency responsibilities.
+Section, added Pub. L. 115–73, title I, § 107(b), Oct. 26, 2017, 131 Stat. 1239, related to information on whistleblower protections and agency responsibilities.

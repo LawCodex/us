@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 87B—MODERNIZING ACCESS TO PUBLIC WATERS
 
-## § 6871. Definitions
+## § 6871. Definitions
 
 In this chapter:
 
@@ -53,21 +53,21 @@ The term “Federal waterway restriction” means a restriction on the access or
 
 The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
 
-(Pub. L. 119–62, § 2, Dec. 26, 2025, 139 Stat. 1979.)
+(Pub. L. 119–62, § 2, Dec. 26, 2025, 139 Stat. 1979.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 119–62, § 1, Dec. 26, 2025, 139 Stat. 1979, provided that: “This Act [enacting this chapter] may be cited as the ‘Modernizing Access to our Public Waters Act of 2025’ or the ‘MAPWaters Act of 2025’.”
+Pub. L. 119–62, § 1, Dec. 26, 2025, 139 Stat. 1979, provided that: “This Act [enacting this chapter] may be cited as the ‘Modernizing Access to our Public Waters Act of 2025’ or the ‘MAPWaters Act of 2025’.”
 
-## § 6872. Interagency data standardization
+## § 6872. Interagency data standardization
 
 Not later than 30 months after December 26, 2025, the Secretaries, in coordination with the Federal Geographic Data Committee established by section 2802(a) of title 43, shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of geospatial data relating to public outdoor recreational access of Federal waterways and Federal fishing restrictions.
 
-(Pub. L. 119–62, § 3, Dec. 26, 2025, 139 Stat. 1979.)
+(Pub. L. 119–62, § 3, Dec. 26, 2025, 139 Stat. 1979.)
 
-## § 6873. Data consolidation and publication
+## § 6873. Data consolidation and publication
 
 **(a) Federal waterway restrictions** Not later than 5 years after December 26, 2025, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway restrictions—
 
@@ -147,9 +147,9 @@ This section shall not apply to irrigation canals and flowage easements.
 
 Any geographic information system data made publicly available under this section shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
 
-(Pub. L. 119–62, § 4, Dec. 26, 2025, 139 Stat. 1980.)
+(Pub. L. 119–62, § 4, Dec. 26, 2025, 139 Stat. 1980.)
 
-## § 6874. Cooperation and coordination
+## § 6874. Cooperation and coordination
 
 **(a) Community partners and third-party providers** For purposes of carrying out this chapter, the Secretaries may—
 
@@ -185,15 +185,15 @@ The Secretaries may work with the Director of the United States Geological Surve
 
 **(3)** other applicable law.
 
-(Pub. L. 119–62, § 5, Dec. 26, 2025, 139 Stat. 1981.)
+(Pub. L. 119–62, § 5, Dec. 26, 2025, 139 Stat. 1981.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Modernizing Access to Our Public Land Act, referred to in subsec. (d)(1), is Pub. L. 117–114, Apr. 29, 2022, 136 Stat. 1175, which is classified generally to chapter 87A (§ 6851 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6851 of this title and Tables.
+The Modernizing Access to Our Public Land Act, referred to in subsec. (d)(1), is Pub. L. 117–114, Apr. 29, 2022, 136 Stat. 1175, which is classified generally to chapter 87A (§ 6851 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6851 of this title and Tables.
 
-## § 6875. Reports
+## § 6875. Reports
 
 Not later than 1 year after December 26, 2025, and annually thereafter through March 30, 2034, the Secretaries shall submit a report that describes the progress made by the Secretaries with respect to meeting the requirements of this chapter to—
 
@@ -207,9 +207,9 @@ Not later than 1 year after December 26, 2025, and annually thereafter through M
 
 **(5)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(Pub. L. 119–62, § 6, Dec. 26, 2025, 139 Stat. 1982.)
+(Pub. L. 119–62, § 6, Dec. 26, 2025, 139 Stat. 1982.)
 
-## § 6876. Effect
+## § 6876. Effect
 
 Nothing in this chapter—
 
@@ -221,4 +221,4 @@ Nothing in this chapter—
 
 **(4)** authorizes or is intended to result in a change in the accessibility of waters open to hunting, fishing, or other forms of outdoor recreation as of December 26, 2025.
 
-(Pub. L. 119–62, § 7, Dec. 26, 2025, 139 Stat. 1982.)
+(Pub. L. 119–62, § 7, Dec. 26, 2025, 139 Stat. 1982.)

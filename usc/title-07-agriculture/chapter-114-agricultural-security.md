@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 114—AGRICULTURAL SECURITY
 
-## § 8901. Definitions
+## § 8901. Definitions
 
 In this chapter:
 
@@ -89,7 +89,7 @@ The term “plant” has the meaning given the term in section 7702 of this titl
 
 The term “qualified agricultural countermeasure” means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.
 
-(Pub. L. 110–234, title XIV, § 14102, May 22, 2008, 122 Stat. 1453; Pub. L. 110–246, § 4(a), title XIV, § 14102, June 18, 2008, 122 Stat. 1664, 2215.)
+(Pub. L. 110–234, title XIV, § 14102, May 22, 2008, 122 Stat. 1453; Pub. L. 110–246, § 4(a), title XIV, § 14102, June 18, 2008, 122 Stat. 1664, 2215.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Short Title**
 
-Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L. 110–246, § 4(a), title XIV, § 14101, June 18, 2008, 122 Stat. 1664, 2215, provided that: “This subtitle [subtitle B (§§ 14101–14122) of title XIV of Pub. L. 110–246, enacting this chapter] may be cited as the ‘Agricultural Security Improvement Act of 2008’.”
+Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L. 110–246, § 4(a), title XIV, § 14101, June 18, 2008, 122 Stat. 1664, 2215, provided that: “This subtitle [subtitle B (§§ 14101–14122) of title XIV of Pub. L. 110–246, enacting this chapter] may be cited as the ‘Agricultural Security Improvement Act of 2008’.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
@@ -115,11 +115,11 @@ Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub.
 
 ## SUBCHAPTER I—AGRICULTURAL SECURITY
 
-### § 8911. Repealed. Pub. L. 115–334, title XII, § 12201, Dec. 20, 2018, 132 Stat. 4944
+### § 8911. Repealed. Pub. L. 115–334, title XII, § 12201, Dec. 20, 2018, 132 Stat. 4944
 
-Section, Pub. L. 110–234, title XIV, § 14111, May 22, 2008, 122 Stat. 1454; Pub. L. 110–246, § 4(a), title XIV, § 14111, June 18, 2008, 122 Stat. 1664, 2216, related to Office of Homeland Security. See section 6922 of this title.
+Section, Pub. L. 110–234, title XIV, § 14111, May 22, 2008, 122 Stat. 1454; Pub. L. 110–246, § 4(a), title XIV, § 14111, June 18, 2008, 122 Stat. 1664, 2216, related to Office of Homeland Security. See section 6922 of this title.
 
-### § 8912. Agricultural biosecurity communication center
+### § 8912. Agricultural biosecurity communication center
 
 **(a) Establishment** The Secretary shall establish a communication center within the Department to—
 
@@ -143,7 +143,7 @@ Paragraph (1) shall not be construed to impede, conflict with, or duplicate the 
 
 **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 110–234, title XIV, § 14112, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14112, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7501, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7401, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title XIV, § 14112, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14112, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7501, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7401, Dec. 20, 2018, 132 Stat. 4817.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 8913. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response
+### § 8913. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response
 
 **(a) Advanced training programs**
 
@@ -193,7 +193,7 @@ The Secretary shall establish a competitive grant and low-interest loan assistan
 
 **(B)** $15,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 110–234, title XIV, § 14113, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14113, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7502, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7402, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title XIV, § 14113, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14113, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7502, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7402, Dec. 20, 2018, 132 Stat. 4817.)
 
 **Editorial Notes**
 
@@ -203,13 +203,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Subsec. (a)(2)(B). Pub. L. 115–334, § 7402(1), substituted “2023” for “2018”.
+2018—Subsec. (a)(2)(B). Pub. L. 115–334, § 7402(1), substituted “2023” for “2018”.
 
-Subsec. (b)(2)(B). Pub. L. 115–334, § 7402(2), substituted “2023” for “2018”.
+Subsec. (b)(2)(B). Pub. L. 115–334, § 7402(2), substituted “2023” for “2018”.
 
-2014—Subsec. (a)(2). Pub. L. 113–79, § 7502(1), struck out “such sums as may be necessary” after “Secretary”, substituted “subsection—” for “subsection for each of fiscal years 2008 through 2012.”, and added subpars. (A) and (B).
+2014—Subsec. (a)(2). Pub. L. 113–79, § 7502(1), struck out “such sums as may be necessary” after “Secretary”, substituted “subsection—” for “subsection for each of fiscal years 2008 through 2012.”, and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 113–79, § 7502(2), substituted “are authorized to be appropriated to carry out this subsection—” for “is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2008 through 2012.” and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 113–79, § 7502(2), substituted “are authorized to be appropriated to carry out this subsection—” for “is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2008 through 2012.” and added subpars. (A) and (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -221,7 +221,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 8914. Agriculture and food defense
+### § 8914. Agriculture and food defense
 
 **(a) Definitions** In this section:
 
@@ -389,7 +389,7 @@ The Secretary shall seek to establish cooperative agreements with land-grant col
 
 In addition to the amount authorized to carry out this subtitle under section 12205,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
 
@@ -411,7 +411,7 @@ The Secretary shall establish in the Department of Agriculture a National Plant 
 
 **(E)** establish a watch list of high-consequence plant transboundary diseases for the purpose of making long-range plans under subparagraph (B).
 
-(Pub. L. 115–334, title XII, § 12203, Dec. 20, 2018, 132 Stat. 4946.)
+(Pub. L. 115–334, title XII, § 12203, Dec. 20, 2018, 132 Stat. 4946.)
 
 **Editorial Notes**
 
@@ -419,7 +419,7 @@ The Secretary shall establish in the Department of Agriculture a National Plant 
 
 Section 12202, referred to in subsec. (b)(3), means section 12202 of Pub. L. 115–334, title XII, Dec. 20, 2018, 132 Stat. 4944, which enacted section 6922 of this title.
 
-The amount authorized to carry out this subtitle under section 12205, referred to in subsec. (c)(5), means the amount authorized to carry out subtitle B (§§ 12201–12205) of title XII of Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4944, which enacted sections 6922 and 8914 of this title, amended section 8401 of this title, and repealed section 8911 of this title, under section 12205 of such Act, which was not classified to the Code.
+The amount authorized to carry out this subtitle under section 12205, referred to in subsec. (c)(5), means the amount authorized to carry out subtitle B (§§ 12201–12205) of title XII of Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4944, which enacted sections 6922 and 8914 of this title, amended section 8401 of this title, and repealed section 8911 of this title, under section 12205 of such Act, which was not classified to the Code.
 
 **Codification**
 
@@ -433,7 +433,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 ## SUBCHAPTER II—OTHER PROVISIONS
 
-### § 8921. Research and development of agricultural countermeasures
+### § 8921. Research and development of agricultural countermeasures
 
 **(a) Grant program**
 
@@ -453,15 +453,15 @@ The Secretary shall establish a competitive grant program to encourage basic and
 
 **(2)** $15,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 110–234, title XIV, § 14121, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14121, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7503, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7403, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title XIV, § 14121, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, § 4(a), title XIV, § 14121, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, § 7503, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, § 7403, Dec. 20, 2018, 132 Stat. 4817.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Protection Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Animal Health Protection Act, referred to in subsec. (a)(2)(A), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (a)(2)(A), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -483,7 +483,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 8922. Agricultural biosecurity grant program
+### § 8922. Agricultural biosecurity grant program
 
 **(a) Competitive grant program**
 
@@ -529,7 +529,7 @@ Funds received under this section may not be used for the construction, renovati
 
 **(2)** $5,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
-(Pub. L. 110–234, title XIV, § 14122, May 22, 2008, 122 Stat. 1456; Pub. L. 110–246, § 4(a), title XIV, § 14122, June 18, 2008, 122 Stat. 1664, 2218; Pub. L. 113–79, title VII, § 7504, Feb. 7, 2014, 128 Stat. 901; Pub. L. 115–334, title VII, § 7404, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title XIV, § 14122, May 22, 2008, 122 Stat. 1456; Pub. L. 110–246, § 4(a), title XIV, § 14122, June 18, 2008, 122 Stat. 1664, 2218; Pub. L. 113–79, title VII, § 7504, Feb. 7, 2014, 128 Stat. 901; Pub. L. 115–334, title VII, § 7404, Dec. 20, 2018, 132 Stat. 4817.)
 
 **Editorial Notes**
 

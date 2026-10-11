@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—NONADMITTED INSURANCE
 
-### § 8201. Reporting, payment, and allocation of premium taxes
+### § 8201. Reporting, payment, and allocation of premium taxes
 
 **(a) Home State’s exclusive authority**
 
@@ -47,19 +47,19 @@ The Congress intends that each State adopt nationwide uniform requirements, form
 
 To facilitate the payment of premium taxes among the States, an insured’s home State may require surplus lines brokers and insureds who have independently procured insurance to annually file tax allocation reports with the insured’s home State detailing the portion of the nonadmitted insurance policy premium or premiums attributable to properties, risks, or exposures located in each State. The filing of a nonadmitted insurance tax allocation report and the payment of tax may be made by a person authorized by the insured to act as its agent.
 
-(Pub. L. 111–203, title V, § 521, July 21, 2010, 124 Stat. 1589.)
+(Pub. L. 111–203, title V, § 521, July 21, 2010, 124 Stat. 1589.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title V, § 512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle [see Short Title note below], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle [July 21, 2010].”
+Pub. L. 111–203, title V, § 512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle [see Short Title note below], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle [July 21, 2010].”
 
 **Short Title**
 
-Pub. L. 111–203, title V, § 511, July 21, 2010, 124 Stat. 1589, provided that: “This subtitle [subtitle B (§§ 511–542) of title V of Pub. L. 111–203, enacting this chapter and provisions set out as a note under this section] may be cited as the ‘Nonadmitted and Reinsurance Reform Act of 2010’.”
+Pub. L. 111–203, title V, § 511, July 21, 2010, 124 Stat. 1589, provided that: “This subtitle [subtitle B (§§ 511–542) of title V of Pub. L. 111–203, enacting this chapter and provisions set out as a note under this section] may be cited as the ‘Nonadmitted and Reinsurance Reform Act of 2010’.”
 
-### § 8202. Regulation of nonadmitted insurance by insured’s home State
+### § 8202. Regulation of nonadmitted insurance by insured’s home State
 
 **(a) Home State authority**
 
@@ -77,15 +77,15 @@ With respect to section 8201 of this title and subsections (a) and (b) of this s
 
 This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers’ compensation insurance or excess insurance for self-funded workers’ compensation plans with a nonadmitted insurer.
 
-(Pub. L. 111–203, title V, § 522, July 21, 2010, 124 Stat. 1590.)
+(Pub. L. 111–203, title V, § 522, July 21, 2010, 124 Stat. 1590.)
 
-### § 8203. Participation in national producer database
+### § 8203. Participation in national producer database
 
 After the expiration of the 2-year period beginning on July 21, 2010, a State may not collect any fees relating to licensing of an individual or entity as a surplus lines broker in the State unless the State has in effect at such time laws or regulations that provide for participation by the State in the national insurance producer database of the NAIC, or any other equivalent uniform national database, for the licensure of surplus lines brokers and the renewal of such licenses.
 
-(Pub. L. 111–203, title V, § 523, July 21, 2010, 124 Stat. 1590.)
+(Pub. L. 111–203, title V, § 523, July 21, 2010, 124 Stat. 1590.)
 
-### § 8204. Uniform standards for surplus lines eligibility
+### § 8204. Uniform standards for surplus lines eligibility
 
 A State may not—
 
@@ -93,9 +93,9 @@ A State may not—
 
 **(2)** prohibit a surplus lines broker from placing nonadmitted insurance with, or procuring nonadmitted insurance from, a nonadmitted insurer domiciled outside the United States that is listed on the Quarterly Listing of Alien Insurers maintained by the International Insurers Department of the NAIC.
 
-(Pub. L. 111–203, title V, § 524, July 21, 2010, 124 Stat. 1590.)
+(Pub. L. 111–203, title V, § 524, July 21, 2010, 124 Stat. 1590.)
 
-### § 8205. Streamlined application for commercial purchasers
+### § 8205. Streamlined application for commercial purchasers
 
 A surplus lines broker seeking to procure or place nonadmitted insurance in a State for an exempt commercial purchaser shall not be required to satisfy any State requirement to make a due diligence search to determine whether the full amount or type of insurance sought by such exempt commercial purchaser can be obtained from admitted insurers if—
 
@@ -103,9 +103,9 @@ A surplus lines broker seeking to procure or place nonadmitted insurance in a St
 
 **(2)** the exempt commercial purchaser has subsequently requested in writing the broker to procure or place such insurance from a nonadmitted insurer.
 
-(Pub. L. 111–203, title V, § 525, July 21, 2010, 124 Stat. 1591.)
+(Pub. L. 111–203, title V, § 525, July 21, 2010, 124 Stat. 1591.)
 
-### § 8206. Definitions
+### § 8206. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -237,7 +237,7 @@ The term “surplus lines broker” means an individual, firm, or corporation wh
 
 The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
 
-(Pub. L. 111–203, title V, § 527, July 21, 2010, 124 Stat. 1591.)
+(Pub. L. 111–203, title V, § 527, July 21, 2010, 124 Stat. 1591.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -247,7 +247,7 @@ For definitions of terms used in this section, see section 5301 of Title 12, Ban
 
 ## SUBCHAPTER II—REINSURANCE
 
-### § 8221. Regulation of credit for reinsurance and reinsurance agreements
+### § 8221. Regulation of credit for reinsurance and reinsurance agreements
 
 **(a) Credit for reinsurance**
 
@@ -263,9 +263,9 @@ If the State of domicile of a ceding insurer is an NAIC-accredited State, or has
 
 **(4)** otherwise apply the laws of the State to reinsurance agreements of ceding insurers not domiciled in that State.
 
-(Pub. L. 111–203, title V, § 531, July 21, 2010, 124 Stat. 1595.)
+(Pub. L. 111–203, title V, § 531, July 21, 2010, 124 Stat. 1595.)
 
-### § 8222. Regulation of reinsurer solvency
+### § 8222. Regulation of reinsurer solvency
 
 **(a) Domiciliary State regulation**
 
@@ -281,9 +281,9 @@ If the State of domicile of a reinsurer is an NAIC-accredited State or has finan
 
 No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.
 
-(Pub. L. 111–203, title V, § 532, July 21, 2010, 124 Stat. 1595.)
+(Pub. L. 111–203, title V, § 532, July 21, 2010, 124 Stat. 1595.)
 
-### § 8223. Definitions
+### § 8223. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -321,28 +321,28 @@ A determination of whether an insurer is a reinsurer shall be made under the law
 
 The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
 
-(Pub. L. 111–203, title V, § 533, July 21, 2010, 124 Stat. 1595.)
+(Pub. L. 111–203, title V, § 533, July 21, 2010, 124 Stat. 1595.)
 
 ## SUBCHAPTER III—RULE OF CONSTRUCTION
 
-### § 8231. Rule of construction
+### § 8231. Rule of construction
 
-Nothing in this chapter or the amendments made by this subtitle 1
+Nothing in this chapter or the amendments made by this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be construed to modify, impair, or supersede the application of the antitrust laws. Any implied or actual conflict between this chapter and any amendments to this chapter and the antitrust laws shall be resolved in favor of the operation of the antitrust laws.
 
-(Pub. L. 111–203, title V, § 541, July 21, 2010, 124 Stat. 1596.)
+(Pub. L. 111–203, title V, § 541, July 21, 2010, 124 Stat. 1596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle B (§§ 511–542) of title V of Pub. L. 111–203, which enacted this chapter and provisions set out as notes under section 8201 of this title. Subtitle B did not make any amendments.
+This subtitle, referred to in text, is subtitle B (§§ 511–542) of title V of Pub. L. 111–203, which enacted this chapter and provisions set out as notes under section 8201 of this title. Subtitle B did not make any amendments.
 
-### § 8232. Severability
+### § 8232. Severability
 
 If any section or subsection of this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, and the application of the provision to any other person or circumstance, shall not be affected.
 
-(Pub. L. 111–203, title V, § 542, July 21, 2010, 124 Stat. 1596.)
+(Pub. L. 111–203, title V, § 542, July 21, 2010, 124 Stat. 1596.)

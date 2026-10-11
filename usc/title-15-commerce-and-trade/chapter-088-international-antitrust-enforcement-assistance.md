@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 88—INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE
 
-## § 6201. Disclosure to foreign antitrust authority of antitrust evidence
+## § 6201. Disclosure to foreign antitrust authority of antitrust evidence
 
 In accordance with an antitrust mutual assistance agreement in effect under this chapter, subject to section 6207 of this title, and except as provided in section 6204 of this title, the Attorney General of the United States and the Federal Trade Commission may provide to a foreign antitrust authority with respect to which such agreement is in effect under this chapter, antitrust evidence to assist the foreign antitrust authority—
 
@@ -23,7 +23,7 @@ In accordance with an antitrust mutual assistance agreement in effect under this
 
 **(2)** in enforcing any of such foreign antitrust laws.
 
-(Pub. L. 103–438, § 2, Nov. 2, 1994, 108 Stat. 4597.)
+(Pub. L. 103–438, § 2, Nov. 2, 1994, 108 Stat. 4597.)
 
 **Editorial Notes**
 
@@ -35,9 +35,9 @@ This chapter, referred to in text, was in original “this Act”, meaning Pub. 
 
 **Short Title**
 
-Pub. L. 103–438, § 1, Nov. 2, 1994, 108 Stat. 4597, provided that: “This Act [enacting this chapter and amending sections 46, 57b–1, 1311, and 1312 of this title] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
+Pub. L. 103–438, § 1, Nov. 2, 1994, 108 Stat. 4597, provided that: “This Act [enacting this chapter and amending sections 46, 57b–1, 1311, and 1312 of this title] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
 
-## § 6202. Investigations to assist foreign antitrust authority in obtaining antitrust evidence
+## § 6202. Investigations to assist foreign antitrust authority in obtaining antitrust evidence
 
 **(a) Request for investigative assistance**
 
@@ -57,7 +57,7 @@ An investigation may be conducted under subsection (b), and antitrust evidence o
 
 A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
-(Pub. L. 103–438, § 3, Nov. 2, 1994, 108 Stat. 4597.)
+(Pub. L. 103–438, § 3, Nov. 2, 1994, 108 Stat. 4597.)
 
 **Editorial Notes**
 
@@ -65,7 +65,7 @@ A person may not be compelled in connection with an investigation under this sec
 
 Section is comprised of section 3 of Pub. L. 103–438. Subsec. (e) of section 3 of Pub. L. 103–438 amended sections 46, 57b–1, 1311, and 1312 of this title.
 
-## § 6203. Jurisdiction of district courts of United States
+## § 6203. Jurisdiction of district courts of United States
 
 **(a) Authority of district courts** On the application of the Attorney General made in accordance with an antitrust mutual assistance agreement in effect under this chapter, the United States district court for the district in which a person resides, is found, or transacts business may order such person to give testimony or a statement, or to produce a document or other thing, to the Attorney General to assist a foreign antitrust authority with respect to which such agreement is in effect under this chapter—
 
@@ -97,7 +97,7 @@ A person may not be compelled under an order issued under subsection (a) to give
 
 This section does not preclude a person in the United States from voluntarily giving testimony or a statement, or producing a document or other thing, in any manner acceptable to such person for use in an investigation by a foreign antitrust authority.
 
-(Pub. L. 103–438, § 4, Nov. 2, 1994, 108 Stat. 4599.)
+(Pub. L. 103–438, § 4, Nov. 2, 1994, 108 Stat. 4599.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ This section does not preclude a person in the United States from voluntarily gi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(C), are classified to Title 28, Appendix, Judiciary and Judicial Procedure.
 
-## § 6204. Limitations on authority
+## § 6204. Limitations on authority
 
 Sections 6201, 6202, and 6203 of this title shall not apply with respect to the following antitrust evidence:
 
@@ -125,7 +125,7 @@ Sections 6201, 6202, and 6203 of this title shall not apply with respect to the 
 
 **(4)** Antitrust evidence that is classified under section 2162 of title 42.
 
-(Pub. L. 103–438, § 5, Nov. 2, 1994, 108 Stat. 4599.)
+(Pub. L. 103–438, § 5, Nov. 2, 1994, 108 Stat. 4599.)
 
 **Editorial Notes**
 
@@ -133,15 +133,15 @@ Sections 6201, 6202, and 6203 of this title shall not apply with respect to the 
 
 Rule 6(e)(3)(C)(iv) of the Federal Rules of Criminal Procedure, referred to in par. (2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
+Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
-## § 6205. Exception to certain disclosure restrictions
+## § 6205. Exception to certain disclosure restrictions
 
 Section 1313 of this title, and sections 46(f) and 57b–2 of this title, shall not apply to prevent the Attorney General or the Commission from providing to a foreign antitrust authority antitrust evidence in accordance with an antitrust mutual assistance agreement in effect under this chapter and in accordance with the other requirements of this chapter.
 
-(Pub. L. 103–438, § 6, Nov. 2, 1994, 108 Stat. 4600.)
+(Pub. L. 103–438, § 6, Nov. 2, 1994, 108 Stat. 4600.)
 
-## § 6206. Publication requirements applicable to antitrust mutual assistance agreements
+## § 6206. Publication requirements applicable to antitrust mutual assistance agreements
 
 **(a) Publication of proposed antitrust mutual assistance agreements** Not less than 45 days before an antitrust mutual assistance agreement is entered into, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
 
@@ -169,9 +169,9 @@ Section 1313 of this title, and sections 46(f) and 57b–2 of this title, shall 
 
 An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) shall not be considered to be in effect under this chapter.
 
-(Pub. L. 103–438, § 7, Nov. 2, 1994, 108 Stat. 4600.)
+(Pub. L. 103–438, § 7, Nov. 2, 1994, 108 Stat. 4600.)
 
-## § 6207. Conditions on use of antitrust mutual assistance agreements
+## § 6207. Conditions on use of antitrust mutual assistance agreements
 
 **(a) Determinations** Neither the Attorney General nor the Commission may conduct an investigation under section 6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that—
 
@@ -193,9 +193,9 @@ Neither the Attorney General nor the Commission may disclose in violation of an 
 
 If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
 
-(Pub. L. 103–438, § 8, Nov. 2, 1994, 108 Stat. 4601.)
+(Pub. L. 103–438, § 8, Nov. 2, 1994, 108 Stat. 4601.)
 
-## § 6208. Limitations on judicial review
+## § 6208. Limitations on judicial review
 
 **(a) Determinations**
 
@@ -215,9 +215,9 @@ The requirements in section 6206 of this title with respect to publication and r
 
 Nothing in this section shall be construed to affect the availability of judicial review under laws referred to in section 6204 of this title.
 
-(Pub. L. 103–438, § 9, Nov. 2, 1994, 108 Stat. 4602.)
+(Pub. L. 103–438, § 9, Nov. 2, 1994, 108 Stat. 4602.)
 
-## § 6209. Preservation of existing authority
+## § 6209. Preservation of existing authority
 
 **(a) In general**
 
@@ -227,9 +227,9 @@ The authority provided by this chapter is in addition to, and not in lieu of, an
 
 This chapter shall not be construed to modify or affect the allocation of responsibility between the Attorney General and the Commission for the enforcement of the Federal antitrust laws.
 
-(Pub. L. 103–438, § 10, Nov. 2, 1994, 108 Stat. 4602.)
+(Pub. L. 103–438, § 10, Nov. 2, 1994, 108 Stat. 4602.)
 
-## § 6210. Report to Congress
+## § 6210. Report to Congress
 
 In the 30-day period beginning 3 years after November 2, 1994, and with the concurrence of the Commission, the Attorney General shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report—
 
@@ -247,9 +247,9 @@ In the 30-day period beginning 3 years after November 2, 1994, and with the conc
 
 **(7)** describing any significant problems or concerns of which the Attorney General is aware with respect to the operation of this chapter.
 
-(Pub. L. 103–438, § 11, Nov. 2, 1994, 108 Stat. 4602.)
+(Pub. L. 103–438, § 11, Nov. 2, 1994, 108 Stat. 4602.)
 
-## § 6211. Definitions
+## § 6211. Definitions
 
 For purposes of this chapter:
 
@@ -309,10 +309,10 @@ For purposes of this chapter:
 
 **(B)** prohibiting and regulating disclosure of information that is obtained by such organization in the course of administering or enforcing such laws.
 
-(Pub. L. 103–438, § 12, Nov. 2, 1994, 108 Stat. 4603.)
+(Pub. L. 103–438, § 12, Nov. 2, 1994, 108 Stat. 4603.)
 
-## § 6212. Authority to receive reimbursement
+## § 6212. Authority to receive reimbursement
 
 The Attorney General and the Commission are authorized to receive from a foreign antitrust authority, or from the foreign state or regional economic integration organization represented by such foreign antitrust authority, reimbursement for the costs incurred by the Attorney General or the Commission, respectively, in conducting an investigation under section 6202 of this title requested by such foreign antitrust authority, applying for an order under section 6203 of this title to assist such foreign antitrust authority, or providing antitrust evidence to such foreign antitrust authority under an antitrust mutual assistance agreement in effect under this chapter with respect to such foreign antitrust authority.
 
-(Pub. L. 103–438, § 13, Nov. 2, 1994, 108 Stat. 4605.)
+(Pub. L. 103–438, § 13, Nov. 2, 1994, 108 Stat. 4605.)

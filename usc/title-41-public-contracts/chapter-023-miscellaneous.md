@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—MISCELLANEOUS
 
-## § 2301. Use of electronic commerce in Federal procurement
+## § 2301. Use of electronic commerce in Federal procurement
 
 **(a) Definition.—** For the purposes of this section, the term “electronic commerce” means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
 
@@ -43,13 +43,13 @@ retrieved: 2026-10-11
 
 **(f) Inapplicability to Department of Defense.—** In this section, the term “executive agency” does not include the Department of Defense.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3732; Pub. L. 114–328, div. A, title VIII, § 833(b)(5)(A)(ii), Dec. 23, 2016, 130 Stat. 2285.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3732; Pub. L. 114–328, div. A, title VIII, § 833(b)(5)(A)(ii), Dec. 23, 2016, 130 Stat. 2285.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2301(a) | 41:426(f). | Pub. L. 93–400, § 30, as added Pub. L. 103–355, title IX, § 9001(a), Oct. 13, 1994, 108 Stat. 3399; Pub. L. 105–85, title VIII, § 850(a), Nov. 18, 1997, 111 Stat. 1847; Pub. L. 106–398, § 1 [[div. A], title VIII, § 810(d)], Oct. 30, 2000, 114 Stat. 1654A–210. |
+| 2301(a) | 41:426(f). | Pub. L. 93–400, § 30, as added Pub. L. 103–355, title IX, § 9001(a), Oct. 13, 1994, 108 Stat. 3399; Pub. L. 105–85, title VIII, § 850(a), Nov. 18, 1997, 111 Stat. 1847; Pub. L. 106–398, § 1 [[div. A], title VIII, § 810(d)], Oct. 30, 2000, 114 Stat. 1654A–210. |
 | 2301(b) | 41:426(a). |  |
 | 2301(c) | 41:426(b). |  |
 | 2301(d) | 41:426(c). |  |
@@ -121,7 +121,7 @@ The Director of the Office of Management and Budget is authorized and directed t
 
 William J. Clinton.
 
-## § 2302. Rights in technical data
+## § 2302. Rights in technical data
 
 **(a) Where Defined.—** The legitimate proprietary interest of the Federal Government and of a contractor in technical or other data shall be defined in regulations prescribed as part of the Federal Acquisition Regulation.
 
@@ -179,13 +179,13 @@ William J. Clinton.
 
 **(9)** authorizing the head of the agency to withhold payments under the contract (or exercise another remedy the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3733.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3733.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2302(a) | 41:418a(a) (1st sentence). | Pub. L. 93–400, § 21, as added Pub. L. 98–577, title III, § 301(a), Oct. 30, 1984, 98 Stat. 3074; Pub. L. 99–145, title IX, § 961(d)(2), Nov. 8, 1985, 99 Stat. 704. |
+| 2302(a) | 41:418a(a) (1st sentence). | Pub. L. 93–400, § 21, as added Pub. L. 98–577, title III, § 301(a), Oct. 30, 1984, 98 Stat. 3074; Pub. L. 99–145, title IX, § 961(d)(2), Nov. 8, 1985, 99 Stat. 704. |
 | 2302(b) | 41:418a(a) (2d, last sentences). |  |
 | 2302(c) | 41:418a(b). |  |
 | 2302(d) | 41:418a(c). |  |
@@ -193,7 +193,7 @@ William J. Clinton.
 
 In subsection (a), the words “Federal Acquisition Regulation” are substituted for “single system of Government-wide procurement regulations as defined in section 403(4) of this title” because section 3(a)(1) of the Office of Federal Procurement Policy Act Amendments of 1988 (Public Law 100–679, 102 Stat. 4055) substituted “Federal Acquisition Regulation” for “single system of Government-wide procurement regulations” in section 6 of the Office of Federal Procurement Policy Act (Public Law 93–400, 88 Stat. 797, 41:406) and because section 3(c) of the Office of Federal Procurement Policy Act Amendments of 1988 (102 Stat. 4056) struck section 4(4) of the Office of Federal Procurement Policy Act (88 Stat. 797, 41:403(4)), as amended by section 4 of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1326), which had defined “single system of Government-wide procurement regulations”.
 
-## § 2303. Ethics safeguards related to contractor conflicts of interest
+## § 2303. Ethics safeguards related to contractor conflicts of interest
 
 **(a) Definition.—** In this section, the term “relevant acquisition function” means an acquisition function closely associated with inherently governmental functions.
 
@@ -241,14 +241,14 @@ In subsection (a), the words “Federal Acquisition Regulation” are substitute
 
 **(c) Best Practices.—** The Administrator shall, in consultation with the Director of the Office of Government Ethics, develop and maintain a repository of best practices relating to the prevention and mitigation of organizational and personal conflicts of interest in Federal contracting.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3735.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3735.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 2303(a) | no source. |  |
-| 2303(b), (c) | 41:405c(a), (c). | Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 Stat. 4537, 4539. |
+| 2303(b), (c) | 41:405c(a), (c). | Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 Stat. 4537, 4539. |
 
 In this section, the words “relevant acquisition functions” are substituted for “acquisition functions closely associated with inherently governmental functions” because of subsection (a).
 
@@ -294,11 +294,11 @@ Pub. L. 117–324, Dec. 27, 2022, 136 Stat. 4439, provided that:
 
 **Deadline for Issuance of Standard Policy**
 
-Pub. L. 111–350, § 6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: “The requirement in section 2303(b)(1) of title 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008.”
+Pub. L. 111–350, § 6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: “The requirement in section 2303(b)(1) of title 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008.”
 
 **Review of Federal Acquisition Regulation Relating to Conflicts of Interest**
 
-Pub. L. 110–417, [div. A], title VIII, § 841(b), Oct. 14, 2008, 122 Stat. 4539, provided that:
+Pub. L. 110–417, [div. A], title VIII, § 841(b), Oct. 14, 2008, 122 Stat. 4539, provided that:
 
 > **“(1) Review.—** Not later than 12 months after the date of the enactment of this Act [Oct. 14, 2008], the Administrator for Federal Procurement Policy, in consultation with the Director of the Office of Government Ethics, shall review the Federal Acquisition Regulation to—
 
@@ -314,7 +314,7 @@ Pub. L. 110–417, [div. A], title VIII, § 841(b), Oct. 14, 2008, 122 Stat. 4
 
 > **“(3) Report.—** Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.”
 
-## § 2304. Conflict of interest standards for consultants
+## § 2304. Conflict of interest standards for consultants
 
 **(a) Content of Regulations.—** The Administrator shall prescribe under this division Government-wide regulations that set forth—
 
@@ -338,13 +338,13 @@ Pub. L. 110–417, [div. A], title VIII, § 841(b), Oct. 14, 2008, 122 Stat. 4
 
 **(d) Presidential Determination.—** Before the regulations required by subsection (a) are prescribed, the President shall determine if prescribing the regulations will have a significantly adverse effect on the accomplishment of the mission of the Defense Department or another Federal agency. If the President determines that the regulations will have such an adverse effect, the President shall so report to the appropriate committees of the Senate and the House of Representatives, stating in full the reasons for the determination. If such a report is submitted, the requirement for the regulations shall be null and void.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3736.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3736.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2304(a) | 41:405b(a). | Pub. L. 100–463, title VIII, § 8141, Oct. 1, 1988, 102 Stat. 2270–47. |
+| 2304(a) | 41:405b(a). | Pub. L. 100–463, title VIII, § 8141, Oct. 1, 1988, 102 Stat. 2270–47. |
 | 2304(b) | 41:405b(b). |  |
 | 2304(c) | 41:405b(d). |  |
 | 2304(d) | 41:405b(e). |  |
@@ -367,7 +367,7 @@ Executive Order 12333, referred to in subsec. (c)(1), is set out as a note under
 
 **Clarification of Waiver Authority for Organizational and Consultant Conflicts of Interest**
 
-Pub. L. 118–159, div. A, title VIII, § 881, Dec. 23, 2024, 138 Stat. 2017, provided that:
+Pub. L. 118–159, div. A, title VIII, § 881, Dec. 23, 2024, 138 Stat. 2017, provided that:
 
 > “Section 9.503 of the Federal Acquisition Regulation shall be revised to require that—
 
@@ -375,21 +375,21 @@ Pub. L. 118–159, div. A, title VIII, § 881, Dec. 23, 2024, 138 Stat. 2017, 
 
 > **“(2)** the head of a Federal agency may not delegate such waiver authority below the level of the deputy head of such agency.”
 
-## § 2305. Authority of Director of Office of Management and Budget not affected
+## § 2305. Authority of Director of Office of Management and Budget not affected
 
 This division does not limit the authorities and responsibilities of the Director of the Office of Management and Budget in effect on December 1, 1983.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2305 | 41:405(h)(2). | Pub. L. 93–400, § 6(h)(2), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
+| 2305 | 41:405(h)(2). | Pub. L. 93–400, § 6(h)(2), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, § 5, Dec. 1, 1983, 97 Stat. 1328. |
 
 The words “in effect on December 1, 1983” are substituted for “current” for clarity.
 
-## § 2306. Openness of meetings
+## § 2306. Openness of meetings
 
 The Administrator by regulation shall require that—
 
@@ -397,31 +397,31 @@ The Administrator by regulation shall require that—
 
 **(2)** public notice of each meeting be given not less than 10 days prior to the meeting.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2306 | 41:412(b). | Pub. L. 93–400, § 14(b), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 9, Oct. 10, 1979, 93 Stat. 652. |
+| 2306 | 41:412(b). | Pub. L. 93–400, § 14(b), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–83, § 9, Oct. 10, 1979, 93 Stat. 652. |
 
-## § 2307. Comptroller General’s access to information
+## § 2307. Comptroller General’s access to information
 
 The Administrator and personnel in the Office of Federal Procurement Policy shall furnish information the Comptroller General may require to discharge the responsibilities of the Comptroller General. For this purpose, the Comptroller General or representatives of the Comptroller General shall have access to all books, documents, papers, and records of the Office of Federal Procurement Policy.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2307 | 41:412(a). | Pub. L. 93–400, § 14(a), Aug. 30, 1974, 88 Stat. 800. |
+| 2307 | 41:412(a). | Pub. L. 93–400, § 14(a), Aug. 30, 1974, 88 Stat. 800. |
 
 **Senate Revision Amendment**
 
-In text, “representatives of the Comptroller General” substituted for “his representatives” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+In text, “representatives of the Comptroller General” substituted for “his representatives” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
-## § 2308. Modular contracting for information technology
+## § 2308. Modular contracting for information technology
 
 **(a) Use.—** To the maximum extent practicable, the head of an executive agency should use modular contracting for an acquisition of a major system of information technology.
 
@@ -443,27 +443,27 @@ In text, “representatives of the Comptroller General” substituted for “his
 
 **(3)** the information technology provided for in a contract for acquisition of information technology should be delivered within 18 months after the solicitation resulting in award of the contract was issued.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3737.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2308 | 41:434. | Pub. L. 93–400, § 38, formerly § 35, as added Pub. L. 104–106, title LII, § 5202(a), Feb. 10, 1996, 110 Stat. 690; renumbered § 38, Pub. L. 104–201, title X, § 1074(d)(1), Sept. 23, 1996, 110 Stat. 2660. |
+| 2308 | 41:434. | Pub. L. 93–400, § 38, formerly § 35, as added Pub. L. 104–106, title LII, § 5202(a), Feb. 10, 1996, 110 Stat. 690; renumbered § 38, Pub. L. 104–201, title X, § 1074(d)(1), Sept. 23, 1996, 110 Stat. 2660. |
 
-## § 2309. Protection of constitutional rights of contractors
+## § 2309. Protection of constitutional rights of contractors
 
 **(a) Prohibition on Requiring Waiver of Rights.—** A contractor may not be required, as a condition for entering into a contract with the Federal Government, to waive a right under the Constitution for a purpose relating to the Chemical Weapons Convention Implementation Act of 1998 (22 U.S.C. 6701 et seq.) or the Chemical Weapons Convention (as defined in section 3 of that Act (22 U.S.C. 6701)).
 
 **(b) Permissible Contract Clauses.—** Subsection (a) does not prohibit an executive agency from including in a contract a clause that requires the contractor to permit inspections to ensure that the contractor is performing the contract in accordance with the provisions of the contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3738.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3738.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2309 | 41:436. | Pub. L. 93–400, § 40, formerly § 39, as added Pub. L. 105–277, title III, § 308(a), Oct. 21, 1998, 112 Stat. 2681–879; renumbered § 40, Pub. L. 108–136, title XIV, § 1431(d)(2), Nov. 24, 2003, 117 Stat. 1672. |
+| 2309 | 41:436. | Pub. L. 93–400, § 40, formerly § 39, as added Pub. L. 105–277, title III, § 308(a), Oct. 21, 1998, 112 Stat. 2681–879; renumbered § 40, Pub. L. 108–136, title XIV, § 1431(d)(2), Nov. 24, 2003, 117 Stat. 1672. |
 
 In subsection (a), the reference is to the Chemical Weapons Convention Implementation Act of 1998 rather than the Chemical Weapons Convention Implementation Act of 1997 to correct an error in the source provision.
 
@@ -471,9 +471,9 @@ In subsection (a), the reference is to the Chemical Weapons Convention Implement
 
 **References in Text**
 
-The Chemical Weapons Convention Implementation Act of 1998, referred to in subsec. (a), is Pub. L. 105–277, div. I, Oct. 21, 1998, 112 Stat. 2681–856, which is classified principally to chapter 75 (§ 6701 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of Title 22 and Tables.
+The Chemical Weapons Convention Implementation Act of 1998, referred to in subsec. (a), is Pub. L. 105–277, div. I, Oct. 21, 1998, 112 Stat. 2681–856, which is classified principally to chapter 75 (§ 6701 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of Title 22 and Tables.
 
-## § 2310. Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items
+## § 2310. Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items
 
 **(a) Criteria.—** A performance-based contract for the procurement of services entered into by an executive agency or a performance-based task order for services issued by an executive agency may be treated as a contract for the procurement of commercial items if—
 
@@ -495,13 +495,13 @@ The Chemical Weapons Convention Implementation Act of 1998, referred to in subse
 
 **(d) Expiration.—** The authority under this section expires 10 years after November 24, 2003.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3738.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3738.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2310 | 41:437. | Pub. L. 93–400, § 41, as added Pub. L. 108–136, title XIV, § 1431(a), Nov. 24, 2003, 117 Stat. 1671. |
+| 2310 | 41:437. | Pub. L. 93–400, § 41, as added Pub. L. 108–136, title XIV, § 1431(a), Nov. 24, 2003, 117 Stat. 1671. |
 
 In subsection (c), the words “Committees on Homeland Security and Governmental Affairs” are substituted for “Committees on Governmental Affairs” on authority of Senate Resolution No. 445 (108th Congress, October 9, 2004). The words “Committees on Oversight and Government Reform” are substituted for “Committees on Government Reform” on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
@@ -511,7 +511,7 @@ In subsection (c), the words “Committees on Homeland Security and Governmental
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 2311. Enhanced transparency on interagency contracting and other transactions
+## § 2311. Enhanced transparency on interagency contracting and other transactions
 
 The Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 4021 of title 10 or similar authorities. The Director of the Office of Management and Budget shall ensure that data, consistent with what is collected for contract actions, is obtained on—
 
@@ -519,13 +519,13 @@ The Director of the Office of Management and Budget shall direct appropriate rev
 
 **(2)** other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3739; Pub. L. 117–81, div. A, title XVII, § 1702(h)(11), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3739; Pub. L. 117–81, div. A, title XVII, § 1702(h)(11), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2311 | 41:405 note. | Pub. L. 110–417, [div. A], title VIII, § 874(a), Oct. 14, 2008, 122 Stat. 4558. |
+| 2311 | 41:405 note. | Pub. L. 110–417, [div. A], title VIII, § 874(a), Oct. 14, 2008, 122 Stat. 4558. |
 
 In the first sentence, the words “Not later than one year after the date of enactment of this Act” are omitted because of section 6(f) of the bill.
 
@@ -539,9 +539,9 @@ In the first sentence, the words “Not later than one year after the date of en
 
 **Deadline for Revisions in Federal Procurement Data System or Successor System**
 
-Pub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2311 of title 41, United States Code, to direct appropriate revisions in the Federal Procurement Data System or any successor system shall be done not later than one year after October 14, 2008.”
+Pub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2311 of title 41, United States Code, to direct appropriate revisions in the Federal Procurement Data System or any successor system shall be done not later than one year after October 14, 2008.”
 
-## § 2312. Contingency Contracting Corps
+## § 2312. Contingency Contracting Corps
 
 **(a) Definition.—** In this section, the term “Corps” means the Contingency Contracting Corps established in subsection (b).
 
@@ -577,13 +577,13 @@ Pub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: �
 
 **(2) Content.—** Each report under paragraph (1) shall include the number of members of the Corps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3739.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3739.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2312 (except subsection (a)) | 41:440. | Pub. L. 93–400, § 44, as added Pub. L. 110–417, [div. A], title VIII, § 870(a), Oct. 14, 2008, 122 Stat. 4554. |
+| 2312 (except subsection (a)) | 41:440. | Pub. L. 93–400, § 44, as added Pub. L. 110–417, [div. A], title VIII, § 870(a), Oct. 14, 2008, 122 Stat. 4554. |
 | 2312(a) | no source. |  |
 
 **Statutory Notes and Related Subsidiaries**
@@ -592,7 +592,7 @@ Pub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: �
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
+## § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
 
 **(a) In General.—** Subject to the authority, direction, and control of the Director of the Office of Management and Budget, the Administrator of General Services shall establish and maintain a database of information regarding the integrity and performance of certain persons awarded Federal agency contracts and grants for use by Federal agency officials having authority over contracts and grants.
 
@@ -686,11 +686,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(g) Rulemaking.—** The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, § 3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, § 834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, § 852, title XVII, § 1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096; Pub. L. 113–291, div. A, title XII, § 1270, Dec. 19, 2014, 128 Stat. 3587; Pub. L. 116–283, div. A, title VIII, § 885, Jan. 1, 2021, 134 Stat. 3791.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, § 3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, § 834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, § 852, title XVII, § 1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096; Pub. L. 113–291, div. A, title XII, § 1270, Dec. 19, 2014, 128 Stat. 3587; Pub. L. 116–283, div. A, title VIII, § 885, Jan. 1, 2021, 134 Stat. 3791.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 417b of former Title 41, Public Contracts, which was amended by Pub. L. 111–212, title III, § 3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, § 834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: “In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website.” and by adding at the end of subsec. (c)(1) the following new subparagraph:
+This section was derived from section 417b of former Title 41, Public Contracts, which was amended by Pub. L. 111–212, title III, § 3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, § 834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: “In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website.” and by adding at the end of subsec. (c)(1) the following new subparagraph:
 
 *“(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).”*
 
@@ -698,7 +698,7 @@ This section was derived from section 417b of former Title 41, Public Contracts,
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2313 | 41:417b. | Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555. |
+| 2313 | 41:417b. | Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555. |
 
 In subsection (a), the words “not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill.
 
@@ -716,22 +716,22 @@ Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, 
 
 **Amendments**
 
-2021—Subsec. (d)(3). Pub. L. 116–283, § 885(1), inserted “, and an identification of any beneficial owner of such corporation,” after “to the corporation”.
+2021—Subsec. (d)(3). Pub. L. 116–283, § 885(1), inserted “, and an identification of any beneficial owner of such corporation,” after “to the corporation”.
 
-Subsec. (d)(4). Pub. L. 116–283, § 885(2), added par. (4).
+Subsec. (d)(4). Pub. L. 116–283, § 885(2), added par. (4).
 
 2014—Subsec. (c)(8). Pub. L. 113–291 added par. (8).
 
-2013—Subsec. (c)(1)(E). Pub. L. 112–239, § 1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, § 834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).” See Amendments Not Shown in Text note above.
+2013—Subsec. (c)(1)(E). Pub. L. 112–239, § 1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, § 834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).” See Amendments Not Shown in Text note above.
 
-Subsec. (d)(3). Pub. L. 112–239, § 852, added par. (3).
+Subsec. (d)(3). Pub. L. 112–239, § 852, added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Establishing Database**
 
-Pub. L. 111–350, § 6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2313(a) of title 41, United States Code, to establish a database shall be done not later than one year after October 14, 2008.”
+Pub. L. 111–350, § 6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2313(a) of title 41, United States Code, to establish a database shall be done not later than one year after October 14, 2008.”
 
 **Deadline for Amending Federal Acquisition Regulation**
 
-Pub. L. 111–350, § 6(f)(4), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008.”
+Pub. L. 111–350, § 6(f)(4), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008.”

@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2009—Pub. L. 111–84, div. A, title V, § 512(a)(2), Oct. 28, 2009, 123 Stat. 2281, added item 1177.
+2009—Pub. L. 111–84, div. A, title V, § 512(a)(2), Oct. 28, 2009, 123 Stat. 2281, added item 1177.
 
-2006—Pub. L. 109–163, div. A, title VI, § 643(a)(2), Jan. 6, 2006, 119 Stat. 3309, added item 1175a.
+2006—Pub. L. 109–163, div. A, title VI, § 643(a)(2), Jan. 6, 2006, 119 Stat. 3309, added item 1175a.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 751(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193, added item 1178.
+2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 751(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193, added item 1178.
 
-1996—Pub. L. 104–134, title II, § 2707(a)(2), Apr. 26, 1996, 110 Stat. 1321–330, struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
+1996—Pub. L. 104–134, title II, § 2707(a)(2), Apr. 26, 1996, 110 Stat. 1321–330, struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
 
-Pub. L. 104–106, div. A, title V, §§ 563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 110 Stat. 325, 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
+Pub. L. 104–106, div. A, title V, §§ 563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 110 Stat. 325, 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
 
-1994—Pub. L. 103–337, div. A, title V, § 560(a)(2), title XVI, § 1671(b)(10), Oct. 5, 1994, 108 Stat. 2778, 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
+1994—Pub. L. 103–337, div. A, title V, § 560(a)(2), title XVI, § 1671(b)(10), Oct. 5, 1994, 108 Stat. 2778, 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
 
-1992—Pub. L. 102–484, div. A, title V, § 541(b), Oct. 23, 1992, 106 Stat. 2413, added item 1176.
+1992—Pub. L. 102–484, div. A, title V, § 541(b), Oct. 23, 1992, 106 Stat. 2413, added item 1176.
 
-1991—Pub. L. 102–190, div. A, title VI, §§ 661(a)(2), 662(a)(2), Dec. 5, 1991, 105 Stat. 1395, 1398, added items 1174a and 1175.
+1991—Pub. L. 102–190, div. A, title VI, §§ 661(a)(2), 662(a)(2), Dec. 5, 1991, 105 Stat. 1395, 1398, added items 1174a and 1175.
 
-1980—Pub. L. 96–513, title V, § 501(15), Dec. 12, 1980, 94 Stat. 2908, struck out item 1167 “Regular warrant officers: severance pay” and added item 1174.
+1980—Pub. L. 96–513, title V, § 501(15), Dec. 12, 1980, 94 Stat. 2908, struck out item 1167 “Regular warrant officers: severance pay” and added item 1174.
 
-1973—Pub. L. 93–64, title I, § 102, July 9, 1973, 87 Stat. 147, added item 1173.
+1973—Pub. L. 93–64, title I, § 102, July 9, 1973, 87 Stat. 147, added item 1173.
 
-1968—Pub. L. 90–235, § 3(a)(1)(B), Jan. 2, 1968, 81 Stat. 757, added items 1169 to 1172.
+1968—Pub. L. 90–235, § 3(a)(1)(B), Jan. 2, 1968, 81 Stat. 757, added items 1169 to 1172.
 
-1962—Pub. L. 87–651, title I, § 106(c), Sept. 7, 1962, 76 Stat. 508, added item 1168.
+1962—Pub. L. 87–651, title I, § 106(c), Sept. 7, 1962, 76 Stat. 508, added item 1168.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Consideration of Reinstatement of a Member of the Armed Forces Involuntarily Separated on the Basis of Refusal To Receive a Vaccination Against COVID-19**
 
-Pub. L. 118–31, div. A, title V, § 526, Dec. 22, 2023, 137 Stat. 254, provided that:
+Pub. L. 118–31, div. A, title V, § 526, Dec. 22, 2023, 137 Stat. 254, provided that:
 
 > **“(a) Reinstatement.—**
 
@@ -75,7 +75,7 @@ Pub. L. 118–31, div. A, title V, § 526, Dec. 22, 2023, 137 Stat. 254, provi
 
 **Certain Members Discharged or Dismissed on the Sole Basis of Failure To Obey a Lawful Order To Receive a Vaccine for COVID-19: Communication Strategy Regarding Reinstatement Process**
 
-Pub. L. 118–31, div. A, title V, § 528, Dec. 22, 2023, 137 Stat. 255, provided that:
+Pub. L. 118–31, div. A, title V, § 528, Dec. 22, 2023, 137 Stat. 255, provided that:
 
 > **“(a) Communication Strategy Required.—** Not later than six months after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Secretaries of the military departments or, with respect the Coast Guard, the Secretary of the department in which the Secretary is operating when the Coast Guard is not operating as a service in the Navy, shall communicate, to a covered individual, the current, established, process by which a covered individual may be reinstated in the covered Armed Force concerned.
 
@@ -87,11 +87,11 @@ Pub. L. 118–31, div. A, title V, § 528, Dec. 22, 2023, 137 Stat. 255, provi
 
 **Rescission of COVID–19 Vaccination Mandate**
 
-Pub. L. 117–263, div. A, title V, § 525, Dec. 23, 2022, 136 Stat. 2571, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall rescind the mandate that members of the Armed Forces be vaccinated against COVID–19 pursuant to the memorandum dated August 24, 2021, regarding ‘Mandatory Coronavirus Disease 2019 Vaccination of Department of Defense Service Members’.”
+Pub. L. 117–263, div. A, title V, § 525, Dec. 23, 2022, 136 Stat. 2571, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall rescind the mandate that members of the Armed Forces be vaccinated against COVID–19 pursuant to the memorandum dated August 24, 2021, regarding ‘Mandatory Coronavirus Disease 2019 Vaccination of Department of Defense Service Members’.”
 
 **Limitation on Certain Discharges Solely on the Basis of Failure To Obey Lawful Order To Receive COVID–19 Vaccine**
 
-Pub. L. 117–81, div. A, title VII, § 736, Dec. 27, 2021, 135 Stat. 1800, as amended by Pub. L. 117–263, div. A, title V, § 524, Dec. 23, 2022, 136 Stat. 2571, provided that:
+Pub. L. 117–81, div. A, title VII, § 736, Dec. 27, 2021, 135 Stat. 1800, as amended by Pub. L. 117–263, div. A, title V, § 524, Dec. 23, 2022, 136 Stat. 2571, provided that:
 
 > **“(a) Limitation.—** Any administrative discharge of a covered member, on the sole basis that the covered member failed to obey a lawful order to receive a vaccine for COVID–19, shall be—
 
@@ -109,7 +109,7 @@ Pub. L. 117–81, div. A, title VII, § 736, Dec. 27, 2021, 135 Stat. 1800, as
 
 **Limitations and Requirements in Connection With Separations for Members of the Armed Forces Who Suffer From Mental Health Conditions in Connection With a Sex-Related, Intimate Partner Violence-Related, or Spousal-Abuse Offense**
 
-Pub. L. 116–92, div. A, title V, § 570A, Dec. 20, 2019, 133 Stat. 1398, provided that:
+Pub. L. 116–92, div. A, title V, § 570A, Dec. 20, 2019, 133 Stat. 1398, provided that:
 
 > **“(a) Confirmation of Diagnosis of Condition Required Before Separation.—** Before a member of the Armed Forces who was the victim of a sex-related offense, an intimate partner violence-related offense, or a spousal-abuse offense during service in the Armed Forces (whether or not such offense was committed by another member of the Armed Forces), and who has a mental health condition not amounting to a physical disability, is separated, discharged, or released from the Armed Forces based solely on such condition, the diagnosis of such condition must be—
 
@@ -143,7 +143,7 @@ Pub. L. 116–92, div. A, title V, § 570A, Dec. 20, 2019, 133 Stat. 1398, pro
 
 **Prohibition on Involuntary Separation of Certain Members of the Armed Forces**
 
-Pub. L. 116–92, div. A, title V, § 570B(a), Dec. 20, 2019, 133 Stat. 1398, provided that:
+Pub. L. 116–92, div. A, title V, § 570B(a), Dec. 20, 2019, 133 Stat. 1398, provided that:
 
 > **“(1) In general.—** No member of the Armed Forces may be involuntarily separated from the Armed Forces solely because that member is a covered member.
 
@@ -189,7 +189,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 1161. Commissioned officers: limitations on dismissal
+## § 1161. Commissioned officers: limitations on dismissal
 
 **(a)** No commissioned officer may be dismissed from any armed force except—
 
@@ -201,13 +201,13 @@ Donald J. Trump.
 
 **(b)** The President or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy, may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 89; Pub. L. 104–106, div. A, title V, § 563(b)(1), Feb. 10, 1996, 110 Stat. 325; Pub. L. 104–201, div. A, title X, § 1074(a)(5), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 114–328, div. A, title V, § 507, Dec. 23, 2016, 130 Stat. 2109.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 89; Pub. L. 104–106, div. A, title V, § 563(b)(1), Feb. 10, 1996, 110 Stat. 325; Pub. L. 104–201, div. A, title X, § 1074(a)(5), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 114–328, div. A, title V, § 507, Dec. 23, 2016, 130 Stat. 2109.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1161(a) | 50:739 (words before semicolon, less applicability to Navy and Marine Corps warrant officers). | May 5, 1950, ch. 169, § 10 (less applicability to Navy and Marine Corps warrant officers), 64 Stat. 146. |
+| 1161(a) | 50:739 (words before semicolon, less applicability to Navy and Marine Corps warrant officers). | May 5, 1950, ch. 169, § 10 (less applicability to Navy and Marine Corps warrant officers), 64 Stat. 146. |
 | 1161(b) | 50:739 (less words before semicolon, less applicability to Navy and Marine Corps warrant officers). |  |
 
 In subsections (a) and (b), the word “commissioned” is inserted since, for the Army and the Air Force, the term “officer” is intended to have the same meaning in 50:739 as it has in the Uniform Code of Military Justice (article 4). For Navy warrant officers see section 6408 of this title.
@@ -240,11 +240,11 @@ Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided:
 
 > Appropriations available for the payment of retired pay to members of the Armed Forces are available for payments under this Act.”
 
-## [§§ 1162, 1163. Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(i)(2), Oct. 5, 1994, 108 Stat. 2998]
+## [§§ 1162, 1163. Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(i)(2), Oct. 5, 1994, 108 Stat. 2998]
 
-Section 1162, acts Aug. 10, 1956, ch. 1041, 70A Stat. 89; Sept. 2, 1958, Pub. L. 85–861, § 1(27), 72 Stat. 1450, related to discharge of Reserves. See sections 12681 and 12682 of this title.
+Section 1162, acts Aug. 10, 1956, ch. 1041, 70A Stat. 89; Sept. 2, 1958, Pub. L. 85–861, § 1(27), 72 Stat. 1450, related to discharge of Reserves. See sections 12681 and 12682 of this title.
 
-Section 1163, acts Aug. 10, 1956, ch. 1041, 70A Stat. 89; Sept. 7, 1962, Pub. L. 87–651, title I, § 106(a), 76 Stat. 508; Dec. 30, 1987, Pub. L. 100–224, § 4, 101 Stat. 1538, related to limitations on separation of Reserve members from their reserve components. See sections 12683 to 12686 of this title.
+Section 1163, acts Aug. 10, 1956, ch. 1041, 70A Stat. 89; Sept. 7, 1962, Pub. L. 87–651, title I, § 106(a), 76 Stat. 508; Dec. 30, 1987, Pub. L. 100–224, § 4, 101 Stat. 1538, related to limitations on separation of Reserve members from their reserve components. See sections 12683 to 12686 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -252,25 +252,25 @@ Section 1163, acts Aug. 10, 1956, ch. 1041, 70A Stat. 89; Sept. 7, 1962, Pub. L.
 
 Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 1164. Warrant officers: separation for age
+## § 1164. Warrant officers: separation for age
 
 **(a)** Unless retired or separated on or before the expiration of that period, each warrant officer shall be retired or separated from his armed force not later than 60 days after the date when he becomes 62 years of age, except as provided by section 8301 of title 5.
 
 **(b)** The Secretary concerned may defer, for not more than four months, the separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, § 511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, § 1(16), Oct. 12, 1982, 96 Stat. 1290.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, § 511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, § 1(16), Oct. 12, 1982, 96 Stat. 1290.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1164(a) | 10:600*l*(c) (as applicable to men). 10:600r(c) (as applicable to 10:600*l*(c)). 34:430(c) (as applicable to men). | May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as applicable to § 14(c)), 68 Stat. 163, 168. |
+| 1164(a) | 10:600*l*(c) (as applicable to men). 10:600r(c) (as applicable to 10:600*l*(c)). 34:430(c) (as applicable to men). | May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as applicable to § 14(c)), 68 Stat. 163, 168. |
 |  | 34:430c (as applicable to 34:430(c)). |  |
 | 1164(b) | 10:600*l*(c) (less applicability to men). |  |
 |  | 34:430(c) (less applicability to men). |  |
 | 1164(c) | 10:600*l*(e) (as applicable to 10:600*l*(c)). 34:430(e) (as applicable to 34:430(c)). |  |
 
-In subsections (a) and (b), the words “Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section” are omitted as covered by section 46 of the bill and section 14(g) of the source statute. The words “Unless retired or separated on or before the expiration of that period” are inserted for clarity. The words “becomes 62[55] years of age” are substituted for the words “attains the age of sixty-two \* \* \* or the age of fifty-five”.
+In subsections (a) and (b), the words “Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section” are omitted as covered by section 46 of the bill and section 14(g) of the source statute. The words “Unless retired or separated on or before the expiration of that period” are inserted for clarity. The words “becomes 62[55] years of age” are substituted for the words “attains the age of sixty-two \* \* \* or the age of fifty-five”.
 
 In subsection (c), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “not more than” are substituted for the words “a period not to exceed”. The words “determination of his” are inserted for clarity. The words “he would otherwise be required to be separated under this section” are substituted for the words “separation would otherwise be required”. The words “proper”, “which is required”, “possible”, and “a period of” are omitted as surplusage.
 
@@ -278,7 +278,7 @@ In subsection (c), the words “The Secretary concerned may defer” are substit
 
 **Amendments**
 
-1982—Pub. L. 97–295, § 1(16), substituted a colon for a semicolon after “officers” in section catchline.
+1982—Pub. L. 97–295, § 1(16), substituted a colon for a semicolon after “officers” in section catchline.
 
 1980—Subsec. (b). Pub. L. 96–513 redesignated former subsec. (c) as (b).
 
@@ -300,23 +300,23 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Deferment of Separation With Completion of 20 Years of Service or at Age 60**
 
-Act Aug. 10, 1956, ch. 1041, § 46, 70A Stat. 638, provided that:
+Act Aug. 10, 1956, ch. 1041, § 46, 70A Stat. 638, provided that:
 
-> **“(a)** The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under section 580 of this title] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
+> **“(a)** The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under section 580 of this title] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
 
-> **“(b)** The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under section 580 of this title] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
+> **“(b)** The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under section 580 of this title] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
 
-## § 1165. Regular warrant officers: separation during three-year probationary period
+## § 1165. Regular warrant officers: separation during three-year probationary period
 
 The Secretary concerned may terminate the regular appointment of any permanent regular warrant officer at any time within three years after the date when the officer accepted his original permanent appointment as a warrant officer in that component. A warrant officer who is separated under this section is entitled, if eligible therefor, to separation pay under section 1174 or he may be enlisted under section 515 of this title. If such a warrant officer is enlisted under section 515 of this title, he is not entitled to separation pay.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 96–513, title I, § 109(b)(1), Dec. 12, 1980, 94 Stat. 2870.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 96–513, title I, § 109(b)(1), Dec. 12, 1980, 94 Stat. 2870.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1165 | 10:600d (less last 36 words of last sentence). 34:135d (less last 36 words of last sentence). | May 29, 1954, ch. 249, § 6 (less last 36 words of last sentence), 68 Stat. 159. |
+| 1165 | 10:600d (less last 36 words of last sentence). 34:135d (less last 36 words of last sentence). | May 29, 1954, ch. 249, § 6 (less last 36 words of last sentence), 68 Stat. 159. |
 
 The words “in his discretion” are omitted as surplusage. The last 10 words of the last sentence are inserted for clarity.
 
@@ -332,28 +332,28 @@ The words “in his discretion” are omitted as surplusage. The last 10 words o
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1166. Regular warrant officers: elimination for unfitness or unsatisfactory performance
+## § 1166. Regular warrant officers: elimination for unfitness or unsatisfactory performance
 
-**(a)** Under such regulations as the Secretary concerned may prescribe, and subject to the recommendations of a board of officers or a selection board under section 576 of this title, a permanent regular warrant officer who is eligible for retirement under any provision of law shall be retired under that law if his records and reports establish his unfitness or unsatisfactory performance of duty. If he is not eligible for retirement under any provision of law, but since the date when he accepted his original permanent appointment as a regular warrant officer he has at least three years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), he shall, if eligible therefor, be separated with separation pay under section 1174 of this title or severance pay under section 286a 1
+**(a)** Under such regulations as the Secretary concerned may prescribe, and subject to the recommendations of a board of officers or a selection board under section 576 of this title, a permanent regular warrant officer who is eligible for retirement under any provision of law shall be retired under that law if his records and reports establish his unfitness or unsatisfactory performance of duty. If he is not eligible for retirement under any provision of law, but since the date when he accepted his original permanent appointment as a regular warrant officer he has at least three years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), he shall, if eligible therefor, be separated with separation pay under section 1174 of this title or severance pay under section 286a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, as appropriate. However, instead of being paid separation pay or severance pay he may be enlisted under section 515 of this title. If he does not have three years of such service, he shall be separated under section 1165 of this title.
 
 **(b)** The Secretary concerned may defer, for not more than four months, the retirement or separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 96–513, title I, § 109(b)(2), Dec. 12, 1980, 94 Stat. 2870; Pub. L. 102–190, div. A, title XI, § 1131(5), Dec. 5, 1991, 105 Stat. 1506.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 96–513, title I, § 109(b)(2), Dec. 12, 1980, 94 Stat. 2870; Pub. L. 102–190, div. A, title XI, § 1131(5), Dec. 5, 1991, 105 Stat. 1506.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1166(a) | 10:600m (less last 21 words of 3d sentence). 10:600(d) (as applicable to 10:600m). 34:430a (less last 21 words of 3d sentence). 34:135(d) (as applicable to 34:430a). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 15), 14(e) (as applicable to § 15), 15 (less last 21 words of 3d sentence), 68 Stat. 157, 163, 164. |
+| 1166(a) | 10:600m (less last 21 words of 3d sentence). 10:600(d) (as applicable to 10:600m). 34:430a (less last 21 words of 3d sentence). 34:135(d) (as applicable to 34:430a). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 15), 14(e) (as applicable to § 15), 15 (less last 21 words of 3d sentence), 68 Stat. 157, 163, 164. |
 | 1166(b) | 10:600*l*(e) (as applicable to 10:600m). 34:430(e) (as applicable to 34:430a). |  |
 
 In subsection (a), the words “he shall be separated” are substituted for the words “his appointment as a permanent warrant officer of the Regular service and any other appointment which he may hold in any warrant officer or commissioned officer grade shall be terminated” and “his appointment shall be terminated”. The words “at least three” are substituted for the words “more than three” for clarity.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to be retired or separated under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “determination of his” are inserted for clarity. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to be retired or separated under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “determination of his” are inserted for clarity. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -361,7 +361,7 @@ In subsection (b), the words “The Secretary concerned may defer” are substit
 
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
 
-Section 286a of title 14, referred to in subsec. (a), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 286a of title 14, referred to in subsec. (a), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
@@ -385,29 +385,29 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-## § 1167. Members under confinement by sentence of court-martial: separation after six months confinement
+## § 1167. Members under confinement by sentence of court-martial: separation after six months confinement
 
 Except as otherwise provided in regulations prescribed by the Secretary of Defense, a member sentenced by a court-martial to a period of confinement for more than six months may be separated from the member’s armed force at any time after the sentence to confinement has become final under chapter 47 of this title and the member has served in confinement for a period of six months.
 
-(Added Pub. L. 104–106, div. A, title V, § 563(a)(1)(A), Feb. 10, 1996, 110 Stat. 325; amended Pub. L. 104–201, div. A, title X, § 1074(a)(6), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 104–106, div. A, title V, § 563(a)(1)(A), Feb. 10, 1996, 110 Stat. 325; amended Pub. L. 104–201, div. A, title X, § 1074(a)(6), Sept. 23, 1996, 110 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1167, acts Aug. 10, 1956, ch. 1041, 70A Stat. 91; June 28, 1962, Pub. L. 87–509, § 4(a), 76 Stat. 121; Sept. 7, 1962, Pub. L. 87–649, § 6(f)(3), 76 Stat. 494, related to severance pay of regular warrant officers, prior to repeal by Pub. L. 96–513, title I, § 109(b)(3), title VII, § 701, Dec. 12, 1980, 94 Stat. 2870, 2955, effective Sept. 15, 1981.
+A prior section 1167, acts Aug. 10, 1956, ch. 1041, 70A Stat. 91; June 28, 1962, Pub. L. 87–509, § 4(a), 76 Stat. 121; Sept. 7, 1962, Pub. L. 87–649, § 6(f)(3), 76 Stat. 494, related to severance pay of regular warrant officers, prior to repeal by Pub. L. 96–513, title I, § 109(b)(3), title VII, § 701, Dec. 12, 1980, 94 Stat. 2870, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
 1996—Pub. L. 104–201 substituted “member has served” for “person has served”.
 
-## § 1168. Discharge or release from active duty: limitations
+## § 1168. Discharge or release from active duty: limitations
 
 **(a)** A member of an armed force may not be discharged or released from active duty until his discharge certificate or certificate of release from active duty, respectively, and his final pay or a substantial part of that pay, are ready for delivery to him or his next of kin or legal representative.
 
 **(b)** This section does not prevent the immediate transfer of a member to a facility of the Department of Veterans Affairs for necessary hospital care.
 
-(Added Pub. L. 87–651, title I, § 106(b), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(4), Nov. 29, 1989, 103 Stat. 1603.)
+(Added Pub. L. 87–651, title I, § 106(b), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(4), Nov. 29, 1989, 103 Stat. 1603.)
 
 **Historical and Revision Notes**
 
@@ -423,7 +423,7 @@ The new section 1168 of title 10 is transferred from section 1218(a) and (c) of 
 
 **Machine Readability and Electronic Transferability of Certificate of Release or Discharge From Active Duty (DD Form 214)**
 
-Pub. L. 116–92, div. A, title V, § 569, Dec. 20, 2019, 133 Stat. 1397, provided that:
+Pub. L. 116–92, div. A, title V, § 569, Dec. 20, 2019, 133 Stat. 1397, provided that:
 
 > **“(a) Modification Required.—** The Secretary of Defense shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) to—
 
@@ -445,7 +445,7 @@ Pub. L. 116–92, div. A, title V, § 569, Dec. 20, 2019, 133 Stat. 1397, prov
 
 **Modification of Certificate of Release or Discharge From Active Duty (DD Form 214)**
 
-Pub. L. 110–181, div. A, title V, § 596, Jan. 28, 2008, 122 Stat. 139, provided that:
+Pub. L. 110–181, div. A, title V, § 596, Jan. 28, 2008, 122 Stat. 139, provided that:
 
 > “The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall modify the Certificate of Release or Discharge from Active Duty (DD Form 214) in order to permit a member of the Armed Forces, upon discharge or release from active duty in the Armed Forces, to elect that the DD–214 issued with regard to the member be forwarded to the following:
 
@@ -453,7 +453,7 @@ Pub. L. 110–181, div. A, title V, § 596, Jan. 28, 2008, 122 Stat. 139, prov
 
 > **“(2)** The appropriate office of the Department of Veterans Affairs for the State or other locality in which the member will first reside after such discharge or release.”
 
-## § 1169. Regular enlisted members: limitations on discharge
+## § 1169. Regular enlisted members: limitations on discharge
 
 No regular enlisted member of an armed force may be discharged before his term of service expires, except—
 
@@ -463,9 +463,9 @@ No regular enlisted member of an armed force may be discharged before his term o
 
 **(3)** as otherwise provided by law.
 
-(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
+(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
 
-## § 1170. Regular enlisted members: minority discharge
+## § 1170. Regular enlisted members: minority discharge
 
 Upon application by the parents or guardian of a regular enlisted member of an armed force to the Secretary concerned within 90 days after the member’s enlistment, the member shall be discharged for his own convenience, with the pay and form of discharge certificate to which his service entitles him, if—
 
@@ -473,13 +473,13 @@ Upon application by the parents or guardian of a regular enlisted member of an a
 
 **(2)** the member enlisted without the written consent of his parent or guardian.
 
-(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
+(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
 
-## § 1171. Regular enlisted members: early discharge
+## § 1171. Regular enlisted members: early discharge
 
 Under regulations prescribed by the Secretary concerned and approved by the President, any regular enlisted member of an armed force may be discharged within one year before the expiration of the term of his enlistment or extended enlistment. A discharge under this section does not affect any right, privilege, or benefit that a member would have had if he completed his enlistment or extended enlistment, except that the member is not entitled to pay and allowances for the period not served.
 
-(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757; amended Pub. L. 112–81, div. A, title V, § 525, Dec. 31, 2011, 125 Stat. 1401.)
+(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757; amended Pub. L. 112–81, div. A, title V, § 525, Dec. 31, 2011, 125 Stat. 1401.)
 
 **Editorial Notes**
 
@@ -497,17 +497,17 @@ By virtue of the authority vested in me by section 301 of title 3 of the United 
 
 Richard Nixon.
 
-## § 1172. Enlisted members: during war or emergency; discharge
+## § 1172. Enlisted members: during war or emergency; discharge
 
 A person enlisted under section 518 of this title may be discharged at any time by the President, or otherwise according to law.
 
-(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
+(Added Pub. L. 90–235, § 3(a)(1)(A), Jan. 2, 1968, 81 Stat. 757.)
 
-## § 1173. Enlisted members: discharge for hardship
+## § 1173. Enlisted members: discharge for hardship
 
 Under regulations prescribed by the Secretary concerned, a regular enlisted member of an armed force who has dependents may be discharged for hardship.
 
-(Added Pub. L. 93–64, title I, § 102, July 9, 1973, 87 Stat. 147.)
+(Added Pub. L. 93–64, title I, § 102, July 9, 1973, 87 Stat. 147.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -515,7 +515,7 @@ Under regulations prescribed by the Secretary concerned, a regular enlisted memb
 
 Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a note under section 401 of Title 37, Pay and Allowances of the Uniformed Services.
 
-## § 1174. Separation pay upon involuntary discharge or release from active duty
+## § 1174. Separation pay upon involuntary discharge or release from active duty
 
 **(a) Regular Officers.—**
 
@@ -607,21 +607,21 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 
 **(2)** Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
-(Added Pub. L. 96–513, title I, § 109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, § 10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§ 911(a), (b), 923(b), title X, § 1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, § 320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, § 1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, § 501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, § 560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, § 653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, § 1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, § 502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, § 1 [[div. A], title V, § 508(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, § 501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, § 3, Aug. 29, 2008, 122 Stat. 3527; Pub. L. 111–32, title III, § 318(a), June 24, 2009, 123 Stat. 1873; Pub. L. 111–383, div. A, title X, § 1075(b)(17), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(K), (3)(S), Jan. 1, 2021, 134 Stat. 3820, 3821; Pub. L. 118–31, div. A, title XVII, § 1722(i)(2), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 96–513, title I, § 109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, § 10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§ 911(a), (b), 923(b), title X, § 1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, § 320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, § 1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, § 501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, § 560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, § 653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, § 1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, § 502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, § 1 [[div. A], title V, § 508(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, § 501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, § 3, Aug. 29, 2008, 122 Stat. 3527; Pub. L. 111–32, title III, § 318(a), June 24, 2009, 123 Stat. 1873; Pub. L. 111–383, div. A, title X, § 1075(b)(17), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(K), (3)(S), Jan. 1, 2021, 134 Stat. 3820, 3821; Pub. L. 118–31, div. A, title XVII, § 1722(i)(2), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
+Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 **Amendments**
 
-2023—Subsec. (a)(2). Pub. L. 118–31 substituted “or Marine Corps” for “, Marine Corps, or Space Force” in two places.
+2023—Subsec. (a)(2). Pub. L. 118–31 substituted “or Marine Corps” for “, Marine Corps, or Space Force” in two places.
 
-2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(3)(S), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
+2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(3)(S), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
 
-Subsec. (j)(1). Pub. L. 116–283, § 924(b)(1)(K), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+Subsec. (j)(1). Pub. L. 116–283, § 924(b)(1)(K), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 2018—Subsec. (a)(1), (4). Pub. L. 115–232 substituted “section 580 or 8372” for “section 580 or 6383”.
 
@@ -631,49 +631,49 @@ Subsec. (j)(1). Pub. L. 116–283, § 924(b)(1)(K), substituted “Marine Corp
 
 2008—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2004—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
+2004—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
 
-2000—Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 508(a)], added par. (4).
+2000—Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 508(a)], added par. (4).
 
-Subsec. (c)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 508(b)], added par. (4).
+Subsec. (c)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 508(b)], added par. (4).
 
 1998—Subsec. (a)(3). Pub. L. 105–261 added par. (3).
 
-1997—Subsec. (a)(1). Pub. L. 105–85 struck out “, 1177,” before “or 6383 of this title”.
+1997—Subsec. (a)(1). Pub. L. 105–85 struck out “, 1177,” before “or 6383 of this title”.
 
-1996—Subsec. (h)(2). Pub. L. 104–201 inserted “, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986)” before period at end of first sentence.
+1996—Subsec. (h)(2). Pub. L. 104–201 inserted “, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986)” before period at end of first sentence.
 
-1994—Subsec. (a)(1). Pub. L. 103–337 inserted “, 1177,” after “section 580”.
+1994—Subsec. (a)(1). Pub. L. 103–337 inserted “, 1177,” after “section 580”.
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “six” for “five”.
 
 1991—Subsec. (a)(1). Pub. L. 102–190 substituted “section 580” for “section 564”.
 
-1990—Subsec. (a). Pub. L. 101–510, § 501(a)(1), inserted heading.
+1990—Subsec. (a). Pub. L. 101–510, § 501(a)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101–510, § 501(g)(1), substituted “or under section 564 or 6383 of this title” for “, under section 564 or 6383 of this title, or under section 603 or 604 of the Defense Officer Personnel Management Act” and struck out “or release” after “that discharge”.
+Subsec. (a)(1). Pub. L. 101–510, § 501(g)(1), substituted “or under section 564 or 6383 of this title” for “, under section 564 or 6383 of this title, or under section 603 or 604 of the Defense Officer Personnel Management Act” and struck out “or release” after “that discharge”.
 
-Subsec. (a)(2). Pub. L. 101–510, § 501(b)(1), substituted “six or more” for “five or more”.
+Subsec. (a)(2). Pub. L. 101–510, § 501(b)(1), substituted “six or more” for “five or more”.
 
-Pub. L. 101–510, § 501(a)(2), redesignated subsec. (b) as subsec. (a)(2).
+Pub. L. 101–510, § 501(a)(2), redesignated subsec. (b) as subsec. (a)(2).
 
-Subsec. (b). Pub. L. 101–510, § 501(a)(3), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+Subsec. (b). Pub. L. 101–510, § 501(a)(3), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-Subsec. (c). Pub. L. 101–510, § 501(h)(1), inserted heading.
+Subsec. (c). Pub. L. 101–510, § 501(h)(1), inserted heading.
 
-Subsec. (c)(1). Pub. L. 101–510, § 501(g)(2), struck out “after September 14, 1981,” after “member who” in introductory provisions.
+Subsec. (c)(1). Pub. L. 101–510, § 501(g)(2), struck out “after September 14, 1981,” after “member who” in introductory provisions.
 
-Pub. L. 101–510, § 501(b)(1), substituted “six or more” for “five or more” in introductory provisions.
+Pub. L. 101–510, § 501(b)(1), substituted “six or more” for “five or more” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 101–510, § 501(b)(2), substituted “at least six years” for “at least five years”.
+Subsec. (c)(3). Pub. L. 101–510, § 501(b)(2), substituted “at least six years” for “at least five years”.
 
-Subsec. (d). Pub. L. 101–510, § 501(h)(2), inserted heading.
+Subsec. (d). Pub. L. 101–510, § 501(h)(2), inserted heading.
 
-Subsec. (d)(1). Pub. L. 101–510, § 501(c)(1)(A), struck out “or $30,000, whichever is less” after “active duty”.
+Subsec. (d)(1). Pub. L. 101–510, § 501(c)(1)(A), struck out “or $30,000, whichever is less” after “active duty”.
 
-Subsec. (d)(2). Pub. L. 101–510, § 501(c)(1)(B), struck out “, but in no event more than $15,000” after “under clause (1)”.
+Subsec. (d)(2). Pub. L. 101–510, § 501(c)(1)(B), struck out “, but in no event more than $15,000” after “under clause (1)”.
 
-Subsec. (e). Pub. L. 101–510, § 501(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member who—
+Subsec. (e). Pub. L. 101–510, § 501(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member who—
 
 “(1) is discharged or released from active duty at his request;
 
@@ -683,27 +683,27 @@ Subsec. (e). Pub. L. 101–510, § 501(d), amended subsec. (e) generally. Prio
 
 is not eligible for separation pay under this section.”
 
-Subsec. (f). Pub. L. 101–510, § 501(h)(3), inserted heading.
+Subsec. (f). Pub. L. 101–510, § 501(h)(3), inserted heading.
 
-Subsec. (g). Pub. L. 101–510, § 501(h)(4), inserted heading.
+Subsec. (g). Pub. L. 101–510, § 501(h)(4), inserted heading.
 
-Pub. L. 101–510, § 501(c)(2), struck out “(1)” after “(g)” and struck out par. (2) which read as follows: “The total amount that a member may receive in separation pay under this section and severance pay and readjustment pay under any other provision of law, other than section 1212 of this title, based on service in the armed forces may not exceed $30,000.”
+Pub. L. 101–510, § 501(c)(2), struck out “(1)” after “(g)” and struck out par. (2) which read as follows: “The total amount that a member may receive in separation pay under this section and severance pay and readjustment pay under any other provision of law, other than section 1212 of this title, based on service in the armed forces may not exceed $30,000.”
 
-Subsec. (h). Pub. L. 101–510, § 501(h)(5), inserted heading.
+Subsec. (h). Pub. L. 101–510, § 501(h)(5), inserted heading.
 
-Subsec. (i). Pub. L. 101–510, § 501(h)(6), inserted heading.
+Subsec. (i). Pub. L. 101–510, § 501(h)(6), inserted heading.
 
 1989—Subsec. (h)(2). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1984—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
 
-1983—Subsec. (c). Pub. L. 98–94, § 911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
+1983—Subsec. (c). Pub. L. 98–94, § 911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 98–94, § 923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+Subsec. (f). Pub. L. 98–94, § 923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
-Subsec. (g)(2). Pub. L. 98–94, § 911(b), inserted “, other than section 1212 of this title,” after “any other provision of law”.
+Subsec. (g)(2). Pub. L. 98–94, § 911(b), inserted “, other than section 1212 of this title,” after “any other provision of law”.
 
-Subsec. (i). Pub. L. 98–94, § 1007(c)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (i). Pub. L. 98–94, § 1007(c)(2), designated existing provisions as par. (1) and added par. (2).
 
 1981—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
 
@@ -715,7 +715,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–32, title III, § 318(c), June 24, 2009, 123 Stat. 1874, provided that: “The amendments made by this section [amending this section and section 1175 of this title] shall apply to any repayments of separation pay, severance pay, readjustment pay, special separation benefit, or voluntary separation incentive, that occur on or after the date of enactment [June 24, 2009], including any ongoing repayment actions that were initiated prior to this amendment.”
+Pub. L. 111–32, title III, § 318(c), June 24, 2009, 123 Stat. 1874, provided that: “The amendments made by this section [amending this section and section 1175 of this title] shall apply to any repayments of separation pay, severance pay, readjustment pay, special separation benefit, or voluntary separation incentive, that occur on or after the date of enactment [June 24, 2009], including any ongoing repayment actions that were initiated prior to this amendment.”
 
 **Effective Date of 2008 Amendment**
 
@@ -727,7 +727,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 508(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–107, provided that: “Paragraph (4) of section 1174(a) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1174(c) of such title, as added by subsection (b), shall apply with respect to any offer of selective continuation on active duty that is declined on or after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title V, § 508(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–107, provided that: “Paragraph (4) of section 1174(a) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1174(c) of such title, as added by subsection (b), shall apply with respect to any offer of selective continuation on active duty that is declined on or after the date of the enactment of this Act [Oct. 30, 2000].”
 
 **Effective Date of 1998 Amendment**
 
@@ -735,13 +735,13 @@ Amendment by Pub. L. 105–261 applicable with respect to selection boards conve
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 105–178, title VIII, § 8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section 653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program under section 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
+Pub. L. 105–178, title VIII, § 8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section 653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program under section 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
 
-Pub. L. 104–201, div. A, title VI, § 653(b), Sept. 23, 1996, 110 Stat. 2583, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1996, and shall apply to payments of separation pay, severance pay, or readjustment pay that are made after September 30, 1996.”
+Pub. L. 104–201, div. A, title VI, § 653(b), Sept. 23, 1996, 110 Stat. 2583, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1996, and shall apply to payments of separation pay, severance pay, or readjustment pay that are made after September 30, 1996.”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title V, § 501(b), Nov. 30, 1993, 107 Stat. 1644, provided that:
+Pub. L. 103–160, div. A, title V, § 501(b), Nov. 30, 1993, 107 Stat. 1644, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply with respect to any regular officer who is discharged after the date of the enactment of this Act [Nov. 30, 1993].
 
@@ -753,7 +753,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title V, § 501(e), Nov. 5, 1990, 104 Stat. 1550, provided that:
+Pub. L. 101–510, div. A, title V, § 501(e), Nov. 5, 1990, 104 Stat. 1550, provided that:
 
 > **“(1)** Except as provided in paragraph (2), subsection (b) of section 1174 of title 10, United States Code, as added by subsection (a), and the amendments made by subsections (b), (c), and (d) [amending this section] shall apply with respect to a member of the Armed Forces who is discharged, or released from active duty, after the date of the enactment of this Act [Nov. 5, 1990].
 
@@ -761,13 +761,13 @@ Pub. L. 101–510, div. A, title V, § 501(e), Nov. 5, 1990, 104 Stat. 1550, p
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 911(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, § 911(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1983.”
 
-Pub. L. 98–94, title IX, § 923(g), Sept. 24, 1983, 97 Stat. 644, provided that: “The amendments made by this section [amending this section and sections 1401, 1402, 1402a, 3991, 3992, 6151, 6328, 6330, 6404, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853*o* of Title 33, Navigation and Navigable Waters, and section 212 of Title 42, The Public Health and Welfare] shall apply with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after September 30, 1983, and (2) the recomputation of retired pay under section 1402, 1402a, 3992 [now 7362], or 8992 [now 9362] of title 10, United States Code, of any individual who after September 30, 1983, becomes entitled to recompute retired pay under any such section.”
+Pub. L. 98–94, title IX, § 923(g), Sept. 24, 1983, 97 Stat. 644, provided that: “The amendments made by this section [amending this section and sections 1401, 1402, 1402a, 3991, 3992, 6151, 6328, 6330, 6404, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853*o* of Title 33, Navigation and Navigable Waters, and section 212 of Title 42, The Public Health and Welfare] shall apply with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after September 30, 1983, and (2) the recomputation of retired pay under section 1402, 1402a, 3992 [now 7362], or 8992 [now 9362] of title 10, United States Code, of any individual who after September 30, 1983, becomes entitled to recompute retired pay under any such section.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 **Effective Date**
 
@@ -777,7 +777,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## § 1174a. Special separation benefits programs
+## § 1174a. Special separation benefits programs
 
 **(a) Requirement for Programs.—** The Secretary concerned shall carry out a special separation benefits program under this section. An eligible member of the armed forces may request separation under the program. The request shall be subject to the approval of the Secretary.
 
@@ -789,9 +789,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(A)** separation pay equal to 15 percent of the product of (i) the member’s years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-**(B)** the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 1
+**(B)** the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
@@ -853,7 +853,7 @@ note) for members of the armed forces who are involuntarily separated within the
 
 **(2)** No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
-(Added Pub. L. 102–190, div. A, title VI, § 661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, § 1052(15), div. D, title XLIV, §§ 4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, § 202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§ 502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, § 542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(2), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 102–190, div. A, title VI, § 661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, § 1052(15), div. D, title XLIV, §§ 4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, § 202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§ 502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, § 542(b), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(b), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(2), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
@@ -865,47 +865,47 @@ Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, r
 
 2022—Subsec. (b)(2)(B). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
 
-2013—Subsec. (b)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (b)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
+2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
 
 2000—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
 1998—Subsec. (h)(1). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 542(b)(1), substituted “concerned” for “of each military department”.
+1994—Subsec. (a). Pub. L. 103–337, § 542(b)(1), substituted “concerned” for “of each military department”.
 
-Subsec. (d). Pub. L. 103–337, § 542(b)(2), substituted “concerned” for “of a military department”.
+Subsec. (d). Pub. L. 103–337, § 542(b)(2), substituted “concerned” for “of a military department”.
 
-Subsec. (e)(3). Pub. L. 103–337, § 542(b)(3), struck out “of the military department” after “Secretary”.
+Subsec. (e)(3). Pub. L. 103–337, § 542(b)(3), struck out “of the military department” after “Secretary”.
 
-Subsec. (h). Pub. L. 103–337, § 542(b)(4), substituted “concerned” for “of a military department”.
+Subsec. (h). Pub. L. 103–337, § 542(b)(4), substituted “concerned” for “of a military department”.
 
-1993—Subsec. (c)(2). Pub. L. 103–160, § 502, struck out “before December 5, 1991” after “6 years”.
+1993—Subsec. (c)(2). Pub. L. 103–160, § 502, struck out “before December 5, 1991” after “6 years”.
 
-Subsec. (c)(3). Pub. L. 103–35, § 202(a)(17)(A), made technical amendment to directory language of Pub. L. 102–484, § 4422(a)(3). See 1992 Amendment note below.
+Subsec. (c)(3). Pub. L. 103–35, § 202(a)(17)(A), made technical amendment to directory language of Pub. L. 102–484, § 4422(a)(3). See 1992 Amendment note below.
 
-Subsec. (c)(4). Pub. L. 103–35, § 202(a)(17)(B), made technical amendment to directory language of Pub. L. 102–484, § 4422(a)(4). See 1992 Amendment note below.
+Subsec. (c)(4). Pub. L. 103–35, § 202(a)(17)(B), made technical amendment to directory language of Pub. L. 102–484, § 4422(a)(4). See 1992 Amendment note below.
 
-Subsec. (h)(1). Pub. L. 103–160, § 561(g), substituted “September 30, 1999” for “September 30, 1995”.
+Subsec. (h)(1). Pub. L. 103–160, § 561(g), substituted “September 30, 1999” for “September 30, 1995”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, § 4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
+1992—Subsec. (b)(1). Pub. L. 102–484, § 4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
 
-Subsec. (b)(2)(B). Pub. L. 102–484, § 4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
+Subsec. (b)(2)(B). Pub. L. 102–484, § 4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
 
-Subsec. (c)(2). Pub. L. 102–484, §§ 1052(15), 4422(a)(2), substituted “December 5, 1991” for “the date of the enactment of this section” and inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+Subsec. (c)(2). Pub. L. 102–484, §§ 1052(15), 4422(a)(2), substituted “December 5, 1991” for “the date of the enactment of this section” and inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (c)(3). Pub. L. 102–484, § 4422(a)(3), as amended by Pub. L. 103–35, § 202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+Subsec. (c)(3). Pub. L. 102–484, § 4422(a)(3), as amended by Pub. L. 103–35, § 202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (c)(4). Pub. L. 102–484, § 4422(a)(4), as amended by Pub. L. 103–35, § 202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+Subsec. (c)(4). Pub. L. 102–484, § 4422(a)(4), as amended by Pub. L. 103–35, § 202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
 
-Subsec. (c)(5), (6). Pub. L. 102–484, § 4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
+Subsec. (c)(5), (6). Pub. L. 102–484, § 4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -917,11 +917,11 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title XLIV, § 4405(c), Oct. 23, 1992, 106 Stat. 2706, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1175 of this title] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act [Oct. 23, 1992] shall be subject to the availability of appropriations.”
+Pub. L. 102–484, div. A, title XLIV, § 4405(c), Oct. 23, 1992, 106 Stat. 2706, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1175 of this title] shall apply as if included in sections 1174a and 1175 of title 10, United States Code, as enacted on December 5, 1991, but any benefits or services payable by reason of the applicability of the provisions of those amendments during the period beginning on December 5, 1991, and ending on the date of the enactment of this Act [Oct. 23, 1992] shall be subject to the availability of appropriations.”
 
 **Remedy for Ineffective Counseling of Officers Discharged Following Selection by Early Discharge Boards**
 
-Pub. L. 103–160, div. A, title V, § 507, Nov. 30, 1993, 107 Stat. 1646, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(1), Oct. 5, 1994, 108 Stat. 2856, provided that:
+Pub. L. 103–160, div. A, title V, § 507, Nov. 30, 1993, 107 Stat. 1646, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(1), Oct. 5, 1994, 108 Stat. 2856, provided that:
 
 > **“(a) Procedure for Review.—**
 
@@ -953,19 +953,19 @@ Pub. L. 103–160, div. A, title V, § 507, Nov. 30, 1993, 107 Stat. 1646, as 
 
 **Separation Payments; Reductions and Prohibitions**
 
-Pub. L. 103–335, title VIII, § 8106A, Sept. 30, 1994, 108 Stat. 2645, as amended by Pub. L. 104–6, title I, § 105(a), Apr. 10, 1995, 109 Stat. 79, which provided that members who separated after Sept. 30, 1994, from active duty or full-time National Guard duty in a military department pursuant to a Special Separation Benefits program under section 1174a of this title or a Voluntary Separation Incentive program under section 1175 of this title would have their separation payments reduced by the amount of certain bonus payments and eliminated if they are rehired within 180 days by the Department of Defense in a civilian position and that civilian Department of Defense employees would not receive voluntary separation payments if rehired by a Federal agency within 180 days of separating from the Department of Defense, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 103–335, title VIII, § 8106A, Sept. 30, 1994, 108 Stat. 2645, as amended by Pub. L. 104–6, title I, § 105(a), Apr. 10, 1995, 109 Stat. 79, which provided that members who separated after Sept. 30, 1994, from active duty or full-time National Guard duty in a military department pursuant to a Special Separation Benefits program under section 1174a of this title or a Voluntary Separation Incentive program under section 1175 of this title would have their separation payments reduced by the amount of certain bonus payments and eliminated if they are rehired within 180 days by the Department of Defense in a civilian position and that civilian Department of Defense employees would not receive voluntary separation payments if rehired by a Federal agency within 180 days of separating from the Department of Defense, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 103–139, title VIII, § 8127, Nov. 11, 1993, 107 Stat. 1469.
+Pub. L. 103–139, title VIII, § 8127, Nov. 11, 1993, 107 Stat. 1469.
 
 **Commencement of Program**
 
-Pub. L. 102–190, div. A, title VI, § 661(b), Dec. 5, 1991, 105 Stat. 1395, provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title VI, § 661(b), Dec. 5, 1991, 105 Stat. 1395, provided that: “The Secretary of each military department shall commence the program required by section 1174a of title 10, United States Code (as added by subsection (a)), not later than 60 days after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Report on Programs**
 
-Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary’s assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
+Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary’s assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
 
-## § 1175. Voluntary separation incentive
+## § 1175. Voluntary separation incentive
 
 **(a)**
 
@@ -1073,13 +1073,13 @@ Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, dir
 
 **(i)** The Secretary of Defense and the Secretary of Homeland Security may issue such regulations as may be necessary to carry out this section.
 
-**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 1
+**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, § 662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, § 1052(16), div. D, title XLIV, §§ 4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§ 502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, § 542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§ 561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, § 1 [[div. A], title V, §§ 571(b), 572(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, § 906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, § 318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(3), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 102–190, div. A, title VI, § 662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, § 1052(16), div. D, title XLIV, §§ 4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§ 502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, § 542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§ 561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, § 1 [[div. A], title V, §§ 571(b), 572(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, § 906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, § 318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(3), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
@@ -1091,9 +1091,9 @@ Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, r
 
 2022—Subsec. (j). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
 
-2013—Subsec. (j). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (j). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (j). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
+2011—Subsec. (j). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
 
 2009—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
@@ -1101,53 +1101,53 @@ Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, r
 
 2002—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 571(b)], substituted “December 31, 2001” for “September 30, 2001”.
+2000—Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 571(b)], substituted “December 31, 2001” for “September 30, 2001”.
 
-Subsec. (e)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 572(a)], designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (e)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 572(a)], designated existing provisions as subpar. (A) and added subpar. (B).
 
-1998—Subsec. (a). Pub. L. 105–261, § 563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
+1998—Subsec. (a). Pub. L. 105–261, § 563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
 
-Subsec. (d)(3). Pub. L. 105–261, § 561(b), substituted “September 30, 2001” for “September 30, 1999”.
+Subsec. (d)(3). Pub. L. 105–261, § 561(b), substituted “September 30, 2001” for “September 30, 1999”.
 
-Subsec. (e)(1). Pub. L. 105–261, § 563(b), struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
+Subsec. (e)(1). Pub. L. 105–261, § 563(b), struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
 
-1994—Subsecs. (a), (b). Pub. L. 103–337, § 542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+1994—Subsecs. (a), (b). Pub. L. 103–337, § 542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (c). Pub. L. 103–337, § 542(c)(2), struck out “of the military department” after “Secretary”.
+Subsec. (c). Pub. L. 103–337, § 542(c)(2), struck out “of the military department” after “Secretary”.
 
-Subsec. (g). Pub. L. 103–337, § 542(c)(3), inserted “and the Department of Transportation for the Coast Guard” before period at end.
+Subsec. (g). Pub. L. 103–337, § 542(c)(3), inserted “and the Department of Transportation for the Coast Guard” before period at end.
 
-Subsec. (h)(3). Pub. L. 103–337, § 542(c)(4), inserted “by the Secretary of Defense” after “incentive payments made” and “to the Secretary” after “shall be available”.
+Subsec. (h)(3). Pub. L. 103–337, § 542(c)(4), inserted “by the Secretary of Defense” after “incentive payments made” and “to the Secretary” after “shall be available”.
 
-Subsec. (i). Pub. L. 103–337, § 542(c)(5), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+Subsec. (i). Pub. L. 103–337, § 542(c)(5), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-1993—Subsec. (d)(1). Pub. L. 103–160, § 502, struck out “before December 5, 1991” after “active service”.
+1993—Subsec. (d)(1). Pub. L. 103–160, § 502, struck out “before December 5, 1991” after “active service”.
 
-Subsecs. (d)(3), (h)(6). Pub. L. 103–160, § 561(h)(1), substituted “September 30, 1999” for “September 30, 1995” wherever appearing.
+Subsecs. (d)(3), (h)(6). Pub. L. 103–160, § 561(h)(1), substituted “September 30, 1999” for “September 30, 1995” wherever appearing.
 
-Subsec. (h)(7)(A). Pub. L. 103–160, § 561(h)(2), substituted “fiscal year 1999” for “fiscal year 1996”.
+Subsec. (h)(7)(A). Pub. L. 103–160, § 561(h)(2), substituted “fiscal year 1999” for “fiscal year 1996”.
 
-1992—Subsec. (a). Pub. L. 102–484, § 1052(16)(A), substituted “reserve component” for “Reserve component” after “transfer to a”.
+1992—Subsec. (a). Pub. L. 102–484, § 1052(16)(A), substituted “reserve component” for “Reserve component” after “transfer to a”.
 
-Subsec. (b)(1), (2). Pub. L. 102–484, § 4422(b)(1), (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+Subsec. (b)(1), (2). Pub. L. 102–484, § 4422(b)(1), (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (b)(3), (4). Pub. L. 102–484, § 4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
+Subsec. (b)(3), (4). Pub. L. 102–484, § 4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
 
-Subsec. (d)(1). Pub. L. 102–484, § 1052(16)(B), substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
+Subsec. (d)(1). Pub. L. 102–484, § 1052(16)(B), substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
 
-Subsec. (e)(2). Pub. L. 102–484, § 4406(a)(1), substituted “may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.” for “shall forfeit an amount of voluntary separation incentive payable for the same period that is equal to the total amount of basic pay, or compensation, received.”
+Subsec. (e)(2). Pub. L. 102–484, § 4406(a)(1), substituted “may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.” for “shall forfeit an amount of voluntary separation incentive payable for the same period that is equal to the total amount of basic pay, or compensation, received.”
 
-Subsec. (e)(3). Pub. L. 102–484, § 4406(a)(2), inserted at end “If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
+Subsec. (e)(3). Pub. L. 102–484, § 4406(a)(2), inserted at end “If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
-Subsec. (e)(6). Pub. L. 102–484, § 4406(b), struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
+Subsec. (e)(6). Pub. L. 102–484, § 4406(b), struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
 
-Subsec. (j). Pub. L. 102–484, § 4405(b), added subsec. (j).
+Subsec. (j). Pub. L. 102–484, § 4405(b), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2009 Amendment**
 
@@ -1159,11 +1159,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 572(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, provided that: “Subparagraph (B) of section 1175(e)(3) of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under section 1175 of title 10, United States Code, to be effective after September 30, 2000.”
+Pub. L. 106–398, § 1 [[div. A], title V, § 572(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, provided that: “Subparagraph (B) of section 1175(e)(3) of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under section 1175 of title 10, United States Code, to be effective after September 30, 2000.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title V, § 563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section [amending this section] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title V, § 563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section [amending this section] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) [Oct. 17, 1998].”
 
 **Effective Date of 1994 Amendment**
 
@@ -1173,21 +1173,21 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 Amendment by section 4405(b) of Pub. L. 102–484 applicable as if included in this section as enacted Dec. 5, 1991, with any benefits or services payable by reason of applicability of that amendment during the period beginning Dec. 5, 1991, and ending Oct. 23, 1992, to be subject to availability of appropriations, see section 4405(c) of Pub. L. 102–484, set out as a note under section 1174a of this title.
 
-Pub. L. 102–484, div. D, title XLIV, § 4406(c), Oct. 23, 1992, 106 Stat. 2707, provided that: “The amendments to section 1175 of title 10, United States Code, made by subsections (a) and (b) shall apply as if included in section 1175 of title 10, United States Code, as enacted on December 5, 1991.”
+Pub. L. 102–484, div. D, title XLIV, § 4406(c), Oct. 23, 1992, 106 Stat. 2707, provided that: “The amendments to section 1175 of title 10, United States Code, made by subsections (a) and (b) shall apply as if included in section 1175 of title 10, United States Code, as enacted on December 5, 1991.”
 
 **Payment of Incentives From Voluntary Separation Incentive Fund**
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8044], Sept. 30, 1996, 110 Stat. 3009–71, 3009–98, provided that: “During the current fiscal year and hereafter, voluntary separation incentives payable under 10 U.S.C. 1175 may be paid in such amounts as are necessary from the assets of the Voluntary Separation Incentive Fund established by section 1175(h)(1).”
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8044], Sept. 30, 1996, 110 Stat. 3009–71, 3009–98, provided that: “During the current fiscal year and hereafter, voluntary separation incentives payable under 10 U.S.C. 1175 may be paid in such amounts as are necessary from the assets of the Voluntary Separation Incentive Fund established by section 1175(h)(1).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–61, title VIII, § 8054, Dec. 1, 1995, 109 Stat. 662.
+Pub. L. 104–61, title VIII, § 8054, Dec. 1, 1995, 109 Stat. 662.
 
-Pub. L. 103–335, title VIII, § 8062, Sept. 30, 1994, 108 Stat. 2633.
+Pub. L. 103–335, title VIII, § 8062, Sept. 30, 1994, 108 Stat. 2633.
 
-Pub. L. 103–139, title VIII, § 8073, Nov. 11, 1993, 107 Stat. 1457.
+Pub. L. 103–139, title VIII, § 8073, Nov. 11, 1993, 107 Stat. 1457.
 
-Pub. L. 102–396, title IX, § 9106, Oct. 6, 1992, 106 Stat. 1927.
+Pub. L. 102–396, title IX, § 9106, Oct. 6, 1992, 106 Stat. 1927.
 
 **Separation Payments; Reductions and Prohibitions**
 
@@ -1195,9 +1195,9 @@ For provisions reducing, with certain exceptions, amounts received under this se
 
 **Tax Treatment of Incentive Payment**
 
-Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, provided that: “Notwithstanding the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
+Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, provided that: “Notwithstanding the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
 
-## § 1175a. Voluntary separation pay and benefits
+## § 1175a. Voluntary separation pay and benefits
 
 **(a) In General.—** Under regulations approved by the Secretary of Defense, the Secretary concerned may provide voluntary separation pay and benefits in accordance with this section to eligible members of the armed forces who are voluntarily separated from active duty in the armed forces.
 
@@ -1305,13 +1305,13 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, 
 
 **(2)** A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, § 643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, § 623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, § 1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, § 1075(b)(18), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title V, § 526, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1401, 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title V, §§ 508(c), 526, Dec. 23, 2016, 130 Stat. 2109, 2117; Pub. L. 116–92, div. A, title VI, § 603, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 117–263, div. A, title VI, § 626(c)(4), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 119–60, div. A, title VI, § 612, Dec. 18, 2025, 139 Stat. 907.)
+(Added Pub. L. 109–163, div. A, title VI, § 643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, § 623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, § 1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, § 1075(b)(18), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title V, § 526, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1401, 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title V, §§ 508(c), 526, Dec. 23, 2016, 130 Stat. 2109, 2117; Pub. L. 116–92, div. A, title VI, § 603, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 117–263, div. A, title VI, § 626(c)(4), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 119–60, div. A, title VI, § 612, Dec. 18, 2025, 139 Stat. 907.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
+Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 **Amendments**
 
@@ -1319,41 +1319,41 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A
 
 2022—Subsec. (e)(2)(B). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
 
-2019—Subsec. (j)(1). Pub. L. 116–92, § 603(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+2019—Subsec. (j)(1). Pub. L. 116–92, § 603(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-Subsec. (j)(4), (5). Pub. L. 116–92, § 603(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (j)(4), (5). Pub. L. 116–92, § 603(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-2016—Subsec. (j)(2). Pub. L. 114–328, § 526(1), substituted “12304, 12304a, or 12304b” for “or 12304” and “502(f)(1)(A)” for “502(f)(1)”.
+2016—Subsec. (j)(2). Pub. L. 114–328, § 526(1), substituted “12304, 12304a, or 12304b” for “or 12304” and “502(f)(1)(A)” for “502(f)(1)”.
 
-Subsec. (j)(3). Pub. L. 114–328, § 526(2), substituted “502(f)(1)(B)” for “502(f)(2)”.
+Subsec. (j)(3). Pub. L. 114–328, § 526(2), substituted “502(f)(1)(B)” for “502(f)(2)”.
 
-Subsec. (k)(1). Pub. L. 114–328, § 508(c), substituted “December 31, 2025” for “December 31, 2018”.
+Subsec. (k)(1). Pub. L. 114–328, § 508(c), substituted “December 31, 2025” for “December 31, 2018”.
 
-2013—Subsec. (e)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (e)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (e)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “476” for “406”.
+2011—Subsec. (e)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “476” for “406”.
 
 Subsec. (j)(3). Pub. L. 111–383 substituted “this title” for “title 10”.
 
-Subsec. (k)(1). Pub. L. 112–81, § 526, substituted “December 31, 2018” for “December 31, 2012”.
+Subsec. (k)(1). Pub. L. 112–81, § 526, substituted “December 31, 2018” for “December 31, 2012”.
 
 2009—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
 
-2006—Subsec. (f). Pub. L. 109–364, § 623(a)(1), substituted “four” for “two”.
+2006—Subsec. (f). Pub. L. 109–364, § 623(a)(1), substituted “four” for “two”.
 
-Subsec. (k)(1). Pub. L. 109–364, § 623(a)(2), substituted “2012” for “2008”.
+Subsec. (k)(1). Pub. L. 109–364, § 623(a)(2), substituted “2012” for “2008”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Limitation on Applicability**
 
-Pub. L. 109–163, div. A, title VI, § 643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, § 623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
+Pub. L. 109–163, div. A, title VI, § 643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, § 623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
 
-## § 1176. Enlisted members: retention after completion of 18 or more, but less than 20, years of service
+## § 1176. Enlisted members: retention after completion of 18 or more, but less than 20, years of service
 
 **(a) Regular Members.—** A regular enlisted member who is selected to be involuntarily separated, or whose term of enlistment expires and who is denied reenlistment, and who on the date on which the member is to be discharged is within two years of qualifying for retirement under section 7314 or 9314 of this title, or of qualifying for transfer to the Fleet Reserve or Fleet Marine Corps Reserve under section 8330 of this title, shall be retained on active duty until the member is qualified for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, as the case may be, unless the member is sooner retired or discharged under any other provision of law.
 
@@ -1371,7 +1371,7 @@ Pub. L. 109–163, div. A, title VI, § 643(b), Jan. 6, 2006, 119 Stat. 3310, 
 
 **(B)** the second anniversary of the date on which the member would otherwise be discharged or transferred from an active status.
 
-(Added Pub. L. 102–484, div. A, title V, § 541(a), Oct. 23, 1992, 106 Stat. 2412; amended Pub. L. 103–160, div. A, title V, § 562(a), Nov. 30, 1993, 107 Stat. 1669; Pub. L. 104–106, div. A, title XV, § 1501(c)(12), Feb. 10, 1996, 110 Stat. 499; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 102–484, div. A, title V, § 541(a), Oct. 23, 1992, 106 Stat. 2412; amended Pub. L. 103–160, div. A, title V, § 562(a), Nov. 30, 1993, 107 Stat. 1669; Pub. L. 104–106, div. A, title XV, § 1501(c)(12), Feb. 10, 1996, 110 Stat. 499; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -1391,13 +1391,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title V, § 562(b), Nov. 30, 1993, 107 Stat. 1669, provided that: “Subsection (b) of section 1176 of title 10, United States Code, as added by subsection (a), shall take effect as of October 23, 1992.”
+Pub. L. 103–160, div. A, title V, § 562(b), Nov. 30, 1993, 107 Stat. 1669, provided that: “Subsection (b) of section 1176 of title 10, United States Code, as added by subsection (a), shall take effect as of October 23, 1992.”
 
-## § 1177. Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation
+## § 1177. Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation
 
 **(a) Medical Examination Required.—**
 
@@ -1411,33 +1411,33 @@ Pub. L. 103–160, div. A, title V, § 562(b), Nov. 30, 1993, 107 Stat. 1669, 
 
 **(c) Inapplicability to Proceedings Under Uniform Code of Military Justice.—** The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
 
-(Added Pub. L. 111–84, div. A, title V, § 512(a)(1), Oct. 28, 2009, 123 Stat. 2280; amended Pub. L. 112–239, div. A, title V, § 518, Jan. 2, 2013, 126 Stat. 1720; Pub. L. 113–66, div. A, title V, § 522, Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–328, div. A, title V, § 524, Dec. 23, 2016, 130 Stat. 2116.)
+(Added Pub. L. 111–84, div. A, title V, § 512(a)(1), Oct. 28, 2009, 123 Stat. 2280; amended Pub. L. 112–239, div. A, title V, § 518, Jan. 2, 2013, 126 Stat. 1720; Pub. L. 113–66, div. A, title V, § 522, Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–328, div. A, title V, § 524, Dec. 23, 2016, 130 Stat. 2116.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniform Code of Military Justice, referred to in subsec. (c), is classified to chapter 47 (§ 801 et seq.) of this title.
+The Uniform Code of Military Justice, referred to in subsec. (c), is classified to chapter 47 (§ 801 et seq.) of this title.
 
 **Prior Provisions**
 
-A prior section 1177, added Pub. L. 103–337, div. A, title V, § 560(a)(1), Oct. 5, 1994, 108 Stat. 2777; amended Pub. L. 104–106, div. A, title V, § 567(a)(1), title XV, § 1503(a)(12), Feb. 10, 1996, 110 Stat. 328, 511, related to mandatory discharge or retirement of members infected with HIV–1 virus, prior to repeal by Pub. L. 104–134, title II, § 2707(a)(1), Apr. 26, 1996, 110 Stat. 1321–330.
+A prior section 1177, added Pub. L. 103–337, div. A, title V, § 560(a)(1), Oct. 5, 1994, 108 Stat. 2777; amended Pub. L. 104–106, div. A, title V, § 567(a)(1), title XV, § 1503(a)(12), Feb. 10, 1996, 110 Stat. 328, 511, related to mandatory discharge or retirement of members infected with HIV–1 virus, prior to repeal by Pub. L. 104–134, title II, § 2707(a)(1), Apr. 26, 1996, 110 Stat. 1321–330.
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–328 inserted “, or sexually assaulted,” after “deployed overseas in support of a contingency operation” and “or based on such sexual assault,” after “while deployed,”.
+2016—Subsec. (a)(1). Pub. L. 114–328 inserted “, or sexually assaulted,” after “deployed overseas in support of a contingency operation” and “or based on such sexual assault,” after “while deployed,”.
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 518(1), substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 518(1), substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
-Subsec. (a)(2). Pub. L. 113–66 inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.
+Subsec. (a)(2). Pub. L. 113–66 inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.
 
-Subsec. (a)(3). Pub. L. 112–239, § 518(2), substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+Subsec. (a)(3). Pub. L. 112–239, § 518(2), substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
-## § 1178. System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program
+## § 1178. System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program
 
 The Secretary of each military department shall establish a system for tracking, recording, and reporting separations of members of the armed forces under the Secretary’s jurisdiction that result from procedures initiated as a result of a refusal to participate in the anthrax vaccine immunization program.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193; amended Pub. L. 111–383, div. A, title VII, § 721, Jan. 7, 2011, 124 Stat. 4251.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193; amended Pub. L. 111–383, div. A, title VII, § 721, Jan. 7, 2011, 124 Stat. 4251.)
 
 **Editorial Notes**
 
@@ -1453,4 +1453,4 @@ The Secretary of each military department shall establish a system for tracking,
 
 **Comptroller General Report**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 751(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, directed the Comptroller General, not later than Apr. 1, 2002, to submit to committees of Congress a report on the effect of the Department of Defense anthrax vaccine immunization program on the recruitment and retention of active duty and reserve military personnel and civilian personnel of the Department of Defense.
+Pub. L. 106–398, § 1 [[div. A], title VII, § 751(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, directed the Comptroller General, not later than Apr. 1, 2002, to submit to committees of Congress a report on the effect of the Department of Defense anthrax vaccine immunization program on the recruitment and retention of active duty and reserve military personnel and civilian personnel of the Department of Defense.

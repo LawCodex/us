@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part B—United States Government Organizations Involved With Observances and Ceremonies / CHAPTER 23—UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part B—United States Government Organizations Involved With Observances and Ceremonies / CHAPTER 23—UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
 identifier: "/us/usc/t36/stI/ptB/ch23"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part B—United States Government Organizations Involved With Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part B—United States Government Organizations Involved With Observances and Ceremonies*
 
 # CHAPTER 23—UNITED STATES HOLOCAUST MEMORIAL MUSEUM
 
@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292, § 1.
+A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292, § 1.
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 5(3), Sept. 27, 2006, 120 Stat. 1211, substituted “Museum” for “museum” in item 2306.
+2006—Pub. L. 109–284, § 5(3), Sept. 27, 2006, 120 Stat. 1211, substituted “Museum” for “museum” in item 2306.
 
-## § 2301. Establishment of the United States Holocaust Memorial Museum; functions
+## § 2301. Establishment of the United States Holocaust Memorial Museum; functions
 
 The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United States Government. The Museum shall—
 
@@ -35,7 +35,7 @@ The United States Holocaust Memorial Museum (hereafter in this chapter referred 
 
 **(3)** carry out the recommendations of the President’s Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1030; amended Pub. L. 109–284, § 5(4), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 113–237, § 3(c)(2), Dec. 18, 2014, 128 Stat. 2840.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1030; amended Pub. L. 109–284, § 5(4), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 113–237, § 3(c)(2), Dec. 18, 2014, 128 Stat. 2840.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related 
 
 **Support for Holocaust Education Programs**
 
-Pub. L. 116–141, May 29, 2020, 134 Stat. 636, as amended by Pub. L. 118–197, § 2, Dec. 23, 2024, 138 Stat. 2677, provided that:
+Pub. L. 116–141, May 29, 2020, 134 Stat. 636, as amended by Pub. L. 118–197, § 2, Dec. 23, 2024, 138 Stat. 2677, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -171,7 +171,7 @@ Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 125, provided that:
 
 > “In the event the Council ceases to exist, administrative jurisdiction of the Auditors West Building (Annex 3) shall revert to the General Services Administration.”
 
-## § 2302. Functions of the Council; membership
+## § 2302. Functions of the Council; membership
 
 **(a) In General.—** The United States Holocaust Memorial Council (hereafter in this chapter referred to as the “Council”) shall be the board of trustees of the Museum and shall have overall governance responsibility for the Museum, including policy guidance and strategic direction, general oversight of Museum operations, and fiduciary responsibility. The Council shall establish an Executive Committee which shall exercise ongoing governance responsibility when the Council is not in session.
 
@@ -203,7 +203,7 @@ Of the 65 voting members, five shall be appointed by the Speaker of the United S
 
 **(h) Associated Committees.—** Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1031.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1031.)
 
 **Editorial Notes**
 
@@ -211,13 +211,13 @@ Of the 65 voting members, five shall be appointed by the Speaker of the United S
 
 A prior section 2302, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related to the membership of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2303. Compensation; travel expenses; full-time officers or employees of United States or Members of Congress
+## § 2303. Compensation; travel expenses; full-time officers or employees of United States or Members of Congress
 
 **(a) In General.—** Except as provided in subsection (b) of this section, members of the Council are each authorized to be paid the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under section 5315 of title 5, for each day (including travel time) during which they are engaged in the actual performance of duties of the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed expenses under section 5703 of title 5.
 
 **(b) Exception.—** Members of the Council who are full-time officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Council.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ A prior section 2302, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related 
 
 A prior section 2303, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related to the Executive Director of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2304. Administrative provisions
+## § 2304. Administrative provisions
 
 **(a) Experts and Consultants.—** The Museum may obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5, at rates not to exceed the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under section 5315 of title 5.
 
@@ -235,7 +235,7 @@ A prior section 2303, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related 
 
 **(d) Administrative Services and Support.—** The Secretary of the Interior may provide administrative services and support to the Museum on a reimbursable basis.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ A prior section 2303, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related 
 
 A prior section 2304, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related to gifts, bequests, and devises of property to the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2305. Staff
+## § 2305. Staff
 
 **(a) Establishment of the Museum Director as Chief Executive Officer.—** There shall be a director of the Museum (hereafter in this chapter referred to as the “Director”) who shall serve as chief executive officer of the Museum and exercise day-to-day authority for the Museum. The Director shall be appointed by the Chairperson of the Council, subject to confirmation of the Council. The Director may be paid with nonappropriated funds, and, if paid with appropriated funds shall be paid the rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5. The Director shall report to the Council and its Executive Committee through the Chairperson. The Director shall serve at the pleasure of the Council.
 
@@ -255,7 +255,7 @@ A prior section 2304, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related 
 
 **(3)** implement the decisions and strategic plan for the Museum, as approved by the Council, and perform such other functions as may be assigned from time-to-time by the Council, the Executive Committee of the Council, or the Chairperson of the Council, consistent with this legislation.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1032.)
 
 **Editorial Notes**
 
@@ -263,11 +263,11 @@ A prior section 2304, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related 
 
 A prior section 2305, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related to the establishment of the memorial museum, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2306. Insurance for Museum
+## § 2306. Insurance for Museum
 
 The Museum shall maintain insurance on the memorial museum to cover such risks, in such amount, and containing such terms and conditions as the Museum deems necessary.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
 
 **Editorial Notes**
 
@@ -275,11 +275,11 @@ The Museum shall maintain insurance on the memorial museum to cover such risks, 
 
 A prior section 2306, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1279, related to audits of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2307. Gifts, bequests, and devises of property; tax treatment
+## § 2307. Gifts, bequests, and devises of property; tax treatment
 
 The Museum may solicit, and the Museum may accept, hold, administer, invest, and use gifts, bequests, and devises of property, both real and personal, and all revenues received or generated by the Museum to aid or facilitate the operation and maintenance of the memorial museum. Property may be accepted pursuant to this section, and the property and the proceeds thereof used as nearly as possible in accordance with the terms of the gift, bequest, or devise donating such property. Funds donated to and accepted by the Museum pursuant to this section or otherwise received or generated by the Museum are not to be regarded as appropriated funds and are not subject to any requirements or restrictions applicable to appropriated funds. For the purposes of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift, bequest, or devise to the United States.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ The Museum may solicit, and the Museum may accept, hold, administer, invest, and
 
 A prior section 2307, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1279, provided for administrative provisions, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2308. Annual report
+## § 2308. Annual report
 
 The Director shall transmit to Congress an annual report on the Director’s stewardship of the authority to operate and maintain the memorial museum. Such report shall include the following:
 
@@ -299,7 +299,7 @@ The Director shall transmit to Congress an annual report on the Director’s ste
 
 **(4)** An examination of the Federal role in the funding of the Museum and its activities, and any changes that may be warranted.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1033.)
 
 **Editorial Notes**
 
@@ -307,11 +307,11 @@ The Director shall transmit to Congress an annual report on the Director’s ste
 
 A prior section 2308, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1280, required the Executive Director to submit an annual report to Congress, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2309. Audit of financial transactions
+## § 2309. Audit of financial transactions
 
 Financial transactions of the Museum, including those involving donated funds, shall be audited by the Comptroller General as requested by Congress, in accordance with generally accepted auditing standards. In conducting any audit pursuant to this section, appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files and other papers, items or property in use by the Museum, as necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1034.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1034.)
 
 **Editorial Notes**
 
@@ -319,8 +319,8 @@ Financial transactions of the Museum, including those involving donated funds, s
 
 A prior section 2309, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1280, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-## § 2310. Authorization of appropriations
+## § 2310. Authorization of appropriations
 
 To carry out the purposes of this chapter, there are authorized to be appropriated such sums as may be necessary. Notwithstanding any other provision of law, none of the funds authorized to carry out this chapter may be made available for construction. Authority to enter into contracts and to make payments under this chapter, using funds authorized to be appropriated under this chapter, shall be effective only to the extent, and in such amounts, as provided in advance in appropriations Acts.
 
-(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1034.)
+(Added Pub. L. 106–292, § 1, Oct. 12, 2000, 114 Stat. 1034.)

@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 18—COOPERATIVE MARKETING
 
-## § 451. “Agricultural products” defined
+## § 451. “Agricultural products” defined
 
 When used in this chapter the term “agricultural products” means agricultural, horticultural, viticultural, and dairy products, livestock and the products thereof, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
 
-(July 2, 1926, ch. 725, § 1, 44 Stat. 802.)
+(July 2, 1926, ch. 725, § 1, 44 Stat. 802.)
 
-## § 452. Supervision of division of cooperative marketing
+## § 452. Supervision of division of cooperative marketing
 
 The division of cooperative marketing shall be under the direction and supervision of the Secretary of Agriculture.
 
-(July 2, 1926, ch. 725, § 2, 44 Stat. 802.)
+(July 2, 1926, ch. 725, § 2, 44 Stat. 802.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ First sentence of section, which provided that “The Secretary of Agriculture i
 
 **Transfer to Secretary of Agriculture**
 
-Act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, provided: “There is hereby transferred from the Farm Credit Administration to the jurisdiction and control of the Secretary of Agriculture the Division of Cooperative Marketing (by whatever name now called) authorized and created under and by virtue of an Act of Congress of July 2, 1926 (Public, Numbered 450, Sixty-ninth Congress), entitled ‘An Act to create a Division of Cooperative Marketing in the Department of Agriculture; to provide for the acquisition and dissemination of information pertaining to cooperation; to promote the knowledge of cooperative principles and practices; to provide for calling advisers to counsel with the Secretary of Agriculture on cooperative activities; to authorize cooperative associations to acquire, interpret, and disseminate crop and market information, and for other purposes [this chapter]’, together with all functions pertaining to the work and services of such Division, its personnel, property (including office equipment), assets, funds, contracts, and records used and employed in the execution of its functions, powers, and duties, and so much of the unexpended balances of appropriations, allocations, and other funds available or to be made available for salaries, expenses, and all other administrative expenditures as the Director of the Bureau of the Budget [now Director of the Office of Management and Budget] shall determine, for use in the execution of the functions, powers, and duties of said Division.”
+Act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, provided: “There is hereby transferred from the Farm Credit Administration to the jurisdiction and control of the Secretary of Agriculture the Division of Cooperative Marketing (by whatever name now called) authorized and created under and by virtue of an Act of Congress of July 2, 1926 (Public, Numbered 450, Sixty-ninth Congress), entitled ‘An Act to create a Division of Cooperative Marketing in the Department of Agriculture; to provide for the acquisition and dissemination of information pertaining to cooperation; to promote the knowledge of cooperative principles and practices; to provide for calling advisers to counsel with the Secretary of Agriculture on cooperative activities; to authorize cooperative associations to acquire, interpret, and disseminate crop and market information, and for other purposes [this chapter]’, together with all functions pertaining to the work and services of such Division, its personnel, property (including office equipment), assets, funds, contracts, and records used and employed in the execution of its functions, powers, and duties, and so much of the unexpended balances of appropriations, allocations, and other funds available or to be made available for salaries, expenses, and all other administrative expenditures as the Director of the Bureau of the Budget [now Director of the Office of Management and Budget] shall determine, for use in the execution of the functions, powers, and duties of said Division.”
 
 **Executive Documents**
 
@@ -49,7 +49,7 @@ Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, 
 
 Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10179, made Farm Credit Administration a part of Food Production Administration of Department of Agriculture.
 
-Farm Credit Administration transferred to Department of Agriculture by 1939 Reorg. Plan No. I, § 401, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees.
+Farm Credit Administration transferred to Department of Agriculture by 1939 Reorg. Plan No. I, § 401, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Ex. Ord. No. 6084, Mar. 27, 1933, set out as a note preceding section 2241 of Title 12, Banks and Banking, changed name of Federal Farm Board to Farm Credit Administration and name of office of Chairman of Federal Farm Board to Governor of Farm Credit Administration.
 
@@ -57,9 +57,9 @@ Ex. Ord. No. 5200, Oct. 1, 1929, transferred, eff. Oct. 1, 1929, from Department
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 453. Authority and duties of division
+## § 453. Authority and duties of division
 
 **(a)** The division shall render service to associations of producers of agricultural products, and federations and subsidiaries thereof, engaged in the cooperative marketing of agricultural products, including processing, warehousing, manufacturing, storage, the cooperative purchasing of farm supplies, credit, financing, insurance, and other cooperative activities.
 
@@ -79,19 +79,19 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 **(7)** To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information and findings as may be useful in the development and practice of cooperation.
 
-(July 2, 1926, ch. 725, § 3, 44 Stat. 802.)
+(July 2, 1926, ch. 725, § 3, 44 Stat. 802.)
 
-## § 454. Advisers to counsel with Secretary of Agriculture; expenses and subsistence
+## § 454. Advisers to counsel with Secretary of Agriculture; expenses and subsistence
 
 The Secretary of Agriculture is authorized, in his discretion, to call advisers to counsel with him and/or his representatives relative to specific problems of cooperative marketing of farm products or any other cooperative activity. Any person, other than an officer, agent, or employee of the United States, called into conference, as provided for in this section, may be paid actual transportation expenses and not to exceed $10 per diem to cover subsistence and other expenses while in conference and en route from and to his home.
 
-(July 2, 1926, ch. 725, § 4, 44 Stat. 803.)
+(July 2, 1926, ch. 725, § 4, 44 Stat. 803.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer to Secretary of Agriculture**
 
-Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, see note set out under section 452 of this title.
+Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, see note set out under section 452 of this title.
 
 **Executive Documents**
 
@@ -103,25 +103,25 @@ For prior transfers of functions, see notes set out under section 452 of this ti
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 455. Dissemination of crop, market, etc., information by cooperative marketing associations
+## § 455. Dissemination of crop, market, etc., information by cooperative marketing associations
 
 Persons engaged, as original producers of agricultural products, such as farmers, planters, ranchmen, dairymen, nut or fruit growers, acting together in associations, corporate or otherwise, in collectively processing, preparing for market, handling, and marketing in interstate and/or foreign commerce such products of persons so engaged, may acquire, exchange, interpret, and disseminate past, present, and prospective crop, market, statistical, economic, and other similar information by direct exchange between such persons, and/or such associations or federations thereof, and/or by and through a common agent created or selected by them.
 
-(July 2, 1926, ch. 725, § 5, 44 Stat. 803.)
+(July 2, 1926, ch. 725, § 5, 44 Stat. 803.)
 
-## § 456. Rules and regulations; appointment, removal, and compensation of employees; expenditures; authorization of appropriations
+## § 456. Rules and regulations; appointment, removal, and compensation of employees; expenditures; authorization of appropriations
 
 The Secretary of Agriculture may make such rules and regulations as may be deemed advisable to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and may call upon any other Federal department, board, or commission for assistance in carrying out the purposes of this chapter; and shall have the power to appoint, remove, and fix the compensation of such officers and employees not in conflict with existing law and make such expenditure for rent, outside the District of Columbia, printing, telegrams, telephones, books of reference, books of law, periodicals, newspapers, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and there is hereby authorized to be appropriated, such sums as may be necessary after the fiscal year 1927, for carrying out the purposes of this chapter.
 
-(July 2, 1926, ch. 725, § 6, 44 Stat. 803.)
+(July 2, 1926, ch. 725, § 6, 44 Stat. 803.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer to Secretary of Agriculture**
 
-Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, see note set out under section 452 of this title.
+Transfer of Division of Cooperative Marketing “(by whatever name now called)” from Farm Credit Administration to Secretary of Agriculture, by act Aug. 6, 1953, ch. 335, § 9, 67 Stat. 394, see note set out under section 452 of this title.
 
 **Executive Documents**
 
@@ -133,10 +133,10 @@ For prior transfers of functions, see notes set out under section 452 of this ti
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 457. Separability
+## § 457. Separability
 
 If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons and circumstances shall not be affected thereby, and nothing contained in this chapter is intended nor shall be construed, to modify or repeal any of the provisions of sections 291 and 292 of this title.
 
-(July 2, 1926, ch. 725, § 7, 44 Stat. 803.)
+(July 2, 1926, ch. 725, § 7, 44 Stat. 803.)

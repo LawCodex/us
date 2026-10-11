@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—SOYBEAN PROMOTION, RESEARCH, AND CONSUMER INFORMATION
 
-## § 6301. Findings and declaration of policy
+## § 6301. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -41,15 +41,15 @@ Congress declares that it is in the public interest to authorize the establishme
 
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of individual producers to produce soybeans.
 
-(Pub. L. 101–624, title XIX, § 1966, Nov. 28, 1990, 104 Stat. 3881.)
+(Pub. L. 101–624, title XIX, § 1966, Nov. 28, 1990, 104 Stat. 3881.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–624, title XIX, § 1965, Nov. 28, 1990, 104 Stat. 3881, provided that: “This subtitle [subtitle E (§§ 1965–1976) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
+Pub. L. 101–624, title XIX, § 1965, Nov. 28, 1990, 104 Stat. 3881, provided that: “This subtitle [subtitle E (§§ 1965–1976) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
 
-## § 6302. Definitions
+## § 6302. Definitions
 
 As used in this chapter:
 
@@ -137,9 +137,9 @@ The term “soybeans” means all varieties of Glycine max or Glycine soya.
 
 The terms “State” and “United States” consist of the 50 States of the United States of America, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 101–624, title XIX, § 1967, Nov. 28, 1990, 104 Stat. 3882.)
+(Pub. L. 101–624, title XIX, § 1967, Nov. 28, 1990, 104 Stat. 3882.)
 
-## § 6303. Issuance and amendment of orders
+## § 6303. Issuance and amendment of orders
 
 **(a) In general**
 
@@ -163,9 +163,9 @@ After notice and opportunity for public comment are given as provided in paragra
 
 The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 101–624, title XIX, § 1968, Nov. 28, 1990, 104 Stat. 3883.)
+(Pub. L. 101–624, title XIX, § 1968, Nov. 28, 1990, 104 Stat. 3883.)
 
-## § 6304. Required terms in orders
+## § 6304. Required terms in orders
 
 **(a) In general**
 
@@ -705,19 +705,19 @@ Any person who willfully violates the provisions of this subsection, upon convic
 
 The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (*l*).
 
-(Pub. L. 101–624, title XIX, § 1969, Nov. 28, 1990, 104 Stat. 3884; Pub. L. 102–237, title VIII, § 806(1), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 101–624, title XIX, § 1969, Nov. 28, 1990, 104 Stat. 3884; Pub. L. 102–237, title VIII, § 806(1), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (g)(2)(A)(ii). Pub. L. 102–237, § 806(1)(A), substituted “Agricultural” for “Argicultural”.
+1991—Subsec. (g)(2)(A)(ii). Pub. L. 102–237, § 806(1)(A), substituted “Agricultural” for “Argicultural”.
 
-Subsec. (*l*)(2)(F)(vii)(V). Pub. L. 102–237, § 806(1)(B), substituted “that request” for “that requests”.
+Subsec. (*l*)(2)(F)(vii)(V). Pub. L. 102–237, § 806(1)(B), substituted “that request” for “that requests”.
 
-Subsec. (q)(4). Pub. L. 102–237, § 806(1)(C), inserted a comma after “and” and struck out semicolon after “Board”.
+Subsec. (q)(4). Pub. L. 102–237, § 806(1)(C), inserted a comma after “and” and struck out semicolon after “Board”.
 
-## § 6305. Referenda
+## § 6305. Referenda
 
 **(a) Initial referendum**
 
@@ -799,7 +799,7 @@ Each referendum shall be conducted for a reasonable period of time not to exceed
 
 Referenda shall be conducted at county extension offices and provision shall be made for absentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
 
-(Pub. L. 101–624, title XIX, § 1970, Nov. 28, 1990, 104 Stat. 3898; Pub. L. 102–237, title VIII, § 806(2), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 101–624, title XIX, § 1970, Nov. 28, 1990, 104 Stat. 3898; Pub. L. 102–237, title VIII, § 806(2), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -807,7 +807,7 @@ Referenda shall be conducted at county extension offices and provision shall be 
 
 1991—Subsec. (b)(3)(A). Pub. L. 102–237 made technical amendment to reference to this chapter to correct reference to corresponding provision of original act.
 
-## § 6306. Petition and review
+## § 6306. Petition and review
 
 **(a) Petition**
 
@@ -845,7 +845,7 @@ Service of process in a proceeding under paragraph (1) shall be conducted in acc
 
 The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 6307 of this title.
 
-(Pub. L. 101–624, title XIX, § 1971, Nov. 28, 1990, 104 Stat. 3900.)
+(Pub. L. 101–624, title XIX, § 1971, Nov. 28, 1990, 104 Stat. 3900.)
 
 **Editorial Notes**
 
@@ -853,7 +853,7 @@ The pendency of proceedings instituted under subsection (a) shall not impede, hi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6307. Enforcement
+## § 6307. Enforcement
 
 **(a) Jurisdiction**
 
@@ -917,9 +917,9 @@ If any person fails to pay an assessment of a civil penalty under this section a
 
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 101–624, title XIX, § 1972, Nov. 28, 1990, 104 Stat. 3901.)
+(Pub. L. 101–624, title XIX, § 1972, Nov. 28, 1990, 104 Stat. 3901.)
 
-## § 6308. Investigations and power to subpoena
+## § 6308. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -953,9 +953,9 @@ Process in any such case may be served in the judicial district in which such pe
 
 The site of any hearings held under section 6306 or 6307 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-(Pub. L. 101–624, title XIX, § 1973, Nov. 28, 1990, 104 Stat. 3902.)
+(Pub. L. 101–624, title XIX, § 1973, Nov. 28, 1990, 104 Stat. 3902.)
 
-## § 6309. Administrative provisions
+## § 6309. Administrative provisions
 
 **(a) Construction** Except as provided in subsection (b), nothing in this chapter may be construed to—
 
@@ -985,25 +985,25 @@ To ensure adequate funding of the operations of qualified State soybean boards u
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 101–624, title XIX, § 1974, Nov. 28, 1990, 104 Stat. 3903; Pub. L. 102–237, title VIII, § 806(3), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 101–624, title XIX, § 1974, Nov. 28, 1990, 104 Stat. 3903; Pub. L. 102–237, title VIII, § 806(3), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (b). Pub. L. 102–237, § 806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
+1991—Subsec. (b). Pub. L. 102–237, § 806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
 
-Subsec. (b)(3). Pub. L. 102–237, § 806(3)(A), substituted “section 6304(*l*)(4)” for “section 6304(k)(4)”.
+Subsec. (b)(3). Pub. L. 102–237, § 806(3)(A), substituted “section 6304(*l*)(4)” for “section 6304(k)(4)”.
 
-Subsec. (c). Pub. L. 102–237, § 806(3)(B), redesignated second subsec. (b), relating to amendments of orders, as (c).
+Subsec. (c). Pub. L. 102–237, § 806(3)(B), redesignated second subsec. (b), relating to amendments of orders, as (c).
 
-## § 6310. Suspension or termination of orders
+## § 6310. Suspension or termination of orders
 
 The Secretary shall, whenever the Secretary finds that the order or any provision of the order obstructs or does not tend to effectuate the declared policy of this chapter, terminate or suspend the operation of such order or provision. The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
-(Pub. L. 101–624, title XIX, § 1975, Nov. 28, 1990, 104 Stat. 3904.)
+(Pub. L. 101–624, title XIX, § 1975, Nov. 28, 1990, 104 Stat. 3904.)
 
-## § 6311. Authorization of appropriations; regulations
+## § 6311. Authorization of appropriations; regulations
 
 **(a) In general**
 
@@ -1017,4 +1017,4 @@ Funds appropriated under subsection (a) shall not be available for payment of th
 
 The Secretary may issue such regulations as are necessary to carry out this chapter, including regulations relating to the assessment of late payment charges.
 
-(Pub. L. 101–624, title XIX, § 1976, Nov. 28, 1990, 104 Stat. 3904.)
+(Pub. L. 101–624, title XIX, § 1976, Nov. 28, 1990, 104 Stat. 3904.)

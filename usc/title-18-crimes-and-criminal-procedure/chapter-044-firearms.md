@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–159, div. A, title II, § 12004(a)(6), June 25, 2022, 136 Stat. 1329, added items 932 to 934.
+2022—Pub. L. 117–159, div. A, title II, § 12004(a)(6), June 25, 2022, 136 Stat. 1329, added items 932 to 934.
 
-Pub. L. 117–103, div. W, title XI, §§ 1101(d), 1102(b), 1103(b), Mar. 15, 2022, 136 Stat. 920, 921, added items 925B to 925D.
+Pub. L. 117–103, div. W, title XI, §§ 1101(d), 1102(b), 1103(b), Mar. 15, 2022, 136 Stat. 920, 921, added items 925B to 925D.
 
-2004—Pub. L. 108–277, §§ 2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
+2004—Pub. L. 108–277, §§ 2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
 
-2002—Pub. L. 107–273, div. C, title I, § 11009(e)(2)(B), Nov. 2, 2002, 116 Stat. 1821, added item 931.
+2002—Pub. L. 107–273, div. C, title I, § 11009(e)(2)(B), Nov. 2, 2002, 116 Stat. 1821, added item 931.
 
-1993—Pub. L. 103–159, title I, § 104(b), Nov. 30, 1993, 107 Stat. 1543, added item 925A.
+1993—Pub. L. 103–159, title I, § 104(b), Nov. 30, 1993, 107 Stat. 1543, added item 925A.
 
-1990—Pub. L. 101–647, title XXXV, § 3523, Nov. 29, 1990, 104 Stat. 4924, struck out “clause” after “Separability” in item 928.
+1990—Pub. L. 101–647, title XXXV, § 3523, Nov. 29, 1990, 104 Stat. 4924, struck out “clause” after “Separability” in item 928.
 
-1988—Pub. L. 100–690, title VI, § 6215(b), Nov. 18, 1988, 102 Stat. 4362, added item 930.
+1988—Pub. L. 100–690, title VI, § 6215(b), Nov. 18, 1988, 102 Stat. 4362, added item 930.
 
-1986—Pub. L. 99–308, § 107(b), May 19, 1986, 100 Stat. 460, added item 926A.
+1986—Pub. L. 99–308, § 107(b), May 19, 1986, 100 Stat. 460, added item 926A.
 
-1984—Pub. L. 98–473, title II, § 1006(b), Oct. 12, 1984, 98 Stat. 2139, added item 929.
+1984—Pub. L. 98–473, title II, § 1006(b), Oct. 12, 1984, 98 Stat. 2139, added item 929.
 
-1968—Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1214, reenacted chapter analysis without change.
+1968—Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1214, reenacted chapter analysis without change.
 
-Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 226, added chapter 44 and items 921 to 928.
+Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 226, added chapter 44 and items 921 to 928.
 
 **Executive Documents**
 
@@ -51,7 +51,7 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, which
 
 Memorandum of President of the United States, Jan. 4, 2016, 81 F.R. 719, which requires the Department of Defense, the Department of Justice, and the Department of Homeland Security to conduct or sponsor research into gun safety technology, review such research, and explore potential ways to further its use and development to more broadly improve gun safety, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
-## § 921. Definitions
+## § 921. Definitions
 
 **(a)** As used in this chapter—
 
@@ -129,9 +129,9 @@ The term “destructive device” shall not include any device which is neither 
 
 **(C)** The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
-**(18)** The term “Attorney General” means the Attorney General of the United States 1
+**(18)** The term “Attorney General” means the Attorney General of the United States 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(19)** The term “published ordinance” means a published law of any political subdivision of a State which the Attorney General determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Attorney General, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
 
@@ -207,7 +207,7 @@ What constitutes a conviction of such a crime shall be determined in accordance 
 
 **(B)** any combination of parts from which a firearm described in subparagraph (A) can be assembled.
 
-**[(31)** Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
+**[(31)** Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
 
 **(32)** The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
@@ -273,7 +273,7 @@ What constitutes a conviction of such a crime shall be determined in accordance 
 
 **(b)** For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, § 102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, § 101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, § 1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, § 1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, § 1702(b)(2), title XXII, § 2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, § 102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§ 110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, § 303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, § 101(b) [title I, § 119(a)], (h) [title I, § 115], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, § 11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, § 1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, § 908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, § 809(e)(2), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 117–103, div. W, title XI, §§ 1101(b), 1104(a), Mar. 15, 2022, 136 Stat. 919, 921; Pub. L. 117–159, div. A, title II, §§ 12002, 12005(a), (c), June 25, 2022, 136 Stat. 1324, 1332; Pub. L. 118–159, div. E, title LII, § 5211(a), Dec. 23, 2024, 138 Stat. 2444.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, § 102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, § 101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, § 1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, § 1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, § 1702(b)(2), title XXII, § 2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, § 102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§ 110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, § 303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, § 101(b) [title I, § 119(a)], (h) [title I, § 115], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, § 11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, § 1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, § 908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, § 809(e)(2), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 117–103, div. W, title XI, §§ 1101(b), 1104(a), Mar. 15, 2022, 136 Stat. 919, 921; Pub. L. 117–159, div. A, title II, §§ 12002, 12005(a), (c), June 25, 2022, 136 Stat. 1324, 1332; Pub. L. 118–159, div. E, title LII, § 5211(a), Dec. 23, 2024, 138 Stat. 2444.)
 
 **Editorial Notes**
 
@@ -285,45 +285,45 @@ For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b)
 
 2024—Subsec. (a)(38). Pub. L. 118–159 added par. (38).
 
-2022—Subsec. (a)(21)(C). Pub. L. 117–159, § 12002(1), substituted “to predominantly earn a profit” for “with the principal objective of livelihood and profit”.
+2022—Subsec. (a)(21)(C). Pub. L. 117–159, § 12002(1), substituted “to predominantly earn a profit” for “with the principal objective of livelihood and profit”.
 
-Subsec. (a)(22) to (30). Pub. L. 117–159, § 12002(2), (3), added par. (22) and redesignated former pars. (22) to (29) as (23) to (30), respectively.
+Subsec. (a)(22) to (30). Pub. L. 117–159, § 12002(2), (3), added par. (22) and redesignated former pars. (22) to (29) as (23) to (30), respectively.
 
-Subsec. (a)(33)(A). Pub. L. 117–159, § 12005(c)(1)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (C)” in introductory provisions.
+Subsec. (a)(33)(A). Pub. L. 117–159, § 12005(c)(1)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (C)” in introductory provisions.
 
-Subsec. (a)(33)(A)(i). Pub. L. 117–159, § 12005(c)(1)(B), which directed substitution of “State,” for “State,,” in cl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
+Subsec. (a)(33)(A)(i). Pub. L. 117–159, § 12005(c)(1)(B), which directed substitution of “State,” for “State,,” in cl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
 
-Pub. L. 117–103, § 1104(a), substituted “, Tribal, or local law” for “or Tribal law”.
+Pub. L. 117–103, § 1104(a), substituted “, Tribal, or local law” for “or Tribal law”.
 
-Subsec. (a)(33)(A)(ii). Pub. L. 117–159, § 12005(a)(1), substituted “by a person similarly” for “or by a person similarly” and inserted “, or by a person who has a current or recent former dating relationship with the victim” before period at end.
+Subsec. (a)(33)(A)(ii). Pub. L. 117–159, § 12005(a)(1), substituted “by a person similarly” for “or by a person similarly” and inserted “, or by a person who has a current or recent former dating relationship with the victim” before period at end.
 
-Subsec. (a)(33)(C). Pub. L. 117–159, § 12005(c)(2), added subpar. (C).
+Subsec. (a)(33)(C). Pub. L. 117–159, § 12005(c)(2), added subpar. (C).
 
-Subsec. (a)(36). Pub. L. 117–103, § 1101(b), added par. (36).
+Subsec. (a)(36). Pub. L. 117–103, § 1101(b), added par. (36).
 
-Subsec. (a)(37). Pub. L. 117–159, § 12005(a)(2), added par. (37).
+Subsec. (a)(37). Pub. L. 117–159, § 12005(a)(2), added par. (37).
 
 2018—Subsec. (a)(4). Pub. L. 115–232 substituted “section 7684(2), 7685, or 7686 of title 10” for “section 4684(2), 4685, or 4686 of title 10” in concluding provisions.
 
 2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “section 921(33)(A)(i) of title 18”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
 
-2002—Subsec. (a)(4). Pub. L. 107–296, § 1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
+2002—Subsec. (a)(4). Pub. L. 107–296, § 1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
 
-Subsec. (a)(4)(B). Pub. L. 107–296, § 1112(f)(1), substituted “Attorney General” for “Secretary”.
+Subsec. (a)(4)(B). Pub. L. 107–296, § 1112(f)(1), substituted “Attorney General” for “Secretary”.
 
-Subsec. (a)(13), (17)(C). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsec. (a)(13), (17)(C). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (a)(18). Pub. L. 107–296, § 1112(f)(3), added par. (18) and struck out former par. (18) which read as follows: “The term ‘Secretary’ or ‘Secretary of the Treasury’ means the Secretary of the Treasury or his delegate.”
+Subsec. (a)(18). Pub. L. 107–296, § 1112(f)(3), added par. (18) and struck out former par. (18) which read as follows: “The term ‘Secretary’ or ‘Secretary of the Treasury’ means the Secretary of the Treasury or his delegate.”
 
-Subsec. (a)(19). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” in two places.
+Subsec. (a)(19). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” in two places.
 
 Subsec. (a)(35). Pub. L. 107–273 added par. (35).
 
-1998—Subsec. (a)(5). Pub. L. 105–277, § 101(h) [title I, § 115(1)], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
+1998—Subsec. (a)(5). Pub. L. 105–277, § 101(h) [title I, § 115(1)], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
 
-Subsec. (a)(7). Pub. L. 105–277, § 101(h) [title I, § 115(2)], substituted “an explosive” for “the explosive in a fixed metallic cartridge”.
+Subsec. (a)(7). Pub. L. 105–277, § 101(h) [title I, § 115(2)], substituted “an explosive” for “the explosive in a fixed metallic cartridge”.
 
-Subsec. (a)(16). Pub. L. 105–277, § 101(h) [title I, § 115(3)], added par. (16) and struck out former par. (16) which read as follows: “The term ‘antique firearm’ means—
+Subsec. (a)(16). Pub. L. 105–277, § 101(h) [title I, § 115(3)], added par. (16) and struck out former par. (16) which read as follows: “The term ‘antique firearm’ means—
 
 “(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and
 
@@ -333,49 +333,49 @@ Subsec. (a)(16). Pub. L. 105–277, § 101(h) [title I, § 115(3)], added pa
 
 “(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.”
 
-Subsec. (a)(34). Pub. L. 105–277, § 101(b) [title I, § 119(a)], added par. (34).
+Subsec. (a)(34). Pub. L. 105–277, § 101(b) [title I, § 119(a)], added par. (34).
 
 1996—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
 
 1995—Subsec. (a)(27). Pub. L. 104–88 substituted “section 13102” for “section 10102”.
 
-1994—Subsec. (a)(17)(B). Pub. L. 103–322, § 110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
+1994—Subsec. (a)(17)(B). Pub. L. 103–322, § 110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
 
-Subsec. (a)(17)(C). Pub. L. 103–322, § 110519, added subpar. (C).
+Subsec. (a)(17)(C). Pub. L. 103–322, § 110519, added subpar. (C).
 
-Subsec. (a)(22)(C)(iii). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+Subsec. (a)(22)(C)(iii). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
 
-Subsec. (a)(30). Pub. L. 103–322, § 110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(30). Pub. L. 103–322, § 110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, § 110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, § 110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(32). Pub. L. 103–322, § 110401(a), added par. (32).
+Subsec. (a)(32). Pub. L. 103–322, § 110401(a), added par. (32).
 
 1993—Subsec. (a)(29). Pub. L. 103–159 added par. (29).
 
-1990—Subsec. (a)(25) to (27). Pub. L. 101–647, § 1702(b)(2), added pars. (25) to (27).
+1990—Subsec. (a)(25) to (27). Pub. L. 101–647, § 1702(b)(2), added pars. (25) to (27).
 
-Subsec. (a)(28). Pub. L. 101–647, § 2204(a), added par. (28).
+Subsec. (a)(28). Pub. L. 101–647, § 2204(a), added par. (28).
 
-1986—Subsec. (a)(10). Pub. L. 99–308, § 101(1), substituted “business of manufacturing” for “manufacture of”.
+1986—Subsec. (a)(10). Pub. L. 99–308, § 101(1), substituted “business of manufacturing” for “manufacture of”.
 
-Subsec. (a)(11)(A). Pub. L. 99–308, § 101(2), struck out “or ammunition” after “firearms”.
+Subsec. (a)(11)(A). Pub. L. 99–308, § 101(2), struck out “or ammunition” after “firearms”.
 
-Subsec. (a)(12). Pub. L. 99–308, § 101(3), struck out “or ammunition” after “firearm”.
+Subsec. (a)(12). Pub. L. 99–308, § 101(3), struck out “or ammunition” after “firearm”.
 
-Subsec. (a)(13). Pub. L. 99–308, § 101(4), struck out “or ammunition” after “firearms”.
+Subsec. (a)(13). Pub. L. 99–308, § 101(4), struck out “or ammunition” after “firearms”.
 
 Subsec. (a)(17). Pub. L. 99–408 designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(20). Pub. L. 99–308, § 101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
+Subsec. (a)(20). Pub. L. 99–308, § 101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
 
-Subsec. (a)(21). Pub. L. 99–308, § 101(6), added par. (21).
+Subsec. (a)(21). Pub. L. 99–308, § 101(6), added par. (21).
 
 Subsec. (a)(22). Pub. L. 99–360 inserted provision that proof of profit not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism and defined terrorism.
 
-Pub. L. 99–308, § 101(6), added par. (22).
+Pub. L. 99–308, § 101(6), added par. (22).
 
-Subsec. (a)(23), (24). Pub. L. 99–308, § 101(6), added pars. (23) and (24).
+Subsec. (a)(23), (24). Pub. L. 99–308, § 101(6), added pars. (23) and (24).
 
 1975—Subsec. (a)(4). Pub. L. 93–639 substituted “to use solely for sporting, recreational or cultural purposes” for “to use solely for sporting purposes”.
 
@@ -387,7 +387,7 @@ Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member o
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–159, div. A, title II, § 12005(b), June 25, 2022, 136 Stat. 1332, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to any conviction of a misdemeanor crime of domestic violence entered before the date of enactment of this Act [June 25, 2022].”
+Pub. L. 117–159, div. A, title II, § 12005(b), June 25, 2022, 136 Stat. 1332, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to any conviction of a misdemeanor crime of domestic violence entered before the date of enactment of this Act [June 25, 2022].”
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
@@ -401,7 +401,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 119(e)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “The amendments made by this section [amending this section and section 923 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 21, 1998].”
+Pub. L. 105–277, div. A, § 101(b) [title I, § 119(e)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “The amendments made by this section [amending this section and section 923 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 21, 1998].”
 
 **Effective Date of 1995 Amendment**
 
@@ -409,19 +409,19 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 **Effective and Termination Dates of 1994 Amendment**
 
-Pub. L. 103–322, title XI, § 110105, Sept. 13, 1994, 108 Stat. 2000, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) and the amendments made by that subtitle were effective Sept. 13, 1994, and were repealed effective as of the date that is 10 years after that date.
+Pub. L. 103–322, title XI, § 110105, Sept. 13, 1994, 108 Stat. 2000, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) and the amendments made by that subtitle were effective Sept. 13, 1994, and were repealed effective as of the date that is 10 years after that date.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XVII, § 1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: “The amendments made by this section [amending this section and sections 922 and 924 of this title] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 29, 1990].”
+Pub. L. 101–647, title XVII, § 1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: “The amendments made by this section [amending this section and sections 922 and 924 of this title] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 29, 1990].”
 
 **Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published Ordinances**
 
-Pub. L. 99–408, § 9, Aug. 28, 1986, 100 Stat. 921, provided that: “The amendments made by this Act [amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Aug. 28, 1986], except that sections 3, 4, and 5 [amending section 923 of this title] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
+Pub. L. 99–408, § 9, Aug. 28, 1986, 100 Stat. 921, provided that: “The amendments made by this Act [amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Aug. 28, 1986], except that sections 3, 4, and 5 [amending section 923 of this title] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
 
-Pub. L. 99–360, § 2, July 8, 1986, 100 Stat. 767, provided that: “This Act and the amendments made by this Act [enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title], intended to amend the Firearms Owners’ Protection Act [Pub. L. 99–308, see Short Title of 1986 Amendment note below], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective [see section 110 of Pub. L. 99–308 set out below] and shall apply to the amendments to title 18, United States Code, made by such Act.”
+Pub. L. 99–360, § 2, July 8, 1986, 100 Stat. 767, provided that: “This Act and the amendments made by this Act [enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title], intended to amend the Firearms Owners’ Protection Act [Pub. L. 99–308, see Short Title of 1986 Amendment note below], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective [see section 110 of Pub. L. 99–308 set out below] and shall apply to the amendments to title 18, United States Code, made by such Act.”
 
-Pub. L. 99–308, § 110, May 19, 1986, 100 Stat. 460, provided that:
+Pub. L. 99–308, § 110, May 19, 1986, 100 Stat. 460, provided that:
 
 > **“(a) In General.—** The amendments made by this Act [enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section] shall become effective one hundred and eighty days after the date of the enactment of this Act [May 19, 1986]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances of which licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
 
@@ -431,7 +431,7 @@ Pub. L. 99–308, § 110, May 19, 1986, 100 Stat. 460, provided that:
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–618, title I, § 105, Oct. 22, 1968, 82 Stat. 1226, provided that:
+Pub. L. 90–618, title I, § 105, Oct. 22, 1968, 82 Stat. 1226, provided that:
 
 > **“(a)** Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title [amending this chapter], shall take effect on December 16, 1968.
 
@@ -439,63 +439,63 @@ Pub. L. 90–618, title I, § 105, Oct. 22, 1968, 82 Stat. 1226, provided that
 
 **Effective Date**
 
-Pub. L. 90–351, title IV, § 907, June 19, 1968, 82 Stat. 235, provided that: “The amendments made by this title [enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade] shall become effective one hundred and eighty days after the date of its enactment [June 19, 1968]; except that repeal of the Federal Firearms Act [sections 901 to 910 of Title 15] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
+Pub. L. 90–351, title IV, § 907, June 19, 1968, 82 Stat. 235, provided that: “The amendments made by this title [enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade] shall become effective one hundred and eighty days after the date of its enactment [June 19, 1968]; except that repeal of the Federal Firearms Act [sections 901 to 910 of Title 15] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–92, § 5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section [amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title] may be cited as the ‘Child Safety Lock Act of 2005’.”
+Pub. L. 109–92, § 5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section [amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title] may be cited as the ‘Child Safety Lock Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–277, § 1, July 22, 2004, 118 Stat. 865, provided that: “This Act [enacting sections 926B and 926C of this title] may be cited as the ‘Law Enforcement Officers Safety Act of 2004’.”
+Pub. L. 108–277, § 1, July 22, 2004, 118 Stat. 865, provided that: “This Act [enacting sections 926B and 926C of this title] may be cited as the ‘Law Enforcement Officers Safety Act of 2004’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–322, title XI, § 110101, Sept. 13, 1994, 108 Stat. 1996, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) could be cited as the “Public Safety and Recreational Firearms Use Protection Act”, prior to repeal by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
+Pub. L. 103–322, title XI, § 110101, Sept. 13, 1994, 108 Stat. 1996, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) could be cited as the “Public Safety and Recreational Firearms Use Protection Act”, prior to repeal by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–159, title I, § 101, Nov. 30, 1993, 107 Stat. 1536, provided that: “This title [enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Brady Handgun Violence Prevention Act’.”
+Pub. L. 103–159, title I, § 101, Nov. 30, 1993, 107 Stat. 1536, provided that: “This title [enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Brady Handgun Violence Prevention Act’.”
 
-Pub. L. 103–159, title III, § 301, Nov. 30, 1993, 107 Stat. 1545, provided that: “This title [amending sections 922 to 924 of this title] may be cited as the ‘Federal Firearms License Reform Act of 1993’.”
+Pub. L. 103–159, title III, § 301, Nov. 30, 1993, 107 Stat. 1545, provided that: “This title [amending sections 922 to 924 of this title] may be cited as the ‘Federal Firearms License Reform Act of 1993’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–647, title XVII, § 1702(a), Nov. 29, 1990, 104 Stat. 4844, provided that: “This section [amending this section and sections 922 and 924 of this title and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Gun-Free School Zones Act of 1990’.”
+Pub. L. 101–647, title XVII, § 1702(a), Nov. 29, 1990, 104 Stat. 4844, provided that: “This section [amending this section and sections 922 and 924 of this title and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Gun-Free School Zones Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–649, § 1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act [amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation] may be cited as the ‘Undetectable Firearms Act of 1988’.”
+Pub. L. 100–649, § 1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act [amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation] may be cited as the ‘Undetectable Firearms Act of 1988’.”
 
 **Short Title of 1986 Amendments**
 
-Pub. L. 99–570, title I, subtitle I, § 1401, Oct. 27, 1986, 100 Stat. 3207–39, provided that: “This subtitle [amending section 924 of this title] may be cited as the ‘Career Criminals Amendment Act of 1986’.”
+Pub. L. 99–570, title I, subtitle I, § 1401, Oct. 27, 1986, 100 Stat. 3207–39, provided that: “This subtitle [amending section 924 of this title] may be cited as the ‘Career Criminals Amendment Act of 1986’.”
 
-Pub. L. 99–308, § 1(a), May 19, 1986, 100 Stat. 449, provided that: “This Act [enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section] may be cited as the ‘Firearms Owners’ Protection Act’.”
+Pub. L. 99–308, § 1(a), May 19, 1986, 100 Stat. 449, provided that: “This Act [enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section] may be cited as the ‘Firearms Owners’ Protection Act’.”
 
 **Short Title**
 
-Pub. L. 90–618, § 1, Oct. 22, 1968, 82 Stat. 1213, provided: “That this Act [enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26] may be cited as the ‘Gun Control Act of 1968’.”
+Pub. L. 90–618, § 1, Oct. 22, 1968, 82 Stat. 1213, provided: “That this Act [enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26] may be cited as the ‘Gun Control Act of 1968’.”
 
 **Restrictions on Amendment of Regulations as to Curios or Relics**
 
 Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: “That, in the current fiscal year and any fiscal year thereafter, no funds appropriated under this or any other Act shall be used to pay administrative expenses or the compensation of any officer or employee of the United States to implement an amendment or amendments to section 478.118 of title 27, Code of Federal Regulations, or to change the definition of ‘Curios or relics’ in section 478.11 of title 27, Code of Federal Regulations, or remove any item from ATF Publication 5300.11 as it existed on January 1, 1994”.
 
-**Construction of Pub. L. 103–159 With Section 552a of Title 5**
+**Construction of Pub. L. 103–159 With Section 552a of Title 5**
 
-Pub. L. 103–159, title I, § 105, Nov. 30, 1993, 107 Stat. 1543, provided that: “This Act [enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
+Pub. L. 103–159, title I, § 105, Nov. 30, 1993, 107 Stat. 1543, provided that: “This Act [enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
 
 **Statutory Construction; Evidence**
 
-For provisions relating to statutory construction of, and admissibility of evidence regarding compliance or noncompliance with, the amendment by section 101(b) [title I, § 119(a)] of Pub. L. 105–277, see section 101(b) [title I, § 119(d)] of Pub. L. 105–277, set out as a note under section 923 of this title.
+For provisions relating to statutory construction of, and admissibility of evidence regarding compliance or noncompliance with, the amendment by section 101(b) [title I, § 119(a)] of Pub. L. 105–277, see section 101(b) [title I, § 119(d)] of Pub. L. 105–277, set out as a note under section 923 of this title.
 
 **Study By Attorney General**
 
-Pub. L. 103–322, title XI, § 110104, Sept. 13, 1994, 108 Stat. 2000, which provided that the Attorney General was to study the effect of subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 and to report the results of the study to Congress not later than 30 months after Sept. 13, 1994, was repealed by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
+Pub. L. 103–322, title XI, § 110104, Sept. 13, 1994, 108 Stat. 2000, which provided that the Attorney General was to study the effect of subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 and to report the results of the study to Congress not later than 30 months after Sept. 13, 1994, was repealed by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
 
 **Congressional Findings and Declaration**
 
-Pub. L. 99–308, § 1(b), May 19, 1986, 100 Stat. 449, provided that:
+Pub. L. 99–308, § 1(b), May 19, 1986, 100 Stat. 449, provided that:
 
 > “The Congress finds that—
 
@@ -513,9 +513,9 @@ Pub. L. 99–308, § 1(b), May 19, 1986, 100 Stat. 449, provided that:
 
 > **“(2)** additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 [section 101 of Pub. L. 90–618, set out below], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
 
-Pub. L. 90–618, title I, § 101, Oct. 22, 1968, 82 Stat. 1213, provided that: “The Congress hereby declares that the purposes of this title [amending this chapter] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Pub. L. 90–618, title I, § 101, Oct. 22, 1968, 82 Stat. 1213, provided that: “The Congress hereby declares that the purposes of this title [amending this chapter] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
-Pub. L. 90–351, title IV, § 901, June 19, 1968, 82 Stat. 225, provided that:
+Pub. L. 90–351, title IV, § 901, June 19, 1968, 82 Stat. 225, provided that:
 
 > **“(a)** The Congress hereby finds and declares—
 
@@ -541,13 +541,13 @@ Pub. L. 90–351, title IV, § 901, June 19, 1968, 82 Stat. 225, provided that
 
 **Administration and Enforcement**
 
-Pub. L. 90–618, title I, § 103, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 107–296, title XI, § 1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title [amending this chapter] shall be vested in the Attorney General.”
+Pub. L. 90–618, title I, § 103, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 107–296, title XI, § 1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title [amending this chapter] shall be vested in the Attorney General.”
 
-Pub. L. 90–351, title IV, § 903, June 19, 1968, 82 Stat. 234, provided that: “The administration and enforcement of the amendment made by this title [enacting this chapter and provisions set out as notes under this section] shall be vested in the Secretary of the Treasury [now Attorney General].”
+Pub. L. 90–351, title IV, § 903, June 19, 1968, 82 Stat. 234, provided that: “The administration and enforcement of the amendment made by this title [enacting this chapter and provisions set out as notes under this section] shall be vested in the Secretary of the Treasury [now Attorney General].”
 
 **Modification of Other Laws**
 
-Pub. L. 90–618, title I, § 104, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–618, title I, § 104, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Nothing in this title or the amendment made thereby [amending this chapter] shall be construed as modifying or affecting any provision of—
 
@@ -557,7 +557,7 @@ Pub. L. 90–618, title I, § 104, Oct. 22, 1968, 82 Stat. 1226, as amended by
 
 > **“(c)** section 1715 of title 18, United States Code, relating to nonmailable firearms.”
 
-Pub. L. 90–351, title IV, § 904, June 19, 1968, 82 Stat. 234, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–351, title IV, § 904, June 19, 1968, 82 Stat. 234, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Nothing in this title or amendment made thereby [enacting this chapter and provisions set out as notes under this section] shall be construed as modifying or affecting any provision of—
 
@@ -569,7 +569,7 @@ Pub. L. 90–351, title IV, § 904, June 19, 1968, 82 Stat. 234, as amended by
 
 **Definition of “Handgun”**
 
-Pub. L. 99–408, § 10, Aug. 28, 1986, 100 Stat. 922, provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
+Pub. L. 99–408, § 10, Aug. 28, 1986, 100 Stat. 922, provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
 
 **Executive Documents**
 
@@ -771,7 +771,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-## § 922. Unlawful acts
+## § 922. Unlawful acts
 
 **(a)** It shall be unlawful—
 
@@ -811,9 +811,9 @@ J.R. Biden, Jr.
 
 **(B)** is for the purpose of exportation; or
 
-**(C)** is for the purpose of testing or experimentation and has been authorized by the Attorney General; 1
+**(C)** is for the purpose of testing or experimentation and has been authorized by the Attorney General; 1
 
-<sup>1</sup>  So in original. Probably should be followed with “and”.
+<sup>1</sup> So in original. Probably should be followed with “and”.
 
 **(9)** for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, who does not reside in any State to receive any firearms unless such receipt is for lawful sporting purposes.
 
@@ -881,9 +881,9 @@ A copy of the sworn statement and a copy of the notification to the local law en
 
 **(B)** except as provided in subsection (y)(2), has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)));
 
-**(6)** who 2
+**(6)** who 2
 
-<sup>2</sup>  So in original. The word “who” probably should not appear.
+<sup>2</sup> So in original. The word “who” probably should not appear.
 
 has been discharged from the Armed Forces under dishonorable conditions;
 
@@ -1021,9 +1021,9 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 
 **(B)** crime at the local level is exacerbated by the interstate movement of drugs, guns, and criminal gangs;
 
-**(C)** firearms and ammunition move easily in interstate commerce and have been found in increasing numbers in and around schools, as documented in numerous hearings in both the Committee on the Judiciary 3
+**(C)** firearms and ammunition move easily in interstate commerce and have been found in increasing numbers in and around schools, as documented in numerous hearings in both the Committee on the Judiciary 3
 
-<sup>3</sup>  So in original. Probably should be followed by “of”.
+<sup>3</sup> So in original. Probably should be followed by “of”.
 
 the House of Representatives and the Committee on the Judiciary of the Senate;
 
@@ -1135,9 +1135,9 @@ the House of Representatives and the Committee on the Judiciary of the Senate;
 
 **(3)** The statement referred to in paragraph (1)(A)(i)(I) shall contain only—
 
-**(A)** the name, address, and date of birth appearing on a valid identification document (as defined in section 1028(d)(1) 4
+**(A)** the name, address, and date of birth appearing on a valid identification document (as defined in section 1028(d)(1) 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 ) of the transferee containing a photograph of the transferee and a description of the identification used;
 
@@ -1253,13 +1253,13 @@ the House of Representatives and the Committee on the Judiciary of the Senate;
 
 **(iii)** there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
 
-**(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) or State 5
+**(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) or State 5
 
-<sup>5</sup>  So in original. Probably should be followed by a comma.
+<sup>5</sup> So in original. Probably should be followed by a comma.
 
 local, or Tribal law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
 
-**(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) of this section or State <sup>5</sup> local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
+**(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) of this section or State <sup>5</sup> local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
 
 **(6)** Neither a local government nor an employee of the Federal Government or of any State or local government, responsible for providing information to the national instant criminal background check system shall be liable in an action at law for damages—
 
@@ -1269,7 +1269,7 @@ local, or Tribal law, and the licensee transfers a firearm to such other person,
 
 **(u)** It shall be unlawful for a person to steal or unlawfully take or carry away from the person or the premises of a person who is licensed to engage in the business of importing, manufacturing, or dealing in firearms, any firearm in the licensee’s business inventory that has been shipped or transported in interstate or foreign commerce.
 
-**[(v)** , (w) Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
+**[(v)** , (w) Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
 
 **(x)**
 
@@ -1395,15 +1395,15 @@ local, or Tribal law, and the licensee transfers a firearm to such other person,
 
 **(ii)** shall not include an action brought against the person having lawful possession and control of the handgun for negligent entrustment or negligence per se.
 
-**[APPENDIX A Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000]**
+**[APPENDIX A Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000]**
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, § 165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, § 102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, § 2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, § 2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, § 7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, § 1702(b)(1), title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, § 102(a)(1), (b), title III, § 302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 657, 658(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, § 603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, § 101(b) [title I, § 121], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, § 4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, § 1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§ 5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, § 11412(c)(2), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–103, div. W, title XI, § 1104(b), Mar. 15, 2022, 136 Stat. 921; Pub. L. 117–159, div. A, title II, §§ 12001(a)(1), (3), 12004(b), June 25, 2022, 136 Stat. 1322, 1324, 1329; Pub. L. 118–159, div. E, title LII, § 5211(b), Dec. 23, 2024, 138 Stat. 2444.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, § 165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, § 102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, § 2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, § 2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, § 7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, § 1702(b)(1), title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, § 102(a)(1), (b), title III, § 302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 657, 658(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, § 603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, § 101(b) [title I, § 121], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, § 4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, § 1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§ 5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, § 11412(c)(2), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–103, div. W, title XI, § 1104(b), Mar. 15, 2022, 136 Stat. 921; Pub. L. 117–159, div. A, title II, §§ 12001(a)(1), (3), 12004(b), June 25, 2022, 136 Stat. 1322, 1324, 1329; Pub. L. 118–159, div. E, title LII, § 5211(b), Dec. 23, 2024, 138 Stat. 2444.)
 
 **Amendment of Section**
 
 For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 100–649, § 2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (p) of this section is repealed.
+Pub. L. 100–649, § 2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (p) of this section is repealed.
 
 **Editorial Notes**
 
@@ -1431,165 +1431,165 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec.
 
 2024—Subsec. (c)(2). Pub. L. 118–159 added par. (2) and struck out former par. (2) which read as follows: “the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee’s place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and”.
 
-2022—Subsec. (d). Pub. L. 117–159, § 12004(b)(3), in concluding provisions, substituted “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925.” for “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.”
+2022—Subsec. (d). Pub. L. 117–159, § 12004(b)(3), in concluding provisions, substituted “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925.” for “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.”
 
-Pub. L. 117–159, § 12001(a)(1)(A)(i), inserted “, including as a juvenile” after “such person” in introductory provisions.
+Pub. L. 117–159, § 12001(a)(1)(A)(i), inserted “, including as a juvenile” after “such person” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 117–159, § 12001(a)(1)(A)(ii), inserted “at 16 years of age or older” after “institution”.
+Subsec. (d)(4). Pub. L. 117–159, § 12001(a)(1)(A)(ii), inserted “at 16 years of age or older” after “institution”.
 
-Subsec. (d)(10), (11). Pub. L. 117–159, § 12004(b), added pars. (10) and (11).
+Subsec. (d)(10), (11). Pub. L. 117–159, § 12004(b), added pars. (10) and (11).
 
-Subsec. (t)(1)(B)(ii). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(aa), (3), temporarily inserted “subject to subparagraph (C),” before “3 business days”. See Effective and Termination Dates of 2022 Amendment note below.
+Subsec. (t)(1)(B)(ii). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(aa), (3), temporarily inserted “subject to subparagraph (C),” before “3 business days”. See Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 117–103, § 1104(b)(1), inserted “, or State, local, or Tribal law” after “subsection (g) or (n) of this section”.
+Pub. L. 117–103, § 1104(b)(1), inserted “, or State, local, or Tribal law” after “subsection (g) or (n) of this section”.
 
-Subsec. (t)(1)(C), (D). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(bb)–(III), (3), temporarily added subpar. (C) and redesignated former subpar. (C) as (D). See Effective and Termination Dates of 2022 Amendment note below.
+Subsec. (t)(1)(C), (D). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(bb)–(III), (3), temporarily added subpar. (C) and redesignated former subpar. (C) as (D). See Effective and Termination Dates of 2022 Amendment note below.
 
-Subsec. (t)(2). Pub. L. 117–159, § 12001(a)(1)(B)(ii), (3), temporarily inserted “transfer or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)” in introductory provisions. See Effective and Termination Dates of 2022 Amendment note below.
+Subsec. (t)(2). Pub. L. 117–159, § 12001(a)(1)(B)(ii), (3), temporarily inserted “transfer or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)” in introductory provisions. See Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 117–103, § 1104(b)(2), inserted “, local or Tribal” after “State” in introductory provisions.
+Pub. L. 117–103, § 1104(b)(2), inserted “, local or Tribal” after “State” in introductory provisions.
 
-Subsec. (t)(4). Pub. L. 117–159, § 12001(a)(1)(B)(iii), (3), temporariy inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
+Subsec. (t)(4). Pub. L. 117–159, § 12001(a)(1)(B)(iii), (3), temporariy inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 117–103, § 1104(b)(3), inserted “local, or Tribal” after “State”.
+Pub. L. 117–103, § 1104(b)(3), inserted “local, or Tribal” after “State”.
 
-Subsec. (t)(5). Pub. L. 117–159, § 12001(a)(1)(B)(iv), (3), temporarily inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
+Subsec. (t)(5). Pub. L. 117–159, § 12001(a)(1)(B)(iv), (3), temporarily inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 117–103, § 1104(b)(4), inserted “local, or Tribal” after “State”.
+Pub. L. 117–103, § 1104(b)(4), inserted “local, or Tribal” after “State”.
 
 2015—Subsec. (z)(2)(B). Pub. L. 114–94 substituted “directly employed by or contracted by” for “employed by”.
 
-2005—Subsec. (a)(7), (8). Pub. L. 109–92, § 6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
+2005—Subsec. (a)(7), (8). Pub. L. 109–92, § 6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
-Subsec. (z). Pub. L. 109–92, § 5(c)(1), added subsec. (z).
+Subsec. (z). Pub. L. 109–92, § 5(c)(1), added subsec. (z).
 
-2002—Subsecs. (a) to (c), (p)(2) to (4). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+2002—Subsecs. (a) to (c), (p)(2) to (4). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (p)(5)(A). Pub. L. 107–296, § 1112(f)(4), substituted “after consultation with the Attorney General” for “after consultation with the Secretary”.
+Subsec. (p)(5)(A). Pub. L. 107–296, § 1112(f)(4), substituted “after consultation with the Attorney General” for “after consultation with the Secretary”.
 
-Subsecs. (r), (s). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (r), (s). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
 Subsec. (t)(1)(C). Pub. L. 107–273 substituted “1028(d)” for “1028(d)(1)”.
 
-Subsecs. (t)(3), (5), (v), (w). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsecs. (t)(3), (5), (v), (w). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-1998—Subsec. (d)(5). Pub. L. 105–277, § 101(b) [title I, § 121(1)], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+1998—Subsec. (d)(5). Pub. L. 105–277, § 101(b) [title I, § 121(1)], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
-Subsec. (g)(5). Pub. L. 105–277, § 101(b) [title I, § 121(2)], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+Subsec. (g)(5). Pub. L. 105–277, § 101(b) [title I, § 121(2)], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
-Subsec. (s)(3)(B)(v). Pub. L. 105–277, § 101(b) [title I, § 121(3)], added cl. (v) and struck out former cl. (v) which read as follows: “is not an alien who is illegally or unlawfully in the United States;”.
+Subsec. (s)(3)(B)(v). Pub. L. 105–277, § 101(b) [title I, § 121(3)], added cl. (v) and struck out former cl. (v) which read as follows: “is not an alien who is illegally or unlawfully in the United States;”.
 
-Subsec. (y). Pub. L. 105–277, § 101(b) [title I, § 121(4)], added subsec. (y).
+Subsec. (y). Pub. L. 105–277, § 101(b) [title I, § 121(4)], added subsec. (y).
 
-1996—Pub. L. 104–294, § 603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever & Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
+1996—Pub. L. 104–294, § 603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever & Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
 
-Subsec. (d)(9). Pub. L. 104–208, § 101(f) [§ 658(b)(1)], added par. (9).
+Subsec. (d)(9). Pub. L. 104–208, § 101(f) [§ 658(b)(1)], added par. (9).
 
-Subsec. (g)(7). Pub. L. 104–208, § 101(f) [§ 658(b)(2)(A)], struck out “or” at end.
+Subsec. (g)(7). Pub. L. 104–208, § 101(f) [§ 658(b)(2)(A)], struck out “or” at end.
 
-Subsec. (g)(8)(C)(ii). Pub. L. 104–294, § 603(b), which directed the amendment of cl. (ii) by substituting a semicolon for the comma at end, could not be executed because of the prior amendment by Pub. L. 104–208, § 101(f) [§ 658(b)(2)]. See below.
+Subsec. (g)(8)(C)(ii). Pub. L. 104–294, § 603(b), which directed the amendment of cl. (ii) by substituting a semicolon for the comma at end, could not be executed because of the prior amendment by Pub. L. 104–208, § 101(f) [§ 658(b)(2)]. See below.
 
-Pub. L. 104–208, § 101(f) [§ 658(b)(2)(B)], substituted “; or” for comma at end.
+Pub. L. 104–208, § 101(f) [§ 658(b)(2)(B)], substituted “; or” for comma at end.
 
-Subsec. (g)(9). Pub. L. 104–208, § 101(f) [§ 658(b)(2)(C)], added par. (9).
+Subsec. (g)(9). Pub. L. 104–208, § 101(f) [§ 658(b)(2)(C)], added par. (9).
 
-Subsec. (q). Pub. L. 104–208, § 101(f) [title VI, § 657], amended subsec. (q) generally. Prior to amendment, subsec. (q) made it unlawful, with certain exceptions, for an individual knowingly to possess a firearm at a place that the individual knew, or had reasonable cause to believe, was a school zone or knowingly, or with reckless disregard for the safety of another, to discharge or attempt to discharge a firearm at a place that the individual knew was a school zone.
+Subsec. (q). Pub. L. 104–208, § 101(f) [title VI, § 657], amended subsec. (q) generally. Prior to amendment, subsec. (q) made it unlawful, with certain exceptions, for an individual knowingly to possess a firearm at a place that the individual knew, or had reasonable cause to believe, was a school zone or knowingly, or with reckless disregard for the safety of another, to discharge or attempt to discharge a firearm at a place that the individual knew was a school zone.
 
-Subsec. (s)(1). Pub. L. 104–294, § 603(c)(1), amended directory language of Pub. L. 103–322, § 320927. See 1994 Amendment note below.
+Subsec. (s)(1). Pub. L. 104–294, § 603(c)(1), amended directory language of Pub. L. 103–322, § 320927. See 1994 Amendment note below.
 
-Subsec. (s)(3)(B)(i). Pub. L. 104–208, § 101(f) [title VI, § 658(b)(3)], inserted “, and has not been convicted in any court of a misdemeanor crime of domestic violence” before the semicolon.
+Subsec. (s)(3)(B)(i). Pub. L. 104–208, § 101(f) [title VI, § 658(b)(3)], inserted “, and has not been convicted in any court of a misdemeanor crime of domestic violence” before the semicolon.
 
-Subsec. (t)(2). Pub. L. 104–294, § 603(d), substituted “subsection (g) or (n)” for “section 922(g) or (n)” in introductory provisions.
+Subsec. (t)(2). Pub. L. 104–294, § 603(d), substituted “subsection (g) or (n)” for “section 922(g) or (n)” in introductory provisions.
 
-Subsec. (w)(4). Pub. L. 104–294, § 603(e), substituted “section 923(i) of this title” for “section 923(i) of title 18, United States Code,”.
+Subsec. (w)(4). Pub. L. 104–294, § 603(e), substituted “section 923(i) of this title” for “section 923(i) of title 18, United States Code,”.
 
-Subsec. (x). Pub. L. 104–294, § 603(f)(1), amended directory language of Pub. L. 103–322, § 110201(a). See 1994 Amendment note below.
+Subsec. (x). Pub. L. 104–294, § 603(f)(1), amended directory language of Pub. L. 103–322, § 110201(a). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+1994—Pub. L. 103–322, § 110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(9). Pub. L. 103–322, § 110514, added par. (9).
+Subsec. (a)(9). Pub. L. 103–322, § 110514, added par. (9).
 
-Subsec. (b)(1). Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3524. See 1990 Amendment note below.
+Subsec. (b)(1). Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3524. See 1990 Amendment note below.
 
-Subsec. (d)(8). Pub. L. 103–322, § 110401(b), added par. (8).
+Subsec. (d)(8). Pub. L. 103–322, § 110401(b), added par. (8).
 
-Subsec. (g)(8). Pub. L. 103–322, § 110401(c), added par. (8).
+Subsec. (g)(8). Pub. L. 103–322, § 110401(c), added par. (8).
 
-Subsec. (j). Pub. L. 103–322, § 110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
+Subsec. (j). Pub. L. 103–322, § 110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
 
-Subsec. (q). Pub. L. 103–322, § 320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+Subsec. (q). Pub. L. 103–322, § 320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-Subsec. (s)(1). Pub. L. 103–322, § 320927, as amended by Pub. L. 104–294, § 603(c)(1), inserted “(other than the return of a handgun to the person from whom it was received)” after “handgun” in introductory provisions.
+Subsec. (s)(1). Pub. L. 103–322, § 320927, as amended by Pub. L. 104–294, § 603(c)(1), inserted “(other than the return of a handgun to the person from whom it was received)” after “handgun” in introductory provisions.
 
-Subsec. (v). Pub. L. 103–322, § 110102(a), which added subsec. (v) prohibiting the manufacture, transfer, or possession of automatic assault weapons, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (v). Pub. L. 103–322, § 110102(a), which added subsec. (v) prohibiting the manufacture, transfer, or possession of automatic assault weapons, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (w). Pub. L. 103–322, § 110103(a), which added subsec. (w) prohibiting the transfer or possession of a large capacity ammunition feeding device, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (w). Pub. L. 103–322, § 110103(a), which added subsec. (w) prohibiting the transfer or possession of a large capacity ammunition feeding device, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (x). Pub. L. 103–322, § 110201(a), as amended by Pub. L. 104–294, § 603(f)(1), added subsec. (x).
+Subsec. (x). Pub. L. 103–322, § 110201(a), as amended by Pub. L. 104–294, § 603(f)(1), added subsec. (x).
 
-1993—Subsec. (e). Pub. L. 103–159, § 302(a), inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
+1993—Subsec. (e). Pub. L. 103–159, § 302(a), inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
 
-Subsec. (f). Pub. L. 103–159, § 302(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 103–159, § 302(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (s). Pub. L. 103–159, § 102(a)(1), added subsec. (s).
+Subsec. (s). Pub. L. 103–159, § 102(a)(1), added subsec. (s).
 
-Subsec. (t). Pub. L. 103–159, § 102(b), added subsec. (t).
+Subsec. (t). Pub. L. 103–159, § 102(b), added subsec. (t).
 
-Subsec. (u). Pub. L. 103–159, § 302(c), added subsec. (u).
+Subsec. (u). Pub. L. 103–159, § 302(c), added subsec. (u).
 
-1990—Subsec. (a)(5). Pub. L. 101–647, § 2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
+1990—Subsec. (a)(5). Pub. L. 101–647, § 2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
 
-Subsec. (b)(1). Pub. L. 101–647, § 3524, as amended by Pub. L. 103–322, § 330011(i), substituted semicolon for period at end.
+Subsec. (b)(1). Pub. L. 101–647, § 3524, as amended by Pub. L. 103–322, § 330011(i), substituted semicolon for period at end.
 
-Subsec. (j). Pub. L. 101–647, § 2202(a), substituted “which constitutes, or which has been shipped or transported in” for “or which constitutes”.
+Subsec. (j). Pub. L. 101–647, § 2202(a), substituted “which constitutes, or which has been shipped or transported in” for “or which constitutes”.
 
-Subsec. (k). Pub. L. 101–647, § 2202(b), inserted before period at end “or to possess or receive any firearm which has had the importer’s or manufacturer’s serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce”.
+Subsec. (k). Pub. L. 101–647, § 2202(b), inserted before period at end “or to possess or receive any firearm which has had the importer’s or manufacturer’s serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce”.
 
-Subsec. (q). Pub. L. 101–647, § 1702(b)(1), added subsec. (q).
+Subsec. (q). Pub. L. 101–647, § 1702(b)(1), added subsec. (q).
 
-Subsec. (r). Pub. L. 101–647, § 2204(b), added subsec. (r).
+Subsec. (r). Pub. L. 101–647, § 2204(b), added subsec. (r).
 
 1988—Subsec. (g)(3). Pub. L. 100–690 inserted “who” before “is”.
 
 Subsec. (p). Pub. L. 100–649 added subsec. (p).
 
-1986—Subsec. (a)(1). Pub. L. 99–308, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”.
+1986—Subsec. (a)(1). Pub. L. 99–308, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”.
 
-Subsec. (a)(2). Pub. L. 99–308, § 102(2)(A), in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
+Subsec. (a)(2). Pub. L. 99–308, § 102(2)(A), in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
 
-Subsec. (a)(2)(A). Pub. L. 99–308, § 102(2)(B), substituted “licensed dealer, or licensed collector” for “or licensed dealer for the sole purpose of repair or customizing”.
+Subsec. (a)(2)(A). Pub. L. 99–308, § 102(2)(B), substituted “licensed dealer, or licensed collector” for “or licensed dealer for the sole purpose of repair or customizing”.
 
-Subsec. (a)(3)(B). Pub. L. 99–308, § 102(3), substituted “firearm” for “rifle or shotgun” and “with subsection (b)(3) of this section” for “with the provisions of subsection (b)(3) of this section”.
+Subsec. (a)(3)(B). Pub. L. 99–308, § 102(3), substituted “firearm” for “rifle or shotgun” and “with subsection (b)(3) of this section” for “with the provisions of subsection (b)(3) of this section”.
 
 Subsec. (a)(4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (a)(7), (8). Pub. L. 99–408 added pars. (7) and (8).
 
-Subsec. (b)(2). Pub. L. 99–308, § 102(4)(A), struck out “or ammunition” after “firearm” in two places.
+Subsec. (b)(2). Pub. L. 99–308, § 102(4)(A), struck out “or ammunition” after “firearm” in two places.
 
-Subsec. (b)(3)(A). Pub. L. 99–308, § 102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee’s place of business is located if the purchaser’s State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee’s business premises,”.
+Subsec. (b)(3)(A). Pub. L. 99–308, § 102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee’s place of business is located if the purchaser’s State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee’s business premises,”.
 
-Subsec. (b)(3)(B), (C). Pub. L. 99–308, § 102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
+Subsec. (b)(3)(B), (C). Pub. L. 99–308, § 102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
 
 Subsec. (b)(4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (b)(5). Pub. L. 99–308, § 102(4)(E), substituted “or armor-piercing ammunition” for “or ammunition except .22 caliber rimfire ammunition”.
+Subsec. (b)(5). Pub. L. 99–308, § 102(4)(E), substituted “or armor-piercing ammunition” for “or ammunition except .22 caliber rimfire ammunition”.
 
-Subsec. (d). Pub. L. 99–308, § 102(5)(A), substituted “person” for “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” in provision preceding par. (1).
+Subsec. (d). Pub. L. 99–308, § 102(5)(A), substituted “person” for “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” in provision preceding par. (1).
 
-Subsec. (d)(3). Pub. L. 99–308, § 102(5)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+Subsec. (d)(3). Pub. L. 99–308, § 102(5)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
-Subsec. (d)(5) to (7). Pub. L. 99–308, § 102(5)(C), (D), added pars. (5) to (7).
+Subsec. (d)(5) to (7). Pub. L. 99–308, § 102(5)(C), (D), added pars. (5) to (7).
 
-Subsec. (g). Pub. L. 99–308, § 102(6)(D), in concluding provision substituted “in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce” for “any firearm or ammunition in interstate or foreign commerce”.
+Subsec. (g). Pub. L. 99–308, § 102(6)(D), in concluding provision substituted “in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce” for “any firearm or ammunition in interstate or foreign commerce”.
 
-Subsec. (g)(1). Pub. L. 99–308, § 102(6)(A), struck out “is under indictment for, or who” after “who”.
+Subsec. (g)(1). Pub. L. 99–308, § 102(6)(A), struck out “is under indictment for, or who” after “who”.
 
-Subsec. (g)(3). Pub. L. 99–308, § 102(6)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+Subsec. (g)(3). Pub. L. 99–308, § 102(6)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
-Subsec. (g)(5) to (7). Pub. L. 99–308, § 102(6)(C), added pars. (5) to (7).
+Subsec. (g)(5) to (7). Pub. L. 99–308, § 102(6)(C), added pars. (5) to (7).
 
-Subsec. (h). Pub. L. 99–308, § 102(7), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person—
+Subsec. (h). Pub. L. 99–308, § 102(7), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person—
 
 “(1) who is under indictment for, or who has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
 
@@ -1601,9 +1601,9 @@ Subsec. (h). Pub. L. 99–308, § 102(7), amended subsec. (h) generally. Prior
 
 to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.”
 
-Subsec. (n). Pub. L. 99–308, § 102(8), added subsec. (n).
+Subsec. (n). Pub. L. 99–308, § 102(8), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 99–308, § 102(9), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 99–308, § 102(9), added subsec. (*o*).
 
 1982—Subsec. (b)(5). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “or ammunition”.
 
@@ -1657,11 +1657,11 @@ Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added l
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
+Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 **Effective and Termination Dates of 2022 Amendment**
 
-Pub. L. 117–159, div. A, title II, § 12001(a)(3), June 25, 2022, 136 Stat. 1324, provided that: “Effective on September 30, 2032, paragraphs (1)(B) and (2) [amending this section and section 40901 of Title 34, Crime Control and Law Enforcement] are repealed, and the provisions of law amended by those paragraphs are restored as if those paragraphs had not been enacted.”
+Pub. L. 117–159, div. A, title II, § 12001(a)(3), June 25, 2022, 136 Stat. 1324, provided that: “Effective on September 30, 2032, paragraphs (1)(B) and (2) [amending this section and section 40901 of Title 34, Crime Control and Law Enforcement] are repealed, and the provisions of law amended by those paragraphs are restored as if those paragraphs had not been enacted.”
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
@@ -1671,7 +1671,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–92, § 5(d), Oct. 26, 2005, 119 Stat. 2101, provided that: “This section [amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Oct. 26, 2005].”
+Pub. L. 109–92, § 5(d), Oct. 26, 2005, 119 Stat. 2101, provided that: “This section [amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Oct. 26, 2005].”
 
 **Effective Date of 2002 Amendment**
 
@@ -1679,17 +1679,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–294, title VI, § 603(c)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 603(c)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
 
-Pub. L. 104–294, title VI, § 603(f)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 110201 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 603(f)(2), Oct. 11, 1996, 110 Stat. 3503, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 110201 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
 
-Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504, which provided that the amendment made by section 603(i)(1) of Pub. L. 104–294, which amended provisions that have been editorially reclassified as sections 40302 and 40901 of Title 34, Crime Control and Law Enforcement, was to take effect as if the amendment had been included in section 210603(b) of Pub. L. 103–322 on Sept. 13, 1994, was editorially reclassified and is set out as a note under section 40302 of Title 34.
+Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504, which provided that the amendment made by section 603(i)(1) of Pub. L. 104–294, which amended provisions that have been editorially reclassified as sections 40302 and 40901 of Title 34, Crime Control and Law Enforcement, was to take effect as if the amendment had been included in section 210603(b) of Pub. L. 103–322 on Sept. 13, 1994, was editorially reclassified and is set out as a note under section 40302 of Title 34.
 
 **Effective and Termination Dates of 1994 Amendment**
 
 Amendment by sections 110102(a), 110103(a), and 110106 of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
-Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3524 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3524 of Pub. L. 101–647 took effect.
 
 **Effective Date of 1990 Amendment**
 
@@ -1697,7 +1697,7 @@ Amendment by section 1702(b)(1) of Pub. L. 101–647 applicable to conduct engag
 
 **Effective Date of 1988 Amendment; Sunset Provision**
 
-Pub. L. 100–649, § 2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656; Pub. L. 118–42, div. G, title III, § 301, Mar. 9, 2024, 138 Stat. 451, provided that:
+Pub. L. 100–649, § 2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656; Pub. L. 118–42, div. G, title III, § 301, Mar. 9, 2024, 138 Stat. 451, provided that:
 
 > **“(1) Effective date.—** This Act and the amendments made by this Act [amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, section 921 of this title, and section 1356 of former Title 49, Transportation] shall take effect on the 30th day beginning after the date of the enactment of this Act [Nov. 10, 1988].
 
@@ -1715,7 +1715,7 @@ Pub. L. 100–649, § 2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. 
 
 > **“(i)** in paragraph (1), by striking ‘and provisions relating to firearms subject to the prohibitions of section 922(p)’; and
 
-> **“(ii)** in paragraph (2), by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’; and
+> **“(ii)** in paragraph (2), by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’; and
 
 > **“(iii)** in each of paragraphs (3) and (4), by striking ‘except for provisions relating to firearms subject to the prohibitions of section 922(p),’.”
 
@@ -1733,11 +1733,11 @@ Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–
 
 **Rule of Construction**
 
-Pub. L. 117–159, div. A, title II, § 12004(k), June 25, 2022, 136 Stat. 1332, provided that: “Nothing in this section [enacting sections 932 to 934 of this title, amending this section, sections 924, 1956, 1961, and 2516 of this title, section 240 of Title 6, Domestic Security, section 534 of Title 28, Judiciary and Judicial Procedure, and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 509 and 534 of Title 28, listed in a table relating to sentencing guidelines set out under section 994 of Title 28, and set out as a note preceding section 41101 of Title 34], or an amendment made by this section, shall be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions.”
+Pub. L. 117–159, div. A, title II, § 12004(k), June 25, 2022, 136 Stat. 1332, provided that: “Nothing in this section [enacting sections 932 to 934 of this title, amending this section, sections 924, 1956, 1961, and 2516 of this title, section 240 of Title 6, Domestic Security, section 534 of Title 28, Judiciary and Judicial Procedure, and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 509 and 534 of Title 28, listed in a table relating to sentencing guidelines set out under section 994 of Title 28, and set out as a note preceding section 41101 of Title 34], or an amendment made by this section, shall be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions.”
 
 **Purposes**
 
-Pub. L. 109–92, § 5(b), Oct. 26, 2005, 119 Stat. 2099, provided that:
+Pub. L. 109–92, § 5(b), Oct. 26, 2005, 119 Stat. 2099, provided that:
 
 > “The purposes of this section [amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title] are—
 
@@ -1751,7 +1751,7 @@ Pub. L. 109–92, § 5(b), Oct. 26, 2005, 119 Stat. 2099, provided that:
 
 **Liability; Evidence**
 
-Pub. L. 109–92, § 5(c)(3), Oct. 26, 2005, 119 Stat. 2101, provided that:
+Pub. L. 109–92, § 5(c)(3), Oct. 26, 2005, 119 Stat. 2101, provided that:
 
 > **“(A) Liability.—** Nothing in this section [amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title] shall be construed to—
 
@@ -1767,11 +1767,11 @@ Pub. L. 109–92, § 5(c)(3), Oct. 26, 2005, 119 Stat. 2101, provided that:
 
 **Criminal Background Checks for Persons Offering Firearm as Collateral**
 
-Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, which prohibited the use of funds appropriated pursuant to div. B of Pub. L. 112–55 for the implementation of any criminal background check system that does not require the destruction of personally identifying information of persons not prohibited from possessing or receiving firearms, was editorially reclassified (along with prior similar provisions) and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, which prohibited the use of funds appropriated pursuant to div. B of Pub. L. 112–55 for the implementation of any criminal background check system that does not require the destruction of personally identifying information of persons not prohibited from possessing or receiving firearms, was editorially reclassified (along with prior similar provisions) and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
 **Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by Brady Handgun Violence Prevention Act and National Child Protection Act of 1993**
 
-Pub. L. 103–322, title XXI, § 210603(a), Sept. 13, 1994, 108 Stat. 2074, which provided that certain amounts authorized in sections 40103(b), 40302(2), and 40901(k) of Title 34, Crime Control and Law Enforcement, may be appropriated from the Violent Crime Reduction Trust Fund, was repealed by Pub. L. 109–162, title XI, § 1154(b)(4), Jan. 5, 2006, 119 Stat. 3113.
+Pub. L. 103–322, title XXI, § 210603(a), Sept. 13, 1994, 108 Stat. 2074, which provided that certain amounts authorized in sections 40103(b), 40302(2), and 40901(k) of Title 34, Crime Control and Law Enforcement, may be appropriated from the Violent Crime Reduction Trust Fund, was repealed by Pub. L. 109–162, title XI, § 1154(b)(4), Jan. 5, 2006, 119 Stat. 3113.
 
 **National Instant Criminal Background Check System**
 
@@ -1781,27 +1781,27 @@ Section 1 was editorially reclassified as a note under section 10101 of Title 34
 
 Sections 2 and 3 were editorially reclassified as sections 40902 and 40903, respectively, of Title 34;
 
-Titles I (§ 101 et seq.), II (§ 201), and III (§ 301) were editorially reclassified as subchapter I (§ 40911 et seq.), subchapter II (§ 40931), and subchapter III (§ 40941), respectively, of chapter 409 of Title 34; and
+Titles I (§ 101 et seq.), II (§ 201), and III (§ 301) were editorially reclassified as subchapter I (§ 40911 et seq.), subchapter II (§ 40931), and subchapter III (§ 40941), respectively, of chapter 409 of Title 34; and
 
-Title IV (§ 401) was omitted from the Code as obsolete.
+Title IV (§ 401) was omitted from the Code as obsolete.
 
-Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541, as amended by Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, § 101(a), Jan. 8, 2008, 121 Stat. 2561, which provided for the establishment of a national instant criminal background check system, was editorially reclassified as section 40901 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541, as amended by Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, § 101(a), Jan. 8, 2008, 121 Stat. 2561, which provided for the establishment of a national instant criminal background check system, was editorially reclassified as section 40901 of Title 34, Crime Control and Law Enforcement.
 
 **Funding for Improvement of Criminal Records**
 
-Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544, as amended by Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(i)(1), Oct. 11, 1996, 110 Stat. 3504, which directed the Attorney General to provide grants to States for the improvement of criminal history record systems, was editorially reclassified as section 40302 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544, as amended by Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(i)(1), Oct. 11, 1996, 110 Stat. 3504, which directed the Attorney General to provide grants to States for the improvement of criminal history record systems, was editorially reclassified as section 40302 of Title 34, Crime Control and Law Enforcement.
 
 **Gun-Free Zone Signs**
 
-Pub. L. 101–647, title XVII, § 1702(b)(5), Nov. 29, 1990, 104 Stat. 4845, provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
+Pub. L. 101–647, title XVII, § 1702(b)(5), Nov. 29, 1990, 104 Stat. 4845, provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
 
 **Identification of Felons and Other Persons Ineligible To Purchase Handguns**
 
-Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360, which required the Attorney General to develop a system to identify felons and other persons ineligible to purchase firearms, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
 
 **Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One’s Person**
 
-Pub. L. 100–649, § 2(e), Nov. 10, 1988, 102 Stat. 3817, directed the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation to conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in subsec. (p)(2)(C) of this section) while distinguishing innocuous metal objects; studies were to be completed within 6 months after Nov. 10, 1988, and include a schedule to install such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study.
+Pub. L. 100–649, § 2(e), Nov. 10, 1988, 102 Stat. 3817, directed the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation to conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in subsec. (p)(2)(C) of this section) while distinguishing innocuous metal objects; studies were to be completed within 6 months after Nov. 10, 1988, and include a schedule to install such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study.
 
 **Executive Documents**
 
@@ -1809,7 +1809,7 @@ Pub. L. 100–649, § 2(e), Nov. 10, 1988, 102 Stat. 3817, directed the Attorn
 
 Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4297, which required the Department of Justice to issue guidance to agencies regarding the identification and sharing of relevant Federal records and their submission to the National Instant Criminal Background Check System, was editorially reclassified and is set out as a note under section 40911 of Title 34, Crime Control and Law Enforcement.
 
-## § 923. Licensing
+## § 923. Licensing
 
 **(a)** No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
 
@@ -1867,9 +1867,9 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4297, which
 
 **(2)** The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within such period, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approves an applicant’s application, such applicant shall be issued a license upon the payment of the prescribed fee.
 
-**(e)** The Attorney General may, after notice and opportunity for hearing, revoke any license issued under this section if the holder of such license has willfully violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device). The Attorney General may, after notice and opportunity for hearing, revoke the license of a dealer who willfully transfers armor piercing ammunition. The Secretary’s 1
+**(e)** The Attorney General may, after notice and opportunity for hearing, revoke any license issued under this section if the holder of such license has willfully violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device). The Attorney General may, after notice and opportunity for hearing, revoke the license of a dealer who willfully transfers armor piercing ammunition. The Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General’s”.
+<sup>1</sup> So in original. Probably should be “Attorney General’s”.
 
 action under this subsection may be reviewed only as provided in subsection (f) of this section.
 
@@ -1943,7 +1943,7 @@ action under this subsection may be reviewed only as provided in subsection (f) 
 
 **(l)** The Attorney General shall notify the chief law enforcement officer in the appropriate State and local jurisdictions of the names and addresses of all persons in the State to whom a firearms license is issued.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 231; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1221; Pub. L. 92–377, title I, § 165(b), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, § 103, May 19, 1986, 100 Stat. 453; Pub. L. 99–360, § 1(c), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §§ 3–7, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VII, § 7060(d), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XXII, § 2203(a), title XXXV, § 3525, Nov. 29, 1990, 104 Stat. 4857, 4924; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–159, title II, § 201, title III, § 303, Nov. 30, 1993, 107 Stat. 1544, 1545; Pub. L. 103–322, title XI, §§ 110102(d), 110103(d), 110105(2), 110301(a), 110302–110307, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 1998–2000, 2012–2014, 2145; Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 118], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326; Pub. L. 104–294, title VI, § 603(j)(1), (k), (*l*), Oct. 11, 1996, 110 Stat. 3504, 3505; Pub. L. 105–277, div. A, § 101(b) [title I, § 119(b), (c)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69; Pub. L. 107–296, title XI, § 1112(f)(5), (6), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 231; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1221; Pub. L. 92–377, title I, § 165(b), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, § 103, May 19, 1986, 100 Stat. 453; Pub. L. 99–360, § 1(c), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §§ 3–7, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VII, § 7060(d), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XXII, § 2203(a), title XXXV, § 3525, Nov. 29, 1990, 104 Stat. 4857, 4924; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–159, title II, § 201, title III, § 303, Nov. 30, 1993, 107 Stat. 1544, 1545; Pub. L. 103–322, title XI, §§ 110102(d), 110103(d), 110105(2), 110301(a), 110302–110307, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 1998–2000, 2012–2014, 2145; Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 118], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326; Pub. L. 104–294, title VI, § 603(j)(1), (k), (*l*), Oct. 11, 1996, 110 Stat. 3504, 3505; Pub. L. 105–277, div. A, § 101(b) [title I, § 119(b), (c)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69; Pub. L. 107–296, title XI, § 1112(f)(5), (6), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
@@ -1955,91 +1955,91 @@ The date of the enactment of the Firearms Owners’ Protection Act, referred to 
 
 **Amendments**
 
-2002—Subsecs. (a) to (g), (i) to (k). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+2002—Subsecs. (a) to (g), (i) to (k). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-Subsec. (*l*). Pub. L. 107–296, § 1112(f)(5), substituted “Attorney General” for “Secretary of the Treasury”.
+Subsec. (*l*). Pub. L. 107–296, § 1112(f)(5), substituted “Attorney General” for “Secretary of the Treasury”.
 
-1998—Subsec. (d)(1)(G). Pub. L. 105–277, § 101(b) [title I, § 119(b)], added subpar. (G).
+1998—Subsec. (d)(1)(G). Pub. L. 105–277, § 101(b) [title I, § 119(b)], added subpar. (G).
 
-Subsec. (e). Pub. L. 105–277, § 101(b) [title I, § 119(c)], inserted before period at end of first sentence “or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device)”.
+Subsec. (e). Pub. L. 105–277, § 101(b) [title I, § 119(c)], inserted before period at end of first sentence “or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device)”.
 
-1996—Subsec. (g)(1)(B)(ii). Pub. L. 104–294, § 603(k), substituted “; or” for period at end of subcl. (II) and realigned margins.
+1996—Subsec. (g)(1)(B)(ii). Pub. L. 104–294, § 603(k), substituted “; or” for period at end of subcl. (II) and realigned margins.
 
-Subsec. (g)(3)(A). Pub. L. 104–294, § 603(j)(1), amended directory language of Pub. L. 103–159, § 201(1). See 1993 Amendment note below.
+Subsec. (g)(3)(A). Pub. L. 104–294, § 603(j)(1), amended directory language of Pub. L. 103–159, § 201(1). See 1993 Amendment note below.
 
-Subsec. (j). Pub. L. 104–208 substituted for period at end “, including the right of a licensee to conduct ‘curios or relics’ firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.”
+Subsec. (j). Pub. L. 104–208 substituted for period at end “, including the right of a licensee to conduct ‘curios or relics’ firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.”
 
-Subsec. (*l*). Pub. L. 104–294, § 603(*l*), redesignated last subsec. as subsec. (*l*) and realigned margins.
+Subsec. (*l*). Pub. L. 104–294, § 603(*l*), redesignated last subsec. as subsec. (*l*) and realigned margins.
 
-1994—Subsec. (a). Pub. L. 103–322, § 110301(a), inserted “and shall include a photograph and fingerprints of the applicant” after “regulation prescribe” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–322, § 110301(a), inserted “and shall include a photograph and fingerprints of the applicant” after “regulation prescribe” in introductory provisions.
 
-Subsec. (a)(3)(B). Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3525. See 1990 Amendment note below.
+Subsec. (a)(3)(B). Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3525. See 1990 Amendment note below.
 
-Subsec. (d)(1)(F). Pub. L. 103–322, § 110302, added subpar. (F).
+Subsec. (d)(1)(F). Pub. L. 103–322, § 110302, added subpar. (F).
 
-Subsec. (d)(2). Pub. L. 103–322, § 110303, substituted “60-day period” for “forty-five-day period”.
+Subsec. (d)(2). Pub. L. 103–322, § 110303, substituted “60-day period” for “forty-five-day period”.
 
-Subsec. (g)(1)(B)(ii). Pub. L. 103–322, § 110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or”.
+Subsec. (g)(1)(B)(ii). Pub. L. 103–322, § 110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or”.
 
-Subsec. (g)(6). Pub. L. 103–322, § 110305, added par. (6).
+Subsec. (g)(6). Pub. L. 103–322, § 110305, added par. (6).
 
-Subsec. (g)(7). Pub. L. 103–322, § 110306, added par. (7).
+Subsec. (g)(7). Pub. L. 103–322, § 110306, added par. (7).
 
-Subsec. (i). Pub. L. 103–322, § 110103(d), which inserted at end “A large capacity ammunition feeding device manufactured after the date of the enactment of this sentence shall be identified by a serial number that clearly shows that the device was manufactured or imported after the effective date of this subsection, and such other identification as the Secretary may by regulation prescribe.”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (i). Pub. L. 103–322, § 110103(d), which inserted at end “A large capacity ammunition feeding device manufactured after the date of the enactment of this sentence shall be identified by a serial number that clearly shows that the device was manufactured or imported after the effective date of this subsection, and such other identification as the Secretary may by regulation prescribe.”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Pub. L. 103–322, § 110102(d), which inserted penultimate sentence which read as follows: “The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured.”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Pub. L. 103–322, § 110102(d), which inserted penultimate sentence which read as follows: “The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured.”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (*l*). Pub. L. 103–322, § 110307, which directed the amendment of this section by adding subsec. (1) at end, was executed by adding subsec. (*l*) at end to reflect the probable intent of Congress.
+Subsec. (*l*). Pub. L. 103–322, § 110307, which directed the amendment of this section by adding subsec. (1) at end, was executed by adding subsec. (*l*) at end to reflect the probable intent of Congress.
 
-1993—Subsec. (a)(3)(A). Pub. L. 103–159, § 303(1), inserted “or” at end of subpar. (A).
+1993—Subsec. (a)(3)(A). Pub. L. 103–159, § 303(1), inserted “or” at end of subpar. (A).
 
-Subsec. (a)(3)(B). Pub. L. 103–159, § 303(2), (3), substituted “who is not a dealer in destructive devices, a fee of $200 for 3 years, except that the fee for renewal of a valid license shall be $90 for 3 years.” for “who is a pawnbroker dealing in firearms other than destructive devices, a fee of $25 per year; or”.
+Subsec. (a)(3)(B). Pub. L. 103–159, § 303(2), (3), substituted “who is not a dealer in destructive devices, a fee of $200 for 3 years, except that the fee for renewal of a valid license shall be $90 for 3 years.” for “who is a pawnbroker dealing in firearms other than destructive devices, a fee of $25 per year; or”.
 
-Subsec. (a)(3)(C). Pub. L. 103–159, § 303(4), struck out subpar. (C) which read as follows: “who is not a dealer in destructive devices or a pawnbroker, a fee of $10 per year.”
+Subsec. (a)(3)(C). Pub. L. 103–159, § 303(4), struck out subpar. (C) which read as follows: “who is not a dealer in destructive devices or a pawnbroker, a fee of $10 per year.”
 
-Subsec. (g)(3). Pub. L. 103–159, § 201, as amended by Pub. L. 104–294, § 603(j)(1), designated existing provisions as subpar. (A), inserted “and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place,” after “thereon”, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 103–159, § 201, as amended by Pub. L. 104–294, § 603(j)(1), designated existing provisions as subpar. (A), inserted “and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place,” after “thereon”, and added subpar. (B).
 
-1990—Subsec. (a)(3)(B). Pub. L. 101–647, § 3525, as amended by Pub. L. 103–322, § 330011(i), inserted a comma after “devices”.
+1990—Subsec. (a)(3)(B). Pub. L. 101–647, § 3525, as amended by Pub. L. 103–322, § 330011(i), inserted a comma after “devices”.
 
-Subsec. (d)(1)(B). Pub. L. 101–647, § 2203(a), substituted “(n)” for “(h)”.
+Subsec. (d)(1)(B). Pub. L. 101–647, § 2203(a), substituted “(n)” for “(h)”.
 
-1988—Subsec. (a). Pub. L. 100–690, § 7060(d)(1), struck out period after “licensing” in introductory provisions.
+1988—Subsec. (a). Pub. L. 100–690, § 7060(d)(1), struck out period after “licensing” in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 100–690, § 7060(d)(2), struck out the period that followed a period after “paragraph (2)”.
+Subsec. (f)(3). Pub. L. 100–690, § 7060(d)(2), struck out the period that followed a period after “paragraph (2)”.
 
-1986—Subsec. (a). Pub. L. 99–308, § 103(1), amended first sentence generally and substituted “only that information necessary to determine eligibility for licensing.” for “such information” in second sentence. Prior to amendment, first sentence read as follows: “No person shall engage in business as a firearms or ammunition importer, manufacturer, or dealer until he has filed an application with, and received a license to do so from, the Secretary.”
+1986—Subsec. (a). Pub. L. 99–308, § 103(1), amended first sentence generally and substituted “only that information necessary to determine eligibility for licensing.” for “such information” in second sentence. Prior to amendment, first sentence read as follows: “No person shall engage in business as a firearms or ammunition importer, manufacturer, or dealer until he has filed an application with, and received a license to do so from, the Secretary.”
 
-Subsec. (a)(1)(A). Pub. L. 99–408, § 3, in amending subpar. (A) generally, substituted “, ammunition for destructive devices or armor piercing ammunition” for “or ammunition for destructive devices”.
+Subsec. (a)(1)(A). Pub. L. 99–408, § 3, in amending subpar. (A) generally, substituted “, ammunition for destructive devices or armor piercing ammunition” for “or ammunition for destructive devices”.
 
-Subsec. (a)(1)(C). Pub. L. 99–408, § 4, in amending subpar. (C) generally, substituted “, other than ammunition for destructive devices or armor piercing ammunition” for “other than destructive devices”.
+Subsec. (a)(1)(C). Pub. L. 99–408, § 4, in amending subpar. (C) generally, substituted “, other than ammunition for destructive devices or armor piercing ammunition” for “other than destructive devices”.
 
-Subsec. (a)(2). Pub. L. 99–408, § 5, amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+Subsec. (a)(2). Pub. L. 99–408, § 5, amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) of destructive devices or ammunition for destructive devices, a fee of $1,000 per year; or
 
 “(B) of firearms other than destructive devices or ammunition for firearms other than destructive devices, a fee of $50 per year.”
 
-Subsec. (a)(3)(B). Pub. L. 99–308, § 103(2), struck out “or ammunition for firearms other than destructive devices,” after “destructive devices”.
+Subsec. (a)(3)(B). Pub. L. 99–308, § 103(2), struck out “or ammunition for firearms other than destructive devices,” after “destructive devices”.
 
-Subsec. (b). Pub. L. 99–308, § 103(3), substituted “only that information necessary to determine eligibility” for “such information”.
+Subsec. (b). Pub. L. 99–308, § 103(3), substituted “only that information necessary to determine eligibility” for “such information”.
 
 Subsec. (c). Pub. L. 99–360 inserted provision which required any licensed manufacturer, importer, or dealer who has maintained a firearm as part of a personal collection for one year and sells or otherwise disposes of such firearm to record the description of the firearm in a bound volume, specified other information to be recorded, and provided that no other recordkeeping be required.
 
-Pub. L. 99–308, § 103(4), inserted provision that nothing in this chapter be construed to prohibit a licensed manufacturer, importer, or dealer from maintaining and disposing of a personal collection of firearms subject to such restrictions as apply in this chapter to other persons, and provision specifying circumstances under which such disposition or any other acquisition shall result in such firearms being deemed part of the licensee’s business inventory.
+Pub. L. 99–308, § 103(4), inserted provision that nothing in this chapter be construed to prohibit a licensed manufacturer, importer, or dealer from maintaining and disposing of a personal collection of firearms subject to such restrictions as apply in this chapter to other persons, and provision specifying circumstances under which such disposition or any other acquisition shall result in such firearms being deemed part of the licensee’s business inventory.
 
-Subsec. (e). Pub. L. 99–408, § 6, inserted provisions relating to licenses of dealers willfully transferring armor piercing ammunition.
+Subsec. (e). Pub. L. 99–408, § 6, inserted provisions relating to licenses of dealers willfully transferring armor piercing ammunition.
 
-Pub. L. 99–308, § 103(5), inserted “willfully” before “violated”.
+Pub. L. 99–308, § 103(5), inserted “willfully” before “violated”.
 
-Subsec. (f)(3). Pub. L. 99–308, § 103(6)(A), inserted “de novo” before “judicial review” in second sentence and “whether or not such evidence was considered at the hearing held under paragraph (2).” after “to the proceeding” in third sentence.
+Subsec. (f)(3). Pub. L. 99–308, § 103(6)(A), inserted “de novo” before “judicial review” in second sentence and “whether or not such evidence was considered at the hearing held under paragraph (2).” after “to the proceeding” in third sentence.
 
-Subsec. (f)(4). Pub. L. 99–308, § 103(6)(B), added par. (4).
+Subsec. (f)(4). Pub. L. 99–308, § 103(6)(B), added par. (4).
 
-Subsec. (g). Pub. L. 99–308, § 103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunition at such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition.”
+Subsec. (g). Pub. L. 99–308, § 103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunition at such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition.”
 
-Subsec. (j). Pub. L. 99–308, § 103(8), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not apply to anyone who engages only in hand loading, reloading, or custom loading ammunition for his own firearm, and who does not hand load, reload, or custom load ammunition for others.”
+Subsec. (j). Pub. L. 99–308, § 103(8), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not apply to anyone who engages only in hand loading, reloading, or custom loading ammunition for his own firearm, and who does not hand load, reload, or custom load ammunition for others.”
 
-Subsec. (k). Pub. L. 99–408, § 7, added subsec. (k).
+Subsec. (k). Pub. L. 99–408, § 7, added subsec. (k).
 
 1982—Subsec. (g). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “and ammunition”. The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
@@ -2061,7 +2061,7 @@ Subsec. (g). Pub. L. 90–618 redesignated former subsec. (d) as (g) and added l
 
 Subsec. (h). Pub. L. 90–618 redesignated former subsec. (e) as (h) and substituted “subsection (c)” for “subsection (b)”.
 
-Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted “, by means of a serial number engraved or cast on the receiver or frame of the weapon,” after “shall identify”.
+Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted “, by means of a serial number engraved or cast on the receiver or frame of the weapon,” after “shall identify”.
 
 Subsec. (j). Pub. L. 90–618 added subsec. (j).
 
@@ -2077,17 +2077,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 1998 Amendment**
 
-Amendment by Pub. L. 105–277, effective 180 days after Oct. 21, 1998, see section 101(b) [title I, § 119(e)] of Pub. L. 105–277, set out as a note under section 921 of this title.
+Amendment by Pub. L. 105–277, effective 180 days after Oct. 21, 1998, see section 101(b) [title I, § 119(e)] of Pub. L. 105–277, set out as a note under section 921 of this title.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–294, title VI, § 603(j)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in the Act referred to in paragraph (1) [Pub. L. 103–159] on the date of the enactment of such Act [Nov. 30, 1993].”
+Pub. L. 104–294, title VI, § 603(j)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in the Act referred to in paragraph (1) [Pub. L. 103–159] on the date of the enactment of such Act [Nov. 30, 1993].”
 
 **Effective and Termination Dates of 1994 Amendment**
 
 Amendment by sections 110102(d) and 110103(d) of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
-Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3525 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3525 of Pub. L. 101–647 took effect.
 
 **Effective Date of 1986 Amendment**
 
@@ -2107,7 +2107,7 @@ Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–
 
 **Statutory Construction; Evidence**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 119(d)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that:
+Pub. L. 105–277, div. A, § 101(b) [title I, § 119(d)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that:
 
 > **“(1) Statutory construction.—** Nothing in the amendments made by this section [amending this section and section 921 of this title] shall be construed—
 
@@ -2127,7 +2127,7 @@ Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in par
 
 **Tracing Studies Disclaimer**
 
-Pub. L. 113–6, div. B, title V, § 514, Mar. 26, 2013, 127 Stat. 271, provided that:
+Pub. L. 113–6, div. B, title V, § 514, Mar. 26, 2013, 127 Stat. 271, provided that:
 
 > **“(a)** Tracing studies conducted by the Bureau of Alcohol, Tobacco, Firearms and Explosives are released without adequate disclaimers regarding the limitations of the data.
 
@@ -2161,7 +2161,7 @@ Pub. L. 109–108, title I, Nov. 22, 2005, 119 Stat. 2295.
 
 Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 
-## § 924. Penalties
+## § 924. Penalties
 
 **(a)**
 
@@ -2383,31 +2383,31 @@ shall be fined under this title, imprisoned for not more than 15 years, or both.
 
 **(2) Administrative remedies.—** The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, § 13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§ 223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, § 104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, § 1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, § 2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§ 6211, 6212, 6451, 6460, 6462, title VII, §§ 7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, § 1101, title XVII, § 1702(b)(3), title XXII, §§ 2203(d), 2204(c), title XXXV, §§ 3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, § 102(c), title III, § 302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, § 60013, title XI, §§ 110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§ 330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, § 603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, § 1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(E), div. C, title I, § 11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, § 1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§ 5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, § 17(d)(3), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 115–391, title IV, § 403(a), Dec. 21, 2018, 132 Stat. 5221; Pub. L. 117–159, div. A, title II, § 12004(c)–(f), June 25, 2022, 136 Stat. 1329, 1330.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, § 13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§ 223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, § 104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, § 1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, § 2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§ 6211, 6212, 6451, 6460, 6462, title VII, §§ 7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, § 1101, title XVII, § 1702(b)(3), title XXII, §§ 2203(d), 2204(c), title XXXV, §§ 3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, § 102(c), title III, § 302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, § 60013, title XI, §§ 110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§ 330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, § 603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, § 1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(E), div. C, title I, § 11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, § 1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§ 5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, § 17(d)(3), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 115–391, title IV, § 403(a), Dec. 21, 2018, 132 Stat. 5221; Pub. L. 117–159, div. A, title II, § 12004(c)–(f), June 25, 2022, 136 Stat. 1329, 1330.)
 
 **Amendment of Section**
 
-Pub. L. 100–649, § 2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (*o*) of this section are redesignated as subsections (f) through (n), respectively, of this section.
+Pub. L. 100–649, § 2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (*o*) of this section are redesignated as subsections (f) through (n), respectively, of this section.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), and (g)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), and (g)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1)(A), (2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1)(A), (2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as Title 26, Internal Revenue Code.
 
 Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to section 5845(a) of Title 26.
 
-The Arms Export Control Act, referred to in subsec. (h), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (h), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Export Control Reform Act of 2018, referred to in subsec. (h), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in subsec. (h), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Foreign Narcotics Kingpin Designation Act, referred to in subsec. (h), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
+The Foreign Narcotics Kingpin Designation Act, referred to in subsec. (h), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
 
 **Constitutionality**
 
@@ -2415,17 +2415,17 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–159, § 12004(c)(1), struck out “(d), (g),” after “subsection (a)(6),”.
+2022—Subsec. (a)(2). Pub. L. 117–159, § 12004(c)(1), struck out “(d), (g),” after “subsection (a)(6),”.
 
-Subsec. (a)(8). Pub. L. 117–159, § 12004(c)(2), added par. (8).
+Subsec. (a)(8). Pub. L. 117–159, § 12004(c)(2), added par. (8).
 
-Subsec. (d)(1). Pub. L. 117–159, § 12004(d)(1), inserted “932, or 933,” after “section 924,”.
+Subsec. (d)(1). Pub. L. 117–159, § 12004(d)(1), inserted “932, or 933,” after “section 924,”.
 
-Subsec. (d)(3)(G). Pub. L. 117–159, § 12004(d)(2), added subpar. (G).
+Subsec. (d)(3)(G). Pub. L. 117–159, § 12004(d)(2), added subpar. (G).
 
-Subsec. (h). Pub. L. 117–159, § 12004(e), added subsec. (h) and struck out former subsec. (h) which read as follows: “Whoever knowingly transfers a firearm, knowing that such firearm will be used to commit a crime of violence (as defined in subsection (c)(3)) or drug trafficking crime (as defined in subsection (c)(2)) shall be imprisoned not more than 10 years, fined in accordance with this title, or both.”
+Subsec. (h). Pub. L. 117–159, § 12004(e), added subsec. (h) and struck out former subsec. (h) which read as follows: “Whoever knowingly transfers a firearm, knowing that such firearm will be used to commit a crime of violence (as defined in subsection (c)(3)) or drug trafficking crime (as defined in subsection (c)(2)) shall be imprisoned not more than 10 years, fined in accordance with this title, or both.”
 
-Subsec. (k). Pub. L. 117–159, § 12004(f), added subsec. (k) and struck out former subsec. (k) which read as follows: “A person who, with intent to engage in or to promote conduct that—
+Subsec. (k). Pub. L. 117–159, § 12004(f), added subsec. (k) and struck out former subsec. (k) which read as follows: “A person who, with intent to engage in or to promote conduct that—
 
 “(1) is punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 
@@ -2437,173 +2437,173 @@ smuggles or knowingly brings into the United States a firearm, or attempts to do
 
 2018—Subsec. (c)(1)(C). Pub. L. 115–391 substituted “violation of this subsection that occurs after a prior conviction under this subsection has become final” for “second or subsequent conviction under this subsection” in introductory provisions.
 
-2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-Subsec. (g)(2). Pub. L. 109–304, § 17(d)(3), substituted “801 et seq.” for “802 et seq.” and “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+Subsec. (g)(2). Pub. L. 109–304, § 17(d)(3), substituted “801 et seq.” for “802 et seq.” and “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-Subsec. (k)(1). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+Subsec. (k)(1). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–92, § 5(c)(2)(A), substituted “(f), or (p)” for “or (f)” in introductory provisions.
+2005—Subsec. (a)(1). Pub. L. 109–92, § 5(c)(2)(A), substituted “(f), or (p)” for “or (f)” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 109–92, § 6(b), added par. (5).
+Subsec. (c)(5). Pub. L. 109–92, § 6(b), added par. (5).
 
-Subsec. (p). Pub. L. 109–92, § 5(c)(2)(B), added subsec. (p).
+Subsec. (p). Pub. L. 109–92, § 5(c)(2)(B), added subsec. (p).
 
-2002—Subsec. (a)(7). Pub. L. 107–273, § 11009(e)(3), added par. (7).
+2002—Subsec. (a)(7). Pub. L. 107–273, § 11009(e)(3), added par. (7).
 
-Subsec. (e)(1). Pub. L. 107–273, § 4002(d)(1)(E), substituted “under this title” for “not more than $25,000”.
+Subsec. (e)(1). Pub. L. 107–273, § 4002(d)(1)(E), substituted “under this title” for “not more than $25,000”.
 
-1998—Subsec. (c)(1). Pub. L. 105–386, § 1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
+1998—Subsec. (c)(1). Pub. L. 105–386, § 1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
 
-Subsec. (c)(4). Pub. L. 105–386, § 1(a)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 105–386, § 1(a)(2), added par. (4).
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–294, § 603(n), repealed Pub. L. 103–322, § 330002(h). See 1994 Amendment note below.
+1996—Subsec. (a)(1)(B). Pub. L. 104–294, § 603(n), repealed Pub. L. 103–322, § 330002(h). See 1994 Amendment note below.
 
-Pub. L. 104–294, § 603(m)(1)(A), amended directory language of Pub. L. 103–322, § 110507. See 1994 Amendment note below.
+Pub. L. 104–294, § 603(m)(1)(A), amended directory language of Pub. L. 103–322, § 110507. See 1994 Amendment note below.
 
-Subsec. (a)(2). Pub. L. 104–294, § 603(m)(1)(B), amended directory language of Pub. L. 103–322, § 110507(2). See 1994 Amendment note below.
+Subsec. (a)(2). Pub. L. 104–294, § 603(m)(1)(B), amended directory language of Pub. L. 103–322, § 110507(2). See 1994 Amendment note below.
 
-Subsec. (a)(5), (6). Pub. L. 104–294, § 603(*o*), redesignated par. (5), relating to punishment for juveniles, as (6).
+Subsec. (a)(5), (6). Pub. L. 104–294, § 603(*o*), redesignated par. (5), relating to punishment for juveniles, as (6).
 
-Subsec. (c)(1). Pub. L. 104–294, § 603(p)(1), amended directory language of Pub. L. 103–322, § 110102(c)(2). See 1994 Amendment note below.
+Subsec. (c)(1). Pub. L. 104–294, § 603(p)(1), amended directory language of Pub. L. 103–322, § 110102(c)(2). See 1994 Amendment note below.
 
-Subsec. (i). Pub. L. 104–294, § 603(r), redesignated subsec. (i), relating to death penalty for gun murders, as (j).
+Subsec. (i). Pub. L. 104–294, § 603(r), redesignated subsec. (i), relating to death penalty for gun murders, as (j).
 
-Subsec. (j). Pub. L. 104–294, § 603(r), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 104–294, § 603(r), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(3). Pub. L. 104–294, § 603(q), inserted closing parenthesis before comma at end.
+Subsec. (j)(3). Pub. L. 104–294, § 603(q), inserted closing parenthesis before comma at end.
 
-Subsec. (k). Pub. L. 104–294, § 603(r), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
+Subsec. (k). Pub. L. 104–294, § 603(r), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
 
-Subsec. (*l*). Pub. L. 104–294, § 603(s), amended directory language of Pub. L. 103–322, § 110504. See 1994 Amendment note below.
+Subsec. (*l*). Pub. L. 104–294, § 603(s), amended directory language of Pub. L. 103–322, § 110504. See 1994 Amendment note below.
 
-Pub. L. 104–294, § 603(r), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
+Pub. L. 104–294, § 603(r), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
 
-Subsecs. (m) to (*o*). Pub. L. 104–294, § 603(r), redesignated subsecs. (*l*) to (n) as (m) to (*o*), respectively.
+Subsecs. (m) to (*o*). Pub. L. 104–294, § 603(r), redesignated subsecs. (*l*) to (n) as (m) to (*o*), respectively.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
 
-Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3528. See 1990 Amendment note below.
+Pub. L. 103–322, § 330011(i), amended directory language of Pub. L. 101–647, § 3528. See 1990 Amendment note below.
 
-Pub. L. 103–322, § 110201(b)(1), which directed the striking of “paragraph (2) or (3) of” in subsec. (a)(1), could not be executed because of prior amendment by Pub. L. 103–159. See 1993 Amendment note below.
+Pub. L. 103–322, § 110201(b)(1), which directed the striking of “paragraph (2) or (3) of” in subsec. (a)(1), could not be executed because of prior amendment by Pub. L. 103–159. See 1993 Amendment note below.
 
-Subsec. (a)(1)(B). Pub. L. 103–322, § 330002(h), which directed amendment of subpar. (B) by substituting “(r)” for “(q)”, was repealed by Pub. L. 104–294, § 603(n), which provided that § 330002(h) shall be considered never to have been enacted.
+Subsec. (a)(1)(B). Pub. L. 103–322, § 330002(h), which directed amendment of subpar. (B) by substituting “(r)” for “(q)”, was repealed by Pub. L. 104–294, § 603(n), which provided that § 330002(h) shall be considered never to have been enacted.
 
-Pub. L. 103–322, § 110507(1), as amended by Pub. L. 104–294, § 603(m)(1)(A), struck out “(a)(6),” after “(a)(4),”.
+Pub. L. 103–322, § 110507(1), as amended by Pub. L. 104–294, § 603(m)(1)(A), struck out “(a)(6),” after “(a)(4),”.
 
-Pub. L. 103–322, § 110103(c), which substituted “(v), or (w)” for “or (v)”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Pub. L. 103–322, § 110103(c), which substituted “(v), or (w)” for “or (v)”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Pub. L. 103–322, § 110102(c)(1), which substituted “(r), or (v) of section 922” for “or (q) of section 922”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Pub. L. 103–322, § 110102(c)(1), which substituted “(r), or (v) of section 922” for “or (q) of section 922”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(2). Pub. L. 103–322, § 110507(2), as amended by Pub. L. 104–294, § 603(m)(1)(B), inserted “(a)(6),” after “subsection”.
+Subsec. (a)(2). Pub. L. 103–322, § 110507(2), as amended by Pub. L. 104–294, § 603(m)(1)(B), inserted “(a)(6),” after “subsection”.
 
-Subsec. (a)(3). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
+Subsec. (a)(3). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
 
-Subsec. (a)(4). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+Subsec. (a)(4). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Subsec. (a)(5). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in par. (5) relating to knowing violations of subsec. (s) or (t) of section 922.
+Subsec. (a)(5). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in par. (5) relating to knowing violations of subsec. (s) or (t) of section 922.
 
-Pub. L. 103–322, § 110201(b)(2), added par. (5) relating to punishment for juveniles.
+Pub. L. 103–322, § 110201(b)(2), added par. (5) relating to punishment for juveniles.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-Subsec. (c)(1). Pub. L. 103–322, § 330011(j), amended directory language of Pub. L. 101–647, § 3527. See 1990 Amendment note below.
+Subsec. (c)(1). Pub. L. 103–322, § 330011(j), amended directory language of Pub. L. 101–647, § 3527. See 1990 Amendment note below.
 
-Pub. L. 103–322, § 110510(b), which directed the amendment of subsec. (c)(1) by striking “No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.”, was executed by striking the last sentence, which read “No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.”, to reflect the probable intent of Congress.
+Pub. L. 103–322, § 110510(b), which directed the amendment of subsec. (c)(1) by striking “No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.”, was executed by striking the last sentence, which read “No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.”, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, §§ 110102(c)(2), 110105(2), as amended by Pub. L. 104–294, § 603(p)(1), temporarily amended subsec. (c)(1) by inserting “, or semiautomatic assault weapon,” after “short-barreled shotgun”. See Effective and Termination Dates of 1994 Amendment note below.
+Pub. L. 103–322, §§ 110102(c)(2), 110105(2), as amended by Pub. L. 104–294, § 603(p)(1), temporarily amended subsec. (c)(1) by inserting “, or semiautomatic assault weapon,” after “short-barreled shotgun”. See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 103–322, § 110401(e), substituted “or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms” for “the seized firearms”.
+Subsec. (d)(1). Pub. L. 103–322, § 110401(e), substituted “or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms” for “the seized firearms”.
 
-Subsec. (e)(1). Pub. L. 103–322, § 110510(a), struck out before period at end “, and such person shall not be eligible for parole with respect to the sentence imposed under this subsection”.
+Subsec. (e)(1). Pub. L. 103–322, § 110510(a), struck out before period at end “, and such person shall not be eligible for parole with respect to the sentence imposed under this subsection”.
 
-Subsec. (e)(2)(A)(i). Pub. L. 103–322, § 330003(f)(2), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “the first section or section 3 of Public Law 96–350 (21 U.S.C. 955a et seq.)”.
+Subsec. (e)(2)(A)(i). Pub. L. 103–322, § 330003(f)(2), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “the first section or section 3 of Public Law 96–350 (21 U.S.C. 955a et seq.)”.
 
-Subsec. (i). Pub. L. 103–322, § 60013, added subsec. (i) relating to death penalty for gun murders.
+Subsec. (i). Pub. L. 103–322, § 60013, added subsec. (i) relating to death penalty for gun murders.
 
-Subsec. (i)(1). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in par. (1) of subsec. (i) relating to knowing violations of section 922(u).
+Subsec. (i)(1). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in par. (1) of subsec. (i) relating to knowing violations of section 922(u).
 
-Subsec. (j). Pub. L. 103–322, § 110503, added subsec. (j).
+Subsec. (j). Pub. L. 103–322, § 110503, added subsec. (j).
 
-Subsec. (k). Pub. L. 103–322, § 110504(a), as amended by Pub. L. 104–294, § 603(s), added subsec. (k).
+Subsec. (k). Pub. L. 103–322, § 110504(a), as amended by Pub. L. 104–294, § 603(s), added subsec. (k).
 
-Subsec. (*l*). Pub. L. 103–322, § 110515(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 103–322, § 110515(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 103–322, § 110517, added subsec. (m).
+Subsec. (m). Pub. L. 103–322, § 110517, added subsec. (m).
 
-Subsec. (n). Pub. L. 103–322, § 110518(a), added subsec. (n).
+Subsec. (n). Pub. L. 103–322, § 110518(a), added subsec. (n).
 
-1993—Subsec. (a)(1). Pub. L. 103–159, § 102(c)(1), struck out “paragraph (2) or (3) of” before “this subsection” in introductory provisions.
+1993—Subsec. (a)(1). Pub. L. 103–159, § 102(c)(1), struck out “paragraph (2) or (3) of” before “this subsection” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 103–159, § 102(c)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 103–159, § 102(c)(2), added par. (5).
 
-Subsec. (i). Pub. L. 103–159, § 302(d), added subsec. (i).
+Subsec. (i). Pub. L. 103–159, § 302(d), added subsec. (i).
 
-1990—Subsec. (a)(1). Pub. L. 101–647, § 3528, as amended by Pub. L. 103–322, § 330011(i), substituted “(3) of this subsection” for “3 of this subsection” in introductory provisions.
+1990—Subsec. (a)(1). Pub. L. 101–647, § 3528, as amended by Pub. L. 103–322, § 330011(i), substituted “(3) of this subsection” for “3 of this subsection” in introductory provisions.
 
-Pub. L. 101–647, § 2203(d), struck out “, and shall become eligible for parole as the Parole Commission shall determine” before period at end.
+Pub. L. 101–647, § 2203(d), struck out “, and shall become eligible for parole as the Parole Commission shall determine” before period at end.
 
-Subsec. (a)(1)(B). Pub. L. 101–647, § 2204(c), substituted “(k), or (q)” for “or (k)”.
+Subsec. (a)(1)(B). Pub. L. 101–647, § 2204(c), substituted “(k), or (q)” for “or (k)”.
 
-Subsec. (a)(2). Pub. L. 101–647, § 3529(1), substituted “subsection” for “subsections” and inserted a comma after “10 years”.
+Subsec. (a)(2). Pub. L. 101–647, § 3529(1), substituted “subsection” for “subsections” and inserted a comma after “10 years”.
 
-Subsec. (a)(3). Pub. L. 101–647, § 2203(d), struck out “, and shall become eligible for parole as the Parole Commission shall determine” before period at end.
+Subsec. (a)(3). Pub. L. 101–647, § 2203(d), struck out “, and shall become eligible for parole as the Parole Commission shall determine” before period at end.
 
-Subsec. (a)(4). Pub. L. 101–647, § 1702(b)(3), added par. (4).
+Subsec. (a)(4). Pub. L. 101–647, § 1702(b)(3), added par. (4).
 
-Subsec. (c)(1). Pub. L. 101–647, § 3527, as amended by Pub. L. 103–322, § 330011(j), struck out “imprisonment for” before “life imprisonment without release”.
+Subsec. (c)(1). Pub. L. 101–647, § 3527, as amended by Pub. L. 103–322, § 330011(j), struck out “imprisonment for” before “life imprisonment without release”.
 
-Pub. L. 101–647, § 1101(2), which directed amendment of first sentence by “inserting ‘or a destructive device,’ after ‘a machinegun,’ wherever the term ‘machine gun’ appears, in section 924(c)(1)”, was executed by inserting the new language after “a machinegun,” once in the first sentence and once in the second sentence to reflect the probable intent of Congress.
+Pub. L. 101–647, § 1101(2), which directed amendment of first sentence by “inserting ‘or a destructive device,’ after ‘a machinegun,’ wherever the term ‘machine gun’ appears, in section 924(c)(1)”, was executed by inserting the new language after “a machinegun,” once in the first sentence and once in the second sentence to reflect the probable intent of Congress.
 
-Pub. L. 101–647, § 1101(1), inserted “and if the firearm is a short-barreled rifle, short-barreled shotgun to imprisonment for ten years,” after “sentenced to imprisonment for five years,”.
+Pub. L. 101–647, § 1101(1), inserted “and if the firearm is a short-barreled rifle, short-barreled shotgun to imprisonment for ten years,” after “sentenced to imprisonment for five years,”.
 
-Subsec. (e)(2). Pub. L. 101–647, § 3529(2), (3), struck out “and” at end of subpar. (A)(ii) and substituted “; and” for period at end of subpar. (B)(ii).
+Subsec. (e)(2). Pub. L. 101–647, § 3529(2), (3), struck out “and” at end of subpar. (A)(ii) and substituted “; and” for period at end of subpar. (B)(ii).
 
-Subsecs. (f) to (h). Pub. L. 101–647, § 3526(a), redesignated subsec. (f) relating to punishment for traveling from any State or foreign country into another State to obtain firearms for drug trafficking purposes as subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (f) to (h). Pub. L. 101–647, § 3526(a), redesignated subsec. (f) relating to punishment for traveling from any State or foreign country into another State to obtain firearms for drug trafficking purposes as subsec. (g) and redesignated former subsec. (g) as (h).
 
-1988—Subsec. (a). Pub. L. 100–690, § 6462, in par. (1), inserted “or 3” and substituted “, (c), or (f)” for “or (c)” in introductory provisions and struck out “(g), (i), (j),” after “(f),” in subpar. (B), added par. (2), and redesignated former par. (2) as (3).
+1988—Subsec. (a). Pub. L. 100–690, § 6462, in par. (1), inserted “or 3” and substituted “, (c), or (f)” for “or (c)” in introductory provisions and struck out “(g), (i), (j),” after “(f),” in subpar. (B), added par. (2), and redesignated former par. (2) as (3).
 
-Subsec. (c)(1). Pub. L. 100–690, § 7060(a), substituted “crime (including a crime of violence or drug trafficking crime which” for “crime,, including a crime of violence or drug trafficking crime, which”, “device) for” for “device, for”, “crime, be sentenced” for “crime,, be sentenced”, and “crime in which” for “crime, or drug trafficking crime in which”.
+Subsec. (c)(1). Pub. L. 100–690, § 7060(a), substituted “crime (including a crime of violence or drug trafficking crime which” for “crime,, including a crime of violence or drug trafficking crime, which”, “device) for” for “device, for”, “crime, be sentenced” for “crime,, be sentenced”, and “crime in which” for “crime, or drug trafficking crime in which”.
 
-Pub. L. 100–690, § 6460(1), (2)(A), substituted “thirty years. In” for “ten years. In” and “twenty years, and if” for “ten years, and if”.
+Pub. L. 100–690, § 6460(1), (2)(A), substituted “thirty years. In” for “ten years. In” and “twenty years, and if” for “ten years, and if”.
 
-Pub. L. 100–690, § 6460(2)(B), which directed amendment of subsec. (c)(1) by striking “20 years” and inserting “life imprisonment without release” was executed by substituting “life imprisonment without release” for “twenty years” to reflect the probable intent of Congress because “20 years” did not appear.
+Pub. L. 100–690, § 6460(2)(B), which directed amendment of subsec. (c)(1) by striking “20 years” and inserting “life imprisonment without release” was executed by substituting “life imprisonment without release” for “twenty years” to reflect the probable intent of Congress because “20 years” did not appear.
 
-Subsec. (c)(2). Pub. L. 100–690, § 6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
+Subsec. (c)(2). Pub. L. 100–690, § 6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
 
-Subsec. (e)(1). Pub. L. 100–690, § 7056, inserted “committed on occasions different from one another,” after “or both,”.
+Subsec. (e)(1). Pub. L. 100–690, § 7056, inserted “committed on occasions different from one another,” after “or both,”.
 
-Subsec. (e)(2)(B). Pub. L. 100–690, § 6451(1), inserted “, or any act of juvenile delinquency involving the use or carrying of a firearm, knife, or destructive device that would be punishable by imprisonment for such term if committed by an adult,” after “one year”.
+Subsec. (e)(2)(B). Pub. L. 100–690, § 6451(1), inserted “, or any act of juvenile delinquency involving the use or carrying of a firearm, knife, or destructive device that would be punishable by imprisonment for such term if committed by an adult,” after “one year”.
 
-Subsec. (e)(2)(C). Pub. L. 100–690, § 6451(2), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 100–690, § 6451(2), added subpar. (C).
 
-Subsec. (f). Pub. L. 100–690, § 6211, added subsec. (f) relating to punishment for traveling from any State or foreign country into another State to obtain firearms for drug trafficking purposes.
+Subsec. (f). Pub. L. 100–690, § 6211, added subsec. (f) relating to punishment for traveling from any State or foreign country into another State to obtain firearms for drug trafficking purposes.
 
-Pub. L. 100–649, § 2(b)(2), added subsec. (f) relating to penalty for violating section 922(p).
+Pub. L. 100–649, § 2(b)(2), added subsec. (f) relating to penalty for violating section 922(p).
 
-Subsec. (g). Pub. L. 100–690, § 6211, added subsec. (g).
+Subsec. (g). Pub. L. 100–690, § 6211, added subsec. (g).
 
-1986—Subsec. (a). Pub. L. 99–308, § 104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or in applying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine.”
+1986—Subsec. (a). Pub. L. 99–308, § 104(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever violates any provision of this chapter or knowingly makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or in applying for any license or exemption or relief from disability under the provisions of this chapter, shall be fined not more than $5,000, or imprisoned not more than five years, or both, and shall become eligible for parole as the Board of Parole shall determine.”
 
-Subsec. (c)(1). Pub. L. 99–308, § 104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted “violence or drug trafficking crime,” for “violence” in four places and inserted “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years” after “five years”, “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years” after “ten years”, and “or drug trafficking crime” before “in which the firearm was used or carried”.
+Subsec. (c)(1). Pub. L. 99–308, § 104(a)(2)(C)–(E), designated existing provision as par. (1), and substituted “violence or drug trafficking crime,” for “violence” in four places and inserted “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for ten years” after “five years”, “, and if the firearm is a machinegun, or is equipped with a firearm silencer or firearm muffler, to imprisonment for twenty years” after “ten years”, and “or drug trafficking crime” before “in which the firearm was used or carried”.
 
-Subsec. (c)(2), (3). Pub. L. 99–308, § 104(a)(2)(F), added pars. (2) and (3).
+Subsec. (c)(2), (3). Pub. L. 99–308, § 104(a)(2)(F), added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 99–308, § 104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter.”
+Subsec. (d). Pub. L. 99–308, § 104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter.”
 
 Subsec. (d)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e). Pub. L. 99–308, § 104(a)(4), added subsec. (e).
+Subsec. (e). Pub. L. 99–308, § 104(a)(4), added subsec. (e).
 
-Subsec. (e)(1). Pub. L. 99–570, § 1402(a), substituted “for a violent felony or a serious drug offense, or both” for “for robbery or burglary, or both”.
+Subsec. (e)(1). Pub. L. 99–570, § 1402(a), substituted “for a violent felony or a serious drug offense, or both” for “for robbery or burglary, or both”.
 
-Subsec. (e)(2). Pub. L. 99–570, § 1402(b), amended par. (2) generally, substituting provisions defining terms “serious drug offense” and “violent felony” for provisions defining “robbery” and “burglary”.
+Subsec. (e)(2). Pub. L. 99–570, § 1402(b), amended par. (2) generally, substituting provisions defining terms “serious drug offense” and “violent felony” for provisions defining “robbery” and “burglary”.
 
-1984—Subsec. (a). Pub. L. 98–473, § 223(a), which directed amendment of subsec. (a) by striking out “, and shall become eligible for parole as the Board of Parole shall determine” effective Nov. 1, 1987, pursuant to section 235 of Pub. L. 98–473, as amended, could not be executed because quoted language no longer appears due to general amendment of subsec. (a) by Pub. L. 99–308, § 104(a)(1). See 1986 Amendment note above.
+1984—Subsec. (a). Pub. L. 98–473, § 223(a), which directed amendment of subsec. (a) by striking out “, and shall become eligible for parole as the Board of Parole shall determine” effective Nov. 1, 1987, pursuant to section 235 of Pub. L. 98–473, as amended, could not be executed because quoted language no longer appears due to general amendment of subsec. (a) by Pub. L. 99–308, § 104(a)(1). See 1986 Amendment note above.
 
-Subsec. (c). Pub. L. 98–473, § 1005(a), amended subsec. (c) generally, substituting provisions setting forth mandatory, determinate sentence for persons who use or carry firearms during and in relation to any Federal crime of violence for provisions setting out a minimum sentencing scheme for the use or carrying, unlawfully, of a firearm during a Federal felony.
+Subsec. (c). Pub. L. 98–473, § 1005(a), amended subsec. (c) generally, substituting provisions setting forth mandatory, determinate sentence for persons who use or carry firearms during and in relation to any Federal crime of violence for provisions setting out a minimum sentencing scheme for the use or carrying, unlawfully, of a firearm during a Federal felony.
 
-1971—Subsec. (c). Pub. L. 91–644, in first sentence, substituted “felony for which he” for “felony which” in items (1) and (2) and inserted “, in addition to the punishment provided for the commission of such felony,” before “be sentenced”, and in second sentence substituted “for not less than two nor more than twenty-five years” for “for not less than five years nor more than 25 years”, inserted “in the case of a second or subsequent conviction” after “suspend the sentence”, and prohibited term of imprisonment imposed under this subsec. to run concurrently with any term for commission of the felony.
+1971—Subsec. (c). Pub. L. 91–644, in first sentence, substituted “felony for which he” for “felony which” in items (1) and (2) and inserted “, in addition to the punishment provided for the commission of such felony,” before “be sentenced”, and in second sentence substituted “for not less than two nor more than twenty-five years” for “for not less than five years nor more than 25 years”, inserted “in the case of a second or subsequent conviction” after “suspend the sentence”, and prohibited term of imprisonment imposed under this subsec. to run concurrently with any term for commission of the felony.
 
 1968—Subsec. (a). Pub. L. 90–618 inserted provision authorizing the Board of Parole to grant parole to a person convicted under this chapter.
 
@@ -2615,7 +2615,7 @@ Subsecs. (c), (d). Pub. L. 90–618 added subsec. (c), redesignated former subse
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–391, title IV, § 403(b), Dec. 21, 2018, 132 Stat. 5222, provided that: “This section [amending this section], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
+Pub. L. 115–391, title IV, § 403(b), Dec. 21, 2018, 132 Stat. 5222, provided that: “This section [amending this section], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
 
 **Effective Date of 2005 Amendment**
 
@@ -2623,23 +2623,23 @@ Amendment by section 5(c)(2) of Pub. L. 109–92 effective 180 days after Oct. 2
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–294, title VI, § 603(m)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 603(m)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
 
-Pub. L. 104–294, title VI, § 603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) [Pub. L. 103–322] on the date of the enactment of such Act [Sept. 13, 1994].”
 
 **Effective and Termination Dates of 1994 Amendment**
 
 Amendment by sections 110102(c) and 110103(c) of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, formerly set out as a note under section 921 of this title.
 
-Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3528 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3528 of Pub. L. 101–647 took effect.
 
-Pub. L. 103–322, title XXXIII, § 330011(j), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3527 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(j), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3527 of Pub. L. 101–647 took effect.
 
 **Effective Date of 1990 Amendment**
 
 Amendment by section 1702(b)(3) of Pub. L. 101–647 applicable to conduct engaged in after end of 60-day period beginning on Nov. 29, 1990, see section 1702(b)(4) of Pub. L. 101–647, set out as a note under section 921 of this title.
 
-Pub. L. 101–647, title XXII, § 2203(d), Nov. 29, 1990, 104 Stat. 4857, provided that the amendment by that section is effective with respect to any offense committed after Nov. 1, 1987.
+Pub. L. 101–647, title XXII, § 2203(d), Nov. 29, 1990, 104 Stat. 4857, provided that the amendment by that section is effective with respect to any offense committed after Nov. 1, 1987.
 
 **Effective Date of 1988 Amendment; Sunset Provision**
 
@@ -2665,7 +2665,7 @@ Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–
 
 Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under section 922 of this title.
 
-## § 925. Exceptions: Relief from disabilities
+## § 925. Exceptions: Relief from disabilities
 
 **(a)**
 
@@ -2703,11 +2703,11 @@ The Attorney General shall permit the conditional importation or bringing in of 
 
 **(f)** The Attorney General shall not authorize, under subsection (d), the importation of any firearm the importation of which is prohibited by section 922(p).
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, § 233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, § 105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, § 2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, § 2203(b), (c), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 104–106, div. A, title XVI, § 1624(b)(3), Feb. 10, 1996, 110 Stat. 522; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–294, title VI, § 607(c), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–296, title XI, § 1112(f)(6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–174, § 1(3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 115–232, div. A, title VIII, § 809(e)(3), Aug. 13, 2018, 132 Stat. 1842.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, § 233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, § 105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, § 2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, § 2203(b), (c), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 104–106, div. A, title XVI, § 1624(b)(3), Feb. 10, 1996, 110 Stat. 522; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–294, title VI, § 607(c), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–296, title XI, § 1112(f)(6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–174, § 1(3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 115–232, div. A, title VIII, § 809(e)(3), Aug. 13, 2018, 132 Stat. 1842.)
 
 **Amendment of Section**
 
-Pub. L. 100–649, § 2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
+Pub. L. 100–649, § 2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
 
 **Editorial Notes**
 
@@ -2731,23 +2731,23 @@ Subsec. (a)(2)(A). Pub. L. 104–106 inserted “before the repeal of such secti
 
 Subsec. (a)(5). Pub. L. 104–294 substituted “For the purpose of paragraph (3)” for “For the purpose of paragraphs (3) and (4)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–647, § 2203(b), inserted “possession,” before “or importation”.
+1990—Subsec. (a)(1). Pub. L. 101–647, § 2203(b), inserted “possession,” before “or importation”.
 
-Subsec. (c). Pub. L. 101–647, § 2203(c), substituted “regarding the disability” for “regarding the conviction” and “barred by such disability” for “barred by such conviction” and struck out “by reason of such a conviction” after “incurred under this chapter”.
+Subsec. (c). Pub. L. 101–647, § 2203(c), substituted “regarding the disability” for “regarding the conviction” and “barred by such disability” for “barred by such conviction” and struck out “by reason of such a conviction” after “incurred under this chapter”.
 
-1988—Subsec. (a). Pub. L. 100–649, § 2(c)(1), inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
+1988—Subsec. (a). Pub. L. 100–649, § 2(c)(1), inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
 
-Subsec. (f). Pub. L. 100–649, § 2(c)(2), added subsec. (f).
+Subsec. (f). Pub. L. 100–649, § 2(c)(2), added subsec. (f).
 
-1986—Subsec. (c). Pub. L. 99–308, § 105(1), substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
+1986—Subsec. (c). Pub. L. 99–308, § 105(1), substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
 
-Subsec. (d). Pub. L. 99–308, § 105(2)(A), (B), (D), in provision preceding par. (1) substituted “shall authorize” for “may authorize” and struck out “the person importing or bringing in the firearm or ammunition establishes to the satisfaction of the Secretary that” after “thereof if”, and in provision following par. (4) substituted “shall permit” for “may permit”.
+Subsec. (d). Pub. L. 99–308, § 105(2)(A), (B), (D), in provision preceding par. (1) substituted “shall authorize” for “may authorize” and struck out “the person importing or bringing in the firearm or ammunition establishes to the satisfaction of the Secretary that” after “thereof if”, and in provision following par. (4) substituted “shall permit” for “may permit”.
 
 Subsec. (d)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (d)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Pub. L. 99–308, § 105(2)(C), inserted “except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled”.
+Pub. L. 99–308, § 105(2)(C), inserted “except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled”.
 
 1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
@@ -2771,7 +2771,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XVI, § 1624(c), Feb. 10, 1996, 110 Stat. 522, provided that:
+Pub. L. 104–106, div. A, title XVI, § 1624(c), Feb. 10, 1996, 110 Stat. 522, provided that:
 
 > “The amendments made by this section [amending this section and sections 4313 and 4316 of Title 10, Armed Forces, and repealing sections 4307, 4308, 4310, and 4311 of Title 10] shall take effect on the earlier of—
 
@@ -2799,7 +2799,7 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) an
 
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 
-## § 925A. Remedy for erroneous denial of firearm
+## § 925A. Remedy for erroneous denial of firearm
 
 Any person denied a firearm pursuant to subsection (s) or (t) of section 922—
 
@@ -2809,7 +2809,7 @@ Any person denied a firearm pursuant to subsection (s) or (t) of section 922—
 
 may bring an action against the State or political subdivision responsible for providing the erroneous information, or responsible for denying the transfer, or against the United States, as the case may be, for an order directing that the erroneous information be corrected or that the transfer be approved, as the case may be. In any action under this section, the court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.
 
-(Added Pub. L. 103–159, title I, § 104(a), Nov. 30, 1993, 107 Stat. 1543.)
+(Added Pub. L. 103–159, title I, § 104(a), Nov. 30, 1993, 107 Stat. 1543.)
 
 **Editorial Notes**
 
@@ -2817,7 +2817,7 @@ may bring an action against the State or political subdivision responsible for p
 
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1), is section 103 of Pub. L. 103–159, which is classified to section 40901 of Title 34, Crime Control and Law Enforcement.
 
-## § 925B. Reporting of background check denials to State authorities
+## § 925B. Reporting of background check denials to State authorities
 
 **(a) In General.—** If the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) (referred to in this section as “NICS”) provides a notice pursuant to section 922(t) that the receipt of a firearm by a person would violate subsection (g) or (n) of section 922 or State, local, or Tribal law, the Attorney General shall, in accordance with subsection (b) of this section—
 
@@ -2841,7 +2841,7 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1
 
 **(d) Rule of Construction.—** Nothing in subsection (a) shall be construed to require a report with respect to a person to be made to the same State authorities that made the original denial determination with respect to the transfer of the firearm.
 
-(Added Pub. L. 117–103, div. W, title XI, § 1101(c), Mar. 15, 2022, 136 Stat. 919.)
+(Added Pub. L. 117–103, div. W, title XI, § 1101(c), Mar. 15, 2022, 136 Stat. 919.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2849,7 +2849,7 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-## § 925C. Annual report to Congress
+## § 925C. Annual report to Congress
 
 Not later than 1 year after the date of enactment of this section, and annually thereafter, the Attorney General shall submit to Congress a report detailing the following, broken down by Federal judicial district:
 
@@ -2871,7 +2871,7 @@ Not later than 1 year after the date of enactment of this section, and annually 
 
 **(2)** The number of background check notices reported pursuant to section 925B (including the number of the notices that would have been so reported but for section 925B(c)).
 
-(Added Pub. L. 117–103, div. W, title XI, § 1102(a), Mar. 15, 2022, 136 Stat. 920.)
+(Added Pub. L. 117–103, div. W, title XI, § 1102(a), Mar. 15, 2022, 136 Stat. 920.)
 
 **Editorial Notes**
 
@@ -2885,7 +2885,7 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-## § 925D. Special assistant U.S. attorneys and cross-deputized attorneys
+## § 925D. Special assistant U.S. attorneys and cross-deputized attorneys
 
 **(a) In General.—** In order to improve the enforcement of paragraphs (8) and (9) of section 922(g), the Attorney General may—
 
@@ -2907,7 +2907,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **(c) Qualified Defined.—** For purposes of this section, the term “qualified” means, with respect to an attorney, that the attorney is a licensed attorney in good standing with any relevant licensing authority.
 
-(Added Pub. L. 117–103, div. W, title XI, § 1103(a), Mar. 15, 2022, 136 Stat. 921.)
+(Added Pub. L. 117–103, div. W, title XI, § 1103(a), Mar. 15, 2022, 136 Stat. 921.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2915,7 +2915,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-## § 926. Rules and regulations
+## § 926. Rules and regulations
 
 **(a)** The Attorney General may prescribe only such rules and regulations as are necessary to carry out the provisions of this chapter, including—
 
@@ -2925,9 +2925,9 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **(3)** regulations providing for effective receipt and secure storage of firearms relinquished by or seized from persons described in subsection (d)(8) or (g)(8) of section 922.
 
-No such rule or regulation prescribed after the date of the enactment of the Firearms Owners’ Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary’s 1
+No such rule or regulation prescribed after the date of the enactment of the Firearms Owners’ Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General’s”.
+<sup>1</sup> So in original. Probably should be “Attorney General’s”.
 
 authority to inquire into the disposition of any firearm in the course of a criminal investigation.
 
@@ -2935,7 +2935,7 @@ authority to inquire into the disposition of any firearm in the course of a crim
 
 **(c)** The Attorney General shall not prescribe rules or regulations that require purchasers of black powder under the exemption provided in section 845(a)(5) of this title to complete affidavits or forms attesting to that exemption.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226; Pub. L. 99–308, § 106, May 19, 1986, 100 Stat. 459; Pub. L. 103–322, title XI, § 110401(d), Sept. 13, 1994, 108 Stat. 2015; Pub. L. 107–296, title XI, § 1112(f)(6), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226; Pub. L. 99–308, § 106, May 19, 1986, 100 Stat. 459; Pub. L. 103–322, title XI, § 110401(d), Sept. 13, 1994, 108 Stat. 2015; Pub. L. 107–296, title XI, § 1112(f)(6), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
@@ -2949,9 +2949,9 @@ The date of the enactment of the Firearms Owners’ Protection Act, referred to 
 
 1994—Subsec. (a)(3). Pub. L. 103–322 added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–308, § 106(1)–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
+1986—Subsec. (a). Pub. L. 99–308, § 106(1)–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
 
-Subsecs. (b), (c). Pub. L. 99–308, § 106(5), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 99–308, § 106(5), added subsecs. (b) and (c).
 
 1968—Pub. L. 90–618 inserted provisions authorizing the Secretary to prescribe regulations requiring a licensee, when dealing with another licensee, to provide such other licensee a certified copy of the license, and regulations authorizing the issuance of certified copies of the license required under this chapter.
 
@@ -2973,17 +2973,17 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 
-## § 926A. Interstate transportation of firearms
+## § 926A. Interstate transportation of firearms
 
 Notwithstanding any other provision of any law or any rule or regulation of a State or any political subdivision thereof, any person who is not otherwise prohibited by this chapter from transporting, shipping, or receiving a firearm shall be entitled to transport a firearm for any lawful purpose from any place where he may lawfully possess and carry such firearm to any other place where he may lawfully possess and carry such firearm if, during such transportation the firearm is unloaded, and neither the firearm nor any ammunition being transported is readily accessible or is directly accessible from the passenger compartment of such transporting vehicle: *Provided*, That in the case of a vehicle without a compartment separate from the driver’s compartment the firearm or ammunition shall be contained in a locked container other than the glove compartment or console.
 
-(Added Pub. L. 99–360, § 1(a), July 8, 1986, 100 Stat. 766.)
+(Added Pub. L. 99–360, § 1(a), July 8, 1986, 100 Stat. 766.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 926A, added Pub. L. 99–308, § 107(a), May 19, 1986, 100 Stat. 460, provided that any person not prohibited by this chapter from transporting, shipping, or receiving a firearm be entitled to transport an unloaded, not readily accessible firearm in interstate commerce notwithstanding any provision of any legislation enacted, or rule or regulation prescribed by any State or political subdivision thereof, prior to repeal by Pub. L. 99–360, § 1(a).
+A prior section 926A, added Pub. L. 99–308, § 107(a), May 19, 1986, 100 Stat. 460, provided that any person not prohibited by this chapter from transporting, shipping, or receiving a firearm be entitled to transport an unloaded, not readily accessible firearm in interstate commerce notwithstanding any provision of any legislation enacted, or rule or regulation prescribed by any State or political subdivision thereof, prior to repeal by Pub. L. 99–360, § 1(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2991,7 +2991,7 @@ A prior section 926A, added Pub. L. 99–308, § 107(a), May 19, 1986, 100 Sta
 
 Section effective on date on which Firearms Owners’ Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as an Effective Date of 1986 Amendments note under section 921 of this title.
 
-## § 926B. Carrying of concealed firearms by qualified law enforcement officers
+## § 926B. Carrying of concealed firearms by qualified law enforcement officers
 
 **(a)** Notwithstanding any other provision of the law of any State or any political subdivision thereof, an individual who is a qualified law enforcement officer and who is carrying the identification required by subsection (d) may carry a concealed firearm that has been shipped or transported in interstate or foreign commerce, subject to subsection (b).
 
@@ -3033,25 +3033,25 @@ Section effective on date on which Firearms Owners’ Protection Act, Pub. L. 99
 
 **(f)** For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice).
 
-(Added Pub. L. 108–277, § 2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, § 2(a), (b), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, § 1089(1), Jan. 2, 2013, 126 Stat. 1970.)
+(Added Pub. L. 108–277, § 2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, § 2(a), (b), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, § 1089(1), Jan. 2, 2013, 126 Stat. 1970.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
+The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
 
 **Amendments**
 
-2013—Subsec. (c)(1). Pub. L. 112–239, § 1089(1)(A), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+2013—Subsec. (c)(1). Pub. L. 112–239, § 1089(1)(A), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-Subsec. (d). Pub. L. 112–239, § 1089(1)(B), substituted “that identifies the employee as a police officer or law enforcement officer of the agency” for “as a law enforcement officer”.
+Subsec. (d). Pub. L. 112–239, § 1089(1)(B), substituted “that identifies the employee as a police officer or law enforcement officer of the agency” for “as a law enforcement officer”.
 
-Subsec. (f). Pub. L. 112–239, § 1089(1)(C), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+Subsec. (f). Pub. L. 112–239, § 1089(1)(C), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-2010—Subsec. (c)(3). Pub. L. 111–272, § 2(a)(1), inserted “which could result in suspension or loss of police powers” after “agency”.
+2010—Subsec. (c)(3). Pub. L. 111–272, § 2(a)(1), inserted “which could result in suspension or loss of police powers” after “agency”.
 
-Subsec. (e). Pub. L. 111–272, § 2(b), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
+Subsec. (e). Pub. L. 111–272, § 2(b), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
 
 “(1) any machinegun (as defined in section 5845 of the National Firearms Act);
 
@@ -3059,7 +3059,7 @@ Subsec. (e). Pub. L. 111–272, § 2(b), added subsec. (e) and struck out form
 
 “(3) any destructive device (as defined in section 921 of this title).”
 
-Subsec. (f). Pub. L. 111–272, § 2(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 111–272, § 2(a)(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3109,7 +3109,7 @@ Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
 
 > “During a covered furlough, a covered Federal law enforcement officer shall have the same rights to carry a firearm issued by the Federal Government as if the covered furlough was not in effect, including, if authorized on the day before the date on which the covered furlough begins, the right to carry a concealed firearm, if the sole reason the covered Federal law enforcement officer was placed on leave was due to the covered furlough.”
 
-## § 926C. Carrying of concealed firearms by qualified retired law enforcement officers
+## § 926C. Carrying of concealed firearms by qualified retired law enforcement officers
 
 **(a)** Notwithstanding any other provision of the law of any State or any political subdivision thereof, an individual who is a qualified retired law enforcement officer and who is carrying the identification required by subsection (d) may carry a concealed firearm that has been shipped or transported in interstate or foreign commerce, subject to subsection (b).
 
@@ -3175,41 +3175,41 @@ Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
 
 **(2)** the term “service with a public agency as a law enforcement officer” includes service as a law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
 
-(Added Pub. L. 108–277, § 3(a), July 22, 2004, 118 Stat. 866; amended Pub. L. 111–272, § 2(c), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, § 1089(2), Jan. 2, 2013, 126 Stat. 1971.)
+(Added Pub. L. 108–277, § 3(a), July 22, 2004, 118 Stat. 866; amended Pub. L. 111–272, § 2(c), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, § 1089(2), Jan. 2, 2013, 126 Stat. 1971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Firearms Act, referred to in subsec. (e)(1)(B), (C)(i), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of such Act is classified to section 5845 of Title 26.
+The National Firearms Act, referred to in subsec. (e)(1)(B), (C)(i), is classified generally to chapter 53 (§ 5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of such Act is classified to section 5845 of Title 26.
 
 **Amendments**
 
-2013—Subsec. (c)(2). Pub. L. 112–239, § 1089(2)(A), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+2013—Subsec. (c)(2). Pub. L. 112–239, § 1089(2)(A), inserted “or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-Subsec. (d)(1). Pub. L. 112–239, § 1089(2)(B)(i), substituted “that identifies the person as having been employed as a police officer or law enforcement officer and indicates” for “that indicates”.
+Subsec. (d)(1). Pub. L. 112–239, § 1089(2)(B)(i), substituted “that identifies the person as having been employed as a police officer or law enforcement officer and indicates” for “that indicates”.
 
-Subsec. (d)(2)(A). Pub. L. 112–239, § 1089(2)(B)(ii), inserted “that identifies the person as having been employed as a police officer or law enforcement officer” after “officer”.
+Subsec. (d)(2)(A). Pub. L. 112–239, § 1089(2)(B)(ii), inserted “that identifies the person as having been employed as a police officer or law enforcement officer” after “officer”.
 
-2010—Subsec. (c)(1). Pub. L. 111–272, § 2(c)(1)(A), substituted “separated from service” for “retired” and struck out “, other than for reasons of mental instability” after “officer”.
+2010—Subsec. (c)(1). Pub. L. 111–272, § 2(c)(1)(A), substituted “separated from service” for “retired” and struck out “, other than for reasons of mental instability” after “officer”.
 
-Subsec. (c)(2). Pub. L. 111–272, § 2(c)(1)(B), substituted “separation” for “retirement”.
+Subsec. (c)(2). Pub. L. 111–272, § 2(c)(1)(B), substituted “separation” for “retirement”.
 
-Subsec. (c)(3)(A). Pub. L. 111–272, § 2(c)(1)(C)(i), substituted “separation, served as a law enforcement officer for an aggregate of 10 years or more” for “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more”.
+Subsec. (c)(3)(A). Pub. L. 111–272, § 2(c)(1)(C)(i), substituted “separation, served as a law enforcement officer for an aggregate of 10 years or more” for “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more”.
 
-Subsec. (c)(3)(B). Pub. L. 111–272, § 2(c)(1)(C)(ii), substituted “separated” for “retired”.
+Subsec. (c)(3)(B). Pub. L. 111–272, § 2(c)(1)(C)(ii), substituted “separated” for “retired”.
 
-Subsec. (c)(4). Pub. L. 111–272, § 2(c)(1)(D), added par. (4) and struck out former par. (4) which read as follows: “has a nonforfeitable right to benefits under the retirement plan of the agency;”.
+Subsec. (c)(4). Pub. L. 111–272, § 2(c)(1)(D), added par. (4) and struck out former par. (4) which read as follows: “has a nonforfeitable right to benefits under the retirement plan of the agency;”.
 
-Subsec. (c)(5). Pub. L. 111–272, § 2(c)(1)(E), added par. (5) and struck out former par. (5) which read as follows: “during the most recent 12-month period, has met, at the expense of the individual, the State’s standards for training and qualification for active law enforcement officers to carry firearms;”.
+Subsec. (c)(5). Pub. L. 111–272, § 2(c)(1)(E), added par. (5) and struck out former par. (5) which read as follows: “during the most recent 12-month period, has met, at the expense of the individual, the State’s standards for training and qualification for active law enforcement officers to carry firearms;”.
 
-Subsec. (d)(1). Pub. L. 111–272, § 2(c)(2)(A), substituted “separated” for “retired” and “to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type as the concealed firearm” for “to meet the standards established by the agency for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm”.
+Subsec. (d)(1). Pub. L. 111–272, § 2(c)(2)(A), substituted “separated” for “retired” and “to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type as the concealed firearm” for “to meet the standards established by the agency for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm”.
 
-Subsec. (d)(2)(A). Pub. L. 111–272, § 2(c)(2)(B)(i), substituted “separated” for “retired”.
+Subsec. (d)(2)(A). Pub. L. 111–272, § 2(c)(2)(B)(i), substituted “separated” for “retired”.
 
-Subsec. (d)(2)(B). Pub. L. 111–272, § 2(c)(2)(B)(ii), substituted “or by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State that indicates that the individual has, not less than 1 year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State or a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State to have met—” for “that indicates that the individual has, not less recently than one year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State to meet the standards established by the State for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm.” and added cls. (I) and (II).
+Subsec. (d)(2)(B). Pub. L. 111–272, § 2(c)(2)(B)(ii), substituted “or by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State that indicates that the individual has, not less than 1 year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State or a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State to have met—” for “that indicates that the individual has, not less recently than one year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State to meet the standards established by the State for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm.” and added cls. (I) and (II).
 
-Subsec. (e). Pub. L. 111–272, § 2(c)(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
+Subsec. (e). Pub. L. 111–272, § 2(c)(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
 
 “(1) any machinegun (as defined in section 5845 of the National Firearms Act);
 
@@ -3217,11 +3217,11 @@ Subsec. (e). Pub. L. 111–272, § 2(c)(3), added subsec. (e) and struck out f
 
 “(3) a destructive device (as defined in section 921 of this title).”
 
-## § 927. Effect on State law
+## § 927. Effect on State law
 
 No provision of this chapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of any State on the same subject matter, unless there is a direct and positive conflict between such provision and the law of the State so that the two cannot be reconciled or consistently stand together.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)
 
 **Editorial Notes**
 
@@ -3239,11 +3239,11 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 
-## § 928. Separability
+## § 928. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby.
 
-(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)
 
 **Editorial Notes**
 
@@ -3261,7 +3261,7 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.
 
-## § 929. Use of restricted ammunition
+## § 929. Use of restricted ammunition
 
 **(a)**
 
@@ -3271,15 +3271,15 @@ Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–
 
 **(b)** Notwithstanding any other provision of law, the court shall not suspend the sentence of any person convicted of a violation of this section, nor place the person on probation, nor shall the terms of imprisonment run concurrently with any other terms of imprisonment, including that imposed for the crime in which the armor piercing ammunition was used or possessed.
 
-(Added Pub. L. 98–473, title II, § 1006(a), Oct. 12, 1984, 98 Stat. 2139; amended Pub. L. 99–308, § 108, May 19, 1986, 100 Stat. 460; Pub. L. 99–408, § 8, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VI, § 6212, title VII, § 7060(b), Nov. 18, 1988, 102 Stat. 4360, 4404; Pub. L. 107–273, div. B, title IV, § 4002(c)(4), Nov. 2, 2002, 116 Stat. 1809; Pub. L. 109–304, § 17(d)(4), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 98–473, title II, § 1006(a), Oct. 12, 1984, 98 Stat. 2139; amended Pub. L. 99–308, § 108, May 19, 1986, 100 Stat. 460; Pub. L. 99–408, § 8, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VI, § 6212, title VII, § 7060(b), Nov. 18, 1988, 102 Stat. 4360, 4404; Pub. L. 107–273, div. B, title IV, § 4002(c)(4), Nov. 2, 2002, 116 Stat. 1809; Pub. L. 109–304, § 17(d)(4), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 **Amendments**
 
@@ -3287,15 +3287,15 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), 
 
 2002—Subsec. (b). Pub. L. 107–273 struck out at end “No person sentenced under this section shall be eligible for parole during the term of imprisonment imposed herein.”
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 7060(b), substituted “trafficking crime” for “trafficking crime,” in three places.
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7060(b), substituted “trafficking crime” for “trafficking crime,” in three places.
 
-Subsec. (a)(2). Pub. L. 100–690, § 6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
+Subsec. (a)(2). Pub. L. 100–690, § 6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
 
-1986—Subsec. (a). Pub. L. 99–408, § 8(1), substituted “violence (including” for “violence including”, “device) for” for “device for”, “a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm” for “any handgun loaded with armor-piercing ammunition as defined in subsection (b)”, and “five years” for “five nor more than ten years”, and struck out provisions relating to suspension of sentence, probation, concurrent sentence and parole eligibility of any person convicted under this subsection.
+1986—Subsec. (a). Pub. L. 99–408, § 8(1), substituted “violence (including” for “violence including”, “device) for” for “device for”, “a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm” for “any handgun loaded with armor-piercing ammunition as defined in subsection (b)”, and “five years” for “five nor more than ten years”, and struck out provisions relating to suspension of sentence, probation, concurrent sentence and parole eligibility of any person convicted under this subsection.
 
 Pub. L. 99–308 designated existing provision as par. (1), substituted “violence or drug trafficking crime,” for “violence” in three places, and added par. (2).
 
-Subsec. (b). Pub. L. 99–408, § 8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrently with other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining “armor-piercing ammunition” and “handgun”.
+Subsec. (b). Pub. L. 99–408, § 8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrently with other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining “armor-piercing ammunition” and “handgun”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3303,7 +3303,7 @@ Subsec. (b). Pub. L. 99–408, § 8(2), amended subsec. (b) generally, substit
 
 Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section 110(a) of Pub. L. 99–308, set out as a note under section 921 of this title.
 
-## § 930. Possession of firearms and dangerous weapons in Federal facilities
+## § 930. Possession of firearms and dangerous weapons in Federal facilities
 
 **(a)** Except as provided in subsection (d), whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a Federal facility (other than a Federal court facility), or attempts to do so, shall be fined under this title or imprisoned not more than 1 year, or both.
 
@@ -3337,7 +3337,7 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 **(h)** Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (e), as the case may be.
 
-(Added Pub. L. 100–690, title VI, § 6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, § 2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, § 60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, § 603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, § 811(b), Oct. 26, 2001, 115 Stat. 381; Pub. L. 110–177, title II, § 203, Jan. 7, 2008, 121 Stat. 2537.)
+(Added Pub. L. 100–690, title VI, § 6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, § 2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, § 60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, § 603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, § 811(b), Oct. 26, 2001, 115 Stat. 381; Pub. L. 110–177, title II, § 203, Jan. 7, 2008, 121 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -3347,37 +3347,37 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 2001—Subsec. (c). Pub. L. 107–56 struck out “or attempts to kill” after “A person who kills”, inserted “or attempts or conspires to do such an act,” before “shall be punished”, and substituted “1113, and 1117” for “and 1113”.
 
-1996—Subsec. (e)(2). Pub. L. 104–294, § 603(t), substituted “subsection (d)” for “subsection (c)”.
+1996—Subsec. (e)(2). Pub. L. 104–294, § 603(t), substituted “subsection (d)” for “subsection (c)”.
 
-Subsec. (g). Pub. L. 104–294, § 603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
+Subsec. (g). Pub. L. 104–294, § 603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
 
-Subsec. (h). Pub. L. 104–294, § 603(u)(2), substituted “(e)” for “(d)” wherever appearing.
+Subsec. (h). Pub. L. 104–294, § 603(u)(2), substituted “(e)” for “(d)” wherever appearing.
 
-Pub. L. 104–294, § 603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
+Pub. L. 104–294, § 603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
 
-1994—Subsec. (a). Pub. L. 103–322, § 60014(2), substituted “(d)” for “(c)”.
+1994—Subsec. (a). Pub. L. 103–322, § 60014(2), substituted “(d)” for “(c)”.
 
-Subsecs. (c) to (g). Pub. L. 103–322, § 60014(1), (3), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+Subsecs. (c) to (g). Pub. L. 103–322, § 60014(1), (3), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-1990—Subsec. (a). Pub. L. 101–647, § 2205(a)(1), inserted “(other than a Federal court facility)” after “Federal facility”.
+1990—Subsec. (a). Pub. L. 101–647, § 2205(a)(1), inserted “(other than a Federal court facility)” after “Federal facility”.
 
-Subsecs. (d), (e). Pub. L. 101–647, § 2205(a)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 101–647, § 2205(a)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–647, § 2205(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–647, § 2205(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(3). Pub. L. 101–647, § 2205(a)(4), added par. (3).
+Subsec. (f)(3). Pub. L. 101–647, § 2205(a)(4), added par. (3).
 
-Subsec. (g). Pub. L. 101–647, § 2205(a)(5), inserted “and notice of subsection (d) shall be posted conspicuously at each public entrance to each Federal court facility,” after “each Federal facility,”, “or (d)” before “with respect to”, and “or (d), as the case may be” before the period.
+Subsec. (g). Pub. L. 101–647, § 2205(a)(5), inserted “and notice of subsection (d) shall be posted conspicuously at each public entrance to each Federal court facility,” after “each Federal facility,”, “or (d)” before “with respect to”, and “or (d), as the case may be” before the period.
 
-Pub. L. 101–647, § 2205(a)(2), redesignated subsec. (f) as (g).
+Pub. L. 101–647, § 2205(a)(2), redesignated subsec. (f) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XXII, § 2205(b), Nov. 29, 1990, 104 Stat. 4858, provided that: “The amendments made by subsection (a) [amending this section] shall apply to conduct engaged in after the date of the enactment of this Act [Nov. 29, 1990].”
+Pub. L. 101–647, title XXII, § 2205(b), Nov. 29, 1990, 104 Stat. 4858, provided that: “The amendments made by subsection (a) [amending this section] shall apply to conduct engaged in after the date of the enactment of this Act [Nov. 29, 1990].”
 
-## § 931. Prohibition on purchase, ownership, or possession of body armor by violent felons
+## § 931. Prohibition on purchase, ownership, or possession of body armor by violent felons
 
 **(a) In General.—** Except as provided in subsection (b), it shall be unlawful for a person to purchase, own, or possess body armor, if that person has been convicted of a felony that is—
 
@@ -3395,9 +3395,9 @@ Pub. L. 101–647, title XXII, § 2205(b), Nov. 29, 1990, 104 Stat. 4858, prov
 
 **(2) Employer.—** In this subsection, the term “employer” means any other individual employed by the defendant’s business that supervises defendant’s activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
 
-(Added Pub. L. 107–273, div. C, title I, § 11009(e)(2)(A), Nov. 2, 2002, 116 Stat. 1821.)
+(Added Pub. L. 107–273, div. C, title I, § 11009(e)(2)(A), Nov. 2, 2002, 116 Stat. 1821.)
 
-## § 932. Straw purchasing of firearms
+## § 932. Straw purchasing of firearms
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -3425,15 +3425,15 @@ Pub. L. 101–647, title XXII, § 2205(b), Nov. 29, 1990, 104 Stat. 4858, prov
 
 **(2) Use in felonies, crimes of terrorism, or drug trafficking crimes.—** If a violation of subsection (b) is committed knowing or with reasonable cause to believe that any firearm involved will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime, the person shall be sentenced to a term of imprisonment of not more than 25 years.
 
-(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1326.)
+(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3441,7 +3441,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a)(1)(B
 
 Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section, to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under section 922 of this title.
 
-## § 933. Trafficking in firearms
+## § 933. Trafficking in firearms
 
 **(a) In General.—** It shall be unlawful for any person to—
 
@@ -3453,7 +3453,7 @@ Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section,
 
 **(b) Penalty.—** Any person who violates subsection (a) shall be fined under this title, imprisoned for not more than 15 years, or both.
 
-(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1327.)
+(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1327.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3461,7 +3461,7 @@ Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section,
 
 Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section, to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under section 922 of this title.
 
-## § 934. Forfeiture and fines
+## § 934. Forfeiture and fines
 
 **(a) Forfeiture.—**
 
@@ -3479,7 +3479,7 @@ Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section,
 
 **(2)** the amount equal to twice the gross profits or other proceeds of the offense under section 932 or 933.
 
-(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1327.)
+(Added Pub. L. 117–159, div. A, title II, § 12004(a)(1), June 25, 2022, 136 Stat. 1327.)
 
 **Statutory Notes and Related Subsidiaries**
 

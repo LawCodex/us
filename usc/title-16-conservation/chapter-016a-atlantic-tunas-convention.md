@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16A—ATLANTIC TUNAS CONVENTION
 
-## § 971. Definitions
+## § 971. Definitions
 
 For the purpose of this chapter—
 
@@ -41,7 +41,7 @@ For the purpose of this chapter—
 
 **(11)** The term “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(Pub. L. 94–70, § 2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, § 405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, § 2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, § 303(1), (2), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(A), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
+(Pub. L. 94–70, § 2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, § 405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, § 2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, § 303(1), (2), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(A), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
 
 **Editorial Notes**
 
@@ -49,17 +49,17 @@ For the purpose of this chapter—
 
 1998—Pars. (4), (5). Pub. L. 105–384 renumbered par. (4) defining “exclusive economic zone” as par. (5) and made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
 
-1995—Par. (3). Pub. L. 104–43, § 303(1), added par. (3). Former par. (3) redesignated (4).
+1995—Par. (3). Pub. L. 104–43, § 303(1), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 104–43, § 303(2), added par. (4) defining “exclusive economic zone”. Former par. (4) redesignated (5).
+Par. (4). Pub. L. 104–43, § 303(2), added par. (4) defining “exclusive economic zone”. Former par. (4) redesignated (5).
 
-Pub. L. 104–43, § 303(1), redesignated par. (3) defining “Council” as (4).
+Pub. L. 104–43, § 303(1), redesignated par. (3) defining “Council” as (4).
 
-Par. (5). Pub. L. 104–43, § 303(2), struck out par. (5) which read as follows: “The term ‘fisheries zone’ means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States.”
+Par. (5). Pub. L. 104–43, § 303(2), struck out par. (5) which read as follows: “The term ‘fisheries zone’ means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States.”
 
-Pub. L. 104–43, § 303(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Pub. L. 104–43, § 303(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pars. (6) to (11). Pub. L. 104–43, § 303(1), redesignated pars. (5) to (10) as (6) to (11), respectively.
+Pars. (6) to (11). Pub. L. 104–43, § 303(1), redesignated pars. (5) to (10) as (6) to (11), respectively.
 
 1977—Par. (4). Pub. L. 95–33 struck out the comma between “zone” and “contiguous”, substituted “two hundred” for “200”, and substituted a semicolon for a comma after “is measured”.
 
@@ -69,21 +69,21 @@ Pars. (6) to (11). Pub. L. 104–43, § 303(1), redesignated pars. (5) to (10)
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–265, title IV, § 405(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 405(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, § 405(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 405(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–43, title III, § 301, Nov. 3, 1995, 109 Stat. 382, provided that: “This title [enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions set out as a note under section 971c of this title] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
+Pub. L. 104–43, title III, § 301, Nov. 3, 1995, 109 Stat. 382, provided that: “This title [enacting sections 971j and 971k of this title, amending this section and sections 971b, 971c to 971e, 971h, and 971i of this title, and enacting provisions set out as a note under section 971c of this title] may be cited as the ‘Atlantic Tunas Convention Authorization Act of 1995’.”
 
 **Short Title**
 
-Pub. L. 94–70, § 1, Aug. 5, 1975, 89 Stat. 385, provided: “That this Act [enacting this chapter and provisions set out below] may be cited as the ‘Atlantic Tunas Convention Act of 1975’.”
+Pub. L. 94–70, § 1, Aug. 5, 1975, 89 Stat. 385, provided: “That this Act [enacting this chapter and provisions set out below] may be cited as the ‘Atlantic Tunas Convention Act of 1975’.”
 
 **Separability**
 
-Pub. L. 94–70, § 12, formerly § 11, Aug. 5, 1975, 89 Stat. 394; renumbered § 13, Pub. L. 105–384, title II, § 202(b)(1)(D), Nov. 13, 1998, 112 Stat. 3452; renumbered § 12, Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Pub. L. 94–70, § 12, formerly § 11, Aug. 5, 1975, 89 Stat. 394; renumbered § 13, Pub. L. 105–384, title II, § 202(b)(1)(D), Nov. 13, 1998, 112 Stat. 3452; renumbered § 12, Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
-## § 971a. Commissioners
+## § 971a. Commissioners
 
 **(a) Appointment and number; selection of Chairman; rules of procedure; term**
 
@@ -119,7 +119,7 @@ The United States Commissioners or Alternate Commissioners, although officers of
 
 It is the sense of the Congress that the United States Commissioners should seek to include ecosystem considerations in fisheries management, including the conservation of fish habitat.
 
-(Pub. L. 94–70, § 3, Aug. 5, 1975, 89 Stat. 385; Pub. L. 101–627, title II, §§ 201(a), 203, Nov. 28, 1990, 104 Stat. 4459, 4460; Pub. L. 106–562, title III, § 303, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 109–479, title IV, § 405(c), Jan. 12, 2007, 120 Stat. 3633.)
+(Pub. L. 94–70, § 3, Aug. 5, 1975, 89 Stat. 385; Pub. L. 101–627, title II, §§ 201(a), 203, Nov. 28, 1990, 104 Stat. 4459, 4460; Pub. L. 106–562, title III, § 303, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 109–479, title IV, § 405(c), Jan. 12, 2007, 120 Stat. 3633.)
 
 **Editorial Notes**
 
@@ -129,15 +129,15 @@ It is the sense of the Congress that the United States Commissioners should seek
 
 2000—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
-1990—Subsec. (a). Pub. L. 101–627, § 201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+1990—Subsec. (a). Pub. L. 101–627, § 201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 101–627, § 203, added subsec. (d).
+Subsec. (d). Pub. L. 101–627, § 203, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitations on Appointments of Commissioners; Application to Current Commissioners**
 
-Pub. L. 101–627, title II, § 201(b), Nov. 28, 1990, 104 Stat. 4460, provided that:
+Pub. L. 101–627, title II, § 201(b), Nov. 28, 1990, 104 Stat. 4460, provided that:
 
 > **“(1)** Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title [enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act [Nov. 28, 1990].
 
@@ -145,9 +145,9 @@ Pub. L. 101–627, title II, § 201(b), Nov. 28, 1990, 104 Stat. 4460, provide
 
 **Termination of Current Terms and Completion of Pending Appointments**
 
-Pub. L. 101–627, title II, § 202, Nov. 28, 1990, 104 Stat. 4460, provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act [Nov. 28, 1990] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
+Pub. L. 101–627, title II, § 202, Nov. 28, 1990, 104 Stat. 4460, provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act [Nov. 28, 1990] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
 
-## § 971b. Advisory committee
+## § 971b. Advisory committee
 
 **(a)** There is established an advisory committee which shall be composed of—
 
@@ -175,13 +175,13 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 
 **(6)** The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to chapter 10 of title 5.
 
-(Pub. L. 94–70, § 4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, § 1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 101–627, title II, § 204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, § 304, Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 117–286, § 4(a)(106), Dec. 27, 2022, 136 Stat. 4317.)
+(Pub. L. 94–70, § 4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, § 1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 101–627, title II, § 204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, § 304, Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 117–286, § 4(a)(106), Dec. 27, 2022, 136 Stat. 4317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -205,15 +205,15 @@ Par. (2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Mana
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-## § 971b–1. Species working groups
+## § 971b–1. Species working groups
 
 The United States Commissioners may establish species working groups for the purpose of providing advice and recommendations to the Commissioners and the advisory committee on matters relating to the conservation and management of any highly migratory species covered by the Convention. Any species working group shall consist of no more than seven members of the advisory committee and no more than four scientific or technical personnel, as considered necessary by the Commissioner.
 
-(Pub. L. 94–70, § 4A, as added Pub. L. 101–627, title II, § 205, Nov. 28, 1990, 104 Stat. 4460.)
+(Pub. L. 94–70, § 4A, as added Pub. L. 101–627, title II, § 205, Nov. 28, 1990, 104 Stat. 4460.)
 
-## § 971c. Authority of Secretary of State; cooperative enforcement agreements
+## § 971c. Authority of Secretary of State; cooperative enforcement agreements
 
 **(a) Recommendations from Commission**
 
@@ -223,7 +223,7 @@ The Secretary of State is authorized to receive on behalf of the United States, 
 
 The Secretary of State, in consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, is authorized to enter into agreements with any contracting party, pursuant to paragraph 3 of article IX of the Convention, relating to cooperative enforcement of the provisions of the Convention, recommendations in force for the United States and such party or parties under the Convention, and regulations adopted by the United States and such contracting party or parties pursuant to recommendations of the Commission. Such agreements may authorize personnel of the United States to enforce measures under the Convention and under regulations of another party with respect to persons under that party’s jurisdiction, and may authorize personnel of another party to enforce measures under the Convention and under United States regulations with respect to persons subject to the jurisdiction of the United States. Enforcement under such an agreement may not take place within the territorial seas or exclusive economic zone of the United States. Such agreements shall not subject persons or vessels under the jurisdiction of the United States to prosecution or assessment of penalties by any court or tribunal of a foreign country.
 
-(Pub. L. 94–70, § 5, Aug. 5, 1975, 89 Stat. 386; Pub. L. 104–43, title III, § 303(3), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(B), Nov. 13, 1998, 112 Stat. 3452.)
+(Pub. L. 94–70, § 5, Aug. 5, 1975, 89 Stat. 386; Pub. L. 104–43, title III, § 303(3), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, § 202(b)(1)(B), Nov. 13, 1998, 112 Stat. 3452.)
 
 **Editorial Notes**
 
@@ -241,9 +241,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Management of Atlantic Yellowfin Tuna**
 
-Pub. L. 104–43, title III, § 309(b), Nov. 3, 1995, 109 Stat. 387, as amended by Pub. L. 104–297, title IV, § 406, Oct. 11, 1996, 110 Stat. 3621, provided that: “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a)).”
+Pub. L. 104–43, title III, § 309(b), Nov. 3, 1995, 109 Stat. 387, as amended by Pub. L. 104–297, title IV, § 406, Oct. 11, 1996, 110 Stat. 3621, provided that: “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a)).”
 
-## § 971d. Administration
+## § 971d. Administration
 
 **(a) Regulations; cooperation with other parties to Convention; utilization of personnel, services, and facilities for enforcement**
 
@@ -325,21 +325,21 @@ except that no regulation promulgated under this section may have the effect of 
 
 **(d) Recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish**
 
-**(1)** It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) 1
+**(1)** It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1802(16)]) in the Convention area.
 
 **(2)** The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
-(Pub. L. 94–70, § 6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§ 206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§ 303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, § 202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453; Pub. L. 114–81, title I, § 107(1), Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 94–70, § 6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§ 206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§ 303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, § 202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453; Pub. L. 114–81, title I, § 107(1), Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 
@@ -347,25 +347,25 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 
 2015—Subsec. (c)(2). Pub. L. 114–81 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-1998—Subsec. (c)(1)(C). Pub. L. 105–384, § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+1998—Subsec. (c)(1)(C). Pub. L. 105–384, § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-Subsecs. (c)(6)(A)(iii), (B). Pub. L. 105–384, § 202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
+Subsecs. (c)(6)(A)(iii), (B). Pub. L. 105–384, § 202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
 
-Subsec. (d)(1). Pub. L. 105–384, § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+Subsec. (d)(1). Pub. L. 105–384, § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1995—Subsec. (a). Pub. L. 104–43, § 303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
+1995—Subsec. (a). Pub. L. 104–43, § 303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
 
-Subsec. (c). Pub. L. 104–43, § 305(1), inserted “and other measures” after “Regulations” in heading.
+Subsec. (c). Pub. L. 104–43, § 305(1), inserted “and other measures” after “Regulations” in heading.
 
-Subsec. (c)(3). Pub. L. 104–43, § 305(2), inserted “or fishing mortality level” after “quota of fish” in concluding provisions.
+Subsec. (c)(3). Pub. L. 104–43, § 305(2), inserted “or fishing mortality level” after “quota of fish” in concluding provisions.
 
-Subsec. (c)(6), (7). Pub. L. 104–43, § 305(3), added pars. (6) and (7).
+Subsec. (c)(6), (7). Pub. L. 104–43, § 305(3), added pars. (6) and (7).
 
-1990—Subsec. (c)(1). Pub. L. 101–627, § 206(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+1990—Subsec. (c)(1). Pub. L. 101–627, § 206(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (c)(3). Pub. L. 101–627, § 206(b), added subpars. (I) to (K) and concluding provisions and struck out former subpar. (I) which read as follows: “impose such other requirements and provide for such other measures as the Secretary may deem necessary to implement any recommendation of the Commission.”
+Subsec. (c)(3). Pub. L. 101–627, § 206(b), added subpars. (I) to (K) and concluding provisions and struck out former subpar. (I) which read as follows: “impose such other requirements and provide for such other measures as the Secretary may deem necessary to implement any recommendation of the Commission.”
 
-Subsec. (d). Pub. L. 101–627, § 207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
+Subsec. (d). Pub. L. 101–627, § 207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,15 +377,15 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Use of Aircraft in Atlantic Bluefin Tuna Fishing**
 
-Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, or to fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
+Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, or to fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-## § 971e. Violations
+## § 971e. Violations
 
 **(a) In general** It shall be unlawful—
 
@@ -403,23 +403,23 @@ It shall be unlawful for the master or any person in charge of any fishing vesse
 
 **(d) Importation of ineligible species or species under investigation**
 
-It shall be unlawful for any person to import, in violation of any regulation adopted pursuant to section 971d(c) or (d) 1
+It shall be unlawful for any person to import, in violation of any regulation adopted pursuant to section 971d(c) or (d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, from any country, any fish in any form of those species subject to regulation pursuant to a recommendation of the Commission, or any fish in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 971d(c) or (d) 1 of this title. In the case of any fish as described in this subsection offered for entry in the United States, the Secretary shall require proof satisfactory to him that such fish is not ineligible for such entry under the terms of section 971d(c) or (d) 1 of this title.
+of this title, from any country, any fish in any form of those species subject to regulation pursuant to a recommendation of the Commission, or any fish in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 971d(c) or (d) 1 of this title. In the case of any fish as described in this subsection offered for entry in the United States, the Secretary shall require proof satisfactory to him that such fish is not ineligible for such entry under the terms of section 971d(c) or (d) 1 of this title.
 
 **(e) Applicability of other laws**
 
 All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-(Pub. L. 94–70, § 7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, § 306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, § 202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 114–81, title I, § 107(2), Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 94–70, § 7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, § 306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, § 202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 114–81, title I, § 107(2), Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 971d(d) of this title, referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, § 207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
+Section 971d(d) of this title, referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, § 207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
 
 **Amendments**
 
@@ -429,25 +429,25 @@ Section 971d(d) of this title, referred to in subsec. (d), was amended generally
 
 1995—Subsec. (e). Pub. L. 104–43 amended subsec. (e) generally, substituting present provisions for provisions establishing civil penalties for violations of this section, providing for authority of Secretary to assess, remit, or mitigate any civil penalty, providing for notice and hearing prior to assessment, and providing for civil action upon failure to pay penalty.
 
-## § 971f. Enforcement
+## § 971f. Enforcement
 
 **(a)** For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
 **(b)** To the extent authorized under the convention or by agreements between the United States and any contracting party concluded pursuant to section 971c(b) of this title for international enforcement, the duly authorized officials of such party shall have the authority to carry out enforcement activities with respect to this chapter that are otherwise authorized by law with respect to persons or vessels subject to the jurisdiction of the United States, and the officials of the United States authorized pursuant to this section shall have the authority to carry out enforcement activities with respect to this chapter that are otherwise authorized by law with respect to persons or vessels subject to the jurisdiction of such party, except that where any agreement provides for arrest or seizure of persons or vessels under United States jurisdiction it shall also provide that the person or vessel arrested or seized shall be promptly handed over to a United States enforcement officer or another authorized United States official.
 
-(Pub. L. 94–70, § 8, Aug. 5, 1975, 89 Stat. 391; Pub. L. 114–81, title I, § 107(3), (4), Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 94–70, § 8, Aug. 5, 1975, 89 Stat. 391; Pub. L. 114–81, title I, § 107(3), (4), Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–81, § 107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder.
+2015—Subsec. (a). Pub. L. 114–81, § 107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder.
 
-Subsec. (b). Pub. L. 114–81, § 107(4), substituted “enforcement activities with respect to this chapter that are otherwise authorized by law” for “the enforcement activities specified in subsection (a) of this section” in two places.
+Subsec. (b). Pub. L. 114–81, § 107(4), substituted “enforcement activities with respect to this chapter that are otherwise authorized by law” for “the enforcement activities specified in subsection (a) of this section” in two places.
 
-Subsec. (c). Pub. L. 114–81, § 107(3)(A), struck out subsec. (c) which related to bonds or stipulations.
+Subsec. (c). Pub. L. 114–81, § 107(3)(A), struck out subsec. (c) which related to bonds or stipulations.
 
-## § 971g. Cooperation in carrying out Convention
+## § 971g. Cooperation in carrying out Convention
 
 **(a) Federal and State agencies; private institutions and organizations**
 
@@ -477,7 +477,7 @@ If a State requests the opportunity for an agency hearing on the record, the Sec
 
 To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
-(Pub. L. 94–70, § 9, Aug. 5, 1975, 89 Stat. 392.)
+(Pub. L. 94–70, § 9, Aug. 5, 1975, 89 Stat. 392.)
 
 **Executive Documents**
 
@@ -485,7 +485,7 @@ To insure that the purposes of subsection (d) are carried out, the Secretary sha
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 971h. Authorization of appropriations
+## § 971h. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to the Secretary to carry out this chapter, including use for payment of the United States share of the joint expenses of the Commission as provided in Article X of the Convention—
 
@@ -501,9 +501,9 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 **(2)** $7,500,000 are authorized for research activities under this chapter and section 971i of this title, of which $3,000,000 shall be for the cooperative research program under section 971i(b)(2)(H) of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 94–70, § 10, Aug. 5, 1975, 89 Stat. 393; Pub. L. 95–33, § 1, May 26, 1977, 91 Stat. 173; Pub. L. 96–339, § 1(2), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 98–44, title I, § 101, July 12, 1983, 97 Stat. 216; Pub. L. 99–659, title IV, § 404, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title II, § 208, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title III, § 307, Nov. 3, 1995, 109 Stat. 386; Pub. L. 105–384, title II, § 202(a), Nov. 13, 1998, 112 Stat. 3452; Pub. L. 107–372, title III, § 304, Dec. 19, 2002, 116 Stat. 3095; Pub. L. 109–479, title IV, § 405(a), Jan. 12, 2007, 120 Stat. 3633.)
+(Pub. L. 94–70, § 10, Aug. 5, 1975, 89 Stat. 393; Pub. L. 95–33, § 1, May 26, 1977, 91 Stat. 173; Pub. L. 96–339, § 1(2), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 98–44, title I, § 101, July 12, 1983, 97 Stat. 216; Pub. L. 99–659, title IV, § 404, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title II, § 208, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title III, § 307, Nov. 3, 1995, 109 Stat. 386; Pub. L. 105–384, title II, § 202(a), Nov. 13, 1998, 112 Stat. 3452; Pub. L. 107–372, title III, § 304, Dec. 19, 2002, 116 Stat. 3095; Pub. L. 109–479, title IV, § 405(a), Jan. 12, 2007, 120 Stat. 3633.)
 
 **Editorial Notes**
 
@@ -531,7 +531,7 @@ Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the o
 
 1977—Pub. L. 95–33 authorized appropriations for fiscal years 1978 through 1980.
 
-## § 971i. Research on Atlantic highly migratory species
+## § 971i. Research on Atlantic highly migratory species
 
 **(a) Omitted**
 
@@ -573,7 +573,7 @@ Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the o
 
 **(D)** through the Secretary of State, encourage other member nations to adopt a similar program.
 
-(Pub. L. 96–339, § 3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, § 302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, § 202(b)(2), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 109–479, title IV, § 405(b), Jan. 12, 2007, 120 Stat. 3633.)
+(Pub. L. 96–339, § 3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, § 302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, § 202(b)(2), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 109–479, title IV, § 405(b), Jan. 12, 2007, 120 Stat. 3633.)
 
 **Editorial Notes**
 
@@ -595,15 +595,15 @@ Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 whi
 
 1995—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”, and added subsec. (b).
 
-## § 971j. Repealed. Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658
+## § 971j. Repealed. Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658
 
-Section, Pub. L. 94–70, § 11, as added Pub. L. 104–43, title III, § 308, Nov. 3, 1995, 109 Stat. 386; amended Pub. L. 105–384, title II, § 202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453, required the Secretary to submit an annual report.
+Section, Pub. L. 94–70, § 11, as added Pub. L. 104–43, title III, § 308, Nov. 3, 1995, 109 Stat. 386; amended Pub. L. 105–384, title II, § 202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453, required the Secretary to submit an annual report.
 
-## § 971k. Savings clause
+## § 971k. Savings clause
 
 Nothing in this chapter shall have the effect of diminishing the rights and obligations of any Nation under Article VIII(3) of the Convention.
 
-(Pub. L. 94–70, § 11, formerly § 12, as added Pub. L. 104–43, title III, § 308, Nov. 3, 1995, 109 Stat. 387; amended Pub. L. 105–384, title II, § 202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453; renumbered § 11, Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 94–70, § 11, formerly § 12, as added Pub. L. 104–43, title III, § 308, Nov. 3, 1995, 109 Stat. 387; amended Pub. L. 105–384, title II, § 202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453; renumbered § 11, Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
@@ -611,7 +611,7 @@ Nothing in this chapter shall have the effect of diminishing the rights and obli
 
 A prior section 11 of Pub. L. 94–70 was renumbered section 12 and is set out as a Separability note under section 971 of this title.
 
-Another prior section 11 of Pub. L. 94–70 was classified to section 971j of this title, prior to repeal by Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.
+Another prior section 11 of Pub. L. 94–70 was classified to section 971j of this title, prior to repeal by Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.
 
 **Amendments**
 

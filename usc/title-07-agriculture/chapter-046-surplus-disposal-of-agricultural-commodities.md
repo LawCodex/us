@@ -15,25 +15,25 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—SURPLUS DISPOSAL OF AGRICULTURAL COMMODITIES
 
-## §§ 1851, 1852. Repealed. Pub. L. 104–127, title II, §§ 274, 275, Apr. 4, 1996, 110 Stat. 976
+## §§ 1851, 1852. Repealed. Pub. L. 104–127, title II, §§ 274, 275, Apr. 4, 1996, 110 Stat. 976
 
-Section 1851, acts May 28, 1956, ch. 327, title II, § 201, 70 Stat. 198; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1576, 104 Stat. 3702, related to disposal of stocks by Commodity Credit Corporation.
+Section 1851, acts May 28, 1956, ch. 327, title II, § 201, 70 Stat. 198; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1576, 104 Stat. 3702, related to disposal of stocks by Commodity Credit Corporation.
 
-Section 1852, acts May 28, 1956, ch. 327, title II, § 202, 70 Stat. 199; Dec. 8, 1994, Pub. L. 103–465, title IV, § 401(b)(1), 108 Stat. 4957, related to sale for export of domestically produced extra long staple cotton.
+Section 1852, acts May 28, 1956, ch. 327, title II, § 202, 70 Stat. 199; Dec. 8, 1994, Pub. L. 103–465, title IV, § 401(b)(1), 108 Stat. 4957, related to sale for export of domestically produced extra long staple cotton.
 
-## § 1852a. Repealed. Pub. L. 90–475, § 8, Aug. 11, 1968, 82 Stat. 703
+## § 1852a. Repealed. Pub. L. 90–475, § 8, Aug. 11, 1968, 82 Stat. 703
 
-Section, Pub. L. 88–638, § 3, Oct. 8, 1964, 78 Stat. 1038, authorized Commodity Credit Corporation to encourage export sales of extra long staple cotton which is in surplus supply at competitive world prices.
+Section, Pub. L. 88–638, § 3, Oct. 8, 1964, 78 Stat. 1038, authorized Commodity Credit Corporation to encourage export sales of extra long staple cotton which is in surplus supply at competitive world prices.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 90–475, § 8, Aug. 11, 1968, 82 Stat. 703, provided that the repeal of this section is effective Aug. 1, 1968.
+Pub. L. 90–475, § 8, Aug. 11, 1968, 82 Stat. 703, provided that the repeal of this section is effective Aug. 1, 1968.
 
-## § 1853. Repealed. Pub. L. 103–465, title IV, § 412(c), Dec. 8, 1994, 108 Stat. 4964
+## § 1853. Repealed. Pub. L. 103–465, title IV, § 412(c), Dec. 8, 1994, 108 Stat. 4964
 
-Section, act May 28, 1956, ch. 327, title II, § 203, 70 Stat. 199, provided for an export sales program for cotton.
+Section, act May 28, 1956, ch. 327, title II, § 203, 70 Stat. 199, provided for an export sales program for cotton.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,11 +41,11 @@ Section, act May 28, 1956, ch. 327, title II, § 203, 70 Stat. 199, provided f
 
 Repeal effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
-## § 1854. Agreements limiting imports
+## § 1854. Agreements limiting imports
 
 The President may, whenever he determines such action appropriate, negotiate with representatives of foreign governments in an effort to obtain agreements limiting the export from such countries and the importation into the United States of any agricultural commodity or product manufactured therefrom or textiles or textile products, and the President is authorized to issue regulations governing the entry or withdrawal from warehouse of any such commodity, product, textiles, or textile products to carry out any such agreement. In addition, if a multilateral agreement, including but not limited to the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of title 19, has been or is concluded under the authority of this section among countries accounting for a significant part of world trade in the articles with respect to which the agreement was concluded, the President may also issue, in order to carry out such agreement, regulations governing the entry or withdrawal from warehouse of the same articles which are the products of countries not parties to the agreement, or countries to which the United States does not apply the agreement. Nothing herein shall affect the authority provided under section 624 of this title.
 
-(May 28, 1956, ch. 327, title II, § 204, 70 Stat. 200; Pub. L. 87–488, June 19, 1962, 76 Stat. 104; Pub. L. 103–465, title III, § 332, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, § 20(c)(8), Oct. 11, 1996, 110 Stat. 3528.)
+(May 28, 1956, ch. 327, title II, § 204, 70 Stat. 200; Pub. L. 87–488, June 19, 1962, 76 Stat. 104; Pub. L. 103–465, title III, § 332, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, § 20(c)(8), Oct. 11, 1996, 110 Stat. 3528.)
 
 **Editorial Notes**
 
@@ -153,33 +153,33 @@ Sec. 4. This order shall be effective upon its publication in the Federal Regist
 
 Ronald Reagan.
 
-## § 1855. Supplemental appropriations to encourage exportation and domestic consumption of agricultural products
+## § 1855. Supplemental appropriations to encourage exportation and domestic consumption of agricultural products
 
 There is hereby authorized to be appropriated for each fiscal year, beginning with the fiscal year ending June 30, 1957, the sum of $500,000,000 to enable the Secretary of Agriculture to further carry out the provisions of section 612c of this title, subject to all provisions of law relating to the expenditure of funds appropriated by such section, except that up to 50 per centum of such $500,000,000 may be devoted during any fiscal year to any one agricultural commodity or the products thereof.
 
-(May 28, 1956, ch. 327, title II, § 205, 70 Stat. 200.)
+(May 28, 1956, ch. 327, title II, § 205, 70 Stat. 200.)
 
-## § 1856. Transfer of bartered materials to supplemental stockpile; limitation of acquisition to certain programs; authorization of appropriations
+## § 1856. Transfer of bartered materials to supplemental stockpile; limitation of acquisition to certain programs; authorization of appropriations
 
-**(a)** Strategic and other materials acquired by the Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products, unless acquired for the national stockpile established pursuant to the Strategic and Critical Materials Stock Piling Act [50 U.S.C. 98 et seq.], or for other purposes shall be transferred to the supplemental stockpile established by section 1704(b) 1
+**(a)** Strategic and other materials acquired by the Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products, unless acquired for the national stockpile established pursuant to the Strategic and Critical Materials Stock Piling Act [50 U.S.C. 98 et seq.], or for other purposes shall be transferred to the supplemental stockpile established by section 1704(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; but no strategic or critical material shall be acquired by the Commodity Credit Corporation as a result of such barter or exchange except for such national stockpile, for such supplemental stockpile, for foreign economic or military aid or assistance programs, or for offshore construction programs, or to meet requirements of Government agencies.
 
-**(b)** Repealed. Pub. L. 87–456, title III, § 303(c), May 24, 1962, 76 Stat. 78.
+**(b)** Repealed. Pub. L. 87–456, title III, § 303(c), May 24, 1962, 76 Stat. 78.
 
 **(c)** In order to reimburse the Commodity Credit Corporation for materials transferred to the supplemental stockpile there are hereby authorized to be appropriated amounts equal to the value of any materials so transferred. The value of any such material for the purpose of this subsection, shall be the lower of the domestic market price or the Commodity Credit Corporation’s investment therein as of the date of such transfer as determined by the Secretary of Agriculture.
 
-(May 28, 1956, ch. 327, title II, § 206, 70 Stat. 200; Pub. L. 85–931, § 7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, § 204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, § 303(c), May 24, 1962, 76 Stat. 78; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(I), June 18, 2008, 122 Stat. 1820.)
+(May 28, 1956, ch. 327, title II, § 206, 70 Stat. 200; Pub. L. 85–931, § 7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, § 204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, § 303(c), May 24, 1962, 76 Stat. 78; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(I), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-Section 1704(b) of this title, referred to in subsec. (a), was amended generally by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
+Section 1704(b) of this title, referred to in subsec. (a), was amended generally by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
 
 **Amendments**
 
@@ -201,19 +201,19 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
 
-## § 1857. Repealed. Pub. L. 104–127, title II, § 274, Apr. 4, 1996, 110 Stat. 976
+## § 1857. Repealed. Pub. L. 104–127, title II, § 274, Apr. 4, 1996, 110 Stat. 976
 
-Section, acts May 28, 1956, ch. 327, title II, § 207, 70 Stat. 200; Oct. 11, 1962, Pub. L. 87–793, § 607(a)(6), 76 Stat. 849, related to appointment and duties of surplus disposal administrator.
+Section, acts May 28, 1956, ch. 327, title II, § 207, 70 Stat. 200; Oct. 11, 1962, Pub. L. 87–793, § 607(a)(6), 76 Stat. 849, related to appointment and duties of surplus disposal administrator.
 
-## § 1858. Repealed. Pub. L. 89–544, § 8(a), Sept. 6, 1966, 80 Stat. 658
+## § 1858. Repealed. Pub. L. 89–544, § 8(a), Sept. 6, 1966, 80 Stat. 658
 
-Section, act May 28, 1956, ch. 327, title II, § 209, 70 Stat. 201, established a bipartisan Commission on Increased Industrial Use of Agricultural Products.
+Section, act May 28, 1956, ch. 327, title II, § 209, 70 Stat. 201, established a bipartisan Commission on Increased Industrial Use of Agricultural Products.
 
-## § 1859. Donation to penal and correctional institutions
+## § 1859. Donation to penal and correctional institutions
 
 Notwithstanding any other limitations as to the disposal of surplus commodities acquired through price support operations, the Commodity Credit Corporation is authorized on such terms and under such regulations as the Secretary of Agriculture may deem in the public interest, and upon application, to donate food commodities acquired through price support operations to Federal penal and correctional institutions, and to State correctional institutions for minors, other than those in which food service is provided for inmates on a fee, contract, or concession basis.
 
-(May 28, 1956, ch. 327, title II, § 210, 70 Stat. 202.)
+(May 28, 1956, ch. 327, title II, § 210, 70 Stat. 202.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -221,7 +221,7 @@ Notwithstanding any other limitations as to the disposal of surplus commodities 
 
 Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase and donate flour and cornmeal when it has wheat or corn available for donation pursuant to this section, see note set out under section 1431 of this title.
 
-## § 1860. Federal irrigation, drainage, and flood-control projects
+## § 1860. Federal irrigation, drainage, and flood-control projects
 
 **(a) Restriction on crop loans or farm payments or benefits**
 
@@ -239,14 +239,14 @@ On or before October 1 of each year, the Secretary of Agriculture shall determin
 
 For the purposes of this section the term “Federal irrigation or drainage project” means any irrigation or drainage project subject to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto) in effect at the date of the adoption of this amendment and any irrigation or drainage project subject to the laws relating to irrigation and drainage administered by the Department of Agriculture or the Secretary of Agriculture.
 
-(May 28, 1956, ch. 327, title II, § 211, 70 Stat. 202.)
+(May 28, 1956, ch. 327, title II, § 211, 70 Stat. 202.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The soil-bank provisions of this Act, referred to in subsec. (c), probably means those provisions of act May 28, 1956, ch. 327, known as the Agricultural Act of 1956, which enacted the Soil Bank Act, and which were classified to subchapters I to III (§ 1801 et seq.) of chapter 45 of this title. The Soil Bank Act was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of the Soil Bank Act to the Code prior to repeal, see Tables.
+The soil-bank provisions of this Act, referred to in subsec. (c), probably means those provisions of act May 28, 1956, ch. 327, known as the Agricultural Act of 1956, which enacted the Soil Bank Act, and which were classified to subchapters I to III (§ 1801 et seq.) of chapter 45 of this title. The Soil Bank Act was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of the Soil Bank Act to the Code prior to repeal, see Tables.
 
-Act of June 17, 1902, referred to in subsec. (d), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in subsec. (d), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 The date of the adoption of this amendment, referred to in subsec. (d), probably means the date of enactment of the Agricultural Act of 1956, which was May 28, 1956.

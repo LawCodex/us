@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2001—Pub. L. 107–56, title III, § 373(c), Oct. 26, 2001, 115 Stat. 340, substituted “unlicensed” for “illegal” in item 1960.
+2001—Pub. L. 107–56, title III, § 373(c), Oct. 26, 2001, 115 Stat. 340, substituted “unlicensed” for “illegal” in item 1960.
 
-1992—Pub. L. 102–550, title XV, § 1512(b), Oct. 28, 1992, 106 Stat. 4058, added item 1960.
+1992—Pub. L. 102–550, title XV, § 1512(b), Oct. 28, 1992, 106 Stat. 4058, added item 1960.
 
-1988—Pub. L. 100–690, title VII, § 7053(c), Nov. 18, 1988, 102 Stat. 4402, redesignated items 1952A and 1952B as 1958 and 1959, respectively, and transferred them to the end of the table of sections.
+1988—Pub. L. 100–690, title VII, § 7053(c), Nov. 18, 1988, 102 Stat. 4402, redesignated items 1952A and 1952B as 1958 and 1959, respectively, and transferred them to the end of the table of sections.
 
-1986—Pub. L. 99–570, title I, § 1352(b), Oct. 27, 1986, 100 Stat. 3207–21, added items 1956 and 1957.
+1986—Pub. L. 99–570, title I, § 1352(b), Oct. 27, 1986, 100 Stat. 3207–21, added items 1956 and 1957.
 
-1984—Pub. L. 98–473, title II, § 1002(b), Oct. 12, 1984, 98 Stat. 2137, added items 1952A and 1952B.
+1984—Pub. L. 98–473, title II, § 1002(b), Oct. 12, 1984, 98 Stat. 2137, added items 1952A and 1952B.
 
-1970—Pub. L. 91–452, title VIII, § 803(b), Oct. 15, 1970, 84 Stat. 938, added item 1955.
+1970—Pub. L. 91–452, title VIII, § 803(b), Oct. 15, 1970, 84 Stat. 938, added item 1955.
 
-1962—Pub. L. 87–420, § 17(f), Mar. 20, 1962, 76 Stat. 43, added item 1954.
+1962—Pub. L. 87–420, § 17(f), Mar. 20, 1962, 76 Stat. 43, added item 1954.
 
-1961—Pub. L. 87–228, § 1(b), Sept. 13, 1961, 75 Stat. 499, added item 1952.
+1961—Pub. L. 87–228, § 1(b), Sept. 13, 1961, 75 Stat. 499, added item 1952.
 
-Pub. L. 87–218, § 1, Sept. 13, 1961, 75 Stat. 492, added item 1953.
+Pub. L. 87–218, § 1, Sept. 13, 1961, 75 Stat. 492, added item 1953.
 
-## § 1951. Interference with commerce by threats or violence
+## § 1951. Interference with commerce by threats or violence
 
 **(a)** Whoever in any way or degree obstructs, delays, or affects commerce or the movement of any article or commodity in commerce, by robbery or extortion or attempts or conspires so to do, or commits or threatens physical violence to any person or property in furtherance of a plan or purpose to do anything in violation of this section shall be fined under this title or imprisoned not more than twenty years, or both.
 
@@ -51,11 +51,11 @@ Pub. L. 87–218, § 1, Sept. 13, 1961, 75 Stat. 492, added item 1953.
 
 **(c)** This section shall not be construed to repeal, modify or affect section 17 of Title 15, sections 52, 101–115, 151–166 of Title 29 or sections 151–188 of Title 45.
 
-(June 25, 1948, ch. 645, 62 Stat. 793; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 793; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 420a–420e–1 (June 18, 1934, ch. 569, §§ 1–6, 48 Stat. 979, 980; July 3, 1946, ch. 537, 60 Stat. 420).
+Based on title 18, U.S.C., 1940 ed., §§ 420a–420e–1 (June 18, 1934, ch. 569, §§ 1–6, 48 Stat. 979, 980; July 3, 1946, ch. 537, 60 Stat. 420).
 
 Section consolidates sections 420a to 420e–1 of Title 18, U.S.C., 1940 ed., with changes in phraseology and arrangement necessary to effect consolidation.
 
@@ -73,11 +73,11 @@ Words “shall, upon conviction thereof,” were omitted as surplusage, since pu
 
 Sections 101–115 of Title 29, referred to in subsec. (c), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 29, Labor, and Tables.
 
-Section 11 of that act, formerly classified to section 111 of Title 29, was repealed and reenacted as section 3692 of this title by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
+Section 11 of that act, formerly classified to section 111 of Title 29, was repealed and reenacted as section 3692 of this title by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and is covered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
 
-Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, § 4, 54 Stat. 1111.
+Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, § 4, 54 Stat. 1111.
 
 Section 186 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was omitted from the Code.
 
@@ -91,7 +91,7 @@ Section 186 of Title 45, included within the reference in subsec. (c) to section
 
 This section is popularly known as the “Hobbs Act”.
 
-## § 1952. Interstate and foreign travel or transportation in aid of racketeering enterprises
+## § 1952. Interstate and foreign travel or transportation in aid of racketeering enterprises
 
 **(a)** Whoever travels in interstate or foreign commerce or uses the mail or any facility in interstate or foreign commerce, with intent to—
 
@@ -125,7 +125,7 @@ and thereafter performs or attempts to perform—
 
 **(C)** the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
 
-(Added Pub. L. 87–228, § 1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, § 701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, § 1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, § 1205(i), title XVI, § 1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, § 140007(a), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, § 1112(h), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 112–186, § 4(b)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 113–251, § 5(1), Dec. 18, 2014, 128 Stat. 2890.)
+(Added Pub. L. 87–228, § 1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, § 701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, § 1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, § 1205(i), title XVI, § 1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, § 140007(a), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, § 1112(h), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 112–186, § 4(b)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 113–251, § 5(1), Dec. 18, 2014, 128 Stat. 2890.)
 
 **Editorial Notes**
 
@@ -141,19 +141,19 @@ Section 102(6) of the Controlled Substances Act, referred to in subsec. (b)(i)(1
 
 2002—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
 
-1994—Pub. L. 103–322, § 330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 140007(a). See below.
+1994—Pub. L. 103–322, § 330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 140007(a). See below.
 
-Subsec. (a). Pub. L. 103–322, § 140007(a), substituted “and thereafter performs or attempts to perform—” and subpars. (A) and (B) for former concluding provisions which read as follows: “and thereafter performs or attempts to perform any of the acts specified in subparagraphs (1), (2), and (3), shall be fined not more than $10,000 or imprisoned for not more than five years, or both.”
+Subsec. (a). Pub. L. 103–322, § 140007(a), substituted “and thereafter performs or attempts to perform—” and subpars. (A) and (B) for former concluding provisions which read as follows: “and thereafter performs or attempts to perform any of the acts specified in subparagraphs (1), (2), and (3), shall be fined not more than $10,000 or imprisoned for not more than five years, or both.”
 
-1990—Subsec. (a). Pub. L. 101–647, § 1604, inserted “the mail or” after “uses” and struck out “including the mail,” before “with intent” in introductory provisions.
+1990—Subsec. (a). Pub. L. 101–647, § 1604, inserted “the mail or” after “uses” and struck out “including the mail,” before “with intent” in introductory provisions.
 
-Subsec. (b). Pub. L. 101–647, § 1205(i), inserted “(i)” after “As used in this section” and added cl. (ii).
+Subsec. (b). Pub. L. 101–647, § 1205(i), inserted “(i)” after “As used in this section” and added cl. (ii).
 
 1986—Subsec. (b)(3). Pub. L. 99–570 added cl. (3).
 
-1970—Subsec. (b)(1). Pub. L. 91–513, § 701(i)(2)(A), inserted “or controlled substances (as defined in section 102(6) of the Controlled Substances Act)”.
+1970—Subsec. (b)(1). Pub. L. 91–513, § 701(i)(2)(A), inserted “or controlled substances (as defined in section 102(6) of the Controlled Substances Act)”.
 
-Subsec. (c). Pub. L. 91–513, § 701(i)(2)(B), struck out reference to investigations involving narcotics.
+Subsec. (c). Pub. L. 91–513, § 701(i)(2)(B), struck out reference to investigations involving narcotics.
 
 1965—Subsec. (b)(2). Pub. L. 89–68 made section applicable to travel in aid of arson.
 
@@ -175,11 +175,11 @@ This section is popularly known as the “Travel Act”.
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the former Bureau of Narcotics and Dangerous Drugs on Oct. 27, 1970, were to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a Savings Provision note under section 321 of Title 21, Food and Drugs.
 
-## [§ 1952A. Renumbered § 1958]
+## [§ 1952A. Renumbered § 1958]
 
-## [§ 1952B. Renumbered § 1959]
+## [§ 1952B. Renumbered § 1959]
 
-## § 1953. Interstate transportation of wagering paraphernalia
+## § 1953. Interstate transportation of wagering paraphernalia
 
 **(a)** Whoever, except a common carrier in the usual course of its business, knowingly carries or sends in interstate or foreign commerce any record, paraphernalia, ticket, certificate, bills, slip, token, paper, writing, or other device used, or to be used, or adapted, devised, or designed for use in (a) bookmaking; or (b) wagering pools with respect to a sporting event; or (c) in a numbers, policy, bolita, or similar game shall be fined under this title or imprisoned for not more than five years or both.
 
@@ -205,15 +205,15 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any vi
 
 **(6)** the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-(Added Pub. L. 87–218, § 1, Sept. 13, 1961, 75 Stat. 492; amended Pub. L. 93–583, § 3, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 96–90, § 2, Oct. 23, 1979, 93 Stat. 698; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 113–251, § 5(2), Dec. 18, 2014, 128 Stat. 2891.)
+(Added Pub. L. 87–218, § 1, Sept. 13, 1961, 75 Stat. 492; amended Pub. L. 93–583, § 3, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 96–90, § 2, Oct. 23, 1979, 93 Stat. 698; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 113–251, § 5(2), Dec. 18, 2014, 128 Stat. 2891.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–251, § 5(2)(A), substituted “(5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6)” for “or (5)”.
+2014—Subsec. (b). Pub. L. 113–251, § 5(2)(A), substituted “(5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6)” for “or (5)”.
 
-Subsecs. (d), (e). Pub. L. 113–251, § 5(2)(B), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
+Subsecs. (d), (e). Pub. L. 113–251, § 5(2)(B), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
 
 “(d) For the purposes of this section (1) ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and (2) ‘foreign country’ means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions).
 
@@ -221,13 +221,13 @@ Subsecs. (d), (e). Pub. L. 113–251, § 5(2)(B), added subsec. (d) and struck
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1979—Subsec. (b)(5). Pub. L. 96–90, § 2(1), added cl. (5).
+1979—Subsec. (b)(5). Pub. L. 96–90, § 2(1), added cl. (5).
 
-Subsecs. (d), (e). Pub. L. 96–90, § 2(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 96–90, § 2(2), added subsecs. (d) and (e).
 
 1975—Subsec. (b)(4). Pub. L. 93–583 added cl. (4).
 
-## § 1954. Offer, acceptance, or solicitation to influence operations of employee benefit plan
+## § 1954. Offer, acceptance, or solicitation to influence operations of employee benefit plan
 
 Whoever being—
 
@@ -243,13 +243,13 @@ receives or agrees to receive or solicits any fee, kickback, commission, gift, l
 
 As used in this section, the term (a) “any employee welfare benefit plan” or “employee pension benefit plan” means any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974, and (b) “employee organization” and “administrator” as defined respectively in sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 87–420, § 17(e), Mar. 20, 1962, 76 Stat. 42; amended Pub. L. 91–452, title II, § 225, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–406, title I, § 112(a)(2)(C), formerly § 111(a)(2)(C), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(C), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–420, § 17(e), Mar. 20, 1962, 76 Stat. 42; amended Pub. L. 91–452, title II, § 225, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–406, title I, § 112(a)(2)(C), formerly § 111(a)(2)(C), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(C), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974, referred to in text, is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974, referred to in text, is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 3(4) of the Employee Retirement Income Security Act of 1974, referred to in text, is classified to section 1002(4) of Title 29.
 
@@ -259,7 +259,7 @@ Section (3)(16) of the Employee Retirement Income Security Act of 1974, referred
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-1974—Pub. L. 93–406, § 112(a)(2)(C), formerly § 111(a)(2)(C), as renumbered by Pub. L. 117–328, substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
+1974—Pub. L. 93–406, § 112(a)(2)(C), formerly § 111(a)(2)(C), as renumbered by Pub. L. 117–328, substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
 
 1970—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec. (b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–420, set out as a note under section 664 of this title.
 
-## § 1955. Prohibition of illegal gambling businesses
+## § 1955. Prohibition of illegal gambling businesses
 
 **(a)** Whoever conducts, finances, manages, supervises, directs, or owns all or part of an illegal gambling business shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -315,7 +315,7 @@ Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–42
 
 **(2)** any savings promotion raffle.
 
-(Added Pub. L. 91–452, title VIII, § 803(a), Oct. 15, 1970, 84 Stat. 937; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 113–251, § 5(3), Dec. 18, 2014, 128 Stat. 2891.)
+(Added Pub. L. 91–452, title VIII, § 803(a), Oct. 15, 1970, 84 Stat. 937; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 113–251, § 5(3), Dec. 18, 2014, 128 Stat. 2891.)
 
 **Editorial Notes**
 
@@ -325,15 +325,15 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 
 **Amendments**
 
-2014—Subsec. (b)(2), (3). Pub. L. 113–251, § 5(3)(A)(iii), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (6), respectively.
+2014—Subsec. (b)(2), (3). Pub. L. 113–251, § 5(3)(A)(iii), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (6), respectively.
 
-Subsec. (b)(4). Pub. L. 113–251, § 5(3)(A)(i), redesignated par. (2) as (4).
+Subsec. (b)(4). Pub. L. 113–251, § 5(3)(A)(i), redesignated par. (2) as (4).
 
-Subsec. (b)(5). Pub. L. 113–251, § 5(3)(A)(iv), added par. (5).
+Subsec. (b)(5). Pub. L. 113–251, § 5(3)(A)(iv), added par. (5).
 
-Subsec. (b)(6). Pub. L. 113–251, § 5(3)(A)(ii), redesignated par. (3) as (6).
+Subsec. (b)(6). Pub. L. 113–251, § 5(3)(A)(ii), redesignated par. (3) as (6).
 
-Subsec. (e). Pub. L. 113–251, § 5(3)(B), substituted “This section shall not apply to—” for “This section shall not apply to any bingo”, inserted “(1) any bingo” before “game,”, substituted “activity; or” for “activity.”, and added par. (2).
+Subsec. (e). Pub. L. 113–251, § 5(3)(B), substituted “This section shall not apply to—” for “This section shall not apply to any bingo”, inserted “(1) any bingo” before “game,”, substituted “activity; or” for “activity.”, and added par. (2).
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
 
@@ -343,7 +343,7 @@ Subsec. (e). Pub. L. 113–251, § 5(3)(B), substituted “This section shall 
 
 **National Gambling Impact Study Commission**
 
-Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, § 1, July 25, 1997, 111 Stat. 248, established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission’s findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
+Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, § 1, July 25, 1997, 111 Stat. 248, established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission’s findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
 
 **Priority of State Laws**
 
@@ -359,7 +359,7 @@ Sections 804–809 of Pub. L. 91–452 established Commission on Review of Natio
 
 Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 1956. Laundering of monetary instruments
+## § 1956. Laundering of monetary instruments
 
 **(a)**
 
@@ -463,9 +463,9 @@ conducts or attempts to conduct a financial transaction involving property repre
 
 **(ii)** murder, kidnapping, robbery, extortion, destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16);
 
-**(iii)** fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978)); 1
+**(iii)** fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978)); 1
 
-<sup>1</sup>  So in original. The second closing parenthesis probably should not appear.
+<sup>1</sup> So in original. The second closing parenthesis probably should not appear.
 
 **(iv)** bribery of a public official, or the misappropriation, theft, or embezzlement of public funds by or for the benefit of a public official;
 
@@ -481,15 +481,15 @@ conducts or attempts to conduct a financial transaction involving property repre
 
 **(C)** any act or acts constituting a continuing criminal enterprise, as that term is defined in section 408 of the Controlled Substances Act (21 U.S.C. 848);
 
-**(D)** an offense under section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member), section 152 (relating to concealment of assets; false oaths and claims; bribery), section 175c (relating to the variola virus), section 215 (relating to commissions or gifts for procuring loans), section 351 (relating to congressional or Cabinet officer assassination), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 541 (relating to goods falsely classified), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 554 (relating to smuggling goods from the United States), section 555 (relating to border tunnels), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce), section 875 (relating to interstate communications), section 922(*l*) (relating to the unlawful importation of firearms), section 924(n), 932, or 933 (relating to firearms trafficking), section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country), section 1005 (relating to fraudulent bank entries), 1006 2
+**(D)** an offense under section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member), section 152 (relating to concealment of assets; false oaths and claims; bribery), section 175c (relating to the variola virus), section 215 (relating to commissions or gifts for procuring loans), section 351 (relating to congressional or Cabinet officer assassination), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 541 (relating to goods falsely classified), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 554 (relating to smuggling goods from the United States), section 555 (relating to border tunnels), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce), section 875 (relating to interstate communications), section 922(*l*) (relating to the unlawful importation of firearms), section 924(n), 932, or 933 (relating to firearms trafficking), section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country), section 1005 (relating to fraudulent bank entries), 1006 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
-(relating to fraudulent Federal credit institution entries), 1007 2 (relating to Federal Deposit Insurance transactions), 1014 2 (relating to fraudulent loan or credit applications), section 1030 (relating to computer fraud and abuse), 1032 2 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction), section 1708 (theft from the mail), section 1751 (relating to Presidential assassination), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduct, section 2260 (production of certain child pornography for importation into the United States), section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms), section 2319 (relating to copyright infringement), section 2320 (relating to trafficking in counterfeit goods and services), section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), section 2332g (relating to missile systems designed to destroy aircraft), section 2332h (relating to radiological dispersal devices), section 2339A or 2339B (relating to providing material support to terrorists), section 2339C (relating to financing of terrorism), or section 2339D (relating to receiving military-type training from a foreign terrorist organization) of this title, section 46502 of title 49, United States Code, a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 3
+(relating to fraudulent Federal credit institution entries), 1007 2 (relating to Federal Deposit Insurance transactions), 1014 2 (relating to fraudulent loan or credit applications), section 1030 (relating to computer fraud and abuse), 1032 2 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction), section 1708 (theft from the mail), section 1751 (relating to Presidential assassination), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduct, section 2260 (production of certain child pornography for importation into the United States), section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms), section 2319 (relating to copyright infringement), section 2320 (relating to trafficking in counterfeit goods and services), section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), section 2332g (relating to missile systems designed to destroy aircraft), section 2332h (relating to radiological dispersal devices), section 2339A or 2339B (relating to providing material support to terrorists), section 2339C (relating to financing of terrorism), or section 2339D (relating to receiving military-type training from a foreign terrorist organization) of this title, section 46502 of title 49, United States Code, a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
-(relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food and Nutrition Act of 2008 (relating to supplemental nutrition assistance program benefits fraud) involving a quantity of benefits having a value of not less than $5,000, any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming), any felony violation of the Foreign Agents Registration Act of 1938, any felony violation of the Foreign Corrupt Practices Act, section 92 of the Atomic Energy Act of 1954 (42 U.S.C. 2122) (relating to prohibitions governing atomic weapons), or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 3 (relating to prohibited activities with respect to North Korea);
+(relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food and Nutrition Act of 2008 (relating to supplemental nutrition assistance program benefits fraud) involving a quantity of benefits having a value of not less than $5,000, any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming), any felony violation of the Foreign Agents Registration Act of 1938, any felony violation of the Foreign Corrupt Practices Act, section 92 of the Atomic Energy Act of 1954 (42 U.S.C. 2122) (relating to prohibitions governing atomic weapons), or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 3 (relating to prohibited activities with respect to North Korea);
 
 environmental crimes
 
@@ -531,7 +531,7 @@ environmental crimes
 
 **(j) Seven-year Limitation.—** Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for a violation of this section or section 1957 if the specified unlawful activity constituting the violation is the activity defined in subsection (c)(7)(B) of this section, unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
 
-(Added Pub. L. 99–570, title I, § 1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§ 6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, § 7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§ 105–108, title XII, § 1205(j), title XIV, §§ 1402, 1404, title XXV, § 2506, title XXXV, § 3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§ 1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, § 320104(b), title XXXIII, §§ 330008(2), 330011(*l*), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§ 411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, § 726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, § 246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§ 601(f)(6), 604(b)(38), Oct. 11, 1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, § 709(a), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–56, title III, §§ 315, 317, 318, 376, title VIII, § 805(b), title X, § 1004, Oct. 26, 2001, 115 Stat. 308, 310, 311, 342, 378, 392; Pub. L. 107–273, div. B, title IV, §§ 4002(a)(11), (b)(5), (c)(2), 4005(d)(1), (e), Nov. 2, 2002, 116 Stat. 1807, 1809, 1812, 1813; Pub. L. 108–458, title VI, § 6909, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–164, title I, § 103(b), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title III, § 311(c), title IV, §§ 403(b), (c)(1), 405, 406(a)(2), 409, Mar. 9, 2006, 120 Stat. 242–244, 246; Pub. L. 110–234, title IV, §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870; Pub. L. 110–358, title II, § 202, Oct. 8, 2008, 122 Stat. 4003; Pub. L. 111–21, § 2(f)(1), May 20, 2009, 123 Stat. 1618; Pub. L. 112–127, § 6, June 5, 2012, 126 Stat. 371; Pub. L. 114–122, title I, § 105(c), Feb. 18, 2016, 130 Stat. 101; Pub. L. 114–231, title V, § 502, Oct. 7, 2016, 130 Stat. 956; Pub. L. 117–159, div. A, title II, § 12004(a)(4), June 25, 2022, 136 Stat. 1328; Pub. L. 117–263, div. E, title LIX, § 5904(a), Dec. 23, 2022, 136 Stat. 3441.)
+(Added Pub. L. 99–570, title I, § 1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§ 6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, § 7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§ 105–108, title XII, § 1205(j), title XIV, §§ 1402, 1404, title XXV, § 2506, title XXXV, § 3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§ 1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, § 320104(b), title XXXIII, §§ 330008(2), 330011(*l*), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§ 411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, § 726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, § 246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§ 601(f)(6), 604(b)(38), Oct. 11, 1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, § 709(a), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–56, title III, §§ 315, 317, 318, 376, title VIII, § 805(b), title X, § 1004, Oct. 26, 2001, 115 Stat. 308, 310, 311, 342, 378, 392; Pub. L. 107–273, div. B, title IV, §§ 4002(a)(11), (b)(5), (c)(2), 4005(d)(1), (e), Nov. 2, 2002, 116 Stat. 1807, 1809, 1812, 1813; Pub. L. 108–458, title VI, § 6909, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–164, title I, § 103(b), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title III, § 311(c), title IV, §§ 403(b), (c)(1), 405, 406(a)(2), 409, Mar. 9, 2006, 120 Stat. 242–244, 246; Pub. L. 110–234, title IV, §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870; Pub. L. 110–358, title II, § 202, Oct. 8, 2008, 122 Stat. 4003; Pub. L. 111–21, § 2(f)(1), May 20, 2009, 123 Stat. 1618; Pub. L. 112–127, § 6, June 5, 2012, 126 Stat. 371; Pub. L. 114–122, title I, § 105(c), Feb. 18, 2016, 130 Stat. 101; Pub. L. 114–231, title V, § 502, Oct. 7, 2016, 130 Stat. 956; Pub. L. 117–159, div. A, title II, § 12004(a)(4), June 25, 2022, 136 Stat. 1328; Pub. L. 117–263, div. E, title LIX, § 5904(a), Dec. 23, 2022, 136 Stat. 3441.)
 
 **Editorial Notes**
 
@@ -541,13 +541,13 @@ Sections 7201 and 7206 of the Internal Revenue Code of 1986, referred to in subs
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§ 6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code, see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§ 6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code, see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 Section 38(c) of the Arms Export Control Act, referred to in subsec. (c)(7)(D), is classified to section 2778(c) of Title 22, Foreign Relations and Intercourse.
 
-Section 11 of the Export Administration Act of 1979, referred to in subsec. (c)(7)(D), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (c)(7)(D), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 Section 206 of the International Emergency Economic Powers Act, referred to in subsec. (c)(7)(D), is classified to section 1705 of Title 50.
 
@@ -557,21 +557,21 @@ Section 15 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(7)(
 
 Section 543(a)(1) of the Housing Act of 1949, referred to in subsec. (c)(7)(D), is classified to section 1490s(a)(1) of Title 42, The Public Health and Welfare.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (c)(7)(D), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§  611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (c)(7)(D), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Foreign Corrupt Practices Act, referred to in subsec. (c)(7)(D), probably means the Foreign Corrupt Practices Act of 1977, title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 Section 104(a) of the North Korea Sanctions Enforcement Act of 2016, referred to in subsec. (c)(7)(D), probably means section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, which is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Water Pollution Control Act, referred to in subsec. (c)(7)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (c)(7)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Ocean Dumping Act, referred to in subsec. (c)(7)(E), probably means title I of the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1053, which is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33. For complete classification of title I to the Code, see Tables.
+The Ocean Dumping Act, referred to in subsec. (c)(7)(E), probably means title I of the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1053, which is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33. For complete classification of title I to the Code, see Tables.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (c)(7)(E), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (c)(7)(E), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(7)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(7)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Resources Conservation and Recovery Act, referred to in subsec. (c)(7)(E), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of Title 42 and Tables.
+The Resources Conservation and Recovery Act, referred to in subsec. (c)(7)(E), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 6901 of Title 42 and Tables.
 
 **Codification**
 
@@ -583,7 +583,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (j). Pub. L. 117–263 added subsec. (j).
 
-2016—Subsec. (c)(7)(D). Pub. L. 114–122 substituted “section 92 of” for “or section 92 of” and inserted at end “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 (relating to prohibited activities with respect to North Korea);”.
+2016—Subsec. (c)(7)(D). Pub. L. 114–122 substituted “section 92 of” for “or section 92 of” and inserted at end “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 (relating to prohibited activities with respect to North Korea);”.
 
 Subsec. (c)(7)(G). Pub. L. 114–231 added subpar. (G).
 
@@ -593,169 +593,169 @@ Subsec. (c)(7)(G). Pub. L. 114–231 added subpar. (G).
 
 2008—Subsec. (c)(7)(D). Pub. L. 110–358 inserted “section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduct, section 2260 (production of certain child pornography for importation into the United States),” before “section 2280”.
 
-Pub. L. 110–246, § 4115(c)(1)(A)(i), (B)(ii), substituted “benefits” for “coupons”.
+Pub. L. 110–246, § 4115(c)(1)(A)(i), (B)(ii), substituted “benefits” for “coupons”.
 
-Pub. L. 110–246, § 4002(b)(1)(B), (D), (2)(M), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program benefits” for “food stamp”.
+Pub. L. 110–246, § 4002(b)(1)(B), (D), (2)(M), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program benefits” for “food stamp”.
 
-2006—Subsec. (a)(1). Pub. L. 109–177, § 405, inserted last sentence.
+2006—Subsec. (a)(1). Pub. L. 109–177, § 405, inserted last sentence.
 
-Subsec. (b)(3), (4)(A). Pub. L. 109–177, § 406(a)(2), struck out “described in paragraph (2)” after “A court”.
+Subsec. (b)(3), (4)(A). Pub. L. 109–177, § 406(a)(2), struck out “described in paragraph (2)” after “A court”.
 
 Subsec. (c)(7)(B)(vii). Pub. L. 109–164 added cl. (vii).
 
-Subsec. (c)(7)(D). Pub. L. 109–177, § 409, inserted “, section 2339C (relating to financing of terrorism), or section 2339D (relating to receiving military-type training from a foreign terrorist organization)” after “section 2339A or 2339B (relating to providing material support to terrorists)” and struck out “or” before “section 2339A or 2339B”.
+Subsec. (c)(7)(D). Pub. L. 109–177, § 409, inserted “, section 2339C (relating to financing of terrorism), or section 2339D (relating to receiving military-type training from a foreign terrorist organization)” after “section 2339A or 2339B (relating to providing material support to terrorists)” and struck out “or” before “section 2339A or 2339B”.
 
-Pub. L. 109–177, § 403(b), which directed amendment of subsec. (c)(7)(D) by substituting “any felony violation of the Foreign Corrupt Practices Act” for “or any felony violation of the Foreign Corrupt Practices Act”, could not be executed because of the amendment by Pub. L. 108–458, § 6909(3). See 2004 Amendment note below.
+Pub. L. 109–177, § 403(b), which directed amendment of subsec. (c)(7)(D) by substituting “any felony violation of the Foreign Corrupt Practices Act” for “or any felony violation of the Foreign Corrupt Practices Act”, could not be executed because of the amendment by Pub. L. 108–458, § 6909(3). See 2004 Amendment note below.
 
-Pub. L. 109–177, § 311(c), inserted “section 554 (relating to smuggling goods from the United States),” before “section 641 (relating to public money, property, or records),”.
+Pub. L. 109–177, § 311(c), inserted “section 554 (relating to smuggling goods from the United States),” before “section 641 (relating to public money, property, or records),”.
 
-Subsec. (e). Pub. L. 109–177, § 403(c)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General. Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Environmental Protection Agency.”
+Subsec. (e). Pub. L. 109–177, § 403(c)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General. Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Environmental Protection Agency.”
 
-2004—Subsec. (c)(7)(D). Pub. L. 108–458, § 6909(3), struck out “or” after “any felony violation of the Foreign Agents Registration Act of 1938,” and substituted “, or section 92 of the Atomic Energy Act of 1954 (42 U.S.C. 2122) (relating to prohibitions governing atomic weapons)” for semicolon at end.
+2004—Subsec. (c)(7)(D). Pub. L. 108–458, § 6909(3), struck out “or” after “any felony violation of the Foreign Agents Registration Act of 1938,” and substituted “, or section 92 of the Atomic Energy Act of 1954 (42 U.S.C. 2122) (relating to prohibitions governing atomic weapons)” for semicolon at end.
 
-Pub. L. 108–458, § 6909(2), which directed the insertion of “section 2332g (relating to missile systems designed to destroy aircraft), section 2332h (relating to radiological dispersal devices),” after “section 2332(b) (relating to international terrorist acts transcending national boundaries),” was executed by making the insertion after text which contained the words “section 2332b” rather than “section 2332(b)”, to reflect the probable intent of Congress.
+Pub. L. 108–458, § 6909(2), which directed the insertion of “section 2332g (relating to missile systems designed to destroy aircraft), section 2332h (relating to radiological dispersal devices),” after “section 2332(b) (relating to international terrorist acts transcending national boundaries),” was executed by making the insertion after text which contained the words “section 2332b” rather than “section 2332(b)”, to reflect the probable intent of Congress.
 
-Pub. L. 108–458, § 6909(1), inserted “section 175c (relating to the variola virus),” before “section 215”.
+Pub. L. 108–458, § 6909(1), inserted “section 175c (relating to the variola virus),” before “section 215”.
 
-2002—Subsec. (c)(6)(B). Pub. L. 107–273, § 4005(d)(1), substituted semicolon for period at end.
+2002—Subsec. (c)(6)(B). Pub. L. 107–273, § 4005(d)(1), substituted semicolon for period at end.
 
-Subsec. (c)(7)(B)(ii). Pub. L. 107–273, § 4002(b)(5)(A), realigned margins.
+Subsec. (c)(7)(B)(ii). Pub. L. 107–273, § 4002(b)(5)(A), realigned margins.
 
-Subsec. (c)(7)(D). Pub. L. 107–273, § 4005(e), repealed Pub. L. 107–56, § 805(b). See 2001 Amendment note below.
+Subsec. (c)(7)(D). Pub. L. 107–273, § 4005(e), repealed Pub. L. 107–56, § 805(b). See 2001 Amendment note below.
 
-Pub. L. 107–273, § 4002(c)(2), substituted “services),” for “services),,” and “Code,” for “Code,,”.
+Pub. L. 107–273, § 4002(c)(2), substituted “services),” for “services),,” and “Code,” for “Code,,”.
 
-Pub. L. 107–273, § 4002(b)(5)(B), struck out “or” at end.
+Pub. L. 107–273, § 4002(b)(5)(B), struck out “or” at end.
 
-Pub. L. 107–273, § 4002(a)(11), made technical corrections to directory language of Pub. L. 104–132, § 726(2). See 1996 Amendment note below.
+Pub. L. 107–273, § 4002(a)(11), made technical corrections to directory language of Pub. L. 104–132, § 726(2). See 1996 Amendment note below.
 
-Subsec. (c)(7)(E). Pub. L. 107–273, § 4002(b)(5)(C), substituted “; or” for period at end.
+Subsec. (c)(7)(E). Pub. L. 107–273, § 4002(b)(5)(C), substituted “; or” for period at end.
 
-Subsec. (c)(7)(F). Pub. L. 107–273, § 4002(b)(5)(D), substituted “any” for “Any” and semicolon for period at end.
+Subsec. (c)(7)(F). Pub. L. 107–273, § 4002(b)(5)(D), substituted “any” for “Any” and semicolon for period at end.
 
-2001—Subsec. (b). Pub. L. 107–56, § 317, inserted subsec. heading, designated existing provisions as par. (1), inserted heading and inserted “, or section 1957” after “or (a)(3)” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) to (4).
+2001—Subsec. (b). Pub. L. 107–56, § 317, inserted subsec. heading, designated existing provisions as par. (1), inserted heading and inserted “, or section 1957” after “or (a)(3)” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) to (4).
 
-Subsec. (c)(6). Pub. L. 107–56, § 318, added par. (6) and struck out former par. (6) which read as follows: “the term ‘financial institution’ has the definition given that term in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder;”.
+Subsec. (c)(6). Pub. L. 107–56, § 318, added par. (6) and struck out former par. (6) which read as follows: “the term ‘financial institution’ has the definition given that term in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder;”.
 
-Subsec. (c)(7)(B). Pub. L. 107–56, § 315(1), substituted “destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16)” for “or destruction of property by means of explosive or fire” in cl. (ii), inserted a closing parenthesis after “1978” in cl. (iii), and added cls. (iv) to (vi).
+Subsec. (c)(7)(B). Pub. L. 107–56, § 315(1), substituted “destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16)” for “or destruction of property by means of explosive or fire” in cl. (ii), inserted a closing parenthesis after “1978” in cl. (iii), and added cls. (iv) to (vi).
 
-Subsec. (c)(7)(D). Pub. L. 107–56, § 376, inserted “or 2339B” after “2339A”. Pub. L. 107–56, § 805(b), which amended subpar. (D) identically, was repealed by Pub. L. 107–273, § 4005(e).
+Subsec. (c)(7)(D). Pub. L. 107–56, § 376, inserted “or 2339B” after “2339A”. Pub. L. 107–56, § 805(b), which amended subpar. (D) identically, was repealed by Pub. L. 107–273, § 4005(e).
 
-Pub. L. 107–56, § 315(2), inserted “section 541 (relating to goods falsely classified),” before “section 542”, “section 922(*l*) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking),” before “section 956”, “section 1030 (relating to computer fraud and abuse),” before “1032”, and “any felony violation of the Foreign Agents Registration Act of 1938,” before “or any felony violation of the Foreign Corrupt Practices Act”.
+Pub. L. 107–56, § 315(2), inserted “section 541 (relating to goods falsely classified),” before “section 542”, “section 922(*l*) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking),” before “section 956”, “section 1030 (relating to computer fraud and abuse),” before “1032”, and “any felony violation of the Foreign Agents Registration Act of 1938,” before “or any felony violation of the Foreign Corrupt Practices Act”.
 
-Subsec. (i). Pub. L. 107–56, § 1004, added subsec. (i).
+Subsec. (i). Pub. L. 107–56, § 1004, added subsec. (i).
 
 2000—Subsec. (c)(7)(D). Pub. L. 106–569 inserted “any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming),” after “coupons having a value of not less than $5,000,”.
 
-1996—Subsec. (c)(7)(B)(ii). Pub. L. 104–132, § 726(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “kidnapping, robbery, or extortion; or”.
+1996—Subsec. (c)(7)(B)(ii). Pub. L. 104–132, § 726(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “kidnapping, robbery, or extortion; or”.
 
-Subsec. (c)(7)(B)(iii). Pub. L. 104–294, § 601(f)(6), struck out one closing parenthesis after “1978”.
+Subsec. (c)(7)(B)(iii). Pub. L. 104–294, § 601(f)(6), struck out one closing parenthesis after “1978”.
 
-Subsec. (c)(7)(D). Pub. L. 104–294, § 604(b)(38), amended directory language of Pub. L. 103–322, § 320104(b). See 1994 Amendment note below.
+Subsec. (c)(7)(D). Pub. L. 104–294, § 604(b)(38), amended directory language of Pub. L. 103–322, § 320104(b). See 1994 Amendment note below.
 
-Pub. L. 104–132, § 726(2), as amended by Pub. L. 107–273, § 4002(a)(11), inserted “section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member),” after “an offense under”, “section 351 (relating to congressional or Cabinet officer assassination),” after “section 215 (relating to commissions or gifts for procuring loans),”, “section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce),” after “798 (relating to espionage),”, “section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country),” after “section 875 (relating to interstate communications),”, “section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons),” after “1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, “section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction),” after “section 1203 (relating to hostage taking),”, “section 1751 (relating to Presidential assassination),” after “1708 (theft from the mail),”, “section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms),” after “2114 (relating to bank and postal robbery and theft),”, and substituted “section 2320” for “or section 2320” and “, section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), or section 2339A (relating to providing material support to terrorists) of this title, section 46502 of title 49, United States Code,” for “of this title”.
+Pub. L. 104–132, § 726(2), as amended by Pub. L. 107–273, § 4002(a)(11), inserted “section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member),” after “an offense under”, “section 351 (relating to congressional or Cabinet officer assassination),” after “section 215 (relating to commissions or gifts for procuring loans),”, “section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce),” after “798 (relating to espionage),”, “section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country),” after “section 875 (relating to interstate communications),”, “section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons),” after “1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, “section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction),” after “section 1203 (relating to hostage taking),”, “section 1751 (relating to Presidential assassination),” after “1708 (theft from the mail),”, “section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms),” after “2114 (relating to bank and postal robbery and theft),”, and substituted “section 2320” for “or section 2320” and “, section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), or section 2339A (relating to providing material support to terrorists) of this title, section 46502 of title 49, United States Code,” for “of this title”.
 
 Subsec. (c)(7)(F). Pub. L. 104–191 added subpar. (F).
 
-1994—Subsec. (a)(2). Pub. L. 103–325, § 413(c)(1)(A)(ii), substituted “transfer” for “transfer.” in concluding provisions and two times in subpar. (B).
+1994—Subsec. (a)(2). Pub. L. 103–325, § 413(c)(1)(A)(ii), substituted “transfer” for “transfer.” in concluding provisions and two times in subpar. (B).
 
-Pub. L. 103–322, § 330019(a)(3), and Pub. L. 103–325, § 413(c)(1)(A)(i), amended par. (2) identically, inserting “not more than” before “$500,000” in concluding provisions.
+Pub. L. 103–322, § 330019(a)(3), and Pub. L. 103–325, § 413(c)(1)(A)(i), amended par. (2) identically, inserting “not more than” before “$500,000” in concluding provisions.
 
-Subsec. (b). Pub. L. 103–325, § 413(c)(1)(B), inserted “or (a)(3)” after “(a)(1)” and substituted “transfer” for “transfer.”
+Subsec. (b). Pub. L. 103–325, § 413(c)(1)(B), inserted “or (a)(3)” after “(a)(1)” and substituted “transfer” for “transfer.”
 
-Subsec. (c)(7)(B)(ii). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+Subsec. (c)(7)(B)(ii). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
 
-Subsec. (c)(7)(B)(iii). Pub. L. 103–322, § 330019(a)(1), and Pub. L. 103–325, § 413(c)(1)(C), each amended cl. (iii) by inserting a closing parenthesis after “1978”.
+Subsec. (c)(7)(B)(iii). Pub. L. 103–322, § 330019(a)(1), and Pub. L. 103–325, § 413(c)(1)(C), each amended cl. (iii) by inserting a closing parenthesis after “1978”.
 
-Subsec. (c)(7)(D). Pub. L. 103–322, § 330019(b), and Pub. L. 103–325, § 413(c)(1)(D), amended subpar. (D) identically, substituting “section 15 of the Food Stamp Act of 1977” for “section 9(c) of the Food Stamp Act of 1977”.
+Subsec. (c)(7)(D). Pub. L. 103–322, § 330019(b), and Pub. L. 103–325, § 413(c)(1)(D), amended subpar. (D) identically, substituting “section 15 of the Food Stamp Act of 1977” for “section 9(c) of the Food Stamp Act of 1977”.
 
-Pub. L. 103–322, § 330011(*l*), and Pub. L. 103–325, § 413(d), made identical amendments repealing Pub. L. 101–647, § 3557(2)(E). See 1990 Amendment note below.
+Pub. L. 103–322, § 330011(*l*), and Pub. L. 103–325, § 413(d), made identical amendments repealing Pub. L. 101–647, § 3557(2)(E). See 1990 Amendment note below.
 
-Pub. L. 103–322, § 320104(b), as amended by Pub. L. 104–294, § 604(b)(38), substituted “section 2319 (relating to copyright infringement), or section 2320 (relating to trafficking in counterfeit goods and services),” for “or section 2319 (relating to copyright infringement)”.
+Pub. L. 103–322, § 320104(b), as amended by Pub. L. 104–294, § 604(b)(38), substituted “section 2319 (relating to copyright infringement), or section 2320 (relating to trafficking in counterfeit goods and services),” for “or section 2319 (relating to copyright infringement)”.
 
-Subsec. (c)(7)(E). Pub. L. 103–322, § 330012, and Pub. L. 103–325, § 413(c)(1)(E), amended subpar. (E) identically, striking out second period at end.
+Subsec. (c)(7)(E). Pub. L. 103–322, § 330012, and Pub. L. 103–325, § 413(c)(1)(E), amended subpar. (E) identically, striking out second period at end.
 
-Subsec. (e). Pub. L. 103–322, § 330008(2), and Pub. L. 103–325, § 413(c)(1)(F), amended subsec. (e) identically, substituting “Environmental Protection Agency” for “Evironmental Protection Agency”.
+Subsec. (e). Pub. L. 103–322, § 330008(2), and Pub. L. 103–325, § 413(c)(1)(F), amended subsec. (e) identically, substituting “Environmental Protection Agency” for “Evironmental Protection Agency”.
 
-Subsec. (g). Pub. L. 103–325, § 411(c)(2)(E), in subsec. (g) relating to notice of conviction of financial institutions, substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+Subsec. (g). Pub. L. 103–325, § 411(c)(2)(E), in subsec. (g) relating to notice of conviction of financial institutions, substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
-Pub. L. 103–322, § 330019(a)(2), and Pub. L. 103–325, § 413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
+Pub. L. 103–322, § 330019(a)(2), and Pub. L. 103–325, § 413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
 
-Subsec. (h). Pub. L. 103–322, § 330019(a)(2), and Pub. L. 103–325, § 413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
+Subsec. (h). Pub. L. 103–322, § 330019(a)(2), and Pub. L. 103–325, § 413(c)(1)(G), made identical amendments redesignating subsec. (g) relating to penalty for money laundering conspiracies as (h).
 
-1992—Subsec. (a)(2). Pub. L. 102–550, § 1531(a), substituted “transportation, transmission, or transfer.” for “transportation” wherever appearing in subpar. (B) and concluding provisions.
+1992—Subsec. (a)(2). Pub. L. 102–550, § 1531(a), substituted “transportation, transmission, or transfer.” for “transportation” wherever appearing in subpar. (B) and concluding provisions.
 
-Subsec. (a)(3). Pub. L. 102–550, § 1531(b), in concluding provisions, substituted “property represented to be the proceeds” for “property represented by a law enforcement officer to be the proceeds”.
+Subsec. (a)(3). Pub. L. 102–550, § 1531(b), in concluding provisions, substituted “property represented to be the proceeds” for “property represented by a law enforcement officer to be the proceeds”.
 
-Subsec. (b). Pub. L. 102–550, § 1531(a), substituted “transportation, transmission, or transfer.” for “transportation” in introductory provisions.
+Subsec. (b). Pub. L. 102–550, § 1531(a), substituted “transportation, transmission, or transfer.” for “transportation” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 102–550, § 1527(a)(2), inserted “use of a safe deposit box,” before “or any other payment”.
+Subsec. (c)(3). Pub. L. 102–550, § 1527(a)(2), inserted “use of a safe deposit box,” before “or any other payment”.
 
-Subsec. (c)(4)(A). Pub. L. 102–550, § 1527(a)(1), added clause (iii), struck out “which in any way or degree affects interstate or foreign commerce,” after “or aircraft,” and inserted “which in any way or degree affects interstate or foreign commerce” after “(A) or transaction”.
+Subsec. (c)(4)(A). Pub. L. 102–550, § 1527(a)(1), added clause (iii), struck out “which in any way or degree affects interstate or foreign commerce,” after “or aircraft,” and inserted “which in any way or degree affects interstate or foreign commerce” after “(A) or transaction”.
 
-Subsec. (c)(6). Pub. L. 102–550, § 1526(a), substituted “or the regulations” for “and the regulations”.
+Subsec. (c)(6). Pub. L. 102–550, § 1526(a), substituted “or the regulations” for “and the regulations”.
 
-Subsec. (c)(7)(B). Pub. L. 102–550, § 1536, designated part of existing provisions as cl. (i) and added cls. (ii) and (iii).
+Subsec. (c)(7)(B). Pub. L. 102–550, § 1536, designated part of existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-Subsec. (c)(7)(D). Pub. L. 102–550, §§ 1524, 1534(1), (2), struck out “1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution, section 1344 (relating to bank fraud),” after “hostage taking),”, inserted “section 1708 (theft from the mail),” before “section 2113”, substituted “section 422 of the Controlled Substances Act” for “section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)”, and struck out “or” before “section 16”.
+Subsec. (c)(7)(D). Pub. L. 102–550, §§ 1524, 1534(1), (2), struck out “1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution, section 1344 (relating to bank fraud),” after “hostage taking),”, inserted “section 1708 (theft from the mail),” before “section 2113”, substituted “section 422 of the Controlled Substances Act” for “section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)”, and struck out “or” before “section 16”.
 
-Pub. L. 102–550, § 1534(3), which directed insertion of “, any felony violation of section 9(c) of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act” before semicolon, was executed by making insertion before semicolon at end to reflect the probable intent of Congress.
+Pub. L. 102–550, § 1534(3), which directed insertion of “, any felony violation of section 9(c) of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act” before semicolon, was executed by making insertion before semicolon at end to reflect the probable intent of Congress.
 
-Subsec. (g). Pub. L. 102–550, § 1530, added subsec. (g) relating to penalty for money laundering conspiracies.
+Subsec. (g). Pub. L. 102–550, § 1530, added subsec. (g) relating to penalty for money laundering conspiracies.
 
-Pub. L. 102–550, § 1504(c), added subsec. (g) relating to notice of conviction of financial institutions.
+Pub. L. 102–550, § 1504(c), added subsec. (g) relating to notice of conviction of financial institutions.
 
-1990—Subsec. (a)(2). Pub. L. 101–647, § 108(1), inserted at end “For the purpose of the offense described in subparagraph (B), the defendant’s knowledge may be established by proof that a law enforcement officer represented the matter specified in subparagraph (B) as true, and the defendant’s subsequent statements or actions indicate that the defendant believed such representations to be true.”
+1990—Subsec. (a)(2). Pub. L. 101–647, § 108(1), inserted at end “For the purpose of the offense described in subparagraph (B), the defendant’s knowledge may be established by proof that a law enforcement officer represented the matter specified in subparagraph (B) as true, and the defendant’s subsequent statements or actions indicate that the defendant believed such representations to be true.”
 
-Subsec. (a)(3). Pub. L. 101–647, § 108(2), inserted “and paragraph (2)” after “this paragraph” in last sentence.
+Subsec. (a)(3). Pub. L. 101–647, § 108(2), inserted “and paragraph (2)” after “this paragraph” in last sentence.
 
-Subsec. (c)(1). Pub. L. 101–647, § 106, substituted “State, Federal, or foreign” for “State or Federal”.
+Subsec. (c)(1). Pub. L. 101–647, § 106, substituted “State, Federal, or foreign” for “State or Federal”.
 
-Subsec. (c)(4). Pub. L. 101–647, § 1402, inserted “(A)” before “a transaction” the first place it appears, “(B)” before “a transaction” the second place it appears, “(i)” before “involving” the first place it appears, and “(ii)” before “involving” the second place it appears.
+Subsec. (c)(4). Pub. L. 101–647, § 1402, inserted “(A)” before “a transaction” the first place it appears, “(B)” before “a transaction” the second place it appears, “(i)” before “involving” the first place it appears, and “(ii)” before “involving” the second place it appears.
 
-Subsec. (c)(5). Pub. L. 101–647, § 105, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘monetary instruments’ means coin or currency of the United States or of any other country, travelers” checks, personal checks, bank checks, money orders, investment securities in bearer form or otherwise in such form that title thereto passes upon delivery, and negotiable instruments in bearer form or otherwise in such form that title thereto passes upon delivery;”.
+Subsec. (c)(5). Pub. L. 101–647, § 105, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘monetary instruments’ means coin or currency of the United States or of any other country, travelers” checks, personal checks, bank checks, money orders, investment securities in bearer form or otherwise in such form that title thereto passes upon delivery, and negotiable instruments in bearer form or otherwise in such form that title thereto passes upon delivery;”.
 
-Subsec. (c)(7)(A). Pub. L. 101–647, § 3557(1), substituted “subchapter II of chapter 53 of title 31” for “the Currency and Foreign Transactions Reporting Act”.
+Subsec. (c)(7)(A). Pub. L. 101–647, § 3557(1), substituted “subchapter II of chapter 53 of title 31” for “the Currency and Foreign Transactions Reporting Act”.
 
-Subsec. (c)(7)(C). Pub. L. 101–647, § 1404(a)(1), struck out “or” at end.
+Subsec. (c)(7)(C). Pub. L. 101–647, § 1404(a)(1), struck out “or” at end.
 
-Subsec. (c)(7)(D). Pub. L. 101–647, § 3557(2)(A)–(D), substituted “section 2113” for “or section 2113”, substituted “theft), or” for “theft) of this title,”, inserted “of this title” after “2319 (relating to copyright infringement)”, and substituted “paraphernalia” for “paraphenalia”.
+Subsec. (c)(7)(D). Pub. L. 101–647, § 3557(2)(A)–(D), substituted “section 2113” for “or section 2113”, substituted “theft), or” for “theft) of this title,”, inserted “of this title” after “2319 (relating to copyright infringement)”, and substituted “paraphernalia” for “paraphenalia”.
 
-Pub. L. 101–647, § 3557(2)(E), which directed the amendment of subpar. (D) by striking the final period, was repealed by Pub. L. 103–322, § 330011(*l*), and Pub. L. 103–325, § 413(d).
+Pub. L. 101–647, § 3557(2)(E), which directed the amendment of subpar. (D) by striking the final period, was repealed by Pub. L. 103–322, § 330011(*l*), and Pub. L. 103–325, § 413(d).
 
-Pub. L. 101–647, § 2506(2), inserted “section 1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution,” after “section 1203 (relating to hostage taking),”.
+Pub. L. 101–647, § 2506(2), inserted “section 1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution,” after “section 1203 (relating to hostage taking),”.
 
-Pub. L. 101–647, § 2506(1), inserted “section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),” after “section 875 (relating to interstate communications),”.
+Pub. L. 101–647, § 2506(1), inserted “section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),” after “section 875 (relating to interstate communications),”.
 
-Pub. L. 101–647, § 1404(a)(2), inserted “; or” after “Trading with the Enemy Act” at end.
+Pub. L. 101–647, § 1404(a)(2), inserted “; or” after “Trading with the Enemy Act” at end.
 
-Pub. L. 101–647, § 107, substituted “a felony violation of the Chemical Diversion and Trafficking Act of 1988” for “section 310 of the Controlled Substances Act (21 U.S.C. 830)”.
+Pub. L. 101–647, § 107, substituted “a felony violation of the Chemical Diversion and Trafficking Act of 1988” for “section 310 of the Controlled Substances Act (21 U.S.C. 830)”.
 
-Subsec. (c)(7)(E). Pub. L. 101–647, § 1404(a)(2), inserted heading and added subpar. (E).
+Subsec. (c)(7)(E). Pub. L. 101–647, § 1404(a)(2), inserted heading and added subpar. (E).
 
-Subsec. (c)(8). Pub. L. 101–647, § 1205(j), added par. (8).
+Subsec. (c)(8). Pub. L. 101–647, § 1205(j), added par. (8).
 
-Subsec. (e). Pub. L. 101–647, § 1404(b), inserted at end “Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Evironmental [sic] Protection Agency.”
+Subsec. (e). Pub. L. 101–647, § 1404(b), inserted at end “Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Evironmental [sic] Protection Agency.”
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, § 6471(a), amended subpar. (A) generally, designating existing provisions as cl. (i) and adding cl. (ii).
+1988—Subsec. (a)(1)(A). Pub. L. 100–690, § 6471(a), amended subpar. (A) generally, designating existing provisions as cl. (i) and adding cl. (ii).
 
-Subsec. (a)(2). Pub. L. 100–690, § 6471(b), substituted “transports, transmits, or transfers, or attempts to transport, transmit, or transfer” for “transports or attempts to transport” in introductory provisions.
+Subsec. (a)(2). Pub. L. 100–690, § 6471(b), substituted “transports, transmits, or transfers, or attempts to transport, transmit, or transfer” for “transports or attempts to transport” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 100–690, § 6465, added par. (3).
+Subsec. (a)(3). Pub. L. 100–690, § 6465, added par. (3).
 
-Subsec. (c)(7)(D). Pub. L. 100–690, § 7031, substituted “section 513” for “section 511” and “section 545” for “section 543” and inserted “section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies),”.
+Subsec. (c)(7)(D). Pub. L. 100–690, § 7031, substituted “section 513” for “section 511” and “section 545” for “section 543” and inserted “section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies),”.
 
-Pub. L. 100–690, § 6466, inserted “section 542 (relating to entry of goods by means of false statements),”, “section 549 (relating to removing goods from Customs custody),”, and “section 2319 (relating to copyright infringement), section 310 of the Controlled Substances Act (21 U.S.C. 830) (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857) (relating to transportation of drug paraphenalia [sic]),”.
+Pub. L. 100–690, § 6466, inserted “section 542 (relating to entry of goods by means of false statements),”, “section 549 (relating to removing goods from Customs custody),”, and “section 2319 (relating to copyright infringement), section 310 of the Controlled Substances Act (21 U.S.C. 830) (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857) (relating to transportation of drug paraphenalia [sic]),”.
 
-Pub. L. 100–690, § 6183, substituted “section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, or section 16 (relating to offenses and punishment) of the Trading with the Enemy Act.” for “section 38 of the Arms Export Control Act (22 U.S.C. 2778), section 2 (relating to criminal penalties) of the Export Administration Act of 1979 (50 U.S.C. App. 2401), section 203 (relating to criminal sanctions) of the International Emergency Economic Powers Act (50 U.S.C. 1702), or section 3 (relating to criminal violations) of the Trading with the Enemy Act (50 U.S.C. App. 3)”.
+Pub. L. 100–690, § 6183, substituted “section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, or section 16 (relating to offenses and punishment) of the Trading with the Enemy Act.” for “section 38 of the Arms Export Control Act (22 U.S.C. 2778), section 2 (relating to criminal penalties) of the Export Administration Act of 1979 (50 U.S.C. App. 2401), section 203 (relating to criminal sanctions) of the International Emergency Economic Powers Act (50 U.S.C. 1702), or section 3 (relating to criminal violations) of the Trading with the Enemy Act (50 U.S.C. App. 3)”.
 
-Subsec. (e). Pub. L. 100–690, § 6469(a)(1), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+Subsec. (e). Pub. L. 100–690, § 6469(a)(1), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LIX, § 5904(b), Dec. 23, 2022, 136 Stat. 3441, provided that:
+Pub. L. 117–263, div. E, title LIX, § 5904(b), Dec. 23, 2022, 136 Stat. 3441, provided that:
 
 > “The amendments made by this section [amending this section] shall apply to—
 
@@ -771,9 +771,9 @@ Amendment by sections 4002(b)(1)(B), (D), (2)(M), and 4115(c)(1)(A)(i), (B)(ii) 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(a)(11), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(a)(11) is effective Apr. 24, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(a)(11), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(a)(11) is effective Apr. 24, 1996.
 
-Pub. L. 107–273, div. B, title IV, § 4005(e), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(e) is effective Oct. 26, 2001.
+Pub. L. 107–273, div. B, title IV, § 4005(e), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(e) is effective Oct. 26, 2001.
 
 **Effective Date of 1996 Amendment**
 
@@ -781,13 +781,13 @@ Amendment by section 604(b)(38) of Pub. L. 104–294 effective Sept. 13, 1994, s
 
 **Effective Date of 1994 Amendments**
 
-Pub. L. 103–322, title XXXIII, § 330011(*l*), Sept. 13, 1994, 108 Stat. 2145, and Pub. L. 103–325, title IV, § 413(d), Sept. 23, 1994, 108 Stat. 2255, provided that the repeal of section 3557(2)(E) of Pub. L. 101–647 made by those sections is effective as of the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, § 330011(*l*), Sept. 13, 1994, 108 Stat. 2145, and Pub. L. 103–325, title IV, § 413(d), Sept. 23, 1994, 108 Stat. 2255, provided that the repeal of section 3557(2)(E) of Pub. L. 101–647 made by those sections is effective as of the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
 
 **Rule of Construction**
 
 Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under section 922 of this title.
 
-## § 1957. Engaging in monetary transactions in property derived from specified unlawful activity
+## § 1957. Engaging in monetary transactions in property derived from specified unlawful activity
 
 **(a)** Whoever, in any of the circumstances set forth in subsection (d), knowingly engages or attempts to engage in a monetary transaction in criminally derived property of a value greater than $10,000 and is derived from specified unlawful activity, shall be punished as provided in subsection (b).
 
@@ -815,7 +815,7 @@ Nothing in amendment made by Pub. L. 117–159 to be construed to allow the esta
 
 **(3)** the terms “specified unlawful activity” and “proceeds” shall have the meaning given those terms in section 1956 of this title.
 
-(Added Pub. L. 99–570, title I, § 1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§ 6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§ 1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, § 330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, § 413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, § 403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, § 2(f)(2), May 20, 2009, 123 Stat. 1618; Pub. L. 112–186, § 4(b)(2), Oct. 5, 2012, 126 Stat. 1429.)
+(Added Pub. L. 99–570, title I, § 1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§ 6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§ 1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, § 330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, § 413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, § 403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, § 2(f)(2), May 20, 2009, 123 Stat. 1618; Pub. L. 112–186, § 4(b)(2), Oct. 5, 2012, 126 Stat. 1429.)
 
 **Editorial Notes**
 
@@ -827,15 +827,15 @@ Nothing in amendment made by Pub. L. 117–159 to be construed to allow the esta
 
 2006—Subsec. (e). Pub. L. 109–177 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Violations of this section may be investigated by such components of the Department of Justice as the Attorney General may direct, and by such components of the Department of the Treasury as the Secretary of the Treasury may direct, as appropriate and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.”
 
-1994—Subsec. (f)(1). Pub. L. 103–322, § 330020, and Pub. L. 103–325, § 413(c)(2), amended par. (1) identically, striking out second comma after “(as defined in section 1956 of this title)”.
+1994—Subsec. (f)(1). Pub. L. 103–322, § 330020, and Pub. L. 103–325, § 413(c)(2), amended par. (1) identically, striking out second comma after “(as defined in section 1956 of this title)”.
 
-1992—Subsec. (f)(1). Pub. L. 102–550 substituted “section 1956 of this title” for “section 5312 of title 31” and inserted “, including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title,” before “but such term does not include”.
+1992—Subsec. (f)(1). Pub. L. 102–550 substituted “section 1956 of this title” for “section 5312 of title 31” and inserted “, including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title,” before “but such term does not include”.
 
-1988—Subsec. (e). Pub. L. 100–690, § 6469(a)(2), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+1988—Subsec. (e). Pub. L. 100–690, § 6469(a)(2), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
-Subsec. (f)(1). Pub. L. 100–690, §§ 6182, 6184, substituted “in section 1956(c)(5) of this title” for “for the purposes of subchapter II of chapter 53 of title 31” and inserted “, but such term does not include any transaction necessary to preserve a person’s right to representation as guaranteed by the sixth amendment to the Constitution”.
+Subsec. (f)(1). Pub. L. 100–690, §§ 6182, 6184, substituted “in section 1956(c)(5) of this title” for “for the purposes of subchapter II of chapter 53 of title 31” and inserted “, but such term does not include any transaction necessary to preserve a person’s right to representation as guaranteed by the sixth amendment to the Constitution”.
 
-## § 1958. Use of interstate commerce facilities in the commission of murder-for-hire
+## § 1958. Use of interstate commerce facilities in the commission of murder-for-hire
 
 **(a)** Whoever travels in or causes another (including the intended victim) to travel in interstate or foreign commerce, or uses or causes another (including the intended victim) to use the mail or any facility of interstate or foreign commerce, with intent that a murder be committed in violation of the laws of any State or the United States as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value, or who conspires to do so, shall be fined under this title or imprisoned for not more than ten years, or both; and if personal injury results, shall be fined under this title or imprisoned for not more than twenty years, or both; and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both.
 
@@ -847,37 +847,37 @@ Subsec. (f)(1). Pub. L. 100–690, §§ 6182, 6184, substituted “in section 
 
 **(3)** “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 98–473, title II, § 1002(a), Oct. 12, 1984, 98 Stat. 2136, § 1952A; renumbered § 1958 and amended Pub. L. 100–690, title VII, §§ 7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, § 1205(k), title XXXV, § 3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, § 60003(a)(11), title XIV, § 140007(b), title XXXII, § 320105, title XXXIII, § 330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148; Pub. L. 104–294, title VI, §§ 601(g)(3), 605(a), Oct. 11, 1996, 110 Stat. 3500, 3509; Pub. L. 108–458, title VI, § 6704, Dec. 17, 2004, 118 Stat. 3766.)
+(Added Pub. L. 98–473, title II, § 1002(a), Oct. 12, 1984, 98 Stat. 2136, § 1952A; renumbered § 1958 and amended Pub. L. 100–690, title VII, §§ 7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, § 1205(k), title XXXV, § 3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, § 60003(a)(11), title XIV, § 140007(b), title XXXII, § 320105, title XXXIII, § 330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148; Pub. L. 104–294, title VI, §§ 601(g)(3), 605(a), Oct. 11, 1996, 110 Stat. 3500, 3509; Pub. L. 108–458, title VI, § 6704, Dec. 17, 2004, 118 Stat. 3766.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–458, § 6704(1), substituted “facility of” for “facility in”.
+2004—Subsec. (a). Pub. L. 108–458, § 6704(1), substituted “facility of” for “facility in”.
 
-Subsec. (b)(2). Pub. L. 108–458, § 6704(2), inserted “or foreign” after “interstate”.
+Subsec. (b)(2). Pub. L. 108–458, § 6704(2), inserted “or foreign” after “interstate”.
 
 1996—Subsec. (a). Pub. L. 104–294 substituted comma for “or who conspires to do so” after “or who conspires to do so” and substituted “this title or imprisoned” for “this title and imprisoned” before “for not more than twenty years”.
 
-1994—Pub. L. 103–322, § 330016(1)(Q), which directed the amendment of this section by substituting “under this title” for “not more than $50,000”, could not be executed because the phrase “not more than $50,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 60003(a)(11). See below.
+1994—Pub. L. 103–322, § 330016(1)(Q), which directed the amendment of this section by substituting “under this title” for “not more than $50,000”, could not be executed because the phrase “not more than $50,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 60003(a)(11). See below.
 
-Subsec. (a). Pub. L. 103–322, § 330016(1)(N), substituted “fined under this title” for “fined not more than $20,000” after “injury results, shall be”.
+Subsec. (a). Pub. L. 103–322, § 330016(1)(N), substituted “fined under this title” for “fined not more than $20,000” after “injury results, shall be”.
 
-Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” before “or imprisoned for not more than ten years”.
+Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” before “or imprisoned for not more than ten years”.
 
-Pub. L. 103–322, §§ 140007(b), 320105, each amended subsec. (a) by inserting “or who conspires to do so” after “anything of pecuniary value,”.
+Pub. L. 103–322, §§ 140007(b), 320105, each amended subsec. (a) by inserting “or who conspires to do so” after “anything of pecuniary value,”.
 
-Pub. L. 103–322, § 60003(a)(11), substituted “and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both” for “and if death results, shall be subject to imprisonment for any term of years or for life, or shall be fined not more than $50,000, or both” before period at end.
+Pub. L. 103–322, § 60003(a)(11), substituted “and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both” for “and if death results, shall be subject to imprisonment for any term of years or for life, or shall be fined not more than $50,000, or both” before period at end.
 
-1990—Subsec. (b). Pub. L. 101–647, § 3558, substituted “section 1959” for “section 1952B” in introductory provisions.
+1990—Subsec. (b). Pub. L. 101–647, § 3558, substituted “section 1959” for “section 1952B” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 101–647, § 1205(k), added par. (3).
+Subsec. (b)(3). Pub. L. 101–647, § 1205(k), added par. (3).
 
-1988—Pub. L. 100–690, § 7053(a), renumbered section 1952A of this title as this section.
+1988—Pub. L. 100–690, § 7053(a), renumbered section 1952A of this title as this section.
 
-Subsec. (a). Pub. L. 100–690, § 7058(b), substituted “ten years” for “five years”.
+Subsec. (a). Pub. L. 100–690, § 7058(b), substituted “ten years” for “five years”.
 
-## § 1959. Violent crimes in aid of racketeering activity
+## § 1959. Violent crimes in aid of racketeering activity
 
 **(a)** Whoever, as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value from an enterprise engaged in racketeering activity, or for the purpose of gaining entrance to or maintaining or increasing position in an enterprise engaged in racketeering activity, murders, kidnaps, maims, assaults with a dangerous weapon, commits assault resulting in serious bodily injury upon, or threatens to commit a crime of violence against any individual in violation of the laws of any State or the United States, or attempts or conspires so to do, shall be punished—
 
@@ -891,9 +891,9 @@ Subsec. (a). Pub. L. 100–690, § 7058(b), substituted “ten years” for �
 
 **(5)** for attempting or conspiring to commit murder or kidnapping, by imprisonment for not more than ten years or a fine under this title, or both; and
 
-**(6)** for attempting or conspiring to commit a crime involving maiming, assault with a dangerous weapon, or assault resulting in serious bodily injury, by imprisonment for not more than three years or a fine of 1
+**(6)** for attempting or conspiring to commit a crime involving maiming, assault with a dangerous weapon, or assault resulting in serious bodily injury, by imprisonment for not more than three years or a fine of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 under this title, or both.
 
@@ -903,29 +903,29 @@ under this title, or both.
 
 **(2)** “enterprise” includes any partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity, which is engaged in, or the activities of which affect, interstate or foreign commerce.
 
-(Added Pub. L. 98–473, title II, § 1002(a), Oct. 12, 1984, 98 Stat. 2137, § 1952B; renumbered § 1959, Pub. L. 100–690, title VII, § 7053(b), Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title VI, § 60003(a)(12), title XXXIII, §§ 330016(1)(J), (2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 1969, 2147, 2148, 2150.)
+(Added Pub. L. 98–473, title II, § 1002(a), Oct. 12, 1984, 98 Stat. 2137, § 1952B; renumbered § 1959, Pub. L. 100–690, title VII, § 7053(b), Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title VI, § 60003(a)(12), title XXXIII, §§ 330016(1)(J), (2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 1969, 2147, 2148, 2150.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000” in two places.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000” in two places.
 
-Pub. L. 103–322, § 60003(a)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+Pub. L. 103–322, § 60003(a)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) for murder or kidnaping, by imprisonment for any term of years or for life or a fine of not more than $50,000, or both;”.
 
-Subsec. (a)(2) to (4). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $30,000” in par. (2), “fine of not more than $20,000” in par. (3), and “fine of not more than $5,000” in par. (4).
+Subsec. (a)(2) to (4). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $30,000” in par. (2), “fine of not more than $20,000” in par. (3), and “fine of not more than $5,000” in par. (4).
 
-Subsec. (a)(5). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+Subsec. (a)(5). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
 
-Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $10,000”.
+Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $10,000”.
 
-Subsec. (a)(6). Pub. L. 103–322, § 330016(1)(J), substituted “under this title” for “not more than $3,000” after “fine of”.
+Subsec. (a)(6). Pub. L. 103–322, § 330016(1)(J), substituted “under this title” for “not more than $3,000” after “fine of”.
 
 1988—Pub. L. 100–690 renumbered section 1952B of this title as this section.
 
-## § 1960. Prohibition of unlicensed money transmitting businesses
+## § 1960. Prohibition of unlicensed money transmitting businesses
 
 **(a)** Whoever knowingly conducts, controls, manages, supervises, directs, or owns all or part of an unlicensed money transmitting business, shall be fined in accordance with this title or imprisoned not more than 5 years, or both.
 
@@ -943,7 +943,7 @@ Subsec. (a)(6). Pub. L. 103–322, § 330016(1)(J), substituted “under this 
 
 **(3)** the term “State” means any State of the United States, the District of Columbia, the Northern Mariana Islands, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 102–550, title XV, § 1512(a), Oct. 28, 1992, 106 Stat. 4057; amended Pub. L. 103–325, title IV, § 408(c), Sept. 23, 1994, 108 Stat. 2252; Pub. L. 107–56, title III, § 373(a), Oct. 26, 2001, 115 Stat. 339; Pub. L. 109–162, title XI, § 1171(a)(2), Jan. 5, 2006, 119 Stat. 3123.)
+(Added Pub. L. 102–550, title XV, § 1512(a), Oct. 28, 1992, 106 Stat. 4057; amended Pub. L. 103–325, title IV, § 408(c), Sept. 23, 1994, 108 Stat. 2252; Pub. L. 107–56, title III, § 373(a), Oct. 26, 2001, 115 Stat. 339; Pub. L. 109–162, title XI, § 1171(a)(2), Jan. 5, 2006, 119 Stat. 3123.)
 
 **Editorial Notes**
 

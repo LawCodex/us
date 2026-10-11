@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 35—RIGHT TO FINANCIAL PRIVACY
 
-## § 3401. Definitions
+## § 3401. Definitions
 
 For the purpose of this chapter, the term—
 
-**(1)** “financial institution”, except as provided in section 3414 of this title, means any office of a bank, savings bank, card issuer as defined in section 1602(n) 1
+**(1)** “financial institution”, except as provided in section 3414 of this title, means any office of a bank, savings bank, card issuer as defined in section 1602(n) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
 
@@ -61,41 +61,41 @@ of title 15, industrial loan company, trust company, savings association, buildi
 
 **(8)** “law enforcement inquiry” means a lawful investigation or official proceeding inquiring into a violation of, or failure to comply with, any criminal or civil statute or any regulation, rule, or order issued pursuant thereto.
 
-(Pub. L. 95–630, title XI, § 1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, § 744(b), title IX, § 941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, § 2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, § 727(b)(1), Nov. 12, 1999, 113 Stat. 1475; Pub. L. 108–177, title III, § 374(b), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 111–203, title X, § 1099(1), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 95–630, title XI, § 1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, § 744(b), title IX, § 941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, § 2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, § 727(b)(1), Nov. 12, 1999, 113 Stat. 1475; Pub. L. 108–177, title III, § 374(b), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 111–203, title X, § 1099(1), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(n) of title 15, referred to in par. (1), was redesignated section 1602(*o*) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(n) of title 15, referred to in par. (1), was redesignated section 1602(*o*) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§ 1951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
+The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§ 1951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
 
 **Codification**
 
-In par. (7)(H), “the Bank Secrecy Act (Public Law 91–508, title I) [12 U.S.C. 1951 et seq.] and subchapter II of chapter 53 of title 31” substituted for “the Bank Secrecy Act [12 U.S.C. 1951 et seq.] and the Currency and Foreign Transactions Reporting Act [31 U.S.C. 1051 et seq.] (Public Law 91–508, title I and II)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (7)(H), “the Bank Secrecy Act (Public Law 91–508, title I) [12 U.S.C. 1951 et seq.] and subchapter II of chapter 53 of title 31” substituted for “the Bank Secrecy Act [12 U.S.C. 1951 et seq.] and the Currency and Foreign Transactions Reporting Act [31 U.S.C. 1051 et seq.] (Public Law 91–508, title I and II)”, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2010—Par. (6). Pub. L. 111–203, § 1099(1)(A), inserted “and” at end of subpar. (A), struck out “and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any savings and loan holding company (as defined in the Home Owners’ Loan Act);”.
+2010—Par. (6). Pub. L. 111–203, § 1099(1)(A), inserted “and” at end of subpar. (A), struck out “and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any savings and loan holding company (as defined in the Home Owners’ Loan Act);”.
 
-Par. (7)(B). Pub. L. 111–203, § 1099(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Director, Office of Thrift Supervision;”.
+Par. (7)(B). Pub. L. 111–203, § 1099(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Director, Office of Thrift Supervision;”.
 
-2003—Par. (1). Pub. L. 108–177 inserted “, except as provided in section 3414 of this title,” before “means any office”.
+2003—Par. (1). Pub. L. 108–177 inserted “, except as provided in section 3414 of this title,” before “means any office”.
 
 1999—Par. (7)(G) to (I). Pub. L. 106–102 added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
 
 1990—Par. (6)(B). Pub. L. 101–647 substituted “section 1843(f)(1)” for “section 1842(f)(1)”.
 
-1989—Par. (1). Pub. L. 101–73, § 744(b)(1), substituted “savings association” for “savings and loan”.
+1989—Par. (1). Pub. L. 101–73, § 744(b)(1), substituted “savings association” for “savings and loan”.
 
-Par. (6). Pub. L. 101–73, § 941(3), added par. (6). Former par. (6) redesignated (7).
+Par. (6). Pub. L. 101–73, § 941(3), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 101–73, § 941(1), (2), redesignated former par. (6) as (7) and substituted new introductory provisions for former introductory provisions which read as follows: “ ‘supervisory agency’ means, with respect to any particular financial institution any of the following which has statutory authority to examine the financial condition or business operations of that institution—”. Former par. (7) redesignated (8).
+Par. (7). Pub. L. 101–73, § 941(1), (2), redesignated former par. (6) as (7) and substituted new introductory provisions for former introductory provisions which read as follows: “ ‘supervisory agency’ means, with respect to any particular financial institution any of the following which has statutory authority to examine the financial condition or business operations of that institution—”. Former par. (7) redesignated (8).
 
-Pub. L. 101–73, § 744(b)(2), (3), redesignated subpars. (C) to (I) as (B) to (H), respectively, substituted “Director, Office of Thrift Supervision” for “the Federal Home Loan Bank Board” in subpar. (B), and struck out former subpar. (B) which read as follows: “the Federal Savings and Loan Insurance Corporation;”.
+Pub. L. 101–73, § 744(b)(2), (3), redesignated subpars. (C) to (I) as (B) to (H), respectively, substituted “Director, Office of Thrift Supervision” for “the Federal Home Loan Bank Board” in subpar. (B), and struck out former subpar. (B) which read as follows: “the Federal Savings and Loan Insurance Corporation;”.
 
-Par. (8). Pub. L. 101–73, § 941(1), redesignated par. (7) as (8).
+Par. (8). Pub. L. 101–73, § 941(1), redesignated par. (7) as (8).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -109,9 +109,9 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 **Short Title**
 
-Pub. L. 95–630, title XI, § 1100, Nov. 10, 1978, 92 Stat. 3697, provided that: “This title [enacting this chapter] may be cited as the ‘Right to Financial Privacy Act of 1978’.”
+Pub. L. 95–630, title XI, § 1100, Nov. 10, 1978, 92 Stat. 3697, provided that: “This title [enacting this chapter] may be cited as the ‘Right to Financial Privacy Act of 1978’.”
 
-## § 3402. Access to financial records by Government authorities prohibited; exceptions
+## § 3402. Access to financial records by Government authorities prohibited; exceptions
 
 Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Government authority may have access to or obtain copies of, or the information contained in the financial records of any customer from a financial institution unless the financial records are reasonably described and—
 
@@ -125,7 +125,7 @@ Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Go
 
 **(5)** such financial records are disclosed in response to a formal written request which meets the requirements of section 3408 of this title.
 
-(Pub. L. 95–630, title XI, § 1102, Nov. 10, 1978, 92 Stat. 3697.)
+(Pub. L. 95–630, title XI, § 1102, Nov. 10, 1978, 92 Stat. 3697.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,7 +133,7 @@ Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Go
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3403. Confidentiality of financial records
+## § 3403. Confidentiality of financial records
 
 **(a) Release of records by financial institutions prohibited**
 
@@ -153,13 +153,13 @@ Nothing in this chapter shall preclude any financial institution, or any officer
 
 **(2)** Nothing in this chapter shall preclude a financial institution, as an incident to processing an application for assistance to a customer in the form of a Government loan, loan guaranty, or loan insurance agreement, or as an incident to processing a default on, or administering, a Government guaranteed or insured loan, from initiating contact with an appropriate Government authority for the purpose of providing any financial record necessary to permit such authority to carry out its responsibilities under a loan, loan guaranty, or loan insurance agreement.
 
-(Pub. L. 95–630, title XI, § 1103, Nov. 10, 1978, 92 Stat. 3698; Pub. L. 99–570, title I, § 1353(a), Oct. 27, 1986, 100 Stat. 3207–21; Pub. L. 100–690, title VI, § 6186(a), Nov. 18, 1988, 102 Stat. 4357.)
+(Pub. L. 95–630, title XI, § 1103, Nov. 10, 1978, 92 Stat. 3698; Pub. L. 99–570, title I, § 1353(a), Oct. 27, 1986, 100 Stat. 3207–21; Pub. L. 100–690, title VI, § 6186(a), Nov. 18, 1988, 102 Stat. 4357.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (c). Pub. L. 100–690 inserted “, corporation,” after “individual”.
+1988—Subsec. (c). Pub. L. 100–690 inserted “, corporation,” after “individual”.
 
 1986—Subsec. (c). Pub. L. 99–570 inserted provisions that the disclosure of only the name or other identifying information concerning any individual or account involved in and the nature of any suspected illegal activity is permitted notwithstanding any constitution, law, or regulation of any State or political subdivision thereof to the contrary, and any financial institutions, officers, agents, or employees thereof making such disclosure shall not be liable to the customer under any State constitution or any Federal, State, or local law or regulation for such disclosure or failure to notify the customer thereof.
 
@@ -169,7 +169,7 @@ Nothing in this chapter shall preclude any financial institution, or any officer
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3404. Customer authorizations
+## § 3404. Customer authorizations
 
 **(a) Statement furnished by customer to financial institution and Government authority; contents** A customer may authorize disclosure under section 3402(1) of this title if he furnishes to the financial institution and to the Government authority seeking to obtain such disclosure a signed and dated statement which—
 
@@ -191,7 +191,7 @@ No such authorization shall be required as a condition of doing business with an
 
 The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title, to obtain a copy of the record which the financial institution shall keep of all instances in which the customer’s record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.
 
-(Pub. L. 95–630, title XI, § 1104, Nov. 10, 1978, 92 Stat. 3698; Pub. L. 96–3, Mar. 7, 1979, 93 Stat. 5.)
+(Pub. L. 95–630, title XI, § 1104, Nov. 10, 1978, 92 Stat. 3698; Pub. L. 96–3, Mar. 7, 1979, 93 Stat. 5.)
 
 **Editorial Notes**
 
@@ -205,7 +205,7 @@ The customer has the right, unless the Government authority obtains a court orde
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3405. Administrative subpena and summons
+## § 3405. Administrative subpena and summons
 
 A Government authority may obtain financial records under section 3402(2) of this title pursuant to an administrative subpena or summons otherwise authorized by law only if—
 
@@ -221,7 +221,7 @@ A Government authority may obtain financial records under section 3402(2) of thi
 
 .
 
-“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to                 .
+“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to .
 
 “4. Be prepared to come to court and pre­sent your position in further detail.
 
@@ -231,13 +231,13 @@ If you do not follow the above procedures, upon the expiration of ten days from 
 
 **(3)** ten days have expired from the date of service of the notice or fourteen days have expired from the date of mailing the notice to the customer and within such time period the customer has not filed a sworn statement and motion to quash in an appropriate court, or the customer challenge provisions of section 3410 of this title have been complied with.
 
-(Pub. L. 95–630, title XI, § 1105, Nov. 10, 1978, 92 Stat. 3699.)
+(Pub. L. 95–630, title XI, § 1105, Nov. 10, 1978, 92 Stat. 3699.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -245,7 +245,7 @@ The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3406. Search warrants
+## § 3406. Search warrants
 
 **(a) Applicability of Federal Rules of Criminal Procedure**
 
@@ -255,15 +255,15 @@ A Government authority may obtain financial records under section 3402(3) of thi
 
 No later than ninety days after the Government authority serves the search warrant, it shall mail to the customer’s last known address a copy of the search warrant together with the following notice:
 
-“Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date) for the following purpose:    . You may have rights under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.].”.
+“Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date) for the following purpose: . You may have rights under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.].”.
 
 **(c) Court-ordered delays in mailing**
 
 Upon application of the Government authority, a court may grant a delay in the mailing of the notice required in subsection (b), which delay shall not exceed one hundred and eighty days following the service of the warrant, if the court makes the findings required in section 3409(a) of this title. If the court so finds, it shall enter an ex parte order granting the requested delay and an order prohibiting the financial institution from disclosing that records have been obtained or that a search warrant for such records has been executed. Additional delays of up to ninety days may be granted by the court upon application, but only in accordance with this subsection. Upon expiration of the period of delay of notification of the customer, the following notice shall be mailed to the customer along with a copy of the search warrant:
 
-“Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date). Notification was delayed beyond the statutory ninety-day delay period pursuant to a determination by the court that such notice would seriously jeopardize an investigation concerning         . You may have rights under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.].”.
+“Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date). Notification was delayed beyond the statutory ninety-day delay period pursuant to a determination by the court that such notice would seriously jeopardize an investigation concerning . You may have rights under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.].”.
 
-(Pub. L. 95–630, title XI, § 1106, Nov. 10, 1978, 92 Stat. 3700.)
+(Pub. L. 95–630, title XI, § 1106, Nov. 10, 1978, 92 Stat. 3700.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ Upon application of the Government authority, a court may grant a delay in the m
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,7 +279,7 @@ The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c),
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3407. Judicial subpena
+## § 3407. Judicial subpena
 
 A Government authority may obtain financial records under section 3402(4) of this title pursuant to judicial subpena only if—
 
@@ -291,9 +291,9 @@ A Government authority may obtain financial records under section 3402(4) of thi
 
 “1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by the Government and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the rec­ords.
 
-“2. File the motion and statement by mailing or delivering them to the clerk of the        Court.
+“2. File the motion and statement by mailing or delivering them to the clerk of the Court.
 
-“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to                 .
+“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to .
 
 “4. Be prepared to come to court and pre­sent your position in further detail.
 
@@ -303,13 +303,13 @@ If you do not follow the above procedures, upon the expiration of ten days from 
 
 **(3)** ten days have expired from the date of service or fourteen days from the date of mailing of the notice to the customer and within such time period the customer has not filed a sworn statement and motion to quash in an appropriate court, or the customer challenge provisions of section 3410 of this title have been complied with.
 
-(Pub. L. 95–630, title XI, § 1107, Nov. 10, 1978, 92 Stat. 3700.)
+(Pub. L. 95–630, title XI, § 1107, Nov. 10, 1978, 92 Stat. 3700.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3408. Formal written request
+## § 3408. Formal written request
 
 A Government authority may request financial records under section 3402(5) of this title pursuant to a formal written request only if—
 
@@ -341,7 +341,7 @@ A Government authority may request financial records under section 3402(5) of th
 
 .
 
-“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to                 .
+“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to .
 
 “4. Be prepared to come to court and pre­sent your position in further detail.
 
@@ -351,13 +351,13 @@ If you do not follow the above procedures, upon the expiration of ten days from 
 
 **(B)** ten days have expired from the date of service or fourteen days from the date of mailing of the notice by the customer and within such time period the customer has not filed a sworn statement and an application to enjoin the Government authority in an appropriate court, or the customer challenge provisions of section 3410 of this title have been complied with.
 
-(Pub. L. 95–630, title XI, § 1108, Nov. 10, 1978, 92 Stat. 3701.)
+(Pub. L. 95–630, title XI, § 1108, Nov. 10, 1978, 92 Stat. 3701.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Right to Financial Privacy Act of 1978, referred to in par. (4), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in par. (4), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -365,7 +365,7 @@ The Right to Financial Privacy Act of 1978, referred to in par. (4), is title XI
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3409. Delayed notice
+## § 3409. Delayed notice
 
 **(a) Application by Government authority; findings** Upon application of the Government authority, the customer notice required under section 3404(c), 3405(2), 3406(c), 3407(2), 3408(4), or 3412(b) of this title may be delayed by order of an appropriate court if the presiding judge or magistrate judge finds that—
 
@@ -383,9 +383,9 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 **(D)** intimidation of potential witnesses; or
 
-**(E)** otherwise seriously jeopardizing an investigation or official proceeding or unduly delaying a trial or ongoing official proceeding to the same extent as the circumstances in the preceeding 1
+**(E)** otherwise seriously jeopardizing an investigation or official proceeding or unduly delaying a trial or ongoing official proceeding to the same extent as the circumstances in the preceeding 1
 
-<sup>1</sup>  So in original. Probably should be “preceding”.
+<sup>1</sup> So in original. Probably should be “preceding”.
 
 subparagraphs.
 
@@ -399,27 +399,27 @@ An application for delay must be made with reasonable specificity.
 
 **(3)** Upon expiration of the period of delay of notification under paragraph (1) or (2), the customer shall be served with or mailed a copy of the process or request together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
 
-“Records or information concerning your transactions which are held by the financial institution named in the attached process or request were supplied to or requested by the Government authority named in the process or request on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] that such notice might (state reason).        The purpose of the investigation or official proceeding was        .”.
+“Records or information concerning your transactions which are held by the financial institution named in the attached process or request were supplied to or requested by the Government authority named in the process or request on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] that such notice might (state reason). The purpose of the investigation or official proceeding was .”.
 
 **(c) Notice requirement respecting emergency access to financial records**
 
 When access to financial records is obtained pursuant to section 3414(b) of this title (emergency access), the Government authority shall, unless a court has authorized delay of notice pursuant to subsections (a) and (b), as soon as practicable after such records are obtained serve upon the customer, or mail by registered or certified mail to his last known address, a copy of the request to the financial institution together with the following notice which shall state with reasonable specificity the nature of the law enforcement inquiry:
 
-“Records concerning your transactions held by the financial institution named in the attached request were obtained by (agency or department) under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] on (date) for the following purpose:        Emergency access to such records was obtained on the grounds that (state grounds).”.
+“Records concerning your transactions held by the financial institution named in the attached request were obtained by (agency or department) under the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] on (date) for the following purpose: Emergency access to such records was obtained on the grounds that (state grounds).”.
 
 **(d) Preservation of memorandums, affidavits, or other papers**
 
 Any memorandum, affidavit, or other paper filed in connection with a request for delay in notification shall be preserved by the court. Upon petition by the customer to whom such records pertain, the court may order disclosure of such papers to the petitioner unless the court makes the findings required in subsection (a).
 
-(Pub. L. 95–630, title XI, § 1109, Nov. 10, 1978, 92 Stat. 3702; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 95–630, title XI, § 1109, Nov. 10, 1978, 92 Stat. 3702; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -431,7 +431,7 @@ In subsec. (a), “magistrate judge” substituted for “magistrate” pursuant
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3410. Customer challenges
+## § 3410. Customer challenges
 
 **(a) Filing of motion to quash or application to enjoin; proper court; contents** Within ten days of service or within fourteen days of mailing of a subpena, summons, or formal written request, a customer may file a motion to quash an administrative summons or judicial subpena, or an application to enjoin a Government authority from obtaining financial records pursuant to a formal written request, with copies served upon the Government authority. A motion to quash a judicial subpena shall be filed in the court which issued the subpena. A motion to quash an administrative summons or an application to enjoin a Government authority from obtaining records pursuant to a formal written request shall be filed in the appropriate United States district court. Such motion or application shall contain an affidavit or sworn statement—
 
@@ -451,9 +451,9 @@ If the court finds that the applicant is not the customer to whom the financial 
 
 **(d) Appeals**
 
-A court ruling denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer. An appeal of a ruling denying a motion or application under this section may be taken by the customer (1) within such period of time as provided by law as part of any appeal from a final order in any legal proceeding initiated against him arising out of or based upon the financial records, or (2) within thirty days after a notification that no legal proceeding is contemplated against him. The Government authority obtaining the financial records shall promptly notify a customer when a determination has been made that no legal proceeding against him is contemplated. After one hundred and eighty days from the denial of the motion or application, if the Government authority obtaining the records has not initiated such a proceeding, a supervisory official of the Government authority shall certify to the appropriate court that no such determination has been made. The court may require that such certifications be made, at reasonable intervals thereafter, until either notification to the customer has occurred or a legal proceeding is initiated as described in clause (A). 1
+A court ruling denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer. An appeal of a ruling denying a motion or application under this section may be taken by the customer (1) within such period of time as provided by law as part of any appeal from a final order in any legal proceeding initiated against him arising out of or based upon the financial records, or (2) within thirty days after a notification that no legal proceeding is contemplated against him. The Government authority obtaining the financial records shall promptly notify a customer when a determination has been made that no legal proceeding against him is contemplated. After one hundred and eighty days from the denial of the motion or application, if the Government authority obtaining the records has not initiated such a proceeding, a supervisory official of the Government authority shall certify to the appropriate court that no such determination has been made. The court may require that such certifications be made, at reasonable intervals thereafter, until either notification to the customer has occurred or a legal proceeding is initiated as described in clause (A). 1
 
-<sup>1</sup>  So in original. Section does not contain a clause (A).
+<sup>1</sup> So in original. Section does not contain a clause (A).
 
 **(e) Sole judicial remedy available to customer**
 
@@ -463,7 +463,7 @@ The challenge procedures of this chapter constitute the sole judicial remedy ava
 
 Nothing in this chapter shall enlarge or restrict any rights of a financial institution to challenge requests for records made by a Government authority under existing law. Nothing in this chapter shall entitle a customer to assert the rights of a financial institution.
 
-(Pub. L. 95–630, title XI, § 1110, Nov. 10, 1978, 92 Stat. 3703.)
+(Pub. L. 95–630, title XI, § 1110, Nov. 10, 1978, 92 Stat. 3703.)
 
 **Editorial Notes**
 
@@ -477,11 +477,11 @@ Rule 5(b) of the Federal Rules of Civil Procedure, referred to in subsec. (a), i
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3411. Duty of financial institutions
+## § 3411. Duty of financial institutions
 
 Upon receipt of a request for financial rec­ords made by a Government authority under section 3405 or 3407 of this title, the financial institution shall, unless otherwise provided by law, proceed to assemble the records requested and must be prepared to deliver the records to the Government authority upon receipt of the certificate required under section 3403(b) of this title.
 
-(Pub. L. 95–630, title XI, § 1111, Nov. 10, 1978, 92 Stat. 3705.)
+(Pub. L. 95–630, title XI, § 1111, Nov. 10, 1978, 92 Stat. 3705.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -489,7 +489,7 @@ Upon receipt of a request for financial rec­ords made by a Government authority
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3412. Use of information
+## § 3412. Use of information
 
 **(a) Transfer of financial records to other agencies or departments; certification**
 
@@ -497,7 +497,7 @@ Financial records originally obtained pursuant to this chapter shall not be tran
 
 **(b) Mailing of copy of certification and notice to customer**
 
-When financial records subject to this chapter are transferred pursuant to subsection (a), the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: “Copies of, or information contained in, your financial records lawfully in possession of                    have been furnished to              pursuant to the Right of Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] for the following purpose:             . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 [5 U.S.C. 552a].”
+When financial records subject to this chapter are transferred pursuant to subsection (a), the transferring agency or department shall, within fourteen days, send to the customer a copy of the certification made pursuant to subsection (a) and the following notice, which shall state the nature of the law enforcement inquiry with reasonable specificity: “Copies of, or information contained in, your financial records lawfully in possession of have been furnished to pursuant to the Right of Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] for the following purpose: . If you believe that this transfer has not been made to further a legitimate law enforcement inquiry, you may have legal rights under the Financial Privacy Act of 1978 or the Privacy Act of 1974 [5 U.S.C. 552a].”
 
 **(c) Court-ordered delays in mailing**
 
@@ -509,9 +509,9 @@ Nothing in this chapter prohibits any supervisory agency from exchanging examina
 
 **(e) Exchange of records, reports, or other information**
 
-Notwithstanding section 3401(6) 1
+Notwithstanding section 3401(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or any other provision of law, the exchange of financial records, examination reports or other information with respect to a financial institution, holding company, or any subsidiary of a depository institution or holding company, among and between the five member supervisory agencies of the Federal Financial Institutions Examination Council, the Securities and Exchange Commission, the Federal Trade Commission, the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted.
 
@@ -525,13 +525,13 @@ of this title or any other provision of law, the exchange of financial records, 
 
 **(2) Limitation on use**
 
-Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under section 1833a of this title, or for forfeiture under sections 2
+Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under section 1833a of this title, or for forfeiture under sections 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 981 or 982 of title 18 by the Department of Justice and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury and shall, upon completion of the investigation or prosecution (including any appeal), be returned only to the transferring agency or department. No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.
 
-(Pub. L. 95–630, title XI, § 1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, § 432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, § 6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, § 944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, § 411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, § 1516, title XVI, § 1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, § 231(b)(2), title VII, § 727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475; Pub. L. 107–56, title III, § 358(f)(1), Oct. 26, 2001, 115 Stat. 327; Pub. L. 109–455, §§ 10, 13, Dec. 22, 2006, 120 Stat. 3381, 3382; Pub. L. 111–203, title X, § 1099(2), July 21, 2010, 124 Stat. 2105; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Pub. L. 95–630, title XI, § 1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, § 432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, § 6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, § 944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, § 411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, § 1516, title XVI, § 1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, § 231(b)(2), title VII, § 727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475; Pub. L. 107–56, title III, § 358(f)(1), Oct. 26, 2001, 115 Stat. 327; Pub. L. 109–455, §§ 10, 13, Dec. 22, 2006, 120 Stat. 3381, 3382; Pub. L. 111–203, title X, § 1099(2), July 21, 2010, 124 Stat. 2105; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -541,35 +541,35 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 **References in Text**
 
-The Right of Financial Privacy Act of 1978, and the Financial Privacy Act of 1978, referred to in subsec. (b), both probably mean title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, known as the Right to Financial Privacy Act of 1978, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right of Financial Privacy Act of 1978, and the Financial Privacy Act of 1978, referred to in subsec. (b), both probably mean title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, known as the Right to Financial Privacy Act of 1978, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 The Privacy Act of 1974, referred to in subsec. (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5.
 
-Section 3401(6) of this title, referred to in subsec. (e), was redesignated section 3401(7) of this title by Pub. L. 101–73, title IX, § 941(1), Aug. 9, 1989, 103 Stat. 496.
+Section 3401(6) of this title, referred to in subsec. (e), was redesignated section 3401(7) of this title by Pub. L. 101–73, title IX, § 941(1), Aug. 9, 1989, 103 Stat. 496.
 
 **Amendments**
 
-2012—Subsec. (e). Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
+2012—Subsec. (e). Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
 
 2010—Subsec. (e). Pub. L. 111–203 substituted “the Commodity Futures Trading Commission, and the Bureau of Consumer Financial Protection is permitted” for “and the Commodity Futures Trading Commission is permitted”.
 
-2006—Subsec. (e). Pub. L. 109–455, § 10, which inserted “the Federal Trade Commission,” after “the Securities and Exchange Commission,”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Subsec. (e). Pub. L. 109–455, § 10, which inserted “the Federal Trade Commission,” after “the Securities and Exchange Commission,”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–56 inserted “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”.
+2001—Subsec. (a). Pub. L. 107–56 inserted “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”.
 
-1999—Subsec. (e). Pub. L. 106–102 inserted “, examination reports” after “financial records” and substituted “provision of law,” for “provision of this chapter,” and “, the Securities and Exchange Commission, and the Commodity Futures Trading Commission” for “and the Securities and Exchange Commission”.
+1999—Subsec. (e). Pub. L. 106–102 inserted “, examination reports” after “financial records” and substituted “provision of law,” for “provision of this chapter,” and “, the Securities and Exchange Commission, and the Commodity Futures Trading Commission” for “and the Securities and Exchange Commission”.
 
-1992—Subsec. (f)(1). Pub. L. 102–550, § 1516(1), inserted “or the Secretary of the Treasury” after “the Attorney General”.
+1992—Subsec. (f)(1). Pub. L. 102–550, § 1516(1), inserted “or the Secretary of the Treasury” after “the Attorney General”.
 
-Subsec. (f)(2). Pub. L. 102–550, § 1606(b), inserted a comma before “for civil actions” and made technical amendment to reference to sections 981 or 982 of title 18.
+Subsec. (f)(2). Pub. L. 102–550, § 1606(b), inserted a comma before “for civil actions” and made technical amendment to reference to sections 981 or 982 of title 18.
 
-Pub. L. 102–550, § 1516(2), inserted “and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury” after “the Department of Justice”.
+Pub. L. 102–550, § 1516(2), inserted “and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury” after “the Department of Justice”.
 
 1991—Subsec. (f)(2). Pub. L. 102–242 inserted “for civil actions under section 1833a of this title, or for forfeiture under sections 981 or 982 of title 18” after “or prosecutive purposes” and inserted at end “No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.”
 
-1989—Subsec. (e). Pub. L. 101–73, § 944(1), which directed the insertion of “, holding company, or any subsidiary of a depository institution or holding company,” after “with respect to a depository institution”, was executed by making the insertion after “with respect to a financial institution”, as the probable intent of Congress.
+1989—Subsec. (e). Pub. L. 101–73, § 944(1), which directed the insertion of “, holding company, or any subsidiary of a depository institution or holding company,” after “with respect to a depository institution”, was executed by making the insertion after “with respect to a financial institution”, as the probable intent of Congress.
 
-Pub. L. 101–73, § 944(2), substituted “Council and the Securities and Exchange Commission” for “Council”.
+Pub. L. 101–73, § 944(2), substituted “Council and the Securities and Exchange Commission” for “Council”.
 
 1988—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
@@ -597,7 +597,7 @@ Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in th
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3413. Exceptions
+## § 3413. Exceptions
 
 **(a) Disclosure of financial records not identified with particular customers**
 
@@ -703,7 +703,7 @@ Nothing in this chapter shall apply to the disclosure of any financial record or
 
 Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
 
-(Pub. L. 95–630, title XI, § 1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, § 121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, § 1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, § 6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, § 942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, § 104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, § 411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, § 603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, § 2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, § 14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, § 4(a), title XIV, § 14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, § 1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, § 1099(3), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 95–630, title XI, § 1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, § 121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, § 1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, § 6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, § 942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, § 104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, § 411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, § 603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, § 2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, § 14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, § 4(a), title XIV, § 14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, § 1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, § 1099(3), July 21, 2010, 124 Stat. 2105.)
 
 **Editorial Notes**
 
@@ -713,13 +713,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
-The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 **Codification**
 
@@ -729,7 +729,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2010—Subsec. (r). Pub. L. 111–203 added subsec. (r).
 
-2008—Subsec. (k). Pub. L. 110–246, § 14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer’s name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
+2008—Subsec. (k). Pub. L. 110–246, § 14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer’s name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
 
 Subsec. (*o*). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency’s” for “Federal Housing Finance Board’s”.
 
@@ -739,21 +739,21 @@ Subsec. (*o*). Pub. L. 110–289 substituted “Federal Housing Finance Agency�
 
 1992—Subsec. (p). Pub. L. 102–568 added subsec. (p).
 
-1991—Subsec. (h)(1)(A), (4). Pub. L. 102–242, § 411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
+1991—Subsec. (h)(1)(A), (4). Pub. L. 102–242, § 411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
 
-Subsec. (*l*). Pub. L. 102–242, § 411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
+Subsec. (*l*). Pub. L. 102–242, § 411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
 
 1990—Subsec. (*l*)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
 
-1989—Subsec. (b). Pub. L. 101–73, § 942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
+1989—Subsec. (b). Pub. L. 101–73, § 942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
 
-Subsecs. (m) to (*o*). Pub. L. 101–73, § 942(2), added subsecs. (m) to (*o*).
+Subsecs. (m) to (*o*). Pub. L. 101–73, § 942(2), added subsecs. (m) to (*o*).
 
 1988—Subsec. (*l*). Pub. L. 100–690 added subsec. (*l*).
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title”.
+Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title”.
 
 Subsec. (k)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -781,13 +781,13 @@ Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3414. Special procedures
+## § 3414. Special procedures
 
 **(a) Access to financial records for certain intelligence and protective purposes**
 
-**(1)** Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 1
+**(1)** Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
 
@@ -813,9 +813,9 @@ of this title) shall apply to the production and disclosure of financial records
 
 **(5)**
 
-**(A)** Financial institutions, and officers, employees, and agents thereof, shall comply with a request for a customer’s or entity’s financial records made pursuant to this subsection by the Federal Bureau of Investigation when the Director of the Federal Bureau of Investigation (or the Director’s designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director) certifies in writing to the financial institution that such records are sought for foreign counter intelligence 2
+**(A)** Financial institutions, and officers, employees, and agents thereof, shall comply with a request for a customer’s or entity’s financial records made pursuant to this subsection by the Federal Bureau of Investigation when the Director of the Federal Bureau of Investigation (or the Director’s designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director) certifies in writing to the financial institution that such records are sought for foreign counter intelligence 2
 
-<sup>2</sup>  So in original. Probably should be “counterintelligence”.
+<sup>2</sup> So in original. Probably should be “counterintelligence”.
 
 purposes to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
@@ -893,43 +893,43 @@ A request under subsection (a) shall include notice of the availability of judic
 
 For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term “financial institution” has the same meaning as in subsections (a)(2) and (c)(1) of section 5312 of title 31, except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
 
-(Pub. L. 95–630, title XI, § 1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, § 432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, § 404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, § 358(f)(2), title V, § 505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, § 811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, § 374(a), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 109–177, title I, § 116(d), (e), title VI, § 605(e)(1), Mar. 9, 2006, 120 Stat. 215, 216, 255; Pub. L. 109–178, § 4(d), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(b), 502(b), 503(b), June 2, 2015, 129 Stat. 282, 284, 290.)
+(Pub. L. 95–630, title XI, § 1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, § 432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, § 404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, § 358(f)(2), title V, § 505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, § 811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, § 374(a), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 109–177, title I, § 116(d), (e), title VI, § 605(e)(1), Mar. 9, 2006, 120 Stat. 215, 216, 255; Pub. L. 109–178, § 4(d), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§ 501(b), 502(b), 503(b), June 2, 2015, 129 Stat. 282, 284, 290.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734.
+Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734.
 
-Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, which was set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See 18 U.S.C. 3056(a)(7).
+Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, which was set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See 18 U.S.C. 3056(a)(7).
 
 **Amendments**
 
-2015—Subsec. (a)(2). Pub. L. 114–23, § 501(b), inserted before period at end “and a term that specifically identifies a customer, entity, or account to be used as the basis for the production and disclosure of financial records”.
+2015—Subsec. (a)(2). Pub. L. 114–23, § 501(b), inserted before period at end “and a term that specifically identifies a customer, entity, or account to be used as the basis for the production and disclosure of financial records”.
 
-Subsec. (a)(5)(D). Pub. L. 114–23, § 502(b)(1), struck out subpar. (D) which related to prohibition of certain disclosure.
+Subsec. (a)(5)(D). Pub. L. 114–23, § 502(b)(1), struck out subpar. (D) which related to prohibition of certain disclosure.
 
-Subsec. (c). Pub. L. 114–23, § 502(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–23, § 502(b)(2), added subsec. (c).
 
-Subsecs. (d), (e). Pub. L. 114–23, § 503(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 114–23, § 503(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–177, § 605(e)(1), which directed the amendment of section 3414 of title 12, United States Code, by substituting “18 U.S.C. 3056A” for “3 U.S.C. 202” in subsec. (a)(1)(B), was executed to this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress.
+2006—Subsec. (a)(1)(B). Pub. L. 109–177, § 605(e)(1), which directed the amendment of section 3414 of title 12, United States Code, by substituting “18 U.S.C. 3056A” for “3 U.S.C. 202” in subsec. (a)(1)(B), was executed to this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 109–177, § 116(d), which directed the general amendment of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer’s financial records.”
+Subsec. (a)(3). Pub. L. 109–177, § 116(d), which directed the general amendment of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer’s financial records.”
 
-Subsec. (a)(3)(D). Pub. L. 109–178, § 4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (a)(3)(D). Pub. L. 109–178, § 4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
-Subsec. (a)(5)(D). Pub. L. 109–177, § 116(e), which directed the general amendment of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer’s or entity’s financial records under this paragraph.”
+Subsec. (a)(5)(D). Pub. L. 109–177, § 116(e), which directed the general amendment of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: “No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer’s or entity’s financial records under this paragraph.”
 
-Subsec. (a)(5)(D)(iv). Pub. L. 109–178, § 4(d)(2), which directed the general amendment of clause (iv) of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to clause (iv) of subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, cl. (iv) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (a)(5)(D)(iv). Pub. L. 109–178, § 4(d)(2), which directed the general amendment of clause (iv) of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to clause (iv) of subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, cl. (iv) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 2003—Subsec. (d). Pub. L. 108–177 added subsec. (d).
 
 2002—Subsec. (a)(5)(C). Pub. L. 107–306 substituted “On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50)” for “On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
-2001—Subsec. (a)(1)(C). Pub. L. 107–56, § 358(f)(2), added subpar. (C).
+2001—Subsec. (a)(1)(C). Pub. L. 107–56, § 358(f)(2), added subpar. (C).
 
-Subsec. (a)(5)(A). Pub. L. 107–56, § 505(b), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Director’s designee” and substituted “sought for foreign counter intelligence purposes to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States” for “sought for foreign counterintelligence purposes and that there are specific and articulable facts giving reason to believe that the customer or entity whose records are sought is a foreign power or an agent of a foreign power as defined in section 1801 of title 50”.
+Subsec. (a)(5)(A). Pub. L. 107–56, § 505(b), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Director’s designee” and substituted “sought for foreign counter intelligence purposes to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States” for “sought for foreign counterintelligence purposes and that there are specific and articulable facts giving reason to believe that the customer or entity whose records are sought is a foreign power or an agent of a foreign power as defined in section 1801 of title 50”.
 
 1986—Subsec. (a)(5). Pub. L. 99–569 added par. (5).
 
@@ -955,7 +955,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Termination Procedures**
 
-Pub. L. 114–23, title V, § 502(f), June 2, 2015, 129 Stat. 288, provided that:
+Pub. L. 114–23, title V, § 502(f), June 2, 2015, 129 Stat. 288, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of enactment of this Act [June 2, 2015], the Attorney General shall adopt procedures with respect to nondisclosure requirements issued pursuant to section 2709 of title 18, United States Code, section 626 or 627 of the Fair Credit Reporting Act (15 U.S.C. 1681u and 1681v), section 1114 of the Right to Financial Privacy Act [of 1978] (12 U.S.C. 3414), or section 802 of the National Security Act of 1947 (50 U.S.C. 3162), as amended by this Act, to require—
 
@@ -967,23 +967,23 @@ Pub. L. 114–23, title V, § 502(f), June 2, 2015, 129 Stat. 288, provided th
 
 > **“(2) Reporting.—** Upon adopting the procedures required under paragraph (1), the Attorney General shall submit the procedures to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.”
 
-## § 3415. Cost reimbursement
+## § 3415. Cost reimbursement
 
 Except for records obtained pursuant to section 3403(d) or 3413(a) through (h) of this title, or as otherwise provided by law, a Government authority shall pay to the financial institution assembling or providing financial records pertaining to a customer and in accordance with procedures established by this chapter a fee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, reproducing, or transporting books, papers, records, or other data required or requested to be produced. The Board of Governors of the Federal Reserve System shall, by regulation, establish the rates and conditions under which such payment may be made.
 
-(Pub. L. 95–630, title XI, § 1115(a), Nov. 10, 1978, 92 Stat. 3708.)
+(Pub. L. 95–630, title XI, § 1115(a), Nov. 10, 1978, 92 Stat. 3708.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–630, title XI, § 1115(b), Nov. 10, 1978, 92 Stat. 3708, provided that: “This section shall take effect on October 1, 1979.”
+Pub. L. 95–630, title XI, § 1115(b), Nov. 10, 1978, 92 Stat. 3708, provided that: “This section shall take effect on October 1, 1979.”
 
-## § 3416. Jurisdiction
+## § 3416. Jurisdiction
 
 An action to enforce any provision of this chapter may be brought in any appropriate United States district court without regard to the amount in controversy within three years from the date on which the violation occurs or the date of discovery of such violation, whichever is later.
 
-(Pub. L. 95–630, title XI, § 1116, Nov. 10, 1978, 92 Stat. 3708.)
+(Pub. L. 95–630, title XI, § 1116, Nov. 10, 1978, 92 Stat. 3708.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -991,7 +991,7 @@ An action to enforce any provision of this chapter may be brought in any appropr
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3417. Civil penalties
+## § 3417. Civil penalties
 
 **(a) Liability of agencies or departments of United States or financial institutions** Any agency or department of the United States or financial institution obtaining or disclosing financial records or information contained therein in violation of this chapter is liable to the customer to whom such records relate in an amount equal to the sum of—
 
@@ -1015,7 +1015,7 @@ Any financial institution or agent or employee thereof making a disclosure of fi
 
 The remedies and sanctions described in this chapter shall be the only authorized judicial remedies and sanctions for violations of this chapter.
 
-(Pub. L. 95–630, title XI, § 1117, Nov. 10, 1978, 92 Stat. 3708; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–690, title VI, § 6186(d), Nov. 18, 1988, 102 Stat. 4358.)
+(Pub. L. 95–630, title XI, § 1117, Nov. 10, 1978, 92 Stat. 3708; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–690, title VI, § 6186(d), Nov. 18, 1988, 102 Stat. 4358.)
 
 **Editorial Notes**
 
@@ -1033,13 +1033,13 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” and “Director” substituted in subsec. (b) for “Civil Service Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” and “Director” substituted in subsec. (b) for “Civil Service Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-## § 3418. Injunctive relief
+## § 3418. Injunctive relief
 
 In addition to any other remedy contained in this chapter, injunctive relief shall be available to require that the procedures of this chapter are complied with. In the event of any successful action, costs together with reasonable attorney’s fees as determined by the court may be recovered.
 
-(Pub. L. 95–630, title XI, § 1118, Nov. 10, 1978, 92 Stat. 3709.)
+(Pub. L. 95–630, title XI, § 1118, Nov. 10, 1978, 92 Stat. 3709.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1047,11 +1047,11 @@ In addition to any other remedy contained in this chapter, injunctive relief sha
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3419. Suspension of limitations
+## § 3419. Suspension of limitations
 
 If any individual files a motion or application under this chapter which has the effect of delaying the access of a Government authority to financial records pertaining to such individual, any applicable statute of limitations shall be deemed to be tolled for the period extending from the date such motion or application was filed until the date upon which the motion or application is decided.
 
-(Pub. L. 95–630, title XI, § 1119, Nov. 10, 1978, 92 Stat. 3709.)
+(Pub. L. 95–630, title XI, § 1119, Nov. 10, 1978, 92 Stat. 3709.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1059,13 +1059,13 @@ If any individual files a motion or application under this chapter which has the
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3420. Grand jury information; notification of certain persons prohibited
+## § 3420. Grand jury information; notification of certain persons prohibited
 
 **(a)** Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
 
-**(1)** shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; 1
+**(1)** shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(2)** shall be used only for the purpose of considering whether to issue an indictment or presentment by that grand jury, or of prosecuting a crime for which that indictment or presentment is issued, or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure, or for a purpose authorized by section 3412(a) of this title;
 
@@ -1085,7 +1085,7 @@ about the existence or contents of such subpoena, or information that has been f
 
 **(2)** Section 1818 of this title and section 1786(k)(2) of this title shall apply to any violation of this subsection.
 
-(Pub. L. 95–630, title XI, § 1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, § 6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, § 943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, § 1532, Oct. 28, 1992, 106 Stat. 4066; Pub. L. 107–56, title III, § 358(f)(3), Oct. 26, 2001, 115 Stat. 327; Pub. L. 116–283, div. F, title LXIII, § 6308(d), Jan. 1, 2021, 134 Stat. 4594.)
+(Pub. L. 95–630, title XI, § 1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, § 6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, § 943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, § 1532, Oct. 28, 1992, 106 Stat. 4066; Pub. L. 107–56, title III, § 358(f)(3), Oct. 26, 2001, 115 Stat. 327; Pub. L. 116–283, div. F, title LXIII, § 6308(d), Jan. 1, 2021, 134 Stat. 4594.)
 
 **Editorial Notes**
 
@@ -1093,15 +1093,15 @@ about the existence or contents of such subpoena, or information that has been f
 
 Rule 6(e) of the Federal Rules of Criminal Procedure, referred to in subsec. (a)(2), (4), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Controlled Substance Act, referred to in subsec. (b)(1)(A), probably means the Controlled Substances Act, which is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substance Act, referred to in subsec. (b)(1)(A), probably means the Controlled Substances Act, which is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 **Amendments**
 
-2021—Subsec. (b)(1)(A). Pub. L. 116–283 substituted “, 1957, or 1960 of title 18” for “or 1957 of title 18” and “, 5322, 5324, 5331, and 5332 of title 31” for “and 5324 of title 31”.
+2021—Subsec. (b)(1)(A). Pub. L. 116–283 substituted “, 1957, or 1960 of title 18” for “or 1957 of title 18” and “, 5322, 5324, 5331, and 5332 of title 31” for “and 5324 of title 31”.
 
-2001—Subsec. (a)(2). Pub. L. 107–56 inserted “, or for a purpose authorized by section 3412(a) of this title” before semicolon at end.
+2001—Subsec. (a)(2). Pub. L. 107–56 inserted “, or for a purpose authorized by section 3412(a) of this title” before semicolon at end.
 
 1992—Subsec. (b)(1)(A). Pub. L. 102–550 inserted before semicolon “or crime involving a violation of the Controlled Substance Act, the Controlled Substances Import and Export Act, section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of title 26”.
 
@@ -1119,21 +1119,21 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3421. Repealed. Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734
+## § 3421. Repealed. Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734
 
-Section, Pub. L. 95–630, title XI, § 1121, Nov. 10, 1978, 92 Stat. 3710, related to reporting requirements.
+Section, Pub. L. 95–630, title XI, § 1121, Nov. 10, 1978, 92 Stat. 3710, related to reporting requirements.
 
-## § 3422. Applicability to Securities and Exchange Commission
+## § 3422. Applicability to Securities and Exchange Commission
 
 Except as provided in the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], this chapter shall apply with respect to the Securities and Exchange Commission.
 
-(Pub. L. 95–630, title XI, § 1122, Nov. 10, 1978, 92 Stat. 3710; Pub. L. 96–433, § 2, Oct. 10, 1980, 94 Stat. 1855.)
+(Pub. L. 95–630, title XI, § 1122, Nov. 10, 1978, 92 Stat. 3710; Pub. L. 96–433, § 2, Oct. 10, 1980, 94 Stat. 1855.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
@@ -1149,7 +1149,7 @@ Amendment by Pub. L. 96–433 effective Nov. 10, 1980, see section 5(b) of Pub. 
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3423. Immunity from suit for disclosure of financial exploitation of senior citizens
+## § 3423. Immunity from suit for disclosure of financial exploitation of senior citizens
 
 **(a) Immunity**
 
@@ -1295,7 +1295,7 @@ Nothing in subparagraph (A) or (B) shall be construed to limit the liability of 
 
 Nothing in this section shall be construed to preempt or limit any provision of State law, except only to the extent that subsection (a) provides a greater level of protection against liability to an individual described in subsection (a)(2)(A) or to a covered financial institution described in subsection (a)(2)(B) than is provided under State law.
 
-(Pub. L. 115–174, title III, § 303, May 24, 2018, 132 Stat. 1335.)
+(Pub. L. 115–174, title III, § 303, May 24, 2018, 132 Stat. 1335.)
 
 **Editorial Notes**
 

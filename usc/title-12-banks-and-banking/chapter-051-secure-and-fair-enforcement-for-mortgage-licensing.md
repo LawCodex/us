@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 51—SECURE AND FAIR ENFORCEMENT FOR MORTGAGE LICENSING
 
-## § 5101. Purposes and methods for establishing a mortgage licensing system and registry
+## § 5101. Purposes and methods for establishing a mortgage licensing system and registry
 
 In order to increase uniformity, reduce regulatory burden, enhance consumer protection, and reduce fraud, the States, through the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators, are hereby encouraged to establish a Nationwide Mortgage Licensing System and Registry for the residential mortgage industry that accomplishes all of the following objectives:
 
@@ -39,19 +39,19 @@ In order to increase uniformity, reduce regulatory burden, enhance consumer prot
 
 **(10)** Facilitates the collection and disbursement of consumer complaints on behalf of State and Federal mortgage regulators.
 
-(Pub. L. 110–289, div. A, title V, § 1502, July 30, 2008, 122 Stat. 2810.)
+(Pub. L. 110–289, div. A, title V, § 1502, July 30, 2008, 122 Stat. 2810.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–94, div. G, title LXXXVIII, § 88001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending section 5110 of this title] may be cited as the ‘State Licensing Efficiency Act of 2015’.”
+Pub. L. 114–94, div. G, title LXXXVIII, § 88001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending section 5110 of this title] may be cited as the ‘State Licensing Efficiency Act of 2015’.”
 
 **Short Title**
 
-Pub. L. 110–289, div. A, title V, § 1501, July 30, 2008, 122 Stat. 2810, provided that: “This title [enacting this chapter] may be cited as the ‘Secure and Fair Enforcement for Mortgage Licensing Act of 2008’ or ‘S.A.F.E. Mortgage Licensing Act of 2008’.”
+Pub. L. 110–289, div. A, title V, § 1501, July 30, 2008, 122 Stat. 2810, provided that: “This title [enacting this chapter] may be cited as the ‘Secure and Fair Enforcement for Mortgage Licensing Act of 2008’ or ‘S.A.F.E. Mortgage Licensing Act of 2008’.”
 
-## § 5102. Definitions
+## § 5102. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -143,9 +143,9 @@ The term “nontraditional mortgage product” means any mortgage product other 
 
 **(9) Residential mortgage loan**
 
-The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) 1
+The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
 
@@ -189,29 +189,29 @@ The term “State” means any State of the United States, the District of Colum
 
 To the greatest extent possible and to accomplish the purpose of this chapter, States shall use unique identifiers in lieu of social security numbers.
 
-(Pub. L. 110–289, div. A, title V, § 1503, July 30, 2008, 122 Stat. 2811; Pub. L. 111–203, title X, § 1100(2)–(4), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1503, July 30, 2008, 122 Stat. 2811; Pub. L. 111–203, title X, § 1100(2)–(4), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1602(w) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1602(w) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
+2010—Pub. L. 111–203, § 1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
 
-Par. (1). Pub. L. 111–203, § 1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
+Par. (1). Pub. L. 111–203, § 1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
 
-Par. (2). Pub. L. 111–203, § 1100(4)(B), added par. (2). Former par. (2) redesignated (3).
+Par. (2). Pub. L. 111–203, § 1100(4)(B), added par. (2). Former par. (2) redesignated (3).
 
-Par. (5). Pub. L. 111–203, § 1100(3), substituted “Director” for “Secretary”.
+Par. (5). Pub. L. 111–203, § 1100(3), substituted “Director” for “Secretary”.
 
-Par. (10). Pub. L. 111–203, § 1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+Par. (10). Pub. L. 111–203, § 1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
 
-Par. (11)(C). Pub. L. 111–203, § 1100(3), substituted “Director” for “Secretary”.
+Par. (11)(C). Pub. L. 111–203, § 1100(3), substituted “Director” for “Secretary”.
 
-Par. (12)(A)(ii). Pub. L. 111–203, § 1100(2), substituted “Bureau” for “Federal banking agencies”.
+Par. (12)(A)(ii). Pub. L. 111–203, § 1100(2), substituted “Bureau” for “Federal banking agencies”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,7 +225,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 5103. License or registration required
+## § 5103. License or registration required
 
 **(a) In general** Subject to the existence of a licensing or registration regime, as the case may be, an individual may not engage in the business of a loan originator without first—
 
@@ -247,9 +247,9 @@ A loan processor or underwriter who does not represent to the public, through ad
 
 An independent contractor may not engage in residential mortgage loan origination activities as a loan processor or underwriter unless such independent contractor is a State-licensed loan originator.
 
-(Pub. L. 110–289, div. A, title V, § 1504, July 30, 2008, 122 Stat. 2814.)
+(Pub. L. 110–289, div. A, title V, § 1504, July 30, 2008, 122 Stat. 2814.)
 
-## § 5104. State license and registration application and issuance
+## § 5104. State license and registration application and issuance
 
 **(a) Background checks** In connection with an application to any State for licensing and registration as a State-licensed loan originator, the applicant shall, at a minimum, furnish to the Nationwide Mortgage Licensing System and Registry information concerning the applicant’s identity, including—
 
@@ -341,9 +341,9 @@ A State-licensed loan originator who fails to maintain a valid license for a per
 
 Each mortgage licensee shall submit to the Nationwide Mortgage Licensing System and Registry reports of condition, which shall be in such form and shall contain such information as the Nationwide Mortgage Licensing System and Registry may require.
 
-(Pub. L. 110–289, div. A, title V, § 1505, July 30, 2008, 122 Stat. 2814.)
+(Pub. L. 110–289, div. A, title V, § 1505, July 30, 2008, 122 Stat. 2814.)
 
-## § 5105. Standards for State license renewal
+## § 5105. Standards for State license renewal
 
 **(a) In general** The minimum standards for license renewal for State-licensed loan originators shall include the following:
 
@@ -385,9 +385,9 @@ To maintain the independence of the approval process, the Nationwide Mortgage Li
 
 In approving courses under this section, the Nationwide Mortgage Licensing System and Registry shall apply reasonable standards in the review and approval of courses.
 
-(Pub. L. 110–289, div. A, title V, § 1506, July 30, 2008, 122 Stat. 2816.)
+(Pub. L. 110–289, div. A, title V, § 1506, July 30, 2008, 122 Stat. 2816.)
 
-## § 5106. System of registration administration by Federal agencies
+## § 5106. System of registration administration by Federal agencies
 
 **(a) Development**
 
@@ -407,7 +407,7 @@ The Bureau shall develop and maintain a system for registering employees of a de
 
 The Bureau,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 and the Bureau of Consumer Financial Protection shall coordinate with the Nationwide Mortgage Licensing System and Registry to establish protocols for assigning a unique identifier to each registered loan originator that will facilitate electronic tracking and uniform identification of, and public access to, the employment history of and publicly adjudicated disciplinary and enforcement actions against loan originators.
 
@@ -419,19 +419,19 @@ To facilitate the transfer of information required by subsection (a)(2), the Nat
 
 In establishing the registration procedures under subsection (a) and the protocols for assigning a unique identifier to a registered loan originator, the Bureau shall make such de minimis exceptions as may be appropriate to paragraphs (1)(A) and (2) of section 5103(a) of this title, shall make reasonable efforts to utilize existing information to minimize the burden of registering loan originators, and shall consider methods for automating the process to the greatest extent practicable consistent with the purposes of this chapter.
 
-(Pub. L. 110–289, div. A, title V, § 1507, July 30, 2008, 122 Stat. 2817; Pub. L. 111–203, title X, § 1100(2), (5), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1507, July 30, 2008, 122 Stat. 2817; Pub. L. 111–203, title X, § 1100(2), (5), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 1100(5)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Federal banking agencies shall jointly, through the Federal Financial Institutions Examination Council, and together with the Farm Credit Administration, develop and maintain a system for registering employees of a depository institution, employees of a subsidiary that is owned and controlled by a depository institution and regulated by a Federal banking agency, or employees of an institution regulated by the Farm Credit Administration, as registered loan originators with the Nationwide Mortgage Licensing System and Registry. The system shall be implemented before the end of the 1-year period beginning on July 30, 2008.”
+2010—Subsec. (a)(1). Pub. L. 111–203, § 1100(5)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Federal banking agencies shall jointly, through the Federal Financial Institutions Examination Council, and together with the Farm Credit Administration, develop and maintain a system for registering employees of a depository institution, employees of a subsidiary that is owned and controlled by a depository institution and regulated by a Federal banking agency, or employees of an institution regulated by the Farm Credit Administration, as registered loan originators with the Nationwide Mortgage Licensing System and Registry. The system shall be implemented before the end of the 1-year period beginning on July 30, 2008.”
 
-Subsec. (a)(2). Pub. L. 111–203, § 1100(5)(A)(ii), in introductory provisions, substituted “Bureau” for “appropriate Federal banking agency and the Farm Credit Administration” and “identity of the employee” for “employees’s identity”.
+Subsec. (a)(2). Pub. L. 111–203, § 1100(5)(A)(ii), in introductory provisions, substituted “Bureau” for “appropriate Federal banking agency and the Farm Credit Administration” and “identity of the employee” for “employees’s identity”.
 
-Subsec. (b). Pub. L. 111–203, § 1100(5)(B), which directed substitution of “and the Bureau of Consumer Financial Protection” for “through the Financial Institutions Examination Council, and the Farm Credit Administration”, was executed in both places those words appeared, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 111–203, § 1100(5)(B), which directed substitution of “and the Bureau of Consumer Financial Protection” for “through the Financial Institutions Examination Council, and the Farm Credit Administration”, was executed in both places those words appeared, to reflect the probable intent of Congress.
 
-Subsecs. (b)(1), (2), (c). Pub. L. 111–203, § 1100(2), substituted “Bureau” for “Federal banking agencies”.
+Subsecs. (b)(1), (2), (c). Pub. L. 111–203, § 1100(2), substituted “Bureau” for “Federal banking agencies”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -439,7 +439,7 @@ Subsecs. (b)(1), (2), (c). Pub. L. 111–203, § 1100(2), substituted “Burea
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5107. Bureau of Consumer Financial Protection backup authority to establish loan originator licensing system
+## § 5107. Bureau of Consumer Financial Protection backup authority to establish loan originator licensing system
 
 **(a) Backup licensing system**
 
@@ -481,15 +481,15 @@ The Bureau is authorized to promulgate regulations setting minimum net worth or 
 
 In issuing regulations under paragraph (1), the Bureau shall take into account the need to provide originators adequate incentives to originate affordable and sustainable mortgage loans, as well as the need to ensure a competitive origination market that maximizes consumer access to affordable and sustainable mortgage loans.
 
-(Pub. L. 110–289, div. A, title V, § 1508, July 30, 2008, 122 Stat. 2818; Pub. L. 111–203, title X, § 1100(3), (6), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1508, July 30, 2008, 122 Stat. 2818; Pub. L. 111–203, title X, § 1100(3), (6), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100(3), (6)(A), inserted section catchline, struck out former section catchline which read “Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system”, and substituted “Director” for “Secretary” wherever appearing in text.
+2010—Pub. L. 111–203, § 1100(3), (6)(A), inserted section catchline, struck out former section catchline which read “Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system”, and substituted “Director” for “Secretary” wherever appearing in text.
 
-Subsec. (f). Pub. L. 111–203, § 1100(6)(B), added subsec. (f).
+Subsec. (f). Pub. L. 111–203, § 1100(6)(B), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -497,11 +497,11 @@ Subsec. (f). Pub. L. 111–203, § 1100(6)(B), added subsec. (f).
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5108. Backup authority to establish a nationwide mortgage licensing and registry system
+## § 5108. Backup authority to establish a nationwide mortgage licensing and registry system
 
 If at any time the Director determines that the Nationwide Mortgage Licensing System and Registry is failing to meet the requirements and purposes of this chapter for a comprehensive licensing, supervisory, and tracking system for loan originators, the Director shall establish and maintain such a system to carry out the purposes of this chapter and the effective registration and regulation of loan originators.
 
-(Pub. L. 110–289, div. A, title V, § 1509, July 30, 2008, 122 Stat. 2819; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1509, July 30, 2008, 122 Stat. 2819; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -515,17 +515,17 @@ If at any time the Director determines that the Nationwide Mortgage Licensing Sy
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5109. Fees
+## § 5109. Fees
 
 The Bureau, the Farm Credit Administration, and the Nationwide Mortgage Licensing System and Registry may charge reasonable fees to cover the costs of maintaining and providing access to information from the Nationwide Mortgage Licensing System and Registry, to the extent that such fees are not charged to consumers for access to such system and registry.
 
-(Pub. L. 110–289, div. A, title V, § 1510, as added Pub. L. 111–203, title X, § 1100(7), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 110–289, div. A, title V, § 1510, as added Pub. L. 111–203, title X, § 1100(7), July 21, 2010, 124 Stat. 2107.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5109, Pub. L. 110–289, div. A, title V, § 1510, July 30, 2008, 122 Stat. 2819, which related to fees, was repealed by Pub. L. 111–203, title X, § 1100(7), July 21, 2010, 124 Stat. 2107.
+A prior section 5109, Pub. L. 110–289, div. A, title V, § 1510, July 30, 2008, 122 Stat. 2819, which related to fees, was repealed by Pub. L. 111–203, title X, § 1100(7), July 21, 2010, 124 Stat. 2107.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -533,7 +533,7 @@ A prior section 5109, Pub. L. 110–289, div. A, title V, § 1510, July 30, 20
 
 Section effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5110. Background checks of loan originators
+## § 5110. Background checks of loan originators
 
 **(a) Access to records**
 
@@ -543,7 +543,7 @@ Notwithstanding any other provision of law, in providing identification and proc
 
 For the purposes of this section and in order to reduce the points of contact which the Federal Bureau of Investigation may have to maintain for purposes of subsection (a), the Conference of State Bank Supervisors or a wholly owned subsidiary may be used as a channeling agent of the States for requesting and distributing information between the Department of Justice and the appropriate State agencies .
 
-(Pub. L. 110–289, div. A, title V, § 1511, July 30, 2008, 122 Stat. 2819; Pub. L. 114–94, div. G, title LXXXVIII, § 88002, Dec. 4, 2015, 129 Stat. 1799.)
+(Pub. L. 110–289, div. A, title V, § 1511, July 30, 2008, 122 Stat. 2819; Pub. L. 114–94, div. G, title LXXXVIII, § 88002, Dec. 4, 2015, 129 Stat. 1799.)
 
 **Editorial Notes**
 
@@ -551,7 +551,7 @@ For the purposes of this section and in order to reduce the points of contact wh
 
 2015—Subsec. (a). Pub. L. 114–94 inserted “and other financial service providers” after “State-licensed loan originators” and “or other financial service providers” before period at end.
 
-## § 5111. Confidentiality of information
+## § 5111. Confidentiality of information
 
 **(a) System confidentiality**
 
@@ -571,7 +571,7 @@ Any State law, including any State open record law, relating to the disclosure o
 
 This section shall not apply with respect to the information or material relating to the employment history of, and publicly adjudicated disciplinary and enforcement actions against, loan originators that is included in Nationwide Mortgage Licensing System and Registry for access by the public.
 
-(Pub. L. 110–289, div. A, title V, § 1512, July 30, 2008, 122 Stat. 2820; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106; Pub. L. 114–113, div. O, title VII, § 703, Dec. 18, 2015, 129 Stat. 3025.)
+(Pub. L. 110–289, div. A, title V, § 1512, July 30, 2008, 122 Stat. 2820; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106; Pub. L. 114–113, div. O, title VII, § 703, Dec. 18, 2015, 129 Stat. 3025.)
 
 **Editorial Notes**
 
@@ -587,7 +587,7 @@ This section shall not apply with respect to the information or material relatin
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5112. Liability provisions
+## § 5112. Liability provisions
 
 The Bureau, any State official or agency, or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Director under section 5108 of this title, or any officer or employee of any such entity, shall not be subject to any civil action or proceeding for monetary damages by reason of the good faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who—
 
@@ -595,13 +595,13 @@ The Bureau, any State official or agency, or any organization serving as the adm
 
 **(2)** work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on May 24, 2018.
 
-(Pub. L. 110–289, div. A, title V, § 1513, as added Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107; amended Pub. L. 115–174, title I, § 106(c), May 24, 2018, 132 Stat. 1304.)
+(Pub. L. 110–289, div. A, title V, § 1513, as added Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107; amended Pub. L. 115–174, title I, § 106(c), May 24, 2018, 132 Stat. 1304.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5112, Pub. L. 110–289, div. A, title V, § 1513, July 30, 2008, 122 Stat. 2820, which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107.
+A prior section 5112, Pub. L. 110–289, div. A, title V, § 1513, July 30, 2008, 122 Stat. 2820, which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107.
 
 **Amendments**
 
@@ -611,13 +611,13 @@ A prior section 5112, Pub. L. 110–289, div. A, title V, § 1513, July 30, 20
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title I, § 106(d), May 24, 2018, 132 Stat. 1304, provided that: “This section [enacting section 5117 of this title and amending this section] and the amendments made by this section shall take effect on the date that is 18 months after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title I, § 106(d), May 24, 2018, 132 Stat. 1304, provided that: “This section [enacting section 5117 of this title and amending this section] and the amendments made by this section shall take effect on the date that is 18 months after the date of enactment of this Act [May 24, 2018].”
 
 **Effective Date**
 
 Section effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5113. Enforcement by the Bureau
+## § 5113. Enforcement by the Bureau
 
 **(a) Summons authority** The Director may—
 
@@ -645,9 +645,9 @@ In connection with examinations of loan originators operating in any State which
 
 **(5) Assessments**
 
-The cost of conducting any examination of any loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title shall be assessed by the Director against the loan originator to meet the Secretary’s 1
+The cost of conducting any examination of any loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title shall be assessed by the Director against the loan originator to meet the Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Director’s”.
+<sup>1</sup> So in original. Probably should be “Director’s”.
 
 expenses in carrying out such examination.
 
@@ -681,7 +681,7 @@ the respondent may apply to the United States district court for the district in
 
 **(C) No automatic stay of temporary order**
 
-The commencement of proceedings under subparagraph (B) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s <sup>1</sup> order.
+The commencement of proceedings under subparagraph (B) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s <sup>1</sup> order.
 
 **(5) Authority of the Director to prohibit persons from serving as loan originators**
 
@@ -697,7 +697,7 @@ The Director may impose a civil penalty on a loan originator operating in any St
 
 The maximum amount of penalty for each act or omission described in paragraph (1) shall be $25,000.
 
-(Pub. L. 110–289, div. A, title V, § 1514, July 30, 2008, 122 Stat. 2821; Pub. L. 111–203, title X, § 1100(3), (9), July 21, 2010, 124 Stat. 2106, 2107.)
+(Pub. L. 110–289, div. A, title V, § 1514, July 30, 2008, 122 Stat. 2821; Pub. L. 111–203, title X, § 1100(3), (9), July 21, 2010, 124 Stat. 2106, 2107.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ Pub. L. 111–203 substituted “by the Bureau” for “under HUD backup licens
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5114. State examination authority
+## § 5114. State examination authority
 
 In addition to any authority allowed under State law a State licensing agency shall have the authority to conduct investigations and examinations as follows:
 
@@ -723,9 +723,9 @@ In addition to any authority allowed under State law a State licensing agency sh
 
 **(4)** No person subject to investigation or examination under this section may knowingly withhold, abstract, remove, mutilate, destroy, or secrete any books, records, computer records, or other information.
 
-(Pub. L. 110–289, div. A, title V, § 1515, July 30, 2008, 122 Stat. 2823.)
+(Pub. L. 110–289, div. A, title V, § 1515, July 30, 2008, 122 Stat. 2823.)
 
-## § 5115. Reports and recommendations to Congress
+## § 5115. Reports and recommendations to Congress
 
 **(a) Annual reports**
 
@@ -735,13 +735,13 @@ Not later than 1 year after July 30, 2008, and annually thereafter, the Director
 
 Not later than 6 months after July 30, 2008, the Director shall make recommendations to Congress on legislative reforms to the Real Estate Settlement Procedures Act of 1974 [12 U.S.C. 2601 et seq.], that the Director deems appropriate to promote more transparent disclosures, allowing consumers to better shop and compare mortgage loan terms and settlement costs.
 
-(Pub. L. 110–289, div. A, title V, § 1516, July 30, 2008, 122 Stat. 2824; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1516, July 30, 2008, 122 Stat. 2824; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 **Amendments**
 
@@ -753,7 +753,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), i
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5116. Study and reports on defaults and foreclosures
+## § 5116. Study and reports on defaults and foreclosures
 
 **(a) Study required**
 
@@ -767,7 +767,7 @@ Not later than 6 months after July 30, 2008, the Director shall submit to Congre
 
 Not later than 12 months after July 30, 2008, the Director shall submit to Congress a final report regarding the results of the study required by this section, which shall include any recommended legislation relating to the study, and recommendations for best practices and for a process to provide targeted assistance to populations with the highest risk of potential default or foreclosure.
 
-(Pub. L. 110–289, div. A, title V, § 1517, July 30, 2008, 122 Stat. 2824; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
+(Pub. L. 110–289, div. A, title V, § 1517, July 30, 2008, 122 Stat. 2824; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ Not later than 12 months after July 30, 2008, the Director shall submit to Congr
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 5117. Employment transition of loan originators
+## § 5117. Employment transition of loan originators
 
 **(a) Definitions** In this section:
 
@@ -855,7 +855,7 @@ Any person employing an individual who is deemed to have temporary authority to 
 
 Any individual who is deemed to have temporary authority to act as a loan originator in an application State under this section and who engages in residential mortgage loan origination activities shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
 
-(Pub. L. 110–289, div. A, title V, § 1518, as added Pub. L. 115–174, title I, § 106(a), May 24, 2018, 132 Stat. 1302.)
+(Pub. L. 110–289, div. A, title V, § 1518, as added Pub. L. 115–174, title I, § 106(a), May 24, 2018, 132 Stat. 1302.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Pub. L. 101–519, § 132, Nov. 5, 1990, 104 Stat. 2250, known as the “Antiterrorism Act of 1990”, amended this chapter by adding sections 2331 and 2333 to 2338 and by amending former section 2331 and renumbering it as section 2332. Pub. L. 102–27, title IV, § 402, Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, § 126, Oct. 25, 1991, 105 Stat. 643, repealed section 132 of Pub. L. 101–519, effective Nov. 5, 1990, and provided that effective Nov. 5, 1990, this chapter is amended to read as if section 132 of Pub. L. 101–519 had not been enacted.
+Pub. L. 101–519, § 132, Nov. 5, 1990, 104 Stat. 2250, known as the “Antiterrorism Act of 1990”, amended this chapter by adding sections 2331 and 2333 to 2338 and by amending former section 2331 and renumbering it as section 2332. Pub. L. 102–27, title IV, § 402, Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, § 126, Oct. 25, 1991, 105 Stat. 643, repealed section 132 of Pub. L. 101–519, effective Nov. 5, 1990, and provided that effective Nov. 5, 1990, this chapter is amended to read as if section 132 of Pub. L. 101–519 had not been enacted.
 
 **Prior Provisions**
 
@@ -27,33 +27,33 @@ Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapt
 
 **Amendments**
 
-2015—Pub. L. 114–23, title VIII, § 811(b), June 2, 2015, 129 Stat. 311, added item 2332i.
+2015—Pub. L. 114–23, title VIII, § 811(b), June 2, 2015, 129 Stat. 311, added item 2332i.
 
-2004—Pub. L. 108–458, title VI, § 6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
+2004—Pub. L. 108–458, title VI, § 6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
 
-2002—Pub. L. 107–197, title I, § 102(b), title II, § 202(b), June 25, 2002, 116 Stat. 724, 727, added items 2332f and 2339C.
+2002—Pub. L. 107–197, title I, § 102(b), title II, § 202(b), June 25, 2002, 116 Stat. 724, 727, added items 2332f and 2339C.
 
-2001—Pub. L. 107–56, title VIII, § 803(b), Oct. 26, 2001, 115 Stat. 377, added item 2339.
+2001—Pub. L. 107–56, title VIII, § 803(b), Oct. 26, 2001, 115 Stat. 377, added item 2339.
 
-1998—Pub. L. 105–277, div. I, title II, § 201(c)(2), Oct. 21, 1998, 112 Stat. 2681–871, struck out item 2332c “Use of chemical weapons”.
+1998—Pub. L. 105–277, div. I, title II, § 201(c)(2), Oct. 21, 1998, 112 Stat. 2681–871, struck out item 2332c “Use of chemical weapons”.
 
-1996—Pub. L. 104–294, title VI, § 605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
+1996—Pub. L. 104–294, title VI, § 605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
 
-Pub. L. 104–294, title VI, § 604(b)(5), Oct. 11, 1996, 110 Stat. 3506, amended directory language of Pub. L. 103–322, title XII, § 120005(b), Sept. 13, 1994, 108 Stat. 2023. See 1994 Amendment note below.
+Pub. L. 104–294, title VI, § 604(b)(5), Oct. 11, 1996, 110 Stat. 3506, amended directory language of Pub. L. 103–322, title XII, § 120005(b), Sept. 13, 1994, 108 Stat. 2023. See 1994 Amendment note below.
 
-Pub. L. 104–201, div. A, title XIV, § 1416(c)(2)(B), Sept. 23, 1996, 110 Stat. 2723, which directed amendment of table of sections at beginning of the chapter 133B of this title, that relates to terrorism, by adding item 2332d relating to requests for military assistance to enforce prohibition in certain emergencies, after item 2332c, was executed by making the addition after item 2332c in the table of sections at the beginning of this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
+Pub. L. 104–201, div. A, title XIV, § 1416(c)(2)(B), Sept. 23, 1996, 110 Stat. 2723, which directed amendment of table of sections at beginning of the chapter 133B of this title, that relates to terrorism, by adding item 2332d relating to requests for military assistance to enforce prohibition in certain emergencies, after item 2332c, was executed by making the addition after item 2332c in the table of sections at the beginning of this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
 
-Pub. L. 104–132, title III, §§ 303(b), 321(b), title V, § 521(c), title VII, § 702(b), Apr. 24, 1996, 110 Stat. 1253, 1254, 1287, 1294, added items 2332b to 2332d and 2339B.
+Pub. L. 104–132, title III, §§ 303(b), 321(b), title V, § 521(c), title VII, § 702(b), Apr. 24, 1996, 110 Stat. 1253, 1254, 1287, 1294, added items 2332b to 2332d and 2339B.
 
-1994—Pub. L. 103–322, title XII, § 120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, title VI, § 604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
+1994—Pub. L. 103–322, title XII, § 120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, title VI, § 604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
 
-Pub. L. 103–322, title VI, § 60023(b), title XXV, § 250002(a)(1), (b)(2), Sept. 13, 1994, 108 Stat. 1981, 2082, 2085, renumbered chapter 113A as 113B, amended chapter heading generally, substituting “113B” for “113A”, and added item 2332a.
+Pub. L. 103–322, title VI, § 60023(b), title XXV, § 250002(a)(1), (b)(2), Sept. 13, 1994, 108 Stat. 1981, 2082, 2085, renumbered chapter 113A as 113B, amended chapter heading generally, substituting “113B” for “113A”, and added item 2332a.
 
-1992—Pub. L. 102–572, title X, § 1003(a)(5), Oct. 29, 1992, 106 Stat. 4524, substituted “TERRORISM” for “EXTRATERRITORIAL JURISDICTION OVER TERRORIST ACTS ABROAD AGAINST UNITED STATES NATIONALS” in chapter heading and amended chapter analysis generally, substituting “Definitions” for “Terrorist acts abroad against United States nationals” in item 2331 and adding items 2332 to 2338.
+1992—Pub. L. 102–572, title X, § 1003(a)(5), Oct. 29, 1992, 106 Stat. 4524, substituted “TERRORISM” for “EXTRATERRITORIAL JURISDICTION OVER TERRORIST ACTS ABROAD AGAINST UNITED STATES NATIONALS” in chapter heading and amended chapter analysis generally, substituting “Definitions” for “Terrorist acts abroad against United States nationals” in item 2331 and adding items 2332 to 2338.
 
-1988—Pub. L. 100–690, title VII, § 7062, Nov. 18, 1988, 102 Stat. 4404, added item 2331.
+1988—Pub. L. 100–690, title VII, § 7062, Nov. 18, 1988, 102 Stat. 4404, added item 2331.
 
-## § 2331. Definitions
+## § 2331. Definitions
 
 As used in this chapter—
 
@@ -107,7 +107,7 @@ As used in this chapter—
 
 **(B)** has been determined by the court to not be a “military force”.
 
-(Added Pub. L. 102–572, title X, § 1003(a)(3), Oct. 29, 1992, 106 Stat. 4521; amended Pub. L. 107–56, title VIII, § 802(a), Oct. 26, 2001, 115 Stat. 376; Pub. L. 115–253, § 2(a), Oct. 3, 2018, 132 Stat. 3183.)
+(Added Pub. L. 102–572, title X, § 1003(a)(3), Oct. 29, 1992, 106 Stat. 4521; amended Pub. L. 107–56, title VIII, § 802(a), Oct. 26, 2001, 115 Stat. 376; Pub. L. 115–253, § 2(a), Oct. 3, 2018, 132 Stat. 3183.)
 
 **Editorial Notes**
 
@@ -123,31 +123,31 @@ A prior section 2331 was renumbered 2332 of this title.
 
 2018—Par. (6). Pub. L. 115–253 added par. (6).
 
-2001—Par. (1)(B)(iii). Pub. L. 107–56, § 802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
+2001—Par. (1)(B)(iii). Pub. L. 107–56, § 802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
 
-Par. (5). Pub. L. 107–56, § 802(a)(2)–(4), added par. (5).
+Par. (5). Pub. L. 107–56, § 802(a)(2)–(4), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–253, § 2(b), Oct. 3, 2018, 132 Stat. 3183, provided that: “The amendments made by this section [amending this section] shall apply to any civil action pending on or commenced after the date of the enactment of this Act [Oct. 3, 2018].”
+Pub. L. 115–253, § 2(b), Oct. 3, 2018, 132 Stat. 3183, provided that: “The amendments made by this section [amending this section] shall apply to any civil action pending on or commenced after the date of the enactment of this Act [Oct. 3, 2018].”
 
 **Effective Date**
 
-Pub. L. 102–572, title X, § 1003(c), Oct. 29, 1992, 106 Stat. 4524, provided that: “This section [enacting this section and sections 2333 to 2338 of this title, amending former section 2331 of this title, and renumbering former section 2331 of this title as 2332] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–572, title X, § 1003(c), Oct. 29, 1992, 106 Stat. 4524, provided that: “This section [enacting this section and sections 2333 to 2338 of this title, amending former section 2331 of this title, and renumbering former section 2331 of this title as 2332] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act [Oct. 29, 1992].”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6601, Dec. 17, 2004, 118 Stat. 3761, provided that: “This subtitle [subtitle G (§§ 6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title] may be cited as the ‘Material Support to Terrorism Prohibition Enhancement Act of 2004’.”
+Pub. L. 108–458, title VI, § 6601, Dec. 17, 2004, 118 Stat. 3761, provided that: “This subtitle [subtitle G (§§ 6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title] may be cited as the ‘Material Support to Terrorism Prohibition Enhancement Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–197, title I, § 101, June 25, 2002, 116 Stat. 721, provided that: “This title [enacting section 2332f of this title and provisions set out as notes under section 2332f of this title] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
+Pub. L. 107–197, title I, § 101, June 25, 2002, 116 Stat. 721, provided that: “This title [enacting section 2332f of this title and provisions set out as notes under section 2332f of this title] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
 
-Pub. L. 107–197, title II, § 201, June 25, 2002, 116 Stat. 724, provided that: “This title [enacting section 2339C of this title and provisions set out as notes under section 2339C of this title] may be cited as the ‘Suppression of the Financing of Terrorism Convention Implementation Act of 2002’.”
+Pub. L. 107–197, title II, § 201, June 25, 2002, 116 Stat. 724, provided that: “This title [enacting section 2339C of this title and provisions set out as notes under section 2339C of this title] may be cited as the ‘Suppression of the Financing of Terrorism Convention Implementation Act of 2002’.”
 
-## § 2332. Criminal penalties
+## § 2332. Criminal penalties
 
 **(a) Homicide.—** Whoever kills a national of the United States, while such national is outside the United States, shall—
 
@@ -173,7 +173,7 @@ shall be fined under this title or imprisoned not more than ten years, or both.
 
 **(d) Limitation on Prosecution.—** No prosecution for any offense described in this section shall be undertaken by the United States except on written certification of the Attorney General or the highest ranking subordinate of the Attorney General with responsibility for criminal prosecutions that, in the judgment of the certifying official, such offense was intended to coerce, intimidate, or retaliate against a government or a civilian population.
 
-(Added Pub. L. 99–399, title XII, § 1202(a), Aug. 27, 1986, 100 Stat. 896, § 2331; amended Pub. L. 101–519, § 132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, § 402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, § 126, Oct. 25, 1991, 105 Stat. 643; renumbered § 2332 and amended Pub. L. 102–572, title X, § 1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, § 60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, § 705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
+(Added Pub. L. 99–399, title XII, § 1202(a), Aug. 27, 1986, 100 Stat. 896, § 2331; amended Pub. L. 101–519, § 132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, § 402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, § 126, Oct. 25, 1991, 105 Stat. 643; renumbered § 2332 and amended Pub. L. 102–572, title X, § 1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, § 60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, § 705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
 
 **Editorial Notes**
 
@@ -185,9 +185,9 @@ shall be fined under this title or imprisoned not more than ten years, or both.
 
 1992—Pub. L. 102–572 renumbered section 2331 of this title as this section, substituted “Criminal penalties” for “Terrorist acts abroad against United States national” in section catchline, redesignated subsec. (e) as (d), and struck out former subsec. (d) which read as follows: “Definition.—As used in this section the term ‘national of the United States’ has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
 
-1991—Pub. L. 102–27, § 402, as amended by Pub. L. 102–136, § 126, repealed Pub. L. 101–519, § 132, and amended this section to read as if Pub. L. 101–519, § 132, had not been enacted, effective as of Nov. 5, 1990, the date of enactment of Pub. L. 101–519. See Codification note preceding this section.
+1991—Pub. L. 102–27, § 402, as amended by Pub. L. 102–136, § 126, repealed Pub. L. 101–519, § 132, and amended this section to read as if Pub. L. 101–519, § 132, had not been enacted, effective as of Nov. 5, 1990, the date of enactment of Pub. L. 101–519. See Codification note preceding this section.
 
-1990—Pub. L. 101–519, § 132, which amended this section, was repealed by Pub. L. 102–27, § 402, as amended. See 1991 Amendment note above.
+1990—Pub. L. 101–519, § 132, which amended this section, was repealed by Pub. L. 102–27, § 402, as amended. See 1991 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -195,7 +195,7 @@ shall be fined under this title or imprisoned not more than ten years, or both.
 
 Amendment by Pub. L. 102–572 applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as an Effective Date note under section 2331 of this title.
 
-## § 2332a. Use of weapons of mass destruction
+## § 2332a. Use of weapons of mass destruction
 
 **(a) Offense Against a National of the United States or Within the United States.—** A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction—
 
@@ -235,45 +235,45 @@ shall be imprisoned for any term of years or for life, and if death results, sha
 
 **(3)** the term “property” includes all real and personal property.
 
-(Added Pub. L. 103–322, title VI, § 60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, § 511(c), title VII, § 725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, § 605(m), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–277, div. I, title II, § 201(b)(1), Oct. 21, 1998, 112 Stat. 2681–871; Pub. L. 107–188, title II, § 231(d), June 12, 2002, 116 Stat. 661; Pub. L. 108–458, title VI, § 6802(a), (b), Dec. 17, 2004, 118 Stat. 3766, 3767.)
+(Added Pub. L. 103–322, title VI, § 60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, § 511(c), title VII, § 725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, § 605(m), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–277, div. I, title II, § 201(b)(1), Oct. 21, 1998, 112 Stat. 2681–871; Pub. L. 107–188, title II, § 231(d), June 12, 2002, 116 Stat. 661; Pub. L. 108–458, title VI, § 6802(a), (b), Dec. 17, 2004, 118 Stat. 3766, 3767.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Pub. L. 108–458, § 6802(b)(1), struck out “certain” before “weapons” in section catchline.
+2004—Pub. L. 108–458, § 6802(b)(1), struck out “certain” before “weapons” in section catchline.
 
-Subsec. (a). Pub. L. 108–458, § 6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
+Subsec. (a). Pub. L. 108–458, § 6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 108–458, § 6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
+Subsec. (a)(2). Pub. L. 108–458, § 6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
 
-Subsec. (a)(4). Pub. L. 108–458, § 6802(a)(2), (3), added par. (4).
+Subsec. (a)(4). Pub. L. 108–458, § 6802(a)(2), (3), added par. (4).
 
-Subsec. (b). Pub. L. 108–458, § 6802(b)(3), struck out “(other than a chemical weapon (as that term is defined in section 229F))” after “mass destruction”.
+Subsec. (b). Pub. L. 108–458, § 6802(b)(3), struck out “(other than a chemical weapon (as that term is defined in section 229F))” after “mass destruction”.
 
-Subsec. (c)(3). Pub. L. 108–458, § 6802(a)(4)–(6), added par. (3).
+Subsec. (c)(3). Pub. L. 108–458, § 6802(a)(4)–(6), added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–188, § 231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–188, § 231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
 
-Subsec. (c)(2)(C). Pub. L. 107–188, § 231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in section 178 of this title)” for “a disease organism”.
+Subsec. (c)(2)(C). Pub. L. 107–188, § 231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in section 178 of this title)” for “a disease organism”.
 
-1998—Pub. L. 105–277, § 201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
+1998—Pub. L. 105–277, § 201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
 
-Subsec. (a). Pub. L. 105–277, § 201(b)(1)(B), inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions.
+Subsec. (a). Pub. L. 105–277, § 201(b)(1)(B), inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions.
 
-Subsec. (b). Pub. L. 105–277, § 201(b)(1)(C), inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”.
+Subsec. (b). Pub. L. 105–277, § 201(b)(1)(C), inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”.
 
-1996—Subsec. (a). Pub. L. 104–132, §§ 511(c), 725(1)(A), (B), in heading, inserted “Against a National of the United States or Within the United States” after “Offense”, and in introductory provisions, substituted “, without lawful authority, uses, threatens, or attempts” for “uses, or attempts” and inserted “, including any biological agent, toxin, or vector (as those terms are defined in section 178)” after “mass destruction”.
+1996—Subsec. (a). Pub. L. 104–132, §§ 511(c), 725(1)(A), (B), in heading, inserted “Against a National of the United States or Within the United States” after “Offense”, and in introductory provisions, substituted “, without lawful authority, uses, threatens, or attempts” for “uses, or attempts” and inserted “, including any biological agent, toxin, or vector (as those terms are defined in section 178)” after “mass destruction”.
 
-Subsec. (a)(2). Pub. L. 104–132, § 725(1)(C), inserted before semicolon at end “, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce”.
+Subsec. (a)(2). Pub. L. 104–132, § 725(1)(C), inserted before semicolon at end “, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce”.
 
-Subsec. (b). Pub. L. 104–132, § 725(4), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–132, § 725(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(2)(B). Pub. L. 104–132, § 725(2), as amended by Pub. L. 104–294, § 605(m), added subpar. (B) and struck out former subpar. (B) which read as follows: “poison gas;”.
+Subsec. (b)(2)(B). Pub. L. 104–132, § 725(2), as amended by Pub. L. 104–294, § 605(m), added subpar. (B) and struck out former subpar. (B) which read as follows: “poison gas;”.
 
-Subsec. (c). Pub. L. 104–132, § 725(3), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 104–132, § 725(3), redesignated subsec. (b) as (c).
 
-## § 2332b. Acts of terrorism transcending national boundaries
+## § 2332b. Acts of terrorism transcending national boundaries
 
 **(a) Prohibited Acts.—**
 
@@ -345,9 +345,9 @@ in violation of the laws of any State, or the United States, shall be punished a
 
 **(2)** the term “facility of interstate or foreign commerce” has the meaning given that term in section 1958(b)(2);
 
-**(3)** the term “serious bodily injury” has the meaning given that term in section 1365(g)(3); 1
+**(3)** the term “serious bodily injury” has the meaning given that term in section 1365(g)(3); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** the term “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States, determined in accordance with international law; and
 
@@ -357,9 +357,9 @@ in violation of the laws of any State, or the United States, shall be punished a
 
 **(B)** is a violation of—
 
-**(i)** section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 or 175b (relating to biological weapons), 175c (relating to variola virus), 229 (relating to chemical weapons), subsection (a), (b), (c), or (d) of section 351 (relating to congressional, cabinet, and Supreme Court assassination and kidnaping), 831 (relating to nuclear materials), 832 (relating to participation in nuclear and weapons of mass destruction threats to the United States) 2
+**(i)** section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 or 175b (relating to biological weapons), 175c (relating to variola virus), 229 (relating to chemical weapons), subsection (a), (b), (c), or (d) of section 351 (relating to congressional, cabinet, and Supreme Court assassination and kidnaping), 831 (relating to nuclear materials), 832 (relating to participation in nuclear and weapons of mass destruction threats to the United States) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 842(m) or (n) (relating to plastic explosives), 844(f)(2) or (3) (relating to arson and bombing of Government property risking or causing death), 844(i) (relating to arson and bombing of property used in interstate commerce), 930(c) (relating to killing or attempted killing during an attack on a Federal facility with a dangerous weapon), 956(a)(1) (relating to conspiracy to murder, kidnap, or maim persons abroad), 1030(a)(1) (relating to protection of computers), 1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI) (relating to protection of computers), 1114 (relating to killing or attempted killing of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366(a) (relating to destruction of an energy facility), 1751(a), (b), (c), or (d) (relating to Presidential and Presidential staff assassination and kidnaping), 1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air), 2155 (relating to destruction of national defense materials, premises, or utilities), 2156 (relating to national defense material, premises, or utilities), 2280 (relating to violence against maritime navigation), 2280a (relating to maritime safety), 2281 through 2281a (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332f (relating to bombing of public places and facilities), 2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices), 2332i (relating to acts of nuclear terrorism), 2339 (relating to harboring terrorists), 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), 2339C (relating to financing of terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A (relating to torture) of this title;
 
@@ -369,13 +369,13 @@ in violation of the laws of any State, or the United States, shall be punished a
 
 **(iv)** section 1010A of the Controlled Substances Import and Export Act (relating to narco-terrorism).
 
-(Added Pub. L. 104–132, title VII, § 702(a), Apr. 24, 1996, 110 Stat. 1291; amended Pub. L. 104–294, title VI, § 601(s)(1), (3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–56, title VIII, § 808, Oct. 26, 2001, 115 Stat. 378; Pub. L. 107–197, title III, § 301(b), June 25, 2002, 116 Stat. 728; Pub. L. 108–458, title VI, §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, 118 Stat. 3762, 3769, 3774; Pub. L. 109–177, title I, §§ 110(b)(3)(A), 112, Mar. 9, 2006, 120 Stat. 208, 209; Pub. L. 110–326, title II, § 204(b), Sept. 26, 2008, 122 Stat. 3562; Pub. L. 114–23, title VIII, §§ 805, 811(d), June 2, 2015, 129 Stat. 309, 311.)
+(Added Pub. L. 104–132, title VII, § 702(a), Apr. 24, 1996, 110 Stat. 1291; amended Pub. L. 104–294, title VI, § 601(s)(1), (3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–56, title VIII, § 808, Oct. 26, 2001, 115 Stat. 378; Pub. L. 107–197, title III, § 301(b), June 25, 2002, 116 Stat. 728; Pub. L. 108–458, title VI, §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, 118 Stat. 3762, 3769, 3774; Pub. L. 109–177, title I, §§ 110(b)(3)(A), 112, Mar. 9, 2006, 120 Stat. 208, 209; Pub. L. 110–326, title II, § 204(b), Sept. 26, 2008, 122 Stat. 3562; Pub. L. 114–23, title VIII, §§ 805, 811(d), June 2, 2015, 129 Stat. 309, 311.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1365(g)(3), referred to in subsec. (g)(3), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
+Section 1365(g)(3), referred to in subsec. (g)(3), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 Section 1010A of the Controlled Substances Import and Export Act, referred to in subsec. (g)(5)(B)(iv), is classified to section 960a of Title 21, Food and Drugs.
 
@@ -385,33 +385,33 @@ Section 1010A of the Controlled Substances Import and Export Act, referred to in
 
 2008—Subsec. (g)(5)(B)(i). Pub. L. 110–326 substituted “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)” for “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)”.
 
-2006—Subsec. (g)(5)(B)(i). Pub. L. 109–177, §§ 110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
+2006—Subsec. (g)(5)(B)(i). Pub. L. 109–177, §§ 110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
 
-Subsec. (g)(5)(B)(iv). Pub. L. 109–177, § 112(a)(2)–(4), added cl. (iv).
+Subsec. (g)(5)(B)(iv). Pub. L. 109–177, § 112(a)(2)–(4), added cl. (iv).
 
-2004—Subsec. (g)(5)(B)(i). Pub. L. 108–458, § 6908(1), inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
+2004—Subsec. (g)(5)(B)(i). Pub. L. 108–458, § 6908(1), inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
 
-Pub. L. 108–458, § 6803(c)(3), inserted “832 (relating to participation in nuclear and weapons of mass destruction threats to the United States)” after “831 (relating to nuclear materials),”.
+Pub. L. 108–458, § 6803(c)(3), inserted “832 (relating to participation in nuclear and weapons of mass destruction threats to the United States)” after “831 (relating to nuclear materials),”.
 
-Pub. L. 108–458, § 6603(a)(1), inserted “1361 (relating to government property or contracts),” after “1203 (relating to hostage taking),” and “2156 (relating to national defense material, premises, or utilities),” after “2155 (relating to destruction of national defense materials, premises, or utilities),”.
+Pub. L. 108–458, § 6603(a)(1), inserted “1361 (relating to government property or contracts),” after “1203 (relating to hostage taking),” and “2156 (relating to national defense material, premises, or utilities),” after “2155 (relating to destruction of national defense materials, premises, or utilities),”.
 
-Subsec. (g)(5)(B)(ii). Pub. L. 108–458, § 6908(2), substituted “sections 92 (relating to prohibitions governing atomic weapons) or” for “section” and inserted “2122 or” before “2284”.
+Subsec. (g)(5)(B)(ii). Pub. L. 108–458, § 6908(2), substituted “sections 92 (relating to prohibitions governing atomic weapons) or” for “section” and inserted “2122 or” before “2284”.
 
 2002—Subsec. (g)(5)(B)(i). Pub. L. 107–197 inserted “2332f (relating to bombing of public places and facilities),” after “2332b (relating to acts of terrorism transcending national boundaries),” and “2339C (relating to financing of terrorism,” after “2339B (relating to providing material support to terrorist organizations),”.
 
-2001—Subsec. (f). Pub. L. 107–56, § 808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
+2001—Subsec. (f). Pub. L. 107–56, § 808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
 
-Subsec. (g)(5)(B)(i) to (iii). Pub. L. 107–56, § 808(2), added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
+Subsec. (g)(5)(B)(i) to (iii). Pub. L. 107–56, § 808(2), added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–294, § 601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
+1996—Subsec. (b)(1)(A). Pub. L. 104–294, § 601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
 
-Subsec. (g)(5)(B)(i). Pub. L. 104–294, § 601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
+Subsec. (g)(5)(B)(i). Pub. L. 104–294, § 601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6603(g), Dec. 17, 2004, 118 Stat. 3764, which provided that section 6603 of Pub. L. 108–458 (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, § 104, Mar. 9, 2006, 120 Stat. 195.
+Pub. L. 108–458, title VI, § 6603(g), Dec. 17, 2004, 118 Stat. 3764, which provided that section 6603 of Pub. L. 108–458 (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, § 104, Mar. 9, 2006, 120 Stat. 195.
 
 **Transfer of Functions**
 
@@ -419,7 +419,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Disclaimer**
 
-Pub. L. 114–23, title VIII, § 811(c), June 2, 2015, 129 Stat. 311, provided that: “Nothing contained in this section [enacting section 2332i of this title and amending this section] is intended to affect the applicability of any other Federal or State law that might pertain to the underlying conduct.”
+Pub. L. 114–23, title VIII, § 811(c), June 2, 2015, 129 Stat. 311, provided that: “Nothing contained in this section [enacting section 2332i of this title and amending this section] is intended to affect the applicability of any other Federal or State law that might pertain to the underlying conduct.”
 
 **Executive Documents**
 
@@ -427,15 +427,15 @@ Pub. L. 114–23, title VIII, § 811(c), June 2, 2015, 129 Stat. 311, provided
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## [§ 2332c. Repealed. Pub. L. 105–277, div. I, title II, § 201(c)(1), Oct. 21, 1998, 112 Stat. 2681–871]
+## [§ 2332c. Repealed. Pub. L. 105–277, div. I, title II, § 201(c)(1), Oct. 21, 1998, 112 Stat. 2681–871]
 
-Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1286, related to use of chemical weapons.
+Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1286, related to use of chemical weapons.
 
-## § 2332d. Financial transactions
+## § 2332d. Financial transactions
 
-**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) 1
+**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
 
@@ -453,13 +453,13 @@ of the Export Administration Act of 1979 (50 U.S.C. App. 2405) as a country supp
 
 **(D)** any person in the United States.
 
-(Added Pub. L. 104–132, title III, § 321(a), Apr. 24, 1996, 110 Stat. 1254; amended Pub. L. 107–273, div. B, title IV, § 4002(a)(5), Nov. 2, 2002, 116 Stat. 1806.)
+(Added Pub. L. 104–132, title III, § 321(a), Apr. 24, 1996, 110 Stat. 1254; amended Pub. L. 107–273, div. B, title IV, § 4002(a)(5), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
 
 **Codification**
 
@@ -473,27 +473,27 @@ Another section 2332d was renumbered section 2332e of this title.
 
 **Effective Date**
 
-Pub. L. 104–132, title III, § 321(c), Apr. 24, 1996, 110 Stat. 1254, provided that: “The amendments made by this section [enacting this section] shall become effective 120 days after the date of enactment of this Act [Apr. 24, 1996].”
+Pub. L. 104–132, title III, § 321(c), Apr. 24, 1996, 110 Stat. 1254, provided that: “The amendments made by this section [enacting this section] shall become effective 120 days after the date of enactment of this Act [Apr. 24, 1996].”
 
-## § 2332e. Requests for military assistance to enforce prohibition in certain emergencies
+## § 2332e. Requests for military assistance to enforce prohibition in certain emergencies
 
-The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
+The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 in support of Department of Justice activities relating to the enforcement of section 2332a of this title during an emergency situation involving a weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with section 382(f)(2) of title 10.1
 
-(Added Pub. L. 104–201, title XIV, § 1416(c)(2)(A), Sept. 23, 1996, 110 Stat. 2723, § 2332d; renumbered § 2332e, Pub. L. 104–294, title VI, § 605(q), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 107–56, title I, § 104, Oct. 26, 2001, 115 Stat. 277.)
+(Added Pub. L. 104–201, title XIV, § 1416(c)(2)(A), Sept. 23, 1996, 110 Stat. 2723, § 2332d; renumbered § 2332e, Pub. L. 104–294, title VI, § 605(q), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 107–56, title I, § 104, Oct. 26, 2001, 115 Stat. 277.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Codification**
 
-Pub. L. 104–201, § 1416(c)(2)(A), which directed amendment of the chapter 133B of this title that relates to terrorism by adding this section, was executed by adding this section to this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
+Pub. L. 104–201, § 1416(c)(2)(A), which directed amendment of the chapter 133B of this title that relates to terrorism by adding this section, was executed by adding this section to this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
 
 **Amendments**
 
@@ -501,7 +501,7 @@ Pub. L. 104–201, § 1416(c)(2)(A), which directed amendment of the chapter 1
 
 1996—Pub. L. 104–294 renumbered section 2332d of this title, relating to requests for military assistance to enforce prohibition in certain emergencies, as this section.
 
-## § 2332f. Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities
+## § 2332f. Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities
 
 **(a) Offenses.—**
 
@@ -565,9 +565,9 @@ shall be punished as prescribed in subsection (c).
 
 **(e) Definitions.—** As used in this section, the term—
 
-**(1)** “serious bodily injury” has the meaning given that term in section 1365(g)(3) of this title; 1
+**(1)** “serious bodily injury” has the meaning given that term in section 1365(g)(3) of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
@@ -591,25 +591,25 @@ shall be punished as prescribed in subsection (c).
 
 **(12)** “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
-(Added Pub. L. 107–197, title I, § 102(a), June 25, 2002, 116 Stat. 721.)
+(Added Pub. L. 107–197, title I, § 102(a), June 25, 2002, 116 Stat. 721.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
+Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–197, title I, § 103, June 25, 2002, 116 Stat. 724, provided that: “Section 102 [enacting this section and provisions set out as a note below] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States [July 26, 2002].”
+Pub. L. 107–197, title I, § 103, June 25, 2002, 116 Stat. 724, provided that: “Section 102 [enacting this section and provisions set out as a note below] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States [July 26, 2002].”
 
 **Disclaimer**
 
-Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided that: “Nothing contained in this section [enacting this section and provisions set out as a note above] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct.”
+Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided that: “Nothing contained in this section [enacting this section and provisions set out as a note above] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct.”
 
-## § 2332g. Missile systems designed to destroy aircraft
+## § 2332g. Missile systems designed to destroy aircraft
 
 **(a) Unlawful Conduct.—**
 
@@ -655,9 +655,9 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided 
 
 **(d) Definition.—** As used in this section, the term “aircraft” has the definition set forth in section 40102(a)(6) of title 49, United States Code.
 
-(Added Pub. L. 108–458, title VI, § 6903, Dec. 17, 2004, 118 Stat. 3770.)
+(Added Pub. L. 108–458, title VI, § 6903, Dec. 17, 2004, 118 Stat. 3770.)
 
-## § 2332h. Radiological dispersal devices
+## § 2332h. Radiological dispersal devices
 
 **(a) Unlawful Conduct.—**
 
@@ -693,9 +693,9 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided 
 
 **(3) Special circumstances.—** If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 
-(Added Pub. L. 108–458, title VI, § 6905, Dec. 17, 2004, 118 Stat. 3772.)
+(Added Pub. L. 108–458, title VI, § 6905, Dec. 17, 2004, 118 Stat. 3772.)
 
-## § 2332i. Acts of nuclear terrorism
+## § 2332i. Acts of nuclear terrorism
 
 **(a) Offenses.—**
 
@@ -755,9 +755,9 @@ shall be punished as prescribed in subsection (c).
 
 **(B)** any radioactive material dispersal or radiation-emitting device that may, owing to its radiological properties, cause death, serious bodily injury or substantial damage to property or the environment;
 
-**(3)** “international organization” has the meaning given that term in section 831(f)(3) 1
+**(3)** “international organization” has the meaning given that term in section 831(f)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -773,11 +773,11 @@ of this title;
 
 **(C)** a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
 
-**(7)** “nuclear material” has the meaning given that term in section 831(f)(1) <sup>1</sup> of this title;
+**(7)** “nuclear material” has the meaning given that term in section 831(f)(1) <sup>1</sup> of this title;
 
 **(8)** “radioactive material” means nuclear material and other radioactive substances that contain nuclides that undergo spontaneous disintegration (a process accompanied by emission of one or more types of ionizing radiation, such as alpha-, beta-, neutron particles and gamma rays) and that may, owing to their radiological or fissile properties, cause death, serious bodily injury or substantial damage to property or to the environment;
 
-**(9)** “serious bodily injury” has the meaning given that term in section 831(f)(4) <sup>1</sup> of this title;
+**(9)** “serious bodily injury” has the meaning given that term in section 831(f)(4) <sup>1</sup> of this title;
 
 **(10)** “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
 
@@ -785,21 +785,21 @@ of this title;
 
 **(12)** “United States corporation or legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession or district of the United States;
 
-**(13)** “vessel” has the meaning given that term in section 1502(19) of title 33; <sup>1</sup> and
+**(13)** “vessel” has the meaning given that term in section 1502(19) of title 33; <sup>1</sup> and
 
 **(14)** “vessel of the United States” has the meaning given that term in section 70502 of title 46.
 
-(Added Pub. L. 114–23, title VIII, § 811(a), June 2, 2015, 129 Stat. 309.)
+(Added Pub. L. 114–23, title VIII, § 811(a), June 2, 2015, 129 Stat. 309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 831(f) of this title, referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f) of this title, referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 Section 1502(19) of title 33, referred to in subsec. (e)(13), probably should be a reference to section 3(19) of the Deepwater Port Act of 1974, which is classified to section 1502(19) of Title 33, Navigation and Navigable Waters.
 
-## § 2333. Civil remedies
+## § 2333. Civil remedies
 
 **(a) Action and Jurisdiction.—** Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs, may sue therefor in any appropriate district court of the United States and shall recover threefold the damages he or she sustains and the cost of the suit, including attorney’s fees.
 
@@ -815,7 +815,7 @@ Section 1502(19) of title 33, referred to in subsec. (e)(13), probably should be
 
 **(e) Use of Blocked Assets to Satisfy Judgments of U.S. Nationals.—** For purposes of section 201 of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note), in any action in which a national of the United States has obtained a judgment against a terrorist party pursuant to this section, the term “blocked asset” shall include any asset of that terrorist party (including the blocked assets of any agency or instrumentality of that party) seized or frozen by the United States under section 805(b) of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1904(b)).
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 103–429, § 2(1), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 114–222, § 4(a), Sept. 28, 2016, 130 Stat. 854; Pub. L. 115–253, § 3(a), Oct. 3, 2018, 132 Stat. 3183.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 103–429, § 2(1), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 114–222, § 4(a), Sept. 28, 2016, 130 Stat. 854; Pub. L. 115–253, § 3(a), Oct. 3, 2018, 132 Stat. 3183.)
 
 **Editorial Notes**
 
@@ -835,11 +835,11 @@ Section 201 of the Terrorism Risk Insurance Act of 2002, referred to in subsec. 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–253, § 3(b), Oct. 3, 2018, 132 Stat. 3184, provided that: “The amendments made by this section [amending this section] shall apply to any judgment entered before, on, or after the date of enactment of this Act [Oct. 3, 2018].”
+Pub. L. 115–253, § 3(b), Oct. 3, 2018, 132 Stat. 3184, provided that: “The amendments made by this section [amending this section] shall apply to any judgment entered before, on, or after the date of enactment of this Act [Oct. 3, 2018].”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–222, § 7, Sept. 28, 2016, 130 Stat. 855, provided that:
+Pub. L. 114–222, § 7, Sept. 28, 2016, 130 Stat. 855, provided that:
 
 > “The amendments made by this Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1605 of Title 28] shall apply to any civil action—
 
@@ -853,11 +853,11 @@ Section applicable to any pending case or any cause of action arising on or afte
 
 **Severability**
 
-Pub. L. 114–222, § 6, Sept. 28, 2016, 130 Stat. 855, provided that: “If any provision of this Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending this section and section 1605 of Title 28, and enacting provisions set out as notes under this section, section 1 of this title, and section 1605B of Title 28] or any amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of the provisions and amendments to any other person not similarly situated or to other circumstances, shall not be affected by the holding.”
+Pub. L. 114–222, § 6, Sept. 28, 2016, 130 Stat. 855, provided that: “If any provision of this Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending this section and section 1605 of Title 28, and enacting provisions set out as notes under this section, section 1 of this title, and section 1605B of Title 28] or any amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of the provisions and amendments to any other person not similarly situated or to other circumstances, shall not be affected by the holding.”
 
 **Promoting Security and Justice for Victims of Terrorism**
 
-Pub. L. 116–94, div. J, title IX, § 903, Dec. 20, 2019, 133 Stat. 3082, provided that:
+Pub. L. 116–94, div. J, title IX, § 903, Dec. 20, 2019, 133 Stat. 3082, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the [‘]Promoting Security and Justice for Victims of Terrorism Act of 2019[’].
 
@@ -909,7 +909,7 @@ Pub. L. 116–94, div. J, title IX, § 903, Dec. 20, 2019, 133 Stat. 3082, pro
 
 **Findings and Purpose**
 
-Pub. L. 114–222, § 2, Sept. 28, 2016, 130 Stat. 852, provided that:
+Pub. L. 114–222, § 2, Sept. 28, 2016, 130 Stat. 852, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -931,13 +931,13 @@ Pub. L. 114–222, § 2, Sept. 28, 2016, 130 Stat. 852, provided that:
 
 **Effect on Foreign Sovereign Immunities Act**
 
-Pub. L. 114–222, § 4(b), Sept. 28, 2016, 130 Stat. 854, provided that: “Nothing in the amendment made by this section [amending this section] affects immunity of a foreign state, as that term is defined in section 1603 of title 28, United States Code, from jurisdiction under other law.”
+Pub. L. 114–222, § 4(b), Sept. 28, 2016, 130 Stat. 854, provided that: “Nothing in the amendment made by this section [amending this section] affects immunity of a foreign state, as that term is defined in section 1603 of title 28, United States Code, from jurisdiction under other law.”
 
 **Special Rule Relating to Certain Acts of International Terrorism**
 
-Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017, provided that: “Notwithstanding section 2335 of title 18, United States Code, as amended by subsection (a), a civil action under section 2333 of such title resulting from an act of international terrorism that occurred on or after September 11, 2001, and before the date that is 4 years before the date of the enactment of this Act [Jan. 2, 2013], may be maintained if the civil action is commenced during the 6-year period beginning on such date of enactment.”
+Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017, provided that: “Notwithstanding section 2335 of title 18, United States Code, as amended by subsection (a), a civil action under section 2333 of such title resulting from an act of international terrorism that occurred on or after September 11, 2001, and before the date that is 4 years before the date of the enactment of this Act [Jan. 2, 2013], may be maintained if the civil action is commenced during the 6-year period beginning on such date of enactment.”
 
-## § 2334. Jurisdiction and venue
+## § 2334. Jurisdiction and venue
 
 **(a) General Venue.—** Any civil action under section 2333 of this title against any person may be instituted in the district court of the United States for any district where any plaintiff resides or where any defendant resides or is served, or has an agent. Process in such a civil action may be served in any district where the defendant resides, is found, or has an agent.
 
@@ -1009,7 +1009,7 @@ Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017
 
 **(ii)** self identifies as, holds itself out to be, or carries out conduct in the name of, the “State of Palestine” or “Palestine” in connection with official business of the United Nations.
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 115–253, § 4(a), Oct. 3, 2018, 132 Stat. 3184; Pub. L. 116–94, div. J, title IX, § 903(c)(1), Dec. 20, 2019, 133 Stat. 3083.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 115–253, § 4(a), Oct. 3, 2018, 132 Stat. 3184; Pub. L. 116–94, div. J, title IX, § 903(c)(1), Dec. 20, 2019, 133 Stat. 3083.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ The date of the enactment of the Promoting Security and Justice for Victims of T
 
 **Amendments**
 
-2019—Subsec. (e)(1). Pub. L. 116–94, § 903(c)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+2019—Subsec. (e)(1). Pub. L. 116–94, § 903(c)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
 
 “(A) after the date that is 120 days after the date of enactment of this subsection, accepts—
 
@@ -1035,9 +1035,9 @@ The date of the enactment of the Promoting Security and Justice for Victims of T
 
 “(ii) establishes or procures any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States.”
 
-Subsec. (e)(2). Pub. L. 116–94, § 903(c)(1)(B), inserted at end “Except with respect to payments described in paragraph (1)(A), no court may consider the receipt of any assistance by a nongovernmental organization, whether direct or indirect, as a basis for consent to jurisdiction by a defendant.”
+Subsec. (e)(2). Pub. L. 116–94, § 903(c)(1)(B), inserted at end “Except with respect to payments described in paragraph (1)(A), no court may consider the receipt of any assistance by a nongovernmental organization, whether direct or indirect, as a basis for consent to jurisdiction by a defendant.”
 
-Subsec. (e)(3) to (5). Pub. L. 116–94, § 903(c)(1)(C), added pars. (3) to (5).
+Subsec. (e)(3) to (5). Pub. L. 116–94, § 903(c)(1)(C), added pars. (3) to (5).
 
 2018—Subsec. (e). Pub. L. 115–253 added subsec. (e).
 
@@ -1049,39 +1049,39 @@ Amendment by Pub. L. 116–94 applicable to any case pending on or after Aug. 30
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–253, § 4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 3, 2018].”
+Pub. L. 115–253, § 4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 3, 2018].”
 
 **Effective Date**
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-## § 2335. Limitation of actions
+## § 2335. Limitation of actions
 
 **(a) In General.—** Subject to subsection (b), a suit for recovery of damages under section 2333 of this title shall not be maintained unless commenced within 10 years after the date the cause of action accrued.
 
 **(b) Calculation of Period.—** The time of the absence of the defendant from the United States or from any jurisdiction in which the same or a similar action arising from the same facts may be maintained by the plaintiff, or of any concealment of the defendant’s whereabouts, shall not be included in the 10-year period set forth in subsection (a).
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523; amended Pub. L. 112–239, div. A, title XII, § 1251(a), Jan. 2, 2013, 126 Stat. 2017.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523; amended Pub. L. 112–239, div. A, title XII, § 1251(a), Jan. 2, 2013, 126 Stat. 2017.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–239, § 1251(a)(1), substituted “10 years” for “4 years”.
+2013—Subsec. (a). Pub. L. 112–239, § 1251(a)(1), substituted “10 years” for “4 years”.
 
-Subsec. (b). Pub. L. 112–239, § 1251(a)(2), substituted “10-year period” for “4-year period”.
+Subsec. (b). Pub. L. 112–239, § 1251(a)(2), substituted “10-year period” for “4-year period”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title XII, § 1251(b), Jan. 2, 2013, 126 Stat. 2017, provided that: “The amendments made by this section [amending this section] shall apply to any civil action arising under section 2333 of title 18, United States Code, that is pending on, or commenced on or after, the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title XII, § 1251(b), Jan. 2, 2013, 126 Stat. 2017, provided that: “The amendments made by this section [amending this section] shall apply to any civil action arising under section 2333 of title 18, United States Code, that is pending on, or commenced on or after, the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Effective Date**
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-## § 2336. Other limitations
+## § 2336. Other limitations
 
 **(a) Acts of War.—** No action shall be maintained under section 2333 of this title for injury or loss by reason of an act of war.
 
@@ -1093,7 +1093,7 @@ Section applicable to any pending case or any cause of action arising on or afte
 
 **(2)** In a proceeding under this subsection, the Attorney General may request that any order issued by the court for release to the parties and the public omit any reference to the basis on which the stay was sought.
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
 
 **Editorial Notes**
 
@@ -1107,7 +1107,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-## § 2337. Suits against Government officials
+## § 2337. Suits against Government officials
 
 No action shall be maintained under section 2333 of this title against—
 
@@ -1115,7 +1115,7 @@ No action shall be maintained under section 2333 of this title against—
 
 **(2)** a foreign state, an agency of a foreign state, or an officer or employee of a foreign state or an agency thereof acting within his or her official capacity or under color of legal authority.
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1123,11 +1123,11 @@ No action shall be maintained under section 2333 of this title against—
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-## § 2338. Exclusive Federal jurisdiction
+## § 2338. Exclusive Federal jurisdiction
 
 The district courts of the United States shall have exclusive jurisdiction over an action brought under this chapter.
 
-(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4524.)
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4524.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1135,27 +1135,27 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-## § 2339. Harboring or concealing terrorists
+## § 2339. Harboring or concealing terrorists
 
 **(a)** Whoever harbors or conceals any person who he knows, or has reasonable grounds to believe, has committed, or is about to commit, an offense under section 32 (relating to destruction of aircraft or aircraft facilities), section 175 (relating to biological weapons), section 229 (relating to chemical weapons), section 831 (relating to nuclear materials), paragraph (2) or (3) of section 844(f) (relating to arson and bombing of government property risking or causing injury or death), section 1366(a) (relating to the destruction of an energy facility), section 2280 (relating to violence against maritime navigation), section 2332a (relating to weapons of mass destruction), or section 2332b (relating to acts of terrorism transcending national boundaries) of this title, section 236(a) (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 (42 U.S.C. 2284(a)), or section 46502 (relating to aircraft piracy) of title 49, shall be fined under this title or imprisoned not more than ten years, or both.
 
 **(b)** A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
-(Added Pub. L. 107–56, title VIII, § 803(a), Oct. 26, 2001, 115 Stat. 376; amended Pub. L. 107–273, div. B, title IV, § 4005(d)(2), Nov. 2, 2002, 116 Stat. 1813.)
+(Added Pub. L. 107–56, title VIII, § 803(a), Oct. 26, 2001, 115 Stat. 376; amended Pub. L. 107–273, div. B, title IV, § 4005(d)(2), Nov. 2, 2002, 116 Stat. 1813.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, § 803(a), which enacted this section.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, § 803(a), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4005(d)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(d)(2) is effective Oct. 26, 2001.
+Pub. L. 107–273, div. B, title IV, § 4005(d)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(d)(2) is effective Oct. 26, 2001.
 
-## § 2339A. Providing material support to terrorists
+## § 2339A. Providing material support to terrorists
 
 **(a) Offense.—** Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1091, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332f, 2340A, or 2442 of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), section 46502 or 60123(b) of title 49, or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B) or in preparation for, or in carrying out, the concealment of an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
@@ -1167,59 +1167,59 @@ Pub. L. 107–273, div. B, title IV, § 4005(d)(2), Nov. 2, 2002, 116 Stat. 18
 
 **(3)** the term “expert advice or assistance” means advice or assistance derived from scientific, technical or other specialized knowledge.
 
-(Added Pub. L. 103–322, title XII, § 120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, § 323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§ 601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§ 805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, § 301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, § 4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, § 6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, § 110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208; Pub. L. 111–122, § 3(d), Dec. 22, 2009, 123 Stat. 3481.)
+(Added Pub. L. 103–322, title XII, § 120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, § 323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§ 601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§ 805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, § 301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, § 4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, § 6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, § 110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208; Pub. L. 111–122, § 3(d), Dec. 22, 2009, 123 Stat. 3481.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–122 inserted “, 1091” after “956” and substituted “, 2340A, or 2442” for “, or 2340A”.
+2009—Subsec. (a). Pub. L. 111–122 inserted “, 1091” after “956” and substituted “, 2340A, or 2442” for “, or 2340A”.
 
 2006—Subsec. (a). Pub. L. 109–177 struck out “1993,” after “1992,”.
 
-2004—Subsec. (a). Pub. L. 108–458, § 6603(a)(2)(B), which directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress.
+2004—Subsec. (a). Pub. L. 108–458, § 6603(a)(2)(B), which directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress.
 
-Pub. L. 108–458, § 6603(a)(2)(A), struck out “or” before “section 46502”.
+Pub. L. 108–458, § 6603(a)(2)(A), struck out “or” before “section 46502”.
 
-Subsec. (b). Pub. L. 108–458, § 6603(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In this section, the term ‘material support or resources’ means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.”
+Subsec. (b). Pub. L. 108–458, § 6603(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In this section, the term ‘material support or resources’ means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.”
 
-2002—Subsec. (a). Pub. L. 107–273, § 4002(a)(7), (e)(11), struck out “2332c,” after “2332b,” and substituted “of an escape” for “or an escape”.
+2002—Subsec. (a). Pub. L. 107–273, § 4002(a)(7), (e)(11), struck out “2332c,” after “2332b,” and substituted “of an escape” for “or an escape”.
 
 Pub. L. 107–197 inserted “2332f,” before “or 2340A”.
 
-Subsec. (b). Pub. L. 107–273, § 4002(c)(1), repealed amendment by Pub. L. 104–294, § 601(b)(2). See 1996 Amendment note below.
+Subsec. (b). Pub. L. 107–273, § 4002(c)(1), repealed amendment by Pub. L. 104–294, § 601(b)(2). See 1996 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–56, § 811(f), inserted “or attempts or conspires to do such an act,” before “shall be fined”.
+2001—Subsec. (a). Pub. L. 107–56, § 811(f), inserted “or attempts or conspires to do such an act,” before “shall be fined”.
 
-Pub. L. 107–56, § 810(c)(1), substituted “15 years” for “10 years”.
+Pub. L. 107–56, § 810(c)(1), substituted “15 years” for “10 years”.
 
-Pub. L. 107–56, § 810(c)(2), which directed substitution of “, and, if the death of any person results, shall be imprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
+Pub. L. 107–56, § 810(c)(2), which directed substitution of “, and, if the death of any person results, shall be imprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
 
-Pub. L. 107–56, § 805(a)(1)(F), inserted at end “A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.”
+Pub. L. 107–56, § 805(a)(1)(F), inserted at end “A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.”
 
-Pub. L. 107–56, §§ 805(a)(1)(A)–(E), struck out “, within the United States,” after “Whoever”, and inserted “229,” after “175,”, “1993,” after “1992,”, “, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284),” after “2340A of this title”, and “or 60123(b)” after “section 46502”.
+Pub. L. 107–56, §§ 805(a)(1)(A)–(E), struck out “, within the United States,” after “Whoever”, and inserted “229,” after “175,”, “1993,” after “1992,”, “, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284),” after “2340A of this title”, and “or 60123(b)” after “section 46502”.
 
-Subsec. (b). Pub. L. 107–56, § 805(a)(2), substituted “or monetary instruments or financial securities” for “or other financial securities” and inserted “expert advice or assistance,” after “training,”.
+Subsec. (b). Pub. L. 107–56, § 805(a)(2), substituted “or monetary instruments or financial securities” for “or other financial securities” and inserted “expert advice or assistance,” after “training,”.
 
-1996—Pub. L. 104–294, § 604(b)(5), amended directory language of Pub. L. 103–322, § 120005(a), which enacted this section.
+1996—Pub. L. 104–294, § 604(b)(5), amended directory language of Pub. L. 103–322, § 120005(a), which enacted this section.
 
 Pub. L. 104–132 amended section generally, reenacting section catchline without change and redesignating provisions which detailed what constitutes offense, formerly contained in subsec. (b), as subsec. (a), inserting references to sections 37, 81, 175, 831, 842, 956, 1362, 1366, 2155, 2156, 2332, 2332a, 2332b, and 2340A of this title, striking out references to sections 36, 2331, and 2339 of this title, redesignating provisions which define “material support or resource”, formerly contained in subsec. (a), as subsec. (b), substituting provisions excepting medicine or religious materials from definition for provisions excepting humanitarian assistance to persons not directly involved in violations, and struck out subsec. (c) which authorized investigations into possible violations, except activities involving First Amendment rights.
 
-Subsec. (a). Pub. L. 104–294, § 601(s)(2), (3), inserted “930(c),” before “956,”, “1992,” before “2155,”, “2332c,” before “or 2340A of this title”, and “or an escape” after “concealment”.
+Subsec. (a). Pub. L. 104–294, § 601(s)(2), (3), inserted “930(c),” before “956,”, “1992,” before “2155,”, “2332c,” before “or 2340A of this title”, and “or an escape” after “concealment”.
 
-Subsec. (b). Pub. L. 104–294, § 601(b)(2), which directed substitution of “2332” for “2331”, “2332a” for “2339”, “37” for “36”, and “or an escape” for “of an escape” and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, § 4002(c)(1). See above.
+Subsec. (b). Pub. L. 104–294, § 601(b)(2), which directed substitution of “2332” for “2331”, “2332a” for “2339”, “37” for “36”, and “or an escape” for “of an escape” and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, § 4002(c)(1). See above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 1996 Amendment**
 
 Amendment by section 604(b)(5) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 2339B. Providing material support or resources to designated foreign terrorist organizations
+## § 2339B. Providing material support or resources to designated foreign terrorist organizations
 
 **(a) Prohibited Activities.—**
 
@@ -1361,7 +1361,7 @@ Amendment by section 604(b)(5) of Pub. L. 104–294 effective Sept. 13, 1994, se
 
 **(j) Exception.—** No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added Pub. L. 104–132, title III, § 303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, § 810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, § 6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, § 3(6)–(8), May 7, 2009, 123 Stat. 1608; Pub. L. 114–23, title VII, § 704, June 2, 2015, 129 Stat. 300.)
+(Added Pub. L. 104–132, title III, § 303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, § 810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, § 6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, § 3(6)–(8), May 7, 2009, 123 Stat. 1608; Pub. L. 114–23, title VII, § 704, June 2, 2015, 129 Stat. 300.)
 
 **References in Text**
 
@@ -1381,19 +1381,19 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 2015—Subsec. (a)(1). Pub. L. 114–23 substituted “20 years” for “15 years”.
 
-2009—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, § 3(6), substituted “14 days” for “10 days”.
+2009—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, § 3(6), substituted “14 days” for “10 days”.
 
-Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, § 3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
+Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, § 3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
 
-Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, § 3(8), inserted “, excluding intermediate weekends and holidays” after “appeal”.
+Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, § 3(8), inserted “, excluding intermediate weekends and holidays” after “appeal”.
 
-2004—Subsec. (a)(1). Pub. L. 108–458, § 6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
+2004—Subsec. (a)(1). Pub. L. 108–458, § 6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
 
-Subsec. (d). Pub. L. 108–458, § 6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
+Subsec. (d). Pub. L. 108–458, § 6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
 
-Subsec. (g)(4). Pub. L. 108–458, § 6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
+Subsec. (g)(4). Pub. L. 108–458, § 6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
 
-Subsecs. (h) to (j). Pub. L. 108–458, § 6603(f), added subsecs. (h) to (j).
+Subsecs. (h) to (j). Pub. L. 108–458, § 6603(f), added subsecs. (h) to (j).
 
 2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
 
@@ -1405,7 +1405,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Findings and Purpose**
 
-Pub. L. 104–132, title III, § 301, Apr. 24, 1996, 110 Stat. 1247, provided that:
+Pub. L. 104–132, title III, § 301, Apr. 24, 1996, 110 Stat. 1247, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -1423,9 +1423,9 @@ Pub. L. 104–132, title III, § 301, Apr. 24, 1996, 110 Stat. 1247, provided 
 
 > **“(7)** foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
 
-> **“(b) Purpose.—** The purpose of this subtitle [subtitle A (§§ 301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities.”
+> **“(b) Purpose.—** The purpose of this subtitle [subtitle A (§§ 301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities.”
 
-## § 2339C. Prohibitions against the financing of terrorism
+## § 2339C. Prohibitions against the financing of terrorism
 
 **(a) Offenses.—**
 
@@ -1551,9 +1551,9 @@ shall be punished as prescribed in subsection (d)(2).
 
 **(10)** the term “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
 
-**(11)** the term “serious bodily injury” has the same meaning as in section 1365(g)(3) of this title; 1
+**(11)** the term “serious bodily injury” has the same meaning as in section 1365(g)(3) of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(12)** the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
@@ -1563,25 +1563,25 @@ shall be punished as prescribed in subsection (d)(2).
 
 **(f) Civil Penalty.—** In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 
-(Added Pub. L. 107–197, title II, § 202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, § 4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, § 6604, Dec. 17, 2004, 118 Stat. 3764; Pub. L. 109–177, title IV, § 408, Mar. 9, 2006, 120 Stat. 245.)
+(Added Pub. L. 107–197, title II, § 202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, § 4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, § 6604, Dec. 17, 2004, 118 Stat. 3764; Pub. L. 109–177, title IV, § 408, Mar. 9, 2006, 120 Stat. 245.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
+Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by Pub. L. 107–307, § 2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 **Amendments**
 
-2006—Pub. L. 109–177 amended directory language of Pub. L. 108–458, § 6604. See 2004 Amendment notes below.
+2006—Pub. L. 109–177 amended directory language of Pub. L. 108–458, § 6604. See 2004 Amendment notes below.
 
-2004—Subsec. (c)(2). Pub. L. 108–458, § 6604(a)(1), as amended by Pub. L. 109–177, § 408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+2004—Subsec. (c)(2). Pub. L. 108–458, § 6604(a)(1), as amended by Pub. L. 109–177, § 408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 108–458, § 6604(a)(2), as amended by Pub. L. 109–177, § 408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
+Subsec. (c)(2)(A). Pub. L. 108–458, § 6604(a)(2), as amended by Pub. L. 109–177, § 408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
 
-Subsec. (c)(2)(B). Pub. L. 108–458, § 6604(a)(3), as amended by Pub. L. 109–177, § 408(1), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
+Subsec. (c)(2)(B). Pub. L. 108–458, § 6604(a)(3), as amended by Pub. L. 109–177, § 408(1), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
 
-Subsec. (e)(13), (14). Pub. L. 108–458, § 6604(b), as amended by Pub. L. 109–177, § 408(2), added par. (13) and redesignated former par. (13) as (14).
+Subsec. (e)(13), (14). Pub. L. 108–458, § 6604(b), as amended by Pub. L. 109–177, § 408(2), added par. (13) and redesignated former par. (13) as (14).
 
 2002—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
 
@@ -1589,25 +1589,25 @@ Subsec. (e)(13), (14). Pub. L. 108–458, § 6604(b), as amended by Pub. L. 10
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–177, title IV, § 408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
+Pub. L. 109–177, title IV, § 408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
 
 **Effective Date**
 
-Pub. L. 107–197, title II, § 203, June 25, 2002, 116 Stat. 727, provided that: “Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States [July 26, 2002], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States [July 26, 2002], section 202 [enacting this section and provisions set out as a note below] shall take effect on the date of enactment of this Act [June 25, 2002].”
+Pub. L. 107–197, title II, § 203, June 25, 2002, 116 Stat. 727, provided that: “Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States [July 26, 2002], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States [July 26, 2002], section 202 [enacting this section and provisions set out as a note below] shall take effect on the date of enactment of this Act [June 25, 2002].”
 
 **Disclaimer**
 
-Pub. L. 107–197, title II, § 202(c), June 25, 2002, 116 Stat. 727, provided that: “Nothing contained in this section [enacting this section] is intended to affect the scope or applicability of any other Federal or State law.”
+Pub. L. 107–197, title II, § 202(c), June 25, 2002, 116 Stat. 727, provided that: “Nothing contained in this section [enacting this section] is intended to affect the scope or applicability of any other Federal or State law.”
 
-## § 2339D. Receiving military-type training from a foreign terrorist organization
+## § 2339D. Receiving military-type training from a foreign terrorist organization
 
 **(a) Offense.—** Whoever knowingly receives military-type training from or on behalf of any organization designated at the time of the training by the Secretary of State under section 219(a)(1) of the Immigration and Nationality Act as a foreign terrorist organization shall be fined under this title or imprisoned for ten years, or both. To violate this subsection, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (c)(4)), that the organization has engaged or engages in terrorist activity (as defined in section 212 of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 **(b) Extraterritorial Jurisdiction.—** There is extraterritorial Federal jurisdiction over an offense under this section. There is jurisdiction over an offense under subsection (a) if—
 
-**(1)** an offender is a national of the United States (as defined in 1
+**(1)** an offender is a national of the United States (as defined in 1
 
-<sup>1</sup>  So in original. The word “section” probably should appear after “in”.
+<sup>1</sup> So in original. The word “section” probably should appear after “in”.
 
 101(a)(22) of the Immigration and Nationality Act) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of the Immigration and Nationality Act);
 
@@ -1623,9 +1623,9 @@ Pub. L. 107–197, title II, § 202(c), June 25, 2002, 116 Stat. 727, provided
 
 **(c) Definitions.—** As used in this section—
 
-**(1)** the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) 2
+**(1)** the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) 2
 
-<sup>2</sup>  So in original. Probably should be section “2332a(c)(2)”.
+<sup>2</sup> So in original. Probably should be section “2332a(c)(2)”.
 
 );
 
@@ -1635,7 +1635,7 @@ Pub. L. 107–197, title II, § 202(c), June 25, 2002, 116 Stat. 727, provided
 
 **(4)** the term “foreign terrorist organization” means an organization designated as a terrorist organization under section 219(a)(1) of the Immigration and Nationality Act.
 
-(Added Pub. L. 108–458, title VI, § 6602, Dec. 17, 2004, 118 Stat. 3761.)
+(Added Pub. L. 108–458, title VI, § 6602, Dec. 17, 2004, 118 Stat. 3761.)
 
 **Editorial Notes**
 

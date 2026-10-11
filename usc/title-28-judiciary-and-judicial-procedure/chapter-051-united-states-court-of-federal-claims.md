@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1992—Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
+1992—Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
 
-1984—Pub. L. 98–620, title IV, § 416(b), Nov. 8, 1984, 98 Stat. 3364, added item 798.
+1984—Pub. L. 98–620, title IV, § 416(b), Nov. 8, 1984, 98 Stat. 3364, added item 798.
 
-1982—Pub. L. 97–164, title I, § 121(b), (c)(2), (d)(2), (f)(2), (g)(2), Apr. 2, 1982, 96 Stat. 34–36, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading and, in analysis of sections in the chapter, struck out item 792 “Commissioners” substituted “Law clerks and secretaries” for “Stenographers and clerical employees” in item 794, substituted “Bailiffs and messengers” for “Bailiff and messenger” in item 795, and substituted “judges” for “commissioners” in item 797.
+1982—Pub. L. 97–164, title I, § 121(b), (c)(2), (d)(2), (f)(2), (g)(2), Apr. 2, 1982, 96 Stat. 34–36, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading and, in analysis of sections in the chapter, struck out item 792 “Commissioners” substituted “Law clerks and secretaries” for “Stenographers and clerical employees” in item 794, substituted “Bailiffs and messengers” for “Bailiff and messenger” in item 795, and substituted “judges” for “commissioners” in item 797.
 
-1972—Pub. L. 92–375, § 1, Aug. 10, 1972, 86 Stat. 529, added item 797.
+1972—Pub. L. 92–375, § 1, Aug. 10, 1972, 86 Stat. 529, added item 797.
 
-1970—Pub. L. 91–272, § 15(b), June 2, 1970, 84 Stat. 298, added item 796.
+1970—Pub. L. 91–272, § 15(b), June 2, 1970, 84 Stat. 298, added item 796.
 
-1954—Act Sept. 3, 1954, ch. 1263, § 40, 68 Stat. 1240, struck out item 793 “Reporter-commissioners; stenographers”.
+1954—Act Sept. 3, 1954, ch. 1263, § 40, 68 Stat. 1240, struck out item 793 “Reporter-commissioners; stenographers”.
 
-## § 791. Clerk
+## § 791. Clerk
 
 **(a)** The United States Court of Federal Claims may appoint a clerk, who shall be subject to removal by the court. The clerk, with the approval of the court, may appoint necessary deputies and employees in such numbers as may be approved by the Director of the Administrative Office of the United States Courts. Such deputies and employees shall be subject to removal by the clerk with the approval of the court.
 
@@ -39,11 +39,11 @@ retrieved: 2026-10-11
 
 **(c)** On the first day of every regular session of Congress, the clerk shall transmit to Congress a full and complete statement of all the judgments rendered by the court during the previous year, showing the dates and amounts thereof and the parties in whose favor they were rendered, together with a brief synopsis of the nature of the claims upon which they were rendered, and a statement of the costs taxed in each case.
 
-(June 25, 1948, ch. 646, 62 Stat. 923; Pub. L. 97–164, title I, § 121(a), Apr. 2, 1982, 96 Stat. 34; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 923; Pub. L. 97–164, title I, § 121(a), Apr. 2, 1982, 96 Stat. 34; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 244, 248, 283a and 289 (Mar. 3, 1911, ch. 231, §§ 139, 143, 183, 36 Stat. 1136, 1142; June 10, 1921, ch. 18, §§ 301, 302, 310, 42 Stat. 23, 25, Mar. 3, 1933, ch. 212, title II, § 19, 47 Stat. 1519; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759).
+Based on title 28, U.S.C., 1940 ed., §§ 244, 248, 283a and 289 (Mar. 3, 1911, ch. 231, §§ 139, 143, 183, 36 Stat. 1136, 1142; June 10, 1921, ch. 18, §§ 301, 302, 310, 42 Stat. 23, 25, Mar. 3, 1933, ch. 212, title II, § 19, 47 Stat. 1519; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759).
 
 This section consolidates a part of sections 244 and 248 with sections 283a and 289, all of title 28, U.S.C., 1940 ed.
 
@@ -61,7 +61,7 @@ Provision in section 244 of title 28, U.S.C., 1940 ed., that the clerk and assis
 
 Section 289 of title 28, U.S.C., 1940 ed., required the Attorney General to duplicate the reporting to Congress of judgments which are furnished by the clerk. The revised section eliminates such duplication by requiring the clerk to transmit the information to Congress.
 
-Words “Director of the Administrative Office of the United States Courts” were substituted for “Attorney General,” in view of the act of August 7, 1939, ch. 501, § 6, 53 Stat. 1226, 28 U.S.C., 1940 ed., following § 446.
+Words “Director of the Administrative Office of the United States Courts” were substituted for “Attorney General,” in view of the act of August 7, 1939, ch. 501, § 6, 53 Stat. 1226, 28 U.S.C., 1940 ed., following § 446.
 
 As revised, this section is consistent with similar provisions as to clerks of district courts and the courts of appeals in chapters 47 and 49 of this title.
 
@@ -89,9 +89,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section requiring transmittal to Congress of an annual statement relating to judgments rendered by the court, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
-## [§ 792. Repealed. Pub. L. 97–164, title I, § 121(b), Apr. 2, 1982, 96 Stat. 34]
+## [§ 792. Repealed. Pub. L. 97–164, title I, § 121(b), Apr. 2, 1982, 96 Stat. 34]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 923; July 28, 1953, ch. 253, § 4(a), 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 41, 68 Stat. 1240; Aug. 14, 1964, Pub. L. 88–426, title IV, § 403(h), 78 Stat. 434; Oct. 15, 1966, Pub. L. 89–681, § 3, 80 Stat. 959; Dec. 16, 1967, Pub. L. 90–206, title II, § 213(e), 81 Stat. 635; Aug. 9, 1975, Pub. L. 94–82, title II, § 205(b)(7), 89 Stat. 423; July 20, 1977, Pub. L. 95–69, § 3, 91 Stat. 274, provided for appointment by Court of Claims and compensation of sixteen commissioners.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 923; July 28, 1953, ch. 253, § 4(a), 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 41, 68 Stat. 1240; Aug. 14, 1964, Pub. L. 88–426, title IV, § 403(h), 78 Stat. 434; Oct. 15, 1966, Pub. L. 89–681, § 3, 80 Stat. 959; Dec. 16, 1967, Pub. L. 90–206, title II, § 213(e), 81 Stat. 635; Aug. 9, 1975, Pub. L. 94–82, title II, § 205(b)(7), 89 Stat. 423; July 20, 1977, Pub. L. 95–69, § 3, 91 Stat. 274, provided for appointment by Court of Claims and compensation of sixteen commissioners.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,19 +99,19 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 923; July 28, 1953, ch. 253, §�
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## [§ 793. Repealed. July 28, 1953, ch. 253, § 6, 67 Stat. 226]
+## [§ 793. Repealed. July 28, 1953, ch. 253, § 6, 67 Stat. 226]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 924, related to appointment of reporter-commissioners by Court of Claims and employment of stenographers therefor.
 
-## § 794. Law clerks and secretaries
+## § 794. Law clerks and secretaries
 
 The judges of the United States Court of Federal Claims may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve for district judges, subject to any limitation of the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, § 121(c)(1), Apr. 2, 1982, 96 Stat. 34; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 102–572, title IX, §§ 902(a)(1), 905, Oct. 29, 1992, 106 Stat. 4516, 4517.)
+(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, § 121(c)(1), Apr. 2, 1982, 96 Stat. 34; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 102–572, title IX, §§ 902(a)(1), 905, Oct. 29, 1992, 106 Stat. 4516, 4517.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 270 (Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; May 29, 1928, ch. 852, § 711, 45 Stat. 882; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
+Based on title 28, U.S.C., 1940 ed., § 270 (Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; May 29, 1928, ch. 852, § 711, 45 Stat. 882; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
 
 The first sentence of the revised section makes express provision for appointment of stenographers and necessary clerical employees.
 
@@ -141,19 +141,19 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 795. Bailiffs and messengers
+## § 795. Bailiffs and messengers
 
-The chief judge of 1
+The chief judge of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 United States Court of Federal Claims, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, § 121(d)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, § 121(d)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 244 (Mar. 3, 1911, ch. 231, § 139, 36 Stat. 1136).
+Based on title 28, U.S.C., 1940 ed., § 244 (Mar. 3, 1911, ch. 231, § 139, 36 Stat. 1136).
 
 The provision in section 244 of title 28, U.S.C., 1940 ed., that the bailiff should serve 4 years unless sooner removed by the court for cause, was changed by omitting the 4-year tenure and removal “for cause” requirement. As revised this section conforms with sections relating to the similar court officers.
 
@@ -183,11 +183,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 796. Reporting of court proceedings
+## § 796. Reporting of court proceedings
 
 Subject to the approval of the United States Court of Federal Claims, the Director of the Administrative Office of the United States Courts is authorized to contract for the reporting of all proceedings had in open court, and in such contract to fix the terms and conditions under which such reporting services shall be performed, including the terms and conditions under which transcripts shall be supplied by the contractor to the court and to other persons, departments, and agencies.
 
-(Added Pub. L. 91–272, § 15(a), June 2, 1970, 84 Stat. 298; amended Pub. L. 97–164, title I, § 121(e), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 91–272, § 15(a), June 2, 1970, 84 Stat. 298; amended Pub. L. 97–164, title I, § 121(e), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 797. Recall of retired judges
+## § 797. Recall of retired judges
 
 **(a)**
 
@@ -221,7 +221,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(d)** Any senior judge, while performing duties pursuant to this section, shall be paid the same allowances for travel and other expenses as a judge in active service. Such senior judge shall also receive from the Court of Federal Claims supplemental pay in an amount sufficient, when added to his retirement annuity, to equal the salary of a judge in active service for the same period or periods of time. Such supplemental pay shall be paid in the same manner as the salary of a judge.
 
-(Added Pub. L. 92–375, § 2, Aug. 10, 1972, 86 Stat. 529; amended Pub. L. 97–164, title I, § 121(f)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 99–651, title II, § 202(c), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 102–572, title IX, §§ 902(a), 904(b), Oct. 29, 1992, 106 Stat. 4516, 4517; Pub. L. 106–518, title III, § 308, Nov. 13, 2000, 114 Stat. 2419.)
+(Added Pub. L. 92–375, § 2, Aug. 10, 1972, 86 Stat. 529; amended Pub. L. 97–164, title I, § 121(f)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 99–651, title II, § 202(c), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 102–572, title IX, §§ 902(a), 904(b), Oct. 29, 1992, 106 Stat. 4516, 4517; Pub. L. 106–518, title III, § 308, Nov. 13, 2000, 114 Stat. 2419.)
 
 **Editorial Notes**
 
@@ -229,11 +229,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 2000—Subsec. (a). Pub. L. 106–518 designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (b). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (b). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-Subsec. (d). Pub. L. 102–572, §§ 902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
+Subsec. (d). Pub. L. 102–572, §§ 902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
 
 1986—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
 
@@ -261,7 +261,7 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 798. Places of holding court; appointment of special masters
+## § 798. Places of holding court; appointment of special masters
 
 **(a)** The United States Court of Federal Claims is authorized to use facilities and hold court in Washington, District of Columbia, and throughout the United States (including its territories and possessions) as necessary for compliance with sections 173 and 2503(c) of this title. The facilities of the Federal courts, as well as other comparable facilities administered by the General Services Administration, shall be made available for trials and other proceedings outside of the District of Columbia.
 
@@ -269,17 +269,17 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c)** The chief judge of the Court of Federal Claims may appoint special masters to assist the court in carrying out its functions. Any special masters so appointed shall carry out their responsibilities and be compensated in accordance with procedures set forth in the rules of the court.
 
-(Added Pub. L. 98–620, title IV, § 416(a), Nov. 8, 1984, 98 Stat. 3364; amended Pub. L. 102–572, title IX, §§ 902(a)(2), 906(a), (b), Oct. 29, 1992, 106 Stat. 4516–4518.)
+(Added Pub. L. 98–620, title IV, § 416(a), Nov. 8, 1984, 98 Stat. 3364; amended Pub. L. 102–572, title IX, §§ 902(a)(2), 906(a), (b), Oct. 29, 1992, 106 Stat. 4516–4518.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–572, § 906(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The United States Claims Court is hereby authorized to utilize facilities and hold court in Washington, District of Columbia, and in four locations outside of the Washington, District of Columbia metropolitan area, for the purpose of conducting trials and such other proceedings as may be appropriate to executing the court’s functions. The Director of the Administrative Office of the United States Courts shall designate such locations and provide for such facilities.”
+1992—Subsec. (a). Pub. L. 102–572, § 906(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The United States Claims Court is hereby authorized to utilize facilities and hold court in Washington, District of Columbia, and in four locations outside of the Washington, District of Columbia metropolitan area, for the purpose of conducting trials and such other proceedings as may be appropriate to executing the court’s functions. The Director of the Administrative Office of the United States Courts shall designate such locations and provide for such facilities.”
 
-Subsec. (b). Pub. L. 102–572, § 906(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 102–572, § 906(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 102–572, §§ 902(a)(2), 906(b)(1), redesignated former subsec. (b) as (c) and substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (c). Pub. L. 102–572, §§ 902(a)(2), 906(b)(1), redesignated former subsec. (b) as (c) and substituted “Court of Federal Claims” for “Claims Court”.
 
 **Statutory Notes and Related Subsidiaries**
 

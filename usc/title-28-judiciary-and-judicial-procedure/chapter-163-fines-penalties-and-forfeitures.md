@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–185, §§ 4(b), 14(b), 15(b), Apr. 25, 2000, 114 Stat. 213, 219, 221, substituted “Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest” for “Return of property to claimant; certificate of reasonable cause; liability for wrongful seizure” in item 2465 and added items 2466 and 2467.
+2000—Pub. L. 106–185, §§ 4(b), 14(b), 15(b), Apr. 25, 2000, 114 Stat. 213, 219, 221, substituted “Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest” for “Return of property to claimant; certificate of reasonable cause; liability for wrongful seizure” in item 2465 and added items 2466 and 2467.
 
-## § 2461. Mode of recovery
+## § 2461. Mode of recovery
 
 **(a)** Whenever a civil fine, penalty or pecuniary forfeiture is prescribed for the violation of an Act of Congress without specifying the mode of recovery or enforcement thereof, it may be recovered in a civil action.
 
 **(b)** Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
-**(c)** If a person is charged in a criminal case with a violation of an Act of Congress for which the civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to 1
+**(c)** If a person is charged in a criminal case with a violation of an Act of Congress for which the civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 the Federal Rules of Criminal Procedure and section 3554 of title 18, United States Code. The procedures in section 413 of the Controlled Substances Act (21 U.S.C. 853) apply to all stages of a criminal forfeiture proceeding, except that subsection (d) of such section applies only in cases in which the defendant is convicted of a violation of such Act.
 
-(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, § 16, Apr. 25, 2000, 114 Stat. 221; Pub. L. 109–177, title IV, § 410, Mar. 9, 2006, 120 Stat. 246.)
+(June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, § 16, Apr. 25, 2000, 114 Stat. 221; Pub. L. 109–177, title IV, § 410, Mar. 9, 2006, 120 Stat. 246.)
 
 **Historical and Revision Notes**
 
@@ -59,7 +59,7 @@ Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rule
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Controlled Substances Act, referred to in subsec. (c), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 **Amendments**
 
@@ -75,7 +75,7 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 **Federal Civil Penalties Inflation Adjustment**
 
-Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134, title III, § 31001(s)(1), Apr. 26, 1996, 110 Stat. 1321–373; Pub. L. 105–362, title XIII, § 1301(a), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 114–74, title VII, § 701(b), Nov. 2, 2015, 129 Stat. 599, provided that:
+Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134, title III, § 31001(s)(1), Apr. 26, 1996, 110 Stat. 1321–373; Pub. L. 105–362, title XIII, § 1301(a), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 114–74, title VII, § 701(b), Nov. 2, 2015, 129 Stat. 599, provided that:
 
 > **“short title**
 
@@ -193,11 +193,11 @@ Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134,
 
 > **“(c) GAO Review.—** The Comptroller General of the United States shall annually submit to Congress a report assessing the compliance of agencies with the inflation adjustments required under this Act, which may be included as part of another report submitted to Congress.”
 
-[Pub. L. 104–134, title III, § 31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, which provided that the first adjustment of a civil monetary penalty made pursuant to the amendment by § 31001(s)(1) of Pub. L. 104–134 (amending Pub. L. 101–410, set out above) could not exceed 10 percent of the penalty, was repealed by Pub. L. 114–74, title VII, § 701(c), Nov. 2, 2015, 129 Stat. 601.]
+[Pub. L. 104–134, title III, § 31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, which provided that the first adjustment of a civil monetary penalty made pursuant to the amendment by § 31001(s)(1) of Pub. L. 104–134 (amending Pub. L. 101–410, set out above) could not exceed 10 percent of the penalty, was repealed by Pub. L. 114–74, title VII, § 701(c), Nov. 2, 2015, 129 Stat. 601.]
 
 [For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.]
 
-## § 2462. Time for commencing proceedings
+## § 2462. Time for commencing proceedings
 
 Except as otherwise provided by Act of Congress, an action, suit or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced within five years from the date when the claim first accrued if, within the same period, the offender or the property is found within the United States in order that proper service may be made thereon.
 
@@ -205,11 +205,11 @@ Except as otherwise provided by Act of Congress, an action, suit or proceeding f
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 791 (R.S. § 1047).
+Based on title 28, U.S.C., 1940 ed., § 791 (R.S. § 1047).
 
 Changes were made in phraseology.
 
-## § 2463. Property taken under revenue law not re­pleviable
+## § 2463. Property taken under revenue law not re­pleviable
 
 All property taken or detained under any revenue law of the United States shall not be repleviable, but shall be deemed to be in the custody of the law and subject only to the orders and decrees of the courts of the United States having jurisdiction thereof.
 
@@ -217,11 +217,11 @@ All property taken or detained under any revenue law of the United States shall 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 747 (R.S. § 934).
+Based on title 28, U.S.C., 1940 ed., § 747 (R.S. § 934).
 
 Changes were made in phraseology.
 
-## § 2464. Security; special bond
+## § 2464. Security; special bond
 
 **(a)** Except in cases of seizures for forfeiture under any law of the United States, whenever a warrant of arrest or other process in rem is issued in any admiralty case, the United States marshal shall stay the execution of such process, or discharge the property arrested if the process has been levied, on receiving from the respondent or claimant of the property a bond or stipulation in double the amount claimed by the libellant, with sufficient surety, to be approved by the judge of the district court where the case is pending, or, in his absence, by the collector of the port, conditioned to answer the decree of the court in such case. Such bond or stipulation shall be returned to the court, and judgment or decree thereon, against both the principal and sureties, may be secured at the time of rendering the decree in the original case. The owner of any vessel may deliver to the marshal a bond or stipulation, with sufficient surety, to be approved by the judge of the district court, conditioned to answer the decree of such court in all or any cases that are brought thereafter in such court against the vessel. Thereupon the execution of all such process against such vessel shall be stayed so long as the amount secured by such bond or stipulation is at least double the aggregate amount claimed by libellants in such suits which are begun and pending against such vessel. Similar judgments or decrees and remedies may be had on such bond or stipulation as if a special bond or stipulation had been filed in each of such suits.
 
@@ -233,7 +233,7 @@ Changes were made in phraseology.
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 754 (R.S. § 941; Mar. 3, 1899, ch. 441, 30 Stat. 1354; Aug. 3, 1935, ch. 431, § 3, 49 Stat. 513).
+Based on title 28, U.S.C., 1940 ed., § 754 (R.S. § 941; Mar. 3, 1899, ch. 441, 30 Stat. 1354; Aug. 3, 1935, ch. 431, § 3, 49 Stat. 513).
 
 Changes were made in phraseology.
 
@@ -243,7 +243,7 @@ Changes were made in phraseology.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by the President with the advice and consent of the Senate were ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of the offices eliminated were already vested in the Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 2465. Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest
+## § 2465. Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest
 
 **(a)** Upon the entry of a judgment for the claimant in any proceeding to condemn or forfeit property seized or arrested under any provision of Federal law—
 
@@ -283,11 +283,11 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 
 **(D)** If the court enters judgment in part for the claimant and in part for the Government, the court shall reduce the award of costs and attorney fees accordingly.
 
-(June 25, 1948, ch. 646, 62 Stat. 975; Pub. L. 106–185, § 4(a), Apr. 25, 2000, 114 Stat. 211.)
+(June 25, 1948, ch. 646, 62 Stat. 975; Pub. L. 106–185, § 4(a), Apr. 25, 2000, 114 Stat. 211.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 818, 827 (R.S. §§ 970, 979).
+Based on title 28, U.S.C., 1940 ed., §§ 818, 827 (R.S. §§ 970, 979).
 
 Section consolidates sections 818 and 827 of title 28, U.S.C., 1940 ed., with changes of phraseology necessary to effect the consolidation.
 
@@ -309,7 +309,7 @@ The qualifying language of section 827 of title 28, U.S.C., 1940 ed., requiring 
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
-## § 2466. Fugitive disentitlement
+## § 2466. Fugitive disentitlement
 
 **(a)** A judicial officer may disallow a person from using the resources of the courts of the United States in furtherance of a claim in any related civil forfeiture action or a claim in third party proceedings in any related criminal forfeiture action upon a finding that such person—
 
@@ -325,29 +325,29 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 **(b)** Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.
 
-(Added Pub. L. 106–185, § 14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, § 322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, title XI, § 1171(c), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title IV, § 406(a)(1), Mar. 9, 2006, 120 Stat. 244.)
+(Added Pub. L. 106–185, § 14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, § 322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, title XI, § 1171(c), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title IV, § 406(a)(1), Mar. 9, 2006, 120 Stat. 244.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–177 directed amendment of directory language of Pub. L. 107–56, § 322, identical to amendment by Pub. L. 109–162. See below.
+2006—Pub. L. 109–177 directed amendment of directory language of Pub. L. 107–56, § 322, identical to amendment by Pub. L. 109–162. See below.
 
-Pub. L. 109–162 amended directory language of Pub. L. 107–56, § 322. See 2001 Amendment note below.
+Pub. L. 109–162 amended directory language of Pub. L. 107–56, § 322. See 2001 Amendment note below.
 
-2001—Pub. L. 107–56, § 322, as amended by Pub. L. 109–162, designated existing provisions as subsec. (a) and added subsec. (b).
+2001—Pub. L. 107–56, § 322, as amended by Pub. L. 109–162, designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–162, title XI, § 1171(c), Jan. 5, 2006, 119 Stat. 3123, provided in part that the amendment made by section 1171(c) of Pub. L. 109–162 is effective Oct. 26, 2001.
+Pub. L. 109–162, title XI, § 1171(c), Jan. 5, 2006, 119 Stat. 3123, provided in part that the amendment made by section 1171(c) of Pub. L. 109–162 is effective Oct. 26, 2001.
 
 **Effective Date**
 
-Pub. L. 106–185, § 14(c), Apr. 25, 2000, 114 Stat. 219, provided that: “The amendments made by this section [enacting this section] shall apply to any case pending on or after the date of the enactment of this Act [Apr. 25, 2000].”
+Pub. L. 106–185, § 14(c), Apr. 25, 2000, 114 Stat. 219, provided that: “The amendments made by this section [enacting this section] shall apply to any case pending on or after the date of the enactment of this Act [Apr. 25, 2000].”
 
-## § 2467. Enforcement of foreign judgment
+## § 2467. Enforcement of foreign judgment
 
 **(a) Definitions.—** In this section—
 
@@ -365,9 +365,9 @@ Pub. L. 106–185, § 14(c), Apr. 25, 2000, 114 Stat. 219, provided that: “T
 
 **(A)** a summary of the facts of the case and a description of the proceedings that resulted in the forfeiture or confiscation judgment;
 
-**(B)** certified 1
+**(B)** certified 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “a”.
+<sup>1</sup> So in original. Probably should be preceded by “a”.
 
 copy of the forfeiture or confiscation judgment;
 
@@ -399,9 +399,9 @@ copy of the forfeiture or confiscation judgment;
 
 **(C)** the foreign court lacked jurisdiction over the subject matter;
 
-**(D)** the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property of the proceedings 2
+**(D)** the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property of the proceedings 2
 
-<sup>2</sup>  So in original. The words “of the proceedings” probably should not appear.
+<sup>2</sup> So in original. The words “of the proceedings” probably should not appear.
 
 in sufficient time to enable him or her to defend; or
 
@@ -437,7 +437,7 @@ in sufficient time to enable him or her to defend; or
 
 **(f) Currency Conversion.—** The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
 
-(Added Pub. L. 106–185, § 15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, § 323, Oct. 26, 2001, 115 Stat. 315; Pub. L. 111–342, § 2, Dec. 22, 2010, 124 Stat. 3607.)
+(Added Pub. L. 106–185, § 15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, § 323, Oct. 26, 2001, 115 Stat. 315; Pub. L. 111–342, § 2, Dec. 22, 2010, 124 Stat. 3607.)
 
 **Editorial Notes**
 
@@ -449,13 +449,13 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 2010—Subsec. (d)(3)(A). Pub. L. 111–342 amended subpar. (A) generally. Prior to amendment, text read as follows: “To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.”
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–56, § 323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+2001—Subsec. (a)(2)(A). Pub. L. 107–56, § 323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
 
-Subsec. (b)(1)(C). Pub. L. 107–56, § 323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+Subsec. (b)(1)(C). Pub. L. 107–56, § 323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
-Subsec. (d)(1)(D). Pub. L. 107–56, § 323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+Subsec. (d)(1)(D). Pub. L. 107–56, § 323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
-Subsec. (d)(3). Pub. L. 107–56, § 323(1), added par. (3).
+Subsec. (d)(3). Pub. L. 107–56, § 323(1), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 

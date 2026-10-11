@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–518, title III, § 304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.
+2000—Pub. L. 106–518, title III, § 304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.
 
-1989—Pub. L. 101–162, title IV, § 404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
+1989—Pub. L. 101–162, title IV, § 404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
 
-1967—Pub. L. 90–219, title II, § 201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
+1967—Pub. L. 90–219, title II, § 201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
 
-1959—Pub. L. 86–370, § 5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+1959—Pub. L. 86–370, § 5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
 
-1949—Act May 24, 1949, ch. 139, § 72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
+1949—Act May 24, 1949, ch. 139, § 72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
 
-## § 601. Creation; Director and Deputy Director
+## § 601. Creation; Director and Deputy Director
 
 The Administrative Office of the United States Courts shall be maintained at the seat of government. It shall be supervised by a Director and a Deputy Director appointed and subject to removal by the Chief Justice of the United States, after consulting with the Judicial Conference. The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 101–650, title III, § 307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, § 602, Oct. 19, 1996, 110 Stat. 3857.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 101–650, title III, § 307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, § 602, Oct. 19, 1996, 110 Stat. 3857.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C. 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302 as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C. 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302 as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains part of section 444 of title 28, U.S.C., 1940 ed. The remainder of said section 444 is incorporated in sections 603, 606 and 608 of this title.
 
@@ -61,7 +61,7 @@ Amendment by Pub. L. 86–370 effective Sept. 23, 1959, see section 7(a) of Pub.
 
 **Veterans’ Preference in Judicial Branch Appointments**
 
-Pub. L. 105–339, § 4(d), Oct. 31, 1998, 112 Stat. 3186, provided that:
+Pub. L. 105–339, § 4(d), Oct. 31, 1998, 112 Stat. 3186, provided that:
 
 > **“(1) In general.—** Subject to paragraphs (2) and (3), the Judicial Conference of the United States shall prescribe procedures to provide for—
 
@@ -91,13 +91,13 @@ Pub. L. 105–339, § 4(d), Oct. 31, 1998, 112 Stat. 3186, provided that:
 
 **Reference to Assistant Director Deemed Reference to Deputy Director**
 
-Pub. L. 86–370, § 5(a)(4), Sept. 23, 1959, 73 Stat. 652, provided that: “Whenever the Assistant Director of the Administrative Office of the United States Courts is referred to in any other law, such reference shall be deemed to be to the Deputy Director of the Administrative Office of the United States Courts.”
+Pub. L. 86–370, § 5(a)(4), Sept. 23, 1959, 73 Stat. 652, provided that: “Whenever the Assistant Director of the Administrative Office of the United States Courts is referred to in any other law, such reference shall be deemed to be to the Deputy Director of the Administrative Office of the United States Courts.”
 
 **Continuation of Law Existing on Sept. 1, 1948**
 
-Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provisions of title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
+Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provisions of title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
 
-## § 602. Employees
+## § 602. Employees
 
 **(a)** The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the Administrative Office of the United States Courts Personnel Act of 1990.
 
@@ -107,11 +107,11 @@ Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provi
 
 **(d)** All functions of other officers and employees of the Administrative Office and all functions of organizational units of the Administrative Office are vested in the Director. The Director may delegate any of the Director’s functions, powers, duties, and authority (except the authority to promulgate rules and regulations) to such officers and employees of the judicial branch of Government as the Director may designate, and subject to such terms and conditions as the Director may consider appropriate; and may authorize the successive redelegation of such functions, powers, duties, and authority as the Director may deem desirable. All official acts performed by such officers and employees shall have the same force and effect as though performed by the Director in person.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 95–539, § 5, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 101–474, § 5(a), (q), Oct. 30, 1990, 104 Stat. 1099, 1101; Pub. L. 101–650, title III, § 325(b)(4), Dec. 1, 1990, 104 Stat. 5121.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 95–539, § 5, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 101–474, § 5(a), (q), Oct. 30, 1990, 104 Stat. 1099, 1101; Pub. L. 101–650, title III, § 325(b)(4), Dec. 1, 1990, 104 Stat. 5121.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 445 (Mar. 3, 1911, ch. 231, § 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 445 (Mar. 3, 1911, ch. 231, § 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains provisions in section 445 of title 28, U.S.C., 1940 ed., for appointment of employees.
 
@@ -129,9 +129,9 @@ The Administrative Office of the United States Courts Personnel Act of 1990, ref
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–474, § 5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
+1990—Subsec. (a). Pub. L. 101–474, § 5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
 
-Subsec. (b). Pub. L. 101–474, § 5(q), and Pub. L. 101–650 amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
+Subsec. (b). Pub. L. 101–474, § 5(q), and Pub. L. 101–650 amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
 
 1978—Pub. L. 95–539, among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by section 3109 of title 5, and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
 
@@ -139,7 +139,7 @@ Subsec. (b). Pub. L. 101–474, § 5(q), and Pub. L. 101–650 amended subsec.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–539, § 10, Oct. 28, 1978, 92 Stat. 2045, provided that:
+Pub. L. 95–539, § 10, Oct. 28, 1978, 92 Stat. 2045, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act [enacting section 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section] shall take effect on the date of the enactment of this Act [Oct. 28, 1978].
 
@@ -147,11 +147,11 @@ Pub. L. 95–539, § 10, Oct. 28, 1978, 92 Stat. 2045, provided that:
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Administrative Office of United States Courts Personnel**
 
-Pub. L. 101–474, §§ 1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, provided that:
+Pub. L. 101–474, §§ 1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -227,23 +227,23 @@ Pub. L. 101–474, §§ 1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, 
 
 **Contract Limitations**
 
-Pub. L. 95–539, § 11, Oct. 28, 1978, 92 Stat. 2045, provided that: “Any contracts entered into under this Act or any of the amendments made by this Act [enacting sections 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section] shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 95–539, § 11, Oct. 28, 1978, 92 Stat. 2045, provided that: “Any contracts entered into under this Act or any of the amendments made by this Act [enacting sections 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section] shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 **Employment of Experts or Consultants; Rates**
 
-Pub. L. 86–370, § 5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, § 8, Oct. 28, 1978, 92 Stat. 2044.
+Pub. L. 86–370, § 5(b), Sept. 23, 1959, 73 Stat. 652, authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by Pub. L. 95–539, § 8, Oct. 28, 1978, 92 Stat. 2044.
 
-## § 603. Salaries
+## § 603. Salaries
 
 The salary of the Director shall be the same as the salary of a district judge. Notwithstanding any other provision of law, the Director shall not be deemed to be an “employee” for the purpose of subchapter I of chapter 63 of title 5. The salary of the Deputy Director shall be 92 percent of the salary of the Director. The salaries of six additional positions shall be fixed by the Director at rates not to exceed the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Oct. 15, 1949, ch. 695, §§ 5(b), 6(b), 63 Stat. 881; Oct. 31, 1951, ch. 655, § 43(b), 65 Stat. 725; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 88–426, title IV, § 403(g), Aug. 14, 1964, 78 Stat. 434; Pub. L. 90–206, title II, § 213(d), Dec. 16, 1967, 81 Stat. 635; Pub. L. 95–539, § 6, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 100–202, § 101(a) [title IV, § 409], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 100–459, title IV, § 406, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 101–474, § 5(b), Oct. 30, 1990, 104 Stat. 1099.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Oct. 15, 1949, ch. 695, §§ 5(b), 6(b), 63 Stat. 881; Oct. 31, 1951, ch. 655, § 43(b), 65 Stat. 725; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 88–426, title IV, § 403(g), Aug. 14, 1964, 78 Stat. 434; Pub. L. 90–206, title II, § 213(d), Dec. 16, 1967, 81 Stat. 635; Pub. L. 95–539, § 6, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 100–202, § 101(a) [title IV, § 409], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 100–459, title IV, § 406, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 101–474, § 5(b), Oct. 30, 1990, 104 Stat. 1099.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 444, 445 (Mar. 3, 1911, ch. 231, §§ 302, 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., §§ 444, 445 (Mar. 3, 1911, ch. 231, §§ 302, 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
-This section consolidates parts of title 28, U.S.C., 1940 ed., §§ 444, 445. The remainder of said sections are incorporated in sections 601, 602, 606, 607, and 608 of this title.
+This section consolidates parts of title 28, U.S.C., 1940 ed., §§ 444, 445. The remainder of said sections are incorporated in sections 601, 602, 606, 607, and 608 of this title.
 
 The figure “$9,376.50” was substituted for “$7,500” as the salary of the Assistant Director in conformity with section 934 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
@@ -283,7 +283,7 @@ Amendment by Pub. L. 95–539 effective Oct. 28, 1978, see section 10(a) of Pub.
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–206, title II, § 220(a)(3), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “Sections 213(d) and (e) [amending this section and section 792 of this title], 214(j), (k), (*l*), (n), and (*o*) [amending sections 4507 and 4575 of Title 2, The Congress, and section 5533 of Title 5, Government Organization and Employees], 215 [amending sections 5314 to 5316 of Title 5], 217 [amending section 5545 of Title 5], 219 [amending sections 136a and 136a–1 of Title 2, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents], and 224(c) [amending material set out as a note under section 102 of Title 3, The President] shall become effective at the beginning of the first pay period which begins on or after the date of enactment of this title [Dec. 16, 1967].”
+Pub. L. 90–206, title II, § 220(a)(3), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “Sections 213(d) and (e) [amending this section and section 792 of this title], 214(j), (k), (*l*), (n), and (*o*) [amending sections 4507 and 4575 of Title 2, The Congress, and section 5533 of Title 5, Government Organization and Employees], 215 [amending sections 5314 to 5316 of Title 5], 217 [amending section 5545 of Title 5], 219 [amending sections 136a and 136a–1 of Title 2, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents], and 224(c) [amending material set out as a note under section 102 of Title 3, The President] shall become effective at the beginning of the first pay period which begins on or after the date of enactment of this title [Dec. 16, 1967].”
 
 **Effective Date of 1964 Amendment**
 
@@ -307,13 +307,13 @@ The increased compensation provided for by act Oct. 15, 1949, took effect on fir
 
 1969—Salaries of Director and Deputy Director increased respectively from $30,000 and $28,000 to $40,000 and $36,000 per annum, commencing February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-1967—Pub. L. 90–206, title II, § 213(a), Dec. 16, 1967, 81 Stat. 635, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision of a section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of Title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of Title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5, Government Organization and Employees] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) may be increased by the amounts reflecting the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code.”
+1967—Pub. L. 90–206, title II, § 213(a), Dec. 16, 1967, 81 Stat. 635, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision of a section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of Title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of Title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5, Government Organization and Employees] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) may be increased by the amounts reflecting the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code.”
 
 [Section 213(a) of Pub. L. 90–206 effective as of beginning of first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.]
 
-1966—Pub. L. 89–504, title II, § 202(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 102(a) of title I of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) may be increased by the amounts reflecting the respective applicable increases provided by section 102(a) of title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1966—Pub. L. 89–504, title II, § 202(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 102(a) of title I of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) may be increased by the amounts reflecting the respective applicable increases provided by section 102(a) of title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-[Pub. L. 89–504, title II, § 203, July 18, 1966, 80 Stat. 294, provided that:
+[Pub. L. 89–504, title II, § 203, July 18, 1966, 80 Stat. 294, provided that:
 
 > “This title shall become effective as follows:
 
@@ -323,27 +323,27 @@ The increased compensation provided for by act Oct. 15, 1949, took effect on fir
 
 ]
 
-1965—Pub. L. 89–301, § 12(a), Oct. 29, 1965, 79 Stat. 1121, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)) section 3656 of Title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of Title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees]. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) [section 604(a)(5) of this title] may be increased by the amounts reflecting the respective applicable increases provided by section 2(a) of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5].”
+1965—Pub. L. 89–301, § 12(a), Oct. 29, 1965, 79 Stat. 1121, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)) section 3656 of Title 18, United States Code, the third sentence of section 603, sections 671 to 675, inclusive, or section 604(a)(5), of Title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees]. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to such section 604(a)(5) [section 604(a)(5) of this title] may be increased by the amounts reflecting the respective applicable increases provided by section 2(a) of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5].”
 
-1964—Pub. L. 88–426, title IV, § 402(a), Aug. 14, 1964, 78 Stat. 433, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18, United States Code, the third sentence of section 603, sections 672 to 675, inclusive, or section 604(a)(5), of title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees]. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to section 604(a)(5) [section 604(a)(5) of this title] may be increased by the amounts reflecting the respective applicable increases provided by title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5].”
+1964—Pub. L. 88–426, title IV, § 402(a), Aug. 14, 1964, 78 Stat. 433, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18, United States Code, the third sentence of section 603, sections 672 to 675, inclusive, or section 604(a)(5), of title 28, United States Code, insofar as the latter section applies to graded positions, are hereby increased by amounts reflecting the respective applicable increases provided by title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees]. The rates of basic compensation of officers and employees holding ungraded positions and whose salaries are fixed pursuant to section 604(a)(5) [section 604(a)(5) of this title] may be increased by the amounts reflecting the respective applicable increases provided by title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5].”
 
-1962—Pub. L. 87–793, title VI, § 1004(a), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or section 672 to 675 inclusive, of title 28 of the United States Code, or section 107(a)(6) of the Act of July 31, 1956, as amended (5 U.S.C. 2206(a)(6)) [section 2206(a)(b) of former Title 5, Executive Departments and Government Officers and Employees], are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act [Oct 11, 1962], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1962—Pub. L. 87–793, title VI, § 1004(a), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or section 672 to 675 inclusive, of title 28 of the United States Code, or section 107(a)(6) of the Act of July 31, 1956, as amended (5 U.S.C. 2206(a)(6)) [section 2206(a)(b) of former Title 5, Executive Departments and Government Officers and Employees], are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act [Oct 11, 1962], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1960—Pub. L. 86–568, title I, § 116(a), July 1, 1960, 74 Stat. 303, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or sections 672 to 675, inclusive, of title 28 of the United States Code, or section 107(a)(6) of the Act of July 31, 1956, as amended (5 U.S.C. 2206(a)(6)), are hereby increased by amounts equal to the increases provided by section 612 [112] of this part [amending former section 1113(b) of Title 5] in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1960—Pub. L. 86–568, title I, § 116(a), July 1, 1960, 74 Stat. 303, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed by or pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. 102(a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or sections 672 to 675, inclusive, of title 28 of the United States Code, or section 107(a)(6) of the Act of July 31, 1956, as amended (5 U.S.C. 2206(a)(6)), are hereby increased by amounts equal to the increases provided by section 612 [112] of this part [amending former section 1113(b) of Title 5] in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-Pub. L. 87–367, title III, § 302(d), Oct. 4, 1961, 75 Stat. 793, provided that: “On and after the effective date of this subsection, section 116(a) of the Federal Employees Salary Increase Act of 1960 (Part B of the Act of July 1, 1960; 74 Stat. 303; Public Law 86–568) [set out as a note above] shall not be applicable with respect to the Deputy Director of the Administrative Office of the United States Courts.”
+Pub. L. 87–367, title III, § 302(d), Oct. 4, 1961, 75 Stat. 793, provided that: “On and after the effective date of this subsection, section 116(a) of the Federal Employees Salary Increase Act of 1960 (Part B of the Act of July 1, 1960; 74 Stat. 303; Public Law 86–568) [set out as a note above] shall not be applicable with respect to the Deputy Director of the Administrative Office of the United States Courts.”
 
-1958—Pub. L. 85–462, § 3(a), June 20, 1958, 72 Stat. 207, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. (a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or sections 672 to 675 inclusive, of title 28 of the United States Code are hereby increased by amounts equal to the increases provided by section 2 of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1958—Pub. L. 85–462, § 3(a), June 20, 1958, 72 Stat. 207, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C. (a)(2)), section 3656 of title 18 of the United States Code, the third sentence of section 603, section 604(a)(5), or sections 672 to 675 inclusive, of title 28 of the United States Code are hereby increased by amounts equal to the increases provided by section 2 of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1955—Act June 28, 1955, ch. 189, § 3(a), 69 Stat. 175, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C., sec. 102(a)(2)), section 3656 of title 18 of the United States Code, the second and third sentences of section 603, section 604(a)(5), or sections 672 to 675, inclusive, of title 28 of the United States Code are hereby increased by amounts equal to the increases provided by section 2 of this Act in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1955—Act June 28, 1955, ch. 189, § 3(a), 69 Stat. 175, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to paragraph (2) of subdivision a of section 62 of the Bankruptcy Act (11 U.S.C., sec. 102(a)(2)), section 3656 of title 18 of the United States Code, the second and third sentences of section 603, section 604(a)(5), or sections 672 to 675, inclusive, of title 28 of the United States Code are hereby increased by amounts equal to the increases provided by section 2 of this Act in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1951—Act Oct. 24, 1951, ch. 554, § 1(c), 65 Stat. 613, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to section 62(2) of the Bankruptcy Act (11 U.S.C. § 102(a)(2)), section 3656 of title 18 of the United States Code the second and third sentences of section 603, section 604(5), or sections 672 to 675, inclusive, of title 28 of the United States Code, or who are appointed pursuant to section 792(b) of title 28 of the United States Code, are hereby increased by amounts equal to the increases provided by subsections (a) and (b) in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949 [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1951—Act Oct. 24, 1951, ch. 554, § 1(c), 65 Stat. 613, provided that: “The rates of basic compensation of officers and employees in or under the judicial branch of the Government whose rates of compensation are fixed pursuant to section 62(2) of the Bankruptcy Act (11 U.S.C. § 102(a)(2)), section 3656 of title 18 of the United States Code the second and third sentences of section 603, section 604(5), or sections 672 to 675, inclusive, of title 28 of the United States Code, or who are appointed pursuant to section 792(b) of title 28 of the United States Code, are hereby increased by amounts equal to the increases provided by subsections (a) and (b) in corresponding rates of compensation paid to officers and employees subject to the Classification Act of 1949 [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
 **Reference to Assistant Director Deemed Reference to Deputy Director**
 
 References in any other law to Assistant Director of the Administrative Office of the United States Courts deemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
 
-## § 604. Duties of Director generally
+## § 604. Duties of Director generally
 
 **(a)** The Director shall be the administrative officer of the courts, and under the supervision and direction of the Judicial Conference of the United States, shall:
 
@@ -357,7 +357,7 @@ References in any other law to Assistant Director of the Administrative Office o
 
 **(5)** Fix the compensation of clerks of court, deputies, librarians, criers, messengers, law clerks, secretaries, stenographers, clerical assistants, and other employees of the courts whose compensation is not otherwise fixed by law, and, notwithstanding any other provision of law, pay on behalf of Justices and judges of the United States appointed to hold office during good behavior, United States magistrate judges, bankruptcy judges appointed under chapter 6 of this title, judges of the District Court of Guam, judges of the District Court for the Northern Mariana Islands, judges of the District Court of the Virgin Islands, bankruptcy judges and magistrate judges retired under section 377 of this title, and judges retired under section 373 of this title, who are,1
 
-<sup>1</sup>  So in original. Comma probably should not appear.
+<sup>1</sup> So in original. Comma probably should not appear.
 
 aged 65 or over, any increases in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the Judicial Conference of the United States;
 
@@ -447,15 +447,15 @@ so as to provide a current record of such rules and orders;
 
 **(4)** The Director is hereby authorized:
 
-**(A)** to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 253*l* 2
+**(A)** to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 253*l* 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 41, United States Code;
 
-**(B)** to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agencies under the authority of section 254c <sup>2</sup> of title 41, United States Code; and
+**(B)** to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agencies under the authority of section 254c <sup>2</sup> of title 41, United States Code; and
 
-**(C)** to make advance, partial, progress or other payments under contracts for property or services to the same extent as executive agencies under the authority of section 255 <sup>2</sup> of title 41, United States Code.
+**(C)** to make advance, partial, progress or other payments under contracts for property or services to the same extent as executive agencies under the authority of section 255 <sup>2</sup> of title 41, United States Code.
 
 **(h)**
 
@@ -499,11 +499,11 @@ of title 41, United States Code;
 
 **(6) Effective date.—** Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
 
-(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, § 3, 70 Stat. 1026; Pub. L. 90–219, title II, § 203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, § 201, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, § 4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, § 204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§ 3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, § 225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, § 5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, § 5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, § 1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, § 7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, § 116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, § 2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, § 6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, § 402(a), title X, §§ 1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, § 5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, § 2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§ 306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, § 503, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 305], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, § 204, title III, § 304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, § 3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, § 11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, § 407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, § 502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, § 307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, § 5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, § 1122(e), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 117–263, div. E, title LIX, § 5936(a)(3), Dec. 23, 2022, 136 Stat. 3467.)
+(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, § 3, 70 Stat. 1026; Pub. L. 90–219, title II, § 203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, § 201, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, § 4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, § 204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§ 3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, § 225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, § 5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, § 5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, § 1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, § 7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, § 116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, § 2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, § 6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, § 402(a), title X, §§ 1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, § 5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, § 2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§ 306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, § 503, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 305], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, § 204, title III, § 304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, § 3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, § 11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, § 407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, § 502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, § 307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, § 5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, § 1122(e), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 117–263, div. E, title LIX, § 5936(a)(3), Dec. 23, 2022, 136 Stat. 3467.)
 
 **Historical and Revision Notes**
 
-Based on sections 726–1 and 726a of title 18, U.S.C., 1940 ed., Criminal Code and Criminal Procedure, and sections 1130(a)(b) and 1131 of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §§ 9, 128, 222a, 245, 268a, 278a, 302–306, 374b, 446, 447, 450, 544, 545, 547, 557, 558, 560, 561, 561a, 562, 563, 565, 566, 595, and 596 and sections 11–204 and 11–403, District of Columbia Code, 1940 ed. (R.S. §§ 1075, 1085; Mar. 3, 1891, ch. 517, §§ 2, 9, 26 Stat. 826, 829; Feb. 9, 1893, ch. 74, § 4, 27 Stat. 435; July 30, 1894, ch. 172, § 1, 28 Stat. 160; Mar. 3, 1901, ch. 854, § 224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, § 5, 36 Stat. 1088; Mar. 3, 1911, ch. 231, § 118a, as added June 17, 1930, ch. 509, 46 Stat. 774; Mar. 3, 1911, ch. 231, § 118b, as added Feb. 17, 1936, ch. 75, 49 Stat. 1140; Mar. 3, 1911, ch. 231, §§ 140, 163, 171, 189–193, 291, 36 Stat. 1136, 1140, 1141, 1143, 1167; Mar. 3, 1911, ch. 231, §§ 304, 305, 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 26, 1919, ch. 49, §§ 1, 2, 3, 4, 5, 7, 8, 40 Stat. 1182; July 19, 1919, ch. 24, § 1, 41 Stat. 210; Nov. 4, 1919, ch. 93, § 1, 41 Stat. 338; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Feb. 22, 1921, ch. 70, § 7, 41 Stat. 1144; Mar. 4, 1921, ch. 161, 41 Stat. 1412; June 1, 1922, ch. 204, title II, 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 28, 1924, ch. 204, title II, 43 Stat. 221; Feb. 27, 1925, ch. 364, title II, 43 Stat. 1030; Apr. 29, 1926, ch. 195, title II, 44 Stat. 346, 347; May 21, 1928, ch. 659, 45 Stat. 645; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 16, 1930, ch. 494, 46 Stat. 589; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Apr. 27, 1938, ch. 180, title II, § 1, 52 Stat. 264; Feb. 10, 1939, ch. 2, §§ 1130(a)(b), 1131, 53 Stat. 162, 163; June 29, 1939, ch. 248, title II, 53 Stat. 902; May 14, 1940, ch. 189, titles III, IV, 54 Stat. 204, 209, 210; June 28, 1941, ch. 258, title IV, 55 Stat. 300–302; July 2, 1942, ch. 472, title IV, 56 Stat. 503, 504; June 28, 1943, ch. 173, title II, § 201, 57 Stat. 242, 243; June 26, 1944, ch. 277, title II, § 201, 58 Stat. 357; Dec. 7, 1944, ch. 522, § 1, 58 Stat. 796; May 21, 1945, ch. 129, titles II, IV, 59 Stat. 184, 199; July 5, 1946, ch. 541, title IV, 60 Stat. 478, 479).
+Based on sections 726–1 and 726a of title 18, U.S.C., 1940 ed., Criminal Code and Criminal Procedure, and sections 1130(a)(b) and 1131 of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §§ 9, 128, 222a, 245, 268a, 278a, 302–306, 374b, 446, 447, 450, 544, 545, 547, 557, 558, 560, 561, 561a, 562, 563, 565, 566, 595, and 596 and sections 11–204 and 11–403, District of Columbia Code, 1940 ed. (R.S. §§ 1075, 1085; Mar. 3, 1891, ch. 517, §§ 2, 9, 26 Stat. 826, 829; Feb. 9, 1893, ch. 74, § 4, 27 Stat. 435; July 30, 1894, ch. 172, § 1, 28 Stat. 160; Mar. 3, 1901, ch. 854, § 224, 31 Stat. 1224; June 30, 1902, ch. 1329, 32 Stat. 528; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, § 5, 36 Stat. 1088; Mar. 3, 1911, ch. 231, § 118a, as added June 17, 1930, ch. 509, 46 Stat. 774; Mar. 3, 1911, ch. 231, § 118b, as added Feb. 17, 1936, ch. 75, 49 Stat. 1140; Mar. 3, 1911, ch. 231, §§ 140, 163, 171, 189–193, 291, 36 Stat. 1136, 1140, 1141, 1143, 1167; Mar. 3, 1911, ch. 231, §§ 304, 305, 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223; Aug. 23, 1912, ch. 350, 37 Stat. 412; Feb. 26, 1919, ch. 49, §§ 1, 2, 3, 4, 5, 7, 8, 40 Stat. 1182; July 19, 1919, ch. 24, § 1, 41 Stat. 210; Nov. 4, 1919, ch. 93, § 1, 41 Stat. 338; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Feb. 22, 1921, ch. 70, § 7, 41 Stat. 1144; Mar. 4, 1921, ch. 161, 41 Stat. 1412; June 1, 1922, ch. 204, title II, 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; Mar. 4, 1923, ch. 265, 42 Stat. 1488; May 28, 1924, ch. 204, title II, 43 Stat. 221; Feb. 27, 1925, ch. 364, title II, 43 Stat. 1030; Apr. 29, 1926, ch. 195, title II, 44 Stat. 346, 347; May 21, 1928, ch. 659, 45 Stat. 645; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 16, 1930, ch. 494, 46 Stat. 589; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Apr. 27, 1938, ch. 180, title II, § 1, 52 Stat. 264; Feb. 10, 1939, ch. 2, §§ 1130(a)(b), 1131, 53 Stat. 162, 163; June 29, 1939, ch. 248, title II, 53 Stat. 902; May 14, 1940, ch. 189, titles III, IV, 54 Stat. 204, 209, 210; June 28, 1941, ch. 258, title IV, 55 Stat. 300–302; July 2, 1942, ch. 472, title IV, 56 Stat. 503, 504; June 28, 1943, ch. 173, title II, § 201, 57 Stat. 242, 243; June 26, 1944, ch. 277, title II, § 201, 58 Stat. 357; Dec. 7, 1944, ch. 522, § 1, 58 Stat. 796; May 21, 1945, ch. 129, titles II, IV, 59 Stat. 184, 199; July 5, 1946, ch. 541, title IV, 60 Stat. 478, 479).
 
 For purposes of uniformity, all provisions of law governing the regulation and allowance of office, travel, and subsistence expenses of all officers and employees of the courts, except those provisions relating to Supreme Court officers and employees, are incorporated in subsection (a)(6)(7) of this section. Likewise the provisions respecting the compensation of court officers and employees, except those of the Supreme Court, are incorporated in subsection (a)(5). In each instance the power to fix and determine such salaries and expenses is transferred to the Director of the Administrative Office of the United States Courts. This change is in conformity with the Administrative Office Act 1939 included in this chapter.
 
@@ -541,7 +541,7 @@ Changes were made in phraseology and arrangement.
 
 By Senate amendment, all provisions relating to the Tax Court were eliminated, therefore, as finally enacted, sections 1130(a)(b) and 1131 of Title 26, U.S.C., Internal Revenue Code [1940 ed.], did not constitute part of the source of this section. However, no change in the text of the section was necessary. See 80th Congress Senate Report No. 1559.
 
-As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 305, which was classified to title 28, U.S.C., 1946 ed., § 374b, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 305, which was classified to title 28, U.S.C., 1946 ed., § 374b, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 **Editorial Notes**
 
@@ -549,11 +549,11 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 3
 
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (a)(19), is section 2(c) of Pub. L. 100–659, Nov. 15, 1988, 102 Stat. 3916, which is set out as a note under section 377 of this title.
 
-Section 253*l* of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253*l* of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 253*l* of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253*l* of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-Section 254c of title 41, United States Code, referred to in subsec. (g)(4)(B), probably means section 304B of act June 30, 1949, ch. 288, which was classified to section 254c of former Title 41, Public Contracts, and was repealed and restated as section 3903 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 254c of title 41, United States Code, referred to in subsec. (g)(4)(B), probably means section 304B of act June 30, 1949, ch. 288, which was classified to section 254c of former Title 41, Public Contracts, and was repealed and restated as section 3903 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-Section 255 of title 41, United States Code, referred to in subsec. (g)(4)(C), probably means section 305 of act June 30, 1949, ch. 288, which was classified to section 255 of former Title 41, Public Contracts, and was repealed and restated as chapter 45 (§ 4501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 255 of title 41, United States Code, referred to in subsec. (g)(4)(C), probably means section 305 of act June 30, 1949, ch. 288, which was classified to section 255 of former Title 41, Public Contracts, and was repealed and restated as chapter 45 (§ 4501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (i)(5)(A), is the date of enactment of subtitle B of title XI of div. A of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
@@ -567,85 +567,85 @@ Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to 
 
 2011—Subsec. (a)(10)(C). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)”.
 
-2009—Subsec. (a)(5). Pub. L. 111–8 substituted “, United States magistrate judges, bankruptcy judges appointed under chapter 6 of this title, judges of the District Court of Guam, judges of the District Court for the Northern Mariana Islands, judges of the District Court of the Virgin Islands, bankruptcy judges and magistrate judges retired under section 377 of this title, and judges retired under section 373 of this title, who are” for “magistrate judges appointed under section 631 of this title,”.
+2009—Subsec. (a)(5). Pub. L. 111–8 substituted “, United States magistrate judges, bankruptcy judges appointed under chapter 6 of this title, judges of the District Court of Guam, judges of the District Court for the Northern Mariana Islands, judges of the District Court of the Virgin Islands, bankruptcy judges and magistrate judges retired under section 377 of this title, and judges retired under section 373 of this title, who are” for “magistrate judges appointed under section 631 of this title,”.
 
 2008—Subsec. (a)(5). Pub. L. 110–177 inserted “magistrate judges appointed under section 631 of this title,” after “hold office during good behavior”.
 
 2005—Subsec. (g)(4). Pub. L. 109–115 added par. (4).
 
-2002—Subsec. (a)(20)(B). Pub. L. 107–273, § 11043(e)(1)(A), substituted “358” for “372(c)(11)”.
+2002—Subsec. (a)(20)(B). Pub. L. 107–273, § 11043(e)(1)(A), substituted “358” for “372(c)(11)”.
 
-Subsec. (a)(20)(C). Pub. L. 107–273, § 11043(e)(1)(B), substituted “360(b)” for “372(c)(15)”.
+Subsec. (a)(20)(C). Pub. L. 107–273, § 11043(e)(1)(B), substituted “360(b)” for “372(c)(15)”.
 
 Subsec. (g)(3)(B). Pub. L. 107–217 substituted “sections 541–555 of title 40” for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”.
 
-Subsec. (h)(1). Pub. L. 107–273, § 11043(e)(2)(A), substituted “chapter 16” for “section 372” in two places.
+Subsec. (h)(1). Pub. L. 107–273, § 11043(e)(2)(A), substituted “chapter 16” for “section 372” in two places.
 
-Subsec. (h)(2). Pub. L. 107–273, § 11043(e)(2)(B), substituted “chapter 16” for “section 372(c)”.
+Subsec. (h)(2). Pub. L. 107–273, § 11043(e)(2)(B), substituted “chapter 16” for “section 372(c)”.
 
-2000—Subsec. (a)(8). Pub. L. 106–518, § 304(d), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Disburse, directly or through the several United States marshals, moneys appropriated for the maintenance and operation of the courts;”.
+2000—Subsec. (a)(8). Pub. L. 106–518, § 304(d), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Disburse, directly or through the several United States marshals, moneys appropriated for the maintenance and operation of the courts;”.
 
-Subsec. (a)(24). Pub. L. 106–518, § 204, struck out the second par. (24) which read as follows: “Lay before Congress, annually, statistical tables that will accurately reflect the business imposed on the Federal courts by the savings and loan crisis.”
+Subsec. (a)(24). Pub. L. 106–518, § 204, struck out the second par. (24) which read as follows: “Lay before Congress, annually, statistical tables that will accurately reflect the business imposed on the Federal courts by the savings and loan crisis.”
 
-1999—Subsec. (a)(5). Pub. L. 106–113 inserted before semicolon at end “, and, notwithstanding any other provision of law, pay on behalf of Justices and judges of the United States appointed to hold office during good behavior, aged 65 or over, any increases in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the Judicial Conference of the United States”.
+1999—Subsec. (a)(5). Pub. L. 106–113 inserted before semicolon at end “, and, notwithstanding any other provision of law, pay on behalf of Justices and judges of the United States appointed to hold office during good behavior, aged 65 or over, any increases in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the Judicial Conference of the United States”.
 
-1992—Subsec. (a)(7), (23). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(7), (23). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (g)(3). Pub. L. 102–572, § 503, added par. (3).
+Subsec. (g)(3). Pub. L. 102–572, § 503, added par. (3).
 
-1990—Subsec. (a)(7). Pub. L. 101–650, § 325(c)(1), amended Pub. L. 100–702, § 1011. See 1988 Amendment note below.
+1990—Subsec. (a)(7). Pub. L. 101–650, § 325(c)(1), amended Pub. L. 100–702, § 1011. See 1988 Amendment note below.
 
-Pub. L. 101–650, § 306(e)(1)(B)(i), inserted “judges of the United States Claims Court,” before “bankruptcy judges”.
+Pub. L. 101–650, § 306(e)(1)(B)(i), inserted “judges of the United States Claims Court,” before “bankruptcy judges”.
 
-Subsec. (a)(19). Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), made identical technical amendment to directory language of Pub. L. 100–702, § 402(a)(1). See 1988 Amendment note below.
+Subsec. (a)(19). Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), made identical technical amendment to directory language of Pub. L. 100–702, § 402(a)(1). See 1988 Amendment note below.
 
-Subsec. (a)(23). Pub. L. 101–650, § 306(e)(1)(B)(iii), added par. (23). Former par. (23) redesignated (24).
+Subsec. (a)(23). Pub. L. 101–650, § 306(e)(1)(B)(iii), added par. (23). Former par. (23) redesignated (24).
 
-Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), made identical technical amendments to directory language of Pub. L. 100–702, § 402(a)(1). See 1988 Amendment note below.
+Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), made identical technical amendments to directory language of Pub. L. 100–702, § 402(a)(1). See 1988 Amendment note below.
 
-Subsec. (a)(24). Pub. L. 101–650, § 306(e)(1)(B)(ii), redesignated par. (23), relating to performance of other duties, as (24).
+Subsec. (a)(24). Pub. L. 101–650, § 306(e)(1)(B)(ii), redesignated par. (23), relating to performance of other duties, as (24).
 
 Pub. L. 101–647 added par. (24) relating to statistical tables.
 
-1988—Subsec. (a)(2). Pub. L. 100–702, § 1020(a)(2), substituted “semiannually” for “quarterly”.
+1988—Subsec. (a)(2). Pub. L. 100–702, § 1020(a)(2), substituted “semiannually” for “quarterly”.
 
-Subsec. (a)(7). Pub. L. 100–702, § 1011, as amended by Pub. L. 101–650, § 325(c)(1), which directed amendment of par. (7) “by [sic] at the end the following: ‘without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;’ ” was executed by inserting the new language after the comma at the end to reflect the probable intent of Congress.
+Subsec. (a)(7). Pub. L. 100–702, § 1011, as amended by Pub. L. 101–650, § 325(c)(1), which directed amendment of par. (7) “by [sic] at the end the following: ‘without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;’ ” was executed by inserting the new language after the comma at the end to reflect the probable intent of Congress.
 
-Pub. L. 100–659, § 6(a)(1), inserted “bankruptcy judges, United States magistrates,” after “United States,”.
+Pub. L. 100–659, § 6(a)(1), inserted “bankruptcy judges, United States magistrates,” after “United States,”.
 
-Subsec. (a)(14), (15). Pub. L. 100–702, § 1008(1), redesignated par. (14), relating to provision of special interpretation services in courts of United States, as (15). Former par. (15) redesignated (16).
+Subsec. (a)(14), (15). Pub. L. 100–702, § 1008(1), redesignated par. (14), relating to provision of special interpretation services in courts of United States, as (15). Former par. (15) redesignated (16).
 
-Subsec. (a)(16), (17). Pub. L. 100–702, § 1008(1), redesignated pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
+Subsec. (a)(16), (17). Pub. L. 100–702, § 1008(1), redesignated pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
 
-Subsec. (a)(18). Pub. L. 100–702, § 1008(1), redesignated par. (17) as (18). Former par. (18), as added by Pub. L. 100–659, redesignated (19).
+Subsec. (a)(18). Pub. L. 100–702, § 1008(1), redesignated par. (17) as (18). Former par. (18), as added by Pub. L. 100–659, redesignated (19).
 
-Pub. L. 100–659, § 6(a)(3), added par. (18). Former par. (18) redesignated (19).
+Pub. L. 100–659, § 6(a)(3), added par. (18). Former par. (18) redesignated (19).
 
-Subsec. (a)(19). Pub. L. 100–702, § 1008(2), redesignated par. (19), as added by Pub. L. 100–702, § 402(a)(2), as (20).
+Subsec. (a)(19). Pub. L. 100–702, § 1008(2), redesignated par. (19), as added by Pub. L. 100–702, § 402(a)(2), as (20).
 
-Pub. L. 100–702, § 402(a), as amended by Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23) and added par. (19) relating to compilation of rules and orders.
+Pub. L. 100–702, § 402(a), as amended by Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23) and added par. (19) relating to compilation of rules and orders.
 
-Pub. L. 100–659, § 6(a)(2), redesignated par. (18), relating to performance of other duties, as (19).
+Pub. L. 100–659, § 6(a)(2), redesignated par. (18), relating to performance of other duties, as (19).
 
-Subsec. (a)(20). Pub. L. 100–702, § 1008(2), redesignated par. (19), as added by Pub. L. 100–702, § 402(a)(2), as (20).
+Subsec. (a)(20). Pub. L. 100–702, § 1008(2), redesignated par. (19), as added by Pub. L. 100–702, § 402(a)(2), as (20).
 
-Subsec. (a)(21). Pub. L. 100–702, § 1008(2), added par. (21).
+Subsec. (a)(21). Pub. L. 100–702, § 1008(2), added par. (21).
 
-Subsec. (a)(22). Pub. L. 100–702, § 1010, added par. (22).
+Subsec. (a)(22). Pub. L. 100–702, § 1010, added par. (22).
 
-Subsec. (a)(23). Pub. L. 100–702, § 402(a)(1), as amended by Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23).
+Subsec. (a)(23). Pub. L. 100–702, § 402(a)(1), as amended by Pub. L. 101–474, § 5(r), and Pub. L. 101–650, § 306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23).
 
 1987—Subsec. (a)(17), (18). Pub. L. 100–185 added par. (17) and redesignated former par. (17) as (18).
 
-1986—Subsec. (f). Pub. L. 99–554 struck out subsec. (f) as added by Pub. L. 95–598, § 225(b), which related to the Director naming qualified persons to membership on the panel of trustees, their number, qualifications, removal, etc.
+1986—Subsec. (f). Pub. L. 99–554 struck out subsec. (f) as added by Pub. L. 95–598, § 225(b), which related to the Director naming qualified persons to membership on the panel of trustees, their number, qualifications, removal, etc.
 
-1982—Subsec. (a)(9). Pub. L. 97–267, § 7(1), struck out “agencies” after “pretrial services”.
+1982—Subsec. (a)(9). Pub. L. 97–267, § 7(1), struck out “agencies” after “pretrial services”.
 
-Subsec. (a)(10). Pub. L. 97–267, § 7(2), substituted “providing pretrial services” for “for pretrial services agencies”.
+Subsec. (a)(10). Pub. L. 97–267, § 7(2), substituted “providing pretrial services” for “for pretrial services agencies”.
 
-Subsec. (a)(11). Pub. L. 97–267, § 7(3), substituted “offices providing pretrial services” for “pretrial service agencies”.
+Subsec. (a)(11). Pub. L. 97–267, § 7(3), substituted “offices providing pretrial services” for “pretrial service agencies”.
 
-Subsec. (a)(12). Pub. L. 97–267, § 7(4), substituted “offices providing pretrial services” for “pretrial services agencies”.
+Subsec. (a)(12). Pub. L. 97–267, § 7(4), substituted “offices providing pretrial services” for “pretrial services agencies”.
 
 1980—Subsec. (a)(16)(A). Pub. L. 96–523 inserted “(b)” after “3102”.
 
@@ -653,17 +653,17 @@ Subsec. (h). Pub. L. 96–458 added subsec. (h).
 
 1979—Subsec. (d)(3). Pub. L. 96–82 added cls. (A), (B), and (C).
 
-1978—Subsec. (a)(10). Pub. L. 95–539, § 3(a), expanded the duties of the Director to include providing or making available equipment for interpretation of proceedings in accordance with section 1828 of this title and to include entering into and performing contracts necessary to the conduct of the work of the judicial branch and exempted from the provisions of section 5 of title 41 contracts for nonpersonal services for pretrial agencies, for interpretation of proceedings, and for special interpretation services pursuant to section 1828 of this title.
+1978—Subsec. (a)(10). Pub. L. 95–539, § 3(a), expanded the duties of the Director to include providing or making available equipment for interpretation of proceedings in accordance with section 1828 of this title and to include entering into and performing contracts necessary to the conduct of the work of the judicial branch and exempted from the provisions of section 5 of title 41 contracts for nonpersonal services for pretrial agencies, for interpretation of proceedings, and for special interpretation services pursuant to section 1828 of this title.
 
-Subsec. (a)(13), (14). Pub. L. 95–598, § 225(a), added par. (13) relating to annual statistical tables reflecting the business of the several bankruptcy courts, and redesignated former par. (13), relating to provision of special interpretation services in courts of the United States, as (14).
+Subsec. (a)(13), (14). Pub. L. 95–598, § 225(a), added par. (13) relating to annual statistical tables reflecting the business of the several bankruptcy courts, and redesignated former par. (13), relating to provision of special interpretation services in courts of the United States, as (14).
 
-Subsec. (a)(13) to (16). Pub. L. 95–539, § 3(b), (c), added pars. (13) to (16). Former par. (13) redesignated (17).
+Subsec. (a)(13) to (16). Pub. L. 95–539, § 3(b), (c), added pars. (13) to (16). Former par. (13) redesignated (17).
 
-Subsec. (a)(17). Pub. L. 95–539, § 3(b), redesignated former par. (13) as (17).
+Subsec. (a)(17). Pub. L. 95–539, § 3(b), redesignated former par. (13) as (17).
 
-Subsec. (f). Pub. L. 95–598, § 225(b), added subsec. (f) relating to the naming of qualified persons to membership on the panel of trustees.
+Subsec. (f). Pub. L. 95–598, § 225(b), added subsec. (f) relating to the naming of qualified persons to membership on the panel of trustees.
 
-Subsecs. (f), (g). Pub. L. 95–539, § 4, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 95–539, § 4, added subsecs. (f) and (g).
 
 1975—Subsec. (a)(9). Pub. L. 93–619 added par. (9). Former par. (9) redesignated (10).
 
@@ -677,15 +677,15 @@ Subsec. (a)(13). Pub. L. 93–619 redesignated former (12) as (13).
 
 1972—Subsec. (a)(7). Pub. L. 92–397 substituted “children of justices and judges of the United States” for “children of judges”.
 
-1968—Subsec. (a)(9). Pub. L. 90–578, § 201(a), substituted “United States magistrates” for “United States Commissioners”.
+1968—Subsec. (a)(9). Pub. L. 90–578, § 201(a), substituted “United States magistrates” for “United States Commissioners”.
 
-Subsecs. (d), (e). Pub. L. 90–578 § 201(b), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 90–578 § 201(b), added subsecs. (d) and (e).
 
-1967—Subsec. (a)(7). Pub. L. 90–219, § 203(a), amended par. (7) generally, inserting “, Directors of the Federal Judicial Center, and Directors of the Administrative Office,” after “judges” and “and the Federal Judicial Center,” after “Administrative Office”.
+1967—Subsec. (a)(7). Pub. L. 90–219, § 203(a), amended par. (7) generally, inserting “, Directors of the Federal Judicial Center, and Directors of the Administrative Office,” after “judges” and “and the Federal Judicial Center,” after “Administrative Office”.
 
-Subsec. (a)(9). Pub. L. 90–219, § 203(b), inserted “, the Federal Judicial Center,” after “courts”.
+Subsec. (a)(9). Pub. L. 90–219, § 203(b), inserted “, the Federal Judicial Center,” after “courts”.
 
-Subsec. (a)(10), (11). Pub. L. 90–219, § 203(c), inserted “, the Federal Judicial Center,” after “courts”.
+Subsec. (a)(10), (11). Pub. L. 90–219, § 203(c), inserted “, the Federal Judicial Center,” after “courts”.
 
 1956—Subsec. (a)(7). Act Aug. 3, 1956, inserted “annuities to widows and surviving dependent children of judges and” after “Regulate and pay”.
 
@@ -693,15 +693,15 @@ Subsec. (a)(10), (11). Pub. L. 90–219, § 203(c), inserted “, the Federa
 
 **Change of Name**
 
-“United States magistrate judges”, “magistrate judge”, “magistrate judges”, and “Magistrate judges” substituted for “United States magistrates”, “magistrate”, “magistrates”, and “Magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States Commissioners” pursuant to section 402(b)(2) of Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.
+“United States magistrate judges”, “magistrate judge”, “magistrate judges”, and “Magistrate judges” substituted for “United States magistrates”, “magistrate”, “magistrates”, and “Magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States Commissioners” pursuant to section 402(b)(2) of Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–8, div. D, title III, § 307(c), Mar. 11, 2009, 123 Stat. 649, provided that: “Subsection (b) [enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees] and the amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of Public Law 110–177 [Jan. 7, 2008].”
+Pub. L. 111–8, div. D, title III, § 307(c), Mar. 11, 2009, 123 Stat. 649, provided that: “Subsection (b) [enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees] and the amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of Public Law 110–177 [Jan. 7, 2008].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–177, title V, § 502(c), Jan. 7, 2008, 121 Stat. 2542, provided that: “Subsection (b) [enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees] and the amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Jan. 7, 2008].”
+Pub. L. 110–177, title V, § 502(c), Jan. 7, 2008, 121 Stat. 2542, provided that: “Subsection (b) [enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees] and the amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Jan. 7, 2008].”
 
 **Effective Date of 1992 Amendment**
 
@@ -745,7 +745,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a)(4), (d)(3
 
 **Expiration of Authorities**
 
-Pub. L. 109–115, div. A, title IV, § 407(c), Nov. 30, 2005, 119 Stat. 2471, which provided that the authorities granted in this section (amending this section and section 612 of this title) were to expire on Sept. 30, 2010, was repealed by Pub. L. 111–8, div. D, title III, § 308, Mar. 11, 2009, 123 Stat. 649.
+Pub. L. 109–115, div. A, title IV, § 407(c), Nov. 30, 2005, 119 Stat. 2471, which provided that the authorities granted in this section (amending this section and section 612 of this title) were to expire on Sept. 30, 2010, was repealed by Pub. L. 111–8, div. D, title III, § 308, Mar. 11, 2009, 123 Stat. 649.
 
 **Reports by Director of Administrative Office of United States Courts**
 
@@ -765,11 +765,11 @@ Aug. 30, 1984, Pub. L. 98–411, title IV, 98 Stat. 1571.
 
 Nov. 28, 1983, Pub. L. 98–166, title IV, 97 Stat. 1099.
 
-Dec. 21, 1982, Pub. L. 97–377, § 101(d) [S. 2956, title IV], 96 Stat. 1866.
+Dec. 21, 1982, Pub. L. 97–377, § 101(d) [S. 2956, title IV], 96 Stat. 1866.
 
-Dec. 15, 1981, Pub. L. 97–92, § 101(h) [incorporating Pub. L. 96–536, § 101(*o*); H.R. 7584, title IV], 95 Stat. 1190.
+Dec. 15, 1981, Pub. L. 97–92, § 101(h) [incorporating Pub. L. 96–536, § 101(*o*); H.R. 7584, title IV], 95 Stat. 1190.
 
-Dec. 16, 1980, Pub. L. 96–536, § 101(*o*) [H.R. 7584, title IV], 94 Stat. 3169.
+Dec. 16, 1980, Pub. L. 96–536, § 101(*o*) [H.R. 7584, title IV], 94 Stat. 3169.
 
 Sept. 24, 1979, Pub. L. 96–68, title IV, 93 Stat. 428.
 
@@ -833,31 +833,31 @@ Sept. 6, 1950, ch. 896, Ch. III, title IV, 64 Stat. 631.
 
 **Limitation on Aggregate Salaries of Secretaries and Law Clerks**
 
-1967—Pub. L. 90–206, title II, § 213(b), Dec. 16, 1967, 81 Stat. 635, provided that: “The limitations provided by applicable law on the effective date of this section [see Effective Date of 1967 Amendment Note set out under section 5332 of Title 5, Government Organization and Employees] with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code”.
+1967—Pub. L. 90–206, title II, § 213(b), Dec. 16, 1967, 81 Stat. 635, provided that: “The limitations provided by applicable law on the effective date of this section [see Effective Date of 1967 Amendment Note set out under section 5332 of Title 5, Government Organization and Employees] with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 202(a) of this title [amending section 5332(a) of Title 5] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code”.
 
 Section 213(b) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.
 
-1966—Pub. L. 89–504, title II, § 202(b), July 18, 1966, 80 Stat. 294, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 102(a) of title I of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1966—Pub. L. 89–504, title II, § 202(b), July 18, 1966, 80 Stat. 294, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 102(a) of title I of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
 Provision effective first day of first pay period which begins on or after July 1, 1966, see section 203 of Pub. L. 89–504, set out as a note under section 603 of this title.
 
-1965—Pub. L. 89–301, § 12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1965—Pub. L. 89–301, § 12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1964—Pub. L. 88–426, title IV, § 402(b), Aug. 14, 1964, 78 Stat. 433, provided that: “The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1964—Pub. L. 88–426, title IV, § 402(b), Aug. 14, 1964, 78 Stat. 433, provided that: “The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1962—Pub. L. 87–793, title VI, § 1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act [Oct. 11, 1962], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
+1962—Pub. L. 87–793, title VI, § 1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act [Oct. 11, 1962], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees].”
 
-1960—Pub. L. 86–568, title I, § 116(b), July 1, 1960, 74 Stat. 303, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by the amounts necessary to pay the additional basic compensation provided by this part.”
+1960—Pub. L. 86–568, title I, § 116(b), July 1, 1960, 74 Stat. 303, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by the amounts necessary to pay the additional basic compensation provided by this part.”
 
 Words “this part”, referred to above, means Part B of Pub. L. 86–568, which enacted section 932e of former Title 5, Executive Departments and Government Officers and Employees, amended section 753 of this title, sections 1113, 2091, 2252 and 3002 of former Title 5, sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and former sections 4103, 4107 and 4108 of Title 38, Veterans’ Benefits, and enacted notes set out under sections 603 and 604 of this title, sections 60a and 60f of Title 2, The Congress, sections 1113, and 2252 of former Title 5, section 590h of Title 16, Conservation, and section 867 of Title 22,
 
-1958—Pub. L. 85–462, § 3(b), June 20, 1958, 72 Stat. 207, provided that: “The limitations of $13,485 and $18,010 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph designated “Salaries of supporting personnel” in the Judiciary Appropriation Act, 1958 (71 Stat. 65; Public Law 85–49), or any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
+1958—Pub. L. 85–462, § 3(b), June 20, 1958, 72 Stat. 207, provided that: “The limitations of $13,485 and $18,010 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph designated “Salaries of supporting personnel” in the Judiciary Appropriation Act, 1958 (71 Stat. 65; Public Law 85–49), or any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-1955—Act June 28, 1955, ch. 189, § 3(b), 69 Stat. 175, provided that: “The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading ‘salaries of supporting personnel’ in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
+1955—Act June 28, 1955, ch. 189, § 3(b), 69 Stat. 175, provided that: “The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading ‘salaries of supporting personnel’ in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-1951—Act Oct. 24, 1951, ch. 554, § 1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
+1951—Act Oct. 24, 1951, ch. 554, § 1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-The particular paragraph of the “Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress)”, referred to above, is act Sept. 6, 1950, ch. 896, ch. III, title IV, § 401 (part), 64 Stat. 631. The salary limitations therein, also referred to above, were identical with those in the Judiciary Appropriation Act, 1952 (act Oct. 22, 1951, ch. 533, title IV, § 401 (part), 65 Stat. 596).
+The particular paragraph of the “Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress)”, referred to above, is act Sept. 6, 1950, ch. 896, ch. III, title IV, § 401 (part), 64 Stat. 631. The salary limitations therein, also referred to above, were identical with those in the Judiciary Appropriation Act, 1952 (act Oct. 22, 1951, ch. 533, title IV, § 401 (part), 65 Stat. 596).
 
 **Increases in Compensation Rates**
 
@@ -865,19 +865,19 @@ Increases in rates of basic compensation fixed pursuant to subsec. (a)(5) of thi
 
 **Travel and Subsistence Expenses**
 
-Pub. L. 87–139, § 6, Aug. 14, 1961, 75 Stat. 340, provided that: “The Director of the Administrative Office of the United States Courts shall promulgate, in accordance with section 604(a)(7) and section 456 of title 28 of the United States Code, such regulations as he may deem necessary to effectuate the increases provided by this Act [amending section 553 of this title, former Title 5, Executive Departments and Government Officers and Employees, and sections 237*o*, 287q, and 1471 of Title 22, Foreign Relations and Intercourse].”
+Pub. L. 87–139, § 6, Aug. 14, 1961, 75 Stat. 340, provided that: “The Director of the Administrative Office of the United States Courts shall promulgate, in accordance with section 604(a)(7) and section 456 of title 28 of the United States Code, such regulations as he may deem necessary to effectuate the increases provided by this Act [amending section 553 of this title, former Title 5, Executive Departments and Government Officers and Employees, and sections 237*o*, 287q, and 1471 of Title 22, Foreign Relations and Intercourse].”
 
-## § 605. Budget estimates
+## § 605. Budget estimates
 
 The Director, under the supervision of the Judicial Conference of the United States, shall submit to the Office of Management and Budget annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the courts and the Administrative Office and the operation of the judicial survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The Director shall cause periodic examinations of the judicial survivors annuity fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the Director to the Judicial Conference.
 
 Such estimates shall be approved, before presentation to the Office of Management and Budget, by the Judicial Conference of the United States, except that the estimate with respect to the Court of International Trade shall be approved by such court and the estimate with respect to the United States Court of Appeals for the Federal Circuit shall be approved by such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; July 9, 1956, ch. 517, § 1(e), 70 Stat. 497; Aug. 3, 1956, ch. 944, § 4, 70 Stat. 1026; Pub. L. 87–253, § 3, Sept. 19, 1961, 75 Stat. 521; Pub. L. 96–417, title V, § 501(14), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 119(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.)
+(June 25, 1948, ch. 646, 62 Stat. 915; July 9, 1956, ch. 517, § 1(e), 70 Stat. 497; Aug. 3, 1956, ch. 944, § 4, 70 Stat. 1026; Pub. L. 87–253, § 3, Sept. 19, 1961, 75 Stat. 521; Pub. L. 96–417, title V, § 501(14), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 119(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 447 (Mar. 3, 1911, ch. 231, § 305, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 447 (Mar. 3, 1911, ch. 231, § 305, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains provisions of section 447 of title 28, U.S.C., 1940 ed., relating to budget estimates. The remainder of said section 447 is incorporated in section 604 of this title.
 
@@ -915,15 +915,15 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 606. Duties of Deputy Director
+## § 606. Duties of Deputy Director
 
 The Deputy Director shall perform the duties assigned to him by the Director, and shall act as Director during the absence or incapacity of the Director or when the Director’s office is vacant.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652.)
+(June 25, 1948, ch. 646, 62 Stat. 915; Pub. L. 86–370, § 5(a)(1), Sept. 23, 1959, 73 Stat. 652.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains provisions as to duties of Assistant Director in section 444 of title 28, U.S.C., 1940 ed. The remainder of said section 444 is incorporated in sections 601, 603 and 608 of this title.
 
@@ -943,7 +943,7 @@ Amendment by Pub. L. 86–370 effective Sept. 23, 1959, see section 7(a) of Pub.
 
 References in any other law to Assistant Director of the Administrative Office of the United States Courts deemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
 
-## § 607. Practice of law prohibited
+## § 607. Practice of law prohibited
 
 An officer or employee of the Administrative Office shall not engage directly or indirectly in the practice of law in any court of the United States.
 
@@ -951,13 +951,13 @@ An officer or employee of the Administrative Office shall not engage directly or
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 445 (Mar. 3, 1911, ch. 231, § 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 445 (Mar. 3, 1911, ch. 231, § 303, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
-This section contains the last paragraph of title 28, U.S.C., 1940 ed., § 445. The remainder of said section is incorporated in sections 602 and 603 of this title.
+This section contains the last paragraph of title 28, U.S.C., 1940 ed., § 445. The remainder of said section is incorporated in sections 602 and 603 of this title.
 
 Changes were made in phraseology.
 
-## § 608. Seal
+## § 608. Seal
 
 The Director shall use a seal approved by the Supreme Court. Judicial notice shall be taken of such seal.
 
@@ -965,13 +965,13 @@ The Director shall use a seal approved by the Supreme Court. Judicial notice sha
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 444 (Mar. 3, 1911, ch. 231, § 302, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains a part of section 444 of title 28, U.S.C., 1940 ed. The remainder of said section 444 is incorporated in sections 601, 603 and 606 of this title.
 
 Changes were made in phraseology.
 
-## § 609. Courts’ appointive power unaffected
+## § 609. Courts’ appointive power unaffected
 
 The authority of the courts to appoint their own administrative or clerical personnel shall not be limited by any provisions of this chapter.
 
@@ -979,7 +979,7 @@ The authority of the courts to appoint their own administrative or clerical pers
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed. § 446 (Mar. 3, 1911, ch. 231, § 304, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed. § 446 (Mar. 3, 1911, ch. 231, § 304, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 This section contains the last clause of section 446(1) of title 28, U.S.C., 1940 ed.
 
@@ -989,15 +989,15 @@ For other provisions of section 446 of title 28, U.S.C., 1940 ed., see section 6
 
 Minor changes were made in phraseology.
 
-## § 610. Courts defined
+## § 610. Courts defined
 
 As used in this chapter the word “courts” includes the courts of appeals and district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, § 44, 65 Stat. 725; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, § 501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, § 44, 65 Stat. 725; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, § 501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 450 (Mar. 3, 1911, ch. 231, § 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+Based on title 28, U.S.C., 1940 ed., § 450 (Mar. 3, 1911, ch. 231, § 308, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
 
 Words “and the United States Court for China” were omitted. See reviser’s note under section 411 of this title.
 
@@ -1027,7 +1027,7 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1958—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
@@ -1055,7 +1055,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 611. Retirement of Director
+## § 611. Retirement of Director
 
 **(a)** The Director may, by written election filed with the Chief Justice of the United States within 6 months after the date on which he takes office, waive coverage under chapter 83 of title 5, subchapter III (the Civil Service Retirement System) or chapter 84 of title 5 (the Federal Employees’ Retirement System), whichever is applicable, and bring himself within the purview of this section. A Director who elects coverage under this section shall be deemed an “employee” for purposes of chapter 84 of title 5, subchapter III, regardless of whether he has waived the coverage of chapter 83, subchapter III, or chapter 84. Waiver of coverage under chapter 83, subchapter III, and election of this section shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure retirement credit under chapter 83 for service as Director by depositing with interest the amount required by section 8334 of title 5. A Director who waives coverage under chapter 84 and elects this section may secure retirement credit under chapter 84 for service as Director by depositing with interest 1.3 percent of basic pay for service from January 1, 1984, through December 31, 1986, and the amount referred to in section 8422(a) of title 5, for service after December 31, 1986. Interest shall be computed under section 8334(e) of title 5.
 
@@ -1069,39 +1069,39 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 **(e)** Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
 
-(Added Pub. L. 90–219, title II, § 201(a), Dec. 20, 1967, 81 Stat. 668; amended Pub. L. 100–702, title X, §§ 1004(a), 1006(a)(1), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 106–518, title III, § 301(a), Nov. 13, 2000, 114 Stat. 2416.)
+(Added Pub. L. 90–219, title II, § 201(a), Dec. 20, 1967, 81 Stat. 668; amended Pub. L. 100–702, title X, §§ 1004(a), 1006(a)(1), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 106–518, title III, § 301(a), Nov. 13, 2000, 114 Stat. 2416.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (b). Pub. L. 106–518, § 301(a)(2), substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” in first par. and “who has at least ten years of service,” for “who has served at least ten years,” in second par.
+2000—Subsec. (b). Pub. L. 106–518, § 301(a)(2), substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” in first par. and “who has at least ten years of service,” for “who has served at least ten years,” in second par.
 
-Subsec. (c). Pub. L. 106–518, § 301(a)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
+Subsec. (c). Pub. L. 106–518, § 301(a)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
 
-Subsec. (d). Pub. L. 106–518, § 301(a)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
+Subsec. (d). Pub. L. 106–518, § 301(a)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
 
-1988—Subsec. (a). Pub. L. 100–702, § 1006(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
+1988—Subsec. (a). Pub. L. 100–702, § 1006(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
 
-Subsec. (e). Pub. L. 100–702, § 1004(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–702, § 1004(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title X, § 1004(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendments made by this section [amending this section and section 627 of this title] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title [Nov. 19, 1988] with respect to any annuity being paid or becoming payable on or after such date.”
+Pub. L. 100–702, title X, § 1004(b), Nov. 19, 1988, 102 Stat. 4666, provided that: “The amendments made by this section [amending this section and section 627 of this title] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title [Nov. 19, 1988] with respect to any annuity being paid or becoming payable on or after such date.”
 
-Pub. L. 100–702, title X, § 1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: “The amendments made by this section [amending this section and section 627 of this title] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title X, § 1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: “The amendments made by this section [amending this section and section 627 of this title] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title [Nov. 19, 1988].”
 
 **Retroactive Effect**
 
-Pub. L. 90–219, title II, § 205, Dec. 20, 1967, 81 Stat. 669, provided that:
+Pub. L. 90–219, title II, § 205, Dec. 20, 1967, 81 Stat. 669, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this title [enacting this section and amending sections 376 and 604 of this title], insofar as they relate to retirement and survivorship benefits of the Director of the Administrative Office of the United States Courts, shall be applicable only with respect to persons first appointed to such office after the date of enactment of this Act [Dec. 20, 1967].
 
 > **“(b)** The provisions of section 611(a), the first paragraph of section 611(b), and section 376(s), of title 28, United States Code, as added by such amendments, shall be applicable to a Director or former Director of the Administrative Office of the United States Courts who was first appointed prior to the date of enactment of this Act [Dec. 20, 1967] if at the time such Director or former Director left or leaves such office he had, or shall have, attained the age of sixty-five years and completed fifteen years of service as Director of the Administrative Office of the United States Courts and if, on or before the expiration of six months following the date of enactment of this Act [Dec. 20, 1967], he makes the election referred to in section 611(a) or section 376(s), or both, as the case may be.”
 
-## § 612. Judiciary Information Technology Fund
+## § 612. Judiciary Information Technology Fund
 
 **(a) Establishment and Availability of Fund.—** There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
@@ -1135,7 +1135,7 @@ Pub. L. 90–219, title II, § 205, Dec. 20, 1967, 81 Stat. 669, provided that
 
 **(B)** such contract is in accordance with the Director’s authority in section 604(g) of 28 U.S.C.; and,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 **(C)** the Director determines that—
 
@@ -1153,9 +1153,9 @@ Pub. L. 90–219, title II, § 205, Dec. 20, 1967, 81 Stat. 669, provided that
 
 **(2) Additional contents of report.—** The annual report submitted under this subsection shall include—
 
-**(A)** the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); 2
+**(A)** the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and
 
@@ -1179,7 +1179,7 @@ and
 
 **(6)** assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, § 404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, § 2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, § 5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, § 101(a) [title III, § 305], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, § 1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, § 304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, § 101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, § 3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, § 407(b), Nov. 30, 2005, 119 Stat. 2471.)
+(Added Pub. L. 101–162, title IV, § 404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, § 2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, § 5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, § 101(a) [title III, § 305], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, § 1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, § 304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, § 101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, § 3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, § 407(b), Nov. 30, 2005, 119 Stat. 2471.)
 
 **Editorial Notes**
 
@@ -1189,7 +1189,7 @@ Section 404 of Public Law 101–515, referred to in subsecs. (b)(1) and (c)(1)(A
 
 The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
 
-Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j) of this section by Pub. L. 106–518, title I, § 101(2), Nov. 13, 2000, 114 Stat. 2411.
+Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j) of this section by Pub. L. 106–518, title I, § 101(2), Nov. 13, 2000, 114 Stat. 2411.
 
 Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 of Pub. L. 100–459, title VI, Oct. 1, 1988, 102 Stat. 2227, which is not classified to the Code.
 
@@ -1199,19 +1199,19 @@ Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 
 
 2002—Subsec. (f). Pub. L. 107–217 substituted “sections 501–505 of title 40” for “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)”.
 
-2000—Pub. L. 106–518, § 101(1), substituted “technology resources” for “technology equipment” wherever appearing.
+2000—Pub. L. 106–518, § 101(1), substituted “technology resources” for “technology equipment” wherever appearing.
 
-Subsec. (f). Pub. L. 106–518, § 101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f) Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, and regulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).”
+Subsec. (f). Pub. L. 106–518, § 101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f) Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, and regulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).”
 
-Subsec. (g). Pub. L. 106–518, § 101(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 106–518, § 101(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (g)(3). Pub. L. 106–518, § 101(3), struck out par. (3) which read as follows: “(3) Report in year of termination of authority.—The annual report submitted under this subsection for any year in which the authority for this section is to terminate under subsection (m), shall be submitted no later than 9 months before the date of such termination.”
+Subsec. (g)(3). Pub. L. 106–518, § 101(3), struck out par. (3) which read as follows: “(3) Report in year of termination of authority.—The annual report submitted under this subsection for any year in which the authority for this section is to terminate under subsection (m), shall be submitted no later than 9 months before the date of such termination.”
 
-Subsec. (h). Pub. L. 106–518, § 101(2), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 106–518, § 101(2), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 106–518, § 101(2), (4), redesignated subsec. (j) as (i) and substituted “judiciary” for “Judiciary” in two places, “authority of subsection (c)(1)(B)” for “authority of subparagraph (c)(1)(B)”, and “under subsection (c)(1)(B)” for “under (c)(1)(B)”. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 106–518, § 101(2), (4), redesignated subsec. (j) as (i) and substituted “judiciary” for “Judiciary” in two places, “authority of subsection (c)(1)(B)” for “authority of subparagraph (c)(1)(B)”, and “under subsection (c)(1)(B)” for “under (c)(1)(B)”. Former subsec. (i) redesignated (h).
 
-Subsecs. (j), (k). Pub. L. 106–518, § 101(2), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
+Subsecs. (j), (k). Pub. L. 106–518, § 101(2), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
 
 1997—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
@@ -1219,51 +1219,51 @@ Subsec. (*l*). Pub. L. 105–119 struck out subsec. (*l*) which read as follows:
 
 “(*l*) Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
-1996—Pub. L. 104–106, § 5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
+1996—Pub. L. 104–106, § 5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
-Subsec. (a). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
+Subsec. (a). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
-Pub. L. 104–106, § 5602(b)(2), substituted “Information Technology Fund” for “Automation Fund”.
+Pub. L. 104–106, § 5602(b)(2), substituted “Information Technology Fund” for “Automation Fund”.
 
-Subsecs. (b), (c)(2), (e). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
+Subsecs. (b), (c)(2), (e). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
-Subsec. (f). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing”.
+Subsec. (f). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing”.
 
-Pub. L. 104–106, § 5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
+Pub. L. 104–106, § 5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
 
-Subsec. (g). Pub. L. 104–106, § 5602(a)(2), substituted “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)” for “sections 111 and 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 and 759)”.
+Subsec. (g). Pub. L. 104–106, § 5602(a)(2), substituted “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)” for “sections 111 and 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 and 759)”.
 
-Subsec. (h)(1). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing”.
+Subsec. (h)(1). Pub. L. 104–106, § 5602(b)(3), substituted “information technology” for “automatic data processing”.
 
-Subsec. (*l*). Pub. L. 104–208, § 101(a) [title III, § 305], substituted “September 30, 1998” for “September 30, 1997”.
+Subsec. (*l*). Pub. L. 104–208, § 101(a) [title III, § 305], substituted “September 30, 1998” for “September 30, 1997”.
 
-Pub. L. 104–106, § 5602(a)(3), (4), redesignated subsec. (m) as (*l*) and struck out former subsec. (*l*) which read as follows:
+Pub. L. 104–106, § 5602(a)(3), (4), redesignated subsec. (m) as (*l*) and struck out former subsec. (*l*) which read as follows:
 
 “(*l*) Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has the meaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
 
-Subsec. (m). Pub. L. 104–106, § 5602(a)(3), redesignated subsec. (m) as (*l*).
+Subsec. (m). Pub. L. 104–106, § 5602(a)(3), redesignated subsec. (m) as (*l*).
 
-1994—Subsec. (a). Pub. L. 103–429, § 2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
+1994—Subsec. (a). Pub. L. 103–429, § 2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
-Subsec. (b)(1). Pub. L. 103–420, § 2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
+Subsec. (b)(1). Pub. L. 103–420, § 2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
 
-Subsec. (b)(2). Pub. L. 103–420, § 2(3), substituted “activities funded under subsection (a)” for “judicial branch of the United States”.
+Subsec. (b)(2). Pub. L. 103–420, § 2(3), substituted “activities funded under subsection (a)” for “judicial branch of the United States”.
 
-Subsec. (c)(1)(A). Pub. L. 103–420, § 2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
+Subsec. (c)(1)(A). Pub. L. 103–420, § 2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
 
-Subsec. (e)(1). Pub. L. 103–420, § 2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amounts estimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
+Subsec. (e)(1). Pub. L. 103–420, § 2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amounts estimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
 
-Subsec. (h). Pub. L. 103–420, § 2(6), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
+Subsec. (h). Pub. L. 103–420, § 2(6), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
 
-Subsec. (i). Pub. L. 103–420, § 2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
+Subsec. (i). Pub. L. 103–420, § 2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
 
-Subsec. (j). Pub. L. 103–420, § 2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
+Subsec. (j). Pub. L. 103–420, § 2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
 
-Subsec. (k). Pub. L. 103–420, § 2(9), added subsec. (k). Former subsec. (k) redesignated (*l*).
+Subsec. (k). Pub. L. 103–420, § 2(9), added subsec. (k). Former subsec. (k) redesignated (*l*).
 
-Subsec. (*l*). Pub. L. 103–420, § 2(9), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 103–420, § 2(9), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
 
-Subsec. (m). Pub. L. 103–420, § 2(9), (10), redesignated subsec. (*l*) as (m) and substituted “September 30, 1997” for “September 30, 1994” and “fund established under section 1931 of this title” for “ ‘Judicial Services Account’ ”.
+Subsec. (m). Pub. L. 103–420, § 2(9), (10), redesignated subsec. (*l*) as (m) and substituted “September 30, 1997” for “September 30, 1994” and “fund established under section 1931 of this title” for “ ‘Judicial Services Account’ ”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1275,7 +1275,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-## § 613. Disbursing and certifying officers
+## § 613. Disbursing and certifying officers
 
 **(a) Disbursing Officers.—** The Director may designate in writing officers and employees of the judicial branch of the Government, including the courts as defined in section 610 other than the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. Such disbursing officers shall—
 
@@ -1305,17 +1305,17 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(d) Other Authority Not Affected.—** Nothing in this section affects the authority of the courts with respect to moneys deposited with the courts under chapter 129 of this title.
 
-(Added Pub. L. 106–518, title III, § 304(a), Nov. 13, 2000, 114 Stat. 2417.)
+(Added Pub. L. 106–518, title III, § 304(a), Nov. 13, 2000, 114 Stat. 2417.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction**
 
-Pub. L. 106–518, title III, § 304(c), Nov. 13, 2000, 114 Stat. 2418, provided that: “The amendment made by subsection (a) [enacting this section] shall not be construed to authorize the hiring of any Federal officer or employee.”
+Pub. L. 106–518, title III, § 304(c), Nov. 13, 2000, 114 Stat. 2418, provided that: “The amendment made by subsection (a) [enacting this section] shall not be construed to authorize the hiring of any Federal officer or employee.”
 
 **Similar Provisions**
 
-Pub. L. 106–553, § 1(a)(2) [title III, § 304], Dec. 21, 2000, 114 Stat. 2762, 2762A–83, provided that:
+Pub. L. 106–553, § 1(a)(2) [title III, § 304], Dec. 21, 2000, 114 Stat. 2762, 2762A–83, provided that:
 
 > **“(a)** The Director of the Administrative Office of the United States Courts (the Director) may designate in writing officers and employees of the judicial branch of the United States Government, including the courts as defined in section 610 of title 28, United States Code, but excluding the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. These disbursing officers will: (1) disburse moneys appropriated to the judicial branch and other funds only in strict accordance with payment requests certified by the Director or in accordance with subsection (b) of this section; (2) examine payment requests as necessary to ascertain whether they are in proper form, certified, and approved; and (3) be held accountable as provided by law. However, a disbursing officer will not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b) of this section.
 

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 6101. Definitions and application
+### § 6101. Definitions and application
 
 **(a) Definitions.—** In this chapter, the following definitions apply:
 
@@ -39,14 +39,14 @@ retrieved: 2026-10-11
 
 **(2)** comprise any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the Federal Government in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the Supreme Court Building and that parcel transferred under the Supreme Court Grounds Transfer Act of 2005.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–214, § 1(c)(2), Apr. 11, 2006, 120 Stat. 326.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–214, § 1(c)(2), Apr. 11, 2006, 120 Stat. 326.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6101(a) | 40:13n(d). | Aug. 18, 1949, ch. 479, § 9(d), as added Pub. L. 97–390, § 1(c)(2), Dec. 29, 1982, 96 Stat. 1958. |
-| 6101(b) | 40:13p. | Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec. 29, 1982, 96 Stat. 1958. |
+| 6101(a) | 40:13n(d). | Aug. 18, 1949, ch. 479, § 9(d), as added Pub. L. 97–390, § 1(c)(2), Dec. 29, 1982, 96 Stat. 1958. |
+| 6101(b) | 40:13p. | Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec. 29, 1982, 96 Stat. 1958. |
 
 In subsection (a), the definition of “United States” is omitted as unnecessary because, within 40:13f–13p, the words “United States” are used in the geographical sense only in 40:13n(a)(2) and (c) and the restatement of those provisions, in section 6121 of the revised title, substitutes the words “any State” for “any part of the United States”.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 109–214 applicable to fiscal year 2006 and each fiscal ye
 
 **Transfer of Jurisdiction Over Certain Real Property to the Supreme Court**
 
-Pub. L. 109–214, § 1, Apr. 11, 2006, 120 Stat. 326, provided that:
+Pub. L. 109–214, § 1, Apr. 11, 2006, 120 Stat. 326, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Supreme Court Grounds Transfer Act of 2005’.
 
@@ -108,7 +108,7 @@ Pub. L. 109–214, § 1, Apr. 11, 2006, 120 Stat. 326, provided that:
 
 **United States Supreme Court Building; Acquisition of Certain Real Property**
 
-Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, § 3, Dec. 29, 1982, 96 Stat. 1958, provided:
+Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, § 3, Dec. 29, 1982, 96 Stat. 1958, provided:
 
 > “That the Architect of the Capitol is authorized to acquire on behalf of the United States by purchase, condemnation, transfer, or otherwise, as an addition to the grounds of the United States Supreme Court Building, all privately owned real property contained in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia, as such lots appear on the records in the office of the Surveyor of the District of Columbia as of the date of the enactment of this Act [Dec. 15, 1980].
 
@@ -128,7 +128,7 @@ Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, 
 
 > There is hereby authorized to be appropriated the sum of $645,000 for fiscal year 1981 for the purpose of carrying out the provisions of this Act, said appropriation to remain available until expended.”
 
-### § 6102. Regulations
+### § 6102. Regulations
 
 **(a) Authority of the Marshal.—** In addition to the restrictions and requirements specified in subchapter IV, the Marshal of the Supreme Court may prescribe regulations, approved by the Chief Justice of the United States, that are necessary for—
 
@@ -144,13 +144,13 @@ Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6102 | 40:13*l*. | Aug. 18, 1949, ch. 479, § 7, 63 Stat. 617; Pub. L. 97–390, § 1(b), Dec. 29, 1982, 96 Stat. 1957. |
+| 6102 | 40:13*l*. | Aug. 18, 1949, ch. 479, § 7, 63 Stat. 617; Pub. L. 97–390, § 1(b), Dec. 29, 1982, 96 Stat. 1957. |
 
 In subsection (a), before clause (1), the word “are” is substituted for “may be deemed” for clarity. In clause (1), the word “individuals” is substituted for “persons” for clarity.
 
 ## SUBCHAPTER II—BUILDINGS AND GROUNDS
 
-### § 6111. Supreme Court Building
+### § 6111. Supreme Court Building
 
 **(a) In General.—**
 
@@ -186,13 +186,13 @@ In subsection (a), before clause (1), the word “are” is substituted for “m
 
 **(ii)** for the replacement of electrical transformers containing polychlorinated biphenyls.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, § 6(18), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(22), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, § 6(18), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(22), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6111(a) | 40:13a(a). | May 7, 1934, ch. 222, § 1, 48 Stat. 668; Pub. L. 95–431, title IV, (“Sec. 1(b) (less proviso)” in proviso in par. under heading “Care of the Building and Grounds”), Oct. 10, 1978, 92 Stat. 1036. |
+| 6111(a) | 40:13a(a). | May 7, 1934, ch. 222, § 1, 48 Stat. 668; Pub. L. 95–431, title IV, (“Sec. 1(b) (less proviso)” in proviso in par. under heading “Care of the Building and Grounds”), Oct. 10, 1978, 92 Stat. 1036. |
 | 6111(b)(1) | 40:13a(b). |  |
 | 6111(b)(2) | 40:13a note. | Pub. L. 101–162, title IV, (proviso in par. under heading “Care of the Building and Grounds”), Nov. 21, 1989, 103 Stat. 1010. |
 
@@ -208,7 +208,7 @@ In subsection (b)(2), before subclause (A), the words “That for fiscal year 19
 
 2006—Subsec. (b). Pub. L. 109–284 struck out second period at end of heading.
 
-### § 6112. Supreme Court Building and grounds employees
+### § 6112. Supreme Court Building and grounds employees
 
 Employees required to carry out section 6111(a) of this title shall be—
 
@@ -224,11 +224,11 @@ Employees required to carry out section 6111(a) of this title shall be—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6112 | 40:13b. | May 7, 1934, ch. 222, § 2, 48 Stat. 668; Pub. L. 95–431, title IV, (“Sec. 1(b) (proviso)” in proviso in par. under heading “Care of the Building and Grounds”), Oct. 10, 1978, 92 Stat. 1036. |
+| 6112 | 40:13b. | May 7, 1934, ch. 222, § 2, 48 Stat. 668; Pub. L. 95–431, title IV, (“Sec. 1(b) (proviso)” in proviso in par. under heading “Care of the Building and Grounds”), Oct. 10, 1978, 92 Stat. 1036. |
 
 In this section, before clause (1), the words “to carry out” are substituted for “for the performance of the provisions of” to eliminate unnecessary words. In clause (2), the words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for “the Classification Act of 1949, as amended” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code. In clause (3), the words “subchapter III of chapter 83 of title 5” are substituted for “the Act entitled ‘An Act for the retirement of employees in the classified civil service, and for other purposes’ approved May 22, 1920, as amended (U.S.C., title 5, ch. 14)” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
-### § 6113. Duties of the Superintendent of the Supreme Court Building
+### § 6113. Duties of the Superintendent of the Supreme Court Building
 
 Except as provided in section 6111(a) of this title, all duties and work required for the operation, domestic care, and custody of the Supreme Court Building shall be performed under the direction of the Marshal of the Supreme Court. The Marshal serves as the superintendent of the Building.
 
@@ -238,11 +238,11 @@ Except as provided in section 6111(a) of this title, all duties and work require
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6113 | 40:13c. | May 7, 1934, ch. 222, § 3, 48 Stat. 668; June 25, 1948, ch. 646, § 27, 62 Stat. 990. |
+| 6113 | 40:13c. | May 7, 1934, ch. 222, § 3, 48 Stat. 668; June 25, 1948, ch. 646, § 27, 62 Stat. 990. |
 
 The words “Except as provided in section 6111(a) of this title” are substituted for “other” for clarity.
 
-### § 6114. Oliver Wendell Holmes Garden
+### § 6114. Oliver Wendell Holmes Garden
 
 The Architect of the Capitol shall maintain and care for the Oliver Wendell Holmes Garden in accordance with the provisions of law on the maintenance and care of the grounds of the Supreme Court Building.
 
@@ -252,13 +252,13 @@ The Architect of the Capitol shall maintain and care for the Oliver Wendell Holm
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6114 | 40:13e. | Oct. 22, 1940, ch. 908, § 6, 54 Stat. 1208. |
+| 6114 | 40:13e. | Oct. 22, 1940, ch. 908, § 6, 54 Stat. 1208. |
 
 The words “After the completion and dedication of” are omitted as executed.
 
 ## SUBCHAPTER III—POLICING AUTHORITY
 
-### § 6121. General
+### § 6121. General
 
 **(a) Authority of Marshal of the Supreme Court and Supreme Court Police.—** In accordance with regulations prescribed by the Marshal of the Supreme Court and approved by the Chief Justice of the United States, the Marshal and the Supreme Court Police shall have authority—
 
@@ -276,26 +276,26 @@ The words “After the completion and dedication of” are omitted as executed.
 
 **(ii)** any member of the immediate family of the Chief Justice, any Associate Justice, any retired or former Chief Justice or Associate Justice, or any officer of the Supreme Court.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(3)** while performing duties necessary to carry out paragraph (1) or (2), to make arrests for any violation of Federal or State law and any regulation under Federal or State law; and
 
 **(4)** to carry firearms as may be required while performing duties under section 6102 of this title, this subchapter, and subchapter IV.
 
-**(b) Authorization To Carry Firearms—**  2
+**(b) Authorization To Carry Firearms—** 2
 
-<sup>2</sup>  So in original. The dash probably should be preceded by a period.
+<sup>2</sup> So in original. The dash probably should be preceded by a period.
 
 Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any location (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, § 1, Oct. 21, 2004, 118 Stat. 1416; Pub. L. 110–402, § 1(a), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 113–62, § 1, Dec. 20, 2013, 127 Stat. 666; Pub. L. 116–75, § 2, Nov. 27, 2019, 133 Stat. 1160; Pub. L. 117–148, § 2, June 16, 2022, 136 Stat. 1288; Pub. L. 119–60, div. H, title LXXXII, § 8201, Dec. 18, 2025, 139 Stat. 1839.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, § 1, Oct. 21, 2004, 118 Stat. 1416; Pub. L. 110–402, § 1(a), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 113–62, § 1, Dec. 20, 2013, 127 Stat. 666; Pub. L. 116–75, § 2, Nov. 27, 2019, 133 Stat. 1160; Pub. L. 117–148, § 2, June 16, 2022, 136 Stat. 1288; Pub. L. 119–60, div. H, title LXXXII, § 8201, Dec. 18, 2025, 139 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6121(a) | 40:13n(a). | Aug. 18, 1949, ch. 479, § 9(a), 63 Stat. 617; Pub. L. 93–198, title VII, § 739(g)(8), Dec. 24, 1973, 87 Stat. 829; Pub. L. 97–390, § 1(c)(1), Dec. 29, 1982, 96 Stat. 1957. |
-| 6121(b) | 40:13n(c). | Aug. 18, 1949, ch. 479, § 9(c), as added Pub. L. 97–390, § 1(c)(2), Dec. 29, 1982, 96 Stat. 1958; Pub. L. 99–218, Dec. 26, 1985, 99 Stat. 1729; Pub. L. 99–492, § 1, Oct. 16, 1986, 100 Stat. 1240; Pub. L. 101–462, Oct. 25, 1990, 104 Stat. 1079; Pub. L. 103–193, Dec. 14, 1993, 107 Stat. 2293; Pub. L. 104–280, § 1, Oct. 9, 1996, 110 Stat. 3359, Pub. L. 106–518, title III, § 313, Nov. 13, 2000, 114 Stat. 2421. |
+| 6121(a) | 40:13n(a). | Aug. 18, 1949, ch. 479, § 9(a), 63 Stat. 617; Pub. L. 93–198, title VII, § 739(g)(8), Dec. 24, 1973, 87 Stat. 829; Pub. L. 97–390, § 1(c)(1), Dec. 29, 1982, 96 Stat. 1957. |
+| 6121(b) | 40:13n(c). | Aug. 18, 1949, ch. 479, § 9(c), as added Pub. L. 97–390, § 1(c)(2), Dec. 29, 1982, 96 Stat. 1958; Pub. L. 99–218, Dec. 26, 1985, 99 Stat. 1729; Pub. L. 99–492, § 1, Oct. 16, 1986, 100 Stat. 1240; Pub. L. 101–462, Oct. 25, 1990, 104 Stat. 1079; Pub. L. 103–193, Dec. 14, 1993, 107 Stat. 2293; Pub. L. 104–280, § 1, Oct. 9, 1996, 110 Stat. 3359, Pub. L. 106–518, title III, § 313, Nov. 13, 2000, 114 Stat. 2421. |
 
 In this section, the words “any State” are substituted for “any part of the United States” to eliminate unnecessary words and for consistency with section 6101 of the revised title.
 
@@ -311,11 +311,11 @@ In subsection (b), the words “The Marshal of the Supreme Court shall report an
 
 2022—Subsec. (a)(2)(C). Pub. L. 117–148 added subpar. (C).
 
-2019—Subsec. (a)(2). Pub. L. 116–75, § 2(1)(A), substituted “any location” for “any State” in introductory provisions.
+2019—Subsec. (a)(2). Pub. L. 116–75, § 2(1)(A), substituted “any location” for “any State” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 116–75, § 2(1)(B), substituted “Federal or State law” for “federal or state law” in two places.
+Subsec. (a)(3). Pub. L. 116–75, § 2(1)(B), substituted “Federal or State law” for “federal or state law” in two places.
 
-Subsec. (b). Pub. L. 116–75, § 2(2), substituted “Authorization To Carry Firearms—” for “Additional Requirements Related to Subsection (a)(2).—” in heading, struck out par. (1) designation and heading before “Duties under”, substituted “any location” for “any State”, and struck out par. (2) which provided that the authority provided under subsec. (a)(2) would expire on Dec. 29, 2019.
+Subsec. (b). Pub. L. 116–75, § 2(2), substituted “Authorization To Carry Firearms—” for “Additional Requirements Related to Subsection (a)(2).—” in heading, struck out par. (1) designation and heading before “Duties under”, substituted “any location” for “any State”, and struck out par. (2) which provided that the authority provided under subsec. (a)(2) would expire on Dec. 29, 2019.
 
 2013—Subsec. (b)(2). Pub. L. 113–62 substituted “2019” for “2013”.
 
@@ -323,7 +323,7 @@ Subsec. (b). Pub. L. 116–75, § 2(2), substituted “Authorization To Carry 
 
 2004—Subsec. (b)(2). Pub. L. 108–356 substituted “2008” for “2004”.
 
-### § 6122. Designation of members of the Supreme Court Police
+### § 6122. Designation of members of the Supreme Court Police
 
 Under the general supervision and direction of the Chief Justice of the United States, the Marshal of the Supreme Court may designate employees of the Supreme Court as members of the Supreme Court Police, without additional compensation.
 
@@ -333,9 +333,9 @@ Under the general supervision and direction of the Chief Justice of the United S
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6122 | 40:13f. | Aug. 18, 1949, ch. 479, § 1, 63 Stat. 616; Pub. L. 97–390, § 1(a), Dec. 29, 1982, 96 Stat. 1957. |
+| 6122 | 40:13f. | Aug. 18, 1949, ch. 479, § 1, 63 Stat. 616; Pub. L. 97–390, § 1(a), Dec. 29, 1982, 96 Stat. 1957. |
 
-### § 6123. Authority of Metropolitan Police of the District of Columbia
+### § 6123. Authority of Metropolitan Police of the District of Columbia
 
 The Metropolitan Police of the District of Columbia may make arrests within the Supreme Court Building and grounds for a violation of federal or state law or any regulation under federal or state law. This section does not authorize the Metropolitan Police to enter the Supreme Court Building to make an arrest in response to a complaint, serve a warrant, or patrol the Supreme Court Building or grounds, unless the Metropolitan Police have been requested to do so by, or have received the consent of, the Marshal of the Supreme Court or an assistant to the Marshal.
 
@@ -345,13 +345,13 @@ The Metropolitan Police of the District of Columbia may make arrests within the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6123 | 40:13n(b). | Aug. 18, 1949, ch. 479, § 9(b), 63 Stat. 617; Pub. L. 97–390, § 1(c)(1), Dec. 29, 1982, 96 Stat. 1957. |
+| 6123 | 40:13n(b). | Aug. 18, 1949, ch. 479, § 9(b), 63 Stat. 617; Pub. L. 97–390, § 1(c)(1), Dec. 29, 1982, 96 Stat. 1957. |
 
 The words “violation of federal or state law or any regulation under federal or state law” are substituted for “violations of any such laws or regulations”, and the words “unless the Metropolitan Police have been requested to do so by, or have received the consent of, the Marshal of the Supreme Court of the United States or an assistant to the Marshal” are substituted for “except with the consent or on the request of the Marshal of the Supreme Court or his assistants”, for clarity.
 
 ## SUBCHAPTER IV—PROHIBITIONS AND PENALTIES
 
-### § 6131. Public travel in Supreme Court grounds
+### § 6131. Public travel in Supreme Court grounds
 
 Public travel in, and occupancy of, the Supreme Court grounds is restricted to the sidewalks and other paved surfaces.
 
@@ -361,9 +361,9 @@ Public travel in, and occupancy of, the Supreme Court grounds is restricted to t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6131 | 40:13g. | Aug. 18, 1949, ch. 479, § 2, 63 Stat. 616. |
+| 6131 | 40:13g. | Aug. 18, 1949, ch. 479, § 2, 63 Stat. 616. |
 
-### § 6132. Sale of articles, signs, and solicitation in Supreme Court Building and grounds
+### § 6132. Sale of articles, signs, and solicitation in Supreme Court Building and grounds
 
 It is unlawful—
 
@@ -379,9 +379,9 @@ It is unlawful—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6132 | 40:13h. | Aug. 18, 1949, ch. 479, § 3, 63 Stat. 616. |
+| 6132 | 40:13h. | Aug. 18, 1949, ch. 479, § 3, 63 Stat. 616. |
 
-### § 6133. Property in the Supreme Court Building and grounds
+### § 6133. Property in the Supreme Court Building and grounds
 
 It is unlawful to step or climb on, remove, or in any way injure any statue, seat, wall, fountain, or other erection or architectural feature, or any tree, shrub, plant, or turf, in the Supreme Court Building or grounds.
 
@@ -391,11 +391,11 @@ It is unlawful to step or climb on, remove, or in any way injure any statue, sea
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6133 | 40:13i. | Aug. 18, 1949, ch. 479, § 4, 63 Stat. 617. |
+| 6133 | 40:13i. | Aug. 18, 1949, ch. 479, § 4, 63 Stat. 617. |
 
 The word “fountain” conforms to the original text as signed into law by the President. A typographical error was made in printing the source law in the Statutes-at-Large (63 Stat. 617) where the word appears as “foundation”.
 
-### § 6134. Firearms, fireworks, speeches, and objectionable language in the Supreme Court Building and grounds
+### § 6134. Firearms, fireworks, speeches, and objectionable language in the Supreme Court Building and grounds
 
 It is unlawful to discharge a firearm, firework or explosive, set fire to a combustible, make a harangue or oration, or utter loud, threatening, or abusive language in the Supreme Court Building or grounds.
 
@@ -405,9 +405,9 @@ It is unlawful to discharge a firearm, firework or explosive, set fire to a comb
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6134 | 40:13j. | Aug. 18, 1949, ch. 479, § 5, 63 Stat. 617. |
+| 6134 | 40:13j. | Aug. 18, 1949, ch. 479, § 5, 63 Stat. 617. |
 
-### § 6135. Parades, assemblages, and display of flags in the Supreme Court Building and grounds
+### § 6135. Parades, assemblages, and display of flags in the Supreme Court Building and grounds
 
 It is unlawful to parade, stand, or move in processions or assemblages in the Supreme Court Building or grounds, or to display in the Building and grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
@@ -417,9 +417,9 @@ It is unlawful to parade, stand, or move in processions or assemblages in the Su
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6135 | 40:13k. | Aug. 18, 1949, ch. 479, § 6, 63 Stat. 617. |
+| 6135 | 40:13k. | Aug. 18, 1949, ch. 479, § 6, 63 Stat. 617. |
 
-### § 6136. Suspension of prohibitions against use of Supreme Court grounds
+### § 6136. Suspension of prohibitions against use of Supreme Court grounds
 
 To allow the observance of authorized ceremonies in the Supreme Court Building and grounds, the Marshal of the Supreme Court may suspend for those occasions any of the prohibitions contained in this subchapter as may be necessary for the occasion if—
 
@@ -437,9 +437,9 @@ To allow the observance of authorized ceremonies in the Supreme Court Building a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6136 | 40:13*o*. | Aug. 18, 1949, ch. 479, § 10, 63 Stat. 617. |
+| 6136 | 40:13*o*. | Aug. 18, 1949, ch. 479, § 10, 63 Stat. 617. |
 
-### § 6137. Penalties
+### § 6137. Penalties
 
 **(a) In General.—** An individual who violates this subchapter, or a regulation prescribed under section 6102 of this title, shall be fined under title 18, imprisoned not more than 60 days, or both.
 
@@ -447,13 +447,13 @@ To allow the observance of authorized ceremonies in the Supreme Court Building a
 
 **(c) Offenses Involving Property Damage Over $100.—** If during the commission of a violation described in subsection (a), public property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1183; Pub. L. 108–356, § 2, Oct. 21, 2004, 118 Stat. 1416.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1183; Pub. L. 108–356, § 2, Oct. 21, 2004, 118 Stat. 1416.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6137 | 40:13m. | Aug. 18, 1949, ch. 479, § 8, 63 Stat. 617. |
+| 6137 | 40:13m. | Aug. 18, 1949, ch. 479, § 8, 63 Stat. 617. |
 
 In subsection (a), the words “fined under title 18” are substituted for “fined not more than $100” for consistency with chapter 227 of title 18.
 

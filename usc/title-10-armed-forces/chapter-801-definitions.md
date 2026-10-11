@@ -23,9 +23,9 @@ A prior chapter 801, containing no sections, related to definitions, prior to re
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 501 of this title as this chapter and item 5001 as 8001.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 501 of this title as this chapter and item 5001 as 8001.
 
-## § 8001. Definitions
+## § 8001. Definitions
 
 **(a)** In this subtitle:
 
@@ -47,7 +47,7 @@ A prior chapter 801, containing no sections, related to definitions, prior to re
 
 **(b)** For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanent grade is considered, unless otherwise specified, to be serving in the higher grade.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 276, § 5001; Pub. L. 87–123, § 5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, § 371, title V, § 513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title V, § 515(b)(1)(E), Jan. 6, 2006, 119 Stat. 3233; renumbered § 8001, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 276, § 5001; Pub. L. 87–123, § 5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, § 371, title V, § 513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title V, § 515(b)(1)(E), Jan. 6, 2006, 119 Stat. 3233; renumbered § 8001, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -63,9 +63,9 @@ A prior section 8010 was renumbered section 8011 of this title.
 
 1987—Subsec. (a). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (3) to (8) and substituted lowercase letter.
 
-1980—Subsec. (a)(3). Pub. L. 96–513, § 513(2), struck out “, male or female,” after “person”.
+1980—Subsec. (a)(3). Pub. L. 96–513, § 513(2), struck out “, male or female,” after “person”.
 
-Subsec. (a)(9), (10). Pub. L. 96–513, § 371, struck out pars. (9) and (10) which defined the active lists of the Navy and the Marine Corps, respectively. See section 101 of this title.
+Subsec. (a)(9), (10). Pub. L. 96–513, § 371, struck out pars. (9) and (10) which defined the active lists of the Navy and the Marine Corps, respectively. See section 101 of this title.
 
 1961—Subsec. (a)(8). Pub. L. 87–123 struck out provisions which related to Marine Corps officers designated for supply duty.
 

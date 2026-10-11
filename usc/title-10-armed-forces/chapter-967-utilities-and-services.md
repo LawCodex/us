@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title IX, § 923(e)(8)(C), Jan. 1, 2021, 134 Stat. 3817, added item 9594 and struck out former item 9594 “Air Force Military History Institute: fee for providing historical information to the public”.
+2021—Pub. L. 116–283, div. A, title IX, § 923(e)(8)(C), Jan. 1, 2021, 134 Stat. 3817, added item 9594 and struck out former item 9594 “Air Force Military History Institute: fee for providing historical information to the public”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 937 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 937 of this title as this chapter.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, added item 9594.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, added item 9594.
 
-## § 9591. Utilities: proceeds from overseas operations
+## § 9591. Utilities: proceeds from overseas operations
 
 During actual or threatened hostilities, proceeds from operating a public utility in connection with operations of the Air Force or the Space Force in the field overseas are available for that utility until the close of the fiscal year following that in which they are received.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(6), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(6), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9591 | 10:1287. | July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, § 645 (7th clause), 67 Stat. 357. |
+| 9591 | 10:1287. | July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, § 645 (7th clause), 67 Stat. 357. |
 
 The words “Air Force” are substituted for the word “Engineer”, since the Air Force does not have organic corps created by statute.
 
@@ -45,11 +45,11 @@ The words “Air Force” are substituted for the word “Engineer”, since the
 
 2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
 
-## § 9592. Radiograms and telegrams: forwarding charges due connecting commercial facilities
+## § 9592. Radiograms and telegrams: forwarding charges due connecting commercial facilities
 
 In the operation of telegraph lines, cables, or radio stations, members of the Air Force may, in the discretion of the Secretary of the Air Force, collect forwarding charges due connecting commercial telegraph or radio companies for sending radiograms or telegrams over their lines. Under such regulations as the Secretary may prescribe, they may present a voucher to a disbursing official for payment of the forwarding charge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, § 105(e), Oct. 19, 1996, 110 Stat. 3830.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, § 105(e), Oct. 19, 1996, 110 Stat. 3830.)
 
 **Historical and Revision Notes**
 
@@ -63,15 +63,15 @@ The words “members of the Air Force” are substituted for the words “Signal
 
 **Amendments**
 
-1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
+1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
 
 1982—Pub. L. 97–258 substituted “official” for “officer”.
 
-## § 9593. Quarters: heat and light
+## § 9593. Quarters: heat and light
 
 The heat and light necessary for the authorized quarters of members of the Air Force and members of the Space Force shall be furnished at the expense of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(7), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(7), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
@@ -93,7 +93,7 @@ The word “members” is substituted for the words “officers and enlisted men
 
 Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under section 4593 of this title.
 
-## § 9594. Department of the Air Force Military History Institute: fee for providing historical information to the public
+## § 9594. Department of the Air Force Military History Institute: fee for providing historical information to the public
 
 **(a) Authority.—** Except as provided in subsection (b), the Secretary of the Air Force may charge a person a fee for providing the person with information from the United States Department of the Air Force Military History Institute that is requested by that person.
 
@@ -113,14 +113,14 @@ Assessment of members for excess energy consumption in military family housing f
 
 **(2)** The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1085(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289; amended Pub. L. 116–283, div. A, title IX, § 923(e)(8)(A), (B), Jan. 1, 2021, 134 Stat. 3816.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1085(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289; amended Pub. L. 116–283, div. A, title IX, § 923(e)(8)(A), (B), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 923(e)(8)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Air Force Military History Institute: fee for providing historical information to the public”.
+2021—Pub. L. 116–283, § 923(e)(8)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Air Force Military History Institute: fee for providing historical information to the public”.
 
-Subsecs. (a), (d). Pub. L. 116–283, § 923(e)(8)(A)(i), inserted “Department of the” before “Air Force Military History”.
+Subsecs. (a), (d). Pub. L. 116–283, § 923(e)(8)(A)(i), inserted “Department of the” before “Air Force Military History”.
 
-Subsec. (e)(1). Pub. L. 116–283, § 923(e)(8)(A)(ii), inserted “Department of the” before “Air Force Military History” and “and the Space Force” after “materials of the Air Force”.
+Subsec. (e)(1). Pub. L. 116–283, § 923(e)(8)(A)(ii), inserted “Department of the” before “Air Force Military History” and “and the Space Force” after “materials of the Air Force”.

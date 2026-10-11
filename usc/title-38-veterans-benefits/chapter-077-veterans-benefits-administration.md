@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–389, title II, § 225(a)(2), Oct. 10, 2008, 122 Stat. 4158, added item 7732A.
+2008—Pub. L. 110–389, title II, § 225(a)(2), Oct. 10, 2008, 122 Stat. 4158, added item 7732A.
 
-2006—Pub. L. 109–233, title IV, § 402(d)(2), June 15, 2006, 120 Stat. 411, substituted “QUALITY ASSURANCE” for “VETERANS OUTREACH SERVICES PROGRAM” in item for subchapter II and struck out former items 7721 “Purpose; definitions”, 7722 “Outreach services”, 7723 “Veterans assistance offices”, 7724 “Outstationing of counseling and outreach personnel”, 7725 “Use of other agencies”, 7726 “Annual report to Congress”, 7727 “Outreach for eligible dependents”, and subchapter III “QUALITY ASSURANCE”.
+2006—Pub. L. 109–233, title IV, § 402(d)(2), June 15, 2006, 120 Stat. 411, substituted “QUALITY ASSURANCE” for “VETERANS OUTREACH SERVICES PROGRAM” in item for subchapter II and struck out former items 7721 “Purpose; definitions”, 7722 “Outreach services”, 7723 “Veterans assistance offices”, 7724 “Outstationing of counseling and outreach personnel”, 7725 “Use of other agencies”, 7726 “Annual report to Congress”, 7727 “Outreach for eligible dependents”, and subchapter III “QUALITY ASSURANCE”.
 
-2001—Pub. L. 107–14, § 6(b)(2), June 5, 2001, 115 Stat. 31, added item 7727.
+2001—Pub. L. 107–14, § 6(b)(2), June 5, 2001, 115 Stat. 31, added item 7727.
 
-1999—Pub. L. 106–117, title VIII, § 801(a)(2), Nov. 30, 1999, 113 Stat. 1586, added heading for subchapter III and items 7731 to 7734.
+1999—Pub. L. 106–117, title VIII, § 801(a)(2), Nov. 30, 1999, 113 Stat. 1586, added heading for subchapter III and items 7731 to 7734.
 
 ## SUBCHAPTER I—ORGANIZATION; GENERAL
 
-### § 7701. Organization of the Administration
+### § 7701. Organization of the Administration
 
 **(a)** There is in the Department of Veterans Affairs a Veterans Benefits Administration. The primary function of the Veterans Benefits Administration is the administration of nonmedical benefits programs of the Department which provide assistance to veterans and their dependents and survivors.
 
 **(b)** The Veterans Benefits Administration is under the Under Secretary for Benefits, who is directly responsible to the Secretary for the operations of the Administration. The Under Secretary for Benefits may be referred to as the Chief Benefits Director.
 
-(Added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 399; amended Pub. L. 102–405, title III, § 302(c)(1), (3), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 399; amended Pub. L. 102–405, title III, § 302(c)(1), (3), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -43,7 +43,7 @@ retrieved: 2026-10-11
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Benefits” for “Chief Benefits Director” and inserted at end “The Under Secretary for Benefits may be referred to as the Chief Benefits Director.”
 
-### § 7703. Functions of the Administration
+### § 7703. Functions of the Administration
 
 The Veterans Benefits Administration is responsible for the administration of the following programs of the Department:
 
@@ -57,7 +57,7 @@ The Veterans Benefits Administration is responsible for the administration of th
 
 **(5)** Outreach programs and other veterans’ services programs.
 
-(Added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 399.)
+(Added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 399.)
 
 ## SUBCHAPTER II—QUALITY ASSURANCE
 
@@ -65,27 +65,27 @@ The Veterans Benefits Administration is responsible for the administration of th
 
 **Prior Provisions**
 
-A prior subchapter II of this chapter, consisting of sections 7721 to 7727, related to the veterans outreach services program, prior to repeal by Pub. L. 109–233, title IV, § 402(c), June 15, 2006, 120 Stat. 411. See chapter 63 of this title.
+A prior subchapter II of this chapter, consisting of sections 7721 to 7727, related to the veterans outreach services program, prior to repeal by Pub. L. 109–233, title IV, § 402(c), June 15, 2006, 120 Stat. 411. See chapter 63 of this title.
 
-Section 7721, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 107–14, § 6(a), June 5, 2001, 115 Stat. 30, stated purpose of program and defined “other governmental programs” and “eligible dependent” for purposes of the subchapter. See section 6301 of this title.
+Section 7721, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 107–14, § 6(a), June 5, 2001, 115 Stat. 30, stated purpose of program and defined “other governmental programs” and “eligible dependent” for purposes of the subchapter. See section 6301 of this title.
 
-Section 7722, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 102–590, § 5, Nov. 10, 1992, 106 Stat. 5139; Pub. L. 107–103, title III, § 304, Dec. 27, 2001, 115 Stat. 992, directed Secretary to provide outreach services. See section 6303 of this title.
+Section 7722, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 102–590, § 5, Nov. 10, 1992, 106 Stat. 5139; Pub. L. 107–103, title III, § 304, Dec. 27, 2001, 115 Stat. 992, directed Secretary to provide outreach services. See section 6303 of this title.
 
-Section 7723, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401; amended Pub. L. 107–103, title III, § 301, Dec. 27, 2001, 115 Stat. 991; Pub. L. 108–183, title III, § 309(c)(1), Dec. 16, 2003, 117 Stat. 2663, directed Secretary to establish and maintain veterans assistance offices. See section 6304 of this title.
+Section 7723, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401; amended Pub. L. 107–103, title III, § 301, Dec. 27, 2001, 115 Stat. 991; Pub. L. 108–183, title III, § 309(c)(1), Dec. 16, 2003, 117 Stat. 2663, directed Secretary to establish and maintain veterans assistance offices. See section 6304 of this title.
 
-Section 7724, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401, related to outstationing of counseling and outreach personnel. See section 6305 of this title.
+Section 7724, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401, related to outstationing of counseling and outreach personnel. See section 6305 of this title.
 
-Section 7725, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401, related to use of other agencies. See section 6306 of this title.
+Section 7725, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 401, related to use of other agencies. See section 6306 of this title.
 
-Section 7726, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 402, related to the required annual report to Congress. See section 6308 of this title.
+Section 7726, added Pub. L. 102–83, § 2(b), Aug. 6, 1991, 105 Stat. 402, related to the required annual report to Congress. See section 6308 of this title.
 
-Section 7727, added Pub. L. 107–14, § 6(b)(1), June 5, 2001, 115 Stat. 31, related to outreach for eligible dependents. See section 6307 of this title.
+Section 7727, added Pub. L. 107–14, § 6(b)(1), June 5, 2001, 115 Stat. 31, related to outreach for eligible dependents. See section 6307 of this title.
 
 **Amendments**
 
-2006—Pub. L. 109–233, title IV, § 402(d)(1), June 15, 2006, 120 Stat. 411, redesignated subchapter III of this chapter as this subchapter.
+2006—Pub. L. 109–233, title IV, § 402(d)(1), June 15, 2006, 120 Stat. 411, redesignated subchapter III of this chapter as this subchapter.
 
-### § 7731. Establishment
+### § 7731. Establishment
 
 **(a)** The Secretary shall carry out a quality assurance program in the Veterans Benefits Administration. The program may be carried out through a single quality assurance division in the Administration or through separate quality assurance entities for each of the principal organizational elements (known as “services”) of the Administration.
 
@@ -133,7 +133,7 @@ Section 7727, added Pub. L. 107–14, § 6(b)(1), June 5, 2001, 115 Stat. 31, 
 
 **(5)** Nothing in this subsection shall be construed to require the Secretary to replace the quality assurance program under subsection (a) that was in effect on the day before the date of the enactment of this subsection.
 
-(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585; amended Pub. L. 110–389, title II, § 224(a), Oct. 10, 2008, 122 Stat. 4157.)
+(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585; amended Pub. L. 110–389, title II, § 224(a), Oct. 10, 2008, 122 Stat. 4157.)
 
 **Editorial Notes**
 
@@ -149,15 +149,15 @@ The date of the enactment of the Veterans’ Benefits Improvement Act of 2008 an
 
 **Effective Date**
 
-Pub. L. 106–117, title VIII, § 801(b), Nov. 30, 1999, 113 Stat. 1586, provided that: “Subchapter III [now Subchapter II] of chapter 77 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 30, 1999].”
+Pub. L. 106–117, title VIII, § 801(b), Nov. 30, 1999, 113 Stat. 1586, provided that: “Subchapter III [now Subchapter II] of chapter 77 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 30, 1999].”
 
-### § 7732. Functions
+### § 7732. Functions
 
 The Under Secretary for Benefits, acting through the quality assurance entities established under section 7731(a), shall on an ongoing basis perform and oversee quality reviews of the functions of each of the principal organizational elements of the Veterans Benefits Administration.
 
-(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)
+(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)
 
-### § 7732A. Employee certification
+### § 7732A. Employee certification
 
 **(a) Development of Certification Examination.—**
 
@@ -171,13 +171,13 @@ The Under Secretary for Benefits, acting through the quality assurance entities 
 
 **(b) Employee and Manager Requirement.—** The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary to take the examination provided under subsection (a).
 
-(Added Pub. L. 110–389, title II, § 225(a)(1), Oct. 10, 2008, 122 Stat. 4158.)
+(Added Pub. L. 110–389, title II, § 225(a)(1), Oct. 10, 2008, 122 Stat. 4158.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadlines for Implementation**
 
-Pub. L. 110–389, title II, § 225(a)(3), Oct. 10, 2008, 122 Stat. 4158, provided that:
+Pub. L. 110–389, title II, § 225(a)(3), Oct. 10, 2008, 122 Stat. 4158, provided that:
 
 > “The Secretary of Veterans Affairs shall—
 
@@ -185,13 +185,13 @@ Pub. L. 110–389, title II, § 225(a)(3), Oct. 10, 2008, 122 Stat. 4158, prov
 
 > **“(B)** begin administering such certification examination required under such section not later than 90 days after the date on which the development of such certification examination is complete.”
 
-### § 7733. Personnel
+### § 7733. Personnel
 
 The Secretary shall ensure that the number of full-time employees of the Veterans Benefits Administration assigned to quality assurance functions under this subchapter is adequate to perform the quality assurance functions for which they have responsibility.
 
-(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)
+(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)
 
-### § 7734. Annual report to Congress
+### § 7734. Annual report to Congress
 
 The Secretary shall include in the annual report to the Congress required by section 529 of this title a report on the quality assurance activities carried out under this subchapter. Each such report shall include—
 
@@ -211,4 +211,4 @@ The Secretary shall include in the annual report to the Congress required by sec
 
 **(3)** such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)
+(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)

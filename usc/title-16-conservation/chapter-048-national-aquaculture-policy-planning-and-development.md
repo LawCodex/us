@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—NATIONAL AQUACULTURE POLICY, PLANNING, AND DEVELOPMENT
 
-## § 2801. Congressional findings, purpose, and policy
+## § 2801. Congressional findings, purpose, and policy
 
 **(a) Findings** Congress finds the following:
 
@@ -51,31 +51,31 @@ that will result in increased aquacultural production, the coordination of domes
 
 Congress declares that aquaculture has the potential for reducing the United States trade deficit in fisheries products, for augmenting existing commercial and recreational fisheries and for producing other renewable resources, thereby assisting the United States in meeting its future food needs and contributing to the solution of world resource problems. It is, therefore, in the national interest, and it is the national policy, to encourage the development of aquaculture in the United States.
 
-(Pub. L. 96–362, § 2, Sept. 26, 1980, 94 Stat. 1198; Pub. L. 99–198, title XVII, § 1732, Dec. 23, 1985, 99 Stat. 1641.)
+(Pub. L. 96–362, § 2, Sept. 26, 1980, 94 Stat. 1198; Pub. L. 99–198, title XVII, § 1732, Dec. 23, 1985, 99 Stat. 1641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsec. (a)(3). Pub. L. 99–198, § 1732(1), substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
+1985—Subsec. (a)(3). Pub. L. 99–198, § 1732(1), substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
 
-Subsec. (a)(7). Pub. L. 99–198, § 1732(2), inserted “scientific,” before “economic,” and “the lack of supportive Government policies,” after “management information,”.
+Subsec. (a)(7). Pub. L. 99–198, § 1732(2), inserted “scientific,” before “economic,” and “the lack of supportive Government policies,” after “management information,”.
 
-Subsec. (b)(3), (4). Pub. L. 99–198, § 1732(3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (b)(3), (4). Pub. L. 99–198, § 1732(3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (c). Pub. L. 99–198, § 1732(4), inserted “or reducing the United States trade deficit in fisheries products,”.
+Subsec. (c). Pub. L. 99–198, § 1732(4), inserted “or reducing the United States trade deficit in fisheries products,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–198, title XVII, § 1731, Dec. 23, 1985, 99 Stat. 1641, provided that: “This subtitle [subtitle C [D] (§§ 1731–1737) of title XVII of Pub. L. 99–198, amending this section and sections 2802 to 2805 and 2809 of this title] may be cited as the ‘National Aquaculture Improvement Act of 1985’.”
+Pub. L. 99–198, title XVII, § 1731, Dec. 23, 1985, 99 Stat. 1641, provided that: “This subtitle [subtitle C [D] (§§ 1731–1737) of title XVII of Pub. L. 99–198, amending this section and sections 2802 to 2805 and 2809 of this title] may be cited as the ‘National Aquaculture Improvement Act of 1985’.”
 
 **Short Title**
 
-Pub. L. 96–362, § 1, Sept. 26, 1980, 94 Stat. 1198, provided: “That this Act [enacting this chapter] may be cited as the ‘National Aquaculture Act of 1980’.”
+Pub. L. 96–362, § 1, Sept. 26, 1980, 94 Stat. 1198, provided: “That this Act [enacting this chapter] may be cited as the ‘National Aquaculture Act of 1980’.”
 
-## § 2802. Definitions
+## § 2802. Definitions
 
 As used in this chapter, unless the context otherwise requires—
 
@@ -97,7 +97,7 @@ As used in this chapter, unless the context otherwise requires—
 
 **(9)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-(Pub. L. 96–362, § 3, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 99–198, title XVII, § 1733, Dec. 23, 1985, 99 Stat. 1641.)
+(Pub. L. 96–362, § 3, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 99–198, title XVII, § 1733, Dec. 23, 1985, 99 Stat. 1641.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ As used in this chapter, unless the context otherwise requires—
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2803. National Aquaculture Development Plan
+## § 2803. National Aquaculture Development Plan
 
 **(a) In general**
 
@@ -189,7 +189,7 @@ the Secretaries shall appropriately amend the Plan.
 
 **(6)** the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
 
-(Pub. L. 96–362, § 4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, § 1734, Dec. 23, 1985, 99 Stat. 1641; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–362, § 4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, § 1734, Dec. 23, 1985, 99 Stat. 1641; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
@@ -201,15 +201,15 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (c)(A), is Reorg.
 
 1996—Subsec. (a)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1985—Subsec. (a)(2). Pub. L. 99–198, § 1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
+1985—Subsec. (a)(2). Pub. L. 99–198, § 1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
 
-Subsec. (a)(3). Pub. L. 99–198, § 1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
+Subsec. (a)(3). Pub. L. 99–198, § 1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
 
-Subsec. (b). Pub. L. 99–198, § 1734(2), inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
+Subsec. (b). Pub. L. 99–198, § 1734(2), inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
 
-Subsec. (c)(1). Pub. L. 99–198, § 1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
+Subsec. (c)(1). Pub. L. 99–198, § 1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
 
-Subsec. (c)(2)(C). Pub. L. 99–198, § 1734(3)(B)–(D), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 99–198, § 1734(3)(B)–(D), added subpar. (C).
 
 1980—Subsec. (a)(2). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
@@ -217,13 +217,13 @@ Subsec. (c)(2)(C). Pub. L. 99–198, § 1734(3)(B)–(D), added subpar. (C).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-## § 2804. Functions and powers of Secretaries
+## § 2804. Functions and powers of Secretaries
 
 **(a) Mandatory functions** In implementing the Plan, the Secretaries shall—
 
@@ -271,11 +271,11 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided 
 
 The Secretary, through the coordinating group and in consultation with the Secretary of Commerce and the Secretary of the Interior,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall prepare on a biennial basis, and submit to Congress, a report on the status of aquaculture in the United States. Such report shall contain a description and evaluation of the actions undertaken with respect to the Plan during the reporting period, an explanation of any revisions made to the Plan during the reporting period, and such other comments and recommendations as the Secretary deems appropriate. The report required by this subsection shall be submitted to the Congress not later than February 1, 1988.
 
-(Pub. L. 96–362, § 5, Sept. 26, 1980, 94 Stat. 1201; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, § 1735, Dec. 23, 1985, 99 Stat. 1642; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–362, § 5, Sept. 26, 1980, 94 Stat. 1201; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, § 1735, Dec. 23, 1985, 99 Stat. 1642; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
@@ -283,11 +283,11 @@ shall prepare on a biennial basis, and submit to Congress, a report on the statu
 
 1996—Subsec. (a)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1985—Subsec. (c)(1). Pub. L. 99–198, § 1735(1), amended par. (1) generally. Prior to amendment, par. (1) provided that in addition to performing such other required functions under this chapter, the Secretaries shall (A) establish and maintain an information service for the collection, analysis, and dissemination of scientific, technical, legal, and economic information relating to aquaculture; (B) conduct appropriate surveys, in coordination with other Federal departments and agencies, of public and private aquacultural activities being conducted in the United States for the purpose of acquiring information on acreages, water use, production, culture techniques, and other relevant matters; (C) arrange with foreign nations for the exchange of information relating to aquaculture and support a translation service; (D) conduct a continuing study to determine whether existing capture fisheries could be adversely affected by competition from products produced by commercial aquacultural enterprises and include in such study (i) an assessment of any adverse effect, by species and by geographical region, on such fisheries, and (ii) recommended measures to ameliorate any such effect; and (E) report to Congress on the findings of the study conducted under subparagraph (D) in the biennial status report required under subsection (d) of this section.
+1985—Subsec. (c)(1). Pub. L. 99–198, § 1735(1), amended par. (1) generally. Prior to amendment, par. (1) provided that in addition to performing such other required functions under this chapter, the Secretaries shall (A) establish and maintain an information service for the collection, analysis, and dissemination of scientific, technical, legal, and economic information relating to aquaculture; (B) conduct appropriate surveys, in coordination with other Federal departments and agencies, of public and private aquacultural activities being conducted in the United States for the purpose of acquiring information on acreages, water use, production, culture techniques, and other relevant matters; (C) arrange with foreign nations for the exchange of information relating to aquaculture and support a translation service; (D) conduct a continuing study to determine whether existing capture fisheries could be adversely affected by competition from products produced by commercial aquacultural enterprises and include in such study (i) an assessment of any adverse effect, by species and by geographical region, on such fisheries, and (ii) recommended measures to ameliorate any such effect; and (E) report to Congress on the findings of the study conducted under subparagraph (D) in the biennial status report required under subsection (d) of this section.
 
-Subsec. (c)(2). Pub. L. 99–198, § 1735(1), amended par. (2) generally, substituting “The Secretaries shall preserve such confidentiality” for “The Secretaries shall prescribe such procedures as may be necessary to preserve such confidentiality”.
+Subsec. (c)(2). Pub. L. 99–198, § 1735(1), amended par. (2) generally, substituting “The Secretaries shall preserve such confidentiality” for “The Secretaries shall prescribe such procedures as may be necessary to preserve such confidentiality”.
 
-Subsec. (d). Pub. L. 99–198, § 1735(2), substituted “Secretary” for “Secretaries” wherever appearing; inserted “and in consultation with the Secretary of Commerce and the Secretary of the Interior,” after “the coordinating group” in first sentence; struck out “under section 2803(d) of this title” after “revisions made to the Plan”, and substituted “Such” for “Each such”, substituted “deems appropriate” for “deem appropriate” in second sentence; and substituted “The report required by this subsection shall be submitted to the Congress not later than February 1, 1988” for “The first report required under this subsection shall be submitted to Congress by September 30, 1981”.
+Subsec. (d). Pub. L. 99–198, § 1735(2), substituted “Secretary” for “Secretaries” wherever appearing; inserted “and in consultation with the Secretary of Commerce and the Secretary of the Interior,” after “the coordinating group” in first sentence; struck out “under section 2803(d) of this title” after “revisions made to the Plan”, and substituted “Such” for “Each such”, substituted “deems appropriate” for “deem appropriate” in second sentence; and substituted “The report required by this subsection shall be submitted to the Congress not later than February 1, 1988” for “The first report required under this subsection shall be submitted to Congress by September 30, 1981”.
 
 1980—Subsec. (a)(2). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
@@ -295,15 +295,15 @@ Subsec. (d). Pub. L. 99–198, § 1735(2), substituted “Secretary” for “
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 **Collection of Fees for Triploid Grass Carp Certification Inspections**
 
-Pub. L. 104–40, § 1, Nov. 1, 1995, 109 Stat. 350, provided:
+Pub. L. 104–40, § 1, Nov. 1, 1995, 109 Stat. 350, provided:
 
 > **“(a) In General.—** The Secretary of the Interior, acting through the Director of the Fish and Wildlife Service (referred to in this section as the ‘Director’), may charge reasonable fees for expenses to the Federal Government for triploid grass carp certification inspections requested by a person who owns or operates an aquaculture facility.
 
@@ -311,7 +311,7 @@ Pub. L. 104–40, § 1, Nov. 1, 1995, 109 Stat. 350, provided:
 
 > **“(c) Use.—** The Director shall use all fees collected under subsection (a) to carry out the activities referred to in subsection (a).”
 
-## § 2805. Coordination of national activities regarding aquaculture
+## § 2805. Coordination of national activities regarding aquaculture
 
 **(a) Establishment** There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f), operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
 
@@ -367,7 +367,7 @@ Each Federal department and agency that has functions or responsibilities with r
 
 If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
 
-(Pub. L. 96–362, § 6, Sept. 26, 1980, 94 Stat. 1203; Pub. L. 99–198, title XVII, § 1736, Dec. 23, 1985, 99 Stat. 1643.)
+(Pub. L. 96–362, § 6, Sept. 26, 1980, 94 Stat. 1203; Pub. L. 99–198, title XVII, § 1736, Dec. 23, 1985, 99 Stat. 1643.)
 
 **Editorial Notes**
 
@@ -377,11 +377,11 @@ Executive Order 12039, dated February 24, 1978, referred to in subsec. (a), is E
 
 **Amendments**
 
-1985—Subsec. (a)(1). Pub. L. 99–198, § 1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
+1985—Subsec. (a)(1). Pub. L. 99–198, § 1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
 
-Subsecs. (c) to (f). Pub. L. 99–198, § 1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
+Subsecs. (c) to (f). Pub. L. 99–198, § 1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
 
-## § 2806. Contracts and grants
+## § 2806. Contracts and grants
 
 **(a) In general**
 
@@ -399,9 +399,9 @@ The amount of any grant made under subsection (a) may not exceed an amount equal
 
 Each recipient of a grant or contract under this section shall make available to the Secretary concerned and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, or record that is pertinent to the funds received under such grant or contract.
 
-(Pub. L. 96–362, § 7, Sept. 26, 1980, 94 Stat. 1204.)
+(Pub. L. 96–362, § 7, Sept. 26, 1980, 94 Stat. 1204.)
 
-## § 2807. Capital requirements for aquaculture
+## § 2807. Capital requirements for aquaculture
 
 **(a) Capital requirements study** The Secretaries, through the coordinating group, shall conduct within twelve months after September 26, 1980, a study of the capital requirements of the United States aquaculture industry. The study shall—
 
@@ -415,9 +415,9 @@ The study will identify the capital needs of the United States aquaculture indus
 
 Based on the results of the Capital Requirements Study conducted under subsection (a), and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study’s findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
 
-(Pub. L. 96–362, § 8, Sept. 26, 1980, 94 Stat. 1204.)
+(Pub. L. 96–362, § 8, Sept. 26, 1980, 94 Stat. 1204.)
 
-## § 2808. Regulatory constraints on aquaculture
+## § 2808. Regulatory constraints on aquaculture
 
 **(a) Regulatory constraints study** The Secretaries, through the coordinating group, shall conduct, within twelve months after September 26, 1980, a study of the State and Federal regulatory restrictions to aquaculture development in the United States. The study shall—
 
@@ -437,9 +437,9 @@ Upon completion of the study, the Secretaries shall submit its results to Congre
 
 Based on the results of the Regulatory Constraints Study conducted under subsection (a), and within six months of the study’s completion, the Secretaries shall formulate a plan for acting on the study’s findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
 
-(Pub. L. 96–362, § 9, Sept. 26, 1980, 94 Stat. 1205.)
+(Pub. L. 96–362, § 9, Sept. 26, 1980, 94 Stat. 1205.)
 
-## § 2809. Authorizations for appropriations
+## § 2809. Authorizations for appropriations
 
 For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
 
@@ -447,15 +447,15 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
 **(2)** to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2023; and
 
-**(3)** to the Department of 1
+**(3)** to the Department of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Interior, $1,000,000 for each of fiscal years 1991 through 2023.
 
 Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
-(Pub. L. 96–362, § 10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, § 402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, § 1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, § 1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, § 301(i), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7139, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7414, May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7414, June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7406, Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7510, Dec. 20, 2018, 132 Stat. 4824.)
+(Pub. L. 96–362, § 10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, § 402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, § 1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, § 1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, § 301(i), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7139, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7414, May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7414, June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7406, Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7510, Dec. 20, 2018, 132 Stat. 4824.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 substituted “2018” for “2012” wherever appearing.
 
-2008—Pars. (1) to (3). Pub. L. 110–246, § 7414, substituted “2012” for “2007”.
+2008—Pars. (1) to (3). Pub. L. 110–246, § 7414, substituted “2012” for “2007”.
 
 2002—Pars. (1) to (3). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -495,8 +495,8 @@ Par. (3). Pub. L. 98–623 substituted provisions authorizing appropriations of 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 2810. Disclaimer
+## § 2810. Disclaimer
 
 Nothing in this chapter shall be construed to amend, repeal, or otherwise modify the authority of any Federal officer, department, or agency to perform any function, responsibility, or activity authorized under any other provision of law.
 
-(Pub. L. 96–362, § 11, Sept. 26, 1980, 94 Stat. 1206.)
+(Pub. L. 96–362, § 11, Sept. 26, 1980, 94 Stat. 1206.)

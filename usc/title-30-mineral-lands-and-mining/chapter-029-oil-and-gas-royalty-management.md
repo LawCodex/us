@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—OIL AND GAS ROYALTY MANAGEMENT
 
-## § 1701. Congressional statement of findings and purposes
+## § 1701. Congressional statement of findings and purposes
 
 **(a)** Congress finds that—
 
@@ -39,41 +39,41 @@ retrieved: 2026-10-11
 
 **(5)** to effectively utilize the capabilities of the States and Indian tribes in developing and maintaining an efficient and effective Federal royalty management system.
 
-(Pub. L. 97–451, § 2, Jan. 12, 1983, 96 Stat. 2448.)
+(Pub. L. 97–451, § 2, Jan. 12, 1983, 96 Stat. 2448.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–185, § 11, Aug. 13, 1996, 110 Stat. 1717, provided that: “Except as provided by section 115(h) [30 U.S.C. 1724(h)], section 111(h) [30 U.S.C. 1721(h)], section 111(k)(5) [30 U.S.C. 1721(k)(5)], and section 117 [30 U.S.C. 1726] of the Federal Oil and Gas Royalty Management Act of 1982 (as added by this Act), this Act [see Short Title of 1996 Amendment note below], and the amendments made by this Act, shall apply with respect to the production of oil and gas after the first day of the month following the date of the enactment of this Act [Aug. 13, 1996].”
+Pub. L. 104–185, § 11, Aug. 13, 1996, 110 Stat. 1717, provided that: “Except as provided by section 115(h) [30 U.S.C. 1724(h)], section 111(h) [30 U.S.C. 1721(h)], section 111(k)(5) [30 U.S.C. 1721(k)(5)], and section 117 [30 U.S.C. 1726] of the Federal Oil and Gas Royalty Management Act of 1982 (as added by this Act), this Act [see Short Title of 1996 Amendment note below], and the amendments made by this Act, shall apply with respect to the production of oil and gas after the first day of the month following the date of the enactment of this Act [Aug. 13, 1996].”
 
 **Effective Date**
 
-Pub. L. 97–451, title III, § 305, Jan. 12, 1983, 96 Stat. 2461, provided that: “The provisions of this Act [enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title] shall apply to oil and gas leases issued before, on, or after the date of the enactment of this Act [Jan. 12, 1983], except that in the case of a lease issued before such date, no provision of this Act or any rule or regulation prescribed under this Act shall alter the express and specific provisions of such a lease.”
+Pub. L. 97–451, title III, § 305, Jan. 12, 1983, 96 Stat. 2461, provided that: “The provisions of this Act [enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title] shall apply to oil and gas leases issued before, on, or after the date of the enactment of this Act [Jan. 12, 1983], except that in the case of a lease issued before such date, no provision of this Act or any rule or regulation prescribed under this Act shall alter the express and specific provisions of such a lease.”
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–81, § 1, Sept. 20, 2024, 138 Stat. 1520, provided that: “This Act [amending section 1721 of this title] may be cited as the ‘Royalty Resiliency Act’.”
+Pub. L. 118–81, § 1, Sept. 20, 2024, 138 Stat. 1520, provided that: “This Act [amending section 1721 of this title] may be cited as the ‘Royalty Resiliency Act’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–185, § 1, Aug. 13, 1996, 110 Stat. 1700, provided that: “This Act [enacting sections 1721a and 1724 to 1726 of this title, amending sections 1702, 1712, 1721, and 1735 of this title, repealing section 1339 of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 1732 of this title, and section 1339 of Title 43] may be cited as the ‘Federal Oil and Gas Royalty Simplification and Fairness Act of 1996’.”
+Pub. L. 104–185, § 1, Aug. 13, 1996, 110 Stat. 1700, provided that: “This Act [enacting sections 1721a and 1724 to 1726 of this title, amending sections 1702, 1712, 1721, and 1735 of this title, repealing section 1339 of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 1732 of this title, and section 1339 of Title 43] may be cited as the ‘Federal Oil and Gas Royalty Simplification and Fairness Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 97–451, § 1, Jan. 12, 1983, 96 Stat. 2447, provided that: “This Act [enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title] may be cited as the ‘Federal Oil and Gas Royalty Management Act of 1982’.”
+Pub. L. 97–451, § 1, Jan. 12, 1983, 96 Stat. 2447, provided that: “This Act [enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title] may be cited as the ‘Federal Oil and Gas Royalty Management Act of 1982’.”
 
 **Applicability of 1996 Amendment**
 
-Pub. L. 104–185, § 9, Aug. 13, 1996, 110 Stat. 1717, provided that: “The amendments made by this Act [see Short Title of 1996 Amendment note above] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of 1982 [30 U.S.C. 1701 et seq.] as in effect on the day before the date of enactment of this Act [Aug. 13, 1996] shall continue to apply after such date with respect to Indian lands.”
+Pub. L. 104–185, § 9, Aug. 13, 1996, 110 Stat. 1717, provided that: “The amendments made by this Act [see Short Title of 1996 Amendment note above] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of 1982 [30 U.S.C. 1701 et seq.] as in effect on the day before the date of enactment of this Act [Aug. 13, 1996] shall continue to apply after such date with respect to Indian lands.”
 
-Pub. L. 104–185, § 10, Aug. 13, 1996, 110 Stat. 1717, provided that: “This Act [see Short Title of 1996 Amendment note above] shall not apply to any privately owned minerals.”
+Pub. L. 104–185, § 10, Aug. 13, 1996, 110 Stat. 1717, provided that: “This Act [see Short Title of 1996 Amendment note above] shall not apply to any privately owned minerals.”
 
 **Construction of 1996 Amendment**
 
-Pub. L. 104–185, § 12, Aug. 13, 1996, 110 Stat. 1717, provided that: “Nothing in this Act [see Short Title of 1996 Amendment note above] shall be construed to give a State a property right or interest in any Federal lease or land.”
+Pub. L. 104–185, § 12, Aug. 13, 1996, 110 Stat. 1717, provided that: “Nothing in this Act [see Short Title of 1996 Amendment note above] shall be construed to give a State a property right or interest in any Federal lease or land.”
 
-## § 1702. Definitions
+## § 1702. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -187,7 +187,7 @@ which arises from or relates to any lease administered by the Secretary for, or 
 
 **(33)** “United States” means the United States Government and any department, agency, or instrumentality thereof, the several States, the District of Columbia, and the territories of the United States.
 
-(Pub. L. 97–451, § 3, Jan. 12, 1983, 96 Stat. 2448; Pub. L. 92–203, § 29(f)(1), as added Pub. L. 100–241, § 15, Feb. 3, 1988, 101 Stat. 1813; Pub. L. 104–185, § 2, Aug. 13, 1996, 110 Stat. 1700; Pub. L. 104–200, § 1(1), Sept. 22, 1996, 110 Stat. 2421.)
+(Pub. L. 97–451, § 3, Jan. 12, 1983, 96 Stat. 2448; Pub. L. 92–203, § 29(f)(1), as added Pub. L. 100–241, § 15, Feb. 3, 1988, 101 Stat. 1813; Pub. L. 104–185, § 2, Aug. 13, 1996, 110 Stat. 1700; Pub. L. 104–200, § 1(1), Sept. 22, 1996, 110 Stat. 2421.)
 
 **Editorial Notes**
 
@@ -199,13 +199,13 @@ Section 3 of the Act of June 28, 1906 (34 Stat. 539), referred to in par. (3), i
 
 **Amendments**
 
-1996—Par. (7). Pub. L. 104–185, § 2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘lessee’ means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;”.
+1996—Par. (7). Pub. L. 104–185, § 2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘lessee’ means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;”.
 
-Pars. (17) to (25). Pub. L. 104–185, § 2(2), added pars. (17) to (25).
+Pars. (17) to (25). Pub. L. 104–185, § 2(2), added pars. (17) to (25).
 
 Par. (25)(B). Pub. L. 104–200, substituted “provisions of section 1712(a)” for “provision of section 1712(a)” in introductory provisions.
 
-Pars. (26) to (33). Pub. L. 104–185, § 2(2), added pars. (26) to (33).
+Pars. (26) to (33). Pub. L. 104–185, § 2(2), added pars. (26) to (33).
 
 1988—Pars. (3), (4). Pub. L. 92–203 inserted “or which is administered by the United States pursuant to section 1613(g) of title 43” after “alienation”.
 
@@ -217,7 +217,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 92–203, § 29(f)(2), as added by Pub. L. 100–241, § 15, Feb. 3, 1988, 101 Stat. 1813, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if originally included in section 3 of Public Law 97–451 [this section].”
+Pub. L. 92–203, § 29(f)(2), as added by Pub. L. 100–241, § 15, Feb. 3, 1988, 101 Stat. 1813, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if originally included in section 3 of Public Law 97–451 [this section].”
 
 **Applicability of 1996 Amendment**
 
@@ -231,7 +231,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER I—FEDERAL ROYALTY MANAGEMENT AND ENFORCEMENT
 
-### § 1711. Duties of Secretary
+### § 1711. Duties of Secretary
 
 **(a) Establishment of inspection, collection, and accounting and auditing system**
 
@@ -251,15 +251,15 @@ The Secretary shall establish a comprehensive inspection, collection and fiscal 
 
 **(3)** All books, accounts, financial records, reports, files, and other papers of the Secretary, or used by the Secretary, which are reasonably necessary to facilitate the audits required under this section shall be made available to any person or governmental entity conducting audits under this chapter.
 
-(Pub. L. 97–451, title I, § 101, Jan. 12, 1983, 96 Stat. 2449.)
+(Pub. L. 97–451, title I, § 101, Jan. 12, 1983, 96 Stat. 2449.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 1712. Duties of lessees, operators, and motor vehicle transporters
+### § 1712. Duties of lessees, operators, and motor vehicle transporters
 
 **(a) Liability for royalty payments**
 
@@ -279,7 +279,7 @@ In order to increase receipts and achieve effective collections of royalty and o
 
 **(2)** Any person engaged in transporting any oil or gas by pipeline from any lease site, or allocated to any lease site, on Federal or Indian lands shall maintain documentation showing, at a minimum, amount, origin, and intended first destination of such oil or gas.
 
-(Pub. L. 97–451, title I, § 102, Jan. 12, 1983, 96 Stat. 2450; Pub. L. 104–185, § 6(g), Aug. 13, 1996, 110 Stat. 1715.)
+(Pub. L. 97–451, title I, § 102, Jan. 12, 1983, 96 Stat. 2450; Pub. L. 104–185, § 6(g), Aug. 13, 1996, 110 Stat. 1715.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ Amendment by Pub. L. 104–185 applicable with respect to the production of oil 
 
 Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
-### § 1713. Required recordkeeping
+### § 1713. Required recordkeeping
 
 **(a) Maintenance and availability of records, reports, and information for inspection and duplication**
 
@@ -311,21 +311,21 @@ A lessee, operator, or other person directly involved in developing, producing, 
 
 Records required by the Secretary with respect to oil and gas leases from Federal or Indian lands or the Outer Continental Shelf shall be maintained for 6 years after the records are generated unless the Secretary notifies the record holder that he has initiated an audit or investigation involving such records and that such records must be maintained for a longer period. In any case when an audit or investigation is underway, records shall be maintained until the Secretary releases the record holder of the obligation to maintain such records.
 
-(Pub. L. 97–451, title I, § 103, Jan. 12, 1983, 96 Stat. 2451.)
+(Pub. L. 97–451, title I, § 103, Jan. 12, 1983, 96 Stat. 2451.)
 
-### § 1714. Deposit of royalty funds to Indian accounts
+### § 1714. Deposit of royalty funds to Indian accounts
 
 Deposits of any royalty funds derived from the production of oil or gas from, or allocated to, Indian lands shall be made by the Secretary to the appropriate Indian account at the earliest practicable date after such funds are received by the Secretary but in no case later than the last business day of the month in which such funds are received.
 
-(Pub. L. 97–451, title I, § 104(b), Jan. 12, 1983, 96 Stat. 2452.)
+(Pub. L. 97–451, title I, § 104(b), Jan. 12, 1983, 96 Stat. 2452.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–451, title I, § 104(c), Jan. 12, 1983, 96 Stat. 2452, provided that: “The provisions of this section [enacting this section and amending section 191 of this title] shall apply with respect to payments received by the Secretary after October 1, 1983, unless the Secretary, by rule, prescribes an earlier effective date.”
+Pub. L. 97–451, title I, § 104(c), Jan. 12, 1983, 96 Stat. 2452, provided that: “The provisions of this section [enacting this section and amending section 191 of this title] shall apply with respect to payments received by the Secretary after October 1, 1983, unless the Secretary, by rule, prescribes an earlier effective date.”
 
-### § 1715. Explanation of payments
+### § 1715. Explanation of payments
 
 **(a) Description, period, source, etc., of payments to States or Indians**
 
@@ -335,9 +335,9 @@ When any payment (including amounts due from receipt of any royalty, bonus, inte
 
 This section shall take effect with respect to payments made after October 1, 1983, unless the Secretary, by rule, prescribes an earlier effective date.
 
-(Pub. L. 97–451, title I, § 105, Jan. 12, 1983, 96 Stat. 2452.)
+(Pub. L. 97–451, title I, § 105, Jan. 12, 1983, 96 Stat. 2452.)
 
-### § 1716. Liabilities and bonding
+### § 1716. Liabilities and bonding
 
 A person (including any agent or employee of the United States and any independent contractor) authorized to collect, receive, account for, or otherwise handle any moneys payable to, or received by, the Department of the Interior which are derived from the sale, lease, or other disposal of any oil or gas shall be—
 
@@ -345,9 +345,9 @@ A person (including any agent or employee of the United States and any independe
 
 **(2)** in the case of an independent contractor, required as the Secretary deems necessary to maintain a bond commensurate with the amount of money for which such individual could be liable to the United States.
 
-(Pub. L. 97–451, title I, § 106, Jan. 12, 1983, 96 Stat. 2452.)
+(Pub. L. 97–451, title I, § 106, Jan. 12, 1983, 96 Stat. 2452.)
 
-### § 1717. Hearings and investigations
+### § 1717. Hearings and investigations
 
 **(a) Authorization; affidavits, oaths, subpenas, testimony, and payment of witnesses** In carrying out his duties under this chapter the Secretary may conduct any investigation or other inquiry necessary and appropriate and may conduct, after notice, any hearing or audit, necessary and appropriate to carrying out his duties under this chapter. In connection with any such hearings, inquiry, investigation, or audit, the Secretary is also authorized where reasonably necessary—
 
@@ -365,9 +365,9 @@ A person (including any agent or employee of the United States and any independe
 
 In case of refusal to obey a subpena served upon any person under this section, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General at the request of the Secretary and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary. Any failure to obey such order of the court may be punished by such court as contempt thereof and subject to a penalty of up to $10,000 a day.
 
-(Pub. L. 97–451, title I, § 107, Jan. 12, 1983, 96 Stat. 2452.)
+(Pub. L. 97–451, title I, § 107, Jan. 12, 1983, 96 Stat. 2452.)
 
-### § 1718. Inspections
+### § 1718. Inspections
 
 **(a) Motor vehicles on lease sites; vehicles not on lease site**
 
@@ -383,17 +383,17 @@ Authorized and properly identified representatives of the Secretary may without 
 
 For the purpose of making any inspection or investigation under this chapter, the Secretary shall have the same right to enter upon or travel across any lease site as the lessee or operator has acquired by purchase, condemnation, or otherwise.
 
-(Pub. L. 97–451, title I, § 108, Jan. 12, 1983, 96 Stat. 2453.)
+(Pub. L. 97–451, title I, § 108, Jan. 12, 1983, 96 Stat. 2453.)
 
-### § 1719. Civil penalties
+### § 1719. Civil penalties
 
 **(a) Failure to comply with applicable law, to permit inspection, or to notify Secretary of assignment; exceptions to application of penalty** Any person who—
 
 **(1)** after due notice of violation or after such violation has been reported under subparagraph (A), fails or refuses to comply with any requirements of this chapter or any mineral leasing law, any rule or regulation thereunder, or the terms of any lease or permit issued thereunder; or
 
-**(2)** fails to permit inspection authorized in section 1718 of this title or fails to notify the Secretary of any assignment under section 1712(a)(2) 1
+**(2)** fails to permit inspection authorized in section 1718 of this title or fails to notify the Secretary of any assignment under section 1712(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title
 
@@ -433,9 +433,9 @@ No penalty under this section shall be assessed until the person charged with a 
 
 **(f) Deduction of penalty from sums owed by United States**
 
-The amount of any penalty under this section, as finally determined 2
+The amount of any penalty under this section, as finally determined 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 may be deducted from any sums owing by the United States to the person charged.
 
@@ -445,9 +445,9 @@ On a case-by-case basis the Secretary may compromise or reduce civil penalties u
 
 **(h) Notice**
 
-Notice under this 3
+Notice under this 3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 subsection (a) shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
 
@@ -471,33 +471,33 @@ the court shall have jurisdiction to award the amount assessed plus interest fro
 
 No person shall be liable for a civil penalty under subsection (a) or (b) for failure to pay any rental for any lease automatically terminated pursuant to section 188 of this title.
 
-(Pub. L. 97–451, title I, § 109, Jan. 12, 1983, 96 Stat. 2454.)
+(Pub. L. 97–451, title I, § 109, Jan. 12, 1983, 96 Stat. 2454.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, § 6(g), Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
+Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, § 6(g), Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
 
-### § 1720. Criminal penalties
+### § 1720. Criminal penalties
 
 Any person who commits an act for which a civil penalty is provided in section 1719(d) of this title shall, upon conviction, be punished by a fine of not more than $50,000, or by imprisonment for not more than 2 years, or both.
 
-(Pub. L. 97–451, title I, § 110, Jan. 12, 1983, 96 Stat. 2455.)
+(Pub. L. 97–451, title I, § 110, Jan. 12, 1983, 96 Stat. 2455.)
 
-### § 1720a. Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf
+### § 1720a. Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf
 
-Notwithstanding any other provision of law, Sections 1
+Notwithstanding any other provision of law, Sections 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-1719 and 1720 2
+1719 and 1720 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title shall, for fiscal year 2010 and each fiscal year thereafter, apply to any lease authorizing exploration for or development of coal, any other solid mineral, or any geothermal resource on any Federal or Indian lands and any lease, easement, right of way, or other agreement, regardless of form, for use of the Outer Continental Shelf or any of its resources under sections 1337(k) and 1337(p) of title 43 to the same extent as if such lease, easement, right of way, or other agreement, regardless of form, were an oil and gas lease, except that in such cases the term “royalty payment” shall include any payment required by such lease, easement, right of way or other agreement, regardless of form, or by applicable regulation.
 
-(Pub. L. 111–88, div. A, title I, § 114, Oct. 30, 2009, 123 Stat. 2928.)
+(Pub. L. 111–88, div. A, title I, § 114, Oct. 30, 2009, 123 Stat. 2928.)
 
 **Editorial Notes**
 
@@ -509,7 +509,7 @@ Sections 1719 and 1720 of this title, referred to in text, was in the original �
 
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Oil and Gas Royalty Management Act of 1982 which comprises this chapter.
 
-### § 1721. Royalty terms and conditions, interest, and penalties
+### § 1721. Royalty terms and conditions, interest, and penalties
 
 **(a) Charge on late royalty payment or royalty payment deficiency**
 
@@ -563,13 +563,13 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. Until the Secretary issues the determination, the lessee or its designee of a lease in a unit or communitization agreement shall report and pay royalties on oil and gas production for each production month in accordance with the terms of the proposed allocation of production for the unit or communitization agreement. After the Secretary issues the determination, the lessee or its designee shall, as necessary, correct such reports and the amount of royalties paid on oil and gas production under the unit or communitization agreement by not later than the end of the third month following the month in which the lessee or its designee receives the determination from the Secretary. Subject to the full and timely monthly payment of royalties to all parties in accordance with the terms of the proposed allocation of production for the unit or communitization agreement, the Secretary shall waive interest due on obligations subject to the determination until the end of the third month following the month in which the lessee or its designee receives the determination from the Secretary. This subsection shall not apply to unit or communization agreements containing Indian lands.
 
-(Pub. L. 97–451, title I, § 111, Jan. 12, 1983, 96 Stat. 2455; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–185, § 6(a)–(e), (h)(1), Aug. 13, 1996, 110 Stat. 1712–1715; Pub. L. 104–200, § 1(3)–(6), Sept. 22, 1996, 110 Stat. 2421; Pub. L. 113–67, div. A, title III, § 305(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 113–291, div. B, title XXX, § 3021(c)(2), Dec. 19, 2014, 128 Stat. 3761; Pub. L. 114–94, div. C, title XXXII, § 32301, Dec. 4, 2015, 129 Stat. 1741; Pub. L. 118–81, § 2, Sept. 20, 2024, 138 Stat. 1520.)
+(Pub. L. 97–451, title I, § 111, Jan. 12, 1983, 96 Stat. 2455; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–185, § 6(a)–(e), (h)(1), Aug. 13, 1996, 110 Stat. 1712–1715; Pub. L. 104–200, § 1(3)–(6), Sept. 22, 1996, 110 Stat. 2421; Pub. L. 113–67, div. A, title III, § 305(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 113–291, div. B, title XXX, § 3021(c)(2), Dec. 19, 2014, 128 Stat. 3761; Pub. L. 114–94, div. C, title XXXII, § 32301, Dec. 4, 2015, 129 Stat. 1741; Pub. L. 118–81, § 2, Sept. 20, 2024, 138 Stat. 1520.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 **Codification**
 
@@ -581,33 +581,33 @@ Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 
 
 2015—Subsec. (h). Pub. L. 114–94 redesignated subsec. (j) as (h), struck out “If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment.” after “underpaid amount.”, and struck out former subsec. (h) which related to lessee or designee interest.
 
-Subsec. (i). Pub. L. 114–94, § 32301(1), (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
+Subsec. (i). Pub. L. 114–94, § 32301(1), (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
 
-Subsec. (j). Pub. L. 114–94, § 32301(2), redesignated subsec. (*l*) as (j). Former subsec. (j) redesignated (h).
+Subsec. (j). Pub. L. 114–94, § 32301(2), redesignated subsec. (*l*) as (j). Former subsec. (j) redesignated (h).
 
-Subsecs. (k), (*l*). Pub. L. 114–94, § 32301(2), redesignated subsecs. (k) and (*l*) as (i) and (j), respectively.
+Subsecs. (k), (*l*). Pub. L. 114–94, § 32301(2), redesignated subsecs. (k) and (*l*) as (i) and (j), respectively.
 
 2014—Subsec. (h). Pub. L. 113–291 substituted “a rate equal to the sum of the Federal short-term rate determined under section 6621(b) of title 26 plus 1 percentage point.” for “the rate obtained by applying the provisions of subparagraphs (A) and (B) of section 6621(a)(1) of title 26, but determined without regard to the sentence following subparagraph (B) of section 6621(a)(1).”
 
 2013—Subsec. (i). Pub. L. 113–67 inserted subsec. heading; designated first sentence as par. (1), inserted heading, and substituted “Interest shall not be paid on any excessive overpayment.” for “Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment.”; and designated second sentence as par. (2) and inserted heading.
 
-1996—Pub. L. 104–185, § 6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
+1996—Pub. L. 104–185, § 6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
 
-Subsec. (h). Pub. L. 104–185, § 6(a), added subsec. (h).
+Subsec. (h). Pub. L. 104–185, § 6(a), added subsec. (h).
 
-Subsec. (i). Pub. L. 104–200, § 1(3), inserted “not” after “receiving interest, interest shall”.
+Subsec. (i). Pub. L. 104–200, § 1(3), inserted “not” after “receiving interest, interest shall”.
 
-Pub. L. 104–185, § 6(b), added subsec. (i).
+Pub. L. 104–185, § 6(b), added subsec. (i).
 
-Subsec. (j). Pub. L. 104–200, § 1(4), (5), substituted “date royalties are due” for “rate royalties are due”, “interest is owed on the underpaid amount” for “interest is owned on the underpaid amount”, and “interest is owed on the overpayment” for “interest is owned on the overpayment”.
+Subsec. (j). Pub. L. 104–200, § 1(4), (5), substituted “date royalties are due” for “rate royalties are due”, “interest is owed on the underpaid amount” for “interest is owned on the underpaid amount”, and “interest is owed on the overpayment” for “interest is owned on the overpayment”.
 
-Pub. L. 104–185, § 6(c), added subsec. (j).
+Pub. L. 104–185, § 6(c), added subsec. (j).
 
-Subsec. (k). Pub. L. 104–185, § 6(d), added subsec. (k).
+Subsec. (k). Pub. L. 104–185, § 6(d), added subsec. (k).
 
-Subsec. (k)(4). Pub. L. 104–200, § 1(6), substituted “additional royalties due” for “additional royalties dues”.
+Subsec. (k)(4). Pub. L. 104–200, § 1(6), substituted “additional royalties due” for “additional royalties dues”.
 
-Subsec. (*l*). Pub. L. 104–185, § 6(e), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 104–185, § 6(e), added subsec. (*l*).
 
 1986—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -615,7 +615,7 @@ Subsec. (*l*). Pub. L. 104–185, § 6(e), added subsec. (*l*).
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–67, div. A, title III, § 305(b), Dec. 26, 2013, 127 Stat. 1183, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2014.”
+Pub. L. 113–67, div. A, title III, § 305(b), Dec. 26, 2013, 127 Stat. 1183, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2014.”
 
 **Effective Date of 1996 Amendment**
 
@@ -629,7 +629,7 @@ Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or
 
 Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2109, provided in part: “That in fiscal year 2005 and thereafter, notwithstanding 30 U.S.C. 191(a) and 43 U.S.C. 1338, the Secretary shall pay amounts owed to States and Indian accounts under the provisions of 30 U.S.C. 1721(b) and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act (30 U.S.C. 181 et seq.), and the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), which are not payable to a State or the Reclamation Fund.”
 
-### § 1721a. Adjustments and refunds
+### § 1721a. Adjustments and refunds
 
 **(a) Adjustments to royalties paid to Secretary or a delegated State**
 
@@ -637,9 +637,9 @@ Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by 
 
 **(2)**
 
-**(A)** For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle 1
+**(A)** For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle 1
 
-<sup>1</sup>  So in original. Probably should be “principal”.
+<sup>1</sup> So in original. Probably should be “principal”.
 
 amount of the subject obligation, except as provided by subparagraph (B).
 
@@ -673,15 +673,15 @@ A refund under this subsection shall be paid or denied (with an explanation of t
 
 In no event shall the Secretary or any delegated State directly or indirectly claim or offset any amount or amounts against, or reduce any refund or credit (or interest accrued thereon) by the amount of any obligation the enforcement of which is barred by section 1724 of this title.
 
-(Pub. L. 97–451, title I, § 111A, as added Pub. L. 104–185, § 5(a), Aug. 13, 1996, 110 Stat. 1710.)
+(Pub. L. 97–451, title I, § 111A, as added Pub. L. 104–185, § 5(a), Aug. 13, 1996, 110 Stat. 1710.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -693,7 +693,7 @@ Section applicable with respect to production of oil and gas after the first day
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 
-### § 1722. Injunction and specific enforcement authority
+### § 1722. Injunction and specific enforcement authority
 
 **(a) Civil action by Attorney General** In addition to any other remedy under this chapter or any mineral leasing law, the Attorney General of the United States or his designee may bring a civil action in a district court of the United States, which shall have jurisdiction over such actions—
 
@@ -705,15 +705,15 @@ Section not applicable to any privately owned minerals or with respect to Indian
 
 A civil action described in subsection (a) may be brought only in the United States district court for the judicial district wherein the act, omission, or transaction constituting a violation under this chapter or any other mineral leasing law occurred, or wherein the defendant is found or transacts business.
 
-(Pub. L. 97–451, title I, § 112, Jan. 12, 1983, 96 Stat. 2456.)
+(Pub. L. 97–451, title I, § 112, Jan. 12, 1983, 96 Stat. 2456.)
 
-### § 1723. Rewards
+### § 1723. Rewards
 
 Where amounts representing royalty or other payments owed to the United States with respect to any oil and gas lease on Federal lands or the Outer Continental Shelf are recovered pursuant to any action taken by the Secretary under this chapter as a result of information provided to the Secretary by any person, the Secretary is authorized to pay to such person an amount equal to not more than 10 percent of such recovered amounts. The preceding sentence shall not apply to information provided by an officer or employee of the United States, an officer or employee of a State or Indian tribe acting pursuant to a cooperative agreement or delegation under this chapter, or any person acting pursuant to a contract authorized by this chapter.
 
-(Pub. L. 97–451, title I, § 113, Jan. 12, 1983, 96 Stat. 2456.)
+(Pub. L. 97–451, title I, § 113, Jan. 12, 1983, 96 Stat. 2456.)
 
-### § 1724. Secretarial and delegated States’ actions and limitation periods
+### § 1724. Secretarial and delegated States’ actions and limitation periods
 
 **(a) In general**
 
@@ -843,13 +843,13 @@ In the event a judicial proceeding or demand subject to this section is timely c
 
 Any person ordered by the Secretary or a delegated State to pay any obligation (other than an assessment) shall be entitled to a stay of such payment without bond or other surety instrument pending an administrative or judicial proceeding if the person periodically demonstrates to the satisfaction of the Secretary that such person is financially solvent or otherwise able to pay the obligation. In the event the person is not able to so demonstrate, the Secretary may require a bond or other surety instrument satisfactory to cover the obligation. Any person ordered by the Secretary or a delegated State to pay an assessment shall be entitled to a stay without bond or other surety instrument.
 
-(Pub. L. 97–451, title I, § 115, as added Pub. L. 104–185, § 4(a), Aug. 13, 1996, 110 Stat. 1704; amended Pub. L. 104–200, § 1(2), Sept. 22, 1996, 110 Stat. 2421.)
+(Pub. L. 97–451, title I, § 115, as added Pub. L. 104–185, § 4(a), Aug. 13, 1996, 110 Stat. 1704; amended Pub. L. 104–200, § 1(2), Sept. 22, 1996, 110 Stat. 2421.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 104–185, § 4(a), which directed the addition of this section after section 114 of the Federal Oil and Gas Royalty Management Act of 1982, Pub. L. 97–451, was executed by adding this section after section 113 to reflect the probable intent of Congress because Pub. L. 97–451 did not contain a section 114.
+Pub. L. 104–185, § 4(a), which directed the addition of this section after section 114 of the Federal Oil and Gas Royalty Management Act of 1982, Pub. L. 97–451, was executed by adding this section after section 113 to reflect the probable intent of Congress because Pub. L. 97–451 did not contain a section 114.
 
 **Amendments**
 
@@ -865,17 +865,17 @@ Section applicable with respect to production of oil and gas after the first day
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 
-### § 1725. Assessments
+### § 1725. Assessments
 
 Beginning eighteen months after August 13, 1996, to encourage proper royalty payment the Secretary or the delegated State shall impose assessments on a person who chronically submits erroneous reports under this chapter. Assessments under this chapter may only be issued as provided for in this section.
 
-(Pub. L. 97–451, title I, § 116, as added Pub. L. 104–185, § 6(f)(1), Aug. 13, 1996, 110 Stat. 1714.)
+(Pub. L. 97–451, title I, § 116, as added Pub. L. 104–185, § 6(f)(1), Aug. 13, 1996, 110 Stat. 1714.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 104–185, § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
+Pub. L. 104–185, § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -887,7 +887,7 @@ Section applicable with respect to production of oil and gas after the first day
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 
-### § 1726. Alternatives for marginal properties
+### § 1726. Alternatives for marginal properties
 
 **(a) Determination of best interests of State concerned and United States**
 
@@ -915,17 +915,17 @@ Except as may be provided in the terms and conditions established by the Secreta
 
 Within one year after August 13, 1996, the Secretary or the delegated State shall provide accounting, reporting, and auditing relief that will encourage lessees to continue to produce and develop properties subject to subsection (a): *Provided*, That such relief will only be available to lessees in a State that concurs, which concurrence is not required if royalty payments from the lease or leases or well or wells are not shared with any State. Prior to granting such relief, the Secretary and, if appropriate, the State concerned shall agree that the type of marginal wells and relief provided under this paragraph is in the best interest of the United States and, if appropriate, the State concerned.
 
-(Pub. L. 97–451, title I, § 117, as added Pub. L. 104–185, § 7(a), Aug. 13, 1996, 110 Stat. 1715; amended Pub. L. 104–200, § 1(7), Sept. 22, 1996, 110 Stat. 2421.)
+(Pub. L. 97–451, title I, § 117, as added Pub. L. 104–185, § 7(a), Aug. 13, 1996, 110 Stat. 1715; amended Pub. L. 104–200, § 1(7), Sept. 22, 1996, 110 Stat. 2421.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 104–185, § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
+Pub. L. 104–185, § 4(a), which directed the addition of this section at the end of the Federal Oil and Gas Royalty Management Act of 1982, was executed by adding this section at the end of title I of that Act to reflect the probable intent of Congress.
 
 **Amendments**
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–200, § 1(7), substituted “its designee” for “it designee”.
+1996—Subsec. (b)(1)(C). Pub. L. 104–200, § 1(7), substituted “its designee” for “it designee”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -937,19 +937,19 @@ Section applicable with respect to production of oil and gas after the first day
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
 
-### § 1727. Repealed. Pub. L. 119–21, title V, § 50103, July 4, 2025, 139 Stat. 142
+### § 1727. Repealed. Pub. L. 119–21, title V, § 50103, July 4, 2025, 139 Stat. 142
 
-Section, Pub. L. 117–169, title V, § 50263, Aug. 16, 2022, 136 Stat. 2058, provided for royalties on extracted methane.
+Section, Pub. L. 117–169, title V, § 50263, Aug. 16, 2022, 136 Stat. 2058, provided for royalties on extracted methane.
 
 ## SUBCHAPTER II—STATES AND INDIAN TRIBES
 
-### § 1731. Application of subchapter
+### § 1731. Application of subchapter
 
 This subchapter shall apply only with respect to oil and gas leases on Federal lands or Indian lands. Nothing in this subchapter shall be construed to apply to any lease on the Outer Continental Shelf.
 
-(Pub. L. 97–451, title II, § 201, Jan. 12, 1983, 96 Stat. 2457.)
+(Pub. L. 97–451, title II, § 201, Jan. 12, 1983, 96 Stat. 2457.)
 
-### § 1731a. Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States
+### § 1731a. Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States
 
 For fiscal year 1990 and each fiscal year thereafter, notwithstanding the provisions of section 1731 of this title, sections 1732 through 1736 of this title shall apply to any lease or portion of a lease subject to section 1337(g) of title 43, which, for purposes of those provisions and for no other purposes, shall be regarded as within the coastal State or States entitled to receive revenues from it under section 1337(g) of title 43.
 
@@ -967,7 +967,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 Similar provisions were contained in Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1791.
 
-### § 1732. Cooperative agreements
+### § 1732. Cooperative agreements
 
 **(a) Authorization of Secretary; permission of Indian tribe required for activities on Indian lands**
 
@@ -985,21 +985,21 @@ Information shall be made available under paragraphs (1) and (2) as soon as prac
 
 Any cooperative agreement entered into pursuant to this section shall be in accordance with the provisions of chapter 63 of title 31, and shall contain such terms and conditions as the Secretary deems appropriate and consistent with the purposes of this chapter, including, but not limited to, a limitation on the use of Federal assistance to those costs which are directly required to carry out the agreed upon activities.
 
-(Pub. L. 97–451, title II, § 202, Jan. 12, 1983, 96 Stat. 2457.)
+(Pub. L. 97–451, title II, § 202, Jan. 12, 1983, 96 Stat. 2457.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which Act enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which Act enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability**
 
-Pub. L. 104–185, § 8(a), Aug. 13, 1996, 110 Stat. 1717, provided that: “With respect to Federal lands, sections 202 and 307 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1732 and 1755), are no longer applicable. The applicability of those sections to Indian leases is not affected.”
+Pub. L. 104–185, § 8(a), Aug. 13, 1996, 110 Stat. 1717, provided that: “With respect to Federal lands, sections 202 and 307 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1732 and 1755), are no longer applicable. The applicability of those sections to Indian leases is not affected.”
 
-### § 1733. Information
+### § 1733. Information
 
 **(a) Availability of confidential information by Secretary pursuant to cooperative agreements; conditions** Trade secrets, proprietary and other confidential information shall be made available by the Secretary, pursuant to a cooperative agreement, to a State or Indian tribe upon request only if—
 
@@ -1019,9 +1019,9 @@ The United States shall not be liable for the wrongful disclosure by any individ
 
 Whenever any individual, State, or Indian tribe has obtained possession of information pursuant to a cooperative agreement authorized by this section, or any individual or State has obtained possession of information pursuant to a delegation under section 1735 of this title, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State or Indian tribe shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under this chapter may be required to disclose such information under State law.
 
-(Pub. L. 97–451, title II, § 203, Jan. 12, 1983, 96 Stat. 2458.)
+(Pub. L. 97–451, title II, § 203, Jan. 12, 1983, 96 Stat. 2458.)
 
-### § 1734. State suits under Federal law
+### § 1734. State suits under Federal law
 
 **(a) Action for royalty, interest, or civil penalty; limitations; notice of suit; award of costs and fees**
 
@@ -1049,9 +1049,9 @@ An action brought under subsection (a) of this section may be brought only in a 
 
 **(2)** Any rent, royalty, or interest recovered by a State under subsection (a) shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.
 
-(Pub. L. 97–451, title II, § 204, Jan. 12, 1983, 96 Stat. 2458.)
+(Pub. L. 97–451, title II, § 204, Jan. 12, 1983, 96 Stat. 2458.)
 
-### § 1735. Delegation of royalty collections and related activities
+### § 1735. Delegation of royalty collections and related activities
 
 **(a) Authorization of Secretary** Upon written request of any State, the Secretary is authorized to delegate, in accordance with the provisions of this section, all or part of the authorities and responsibilities of the Secretary under this chapter to:
 
@@ -1117,7 +1117,7 @@ If, after notice and opportunity for a hearing, the Secretary finds that any Sta
 
 Subject to appropriations, the Secretary shall compensate any State for those costs which may be necessary to carry out the delegated activities under this Section.1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 Payment shall be made no less than every quarter during the fiscal year. Compensation to a State may not exceed the Secretary’s reasonably anticipated expenditure for performance of such delegated activities by the Secretary. Such costs shall be allocable for the purposes of section 191(b) of this title to the administration and enforcement of laws providing for the leasing of any onshore lands or interests in land owned by the United States. Any further allocation of costs under section 191(b) of this title made by the Secretary for oil and gas activities, other than those costs to compensate States for delegated activities under this chapter, shall be only those costs associated with onshore oil and gas activities and may not include any duplication of costs allocated pursuant to the previous sentence. Nothing in this section affects the Secretary’s authority to make allocations under section 191(b) of this title for non-oil and gas mineral activities. All moneys received from sales, bonuses, rentals, royalties, assessments and interest, including money claimed to be due and owing pursuant to a delegation under this section, shall be payable and paid to the Treasury of the United States.
 
@@ -1129,7 +1129,7 @@ Any action of the Secretary to approve or disapprove a proposal submitted by a S
 
 Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of the delegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
 
-(Pub. L. 97–451, title II, § 205, Jan. 12, 1983, 96 Stat. 2459; Pub. L. 104–185, § 3(a), Aug. 13, 1996, 110 Stat. 1702.)
+(Pub. L. 97–451, title II, § 205, Jan. 12, 1983, 96 Stat. 2459; Pub. L. 104–185, § 3(a), Aug. 13, 1996, 110 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -1153,11 +1153,11 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
-### § 1736. Shared civil penalties
+### § 1736. Shared civil penalties
 
 An amount equal to 50 per centum of any civil penalty collected by the Federal Government under this chapter resulting from activities conducted by a State or Indian tribe pursuant to a cooperative agreement under section 1732 of this title or a State under a delegation under section 1735 of this title, shall be payable to such State or tribe. Any payments under this section shall be reduced by an amount equal to any payments provided or due to such State or Indian tribe under the cooperative agreement or delegation, as applicable, during the fiscal year in which the civil penalty is received, up to the total amount provided or due for that fiscal year.
 
-(Pub. L. 97–451, title II, § 206, Jan. 12, 1983, 96 Stat. 2460; Pub. L. 113–76, div. G, title I, § 121, Jan. 17, 2014, 128 Stat. 314.)
+(Pub. L. 97–451, title II, § 206, Jan. 12, 1983, 96 Stat. 2460; Pub. L. 113–76, div. G, title I, § 121, Jan. 17, 2014, 128 Stat. 314.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ An amount equal to 50 per centum of any civil penalty collected by the Federal G
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
-### § 1751. Secretarial authority
+### § 1751. Secretarial authority
 
 **(a) Prescription of rules and regulations**
 
@@ -1181,13 +1181,13 @@ Rules and regulations issued to implement this chapter shall be issued in confor
 
 In addition to entering into cooperative agreements or delegation of authority authorized under this chapter, the Secretary may contract with such non-Federal Government inspectors, auditors, and other persons as he deems necessary to aid in carrying out his functions under this chapter and its implementation. With respect to his auditing and enforcement functions under this chapter, the Secretary shall coordinate such functions so as to avoid to the maximum extent practicable, subjecting lessees, operators, or other persons to audits or investigations of the same subject matter by more than one auditing or investigating entity at the same time.
 
-(Pub. L. 97–451, title III, § 301, Jan. 12, 1983, 96 Stat. 2460.)
+(Pub. L. 97–451, title III, § 301, Jan. 12, 1983, 96 Stat. 2460.)
 
-### § 1752. Reports
+### § 1752. Reports
 
 The Secretary shall submit to the Congress an annual report on the implementation of this chapter. The information to be included in the report and the format of the report shall be developed by the Secretary after consulting with the Committees on Natural Resources of the House of Representatives and on Energy and Natural Resources of the Senate. The Secretary shall also report on the progress of the Department in reconciling account balances.
 
-(Pub. L. 97–451, title III, § 302, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 103–437, § 11(a)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–362, title IX, § 901(j)(1), Nov. 10, 1998, 112 Stat. 3290.)
+(Pub. L. 97–451, title III, § 302, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 103–437, § 11(a)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–362, title IX, § 901(j)(1), Nov. 10, 1998, 112 Stat. 3290.)
 
 **Editorial Notes**
 
@@ -1205,9 +1205,9 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands**
 
-Pub. L. 97–451, title III, § 303, Jan. 12, 1983, 96 Stat. 2461, directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
+Pub. L. 97–451, title III, § 303, Jan. 12, 1983, 96 Stat. 2461, directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
 
-### § 1753. Relation to other laws
+### § 1753. Relation to other laws
 
 **(a) Supplemental nature of chapter**
 
@@ -1225,7 +1225,7 @@ Nothing in this chapter shall be construed to enlarge, diminish, or otherwise af
 
 No provision of this chapter impairs or affects lands and interests in land entrusted to the Tennessee Valley Authority.
 
-(Pub. L. 97–451, title III, § 304, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 105–362, title IX, § 901(j)(2), Nov. 10, 1998, 112 Stat. 3290.)
+(Pub. L. 97–451, title III, § 304, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 105–362, title IX, § 901(j)(2), Nov. 10, 1998, 112 Stat. 3290.)
 
 **Editorial Notes**
 
@@ -1233,17 +1233,17 @@ No provision of this chapter impairs or affects lands and interests in land entr
 
 1998—Subsec. (c). Pub. L. 105–362 substituted “Nothing” for “Except as expressly provided in section 1752(b) of this title, nothing”.
 
-### § 1754. Funding
+### § 1754. Funding
 
 Effective October 1, 1983, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, including such sums as may be necessary for the cooperative agreements, contracts, and delegations authorized by this chapter: *Provided*, That nothing in this chapter shall be construed to affect or impair any authority to enter into contracts or make payments under any other provision of law.
 
-(Pub. L. 97–451, title III, § 306, Jan. 12, 1983, 96 Stat. 2462.)
+(Pub. L. 97–451, title III, § 306, Jan. 12, 1983, 96 Stat. 2462.)
 
-### § 1755. Statute of limitations
+### § 1755. Statute of limitations
 
 Except in the case of fraud, any action to recover penalties under this chapter shall be barred unless the action is commenced within 6 years after the date of the act or omission which is the basis for the action.
 
-(Pub. L. 97–451, title III, § 307, Jan. 12, 1983, 96 Stat. 2462.)
+(Pub. L. 97–451, title III, § 307, Jan. 12, 1983, 96 Stat. 2462.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1251,19 +1251,19 @@ Except in the case of fraud, any action to recover penalties under this chapter 
 
 Section no longer applicable with respect to Federal lands, but applicability of section to Indian leases not affected, see section 8(a) of Pub. L. 104–185, set out as a note under section 1732 of this title.
 
-### § 1756. Expanded royalty obligations
+### § 1756. Expanded royalty obligations
 
 Any lessee is liable for royalty payments on oil or gas lost or wasted from a lease site when such loss or waste is due to negligence on the part of the operator of the lease, or due to the failure to comply with any rule or regulation, order or citation issued under this chapter or any mineral leasing law.
 
-(Pub. L. 97–451, title III, § 308, Jan. 12, 1983, 96 Stat. 2462.)
+(Pub. L. 97–451, title III, § 308, Jan. 12, 1983, 96 Stat. 2462.)
 
-### § 1757. Severability
+### § 1757. Severability
 
 If any provision of this chapter or the applicability thereof to any person or circumstances is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-(Pub. L. 97–451, title III, § 309, Jan. 12, 1983, 96 Stat. 2462.)
+(Pub. L. 97–451, title III, § 309, Jan. 12, 1983, 96 Stat. 2462.)
 
-### § 1758. Use of royalty-in-kind revenue by Minerals Management Service
+### § 1758. Use of royalty-in-kind revenue by Minerals Management Service
 
 That in fiscal year 2006 and thereafter, the MMS may under the royalty-in-kind program, or under its authority to transfer oil to the Strategic Petroleum Reserve, use a portion of the revenues from royalty-in-kind sales, without regard to fiscal year limitation, to pay for transportation to wholesale market centers or upstream pooling points, to process or otherwise dispose of royalty production taken in kind, and to recover MMS transportation costs, salaries, and other administrative costs directly related to the royalty-in-kind program.
 
@@ -1301,7 +1301,7 @@ Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 932.
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
-### § 1759. Fees and charges
+### § 1759. Fees and charges
 
 In fiscal year 2009 and each fiscal year thereafter, fees and charges authorized by section 9701 of title 31 may be collected only to the extent provided in advance in appropriations Acts.
 

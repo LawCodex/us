@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2001—SOCIETY OF AMERICAN FLORISTS AND ORNAMENTAL HORTICULTURISTS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2001—SOCIETY OF AMERICAN FLORISTS AND ORNAMENTAL HORTICULTURISTS"
 identifier: "/us/usc/t36/stII/ptB/ch2001"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2001—SOCIETY OF AMERICAN FLORISTS AND ORNAMENTAL HORTICULTURISTS
 
-## § 200101. Organization
+## § 200101. Organization
 
 Society of American Florists and Ornamental Horticulturists (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -25,11 +25,11 @@ Society of American Florists and Ornamental Horticulturists (in this chapter, th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 200101 | 36:5401 (1st sentence words before “for the education of the general public”). | Mar. 3, 1901, ch. 876, § 1 (1st sentence words before “for the education of the general public”), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
+| 200101 | 36:5401 (1st sentence words before “for the education of the general public”). | Mar. 3, 1901, ch. 876, § 1 (1st sentence words before “for the education of the general public”), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
 
 This section is substituted for the source provision to eliminate executed and unnecessary words.
 
-## § 200102. Purposes
+## § 200102. Purposes
 
 The purposes of the corporation are to educate members of the florist industry and the public, and to promote scientific development, in floriculture and horticulture.
 
@@ -39,11 +39,11 @@ The purposes of the corporation are to educate members of the florist industry a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 200102 | 36:5401 (1st sentence words beginning with “for the education of the general public”). | Mar. 3, 1901, ch. 876, § 1 (1st sentence words beginning with “for the education of the general public”), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
+| 200102 | 36:5401 (1st sentence words beginning with “for the education of the general public”). | Mar. 3, 1901, ch. 876, § 1 (1st sentence words beginning with “for the education of the general public”), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
 
 The words “The purposes of the corporation are” are added for consistency in the revised title. The words “to promote” are added for clarity. The words “in all their branches” are omitted as unnecessary.
 
-## § 200103. Powers
+## § 200103. Powers
 
 The corporation may—
 
@@ -61,13 +61,13 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 200103 | 36:5401 (2d sentence words before proviso). | Mar. 3, 1901, ch. 876, § 1 (2d sentence words before proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
+| 200103 | 36:5401 (2d sentence words before proviso). | Mar. 3, 1901, ch. 876, § 1 (2d sentence words before proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
 
 In clause (1), the words “not inconsistent with law” are omitted as unnecessary. The words “for the management of its property and the regulation of its affairs” are added for consistency in the revised title.
 
 In clause (2), subclause (A), the words “hold property” are substituted for “hold real and personal estate”, and the words “necessary to carry out the purposes of the corporation” are substituted for “so far only as may be necessary to its lawful ends”, for consistency in the revised title and to eliminate unnecessary words. In subclause (B), the word “hold” is added for clarity. The words “other property” are substituted for “such other estate” for consistency in the revised title. The words “of the United States” are added for clarity and for consistency in the revised title.
 
-## § 200104. Restrictions
+## § 200104. Restrictions
 
 **(a) Profit.—** The corporation may not operate for profit.
 
@@ -83,7 +83,7 @@ In clause (2), subclause (A), the words “hold property” are substituted for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 200104(a) | 36:5401 (3d sentence words before “and any earnings”). | Mar. 3, 1901, ch. 876, § 1 (2d sentence proviso, 3d sentence, last sentence proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
+| 200104(a) | 36:5401 (3d sentence words before “and any earnings”). | Mar. 3, 1901, ch. 876, § 1 (2d sentence proviso, 3d sentence, last sentence proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
 | 200104(b) | 36:5401 (3d sentence words beginning with “and any earnings”). |  |
 | 200104(c) | 36:5401 (2d sentence proviso). |  |
 | 200104(d) | 36:5401 (last sentence proviso). |  |
@@ -94,7 +94,7 @@ In subsection (c), the words “Property held by the corporation” are substitu
 
 In subsection (d), the words “District of Columbia” are substituted for “city of Washington” for consistency in the revised title.
 
-## § 200105. Principal office
+## § 200105. Principal office
 
 The principal office of the corporation shall be located in the District of Columbia. However, annual meetings may be held wherever the corporation decides.
 
@@ -104,11 +104,11 @@ The principal office of the corporation shall be located in the District of Colu
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 200105 | 36:5401 (last sentence words before proviso). | Mar. 3, 1901, ch. 876, § 1 (last sentence words before proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
+| 200105 | 36:5401 (last sentence words before proviso). | Mar. 3, 1901, ch. 876, § 1 (last sentence words before proviso), 31 Stat. 1453; June 29, 1938, ch. 796, 52 Stat. 1226. |
 
 The words “wherever the corporation decides” are substituted for “such other places as the incorporators or their successors shall determine” for consistency in the revised title.
 
-## § 200106. Nonapplication of audit requirements
+## § 200106. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 

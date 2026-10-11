@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 367 “OTHER ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS”, consisting of reserved section 4751, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1864(a), Jan. 1, 2021, 134 Stat. 4279.
+A prior chapter 367 “OTHER ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS”, consisting of reserved section 4751, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1864(a), Jan. 1, 2021, 134 Stat. 4279.
 
 Another prior chapter 367 was renumbered chapter 741 of this title.
 
@@ -27,7 +27,7 @@ Another prior chapter 367 was renumbered chapter 741 of this title.
 
 **Pilot Program on Enhancing Information Sharing for Security of Supply Chain**
 
-Pub. L. 115–91, div. A, title XVI, § 1696, Dec. 12, 2017, 131 Stat. 1793, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1696, Dec. 12, 2017, 131 Stat. 1793, provided that:
 
 > **“(a) Establishment.—** Not later than June 1, 2019, the Secretary of Defense shall establish a pilot program to enhance information sharing with cleared defense contractors to ensure all source information is appropriately, singularly, and exclusively shared for the purpose of ensuring the security or integrity of the supply chain of covered programs.
 
@@ -57,7 +57,7 @@ Pub. L. 115–91, div. A, title XVI, § 1696, Dec. 12, 2017, 131 Stat. 1793, p
 
 **Establishment of Panel on Department of Defense and AbilityOne Contracting Oversight, Accountability, and Integrity; Defense Acquisition University Training**
 
-Pub. L. 114–328, div. A, title VIII, § 898, Dec. 23, 2016, 130 Stat. 2327, as amended by Pub. L. 116–92, div. A, title IX, § 902(32), Dec. 20, 2019, 133 Stat. 1546, provided that:
+Pub. L. 114–328, div. A, title VIII, § 898, Dec. 23, 2016, 130 Stat. 2327, as amended by Pub. L. 116–92, div. A, title IX, § 902(32), Dec. 20, 2019, 133 Stat. 1546, provided that:
 
 > **“(a) Establishment of Panel on Department of Defense and AbilityOne Contracting Oversight, Accountability, and Integrity.—**
 
@@ -211,9 +211,9 @@ Pub. L. 114–328, div. A, title VIII, § 898, Dec. 23, 2016, 130 Stat. 2327, 
 
 **Mitigating Potential Unfair Competitive Advantage of Technical Advisors to Acquisition Programs**
 
-Pub. L. 114–92, div. A, title VIII, § 895, Nov. 25, 2015, 129 Stat. 954, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall review, and as necessary revise or issue, policy guidance pertaining to the identification, mitigation, and prevention of potential unfair competitive advantage conferred to technical advisors to acquisition programs.”
+Pub. L. 114–92, div. A, title VIII, § 895, Nov. 25, 2015, 129 Stat. 954, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall review, and as necessary revise or issue, policy guidance pertaining to the identification, mitigation, and prevention of potential unfair competitive advantage conferred to technical advisors to acquisition programs.”
 
-## § 4751. Determinations and decisions
+## § 4751. Determinations and decisions
 
 **(a) Individual or Class Determinations and Decisions Authorized.—** Determinations and decisions required to be made under any chapter 137 legacy provision by the head of an agency may be made for an individual purchase or contract or, except to the extent expressly prohibited by another provision of law, for a class of purchases or contracts. Such determinations and decisions are final.
 
@@ -223,15 +223,15 @@ Pub. L. 114–92, div. A, title VIII, § 895, Nov. 25, 2015, 129 Stat. 954, pr
 
 **(2)** Each finding referred to in paragraph (1) is final. The head of the agency making such finding shall maintain a copy of the finding for not less than 6 years after the date of the determination or decision.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2310; Pub. L. 85–800, § 10, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, § 1(f), Sept. 10, 1962, 76 Stat. 529; Pub. L. 89–607, § 1(1), Sept. 27, 1966, 80 Stat. 850; Pub. L. 90–378, § 2, July 5, 1968, 82 Stat. 290; Pub. L. 98–369, div. B, title VII, § 2725, July 18, 1984, 98 Stat. 1193; Pub. L. 99–145, title XIII, § 1303(a)(16), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, § 1504, Oct. 13, 1994, 108 Stat. 3297; renumbered § 4751 and amended Pub. L. 116–283, div. A, title XVIII, § 1864(b), (c), Jan. 1, 2021, 134 Stat. 4279.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2310; Pub. L. 85–800, § 10, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, § 1(f), Sept. 10, 1962, 76 Stat. 529; Pub. L. 89–607, § 1(1), Sept. 27, 1966, 80 Stat. 850; Pub. L. 90–378, § 2, July 5, 1968, 82 Stat. 290; Pub. L. 98–369, div. B, title VII, § 2725, July 18, 1984, 98 Stat. 1193; Pub. L. 99–145, title XIII, § 1303(a)(16), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, § 1504, Oct. 13, 1994, 108 Stat. 3297; renumbered § 4751 and amended Pub. L. 116–283, div. A, title XVIII, § 1864(b), (c), Jan. 1, 2021, 134 Stat. 4279.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2310(a) 2310(b) | 41:156(a) (1st sentence). 41:156(c). | Feb. 19, 1948, ch. 65, § 7(a) (1st sentence), (c), 62 Stat. 24. |
+| 2310(a) 2310(b) | 41:156(a) (1st sentence). 41:156(c). | Feb. 19, 1948, ch. 65, § 7(a) (1st sentence), (c), 62 Stat. 24. |
 
-In subsection (a), the words “required \* \* \* under” are substituted for the words “provided in”.
+In subsection (a), the words “required \* \* \* under” are substituted for the words “provided in”.
 
 In subsection (b), the word “person” is substituted for the word “official”. The words “to which it applies” are inserted for clarity.
 
@@ -239,11 +239,11 @@ In subsection (b), the word “person” is substituted for the word “official
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1864(b), renumbered section 2310 of this title as this section.
+2021—Pub. L. 116–283, § 1864(b), renumbered section 2310 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1864(c)(1), substituted “made under any chapter 137 legacy provision” for “made under this chapter”.
+Subsec. (a). Pub. L. 116–283, § 1864(c)(1), substituted “made under any chapter 137 legacy provision” for “made under this chapter”.
 
-Subsec. (b). Pub. L. 116–283, § 1864(c)(2), substituted “section 3531(a), 3803, or 3841(c)(2)(B)” for “section 2306(g)(1), 2307(d), or 2313(c)(2)(B)”.
+Subsec. (b). Pub. L. 116–283, § 1864(c)(2), substituted “section 3531(a), 3803, or 3841(c)(2)(B)” for “section 2306(g)(1), 2307(d), or 2313(c)(2)(B)”.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment, section read as follows:
 
@@ -263,9 +263,9 @@ Such a finding is final and shall be kept available in the agency for at least s
 
 1985—Subsec. (a). Pub. L. 99–145 inserted “this” after “2305 of”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 2725(1), inserted “, except for determinations and decisions under section 2304 or 2305 of title,” and “, including a determination or decision under section 2304 or 2305 of this title,”.
+1984—Subsec. (a). Pub. L. 98–369, § 2725(1), inserted “, except for determinations and decisions under section 2304 or 2305 of title,” and “, including a determination or decision under section 2304 or 2305 of this title,”.
 
-Subsec. (b). Pub. L. 98–369, § 2725(2), amended subsec. (b) generally, striking out requirement that determinations to negotiate contracts be based on written findings by the contracting officers making the determinations.
+Subsec. (b). Pub. L. 98–369, § 2725(2), amended subsec. (b) generally, striking out requirement that determinations to negotiate contracts be based on written findings by the contracting officers making the determinations.
 
 1968—Subsec. (b). Pub. L. 90–378 inserted “section 2306 (g)(1),” after “clauses (11)–(16) of section 2304(a), section 2306(c),”, and “(3) support the findings required by section 2306(g)(1),” after “kind or quality required except under such a contract,”, and redesignated former cls. (3) to (5) as (4) to (6), respectively.
 
@@ -287,7 +287,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. B, title VII, § 2751, July 18, 1984, 98 Stat. 1203, provided that:
+Pub. L. 98–369, div. B, title VII, § 2751, July 18, 1984, 98 Stat. 1203, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this title [see Tables for classification] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985.
 
@@ -297,17 +297,17 @@ Pub. L. 98–369, div. B, title VII, § 2751, July 18, 1984, 98 Stat. 1203, pr
 
 For effective date of amendment by Pub. L. 87–653, see section 1(h) of Pub. L. 87–653, set out as a note under section 3065 of this title.
 
-## § 4752. Remission of liquidated damages
+## § 4752. Remission of liquidated damages
 
 Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2312; Pub. L. 104–316, title II, § 202(c), Oct. 19, 1996, 110 Stat. 3842; renumbered § 4752, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2312; Pub. L. 104–316, title II, § 202(c), Oct. 19, 1996, 110 Stat. 3842; renumbered § 4752, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2312 | 41:155. | Feb. 19, 1948, ch. 65, § 6, 62 Stat. 24. |
+| 2312 | 41:155. | Feb. 19, 1948, ch. 65, § 6, 62 Stat. 24. |
 
 The words “a contract, made by that agency, that provides for” are substituted for the words “any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision”.
 
@@ -325,7 +325,7 @@ The words “a contract, made by that agency, that provides for” are substitut
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4753. Supplies: identification of supplier and sources
+## § 4753. Supplies: identification of supplier and sources
 
 **(a)** The Secretary of Defense shall require that the contractor under a contract with the Department of Defense for the furnishing of supplies to the United States shall mark or otherwise identify supplies furnished under the contract with the identity of the contractor, the national stock number for the supplies furnished (if there is such a number), and the contractor’s identification number for the supplies.
 
@@ -345,7 +345,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(c)** Identification of supplies and technical data under this section shall be made in the manner and with respect to the supplies prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 137, § 2384; Pub. L. 98–525, title XII, § 1231(a), Oct. 19, 1984, 98 Stat. 2599; Pub. L. 99–500, § 101(c) [title X, § 928(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, and Pub. L. 99–591, § 101(c) [title X, § 928(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156; Pub. L. 99–661, div. A, title IX, formerly title IV, § 928(a), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title IV, § 4102(d), title VIII, § 8105(b), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(12), Feb. 10, 1996, 110 Stat. 672; Pub. L. 111–350, § 5(b)(23), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(2), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4753, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 137, § 2384; Pub. L. 98–525, title XII, § 1231(a), Oct. 19, 1984, 98 Stat. 2599; Pub. L. 99–500, § 101(c) [title X, § 928(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, and Pub. L. 99–591, § 101(c) [title X, § 928(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156; Pub. L. 99–661, div. A, title IX, formerly title IV, § 928(a), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title IV, § 4102(d), title VIII, § 8105(b), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(12), Feb. 10, 1996, 110 Stat. 672; Pub. L. 111–350, § 5(b)(23), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(e)(2), Aug. 13, 2018, 132 Stat. 1869; renumbered § 4753, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
 
 **Historical and Revision Notes**
 
@@ -367,21 +367,21 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2018—Subsec. (b)(2). Pub. L. 115–232 substituted “commercial products” for “commercial items”.
 
-2011—Subsec. (b)(2). Pub. L. 111–350, § 5(b)(23)(A), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
+2011—Subsec. (b)(2). Pub. L. 111–350, § 5(b)(23)(A), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
 
-Subsec. (b)(3). Pub. L. 111–350, § 5(b)(23)(B), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+Subsec. (b)(3). Pub. L. 111–350, § 5(b)(23)(B), substituted “section 134 of title 41)” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
 
-1996—Subsec. (b)(2). Pub. L. 104–106, § 4321(b)(12)(A), substituted “items (as” for “items, as” and inserted a closing parenthesis after “403(12))”.
+1996—Subsec. (b)(2). Pub. L. 104–106, § 4321(b)(12)(A), substituted “items (as” for “items, as” and inserted a closing parenthesis after “403(12))”.
 
-Subsec. (b)(3). Pub. L. 104–106, § 4321(b)(12)(B), inserted a closing parenthesis after “403(11))”.
+Subsec. (b)(3). Pub. L. 104–106, § 4321(b)(12)(B), inserted a closing parenthesis after “403(11))”.
 
-1994—Subsec. (b)(2). Pub. L. 103–355, § 8105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) does not apply to a contract that requires the delivery of supplies that are commercial items sold in substantial quantities to the general public if the contract—
+1994—Subsec. (b)(2). Pub. L. 103–355, § 8105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) does not apply to a contract that requires the delivery of supplies that are commercial items sold in substantial quantities to the general public if the contract—
 
 “(A) provides for the acquisition of such supplies by the Department of Defense at established catalog or market prices; or
 
 “(B) is awarded through the use of competitive procedures.”
 
-Subsec. (b)(3). Pub. L. 103–355, § 4102(d), added par. (3).
+Subsec. (b)(3). Pub. L. 103–355, § 4102(d), added par. (3).
 
 1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (b) identically, designating existing provision as par. (1), redesignating former pars. (1) to (3) as subpars. (A) to (C), respectively, and inserting in provision preceding subpar. (A) “(other than a contract described in paragraph (2))”, and adding par. (2).
 
@@ -407,13 +407,13 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–500, § 101(c) [title X, § 928(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, § 101(c) [title X, § 928(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, § 928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 18, 1986].”
+Pub. L. 99–500, § 101(c) [title X, § 928(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, § 101(c) [title X, § 928(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, § 928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 18, 1986].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title XII, § 1231(b), Oct. 19, 1984, 98 Stat. 2600, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the one-year period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
+Pub. L. 98–525, title XII, § 1231(b), Oct. 19, 1984, 98 Stat. 2600, provided that: “The amendment made by subsection (a) [amending this section] shall take effect at the end of the one-year period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
 
-## § 4754. Management of purchase cards
+## § 4754. Management of purchase cards
 
 **(a) Management of Purchase Cards.—** The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
 
@@ -477,7 +477,7 @@ Pub. L. 98–525, title XII, § 1231(b), Oct. 19, 1984, 98 Stat. 2600, provide
 
 **(2)** provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 
-(Added Pub. L. 106–65, div. A, title IX, § 933(a)(1), Oct. 5, 1999, 113 Stat. 728, § 2784; amended Pub. L. 107–314, div. A, title X, § 1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, [div. A], title X, § 1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, § 2(b), Oct. 5, 2012, 126 Stat. 1447; renumbered § 4754, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
+(Added Pub. L. 106–65, div. A, title IX, § 933(a)(1), Oct. 5, 1999, 113 Stat. 728, § 2784; amended Pub. L. 107–314, div. A, title X, § 1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, [div. A], title X, § 1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, § 2(b), Oct. 5, 2012, 126 Stat. 1447; renumbered § 4754, Pub. L. 116–283, div. A, title XVIII, § 1864(b), Jan. 1, 2021, 134 Stat. 4279.)
 
 **Editorial Notes**
 
@@ -485,15 +485,15 @@ Pub. L. 98–525, title XII, § 1231(b), Oct. 19, 1984, 98 Stat. 2600, provide
 
 Prior sections 4771 and 4772 were renumbered sections 7771 and 7772 of this title, respectively.
 
-A prior section 4774, acts Aug. 10, 1956, ch. 1041, 70A Stat. 269; Aug. 30, 1957, Pub. L. 85–241, title IV, §404(a), 71 Stat. 555; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(a), 73 Stat. 321; July 27, 1962, Pub. L. 87–554, title V, § 504(a), (c), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(b), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(a), (c), 85 Stat. 408; Nov. 29, 1973, Pub. L. 93–166, title V, § 509(c), 87 Stat. 677, related to limitations on construction, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982.
+A prior section 4774, acts Aug. 10, 1956, ch. 1041, 70A Stat. 269; Aug. 30, 1957, Pub. L. 85–241, title IV, §404(a), 71 Stat. 555; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(a), 73 Stat. 321; July 27, 1962, Pub. L. 87–554, title V, § 504(a), (c), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(b), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(a), (c), 85 Stat. 408; Nov. 29, 1973, Pub. L. 93–166, title V, § 509(c), 87 Stat. 677, related to limitations on construction, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982.
 
-A prior section 4775, act Aug. 10, 1956, ch. 1041, 70A Stat. 269, authorized assignment of quarters belonging to United States at a post or station by post quartermaster to officers, grade lieutenant general down to second lieutenant, 10 to 2 rooms, respectively, and prohibited other assignment where quarters existed, prior to repeal by Pub. L. 92–145, title V, § 509(a), Oct. 27, 1971, 85 Stat. 408.
+A prior section 4775, act Aug. 10, 1956, ch. 1041, 70A Stat. 269, authorized assignment of quarters belonging to United States at a post or station by post quartermaster to officers, grade lieutenant general down to second lieutenant, 10 to 2 rooms, respectively, and prohibited other assignment where quarters existed, prior to repeal by Pub. L. 92–145, title V, § 509(a), Oct. 27, 1971, 85 Stat. 408.
 
 Prior sections 4776 to 4780 were renumbered sections 7776 to 7780 of this title, respectively.
 
 A prior section 4781 was renumbered section 7781 of this title.
 
-Another section 4781, added Pub. L. 115–31, div. N, title VI, § 602(a), May 5, 2017, 131 Stat. 828, was substantially identical to the prior section 4781, and related to Cyber Center for Education and Innovation-Home of the National Cryptologic Museum, prior to repeal by Pub. L. 115–91, div. A, title X, § 1081(a)(49)(A), Dec. 12, 2017, 131 Stat. 1597.
+Another section 4781, added Pub. L. 115–31, div. N, title VI, § 602(a), May 5, 2017, 131 Stat. 828, was substantially identical to the prior section 4781, and related to Cyber Center for Education and Innovation-Home of the National Cryptologic Museum, prior to repeal by Pub. L. 115–91, div. A, title X, § 1081(a)(49)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Amendments**
 
@@ -503,15 +503,15 @@ Another section 4781, added Pub. L. 115–31, div. N, title VI, § 602(a), May
 
 2008—Subsec. (c)(1). Pub. L. 110–417 substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
 
-2002—Pub. L. 107–314, § 1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
+2002—Pub. L. 107–314, § 1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
 
-Subsec. (a). Pub. L. 107–314, § 1007(a)(1), (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
+Subsec. (a). Pub. L. 107–314, § 1007(a)(1), (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
 
-Subsec. (b)(1) to (6). Pub. L. 107–314, § 1007(b)(1)(C), substituted “purchase” for “credit” wherever appearing.
+Subsec. (b)(1) to (6). Pub. L. 107–314, § 1007(b)(1)(C), substituted “purchase” for “credit” wherever appearing.
 
-Subsec. (b)(7) to (10). Pub. L. 107–314, § 1007(a)(2), added pars. (7) to (10).
+Subsec. (b)(7) to (10). Pub. L. 107–314, § 1007(a)(2), added pars. (7) to (10).
 
-Subsec. (c). Pub. L. 107–314, § 1007(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 107–314, § 1007(a)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -521,21 +521,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Regulations**
 
-Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under section 2784 of title 10, United States Code [now 10 U.S.C. 4754], as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under section 2784 of title 10, United States Code [now 10 U.S.C. 4754], as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
 
 **Compliance With Travel Charge Card Deactivation Requirements**
 
-Pub. L. 119–60, div. A, title V, § 593(a), Dec. 18, 2025, 139 Stat. 900, provided that:
+Pub. L. 119–60, div. A, title V, § 593(a), Dec. 18, 2025, 139 Stat. 900, provided that:
 
 > **“(a) Policy Compliance.—** Not later than 60 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall ensure that Department of Defense policies and procedures are consistent with section 2(h)(1)(H) of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 5 U.S.C. 5701 note) and related implementing guidance, regarding the prompt deactivation and closure of government-issued travel charge card accounts upon the separation, retirement, or termination of military or civilian personnel.”
 
 **Crediting of Refunds**
 
-Pub. L. 110–116, div. A, title VIII, § 8067, Nov. 13, 2007, 121 Stat. 1329, provided that: “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
+Pub. L. 110–116, div. A, title VIII, § 8067, Nov. 13, 2007, 121 Stat. 1329, provided that: “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
 
 **Government Charge Card Accounts: Limitation on Number; Requirements for Issuance; Disciplinary Action for Misuse; Report**
 
-Pub. L. 107–248, title VIII, § 8149, Oct. 23, 2002, 116 Stat. 1572, as amended by Pub. L. 108–87, title VIII, § 8144, Sept. 30, 2003, 117 Stat. 1108, provided that:
+Pub. L. 107–248, title VIII, § 8149, Oct. 23, 2002, 116 Stat. 1572, as amended by Pub. L. 108–87, title VIII, § 8144, Sept. 30, 2003, 117 Stat. 1108, provided that:
 
 > **“(a) Limitation on Number of Government Charge Card Accounts during Fiscal Year 2003.—** The total number of accounts for government purchase charge cards and government travel charge cards for Department of Defense personnel during fiscal year 2003 may not exceed 1,500,000 accounts.
 

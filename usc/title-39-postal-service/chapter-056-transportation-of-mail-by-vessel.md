@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—TRANSPORTATION OF MAIL BY VESSEL
 
-## § 5601. Sea post service
+## § 5601. Sea post service
 
 The Postal Service may maintain sea post service on ocean vessels conveying mail to and from the United States.
 
@@ -27,7 +27,7 @@ The Postal Service may maintain sea post service on ocean vessels conveying mail
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 5602. Termination of contracts for foreign transportation
+## § 5602. Termination of contracts for foreign transportation
 
 Contracts for the transportation of mail by vessel between the United States and a foreign port shall be made subject to cancellation by the Postal Service or the Congress.
 
@@ -39,7 +39,7 @@ Contracts for the transportation of mail by vessel between the United States and
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 5603. Transportation of mail by vessel as freight or express
+## § 5603. Transportation of mail by vessel as freight or express
 
 The Postal Service may require that mail be transported by freight or express when—
 
@@ -57,7 +57,7 @@ A common carrier by water that fails or refuses to transport the mail when requi
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 5604. Fines on ocean carriers
+## § 5604. Fines on ocean carriers
 
 The Postal Service may impose or remit fines on carriers transporting mail by vessel on routes extending beyond the borders of the United States for—
 
@@ -73,11 +73,11 @@ The Postal Service may impose or remit fines on carriers transporting mail by ve
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 5605. Contracts for transportation of mail by vessel
+## § 5605. Contracts for transportation of mail by vessel
 
 The Postal Service may contract for the transportation of mail by vessel without advertising for bids.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 773; Pub. L. 109–435, title X, § 1002(b)(3), Dec. 20, 2006, 120 Stat. 3255.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 773; Pub. L. 109–435, title X, § 1002(b)(3), Dec. 20, 2006, 120 Stat. 3255.)
 
 **Editorial Notes**
 

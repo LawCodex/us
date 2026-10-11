@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–103, div. W, title X, § 1001(e), Mar. 15, 2022, 136 Stat. 914, added item 4051.
+2022—Pub. L. 117–103, div. W, title X, § 1001(e), Mar. 15, 2022, 136 Stat. 914, added item 4051.
 
-2018—Pub. L. 115–391, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.
+2018—Pub. L. 115–391, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.
 
-2016—Pub. L. 114–133, § 2(b), Mar. 9, 2016, 130 Stat. 297, added item 4049.
+2016—Pub. L. 114–133, § 2(b), Mar. 9, 2016, 130 Stat. 297, added item 4049.
 
-2000—Pub. L. 106–294, § 2(b), Oct. 12, 2000, 114 Stat. 1040, added item 4048.
+2000—Pub. L. 106–294, § 2(b), Oct. 12, 2000, 114 Stat. 1040, added item 4048.
 
-1994—Pub. L. 103–322, title II, § 20402(b), Sept. 13, 1994, 108 Stat. 1825, added item 4047.
+1994—Pub. L. 103–322, title II, § 20402(b), Sept. 13, 1994, 108 Stat. 1825, added item 4047.
 
-1990—Pub. L. 101–647, title XXX, § 3001(b), Nov. 29, 1990, 104 Stat. 4915, added item 4046.
+1990—Pub. L. 101–647, title XXX, § 3001(b), Nov. 29, 1990, 104 Stat. 4915, added item 4046.
 
-1986—Pub. L. 99–646, § 67(b), Nov. 10, 1986, 100 Stat. 3616, added items 4044 and 4045.
+1986—Pub. L. 99–646, § 67(b), Nov. 10, 1986, 100 Stat. 3616, added items 4044 and 4045.
 
-1982—Pub. L. 97–258, § 2(d)(4)(A), Sept. 13, 1982, 96 Stat. 1059, added item 4043.
+1982—Pub. L. 97–258, § 2(d)(4)(A), Sept. 13, 1982, 96 Stat. 1059, added item 4043.
 
-## § 4041. Bureau of Prisons; director and employees
+## § 4041. Bureau of Prisons; director and employees
 
 The Bureau of Prisons shall be in charge of a director appointed by and serving directly under the Attorney General. The Attorney General may appoint such additional officers and employees as he deems necessary.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 107–273, div. A, title III, § 302(1), Nov. 2, 2002, 116 Stat. 1781.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 107–273, div. A, title III, § 302(1), Nov. 2, 2002, 116 Stat. 1781.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753 (May 14, 1930, ch. 274, § 1, 46 Stat. 325).
+Based on title 18, U.S.C., 1940 ed., § 753 (May 14, 1930, ch. 274, § 1, 46 Stat. 325).
 
 The entire second sentence was omitted as executed. All powers and authority originally vested in the former Superintendent of Prisons are now possessed by the Bureau of Prisons.
 
@@ -59,13 +59,13 @@ Minor changes of phraseology were made.
 
 **Augmentation**
 
-Pub. L. 118–71, § 2(c), July 25, 2024, 138 Stat. 1501, provided that: “On and after the effective date of this Act [see Effective Date of 2024 Amendment note set out under section 413 of Title 5, Government Organization and Employees], the Bureau of Prisons shall implement the directive in the second sentence on the topic ‘Augmentation’ in the matter under the heading ‘SALARIES AND EXPENSES’ under the heading ‘FEDERAL PRISON SYSTEM’ in the joint explanatory statement accompanying Public Law 117–328 [set forth in House Appropriations Committee Print 117th Congress, Book 1—Consolidated Appropriations Act, 2023, div. B, p. 296].”
+Pub. L. 118–71, § 2(c), July 25, 2024, 138 Stat. 1501, provided that: “On and after the effective date of this Act [see Effective Date of 2024 Amendment note set out under section 413 of Title 5, Government Organization and Employees], the Bureau of Prisons shall implement the directive in the second sentence on the topic ‘Augmentation’ in the matter under the heading ‘SALARIES AND EXPENSES’ under the heading ‘FEDERAL PRISON SYSTEM’ in the joint explanatory statement accompanying Public Law 117–328 [set forth in House Appropriations Committee Print 117th Congress, Book 1—Consolidated Appropriations Act, 2023, div. B, p. 296].”
 
 **Compensation of Director**
 
 Compensation of Director, see section 5315 of Title 5, Government Organization and Employees.
 
-## § 4042. Duties of Bureau of Prisons
+## § 4042. Duties of Bureau of Prisons
 
 **(a) In General.—** The Bureau of Prisons, under the direction of the Attorney General, shall—
 
@@ -135,17 +135,17 @@ The notice requirements under this subsection do not apply in relation to a pers
 
 **(3)** The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
-**[(4)** Repealed. Pub. L. 109–248, title I, § 141(h), July 27, 2006, 120 Stat. 604.]
+**[(4)** Repealed. Pub. L. 109–248, title I, § 141(h), July 27, 2006, 120 Stat. 604.]
 
 **(5)** The United States and its agencies, officers, and employees shall be immune from liability based on good faith conduct in carrying out this subsection and subsection (b).
 
 **(d) Application of Section.—** This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, § 20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, § 115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, § 141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, § 231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, § 261(a), July 29, 2010, 124 Stat. 2299; Pub. L. 115–391, title VI, § 604(b), Dec. 21, 2018, 132 Stat. 5241.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, § 20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, § 115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, § 141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, § 231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, § 261(a), July 29, 2010, 124 Stat. 2299; Pub. L. 115–391, title VI, § 604(b), Dec. 21, 2018, 132 Stat. 5241.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 753a, 753b, (May 14, 1930, ch. 274, §§ 2, 3, 46 Stat. 325).
+Based on title 18, U.S.C., 1940 ed., §§ 753a, 753b, (May 14, 1930, ch. 274, §§ 2, 3, 46 Stat. 325).
 
 Because of similarity in the provisions, the first sentence of section 753b of title 18, U.S.C., 1940 ed., was consolidated with section 753a of title 18, U.S.C., 1940 ed., to form this section.
 
@@ -157,39 +157,39 @@ The remainder of said section 753b of title 18, U.S.C., 1940 ed., is incorporate
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(D), (E). Pub. L. 115–391, § 604(b)(1), redesignated pars. (D) and (E) as (6) and (7), respectively.
+2018—Subsec. (a)(D), (E). Pub. L. 115–391, § 604(b)(1), redesignated pars. (D) and (E) as (6) and (7), respectively.
 
-Subsec. (a)(6). Pub. L. 115–391, § 604(b)(1), (2)(E), redesignated par. (D) as (6) and cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Subsec. (a)(6). Pub. L. 115–391, § 604(b)(1), (2)(E), redesignated par. (D) as (6) and cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
-Subsec. (a)(6)(i). Pub. L. 115–391, § 604(b)(2)(A), struck out “Social Security Cards,” before “Social Security benefits” and “and” after “benefits);”.
+Subsec. (a)(6)(i). Pub. L. 115–391, § 604(b)(2)(A), struck out “Social Security Cards,” before “Social Security benefits” and “and” after “benefits);”.
 
-Subsec. (a)(6)(ii). Pub. L. 115–391, § 604(b)(2)(C), added cl. (ii). Former cl. (ii) redesignated (iii).
+Subsec. (a)(6)(ii). Pub. L. 115–391, § 604(b)(2)(C), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (a)(6)(iii). Pub. L. 115–391, § 604(b)(2)(B), (D), redesignated cl. (ii) as (iii) and inserted “from a sentence to a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term of community confinement” after “prior to release”.
+Subsec. (a)(6)(iii). Pub. L. 115–391, § 604(b)(2)(B), (D), redesignated cl. (ii) as (iii) and inserted “from a sentence to a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term of community confinement” after “prior to release”.
 
-Subsec. (a)(7). Pub. L. 115–391, § 604(b)(1), (3), redesignated par. (E) as (7) and cls. (i) to (vii) as subpars. (A) to (G), respectively.
+Subsec. (a)(7). Pub. L. 115–391, § 604(b)(1), (3), redesignated par. (E) as (7) and cls. (i) to (vii) as subpars. (A) to (G), respectively.
 
-2010—Subsec. (a)(4). Pub. L. 111–211, § 261(a)(1), inserted “, tribal,” after “State”.
+2010—Subsec. (a)(4). Pub. L. 111–211, § 261(a)(1), inserted “, tribal,” after “State”.
 
-Subsec. (b)(1). Pub. L. 111–211, § 261(a)(2), substituted “officers of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+Subsec. (b)(1). Pub. L. 111–211, § 261(a)(2), substituted “officers of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
 
-Subsec. (c)(1)(A). Pub. L. 111–211, § 261(a)(3)(A), substituted “officer of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
+Subsec. (c)(1)(A). Pub. L. 111–211, § 261(a)(3)(A), substituted “officer of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
 
-Subsec. (c)(1)(B). Pub. L. 111–211, § 261(a)(3)(B), inserted “, tribal,” after “State” in two places.
+Subsec. (c)(1)(B). Pub. L. 111–211, § 261(a)(3)(B), inserted “, tribal,” after “State” in two places.
 
 2008—Subsec. (a)(D), (E). Pub. L. 110–199 added pars. (D) and (E).
 
-2006—Subsec. (c)(1). Pub. L. 109–248, § 141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
+2006—Subsec. (c)(1). Pub. L. 109–248, § 141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 109–248, § 141(g)(2), substituted “shall register as required by the Sex Offender Registration and Notification Act” for “shall be subject to a registration requirement as a sex offender” in first sentence and “paragraph (3)” for “paragraph (4)” in fourth sentence.
+Subsec. (c)(2). Pub. L. 109–248, § 141(g)(2), substituted “shall register as required by the Sex Offender Registration and Notification Act” for “shall be subject to a registration requirement as a sex offender” in first sentence and “paragraph (3)” for “paragraph (4)” in fourth sentence.
 
-Subsec. (c)(3). Pub. L. 109–248, § 141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.”
+Subsec. (c)(3). Pub. L. 109–248, § 141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.”
 
-Subsec. (c)(4). Pub. L. 109–248, § 141(h), struck out par. (4) which read as follows: “A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
+Subsec. (c)(4). Pub. L. 109–248, § 141(h), struck out par. (4) which read as follows: “A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
 “(A) An offense under section 1201 involving a minor victim.
 
@@ -201,13 +201,13 @@ Subsec. (c)(4). Pub. L. 109–248, § 141(h), struck out par. (4) which read a
 
 “(E) Any other offense designated by the Attorney General as a sexual offense for purposes of this subsection.”
 
-1997—Subsec. (a)(5). Pub. L. 105–119, § 115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
+1997—Subsec. (a)(5). Pub. L. 105–119, § 115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (b)(4). Pub. L. 105–119, § 115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
+Subsec. (b)(4). Pub. L. 105–119, § 115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
 
-Subsecs. (c), (d). Pub. L. 105–119, § 115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 105–119, § 115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1994—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted “provide” for “Provide” and “; and” for period at end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
+1994—Pub. L. 103–322 designated first par. of existing provisions as subsec. (a) and inserted heading, substituted “provide” for “Provide” and “; and” for period at end of par. (4), added par. (5) and subsec. (b), and designated second sentence of existing provisions as subsec. (c) and inserted heading.
 
 1968—Pub. L. 90–371 added cl. (4).
 
@@ -307,7 +307,7 @@ Pub. L. 117–321, Dec. 27, 2022, 136 Stat. 4430, provided that:
 
 **Health and Safety of Pregnant Women and Mothers**
 
-Pub. L. 117–103, div. W, title X, § 1002, Mar. 15, 2022, 136 Stat. 914, provided that:
+Pub. L. 117–103, div. W, title X, § 1002, Mar. 15, 2022, 136 Stat. 914, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Stop Infant Mortality and Recidivism Reduction Act’ or the ‘SIMARRA Act’.
 
@@ -405,7 +405,7 @@ Pub. L. 117–103, div. W, title X, § 1002, Mar. 15, 2022, 136 Stat. 914, pro
 
 **De-Escalation Training**
 
-Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided that:
+Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided that:
 
 > “Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to—
 
@@ -415,7 +415,7 @@ Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided t
 
 **Pilot Programs**
 
-Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided that:
+Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided that:
 
 > **“(a) In General.—** The Bureau of Prisons shall establish each of the following pilot programs for 5 years, in at least 20 facilities:
 
@@ -429,7 +429,7 @@ Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided t
 
 **Healthcare Products**
 
-Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided that:
+Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided that:
 
 > **“(a) Availability.—** The Director of the Bureau of Prisons shall make the healthcare products described in subsection (c) available to prisoners for free, in a quantity that is appropriate to the healthcare needs of each prisoner.
 
@@ -439,7 +439,7 @@ Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided t
 
 **Amenities or Personal Comforts**
 
-Pub. L. 107–77, title VI, § 611, Nov. 28, 2001, 115 Stat. 800, provided that:
+Pub. L. 107–77, title VI, § 611, Nov. 28, 2001, 115 Stat. 800, provided that:
 
 > “Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
 
@@ -455,57 +455,57 @@ Pub. L. 107–77, title VI, § 611, Nov. 28, 2001, 115 Stat. 800, provided tha
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 106–553, § 1(a)(2) [title VI, § 611], Dec. 21, 2000, 114 Stat. 2762, 2762A–105.
+Pub. L. 106–553, § 1(a)(2) [title VI, § 611], Dec. 21, 2000, 114 Stat. 2762, 2762A–105.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 612], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 612], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
 
-Pub. L. 105–277, div. A, § 101(b) [title VI, § 611], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
+Pub. L. 105–277, div. A, § 101(b) [title VI, § 611], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
 
-Pub. L. 105–119, title VI, § 611, Nov. 26, 1997, 111 Stat. 2517.
+Pub. L. 105–119, title VI, § 611, Nov. 26, 1997, 111 Stat. 2517.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
+Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
 
-Pub. L. 104–134, title I, § 101[(a)] [title VI, § 611], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101[(a)] [title VI, § 611], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 **Sexually Explicit Commercially Published Material**
 
-Pub. L. 107–77, title VI, § 614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
+Pub. L. 107–77, title VI, § 614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 106–553, § 1(a)(2) [title VI, § 614], Dec. 21, 2000, 114 Stat. 2762, 2762A–106.
+Pub. L. 106–553, § 1(a)(2) [title VI, § 614], Dec. 21, 2000, 114 Stat. 2762, 2762A–106.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 615], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 615], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
 
-Pub. L. 105–277, div. A, § 101(b) [title VI, § 614], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
+Pub. L. 105–277, div. A, § 101(b) [title VI, § 614], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
 
-Pub. L. 105–119, title VI, § 614, Nov. 26, 1997, 111 Stat. 2518.
+Pub. L. 105–119, title VI, § 614, Nov. 26, 1997, 111 Stat. 2518.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 614], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
+Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 614], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
 
 **Reimbursement for Certain Expenses Outside of Federal Institutions**
 
-Pub. L. 106–553, § 1(a)(2) [title I], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: “That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing.”
+Pub. L. 106–553, § 1(a)(2) [title I], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part: “That hereafter amounts appropriated for Federal Prisoner Detention shall be available to reimburse the Federal Bureau of Prisons for salaries and expenses of transporting, guarding and providing medical care outside of Federal penal and correctional institutions to prisoners awaiting trial or sentencing.”
 
 **Guidelines for States Regarding Infectious Diseases in Correctional Institutions**
 
-Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, which required the Attorney General to provide to States proposed guidelines related to infectious diseases in correctional institutions, was editorially reclassified as a note under section 60101 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, which required the Attorney General to provide to States proposed guidelines related to infectious diseases in correctional institutions, was editorially reclassified as a note under section 60101 of Title 34, Crime Control and Law Enforcement.
 
 **Prisoner Access**
 
-Pub. L. 105–314, title VIII, § 801, Oct. 30, 1998, 112 Stat. 2990, provided that: “Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government.”
+Pub. L. 105–314, title VIII, § 801, Oct. 30, 1998, 112 Stat. 2990, provided that: “Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government.”
 
 **Application to Prisoners to Which Prior Law Applies**
 
-Pub. L. 103–322, title II, § 20404, Sept. 13, 1994, 108 Stat. 1825, provided that: “In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole.”
+Pub. L. 103–322, title II, § 20404, Sept. 13, 1994, 108 Stat. 1825, provided that: “In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole.”
 
 **Cost Savings Measures**
 
-Pub. L. 101–647, title XXIX, § 2907, Nov. 29, 1990, 104 Stat. 4915, provided that: “The Director of the Federal Bureau of Prisons (referred to as the ‘Director’) shall, to the extent practicable, take such measures as are appropriate to cut costs of construction. Such measures may include reducing expenditures for amenities including, for example, color television or pool tables.”
+Pub. L. 101–647, title XXIX, § 2907, Nov. 29, 1990, 104 Stat. 4915, provided that: “The Director of the Federal Bureau of Prisons (referred to as the ‘Director’) shall, to the extent practicable, take such measures as are appropriate to cut costs of construction. Such measures may include reducing expenditures for amenities including, for example, color television or pool tables.”
 
 **Administration of Confinement Facilities Located on Military Installations by Bureau of Prisons**
 
-Pub. L. 100–690, title VII, § 7302, Nov. 18, 1988, 102 Stat. 4463, provided that:
+Pub. L. 100–690, title VII, § 7302, Nov. 18, 1988, 102 Stat. 4463, provided that:
 
 > “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 [see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces], the Bureau of Prisons shall be responsible for—
 
@@ -553,17 +553,17 @@ Sec. 3. *Publication*. The Attorney General is authorized and directed to publis
 
 Barack Obama.
 
-## § 4043. Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons
+## § 4043. Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons
 
 The Attorney General may accept gifts or bequests of money for credit to the “Commissary Funds, Federal Prisons”. A gift or bequest under this section is a gift or bequest to or for the use of the United States under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(Added Pub. L. 97–258, § 2(d)(4)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 97–258, § 2(d)(4)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4043 | 31:725s–4. | May 15, 1952, ch. 289, § 2, 66 Stat. 72; July 9, 1952, ch. 600, 66 Stat. 479. |
+| 4043 | 31:725s–4. | May 15, 1952, ch. 289, § 2, 66 Stat. 72; July 9, 1952, ch. 600, 66 Stat. 479. |
 
 **Editorial Notes**
 
@@ -575,7 +575,7 @@ The Attorney General may accept gifts or bequests of money for credit to the “
 
 **Expenditures; Inmate Telephone System**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 108], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that:
+Pub. L. 105–277, div. A, § 101(b) [title I, § 108], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that:
 
 > “For fiscal year 1999 and thereafter, the Director of the Bureau of Prisons may make expenditures out of the Commissary Fund of the Federal Prison System, regardless of whether any such expenditure is security-related, for programs, goods, and services for the benefit of inmates (to the extent the provision of those programs, goods, or services to inmates is not otherwise prohibited by law), including—
 
@@ -587,25 +587,25 @@ Pub. L. 105–277, div. A, § 101(b) [title I, § 108], Oct. 21, 1998, 112 S
 
 **Deposit or Investment of Excess Amounts in Federal Prison Commissary Fund**
 
-Section 108 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that: “For fiscal year 1996 and each fiscal year thereafter, amounts in the Federal Prison System’s Commissary Fund, Federal Prisons, which are not currently needed for operations, shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investment shall be deposited in the Commissary Fund.”
+Section 108 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that: “For fiscal year 1996 and each fiscal year thereafter, amounts in the Federal Prison System’s Commissary Fund, Federal Prisons, which are not currently needed for operations, shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investment shall be deposited in the Commissary Fund.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 103–317, title I, § 107, Aug. 26, 1994, 108 Stat. 1735.
+Pub. L. 103–317, title I, § 107, Aug. 26, 1994, 108 Stat. 1735.
 
-## § 4044. Donations on behalf of the Bureau of Prisons
+## § 4044. Donations on behalf of the Bureau of Prisons
 
 The Attorney General may, in accordance with rules prescribed by the Attorney General, accept in the name of the Department of Justice any form of devise, bequest, gift or donation of money or property for use by the Bureau of Prisons or Federal Prison Industries. The Attorney General may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey such property other than money.
 
-(Added Pub. L. 99–646, § 67(a), Nov. 10, 1986, 100 Stat. 3616.)
+(Added Pub. L. 99–646, § 67(a), Nov. 10, 1986, 100 Stat. 3616.)
 
-## § 4045. Authority to conduct autopsies
+## § 4045. Authority to conduct autopsies
 
 A chief executive officer of a Federal penal or correctional facility may, pursuant to rules prescribed by the Director, order an autopsy and related scientific or medical tests to be performed on the body of a deceased inmate of the facility in the event of homicide, suicide, fatal illness or accident, or unexplained death, when it is determined that such autopsy or test is necessary to detect a crime, maintain discipline, protect the health or safety of other inmates, remedy official misconduct, or defend the United States or its employees from civil liability arising from the administration of the facility. To the extent consistent with the needs of the autopsy or of specific scientific or medical tests, provisions of State and local law protecting religious beliefs with respect to such autopsies shall be observed. Such officer may also order an autopsy or post-mortem operation, including removal of tissue for transplanting, to be performed on the body of a deceased inmate of the facility, with the written consent of a person authorized to permit such an autopsy or post-mortem operation under the law of the State in which the facility is located.
 
-(Added Pub. L. 99–646, § 67(a), Nov. 10, 1986, 100 Stat. 3616.)
+(Added Pub. L. 99–646, § 67(a), Nov. 10, 1986, 100 Stat. 3616.)
 
-## § 4046. Shock incarceration program
+## § 4046. Shock incarceration program
 
 **(a)** The Bureau of Prisons may place in a shock incarceration program any person who is sentenced to a term of imprisonment of more than 12, but not more than 30, months, if such person consents to that placement.
 
@@ -617,15 +617,15 @@ A chief executive officer of a Federal penal or correctional facility may, pursu
 
 **(c)** An inmate who in the judgment of the Director of the Bureau of Prisons has successfully completed the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
 
-(Added Pub. L. 101–647, title XXX, § 3001(a), Nov. 29, 1990, 104 Stat. 4915.)
+(Added Pub. L. 101–647, title XXX, § 3001(a), Nov. 29, 1990, 104 Stat. 4915.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations**
 
-Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided that: “There are authorized to be appropriated for fiscal year 1990 and each fiscal year thereafter such sums as may be necessary to carry out the shock incarceration program established under the amendments made by this Act [see Tables for classification]”.
+Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided that: “There are authorized to be appropriated for fiscal year 1990 and each fiscal year thereafter such sums as may be necessary to carry out the shock incarceration program established under the amendments made by this Act [see Tables for classification]”.
 
-## § 4047. Prison impact assessments
+## § 4047. Prison impact assessments
 
 **(a)** Any submission of legislation by the Judicial or Executive branch which could increase or decrease the number of persons incarcerated in Federal penal institutions shall be accompanied by a prison impact statement (as defined in subsection (b)).
 
@@ -641,9 +641,9 @@ Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided
 
 **(c)** The Attorney General shall prepare and transmit to the Congress, by March 1 of each year, a prison impact assessment reflecting the cumulative effect of all relevant changes in the law taking effect during the preceding calendar year.
 
-(Added Pub. L. 103–322, title II, § 20402(a), Sept. 13, 1994, 108 Stat. 1824.)
+(Added Pub. L. 103–322, title II, § 20402(a), Sept. 13, 1994, 108 Stat. 1824.)
 
-## § 4048. Fees for health care services for prisoners
+## § 4048. Fees for health care services for prisoners
 
 **(a) Definitions.—** In this section—
 
@@ -701,9 +701,9 @@ Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided
 
 **(2) Allocation of other amounts.—** Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
 
-**(A)** 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); 1
+**(A)** 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -733,7 +733,7 @@ and
 
 **(l) Comprehensive HIV/AIDS Services Required.—** The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 
-(Added Pub. L. 106–294, § 2(a), Oct. 12, 2000, 114 Stat. 1038.)
+(Added Pub. L. 106–294, § 2(a), Oct. 12, 2000, 114 Stat. 1038.)
 
 **Editorial Notes**
 
@@ -743,7 +743,7 @@ Section 1402 of the Victims of Crime Act of 1984, referred to in subsec. (g)(2)(
 
 The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, referred to in subsec. (k), is the date of enactment of Pub. L. 106–294, which was approved Oct. 12, 2000.
 
-## § 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray
+## § 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray
 
 **(a) In General.—** The Director of the Bureau of Prisons shall issue, on a routine basis, oleoresin capsicum spray to—
 
@@ -769,9 +769,9 @@ The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2
 
 **(2)** committed by prison visitors against themselves, prisoners, other visitors, and officers and employees of the Bureau of Prisons.
 
-(Added Pub. L. 114–133, § 2(a), Mar. 9, 2016, 130 Stat. 296.)
+(Added Pub. L. 114–133, § 2(a), Mar. 9, 2016, 130 Stat. 296.)
 
-## § 4050. Secure firearms storage
+## § 4050. Secure firearms storage
 
 **(a) Definitions.—** In this section—
 
@@ -789,9 +789,9 @@ The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2
 
 **(2)** notwithstanding any other provision of law, allows employees to carry concealed firearms on the premises outside of the secure perimeter of the institution.
 
-(Added Pub. L. 115–391, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5216.)
+(Added Pub. L. 115–391, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5216.)
 
-## § 4051. Treatment of primary caretaker parents and other individuals
+## § 4051. Treatment of primary caretaker parents and other individuals
 
 **(a) Definitions.—** In this section—
 
@@ -875,15 +875,15 @@ The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2
 
 **(4) Relation to other laws.—** Nothing in paragraph (1) shall be construed to affect the requirements under the Prison Rape Elimination Act of 2003 (34 U.S.C. 30301 et seq.).
 
-(Added Pub. L. 117–103, div. W, title X, § 1001(b), Mar. 15, 2022, 136 Stat. 912.)
+(Added Pub. L. 117–103, div. W, title X, § 1001(b), Mar. 15, 2022, 136 Stat. 912.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (e), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Prison Rape Elimination Act of 2003, referred to in subsec. (h)(4), is Pub. L. 108–79, Sept. 4, 2003, 117 Stat. 972, which is classified generally to chapter 303 (§ 30301 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2003 Act note set out under section 10101 of Title 34 and Tables.
+The Prison Rape Elimination Act of 2003, referred to in subsec. (h)(4), is Pub. L. 108–79, Sept. 4, 2003, 117 Stat. 972, which is classified generally to chapter 303 (§ 30301 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2003 Act note set out under section 10101 of Title 34 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

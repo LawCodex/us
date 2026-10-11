@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 **Acquisition of Aircraft for Agency Air, Atmosphere, and Weather Reconnaissance and Research Mission**
 
-Pub. L. 117–263, div. K, title CXVII, § 11708, Dec. 23, 2022, 136 Stat. 4158, provided that:
+Pub. L. 117–263, div. K, title CXVII, § 11708, Dec. 23, 2022, 136 Stat. 4158, provided that:
 
 > **“(a) Increased Fleet Capacity.—**
 
@@ -45,7 +45,7 @@ Pub. L. 117–263, div. K, title CXVII, § 11708, Dec. 23, 2022, 136 Stat. 415
 
 **Co-Location Agreements**
 
-Pub. L. 116–259, title V, § 502, Dec. 23, 2020, 134 Stat. 1178, provided that:
+Pub. L. 116–259, title V, § 502, Dec. 23, 2020, 134 Stat. 1178, provided that:
 
 > **“(a) In General.—** During fiscal years 2021 through 2030, and subject to the availability of appropriations, the Administrator of the National Oceanic and Atmospheric Administration may execute noncompetitive co-location agreements for real property and incidental goods and services with entities described in subsection (b) for periods of not more than 20 years, if each such agreement is supported by a price reasonableness analysis.
 
@@ -75,21 +75,21 @@ Pub. L. 116–259, title V, § 502, Dec. 23, 2020, 134 Stat. 1178, provided th
 
 > **“(2)** to grant the Administrator of the National Oceanic and Atmospheric Administration any additional authority to enter into a lease without approval of the General Services Administration.”
 
-### § 851. Omitted
+### § 851. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
+Section, Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2477.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–37.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–37.
 
-Pub. L. 104–134, title I, § 101[(a)] [title II], Apr. 26, 1996, 110 Stat. 1321, 1321–27; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101[(a)] [title II], Apr. 26, 1996, 110 Stat. 1321, 1321–27; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
@@ -105,21 +105,21 @@ Pub. L. 101–162, title I, Nov. 21, 1989, 103 Stat. 992.
 
 Pub. L. 100–459, title I, Oct. 1, 1988, 102 Stat. 2190.
 
-Pub. L. 100–202, § 101(a) [title I], Dec. 22, 1987, 101 Stat. 1329, 1329–4.
+Pub. L. 100–202, § 101(a) [title I], Dec. 22, 1987, 101 Stat. 1329, 1329–4.
 
-Pub. L. 99–500, § 101(b) [title I], Oct. 18, 1986, 100 Stat. 1783–39, 1783–42, and Pub. L. 99–591, § 101(b) [title I], Oct. 30, 1986, 100 Stat. 3341–39, 3341–42.
+Pub. L. 99–500, § 101(b) [title I], Oct. 18, 1986, 100 Stat. 1783–39, 1783–42, and Pub. L. 99–591, § 101(b) [title I], Oct. 30, 1986, 100 Stat. 3341–39, 3341–42.
 
 Pub. L. 99–180, title I, Dec. 13, 1985, 99 Stat. 1138.
 
 Pub. L. 98–411, title I, Aug. 30, 1984, 98 Stat. 1548.
 
-Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1074.
+Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1074.
 
-Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1867, 1869.
+Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1867, 1869.
 
-Pub. L. 97–92, § 101(h) [incorporating H.R. 7584, title III, for FY 1981], Dec. 15, 1981, 95 Stat. 1190.
+Pub. L. 97–92, § 101(h) [incorporating H.R. 7584, title III, for FY 1981], Dec. 15, 1981, 95 Stat. 1190.
 
-Pub. L. 96–536, § 101*o*, [H.R. 7584, title III], Dec. 16, 1980, 94 Stat. 3169.
+Pub. L. 96–536, § 101*o*, [H.R. 7584, title III], Dec. 16, 1980, 94 Stat. 3169.
 
 Pub. L. 96–68, title III, Sept. 24, 1979, 93 Stat. 424.
 
@@ -217,23 +217,23 @@ Feb. 27, 1925, ch. 364, title III, 43 Stat. 1046.
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–386, § 1, Oct. 10, 2008, 122 Stat. 4106, provided that: “This Act [amending sections 892, 892a, 892c, 892d, and 3005 of this title] may be cited as the ‘Hydrographic Services Improvement Act Amendments of 2008’.”
+Pub. L. 110–386, § 1, Oct. 10, 2008, 122 Stat. 4106, provided that: “This Act [amending sections 892, 892a, 892c, 892d, and 3005 of this title] may be cited as the ‘Hydrographic Services Improvement Act Amendments of 2008’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–372, title I, § 101(a), Dec. 19, 2002, 116 Stat. 3079, provided that: “This title [amending sections 892 to 892d of this title] may be cited as the ‘Hydrographic Services Improvement Act Amendments of 2002’.”
+Pub. L. 107–372, title I, § 101(a), Dec. 19, 2002, 116 Stat. 3079, provided that: “This title [amending sections 892 to 892d of this title] may be cited as the ‘Hydrographic Services Improvement Act Amendments of 2002’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–384, title III, § 301, Nov. 13, 1998, 112 Stat. 3454, provided that: “This title [enacting subchapter IV of this chapter and amending sections 853a and 853u of this title] may be cited as the ‘Hydrographic Services Improvement Act of 1998’.”
+Pub. L. 105–384, title III, § 301, Nov. 13, 1998, 112 Stat. 3454, provided that: “This title [enacting subchapter IV of this chapter and amending sections 853a and 853u of this title] may be cited as the ‘Hydrographic Services Improvement Act of 1998’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–567, title VI, § 601, Oct. 29, 1992, 106 Stat. 4299, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘NOAA Fleet Modernization Act’.”
+Pub. L. 102–567, title VI, § 601, Oct. 29, 1992, 106 Stat. 4299, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘NOAA Fleet Modernization Act’.”
 
 **Short Title**
 
-Pub. L. 95–63, § 1, July 5, 1977, 91 Stat. 265, provided: “That this Act [enacting sections 857–13 to 857–18 of this title, repealing sections 857–6 to 857–12 of this title, and enacting provisions set out as a note under section 857–13 of this title] may be cited as the ‘National Advisory Committee on Oceans and Atmosphere Act of 1977’.”
+Pub. L. 95–63, § 1, July 5, 1977, 91 Stat. 265, provided: “That this Act [enacting sections 857–13 to 857–18 of this title, repealing sections 857–6 to 857–12 of this title, and enacting provisions set out as a note under section 857–13 of this title] may be cited as the ‘National Advisory Committee on Oceans and Atmosphere Act of 1977’.”
 
 **Executive Documents**
 
@@ -243,11 +243,11 @@ Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency 
 
 Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, abolished Environmental Science Services Administration, including offices of Administrator and Deputy Administrator, and established National Oceanic and Atmospheric Administration within Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, Secretary of Commerce delegated to National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
-The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
+The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
 
 **REORGANIZATION PLAN NO. 2 OF 1965**
 
-**Eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, as amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224**
+**Eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, as amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 13, 1965, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended [see 5 U.S.C. 901 et seq.].
 
@@ -281,7 +281,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 (d) At any one time, one principal constituent organizational entity of the Administration may, if the Secretary so elects, be headed by a commissioned officer of the Administration, who shall be designated by the Secretary. Such designation of an officer shall create a vacancy on the active list and while serving under this paragraph the officer shall have rank, pay and allowances not exceeding those of a Rear Admiral (upper half).
 
-(e) Any commissioned officer of the Administration who has served as Deputy Administrator or has served in a rank above that of Captain as the head of a principal constituent organizational entity of the Administration, and is retired while so serving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of Captain, shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of Captain and such officer shall be an extra number in that grade. [As amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224.]
+(e) Any commissioned officer of the Administration who has served as Deputy Administrator or has served in a rank above that of Captain as the head of a principal constituent organizational entity of the Administration, and is retired while so serving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of Captain, shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of Captain and such officer shall be an extra number in that grade. [As amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224.]
 
 **Sec. 5. Authority of the Secretary**
 
@@ -333,11 +333,11 @@ Lyndon B. Johnson.
 
 The White House, May 13, 1965.
 
-### § 851a. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
+### § 851a. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
 
-Section, act Jan. 19, 1942, ch. 6, § 1, 56 Stat. 6, related to distribution of the total number of commissioned officers in rank.
+Section, act Jan. 19, 1942, ch. 6, § 1, 56 Stat. 6, related to distribution of the total number of commissioned officers in rank.
 
-### §§ 852 to 852b. Omitted
+### §§ 852 to 852b. Omitted
 
 **Editorial Notes**
 
@@ -345,17 +345,17 @@ Section, act Jan. 19, 1942, ch. 6, § 1, 56 Stat. 6, related to distribution o
 
 Sections, which made provision for a Director of the Coast and Geodetic Survey and for a Deputy Director and covered their appointment, rank, pay, and allowances, have been omitted in view of 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title, which abolished such offices and transferred their functions to the Secretary of Commerce. For further details, see Transfer of Functions note set out under section 851 of this title.
 
-Section 852, acts June 4, 1920, ch. 228, § 1, 41 Stat. 825; June 5, 1920, ch. 235, § 1, 41 Stat. 929; Feb. 16, 1929, ch. 221, § 5, 45 Stat. 1187; Mar. 18, 1936, ch. 147, 49 Stat. 1164, provided for the appointment and reappointment of the Director of the Coast and Geodetic Survey.
+Section 852, acts June 4, 1920, ch. 228, § 1, 41 Stat. 825; June 5, 1920, ch. 235, § 1, 41 Stat. 929; Feb. 16, 1929, ch. 221, § 5, 45 Stat. 1187; Mar. 18, 1936, ch. 147, 49 Stat. 1164, provided for the appointment and reappointment of the Director of the Coast and Geodetic Survey.
 
-Section 852a, acts Feb. 16, 1929, ch. 221, § 5, 45 Stat. 1187; Mar. 18, 1936, ch. 147, 49 Stat. 1164; June 3, 1948, ch. 390, § 21(a), formerly § 20(a), 62 Stat. 300; renumbered § 21(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506, provided for the rank, pay, and allowances of the Director.
+Section 852a, acts Feb. 16, 1929, ch. 221, § 5, 45 Stat. 1187; Mar. 18, 1936, ch. 147, 49 Stat. 1164; June 3, 1948, ch. 390, § 21(a), formerly § 20(a), 62 Stat. 300; renumbered § 21(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506, provided for the rank, pay, and allowances of the Director.
 
-Section 852b, acts Jan. 19, 1942, ch. 6, § 8, 56 Stat. 8; June 3, 1948, ch. 390, § 21(b), formerly § 20(b), 62 Stat. 300; renumbered § 21(b), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506; June 21, 1955, ch. 172, § 3(b), 69 Stat. 169; June 30, 1960, Pub. L. 86–554, § 1, 74 Stat. 258, provided for the appointment, active and retired rank, pay, and allowances, of the Deputy Director of the Coast and Geodetic Survey.
+Section 852b, acts Jan. 19, 1942, ch. 6, § 8, 56 Stat. 8; June 3, 1948, ch. 390, § 21(b), formerly § 20(b), 62 Stat. 300; renumbered § 21(b), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506; June 21, 1955, ch. 172, § 3(b), 69 Stat. 169; June 30, 1960, Pub. L. 86–554, § 1, 74 Stat. 258, provided for the appointment, active and retired rank, pay, and allowances, of the Deputy Director of the Coast and Geodetic Survey.
 
-### § 853. Power to settle claims
+### § 853. Power to settle claims
 
 The Secretary of Commerce is authorized to consider, ascertain, adjust, and determine all claims for damages, where the amount of the claim does not exceed $2,500, occasioned, subsequent to June 5, 1920, by acts for which the National Oceanic and Atmospheric Administration is responsible.
 
-(June 5, 1920, ch. 256, 41 Stat. 1054; Pub. L. 93–608, § 1(4), Jan. 2, 1975, 88 Stat. 1967; Pub. L. 98–176, Nov. 29, 1983, 97 Stat. 1124.)
+(June 5, 1920, ch. 256, 41 Stat. 1054; Pub. L. 93–608, § 1(4), Jan. 2, 1975, 88 Stat. 1967; Pub. L. 98–176, Nov. 29, 1983, 97 Stat. 1124.)
 
 **Editorial Notes**
 
@@ -369,35 +369,35 @@ The Secretary of Commerce is authorized to consider, ascertain, adjust, and dete
 
 **Repeals**
 
-Act Aug. 2, 1946, ch. 753, title IV, § 424(a), 60 Stat. 846, repealed this section insofar as it concerned claims cognizable under sections 921 and 922 of former Title 28, Judicial Code and Judiciary (see sections 2672 and 2673 of Title 28, Judiciary and Judicial Procedure) which are caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment, but by section 424(b) of that act, section 946 of former Title 28 (see note set out under section 2680 of Title 28), this section is specifically saved with reference to any claim which is not caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment.
+Act Aug. 2, 1946, ch. 753, title IV, § 424(a), 60 Stat. 846, repealed this section insofar as it concerned claims cognizable under sections 921 and 922 of former Title 28, Judicial Code and Judiciary (see sections 2672 and 2673 of Title 28, Judiciary and Judicial Procedure) which are caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment, but by section 424(b) of that act, section 946 of former Title 28 (see note set out under section 2680 of Title 28), this section is specifically saved with reference to any claim which is not caused by the negligent or wrongful act or omission of any Government employee acting within the scope of his employment.
 
-### §§ 853a to 853l. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
+### §§ 853a to 853l. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
 
-Section 853a, acts June 3, 1948, ch. 390, § 2, 62 Stat. 297; Pub. L. 87–233, § 1(a), Sept. 14, 1961, 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 105–384, title III, § 307(a), Nov. 13, 1998, 112 Stat. 3457, related to authorized numbers of commissioned officers on the active list of the National Oceanic and Atmospheric Administration. See sections 3004 and 3005 of this title.
+Section 853a, acts June 3, 1948, ch. 390, § 2, 62 Stat. 297; Pub. L. 87–233, § 1(a), Sept. 14, 1961, 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 105–384, title III, § 307(a), Nov. 13, 1998, 112 Stat. 3457, related to authorized numbers of commissioned officers on the active list of the National Oceanic and Atmospheric Administration. See sections 3004 and 3005 of this title.
 
-Section 853b, act June 3, 1948, ch. 390, § 3, 62 Stat. 298, related to promotion by selection to grades above lieutenant. See section 3024 of this title.
+Section 853b, act June 3, 1948, ch. 390, § 3, 62 Stat. 298, related to promotion by selection to grades above lieutenant. See section 3024 of this title.
 
-Section 853c, act June 3, 1948, ch. 390, § 4, 62 Stat. 298, related to promotion to the grade of lieutenant and lieutenant commander upon completion of seven and fourteen years of service, respectively.
+Section 853c, act June 3, 1948, ch. 390, § 4, 62 Stat. 298, related to promotion to the grade of lieutenant and lieutenant commander upon completion of seven and fourteen years of service, respectively.
 
-Section 853d, act June 3, 1948, ch. 390, § 5, 62 Stat. 298, related to promotion to the grade of commander and captain after completion of twenty-one and thirty years of service, respectively.
+Section 853d, act June 3, 1948, ch. 390, § 5, 62 Stat. 298, related to promotion to the grade of commander and captain after completion of twenty-one and thirty years of service, respectively.
 
-Section 853e, acts June 3, 1948, ch. 390, § 6, 62 Stat. 298; June 21, 1955, ch. 172, § 4(a), 69 Stat. 169; Pub. L. 87–233, § 1(b), Sept. 14, 1961, 75 Stat. 506, related to promotion and separation from service of ensigns. See section 3023 of this title.
+Section 853e, acts June 3, 1948, ch. 390, § 6, 62 Stat. 298; June 21, 1955, ch. 172, § 4(a), 69 Stat. 169; Pub. L. 87–233, § 1(b), Sept. 14, 1961, 75 Stat. 506, related to promotion and separation from service of ensigns. See section 3023 of this title.
 
-Section 853f, act June 3, 1948, ch. 390, § 7, 62 Stat. 298, related to length of service for purposes of promotion. See section 3025 of this title.
+Section 853f, act June 3, 1948, ch. 390, § 7, 62 Stat. 298, related to length of service for purposes of promotion. See section 3025 of this title.
 
-Section 853g, acts June 3, 1948, ch. 390, § 8, 62 Stat. 298; Pub. L. 98–498, title III, § 320(a)(1), Oct. 19, 1984, 98 Stat. 2307, related to retirement or separation of officers. See section 3041 of this title.
+Section 853g, acts June 3, 1948, ch. 390, § 8, 62 Stat. 298; Pub. L. 98–498, title III, § 320(a)(1), Oct. 19, 1984, 98 Stat. 2307, related to retirement or separation of officers. See section 3041 of this title.
 
-Section 853h, acts June 3, 1948, ch. 390, § 9, 62 Stat. 299; Pub. L. 87–649, § 9(b)(1), Sept. 7, 1962, 76 Stat. 495; Pub. L. 98–498, title III, § 320(a)(1), Oct. 19, 1984, 98 Stat. 2307; Pub. L. 102–54, § 13(m)(1), June 13, 1991, 105 Stat. 277; Pub. L. 105–85, div. A, title VI, § 652(a), (b), Nov. 18, 1997, 111 Stat. 1803, 1804, related to separation pay of officers. See section 3042 of this title.
+Section 853h, acts June 3, 1948, ch. 390, § 9, 62 Stat. 299; Pub. L. 87–649, § 9(b)(1), Sept. 7, 1962, 76 Stat. 495; Pub. L. 98–498, title III, § 320(a)(1), Oct. 19, 1984, 98 Stat. 2307; Pub. L. 102–54, § 13(m)(1), June 13, 1991, 105 Stat. 277; Pub. L. 105–85, div. A, title VI, § 652(a), (b), Nov. 18, 1997, 111 Stat. 1803, 1804, related to separation pay of officers. See section 3042 of this title.
 
-Section 853i, acts June 3, 1948, ch. 390, § 10, 62 Stat. 299; June 21, 1955, ch. 172, § 4(b), 69 Stat. 170, directed that appointments and promotions be made by President and authorized suspension of provisions in time of emergency. See sections 3026 and 3033 of this title.
+Section 853i, acts June 3, 1948, ch. 390, § 10, 62 Stat. 299; June 21, 1955, ch. 172, § 4(b), 69 Stat. 170, directed that appointments and promotions be made by President and authorized suspension of provisions in time of emergency. See sections 3026 and 3033 of this title.
 
-Section 853j, act June 3, 1948, ch. 390, § 11, 62 Stat. 299, required passing of examinations for promotion.
+Section 853j, act June 3, 1948, ch. 390, § 11, 62 Stat. 299, required passing of examinations for promotion.
 
-Section 853j–1, acts June 3, 1948, ch. 390, § 12, as added Pub. L. 87–233, § 1(d), Sept. 14, 1961, 75 Stat. 506; amended Pub. L. 98–498, title III, § 320(b), Oct. 19, 1984, 98 Stat. 2308, related to temporary appointments and promotions made by President. See section 3029 of this title.
+Section 853j–1, acts June 3, 1948, ch. 390, § 12, as added Pub. L. 87–233, § 1(d), Sept. 14, 1961, 75 Stat. 506; amended Pub. L. 98–498, title III, § 320(b), Oct. 19, 1984, 98 Stat. 2308, related to temporary appointments and promotions made by President. See section 3029 of this title.
 
-Section 853k, acts June 3, 1948, ch. 390, § 13, formerly § 12, 62 Stat. 299; renumbered § 13, Pub. L. 87–233, § 1(c), Sept. 14, 1961, 75 Stat. 506, related to retirement of officers for age. See section 3043 of this title.
+Section 853k, acts June 3, 1948, ch. 390, § 13, formerly § 12, 62 Stat. 299; renumbered § 13, Pub. L. 87–233, § 1(c), Sept. 14, 1961, 75 Stat. 506, related to retirement of officers for age. See section 3043 of this title.
 
-Section 853*l*, acts June 3, 1948, ch. 390, § 14, formerly § 13, 62 Stat. 299; renumbered § 14 and amended Pub. L. 87–233, § 1(e), Sept. 14, 1961, 75 Stat. 506, related to retirement for length of service upon application. See section 3044 of this title.
+Section 853*l*, acts June 3, 1948, ch. 390, § 14, formerly § 13, 62 Stat. 299; renumbered § 14 and amended Pub. L. 87–233, § 1(e), Sept. 14, 1961, 75 Stat. 506, related to retirement for length of service upon application. See section 3044 of this title.
 
 A prior section 14 of act June 3, 1948, was classified to section 853m of this title prior to repeal by act Oct. 12, 1949.
 
@@ -405,13 +405,13 @@ A prior section 14 of act June 3, 1948, was classified to section 853m of this t
 
 **Short Title**
 
-Section 1 of act June 3, 1948, ch. 390, 62 Stat. 297, provided that act June 3, 1948, enacting sections 853a to 853*o* and 853p to 853v of this title, amending sections 852a, 852b, 854a, and 864d of this title, and repealing sections 851a, 854b, 854c, 864b, and 864c of this title, could be cited as the “Coast and Geodetic Survey Commissioned Officers’ Act of 1948”, prior to repeal by Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094.
+Section 1 of act June 3, 1948, ch. 390, 62 Stat. 297, provided that act June 3, 1948, enacting sections 853a to 853*o* and 853p to 853v of this title, amending sections 852a, 852b, 854a, and 864d of this title, and repealing sections 851a, 854b, 854c, 864b, and 864c of this title, could be cited as the “Coast and Geodetic Survey Commissioned Officers’ Act of 1948”, prior to repeal by Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094.
 
-### §§ 853m, 853n. Repealed. Oct. 12, 1949, ch. 681, title V, § 531(b)(41), 63 Stat. 840
+### §§ 853m, 853n. Repealed. Oct. 12, 1949, ch. 681, title V, § 531(b)(41), 63 Stat. 840
 
-Section 853m, act June 3, 1948, ch. 390, § 14, 62 Stat. 299, related to retirement for disability. See section 1201 et seq. of Title 10, Armed Forces.
+Section 853m, act June 3, 1948, ch. 390, § 14, 62 Stat. 299, related to retirement for disability. See section 1201 et seq. of Title 10, Armed Forces.
 
-Section 853n, act June 3, 1948, ch. 390, § 15, 62 Stat. 299, related to computation of service for retirement purposes. See sections 1401 et seq., 6321 et seq., and 6371 et seq. of Title 10.
+Section 853n, act June 3, 1948, ch. 390, § 15, 62 Stat. 299, related to computation of service for retirement purposes. See sections 1401 et seq., 6321 et seq., and 6371 et seq. of Title 10.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -419,21 +419,21 @@ Section 853n, act June 3, 1948, ch. 390, § 15, 62 Stat. 299, related to compu
 
 Repeal effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as an Effective Date of 1949 Amendment note under section 854a of this title.
 
-### § 853o. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
+### § 853o. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
 
-Section, acts June 3, 1948, ch. 390, § 16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, § 531(b)(41), 63 Stat. 840; Pub. L. 85–422, § 11(c), May 20, 1958, 72 Stat. 132; Pub. L. 87–649, § 9(b)(2), Sept. 7, 1962, 76 Stat. 495; Pub. L. 96–342, title VIII, § 813(g), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 98–94, title IX, §§ 922(c), 923(e), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, § 206, July 1, 1986, 100 Stat. 701, related to computation of retirement pay. See section 3045 of this title.
+Section, acts June 3, 1948, ch. 390, § 16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, § 531(b)(41), 63 Stat. 840; Pub. L. 85–422, § 11(c), May 20, 1958, 72 Stat. 132; Pub. L. 87–649, § 9(b)(2), Sept. 7, 1962, 76 Stat. 495; Pub. L. 96–342, title VIII, § 813(g), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 98–94, title IX, §§ 922(c), 923(e), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, § 206, July 1, 1986, 100 Stat. 701, related to computation of retirement pay. See section 3045 of this title.
 
-### § 853o–1. Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay
+### § 853o–1. Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay
 
 Active service in the National Oceanic and Atmospheric Administration as a deck officer or junior engineer and active service counted on June 30, 1922, for longevity pay, shall be credited to commissioned officers as active commissioned service for purposes of retirement and retirement pay.
 
-(Pub. L. 87–649, § 9(c), Sept. 7, 1962, 76 Stat. 496; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Pub. L. 87–649, § 9(c), Sept. 7, 1962, 76 Stat. 496; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 302 of Title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, § 1, Sept. 7, 1962, 76 Stat. 451.
+Section was formerly classified to section 302 of Title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, § 1, Sept. 7, 1962, 76 Stat. 451.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -447,33 +447,33 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
 
-### §§ 853p to 853r. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
+### §§ 853p to 853r. Repealed. Pub. L. 107–372, title II, § 271(1), Dec. 19, 2002, 116 Stat. 3094
 
-Section 853p, act June 3, 1948, ch. 390, § 17, 62 Stat. 300, provided that retired pay be based on highest rank held. See section 3046 of this title.
+Section 853p, act June 3, 1948, ch. 390, § 17, 62 Stat. 300, provided that retired pay be based on highest rank held. See section 3046 of this title.
 
-Section 853q, act June 3, 1948, ch. 390, § 18, 62 Stat. 300, provided that Coast and Geodetic Survey Commissioned Officers’ Act of 1948 would not affect retired rank and pay held pursuant to other laws. See section 3047 of this title.
+Section 853q, act June 3, 1948, ch. 390, § 18, 62 Stat. 300, provided that Coast and Geodetic Survey Commissioned Officers’ Act of 1948 would not affect retired rank and pay held pursuant to other laws. See section 3047 of this title.
 
-Section 853r, act June 3, 1948, ch. 390, § 19, 62 Stat. 300, related to personnel board. See section 3022 of this title.
+Section 853r, act June 3, 1948, ch. 390, § 19, 62 Stat. 300, related to personnel board. See section 3022 of this title.
 
-### § 853s. Repealed. Pub. L. 88–431, § 1(c)(2), Aug. 14, 1964, 78 Stat. 440
+### § 853s. Repealed. Pub. L. 88–431, § 1(c)(2), Aug. 14, 1964, 78 Stat. 440
 
-Section, act June 3, 1948, ch. 390, § 20, as added Sept. 14, 1961, Pub. L. 87–233, § 1(g), 75 Stat. 506, related to transportation of motor vehicles for commissioned officers of Survey ordered to make a permanent change of station.
+Section, act June 3, 1948, ch. 390, § 20, as added Sept. 14, 1961, Pub. L. 87–233, § 1(g), 75 Stat. 506, related to transportation of motor vehicles for commissioned officers of Survey ordered to make a permanent change of station.
 
-### §§ 853t to 854. Repealed. Pub. L. 107–372, title II, § 271(1), (4), Dec. 19, 2002, 116 Stat. 3094
+### §§ 853t to 854. Repealed. Pub. L. 107–372, title II, § 271(1), (4), Dec. 19, 2002, 116 Stat. 3094
 
-Section 853t, act June 3, 1948, ch. 390, § 23, as added Pub. L. 87–233, § 1(h), Sept. 14, 1961, 75 Stat. 506, related to original appointments. See section 3021 of this title.
+Section 853t, act June 3, 1948, ch. 390, § 23, as added Pub. L. 87–233, § 1(h), Sept. 14, 1961, 75 Stat. 506, related to original appointments. See section 3021 of this title.
 
-Section 853u, act June 3, 1948, ch. 390, § 24, as added Pub. L. 98–498, title III, § 320(c)(1), Oct. 19, 1984, 98 Stat. 2308; amended Pub. L. 99–145, title V, § 514(a)(3), Nov. 8, 1985, 99 Stat. 628; Pub. L. 105–384, title III, § 307(b), Nov. 13, 1998, 112 Stat. 3458, related to designation of positions of importance and responsibility. See section 3028 of this title.
+Section 853u, act June 3, 1948, ch. 390, § 24, as added Pub. L. 98–498, title III, § 320(c)(1), Oct. 19, 1984, 98 Stat. 2308; amended Pub. L. 99–145, title V, § 514(a)(3), Nov. 8, 1985, 99 Stat. 628; Pub. L. 105–384, title III, § 307(b), Nov. 13, 1998, 112 Stat. 3458, related to designation of positions of importance and responsibility. See section 3028 of this title.
 
-Section 853v, act June 3, 1948, ch. 390, § 25, as added Pub. L. 106–65, div. A, title VI, § 652(c), Oct. 5, 1999, 113 Stat. 665, related to presentation of flag upon retirement. See section 3076 of this title.
+Section 853v, act June 3, 1948, ch. 390, § 25, as added Pub. L. 106–65, div. A, title VI, § 652(c), Oct. 5, 1999, 113 Stat. 665, related to presentation of flag upon retirement. See section 3076 of this title.
 
-Section 854, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; June 21, 1955, ch. 172, § 2(a), 69 Stat. 169, required mental and physical examination prior to appointment or promotion. See section 3027 of this title.
+Section 854, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; June 21, 1955, ch. 172, § 2(a), 69 Stat. 169, required mental and physical examination prior to appointment or promotion. See section 3027 of this title.
 
-### § 854a. Service credit as deck officer or junior engineer for promotion purposes
+### § 854a. Service credit as deck officer or junior engineer for promotion purposes
 
 For purposes of promotion which is now or may hereafter be authorized for officers appointed after June 30, 1922, there shall be counted in addition to active commissioned service, service as deck officer and junior engineer.
 
-(Jan. 19, 1942, ch. 6, § 2, 56 Stat. 6; June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300, renumbered § 22(a), Pub. L. 87–233, § 1(f), Sept. 14, 1961, 75 Stat. 506; Oct. 12, 1949, ch. 681, title V, § 531(b)(32), 63 Stat. 839; June 21, 1955, ch. 172, § 3(a), 69 Stat. 169.)
+(Jan. 19, 1942, ch. 6, § 2, 56 Stat. 6; June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300, renumbered § 22(a), Pub. L. 87–233, § 1(f), Sept. 14, 1961, 75 Stat. 506; Oct. 12, 1949, ch. 681, title V, § 531(b)(32), 63 Stat. 839; June 21, 1955, ch. 172, § 3(a), 69 Stat. 169.)
 
 **Editorial Notes**
 
@@ -493,29 +493,29 @@ Provisions similar to this section are contained in section 3032 of this title.
 
 **Effective Date of 1949 Amendment**
 
-Act Oct. 12, 1949, ch. 681, title V, § 533(a), 63 Stat. 841, provided that: “Except as provided in subsections (b) and (c) of this section, this Act [see Tables for classification] shall become effective on October 1, 1949, and no pay, allowances, or benefits provided herein shall accrue to any person for any period prior thereto.”
+Act Oct. 12, 1949, ch. 681, title V, § 533(a), 63 Stat. 841, provided that: “Except as provided in subsections (b) and (c) of this section, this Act [see Tables for classification] shall become effective on October 1, 1949, and no pay, allowances, or benefits provided herein shall accrue to any person for any period prior thereto.”
 
-### § 854a–1. Temporary appointment or advancement of commissioned officers in time of war or national emergency
+### § 854a–1. Temporary appointment or advancement of commissioned officers in time of war or national emergency
 
 Personnel of the National Oceanic and Atmospheric Administration shall be subject in like manner and to the same extent as personnel of the Navy to all laws authorizing temporary appointment or advancement of commissioned officers in time of war or national emergency subject to the following limitations:
 
-**(1)** Commissioned officers in the service of a military department, under the provisions of sections 854, 855, 856, 857, and 858 1
+**(1)** Commissioned officers in the service of a military department, under the provisions of sections 854, 855, 856, 857, and 858 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title may, upon the recommendation of the Secretary of the military department concerned, be temporarily promoted to higher ranks or grades.
 
-**(2)** Commissioned officers in the service of the National Oceanic and Atmospheric Administration may be temporarily promoted to fill vacancies in ranks and grades caused by the transfer of commissioned officers to the service and jurisdiction of a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
+**(2)** Commissioned officers in the service of the National Oceanic and Atmospheric Administration may be temporarily promoted to fill vacancies in ranks and grades caused by the transfer of commissioned officers to the service and jurisdiction of a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
 
-**(3)** Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: *Provided*, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
+**(3)** Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: *Provided*, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
 
-(Dec. 3, 1942, ch. 670, § 1, 56 Stat. 1038; Pub. L. 89–657, § 3, Oct. 14, 1966, 80 Stat. 907; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Dec. 3, 1942, ch. 670, § 1, 56 Stat. 1038; Pub. L. 89–657, § 3, Oct. 14, 1966, 80 Stat. 907; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 854, 855, 856, 857, and 858 of this title, referred to in text, were repealed by Pub. L. 107–372, title II, § 271(4), Dec. 19, 2002, 116 Stat. 3094.
+Sections 854, 855, 856, 857, and 858 of this title, referred to in text, were repealed by Pub. L. 107–372, title II, § 271(4), Dec. 19, 2002, 116 Stat. 3094.
 
 **Codification**
 
@@ -535,17 +535,17 @@ Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency 
 
 Functions of President under pars. (1), (2), and (3) delegated to Secretary of Commerce, see section 1(b), (i) and (j) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
 
-### § 854a–2. Pay and allowances; date of acceptance of promotion
+### § 854a–2. Pay and allowances; date of acceptance of promotion
 
 Any commissioned officer of the National Oceanic and Atmospheric Administration promoted to a higher grade at any time after December 7, 1941, shall be deemed for all purposes to have accepted his promotion to higher grade upon the date such promotion is made by the President unless he shall expressly decline such promotion, and shall receive the pay and allowances of the higher grade from such date unless he is entitled under some other provision of law to receive the pay and allowances of the higher grade from an earlier date. No such officer who shall have subscribed to the oath of office required by section 3331 of title 5, shall be required to renew such oath or to take a new oath upon his promotion to a higher grade, if his service after the taking of such an oath shall have been continuous.
 
-(Dec. 3, 1942, ch. 670, § 3, 56 Stat. 1039; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Dec. 3, 1942, ch. 670, § 3, 56 Stat. 1039; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3331 of title 5” substituted in text for “section 1757, Revised Statutes” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Section 1757 of the Revised Statutes had been classified to section 16 of former Title 5, Executive Departments and Government Officers and Employees.
+“Section 3331 of title 5” substituted in text for “section 1757, Revised Statutes” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Section 1757 of the Revised Statutes had been classified to section 16 of former Title 5, Executive Departments and Government Officers and Employees.
 
 Provisions similar to this section are contained in section 3031 of this title.
 
@@ -555,19 +555,19 @@ Provisions similar to this section are contained in section 3031 of this title.
 
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
 
-### §§ 854b, 854c. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
+### §§ 854b, 854c. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
 
-Section 854b, act Jan. 19, 1942, ch. 6, § 3, 56 Stat. 7, related to composition, powers and duties of a Personnel Board.
+Section 854b, act Jan. 19, 1942, ch. 6, § 3, 56 Stat. 7, related to composition, powers and duties of a Personnel Board.
 
-Section 854c, act Jan. 19, 1942, ch. 6, § 4, 56 Stat. 7, related to submission of reports of the Personnel Boards to the President.
+Section 854c, act Jan. 19, 1942, ch. 6, § 4, 56 Stat. 7, related to submission of reports of the Personnel Boards to the President.
 
-### § 855. Repealed. Pub. L. 107–372, title II, § 271(4), Dec. 19, 2002, 116 Stat. 3094
+### § 855. Repealed. Pub. L. 107–372, title II, § 271(4), Dec. 19, 2002, 116 Stat. 3094
 
-Section, acts May 22, 1917, ch. 20, § 16, 40 Stat. 87; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 89–657, § 1(1), Oct. 14, 1966, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to cooperation with and transfer to military departments. See section 3061 of this title.
+Section, acts May 22, 1917, ch. 20, § 16, 40 Stat. 87; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 89–657, § 1(1), Oct. 14, 1966, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to cooperation with and transfer to military departments. See section 3061 of this title.
 
-### § 855a. Repealed. Pub. L. 85–857, § 14(79), Sept. 2, 1958, 72 Stat. 1272
+### § 855a. Repealed. Pub. L. 85–857, § 14(79), Sept. 2, 1958, 72 Stat. 1272
 
-Section, acts Dec. 3, 1942, ch. 670, § 2, 56 Stat. 1038; Aug. 16, 1954, ch. 738, 68 Stat. 730, related to rights and benefits of commissioned officers of Coast and Geodetic Survey assigned to projects of Army and Navy outside continental United States or in hazardous military areas.
+Section, acts Dec. 3, 1942, ch. 670, § 2, 56 Stat. 1038; Aug. 16, 1954, ch. 738, 68 Stat. 730, related to rights and benefits of commissioned officers of Coast and Geodetic Survey assigned to projects of Army and Navy outside continental United States or in hazardous military areas.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,49 +575,49 @@ Section, acts Dec. 3, 1942, ch. 670, § 2, 56 Stat. 1038; Aug. 16, 1954, ch. 7
 
 Repeal by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part I of Title 38, Veterans’ Benefits.
 
-### §§ 856 to 857–5. Repealed. Pub. L. 107–372, title II, § 271(3), (4), Dec. 19, 2002, 116 Stat. 3094
+### §§ 856 to 857–5. Repealed. Pub. L. 107–372, title II, § 271(3), (4), Dec. 19, 2002, 116 Stat. 3094
 
-Section 856, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; June 21, 1955, ch. 172, § 2(b), 69 Stat. 169; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to relative rank of National Oceanic and Atmospheric Administration officers when serving with Army, Navy, or Air Force. See section 3062 of this title.
+Section 856, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; June 21, 1955, ch. 172, § 2(b), 69 Stat. 169; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to relative rank of National Oceanic and Atmospheric Administration officers when serving with Army, Navy, or Air Force. See section 3062 of this title.
 
-Section 857, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; Aug. 1, 1956, ch. 837, title V, § 501(d)(1), 70 Stat. 883; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–54, § 13(m)(2), June 13, 1991, 105 Stat. 277, related to service of commissioned officers of the National Oceanic and Atmospheric Administration for purposes of servicemen’s and veterans’ benefits. See section 3072 of this title.
+Section 857, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; Aug. 1, 1956, ch. 837, title V, § 501(d)(1), 70 Stat. 883; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–54, § 13(m)(2), June 13, 1991, 105 Stat. 277, related to service of commissioned officers of the National Oceanic and Atmospheric Administration for purposes of servicemen’s and veterans’ benefits. See section 3072 of this title.
 
-Section 857–1, Pub. L. 91–621, § 1, Dec. 31, 1970, 84 Stat. 1863, related to applicable definitions. See section 3002 of this title.
+Section 857–1, Pub. L. 91–621, § 1, Dec. 31, 1970, 84 Stat. 1863, related to applicable definitions. See section 3002 of this title.
 
-Section 857–2, Pub. L. 91–621, § 2, Dec. 31, 1970, 84 Stat. 1863, related to retirement grade and pay. See section 3046 of this title.
+Section 857–2, Pub. L. 91–621, § 2, Dec. 31, 1970, 84 Stat. 1863, related to retirement grade and pay. See section 3046 of this title.
 
-Section 857–3, Pub. L. 91–621, § 3, Dec. 31, 1970, 84 Stat. 1863; Pub. L. 98–498, title III, § 310(a), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 102–54, § 13(m)(3), June 13, 1991, 105 Stat. 277, related to service for purposes of certain statutory rights, privileges, immunities, and benefits and provision of medical and dental care. See sections 3072 and 3073 of this title.
+Section 857–3, Pub. L. 91–621, § 3, Dec. 31, 1970, 84 Stat. 1863; Pub. L. 98–498, title III, § 310(a), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 102–54, § 13(m)(3), June 13, 1991, 105 Stat. 277, related to service for purposes of certain statutory rights, privileges, immunities, and benefits and provision of medical and dental care. See sections 3072 and 3073 of this title.
 
-Section 857–4, Pub. L. 91–621, § 4, Dec. 31, 1970, 84 Stat. 1863, related to commissary privileges. See section 3074 of this title.
+Section 857–4, Pub. L. 91–621, § 4, Dec. 31, 1970, 84 Stat. 1863, related to commissary privileges. See section 3074 of this title.
 
-Section 857–5, Pub. L. 91–621, § 5, Dec. 31, 1970, 84 Stat. 1864, related to applicability of statutes that had applied to commissioned officers of the Coast and Geodetic Survey and the Environmental Science Services Administration.
+Section 857–5, Pub. L. 91–621, § 5, Dec. 31, 1970, 84 Stat. 1864, related to applicability of statutes that had applied to commissioned officers of the Coast and Geodetic Survey and the Environmental Science Services Administration.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeals**
 
-Pub. L. 91–621, § 8, Dec. 31, 1970, 84 Stat. 1867, provided that all provisions of law inconsistent with Pub. L. 91–621 were repealed, prior to repeal by Pub. L. 107–372, title II, § 271(3), Dec. 19, 2002, 116 Stat. 3094.
+Pub. L. 91–621, § 8, Dec. 31, 1970, 84 Stat. 1867, provided that all provisions of law inconsistent with Pub. L. 91–621 were repealed, prior to repeal by Pub. L. 107–372, title II, § 271(3), Dec. 19, 2002, 116 Stat. 3094.
 
-### §§ 857–6 to 857–12. Repealed. Pub. L. 95–63, § 7(a), July 5, 1977, 91 Stat. 267
+### §§ 857–6 to 857–12. Repealed. Pub. L. 95–63, § 7(a), July 5, 1977, 91 Stat. 267
 
-Section 857–6, Pub. L. 92–125, § 1, Aug. 16, 1971, 85 Stat. 344, established National Advisory Committee on Oceans and Atmosphere. See section 857–13 of this title.
+Section 857–6, Pub. L. 92–125, § 1, Aug. 16, 1971, 85 Stat. 344, established National Advisory Committee on Oceans and Atmosphere. See section 857–13 of this title.
 
-Section 857–7, Pub. L. 92–125, § 2, Aug. 16, 1971, 85 Stat. 344, provided for membership, terms of office, duties, and Chairman and Vice Chairman of Committee. See section 857–14 of this title.
+Section 857–7, Pub. L. 92–125, § 2, Aug. 16, 1971, 85 Stat. 344, provided for membership, terms of office, duties, and Chairman and Vice Chairman of Committee. See section 857–14 of this title.
 
-Section 857–8, Pub. L. 92–125, § 3, Aug. 16, 1971, 85 Stat. 344, provided for designation of a senior policy official of Federal departments and agencies to assist Committee. See section 857–17(a) of this title.
+Section 857–8, Pub. L. 92–125, § 3, Aug. 16, 1971, 85 Stat. 344, provided for designation of a senior policy official of Federal departments and agencies to assist Committee. See section 857–17(a) of this title.
 
-Section 857–9, Pub. L. 92–125, § 4, Aug. 16, 1971, 85 Stat. 344; Pub. L. 94–69, § 2, Aug. 5, 1975, 89 Stat. 384, provided for an annual report by Committee. See section 857–15 of this title.
+Section 857–9, Pub. L. 92–125, § 4, Aug. 16, 1971, 85 Stat. 344; Pub. L. 94–69, § 2, Aug. 5, 1975, 89 Stat. 384, provided for an annual report by Committee. See section 857–15 of this title.
 
-Section 857–10, Pub. L. 92–125, § 5, Aug. 16, 1971, 85 Stat. 344, provided for compensation and travel expenses of Committee members. See section 857–16 of this title.
+Section 857–10, Pub. L. 92–125, § 5, Aug. 16, 1971, 85 Stat. 344, provided for compensation and travel expenses of Committee members. See section 857–16 of this title.
 
-Section 857–11, Pub. L. 92–125, § 6, Aug. 16, 1971, 85 Stat. 345, provided for assistance to Committee by Federal departments and agencies. See section 857–17 of this title.
+Section 857–11, Pub. L. 92–125, § 6, Aug. 16, 1971, 85 Stat. 345, provided for assistance to Committee by Federal departments and agencies. See section 857–17 of this title.
 
-Section 857–12, Pub. L. 92–125, § 7, Aug. 16, 1971, 85 Stat. 345; Pub. L. 92–567, Oct. 25, 1972, 86 Stat. 1181; Pub. L. 94–69, § 1, Aug. 5, 1975, 89 Stat. 384, authorized appropriations for operation of the Committee. See section 857–18 of this title.
+Section 857–12, Pub. L. 92–125, § 7, Aug. 16, 1971, 85 Stat. 345; Pub. L. 92–567, Oct. 25, 1972, 86 Stat. 1181; Pub. L. 94–69, § 1, Aug. 5, 1975, 89 Stat. 384, authorized appropriations for operation of the Committee. See section 857–18 of this title.
 
-### § 857–13. National Advisory Committee on Oceans and Atmosphere
+### § 857–13. National Advisory Committee on Oceans and Atmosphere
 
 There is hereby established a committee of 18 members to be known as the National Advisory Committee on Oceans and Atmosphere (hereinafter in sections 857–13 to 857–18 of this title referred to as the “Committee”).
 
-(Pub. L. 95–63, § 2, July 5, 1977, 91 Stat. 265.)
+(Pub. L. 95–63, § 2, July 5, 1977, 91 Stat. 265.)
 
 **Editorial Notes**
 
@@ -633,13 +633,13 @@ For short title of Pub. L. 95–63, see section 1 of Pub. L. 95–63, set out as
 
 **Transfer of Personnel, Positions, Records, and Funds**
 
-Pub. L. 95–63, § 7(b), July 5, 1977, 91 Stat. 267, provided that: “All personnel, positions, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions specified by the Act of August 16, 1971 [former sections 857–6 to 857–12 of this title] (establishing an advisory committee on oceans and atmosphere), are hereby transferred to the National Advisory Committee on Oceans and Atmosphere established by this Act [sections 857–13 to 857–18 of this title]. The personnel transferred under this subsection shall be so transferred without reduction in classification or compensation except, that after such transfer, such personnel shall be subject to reductions in classification or compensation in the same manner, to the same extent, and according to the same procedure as other employees of the United States classified and compensated according to the General Schedule in title 5, United States Code.”
+Pub. L. 95–63, § 7(b), July 5, 1977, 91 Stat. 267, provided that: “All personnel, positions, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the functions specified by the Act of August 16, 1971 [former sections 857–6 to 857–12 of this title] (establishing an advisory committee on oceans and atmosphere), are hereby transferred to the National Advisory Committee on Oceans and Atmosphere established by this Act [sections 857–13 to 857–18 of this title]. The personnel transferred under this subsection shall be so transferred without reduction in classification or compensation except, that after such transfer, such personnel shall be subject to reductions in classification or compensation in the same manner, to the same extent, and according to the same procedure as other employees of the United States classified and compensated according to the General Schedule in title 5, United States Code.”
 
 **Termination of Advisory Committees**
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 857–14. Membership
+### § 857–14. Membership
 
 **(a) Appointment and qualifications** The members of the Committee, who may not be full-time officers or employees of the United States, shall be appointed by the President. Members shall be appointed only from among individuals who are eminently qualified by way of knowledge and expertise in the following areas of direct concern to the Committee—
 
@@ -663,7 +663,7 @@ The President shall designate one of the members of the Committee as the Chairma
 
 **(2)** advise the Secretary of Commerce with respect to the carrying out of the programs administered by the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 95–63, § 3, July 5, 1977, 91 Stat. 265; Pub. L. 95–304, § 1(1), June 29, 1978, 92 Stat. 347; Pub. L. 97–87, § 1(1), Dec. 1, 1981, 95 Stat. 1134.)
+(Pub. L. 95–63, § 3, July 5, 1977, 91 Stat. 265; Pub. L. 95–304, § 1(1), June 29, 1978, 92 Stat. 347; Pub. L. 97–87, § 1(1), Dec. 1, 1981, 95 Stat. 1134.)
 
 **Editorial Notes**
 
@@ -673,7 +673,7 @@ Provisions similar to those contained in this section, which related to membersh
 
 **Amendments**
 
-1981—Subsec. (b)(2). Pub. L. 97–87 struck out “, or until ninety days after such date, whichever is earlier” after “until his or her successor has taken office”.
+1981—Subsec. (b)(2). Pub. L. 97–87 struck out “, or until ninety days after such date, whichever is earlier” after “until his or her successor has taken office”.
 
 1978—Subsec. (b)(1). Pub. L. 95–304 substituted provisions authorizing terms of members to expire on July 1, 1979, July 1, 1980, and July 1, 1981, respectively, for provisions authorizing terms of members to be for 1 year, 2 years, and 3 years, respectively.
 
@@ -683,7 +683,7 @@ Provisions similar to those contained in this section, which related to membersh
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 857–15. Reports
+### § 857–15. Reports
 
 **(a) In general**
 
@@ -697,7 +697,7 @@ Each annual report shall also be submitted to the Secretary of Commerce, who sha
 
 The annual report required under subsection (a) shall be submitted on or before June 30 of each year, beginning with June 30, 1978.
 
-(Pub. L. 95–63, § 4, July 5, 1977, 91 Stat. 266.)
+(Pub. L. 95–63, § 4, July 5, 1977, 91 Stat. 266.)
 
 **Editorial Notes**
 
@@ -715,21 +715,21 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 857–16. Compensation and travel expenses
+### § 857–16. Compensation and travel expenses
 
-Members of the Committee shall each be entitled to receive compensation not to exceed the daily rate for a GS–18 for each day (including traveltime) during which they are engaged in the actual performance of the duties of the Committee. In addition, while away from their homes or regular places of business in the performance of the duties of the Committee, each member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
+Members of the Committee shall each be entitled to receive compensation not to exceed the daily rate for a GS–18 for each day (including traveltime) during which they are engaged in the actual performance of the duties of the Committee. In addition, while away from their homes or regular places of business in the performance of the duties of the Committee, each member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5.
 
-(Pub. L. 95–63, § 5, July 5, 1977, 91 Stat. 266; Pub. L. 97–87, § 1(2), Dec. 1, 1981, 95 Stat. 1134.)
+(Pub. L. 95–63, § 5, July 5, 1977, 91 Stat. 266; Pub. L. 97–87, § 1(2), Dec. 1, 1981, 95 Stat. 1134.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in text, was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in text, was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 **Prior Provisions**
 
@@ -747,9 +747,9 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 857–17. Interagency cooperation and assistance
+### § 857–17. Interagency cooperation and assistance
 
 **(a) Liaison**
 
@@ -763,7 +763,7 @@ The Committee is authorized to request from the head of any department, agency, 
 
 The Secretary of Commerce shall make available to the Committee such staff, information, personnel, and administrative services and assistance as may reasonably be required to carry out the provisions of sections 857–13 to 857–18 of this title.
 
-(Pub. L. 95–63, § 6, July 5, 1977, 91 Stat. 266.)
+(Pub. L. 95–63, § 6, July 5, 1977, 91 Stat. 266.)
 
 **Editorial Notes**
 
@@ -777,11 +777,11 @@ Provisions similar to those contained in this section, which required the design
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 857–18. Authorization of appropriations
+### § 857–18. Authorization of appropriations
 
 There are authorized to be appropriated for purposes of carrying out sections 857–13 to 857–18 of this title not to exceed $520,000 for the fiscal year ending September 30, 1978, $572,000 for the fiscal year ending September 30, 1979, $565,000 for the fiscal year ending September 30, 1980, $600,000 for the fiscal year ending September 30, 1981, and $555,000 for the fiscal year ending September 30, 1982. Such sums as may be appropriated under this section shall remain available until expended.
 
-(Pub. L. 95–63, § 8, July 5, 1977, 91 Stat. 267; Pub. L. 95–304, § 1(2), June 29, 1978, 92 Stat. 347; Pub. L. 96–26, June 21, 1979, 93 Stat. 74; Pub. L. 97–87, § 1(3), Dec. 1, 1981, 95 Stat. 1134.)
+(Pub. L. 95–63, § 8, July 5, 1977, 91 Stat. 267; Pub. L. 95–304, § 1(2), June 29, 1978, 92 Stat. 347; Pub. L. 96–26, June 21, 1979, 93 Stat. 74; Pub. L. 97–87, § 1(3), Dec. 1, 1981, 95 Stat. 1134.)
 
 **Editorial Notes**
 
@@ -797,17 +797,17 @@ Provisions similar to those contained in this section, which authorized appropri
 
 1978—Pub. L. 95–304 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 
-### § 857–19. Biennial report
+### § 857–19. Biennial report
 
 Beginning in September, 2001, the President shall transmit to the Congress biennially a report that includes a detailed listing of all existing Federal programs related to ocean and coastal activities, including a description of each program, the current funding for the program, linkages to other Federal programs, and a projection of the funding level for the program for each of the next 5 fiscal years beginning after the report is submitted.
 
-(Pub. L. 106–256, § 5, Aug. 7, 2000, 114 Stat. 648.)
+(Pub. L. 106–256, § 5, Aug. 7, 2000, 114 Stat. 648.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Ocean Policy**
 
-Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, § 206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, § 306, Dec. 19, 2002, 116 Stat. 3096; Pub. L. 117–286, § 4(a)(200), Dec. 27, 2022, 136 Stat. 4328, provided that:
+Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, § 206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, § 306, Dec. 19, 2002, 116 Stat. 3096; Pub. L. 117–286, § 4(a)(200), Dec. 27, 2022, 136 Stat. 4328, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -975,23 +975,23 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 > “This Act shall become effective on January 20, 2001.”
 
-[Pub. L. 107–206, title I, § 206, Aug. 2, 2002, 116 Stat. 833, which directed the amendment of section (3)(f)(1) of Pub. L. 106–256, set out above, by striking “within 18 months of the establishment of the Commission” and inserting “by June 20, 2003”, was executed by striking “Within 18 months after the establishment of the Commission” and inserting “By June 20, 2003”, to reflect the probable intent of Congress.]
+[Pub. L. 107–206, title I, § 206, Aug. 2, 2002, 116 Stat. 833, which directed the amendment of section (3)(f)(1) of Pub. L. 106–256, set out above, by striking “within 18 months of the establishment of the Commission” and inserting “by June 20, 2003”, was executed by striking “Within 18 months after the establishment of the Commission” and inserting “By June 20, 2003”, to reflect the probable intent of Congress.]
 
 The following appropriations acts contained provisions similar to those in section 3(f)(1) of Pub. L. 106–256, set out above:
 
-Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, § 207, Jan. 10, 2002, 115 Stat. 2298.
+Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, § 207, Jan. 10, 2002, 115 Stat. 2298.
 
-Pub. L. 106–553, § 1(a)(2) [title V], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
+Pub. L. 106–553, § 1(a)(2) [title V], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
 
 **Executive Documents**
 
 **Executive Order No. 13366**
 
-Ex. Ord. No. 13366, Dec. 17, 2004, 69 F.R. 76591, which established the Committee on Ocean Policy, was revoked by Ex. Ord. No. 13547, § 10, July 19, 2010, 75 F.R. 43027, formerly set out below.
+Ex. Ord. No. 13366, Dec. 17, 2004, 69 F.R. 76591, which established the Committee on Ocean Policy, was revoked by Ex. Ord. No. 13547, § 10, July 19, 2010, 75 F.R. 43027, formerly set out below.
 
 **Executive Order No. 13547**
 
-Ex. Ord. No. 13547, July 19, 2010, 75 F.R. 43023, which established policy regarding stewardship of the ocean, coasts, and the Great Lakes and established the National Ocean Council, was revoked by Ex. Ord. No. 13840, § 7, June 19, 2018, 83 F.R. 29433, set out below.
+Ex. Ord. No. 13547, July 19, 2010, 75 F.R. 43023, which established policy regarding stewardship of the ocean, coasts, and the Great Lakes and established the National Ocean Council, was revoked by Ex. Ord. No. 13840, § 7, June 19, 2018, 83 F.R. 29433, set out below.
 
 **Ex. Ord. No. 13840. Ocean Policy To Advance the Economic, Security, and Environmental Interests of the United States**
 
@@ -1099,25 +1099,25 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 857–20. Repealed. Pub. L. 116–221, § 10, Dec. 18, 2020, 134 Stat. 1061
+### § 857–20. Repealed. Pub. L. 116–221, § 10, Dec. 18, 2020, 134 Stat. 1061
 
-Section, Pub. L. 107–299, § 9, Nov. 26, 2002, 116 Stat. 2348, provided for coordination between the Under Secretary of Commerce for Oceans and Atmosphere and the Director of the National Science Foundation to jointly submit a report on the oceans and coastal research activities of the National Oceanic and Atmospheric Administration and of the National Science Foundation.
+Section, Pub. L. 107–299, § 9, Nov. 26, 2002, 116 Stat. 2348, provided for coordination between the Under Secretary of Commerce for Oceans and Atmosphere and the Director of the National Science Foundation to jointly submit a report on the oceans and coastal research activities of the National Oceanic and Atmospheric Administration and of the National Science Foundation.
 
-### §§ 857a, 858. Repealed. Pub. L. 107–372, title II, § 271(2), (4), Dec. 19, 2002, 116 Stat. 3094
+### §§ 857a, 858. Repealed. Pub. L. 107–372, title II, § 271(2), (4), Dec. 19, 2002, 116 Stat. 3094
 
-Section 857a, acts Aug. 10, 1956, ch. 1041, § 3, 70A Stat. 619; Pub. L. 85–861, § 3, Sept. 2, 1958, 72 Stat. 1546; Pub. L. 86–160, § 2, Aug. 14, 1959, 73 Stat. 358; Pub. L. 87–233, § 4, Sept. 14, 1961, 75 Stat. 507; Pub. L. 87–649, § 9(a), Sept. 7, 1962, 76 Stat. 495; Pub. L. 88–132, § 5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, § 1(c)(1), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–538, § 3(a), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, § 5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–215, § 1, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–357, § 4, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, § 507(f)(1), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 98–94, title X, § 1007(d), Sept. 24, 1983, 97 Stat. 662; Pub. L. 104–106, div. A, title V, § 566(a), (b), Feb. 10, 1996, 110 Stat. 327; Pub. L. 105–85, div. A, title VI, § 653(b), title X, § 1073(f), Nov. 18, 1997, 111 Stat. 1804, 1906; Pub. L. 107–107, div. A, title VI, § 653(b), Dec. 28, 2001, 115 Stat. 1153, related to applicability of certain provisions of Title 10, Armed Forces. See section 3071 of this title.
+Section 857a, acts Aug. 10, 1956, ch. 1041, § 3, 70A Stat. 619; Pub. L. 85–861, § 3, Sept. 2, 1958, 72 Stat. 1546; Pub. L. 86–160, § 2, Aug. 14, 1959, 73 Stat. 358; Pub. L. 87–233, § 4, Sept. 14, 1961, 75 Stat. 507; Pub. L. 87–649, § 9(a), Sept. 7, 1962, 76 Stat. 495; Pub. L. 88–132, § 5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, § 1(c)(1), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–538, § 3(a), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, § 5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–215, § 1, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–357, § 4, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, § 507(f)(1), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 98–94, title X, § 1007(d), Sept. 24, 1983, 97 Stat. 662; Pub. L. 104–106, div. A, title V, § 566(a), (b), Feb. 10, 1996, 110 Stat. 327; Pub. L. 105–85, div. A, title VI, § 653(b), title X, § 1073(f), Nov. 18, 1997, 111 Stat. 1804, 1906; Pub. L. 107–107, div. A, title VI, § 653(b), Dec. 28, 2001, 115 Stat. 1153, related to applicability of certain provisions of Title 10, Armed Forces. See section 3071 of this title.
 
-Section 858, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 89–657, § 1(2), Oct. 14, 1966, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to rules and regulations when cooperating with military departments. See section 3063 of this title.
+Section 858, acts May 22, 1917, ch. 20, § 16, 40 Stat. 88; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 89–657, § 1(2), Oct. 14, 1966, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to rules and regulations when cooperating with military departments. See section 3063 of this title.
 
-### § 859. Repealed. June 16, 1942, ch. 413, § 19, 56 Stat. 369, eff. June 1, 1942
+### § 859. Repealed. June 16, 1942, ch. 413, § 19, 56 Stat. 369, eff. June 1, 1942
 
 Section, act June 10, 1922, ch. 212, 42 Stat. 625–633, related to pay and allowances of commissioned officers.
 
-### § 860. Repealed. Pub. L. 87–649, § 14b, Sept. 7, 1962, 76 Stat. 499
+### § 860. Repealed. Pub. L. 87–649, § 14b, Sept. 7, 1962, 76 Stat. 499
 
-Section, act May 18, 1920, ch. 190, § 11 (words before the first semicolon), 41 Stat. 603, made pay and allowances of naval officers applicable to Coast and Geodetic Survey generally.
+Section, act May 18, 1920, ch. 190, § 11 (words before the first semicolon), 41 Stat. 603, made pay and allowances of naval officers applicable to Coast and Geodetic Survey generally.
 
-### § 861. Omitted
+### § 861. Omitted
 
 **Editorial Notes**
 
@@ -1125,11 +1125,11 @@ Section, act May 18, 1920, ch. 190, § 11 (words before the first semicolon), 
 
 Section, acts Feb. 27, 1925, ch. 364, title III, 43 Stat. 1046; Apr. 29, 1926, ch. 195, title III, 44 Stat. 362, related to expenses of officers of the Coast and Geodetic Survey when traveling on Government owned vessels.
 
-### § 861a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
+### § 861a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
 
-Section, act May 18, 1920, ch. 190, § 12, 41 Stat. 604, related to transportation for families of officers and enlisted men on permanent change of station.
+Section, act May 18, 1920, ch. 190, § 12, 41 Stat. 604, related to transportation for families of officers and enlisted men on permanent change of station.
 
-### §§ 861b, 861c. Omitted
+### §§ 861b, 861c. Omitted
 
 **Editorial Notes**
 
@@ -1137,49 +1137,49 @@ Section, act May 18, 1920, ch. 190, § 12, 41 Stat. 604, related to transporta
 
 Section 861b, act Feb. 21, 1929, ch. 288, 45 Stat. 1254, defined the terms “child” and “children” as formerly used in section 861a of this title, and has been omitted in view of the repeal of section 861a.
 
-Section 861c, act June 24, 1935, ch. 291, § 3, 49 Stat. 421, defined the phrase “permanent change in station” as formerly used in section 861a of this title, and has been omitted in view of the repeal of section 861a.
+Section 861c, act June 24, 1935, ch. 291, § 3, 49 Stat. 421, defined the phrase “permanent change in station” as formerly used in section 861a of this title, and has been omitted in view of the repeal of section 861a.
 
-### § 862. Repealed. Pub. L. 87–649, § 14b, Sept. 7, 1962, 76 Stat. 498
+### § 862. Repealed. Pub. L. 87–649, § 14b, Sept. 7, 1962, 76 Stat. 498
 
-Section, acts Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1322; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; June 21, 1955, ch. 172, § 1, 69 Stat. 169; Sept. 26, 1961, Pub. L. 87–304, § 9(b), 75 Stat. 665, authorized commissioned officers of the Coast and Geodetic Survey to make assignments or allotments of their pay. See section 706 of Title 37, Pay and Allowances of the Uniformed Services.
+Section, acts Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1322; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; June 21, 1955, ch. 172, § 1, 69 Stat. 169; Sept. 26, 1961, Pub. L. 87–304, § 9(b), 75 Stat. 665, authorized commissioned officers of the Coast and Geodetic Survey to make assignments or allotments of their pay. See section 706 of Title 37, Pay and Allowances of the Uniformed Services.
 
-### § 862a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
+### § 862a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
 
-Section, acts Mar. 2, 1923, ch. 178, title I, 42 Stat. 1385; Aug. 4, 1949, ch. 393, § 11, 63 Stat. 559, prohibited the issuance of heat or light in kind to any person in the Coast and Geodetic Survey while such person is receiving an allowance for rental of quarters.
+Section, acts Mar. 2, 1923, ch. 178, title I, 42 Stat. 1385; Aug. 4, 1949, ch. 393, § 11, 63 Stat. 559, prohibited the issuance of heat or light in kind to any person in the Coast and Geodetic Survey while such person is receiving an allowance for rental of quarters.
 
-### § 863. Repealed. June 21, 1955, ch. 172, § 5(4), 69 Stat. 170
+### § 863. Repealed. June 21, 1955, ch. 172, § 5(4), 69 Stat. 170
 
-Section, acts Mar. 4, 1909, ch. 299, § 1, 35 Stat. 974; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to leaves of absence of officers of the Coast and Geodetic Survey on duty in the Philippine Islands.
+Section, acts Mar. 4, 1909, ch. 299, § 1, 35 Stat. 974; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to leaves of absence of officers of the Coast and Geodetic Survey on duty in the Philippine Islands.
 
-### § 864. Repealed. Pub. L. 107–372, title II, § 271(6), Dec. 19, 2002, 116 Stat. 3094
+### § 864. Repealed. Pub. L. 107–372, title II, § 271(6), Dec. 19, 2002, 116 Stat. 3094
 
-Section, act May 18, 1920, ch. 190, § 11, 41 Stat. 603; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, provided that laws concerning retirement of commissioned Naval officers would apply to commissioned National Oceanic and Atmospheric Administration officers.
+Section, act May 18, 1920, ch. 190, § 11, 41 Stat. 603; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, provided that laws concerning retirement of commissioned Naval officers would apply to commissioned National Oceanic and Atmospheric Administration officers.
 
-### § 864a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
+### § 864a. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
 
-Section, act May 18, 1920, ch. 190, §§ 11 (proviso), 14, 41 Stat. 604, related to service credits in computing longevity pay of officers of the Coast and Geodetic Survey.
+Section, act May 18, 1920, ch. 190, §§ 11 (proviso), 14, 41 Stat. 604, related to service credits in computing longevity pay of officers of the Coast and Geodetic Survey.
 
-### §§ 864b, 864c. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
+### §§ 864b, 864c. Repealed. June 3, 1948, ch. 390, § 22(a), formerly § 21(a), 62 Stat. 300; renumbered § 22(a), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506
 
-Section 864b, act Jan. 19, 1942, ch. 6, § 5, 56 Stat. 7, related to retirement of officers. See, sections 1401 et seq., 6321 et seq., and 6371 et seq. of Title 10, Armed Forces.
+Section 864b, act Jan. 19, 1942, ch. 6, § 5, 56 Stat. 7, related to retirement of officers. See, sections 1401 et seq., 6321 et seq., and 6371 et seq. of Title 10, Armed Forces.
 
-Section 864c, act Jan. 19, 1942, ch. 6, § 7, 56 Stat. 8, related to pay of officers retired upon recommendation of Personnel Board.
+Section 864c, act Jan. 19, 1942, ch. 6, § 7, 56 Stat. 8, related to pay of officers retired upon recommendation of Personnel Board.
 
-### § 864d. Repealed. Oct. 12, 1949, ch. 681, title V, § 531(b)(31), 63 Stat. 839, eff. Oct. 1, 1949
+### § 864d. Repealed. Oct. 12, 1949, ch. 681, title V, § 531(b)(31), 63 Stat. 839, eff. Oct. 1, 1949
 
-Section, acts Jan. 19, 1942, ch. 6, § 7, 56 Stat. 8; June 3, 1948, ch. 390, § 22(b), formerly § 21(b), 62 Stat. 300; renumbered § 22(b), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506, related to rank or pay of officers retired for duty incurred disability. See sections 1201 et seq., 1371 et seq., and 1401 et seq. of Title 10, Armed Forces.
+Section, acts Jan. 19, 1942, ch. 6, § 7, 56 Stat. 8; June 3, 1948, ch. 390, § 22(b), formerly § 21(b), 62 Stat. 300; renumbered § 22(b), Sept. 14, 1961, Pub. L. 87–233, § 1(f), 75 Stat. 506, related to rank or pay of officers retired for duty incurred disability. See sections 1201 et seq., 1371 et seq., and 1401 et seq. of Title 10, Armed Forces.
 
-### § 864e. Repealed. Pub. L. 86–465, § 1, May 13, 1960, 74 Stat. 130
+### § 864e. Repealed. Pub. L. 86–465, § 1, May 13, 1960, 74 Stat. 130
 
-Section, acts June 6, 1942, ch. 383, 56 Stat. 328; Aug. 4, 1949, ch. 393, § 15, 63 Stat. 560; Oct. 12, 1949, ch. 681, title V, § 522(b), 63 Stat. 836, provided that certain commissioned officers of the Coast and Geodetic Survey who have been specially commended for performance of duty in actual combat prior to Dec. 31, 1946, shall, upon retirement, be placed upon the retired list one grade higher than the grade in which they were serving at the time of retirement.
+Section, acts June 6, 1942, ch. 383, 56 Stat. 328; Aug. 4, 1949, ch. 393, § 15, 63 Stat. 560; Oct. 12, 1949, ch. 681, title V, § 522(b), 63 Stat. 836, provided that certain commissioned officers of the Coast and Geodetic Survey who have been specially commended for performance of duty in actual combat prior to Dec. 31, 1946, shall, upon retirement, be placed upon the retired list one grade higher than the grade in which they were serving at the time of retirement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 86–465, § 2, May 13, 1960, 74 Stat. 130, provided that: “This Act [repealing this section] becomes effective on November 1, 1959.”
+Pub. L. 86–465, § 2, May 13, 1960, 74 Stat. 130, provided that: “This Act [repealing this section] becomes effective on November 1, 1959.”
 
-### § 865. Omitted
+### § 865. Omitted
 
 **Editorial Notes**
 
@@ -1187,37 +1187,37 @@ Pub. L. 86–465, § 2, May 13, 1960, 74 Stat. 130, provided that: “This Act
 
 Section, acts May 28, 1924, ch. 203, 43 Stat. 194; Feb. 11, 1925, ch. 209, 43 Stat. 872; May 21, 1926, ch. 355, 44 Stat. 604, related to computation of length of service of officers and expired with the appropriation acts of which it was a part.
 
-### § 866. Repealed. Aug. 6, 1947, ch. 504, § 10(1), 61 Stat. 788
+### § 866. Repealed. Aug. 6, 1947, ch. 504, § 10(1), 61 Stat. 788
 
 Section, act Jan. 31, 1925, ch. 121, 43 Stat. 802, related to seismological investigations. See section 883a of this title.
 
-### §§ 867, 868. Repealed. Oct. 31, 1951, ch. 654, § 1(39), (60), 65 Stat. 702, 703
+### §§ 867, 868. Repealed. Oct. 31, 1951, ch. 654, § 1(39), (60), 65 Stat. 702, 703
 
-Section 867, act June 5, 1920, ch. 235, § 1, 41 Stat. 930, related to transfer of instruments to institutions.
+Section 867, act June 5, 1920, ch. 235, § 1, 41 Stat. 930, related to transfer of instruments to institutions.
 
-Section 868, act July 1, 1918, ch. 113, § 1, 40 Stat. 688, related to purchase of supplies or procurement of services in the field.
+Section 868, act July 1, 1918, ch. 113, § 1, 40 Stat. 688, related to purchase of supplies or procurement of services in the field.
 
-### § 868a. Omitted
+### § 868a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Jan. 19, 1942, ch. 6, § 10, 56 Stat. 8; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Oct. 14, 1966, Pub. L. 89–657, § 2, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to the purchase of commissary and quartermaster supplies by personnel from the National Oceanic and Atmospheric Administration, and has been superseded by former section 857–4 of this title and section 3074 of this title.
+Section, act Jan. 19, 1942, ch. 6, § 10, 56 Stat. 8; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Oct. 14, 1966, Pub. L. 89–657, § 2, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to the purchase of commissary and quartermaster supplies by personnel from the National Oceanic and Atmospheric Administration, and has been superseded by former section 857–4 of this title and section 3074 of this title.
 
-### § 869. Repealed. July 1, 1944, ch. 373, title XIII, § 1313 58 Stat. 714
+### § 869. Repealed. July 1, 1944, ch. 373, title XIII, § 1313 58 Stat. 714
 
-Section, act Apr. 26, 1939, ch. 92, § 2, 53 Stat. 620, as affected by 1939 Reorg. Plan No. I, §§ 201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, provided for medical, dental, etc., treatment of Coast and Geodetic Survey’s personnel and their families. See section 253 of Title 42, The Public Health and Welfare.
+Section, act Apr. 26, 1939, ch. 92, § 2, 53 Stat. 620, as affected by 1939 Reorg. Plan No. I, §§ 201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, provided for medical, dental, etc., treatment of Coast and Geodetic Survey’s personnel and their families. See section 253 of Title 42, The Public Health and Welfare.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Renumbering of Repealing Act**
 
-Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed this section, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713, by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294, § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
+Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed this section, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713, by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294, § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
 
-### § 870. Repealed. Aug. 1, 1956, ch. 837, title V, § 502(7), 70 Stat. 886
+### § 870. Repealed. Aug. 1, 1956, ch. 837, title V, § 502(7), 70 Stat. 886
 
-Section, acts Jan. 19, 1942, ch. 6, § 9, 56 Stat. 8; Mar. 29, 1944, ch. 141, § 4, 58 Stat. 130; July 15, 1954, ch. 507, § 15, 68 Stat. 481, provided for payment of death gratuity to survivors of commissioned officers of Coast and Geodetic Survey.
+Section, acts Jan. 19, 1942, ch. 6, § 9, 56 Stat. 8; Mar. 29, 1944, ch. 141, § 4, 58 Stat. 130; July 15, 1954, ch. 507, § 15, 68 Stat. 481, provided for payment of death gratuity to survivors of commissioned officers of Coast and Geodetic Survey.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1225,29 +1225,29 @@ Section, acts Jan. 19, 1942, ch. 6, § 9, 56 Stat. 8; Mar. 29, 1944, ch. 141, 
 
 Repeal effective Jan. 1, 1957, see section 603(a) of act Aug. 1, 1956.
 
-### § 871. Repealed. Dec. 28, 1945, ch. 597, § 4, 59 Stat. 662
+### § 871. Repealed. Dec. 28, 1945, ch. 597, § 4, 59 Stat. 662
 
-Section, act Oct. 27, 1943, ch. 287, § 6, 57 Stat. 583, provided for reimbursement for property lost or destroyed in service while serving with the Navy.
+Section, act Oct. 27, 1943, ch. 287, § 6, 57 Stat. 583, provided for reimbursement for property lost or destroyed in service while serving with the Navy.
 
-### § 872. Omitted
+### § 872. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 86–451, title I, § 301, May 13, 1960, 74 Stat. 94, which prescribed the rate of extra compensation for recorders, instrument observers and other Federal employees while making oceanographic observations or tending seismographs, was from an appropriation act. See section 873 of this title, which authorizes Secretary of Commerce to establish rates of compensation for such personnel.
+Section, Pub. L. 86–451, title I, § 301, May 13, 1960, 74 Stat. 94, which prescribed the rate of extra compensation for recorders, instrument observers and other Federal employees while making oceanographic observations or tending seismographs, was from an appropriation act. See section 873 of this title, which authorizes Secretary of Commerce to establish rates of compensation for such personnel.
 
-### § 873. Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations
+### § 873. Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations
 
 The Secretary of Commerce is authorized to pay extra compensation to members of crews of vessels when assigned duties as instrument observer or recorder, and to employees of other Federal agencies while observing tides or currents, or tending seismographs or magnetographs, at such rates as may be specified from time to time by him and without regard to section 5533 of title 5.
 
-(July 22, 1947, ch. 286, § 2, 61 Stat. 400; Pub. L. 86–397, § 1, Mar. 28, 1960, 74 Stat. 11; Pub. L. 88–448, title IV, § 401(*l*), Aug. 19, 1964, 78 Stat. 491.)
+(July 22, 1947, ch. 286, § 2, 61 Stat. 400; Pub. L. 86–397, § 1, Mar. 28, 1960, 74 Stat. 11; Pub. L. 88–448, title IV, § 401(*l*), Aug. 19, 1964, 78 Stat. 491.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act [5 U.S.C. 3105]” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act [5 U.S.C. 3105]” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -1261,15 +1261,15 @@ The Secretary of Commerce is authorized to pay extra compensation to members of 
 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
 
-### § 874. Repealed. Pub. L. 107–372, title II, § 271(5), Dec. 19, 2002, 116 Stat. 3094
+### § 874. Repealed. Pub. L. 107–372, title II, § 271(5), Dec. 19, 2002, 116 Stat. 3094
 
-Section, act July 22, 1947, ch. 286, § 1, 61 Stat. 400; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to transportation of deceased officers’ effects and reimbursement for supplies furnished distressed and shipwrecked persons. See section 3075 of this title.
+Section, act July 22, 1947, ch. 286, § 1, 61 Stat. 400; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to transportation of deceased officers’ effects and reimbursement for supplies furnished distressed and shipwrecked persons. See section 3075 of this title.
 
-### § 875. Powers of officers as notaries
+### § 875. Powers of officers as notaries
 
 In places where the National Oceanic and Atmospheric Administration is serving which are not within the jurisdiction of any one of the States of the continental United States, excluding Alaska, commanding officers of National Oceanic and Atmospheric Administration vessels, and such other officers of the National Oceanic and Atmospheric Administration as the Secretary of Commerce may designate, may exercise the general powers of the notary public in the administration of oaths for the execution, acknowledgment, and attestation of instruments and papers, and the performance of all other notarial acts. The powers conferred shall be limited to acts performed in behalf of the personnel of the National Oceanic and Atmospheric Administration or in connection with the proper execution of the functions of that agency.
 
-(Aug. 3, 1956, ch. 932, § 1, 70 Stat. 988; Pub. L. 86–624, § 24, July 12, 1960, 74 Stat. 418; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 3, 1956, ch. 932, § 1, 70 Stat. 988; Pub. L. 86–624, § 24, July 12, 1960, 74 Stat. 418; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Editorial Notes**
 
@@ -1283,17 +1283,17 @@ In places where the National Oceanic and Atmospheric Administration is serving w
 
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
 
-### § 876. Fees for notarial acts; prima facie evidence of authority
+### § 876. Fees for notarial acts; prima facie evidence of authority
 
 No fee of any kind shall be paid to any officer for the performance of any notarial act authorized by section 875 of this title. The signature without seal together with indication of grade of any officer performing any notarial act shall be prima facie evidence of his authority.
 
-(Aug. 3, 1956, ch. 932, § 2, 70 Stat. 988.)
+(Aug. 3, 1956, ch. 932, § 2, 70 Stat. 988.)
 
-### § 877. Appropriations; advances from
+### § 877. Appropriations; advances from
 
 Advances of money from available appropriations may be made to the National Ocean Survey and by authority of the Director thereof to chiefs of parties and accounts arising under such advances shall be rendered through and by the disbursing officer of the National Ocean Survey to the Government Accountability Office as under advances made to chiefs of parties prior to July 1, 1918.
 
-(July 1, 1918, ch. 113, § 1, 40 Stat. 688; June 5, 1920, ch. 235, § 1, 41 Stat. 929; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 92–310, title II, § 231(z), June 6, 1972, 86 Stat. 212; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(July 1, 1918, ch. 113, § 1, 40 Stat. 688; June 5, 1920, ch. 235, § 1, 41 Stat. 929; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; Pub. L. 92–310, title II, § 231(z), June 6, 1972, 86 Stat. 212; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -1319,11 +1319,11 @@ Section was formerly classified to section 550 of Title 31 prior to the general 
 
 Coast and Geodetic Survey consolidated with National Weather Bureau to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 878. Appropriations; purchases from
+### § 878. Appropriations; purchases from
 
 The Secretary of Commerce is authorized to purchase, from the appropriation for the National Ocean Survey, provisions, clothing, and small stores for the enlisted men, and food supplies for field parties working in remote localities, such provisions, clothing, small stores, and food supplies to be sold to the employees of said survey and the appropriation reimbursed.
 
-(Mar. 3, 1901, ch. 853, § 1, 31 Stat. 1144; Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826.)
+(Mar. 3, 1901, ch. 853, § 1, 31 Stat. 1144; Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826.)
 
 **Editorial Notes**
 
@@ -1341,7 +1341,7 @@ Section was formerly classified to section 661 of Title 31 prior to the general 
 
 Coast and Geodetic Survey consolidated with National Weather Bureau to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 878a. Contract for development of a major program; costs; Major Program Annual Report for satellite development program
+### § 878a. Contract for development of a major program; costs; Major Program Annual Report for satellite development program
 
 **(a) Definitions** For purposes of this section—
 
@@ -1431,7 +1431,7 @@ Coast and Geodetic Survey consolidated with National Weather Bureau to form Envi
 
 NOAA shall complete an analysis initiated under subsection (e)(2) not later than 6 months after the Under Secretary makes a determination under subsection (e). The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
 
-(Pub. L. 112–55, div. B, title I, § 105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, § 105(a), Mar. 26, 2013, 127 Stat. 242.)
+(Pub. L. 112–55, div. B, title I, § 105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, § 105(a), Mar. 26, 2013, 127 Stat. 242.)
 
 **Editorial Notes**
 
@@ -1443,7 +1443,7 @@ Section is from the Commerce, Justice, Science, and Related Agencies Appropriati
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
+Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
 
 **Amendments**
 
@@ -1453,39 +1453,39 @@ Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
 
 **Requirements Adopted by Reference**
 
-Pub. L. 119–74, div. A, title I, § 104, Jan. 23, 2026, 140 Stat. 15, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2026”.
+Pub. L. 119–74, div. A, title I, § 104, Jan. 23, 2026, 140 Stat. 15, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2026”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. C, title I, § 104, Mar. 9, 2024, 138 Stat. 130.
+Pub. L. 118–42, div. C, title I, § 104, Mar. 9, 2024, 138 Stat. 130.
 
-Pub. L. 117–328, div. B, title I, § 104, Dec. 29, 2022, 136 Stat. 4519.
+Pub. L. 117–328, div. B, title I, § 104, Dec. 29, 2022, 136 Stat. 4519.
 
-Pub. L. 117–103, div. B, title I, § 104, Mar. 15, 2022, 136 Stat. 111.
+Pub. L. 117–103, div. B, title I, § 104, Mar. 15, 2022, 136 Stat. 111.
 
-Pub. L. 116–260, div. B, title I, § 104, Dec. 27, 2020, 134 Stat. 1243.
+Pub. L. 116–260, div. B, title I, § 104, Dec. 27, 2020, 134 Stat. 1243.
 
-Pub. L. 116–93, div. B, title I, § 104, Dec. 20, 2019, 133 Stat. 2394.
+Pub. L. 116–93, div. B, title I, § 104, Dec. 20, 2019, 133 Stat. 2394.
 
-Pub. L. 116–6, div. C, title I, § 104, Feb. 15, 2019, 133 Stat. 100.
+Pub. L. 116–6, div. C, title I, § 104, Feb. 15, 2019, 133 Stat. 100.
 
-Pub. L. 115–141, div. B, title I, § 104, Mar. 23, 2018, 132 Stat. 408.
+Pub. L. 115–141, div. B, title I, § 104, Mar. 23, 2018, 132 Stat. 408.
 
-Pub. L. 115–31, div. B, title I, § 104, May 5, 2017, 131 Stat. 191.
+Pub. L. 115–31, div. B, title I, § 104, May 5, 2017, 131 Stat. 191.
 
-Pub. L. 114–113, div. B, title I, § 104, Dec. 18, 2015, 129 Stat. 2294.
+Pub. L. 114–113, div. B, title I, § 104, Dec. 18, 2015, 129 Stat. 2294.
 
-Pub. L. 113–235, div. B, title I, § 104, Dec. 16, 2014, 128 Stat. 2181.
+Pub. L. 113–235, div. B, title I, § 104, Dec. 16, 2014, 128 Stat. 2181.
 
-Pub. L. 113–76, div. B, title I, § 104, Jan. 17, 2014, 128 Stat. 51.
+Pub. L. 113–76, div. B, title I, § 104, Jan. 17, 2014, 128 Stat. 51.
 
-Pub. L. 113–6, div. B, title I, § 105(b), Mar. 26, 2013, 127 Stat. 242.
+Pub. L. 113–6, div. B, title I, § 105(b), Mar. 26, 2013, 127 Stat. 242.
 
-### § 878b. Safety and health regulations for scientific and occupational diving
+### § 878b. Safety and health regulations for scientific and occupational diving
 
 On and after March 11, 2009, the Secretary of Commerce is permitted to prescribe and enforce standards or regulations affecting safety and health in the context of scientific and occupational diving within the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 111–8, div. B, title I, § 106, Mar. 11, 2009, 123 Stat. 568.)
+(Pub. L. 111–8, div. B, title I, § 106, Mar. 11, 2009, 123 Stat. 568.)
 
 **Editorial Notes**
 
@@ -1497,19 +1497,19 @@ Section was enacted as part of the Department of Commerce Appropriations Act, 20
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 110–161, div. B, title I, § 110, Dec. 26, 2007, 121 Stat. 1893.
+Pub. L. 110–161, div. B, title I, § 110, Dec. 26, 2007, 121 Stat. 1893.
 
 ## SUBCHAPTER II—SURVEYS
 
-### §§ 881 to 883. Repealed. Aug. 6, 1947, ch. 504, § 10(2)–(5), 61 Stat. 788
+### §§ 881 to 883. Repealed. Aug. 6, 1947, ch. 504, § 10(2)–(5), 61 Stat. 788
 
-Section 881, R.S. § 4681, related to authority of the President to order surveys of coasts of the United States. See section 883a of this title.
+Section 881, R.S. § 4681, related to authority of the President to order surveys of coasts of the United States. See section 883a of this title.
 
-Section 882, R.S. § 4682, related to additional authority to order surveys beyond twenty-league limit. See section 883a of this title.
+Section 882, R.S. § 4682, related to additional authority to order surveys beyond twenty-league limit. See section 883a of this title.
 
-Section 883, R.S. §§ 4683, 4684, related to mode of conducting surveys generally. See sections 883a and 883b of this title.
+Section 883, R.S. §§ 4683, 4684, related to mode of conducting surveys generally. See sections 883a and 883b of this title.
 
-### § 883a. Surveys and other activities
+### § 883a. Surveys and other activities
 
 To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:
 
@@ -1523,7 +1523,7 @@ To provide charts and related information for the safe navigation of marine and 
 
 **(5)** Geomagnetic, seismological, gravity, and related geophysical measurements and investigations, and observations for the determination of variation in latitude and longitude.
 
-(Aug. 6, 1947, ch. 504, § 1, 61 Stat. 787; Pub. L. 86–409, Apr. 5, 1960, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+(Aug. 6, 1947, ch. 504, § 1, 61 Stat. 787; Pub. L. 86–409, Apr. 5, 1960, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 **Editorial Notes**
 
@@ -1535,7 +1535,7 @@ To provide charts and related information for the safe navigation of marine and 
 
 **Continuous Plankton Recorder Survey**
 
-Pub. L. 117–328, div. JJ, title III, § 301, Dec. 29, 2022, 136 Stat. 6092, provided that:
+Pub. L. 117–328, div. JJ, title III, § 301, Dec. 29, 2022, 136 Stat. 6092, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [Dec. 29, 2022], and on an ongoing basis thereafter, the Secretary of Commerce shall conduct a Continuous Plankton Recorder survey.
 
@@ -1585,7 +1585,7 @@ Pub. L. 116–274, Dec. 31, 2020, 134 Stat. 3356, provided that:
 
 **Great Lakes Mapping**
 
-Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amended by Pub. L. 100–629, § 3, Nov. 7, 1988, 102 Stat. 3286, provided that:
+Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amended by Pub. L. 100–629, § 3, Nov. 7, 1988, 102 Stat. 3286, provided that:
 
 > **“SEC. 3201. SHORT TITLE.**
 
@@ -1687,7 +1687,7 @@ Functions of Secretary and other officers of Department of Commerce under sectio
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
 
-### § 883b. Dissemination of data; further activities
+### § 883b. Dissemination of data; further activities
 
 In order that full public benefit may be derived from the operations of the National Ocean Survey by the dissemination of data resulting from the activities herein authorized and of related data from other sources, the Secretary of Commerce is authorized to conduct the following activities:
 
@@ -1699,19 +1699,19 @@ In order that full public benefit may be derived from the operations of the Nati
 
 **(4)** Distribution of nautical charts and related navigational publications.
 
-(Aug. 6, 1947, ch. 504, § 2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, § 605(a), Apr. 5, 2000, 114 Stat. 154.)
+(Aug. 6, 1947, ch. 504, § 2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, § 605(a), Apr. 5, 2000, 114 Stat. 154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Par. (3). Pub. L. 106–181, § 605(a)(1), (2), redesignated par. (4) as (3), substituted “charts;” for “charts of the United States, its Territories, and possessions;” and struck out former par. (3) which read as follows: “Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;”.
+2000—Par. (3). Pub. L. 106–181, § 605(a)(1), (2), redesignated par. (4) as (3), substituted “charts;” for “charts of the United States, its Territories, and possessions;” and struck out former par. (3) which read as follows: “Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;”.
 
-Par. (4). Pub. L. 106–181, § 605(a)(1), (3), redesignated par. (6) as (4) and substituted “publications” for “publications for the United States, its Territories, and possessions”. Former par. (4) redesignated (3).
+Par. (4). Pub. L. 106–181, § 605(a)(1), (3), redesignated par. (6) as (4) and substituted “publications” for “publications for the United States, its Territories, and possessions”. Former par. (4) redesignated (3).
 
-Par. (5). Pub. L. 106–181, § 605(a)(1), struck out par. (5) which read as follows: “Distribution of aeronautical charts and related navigational publications required by United States civil aviation;”.
+Par. (5). Pub. L. 106–181, § 605(a)(1), struck out par. (5) which read as follows: “Distribution of aeronautical charts and related navigational publications required by United States civil aviation;”.
 
-Par. (6). Pub. L. 106–181, § 605(a)(1), redesignated par. (6) as (4).
+Par. (6). Pub. L. 106–181, § 605(a)(1), redesignated par. (6) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1725,11 +1725,11 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Coast and Geodetic Survey changed to National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 883c. Geomagnetic data; collection, correlation, and dissemination
+### § 883c. Geomagnetic data; collection, correlation, and dissemination
 
 To provide for the orderly collection of geomagnetic data from domestic and foreign sources, and to assure that such data shall be readily available to Government and private agencies and individuals, the National Ocean Survey is designated as the central depository of the United States Government for geomagnetic data, and the Secretary of Commerce is authorized to collect, correlate, and disseminate such data.
 
-(Aug. 6, 1947, ch. 504, § 3, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 6, 1947, ch. 504, § 3, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -1737,11 +1737,11 @@ To provide for the orderly collection of geomagnetic data from domestic and fore
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Coast and Geodetic Survey changed to National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 883d. Improvement of methods, instruments, and equipments; investigations and research
+### § 883d. Improvement of methods, instruments, and equipments; investigations and research
 
 To improve the efficiency of the National Ocean Survey and to increase engineering and scientific knowledge, the Secretary of Commerce is authorized to conduct developmental work for the improvement of surveying and cartographic methods, instruments, and equipments; and to conduct investigations and research in geophysical sciences (including geodesy, oceanography, seismology, and geomagnetism).
 
-(Aug. 6, 1947, ch. 504, § 4, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 6, 1947, ch. 504, § 4, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -1749,21 +1749,21 @@ To improve the efficiency of the National Ocean Survey and to increase engineeri
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Coast and Geodetic Survey changed to National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 883e. Agreements for surveys and investigations; contribution of costs incurred by National Oceanic and Atmospheric Administration
+### § 883e. Agreements for surveys and investigations; contribution of costs incurred by National Oceanic and Atmospheric Administration
 
 **(1)** The Secretary of Commerce is authorized to enter into cooperative agreements, or any other agreements, with, and to receive and expend funds made available by, any State or subdivision thereof, any Federal agency, or any public or private organization, or individual, for surveys or investigations authorized herein, or for performing related surveying and mapping activities, including special-purpose maps, and for the preparation and publication of the results thereof.
 
 **(2)** The Secretary of Commerce is authorized to establish the terms of any agreement entered into under this section, including the amount of funds to be received, and may contribute that portion of the costs incurred by the National Oceanic and Atmospheric Administration, including shiptime and personnel expenses, which the Secretary determines represents the amount of benefits derived by the Administration from the agreement.
 
-(Aug. 6, 1947, ch. 504, § 5, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 99–272, title VI, § 6085, Apr. 7, 1986, 100 Stat. 138; Pub. L. 106–181, title VI, § 605(b), Apr. 5, 2000, 114 Stat. 154.)
+(Aug. 6, 1947, ch. 504, § 5, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 99–272, title VI, § 6085, Apr. 7, 1986, 100 Stat. 138; Pub. L. 106–181, title VI, § 605(b), Apr. 5, 2000, 114 Stat. 154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Par. (1). Pub. L. 106–181, § 605(b)(1), substituted “cooperative agreements, or any other agreements,” for “cooperative agreements”.
+2000—Par. (1). Pub. L. 106–181, § 605(b)(1), substituted “cooperative agreements, or any other agreements,” for “cooperative agreements”.
 
-Par. (2). Pub. L. 106–181, § 605(b)(2), which directed the striking of “cooperative”, was executed by striking “cooperative” before “agreement” in two places, to reflect the probable intent of Congress.
+Par. (2). Pub. L. 106–181, § 605(b)(2), which directed the striking of “cooperative”, was executed by striking “cooperative” before “agreement” in two places, to reflect the probable intent of Congress.
 
 1986—Pub. L. 99–272 designated existing provisions as par. (1), inserted “any Federal agency,” after “or subdivision thereof,” and added par. (2).
 
@@ -1779,11 +1779,11 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
 
-### § 883f. Contracts with qualified organizations
+### § 883f. Contracts with qualified organizations
 
 The Secretary of Commerce is authorized to contract with qualified organizations for the performance of any part of the authorized functions of the National Ocean Survey when he deems such procedure to be in the public interests.
 
-(Aug. 6, 1947, ch. 504, § 6, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 6, 1947, ch. 504, § 6, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -1791,15 +1791,15 @@ The Secretary of Commerce is authorized to contract with qualified organizations
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2, of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Coast and Geodetic Survey changed to National Ocean Survey. For further details, see note set out under section 851 of this title.
 
-### § 883g. Repealed. Pub. L. 88–611, § 4(a)(2), Oct. 2, 1964, 78 Stat. 991
+### § 883g. Repealed. Pub. L. 88–611, § 4(a)(2), Oct. 2, 1964, 78 Stat. 991
 
-Section, act Aug. 6, 1947, ch. 504, § 7, 61 Stat. 788, provided for acceptance of gifts or bequests and exemption from Federal taxes. See sections 1522 and 1523 of Title 15, Commerce and Trade.
+Section, act Aug. 6, 1947, ch. 504, § 7, 61 Stat. 788, provided for acceptance of gifts or bequests and exemption from Federal taxes. See sections 1522 and 1523 of Title 15, Commerce and Trade.
 
-### § 883h. Employment of public vessels
+### § 883h. Employment of public vessels
 
 The President is authorized to cause to be employed such of the public vessels as he deems it expedient to employ, and to give such instructions for regulating their conduct as he deems proper in order to carry out the provisions of this subchapter.
 
-(Aug. 6, 1947, ch. 504, § 8, 61 Stat. 788.)
+(Aug. 6, 1947, ch. 504, § 8, 61 Stat. 788.)
 
 **Executive Documents**
 
@@ -1807,33 +1807,33 @@ The President is authorized to cause to be employed such of the public vessels a
 
 Functions of President under this section delegated to Secretary of Commerce, see section 1(*l*) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 883i. Authorization of appropriations
+### § 883i. Authorization of appropriations
 
 There are authorized to be appropriated such funds as may be necessary to acquire, construct, maintain, and operate ships, stations, equipment, and facilities and for such other expenditures, including personal services at the seat of government and elsewhere and including the erection of temporary observatory buildings and lease of sites therefor, as may be necessary for the conduct of the activities herein authorized.
 
-(Aug. 6, 1947, ch. 504, § 9, 61 Stat. 788.)
+(Aug. 6, 1947, ch. 504, § 9, 61 Stat. 788.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Herein, referred to in text, means act Aug. 6, 1947, ch. 504, 61 Stat. 787, which is classified generally to this subchapter (§ 883a et seq.). For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Aug. 6, 1947, ch. 504, 61 Stat. 787, which is classified generally to this subchapter (§ 883a et seq.). For complete classification of this Act to the Code, see Tables.
 
-### § 883j. Ocean satellite data
+### § 883j. Ocean satellite data
 
-The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle 1
+The Administrator of the National Oceanic and Atmospheric Administration (hereinafter referred to in this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as the “Administration”) shall take such actions, including the sponsorship of applied research, as may be necessary to assure the future availability and usefulness of ocean satellite data to the maritime community.
 
-(Pub. L. 99–272, title VI, § 6082, Apr. 7, 1986, 100 Stat. 135.)
+(Pub. L. 99–272, title VI, § 6082, Apr. 7, 1986, 100 Stat. 135.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle H (§§ 6081–6085) of title VI of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 135, which enacted this section and section 1530 of Title 15, Commerce and Trade, amended section 883e of this title and sections 330e, 2903 and 2904 of Title 15, and repealed section 2905 of Title 15. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in text, is subtitle H (§§ 6081–6085) of title VI of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 135, which enacted this section and section 1530 of Title 15, Commerce and Trade, amended section 883e of this title and sections 330e, 2903 and 2904 of Title 15, and repealed section 2905 of Title 15. For complete classification of this subtitle to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1843,9 +1843,9 @@ Functions of Secretary and other officers of Department of Commerce under this s
 
 **Report on Satellite Oceanography**
 
-Pub. L. 102–567, title I, § 116, Oct. 29, 1992, 106 Stat. 4279, directed the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, to consider and develop findings and recommendations regarding the most urgent current needs of oceanographic researchers for remote sensing capabilities and remotely sensed data and the major goals of satellite oceanography for the next 10 years, and, not later than one year after Oct. 29, 1992, to submit to Congress a report which described the findings and recommendations of the Committee.
+Pub. L. 102–567, title I, § 116, Oct. 29, 1992, 106 Stat. 4279, directed the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, to consider and develop findings and recommendations regarding the most urgent current needs of oceanographic researchers for remote sensing capabilities and remotely sensed data and the major goals of satellite oceanography for the next 10 years, and, not later than one year after Oct. 29, 1992, to submit to Congress a report which described the findings and recommendations of the Committee.
 
-### § 883k. Acquisition of land for facilities
+### § 883k. Acquisition of land for facilities
 
 For fiscal year 1990 and hereafter funds appropriated under this heading shall be available for acquisition of land for facilities.
 
@@ -1857,89 +1857,89 @@ For fiscal year 1990 and hereafter funds appropriated under this heading shall b
 
 Funds appropriated under this heading, referred to in text, refers to funds appropriated under the headings “National Oceanic and Atmospheric Administration” and “operations, research, and facilities” of title I, “Department of Commerce”, of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990, Pub. L. 101–162.
 
-### § 883l. Contracts for surveying and mapping services
+### § 883l. Contracts for surveying and mapping services
 
 On and after February 20, 2003, the Secretary of Commerce may award contracts for hydrographic, geodetic, and photogrammetric surveying and mapping services in accordance with title IX of the Federal Property and Administrative Services Act of 1949.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 108–7, div. B, title II, § 206, Feb. 20, 2003, 117 Stat. 77.)
+(Pub. L. 108–7, div. B, title II, § 206, Feb. 20, 2003, 117 Stat. 77.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 107–77, title II, §  206, Nov. 28, 2001, 115 Stat. 778.
+Pub. L. 107–77, title II, § 206, Nov. 28, 2001, 115 Stat. 778.
 
-Pub. L. 106–553, § 1(a)(2) [title II, § 207], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
+Pub. L. 106–553, § 1(a)(2) [title II, § 207], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 208], Nov. 29, 1999, 113 Stat. 1535, 1501A–32.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 208], Nov. 29, 1999, 113 Stat. 1535, 1501A–32.
 
-Pub. L. 105–277, div. A, § 101(b) [title II, § 208], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
+Pub. L. 105–277, div. A, § 101(b) [title II, § 208], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
 
-Pub. L. 105–119, title II, § 208, Nov. 26, 1997, 111 Stat. 2480.
+Pub. L. 105–119, title II, § 208, Nov. 26, 1997, 111 Stat. 2480.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 209], Sept. 30, 1996, 110 Stat. 3009, 3009–41.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 209], Sept. 30, 1996, 110 Stat. 3009, 3009–41.
 
-Pub. L. 104–134, title I, § 101(a) [title II, § 212], Apr. 26, 1996, 110 Stat. 1321, 1321–32.
+Pub. L. 104–134, title I, § 101(a) [title II, § 212], Apr. 26, 1996, 110 Stat. 1321, 1321–32.
 
-### § 884. Power to use books, maps, etc., and to employ persons
+### § 884. Power to use books, maps, etc., and to employ persons
 
 The President is authorized, in executing the provisions of title 56 of the Revised Statutes relating to the coast survey, to use all maps, charts, books, instruments, and apparatus belonging to the United States, and to direct where the same shall be deposited, and to employ all persons in the land or naval service of the United States, and such astronomers and other persons as he shall deem proper.
 
-(R.S. § 4685.)
+(R.S. § 4685.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 56 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 56 of the Revised Statutes, consisting of R.S. §§ 4681 to 4691 of the Revised Statutes, which are classified to sections 881 to 883 and 884 to 888 of this title. For complete classification of R.S. §§ 4681 to 4691 to the Code, see Tables.
+Title 56 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 56 of the Revised Statutes, consisting of R.S. §§ 4681 to 4691 of the Revised Statutes, which are classified to sections 881 to 883 and 884 to 888 of this title. For complete classification of R.S. §§ 4681 to 4691 to the Code, see Tables.
 
 **Codification**
 
 Section was not enacted as part of act Aug. 6, 1947, ch. 504, 61 Stat. 787, which comprises this subchapter.
 
-R.S. § 4685 derived from act July 10, 1832, ch. 191, § 2, 4 Stat. 571.
+R.S. § 4685 derived from act July 10, 1832, ch. 191, § 2, 4 Stat. 571.
 
-### § 885. Repealed. Aug. 6, 1947, ch. 504, § 10(6), 61 Stat. 788
+### § 885. Repealed. Aug. 6, 1947, ch. 504, § 10(6), 61 Stat. 788
 
-Section, R.S. § 4686, related to use of public vessels on coast surveys. See section 883h of this title.
+Section, R.S. § 4686, related to use of public vessels on coast surveys. See section 883h of this title.
 
-### §§ 886, 887. Repealed. June 21, 1955, ch. 172, § 5(1), (2), 69 Stat. 170
+### §§ 886, 887. Repealed. June 21, 1955, ch. 172, § 5(1), (2), 69 Stat. 170
 
-Section 886, R.S. § 4687, related to employment of officers of Army and Navy in the work of surveying the coast of the United States.
+Section 886, R.S. § 4687, related to employment of officers of Army and Navy in the work of surveying the coast of the United States.
 
-Section 887, R.S. § 4688; acts Aug. 30, 1890, ch. 837, § 1, 26 Stat. 382; June 5, 1920, ch. 235, § 1, 41 Stat. 929, provided for allowance for subsistence to officers of Army and Navy while employed on coast survey service.
+Section 887, R.S. § 4688; acts Aug. 30, 1890, ch. 837, § 1, 26 Stat. 382; June 5, 1920, ch. 235, § 1, 41 Stat. 929, provided for allowance for subsistence to officers of Army and Navy while employed on coast survey service.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Additional Repeal**
 
-Sections were also repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Section 49(a) of act Aug. 10, 1956, provided in part that laws effective after Mar. 31, 1955, inconsistent with that act, should be considered as superseding it to the extent of the inconsistency.
+Sections were also repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Section 49(a) of act Aug. 10, 1956, provided in part that laws effective after Mar. 31, 1955, inconsistent with that act, should be considered as superseding it to the extent of the inconsistency.
 
-### § 888. Omitted
+### § 888. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, R.S. §§ 264, 4690; acts Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; June 5, 1920, ch. 235, § 1, 41 Stat. 929, relating to an annual statement on coast surveys by the Coast and Geodetic Survey [now the National Ocean Survey], was partially repealed by acts May 29, 1928, ch. 901, § 1(104), 45 Stat. 994; Aug. 7, 1946, ch. 770, § 1(5), 60 Stat. 866; and Aug. 30, 1954, ch. 1076, § 1(13), 68 Stat. 967.
+Section, R.S. §§ 264, 4690; acts Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; June 5, 1920, ch. 235, § 1, 41 Stat. 929, relating to an annual statement on coast surveys by the Coast and Geodetic Survey [now the National Ocean Survey], was partially repealed by acts May 29, 1928, ch. 901, § 1(104), 45 Stat. 994; Aug. 7, 1946, ch. 770, § 1(5), 60 Stat. 866; and Aug. 30, 1954, ch. 1076, § 1(13), 68 Stat. 967.
 
-### §§ 889, 890. Repealed. June 21, 1955, ch. 172, § 5(5), 69 Stat. 170
+### §§ 889, 890. Repealed. June 21, 1955, ch. 172, § 5(5), 69 Stat. 170
 
-Section 889, acts Mar. 4, 1909, ch. 313, § 1, 35 Stat. 1064; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, authorized cooperation with North Carolina State Fish Commission in survey of waters of State.
+Section 889, acts Mar. 4, 1909, ch. 313, § 1, 35 Stat. 1064; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, authorized cooperation with North Carolina State Fish Commission in survey of waters of State.
 
-Section 890, acts Mar. 4, 1909, ch. 313, § 2, 35 Stat. 1065; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, provided for marking triangulation points of North Carolina survey.
+Section 890, acts Mar. 4, 1909, ch. 313, § 2, 35 Stat. 1065; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, provided for marking triangulation points of North Carolina survey.
 
 ## SUBCHAPTER III—NOAA FLEET MODERNIZATION
 
-### § 891. Definitions
+### § 891. Definitions
 
 In this subchapter, the term—
 
@@ -1953,7 +1953,7 @@ In this subchapter, the term—
 
 **(5)** “UNOLS” means University-National Oceanographic Laboratory System.
 
-(Pub. L. 102–567, title VI, § 602, Oct. 29, 1992, 106 Stat. 4299.)
+(Pub. L. 102–567, title VI, § 602, Oct. 29, 1992, 106 Stat. 4299.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1961,19 +1961,19 @@ In this subchapter, the term—
 
 For short title of this subchapter as the “NOAA Fleet Modernization Act”, see section 601 of Pub. L. 102–567, set out as a Short Title of 1992 Amendment note under section 851 of this title.
 
-### § 891a. Operation and maintenance of NOAA fleet
+### § 891a. Operation and maintenance of NOAA fleet
 
 The Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall operate and maintain a fleet of vessels to meet the requirements of NOAA in carrying out the mission and functions of NOAA, subject to the requirements of this subchapter.
 
-(Pub. L. 102–567, title VI, § 603, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(1), Dec. 18, 2025, 139 Stat. 1908.)
+(Pub. L. 102–567, title VI, § 603, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(1), Dec. 18, 2025, 139 Stat. 1908.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60 substituted “Operation and maintenance of NOAA fleet” for “Fleet replacement and modernization program” in section catchline and “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall operate and maintain a fleet of vessels to meet the requirements of NOAA in carrying out the mission and functions of NOAA, subject to the requirements of this subchapter.” for “is authorized to implement, subject to the requirements of this subchapter, a 15-year program to replace and modernize the NOAA fleet.” in text.
+2025—Pub. L. 119–60 substituted “Operation and maintenance of NOAA fleet” for “Fleet replacement and modernization program” in section catchline and “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall operate and maintain a fleet of vessels to meet the requirements of NOAA in carrying out the mission and functions of NOAA, subject to the requirements of this subchapter.” for “is authorized to implement, subject to the requirements of this subchapter, a 15-year program to replace and modernize the NOAA fleet.” in text.
 
-### § 891b. Fleet replacement and modernization Plan
+### § 891b. Fleet replacement and modernization Plan
 
 **(a) In general**
 
@@ -2005,33 +2005,33 @@ To carry out the program authorized in section 891a of this title, the Secretary
 
 The National Oceanic and Atmospheric Administration may not procure vessels that are more than 65 feet in length without the approval of the Assistant Administrator of NOAA for Marine and Aviation Operations.
 
-(Pub. L. 102–567, title VI, § 604, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(2), Dec. 18, 2025, 139 Stat. 1908.)
+(Pub. L. 102–567, title VI, § 604, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(2), Dec. 18, 2025, 139 Stat. 1908.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(2)(A), substituted “Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives a replacement and modernization plan for the NOAA fleet not later than 180 days after December 19, 2025, and every 2 years thereafter.” for “Secretary shall develop and submit to Congress a replacement and modernization Plan for the NOAA fleet covering the years authorized under section 891h of this title.”
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(2)(A), substituted “Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives a replacement and modernization plan for the NOAA fleet not later than 180 days after December 19, 2025, and every 2 years thereafter.” for “Secretary shall develop and submit to Congress a replacement and modernization Plan for the NOAA fleet covering the years authorized under section 891h of this title.”
 
-Subsec. (b). Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
+Subsec. (b). Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
 
-Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (b). Text read as follows: “The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.”
+Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (b). Text read as follows: “The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.”
 
-Subsec. (b)(1). Pub. L. 119–60, § 8402(a)(2)(D)(i), substituted “in operation in the NOAA fleet as of the date of submission of the Plan, a description of the status of those vessels, and a statement of the planned and anticipated service life of those vessels;” for “proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;”.
+Subsec. (b)(1). Pub. L. 119–60, § 8402(a)(2)(D)(i), substituted “in operation in the NOAA fleet as of the date of submission of the Plan, a description of the status of those vessels, and a statement of the planned and anticipated service life of those vessels;” for “proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;”.
 
-Subsec. (b)(2) to (10). Pub. L. 119–60, § 8402(a)(2)(D)(ii)–(viii), added pars. (2) and (3) and redesignated former pars. (2) to (5) as (4) to (7), respectively; in par. (4), substituted “acquired, leased, or chartered by NOAA” for “constructed, leased, or chartered”; in par. (6), substituted “the Director of the National Science Foundation, or any other Federal official” for “or any other federal official” and “the availability of those vessels” for “their availability”; struck out former par. (6), which related to the appropriate role of the NOAA Corps in operating and maintaining the NOAA fleet; and added pars. (8) to (10).
+Subsec. (b)(2) to (10). Pub. L. 119–60, § 8402(a)(2)(D)(ii)–(viii), added pars. (2) and (3) and redesignated former pars. (2) to (5) as (4) to (7), respectively; in par. (4), substituted “acquired, leased, or chartered by NOAA” for “constructed, leased, or chartered”; in par. (6), substituted “the Director of the National Science Foundation, or any other Federal official” for “or any other federal official” and “the availability of those vessels” for “their availability”; struck out former par. (6), which related to the appropriate role of the NOAA Corps in operating and maintaining the NOAA fleet; and added pars. (8) to (10).
 
-Subsec. (c). Pub. L. 119–60, § 8402(a)(2)(E), added subsec. (c).
+Subsec. (c). Pub. L. 119–60, § 8402(a)(2)(E), added subsec. (c).
 
-Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
+Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
 
-Subsec. (d). Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (d). Text read as follows: “The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).”
+Subsec. (d). Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (d). Text read as follows: “The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Fishery Survey Vessel Acquisition**
 
-Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(b), Dec. 18, 2025, 139 Stat. 1910, provided that:
+Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(b), Dec. 18, 2025, 139 Stat. 1910, provided that:
 
 > **“SEC. 301. SHORT TITLE.**
 
@@ -2057,9 +2057,9 @@ Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, as amended by Pub. L
 
 **Deactivation of NOAA Research Vessels**
 
-Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(c), Dec. 18, 2025, 139 Stat. 1910, provided that: The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration.”
+Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(c), Dec. 18, 2025, 139 Stat. 1910, provided that: The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration.”
 
-### § 891c. Design of NOAA vessels
+### § 891c. Design of NOAA vessels
 
 **(a) Design requirement** Except for the vessel designs identified under subsection (b), the Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall—
 
@@ -2071,15 +2071,15 @@ Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, as a
 
 The Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives, as part of the annual update of the Plan required in section 891b of this title, any existing vessel design or design proposals that meet the requirements of the Plan.
 
-(Pub. L. 102–567, title VI, § 605, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(3), Dec. 18, 2025, 139 Stat. 1909.)
+(Pub. L. 102–567, title VI, § 605, Oct. 29, 1992, 106 Stat. 4300; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(3), Dec. 18, 2025, 139 Stat. 1909.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(3)(A), substituted “acting through the Assistant Administrator of NOAA for Marine and Aviation Operations” for “working through the Office of the NOAA Corps Operations and the Systems Procurement Office” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(3)(A), substituted “acting through the Assistant Administrator of NOAA for Marine and Aviation Operations” for “working through the Office of the NOAA Corps Operations and the Systems Procurement Office” in introductory provisions.
 
-Pub. L. 119–60, § 8402(a)(3)(B), substituted “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “shall—
+Pub. L. 119–60, § 8402(a)(3)(B), substituted “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “shall—
 
 “(1) report to Congress identifying any existing vessel design or design proposal that meets the requirements of the Plan within 30 days after October 29, 1992, and shall promptly advise the Congress of any modification of these designs; and
 
@@ -2087,7 +2087,7 @@ Pub. L. 119–60, § 8402(a)(3)(B), substituted “, acting through the Assi
 
 and struck out “subsequent” before “existing vessel design”.
 
-### § 891d. Contract authority
+### § 891d. Contract authority
 
 **(a) Multiyear contracts**
 
@@ -2133,15 +2133,15 @@ Subject to paragraphs (2) and (3), and notwithstanding section 1341 of title 31 
 
 Notwithstanding any other law, the Secretary may not require a contractor for the construction, alteration, repair or maintenance of a NOAA vessel to provide a bid bond, payment bond, performance bond, completion bond, or other surety instrument in an amount greater than 20 percent of the value of the base contract quantity (excluding options) unless the Secretary determines that requiring an instrument in that amount will not prevent a responsible bidder or offeror from competing for the award of the contract.
 
-(Pub. L. 102–567, title VI, § 606, Oct. 29, 1992, 106 Stat. 4301.)
+(Pub. L. 102–567, title VI, § 606, Oct. 29, 1992, 106 Stat. 4301.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(1), “subsections (a) and (b) of section 6301 of title 41” substituted for “section 3732 of the Revised Statutes of the United States (41 U.S.C. 11)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), “subsections (a) and (b) of section 6301 of title 41” substituted for “section 3732 of the Revised Statutes of the United States (41 U.S.C. 11)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 891e. Restriction with respect to certain shipyard subsidies
+### § 891e. Restriction with respect to certain shipyard subsidies
 
 **(a) In general**
 
@@ -2175,7 +2175,7 @@ The Secretary of Commerce may not award a contract for the construction, repair 
 
 **(8)** Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19, or any other export subsidy prohibited by that agreement.
 
-(Pub. L. 102–567, title VI, § 607, Oct. 29, 1992, 106 Stat. 4302; Pub. L. 106–36, title I, § 1002(f), June 25, 1999, 113 Stat. 133.)
+(Pub. L. 102–567, title VI, § 607, Oct. 29, 1992, 106 Stat. 4302; Pub. L. 106–36, title I, § 1002(f), June 25, 1999, 113 Stat. 133.)
 
 **Editorial Notes**
 
@@ -2187,13 +2187,13 @@ The Secretary of Commerce may not award a contract for the construction, repair 
 
 **Fisheries Research Vessel Procurement**
 
-Pub. L. 106–450, title IV, § 401, Nov. 7, 2000, 114 Stat. 1945, provided that: “Notwithstanding section 644 of title 15, United States Code, and section 19.502–2 of title 48, Code of Federal Regulations, the Secretary of Commerce shall seek to procure Fisheries Research Vessels through full and open competition from responsible United States shipbuilding companies irrespective of size.”
+Pub. L. 106–450, title IV, § 401, Nov. 7, 2000, 114 Stat. 1945, provided that: “Notwithstanding section 644 of title 15, United States Code, and section 19.502–2 of title 48, Code of Federal Regulations, the Secretary of Commerce shall seek to procure Fisheries Research Vessels through full and open competition from responsible United States shipbuilding companies irrespective of size.”
 
-### § 891e–1. Shipyards located outside of the United States
+### § 891e–1. Shipyards located outside of the United States
 
 On and after December 26, 2007, none of the funds made available in this Act or any other Act may be used for the construction, repair (other than emergency repair), overhaul, conversion, or modernization of vessels for the National Oceanic and Atmospheric Administration in shipyards located outside of the United States.
 
-(Pub. L. 110–161, div. B, title V, § 506, Dec. 26, 2007, 121 Stat. 1925.)
+(Pub. L. 110–161, div. B, title V, § 506, Dec. 26, 2007, 121 Stat. 1925.)
 
 **Editorial Notes**
 
@@ -2205,11 +2205,11 @@ This Act, referred to in text, is div. B of Pub. L. 110–161, Dec. 26, 2007, 12
 
 Section was enacted as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008, and also as part of the Consolidated Appropriations Act, 2008, and not as part of the NOAA Fleet Modernization Act which comprises this subchapter.
 
-### § 891f. Use of vessels
+### § 891f. Use of vessels
 
 In implementing the NOAA fleet replacement and modernization program, the Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall use excess capacity of UNOLS vessels where appropriate and may enter into memoranda of agreement with the operators of these vessels to carry out this requirement.
 
-(Pub. L. 102–567, title VI, § 608, Oct. 29, 1992, 106 Stat. 4303; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(4), Dec. 18, 2025, 139 Stat. 1910.)
+(Pub. L. 102–567, title VI, § 608, Oct. 29, 1992, 106 Stat. 4303; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(4), Dec. 18, 2025, 139 Stat. 1910.)
 
 **Editorial Notes**
 
@@ -2217,19 +2217,19 @@ In implementing the NOAA fleet replacement and modernization program, the Secret
 
 2025—Pub. L. 119–60 struck out subsec. (a) designation and heading “Vessel Agreements” and struck out subsec. (b), which required the Comptroller General to provide a report within one year after October 29, 1992 comparing the cost-efficiency, accounting, and operating practices of the vessels of NOAA, UNOLS, other Federal agencies, and the United States private sector in meeting the missions of NOAA.
 
-### § 891g. Interoperability
+### § 891g. Interoperability
 
 The Secretary shall consult with the Oceanographer of the Navy regarding appropriate measures that should be taken, on a reimbursable basis, to ensure that NOAA vessels are interoperable with vessels of the Department of the Navy, including with respect to operation, maintenance, and repair of those vessels.
 
-(Pub. L. 102–567, title VI, § 609, Oct. 29, 1992, 106 Stat. 4303.)
+(Pub. L. 102–567, title VI, § 609, Oct. 29, 1992, 106 Stat. 4303.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Interoperability of Vessels**
 
-Pub. L. 102–567, title IV, § 401(b)(5), Oct. 29, 1992, 106 Stat. 4291, provided that: “The Secretary of Commerce shall consult with the Oceanographer of the Navy regarding appropriate cost effective and practical measures to allow vessels of the National Oceanic and Atmospheric Administration to be interoperable with vessels of the Department of the Navy, including with respect to operation, maintenance, and repair of those vessels.”
+Pub. L. 102–567, title IV, § 401(b)(5), Oct. 29, 1992, 106 Stat. 4291, provided that: “The Secretary of Commerce shall consult with the Oceanographer of the Navy regarding appropriate cost effective and practical measures to allow vessels of the National Oceanic and Atmospheric Administration to be interoperable with vessels of the Department of the Navy, including with respect to operation, maintenance, and repair of those vessels.”
 
-### § 891h. Authorization of appropriations
+### § 891h. Authorization of appropriations
 
 **(a) In general**
 
@@ -2239,13 +2239,13 @@ There are authorized to be appropriated to the Secretary $93,000,000 for the per
 
 All NOAA fleet modernization, shipbuilding, and conversion shall be conducted in accordance with this subchapter.
 
-(Pub. L. 102–567, title VI, § 610, Oct. 29, 1992, 106 Stat. 4303; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(5), Dec. 18, 2025, 139 Stat. 1910.)
+(Pub. L. 102–567, title VI, § 610, Oct. 29, 1992, 106 Stat. 4303; Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(5), Dec. 18, 2025, 139 Stat. 1910.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(5)(A), substituted “$93,000,000 for the period of fiscal years 2025 through 2026 to carry out this subchapter and section 302 of the Fisheries Survey Vessel Authorization Act of 2000 (title III of Public Law 106–450; 114 Stat. 1945; 33 U.S.C. 891b note).” for “carrying out this subchapter—
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(5)(A), substituted “$93,000,000 for the period of fiscal years 2025 through 2026 to carry out this subchapter and section 302 of the Fisheries Survey Vessel Authorization Act of 2000 (title III of Public Law 106–450; 114 Stat. 1945; 33 U.S.C. 891b note).” for “carrying out this subchapter—
 
 “(1) $50,000,000 for fiscal year 1993;
 
@@ -2253,11 +2253,11 @@ All NOAA fleet modernization, shipbuilding, and conversion shall be conducted in
 
 “(3) such sums as are necessary for each of the fiscal years 1995, 1996, and 1997.”
 
-Subsec. (b). Pub. L. 119–60, § 8402(a)(5)(B), substituted “NOAA fleet modernization,” for “National Oceanic and Atmospheric Administration fleet modernization”.
+Subsec. (b). Pub. L. 119–60, § 8402(a)(5)(B), substituted “NOAA fleet modernization,” for “National Oceanic and Atmospheric Administration fleet modernization”.
 
 ## SUBCHAPTER IV—NOAA HYDROGRAPHIC SERVICES
 
-### § 892. Definitions
+### § 892. Definitions
 
 In this subchapter:
 
@@ -2295,7 +2295,7 @@ The term “Administration” means the National Oceanic and Atmospheric Adminis
 
 The term “Coast and Geodetic Survey Act” means the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
-(Pub. L. 105–384, title III, § 302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 2, Oct. 10, 2008, 122 Stat. 4106; Pub. L. 117–263, div. J, title CIII, § 10308(a), Dec. 23, 2022, 136 Stat. 3980.)
+(Pub. L. 105–384, title III, § 302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 2, Oct. 10, 2008, 122 Stat. 4106; Pub. L. 117–263, div. J, title CIII, § 10308(a), Dec. 23, 2022, 136 Stat. 3980.)
 
 **Editorial Notes**
 
@@ -2311,9 +2311,9 @@ Act of August 6, 1947, referred to in par. (5), is act Aug. 6, 1947, ch. 504, 61
 
 2008—Pars. (3) to (5). Pub. L. 110–386, which directed the amendment of section “303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)” by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior to amendment, pars. (3) to (5) defined the terms “hydrographic data”, “hydrographic services”, and “Act of 1947”, respectively.
 
-2002—Par. (3). Pub. L. 107–372, § 102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
+2002—Par. (3). Pub. L. 107–372, § 102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
 
-Par. (4). Pub. L. 107–372, § 102(2), inserted “geospatial, geomagnetic,” after “geodetic,”.
+Par. (4). Pub. L. 107–372, § 102(2), inserted “geospatial, geomagnetic,” after “geodetic,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2321,7 +2321,7 @@ Par. (4). Pub. L. 107–372, § 102(2), inserted “geospatial, geomagnetic,�
 
 For short title of this subchapter as the “Hydrographic Services Improvement Act of 1998”, see section 301 of Pub. L. 105–384, set out as a Short Title of 1998 Amendment note under section 851 of this title.
 
-### § 892a. Functions of the Administrator
+### § 892a. Functions of the Administrator
 
 **(a) Responsibilities** To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, the Administrator shall—
 
@@ -2359,35 +2359,35 @@ For short title of this subchapter as the “Hydrographic Services Improvement A
 
 Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
-(Pub. L. 105–384, title III, § 303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 3, Oct. 10, 2008, 122 Stat. 4107; Pub. L. 117–263, div. J, title CIII, § 10308(b), Dec. 23, 2022, 136 Stat. 3980; Pub. L. 119–60, div. G, title LXXVII, § 7701(h), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 105–384, title III, § 303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, § 103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, § 3, Oct. 10, 2008, 122 Stat. 4107; Pub. L. 117–263, div. J, title CIII, § 10308(b), Dec. 23, 2022, 136 Stat. 3980; Pub. L. 119–60, div. G, title LXXVII, § 7701(h), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsecs. (a), (b). Pub. L. 119–60, § 7701(h)(1), (2)(A), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to “this subchapter”, requiring no change in text.
+2025—Subsecs. (a), (b). Pub. L. 119–60, § 7701(h)(1), (2)(A), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to “this subchapter”, requiring no change in text.
 
-Subsec. (b)(6). Pub. L. 119–60, § 7701(h)(2)(B), substituted “chapter 11” for “subchapter VI of chapter 10”.
+Subsec. (b)(6). Pub. L. 119–60, § 7701(h)(2)(B), substituted “chapter 11” for “subchapter VI of chapter 10”.
 
-2022—Subsec. (b). Pub. L. 117–263, § 10308(b)(1), inserted “precision navigation,” after “promote” in introductory provisions.
+2022—Subsec. (b). Pub. L. 117–263, § 10308(b)(1), inserted “precision navigation,” after “promote” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 117–263, § 10308(b)(2), inserted “and hydrodynamic forecast models” after “monitoring systems” and “and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities” after “efficiency” and struck out “and” after semicolon at end.
+Subsec. (b)(2). Pub. L. 117–263, § 10308(b)(2), inserted “and hydrodynamic forecast models” after “monitoring systems” and “and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities” after “efficiency” and struck out “and” after semicolon at end.
 
-2008—Subsec. (a). Pub. L. 110–386, § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–386, § 3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–386, § 3(2), substituted “data and provide hydrographic services;” for “data;”.
+Subsec. (a)(1). Pub. L. 110–386, § 3(2), substituted “data and provide hydrographic services;” for “data;”.
 
-Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
+Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
 
-2002—Subsec. (b)(4). Pub. L. 107–372, § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
+2002—Subsec. (b)(4). Pub. L. 107–372, § 103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
 
-Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
+Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Charting and Survey Services**
 
-Pub. L. 116–259, title V, § 501, Dec. 23, 2020, 134 Stat. 1178, provided that:
+Pub. L. 116–259, title V, § 501, Dec. 23, 2020, 134 Stat. 1178, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the development of the strategy required by section 1002(b) of the Frank LoBiondo Coast Guard Authorization Act of 2018 [Pub. L. 115–282] (33 U.S.C. 892a note), the Secretary of Commerce shall enter into not fewer than 2 multi-year contracts with 1 or more private entities for the performance of charting and survey services by vessels.
 
@@ -2395,7 +2395,7 @@ Pub. L. 116–259, title V, § 501, Dec. 23, 2020, 134 Stat. 1178, provided th
 
 **System for Tracking and Reporting All-Inclusive Cost of Hydrographic Surveys**
 
-Pub. L. 115–282, title X, § 1002, Dec. 4, 2018, 132 Stat. 4365, provided that:
+Pub. L. 115–282, title X, § 1002, Dec. 4, 2018, 132 Stat. 4365, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of the enactment of this Act [Dec. 4, 2018], the Secretary of Commerce shall—
 
@@ -2409,7 +2409,7 @@ Pub. L. 115–282, title X, § 1002, Dec. 4, 2018, 132 Stat. 4365, provided th
 
 **Hydrographic Survey**
 
-Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided that:
+Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided that:
 
 > “The Secretary [of the Army] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
 
@@ -2417,7 +2417,7 @@ Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided th
 
 > **“(2)** to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
 
-### § 892b. Quality assurance program
+### § 892b. Quality assurance program
 
 **(a) Definition**
 
@@ -2463,7 +2463,7 @@ Amounts in the account shall be available to the Administrator, without further 
 
 **(2)** increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and section 1307 of title 44.
 
-(Pub. L. 105–384, title III, § 304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, § 104(a), Dec. 19, 2002, 116 Stat. 3080; Pub. L. 117–263, div. J, title CIII, § 10308(c), Dec. 23, 2022, 136 Stat. 3980.)
+(Pub. L. 105–384, title III, § 304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, § 104(a), Dec. 19, 2002, 116 Stat. 3080; Pub. L. 117–263, div. J, title CIII, § 10308(c), Dec. 23, 2022, 136 Stat. 3980.)
 
 **Editorial Notes**
 
@@ -2479,7 +2479,7 @@ Amounts in the account shall be available to the Administrator, without further 
 
 “(C) charge a fee for such certification and use.”
 
-### § 892c. Hydrographic Services Review Panel
+### § 892c. Hydrographic Services Review Panel
 
 **(a) Establishment**
 
@@ -2535,7 +2535,7 @@ The panel shall meet on a biannual basis and, at any other time, at the call of 
 
 The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
-(Pub. L. 105–384, title III, § 305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, § 432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, § 105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, § 4, Oct. 10, 2008, 122 Stat. 4107.)
+(Pub. L. 105–384, title III, § 305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, § 432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, § 105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, § 4, Oct. 10, 2008, 122 Stat. 4107.)
 
 **Editorial Notes**
 
@@ -2563,7 +2563,7 @@ This subchapter, referred to in subsec. (c)(1)(C), was in the original “this A
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–383, title IV, § 432(a), Nov. 13, 1998, 112 Stat. 3444, provided that:
+Pub. L. 105–383, title IV, § 432(a), Nov. 13, 1998, 112 Stat. 3444, provided that:
 
 > “Subsections (b) and (c) [amending this section and section 892d of this title] shall take effect immediately after the later of—
 
@@ -2571,7 +2571,7 @@ Pub. L. 105–383, title IV, § 432(a), Nov. 13, 1998, 112 Stat. 3444, provide
 
 > **“(2)** the enactment of this Act [Nov. 13, 1998].”
 
-### § 892d. Authorization of appropriations
+### § 892d. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to the Administrator the following:
 
@@ -2607,7 +2607,7 @@ Pub. L. 105–383, title IV, § 432(a), Nov. 13, 1998, 112 Stat. 3444, provide
 
 Of amounts authorized by this section for each fiscal year for contract hydrographic surveys, not more than 5 percent is authorized for administrative costs associated with contract management.
 
-(Pub. L. 105–384, title III, § 306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, § 432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, § 106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, § 5, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 115–282, title X, § 1001, Dec. 4, 2018, 132 Stat. 4364; Pub. L. 117–263, div. J, title CIII, § 10308(d), Dec. 23, 2022, 136 Stat. 3980.)
+(Pub. L. 105–384, title III, § 306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, § 432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, § 106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, § 5, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 115–282, title X, § 1001, Dec. 4, 2018, 132 Stat. 4364; Pub. L. 117–263, div. J, title CIII, § 10308(d), Dec. 23, 2022, 136 Stat. 3980.)
 
 **Editorial Notes**
 
@@ -2617,19 +2617,19 @@ This subchapter, referred to in subsec. (a)(4), (5), was in the original “this
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 10308(d)(1), substituted “$71,000,000 for each of fiscal years 2023 through 2028” for “$70,814,000 for each of fiscal years 2019 through 2023”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 10308(d)(1), substituted “$71,000,000 for each of fiscal years 2023 through 2028” for “$70,814,000 for each of fiscal years 2019 through 2023”.
 
-Subsec. (a)(2). Pub. L. 117–263, § 10308(d)(2), substituted “$34,000,000 for each of fiscal years 2023 through 2028” for “$25,000,000 for each of fiscal years 2019 through 2023”.
+Subsec. (a)(2). Pub. L. 117–263, § 10308(d)(2), substituted “$34,000,000 for each of fiscal years 2023 through 2028” for “$25,000,000 for each of fiscal years 2019 through 2023”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 10308(d)(3), substituted “$38,000,000 for each of fiscal years 2023 through 2028” for “$29,932,000 for each of fiscal years 2019 through 2023”.
+Subsec. (a)(3). Pub. L. 117–263, § 10308(d)(3), substituted “$38,000,000 for each of fiscal years 2023 through 2028” for “$29,932,000 for each of fiscal years 2019 through 2023”.
 
-Subsec. (a)(4). Pub. L. 117–263, § 10308(d)(4), substituted “$45,000,000 for each of fiscal years 2023 through 2028” for “$26,800,000 for each of fiscal years 2019 through 2023”.
+Subsec. (a)(4). Pub. L. 117–263, § 10308(d)(4), substituted “$45,000,000 for each of fiscal years 2023 through 2028” for “$26,800,000 for each of fiscal years 2019 through 2023”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 10308(d)(5), substituted “$35,000,000 for each of fiscal years 2023 through 2028” for “$30,564,000 for each of fiscal years 2019 through 2023”.
+Subsec. (a)(5). Pub. L. 117–263, § 10308(d)(5), substituted “$35,000,000 for each of fiscal years 2023 through 2028” for “$30,564,000 for each of fiscal years 2019 through 2023”.
 
-2018—Subsec. (a). Pub. L. 115–282, § 1001(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+2018—Subsec. (a). Pub. L. 115–282, § 1001(a)(1), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (a)(1). Pub. L. 115–282, § 1001(a)(2)(A), substituted “surveys, $70,814,000 for each of fiscal years 2019 through 2023.” for “surveys—
+Subsec. (a)(1). Pub. L. 115–282, § 1001(a)(2)(A), substituted “surveys, $70,814,000 for each of fiscal years 2019 through 2023.” for “surveys—
 
 “(A) $55,000,000 for fiscal year 2009;
 
@@ -2639,7 +2639,7 @@ Subsec. (a)(1). Pub. L. 115–282, § 1001(a)(2)(A), substituted “surveys, $
 
 “(D) $58,000,000 for fiscal year 2012.”
 
-Subsec. (a)(2). Pub. L. 115–282, § 1001(a)(2)(B), substituted “vessels, $25,000,000 for each of fiscal years 2019 through 2023.” for “vessels—
+Subsec. (a)(2). Pub. L. 115–282, § 1001(a)(2)(B), substituted “vessels, $25,000,000 for each of fiscal years 2019 through 2023.” for “vessels—
 
 “(A) $32,130,000 for fiscal year 2009;
 
@@ -2649,7 +2649,7 @@ Subsec. (a)(2). Pub. L. 115–282, § 1001(a)(2)(B), substituted “vessels, $
 
 “(D) $34,020,000 for fiscal year 2012.”
 
-Subsec. (a)(3). Pub. L. 115–282, § 1001(a)(2)(C), substituted “Administration, $29,932,000 for each of fiscal years 2019 through 2023.” for “Administration—
+Subsec. (a)(3). Pub. L. 115–282, § 1001(a)(2)(C), substituted “Administration, $29,932,000 for each of fiscal years 2019 through 2023.” for “Administration—
 
 “(A) $25,900,000 for fiscal year 2009;
 
@@ -2659,7 +2659,7 @@ Subsec. (a)(3). Pub. L. 115–282, § 1001(a)(2)(C), substituted “Administra
 
 “(D) $27,400,000 for fiscal year 2012.”
 
-Subsec. (a)(4). Pub. L. 115–282, § 1001(a)(2)(D), substituted “subchapter, $26,800,000 for each of fiscal years 2019 through 2023.” for “subchapter—
+Subsec. (a)(4). Pub. L. 115–282, § 1001(a)(2)(D), substituted “subchapter, $26,800,000 for each of fiscal years 2019 through 2023.” for “subchapter—
 
 “(A) $32,640,000 for fiscal year 2009;
 
@@ -2669,7 +2669,7 @@ Subsec. (a)(4). Pub. L. 115–282, § 1001(a)(2)(D), substituted “subchapter
 
 “(D) $34,560,000 for fiscal year 2012.”
 
-Subsec. (a)(5). Pub. L. 115–282, § 1001(a)(2)(E), substituted “subchapter, $30,564,000 for each of fiscal years 2019 through 2023.” for “subchapter—
+Subsec. (a)(5). Pub. L. 115–282, § 1001(a)(2)(E), substituted “subchapter, $30,564,000 for each of fiscal years 2019 through 2023.” for “subchapter—
 
 “(A) $27,000,000 for fiscal year 2009;
 
@@ -2679,9 +2679,9 @@ Subsec. (a)(5). Pub. L. 115–282, § 1001(a)(2)(E), substituted “subchapter
 
 “(D) $28,500,000 for fiscal year 2012.”
 
-Subsec. (b). Pub. L. 115–282, § 1001(a)(3), added subsec. (b).
+Subsec. (b). Pub. L. 115–282, § 1001(a)(3), added subsec. (b).
 
-Subsec. (c). Pub. L. 115–282, § 1001(b), added subsec. (c).
+Subsec. (c). Pub. L. 115–282, § 1001(b), added subsec. (c).
 
 2008—Pub. L. 110–386 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2003 through 2007.
 
@@ -2705,7 +2705,7 @@ Amendment by Pub. L. 105–383 effective immediately after enactment of Pub. L. 
 
 ## SUBCHAPTER V—RESEARCH, DEVELOPMENT, EDUCATION, AND INNOVATION
 
-### § 893. Ocean and atmospheric research and development program
+### § 893. Ocean and atmospheric research and development program
 
 **(a) In general**
 
@@ -2723,19 +2723,19 @@ The Administrator of the National Oceanic and Atmospheric Administration, in con
 
 **(1)** define “transformational research”;
 
-**(2)** identify emerging and innovative areas of research and development where transformational research has the potential to make significant and revolutionary – 1
+**(2)** identify emerging and innovative areas of research and development where transformational research has the potential to make significant and revolutionary – 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 advancements in both understanding and U.S. science leadership;
 
-**(3)** describe how transformational research priorities are identified and appropriately – <sup>1</sup> balanced in the context of NOAA’s broader research portfolio;
+**(3)** describe how transformational research priorities are identified and appropriately – <sup>1</sup> balanced in the context of NOAA’s broader research portfolio;
 
-**(4)** describe NOAA’s plan for developing a competitive peer review and priority-setting – <sup>1</sup> process, funding mechanisms, performance and evaluation measures, and transition-to-operation guidelines for transformational research; and
+**(4)** describe NOAA’s plan for developing a competitive peer review and priority-setting – <sup>1</sup> process, funding mechanisms, performance and evaluation measures, and transition-to-operation guidelines for transformational research; and
 
 **(5)** describe partnerships with other agencies involved in transformational research.
 
-(Pub. L. 110–69, title IV, § 4001, Aug. 9, 2007, 121 Stat. 599; Pub. L. 111–358, title III, § 301, Jan. 4, 2011, 124 Stat. 3996.)
+(Pub. L. 110–69, title IV, § 4001, Aug. 9, 2007, 121 Stat. 599; Pub. L. 111–358, title III, § 301, Jan. 4, 2011, 124 Stat. 3996.)
 
 **Editorial Notes**
 
@@ -2749,7 +2749,7 @@ advancements in both understanding and U.S. science leadership;
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-### § 893a. NOAA ocean and atmospheric science education programs
+### § 893a. NOAA ocean and atmospheric science education programs
 
 **(a) In general**
 
@@ -2795,31 +2795,31 @@ Nothing in this section may be construed to affect the application of section 12
 
 In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
 
-(Pub. L. 110–69, title IV, § 4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, § 302, Jan. 4, 2011, 124 Stat. 3997; Pub. L. 114–329, title III, § 314, Jan. 6, 2017, 130 Stat. 3015.)
+(Pub. L. 110–69, title IV, § 4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, § 302, Jan. 4, 2011, 124 Stat. 3997; Pub. L. 114–329, title III, § 314, Jan. 6, 2017, 130 Stat. 3015.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 114–329, § 314(a), substituted “the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42” for “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups”.
+2017—Subsec. (a). Pub. L. 114–329, § 314(a), substituted “the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42” for “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups”.
 
-Subsec. (b)(4)(C) to (E). Pub. L. 114–329, § 314(b), added subpars. (C) and (E) and redesignated former subpar. (C) as (D).
+Subsec. (b)(4)(C) to (E). Pub. L. 114–329, § 314(b), added subpars. (C) and (E) and redesignated former subpar. (C) as (D).
 
-Subsecs. (d) to (f). Pub. L. 114–329, § 314(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 114–329, § 314(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-2011—Subsec. (a). Pub. L. 111–358, § 302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
+2011—Subsec. (a). Pub. L. 111–358, § 302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
 
-Subsec. (b). Pub. L. 111–358, § 302(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 111–358, § 302(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 111–358, § 302(4), substituted “maintain” for “develop”.
+Subsec. (c). Pub. L. 111–358, § 302(4), substituted “maintain” for “develop”.
 
-Pub. L. 111–358, § 302(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 111–358, § 302(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 111–358, § 302(2), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 111–358, § 302(2), redesignated subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 111–358, § 302(5), added subsec. (e).
+Subsec. (e). Pub. L. 111–358, § 302(5), added subsec. (e).
 
-### § 893b. NOAA’s contribution to innovation
+### § 893b. NOAA’s contribution to innovation
 
 **(a) Participation in interagency activities**
 
@@ -2829,9 +2829,9 @@ The National Oceanic and Atmospheric Administration shall be a full participant 
 
 In order to carry out the participation described in subsection (a), the Administrator of the National Oceanic and Atmospheric Administration shall build on the historic role of the National Oceanic and Atmospheric Administration in stimulating excellence in the advancement of ocean and atmospheric science and engineering disciplines and in providing opportunities and incentives for the pursuit of academic studies in science, technology, engineering, and mathematics.
 
-(Pub. L. 110–69, title IV, § 4003, Aug. 9, 2007, 121 Stat. 600.)
+(Pub. L. 110–69, title IV, § 4003, Aug. 9, 2007, 121 Stat. 600.)
 
-### § 893c. Workforce study
+### § 893c. Workforce study
 
 **(a) In general** The Under Secretary of Commerce for Oceans and Atmosphere, in cooperation with the Secretary of Education, shall request the National Academy of Sciences to conduct a study on the scientific workforce in the areas of oceanic and atmospheric research and development. The study shall investigate—
 
@@ -2865,43 +2865,43 @@ No later than 18 months after December 23, 2022, the Under Secretary of Commerce
 
 The Under Secretary of Commerce for Oceans and Atmosphere shall evaluate the National Academy of Sciences study and develop a workforce program and plan to institutionalize the Administration’s Federal science career pathways and address aging workforce issues. The program and plan shall be developed in consultation with the Administration’s cooperative institutes and other academic partners.
 
-(Pub. L. 111–358, title III, § 303, Jan. 4, 2011, 124 Stat. 3998; Pub. L. 117–263, div. J, title CI, § 10103, Dec. 23, 2022, 136 Stat. 3957.)
+(Pub. L. 111–358, title III, § 303, Jan. 4, 2011, 124 Stat. 3998; Pub. L. 117–263, div. J, title CI, § 10103, Dec. 23, 2022, 136 Stat. 3957.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 10103(a)(1), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 10103(a)(1), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 117–263, § 10103(a)(8), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 117–263, § 10103(a)(8), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 117–263, § 10103(a)(2), inserted “, skillsets, or credentials” after “degrees”.
+Pub. L. 117–263, § 10103(a)(2), inserted “, skillsets, or credentials” after “degrees”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 10103(a)(7), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 117–263, § 10103(a)(7), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Pub. L. 117–263, § 10103(a)(3), inserted “or highly qualified technical professionals and tradespeople” after “atmospheric scientists”.
+Pub. L. 117–263, § 10103(a)(3), inserted “or highly qualified technical professionals and tradespeople” after “atmospheric scientists”.
 
-Subsec. (a)(4). Pub. L. 117–263, § 10103(a)(7), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 117–263, § 10103(a)(7), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 117–263, § 10103(a)(4), inserted “, skillsets, or credentials” after “degrees”.
+Pub. L. 117–263, § 10103(a)(4), inserted “, skillsets, or credentials” after “degrees”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 10103(a)(7), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 117–263, § 10103(a)(7), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 117–263, § 10103(a)(5), struck out “scientist” after “aging Federal” and substituted “, observations, and monitoring;” for “; and”.
+Pub. L. 117–263, § 10103(a)(5), struck out “scientist” after “aging Federal” and substituted “, observations, and monitoring;” for “; and”.
 
-Subsec. (a)(6). Pub. L. 117–263, § 10103(a)(7), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 117–263, § 10103(a)(7), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 117–263, § 10103(a)(6), substituted “, technical professionals, and tradespeople into Federal career positions;” for “into Federal career scientist positions and ensure that the experiences of retiring Federal scientists are adequately documented and transferred prior to retirement from Federal service.”
+Pub. L. 117–263, § 10103(a)(6), substituted “, technical professionals, and tradespeople into Federal career positions;” for “into Federal career scientist positions and ensure that the experiences of retiring Federal scientists are adequately documented and transferred prior to retirement from Federal service.”
 
-Subsec. (a)(7). Pub. L. 117–263, § 10103(a)(7), redesignated par. (6) as (7).
+Subsec. (a)(7). Pub. L. 117–263, § 10103(a)(7), redesignated par. (6) as (7).
 
-Subsec. (a)(8), (9). Pub. L. 117–263, § 10103(a)(9), added pars. (8) and (9).
+Subsec. (a)(8), (9). Pub. L. 117–263, § 10103(a)(9), added pars. (8) and (9).
 
-Subsec. (b). Pub. L. 117–263, § 10103(b), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce”.
+Subsec. (b). Pub. L. 117–263, § 10103(b), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce”.
 
-Subsec. (c). Pub. L. 117–263, § 10103(c), substituted “December 23, 2022” for “January 4, 2011”, “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce”, and “to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives” for “to each committee of Congress with jurisdiction over the programs described in section 893a(b) of this title, as amended by section 302 of this Act”.
+Subsec. (c). Pub. L. 117–263, § 10103(c), substituted “December 23, 2022” for “January 4, 2011”, “Under Secretary of Commerce for Oceans and Atmosphere” for “Secretary of Commerce”, and “to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives” for “to each committee of Congress with jurisdiction over the programs described in section 893a(b) of this title, as amended by section 302 of this Act”.
 
-Subsec. (d). Pub. L. 117–263, § 10103(d), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Administrator of the National Oceanic and Atmospheric Administration” and “academic partners.” for “academic partners to identify and implement programs and mechanisms to ensure that—
+Subsec. (d). Pub. L. 117–263, § 10103(d), substituted “Under Secretary of Commerce for Oceans and Atmosphere” for “Administrator of the National Oceanic and Atmospheric Administration” and “academic partners.” for “academic partners to identify and implement programs and mechanisms to ensure that—
 
 “(1) sufficient highly qualified scientists are able to transition into Federal career scientist positions in the Administration’s laboratories and programs; and
 
@@ -2909,7 +2909,7 @@ Subsec. (d). Pub. L. 117–263, § 10103(d), substituted “Under Secretary of
 
 ## SUBCHAPTER VI—SEXUAL HARASSMENT AND ASSAULT PREVENTION
 
-### § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration
+### § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration
 
 **(a) Required policy**
 
@@ -2967,7 +2967,7 @@ Not less frequently than 4 times each year, the Director of the Civil Rights Off
 
 **(D)** Such recommendations as the Director may have with respect to sexual harassment in the Administration.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3541, Dec. 23, 2016, 130 Stat. 2800; Pub. L. 116–259, title V, § 504(a)(1), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3541, Dec. 23, 2016, 130 Stat. 2800; Pub. L. 116–259, title V, § 504(a)(1), Dec. 23, 2020, 134 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -2975,7 +2975,7 @@ Not less frequently than 4 times each year, the Director of the Civil Rights Off
 
 2020—Subsec. (b)(3)(B). Pub. L. 116–259 substituted “can be reported on a restricted or unrestricted basis” for “can be confidentially reported”.
 
-### § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration
+### § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration
 
 **(a) Comprehensive policy on prevention of and response to sexual assaults**
 
@@ -3065,7 +3065,7 @@ The Secretary may enter into formal relationships with other entities to make av
 
 In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, § 504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, § 504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -3073,13 +3073,13 @@ In developing the policy required by subsection (a), the Secretary may consult o
 
 2020—Subsec. (b)(5)(B). Pub. L. 116–259 substituted “can be reported on a restricted or unrestricted basis” for “can be confidentially reported”.
 
-### § 894b. Rights of the victim of a sexual assault
+### § 894b. Rights of the victim of a sexual assault
 
 A victim of a sexual assault covered by the comprehensive policy developed under section 894a(a) of this title has the right to be reasonably protected from the accused.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3543, Dec. 23, 2016, 130 Stat. 2803.)
+(Pub. L. 114–328, div. C, title XXXV, § 3543, Dec. 23, 2016, 130 Stat. 2803.)
 
-### § 894c. Change of station
+### § 894c. Change of station
 
 **(a) Change of station, unit transfer, or change of work location of victims**
 
@@ -3123,15 +3123,15 @@ The Secretary shall promulgate regulations to carry out this section.
 
 When practicable, the Secretary shall make regulations promulgated under this section consistent with similar regulations promulgated by the Secretary of Defense.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3544, Dec. 23, 2016, 130 Stat. 2803.)
+(Pub. L. 114–328, div. C, title XXXV, § 3544, Dec. 23, 2016, 130 Stat. 2803.)
 
-### § 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract
+### § 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract
 
 The Under Secretary for Oceans and Atmosphere shall ensure that each contract into which the Under Secretary enters for the use of a vessel by the National Oceanic and Atmospheric Administration that covers the crew of the vessel, if any, shall include as a condition of the contract a provision that subjects such crew to the policy developed under section 894(a) of this title and the comprehensive policy developed under section 894a(a) of this title.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3545, Dec. 23, 2016, 130 Stat. 2804.)
+(Pub. L. 114–328, div. C, title XXXV, § 3545, Dec. 23, 2016, 130 Stat. 2804.)
 
-### § 894d–1. Investigation requirement
+### § 894d–1. Investigation requirement
 
 **(a) Requirement to investigate**
 
@@ -3147,7 +3147,7 @@ It is the sense of Congress that the Secretary should ensure that an investigati
 
 In any case in which the time between the reporting of alleged sexual harassment or sexual assault under section 894 or 894a of this title, respectively, and commencement of an investigation of the allegation exceeds 48 hours, the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives of the delay.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3546, as added Pub. L. 116–259, title V, § 504(b)(2), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3546, as added Pub. L. 116–259, title V, § 504(b)(2), Dec. 23, 2020, 134 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -3155,11 +3155,11 @@ In any case in which the time between the reporting of alleged sexual harassment
 
 A prior section 3546 of Pub. L. 114–328 was renumbered section 3548 and is classified to section 894e of this title.
 
-### § 894d–2. Criminal referral
+### § 894d–2. Criminal referral
 
 If the Secretary of Commerce finds, pursuant to an investigation under section 894d–1 of this title, evidence that a crime may have been committed, the Secretary shall refer the matter to the appropriate law enforcement authorities, including the appropriate United States Attorney.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3547, as added Pub. L. 116–259, title V, § 504(b)(2), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3547, as added Pub. L. 116–259, title V, § 504(b)(2), Dec. 23, 2020, 134 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -3167,7 +3167,7 @@ If the Secretary of Commerce finds, pursuant to an investigation under section 8
 
 A prior section 3547 of Pub. L. 114–328 was renumbered section 3549 and is classified to section 894f of this title.
 
-### § 894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration
+### § 894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration
 
 **(a) In general**
 
@@ -3187,10 +3187,10 @@ Not later than January 15 of each year, the Secretary of Commerce shall submit t
 
 In preparing and submitting a report under subsection (a), the Secretary shall ensure that no individual involved in an alleged sexual assault can be identified by the contents of the report.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3548, formerly § 3546, Dec. 23, 2016, 130 Stat. 2804; renumbered § 3548, Pub. L. 116–259, title V, § 504(b)(1), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3548, formerly § 3546, Dec. 23, 2016, 130 Stat. 2804; renumbered § 3548, Pub. L. 116–259, title V, § 504(b)(1), Dec. 23, 2020, 134 Stat. 1180.)
 
-### § 894f. Sexual assault defined
+### § 894f. Sexual assault defined
 
 In this subchapter, the term “sexual assault” shall have the meaning given such term in section 12291(a) of title 34.
 
-(Pub. L. 114–328, div. C, title XXXV, § 3549, formerly § 3547, Dec. 23, 2016, 130 Stat. 2805; renumbered § 3549, Pub. L. 116–259, title V, § 504(b)(1), Dec. 23, 2020, 134 Stat. 1180.)
+(Pub. L. 114–328, div. C, title XXXV, § 3549, formerly § 3547, Dec. 23, 2016, 130 Stat. 2805; renumbered § 3549, Pub. L. 116–259, title V, § 504(b)(1), Dec. 23, 2020, 134 Stat. 1180.)

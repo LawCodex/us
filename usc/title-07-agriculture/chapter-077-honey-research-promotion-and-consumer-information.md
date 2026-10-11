@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 77—HONEY RESEARCH, PROMOTION, AND CONSUMER INFORMATION
 
-## § 4601. Findings and purposes
+## § 4601. Findings and purposes
 
 **(a) Findings** Congress makes the following findings:
 
@@ -69,19 +69,19 @@ retrieved: 2026-10-11
 
 **(4)** creates a trade barrier to honey or honey products produced in a foreign country.
 
-(Pub. L. 98–590, § 2, Oct. 30, 1984, 98 Stat. 3115; Pub. L. 105–185, title VI, § 605(a), June 23, 1998, 112 Stat. 587.)
+(Pub. L. 98–590, § 2, Oct. 30, 1984, 98 Stat. 3115; Pub. L. 105–185, title VI, § 605(a), June 23, 1998, 112 Stat. 587.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–185, § 605(a)(1), added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
+1998—Pub. L. 105–185, § 605(a)(1), added section catchline and struck out former section catchline, designated introductory provisions and pars. (1) to (7) as subsec. (a), inserted heading, and substituted “Congress makes the following findings” for “The Congress finds that” in introductory provisions.
 
-Subsec. (a)(6), (7). Pub. L. 105–185, § 605(a)(2)(A), substituted “consumer education, and industry information” for “and consumer education”.
+Subsec. (a)(6), (7). Pub. L. 105–185, § 605(a)(2)(A), substituted “consumer education, and industry information” for “and consumer education”.
 
-Subsec. (a)(8) to (10). Pub. L. 105–185, § 605(a)(2)(B), added pars. (8) to (10).
+Subsec. (a)(8) to (10). Pub. L. 105–185, § 605(a)(2)(B), added pars. (8) to (10).
 
-Subsecs. (b), (c). Pub. L. 105–185, § 605(a)(3), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
+Subsecs. (b), (c). Pub. L. 105–185, § 605(a)(3), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows:
 
 “(b)(1) It is, therefore, the purpose of this chapter to authorize the establishment of an orderly procedure for the development and financing, through an adequate assessment, of an effective and coordinated program of research, promotion, and consumer education designed to strengthen the position of the honey industry in the marketplace and maintain, develop, and expand markets for honey and honey products.
 
@@ -91,13 +91,13 @@ Subsecs. (b), (c). Pub. L. 105–185, § 605(a)(3), added subsecs. (b) and (c)
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XIX, § 1981, Nov. 28, 1990, 104 Stat. 3904, provided that: “This chapter [chapter 1 (§§ 1981–1987) of subtitle F of title XIX of Pub. L. 101–624, enacting section 4610a of this title, amending sections 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as a note under section 4603 of this title] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, § 1981, Nov. 28, 1990, 104 Stat. 3904, provided that: “This chapter [chapter 1 (§§ 1981–1987) of subtitle F of title XIX of Pub. L. 101–624, enacting section 4610a of this title, amending sections 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as a note under section 4603 of this title] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act Amendments of 1990’.”
 
 **Short Title**
 
-Pub. L. 98–590, § 1, Oct. 30, 1984, 98 Stat. 3115, provided that: “This Act [enacting this chapter] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act’.”
+Pub. L. 98–590, § 1, Oct. 30, 1984, 98 Stat. 3115, provided that: “This Act [enacting this chapter] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act’.”
 
-## § 4602. Definitions
+## § 4602. Definitions
 
 As used in this chapter:
 
@@ -177,35 +177,35 @@ As used in this chapter:
 
 **(24)** The term “State association” means that organization of beekeepers in a State which is generally recognized as representing the beekeepers of that State.
 
-(Pub. L. 98–590, § 3, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 101–624, title XIX, § 1982, Nov. 28, 1990, 104 Stat. 3904; Pub. L. 105–185, title VI, § 605(b), June 23, 1998, 112 Stat. 588.)
+(Pub. L. 98–590, § 3, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 101–624, title XIX, § 1982, Nov. 28, 1990, 104 Stat. 3904; Pub. L. 105–185, title VI, § 605(b), June 23, 1998, 112 Stat. 588.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pars. (1) to (5). Pub. L. 105–185, § 605(b)(3), redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
+1998—Pars. (1) to (5). Pub. L. 105–185, § 605(b)(3), redesignated pars. (14), (12), (19), (18), and (7) as (1) to (5), respectively. Former pars. (1) to (5) redesignated (7), (10), (22), (15), and (16), respectively.
 
-Par. (7). Pub. L. 105–185, § 605(b)(3), redesignated par. (1) as (7). Former par. (7) redesignated (5).
+Par. (7). Pub. L. 105–185, § 605(b)(3), redesignated par. (1) as (7). Former par. (7) redesignated (5).
 
-Pub. L. 105–185, § 605(b)(1), added par. (7) and struck out former par. (7) which read as follows: “The term ‘handle’ means to sell, package, or process honey.”
+Pub. L. 105–185, § 605(b)(1), added par. (7) and struck out former par. (7) which read as follows: “The term ‘handle’ means to sell, package, or process honey.”
 
-Pars. (8) to (12). Pub. L. 105–185, § 605(b)(3), redesignated pars. (15), (20), (2), (8), and (21) as (8) to (12), respectively. Former pars. (8) to (12) redesignated (11), (17), (18), (21), and (2), respectively.
+Pars. (8) to (12). Pub. L. 105–185, § 605(b)(3), redesignated pars. (15), (20), (2), (8), and (21) as (8) to (12), respectively. Former pars. (8) to (12) redesignated (11), (17), (18), (21), and (2), respectively.
 
-Pars. (14) to (18). Pub. L. 105–185, § 605(b)(3), redesignated pars. (22), (4), (5), (9), and (10) as (14) to (18), respectively. Former pars. (14) to (18) redesignated (1), (8), (24), (23), and (4), respectively.
+Pars. (14) to (18). Pub. L. 105–185, § 605(b)(3), redesignated pars. (22), (4), (5), (9), and (10) as (14) to (18), respectively. Former pars. (14) to (18) redesignated (1), (8), (24), (23), and (4), respectively.
 
-Pars. (19) to (24). Pub. L. 105–185, § 605(b)(3), redesignated pars. (23), (24), (11), (3), (17), and (16) as (19) to (24), respectively. Former pars. (19) to (24) redesignated (3), (9), (12), (14), (19), and (20), respectively.
+Pars. (19) to (24). Pub. L. 105–185, § 605(b)(3), redesignated pars. (23), (24), (11), (3), (17), and (16) as (19) to (24), respectively. Former pars. (19) to (24) redesignated (3), (9), (12), (14), (19), and (20), respectively.
 
-Pub. L. 105–185, § 605(b)(2), added pars. (19) to (24).
+Pub. L. 105–185, § 605(b)(2), added pars. (19) to (24).
 
-1990—Par. (8). Pub. L. 101–624, § 1982(1), substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
+1990—Par. (8). Pub. L. 101–624, § 1982(1), substituted “or acts” for “or who acts”, and inserted before period at end “and who is listed in the import records as the importer of record for such honey or honey products”.
 
-Par. (18). Pub. L. 101–624, § 1982(2), added par. (18).
+Par. (18). Pub. L. 101–624, § 1982(2), added par. (18).
 
-## § 4603. Honey research, promotion, and consumer information order
+## § 4603. Honey research, promotion, and consumer information order
 
 To effectuate the declared policy of this chapter, the Secretary shall, subject to the provisions of this chapter, issue and, from time to time, amend orders and regulations applicable to persons engaged in the production, sale, or handling of honey and honey products in the United States and the importation of honey and honey products into the United States.
 
-(Pub. L. 98–590, § 4, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 105–185, title VI, § 605(c), June 23, 1998, 112 Stat. 589.)
+(Pub. L. 98–590, § 4, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 105–185, title VI, § 605(c), June 23, 1998, 112 Stat. 589.)
 
 **Editorial Notes**
 
@@ -217,9 +217,9 @@ To effectuate the declared policy of this chapter, the Secretary shall, subject 
 
 **Conforming Amendment to Order**
 
-Pub. L. 101–624, title XIX, § 1987, Nov. 28, 1990, 104 Stat. 3908, provided that: “Notwithstanding any provision of the Honey Research, Promotion, and Consumer Information Act (7 U.S.C. 4601 et seq.), the Secretary of Agriculture, after notice and opportunity for public comment, shall issue an amendment to the order in effect under such Act on the date of the enactment of this Act [Nov. 28, 1990] to conform such order to the amendments made by this subtitle [subtitle F (§§ 1981–1989) of title XIX of Pub. L. 101–624, enacting section 4610a of this title and amending sections 1787, 4602, 4606, 4608, and 4612 of this title], which shall become effective on the date of the publication of such amendment to the order in the Federal Register without a referendum thereon (except for the referendum specifically provided for under section 1985 [amending section 4612 of this title]). The Secretary shall issue such amendment to the order in final form not later than 150 days after the date of the enactment of this Act.”
+Pub. L. 101–624, title XIX, § 1987, Nov. 28, 1990, 104 Stat. 3908, provided that: “Notwithstanding any provision of the Honey Research, Promotion, and Consumer Information Act (7 U.S.C. 4601 et seq.), the Secretary of Agriculture, after notice and opportunity for public comment, shall issue an amendment to the order in effect under such Act on the date of the enactment of this Act [Nov. 28, 1990] to conform such order to the amendments made by this subtitle [subtitle F (§§ 1981–1989) of title XIX of Pub. L. 101–624, enacting section 4610a of this title and amending sections 1787, 4602, 4606, 4608, and 4612 of this title], which shall become effective on the date of the publication of such amendment to the order in the Federal Register without a referendum thereon (except for the referendum specifically provided for under section 1985 [amending section 4612 of this title]). The Secretary shall issue such amendment to the order in final form not later than 150 days after the date of the enactment of this Act.”
 
-## § 4604. Notice and hearing
+## § 4604. Notice and hearing
 
 **(a) Notice and comment**
 
@@ -233,7 +233,7 @@ Sections 556 and 557 of that title shall not apply with respect to the issuance 
 
 A proposal for an order may be submitted to the Secretary by any organization or interested person affected by this chapter.
 
-(Pub. L. 98–590, § 5, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 105–185, title VI, § 605(d), June 23, 1998, 112 Stat. 589.)
+(Pub. L. 98–590, § 5, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 105–185, title VI, § 605(d), June 23, 1998, 112 Stat. 589.)
 
 **Editorial Notes**
 
@@ -241,11 +241,11 @@ A proposal for an order may be submitted to the Secretary by any organization or
 
 1998—Pub. L. 105–185 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whenever the Secretary has reason to believe that the issuance of an order will assist in carrying out the purpose of this chapter, the Secretary shall provide due notice of and opportunity for a hearing upon a proposed order. Such hearing may be requested and a proposal for an order submitted by any organization or interested person affected by the provisions of this chapter.”
 
-## § 4605. Findings and issuance of order
+## § 4605. Findings and issuance of order
 
 After notice and opportunity for comment has been provided in accordance with section 4604(a) of this title, the Secretary shall issue an order, an amendment to an order, or a regulation under this chapter, if the Secretary finds, and specifies in the order, amendment, or regulation, that the issuance of the order, amendment, or regulation will assist in carrying out the purposes of this chapter.
 
-(Pub. L. 98–590, § 6, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 105–185, title VI, § 605(e), June 23, 1998, 112 Stat. 589.)
+(Pub. L. 98–590, § 6, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 105–185, title VI, § 605(e), June 23, 1998, 112 Stat. 589.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ After notice and opportunity for comment has been provided in accordance with se
 
 1998—Pub. L. 105–185 amended section catchline and text generally. Prior to amendment, text read as follows: “After notice of and opportunity for a hearing has been provided in accordance with section 4604 of this title, the Secretary shall issue an order if the Secretary finds, and sets forth in such order, that, upon the evidence introduced at such hearing, the issuance of such order and all the terms and conditions thereof will assist in carrying out the purpose of this chapter.”
 
-## § 4606. Required terms of order
+## § 4606. Required terms of order
 
 **(a) Terms and conditions of order**
 
@@ -401,7 +401,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 **(8)** Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(9)** In the event any member of the Honey Board ceases to be a member of the category of members from which the member was appointed to the Honey Board, such person shall be automatically replaced by an alternate, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed.
 
@@ -495,7 +495,7 @@ The Honey Board shall prepare and submit to the Secretary, for the Secretary’s
 
 **(5)** If a producer, producer-packer handler,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 or importer does not pay any assessments under this chapter due to the applicability to such person of the exemptions from assessments provided in paragraph (4), then such producer, producer-packer handler,,2 or importer shall not be considered a producer, handler, or importer for purposes of voting in any referendum conducted under this chapter during the period the person’s exemption from all assessments is in effect.
 
@@ -539,7 +539,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
-(Pub. L. 98–590, § 7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§ 1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, § 605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(b)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, § 10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, § 4(a), title X, § 10401, June 18, 2008, 122 Stat. 1664, 2109.)
+(Pub. L. 98–590, § 7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§ 1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, § 605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(b)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, § 10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, § 4(a), title X, § 10401, June 18, 2008, 122 Stat. 1664, 2109.)
 
 **Editorial Notes**
 
@@ -553,15 +553,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(12). Pub. L. 110–246, § 10401, added par. (12).
+2008—Subsec. (c)(12). Pub. L. 110–246, § 10401, added par. (12).
 
-1998—Subsec. (b)(2). Pub. L. 105–185, § 605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+1998—Subsec. (b)(2). Pub. L. 105–185, § 605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
 
-Subsec. (b)(5). Pub. L. 105–185, § 605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
+Subsec. (b)(5). Pub. L. 105–185, § 605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
 
-Subsec. (c)(2)(A). Pub. L. 105–185, § 605(f)(2)(B)(i), substituted “7 members” for “seven members”.
+Subsec. (c)(2)(A). Pub. L. 105–185, § 605(f)(2)(B)(i), substituted “7 members” for “seven members”.
 
-Subsec. (c)(2)(B) to (E). Pub. L. 105–185, § 605(f)(2)(B)(ii), added subpars. (B) to (E) and struck out former subpars. (B) to (E) and concluding provisions which read as follows:
+Subsec. (c)(2)(B) to (E). Pub. L. 105–185, § 605(f)(2)(B)(ii), added subpars. (B) to (E) and struck out former subpars. (B) to (E) and concluding provisions which read as follows:
 
 “(B) two members who are handlers of honey appointed from nominations submitted by the Committee from recommendations made by industry organizations representing handler interests;
 
@@ -573,23 +573,23 @@ Subsec. (c)(2)(B) to (E). Pub. L. 105–185, § 605(f)(2)(B)(ii), added subpar
 
 The Committee shall also submit nominations for an alternate for each member of the Honey Board described in subparagraphs (A) through (D), and the Secretary shall appoint an alternate for the member described in subparagraph (E). Such alternates shall be appointed in the same manner as members are and shall serve only whenever the member is absent from a meeting or is disqualified. However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
 
-Subsec. (c)(3) to (7). Pub. L. 105–185, § 605(f)(2)(A), (C), added pars. (3) to (7) and redesignated former pars. (3) to (6) as (8) to (11), respectively.
+Subsec. (c)(3) to (7). Pub. L. 105–185, § 605(f)(2)(A), (C), added pars. (3) to (7) and redesignated former pars. (3) to (6) as (8) to (11), respectively.
 
-Subsec. (c)(8). Pub. L. 105–185, § 605(f)(2)(A), (D), redesignated par. (3) as (8) and substituted “except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups.” for “except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+Subsec. (c)(8). Pub. L. 105–185, § 605(f)(2)(A), (D), redesignated par. (3) as (8) and substituted “except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups.” for “except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
 
-Subsec. (c)(9) to (11). Pub. L. 105–185, § 605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
+Subsec. (c)(9) to (11). Pub. L. 105–185, § 605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
 
-Subsec. (e)(1). Pub. L. 105–185, § 605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
+Subsec. (e)(1). Pub. L. 105–185, § 605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
 
 Subsec. (e)(2). Pub. L. 105–277 substituted “$0.01” for “$0.0075” wherever appearing.
 
-Pub. L. 105–185, § 605(f)(3)(A), (B), added par. (2) and redesignated former par. (2) as (4).
+Pub. L. 105–185, § 605(f)(3)(A), (B), added par. (2) and redesignated former par. (2) as (4).
 
-Subsec. (e)(3). Pub. L. 105–185, § 605(f)(3)(A), (B), added par. (3) and redesignated former par. (3) as (5).
+Subsec. (e)(3). Pub. L. 105–185, § 605(f)(3)(A), (B), added par. (3) and redesignated former par. (3) as (5).
 
-Subsec. (e)(4). Pub. L. 105–185, § 605(f)(3)(A), redesignated par. (2) as (4).
+Subsec. (e)(4). Pub. L. 105–185, § 605(f)(3)(A), redesignated par. (2) as (4).
 
-Subsec. (e)(4)(B). Pub. L. 105–185, § 605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
+Subsec. (e)(4)(B). Pub. L. 105–185, § 605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
 “(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
 
@@ -597,25 +597,25 @@ Subsec. (e)(4)(B). Pub. L. 105–185, § 605(f)(3)(C), added subpar. (B) and s
 
 “(iii) If, after a person claims an exemption from assessments for any year under this subparagraph, such person no longer meets the requirements of this subparagraph for an exemption, such person shall file a report with the Honey Board in the form and manner prescribed by the Board and pay an assessment on or before March 15 of the subsequent year on all honey produced or imported by such person during the year for which the person claimed the exemption.”
 
-Subsec. (e)(5). Pub. L. 105–185, § 605(f)(3)(A), (D), redesignated par. (3) as (5), inserted “handler,” after “producer-packer” in two places, substituted “paragraph (4)” for “paragraph (2)”, and inserted “, handler,” after “considered a producer”.
+Subsec. (e)(5). Pub. L. 105–185, § 605(f)(3)(A), (D), redesignated par. (3) as (5), inserted “handler,” after “producer-packer” in two places, substituted “paragraph (4)” for “paragraph (2)”, and inserted “, handler,” after “considered a producer”.
 
-Subsec. (f). Pub. L. 105–185, § 605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out “from the assessments” before “shall be used”, added par. (2), designated second sentence as par. (3), and added par. heading.
+Subsec. (f). Pub. L. 105–185, § 605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out “from the assessments” before “shall be used”, added par. (2), designated second sentence as par. (3), and added par. heading.
 
-Subsec. (g). Pub. L. 105–185, § 605(f)(5), substituted “by the Honey Board” for “with assessments collected”.
+Subsec. (g). Pub. L. 105–185, § 605(f)(5), substituted “by the Honey Board” for “with assessments collected”.
 
-Subsec. (h). Pub. L. 105–185, § 605(f)(6), substituted “by the Honey Board under” for “through assessments authorized by”.
+Subsec. (h). Pub. L. 105–185, § 605(f)(6), substituted “by the Honey Board under” for “through assessments authorized by”.
 
-1990—Subsec. (c)(2). Pub. L. 101–624, § 1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
+1990—Subsec. (c)(2). Pub. L. 101–624, § 1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
 
-Subsec. (c)(2)(C). Pub. L. 101–624, § 1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;”.
+Subsec. (c)(2)(C). Pub. L. 101–624, § 1983(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “two members who are importers appointed from nominations submitted by the Committee from recommendations made by industry organizations representing importer interests;”.
 
-Subsec. (c)(4). Pub. L. 101–624, § 1983(1)(D), inserted before period at end “, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed”.
+Subsec. (c)(4). Pub. L. 101–624, § 1983(1)(D), inserted before period at end “, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed”.
 
-Subsec. (e)(1). Pub. L. 101–624, § 1984(a)(1), substituted new second sentence for “For the first year in which the plan is in effect, the assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title. After the first year, the Honey Board may submit to the Secretary a request for an increase in the assessment rate not to exceed 0.5 cent per year, but at no time may the total assessment rate exceed $0.04 per pound.”
+Subsec. (e)(1). Pub. L. 101–624, § 1984(a)(1), substituted new second sentence for “For the first year in which the plan is in effect, the assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title. After the first year, the Honey Board may submit to the Secretary a request for an increase in the assessment rate not to exceed 0.5 cent per year, but at no time may the total assessment rate exceed $0.04 per pound.”
 
-Subsec. (e)(2), (3). Pub. L. 101–624, § 1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed.”
+Subsec. (e)(2), (3). Pub. L. 101–624, § 1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed.”
 
-Subsec. (k). Pub. L. 101–624, § 1983(2), added subsec. (k).
+Subsec. (k). Pub. L. 101–624, § 1983(2), added subsec. (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -625,9 +625,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1998 Amendment**
 
-Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of this title.
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of this title.
 
-## § 4607. Permissive terms and provisions
+## § 4607. Permissive terms and provisions
 
 **(a) In general** On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
 
@@ -689,7 +689,7 @@ To be eligible to display the official seal of approval established under paragr
 
 Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).
 
-(Pub. L. 98–590, § 8, Oct. 30, 1984, 98 Stat. 3119; Pub. L. 105–185, title VI, § 605(g), June 23, 1998, 112 Stat. 596.)
+(Pub. L. 98–590, § 8, Oct. 30, 1984, 98 Stat. 3119; Pub. L. 105–185, title VI, § 605(g), June 23, 1998, 112 Stat. 596.)
 
 **Editorial Notes**
 
@@ -697,7 +697,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall have th
 
 1998—Pub. L. 105–185 designated existing provisions as subsec. (a), inserted heading, and added par. (8) and subsecs. (b) to (d).
 
-## § 4608. Collection of assessments; refunds
+## § 4608. Collection of assessments; refunds
 
 **(a) Handlers** Except as otherwise provided in this section, a first handler of honey shall be responsible, at the time of first purchase—
 
@@ -783,51 +783,51 @@ If a first handler or the Secretary fails to collect an assessment from a produc
 
 If the United States Customs Service fails to collect an assessment from an importer or an importer fails to pay an assessment at the time of entry of honey and honey products into the United States under this section, the importer shall be responsible for the remission of the assessment to the Honey Board.
 
-(Pub. L. 98–590, § 9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, § 1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, § 807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, § 591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, § 605(h), June 23, 1998, 112 Stat. 597.)
+(Pub. L. 98–590, § 9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, § 1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, § 807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, § 591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, § 605(h), June 23, 1998, 112 Stat. 597.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–185, § 605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
+1998—Subsec. (a). Pub. L. 105–185, § 605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
 
-Subsec. (c). Pub. L. 105–185, § 605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
+Subsec. (c). Pub. L. 105–185, § 605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
 
-Subsec. (e). Pub. L. 105–185, § 605(h)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “Producer-packers shall pay to the Honey Board the assessment on the honey they produce.”
+Subsec. (e). Pub. L. 105–185, § 605(h)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “Producer-packers shall pay to the Honey Board the assessment on the honey they produce.”
 
-Subsec. (f). Pub. L. 105–185, § 605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
+Subsec. (f). Pub. L. 105–185, § 605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
 
-Subsec. (g). Pub. L. 105–185, § 605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+Subsec. (g). Pub. L. 105–185, § 605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
 
 “(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
 
 “(2) the publication by direction of the Secretary, of the name of any person violating any order issued under this chapter, together with a statement of the particular provisions of the order violated by such person.”
 
-Subsec. (h). Pub. L. 105–185, § 605(h)(4), (5), added subsec. (h) and struck out former subsec. (h) which read as follows: “(h)(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
+Subsec. (h). Pub. L. 105–185, § 605(h)(4), (5), added subsec. (h) and struck out former subsec. (h) which read as follows: “(h)(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
 
 “(B) A producer that has obtained a honey price support loan under the Agricultural Act of 1949, or successor statute, may obtain a refund if the producer has submitted to the Honey Board the statement received under subsection (d) of this section of the amount of assessment deducted from the loan funds and has otherwise complied with this subsection, even though the loan with respect to which the assessment was collected may still be outstanding and final settlement has not been made.
 
 “(2) With respect to the order in effect on November 28, 1990, following the referendum on such order required under section 4612(b)(2) of this title, a producer or importer may obtain a refund of an assessment under such order as provided in paragraph (1) only if the Secretary determines that the proposal to terminate refunds under the order is defeated in such referendum.”
 
-Subsec. (i). Pub. L. 105–185, § 605(h)(6), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+Subsec. (i). Pub. L. 105–185, § 605(h)(6), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1996—Subsec. (f). Pub. L. 104–127 inserted “producers,” after “importers,”.
 
 1991—Subsec. (h)(1)(A). Pub. L. 102–237 inserted “to” before “an importer”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1984(b)(1), inserted reference to subsec. (i) of this section.
+1990—Subsec. (a). Pub. L. 101–624, § 1984(b)(1), inserted reference to subsec. (i) of this section.
 
-Subsec. (d). Pub. L. 101–624, § 1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
+Subsec. (d). Pub. L. 101–624, § 1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
 
-Subsec. (f). Pub. L. 101–624, § 1984(b)(3), inserted “, and persons receiving an exemption from assessments under section 4606(e)(2) of this title,” after “payment of assessments”.
+Subsec. (f). Pub. L. 101–624, § 1984(b)(3), inserted “, and persons receiving an exemption from assessments under section 4606(e)(2) of this title,” after “payment of assessments”.
 
-Subsec. (h). Pub. L. 101–624, § 1984(b)(4), designated existing provisions as par. (1)(A); substituted “Except as otherwise provided in paragraph (2), any” for “Any”, “an importer” for “to importers”, and “from such importer” for “from importers”; added subpar. (B); and added par. (2).
+Subsec. (h). Pub. L. 101–624, § 1984(b)(4), designated existing provisions as par. (1)(A); substituted “Except as otherwise provided in paragraph (2), any” for “Any”, “an importer” for “to importers”, and “from such importer” for “from importers”; added subpar. (B); and added par. (2).
 
-Subsec. (i). Pub. L. 101–624, § 1984(b)(5), added subsec. (i).
+Subsec. (i). Pub. L. 101–624, § 1984(b)(5), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -835,7 +835,7 @@ Subsec. (i). Pub. L. 101–624, § 1984(b)(5), added subsec. (i).
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 4609. Petition and review
+## § 4609. Petition and review
 
 **(a) Filing of petition; hearing**
 
@@ -867,7 +867,7 @@ After the hearing, the Secretary shall make a ruling on the petition that shall 
 
 The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 4610 of this title.
 
-(Pub. L. 98–590, § 10, Oct. 30, 1984, 98 Stat. 3121; Pub. L. 105–185, title VI, § 605(i), June 23, 1998, 112 Stat. 599.)
+(Pub. L. 98–590, § 10, Oct. 30, 1984, 98 Stat. 3121; Pub. L. 105–185, title VI, § 605(i), June 23, 1998, 112 Stat. 599.)
 
 **Editorial Notes**
 
@@ -875,7 +875,7 @@ The district courts of the United States in any district in which such person is
 
 1998—Subsec. (a). Pub. L. 105–185 added subsec. (a) and struck out former subsec. (a) which read as follows: “Any person subject to an order may file, within a period prescribed by the Secretary, a written petition with the Secretary, stating that such order or any provision of such order or any obligation imposed in connection therewith is not in accordance with law and requesting a modification thereof or to be exempted therefrom. Such person shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations made by the Secretary. After such hearing, the Secretary shall make a ruling upon such petition which shall be final, if in accordance with law.”
 
-## § 4610. Enforcement
+## § 4610. Enforcement
 
 **(a) District courts; jurisdiction; Attorney General**
 
@@ -891,7 +891,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(Pub. L. 98–590, § 11, Oct. 30, 1984, 98 Stat. 3122; Pub. L. 105–185, § 605(j), June 23, 1998, 112 Stat. 600.)
+(Pub. L. 98–590, § 11, Oct. 30, 1984, 98 Stat. 3122; Pub. L. 105–185, § 605(j), June 23, 1998, 112 Stat. 600.)
 
 **Editorial Notes**
 
@@ -899,7 +899,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 1998—Subsecs. (a), (b)(1). Pub. L. 105–185 substituted “order” for “plan” wherever appearing.
 
-## § 4610a. Investigations and power to subpoena
+## § 4610a. Investigations and power to subpoena
 
 **(a) In general** The Secretary may make such investigations as the Secretary determines necessary—
 
@@ -933,7 +933,7 @@ Process in any such case may be served in the judicial district in which such pe
 
 The site of any hearings held under section 4609 or 4610 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-(Pub. L. 98–590, § 11A, as added Pub. L. 101–624, title XIX, § 1986, Nov. 28, 1990, 104 Stat. 3908; amended Pub. L. 102–237, title VIII, § 807(2), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 98–590, § 11A, as added Pub. L. 101–624, title XIX, § 1986, Nov. 28, 1990, 104 Stat. 3908; amended Pub. L. 102–237, title VIII, § 807(2), Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -941,7 +941,7 @@ The site of any hearings held under section 4609 or 4610 of this title shall be 
 
 1991—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “4609 or”.
 
-## § 4611. Requirements of referendum
+## § 4611. Requirements of referendum
 
 **(a) In general**
 
@@ -975,7 +975,7 @@ Each producer-packer and each importer shall have 1 vote as a handler as well as
 
 The ballots and other information or reports that reveal, or tend to reveal, the identity or vote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.
 
-(Pub. L. 98–590, § 12, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 105–185, title VI, § 605(k), June 23, 1998, 112 Stat. 600.)
+(Pub. L. 98–590, § 12, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 105–185, title VI, § 605(k), June 23, 1998, 112 Stat. 600.)
 
 **Editorial Notes**
 
@@ -983,7 +983,7 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 1998—Pub. L. 105–185 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of ascertaining whether issuance of an order is approved or favored by producers and importers, the Secretary shall conduct a referendum among those producers and importers not exempt under section 4606(e)(2) of this title who, during a representative period determined by the Secretary, have been engaged in the production and importation of honey. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such an order is approved or favored by not less than two-thirds of the producers and importers voting in such referendum or by a majority of the producers and importers voting in such referendum if such majority produced and imported not less than two-thirds of the honey produced and imported during the representative period. The ballots and other information or reports which reveal, or tend to reveal, the vote of any producer or importer of honey shall be held strictly confidential and shall not be disclosed.”
 
-## § 4612. Termination or suspension
+## § 4612. Termination or suspension
 
 **(a) “Person” defined**
 
@@ -1027,7 +1027,7 @@ The Secretary shall terminate or suspend an order at the end of the marketing ye
 
 Section 4611 of this title shall apply in determining the effectiveness of the subsequent amended order under paragraph (2).
 
-(Pub. L. 98–590, § 13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, § 1985, Nov. 28, 1990, 104 Stat. 3907; Pub. L. 105–185, title VI, § 605(*l*), June 23, 1998, 112 Stat. 601.)
+(Pub. L. 98–590, § 13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, § 1985, Nov. 28, 1990, 104 Stat. 3907; Pub. L. 105–185, title VI, § 605(*l*), June 23, 1998, 112 Stat. 601.)
 
 **Editorial Notes**
 
@@ -1035,11 +1035,11 @@ Section 4611 of this title shall apply in determining the effectiveness of the s
 
 1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) authorized Secretary to terminate or suspend order, in subsec. (b) provided for conducting of referendum every five years and alternative first referendum, in subsec. (c) provided for referendum upon request of Honey Board or petition of ten percent or more of producers and importers, and in subsec. (d) directed termination or suspension of order where favored by majority voting in referendum and majority produce and import more than 50 percent of volume of honey of those voting.
 
-1990—Subsec. (b). Pub. L. 101–624, § 1985(a), designated existing provisions as par. (1), substituted “Except as otherwise provided in paragraph (2), five” for “Five” and “termination” for “continuation, termination,” and added par. (2).
+1990—Subsec. (b). Pub. L. 101–624, § 1985(a), designated existing provisions as par. (1), substituted “Except as otherwise provided in paragraph (2), five” for “Five” and “termination” for “continuation, termination,” and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, § 1985(b), substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
+Subsec. (d). Pub. L. 101–624, § 1985(b), substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
 
-## § 4613. Implementation of amendments made by Agricultural Research, Extension, and Education Reform Act of 1998
+## § 4613. Implementation of amendments made by Agricultural Research, Extension, and Education Reform Act of 1998
 
 **(a) Issuance of amended order**
 
@@ -1109,7 +1109,7 @@ An amendment to an order that implements a provision that is subject to a refere
 
 If the amended order becomes effective, any referendum otherwise required to be conducted under section 4612(c) of this title shall not be held before the date that is 5 years after the date of the referendum conducted under this section.
 
-(Pub. L. 98–590, § 14, as added Pub. L. 105–185, title VI, § 605(m), June 23, 1998, 112 Stat. 602.)
+(Pub. L. 98–590, § 14, as added Pub. L. 105–185, title VI, § 605(m), June 23, 1998, 112 Stat. 602.)
 
 **Editorial Notes**
 

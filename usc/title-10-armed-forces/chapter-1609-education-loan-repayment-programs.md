@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–181, div. A, title VI, § 672(c)(2), Jan. 28, 2008, 122 Stat. 185, substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in item 16301.
+2008—Pub. L. 110–181, div. A, title VI, § 672(c)(2), Jan. 28, 2008, 122 Stat. 185, substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in item 16301.
 
-2006—Pub. L. 109–163, div. A, title VI, § 684(b), Jan. 6, 2006, 119 Stat. 3325, added item 16303.
+2006—Pub. L. 109–163, div. A, title VI, § 684(b), Jan. 6, 2006, 119 Stat. 3325, added item 16303.
 
-## § 16301. Education loan repayment program: members of Selected Reserve
+## § 16301. Education loan repayment program: members of Selected Reserve
 
 **(a)**
 
@@ -65,13 +65,13 @@ Repayment of any such loan shall be made on the basis of each complete year of s
 
 **(i)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, § 1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, § 676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 534, Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, § 526, Oct. 28, 2004, 118 Stat. 1890; Pub. L. 110–181, div. A, title VI, § 672(a)–(c)(1), Jan. 28, 2008, 122 Stat. 184, 185; Pub. L. 111–383, div. A, title V, § 552(b), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(P), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 116–283, div. A, title V, § 515(a), Jan. 1, 2021, 134 Stat. 3589.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, § 1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, § 676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 534, Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, § 526, Oct. 28, 2004, 118 Stat. 1890; Pub. L. 110–181, div. A, title VI, § 672(a)–(c)(1), Jan. 28, 2008, 122 Stat. 184, 185; Pub. L. 111–383, div. A, title V, § 552(b), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(P), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 116–283, div. A, title V, § 515(a), Jan. 1, 2021, 134 Stat. 3589.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
@@ -81,21 +81,21 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 2011—Subsecs. (h), (i). Pub. L. 111–383 added subsecs. (h) and (i).
 
-2008—Pub. L. 110–181, § 672(c)(1), substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
+2008—Pub. L. 110–181, § 672(c)(1), substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
 
-Subsec. (a)(1)(D). Pub. L. 110–181, § 672(a), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 110–181, § 672(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 110–181, § 672(b)(1), substituted “The Secretary” for “Except as provided in paragraph (3), the Secretary” and “a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty” for “an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty”.
+Subsec. (a)(2). Pub. L. 110–181, § 672(b)(1), substituted “The Secretary” for “Except as provided in paragraph (3), the Secretary” and “a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty” for “an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty”.
 
-Subsec. (a)(3). Pub. L. 110–181, § 672(b)(2), struck out par. (3) which read as follows: “In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.”
+Subsec. (a)(3). Pub. L. 110–181, § 672(b)(2), struck out par. (3) which read as follows: “In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.”
 
-2004—Subsec. (a)(2). Pub. L. 108–375, § 526(1), substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
+2004—Subsec. (a)(2). Pub. L. 108–375, § 526(1), substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
 
-Subsec. (a)(3). Pub. L. 108–375, § 526(2), added par. (3).
+Subsec. (a)(3). Pub. L. 108–375, § 526(2), added par. (3).
 
-2003—Subsec. (b). Pub. L. 108–136, § 534(1), inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
+2003—Subsec. (b). Pub. L. 108–136, § 534(1), inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
 
-Subsec. (c). Pub. L. 108–136, § 534(2), inserted last sentence.
+Subsec. (c). Pub. L. 108–136, § 534(2), inserted last sentence.
 
 2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -107,7 +107,7 @@ Subsec. (c). Pub. L. 108–136, § 534(2), inserted last sentence.
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title V, § 515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act.”
+Pub. L. 116–283, div. A, title V, § 515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act.”
 
 **Effective Date of 2002 Amendment**
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 16302. Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages
+## § 16302. Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages
 
 **(a)** Under regulations prescribed by the Secretary of Defense and subject to the other provisions of this section, the Secretary concerned may repay—
 
@@ -145,15 +145,15 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2026.
 
-(Added Pub. L. 99–145, title VI, § 671(a)(1), Nov. 8, 1985, 99 Stat. 662, § 2172; amended Pub. L. 100–180, div. A, title VII, § 713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, § 701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, § 612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, § 613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered § 16302 and amended Pub. L. 103–337, div. A, title VI, § 613(e), title X, § 1070(a)(9), title XVI, § 1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, § 613(h), title X, § 1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, § 613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, § 611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§ 611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, § 611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, § 1 [[div. A], title VI, § 621(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, § 611(h), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, § 612(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, § 612(b), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§ 612(b), 662, Oct. 28, 2004, 118 Stat. 1947, 1974; Pub. L. 109–163, div. A, title VI, § 622(b), Jan. 6, 2006, 119 Stat. 3294; Pub. L. 109–364, div. A, title VI, § 612(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, § 612(b), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title V, § 547, title VI, § 612(b), Oct. 14, 2008, 122 Stat. 4466, 4484; Pub. L. 111–84, div. A, title VI, § 612(a)(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, § 612(a)(2), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, § 612(a)(2), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 612(a)(2), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 612(a)(2), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 612(a)(2), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, § 612(a)(2), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, § 612(a)(2), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, § 612(a)(2), Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(b)(2), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, § 611(b)(2), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, § 611(b)(2), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(b)(2), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(b)(2), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title VI, § 613(b)(2), Dec. 22, 2023, 137 Stat. 291; Pub. L. 118–159, div. A, title VI, § 611(b)(2), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, § 611(b)(2), Dec. 18, 2025, 139 Stat. 906.)
+(Added Pub. L. 99–145, title VI, § 671(a)(1), Nov. 8, 1985, 99 Stat. 662, § 2172; amended Pub. L. 100–180, div. A, title VII, § 713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, § 701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, § 612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, § 613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered § 16302 and amended Pub. L. 103–337, div. A, title VI, § 613(e), title X, § 1070(a)(9), title XVI, § 1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, § 613(h), title X, § 1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, § 613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, § 611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§ 611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, § 611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, § 1 [[div. A], title VI, § 621(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, § 611(h), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, § 612(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, § 612(b), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§ 612(b), 662, Oct. 28, 2004, 118 Stat. 1947, 1974; Pub. L. 109–163, div. A, title VI, § 622(b), Jan. 6, 2006, 119 Stat. 3294; Pub. L. 109–364, div. A, title VI, § 612(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, § 612(b), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title V, § 547, title VI, § 612(b), Oct. 14, 2008, 122 Stat. 4466, 4484; Pub. L. 111–84, div. A, title VI, § 612(a)(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, § 612(a)(2), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, § 612(a)(2), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 612(a)(2), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 612(a)(2), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 612(a)(2), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, § 612(a)(2), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, § 612(a)(2), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, § 612(a)(2), Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(b)(2), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, § 611(b)(2), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, § 611(b)(2), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(b)(2), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(b)(2), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title VI, § 613(b)(2), Dec. 22, 2023, 137 Stat. 291; Pub. L. 118–159, div. A, title VI, § 611(b)(2), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, § 611(b)(2), Dec. 18, 2025, 139 Stat. 906.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -191,13 +191,13 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 2009—Subsec. (d). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (c)(2), (3). Pub. L. 110–417, § 547, added par. (2) and struck out former pars. (2) and (3) which read as follows:
+2008—Subsec. (c)(2), (3). Pub. L. 110–417, § 547, added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $20,000 for each year of service described in paragraph (1).
 
 “(3) The total amount that may be repaid on behalf of any person under this section may not exceed $50,000.”
 
-Subsec. (d). Pub. L. 110–417, § 612(b), substituted “on or before December 31, 2009” for “before January 1, 2009”.
+Subsec. (d). Pub. L. 110–417, § 612(b), substituted “on or before December 31, 2009” for “before January 1, 2009”.
 
 Pub. L. 110–181 substituted “January 1, 2009” for “January 1, 2008”.
 
@@ -205,9 +205,9 @@ Pub. L. 110–181 substituted “January 1, 2009” for “January 1, 2008”.
 
 Pub. L. 109–163 substituted “January 1, 2007” for “January 1, 2006”.
 
-2004—Subsec. (a)(5). Pub. L. 108–375, § 662, inserted “a basic professional qualifying degree (as determined under regulations prescribed by the Secretary of Defense) or graduate education in” after “regarding”.
+2004—Subsec. (a)(5). Pub. L. 108–375, § 662, inserted “a basic professional qualifying degree (as determined under regulations prescribed by the Secretary of Defense) or graduate education in” after “regarding”.
 
-Subsec. (d). Pub. L. 108–375, § 612(b), substituted “January 1, 2006” for “January 1, 2005”.
+Subsec. (d). Pub. L. 108–375, § 612(b), substituted “January 1, 2006” for “January 1, 2005”.
 
 2003—Subsec. (d). Pub. L. 108–136 substituted “January 1, 2005” for “January 1, 2004”.
 
@@ -219,43 +219,43 @@ Subsec. (d). Pub. L. 108–375, § 612(b), substituted “January 1, 2006” f
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “January 1, 2001” for “January 1, 2000”.
 
-1998—Subsec. (b)(2). Pub. L. 105–261, § 654(a), inserted “, or is enrolled in a program of education leading to professional qualifications,” after “possesses professional qualifications”.
+1998—Subsec. (b)(2). Pub. L. 105–261, § 654(a), inserted “, or is enrolled in a program of education leading to professional qualifications,” after “possesses professional qualifications”.
 
-Subsec. (c)(2). Pub. L. 105–261, § 654(b)(1), substituted “$20,000” for “$3,000”.
+Subsec. (c)(2). Pub. L. 105–261, § 654(b)(1), substituted “$20,000” for “$3,000”.
 
-Subsec. (c)(3). Pub. L. 105–261, § 654(b)(2), substituted “$50,000” for “$20,000”.
+Subsec. (c)(3). Pub. L. 105–261, § 654(b)(2), substituted “$50,000” for “$20,000”.
 
-Subsec. (d). Pub. L. 105–261, § 611(h), substituted “January 1, 2000” for “October 1, 1999”.
+Subsec. (d). Pub. L. 105–261, § 611(h), substituted “January 1, 2000” for “October 1, 1999”.
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “October 1, 1999” for “October 1, 1998”.
 
-1996—Subsec. (a)(2) to (5). Pub. L. 104–106, § 1079(c), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+1996—Subsec. (a)(2) to (5). Pub. L. 104–106, § 1079(c), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Subsec. (d). Pub. L. 104–201 substituted “October 1, 1998” for “October 1, 1997”.
 
-Pub. L. 104–106, § 613(h), substituted “October 1, 1997” for “October 1, 1996”.
+Pub. L. 104–106, § 613(h), substituted “October 1, 1997” for “October 1, 1996”.
 
-1994—Pub. L. 103–337, § 1663(d)(2), renumbered section 2172 of this title as this section and substituted “Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages” for “Education loans for certain health professionals who serve in the Selected Reserve” as section catchline.
+1994—Pub. L. 103–337, § 1663(d)(2), renumbered section 2172 of this title as this section and substituted “Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages” for “Education loans for certain health professionals who serve in the Selected Reserve” as section catchline.
 
-Subsec. (a)(3). Pub. L. 103–337, § 1070(a)(9), substituted “health professions education loan” for “health education assistance loan”, “part A” for “part C”, and “42 U.S.C. 292” for “42 U.S.C. 294”.
+Subsec. (a)(3). Pub. L. 103–337, § 1070(a)(9), substituted “health professions education loan” for “health education assistance loan”, “part A” for “part C”, and “42 U.S.C. 292” for “42 U.S.C. 294”.
 
-Subsec. (d). Pub. L. 103–337, § 613(e), substituted “October 1, 1996” for “October 1, 1995”.
+Subsec. (d). Pub. L. 103–337, § 613(e), substituted “October 1, 1996” for “October 1, 1995”.
 
 1993—Subsec. (d). Pub. L. 103–160 substituted “October 1, 1995” for “October 1, 1993”.
 
 1992—Subsec. (d). Pub. L. 102–484 substituted “October 1, 1993” for “October 1, 1992”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, § 701(c)(1), struck out “a portion of” before “a loan made”.
+1989—Subsec. (a)(1). Pub. L. 101–189, § 701(c)(1), struck out “a portion of” before “a loan made”.
 
-Subsec. (a)(4). Pub. L. 101–189, § 701(a), added par. (4).
+Subsec. (a)(4). Pub. L. 101–189, § 701(a), added par. (4).
 
-Subsec. (c)(2). Pub. L. 101–189, § 701(c)(2), substituted “amount of” for “portion of”.
+Subsec. (c)(2). Pub. L. 101–189, § 701(c)(2), substituted “amount of” for “portion of”.
 
-Subsec. (d). Pub. L. 101–189, § 701(b), substituted “October 1, 1992” for “October 1, 1990”.
+Subsec. (d). Pub. L. 101–189, § 701(b), substituted “October 1, 1992” for “October 1, 1990”.
 
-1987—Subsec. (a)(3). Pub. L. 100–180, § 713(a), inserted “or under part B of title VIII of such Act (42 U.S.C. 297 et seq.)”.
+1987—Subsec. (a)(3). Pub. L. 100–180, § 713(a), inserted “or under part B of title VIII of such Act (42 U.S.C. 297 et seq.)”.
 
-Subsec. (d). Pub. L. 100–180, § 713(b), substituted “October 1, 1990” for “October 1, 1988”.
+Subsec. (d). Pub. L. 100–180, § 713(b), substituted “October 1, 1990” for “October 1, 1988”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,7 +269,7 @@ Amendment by section 1663(d)(2) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 **Effective Date**
 
-Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided that:
+Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided that:
 
 > “The authority provided under section 2172 [now 16302] of title 10, United States Code, as added by subsection (a), shall apply only—
 
@@ -277,7 +277,7 @@ Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided
 
 > **“(B)** with respect to service performed after that date.”
 
-## § 16303. Loan repayment program: chaplains serving in the Selected Reserve
+## § 16303. Loan repayment program: chaplains serving in the Selected Reserve
 
 **(a) Authority to Repay Education Loans.—** For purposes of maintaining adequate numbers of chaplains in the Selected Reserve, the Secretary concerned may repay a loan that was obtained by a person who—
 
@@ -299,7 +299,7 @@ Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided
 
 **(e) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§ 684(a), 687(c)(14), Jan. 6, 2006, 119 Stat. 3324, 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(Q), Dec. 12, 2017, 131 Stat. 1426.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§ 684(a), 687(c)(14), Jan. 6, 2006, 119 Stat. 3324, 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(Q), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided
 
 2017—Subsec. (d). Pub. L. 115–91 inserted “or 373” before “of title 37”.
 
-2006—Subsec. (d). Pub. L. 109–163, § 687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
+2006—Subsec. (d). Pub. L. 109–163, § 687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
 
 **Statutory Notes and Related Subsidiaries**
 

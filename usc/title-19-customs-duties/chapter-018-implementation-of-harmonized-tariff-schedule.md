@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 18—IMPLEMENTATION OF HARMONIZED TARIFF SCHEDULE
 
-## § 3001. Purposes
+## § 3001. Purposes
 
 The purposes of this chapter are—
 
@@ -25,21 +25,21 @@ The purposes of this chapter are—
 
 **(3)** to provide that the Convention shall be treated as a trade agreement obligation of the United States.
 
-(Pub. L. 100–418, title I, § 1201, Aug. 23, 1988, 102 Stat. 1147.)
+(Pub. L. 100–418, title I, § 1201, Aug. 23, 1988, 102 Stat. 1147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which enacted this chapter, amended sections 58c, 1312, 1315, 1321, 1337, 1466, 1498, 2011, 2138, 2253, 2434, 2437, 2481, 2483, 2581, 2702, and 2703 of this title, sections 511r, 1444, 1783, and 1784 of Title 7, Agriculture, section 374 of Title 10, Armed Forces, section 301 of Title 13, Census, sections 1274, 2064, 2066, 2602, and 2612 of Title 15, Commerce and Trade, sections 1606a and 3912 of Title 16, Conservation, sections 41 and 951 of Title 21, Food and Drugs, section 5059 of Title 22, Foreign Relations and Intercourse, sections 7652 and 9504 of Title 26, Internal Revenue Code, section 1295 of Title 28, Judiciary and Judicial Procedure, and section 98h–4 of Title 50, War and National Defense, and enacted provisions set out as notes under sections 1202, 3001, and 3005 of this title, and amended provisions set out as notes preceding section 1202 and under section 2112 of this title. For complete classification of subtitle B to the Code, see Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which enacted this chapter, amended sections 58c, 1312, 1315, 1321, 1337, 1466, 1498, 2011, 2138, 2253, 2434, 2437, 2481, 2483, 2581, 2702, and 2703 of this title, sections 511r, 1444, 1783, and 1784 of Title 7, Agriculture, section 374 of Title 10, Armed Forces, section 301 of Title 13, Census, sections 1274, 2064, 2066, 2602, and 2612 of Title 15, Commerce and Trade, sections 1606a and 3912 of Title 16, Conservation, sections 41 and 951 of Title 21, Food and Drugs, section 5059 of Title 22, Foreign Relations and Intercourse, sections 7652 and 9504 of Title 26, Internal Revenue Code, section 1295 of Title 28, Judiciary and Judicial Procedure, and section 98h–4 of Title 50, War and National Defense, and enacted provisions set out as notes under sections 1202, 3001, and 3005 of this title, and amended provisions set out as notes preceding section 1202 and under section 2112 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–418, title I, § 1217, Aug. 23, 1988, 102 Stat. 1163, provided that:
+Pub. L. 100–418, title I, § 1217, Aug. 23, 1988, 102 Stat. 1163, provided that:
 
-> **“(a) Accession to Convention and Provisions Other Than the Implementation of the Harmonized Tariff Schedule.—** Except as provided in subsection (b), the provisions of this subtitle [subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, see References in Text note above] take effect on the date of the enactment of the Omnibus Trade and Competitiveness Act of 1988 [Aug. 23, 1988].
+> **“(a) Accession to Convention and Provisions Other Than the Implementation of the Harmonized Tariff Schedule.—** Except as provided in subsection (b), the provisions of this subtitle [subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, see References in Text note above] take effect on the date of the enactment of the Omnibus Trade and Competitiveness Act of 1988 [Aug. 23, 1988].
 
 > **“(b) Implementation of the Harmonized Tariff Schedule.—** The effective date of the Harmonized Tariff Schedule is January 1, 1989. On such date—
 
@@ -47,7 +47,7 @@ Pub. L. 100–418, title I, § 1217, Aug. 23, 1988, 102 Stat. 1163, provided t
 
 > **“(2)** sections 1204(c), 1211, and 1212 [enacting sections 3004(c), 3011, and 3012 of this title] take effect.”
 
-## § 3002. Definitions
+## § 3002. Definitions
 
 As used in this chapter:
 
@@ -71,17 +71,17 @@ As used in this chapter:
 
 **(D)** other clerical or typographical errors.
 
-(Pub. L. 100–418, title I, § 1202, Aug. 23, 1988, 102 Stat. 1147.)
+(Pub. L. 100–418, title I, § 1202, Aug. 23, 1988, 102 Stat. 1147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 
 Title I of the Tariff Act of 1930 (19 U.S.C. 1202) as in effect on the day before the effective date of the amendment to such title under section 1204(a), referred to in par. (5), is title I of act June 17, 1930, ch. 497, 46 Stat. 590, as in effect on the day before Jan. 1, 1989. Title I of the Tariff Act of 1930 which comprised the Tariff Schedules of the United States was not set out in the Code.
 
-## § 3003. Congressional approval of United States accession to the Convention
+## § 3003. Congressional approval of United States accession to the Convention
 
 **(a) Congressional approval**
 
@@ -99,15 +99,15 @@ Neither the entry into force with respect to the United States of the Convention
 
 The provisions of section 2135(a) of this title do not apply to the Convention.
 
-(Pub. L. 100–418, title I, § 1203, Aug. 23, 1988, 102 Stat. 1148.)
+(Pub. L. 100–418, title I, § 1203, Aug. 23, 1988, 102 Stat. 1148.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 
-## § 3004. Enactment of Harmonized Tariff Schedule
+## § 3004. Enactment of Harmonized Tariff Schedule
 
 **(a) Omitted**
 
@@ -115,7 +115,7 @@ This chapter, referred to in subsec. (c), was in the original “this subtitle�
 
 **(1)** proclaim such modifications to the Harmonized Tariff Schedule as are consistent with the standards applied in converting the old Schedules into the format of the Convention, as reflected in such Publication No. 2030 and Supplement No. 1.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 thereto, and as are necessary or appropriate to implement—
 
@@ -157,9 +157,9 @@ after January 1, 1988, and before January 1, 1989, and
 
 **(3)** If a rate of duty established in column 1 by the President by proclamation or Executive order is higher than the existing rate of duty in column 2, the President may by proclamation or Executive order increase such existing rate to the higher rate.
 
-**(4)** If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the last rate of duty that applied prior to the suspended or terminated rate shall be the efffective 2
+**(4)** If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the last rate of duty that applied prior to the suspended or terminated rate shall be the efffective 2
 
-<sup>2</sup>  So in original. Probably should be “effective”.
+<sup>2</sup> So in original. Probably should be “effective”.
 
 rate of duty.
 
@@ -173,7 +173,7 @@ rate of duty.
 
 during the period between August 23, 1988, and January 1, 1989, shall, if the proclamation, notice, or decision contains a reference to the tariff classification of any article, include, for informational purposes, a reference to the classification of that article under the Harmonized Tariff Schedule.
 
-(Pub. L. 100–418, title I, § 1204, Aug. 23, 1988, 102 Stat. 1148.)
+(Pub. L. 100–418, title I, § 1204, Aug. 23, 1988, 102 Stat. 1148.)
 
 **Editorial Notes**
 
@@ -181,13 +181,13 @@ during the period between August 23, 1988, and January 1, 1989, shall, if the pr
 
 The Harmonized Tariff Schedule, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(A)(i), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
 The United States-Israel Free Trade Area Implementation Act of 1985, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 99–47, June 11, 1985, 99 Stat. 82, which amended sections 2112, 2462 to 2464, and 2518 of this title, and enacted and amended provisions set out as notes under section 2112 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2112 of this title and Tables.
 
-This chapter, referred to in subsec. (c)(1)(A), (2), was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
+This chapter, referred to in subsec. (c)(1)(A), (2), was in the original “this subtitle”, meaning subtitle B (§§ 1201 to 1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 
 **Codification**
 
@@ -199,7 +199,7 @@ Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of sectio
 
 Subsecs. (b) and (d) effective Aug. 23, 1988, and subsec. (c) effective Jan. 1, 1989, see section 1217(a), (b)(2) of Pub. L. 100–418, set out as a note under section 3001 of this title.
 
-## § 3005. Commission review of, and recommendations regarding, Harmonized Tariff Schedule
+## § 3005. Commission review of, and recommendations regarding, Harmonized Tariff Schedule
 
 **(a) In general** The Commission shall keep the Harmonized Tariff Schedule under continuous review and periodically, at such time as amendments to the Convention are recommended by the Customs Cooperation Council for adoption, and as other circumstances warrant, shall recommend to the President such modifications in the Harmonized Tariff Schedule as the Commission considers necessary or appropriate—
 
@@ -237,7 +237,7 @@ The Commission shall submit recommendations under this section to the President 
 
 **(3)** The modification must not alter existing conditions of competition for the affected United States industry, labor, or trade.
 
-(Pub. L. 100–418, title I, § 1205, Aug. 23, 1988, 102 Stat. 1150.)
+(Pub. L. 100–418, title I, § 1205, Aug. 23, 1988, 102 Stat. 1150.)
 
 **Editorial Notes**
 
@@ -249,9 +249,9 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a) and (d), is not set 
 
 **Commission Report on Operation of Implementation of Harmonized Tariff Schedule**
 
-Pub. L. 100–418, title I, § 1216, Aug. 23, 1988, 102 Stat. 1163, required Commission, in consultation with other appropriate Federal agencies, to prepare and submit to Congress and President a report regarding operation of subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, during the 12-month period commencing on effective date of Harmonized Tariff Schedule, Jan. 1, 1989, said report to be submitted to Congress and President before close of 6-month period beginning on day after last day of such 12-month period.
+Pub. L. 100–418, title I, § 1216, Aug. 23, 1988, 102 Stat. 1163, required Commission, in consultation with other appropriate Federal agencies, to prepare and submit to Congress and President a report regarding operation of subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, during the 12-month period commencing on effective date of Harmonized Tariff Schedule, Jan. 1, 1989, said report to be submitted to Congress and President before close of 6-month period beginning on day after last day of such 12-month period.
 
-## § 3006. Presidential action on Commission recommendations
+## § 3006. Presidential action on Commission recommendations
 
 **(a) In general** The President may proclaim modifications, based on the recommendations by the Commission under section 3005 of this title, to the Harmonized Tariff Schedule if the President determines that the modifications—
 
@@ -273,7 +273,7 @@ Pub. L. 100–418, title I, § 1216, Aug. 23, 1988, 102 Stat. 1163, required C
 
 Modifications proclaimed by the President under subsection (a) may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
 
-(Pub. L. 100–418, title I, § 1206, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 109–432, div. D, title III, § 3012, Dec. 20, 2006, 120 Stat. 3177.)
+(Pub. L. 100–418, title I, § 1206, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 109–432, div. D, title III, § 3012, Dec. 20, 2006, 120 Stat. 3177.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George Bush.
 
-## § 3007. Publication of Harmonized Tariff Schedule
+## § 3007. Publication of Harmonized Tariff Schedule
 
 **(a) In general** The Commission shall compile and publish, at appropriate intervals, and keep up to date the Harmonized Tariff Schedule and related information in the form of printed copy; and, if, in its judgment, such format would serve the public interest and convenience—
 
@@ -317,7 +317,7 @@ George Bush.
 
 **(3)** such other matters as the Commission considers to be necessary or appropriate to carry out the purposes enumerated in the Preamble to the Convention.
 
-(Pub. L. 100–418, title I, § 1207, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 104–295, § 21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
+(Pub. L. 100–418, title I, § 1207, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 104–295, § 21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
 
 **Editorial Notes**
 
@@ -329,19 +329,19 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a) and (b)(1), is not s
 
 1996—Subsec. (b)(2). Pub. L. 104–295 substituted “1484(f)” for “1484(e)”.
 
-## § 3008. Import and export statistics
+## § 3008. Import and export statistics
 
 The Secretary of Commerce shall compile, and make publicly available, the import and export trade statistics of the United States. Such statistics shall be conformed to the nomenclature of the Convention.
 
-(Pub. L. 100–418, title I, § 1208, Aug. 23, 1988, 102 Stat. 1152.)
+(Pub. L. 100–418, title I, § 1208, Aug. 23, 1988, 102 Stat. 1152.)
 
-## § 3009. Coordination of trade policy and Convention
+## § 3009. Coordination of trade policy and Convention
 
 The United States Trade Representative is responsible for coordination of United States trade policy in relation to the Convention. Before formulating any United States position with respect to the Convention, including any proposed amendments thereto, the United States Trade Representative shall seek, and consider, information and advice from interested parties in the private sector (including a functional advisory committee) and from interested Federal agencies.
 
-(Pub. L. 100–418, title I, § 1209, Aug. 23, 1988, 102 Stat. 1152.)
+(Pub. L. 100–418, title I, § 1209, Aug. 23, 1988, 102 Stat. 1152.)
 
-## § 3010. United States participation on Customs Cooperation Council regarding Convention
+## § 3010. United States participation on Customs Cooperation Council regarding Convention
 
 **(a) Principal United States agencies**
 
@@ -375,7 +375,7 @@ The United States Trade Representative is responsible for coordination of United
 
 **(2)** subject to applicable copyright laws, the Explanatory Notes, Classification Opinions, and other instruments of the Customs Cooperation Council relating to the Convention.
 
-(Pub. L. 100–418, title I, § 1210, Aug. 23, 1988, 102 Stat. 1152; Pub. L. 104–295, § 21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
+(Pub. L. 100–418, title I, § 1210, Aug. 23, 1988, 102 Stat. 1152; Pub. L. 104–295, § 21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ The United States Trade Representative is responsible for coordination of United
 
 1996—Subsec. (b)(1). Pub. L. 104–295 substituted “1484(f)” for “1484(e)”.
 
-## § 3011. Transition to Harmonized Tariff Schedule
+## § 3011. Transition to Harmonized Tariff Schedule
 
 **(a) Existing executive actions**
 
@@ -455,7 +455,7 @@ No later than September 1, 1990, the Commission shall report the results of the 
 
 **(4)** If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989, shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
 
-(Pub. L. 100–418, title I, § 1211, Aug. 23, 1988, 102 Stat. 1153; Pub. L. 104–188, title I, § 1954(a)(1), Aug. 20, 1996, 110 Stat. 1927.)
+(Pub. L. 100–418, title I, § 1211, Aug. 23, 1988, 102 Stat. 1153; Pub. L. 104–188, title I, § 1954(a)(1), Aug. 20, 1996, 110 Stat. 1927.)
 
 **Editorial Notes**
 
@@ -463,13 +463,13 @@ No later than September 1, 1990, the Commission shall report the results of the 
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-This chapter, referred to in subsec. (d)(1), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
 
 **Amendments**
 
-1996—Subsec. (b)(1). Pub. L. 104–188, § 1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
+1996—Subsec. (b)(1). Pub. L. 104–188, § 1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
 
-Subsec. (b)(2). Pub. L. 104–188, § 1954(a)(2), inserted “(as in effect on July 31, 1995)” after “of this title”.
+Subsec. (b)(2). Pub. L. 104–188, § 1954(a)(2), inserted “(as in effect on July 31, 1995)” after “of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -481,11 +481,11 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 Section effective Jan. 1, 1989, see section 1217(b)(2) of Pub. L. 100–418, set out as a note under section 3001 of this title.
 
-## § 3012. Reference to Harmonized Tariff Schedule
+## § 3012. Reference to Harmonized Tariff Schedule
 
 Any reference in any law to the “Tariff Schedules of the United States”, “the Tariff Schedules”, “such Schedules”, and any other general reference that clearly refers to the old Schedules shall be treated as a reference to the Harmonized Tariff Schedule.
 
-(Pub. L. 100–418, title I, § 1212, Aug. 23, 1988, 102 Stat. 1155.)
+(Pub. L. 100–418, title I, § 1212, Aug. 23, 1988, 102 Stat. 1155.)
 
 **Editorial Notes**
 

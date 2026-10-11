@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–171, title V, § 502(b)(2), Oct. 17, 2020, 134 Stat. 818, added heading for subchapter IX and items 7698 to 7699B.
+2020—Pub. L. 116–171, title V, § 502(b)(2), Oct. 17, 2020, 134 Stat. 818, added heading for subchapter IX and items 7698 to 7699B.
 
-2018—Pub. L. 115–182, title III, § 303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
+2018—Pub. L. 115–182, title III, § 303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
 
-2010—Pub. L. 111–163, title VI, § 603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
+2010—Pub. L. 111–163, title VI, § 603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
 
-2002—Pub. L. 107–135, title I, §§ 101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
+2002—Pub. L. 107–135, title I, §§ 101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
 
-1998—Pub. L. 105–368, title VIII, §§ 802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
+1998—Pub. L. 105–368, title VIII, §§ 802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 
-1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
+1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
 
-1990—Pub. L. 101–366, title II, § 205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
+1990—Pub. L. 101–366, title II, § 205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 7601. Establishment of program; purpose
+### § 7601. Establishment of program; purpose
 
 **(a)** There is hereby established a program to be known as the Department of Veterans Affairs Health Professionals Educational Assistance Program (hereinafter in this chapter referred to as the “Educational Assistance Program”). The program consists of—
 
@@ -55,7 +55,7 @@ retrieved: 2026-10-11
 
 **(b)** The purpose of the Educational Assistance Program is to assist in providing an adequate supply of trained health-care personnel for the Department and the Nation.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4301; amended Pub. L. 101–366, title II, § 205(c)(1), Aug. 15, 1990, 104 Stat. 441; renumbered § 7601, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(2)(B)(vi), (3), (4), Aug. 6, 1991, 105 Stat. 403, 404; Pub. L. 103–446, title XII, § 1201(e)(25), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 105–368, title VIII, § 805(1), Nov. 11, 1998, 112 Stat. 3358; Pub. L. 115–182, title III, § 303(b)(1)(A), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(A), Oct. 17, 2020, 134 Stat. 817.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4301; amended Pub. L. 101–366, title II, § 205(c)(1), Aug. 15, 1990, 104 Stat. 441; renumbered § 7601, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(2)(B)(vi), (3), (4), Aug. 6, 1991, 105 Stat. 403, 404; Pub. L. 103–446, title XII, § 1201(e)(25), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 105–368, title VIII, § 805(1), Nov. 11, 1998, 112 Stat. 3358; Pub. L. 115–182, title III, § 303(b)(1)(A), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(A), Oct. 17, 2020, 134 Stat. 817.)
 
 **Editorial Notes**
 
@@ -71,9 +71,9 @@ retrieved: 2026-10-11
 
 1991—Pub. L. 102–40 renumbered section 4301 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(2)(B)(vi), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(a)(2)(B)(vi), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1990—Subsec. (a)(3). Pub. L. 101–366 added par. (3).
 
@@ -81,7 +81,7 @@ Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” f
 
 **Veterans Healing Veterans Medical Access and Scholarship Program**
 
-Pub. L. 115–182, title III, § 304, June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(7), Sept. 29, 2018, 132 Stat. 3177, provided that:
+Pub. L. 115–182, title III, § 304, June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(7), Sept. 29, 2018, 132 Stat. 3177, provided that:
 
 > **“(a) Establishment.—** The Secretary of Veterans Affairs, acting through the Office of Academic Affiliations of the Department of Veterans Affairs, shall carry out a pilot program under which the Secretary shall provide funding for the medical education of a total of 18 eligible veterans. Such funding shall be provided for two veterans enrolled in each covered medical school in accordance with this section.
 
@@ -161,7 +161,7 @@ Pub. L. 115–182, title III, § 304, June 6, 2018, 132 Stat. 1467, as amended
 
 **Physician Assistant Education and Training Pilot Program for Former Members of the Armed Forces**
 
-Pub. L. 115–141, div. J, title II, § 246, Mar. 23, 2018, 132 Stat. 823, provided that:
+Pub. L. 115–141, div. J, title II, § 246, Mar. 23, 2018, 132 Stat. 823, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Veterans Affairs shall carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs.
 
@@ -195,13 +195,13 @@ Pub. L. 115–141, div. J, title II, § 246, Mar. 23, 2018, 132 Stat. 823, pro
 
 **Payments to Health-Care Professional Employees for Tuition Loans**
 
-Pub. L. 102–585, title V, § 523(b), Nov. 4, 1992, 106 Stat. 4959, provided that Secretary of Veterans Affairs could not provide payments to health-care professional employees of Department of Veterans Affairs for payment of tuition loans, prior to repeal by Pub. L. 105–368, title VIII, § 804, Nov. 11, 1998, 112 Stat. 3358.
+Pub. L. 102–585, title V, § 523(b), Nov. 4, 1992, 106 Stat. 4959, provided that Secretary of Veterans Affairs could not provide payments to health-care professional employees of Department of Veterans Affairs for payment of tuition loans, prior to repeal by Pub. L. 105–368, title VIII, § 804, Nov. 11, 1998, 112 Stat. 3358.
 
 **Tuition Loan Payment Program**
 
 Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part for an appropriation: “For payment of outstanding tuition loans to Department of Veterans Affairs health care professional employees (excluding physicians and dentists) who agree to remain in service for one year or more, $5,000,000, to remain available until September 30, 1994: *Provided*, That the Secretary, in order to recruit and retain such employees, may make such payments, not to exceed $3,000 during any calendar year, or $12,000 in total, to any such employee who has an outstanding tuition loan from an educational institution approved by the Secretary that has led to a degree in the health care occupation in which such individual is employed: *Provided further*, That no payment shall be made in advance: *Provided further*, That regulations shall be promulgated by the Secretary to implement this program.”
 
-### § 7602. Eligibility
+### § 7602. Eligibility
 
 **(a)**
 
@@ -211,19 +211,19 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part for a
 
 **(b)** An individual is not eligible to apply to participate in the Educational Assistance Program under subchapter II, III, VI, or IX of this chapter if the individual is obligated under any other Federal program to perform service after completion of the course of education or training of such individual referred to in subsection (a) of this section.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4302; amended Pub. L. 101–366, title II, § 205(c)(2), Aug. 15, 1990, 104 Stat. 441; renumbered § 7602, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, § 805(2), Nov. 11, 1998, 112 Stat. 3358; Pub. L. 116–171, title V, § 502(b)(1)(B), Oct. 17, 2020, 134 Stat. 818.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4302; amended Pub. L. 101–366, title II, § 205(c)(2), Aug. 15, 1990, 104 Stat. 441; renumbered § 7602, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, § 805(2), Nov. 11, 1998, 112 Stat. 3358; Pub. L. 116–171, title V, § 502(b)(1)(B), Oct. 17, 2020, 134 Stat. 818.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–171, § 502(b)(1)(B)(i), substituted “VI, or IX” for “or VI” and “subchapter VI or IX” for “subchapter VI”.
+2020—Subsec. (a)(1). Pub. L. 116–171, § 502(b)(1)(B)(i), substituted “VI, or IX” for “or VI” and “subchapter VI or IX” for “subchapter VI”.
 
-Subsec. (b). Pub. L. 116–171, § 502(b)(1)(B)(ii), substituted “VI, or IX” for “or VI”.
+Subsec. (b). Pub. L. 116–171, § 502(b)(1)(B)(ii), substituted “VI, or IX” for “or VI”.
 
-1998—Subsec. (a)(1). Pub. L. 105–368, § 805(2)(A), substituted “subchapter II, III, or VI” for “subchapter I or II”, substituted “, for which” for “or for which”, and inserted before period at end “, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be”.
+1998—Subsec. (a)(1). Pub. L. 105–368, § 805(2)(A), substituted “subchapter II, III, or VI” for “subchapter I or II”, substituted “, for which” for “or for which”, and inserted before period at end “, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be”.
 
-Subsec. (b). Pub. L. 105–368, § 805(2)(B), substituted “subchapter II, III, or VI” for “subchapter I or II”.
+Subsec. (b). Pub. L. 105–368, § 805(2)(B), substituted “subchapter II, III, or VI” for “subchapter I or II”.
 
 1991—Pub. L. 102–40 renumbered section 4302 of this title as this section.
 
@@ -231,7 +231,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 1990—Subsecs. (a)(1), (b). Pub. L. 101–366 inserted “under subchapter I or II of this chapter” after “Educational Assistance Program”.
 
-### § 7603. Application and acceptance
+### § 7603. Application and acceptance
 
 **(a)**
 
@@ -257,7 +257,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 **(d)** In selecting applicants for acceptance in the Educational Assistance Program, the Secretary shall give priority to the applications of individuals who have previously received educational assistance under the program and have not completed the course of education or training undertaken under such program.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4303; renumbered § 7603 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 105–368, title VIII, § 805(3), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 106–419, title IV, § 404(a)(10), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 115–182, title III, § 303(b)(1)(B), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(C), Oct. 17, 2020, 134 Stat. 818.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 518, § 4303; renumbered § 7603 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 105–368, title VIII, § 805(3), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 106–419, title IV, § 404(a)(10), Nov. 1, 2000, 114 Stat. 1865; Pub. L. 115–182, title III, § 303(b)(1)(B), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(C), Oct. 17, 2020, 134 Stat. 818.)
 
 **Editorial Notes**
 
@@ -269,21 +269,21 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 2000—Subsec. (a)(1). Pub. L. 106–419 substituted “subchapter” for “subsection”.
 
-1998—Subsec. (a). Pub. L. 105–368, § 805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
+1998—Subsec. (a). Pub. L. 105–368, § 805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 105–368, § 805(3)(B), inserted “(if required)” before period at end.
+Subsec. (b)(1). Pub. L. 105–368, § 805(3)(B), inserted “(if required)” before period at end.
 
 1994—Subsecs. (a), (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4303 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4303 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304”.
+Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304”.
 
 Subsecs. (b) to (d). Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-### § 7604. Terms of agreement
+### § 7604. Terms of agreement
 
 An agreement between the Secretary and a participant in the Educational Assistance Program shall be in writing, shall be signed by the participant, and shall include the following provisions:
 
@@ -309,7 +309,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 **(5)** Such other terms as are required to be included in the agreement under subchapter II, III, V, VI, VIII, or IX of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 519, § 4304; amended Pub. L. 101–366, title II, § 205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered § 7604 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686; Pub. L. 105–368, title VIII, § 805(4), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, § 303(b)(1)(C), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(D), Oct. 17, 2020, 134 Stat. 818.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 519, § 4304; amended Pub. L. 101–366, title II, § 205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered § 7604 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686; Pub. L. 105–368, title VIII, § 805(4), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, § 303(b)(1)(C), June 6, 2018, 132 Stat. 1466; Pub. L. 116–171, title V, § 502(b)(1)(D), Oct. 17, 2020, 134 Stat. 818.)
 
 **Editorial Notes**
 
@@ -321,25 +321,25 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 1998—Pub. L. 105–368 substituted “subchapter II, III, V, or VI” for “subchapter II, III, or V” in pars. (1)(A), (2)(D), and (5).
 
-1994—Pub. L. 103–446, § 1201(e)(26), substituted “subchapter II” for “subchapters II” in pars. (1)(A), (2)(D), and (5).
+1994—Pub. L. 103–446, § 1201(e)(26), substituted “subchapter II” for “subchapters II” in pars. (1)(A), (2)(D), and (5).
 
-Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” in pars. (1)(B) and (2)(D).
+Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” in pars. (1)(B) and (2)(D).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4304 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4304 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Pub. L. 102–40, § 403(b)(3), substituted “7402” for “4105” in par. (1)(B).
+Pub. L. 102–40, § 403(b)(3), substituted “7402” for “4105” in par. (1)(B).
 
 1990—Pars. (1)(A), (2)(D), (5). Pub. L. 101–366 substituted “subchapters II, III, or V” for “subchapter II or III”.
 
 ## SUBCHAPTER II—SCHOLARSHIP PROGRAM
 
-### § 7611. Authority for program
+### § 7611. Authority for program
 
 As part of the Educational Assistance Program, the Secretary shall carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Health Professional Scholarship Program (hereinafter in this chapter referred to as the “Scholarship Program”).
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 520, § 4311; renumbered § 7611, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(2)(B)(vi), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 520, § 4311; renumbered § 7611, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(2)(B)(vi), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 **Editorial Notes**
 
@@ -353,17 +353,17 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 **Expansion of Health Professional Scholarship Program**
 
-Pub. L. 117–328, div. V, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5500, provided that: “Beginning in academic year 2022, the Secretary of Veterans Affairs shall include not fewer than an additional (as compared to academic year 2021) 50 awards per academic year under the Department of Veterans Affairs Health Professional Scholarship Program under subchapter II of chapter 76 of title 38, United States Code, for applicants otherwise eligible for such program who are pursuing degrees or training in mental health disciplines, including advanced practice nursing (with a focus on mental health or substance use disorder), psychology, and social work.”
+Pub. L. 117–328, div. V, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5500, provided that: “Beginning in academic year 2022, the Secretary of Veterans Affairs shall include not fewer than an additional (as compared to academic year 2021) 50 awards per academic year under the Department of Veterans Affairs Health Professional Scholarship Program under subchapter II of chapter 76 of title 38, United States Code, for applicants otherwise eligible for such program who are pursuing degrees or training in mental health disciplines, including advanced practice nursing (with a focus on mental health or substance use disorder), psychology, and social work.”
 
 **Submission of Overdue Report**
 
-Pub. L. 105–114, title II, § 207(b), Nov. 21, 1997, 111 Stat. 2289, required the Secretary of Veterans Affairs to submit to Congress, not later than 180 days after Nov. 21, 1997, the report evaluating the operation of the health professional scholarship program that was required to be submitted not later than Mar. 31, 1997.
+Pub. L. 105–114, title II, § 207(b), Nov. 21, 1997, 111 Stat. 2289, required the Secretary of Veterans Affairs to submit to Congress, not later than 180 days after Nov. 21, 1997, the report evaluating the operation of the health professional scholarship program that was required to be submitted not later than Mar. 31, 1997.
 
 **Health Professional Scholarship Program**
 
-Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided that the Secretary was to submit to Congress, not later than Mar. 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under this subchapter and provided that the study was to evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and was to compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel.
+Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided that the Secretary was to submit to Congress, not later than Mar. 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under this subchapter and provided that the study was to evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and was to compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel.
 
-### § 7612. Eligibility; application; agreement
+### § 7612. Eligibility; application; agreement
 
 **(a)**
 
@@ -425,7 +425,7 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided
 
 **(4)** If a participant’s period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 520, § 4312; amended Pub. L. 101–237, title II, § 207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered § 7612 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, § 202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, § 603(b), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, § 301(c), Aug. 7, 2014, 128 Stat. 1786; Pub. L. 115–182, title III, § 301(a), June 6, 2018, 132 Stat. 1462.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 520, § 4312; amended Pub. L. 101–237, title II, § 207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered § 7612 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, § 202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, § 603(b), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, § 301(c), Aug. 7, 2014, 128 Stat. 1786; Pub. L. 115–182, title III, § 301(a), June 6, 2018, 132 Stat. 1462.)
 
 **Editorial Notes**
 
@@ -443,41 +443,41 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1992—Subsec. (c)(1)(B). Pub. L. 102–405 inserted before period at end “, but for not less than two years”.
+1992—Subsec. (c)(1)(B). Pub. L. 102–405 inserted before period at end “, but for not less than two years”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4312 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4312 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–40, § 402(d)(1), substituted “7602” for “4302”.
+Subsec. (a)(1). Pub. L. 102–40, § 402(d)(1), substituted “7602” for “4302”.
 
-Subsec. (a)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7602” for “4302”.
+Pub. L. 102–40, § 402(d)(1), substituted “7602” for “4302”.
 
-Subsec. (a)(3). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Subsec. (a)(3). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
+Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
 
-Subsec. (b)(2). Pub. L. 102–40, § 403(b)(4)(A), substituted “7401” for “4104” in introductory provisions and “7401(3)” for “4104(3)” in subpar. (B).
+Subsec. (b)(2). Pub. L. 102–40, § 403(b)(4)(A), substituted “7401” for “4104” in introductory provisions and “7401(3)” for “4104(3)” in subpar. (B).
 
-Subsec. (b)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 403(b)(4)(B), substituted “subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section” for “section 4107(g)(1)(B) of this title”.
+Pub. L. 102–40, § 403(b)(4)(B), substituted “subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section” for “section 4107(g)(1)(B) of this title”.
 
-Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
+Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in subpar. (A).
+Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and “Secretary’s” for “Administrator’s” in subpar. (A).
 
-Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304” in introductory provisions and “7602” for “4302” in subpar. (A).
+Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304” in introductory provisions and “7602” for “4302” in subpar. (A).
 
-Subsec. (c)(2). Pub. L. 102–40, § 402(d)(1), substituted “7614(3)” for “4314(3)”.
+Subsec. (c)(2). Pub. L. 102–40, § 402(d)(1), substituted “7614(3)” for “4314(3)”.
 
-Subsec. (c)(3)(B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (c)(3)(B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (c)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316(b)(3)(A)(i)” and “7616(b)(4)(B)” for “4316(b)(4)(B)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316(b)(3)(A)(i)” and “7616(b)(4)(B)” for “4316(b)(4)(B)”.
 
 1989—Subsec. (b)(5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In selecting applicants for the Scholarship Program, the Administrator shall give priority to the applications of individuals who will be entering their final year in a course of training.”
 
@@ -485,13 +485,13 @@ Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–405, title II, § 202(b), Oct. 9, 1992, 106 Stat. 1983, provided that: “The amendment made by subsection (a) [amending this section] shall apply to scholarship agreements entered into after the date of the enactment of this Act [Oct. 9, 1992].”
+Pub. L. 102–405, title II, § 202(b), Oct. 9, 1992, 106 Stat. 1983, provided that: “The amendment made by subsection (a) [amending this section] shall apply to scholarship agreements entered into after the date of the enactment of this Act [Oct. 9, 1992].”
 
 **Implementation of Equitable Allocation Provisions**
 
-Pub. L. 101–237, title II, § 207(a), Dec. 18, 1989, 103 Stat. 2068, provided that: “The Secretary of Veterans Affairs shall provide for the implementation of the amendment made by subsection (a) [amending this section] beginning with scholarships awarded under section 4312 [now 7612] of title 38, United States Code, during 1990.”
+Pub. L. 101–237, title II, § 207(a), Dec. 18, 1989, 103 Stat. 2068, provided that: “The Secretary of Veterans Affairs shall provide for the implementation of the amendment made by subsection (a) [amending this section] beginning with scholarships awarded under section 4312 [now 7612] of title 38, United States Code, during 1990.”
 
-### § 7613. Scholarship
+### § 7613. Scholarship
 
 **(a)** A scholarship provided to a participant in the Scholarship Program for a school year under the Scholarship Program shall consist of payment of the tuition of the participant for that school year, payment of other reasonable educational expenses (including fees, books, and laboratory expenses) for that school year, and a stipend determined under subsection (b) of this section.
 
@@ -499,21 +499,21 @@ Pub. L. 101–237, title II, § 207(a), Dec. 18, 1989, 103 Stat. 2068, provide
 
 **(c)** The Secretary may arrange with an educational institution in which a participant in the Scholarship Program is enrolled for the payment to the educational institution of the amounts of tuition and other reasonable educational expenses described in subsection (a) of this section. Such payments may be made without regard to subsections (a) and (b) of section 3324 of title 31.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 521, § 4313; renumbered § 7613 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 521, § 4313; renumbered § 7613 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4313 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4313 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7631” for “4331” and “7614(1) and 7614(2)” for “4314(1) and “4314(2)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7631” for “4331” and “7614(1) and 7614(2)” for “4314(1) and “4314(2)”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-### § 7614. Part-time students
+### § 7614. Part-time students
 
 In the case of a participant who is a part-time student—
 
@@ -523,7 +523,7 @@ In the case of a participant who is a part-time student—
 
 **(3)** the Secretary may extend the period for which a scholarship may be awarded to the participant to a maximum of six school years if the Secretary determines that the extension would be in the best interest of the United States.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4314; renumbered § 7614, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4314; renumbered § 7614, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -533,11 +533,11 @@ In the case of a participant who is a part-time student—
 
 Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-### § 7615. Status of participants
+### § 7615. Status of participants
 
 Participants in the Scholarship Program shall not by reason of their participation in such program (1) be considered to be employees of the Federal Government, or (2) be counted against any personnel ceiling affecting the Veterans Health Administration.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4315; renumbered § 7615, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4315; renumbered § 7615, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ Participants in the Scholarship Program shall not by reason of their participati
 
 1991—Pub. L. 102–40 renumbered section 4315 of this title as this section.
 
-### § 7616. Obligated service
+### § 7616. Obligated service
 
 **(a)** Each participant in the Scholarship Program shall provide service as a full-time employee of the Department for the period of obligated service provided in the agreement of the participant entered into under section 7603 of this title. Such service shall be provided in the full-time clinical practice of such participant’s profession or in another health-care position in an assignment or location determined by the Secretary.
 
@@ -593,7 +593,7 @@ Participants in the Scholarship Program shall not by reason of their participati
 
 **(3)** For the purposes of this section, the term “course completion date” means the date on which a participant in the Scholarship Program completes such participant’s course of education or training under the program.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4316; renumbered § 7616 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), (d)(1), 403(b)(5), May 7, 1991, 105 Stat. 238–240; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 522, § 4316; renumbered § 7616 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), (d)(1), 403(b)(5), May 7, 1991, 105 Stat. 238–240; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -603,25 +603,25 @@ Participants in the Scholarship Program shall not by reason of their participati
 
 1992—Subsec. (b)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4316 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4316 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
+Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
 
-Subsec. (b)(1) to (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(1) to (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Pub. L. 102–40, § 403(b)(5), substituted “7423(d)(1)” for “4108(c)(1)” in introductory provisions.
+Pub. L. 102–40, § 403(b)(5), substituted “7423(d)(1)” for “4108(c)(1)” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-### § 7617. Breach of agreement: liability
+### § 7617. Breach of agreement: liability
 
 **(a)** A participant in the Scholarship Program (other than a participant described in subsection (b) of this section) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under section 7603 of this title shall be liable to the United States for liquidated damages in the amount of $1,500. Such liability is in addition to any period of obligated service or other obligation or liability under the agreement.
 
@@ -647,7 +647,7 @@ Liability under this subsection is in lieu of any service obligation arising und
 
 t−s
 
-A=3Φ  A——B
+A=3Φ A——B
 
 t
 
@@ -663,7 +663,7 @@ In such formula:
 
 **(2)** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 524, § 4317; renumbered § 7617 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–182, title III, § 301(b), June 6, 2018, 132 Stat. 1463.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 524, § 4317; renumbered § 7617 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–182, title III, § 301(b), June 6, 2018, 132 Stat. 1463.)
 
 **Editorial Notes**
 
@@ -671,17 +671,17 @@ In such formula:
 
 2018—Subsec. (b)(4) to (6). Pub. L. 115–182, which directed addition of par. (4) and redesignation of former pars. (4) and (5) as pars. (5) and (6), respectively, without specifying the subsec. amended, was executed to subsec. (b) to reflect the probable intent of Congress.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4317 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4317 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
+Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
 
-Subsec. (b)(1), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(1), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(5). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (b)(5). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (c)(1). Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(4)” for “4316(b)(4)” in subpar. (C) and “7613” for “4313” in subpar. (D).
+Subsec. (c)(1). Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(4)” for “4316(b)(4)” in subpar. (C) and “7613” for “4313” in subpar. (D).
 
-### § 7618. Additional program requirements
+### § 7618. Additional program requirements
 
 **(a) Program Modification.—** Notwithstanding any provision of this subchapter, the Secretary shall carry out this subchapter after the date of the enactment of this section by modifying the Scholarship Program in such a manner that the program and hiring processes are designed to fully employ Scholarship Program graduates as soon as possible, if not immediately, upon graduation and completion of necessary certifications, and to actively assist and monitor graduates to ensure certifications are obtained in a minimal amount of time following graduation.
 
@@ -689,7 +689,7 @@ Subsec. (c)(1). Pub. L. 102–40, § 402(d)(1), substituted “7616(b)(4)” f
 
 **(c) Mentors.—** The Secretary shall ensure that at the commencement of the period of obligated service of a participant in the Scholarship Program, the participant is assigned to a mentor who is employed in the same facility where the participant performs such service.
 
-(Added Pub. L. 111–163, title VI, § 603(c)(2), May 5, 2010, 124 Stat. 1173.)
+(Added Pub. L. 111–163, title VI, § 603(c)(2), May 5, 2010, 124 Stat. 1173.)
 
 **Editorial Notes**
 
@@ -701,11 +701,11 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 A prior section 7618 was renumbered section 7619 of this title.
 
-### § 7619. Expiration of program
+### § 7619. Expiration of program
 
 The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2033.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4318; renumbered § 7618, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title V, § 523(a), Nov. 4, 1992, 106 Stat. 4959; Pub. L. 104–110, title I, § 101(j), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 207(a), Nov. 21, 1997, 111 Stat. 2289; renumbered § 7619 and amended Pub. L. 111–163, title VI, § 603(a), (c)(1), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, § 302(a), Aug. 7, 2014, 128 Stat. 1788; Pub. L. 115–182, title III, § 301(c), June 6, 2018, 132 Stat. 1463.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4318; renumbered § 7618, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title V, § 523(a), Nov. 4, 1992, 106 Stat. 4959; Pub. L. 104–110, title I, § 101(j), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 207(a), Nov. 21, 1997, 111 Stat. 2289; renumbered § 7619 and amended Pub. L. 111–163, title VI, § 603(a), (c)(1), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, § 302(a), Aug. 7, 2014, 128 Stat. 1788; Pub. L. 115–182, title III, § 301(c), June 6, 2018, 132 Stat. 1463.)
 
 **Editorial Notes**
 
@@ -715,9 +715,9 @@ The Secretary may not furnish scholarships to new participants in the Scholarshi
 
 2014—Pub. L. 113–146 substituted “December 31, 2019” for “December 31, 2014”.
 
-2010—Pub. L. 111–163, § 603(c)(1), renumbered section 7618 of this title as this section.
+2010—Pub. L. 111–163, § 603(c)(1), renumbered section 7618 of this title as this section.
 
-Pub. L. 111–163, § 603(a), substituted “December 31, 2014” for “December 31, 1998”.
+Pub. L. 111–163, § 603(a), substituted “December 31, 2014” for “December 31, 1998”.
 
 1997—Pub. L. 105–114 substituted “December 31, 1998” for “December 31, 1997”.
 
@@ -737,11 +737,11 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 ## SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM
 
-### § 7621. Authority for program
+### § 7621. Authority for program
 
 As part of the Educational Assistance Program, the Secretary shall carry out a tuition reimbursement program under this subchapter. The program shall be known as the Department of Veterans Affairs Nurse Education Tuition Reimbursement Program (hereinafter in this chapter referred to as the “Tuition Reimbursement Program”).
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4321; renumbered § 7621, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(2)(B)(vi), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4321; renumbered § 7621, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(2)(B)(vi), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 **Editorial Notes**
 
@@ -751,7 +751,7 @@ As part of the Educational Assistance Program, the Secretary shall carry out a t
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-### § 7622. Eligibility; application; agreement
+### § 7622. Eligibility; application; agreement
 
 **(a)** To be eligible to participate in the Tuition Reimbursement Program, an individual must be a full-time employee in the Department permanently assigned to a Department health-care facility and must be enrolled in a course of training offered by an institution approved by the Secretary leading toward completion of (1) an associate or higher degree in nursing, or (2) a masters degree or doctoral degree in nursing.
 
@@ -775,43 +775,43 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 **(e)** The Secretary may arrange with an educational institution pursuant to which such an institution would provide a course or courses at a Department health-care facility to participants in the Tuition Reimbursement Program. Under such an arrangement, the Secretary may agree to pay to the institution an amount not in excess of an amount determined by multiplying the number of participants in such a course by the amount of tuition reimbursement each participant would receive for enrolling and successfully completing such course.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4322; renumbered § 7622 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(9), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4322; renumbered § 7622 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(9), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsecs. (b)(1), (c)(2)(A). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+1994—Subsecs. (b)(1), (c)(2)(A). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-Subsec. (c)(2)(B). Pub. L. 103–446, § 1201(b)(2), substituted “the Veterans Health Administration” for “such Department”.
+Subsec. (c)(2)(B). Pub. L. 103–446, § 1201(b)(2), substituted “the Veterans Health Administration” for “such Department”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4322 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4322 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7603(d)” for “4303(d)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7603(d)” for “4303(d)”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (1) and “Secretary’s” for “Administrator’s” in par. (1).
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (1) and “Secretary’s” for “Administrator’s” in par. (1).
 
-Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304” in introductory provisions.
+Pub. L. 102–40, § 402(d)(1), substituted “7604” for “4304” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places in par. (2)(A).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places in par. (2)(A).
 
 Subsec. (d). Pub. L. 102–54 amended subsec. (d) as in effect immediately before the enactment of Pub. L. 102–40 by inserting an open parenthesis before “adjusted in”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7631” for “4331”.
+Pub. L. 102–40, § 402(d)(1), substituted “7631” for “4331”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-### § 7623. Obligated service
+### § 7623. Obligated service
 
 **(a)** Each participant in the Tuition Reimbursement Program shall provide service in the full-time clinical practice of such participant’s profession as a full-time employee of the Department for the period of obligated service provided in the agreement of such participant entered into under section 7603 of this title.
 
@@ -823,7 +823,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 **(e)** For the purposes of this section, the term “course completion date” means the date on which a participant in the Tuition Reimbursement Program completes such participant’s course of training under the program.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 526, § 4323; amended Pub. L. 100–687, div. B, title XV, § 1503(a)(3), Nov. 18, 1988, 102 Stat. 4134; renumbered § 7623 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 526, § 4323; amended Pub. L. 100–687, div. B, title XV, § 1503(a)(3), Nov. 18, 1988, 102 Stat. 4134; renumbered § 7623 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -831,17 +831,17 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 1994—Subsec. (b). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4323 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4323 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
+Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
 
-Subsecs. (c), (d). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” for “4322(e)”.
+Subsecs. (c), (d). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” for “4322(e)”.
 
 1988—Subsecs. (c), (d). Pub. L. 100–687 substituted “4322(e)” for “4322(f)”.
 
-### § 7624. Breach of agreement: liability
+### § 7624. Breach of agreement: liability
 
 **(a)** A participant in the Tuition Reimbursement Program who fails to maintain employment as a Department employee permanently assigned to a Department health-care facility—
 
@@ -851,7 +851,7 @@ Subsecs. (c), (d). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” f
 
 **(b)** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 527, § 4324; amended Pub. L. 100–687, div. B, title XV, § 1503(a)(4), Nov. 18, 1988, 102 Stat. 4134; renumbered § 7624, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 527, § 4324; amended Pub. L. 100–687, div. B, title XV, § 1503(a)(4), Nov. 18, 1988, 102 Stat. 4134; renumbered § 7624, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -861,15 +861,15 @@ Subsecs. (c), (d). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” f
 
 Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places in introductory provisions.
 
-1988—Subsec. (a)(2). Pub. L. 100–687, § 1503(a)(4)(A), substituted “participation in the program” for “completion of a course or courses in a previous semester or quarter”, inserted “or is payable” after “has been paid”, and inserted before period at end “, reduced by the proportion that the number of days served for completion of the service obligation bears to the total number of days in the participant’s period of obligated service”.
+1988—Subsec. (a)(2). Pub. L. 100–687, § 1503(a)(4)(A), substituted “participation in the program” for “completion of a course or courses in a previous semester or quarter”, inserted “or is payable” after “has been paid”, and inserted before period at end “, reduced by the proportion that the number of days served for completion of the service obligation bears to the total number of days in the participant’s period of obligated service”.
 
-Subsec. (b). Pub. L. 100–687, § 1503(a)(4)(B), struck out par. (1) which related to formula to apply to recover amount from participant who breaches agreement by failing to complete period of obligated service, and struck out par. (2) designation before “Any amount”.
+Subsec. (b). Pub. L. 100–687, § 1503(a)(4)(B), struck out par. (1) which related to formula to apply to recover amount from participant who breaches agreement by failing to complete period of obligated service, and struck out par. (2) designation before “Any amount”.
 
-### § 7625. Allocation and distribution of funding
+### § 7625. Allocation and distribution of funding
 
 In determining the amount of funding to allocate to Department health-care facilities for any fiscal year in connection with the Tuition Reimbursement Program, the Secretary shall take into account (1) the personnel ceiling for that fiscal year for nursing personnel, and (2) the recruitment and retention needs of such facilities, as determined by the Secretary.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 527, § 4325; renumbered § 7625, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 527, § 4325; renumbered § 7625, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -881,7 +881,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 ## SUBCHAPTER IV—ADMINISTRATIVE MATTERS
 
-### § 7631. Periodic adjustments in amount of assistance
+### § 7631. Periodic adjustments in amount of assistance
 
 **(a)**
 
@@ -905,53 +905,53 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 **(7)** The term “specialty education loan repayment amount” means the maximum amount of specialty education loan repayment payments payable to or for a participant in the Department of Veterans Affairs Specialty Education Loan Repayment Program under subchapter VIII of this chapter, as specified in section 7694(c)(1) of this title and as previously adjusted (if at all) in accordance with this section.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 528, § 4331; amended Pub. L. 101–366, title II, § 205(b), Aug. 15, 1990, 104 Stat. 441; renumbered § 7631 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–135, title I, §§ 101(f), (g), 102(d)(1), Jan. 23, 2002, 115 Stat. 2448, 2449; Pub. L. 115–182, title III, § 303(b)(1)(D), June 6, 2018, 132 Stat. 1466.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 528, § 4331; amended Pub. L. 101–366, title II, § 205(b), Aug. 15, 1990, 104 Stat. 441; renumbered § 7631 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(10), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–135, title I, §§ 101(f), (g), 102(d)(1), Jan. 23, 2002, 115 Stat. 2448, 2449; Pub. L. 115–182, title III, § 303(b)(1)(D), June 6, 2018, 132 Stat. 1466.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–182, § 303(b)(1)(D)(i), struck out “and” after “scholarship amount,” and inserted “, and the maximum specialty education loan repayment amount” after “reduction payments amount”.
+2018—Subsec. (a)(1). Pub. L. 115–182, § 303(b)(1)(D)(i), struck out “and” after “scholarship amount,” and inserted “, and the maximum specialty education loan repayment amount” after “reduction payments amount”.
 
-Subsec. (b)(7). Pub. L. 115–182, § 303(b)(1)(D)(ii), added par. (7).
+Subsec. (b)(7). Pub. L. 115–182, § 303(b)(1)(D)(ii), added par. (7).
 
-2002—Subsec. (a)(1). Pub. L. 107–135, §§ 101(f)(1), 102(d)(1)(A), substituted “the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount” for “and the maximum Selected Reserve member stipend amount”.
+2002—Subsec. (a)(1). Pub. L. 107–135, §§ 101(f)(1), 102(d)(1)(A), substituted “the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount” for “and the maximum Selected Reserve member stipend amount”.
 
-Subsec. (b)(1) to (3). Pub. L. 107–135, § 101(g), substituted “this section” for “this subsection” in pars. (1) to (3).
+Subsec. (b)(1) to (3). Pub. L. 107–135, § 101(g), substituted “this section” for “this subsection” in pars. (1) to (3).
 
-Subsec. (b)(4). Pub. L. 107–135, § 101(f)(2)(B), added par. (4). Former par. (4) redesignated (6).
+Subsec. (b)(4). Pub. L. 107–135, § 101(f)(2)(B), added par. (4). Former par. (4) redesignated (6).
 
-Subsec. (b)(5). Pub. L. 107–135, § 102(d)(1)(B), added par. (5).
+Subsec. (b)(5). Pub. L. 107–135, § 102(d)(1)(B), added par. (5).
 
-Subsec. (b)(6). Pub. L. 107–135, § 101(f)(2)(A), redesignated par. (4) as (6).
+Subsec. (b)(6). Pub. L. 107–135, § 101(f)(2)(A), redesignated par. (4) as (6).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4331 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4331 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(1). Pub. L. 102–40, § 402(d)(1), substituted “7613(b)” for “4313(b)”.
+Subsec. (b)(1). Pub. L. 102–40, § 402(d)(1), substituted “7613(b)” for “4313(b)”.
 
-Subsec. (b)(2). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” for “4322(e)”.
+Subsec. (b)(2). Pub. L. 102–40, § 402(d)(1), substituted “7622(e)” for “4322(e)”.
 
-Subsec. (b)(3). Pub. L. 102–40, § 402(d)(1), substituted “7653” for “4353”.
+Subsec. (b)(3). Pub. L. 102–40, § 402(d)(1), substituted “7653” for “4353”.
 
 Subsec. (b)(4). Pub. L. 102–54 amended subsec. (b)(4) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “chapter 53” for “chapter 51”.
 
-1990—Subsec. (a)(1). Pub. L. 101–366, § 205(b)(1), substituted “stipend amount,” for “stipend amount and” and “reimbursement amount, and the maximum Selected Reserve member stipend amount” for “reimbursement amount”.
+1990—Subsec. (a)(1). Pub. L. 101–366, § 205(b)(1), substituted “stipend amount,” for “stipend amount and” and “reimbursement amount, and the maximum Selected Reserve member stipend amount” for “reimbursement amount”.
 
-Subsec. (b)(3), (4). Pub. L. 101–366, § 205(b)(2), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (b)(3), (4). Pub. L. 101–366, § 205(b)(2), added par. (3) and redesignated former par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Adjustment of Maximum Education Debt Reduction Payments Amount**
 
-Pub. L. 107–135, title I, § 102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibited an increase of the maximum education debt reduction payments amount in calendar year 2002.
+Pub. L. 107–135, title I, § 102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibited an increase of the maximum education debt reduction payments amount in calendar year 2002.
 
 **Transition**
 
-Pub. L. 100–322, title II, § 216(d), May 20, 1988, 102 Stat. 530, provided that: “Section 4331 [now 7631] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988.”
+Pub. L. 100–322, title II, § 216(d), May 20, 1988, 102 Stat. 530, provided that: “Section 4331 [now 7631] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988.”
 
-### § 7632. Annual report
+### § 7632. Annual report
 
 Not later than March 1 of each year, the Secretary shall submit to Congress a report on the Educational Assistance Program. Each such report shall include the following information:
 
@@ -969,25 +969,25 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 
 **(7)** The number of participants who complete a course or course of training in each program each year and for all years that such program (or predecessor program) has been in existence.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 528, § 4332; renumbered § 7632, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, § 805(5), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, § 303(b)(1)(E), June 6, 2018, 132 Stat. 1467; Pub. L. 116–171, title V, § 502(b)(1)(E), Oct. 17, 2020, 134 Stat. 818.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 528, § 4332; renumbered § 7632, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, § 805(5), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 115–182, title III, § 303(b)(1)(E), June 6, 2018, 132 Stat. 1467; Pub. L. 116–171, title V, § 502(b)(1)(E), Oct. 17, 2020, 134 Stat. 818.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Par. (1). Pub. L. 116–171, § 502(b)(1)(E)(i), substituted “the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program” for “and the Specialty Education Loan Repayment Program”.
+2020—Par. (1). Pub. L. 116–171, § 502(b)(1)(E)(i), substituted “the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program” for “and the Specialty Education Loan Repayment Program”.
 
-Par. (4). Pub. L. 116–171, § 502(b)(1)(E)(ii), substituted “per participant in the Specialty Education Loan Repayment Program, and per participant in the Readjustment Counseling Service Scholarship Program” for “and per participant in the Specialty Education Loan Repayment Program”.
+Par. (4). Pub. L. 116–171, § 502(b)(1)(E)(ii), substituted “per participant in the Specialty Education Loan Repayment Program, and per participant in the Readjustment Counseling Service Scholarship Program” for “and per participant in the Specialty Education Loan Repayment Program”.
 
-2018—Par. (1). Pub. L. 115–182, § 303(b)(1)(E)(i), substituted “the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program” for “and the Education Debt Reduction Program”.
+2018—Par. (1). Pub. L. 115–182, § 303(b)(1)(E)(i), substituted “the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program” for “and the Education Debt Reduction Program”.
 
-Par. (4). Pub. L. 115–182, § 303(b)(1)(E)(ii), substituted “per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program” for “and per participant in the Education Debt Reduction Program”.
+Par. (4). Pub. L. 115–182, § 303(b)(1)(E)(ii), substituted “per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program” for “and per participant in the Education Debt Reduction Program”.
 
-1998—Par. (1). Pub. L. 105–368, § 805(5)(A), substituted “, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program” for “and the Tuition Reimbursement Program” and inserted “(if any)” after “number of students”.
+1998—Par. (1). Pub. L. 105–368, § 805(5)(A), substituted “, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program” for “and the Tuition Reimbursement Program” and inserted “(if any)” after “number of students”.
 
-Par. (2). Pub. L. 105–368, § 805(5)(B), inserted “(if any)” after “education institutions”.
+Par. (2). Pub. L. 105–368, § 805(5)(B), inserted “(if any)” after “education institutions”.
 
-Par. (4). Pub. L. 105–368, § 805(5)(C), substituted “, per participant” for “and per participant” and inserted “, per participant in the Employee Incentive Scholarship Program, and per participant in the Education Debt Reduction Program” before period at end.
+Par. (4). Pub. L. 105–368, § 805(5)(C), substituted “, per participant” for “and per participant” and inserted “, per participant in the Employee Incentive Scholarship Program, and per participant in the Education Debt Reduction Program” before period at end.
 
 1991—Pub. L. 102–40 renumbered section 4332 of this title as this section.
 
@@ -999,11 +999,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in introduc
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 145 of House Document No. 103–7.
 
-### § 7633. Regulations
+### § 7633. Regulations
 
 The Secretary shall prescribe regulations to carry out the Educational Assistance Program.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4333; renumbered § 7633, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4333; renumbered § 7633, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -1013,7 +1013,7 @@ The Secretary shall prescribe regulations to carry out the Educational Assistanc
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-### § 7634. Breach of agreement; waiver of liability
+### § 7634. Breach of agreement; waiver of liability
 
 **(a)** An obligation under the Educational Assistance Program (or an agreement under the program) of a participant in the Educational Assistance Program for performance of services or payment of damages is canceled upon the death of the participant.
 
@@ -1021,7 +1021,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 **(c)** An obligation of a participant under the Educational Assistance Program (or an agreement thereunder) for payment of damages may not be released by a discharge in bankruptcy under title 11 before the expiration of the five-year period beginning on the first date the payment of such damages is due.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4334; renumbered § 7634, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4334; renumbered § 7634, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -1031,7 +1031,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-### § 7635. Service in other agencies
+### § 7635. Service in other agencies
 
 **(a)** The Secretary, with the consent of the participant or individual involved and the consent of the head of the department or agency involved, may permit—
 
@@ -1041,7 +1041,7 @@ Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 **(b)** This section shall be carried out in cooperation with the heads of other appropriate departments and agencies.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4335; renumbered § 7635, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4335; renumbered § 7635, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -1053,11 +1053,11 @@ Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” in introductory provisions.
 
-### § 7636. Exemption of educational assistance payments from taxation
+### § 7636. Exemption of educational assistance payments from taxation
 
 Notwithstanding any other law, any payment to, or on behalf of a participant in the Educational Assistance Program, for tuition, education expenses, a stipend, or education debt reduction under this chapter shall be exempt from taxation.
 
-(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4336; renumbered § 7636, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title VIII, § 805(6), Nov. 11, 1998, 112 Stat. 3359.)
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 529, § 4336; renumbered § 7636, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title VIII, § 805(6), Nov. 11, 1998, 112 Stat. 3359.)
 
 **Editorial Notes**
 
@@ -1069,13 +1069,13 @@ Notwithstanding any other law, any payment to, or on behalf of a participant in 
 
 ## SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE
 
-### § 7651. Authority for program
+### § 7651. Authority for program
 
 **(a)** As part of the Educational Assistance Program, the Secretary of Veterans Affairs may select qualified individuals to receive assistance under this subchapter.
 
 **(b)** To be eligible to receive assistance under this subchapter, an individual must be accepted for enrollment or be enrolled as a full-time student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a health profession involving direct patient care or care incident to direct patient care.
 
-(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 439, § 4351; renumbered § 7651, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 439, § 4351; renumbered § 7651, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -1083,7 +1083,7 @@ Notwithstanding any other law, any payment to, or on behalf of a participant in 
 
 1991—Pub. L. 102–40 renumbered section 4351 of this title as this section.
 
-### § 7652. Eligibility: individuals entitled to benefits under the GI Bill program for members of the Selected Reserve
+### § 7652. Eligibility: individuals entitled to benefits under the GI Bill program for members of the Selected Reserve
 
 The Secretary of Veterans Affairs may not approve an application under section 7603 of this title of an individual applying to receive assistance under this subchapter unless—
 
@@ -1091,7 +1091,7 @@ The Secretary of Veterans Affairs may not approve an application under section 7
 
 **(2)** the score of the individual on the Armed Forces Qualification Test was above the 50th percentile.
 
-(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4352; renumbered § 7652 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4352; renumbered § 7652 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 **Editorial Notes**
 
@@ -1099,11 +1099,11 @@ The Secretary of Veterans Affairs may not approve an application under section 7
 
 1991—Pub. L. 102–40 renumbered section 4352 of this title as this section and substituted “7603” for “4303” in introductory provisions.
 
-### § 7653. Amount of assistance
+### § 7653. Amount of assistance
 
 The Secretary may pay to a person selected to receive assistance under this subchapter the amount of $400 (adjusted in accordance with section 7631 of this title) for each month of the person’s enrollment in a program of education or training covered by the agreement of the person entered into under section 7603 of this title. Payment of such benefits for any period shall be coordinated with any payment of benefits for the same period under chapter 106 of title 10.
 
-(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4353; renumbered § 7653 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4353; renumbered § 7653 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 **Editorial Notes**
 
@@ -1111,11 +1111,11 @@ The Secretary may pay to a person selected to receive assistance under this subc
 
 1991—Pub. L. 102–40 renumbered section 4353 of this title as this section and substituted “7631” for “4331” and “7603” for “4303”.
 
-### § 7654. Obligated service
+### § 7654. Obligated service
 
 A person receiving assistance under this subchapter shall provide service in the full-time clinical practice of the person’s profession as a full-time employee of the Department for the period of obligated service provided in the agreement of such person entered into under section 7603 of this title.
 
-(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4354; renumbered § 7654 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4354; renumbered § 7654 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 **Editorial Notes**
 
@@ -1123,7 +1123,7 @@ A person receiving assistance under this subchapter shall provide service in the
 
 1991—Pub. L. 102–40 renumbered section 4354 of this title as this section and substituted “7603” for “4303”.
 
-### § 7655. Breach of agreement; liability
+### § 7655. Breach of agreement; liability
 
 **(a)**
 
@@ -1133,25 +1133,25 @@ A person receiving assistance under this subchapter shall provide service in the
 
 **(b)** Any amount owed the United States under subsection (a) of this section shall be paid to the United States during the one-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4355; renumbered § 7655 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 101–366, title II, § 205(a)(1), Aug. 15, 1990, 104 Stat. 440, § 4355; renumbered § 7655 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4355 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4355 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–40, § 402(d)(1), substituted “7654” for “4354” and “7617(c)(1)” for “4317(c)(1)”.
+Subsec. (a)(1). Pub. L. 102–40, § 402(d)(1), substituted “7654” for “4354” and “7617(c)(1)” for “4317(c)(1)”.
 
-Subsec. (a)(2). Pub. L. 102–40, § 402(d)(1), substituted “7654” for “4354” in two places.
+Subsec. (a)(2). Pub. L. 102–40, § 402(d)(1), substituted “7654” for “4354” in two places.
 
 ## SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM
 
-### § 7671. Authority for program
+### § 7671. Authority for program
 
 As part of the Educational Assistance Program, the Secretary may carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Employee Incentive Scholarship Program (hereinafter in this subchapter referred to as the “Program”). The purpose of the Program is to assist, through the establishment of an incentive program for individuals employed in the Veterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for health professional occupations for which recruitment or retention of qualified personnel is difficult.
 
-(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
+(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 **Editorial Notes**
 
@@ -1159,7 +1159,7 @@ As part of the Educational Assistance Program, the Secretary may carry out a sch
 
 2001—Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-### § 7672. Eligibility; agreement
+### § 7672. Eligibility; agreement
 
 **(a) Eligibility.—** To be eligible to participate in the Program, an individual must be an eligible Department employee who is accepted for enrollment or enrolled (as described in section 7602 of this title) as a full-time or part-time student in a field of education or training described in subsection (c).
 
@@ -1183,7 +1183,7 @@ As part of the Educational Assistance Program, the Secretary may carry out a sch
 
 **(3)** In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than 1 year.
 
-(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title I, § 101(b), Jan. 23, 2002, 115 Stat. 2447.)
+(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title I, § 101(b), Jan. 23, 2002, 115 Stat. 2447.)
 
 **Editorial Notes**
 
@@ -1193,7 +1193,7 @@ As part of the Educational Assistance Program, the Secretary may carry out a sch
 
 2001—Subsec. (e)(1)(B). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-### § 7673. Scholarship
+### § 7673. Scholarship
 
 **(a) Scholarship.—** A scholarship provided to a participant in the Program for a school year shall consist of payment of the tuition (or such portion of the tuition as may be provided under subsection (b)) of the participant for that school year and payment of other reasonable educational expenses (including fees, books, and laboratory expenses) for that school year.
 
@@ -1217,25 +1217,25 @@ As part of the Educational Assistance Program, the Secretary may carry out a sch
 
 **(2)** In the case of graduate coursework, 18 semester hours per graduate school year.
 
-(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3353; amended Pub. L. 107–135, title I, § 101(c)–(e), Jan. 23, 2002, 115 Stat. 2447, 2448.)
+(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3353; amended Pub. L. 107–135, title I, § 101(c)–(e), Jan. 23, 2002, 115 Stat. 2447, 2448.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (b)(1). Pub. L. 107–135, § 101(c)(1), substituted “for the equivalent of one year of full-time coursework” for “for any 1 year”.
+2002—Subsec. (b)(1). Pub. L. 107–135, § 101(c)(1), substituted “for the equivalent of one year of full-time coursework” for “for any 1 year”.
 
-Subsec. (b)(2). Pub. L. 107–135, § 101(c)(2), added par. (2) and struck out former par. (2) which read as follows: “in the case of a participant in the Program who is a part-time student, shall be the amount specified in paragraph (1) reduced in accordance with the proportion that the number of credit hours carried by the participant in that school year bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant.”
+Subsec. (b)(2). Pub. L. 107–135, § 101(c)(2), added par. (2) and struck out former par. (2) which read as follows: “in the case of a participant in the Program who is a part-time student, shall be the amount specified in paragraph (1) reduced in accordance with the proportion that the number of credit hours carried by the participant in that school year bears to the number of credit hours required to be carried by a full-time student in the course of education or training being pursued by the participant.”
 
-Subsec. (c). Pub. L. 107–135, § 101(d), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 107–135, § 101(d), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) Subject to paragraph (2), a participant in the Program may not receive a scholarship under subsection (a) for more than three school years.
 
 “(2) The Secretary may extend the number of school years for which a scholarship may be awarded to a participant in the Program who is a part-time student to a maximum of six school years if the Secretary determines that the extension would be in the best interest of the United States.”
 
-Subsec. (e). Pub. L. 107–135, § 101(e), added subsec. (e).
+Subsec. (e). Pub. L. 107–135, § 101(e), added subsec. (e).
 
-### § 7674. Obligated service
+### § 7674. Obligated service
 
 **(a) In General.—** Each participant in the Program shall provide service as a full-time employee of the Department for the period of obligated service provided in the agreement of the participant entered into under section 7603 of this title. Such service shall be provided in the full-time clinical practice of such participant’s profession or in another health-care position in an assignment or location determined by the Secretary.
 
@@ -1279,9 +1279,9 @@ Subsec. (e). Pub. L. 107–135, § 101(e), added subsec. (e).
 
 **(d) Course Completion Date Defined.—** In this section, the term “course completion date” means the date on which a participant in the Program completes the participant’s course of education or training under the Program.
 
-(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3354.)
+(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3354.)
 
-### § 7675. Breach of agreement: liability
+### § 7675. Breach of agreement: liability
 
 **(a) Liquidated Damages.—** A participant in the Program (other than a participant described in subsection (b)) who fails to accept payment, or instructs the educational institution in which the participant is enrolled not to accept payment, in whole or in part, of a scholarship under the agreement entered into under section 7603 of this title shall be liable to the United States for liquidated damages in the amount of $1,500. Such liability is in addition to any period of obligated service or other obligation or liability under the agreement.
 
@@ -1307,7 +1307,7 @@ Subsec. (e). Pub. L. 107–135, § 101(e), added subsec. (e).
 
 t−s
 
-A=3Φ  ( —— )
+A=3Φ ( —— )
 
 t
 
@@ -1329,7 +1329,7 @@ t
 
 **(e) Period for Payment of Damages.—** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the 1-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3355; amended Pub. L. 114–315, title VI, § 616, Dec. 16, 2016, 130 Stat. 1577.)
+(Added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3355; amended Pub. L. 114–315, title VI, § 616, Dec. 16, 2016, 130 Stat. 1577.)
 
 **Editorial Notes**
 
@@ -1337,13 +1337,13 @@ t
 
 2016—Subsec. (b)(1)(E). Pub. L. 114–315 substituted “The” for “In the case of a participant who is a part-time student, the”.
 
-### [§ 7676. Repealed. Pub. L. 107–135, title I, § 101(a)(1), Jan. 23, 2002, 115 Stat. 2447]
+### [§ 7676. Repealed. Pub. L. 107–135, title I, § 101(a)(1), Jan. 23, 2002, 115 Stat. 2447]
 
-Section, added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3356, provided that the Secretary could not furnish scholarships to individuals who had not commenced participation in the Program before Dec. 31, 2001.
+Section, added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 Stat. 3356, provided that the Secretary could not furnish scholarships to individuals who had not commenced participation in the Program before Dec. 31, 2001.
 
 ## SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM
 
-### § 7681. Authority for program
+### § 7681. Authority for program
 
 **(a) In General.—**
 
@@ -1353,7 +1353,7 @@ Section, added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 St
 
 **(b) Relationship to Educational Assistance Program.—** Education debt reduction payments under the Education Debt Reduction Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
 
-(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 111–163, title III, § 301(a), May 5, 2010, 124 Stat. 1146.)
+(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 111–163, title III, § 301(a), May 5, 2010, 124 Stat. 1146.)
 
 **Editorial Notes**
 
@@ -1367,7 +1367,7 @@ Section, added Pub. L. 105–368, title VIII, § 802(a), Nov. 11, 1998, 112 St
 
 **Expansion of Education Debt Reduction Program**
 
-Pub. L. 117–328, div. V, title I, § 104(b), Dec. 29, 2022, 136 Stat. 5500, provided that:
+Pub. L. 117–328, div. V, title I, § 104(b), Dec. 29, 2022, 136 Stat. 5500, provided that:
 
 > **“(1) In general.—** Beginning in fiscal year 2022, the Secretary shall provide not fewer than an additional (as compared to fiscal year 2021) 200 debt reduction awards per year under the Department of Veterans Affairs Education Debt Reduction Program under subchapter VII of chapter 76 of title 38, United States Code, to be used to recruit mental health professionals to the Department of Veterans Affairs in disciplines that include psychiatry, psychology, advanced practice nursing (with a focus on mental health or substance use disorder), and social work.
 
@@ -1375,7 +1375,7 @@ Pub. L. 117–328, div. V, title I, § 104(b), Dec. 29, 2022, 136 Stat. 5500, 
 
 **Pilot Program for Repayment of Educational Loans for Certain Psychiatrists of Veterans Health Administration**
 
-Pub. L. 114–2, § 4, Feb. 12, 2015, 129 Stat. 32, provided that:
+Pub. L. 114–2, § 4, Feb. 12, 2015, 129 Stat. 32, provided that:
 
 > **“(a) Establishment.—** The Secretary of Veterans Affairs shall carry out a pilot program to repay loans of individuals described in subsection (b) that—
 
@@ -1447,7 +1447,7 @@ Pub. L. 114–2, § 4, Feb. 12, 2015, 129 Stat. 32, provided that:
 
 **Loan Repayment Program for Clinical Researchers From Disadvantaged Backgrounds**
 
-Pub. L. 111–163, title VI, § 604, May 5, 2010, 124 Stat. 1174, provided that:
+Pub. L. 111–163, title VI, § 604, May 5, 2010, 124 Stat. 1174, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs may, in consultation with the Secretary of Health and Human Services, use the authorities available in [former] section 487E of the Public Health Service Act ([former] 42 U.S.C. 288–5) for the repayment of the principal and interest of educational loans of appropriately qualified health professionals who are from disadvantaged backgrounds in order to secure clinical research by such professionals for the Veterans Health Administration.
 
@@ -1455,7 +1455,7 @@ Pub. L. 111–163, title VI, § 604, May 5, 2010, 124 Stat. 1174, provided tha
 
 > **“(c) Funding.—** Amounts for the repayment of principal and interest of educational loans under this section shall be derived from amounts available to the Secretary of Veterans Affairs for the Veterans Health Administration for Medical Services.”
 
-### § 7682. Eligibility
+### § 7682. Eligibility
 
 **(a) Eligibility.—** An individual is eligible to participate in the Education Debt Reduction Program if the individual—
 
@@ -1471,15 +1471,15 @@ Pub. L. 111–163, title VI, § 604, May 5, 2010, 124 Stat. 1174, provided tha
 
 **(3)** reasonable living expenses.
 
-(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, § 102(b), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, § 301(b), May 5, 2010, 124 Stat. 1146.)
+(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, § 102(b), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, § 301(b), May 5, 2010, 124 Stat. 1146.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–163, § 301(b)(1), substituted “an” for “a recently appointed”.
+2010—Subsec. (a)(1). Pub. L. 111–163, § 301(b)(1), substituted “an” for “a recently appointed”.
 
-Subsec. (c). Pub. L. 111–163, § 301(b)(2), struck out subsec. (c). Text read as follows: “For purposes of subsection (a), an individual shall be considered to be recently appointed to a position if the individual has held that position for less than 6 months.”
+Subsec. (c). Pub. L. 111–163, § 301(b)(2), struck out subsec. (c). Text read as follows: “For purposes of subsection (a), an individual shall be considered to be recently appointed to a position if the individual has held that position for less than 6 months.”
 
 2002—Subsec. (a)(1). Pub. L. 107–135 substituted “in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services” for “under an appointment under section 7402(b) of this title in a position” and “(as so determined)” for “(as determined by the Secretary)”.
 
@@ -1487,7 +1487,7 @@ Subsec. (c). Pub. L. 111–163, § 301(b)(2), struck out subsec. (c). Text rea
 
 **Inclusion of Vet Center Employees in Education Debt Reduction Program of Department of Veterans Affairs**
 
-Pub. L. 115–182, title III, § 306, June 6, 2018, 132 Stat. 1470, provided that:
+Pub. L. 115–182, title III, § 306, June 6, 2018, 132 Stat. 1470, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall ensure that clinical staff working at Vet Centers are eligible to participate in the Education Debt Reduction Program of the Department of Veterans Affairs under subchapter VII of chapter 76 of title 38, United States Code.
 
@@ -1497,9 +1497,9 @@ Pub. L. 115–182, title III, § 306, June 6, 2018, 132 Stat. 1470, provided t
 
 **Temporary Expansion of Individuals Eligible for Participation in Program**
 
-Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted the Secretary of Veterans Affairs authority to treat certain individuals as recently appointed employees in the Veterans Health Administration under subsec. (a) of this section for purposes of eligibility in the Education Debt Reduction Program under this subchapter but prohibited exercise of this authority after June 30, 2002.
+Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted the Secretary of Veterans Affairs authority to treat certain individuals as recently appointed employees in the Veterans Health Administration under subsec. (a) of this section for purposes of eligibility in the Education Debt Reduction Program under this subchapter but prohibited exercise of this authority after June 30, 2002.
 
-### § 7683. Education debt reduction
+### § 7683. Education debt reduction
 
 **(a) In General.—** Education debt reduction payments under the Education Debt Reduction Program shall consist of—
 
@@ -1525,7 +1525,7 @@ Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted 
 
 **(B)** A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
 
-(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, § 102(c), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, § 301(c), (d), May 5, 2010, 124 Stat. 1146; Pub. L. 113–146, title III, § 302(b), Aug. 7, 2014, 128 Stat. 1788; Pub. L. 113–175, title IV, § 408, Sept. 26, 2014, 128 Stat. 1906; Pub. L. 114–58, title VI, § 601(24), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title III, § 302(a), June 6, 2018, 132 Stat. 1463.)
+(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, § 102(c), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, § 301(c), (d), May 5, 2010, 124 Stat. 1146; Pub. L. 113–146, title III, § 302(b), Aug. 7, 2014, 128 Stat. 1788; Pub. L. 113–175, title IV, § 408, Sept. 26, 2014, 128 Stat. 1906; Pub. L. 114–58, title VI, § 601(24), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title III, § 302(a), June 6, 2018, 132 Stat. 1463.)
 
 **Editorial Notes**
 
@@ -1535,25 +1535,25 @@ Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted 
 
 2015—Subsec. (d). Pub. L. 114–58 inserted period at end.
 
-2014—Subsec. (a). Pub. L. 113–175, § 408(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in section 7682(a)(2) of this title.”
+2014—Subsec. (a). Pub. L. 113–175, § 408(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in section 7682(a)(2) of this title.”
 
-Subsecs. (b)(1), (c). Pub. L. 113–175, § 408(2), substituted “payments to or for” for “payments to”.
+Subsecs. (b)(1), (c). Pub. L. 113–175, § 408(2), substituted “payments to or for” for “payments to”.
 
-Subsec. (d)(1). Pub. L. 113–175, § 408(3)(A), substituted “made to or for” for “made to”.
+Subsec. (d)(1). Pub. L. 113–175, § 408(3)(A), substituted “made to or for” for “made to”.
 
-Pub. L. 113–146, § 302(b)(1), (2)(B), substituted “The amount” for “Subject to paragraph (2), the amount”, “$120,000” for “$60,000”, and “$24,000 of such payments may be made in each year of participation in the Program” for “$12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program”.
+Pub. L. 113–146, § 302(b)(1), (2)(B), substituted “The amount” for “Subject to paragraph (2), the amount”, “$120,000” for “$60,000”, and “$24,000 of such payments may be made in each year of participation in the Program” for “$12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program”.
 
-Subsec. (d)(2). Pub. L. 113–146, § 302(b)(2)(A)(i), (ii), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.”
+Subsec. (d)(2). Pub. L. 113–146, § 302(b)(2)(A)(i), (ii), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.”
 
-Subsec. (d)(2)(A). Pub. L. 113–175, § 408(3)(B), substituted “payable to or for that” for “payable to that”.
+Subsec. (d)(2)(A). Pub. L. 113–175, § 408(3)(B), substituted “payable to or for that” for “payable to that”.
 
-Pub. L. 113–146, § 302(b)(2)(A)(iii), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+Pub. L. 113–146, § 302(b)(2)(A)(iii), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-Subsec. (d)(3). Pub. L. 113–146, § 302(b)(2)(A)(ii), redesignated par. (3) as (2).
+Subsec. (d)(3). Pub. L. 113–146, § 302(b)(2)(A)(ii), redesignated par. (3) as (2).
 
-2010—Subsec. (d)(1). Pub. L. 111–163, § 301(c), substituted “$60,000” for “$44,000” and “$12,000” for “$10,000”.
+2010—Subsec. (d)(1). Pub. L. 111–163, § 301(c), substituted “$60,000” for “$44,000” and “$12,000” for “$10,000”.
 
-Subsec. (d)(3). Pub. L. 111–163, § 301(d), added par. (3).
+Subsec. (d)(3). Pub. L. 111–163, § 301(d), added par. (3).
 
 2002—Subsec. (d)(1). Pub. L. 107–135 struck out “for a year” after “a participant” and substituted “exceed $44,000 over a total of five years of participation in the Program, of which not more than $10,000 of such payments may be made in each of the fourth and fifth years of participation in the Program” for “exceed—
 
@@ -1563,23 +1563,23 @@ Subsec. (d)(3). Pub. L. 111–163, § 301(d), added par. (3).
 
 “(C) $10,000 for the third year of the participant’s participation in the Program”.
 
-### [§ 7684. Repealed. Pub. L. 107–135, title I, § 102(a)(1), Jan. 23, 2002, 115 Stat. 2448]
+### [§ 7684. Repealed. Pub. L. 107–135, title I, § 102(a)(1), Jan. 23, 2002, 115 Stat. 2448]
 
-Section, added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3358, provided that the Secretary could not make education debt reduction payments to individuals who had not commenced participation in the Education Debt Reduction Program before Dec. 31, 2001.
+Section, added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3358, provided that the Secretary could not make education debt reduction payments to individuals who had not commenced participation in the Education Debt Reduction Program before Dec. 31, 2001.
 
 ## SUBCHAPTER VIII—SPECIALTY EDUCATION LOAN REPAYMENT PROGRAM
 
-### § 7691. Establishment
+### § 7691. Establishment
 
 As part of the Educational Assistance Program, the Secretary may carry out a student loan repayment program under section 5379 of title 5. The program shall be known as the Department of Veterans Affairs Specialty Education Loan Repayment Program (in this chapter referred to as the “Specialty Education Loan Repayment Program”).
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Offer Deadline**
 
-Pub. L. 115–182, title III, § 303(e), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(B), Sept. 29, 2018, 132 Stat. 3177, provided that:
+Pub. L. 115–182, title III, § 303(e), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(B), Sept. 29, 2018, 132 Stat. 3177, provided that:
 
 > “In the case of an applicant who applies before receiving a residency match and whom the Secretary of Veterans Affairs selects for participation in the Specialty Education Loan Repayment Program under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a), the Secretary shall offer participation to the applicant not later than 28 days after—
 
@@ -1589,21 +1589,21 @@ Pub. L. 115–182, title III, § 303(e), June 6, 2018, 132 Stat. 1467, as amen
 
 **Publicity**
 
-Pub. L. 115–182, title III, § 303(f), June 6, 2018, 132 Stat. 1467, provided that: “The Secretary of Veterans Affairs shall take such steps as the Secretary determines are appropriate to publicize the Specialty Education Loan Repayment Program established under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a).”
+Pub. L. 115–182, title III, § 303(f), June 6, 2018, 132 Stat. 1467, provided that: “The Secretary of Veterans Affairs shall take such steps as the Secretary determines are appropriate to publicize the Specialty Education Loan Repayment Program established under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a).”
 
-### § 7692. Purpose
+### § 7692. Purpose
 
 The purpose of the Specialty Education Loan Repayment Program is to assist, through the establishment of an incentive program for certain individuals employed in the Veterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for physicians in medical specialties for which the Secretary determines recruitment or retention of qualified personnel is difficult.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Needs of the VHA**
 
-Pub. L. 115–182, title III, § 303(c), June 6, 2018, 132 Stat. 1467, provided that: “In making determinations each year under section 7692 of title 38, United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall consider the anticipated needs of the Veterans Health Administration during the period 2 to 6 years in the future.”
+Pub. L. 115–182, title III, § 303(c), June 6, 2018, 132 Stat. 1467, provided that: “In making determinations each year under section 7692 of title 38, United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall consider the anticipated needs of the Veterans Health Administration during the period 2 to 6 years in the future.”
 
-### § 7693. Eligibility; preferences; covered costs
+### § 7693. Eligibility; preferences; covered costs
 
 **(a) Eligibility.—** An individual is eligible to participate in the Specialty Education Loan Repayment Program if the individual—
 
@@ -1637,7 +1637,7 @@ Pub. L. 115–182, title III, § 303(c), June 6, 2018, 132 Stat. 1467, provide
 
 **(3)** reasonable living expenses.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464; amended Pub. L. 115–251, title II, § 211(a)(12), Sept. 29, 2018, 132 Stat. 3176.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464; amended Pub. L. 115–251, title II, § 211(a)(12), Sept. 29, 2018, 132 Stat. 3176.)
 
 **Editorial Notes**
 
@@ -1649,9 +1649,9 @@ Pub. L. 115–182, title III, § 303(c), June 6, 2018, 132 Stat. 1467, provide
 
 **Preference**
 
-Pub. L. 115–182, title III, § 303(d), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(A), Sept. 29, 2018, 132 Stat. 3176, provided that: “In granting preference under section 7693 of title 38, United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall determine whether a facility of the Department of Veterans Affairs is underserved based on the criteria developed under section 401 of this Act [38 U.S.C. 8110 note].”
+Pub. L. 115–182, title III, § 303(d), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(A), Sept. 29, 2018, 132 Stat. 3176, provided that: “In granting preference under section 7693 of title 38, United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall determine whether a facility of the Department of Veterans Affairs is underserved based on the criteria developed under section 401 of this Act [38 U.S.C. 8110 note].”
 
-### § 7694. Specialty education loan repayment
+### § 7694. Specialty education loan repayment
 
 **(a) In General.—** Payments under the Specialty Education Loan Repayment Program shall consist of payments for the principal and interest on loans described in section 7682(a)(2) of this title for individuals selected to participate in the Program to the holders of such loans.
 
@@ -1667,15 +1667,15 @@ Pub. L. 115–182, title III, § 303(d), June 6, 2018, 132 Stat. 1467, as amen
 
 **(B)** A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465.)
 
-### § 7695. Choice of location
+### § 7695. Choice of location
 
 Each participant in the Specialty Education Loan Repayment Program who completes residency may select, from a list of medical facilities of the Veterans Health Administration provided by the Secretary, at which such facility the participant will work in a medical specialty described in section 7692 of this title.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465.)
 
-### § 7696. Term of obligated service
+### § 7696. Term of obligated service
 
 **(a) In General.—** In addition to any requirements under section 5379(c) of title 5, a participant in the Specialty Education Loan Repayment Program must agree, in writing and before the Secretary may make any payment to or for the participant, to—
 
@@ -1703,7 +1703,7 @@ Each participant in the Specialty Education Loan Repayment Program who completes
 
 **(D)** “*S*” is the number of whole months of such period of obligated service served by the employee.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465; amended Pub. L. 116–61, § 6(8), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465; amended Pub. L. 116–61, § 6(8), Sept. 30, 2019, 133 Stat. 1117.)
 
 **Editorial Notes**
 
@@ -1711,27 +1711,27 @@ Each participant in the Specialty Education Loan Repayment Program who completes
 
 2019—Subsec. (c)(1). Pub. L. 116–61 struck out second closing parenthesis before period at end.
 
-### § 7697. Relationship to Educational Assistance Program
+### § 7697. Relationship to Educational Assistance Program
 
 Assistance under the Specialty Education Loan Repayment Program may be in addition to other assistance available to individuals under the Educational Assistance Program.
 
-(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1466.)
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1466.)
 
 ## SUBCHAPTER IX—READJUSTMENT COUNSELING SERVICE SCHOLARSHIP PROGRAM
 
-### § 7698. Requirement for program
+### § 7698. Requirement for program
 
 As part of the Educational Assistance Program, the Secretary shall carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Readjustment Counseling Service Scholarship Program (in this subchapter referred to as the “Program”).
 
-(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 815.)
+(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 815.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–171, title V, § 502(c), Oct. 17, 2020, 134 Stat. 818, provided that: “The Secretary of Veterans Affairs shall begin awarding scholarships under subchapter IX of chapter 76 of title 38, United States Code, as added by subsection (a), for programs of study beginning not later than one year after the date of the enactment of this Act [Oct. 17, 2020].”
+Pub. L. 116–171, title V, § 502(c), Oct. 17, 2020, 134 Stat. 818, provided that: “The Secretary of Veterans Affairs shall begin awarding scholarships under subchapter IX of chapter 76 of title 38, United States Code, as added by subsection (a), for programs of study beginning not later than one year after the date of the enactment of this Act [Oct. 17, 2020].”
 
-### § 7699. Eligibility; agreement
+### § 7699. Eligibility; agreement
 
 **(a) In General.—** An individual is eligible to participate in the Program, as determined by the Readjustment Counseling Service of the Department, if the individual—
 
@@ -1757,7 +1757,7 @@ Pub. L. 116–171, title V, § 502(c), Oct. 17, 2020, 134 Stat. 818, provided 
 
 **(d) Vet Center Defined.—** In this section, the term “Vet Center” has the meaning given that term in section 1712A(h) of this title.
 
-(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 815.)
+(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 815.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1765,7 +1765,7 @@ Pub. L. 116–171, title V, § 502(c), Oct. 17, 2020, 134 Stat. 818, provided 
 
 Secretary of Veterans Affairs to begin awarding scholarships under this subchapter for programs of study beginning no later than one year after Oct. 17, 2020, see section 502(c) of Pub. L. 116–171, set out as a note under section 7698 of this title.
 
-### § 7699A. Obligated service
+### § 7699A. Obligated service
 
 **(a) In General.—** Each participant in the Program shall provide service as a full-time employee of the Department at a Vet Center (as defined in section 7699(d) of this title) for the period of obligated service set forth in the agreement of the participant entered into under section 7604 of this title.
 
@@ -1775,7 +1775,7 @@ Secretary of Veterans Affairs to begin awarding scholarships under this subchapt
 
 **(2)** The date specified in paragraph (1) with respect to a participant is the date for the beginning of the period of obligated service of the participant.
 
-(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 816.)
+(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 816.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1783,7 +1783,7 @@ Secretary of Veterans Affairs to begin awarding scholarships under this subchapt
 
 Secretary of Veterans Affairs to begin awarding scholarships under this subchapter for programs of study beginning no later than one year after Oct. 17, 2020, see section 502(c) of Pub. L. 116–171, set out as a note under section 7698 of this title.
 
-### § 7699B. Breach of agreement: liability
+### § 7699B. Breach of agreement: liability
 
 **(a) Liquidated Damages.—**
 
@@ -1805,7 +1805,7 @@ Secretary of Veterans Affairs to begin awarding scholarships under this subchapt
 
 **(c) Liability During Period of Obligated Service.—**
 
-**(1)** Except as provided in subsection (d), if a participant in the Program does not complete the period of obligated service of the participant, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: A = 3Φ (t−s/t).
+**(1)** Except as provided in subsection (d), if a participant in the Program does not complete the period of obligated service of the participant, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: A = 3Φ (t−s/t).
 
 **(2)** In the formula in paragraph (1):
 
@@ -1825,7 +1825,7 @@ Secretary of Veterans Affairs to begin awarding scholarships under this subchapt
 
 **(e) Period for Payment of Damages.—** Any amount of damages that the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 
-(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 816.)
+(Added Pub. L. 116–171, title V, § 502(a), Oct. 17, 2020, 134 Stat. 816.)
 
 **Statutory Notes and Related Subsidiaries**
 

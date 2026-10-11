@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–375, div. B, title XXVIII, §§ 2808(c), 2809(a)(2), Oct. 28, 2004, 118 Stat. 2125, 2127, substituted “Notice and wait requirements for certain projects” for “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” in item 18233a and added items 18233b and 18240.
+2004—Pub. L. 108–375, div. B, title XXVIII, §§ 2808(c), 2809(a)(2), Oct. 28, 2004, 118 Stat. 2125, 2127, substituted “Notice and wait requirements for certain projects” for “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” in item 18233a and added items 18233b and 18240.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1664(b)(1), (3), Oct. 5, 1994, 108 Stat. 3010, renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
+1994—Pub. L. 103–337, div. A, title XVI, § 1664(b)(1), (3), Oct. 5, 1994, 108 Stat. 3010, renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
 
-1982—Pub. L. 97–214, § 3(b)(2), (c)(2), July 12, 1982, 96 Stat. 169, 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
+1982—Pub. L. 97–214, § 3(b)(2), (c)(2), July 12, 1982, 96 Stat. 169, 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
 
-1958—Pub. L. 85–861, § 1(42), Sept. 2, 1958, 72 Stat. 1457, inserted “: compliance with State law” in item 2237.
+1958—Pub. L. 85–861, § 1(42), Sept. 2, 1958, 72 Stat. 1457, inserted “: compliance with State law” in item 2237.
 
-Pub. L. 85–685, title VI, § 601(4), Aug. 20, 1958, 72 Stat. 665, added item 2233a.
+Pub. L. 85–685, title VI, § 601(4), Aug. 20, 1958, 72 Stat. 665, added item 2233a.
 
-## § 18231. Purpose
+## § 18231. Purpose
 
 The purpose of this chapter is to provide for—
 
@@ -41,13 +41,13 @@ The purpose of this chapter is to provide for—
 
 **(4)** any other use of those facilities by the United States, in time of war or national emergency, to the greatest practicable extent for efficiency and economy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 120, § 2231; Pub. L. 85–215, § 1, Aug. 29, 1957, 71 Stat. 489; renumbered § 18231, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 120, § 2231; Pub. L. 85–215, § 1, Aug. 29, 1957, 71 Stat. 489; renumbered § 18231, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2231 | 50:881. | Sept. 11, 1950, ch. 945, § 2, 64 Stat. 829. |
+| 2231 | 50:881. | Sept. 11, 1950, ch. 945, § 2, 64 Stat. 829. |
 
 In clause (1), the words “units of” are omitted as surplusage.
 
@@ -61,7 +61,7 @@ In clause (4), the words “United States” are substituted for the words “Fe
 
 1957—Par. (1). Pub. L. 85–215 included troop housing and messing facilities.
 
-## § 18232. Definitions
+## § 18232. Definitions
 
 In this chapter:
 
@@ -71,7 +71,7 @@ In this chapter:
 
 **(3)** The terms “armory” and “readiness center” mean a structure that houses one or more units of a reserve component and is used for training and administering those units. Such terms include a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2232; Pub. L. 85–861, § 1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, § 3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered § 18232, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(a), (b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2232; Pub. L. 85–861, § 1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, § 3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered § 18232, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(a), (b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
 
 **Historical and Revision Notes**
 
@@ -79,7 +79,7 @@ In this chapter:
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2232 | 50:886. | Sept. 11, 1950, ch. 945, § 7, 64 Stat. 831. |
+| 2232 | 50:886. | Sept. 11, 1950, ch. 945, § 7, 64 Stat. 831. |
 
 Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the United States” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
 
@@ -87,7 +87,7 @@ Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) t
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2232 | 50:886. | Aug. 9, 1955, ch. 662, § 1(g), (h), 69 Stat. 594. |
+| 2232 | 50:886. | Aug. 9, 1955, ch. 662, § 1(g), (h), 69 Stat. 594. |
 
 The last sentence of 50:886(b) is omitted as surplusage.
 
@@ -95,9 +95,9 @@ The last sentence of 50:886(b) is omitted as surplusage.
 
 **Amendments**
 
-2000—Par. (2)(B). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(b)(1)], substituted “armory, readiness center, or other structure” for “armory or other structure”.
+2000—Par. (2)(B). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(b)(1)], substituted “armory, readiness center, or other structure” for “armory or other structure”.
 
-Par. (3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(a)], substituted “The terms ‘armory’ and ‘readiness center’ mean” for “The term ‘armory’ means” and “Such terms include” for “It includes”.
+Par. (3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(a)], substituted “The terms ‘armory’ and ‘readiness center’ mean” for “The term ‘armory’ means” and “Such terms include” for “It includes”.
 
 1994—Pub. L. 103–337 renumbered section 2232 of this title as this section.
 
@@ -113,7 +113,7 @@ Par. (3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(a)], substi
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 18233. Acquisition
+## § 18233. Acquisition
 
 **(a)** Subject to sections 18233a, 18234, 18235, 18236, and 18238 of this title and to subsection (c), the Secretary of Defense may—
 
@@ -143,7 +143,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **(2)** Authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase or gift.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2233; Pub. L. 85–685, title VI, § 601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, § 1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, § 703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§ 803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§ 3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, § 703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, § 1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, § 702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, § 2801, Dec. 5, 1991, 105 Stat. 1537; renumbered § 18233 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–65, div. B, title XXVIII, § 2805, Oct. 5, 1999, 113 Stat. 850; Pub. L. 108–375, div. B, title XXVIII, § 2809(b), Oct. 28, 2004, 118 Stat. 2127; Pub. L. 109–364, div. A, title X, § 1071(a)(42), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. B, title XXVIII, § 2805, Oct. 28, 2009, 123 Stat. 2662.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2233; Pub. L. 85–685, title VI, § 601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, § 1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, § 703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§ 803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§ 3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, § 703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, § 1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, § 702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, § 2801, Dec. 5, 1991, 105 Stat. 1537; renumbered § 18233 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–65, div. B, title XXVIII, § 2805, Oct. 5, 1999, 113 Stat. 850; Pub. L. 108–375, div. B, title XXVIII, § 2809(b), Oct. 28, 2004, 118 Stat. 2127; Pub. L. 109–364, div. A, title X, § 1071(a)(42), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. B, title XXVIII, § 2805, Oct. 28, 2009, 123 Stat. 2662.)
 
 **Historical and Revision Notes**
 
@@ -151,7 +151,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2233(a) 2233(b) 2233(c) | 50:882. 50:883(c) (1st sentence). 50:884. | Sept. 11, 1950, ch. 945, §§ 3, 4(c) (1st sentence), 5, 64 Stat. 830, 831. |
+| 2233(a) 2233(b) 2233(c) | 50:882. 50:883(c) (1st sentence). 50:884. | Sept. 11, 1950, ch. 945, §§ 3, 4(c) (1st sentence), 5, 64 Stat. 830, 831. |
 
 In subsection (a), the 16th through the 31st words are omitted as executed on July 1, 1955, the end of the 5-year period.
 
@@ -163,15 +163,15 @@ In subsection (a)(3), the words “to be required” are substituted for the wor
 
 In subsection (b), the words “real or personal” are omitted as surplusage.
 
-In subsection (c), the words “all or \* \* \* part”, “conferred”, “imposed”, “without relieving himself of the responsibility therefor”, “or officers”, and “as he may designate from time to time” are omitted as surplusage.
+In subsection (c), the words “all or \* \* \* part”, “conferred”, “imposed”, “without relieving himself of the responsibility therefor”, “or officers”, and “as he may designate from time to time” are omitted as surplusage.
 
 **1958 Act**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2233(a) | 50:882 (less 16th through 36th words and (a)). | Aug. 9, 1955, ch. 662, § 1(b), (d), 69 Stat. 593. |
+| 2233(a) | 50:882 (less 16th through 36th words and (a)). | Aug. 9, 1955, ch. 662, § 1(b), (d), 69 Stat. 593. |
 | 2233(b) | 50:883(c) (2d sentence). |  |
-| 2233(d) | 50:882(a) (less last 12 words). | Aug. 3, 1956, ch. 939, § 414 (less last 12 words), 70 Stat. 1018. |
+| 2233(d) | 50:882(a) (less last 12 words). | Aug. 3, 1956, ch. 939, § 414 (less last 12 words), 70 Stat. 1018. |
 
 In subsections (a)(2), (3), and (4), the words “Territory, Puerto Rico, or the District of Columbia” are inserted to reflect 50:886(c).
 
@@ -181,7 +181,7 @@ In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 223
 
 **Codification**
 
-Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, § 414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, § 2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 [now 18233 and 18236 to 18238] of this title by Pub. L. 85–685, title VI, § 602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§ 1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
+Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, § 414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, § 2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 [now 18233 and 18236 to 18238] of this title by Pub. L. 85–685, title VI, § 602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§ 1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
 
 **Amendments**
 
@@ -193,47 +193,47 @@ Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Histor
 
 1999—Subsec. (f)(1). Pub. L. 106–65 inserted “design,” after “planning,”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2233 of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2233 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1664(b)(4), substituted “18233a, 18234, 18235, 18236, and 18238” for “2233a, 2234, 2235, 2236, and 2238”.
+Subsec. (a). Pub. L. 103–337, § 1664(b)(4), substituted “18233a, 18234, 18235, 18236, and 18238” for “2233a, 2234, 2235, 2236, and 2238”.
 
 1991—Subsec. (a)(2). Pub. L. 102–190 inserted before semicolon “or to acquire or construct facilities for such use”.
 
-1985—Subsec. (e). Pub. L. 99–167 amended subsec. (e) generally, inserting “, or contribute to any State such amounts as the Secretary determines to be necessary to procure,”.
+1985—Subsec. (e). Pub. L. 99–167 amended subsec. (e) generally, inserting “, or contribute to any State such amounts as the Secretary determines to be necessary to procure,”.
 
-1984—Subsec. (a). Pub. L. 98–525, § 1405(34)(A), substituted “to subsection (c)” for “subsection (c) of this section”.
+1984—Subsec. (a). Pub. L. 98–525, § 1405(34)(A), substituted “to subsection (c)” for “subsection (c) of this section”.
 
 Subsec. (a)(6). Pub. L. 98–407 substituted “critical portions of facilities” for “arms storage rooms” and “construction criteria or standards related to the execution of the Federal military mission assigned to the unit using the facility” for “standards related to the safekeeping of arms”.
 
-Subsec. (b). Pub. L. 98–525, § 1405(34)(B), struck out “or Territory, Puerto Rico, or the District of Columbia” after “State” in two places. See section 18232(1) of this title.
+Subsec. (b). Pub. L. 98–525, § 1405(34)(B), struck out “or Territory, Puerto Rico, or the District of Columbia” after “State” in two places. See section 18232(1) of this title.
 
-1982—Subsec. (a)(2) to (4). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
+1982—Subsec. (a)(2) to (4). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
 
-Subsec. (a)(5). Pub. L. 97–214, § 3(e)(1), substituted “contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter” for “contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter” and “A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied”.
+Subsec. (a)(5). Pub. L. 97–214, § 3(e)(1), substituted “contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter” for “contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter” and “A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied”.
 
-Subsec. (a)(6). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
+Subsec. (a)(6). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
 
-Subsec. (e). Pub. L. 97–214, § 10(a)(2), substituted “architectural and engineering services and construction design” for “advance planning, construction design, and architectural services”.
+Subsec. (e). Pub. L. 97–214, § 10(a)(2), substituted “architectural and engineering services and construction design” for “advance planning, construction design, and architectural services”.
 
-Subsec. (f). Pub. L. 97–214, § 3(a), expanded subsec. (f) into pars. (1) and (2), and substituted provision that legal authority to construct, expand, rehabilitate, etc., any facility under this section, also includes the authority to expend funds for surveys, administration, overhead, planning, and supervision incident to any such activity and provisions that authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase, gift, exchange of Government-owned land, or otherwise, for provisions that facilities authorized by subsec. (a) could not be considered “military public works” under the military construction authorization acts that repeal prior authorizations for military public works.
+Subsec. (f). Pub. L. 97–214, § 3(a), expanded subsec. (f) into pars. (1) and (2), and substituted provision that legal authority to construct, expand, rehabilitate, etc., any facility under this section, also includes the authority to expend funds for surveys, administration, overhead, planning, and supervision incident to any such activity and provisions that authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase, gift, exchange of Government-owned land, or otherwise, for provisions that facilities authorized by subsec. (a) could not be considered “military public works” under the military construction authorization acts that repeal prior authorizations for military public works.
 
-1981—Subsec. (a)(2). Pub. L. 97–99, § 803(1), inserted “or by the United States” after “or convert facilities owned by it”.
+1981—Subsec. (a)(2). Pub. L. 97–99, § 803(1), inserted “or by the United States” after “or convert facilities owned by it”.
 
-Subsec. (a)(6). Pub. L. 97–99, § 804, added par. (6).
+Subsec. (a)(6). Pub. L. 97–99, § 804, added par. (6).
 
-Subsec. (b). Pub. L. 97–99, § 803(2), inserted provisions that such property may be transferred to any State or Territory, Puerto Rico, or the District of Columbia incident to the expansion, rehabilitation, or conversion of such property under subsec. (a)(2) so long as the transfer of such property does not result in the creation of an enclave owned by a State or Territory, Puerto Rico, or the District of Columbia within a Federal installation.
+Subsec. (b). Pub. L. 97–99, § 803(2), inserted provisions that such property may be transferred to any State or Territory, Puerto Rico, or the District of Columbia incident to the expansion, rehabilitation, or conversion of such property under subsec. (a)(2) so long as the transfer of such property does not result in the creation of an enclave owned by a State or Territory, Puerto Rico, or the District of Columbia within a Federal installation.
 
 1979—Subsec. (a)(5). Pub. L. 96–125 added par. (5).
 
-1958—Subsec. (a). Pub. L. 85–861, § 1(37), substituted “two or more reserve components” for “two or more of the reserve components” in cl. (2), added cl. (3), and redesignated former cl. (3) as (4).
+1958—Subsec. (a). Pub. L. 85–861, § 1(37), substituted “two or more reserve components” for “two or more of the reserve components” in cl. (2), added cl. (3), and redesignated former cl. (3) as (4).
 
-Pub. L. 85–685, § 601(1), inserted reference to section 2233a of this title in opening provisions, and struck out provisions which required the Secretary of Defense to consult with the Committees on Armed Services of the Senate and House of Representatives.
+Pub. L. 85–685, § 601(1), inserted reference to section 2233a of this title in opening provisions, and struck out provisions which required the Secretary of Defense to consult with the Committees on Armed Services of the Senate and House of Representatives.
 
-Subsec. (b). Pub. L. 85–861, § 1(38), inserted “by the United States” after “property acquired”.
+Subsec. (b). Pub. L. 85–861, § 1(38), inserted “by the United States” after “property acquired”.
 
-Subsec. (d). Pub. L. 85–861, § 1(39), added subsec. (d).
+Subsec. (d). Pub. L. 85–861, § 1(39), added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 85–685, § 601(2), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 85–685, § 601(2), added subsecs. (e) and (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,7 +243,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VII, § 703(b), Aug. 28, 1984, 98 Stat. 1517, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1984.”
+Pub. L. 98–407, title VII, § 703(b), Aug. 28, 1984, 98 Stat. 1517, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1984.”
 
 **Effective Date of 1982 Amendment**
 
@@ -253,7 +253,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not more than $580,000,000 could be obligated for the purposes of this section before July 1, 1958, but with such limitation not applicable to the expenses for the leasing of property under subsec. (a)(1) of this section.
 
-## § 18233a. Notice and wait requirements for certain projects
+## § 18233a. Notice and wait requirements for certain projects
 
 **(a) Congressional Notification.—** Except as provided in subsection (b), an expenditure or contribution in excess of the amount specified in section 2805(b)(1) of this title may not be made under section 18233 of this title for any facility until—
 
@@ -277,41 +277,41 @@ Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not 
 
 **(3)** A repair project (as that term is defined in subsection (e) of section 2811 of this title) that costs less than the amount specified in subsection (d) of such section.
 
-(Added Pub. L. 85–685, title VI, § 601(3), Aug. 20, 1958, 72 Stat. 665, § 2233a; amended Pub. L. 87–554, title VII, § 701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, § 703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, § 703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, § 704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, § 3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, § 702, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, § 702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, § 7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, § 2804, Dec. 5, 1991, 105 Stat. 1537; renumbered § 18233a and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 104–201, div. B, title XXVIII, § 2801(b), (c), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2806, Oct. 5, 1999, 113 Stat. 774, 850; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–375, div. B, title XXVIII, § 2808(a), Oct. 28, 2004, 118 Stat. 2124; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(3), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 114–92, div. B, title XXVIII, § 2801, Nov. 25, 2015, 129 Stat. 1168.)
+(Added Pub. L. 85–685, title VI, § 601(3), Aug. 20, 1958, 72 Stat. 665, § 2233a; amended Pub. L. 87–554, title VII, § 701, July 27, 1962, 76 Stat. 243; Pub. L. 93–552, title VII, § 703, Dec. 27, 1974, 88 Stat. 1770; Pub. L. 94–107, title VII, § 703, Oct. 7, 1975, 89 Stat. 569; Pub. L. 96–125, title VII, § 704, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–214, § 3(c)(1), July 12, 1982, 96 Stat. 169; Pub. L. 98–115, title VII, § 702, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VII, § 702, Aug. 28, 1984, 98 Stat. 1517; Pub. L. 100–26, § 7(f)(1), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, § 2304(a), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 102–190, div. B, title XXVIII, § 2804, Dec. 5, 1991, 105 Stat. 1537; renumbered § 18233a and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (5), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 104–201, div. B, title XXVIII, § 2801(b), (c), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2806, Oct. 5, 1999, 113 Stat. 774, 850; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–375, div. B, title XXVIII, § 2808(a), Oct. 28, 2004, 118 Stat. 2124; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(3), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 114–92, div. B, title XXVIII, § 2801, Nov. 25, 2015, 129 Stat. 1168.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–92, § 2801(1), substituted “in excess of the amount specified in section 2805(b)(1) of this title” for “in an amount in excess of $750,000” in introductory provisions.
+2015—Subsec. (a). Pub. L. 114–92, § 2801(1), substituted “in excess of the amount specified in section 2805(b)(1) of this title” for “in an amount in excess of $750,000” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 114–92, § 2801(2), substituted “subsection (e) of section 2811 of this title) that costs less than the amount specified in subsection (d) of such section” for “section 2811(e) of this title) that costs less than $7,500,000”.
+Subsec. (b)(3). Pub. L. 114–92, § 2801(2), substituted “subsection (e) of section 2811 of this title) that costs less than the amount specified in subsection (d) of such section” for “section 2811(e) of this title) that costs less than $7,500,000”.
 
 2011—Subsec. (b)(2)(B)(ii). Pub. L. 112–81 substituted “section 2805(a)” for “section 2805(a)(2)”.
 
 2004—Pub. L. 108–375 amended section generally, substituting provisions relating to notice and wait requirements for certain projects for provisions relating to limitation on certain projects and authority to carry out small projects with operation and maintenance funds.
 
-2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)(A)], substituted “section 2805(c)(1)(A)” for “section 2805(c)(1)”.
+2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)(A)], substituted “section 2805(c)(1)(A)” for “section 2805(c)(1)”.
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)(B)], substituted “section 2805(c)(1)(B)” for “section 2805(c)(2)”.
+Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(22)(B)], substituted “section 2805(c)(1)(B)” for “section 2805(c)(2)”.
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Subsec. (a)(2)(C). Pub. L. 106–65, § 2806(a), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 106–65, § 2806(a), added subpar. (C).
 
-Subsec. (b). Pub. L. 106–65, § 2806(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under such regulations as the Secretary of Defense may prescribe, a project authorized under section 18233(a) of this title that costs $500,000 or less may be carried out with funds available for operations and maintenance.”
+Subsec. (b). Pub. L. 106–65, § 2806(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under such regulations as the Secretary of Defense may prescribe, a project authorized under section 18233(a) of this title that costs $500,000 or less may be carried out with funds available for operations and maintenance.”
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 2801(c), substituted “$1,500,000” for “$400,000”.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 2801(c), substituted “$1,500,000” for “$400,000”.
 
 Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-Subsec. (b). Pub. L. 104–201, § 2801(b), substituted “$500,000” for “$300,000”.
+Subsec. (b). Pub. L. 104–201, § 2801(b), substituted “$500,000” for “$300,000”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2233a of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2233a of this title as this section.
 
-Subsec. (a)(1). Pub. L. 103–337, § 1664(b)(5)(A), substituted “18233” for “2233”.
+Subsec. (a)(1). Pub. L. 103–337, § 1664(b)(5)(A), substituted “18233” for “2233”.
 
-Subsec. (b). Pub. L. 103–337, § 1664(b)(5)(B), substituted “18233(a)” for “2233(a)”.
+Subsec. (b). Pub. L. 103–337, § 1664(b)(5)(B), substituted “18233(a)” for “2233(a)”.
 
 1991—Subsec. (b). Pub. L. 102–190 substituted “$300,000” for “$200,000”.
 
@@ -341,25 +341,25 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. B, subdiv. 3, title I, § 2304(b), Dec. 4, 1987, 101 Stat. 1215, provided that: “The amendment made by subsection (a) [amending this section] shall apply to projects authorized under section 2233(a) [now 18233(a)] of title 10, United States Code, for which contracts are entered into on or after the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. B, subdiv. 3, title I, § 2304(b), Dec. 4, 1987, 101 Stat. 1215, provided that: “The amendment made by subsection (a) [amending this section] shall apply to projects authorized under section 2233(a) [now 18233(a)] of title 10, United States Code, for which contracts are entered into on or after the date of the enactment of this Act [Dec. 4, 1987].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VII, § 702, Aug. 28, 1984, 98 Stat. 1517, provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–407, title VII, § 702, Aug. 28, 1984, 98 Stat. 1517, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–115, title VII, § 702, Oct. 11, 1983, 97 Stat. 782, provided that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–115, title VII, § 702, Oct. 11, 1983, 97 Stat. 782, provided that the amendment made by that section is effective Oct. 1, 1983.
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 18233b. Authority to carry out small projects with operation and maintenance funds
+## § 18233b. Authority to carry out small projects with operation and maintenance funds
 
 Under such regulations as the Secretary of Defense may prescribe, the Secretary may expend, from appropriations available for operation and maintenance, amounts necessary to carry out any project authorized under section 18233(a) of this title that costs not more than the amount specified in section 2805(c) of this title.
 
-(Added Pub. L. 108–375, div. B, title XXVIII, § 2808(b), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(4), Dec. 31, 2011, 125 Stat. 1685.)
+(Added Pub. L. 108–375, div. B, title XXVIII, § 2808(b), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(4), Dec. 31, 2011, 125 Stat. 1685.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ Under such regulations as the Secretary of Defense may prescribe, the Secretary 
 
 “(2) the amount specified in section 2805(c)(1)(B) of this title, in the case of any other project.”
 
-## § 18234. Location and use
+## § 18234. Location and use
 
 No expenditures or contribution may be made for a facility under section 18233 of this title, unless the Secretary of Defense determines that—
 
@@ -379,15 +379,15 @@ No expenditures or contribution may be made for a facility under section 18233 o
 
 **(2)** the plan under which the facility is to be provided makes provision for the greatest practicable use of the facility jointly by units of two or more of those components.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2234; renumbered § 18234 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (6), Oct. 5, 1994, 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, § 2234; renumbered § 18234 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (6), Oct. 5, 1994, 108 Stat. 3010.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2234 | 50:883(a). | Sept. 11, 1950, ch. 945, § 4(a), 64 Stat. 830. |
+| 2234 | 50:883(a). | Sept. 11, 1950, ch. 945, § 4(a), 64 Stat. 830. |
 
-The word “community” is omitted as covered by the word “area”. The word “program” is omitted as covered by the word “plan”. The words “use \* \* \* jointly by units of two or more of those components” are substituted for the words “joint utilization” to reflect 50:886(d). The words “is not and will not be larger than” are substituted for the words “does not exceed”. The word “considering” is substituted for the words “taking into account”.
+The word “community” is omitted as covered by the word “area”. The word “program” is omitted as covered by the word “plan”. The words “use \* \* \* jointly by units of two or more of those components” are substituted for the words “joint utilization” to reflect 50:886(d). The words “is not and will not be larger than” are substituted for the words “does not exceed”. The word “considering” is substituted for the words “taking into account”.
 
 **Editorial Notes**
 
@@ -401,7 +401,7 @@ The word “community” is omitted as covered by the word “area”. The word 
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 18235. Administration; other use permitted by Secretary
+## § 18235. Administration; other use permitted by Secretary
 
 **(a)** The Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on matters of policy, may—
 
@@ -417,13 +417,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(2)** in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, § 2235; renumbered § 18235 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, § 2235; renumbered § 18235 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2235(a) | 50:883(c) (less 1st sentence, and less last 70 words of last sentence). | Sept. 11, 1950, ch. 945, § 4(c) (less 1st sentence), 64 Stat. 830. |
+| 2235(a) | 50:883(c) (less 1st sentence, and less last 70 words of last sentence). | Sept. 11, 1950, ch. 945, § 4(c) (less 1st sentence), 64 Stat. 830. |
 | 2235(b) | 50:883(c) (last 70 words of last sentence). |  |
 
 In subsection (a), the words “from time to time” and “or appropriations” are omitted as surplusage.
@@ -438,9 +438,9 @@ In subsection (b), the words “United States” are substituted for the words �
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2235 of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2235 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 103–337, § 1664(b)(7), substituted “18233” for “2233(a)(1)”.
+Subsec. (a)(1). Pub. L. 103–337, § 1664(b)(7), substituted “18233” for “2233(a)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -448,7 +448,7 @@ Subsec. (a)(1). Pub. L. 103–337, § 1664(b)(7), substituted “18233” for 
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 18236. Contributions to States; other use permitted by States
+## § 18236. Contributions to States; other use permitted by States
 
 **(a)** Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
@@ -472,7 +472,7 @@ For the purpose of computing the cost of construction under this subsection, the
 
 **(2)** in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, § 2236; Pub. L. 85–861, § 1(40), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, § 3(d)(2), (3), (e)(2), July 12, 1982, 96 Stat. 170; Pub. L. 99–167, title VII, § 702(b), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. A, title XIII, § 1343(a)(11), Nov. 14, 1986, 100 Stat. 3993; renumbered § 18236 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (8), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §§ 1501(b)(36), 1502(a)(2), Feb. 10, 1996, 110 Stat. 498, 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, § 2236; Pub. L. 85–861, § 1(40), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, § 3(d)(2), (3), (e)(2), July 12, 1982, 96 Stat. 170; Pub. L. 99–167, title VII, § 702(b), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. A, title XIII, § 1343(a)(11), Nov. 14, 1986, 100 Stat. 3993; renumbered § 18236 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (8), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §§ 1501(b)(36), 1502(a)(2), Feb. 10, 1996, 110 Stat. 498, 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2807(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–415.)
 
 **Historical and Revision Notes**
 
@@ -480,7 +480,7 @@ For the purpose of computing the cost of construction under this subsection, the
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2236(a) 2236(b) | 50:883(d) (1st sentence). 50:883(d) (less 1st sentence). | Sept. 11, 1950, ch. 945, § 4(d), (e), 64 Stat. 830. |
+| 2236(a) 2236(b) | 50:883(d) (1st sentence). 50:883(d) (less 1st sentence). | Sept. 11, 1950, ch. 945, § 4(d), (e), 64 Stat. 830. |
 | 2236(c) | 50:883(e) (less last 87 words). |  |
 | 2236(d) | 50:883(e) (last 87 words). |  |
 
@@ -500,7 +500,7 @@ In subsection (d), the words “except as the agreement is later changed” are 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2236(a) 2236(b) | 50:883(d) (1st sentence). 50:883(d) (less 1st sentence). | Aug. 9, 1955, ch. 662, § 1(e), 69 Stat. 593. |
+| 2236(a) 2236(b) | 50:883(d) (1st sentence). 50:883(d) (less 1st sentence). | Aug. 9, 1955, ch. 662, § 1(e), 69 Stat. 593. |
 
 In subsection (a), the words “may be used jointly” are substituted for the words “shall be subject to joint utilization”. The words “and conditions” are omitted as surplusage.
 
@@ -512,29 +512,29 @@ In subsection (a), the words “may be used jointly” are substituted for the w
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1502(a)(2), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+1996—Subsec. (a). Pub. L. 104–106, § 1502(a)(2), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-Subsec. (b)(1). Pub. L. 104–106, § 1501(b)(36), substituted “18233(e)” for “2233(e)”.
+Subsec. (b)(1). Pub. L. 104–106, § 1501(b)(36), substituted “18233(e)” for “2233(e)”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2236 of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2236 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1664(b)(8)(A), substituted “18233” for “2233” and “paragraph (3) or (4) of section 18233(a)” for “section 2233(a)(3) or (4)”.
+Subsec. (a). Pub. L. 103–337, § 1664(b)(8)(A), substituted “18233” for “2233” and “paragraph (3) or (4) of section 18233(a)” for “section 2233(a)(3) or (4)”.
 
-Subsec. (b). Pub. L. 103–337, § 1664(b)(8)(B)(i), substituted “paragraph (4) or (5) of section 18233(a)” for “clause (4) or (5) of section 2233(a)” in introductory provisions.
+Subsec. (b). Pub. L. 103–337, § 1664(b)(8)(B)(i), substituted “paragraph (4) or (5) of section 18233(a)” for “clause (4) or (5) of section 2233(a)” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 103–337, § 1664(b)(8)(B)(ii), which directed amendment of par. (2) by substituting “section 18233(e)” for “section 2233(e)”, could not be executed because the words “section 2233(e)” did not appear in par. (2).
+Subsec. (b)(2). Pub. L. 103–337, § 1664(b)(8)(B)(ii), which directed amendment of par. (2) by substituting “section 18233(e)” for “section 2233(e)”, could not be executed because the words “section 2233(e)” did not appear in par. (2).
 
-Subsec. (c). Pub. L. 103–337, § 1664(b)(8)(C), substituted “18233” for “2233” in introductory provisions.
+Subsec. (c). Pub. L. 103–337, § 1664(b)(8)(C), substituted “18233” for “2233” in introductory provisions.
 
-1986—Subsec. (b). Pub. L. 99–661 struck out “, territory, the Commonwealth of Puerto Rico, or the District of Columbia, as the case may be,” after “contributed by a State” in last sentence.
+1986—Subsec. (b). Pub. L. 99–661 struck out “, territory, the Commonwealth of Puerto Rico, or the District of Columbia, as the case may be,” after “contributed by a State” in last sentence.
 
 1985—Subsec. (b). Pub. L. 99–167 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A contribution made for an armory under section 2233(a)(4) or (5) of this title may not be more than 75 percent of the cost of the construction to which it is applied. For the purpose of computing the cost of construction under this subsection, the amount contributed by the State may not include the cost or market value of any real property that it has contributed.”
 
-1982—Subsec. (a). Pub. L. 97–214, § 3(d)(3), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
+1982—Subsec. (a). Pub. L. 97–214, § 3(d)(3), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
 
-Subsec. (b). Pub. L. 97–214, § 3(d)(3), (e)(2), inserted “or (5)”, and struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
+Subsec. (b). Pub. L. 97–214, § 3(d)(3), (e)(2), inserted “or (5)”, and struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
 
-Subsecs. (c), (d). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “a State”.
+Subsecs. (c), (d). Pub. L. 97–214, § 3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “a State”.
 
 1958—Subsec. (a). Pub. L. 85–861 permitted joint use of facilities provided by contributions under section 2233(a)(4) of this title.
 
@@ -554,13 +554,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 18237. Supervision of construction: compliance with State law
+## § 18237. Supervision of construction: compliance with State law
 
 **(a)** Any construction, expansion, rehabilitation, or conversion under section 18233(a)(1) of this title may be performed under the supervision of the Chief of Engineers of the Army or the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate.
 
 **(b)** The construction, expansion, rehabilitation, or conversion of facilities in a State under paragraph (2), (3), (4), (5), or (6) of section 18233(a) of this title shall be done according to the laws of that jurisdiction and under the supervision of its officials, subject to the inspection and approval of the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 123, § 2237; Pub. L. 85–861, § 1(41), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 89–718, § 19, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 97–214, § 3(d)(2), July 12, 1982, 96 Stat. 170; renumbered § 18237 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (9), div. B, title XXVIII, § 2852, Oct. 5, 1994, 108 Stat. 3010, 3011, 3072; Pub. L. 104–106, div. A, title XV, § 1501(b)(37), Feb. 10, 1996, 110 Stat. 498.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, § 2237; Pub. L. 85–861, § 1(41), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 89–718, § 19, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 97–214, § 3(d)(2), July 12, 1982, 96 Stat. 170; renumbered § 18237 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (9), div. B, title XXVIII, § 2852, Oct. 5, 1994, 108 Stat. 3010, 3011, 3072; Pub. L. 104–106, div. A, title XV, § 1501(b)(37), Feb. 10, 1996, 110 Stat. 498.)
 
 **Historical and Revision Notes**
 
@@ -568,7 +568,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2237 | 50:885. | Sept. 11, 1950, ch. 945, § 6, 64 Stat. 831. |
+| 2237 | 50:885. | Sept. 11, 1950, ch. 945, § 6, 64 Stat. 831. |
 
 The words “of facilities” are omitted as surplusage. The words “Chief of Engineers” are substituted for the words “Chief, Corps of Engineers” to conform to section 3036(a)(1) of this title. The words “of the Army” and “of the Navy” are inserted for clarity.
 
@@ -576,7 +576,7 @@ The words “of facilities” are omitted as surplusage. The words “Chief of E
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2237(a) 2237(b) | 50:885(a). 50:885 (less (a)). | Aug. 9, 1955, ch. 662, § 1(f), 69 Stat. 594. |
+| 2237(a) 2237(b) | 50:885(a). 50:885 (less (a)). | Aug. 9, 1955, ch. 662, § 1(f), 69 Stat. 594. |
 
 In subsection (b), the words “Territory, Puerto Rico, or the District of Columbia” are inserted to reflect 50:886(c).
 
@@ -584,25 +584,25 @@ In subsection (b), the words “Territory, Puerto Rico, or the District of Colum
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–106, § 1501(37)(A), substituted “18233(a)(1)” for “2233(a)(1)”.
+1996—Subsec. (a). Pub. L. 104–106, § 1501(37)(A), substituted “18233(a)(1)” for “2233(a)(1)”.
 
-Subsec. (b). Pub. L. 104–106, § 1501(37)(B), substituted “18233(a)” for “2233(a)”.
+Subsec. (b). Pub. L. 104–106, § 1501(37)(B), substituted “18233(a)” for “2233(a)”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2237 of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2237 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1664(b)(9)(A), which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, § 2852(a). See below.
+Subsec. (a). Pub. L. 103–337, § 1664(b)(9)(A), which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, § 2852(a). See below.
 
-Pub. L. 103–337, § 2852(a), substituted “under section 2233(a)(1)” for “under any provision of this chapter except section 2233(a)(2), (3), and (4)”.
+Pub. L. 103–337, § 2852(a), substituted “under section 2233(a)(1)” for “under any provision of this chapter except section 2233(a)(2), (3), and (4)”.
 
-Subsec. (b). Pub. L. 103–337, § 1664(b)(9)(B), which directed amendment of subsec. (b) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) or (4)”, could not be executed because the words “section 2233(a)(2), (3) or (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, § 2852(b). See below.
+Subsec. (b). Pub. L. 103–337, § 1664(b)(9)(B), which directed amendment of subsec. (b) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) or (4)”, could not be executed because the words “section 2233(a)(2), (3) or (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, § 2852(b). See below.
 
-Pub. L. 103–337, § 2852(b), substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
+Pub. L. 103–337, § 2852(b), substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
 
 1982—Subsec. (b). Pub. L. 97–214 struck out “or Territory, Puerto Rico, or the District of Columbia” after “facilities in a State”.
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate” for “the Chief of the Bureau of Yards and Docks of the Navy”.
 
-1958—Pub. L. 85–861 inserted “: compliance with State law” in section catchline.
+1958—Pub. L. 85–861 inserted “: compliance with State law” in section catchline.
 
 Subsec. (a). Pub. L. 85–861 designated existing provisions as subsec. (a) and substituted “under any provision of this chapter except section 2233(a)(2), (3), and (4) of this title” for “under this chapter”.
 
@@ -622,11 +622,11 @@ Amendment by section 1664(b)(2), (9) of Pub. L. 103–337 effective Dec. 1, 1994
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 18238. Army National Guard of United States; Air National Guard of United States: limitation on relocation of units
+## § 18238. Army National Guard of United States; Air National Guard of United States: limitation on relocation of units
 
 A unit of the Army National Guard of the United States or the Air National Guard of the United States may not be relocated or withdrawn under this chapter without the consent of the governor of the State or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 123, § 2238; Pub. L. 85–861, § 1(43), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 97–214, § 3(d)(4), July 12, 1982, 96 Stat. 170; renumbered § 18238, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, § 2238; Pub. L. 85–861, § 1(43), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 97–214, § 3(d)(4), July 12, 1982, 96 Stat. 170; renumbered § 18238, Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
 
 **Historical and Revision Notes**
 
@@ -634,15 +634,15 @@ A unit of the Army National Guard of the United States or the Air National Guard
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2238 | 50:883(b). | Sept. 11, 1950, ch. 945, § 4(b), 64 Stat. 830. |
+| 2238 | 50:883(b). | Sept. 11, 1950, ch. 945, § 4(b), 64 Stat. 830. |
 
-The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
+The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
 
 **1958 Act**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2238 | 50:883(b). | Aug. 9, 1955, ch. 662, § 1(c), 69 Stat. 593. |
+| 2238 | 50:883(b). | Aug. 9, 1955, ch. 662, § 1(c), 69 Stat. 593. |
 
 The words “shall have been consulted” and “such withdrawal or change of location” are omitted as surplusage.
 
@@ -662,7 +662,7 @@ The words “shall have been consulted” and “such withdrawal or change of lo
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 18239. Waiver of certain restrictions
+## § 18239. Waiver of certain restrictions
 
 **(a)** The Secretary of Defense and the Secretary of each military department may make expenditures and contributions under section 18233 of this title without regard to section 3324(a) and (b) of title 31.
 
@@ -672,7 +672,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **(2)** even though the land will be held in other than a fee simple interest in a case in which the Secretary of the military department concerned determines that the interest to be acquired in the land is sufficient for the purposes of the project.
 
-(Added Pub. L. 97–214, § 3(b)(1), July 12, 1982, 96 Stat. 169, § 2239; amended Pub. L. 97–295, § 1(23), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–321, title VIII, § 805(a)(2), Oct. 15, 1982, 96 Stat. 1573; renumbered § 18239 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (10), Oct. 5, 1994, 108 Stat. 3010, 3011; Pub. L. 107–217, § 3(b)(42), Aug. 21, 2002, 116 Stat. 1298.)
+(Added Pub. L. 97–214, § 3(b)(1), July 12, 1982, 96 Stat. 169, § 2239; amended Pub. L. 97–295, § 1(23), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–321, title VIII, § 805(a)(2), Oct. 15, 1982, 96 Stat. 1573; renumbered § 18239 and amended Pub. L. 103–337, div. A, title XVI, § 1664(b)(2), (10), Oct. 5, 1994, 108 Stat. 3010, 3011; Pub. L. 107–217, § 3(b)(42), Aug. 21, 2002, 116 Stat. 1298.)
 
 **Editorial Notes**
 
@@ -680,9 +680,9 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 2002—Subsec. (b)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 
-1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2239 of this title as this section.
+1994—Pub. L. 103–337, § 1664(b)(2), renumbered section 2239 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 103–337, § 1664(b)(10), substituted “18233” for “2233”.
+Subsecs. (a), (b). Pub. L. 103–337, § 1664(b)(10), substituted “18233” for “2233”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
 
@@ -698,7 +698,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-## § 18240. Acquisition of facilities by exchange
+## § 18240. Acquisition of facilities by exchange
 
 **(a) Exchange Authority.—** In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirements for a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
 
@@ -740,7 +740,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 **(g) Relation to Other Military Construction Requirements.—** The acquisition of a facility, or an addition to an existing facility, using the authority provided by this section shall not be treated as a military construction project for which an authorization is required by section 2802 of this title.
 
-(Added Pub. L. 108–375, div. B, title XXVIII, § 2809(a)(1), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 109–163, div. B, title XXVIII, § 2808(a), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, § 2807, Jan. 28, 2008, 122 Stat. 541; Pub. L. 115–91, div. B, title XXVIII, § 2801(g), Dec. 12, 2017, 131 Stat. 1845.)
+(Added Pub. L. 108–375, div. B, title XXVIII, § 2809(a)(1), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 109–163, div. B, title XXVIII, § 2808(a), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, § 2807, Jan. 28, 2008, 122 Stat. 541; Pub. L. 115–91, div. B, title XXVIII, § 2801(g), Dec. 12, 2017, 131 Stat. 1845.)
 
 **Editorial Notes**
 
@@ -750,15 +750,15 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State” for “with a State”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 2808(a)(1), inserted at end “The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.”
+2006—Subsec. (a). Pub. L. 109–163, § 2808(a)(1), inserted at end “The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.”
 
-Subsec. (c). Pub. L. 109–163, § 2808(a)(2), inserted “including any utilities, equipment, and furnishings, to be” after “existing facility,”.
+Subsec. (c). Pub. L. 109–163, § 2808(a)(2), inserted “including any utilities, equipment, and furnishings, to be” after “existing facility,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Temporary Authority To Include Cash Equalization Payments in Exchange**
 
-Pub. L. 108–375, div. B, title XXVIII, § 2809(c), Oct. 28, 2004, 118 Stat. 2127, as amended by Pub. L. 109–163, div. B, title XXVIII, § 2808(b), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, § 2805, Jan. 28, 2008, 122 Stat. 540, provided that:
+Pub. L. 108–375, div. B, title XXVIII, § 2809(c), Oct. 28, 2004, 118 Stat. 2127, as amended by Pub. L. 109–163, div. B, title XXVIII, § 2808(b), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, § 2805, Jan. 28, 2008, 122 Stat. 540, provided that:
 
 > **“(1)** Notwithstanding subsection (c) of section 18240 of title 10, United States Code, as added by subsection (a), the Secretary of Defense may authorize the Secretary of a military department, as part of an exchange agreement under such section, to make or accept a cash equalization payment if the value of the facility, or addition to an existing facility, including any utilities, equipment, and furnishings, to be acquired by the United States under the agreement is not equal to the fair market value of the facility to be conveyed by the United States under the agreement. All other requirements of such section shall continue to apply to the exchange.
 

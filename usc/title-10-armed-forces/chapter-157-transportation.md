@@ -19,73 +19,73 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title III, §§ 336(a), 372, 373(a), Dec. 18, 2025, 139 Stat. 818, 836, 837, added items 2636b, 2653, and 2654. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title III, §§ 336(a), 372, 373(a), Dec. 18, 2025, 139 Stat. 818, 836, 837, added items 2636b, 2653, and 2654. Amendments were made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title X, § 1083(d)(2), Dec. 27, 2021, 135 Stat. 1923, substituted “Charter air transportation of members of the armed forces or cargo” for “Charter air transportation of members of the armed forces” in item 2640.
+2021—Pub. L. 117–81, div. A, title X, § 1083(d)(2), Dec. 27, 2021, 135 Stat. 1923, substituted “Charter air transportation of members of the armed forces or cargo” for “Charter air transportation of members of the armed forces” in item 2640.
 
-Pub. L. 116–283, div. A, title X, § 1024(a)(2), Jan. 1, 2021, 134 Stat. 3842, substituted “Preference for United States vessels in transporting supplies by sea” for “Supplies: preference to United States vessels” in item 2631.
+Pub. L. 116–283, div. A, title X, § 1024(a)(2), Jan. 1, 2021, 134 Stat. 3842, substituted “Preference for United States vessels in transporting supplies by sea” for “Supplies: preference to United States vessels” in item 2631.
 
-2017—Pub. L. 115–91, div. A, title X, § 1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
+2017—Pub. L. 115–91, div. A, title X, § 1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
 
-2014—Pub. L. 113–291, div. A, title X, § 1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of “rate” for “rates” in item 2642, could not be executed because the word “rates” did not appear after the amendment by Pub. L. 113–291, § 1044(c)(2). See below.
+2014—Pub. L. 113–291, div. A, title X, § 1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of “rate” for “rates” in item 2642, could not be executed because the word “rates” did not appear after the amendment by Pub. L. 113–291, § 1044(c)(2). See below.
 
-Pub. L. 113–291, div. A, title X, § 1044(c)(2), Dec. 19, 2014, 128 Stat. 3494, amended item 2642 generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates”.
+Pub. L. 113–291, div. A, title X, § 1044(c)(2), Dec. 19, 2014, 128 Stat. 3494, amended item 2642 generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates”.
 
-2013—Pub. L. 113–66, div. A, title VI, § 621(g)(2), title X, § 1073(c), Dec. 26, 2013, 127 Stat. 784, 870, struck out item 2634 “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment”, added item 2642, and struck out former item 2642 “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate”.
+2013—Pub. L. 113–66, div. A, title VI, § 621(g)(2), title X, § 1073(c), Dec. 26, 2013, 127 Stat. 784, 870, struck out item 2634 “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment”, added item 2642, and struck out former item 2642 “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate”.
 
-Pub. L. 112–239, div. A, title VI, § 622(b), Jan. 2, 2013, 126 Stat. 1781, substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
+Pub. L. 112–239, div. A, title VI, § 622(b), Jan. 2, 2013, 126 Stat. 1781, substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
 
-2011—Pub. L. 111–383, div. A, title III, § 352(f), Jan. 7, 2011, 124 Stat. 4194, added items 2648 and 2649 and struck out former items 2648 “Persons and supplies: sea transportation” and 2649 “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels”.
+2011—Pub. L. 111–383, div. A, title III, § 352(f), Jan. 7, 2011, 124 Stat. 4194, added items 2648 and 2649 and struck out former items 2648 “Persons and supplies: sea transportation” and 2649 “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels”.
 
-2008—Pub. L. 110–181, div. A, title III, § 374(b), Jan. 28, 2008, 122 Stat. 83, added item 2641b.
+2008—Pub. L. 110–181, div. A, title III, § 374(b), Jan. 28, 2008, 122 Stat. 83, added item 2641b.
 
-2004—Pub. L. 108–375, div. A, title X, § 1072(d)(1), Oct. 28, 2004, 118 Stat. 2058, added items 2648 to 2651.
+2004—Pub. L. 108–375, div. A, title X, § 1072(d)(1), Oct. 28, 2004, 118 Stat. 2058, added items 2648 to 2651.
 
-2003—Pub. L. 108–136, div. A, title VI, § 634(b), title X, § 1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
+2003—Pub. L. 108–136, div. A, title VI, § 634(b), title X, § 1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
 
-2001—Pub. L. 107–107, div. A, title V, § 574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
+2001—Pub. L. 107–107, div. A, title V, § 574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1009(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1009(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
 
-1998—Pub. L. 105–262, title VIII, § 8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
+1998—Pub. L. 105–262, title VIII, § 8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
 
-Pub. L. 105–261, div. A, title VIII, § 813(b), Oct. 17, 1998, 112 Stat. 2087, added item 2646.
+Pub. L. 105–261, div. A, title VIII, § 813(b), Oct. 17, 1998, 112 Stat. 2087, added item 2646.
 
-1996—Pub. L. 104–201, div. A, title III, § 368(a)(2)(B), title IX, § 906(d)(1), title X, § 1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
+1996—Pub. L. 104–201, div. A, title III, § 368(a)(2)(B), title IX, § 906(d)(1), title X, § 1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
 
-Pub. L. 104–106, div. A, title III, § 334(b), Feb. 10, 1996, 110 Stat. 262, added item 2643.
+Pub. L. 104–106, div. A, title III, § 334(b), Feb. 10, 1996, 110 Stat. 262, added item 2643.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1173(b), Nov. 30, 1993, 107 Stat. 1767, added item 2631a.
+1993—Pub. L. 103–160, div. A, title XI, § 1173(b), Nov. 30, 1993, 107 Stat. 1767, added item 2631a.
 
-1991—Pub. L. 102–88, title V, § 501(b), Aug. 14, 1991, 105 Stat. 435, added item 2642.
+1991—Pub. L. 102–88, title V, § 501(b), Aug. 14, 1991, 105 Stat. 435, added item 2642.
 
-1990—Pub. L. 101–510, div. A, title III, § 326(a)(2), Nov. 5, 1990, 104 Stat. 1531, added item 2637.
+1990—Pub. L. 101–510, div. A, title III, § 326(a)(2), Nov. 5, 1990, 104 Stat. 1531, added item 2637.
 
-1987—Pub. L. 100–180, div. A, title XII, § 1250(a)(2), Dec. 4, 1987, 101 Stat. 1168, added item 2641.
+1987—Pub. L. 100–180, div. A, title XII, § 1250(a)(2), Dec. 4, 1987, 101 Stat. 1168, added item 2641.
 
-1986—Pub. L. 99–661, div. A, title XII, § 1204(a)(2), Nov. 14, 1986, 100 Stat. 3971, added item 2640.
+1986—Pub. L. 99–661, div. A, title XII, § 1204(a)(2), Nov. 14, 1986, 100 Stat. 3971, added item 2640.
 
-Pub. L. 99–550, § 2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637 “Transportation between residence and place of work for senior defense officials”.
+Pub. L. 99–550, § 2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637 “Transportation between residence and place of work for senior defense officials”.
 
-1984—Pub. L. 98–525, title VI, § 614(b), title XIV, § 1401(j)(2), Oct. 19, 1984, 98 Stat. 2540, 2620, added items 2637 to 2639.
+1984—Pub. L. 98–525, title VI, § 614(b), title XIV, § 1401(j)(2), Oct. 19, 1984, 98 Stat. 2540, 2620, added items 2637 to 2639.
 
-1982—Pub. L. 97–258, § 2(b)(5)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2636.
+1982—Pub. L. 97–258, § 2(b)(5)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2636.
 
-1979—Pub. L. 96–125, title VIII, § 807(c)(2), Nov. 26, 1979, 93 Stat. 950, inserted “and on military installations” after “places of employment” in item 2632.
+1979—Pub. L. 96–125, title VIII, § 807(c)(2), Nov. 26, 1979, 93 Stat. 950, inserted “and on military installations” after “places of employment” in item 2632.
 
-1973—Pub. L. 93–155, title VIII, § 814(b), Nov. 16, 1973, 87 Stat. 621, added item 2635.
+1973—Pub. L. 93–155, title VIII, § 814(b), Nov. 16, 1973, 87 Stat. 621, added item 2635.
 
-1965—Pub. L. 89–101, § 1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
+1965—Pub. L. 89–101, § 1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
 
-1962—Pub. L. 87–651, title I, § 111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
+1962—Pub. L. 87–651, title I, § 111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
 
-1957—Pub. L. 85–44, § 2, June 1, 1957, 71 Stat. 45, added item 2633.
+1957—Pub. L. 85–44, § 2, June 1, 1957, 71 Stat. 45, added item 2633.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Cybersecurity and Resilience Annex in Strategic Rail Corridor Network Assessments**
 
-Pub. L. 119–60, div. A, title X, § 1067, Dec. 18, 2025, 139 Stat. 1048, provided that:
+Pub. L. 119–60, div. A, title X, § 1067, Dec. 18, 2025, 139 Stat. 1048, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretary of Transportation and the Secretary of Homeland Security, shall ensure that each periodic assessment of the Strategic Rail Corridor Network carried out after the date of the enactment of this Act [Dec. 18, 2025] includes an annex containing an evaluation of the cybersecurity and the resilience of the physical infrastructure of the Strategic Rail Corridor. Each such annex shall include—
 
@@ -101,7 +101,7 @@ Pub. L. 119–60, div. A, title X, § 1067, Dec. 18, 2025, 139 Stat. 1048, pro
 
 **Process for Complaints and Investigations of Transportation Service Providers and Transportation Officers**
 
-Pub. L. 119–60, div. A, title X, § 1090, Dec. 18, 2025, 139 Stat. 1062, provided that:
+Pub. L. 119–60, div. A, title X, § 1090, Dec. 18, 2025, 139 Stat. 1062, provided that:
 
 > **“(a) Complaints and Investigations.—**
 
@@ -143,7 +143,7 @@ Pub. L. 119–60, div. A, title X, § 1090, Dec. 18, 2025, 139 Stat. 1062, pro
 
 **Notification of Changes to Certain Transportation Contracts**
 
-Pub. L. 118–159, div. A, title VIII, § 852, Dec. 23, 2024, 138 Stat. 1995, provided that:
+Pub. L. 118–159, div. A, title VIII, § 852, Dec. 23, 2024, 138 Stat. 1995, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall provide a written notification and briefing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 90 days before the date on which the Secretary will implement any rule, regulation, or policy change which would—
 
@@ -155,7 +155,7 @@ Pub. L. 118–159, div. A, title VIII, § 852, Dec. 23, 2024, 138 Stat. 1995, 
 
 **Air Transportation of Civilian Department of Defense Personnel To and From Afghanistan**
 
-Pub. L. 115–91, div. A, title X, § 1098, Dec. 12, 2017, 131 Stat. 1626, provided that:
+Pub. L. 115–91, div. A, title X, § 1098, Dec. 12, 2017, 131 Stat. 1626, provided that:
 
 > **“(a) Policy Review.—** Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall conduct a policy review regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department of Defense to and from Afghanistan.
 
@@ -163,7 +163,7 @@ Pub. L. 115–91, div. A, title X, § 1098, Dec. 12, 2017, 131 Stat. 1626, pro
 
 > **“(c) Updated Guidelines.—** Not later than 90 days after the completion of the policy review required by subsection (a), the Secretary shall issue updated guidelines, based on the report submitted under subsection (b), regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department to and from Afghanistan.”
 
-## § 2631. Preference for United States vessels in transporting supplies by sea
+## § 2631. Preference for United States vessels in transporting supplies by sea
 
 **(a) In General.—** Supplies bought for the Army, Navy, Air Force, Marine Corps, or Space Force, or for a Defense Agency, or otherwise transported by the Department of Defense, may only be transported by sea in—
 
@@ -223,7 +223,7 @@ Pub. L. 115–91, div. A, title X, § 1098, Dec. 12, 2017, 131 Stat. 1626, pro
 
 **(3)** the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 103–160, div. A, title III, § 315(a), Nov. 30, 1993, 107 Stat. 1619; Pub. L. 116–92, div. A, title X, § 1033, Dec. 20, 2019, 133 Stat. 1580; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(GG), title X, § 1024(a)(1), Jan. 1, 2021, 134 Stat. 3822, 3841.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 103–160, div. A, title III, § 315(a), Nov. 30, 1993, 107 Stat. 1619; Pub. L. 116–92, div. A, title X, § 1033, Dec. 20, 2019, 133 Stat. 1580; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(GG), title X, § 1024(a)(1), Jan. 1, 2021, 134 Stat. 3822, 3841.)
 
 **Historical and Revision Notes**
 
@@ -231,19 +231,19 @@ Pub. L. 115–91, div. A, title X, § 1098, Dec. 12, 2017, 131 Stat. 1626, pro
 |---|---|---|
 | 2631 | 10:1365. 34:528. | Apr. 28, 1904, ch. 1766, 33 Stat. 518. |
 
-The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless \* \* \* in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
+The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless \* \* \* in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1024(a)(1), amended section generally. Prior to amendment, section related to preference to United States vessels for transportation by sea of supplies.
+2021—Pub. L. 116–283, § 1024(a)(1), amended section generally. Prior to amendment, section related to preference to United States vessels for transportation by sea of supplies.
 
-Subsec. (a). Pub. L. 116–283, § 924(b)(3)(GG), which directed amendment of subsec. (a) by substituting “Marine Corps, or Space Force” for “or Marine Corps”, was executed by making the substitution in subsec. (a) as amended by section 1024(a)(1) of Pub. L. 116–283, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 116–283, § 924(b)(3)(GG), which directed amendment of subsec. (a) by substituting “Marine Corps, or Space Force” for “or Marine Corps”, was executed by making the substitution in subsec. (a) as amended by section 1024(a)(1) of Pub. L. 116–283, to reflect the probable intent of Congress.
 
-2019—Subsec. (a). Pub. L. 116–92, § 1033(1), inserted “or for a Defense Agency” after “Marine Corps” in first sentence.
+2019—Subsec. (a). Pub. L. 116–92, § 1033(1), inserted “or for a Defense Agency” after “Marine Corps” in first sentence.
 
-Subsec. (b)(2) to (4). Pub. L. 116–92, § 1033(2), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “a requirement under paragraph (1) or (2)” for “the requirement described in paragraph (1)”.
+Subsec. (b)(2) to (4). Pub. L. 116–92, § 1033(2), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “a requirement under paragraph (1) or (2)” for “the requirement described in paragraph (1)”.
 
 1993—Pub. L. 103–160 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -251,11 +251,11 @@ Subsec. (b)(2) to (4). Pub. L. 116–92, § 1033(2), added par. (2), redesigna
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title III, § 315(b), Nov. 30, 1993, 107 Stat. 1619, provided that: “The amendment made by subsection (a) [amending this section] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title III, § 315(b), Nov. 30, 1993, 107 Stat. 1619, provided that: “The amendment made by subsection (a) [amending this section] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **Obtaining Carriage by Vessel: Criterion Regarding Overhaul, Repair, and Maintenance of Vessels in the United States**
 
-Pub. L. 109–364, div. A, title X, § 1017, Oct. 17, 2006, 120 Stat. 2379, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(9), div. C, title XXXV, § 3526(a), Jan. 28, 2008, 122 Stat. 323, 601, provided that:
+Pub. L. 109–364, div. A, title X, § 1017, Oct. 17, 2006, 120 Stat. 2379, as amended by Pub. L. 110–181, div. A, title X, § 1063(c)(9), div. C, title XXXV, § 3526(a), Jan. 28, 2008, 122 Stat. 323, 601, provided that:
 
 > **“(a) Acquisition Policy.—** In order to maintain the national defense industrial base, the Secretary of Defense shall issue an acquisition policy that establishes, as a criterion required to be considered in obtaining carriage by vessel of cargo for the Department of Defense, the extent to which an offeror of such carriage had overhaul, repair, and maintenance work for covered vessels of the offeror performed in shipyards located in the United States.
 
@@ -291,7 +291,7 @@ Pub. L. 109–364, div. A, title X, § 1017, Oct. 17, 2006, 120 Stat. 2379, as
 
 > **“(B)** Guam.”
 
-[Pub. L. 110–181, div. C, title XXXV, § 3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 883), section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under section 624 of this title.]
+[Pub. L. 110–181, div. C, title XXXV, § 3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 883), section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under section 624 of this title.]
 
 **Executive Documents**
 
@@ -307,15 +307,15 @@ This memorandum shall be published in the Federal Register.
 
 Ronald Reagan.
 
-## § 2631a. Contingency planning: sealift and related intermodal transportation requirements
+## § 2631a. Contingency planning: sealift and related intermodal transportation requirements
 
 **(a) Consideration of Private Capabilities.—** The Secretary of Defense shall ensure that all studies and reports of the Department of Defense, and all actions taken in the Department of Defense, concerning sealift and related intermodal transportation requirements take into consideration the full range of the transportation and distribution capabilities that are available from operators of privately owned United States flag merchant vessels.
 
 **(b) Private Capacities Presentations.—** The Secretary shall afford each operator of a vessel referred to in subsection (a), not less often than annually, an opportunity to present to the Department of Defense information on its port-to-port and intermodal transportation capacities.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1173(a), Nov. 30, 1993, 107 Stat. 1767.)
+(Added Pub. L. 103–160, div. A, title XI, § 1173(a), Nov. 30, 1993, 107 Stat. 1767.)
 
-## § 2632. Transportation to and from certain places of employment and on military installations
+## § 2632. Transportation to and from certain places of employment and on military installations
 
 **(a)**
 
@@ -367,13 +367,13 @@ Ronald Reagan.
 
 **(d)** Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 95–362, Sept. 11, 1978, 92 Stat. 596; Pub. L. 96–125, title VIII, § 807(a)–(c)(1), Nov. 26, 1979, 93 Stat. 949, 950; Pub. L. 100–180, div. A, title III, § 318(a)–(c), Dec. 4, 1987, 101 Stat. 1076, 1077; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vii), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 95–362, Sept. 11, 1978, 92 Stat. 596; Pub. L. 96–125, title VIII, § 807(a)–(c)(1), Nov. 26, 1979, 93 Stat. 949, 950; Pub. L. 100–180, div. A, title III, § 318(a)–(c), Dec. 4, 1987, 101 Stat. 1076, 1077; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(vii), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2632(a) | 5:189c (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). | May 28, 1948, ch. 352, § 1, 62 Stat. 276. |
+| 2632(a) | 5:189c (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). | May 28, 1948, ch. 352, § 1, 62 Stat. 276. |
 |  | 5:415d (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). |  |
 |  | 5:626n (introductory clause, words of clause 2 before semicolon, and 17 words before proviso of clause 3). |  |
 | 2632(b) | 5:189c (clause 4). |  |
@@ -386,9 +386,9 @@ Ronald Reagan.
 |  | 5:415d (clause 2, less words before semicolon). |  |
 |  | 5:626n (clause 2, less words before semicolon). |  |
 
-In subsection (a), the words “it is necessary \* \* \* he may \* \* \* provide assured and adequate transportation” are substituted for the words “requires assured and adequate transportation facilities \* \* \* he is authorized \* \* \* to provide such transportation”. The words “in the absence of adequate private or other facilities” are omitted as covered by subsection (b)(2). The words “subject, however, to the following provisions and conditions” are omitted, since the revised section states those conditions positively in the following subsections. The words “at reasonable rates of fare” are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words “under regulations to be prescribed by him” are substituted for the words “under such regulations as the Secretary of the Army [Navy, Air Force] shall prescribe” in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
+In subsection (a), the words “it is necessary \* \* \* he may \* \* \* provide assured and adequate transportation” are substituted for the words “requires assured and adequate transportation facilities \* \* \* he is authorized \* \* \* to provide such transportation”. The words “in the absence of adequate private or other facilities” are omitted as covered by subsection (b)(2). The words “subject, however, to the following provisions and conditions” are omitted, since the revised section states those conditions positively in the following subsections. The words “at reasonable rates of fare” are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words “under regulations to be prescribed by him” are substituted for the words “under such regulations as the Secretary of the Army [Navy, Air Force] shall prescribe” in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
 
-In subsection (b), the words “Transportation \* \* \* under subsection (a)” are substituted for the words “The authority granted in this section to the Secretary of the Army [Navy, Air Force]”. The words “may not be provided” are substituted for the words “shall be exercised”. The word “transportation” is substituted for the word “service”. The words “in each case”, “as the case may be, that existing private and”, and “by other means” are omitted as surplusage.
+In subsection (b), the words “Transportation \* \* \* under subsection (a)” are substituted for the words “The authority granted in this section to the Secretary of the Army [Navy, Air Force]”. The words “may not be provided” are substituted for the words “shall be exercised”. The word “transportation” is substituted for the word “service”. The words “in each case”, “as the case may be, that existing private and”, and “by other means” are omitted as surplusage.
 
 Subsection (b)(3) is substituted for the last 25 words of clause 4 of 5:189c, 415d, and 626n.
 
@@ -402,7 +402,7 @@ In subsection (d), the words “Treasury as” are substituted for the words “
 
 2021—Subsec. (c)(2)(A). Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
-1987—Subsec. (a). Pub. L. 100–180, § 318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
+1987—Subsec. (a). Pub. L. 100–180, § 318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
 
 “(1) among places on any military installation (including any subinstallation thereof) under the jurisdiction of that department; and
 
@@ -412,31 +412,31 @@ In subsection (d), the words “Treasury as” are substituted for the words “
 
 “(B) during a war or national emergency declared by the Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for that department.”
 
-Subsec. (b)(1). Pub. L. 100–180, § 318(c)(1), substituted “Transportation described in subparagraphs (B), (C), and (D) of subsection (a)(2) may not be provided” for “Transportation may not be provided under subsection (a)(2)”.
+Subsec. (b)(1). Pub. L. 100–180, § 318(c)(1), substituted “Transportation described in subparagraphs (B), (C), and (D) of subsection (a)(2) may not be provided” for “Transportation may not be provided under subsection (a)(2)”.
 
-Subsec. (b)(2). Pub. L. 100–180, § 318(b)(1), (c)(2), redesignated subpar. (A) as par. (2) and substituted “transportation described in subsection (a)(2)(A) at any military installation” for “transportation at any military installation under subsection (a)(1)”. Subpar. (B) was struck out and replaced by par. (3) and subpar. (C) was redesignated par. (4).
+Subsec. (b)(2). Pub. L. 100–180, § 318(b)(1), (c)(2), redesignated subpar. (A) as par. (2) and substituted “transportation described in subsection (a)(2)(A) at any military installation” for “transportation at any military installation under subsection (a)(1)”. Subpar. (B) was struck out and replaced by par. (3) and subpar. (C) was redesignated par. (4).
 
-Subsec. (b)(3). Pub. L. 100–180, § 318(b)(2), substituted par. (3) for former subpar. (2)(B) which read as follows: “In providing transportation at any military installation under such subsection, the Secretary of the military department concerned may not require any fare for the transportation of members of the armed forces if the transportation is incident to training or other operational activities on such installation.”
+Subsec. (b)(3). Pub. L. 100–180, § 318(b)(2), substituted par. (3) for former subpar. (2)(B) which read as follows: “In providing transportation at any military installation under such subsection, the Secretary of the military department concerned may not require any fare for the transportation of members of the armed forces if the transportation is incident to training or other operational activities on such installation.”
 
-Subsec. (b)(4). Pub. L. 100–180, § 318(b)(3), (c)(3), redesignated former par. (2)(C) as par. (4) and substituted “subsection (a)” for “subsection (a)(1)”.
+Subsec. (b)(4). Pub. L. 100–180, § 318(b)(3), (c)(3), redesignated former par. (2)(C) as par. (4) and substituted “subsection (a)” for “subsection (a)(1)”.
 
-1979—Pub. L. 96–125, § 807(c)(1), inserted “and on military installations” after “places of employment” in section catchline.
+1979—Pub. L. 96–125, § 807(c)(1), inserted “and on military installations” after “places of employment” in section catchline.
 
-Subsec. (a). Pub. L. 96–125, § 807(a), substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
+Subsec. (a). Pub. L. 96–125, § 807(a), substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
 
-Subsec. (b). Pub. L. 96–125, § 807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted “subsection (a)(2)” for “subsection (a)” and added par. (2).
+Subsec. (b). Pub. L. 96–125, § 807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted “subsection (a)(2)” for “subsection (a)” and added par. (2).
 
-1978—Subsec. (a). Pub. L. 95–362, § 1(1), substituted “concerned” for “of a military department” and “of his department” for “of that department”.
+1978—Subsec. (a). Pub. L. 95–362, § 1(1), substituted “concerned” for “of a military department” and “of his department” for “of that department”.
 
-Subsec. (b). Pub. L. 95–362, § 1(2), struck out “of the military department” before “concerned”.
+Subsec. (b). Pub. L. 95–362, § 1(2), struck out “of the military department” before “concerned”.
 
-Subsec. (c)(2)(A). Pub. L. 95–362, § 1(3), inserted reference to the Coast Guard.
+Subsec. (c)(2)(A). Pub. L. 95–362, § 1(3), inserted reference to the Coast Guard.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 100–180, div. A, title III, § 318(d), Dec. 4, 1987, 101 Stat. 1077, required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title III, § 318(d), Dec. 4, 1987, 101 Stat. 1077, required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
 
 **Transfer of Functions**
 
@@ -444,7 +444,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Pilot Program on Car Sharing on Remote or Isolated Military Installations**
 
-Pub. L. 117–263, div. A, title V, § 596, Dec. 23, 2022, 136 Stat. 2614, provided that:
+Pub. L. 117–263, div. A, title V, § 596, Dec. 23, 2022, 136 Stat. 2614, provided that:
 
 > **“(a) Determination.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall determine whether it is feasible and advisable to carry out a pilot program to allow car sharing on more than two remote or isolated military installations.
 
@@ -476,7 +476,7 @@ Pub. L. 117–263, div. A, title V, § 596, Dec. 23, 2022, 136 Stat. 2614, pro
 
 > **“(f) Military Installation Defined.—** In this section, the term ‘military installation’ has the meaning given such term in section 2801 of title 10, United States Code.”
 
-## § 2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department
+## § 2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department
 
 **(a)** Notwithstanding section 1301(a) of title 31, the Secretary of a military department may, under such regulations as he may prescribe, furnish stevedoring and terminal services and facilities to vessels carrying cargo, or passengers, or both, sponsored by his department.
 
@@ -484,7 +484,7 @@ Pub. L. 117–263, div. A, title V, § 596, Dec. 23, 2022, 136 Stat. 2614, pro
 
 **(c)** The proceeds from furnishing services and facilities under this section shall be paid to the credit of the appropriation or fund out of which the services or facilities were supplied.
 
-(Added Pub. L. 85–44, § 1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, § 111(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 96–513, title V, § 511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, § 3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
+(Added Pub. L. 85–44, § 1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, § 111(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 96–513, title V, § 511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, § 3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
 
 **Historical and Revision Notes**
 
@@ -508,11 +508,11 @@ Section 2633 is restated, without substantive change, to conform to the style ad
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## [§ 2634. Repealed. Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784]
+## [§ 2634. Repealed. Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784]
 
-Section, added Pub. L. 87–651, title I, § 111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, § 1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, § 1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§ 1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, § 202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§ 611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, § 7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, § 616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, § 622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, § 642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, § 368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§ 631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, § 594(a), (b), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, § 575(a), (b), Dec. 2, 2002, 116 Stat. 2558, 2559; Pub. L. 108–136, div. A, title VI, § 631(a), Nov. 24, 2003, 117 Stat. 1508; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, related to transportation or storage of motor vehicles for members on change of permanent station or extended deployment.
+Section, added Pub. L. 87–651, title I, § 111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, § 1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, § 1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§ 1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, § 202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§ 611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, § 7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, § 616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, § 622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, § 642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, § 368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§ 631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, § 594(a), (b), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, § 575(a), (b), Dec. 2, 2002, 116 Stat. 2558, 2559; Pub. L. 108–136, div. A, title VI, § 631(a), Nov. 24, 2003, 117 Stat. 1508; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, related to transportation or storage of motor vehicles for members on change of permanent station or extended deployment.
 
-## § 2635. Medical emergency helicopter transportation assistance and limitation of individual liability
+## § 2635. Medical emergency helicopter transportation assistance and limitation of individual liability
 
 **(a)** The Secretary of Defense is authorized to assist the Department of Health and Human Services and the Department of Homeland Security in providing medical emergency helicopter transportation services to civilians. Any resources provided under this section shall be under such terms and conditions, including reimbursement, as the Secretary of Defense deems appropriate and shall be subject to the following specific limitations:
 
@@ -524,7 +524,7 @@ Section, added Pub. L. 87–651, title I, § 111(b), Sept. 7, 1962, 76 Stat. 5
 
 **(b)** No individual (or his estate) who is authorized by the Department of Defense to perform services under a program established pursuant to subsection (a), and who is acting within the scope of his duties, shall be liable for injury to, or loss of property or personal injury or death which may be caused incident to providing such services.
 
-(Added Pub. L. 93–155, title VIII, § 814(a), Nov. 16, 1973, 87 Stat. 620; amended Pub. L. 96–513, title V, § 511(88), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 93–155, title VIII, § 814(a), Nov. 16, 1973, 87 Stat. 620; amended Pub. L. 96–513, title V, § 511(88), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -544,7 +544,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2636. Deductions from amounts due carriers
+## § 2636. Deductions from amounts due carriers
 
 **(a) Amounts for Loss or Damage.—** An amount deducted from an amount due a carrier shall be credited as follows:
 
@@ -564,13 +564,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(3)** In this subsection, the term “simplified acquisition threshold” has the meaning given that term in section 134 of title 41.
 
-(Added Pub. L. 97–258, § 2(b)(5)(B), Sept. 13, 1982, 96 Stat. 1053; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1009(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250; Pub. L. 111–350, § 5(b)(43), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 97–258, § 2(b)(5)(B), Sept. 13, 1982, 96 Stat. 1053; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1009(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250; Pub. L. 111–350, § 5(b)(43), Jan. 4, 2011, 124 Stat. 3846.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2636 | 31:489a. | June 25, 1956, ch. 442, § 1, 70 Stat. 336. |
+| 2636 | 31:489a. | June 25, 1956, ch. 442, § 1, 70 Stat. 336. |
 
 The words “An amount deducted from an amount due” are substituted for “Moneys arising from deductions made from” for clarity. The words “military or naval” and “account of” are omitted as surplus. The words “a military department” are substituted for “the Departments of the Army, Navy, or Air Force” because of 10:101(7). The Department of War was designated the Department of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The Department of the Air Force is included because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488).
 
@@ -586,9 +586,9 @@ The words “An amount deducted from an amount due” are substituted for “Mon
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1009(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, provided that: “Subsections (a)(2) and (b) of section 2636 of title 10, United States Code, as added by subsection (a)(1), shall apply with respect to contracts entered into after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title X, § 1009(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, provided that: “Subsections (a)(2) and (b) of section 2636 of title 10, United States Code, as added by subsection (a)(1), shall apply with respect to contracts entered into after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 2636a. Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers
+## § 2636a. Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers
 
 **(a) Procurement of Coverage.—** The Secretary of Defense shall include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
 
@@ -600,7 +600,7 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1009(b)], Oct. 30, 2000, 114 
 
 **(e) Transportation Defined.—** In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
-(Added Pub. L. 108–136, div. A, title VI, § 634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, § 363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, § 373, Jan. 28, 2008, 122 Stat. 82.)
+(Added Pub. L. 108–136, div. A, title VI, § 634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, § 363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, § 373, Jan. 28, 2008, 122 Stat. 82.)
 
 **Editorial Notes**
 
@@ -608,19 +608,19 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1009(b)], Oct. 30, 2000, 114 
 
 2008—Subsec. (d). Pub. L. 110–181 inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
 
-2006—Subsec. (a). Pub. L. 109–364, § 363(b)(1), substituted “shall include” for “may include”.
+2006—Subsec. (a). Pub. L. 109–364, § 363(b)(1), substituted “shall include” for “may include”.
 
-Pub. L. 109–364, § 363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+Pub. L. 109–364, § 363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
 
-Subsec. (b). Pub. L. 109–364, § 363(b)(2), substituted “shall be deducted” for “may be deducted”.
+Subsec. (b). Pub. L. 109–364, § 363(b)(2), substituted “shall be deducted” for “may be deducted”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title III, § 363(b), Oct. 17, 2006, 120 Stat. 2167, provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
+Pub. L. 109–364, div. A, title III, § 363(b), Oct. 17, 2006, 120 Stat. 2167, provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
 
-## § 2636b. Responsibilities for oversight of personal property transportation
+## § 2636b. Responsibilities for oversight of personal property transportation
 
 **(a) Responsibilities.—** Subject to subsection (b), not later than one year after the date of the enactment of this section, the Secretary of Defense shall assign to a single office or other organizational element within the Department of Defense the following responsibilities:
 
@@ -636,7 +636,7 @@ Pub. L. 109–364, div. A, title III, § 363(b), Oct. 17, 2006, 120 Stat. 2167
 
 **(c) Defense Personal Property Program Defined.—** In this section, the term “defense personal property program” means the program of the Department of Defense for managing the shipment of the baggage and household effects for members of the armed forces or civilian employees of the Department, or any such successor program.
 
-(Added Pub. L. 119–60, div. A, title III, § 336(a), Dec. 18, 2025, 139 Stat. 818.)
+(Added Pub. L. 119–60, div. A, title III, § 336(a), Dec. 18, 2025, 139 Stat. 818.)
 
 **Editorial Notes**
 
@@ -648,7 +648,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 **Regulations; Briefing**
 
-Pub. L. 119–60, div. A, title III, § 336(b), (c), Dec. 18, 2025, 139 Stat. 819, provided that:
+Pub. L. 119–60, div. A, title III, § 336(b), (c), Dec. 18, 2025, 139 Stat. 819, provided that:
 
 > **“(b) Briefing.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the plan and timeline for the implementation of section 2636b of title 10, United States Code, as added by subsection (a). Such briefing shall include—
 
@@ -666,23 +666,23 @@ Pub. L. 119–60, div. A, title III, § 336(b), (c), Dec. 18, 2025, 139 Stat. 
 
 > **“(c) Regulations.—** Not later than 90 days after the date on which the briefing is provided under subsection (b), the Secretary of Defense shall prescribe regulations to implement section 2636b of title 10, United States Code, as added by subsection (a).”
 
-## § 2637. Transportation in certain areas outside the United States
+## § 2637. Transportation in certain areas outside the United States
 
 The Secretary of Defense may authorize the commander of a unified combatant command to use Government owned or leased vehicles to provide transportation in an area outside the United States for members of the uniformed services and Federal civilian employees under the jurisdiction of that commander, and for the dependents of such members and employees, if the commander determines that public or private transportation in such area is unsafe or not available. Such transportation shall be provided in accordance with regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 101–510, div. A, title III, § 326(a)(1), Nov. 5, 1990, 104 Stat. 1531.)
+(Added Pub. L. 101–510, div. A, title III, § 326(a)(1), Nov. 5, 1990, 104 Stat. 1531.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2637, added Pub. L. 98–525, title VI, § 614(a), Oct. 19, 1984, 98 Stat. 2540, related to use of passenger motor vehicles of United States for transportation between residences and places of work of senior defense officials, prior to repeal by Pub. L. 99–550, § 2(a)(1), Oct. 27, 1986, 100 Stat. 3070.
+A prior section 2637, added Pub. L. 98–525, title VI, § 614(a), Oct. 19, 1984, 98 Stat. 2540, related to use of passenger motor vehicles of United States for transportation between residences and places of work of senior defense officials, prior to repeal by Pub. L. 99–550, § 2(a)(1), Oct. 27, 1986, 100 Stat. 3070.
 
-## § 2638. Transportation of civilian clothing of enlisted members
+## § 2638. Transportation of civilian clothing of enlisted members
 
 The Secretary of the military department concerned may provide for the transportation of the civilian clothing of any person entering the armed forces as an enlisted member to the member’s home of record.
 
-(Added Pub. L. 98–525, title XIV, § 1401(j)(1), Oct. 19, 1984, 98 Stat. 2620.)
+(Added Pub. L. 98–525, title XIV, § 1401(j)(1), Oct. 19, 1984, 98 Stat. 2620.)
 
 **Editorial Notes**
 
@@ -690,41 +690,41 @@ The Secretary of the military department concerned may provide for the transport
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8005], 98 Stat. 1904, 1922.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8005], 98 Stat. 1904, 1922.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 708, 97 Stat. 1438.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 708, 97 Stat. 1438.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 708], 96 Stat. 1833, 1850.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 708], 96 Stat. 1833, 1850.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 708, 95 Stat. 1579.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 708, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 708, 94 Stat. 3081.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 708, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 708, 93 Stat. 1152.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 708, 93 Stat. 1152.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 808, 92 Stat. 1244.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 808, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 807, 91 Stat. 899.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 807, 91 Stat. 899.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 707, 90 Stat. 1291.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 707, 90 Stat. 1291.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 707, 90 Stat. 168.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 707, 90 Stat. 168.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 807, 88 Stat. 1225.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 807, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 707, 87 Stat. 1038.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 707, 87 Stat. 1038.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 707, 86 Stat. 1196.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 707, 86 Stat. 1196.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 707, 85 Stat. 727.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 707, 85 Stat. 727.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 807, 84 Stat. 2030.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 807, 84 Stat. 2030.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 607, 83 Stat. 480.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 607, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 506, 82 Stat. 1129.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 506, 82 Stat. 1129.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 606, 81 Stat. 242.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 606, 81 Stat. 242.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -732,11 +732,11 @@ Sept. 29, 1967, Pub. L. 90–96, title VI, § 606, 81 Stat. 242.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 2639. Transportation to and from school for certain minor dependents
+## § 2639. Transportation to and from school for certain minor dependents
 
 Funds appropriated to the Department of Defense may be used to provide minor dependents of members of the armed forces and of civilian officers and employees of the Department of Defense with transportation to and from primary and secondary schools if the schools attended by the dependents are not accessible by regular means of transportation.
 
-(Added Pub. L. 98–525, title XIV, § 1401(j)(1), Oct. 19, 1984, 98 Stat. 2620.)
+(Added Pub. L. 98–525, title XIV, § 1401(j)(1), Oct. 19, 1984, 98 Stat. 2620.)
 
 **Editorial Notes**
 
@@ -744,81 +744,81 @@ Funds appropriated to the Department of Defense may be used to provide minor dep
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8005], 98 Stat. 1904, 1922.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8005], 98 Stat. 1904, 1922.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 708, 97 Stat. 1438.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 708, 97 Stat. 1438.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 708], 96 Stat. 1833, 1850.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 708], 96 Stat. 1833, 1850.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 708, 95 Stat. 1579.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 708, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 708, 94 Stat. 3081.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 708, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 708, 93 Stat. 1152.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 708, 93 Stat. 1152.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 808, 92 Stat. 1244.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 808, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 807, 91 Stat. 899.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 807, 91 Stat. 899.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 707, 90 Stat. 1291.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 707, 90 Stat. 1291.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 707, 90 Stat. 168.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 707, 90 Stat. 168.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 807, 88 Stat. 1225.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 807, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 707, 87 Stat. 1038.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 707, 87 Stat. 1038.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 707, 86 Stat. 1196.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 707, 86 Stat. 1196.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 707, 85 Stat. 727.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 707, 85 Stat. 727.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 807, 84 Stat. 2030.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 807, 84 Stat. 2030.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 607, 83 Stat. 480.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 607, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 506, 82 Stat. 1129.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 506, 82 Stat. 1129.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 606, 81 Stat. 242.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 606, 81 Stat. 242.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 606, 80 Stat. 991.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 606, 80 Stat. 991.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 606, 79 Stat. 873.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 606, 79 Stat. 873.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 506, 78 Stat. 475.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 506, 78 Stat. 475.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 506, 77 Stat. 264.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 506, 77 Stat. 264.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 506, 76 Stat. 328.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 506, 76 Stat. 328.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, § 606, 75 Stat. 375.
+Aug. 17, 1961, Pub. L. 87–144, title VI, § 606, 75 Stat. 375.
 
-July 7, 1960, Pub. L. 86–601, title V, § 506, 74 Stat. 350.
+July 7, 1960, Pub. L. 86–601, title V, § 506, 74 Stat. 350.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, § 606, 73 Stat. 378.
+Aug. 18, 1959, Pub. L. 86–166, title V, § 606, 73 Stat. 378.
 
-Aug. 22, 1958, Pub. L. 85–724, title VI, § 606, 72 Stat. 724.
+Aug. 22, 1958, Pub. L. 85–724, title VI, § 606, 72 Stat. 724.
 
-Aug. 2, 1957, Pub. L. 85–117, title VI, § 607, 71 Stat. 323.
+Aug. 2, 1957, Pub. L. 85–117, title VI, § 607, 71 Stat. 323.
 
-July 2, 1956, ch. 488, title VI, § 607, 70 Stat. 468.
+July 2, 1956, ch. 488, title VI, § 607, 70 Stat. 468.
 
-July 13, 1955, ch. 358, title VI, § 609, 69 Stat. 315.
+July 13, 1955, ch. 358, title VI, § 609, 69 Stat. 315.
 
-June 30, 1954, ch. 432, title VII, § 709, 68 Stat. 351.
+June 30, 1954, ch. 432, title VII, § 709, 68 Stat. 351.
 
-Aug. 1, 1953, ch. 305, title VI, § 614, 67 Stat. 351.
+Aug. 1, 1953, ch. 305, title VI, § 614, 67 Stat. 351.
 
-July 10, 1952, ch. 630, title VI, § 616, 66 Stat. 533.
+July 10, 1952, ch. 630, title VI, § 616, 66 Stat. 533.
 
-Oct. 18, 1951, ch. 512, title VI, § 616, 65 Stat. 446.
+Oct. 18, 1951, ch. 512, title VI, § 616, 65 Stat. 446.
 
-Sept. 6, 1950, ch. 896, Ch. X, title VI, § 619, 64 Stat. 755.
+Sept. 6, 1950, ch. 896, Ch. X, title VI, § 619, 64 Stat. 755.
 
-Oct. 29, 1949, ch. 787, title VI, § 625, 63 Stat. 1021.
+Oct. 29, 1949, ch. 787, title VI, § 625, 63 Stat. 1021.
 
-June 24, 1948, ch. 632, § 2, 62 Stat. 667.
+June 24, 1948, ch. 632, § 2, 62 Stat. 667.
 
-July 30, 1947, ch. 357, title I, § 2, 61 Stat. 569.
+July 30, 1947, ch. 357, title I, § 2, 61 Stat. 569.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -826,7 +826,7 @@ July 30, 1947, ch. 357, title I, § 2, 61 Stat. 569.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 2640. Charter air transportation of members of the armed forces or cargo
+## § 2640. Charter air transportation of members of the armed forces or cargo
 
 **(a) Requirements.—**
 
@@ -906,49 +906,49 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(2)** The term “members of the armed forces” means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-(Added Pub. L. 99–661, div. A, title XII, § 1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, § 5(b)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 105–85, div. A, title X, § 1075(a), Nov. 18, 1997, 111 Stat. 1911; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(P), Jan. 1, 2021, 134 Stat. 3820; Pub. L. 117–81, div. A, title X, § 1083(d)(1), Dec. 27, 2021, 135 Stat. 1923.)
+(Added Pub. L. 99–661, div. A, title XII, § 1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, § 5(b)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 105–85, div. A, title X, § 1075(a), Nov. 18, 1997, 111 Stat. 1911; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(P), Jan. 1, 2021, 134 Stat. 3820; Pub. L. 117–81, div. A, title X, § 1083(d)(1), Dec. 27, 2021, 135 Stat. 1923.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1083(d)(1)(A), inserted “or cargo” after “armed forces” in section catchline.
+2021—Pub. L. 117–81, § 1083(d)(1)(A), inserted “or cargo” after “armed forces” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–81, § 1083(d)(1)(B), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+Subsec. (a)(1). Pub. L. 117–81, § 1083(d)(1)(B), inserted “or cargo” after “members of the armed forces” in introductory provisions.
 
-Subsec. (b). Pub. L. 117–81, § 1083(d)(1)(C), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+Subsec. (b). Pub. L. 117–81, § 1083(d)(1)(C), inserted “or cargo” after “members of the armed forces” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 117–81, § 1083(d)(1)(D), inserted “or cargo” after “members of the armed forces” in introductory provisions.
+Subsec. (d)(1). Pub. L. 117–81, § 1083(d)(1)(D), inserted “or cargo” after “members of the armed forces” in introductory provisions.
 
-Subsec. (e). Pub. L. 117–81, § 1083(d)(1)(E), inserted “or cargo” after “members of the armed forces” and before period at end.
+Subsec. (e). Pub. L. 117–81, § 1083(d)(1)(E), inserted “or cargo” after “members of the armed forces” and before period at end.
 
-Subsec. (f). Pub. L. 117–81, § 1083(d)(1)(F), inserted “or cargo” after “members of the armed forces”.
+Subsec. (f). Pub. L. 117–81, § 1083(d)(1)(F), inserted “or cargo” after “members of the armed forces”.
 
-Subsec. (j)(1). Pub. L. 117–81, § 1083(d)(1)(G), inserted “ ‘cargo’,” after “ ‘air transportation’,”.
+Subsec. (j)(1). Pub. L. 117–81, § 1083(d)(1)(G), inserted “ ‘cargo’,” after “ ‘air transportation’,”.
 
 Subsec. (j)(2). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 1997—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, § 5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
+1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, § 5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
 
-Subsec. (i)(1). Pub. L. 103–272, § 5(b)(1)(B), substituted “section 40102(a) of title 49” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
+Subsec. (i)(1). Pub. L. 103–272, § 5(b)(1)(B), substituted “section 40102(a) of title 49” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1075(b), Nov. 18, 1997, 111 Stat. 1911, provided that: “Subsection (h) of section 2640 of title 10, United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act [Nov. 18, 1997].”
+Pub. L. 105–85, div. A, title X, § 1075(b), Nov. 18, 1997, 111 Stat. 1911, provided that: “Subsection (h) of section 2640 of title 10, United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act [Nov. 18, 1997].”
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title XII, § 1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: “Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed [set out below].”
+Pub. L. 99–661, div. A, title XII, § 1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: “Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed [set out below].”
 
 **Regulations**
 
-Pub. L. 99–661, div. A, title XII, § 1204(b), Nov. 14, 1986, 100 Stat. 3971, required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
+Pub. L. 99–661, div. A, title XII, § 1204(b), Nov. 14, 1986, 100 Stat. 3971, required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
 
-## § 2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft
+## § 2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft
 
 **(a)** The Secretary of Defense may provide transportation on an aircraft operating under the aeromedical evacuation system of the Department of Defense for the purpose of transporting a veteran to or from a Department of Veterans Affairs medical facility or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place.
 
@@ -970,43 +970,43 @@ Pub. L. 99–661, div. A, title XII, § 1204(b), Nov. 14, 1986, 100 Stat. 3971
 
 **(e)** In this section, the term “veteran” has the meaning given that term in section 101(2) of title 38.
 
-(Added Pub. L. 100–180, div. A, title XII, § 1250(a)(1), Dec. 4, 1987, 101 Stat. 1167; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (2), (8), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 103–337, div. A, title VI, § 652(b), title X, § 1070(e)(8), Oct. 5, 1994, 108 Stat. 2794, 2859.)
+(Added Pub. L. 100–180, div. A, title XII, § 1250(a)(1), Dec. 4, 1987, 101 Stat. 1167; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (2), (8), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 103–337, div. A, title VI, § 652(b), title X, § 1070(e)(8), Oct. 5, 1994, 108 Stat. 2794, 2859.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–337, § 652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
+1994—Subsec. (a). Pub. L. 103–337, § 652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
 
-Subsec. (b). Pub. L. 103–337, § 652(b)(2)(A)(i), inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
+Subsec. (b). Pub. L. 103–337, § 652(b)(2)(A)(i), inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 103–337, § 652(b)(2)(A)(ii), inserted “(or of the remains of such veteran)” after “of such veteran”.
+Subsec. (b)(1). Pub. L. 103–337, § 652(b)(2)(A)(ii), inserted “(or of the remains of such veteran)” after “of such veteran”.
 
-Subsec. (b)(2). Pub. L. 103–337, § 652(b)(2)(A)(iii), inserted “(or the remains of the veteran)” after “for the veteran”.
+Subsec. (b)(2). Pub. L. 103–337, § 652(b)(2)(A)(iii), inserted “(or the remains of the veteran)” after “for the veteran”.
 
-Subsec. (c). Pub. L. 103–337, § 1070(e)(8), substituted “section 8111(g)(5) of title 38” for “section 5011(g)(5) of title 38”.
+Subsec. (c). Pub. L. 103–337, § 1070(e)(8), substituted “section 8111(g)(5) of title 38” for “section 5011(g)(5) of title 38”.
 
-Subsec. (d)(1). Pub. L. 103–337, § 652(b)(2)(B), inserted “(or on the survivors of a veteran)” after “on a veteran” and “(or for the remains of the veteran)” after “to the veteran”.
+Subsec. (d)(1). Pub. L. 103–337, § 652(b)(2)(B), inserted “(or on the survivors of a veteran)” after “on a veteran” and “(or for the remains of the veteran)” after “to the veteran”.
 
-Subsec. (d)(2). Pub. L. 103–337, § 652(b)(2)(C), inserted “(or for the remains of veterans)” after “to veterans”.
+Subsec. (d)(2). Pub. L. 103–337, § 652(b)(2)(C), inserted “(or for the remains of veterans)” after “to veterans”.
 
-1989—Subsec. (a). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1989—Subsec. (a). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
+Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
 
-Subsec. (b)(1). Pub. L. 101–189, § 1621(a)(8), substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
+Subsec. (b)(1). Pub. L. 101–189, § 1621(a)(8), substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
 
-Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-Subsec. (d)(2). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (d)(2). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Entry Into Transportation Agreement**
 
-Pub. L. 100–180, div. A, title XII, § 1250(b), Dec. 4, 1987, 101 Stat. 1168, directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title XII, § 1250(b), Dec. 4, 1987, 101 Stat. 1168, directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
 
-## § 2641a. Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii
+## § 2641a. Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii
 
 **(a) Transportation Authorized.—** The Secretary of Defense may provide transportation on Department of Defense aircraft for the purpose of transporting any veteran specified in subsection (b) between American Samoa and the State of Hawaii if such transportation is required in order to provide hospital care to such veteran as described in that subsection.
 
@@ -1022,21 +1022,21 @@ Pub. L. 100–180, div. A, title XII, § 1250(b), Dec. 4, 1987, 101 Stat. 1168
 
 **(2)** A charge may not be imposed on a veteran for transportation provided to the veteran under this section.
 
-(Added Pub. L. 105–262, title VIII, § 8121(a), Oct. 17, 1998, 112 Stat. 2332; amended Pub. L. 106–65, div. A, title X, § 1066(a)(24), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 105–262, title VIII, § 8121(a), Oct. 17, 1998, 112 Stat. 2332; amended Pub. L. 106–65, div. A, title X, § 1066(a)(24), Oct. 5, 1999, 113 Stat. 771.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (b)(2). Pub. L. 106–65, § 1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
+1999—Subsec. (b)(2). Pub. L. 106–65, § 1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
 
-Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
+Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
 
 “(1) The term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code.
 
 “(2) The term ‘hospital care’ has the meaning given that term in section 1701(5) of title 38, United States Code.”
 
-## § 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients
+## § 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients
 
 **(a) Authority to Establish Program.—**
 
@@ -1114,7 +1114,7 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text 
 
 **(g) Construction.—** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 
-(Added Pub. L. 110–181, div. A, title III, § 374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, § 622(a), Jan. 2, 2013, 126 Stat. 1779; Pub. L. 115–232, div. A, title VI, § 624, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, § 1081(a)(43), Jan. 1, 2021, 134 Stat. 3873.)
+(Added Pub. L. 110–181, div. A, title III, § 374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, § 622(a), Jan. 2, 2013, 126 Stat. 1779; Pub. L. 115–232, div. A, title VI, § 624, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, § 1081(a)(43), Jan. 1, 2021, 134 Stat. 3873.)
 
 **Editorial Notes**
 
@@ -1122,9 +1122,9 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text 
 
 2021—Subsec. (a)(3)(B). Pub. L. 116–283 substituted “subsection (c)(6)” for “subsection (c)(5)”.
 
-2018—Subsec. (c)(4) to (6). Pub. L. 115–232, § 624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+2018—Subsec. (c)(4) to (6). Pub. L. 115–232, § 624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsecs. (f), (g). Pub. L. 115–232, § 624(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 115–232, § 624(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section related to increased priority for space-available transportation on Department of Defense aircraft for certain members and former members of the uniformed services.
 
@@ -1132,7 +1132,7 @@ Subsecs. (f), (g). Pub. L. 115–232, § 624(b), added subsec. (f) and redesig
 
 **Study on Space-Available Travel System of the Department of Defense**
 
-Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, provided that:
+Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, provided that:
 
 > **“(a) Study Required.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall seek to enter into a contract with a federally funded research and development center to conduct an independent study on the space-available travel system of the Department of Defense.
 
@@ -1190,7 +1190,7 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, p
 
 > **“(e) Disability Rated as Total Defined.—** In this section, the term ‘disability rated as total’ has the meaning given the term in section 1414(e)(3) of title 10, United States Code.”
 
-## § 2642. Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate
+## § 2642. Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate
 
 **(a) Authority.—** Subject to subsection (b), the Secretary of Defense may authorize the use of the Department of Defense reimbursement rate for military transportation services provided by a component of the Department of Defense as follows:
 
@@ -1210,7 +1210,7 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, p
 
 **(c) Definition.—** In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
-(Added Pub. L. 102–88, title V, § 501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, § 1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585; Pub. L. 111–84, div. A, title III, § 351(a), Oct. 28, 2009, 123 Stat. 2262; Pub. L. 111–383, div. A, title X, § 1075(b)(40), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 113–66, div. A, title X, § 1073(a), (b), Dec. 26, 2013, 127 Stat. 869; Pub. L. 113–291, div. A, title X, §§ 1044(a)–(c)(1), 1071(f)(22), (g)(4), Dec. 19, 2014, 128 Stat. 3493, 3494, 3511; Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title III, § 373, Dec. 20, 2019, 133 Stat. 1332; Pub. L. 118–159, div. A, title III, § 351, Dec. 23, 2024, 138 Stat. 1857.)
+(Added Pub. L. 102–88, title V, § 501(a), Aug. 14, 1991, 105 Stat. 435; amended Pub. L. 108–136, div. A, title X, § 1006(a), (b)(1), Nov. 24, 2003, 117 Stat. 1585; Pub. L. 111–84, div. A, title III, § 351(a), Oct. 28, 2009, 123 Stat. 2262; Pub. L. 111–383, div. A, title X, § 1075(b)(40), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 113–66, div. A, title X, § 1073(a), (b), Dec. 26, 2013, 127 Stat. 869; Pub. L. 113–291, div. A, title X, §§ 1044(a)–(c)(1), 1071(f)(22), (g)(4), Dec. 19, 2014, 128 Stat. 3493, 3494, 3511; Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title III, § 373, Dec. 20, 2019, 133 Stat. 1332; Pub. L. 118–159, div. A, title III, § 351, Dec. 23, 2024, 138 Stat. 1857.)
 
 **Editorial Notes**
 
@@ -1220,39 +1220,39 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, p
 
 2019—Subsec. (b). Pub. L. 116–92 substituted “October 1, 2024” for “October 1, 2019”.
 
-2017—Subsec. (a)(3). Pub. L. 115–91, § 1081(f), which directed substitution of “September 30” for “October 28” in the amendment made by Pub. L. 113–291, § 1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
+2017—Subsec. (a)(3). Pub. L. 115–91, § 1081(f), which directed substitution of “September 30” for “October 28” in the amendment made by Pub. L. 113–291, § 1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
 
-2014—Pub. L. 113–291, § 1044(c)(1), amended section catchline generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate”.
+2014—Pub. L. 113–291, § 1044(c)(1), amended section catchline generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate”.
 
-Subsec. (a). Pub. L. 113–291, § 1044(a)(1), substituted “Subject to subsection (b), the Secretary” for “The Secretary” in introductory provisions.
+Subsec. (a). Pub. L. 113–291, § 1044(a)(1), substituted “Subject to subsection (b), the Secretary” for “The Secretary” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 113–291, § 1071(g)(4), amended Pub. L. 113–66, § 1073(a)(2)(B). See 2013 Amendment note below.
+Subsec. (a)(3). Pub. L. 113–291, § 1071(g)(4), amended Pub. L. 113–66, § 1073(a)(2)(B). See 2013 Amendment note below.
 
-Pub. L. 113–291, § 1071(f)(22), inserted “and” before “military transportation services provided in support”. Amendment was executed prior to amendment by Pub. L. 113–291, § 1044(a)(2)(B), see below, pursuant to section 1071(k) of Pub. L. 113–291, set out as a note under section 101 of this title.
+Pub. L. 113–291, § 1071(f)(22), inserted “and” before “military transportation services provided in support”. Amendment was executed prior to amendment by Pub. L. 113–291, § 1044(a)(2)(B), see below, pursuant to section 1071(k) of Pub. L. 113–291, set out as a note under section 101 of this title.
 
-Pub. L. 113–291, § 1044(a)(2)(B), substituted “Department of Defense” for “Department of Defense and military transportation services provided in support of foreign military sales”.
+Pub. L. 113–291, § 1044(a)(2)(B), substituted “Department of Defense” for “Department of Defense and military transportation services provided in support of foreign military sales”.
 
-Pub. L. 113–291, § 1044(a)(2)(A), as amended by Pub. L. 115–91, § 1081(f), substituted “For” for “During the period beginning on October 28, 2009, and ending on September 30, 2019, for”. See 2017 Amendment note above.
+Pub. L. 113–291, § 1044(a)(2)(A), as amended by Pub. L. 115–91, § 1081(f), substituted “For” for “During the period beginning on October 28, 2009, and ending on September 30, 2019, for”. See 2017 Amendment note above.
 
-Subsec. (a)(4) to (6). Pub. L. 113–291, § 1044(a)(3), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 113–291, § 1044(a)(3), added pars. (4) to (6).
 
-Subsecs. (b), (c). Pub. L. 113–291, § 1044(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 113–291, § 1044(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-2013—Pub. L. 113–66, § 1073(b), substituted “Transportation” for “Airlift” in section catchline.
+2013—Pub. L. 113–66, § 1073(b), substituted “Transportation” for “Airlift” in section catchline.
 
-Subsec. (a). Pub. L. 113–66, § 1073(a)(1), substituted “transportation services” for “airlift services” wherever appearing and “transportation capacity” for “airlift capacity” in par. (3).
+Subsec. (a). Pub. L. 113–66, § 1073(a)(1), substituted “transportation services” for “airlift services” wherever appearing and “transportation capacity” for “airlift capacity” in par. (3).
 
-Subsec. (a)(3). Pub. L. 113–66, § 1073(a)(2)(B), as amended by Pub. L. 113–291, § 1071(g)(4), inserted “military transportation services provided in support of foreign military sales” after “Department of Defense”.
+Subsec. (a)(3). Pub. L. 113–66, § 1073(a)(2)(B), as amended by Pub. L. 113–291, § 1071(g)(4), inserted “military transportation services provided in support of foreign military sales” after “Department of Defense”.
 
-Pub. L. 113–66, § 1073(a)(2)(A), (C), substituted “September 30, 2019” for “October 28, 2014” and “transportation industry” for “air industry”.
+Pub. L. 113–66, § 1073(a)(2)(A), (C), substituted “September 30, 2019” for “October 28, 2014” and “transportation industry” for “air industry”.
 
 2011—Subsec. (a)(3). Pub. L. 111–383 substituted “During the period beginning on October 28, 2009, and ending on October 28, 2014” for “During the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
 2009—Subsec. (a)(3). Pub. L. 111–84 added par. (3).
 
-2003—Pub. L. 108–136, § 1006(b)(1), substituted “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency” as section catchline.
+2003—Pub. L. 108–136, § 1006(b)(1), substituted “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency” as section catchline.
 
-Subsec. (a). Pub. L. 108–136, § 1006(a), inserted “as follows:
+Subsec. (a). Pub. L. 108–136, § 1006(a), inserted “as follows:
 
 “(1) For military airlift services provided”
 
@@ -1262,15 +1262,15 @@ before “to the Central Intelligence Agency”, and added par. (2).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(f) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(f) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(4) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(4) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 **Executive Branch Support for Recently Enacted Commissions**
 
-Pub. L. 117–263, div. A, title X, § 1050, Dec. 23, 2022, 136 Stat. 2775, as amended by Pub. L. 118–31, div. A, title X, § 1082(b), Dec. 22, 2023, 137 Stat. 417, provided that:
+Pub. L. 117–263, div. A, title X, § 1050, Dec. 23, 2022, 136 Stat. 2775, as amended by Pub. L. 118–31, div. A, title X, § 1082(b), Dec. 22, 2023, 137 Stat. 417, provided that:
 
 > **“(a) Assistance From Department of Defense.—** At the request of a covered commission, the Secretary of Defense may provide to the covered commission, on a reimbursable basis, such services, funds, facilities, staff, and other support services as necessary for the performance of the functions of the commission. Amounts provided to a covered commission pursuant to this section may be provided from amounts appropriated for the Department of Defense, as provided in advance in appropriations Acts.
 
@@ -1288,13 +1288,13 @@ Pub. L. 117–263, div. A, title X, § 1050, Dec. 23, 2022, 136 Stat. 2775, as
 
 > **“(5)** section 1687 [135 Stat. 2126] (Congressional Commission on the Strategic Posture of the United States).”
 
-## § 2643. Commissary and exchange services: transportation overseas
+## § 2643. Commissary and exchange services: transportation overseas
 
 **(a) Transportation Options.—** The Secretary of Defense shall authorize the officials responsible for operation of commissaries and military exchanges to negotiate directly with private carriers for the most cost-effective transportation of commissary and exchange supplies to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command, or the Military Traffic Management Command. Section 2631 of this title, regarding the preference for vessels of the United States or belonging to the United States in the transportation of supplies by sea, shall apply to the negotiation of contracts for sea-borne transportation under the authority of this section.
 
 **(b) Payment of Transportation Costs.—** Section 2483(b)(5) of this title, regarding the use of appropriated funds to cover the expenses of operating commissary stores, shall apply to the transportation of commissary supplies and products. Appropriated funds for the Department of Defense shall also be used to cover the expenses of transporting exchange supplies and products to destinations outside the continental United States. Such appropriated funds may be supplemented with additional funds derived from improved management practices implemented pursuant to sections 2481(c)(3) and 2487(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title III, § 334(a), Feb. 10, 1996, 110 Stat. 261; amended Pub. L. 109–163, div. A, title VI, § 673, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 114–328, div. A, title VI, § 661(h), Dec. 23, 2016, 130 Stat. 2172.)
+(Added Pub. L. 104–106, div. A, title III, § 334(a), Feb. 10, 1996, 110 Stat. 261; amended Pub. L. 109–163, div. A, title VI, § 673, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 114–328, div. A, title VI, § 661(h), Dec. 23, 2016, 130 Stat. 2172.)
 
 **Editorial Notes**
 
@@ -1304,11 +1304,11 @@ Pub. L. 117–263, div. A, title X, § 1050, Dec. 23, 2022, 136 Stat. 2775, as
 
 2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command,” for “by sea without relying on the Military Sealift Command” and “contracts for sea-borne transportation” for “transportation contracts”, and added subsec. (b).
 
-## § 2644. Control of transportation systems in time of war
+## § 2644. Control of transportation systems in time of war
 
 In time of war, the President, through the Secretary of Defense, may take possession and assume control of all or part of any system of transportation to transport troops, war material, and equipment, or for other purposes related to the emergency. So far as necessary, he may use the system to the exclusion of other traffic.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 266, § 4742; renumbered § 2644 and amended Pub. L. 104–201, div. A, title IX, § 906(a), (b), Sept. 23, 1996, 110 Stat. 2620.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 266, § 4742; renumbered § 2644 and amended Pub. L. 104–201, div. A, title IX, § 906(a), (b), Sept. 23, 1996, 110 Stat. 2620.)
 
 **Historical and Revision Notes**
 
@@ -1324,7 +1324,7 @@ The words “as may be needful or desirable” are omitted as surplusage.
 
 1996—Pub. L. 104–201 renumbered section 4742 of this title as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
 
-## § 2645. Indemnification of Department of Transportation for losses covered by vessel war risk insurance
+## § 2645. Indemnification of Department of Transportation for losses covered by vessel war risk insurance
 
 **(a) Prompt Indemnification Required.—**
 
@@ -1350,7 +1350,7 @@ The words “as may be needful or desirable” are omitted as surplusage.
 
 **(f) Construction With Other Transfer Authority.—** Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-**[(g)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(26)(B), Nov. 24, 2003, 117 Stat. 1598.]
+**[(g)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(26)(B), Nov. 24, 2003, 117 Stat. 1598.]
 
 **(h) Definitions.—** In this section:
 
@@ -1360,7 +1360,7 @@ The words “as may be needful or desirable” are omitted as surplusage.
 
 **(3) Loss.—** The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 
-(Added Pub. L. 104–201, div. A, title X, § 1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, § 1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, § 1031(a)(26), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–304, § 17(a)(4), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 112–81, div. A, title X, § 1064(8), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 104–201, div. A, title X, § 1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, § 1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, § 1031(a)(26), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–304, § 17(a)(4), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 112–81, div. A, title X, § 1064(8), Dec. 31, 2011, 125 Stat. 1587.)
 
 **Editorial Notes**
 
@@ -1372,19 +1372,19 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 2011—Subsec. (d). Pub. L. 112–81 substituted “$10,000,000” for “$1,000,000”.
 
-2006—Subsec. (c). Pub. L. 109–304, § 17(a)(4)(A), substituted “section 53909(b) of title 46” for “the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
+2006—Subsec. (c). Pub. L. 109–304, § 17(a)(4)(A), substituted “section 53909(b) of title 46” for “the second sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
 
-Subsec. (h)(1). Pub. L. 109–304, § 17(a)(4)(B), substituted “chapter 539 of title 46” for “title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.),”.
+Subsec. (h)(1). Pub. L. 109–304, § 17(a)(4)(B), substituted “chapter 539 of title 46” for “title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.),”.
 
-Subsec. (h)(2). Pub. L. 109–304, § 17(a)(4)(C), substituted “section 53909(a) of title 46” for “the first sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
+Subsec. (h)(2). Pub. L. 109–304, § 17(a)(4)(C), substituted “section 53909(a) of title 46” for “the first sentence of section 1208(a) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1288(a))”.
 
-2003—Subsec. (d). Pub. L. 108–136, § 1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
+2003—Subsec. (d). Pub. L. 108–136, § 1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
 
-Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.).”
+Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.).”
 
 1997—Subsec. (a)(1)(B). Pub. L. 105–85 struck out “on which” after “after the date on which”.
 
-## § 2646. Travel services: procurement for official and unofficial travel under one contract
+## § 2646. Travel services: procurement for official and unofficial travel under one contract
 
 **(a) Authority.—** The head of an agency may enter into a contract for travel-related services that provides for the contractor to furnish services for both official travel and unofficial travel.
 
@@ -1410,7 +1410,7 @@ Subsec. (g). Pub. L. 108–136, § 1031(a)(26)(B), struck out heading and text
 
 **(d) Inapplicability to Coast Guard and NASA.—** This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
-(Added Pub. L. 105–261, div. A, title VIII, § 813(a), Oct. 17, 1998, 112 Stat. 2087; amended Pub. L. 116–283, div. A, title XVIII, § 1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4155.)
+(Added Pub. L. 105–261, div. A, title VIII, § 813(a), Oct. 17, 1998, 112 Stat. 2087; amended Pub. L. 116–283, div. A, title XVIII, § 1806(e)(1)(B), Jan. 1, 2021, 134 Stat. 4155.)
 
 **Editorial Notes**
 
@@ -1428,45 +1428,45 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2647. Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings
+## § 2647. Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings
 
 The Secretary of Defense may provide transportation for the next-of-kin of persons who are unaccounted for from the Korean conflict, the Cold War, Vietnam War era, or the Persian Gulf War to and from an annual meeting in the United States. Such transportation shall be provided under such regulations as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 107–107, div. A, title V, § 574(a), Dec. 28, 2001, 115 Stat. 1122.)
+(Added Pub. L. 107–107, div. A, title V, § 574(a), Dec. 28, 2001, 115 Stat. 1122.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Availability of Funds for Next-of-Kin of Vietnam Era Individuals**
 
-Pub. L. 107–117, div. A, title VIII, § 8018, Jan. 10, 2002, 115 Stat. 2251, provided that: “Funds available in this Act [see Tables for classification] and hereafter may be used to provide transportation for the next-of-kin of individuals who have been prisoners of war or missing in action from the Vietnam era to an annual meeting in the United States, under such regulations as the Secretary of Defense may prescribe.”
+Pub. L. 107–117, div. A, title VIII, § 8018, Jan. 10, 2002, 115 Stat. 2251, provided that: “Funds available in this Act [see Tables for classification] and hereafter may be used to provide transportation for the next-of-kin of individuals who have been prisoners of war or missing in action from the Vietnam era to an annual meeting in the United States, under such regulations as the Secretary of Defense may prescribe.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–259, title VIII, § 8018, Aug. 9, 2000, 114 Stat. 678.
+Pub. L. 106–259, title VIII, § 8018, Aug. 9, 2000, 114 Stat. 678.
 
-Pub. L. 106–79, title VIII, § 8018, Oct. 25, 1999, 113 Stat. 1235.
+Pub. L. 106–79, title VIII, § 8018, Oct. 25, 1999, 113 Stat. 1235.
 
-Pub. L. 105–262, title VIII, § 8018, Oct. 17, 1998, 112 Stat. 2301.
+Pub. L. 105–262, title VIII, § 8018, Oct. 17, 1998, 112 Stat. 2301.
 
-Pub. L. 105–56, title VIII, § 8018, Oct. 8, 1997, 111 Stat. 1224.
+Pub. L. 105–56, title VIII, § 8018, Oct. 8, 1997, 111 Stat. 1224.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8019], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8019], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
 
-Pub. L. 104–61, title VIII, § 8025, Dec. 1, 1995, 109 Stat. 657.
+Pub. L. 104–61, title VIII, § 8025, Dec. 1, 1995, 109 Stat. 657.
 
-Pub. L. 103–335, title VIII, § 8031, Sept. 30, 1994, 108 Stat. 2625.
+Pub. L. 103–335, title VIII, § 8031, Sept. 30, 1994, 108 Stat. 2625.
 
-Pub. L. 103–139, title VIII, § 8034, Nov. 11, 1993, 107 Stat. 1447.
+Pub. L. 103–139, title VIII, § 8034, Nov. 11, 1993, 107 Stat. 1447.
 
-Pub. L. 102–396, title IX, § 9046, Oct. 6, 1992, 106 Stat. 1912.
+Pub. L. 102–396, title IX, § 9046, Oct. 6, 1992, 106 Stat. 1912.
 
-Pub. L. 102–172, title VIII, § 8047, Nov. 26, 1991, 105 Stat. 1182.
+Pub. L. 102–172, title VIII, § 8047, Nov. 26, 1991, 105 Stat. 1182.
 
-Pub. L. 101–511, title VIII, § 8051, Nov. 5, 1990, 104 Stat. 1886.
+Pub. L. 101–511, title VIII, § 8051, Nov. 5, 1990, 104 Stat. 1886.
 
-Pub. L. 101–165, title IX, § 9065, Nov. 21, 1989, 103 Stat. 1143.
+Pub. L. 101–165, title IX, § 9065, Nov. 21, 1989, 103 Stat. 1143.
 
-## § 2648. Persons and supplies: sea, land, and air transportation
+## § 2648. Persons and supplies: sea, land, and air transportation
 
 Whenever the Secretary of Defense considers that space is available, the following persons and supplies may be transported on vessels, vehicles, or aircraft operated by the Department of Defense:
 
@@ -1482,7 +1482,7 @@ Whenever the Secretary of Defense considers that space is available, the followi
 
 However, a person described in paragraph (4) or (5) may be so transported only if the transportation is without expense to the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 266, § 4744; Pub. L. 86–624, § 4(d), July 12, 1960, 74 Stat. 411; renumbered § 2648 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(1), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, § 352(d), (e)(1), Jan. 7, 2011, 124 Stat. 4193.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 266, § 4744; Pub. L. 86–624, § 4(d), July 12, 1960, 74 Stat. 411; renumbered § 2648 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(1), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, § 352(d), (e)(1), Jan. 7, 2011, 124 Stat. 4193.)
 
 **Historical and Revision Notes**
 
@@ -1498,9 +1498,9 @@ Reference to the Philippine government, contained in the source statute for 10:1
 
 **Amendments**
 
-2011—Pub. L. 111–383 substituted “Persons and supplies: sea, land, and air transportation” for “Persons and supplies: sea transportation” in section catchline and inserted “, vehicles, or aircraft” after “vessels” in introductory provisions.
+2011—Pub. L. 111–383 substituted “Persons and supplies: sea, land, and air transportation” for “Persons and supplies: sea transportation” in section catchline and inserted “, vehicles, or aircraft” after “vessels” in introductory provisions.
 
-2004—Pub. L. 108–375, § 1072(b)(1), in introductory provisions, substituted “Secretary of Defense” for “Secretary of the Army” and struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any military transport agency of” before “the Department of Defense”, redesignated pars. (4) to (8) as (1) to (5), respectively, in par. (5), substituted “members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4)” for “persons described in clauses (1), (2), (4), (5), and (7)”, in concluding provisions, substituted “paragraph (4) or (5)” for “clause (7) or (8)”, and struck out former pars. (1) to (3) which read as follows:
+2004—Pub. L. 108–375, § 1072(b)(1), in introductory provisions, substituted “Secretary of Defense” for “Secretary of the Army” and struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any military transport agency of” before “the Department of Defense”, redesignated pars. (4) to (8) as (1) to (5), respectively, in par. (5), substituted “members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4)” for “persons described in clauses (1), (2), (4), (5), and (7)”, in concluding provisions, substituted “paragraph (4) or (5)” for “clause (7) or (8)”, and struck out former pars. (1) to (3) which read as follows:
 
 “(1) Members of the Navy, Marine Corps, or Coast Guard.
 
@@ -1508,11 +1508,11 @@ Reference to the Philippine government, contained in the source statute for 10:1
 
 “(3) Supplies of the Department of the Navy.”
 
-Pub. L. 108–375, § 1072(a), renumbered section 4744 of this title as this section.
+Pub. L. 108–375, § 1072(a), renumbered section 4744 of this title as this section.
 
 1960—Pub. L. 86–624 struck out cl. (6) which authorized transportation of officers and employees of the Territory of Hawaii, redesignated cls. (7) to (9) as (6) to (8), respectively, and substituted “clauses (1), (2), (4), (5), and (7)” for “clauses (1), (2), (4), (5), (6), and (8)” in redesignated cl. (8), and “clause (7) or (8)” for “clause (8) or (9)” in closing sentence.
 
-## § 2649. Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft
+## § 2649. Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft
 
 **(a) Authority.—** Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation.
 
@@ -1530,13 +1530,13 @@ Pub. L. 108–375, § 1072(a), renumbered section 4744 of this title as this s
 
 **(4)** the contract between the commercial provider and the insured shall contain a provision whereby the insured waives any claim against the United States for loss or damage that is within the scope of enumerated risks covered by the insurance product.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4745; Pub. L. 96–513, title V, § 512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, § 12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 2649 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, § 352(a)–(c), (e)(2), Jan. 7, 2011, 124 Stat. 4193, 4194; Pub. L. 112–239, div. A, title X, § 1076(e)(4), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 114–328, div. A, title X, § 1041, Dec. 23, 2016, 130 Stat. 2392.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4745; Pub. L. 96–513, title V, § 512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, § 12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 2649 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, § 352(a)–(c), (e)(2), Jan. 7, 2011, 124 Stat. 4193, 4194; Pub. L. 112–239, div. A, title X, § 1076(e)(4), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 114–328, div. A, title X, § 1041, Dec. 23, 2016, 130 Stat. 2392.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4745(a)   4745(b) | 10:1367 (less last 20 words). 10:1367 (last 20 words). | June 5, 1920, ch. 240 (6th proviso under “Transportation of the Army and Its Supplies”), 41 Stat. 960. |
+| 4745(a) 4745(b) | 10:1367 (less last 20 words). 10:1367 (last 20 words). | June 5, 1920, ch. 240 (6th proviso under “Transportation of the Army and Its Supplies”), 41 Stat. 960. |
 
 In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of the chairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
 
@@ -1544,25 +1544,25 @@ In subsection (a), the words “Federal Maritime Board” are substituted for th
 
 **Amendments**
 
-2016—Subsec. (b). Pub. L. 114–328, § 1041(c), substituted “subsection (a)” for “this section” in two places.
+2016—Subsec. (b). Pub. L. 114–328, § 1041(c), substituted “subsection (a)” for “this section” in two places.
 
-Subsec. (c). Pub. L. 114–328, § 1041(a), substituted “and Civilian Personnel and Cargo” for “Personnel” in heading and substituted in text “When” for “Until January 6, 2016, when” and “allied and civilian personnel and cargo” for “allied forces or civilians”.
+Subsec. (c). Pub. L. 114–328, § 1041(a), substituted “and Civilian Personnel and Cargo” for “Personnel” in heading and substituted in text “When” for “Until January 6, 2016, when” and “allied and civilian personnel and cargo” for “allied forces or civilians”.
 
-Subsec. (d). Pub. L. 114–328, § 1041(b), added subsec. (d).
+Subsec. (d). Pub. L. 114–328, § 1041(b), added subsec. (d).
 
 2013—Subsec. (c). Pub. L. 112–239 substituted “Until January 6, 2016” for “During the 5-year period beginning on the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
-2011—Pub. L. 111–383, § 352(e)(2), substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft” for “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” in section catchline.
+2011—Pub. L. 111–383, § 352(e)(2), substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft” for “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” in section catchline.
 
-Subsec. (a). Pub. L. 111–383, § 352(a), (b)(1), inserted heading, inserted “, vehicles, or aircraft” after “vessels” in two places in first sentence, and inserted “, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation” before period at end of second sentence.
+Subsec. (a). Pub. L. 111–383, § 352(a), (b)(1), inserted heading, inserted “, vehicles, or aircraft” after “vessels” in two places in first sentence, and inserted “, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation” before period at end of second sentence.
 
-Subsec. (b). Pub. L. 111–383, § 352(b)(2), inserted heading and substituted “Any amount received under this section with respect to transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance may be credited to the appropriation, fund, or account used in incurring the obligation for which such amount is received. In all other cases, amounts” for “Amounts”.
+Subsec. (b). Pub. L. 111–383, § 352(b)(2), inserted heading and substituted “Any amount received under this section with respect to transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance may be credited to the appropriation, fund, or account used in incurring the obligation for which such amount is received. In all other cases, amounts” for “Amounts”.
 
-Subsec. (c). Pub. L. 111–383, § 352(c), added subsec. (c).
+Subsec. (c). Pub. L. 111–383, § 352(c), added subsec. (c).
 
-2004—Pub. L. 108–375, § 1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
+2004—Pub. L. 108–375, § 1072(a), (b)(2)(A), renumbered section 4745 of this title as this section and substituted “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels” for “Civilian passengers and commercial cargoes: transports in trans-Atlantic service” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, § 1072(b)(2)(B)–(D), struck out “(1) on vessels operated by Army transport agencies, or (2) within bulk space allocations made to the Department of the Army” after “available” and “any transport agency of” before “the Department of Defense” and substituted “Secretary of Defense, be transported” for “Secretary of the Army and the Secretary of Homeland Security, be transported”.
+Subsec. (a). Pub. L. 108–375, § 1072(b)(2)(B)–(D), struck out “(1) on vessels operated by Army transport agencies, or (2) within bulk space allocations made to the Department of the Army” after “available” and “any transport agency of” before “the Department of Defense” and substituted “Secretary of Defense, be transported” for “Secretary of the Army and the Secretary of Homeland Security, be transported”.
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
@@ -1580,7 +1580,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2650. Civilian personnel in Alaska
+## § 2650. Civilian personnel in Alaska
 
 Persons residing in Alaska who are and have been employed there by the United States for at least two years, and their families, may be transported on vessels or airplanes operated by the Department of Defense, if—
 
@@ -1592,7 +1592,7 @@ Persons residing in Alaska who are and have been employed there by the United St
 
 **(4)** in case of travel by air, the transportation cannot be reasonably handled by a United States commercial air carrier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4746; Pub. L. 98–443, § 9(k), Oct. 4, 1984, 98 Stat. 1708; renumbered § 2650 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(3), Oct. 28, 2004, 118 Stat. 2057, 2058.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4746; Pub. L. 98–443, § 9(k), Oct. 4, 1984, 98 Stat. 1708; renumbered § 2650 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(3), Oct. 28, 2004, 118 Stat. 2057, 2058.)
 
 **Historical and Revision Notes**
 
@@ -1606,11 +1606,11 @@ Before the enactment of the National Security Act of 1947, the transport functio
 
 **Amendments**
 
-2004—Pub. L. 108–375, § 1072(a), (b)(3)(A), renumbered section 4746 of this title as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
+2004—Pub. L. 108–375, § 1072(a), (b)(3)(A), renumbered section 4746 of this title as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
 
-Par. (1). Pub. L. 108–375, § 1072(b)(3)(B), substituted “Secretary of Defense” for “Secretary of the Army”.
+Par. (1). Pub. L. 108–375, § 1072(b)(3)(B), substituted “Secretary of Defense” for “Secretary of the Army”.
 
-Par. (4). Pub. L. 108–375, § 1072(b)(3)(C), substituted “by air, the transportation cannot” for “by air—
+Par. (4). Pub. L. 108–375, § 1072(b)(3)(C), substituted “by air, the transportation cannot” for “by air—
 
 “(A) the Secretary of Transportation has not certified that commercial air carriers of the United States that can handle the transportation are operating between Alaska and the United States; and
 
@@ -1624,11 +1624,11 @@ Par. (4). Pub. L. 108–375, § 1072(b)(3)(C), substituted “by air, the tran
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
-## § 2651. Passengers and merchandise to Guam: sea transport
+## § 2651. Passengers and merchandise to Guam: sea transport
 
 Whenever space is available, passengers, and merchandise produced in the United States, or the Commonwealths and possessions, and consigned to residents and mercantile firms of Guam, may be transported to Guam on vessels operated by the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4747; renumbered § 2651 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(4), Oct. 28, 2004, 118 Stat. 2057, 2058; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(ii), Jan. 7, 2011, 124 Stat. 4377.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4747; renumbered § 2651 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(4), Oct. 28, 2004, 118 Stat. 2057, 2058; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(ii), Jan. 7, 2011, 124 Stat. 4377.)
 
 **Historical and Revision Notes**
 
@@ -1643,27 +1643,27 @@ The words “without displacing military supplies” and “of the island of”,
 
 **Amendments**
 
-2011—Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–163, § 1057(a)(6). See 2006 Amendment note below.
+2011—Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–163, § 1057(a)(6). See 2006 Amendment note below.
 
-2006—Pub. L. 109–163, § 1057(a)(6), as amended by Pub. L. 111–383, substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+2006—Pub. L. 109–163, § 1057(a)(6), as amended by Pub. L. 111–383, substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
-2004—Pub. L. 108–375, § 1072(b)(4), substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”.
+2004—Pub. L. 108–375, § 1072(b)(4), substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”.
 
-Pub. L. 108–375, § 1072(a), renumbered section 4747 of this title as this section.
+Pub. L. 108–375, § 1072(a), renumbered section 4747 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
-## § 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes
+## § 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes
 
 The United States Transportation Command may not charge a tariff by reason of the use by a military service of an aircraft of that military service on a route designated by the United States Transportation Command as a channel route.
 
-(Added Pub. L. 115–91, div. A, title X, § 1044(a), Dec. 12, 2017, 131 Stat. 1555.)
+(Added Pub. L. 115–91, div. A, title X, § 1044(a), Dec. 12, 2017, 131 Stat. 1555.)
 
-## § 2653. Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries
+## § 2653. Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries
 
 **(a) Authority to Evacuate.—** Subject to the limitations under subsection (b), in the event of a situation during which the Department of Defense evacuates noncombatants from a foreign country, the Secretary of Defense may enter into agreements with appropriate nonprofit entities under which such entities provide for the evacuation of—
 
@@ -1679,9 +1679,9 @@ The United States Transportation Command may not charge a tariff by reason of th
 
 **(3)** The operator of a vehicle used for evacuation may refuse to evacuate a family pet or contract working dog if the operator determines that the evacuation would create a safety risk to other passengers or personnel.
 
-(Added Pub. L. 119–60, div. A, title III, § 372, Dec. 18, 2025, 139 Stat. 836.)
+(Added Pub. L. 119–60, div. A, title III, § 372, Dec. 18, 2025, 139 Stat. 836.)
 
-## § 2654. Aircraft safety: requirements for certain highly trafficked domestic airspace
+## § 2654. Aircraft safety: requirements for certain highly trafficked domestic airspace
 
 **(a) Limitation on Operation.—** Notwithstanding section 1046 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232, 49 U.S.C. 40101 note), except as provided in subsection (b), the Secretary of a military department may not authorize any manned rotary wing aircraft of the Department of Defense to operate a training mission in a covered airspace unless such aircraft, while being operated, is actively providing warning of the proximity of such aircraft to nearby commercial aircraft in a manner compatible with the traffic alert and collision avoidance system of such commercial aircraft.
 
@@ -1707,4 +1707,4 @@ The United States Transportation Command may not charge a tariff by reason of th
 
 **(2)** The term “covered airspace” means the Washington, DC Metropolitan Area Special Flight Rules Area, as such term is defined in section 93.335 of title 14, Code of Federal Regulations, or any successor regulation.
 
-(Added Pub. L. 119–60, div. A, title III, § 373(a), Dec. 18, 2025, 139 Stat. 837.)
+(Added Pub. L. 119–60, div. A, title III, § 373(a), Dec. 18, 2025, 139 Stat. 837.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2015—REPORTS
 
-## § 20701. Promotion rates
+## § 20701. Promotion rates
 
 Not later than December 31 of each year, the Secretary of the Air Force shall submit to the Committees on Armed Forces of the Senate and the House of Representatives a report on the promotion rates of members of the Space Force for the preceding fiscal year. Such report shall include—
 
@@ -25,9 +25,9 @@ Not later than December 31 of each year, the Secretary of the Air Force shall su
 
 **(3)** the number of members of the Space Force who were selected for promotion to the grade of brigadier general, major general, lieutenant general, or general, disaggregated by career specialty track.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174.)
 
-## § 20702. Modifications to career fields and codes
+## § 20702. Modifications to career fields and codes
 
 Not later than 60 days before the date on which a change is made to the career fields or mission occupational specialty codes for the Space Force, the Secretary of the Air Force shall submit to the Committees on Armed Forces of the Senate and the House of Representatives a report that includes—
 
@@ -35,4 +35,4 @@ Not later than 60 days before the date on which a change is made to the career f
 
 **(2)** the plan of the Secretary to maintain the Space Force competencies and comply with requirements in law with respect to Space Force career fields and duty assignments.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174.)

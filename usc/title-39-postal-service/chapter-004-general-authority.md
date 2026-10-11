@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2012—Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, renumbered Pub. L. 106–253, § 2(d). See 2000 Amendment note below.
+2012—Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, renumbered Pub. L. 106–253, § 2(d). See 2000 Amendment note below.
 
-2006—Pub. L. 109–435, title IV, § 403(c), Dec. 20, 2006, 120 Stat. 3227, added item 404a.
+2006—Pub. L. 109–435, title IV, § 403(c), Dec. 20, 2006, 120 Stat. 3227, added item 404a.
 
-2000—Pub. L. 106–253, § 2(c), formerly § 2(d), July 28, 2000, 114 Stat. 636, as renumbered § 2(c) by Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, added item 416.
+2000—Pub. L. 106–253, § 2(c), formerly § 2(d), July 28, 2000, 114 Stat. 636, as renumbered § 2(c) by Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, added item 416.
 
-1998—Pub. L. 105–241, § 4(b), Sept. 28, 1998, 112 Stat. 1573, added item 415.
+1998—Pub. L. 105–241, § 4(b), Sept. 28, 1998, 112 Stat. 1573, added item 415.
 
-1997—Pub. L. 105–41, § 2(c), Aug. 13, 1997, 111 Stat. 1121, added item 414.
+1997—Pub. L. 105–41, § 2(c), Aug. 13, 1997, 111 Stat. 1121, added item 414.
 
-1990—Pub. L. 101–524, § 5(b), Nov. 6, 1990, 104 Stat. 2303, added item 413.
+1990—Pub. L. 101–524, § 5(b), Nov. 6, 1990, 104 Stat. 2303, added item 413.
 
-## § 401. General powers of the Postal Service
+## § 401. General powers of the Postal Service
 
 Subject to the provisions of section 404a, the Postal Service shall have the following general powers:
 
@@ -55,15 +55,15 @@ Subject to the provisions of section 404a, the Postal Service shall have the fol
 
 **(10)** to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722; Pub. L. 109–435, title IV, § 403(b)(1), title V, § 504, Dec. 20, 2006, 120 Stat. 3227, 3235.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722; Pub. L. 109–435, title IV, § 403(b)(1), title V, § 504, Dec. 20, 2006, 120 Stat. 3227, 3235.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–435, § 403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
+2006—Pub. L. 109–435, § 403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
 
-Par. (2). Pub. L. 109–435, § 504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
+Par. (2). Pub. L. 109–435, § 504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -79,9 +79,9 @@ For assignment of certain emergency preparedness functions to the Postmaster Gen
 
 **Executive Order No. 13975**
 
-Ex. Ord. No. 13975, Jan. 14, 2021, 86 F.R. 6547, which encouraged Buy American policies for the United States Postal Service, was revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, set out as a note under section 8301 of Title 41, Public Contracts.
+Ex. Ord. No. 13975, Jan. 14, 2021, 86 F.R. 6547, which encouraged Buy American policies for the United States Postal Service, was revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, set out as a note under section 8301 of Title 41, Public Contracts.
 
-## § 402. Delegation of authority
+## § 402. Delegation of authority
 
 Except for those powers, duties, or obligations specifically vested in the Governors, as distinguished from the Board of Governors, the Board may delegate the authority vested in it to the Postmaster General under such terms, conditions, and limitations, including the power of redelegation, as it deems desirable. The Board may establish such committees of the Board, and delegate such powers to any committee, as the Board determines appropriate to carry out its functions and duties. Delegations to the Postmaster General or committees shall be consistent with other provisions of this title, shall not relieve the Board of full responsibility for the carrying out of its duties and functions, and shall be revocable by the Governors in their exclusive judgment.
 
@@ -93,7 +93,7 @@ Except for those powers, duties, or obligations specifically vested in the Gover
 
 Section effective Jan. 16, 1971, pursuant to Resolution No. 71–5 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 403. General duties
+## § 403. General duties
 
 **(a)** The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
 
@@ -107,7 +107,7 @@ Section effective Jan. 16, 1971, pursuant to Resolution No. 71–5 of the Board 
 
 **(c)** In providing services and in establishing classifications, rates, and fees under this title, the Postal Service shall not, except as specifically authorized in this title, make any undue or unreasonable discrimination among users of the mails, nor shall it grant any undue or unreasonable preferences to any such user.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 723; Pub. L. 96–70, title I, § 1331(e)(1), Sept. 27, 1979, 93 Stat. 482.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 723; Pub. L. 96–70, title I, § 1331(e)(1), Sept. 27, 1979, 93 Stat. 482.)
 
 **Editorial Notes**
 
@@ -137,15 +137,15 @@ Pub. L. 108–7, div. J, title II, Feb. 20, 2003, 117 Stat. 442.
 
 Pub. L. 107–67, title II, Nov. 12, 2001, 115 Stat. 525.
 
-Pub. L. 106–554, § 1(a)(3) [title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–135.
+Pub. L. 106–554, § 1(a)(3) [title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–135.
 
 Pub. L. 106–58, title II, Sept. 29, 1999, 113 Stat. 444.
 
-Pub. L. 105–277, div. A, § 101(h) [title II], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
+Pub. L. 105–277, div. A, § 101(h) [title II], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
 
 Pub. L. 105–61, title II, Oct. 10, 1997, 111 Stat. 1290.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title II], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326.
+Pub. L. 104–208, div. A, title I, § 101(f) [title II], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326.
 
 Pub. L. 104–52, title II, Nov. 19, 1995, 109 Stat. 476.
 
@@ -163,29 +163,29 @@ Pub. L. 101–136, title II, Nov. 3, 1989, 103 Stat. 790.
 
 Pub. L. 100–440, title II, Sept. 22, 1988, 102 Stat. 1727.
 
-Pub. L. 100–202, §§ 101(m) [title II], 102, Dec. 22, 1987, 101 Stat. 1329–390, 1329–397, 1329–433.
+Pub. L. 100–202, §§ 101(m) [title II], 102, Dec. 22, 1987, 101 Stat. 1329–390, 1329–397, 1329–433.
 
-Pub. L. 99–500, §§ 101(m) [title II], 102, Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, 1783–346, and Pub. L. 99–591, §§ 101(m) [title II], 102, Oct. 30, 1986, 100 Stat. 3341–308, 3341–314, 3341–346.
+Pub. L. 99–500, §§ 101(m) [title II], 102, Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, 1783–346, and Pub. L. 99–591, §§ 101(m) [title II], 102, Oct. 30, 1986, 100 Stat. 3341–308, 3341–314, 3341–346.
 
-Pub. L. 99–190, §§ 101(h) [H.R. 3036, title II], 102, Dec. 19, 1985, 99 Stat. 1291, 1315.
+Pub. L. 99–190, §§ 101(h) [H.R. 3036, title II], 102, Dec. 19, 1985, 99 Stat. 1291, 1315.
 
-Pub. L. 98–473, §§ 101(j) [H.R. 5798, title II], 102, Oct. 12, 1984, 98 Stat. 1963, 1964.
+Pub. L. 98–473, §§ 101(j) [H.R. 5798, title II], 102, Oct. 12, 1984, 98 Stat. 1963, 1964.
 
-Pub. L. 98–151, §§ 102, 106, Nov. 14, 1983, 97 Stat. 975.
+Pub. L. 98–151, §§ 102, 106, Nov. 14, 1983, 97 Stat. 975.
 
-Pub. L. 98–107, §§ 102, 108, Oct. 1, 1983, 97 Stat. 740, 741.
+Pub. L. 98–107, §§ 102, 108, Oct. 1, 1983, 97 Stat. 740, 741.
 
-Pub. L. 97–377, title I, § 111B, Dec. 21, 1982, 96 Stat. 1912.
+Pub. L. 97–377, title I, § 111B, Dec. 21, 1982, 96 Stat. 1912.
 
-Pub. L. 97–35, title XVII, § 1722, Aug. 13, 1981, 95 Stat. 759, as amended by Pub. L. 98–369, div. B, title II, § 2209, July 18, 1984, 98 Stat. 1061.
+Pub. L. 97–35, title XVII, § 1722, Aug. 13, 1981, 95 Stat. 759, as amended by Pub. L. 98–369, div. B, title II, § 2209, July 18, 1984, 98 Stat. 1061.
 
-Pub. L. 96–499, title IV, § 412, Dec. 5, 1980, 94 Stat. 2607.
+Pub. L. 96–499, title IV, § 412, Dec. 5, 1980, 94 Stat. 2607.
 
 **Prohibition of 9-Digit ZIP Code**
 
-Pub. L. 97–35, title XVII, § 1726, Aug. 13, 1981, 95 Stat. 761, prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
+Pub. L. 97–35, title XVII, § 1726, Aug. 13, 1981, 95 Stat. 761, prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
 
-## § 404. Specific powers
+## § 404. Specific powers
 
 **(a)** Subject to the provisions of section 404a, but otherwise without limitation of the generality of its powers, the Postal Service shall have the following specific powers, among others:
 
@@ -265,35 +265,35 @@ The Commission may affirm the determination of the Postal Service or order that 
 
 **(5)** If the Postal Regulatory Commission authorizes the Postal Service to continue a nonpostal service under this subsection, the Postal Regulatory Commission shall designate whether the service shall be regulated under this title as a market dominant product, a competitive product, or an experimental product.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, § 9(a), Sept. 24, 1976, 90 Stat. 1310; Pub. L. 105–241, § 3, Sept. 28, 1998, 112 Stat. 1572; Pub. L. 109–435, title I, § 102(a), title IV, § 403(b)(2), title VI, § 604(a), title X, §§ 1006(a), 1010(e), Dec. 20, 2006, 120 Stat. 3200, 3227, 3241, 3258, 3261; Pub. L. 117–108, title I, § 103(b)(1), Apr. 6, 2022, 136 Stat. 1144.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, § 9(a), Sept. 24, 1976, 90 Stat. 1310; Pub. L. 105–241, § 3, Sept. 28, 1998, 112 Stat. 1572; Pub. L. 109–435, title I, § 102(a), title IV, § 403(b)(2), title VI, § 604(a), title X, §§ 1006(a), 1010(e), Dec. 20, 2006, 120 Stat. 3200, 3227, 3241, 3258, 3261; Pub. L. 117–108, title I, § 103(b)(1), Apr. 6, 2022, 136 Stat. 1144.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 The date of enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
 **Amendments**
 
-2022—Subsec. (e)(2). Pub. L. 117–108 inserted “, or any nonpostal products or services authorized by chapter 37” after “under this subsection”.
+2022—Subsec. (e)(2). Pub. L. 117–108 inserted “, or any nonpostal products or services authorized by chapter 37” after “under this subsection”.
 
-2006—Subsec. (a). Pub. L. 109–435, § 403(b)(2), substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
+2006—Subsec. (a). Pub. L. 109–435, § 403(b)(2), substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
 
-Subsec. (a)(6) to (9). Pub. L. 109–435, § 102(a)(1), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out former par. (6), which read “to provide, establish, change, or abolish special nonpostal or similar services;”.
+Subsec. (a)(6) to (9). Pub. L. 109–435, § 102(a)(1), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out former par. (6), which read “to provide, establish, change, or abolish special nonpostal or similar services;”.
 
-Subsec. (b). Pub. L. 109–435, § 1010(e), added subsec. (b). Former subsec. (b) redesignated (d).
+Subsec. (b). Pub. L. 109–435, § 1010(e), added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (b)(5). Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+Subsec. (b)(5). Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-Subsec. (b)(6). Pub. L. 109–435, § 1006(a), added par. (6).
+Subsec. (b)(6). Pub. L. 109–435, § 1006(a), added par. (6).
 
-Subsec. (c). Pub. L. 109–435, § 1010(e), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 109–435, § 1010(e), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Pub. L. 109–435, § 102(a)(2), added subsec. (c).
+Pub. L. 109–435, § 102(a)(2), added subsec. (c).
 
-Subsecs. (d), (e). Pub. L. 109–435, § 1010(e), redesignated subsecs. (b) and (c) as (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 109–435, § 1010(e), redesignated subsecs. (b) and (c) as (d) and (e), respectively.
 
 1998—Subsec. (b)(2). Pub. L. 105–241 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
 
@@ -313,11 +313,11 @@ Subsecs. (d), (e). Pub. L. 109–435, § 1010(e), redesignated subsecs. (b) an
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–435, title X, § 1006(b), Dec. 20, 2006, 120 Stat. 3258, provided that: “This section [amending this section] and the amendments made by this section shall apply with respect to any determination to close or consolidate a post office which is first made available, in accordance with paragraph (3) of section 404(b) of title 39, United States Code, after the end of the 3-month period beginning on the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–435, title X, § 1006(b), Dec. 20, 2006, 120 Stat. 3258, provided that: “This section [amending this section] and the amendments made by this section shall apply with respect to any determination to close or consolidate a post office which is first made available, in accordance with paragraph (3) of section 404(b) of title 39, United States Code, after the end of the 3-month period beginning on the date of the enactment of this Act [Dec. 20, 2006].”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–421, § 9(b), Sept. 24, 1976, 90 Stat. 1311, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on the day after the date on which the Commission on Postal Service transmits its final report under section 7(f)(1) of this Act [set out as a note under section 3661 of this title].”
+Pub. L. 94–421, § 9(b), Sept. 24, 1976, 90 Stat. 1311, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on the day after the date on which the Commission on Postal Service transmits its final report under section 7(f)(1) of this Act [set out as a note under section 3661 of this title].”
 
 **Effective Date**
 
@@ -325,13 +325,13 @@ Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pur
 
 **Treatment of Existing Nonpostal Services**
 
-Pub. L. 117–108, title I, § 103(b)(3), Apr. 6, 2022, 136 Stat. 1144, provided that: “All individual nonpostal services, provided directly or through licensing, that are continued pursuant to section 404(e) of title 39, United States Code, shall be considered to be expressly authorized by chapter 37 of such title (as added by subsection (a)(1)) and shall be subject to the requirements of section 3705 [probably means section 3705 of this title], subsections (a) through (d).”
+Pub. L. 117–108, title I, § 103(b)(3), Apr. 6, 2022, 136 Stat. 1144, provided that: “All individual nonpostal services, provided directly or through licensing, that are continued pursuant to section 404(e) of title 39, United States Code, shall be considered to be expressly authorized by chapter 37 of such title (as added by subsection (a)(1)) and shall be subject to the requirements of section 3705 [probably means section 3705 of this title], subsections (a) through (d).”
 
 **References to Postal Rate Commission**
 
-Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: “Whenever a reference is made in any provision of law (other than this Act [see Tables for classification] or a provision of law amended by this Act), regulation, rule, document, or other record of the United States to the Postal Rate Commission, such reference shall be considered a reference to the Postal Regulatory Commission.”
+Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: “Whenever a reference is made in any provision of law (other than this Act [see Tables for classification] or a provision of law amended by this Act), regulation, rule, document, or other record of the United States to the Postal Rate Commission, such reference shall be considered a reference to the Postal Regulatory Commission.”
 
-## § 404a. Specific limitations
+## § 404a. Specific limitations
 
 **(a)** Except as specifically authorized by law, the Postal Service may not—
 
@@ -345,15 +345,15 @@ Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provide
 
 **(c)** Any party (including an officer of the Commission representing the interests of the general public) who believes that the Postal Service has violated this section may bring a complaint in accordance with section 3662.
 
-(Added Pub. L. 109–435, title IV, § 403(a), Dec. 20, 2006, 120 Stat. 3226.)
+(Added Pub. L. 109–435, title IV, § 403(a), Dec. 20, 2006, 120 Stat. 3226.)
 
-## § 405. Printing of illustrations of United States postage stamps
+## § 405. Printing of illustrations of United States postage stamps
 
 **(a)** When requested by the Postal Service, the Director of the Government Publishing Office shall print, as a public document for sale by the Superintendent of Documents, illustrations in black and white or in color of postage stamps of the United States, together with such descriptive, historical, and philatelic information with regard to the stamps as the Postal Service deems suitable.
 
 **(b)** Notwithstanding the provisions of section 505 of title 44, stereotype or electrotype plates, or duplicates thereof, used in the publications authorized to be printed by this section may not be sold or otherwise disposed of.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -365,7 +365,7 @@ Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provide
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 406. Postal services at Armed Forces installations
+## § 406. Postal services at Armed Forces installations
 
 **(a)** The Postal Service may establish branch post offices at camps, posts, bases, or stations of the Armed Forces and at defense or other strategic installations.
 
@@ -389,7 +389,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(2)** No funds may be obligated or expended to establish, maintain, or expand a post office established under subsection (a) for the purpose of use described in paragraph (1) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 116–92, div. A, title X, § 1056, Dec. 20, 2019, 133 Stat. 1593; Pub. L. 118–31, div. A, title XVIII, § 1806(a), Dec. 22, 2023, 137 Stat. 688.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 116–92, div. A, title X, § 1056, Dec. 20, 2019, 133 Stat. 1593; Pub. L. 118–31, div. A, title XVIII, § 1806(a), Dec. 22, 2023, 137 Stat. 688.)
 
 **Editorial Notes**
 
@@ -405,7 +405,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 407. International postal arrangements
+## § 407. International postal arrangements
 
 **(a)** It is the policy of the United States—
 
@@ -457,7 +457,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(4)** The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, § 101(h) [title VI, § 633(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523; Pub. L. 109–435, title IV, § 405(a), Dec. 20, 2006, 120 Stat. 3229; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–286, § 4(a)(226), Dec. 27, 2022, 136 Stat. 4330.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, § 101(h) [title VI, § 633(a)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523; Pub. L. 109–435, title IV, § 405(a), Dec. 20, 2006, 120 Stat. 3229; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–286, § 4(a)(226), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -487,7 +487,7 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–435, title IV, § 405(b), Dec. 20, 2006, 120 Stat. 3232, provided that:
+Pub. L. 109–435, title IV, § 405(b), Dec. 20, 2006, 120 Stat. 3232, provided that:
 
 > “Notwithstanding any provision of the amendment made by subsection (a) [amending this section], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
 
@@ -501,7 +501,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Transfer of Funds to State Department**
 
-Pub. L. 105–277, § 101(h) [title VI, § 633(d)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code.”
+Pub. L. 105–277, § 101(h) [title VI, § 633(d)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code.”
 
 **Executive Documents**
 
@@ -593,7 +593,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-## § 408. International money-order exchanges
+## § 408. International money-order exchanges
 
 The Postal Service may make arrangements with other governments, with which postal conventions are or may be concluded, for the exchange of sums of money by means of postal orders. It shall fix limitations on the amount which may be so exchanged and the rates of exchange.
 
@@ -605,7 +605,7 @@ The Postal Service may make arrangements with other governments, with which post
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 409. Suits by and against the Postal Service
+## § 409. Suits by and against the Postal Service
 
 **(a)** Except as otherwise provided in this title, the United States district courts shall have original but not exclusive jurisdiction over all actions brought by or against the Postal Service. Any action brought in a State court to which the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
 
@@ -693,7 +693,7 @@ The Postal Service may, by contract or otherwise, employ attorneys to obtain any
 
 **(h)** A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service, subject to the restriction specified in section 2011(g).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 97–258, § 2(k), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 109–435, title IV, § 404, Dec. 20, 2006, 120 Stat. 3227.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 97–258, § 2(k), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 109–435, title IV, § 404, Dec. 20, 2006, 120 Stat. 3227.)
 
 **Historical and Revision Notes**
 
@@ -701,7 +701,7 @@ The Postal Service may, by contract or otherwise, employ attorneys to obtain any
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 409(e) | 31:724a (last sentence). | July 27, 1956, ch. 748, 70 Stat. 678, § 1302 (last sentence); added Aug. 12, 1970, Pub. L. 91–375, § 6(*l*)(3), 84 Stat. 782. |
+| 409(e) | 31:724a (last sentence). | July 27, 1956, ch. 748, 70 Stat. 678, § 1302 (last sentence); added Aug. 12, 1970, Pub. L. 91–375, § 6(*l*)(3), 84 Stat. 782. |
 
 The words “Notwithstanding the other provisions of this section” are omitted as unnecessary.
 
@@ -709,7 +709,7 @@ The words “Notwithstanding the other provisions of this section” are omitted
 
 **References in Text**
 
-The Act of July 5, 1946, referred to in subsec. (d)(2)(A), is act July 5, 1946, ch. 540, 60 Stat. 427, popularly known as the Trademark Act of 1946 and also as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Act of July 5, 1946, referred to in subsec. (d)(2)(A), is act July 5, 1946, ch. 540, 60 Stat. 427, popularly known as the Trademark Act of 1946 and also as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 Section 5 of the Federal Trade Commission Act, referred to in subsecs. (d)(2)(B) and (e)(1)(B)(ii), is classified to section 45 of Title 15, Commerce and Trade.
 
@@ -719,9 +719,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(3), is the 
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–435, § 404(b), substituted “Except as otherwise provided in this title,” for “Except as provided in section 3628 of this title,”.
+2006—Subsec. (a). Pub. L. 109–435, § 404(b), substituted “Except as otherwise provided in this title,” for “Except as provided in section 3628 of this title,”.
 
-Subsecs. (d) to (h). Pub. L. 109–435, § 404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
+Subsecs. (d) to (h). Pub. L. 109–435, § 404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
 
 “(d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legal representation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
@@ -735,15 +735,15 @@ Subsecs. (d) to (h). Pub. L. 109–435, § 404(a), added subsecs. (d) to (h) a
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 410. Application of other laws
+## § 410. Application of other laws
 
 **(a)** Except as provided by subsection (b) of this section, and except as otherwise provided in this title or insofar as such laws remain in force as rules or regulations of the Postal Service, no Federal law dealing with public or Federal contracts, property, works, officers, employees, budgets, or funds, including the provisions of chapters 5 and 7 of title 5, shall apply to the exercise of the powers of the Postal Service.
 
 **(b)** The following provisions shall apply to the Postal Service:
 
-**(1)** section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 1
+**(1)** section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
 
@@ -793,21 +793,21 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(3)** Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, § 8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, § 2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, § 101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, § 5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, § 203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, § 302(c), title VII, § 703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, § 1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, § 2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, § 104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, § 202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, § 9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, § 708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382; Pub. L. 107–217, § 3(k), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–178, § 4(j), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, § 5(k), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 117–286, § 4(b)(63), Dec. 27, 2022, 136 Stat. 4350.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, § 8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, § 2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, § 101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, § 5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, § 203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, § 302(c), title VII, § 703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, § 1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, § 2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, § 104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, § 202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, § 9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, § 708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382; Pub. L. 107–217, § 3(k), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–178, § 4(j), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, § 5(k), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 117–286, § 4(b)(63), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
-Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§ 107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of Title 20 and Tables.
+Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§ 107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), referred to in subsec. (b)(7), is section 19 of Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1609, which enacted section 668 of Title 29, Labor, and amended section 7902 of Title 5, Government Organization and Employees.
 
-The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
@@ -821,9 +821,9 @@ Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subs
 
 “(B) chapter 6 (the Service Contract Act of 1965);”.
 
-2003—Subsec. (d)(1). Pub. L. 108–178, § 4(j)(1), substituted “section 3142 of title 40” for “section 276a of title 40”.
+2003—Subsec. (d)(1). Pub. L. 108–178, § 4(j)(1), substituted “section 3142 of title 40” for “section 276a of title 40”.
 
-Subsec. (d)(2). Pub. L. 108–178, § 4(j)(2), substituted “section 3145 of title 40” for “section 276c of title 40”.
+Subsec. (d)(2). Pub. L. 108–178, § 4(j)(2), substituted “section 3145 of title 40” for “section 276c of title 40”.
 
 2002—Subsec. (b)(4). Pub. L. 107–217 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the following provisions of title 40:
 
@@ -839,29 +839,29 @@ Subsec. (d)(2). Pub. L. 108–178, § 4(j)(2), substituted “section 3145 of 
 
 “(F) chapter 15 (the Government Losses in Shipment Act);”.
 
-1996—Subsec. (b)(9). Pub. L. 104–208, § 101(f) [title VI, § 662(f)(1)(A)], struck out “and” at end.
+1996—Subsec. (b)(9). Pub. L. 104–208, § 101(f) [title VI, § 662(f)(1)(A)], struck out “and” at end.
 
-Subsec. (b)(10). Pub. L. 104–208, § 101(f) [title VI, § 662(f)(1)(B)], substituted “(10) the Inspector General Act of 1978; and” for “the provisions of section 8F of the Inspector General Act of 1978.”
+Subsec. (b)(10). Pub. L. 104–208, § 101(f) [title VI, § 662(f)(1)(B)], substituted “(10) the Inspector General Act of 1978; and” for “the provisions of section 8F of the Inspector General Act of 1978.”
 
-1993—Subsec. (b)(8). Pub. L. 103–82, § 202(g)(6)(A), and Pub. L. 103–123, § 708(a)(1), amended par. (8) identically, striking out “and” at end.
+1993—Subsec. (b)(8). Pub. L. 103–82, § 202(g)(6)(A), and Pub. L. 103–123, § 708(a)(1), amended par. (8) identically, striking out “and” at end.
 
-Subsec. (b)(9). Pub. L. 103–123, § 708(a)(2), substituted “chapter” for “Chapter” in par. (9) relating to title 31.
+Subsec. (b)(9). Pub. L. 103–123, § 708(a)(2), substituted “chapter” for “Chapter” in par. (9) relating to title 31.
 
-Pub. L. 103–82, § 202(g)(6)(B), and Pub. L. 103–123, § 708(a)(2), amended par. (9), relating to title 31, identically, substituting “; and” for period at end.
+Pub. L. 103–82, § 202(g)(6)(B), and Pub. L. 103–123, § 708(a)(2), amended par. (9), relating to title 31, identically, substituting “; and” for period at end.
 
-Pub. L. 103–94, § 9(b)(2)(A), and Pub. L. 103–123, § 708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, § 202(g)(6)(C), struck out such par. See below.
+Pub. L. 103–94, § 9(b)(2)(A), and Pub. L. 103–123, § 708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, § 202(g)(6)(C), struck out such par. See below.
 
-Pub. L. 103–82, § 202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
+Pub. L. 103–82, § 202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
 
-Subsec. (b)(10). Pub. L. 103–94, § 9(b)(2)(A), and Pub. L. 103–123, § 708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, § 202(g)(6)(C), struck out such par. See above.
+Subsec. (b)(10). Pub. L. 103–94, § 9(b)(2)(A), and Pub. L. 103–123, § 708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, § 202(g)(6)(C), struck out such par. See above.
 
-Pub. L. 103–82, § 202(g)(6)(C), added par. (10).
+Pub. L. 103–82, § 202(g)(6)(C), added par. (10).
 
-Subsec. (b)(11). Pub. L. 103–94, § 9(b)(2)(B), added par. (11).
+Subsec. (b)(11). Pub. L. 103–94, § 9(b)(2)(B), added par. (11).
 
-1988—Subsec. (b)(6) to (8). Pub. L. 100–504, § 104(b)(1)–(4), struck out “and” after semicolon in par. (6), substituted semicolon for period in par. (7), and substituted “the provisions” for “The provisions” and “; and” for period in par. (8).
+1988—Subsec. (b)(6) to (8). Pub. L. 100–504, § 104(b)(1)–(4), struck out “and” after semicolon in par. (6), substituted semicolon for period in par. (7), and substituted “the provisions” for “The provisions” and “; and” for period in par. (8).
 
-Subsec. (b)(9). Pub. L. 100–504, § 104(b)(5), added par. (9) relating to section 8E of Inspector General Act.
+Subsec. (b)(9). Pub. L. 100–504, § 104(b)(5), added par. (9) relating to section 8E of Inspector General Act.
 
 Pub. L. 100–496 added par. (9) relating to chapter 39 of title 31.
 
@@ -915,7 +915,7 @@ Amendment by Pub. L. 93–340 effective on 90th day following July 10, 1974, see
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–656, § 8(b), Jan. 8, 1971, 84 Stat. 1955, provided that: “The provisions of this section [amending this section] shall become effective on the effective date prescribed under section 15(a) of the Postal Reorganization Act [set out as an Effective Date note preceding section 101 of this title] for section 410 of title 39, United States Code, as enacted by that Act.”
+Pub. L. 91–656, § 8(b), Jan. 8, 1971, 84 Stat. 1955, provided that: “The provisions of this section [amending this section] shall become effective on the effective date prescribed under section 15(a) of the Postal Reorganization Act [set out as an Effective Date note preceding section 101 of this title] for section 410 of title 39, United States Code, as enacted by that Act.”
 
 **Effective Date**
 
@@ -923,13 +923,13 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 **Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees**
 
-Pub. L. 103–94, § 7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: “The amendments made by this Act [enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5] (except for the amendments made by section 8 [amending sections 2302 and 3303 of Title 5]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) [now 504(e)] of title 39, United States Code.”
+Pub. L. 103–94, § 7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: “The amendments made by this Act [enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5] (except for the amendments made by section 8 [amending sections 2302 and 3303 of Title 5]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) [now 504(e)] of title 39, United States Code.”
 
-## § 411. Cooperation with other Government agencies
+## § 411. Cooperation with other Government agencies
 
 Executive agencies within the meaning of section 105 of title 5 and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability within the limitations of chapter 37, as the Postal Service and the head of the agency concerned shall deem appropriate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 726; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–108, title I, § 103(b)(2), Apr. 6, 2022, 136 Stat. 1144.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 726; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–108, title I, § 103(b)(2), Apr. 6, 2022, 136 Stat. 1144.)
 
 **Editorial Notes**
 
@@ -947,13 +947,13 @@ Executive agencies within the meaning of section 105 of title 5 and the Governme
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 412. Nondisclosure of lists of names and addresses
+## § 412. Nondisclosure of lists of names and addresses
 
 **(a)** Except as specifically provided by subsection (b) or other law, no officer or employee of the Postal Service shall make available to the public by any means or for any purpose any mailing or other list of names or addresses (past or present) of postal patrons or other persons.
 
 **(b)** The Postal Service shall provide to the Secretary of Commerce for use by the Bureau of the Census such address information, address-related information, and point of postal delivery information, including postal delivery codes, as may be determined by the Secretary to be appropriate for any census or survey being conducted by the Bureau of the Census. The provision of such information under this subsection shall be in accordance with such mutually agreeable terms and conditions, including reimbursability, as the Postal Service and the Secretary of Commerce shall deem appropriate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 103–430, § 4, Oct. 31, 1994, 108 Stat. 4394.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 103–430, § 4, Oct. 31, 1994, 108 Stat. 4394.)
 
 **Editorial Notes**
 
@@ -967,7 +967,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 413. Postal services at diplomatic posts
+## § 413. Postal services at diplomatic posts
 
 **(a)** The Postal Service and the Department of State may enter into 1 or more agreements for field testing to ascertain the feasibility of providing postal services through personnel provided by the Department of State at branch post offices established by the Postal Service in United States diplomatic missions at locations abroad for which branch post offices are not established under section 406.
 
@@ -983,9 +983,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(3)** any other provisions which may be necessary, including provisions relating to the closing of a post office under this section if necessary because a post office under section 406 is established in the same location.
 
-(Added Pub. L. 101–524, § 5(a), Nov. 6, 1990, 104 Stat. 2303.)
+(Added Pub. L. 101–524, § 5(a), Nov. 6, 1990, 104 Stat. 2303.)
 
-## § 414. Special postage stamps
+## § 414. Special postage stamps
 
 **(a)** In order to afford the public a convenient way to contribute to funding for breast cancer research, the Postal Service shall establish a special rate of postage for first-class mail under this section.
 
@@ -1035,7 +1035,7 @@ as determined by the Postal Service under regulations that it shall prescribe.
 
 **(h)** This section shall cease to be effective after December 31, 2027.
 
-(Added Pub. L. 105–41, § 2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, § 3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, § 650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, § 541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, § 1, Nov. 11, 2005, 119 Stat. 2170; Pub. L. 110–150, § 1, Dec. 21, 2007, 121 Stat. 1820; Pub. L. 112–80, § 1, Dec. 23, 2011, 125 Stat. 1297; Pub. L. 114–99, §§ 2, 3, Dec. 11, 2015, 129 Stat. 2201; Pub. L. 116–92, div. A, title XVII, § 1737, Dec. 20, 2019, 133 Stat. 1820.)
+(Added Pub. L. 105–41, § 2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, § 3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, § 650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, § 541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, § 1, Nov. 11, 2005, 119 Stat. 2170; Pub. L. 110–150, § 1, Dec. 21, 2007, 121 Stat. 1820; Pub. L. 112–80, § 1, Dec. 23, 2011, 125 Stat. 1297; Pub. L. 114–99, §§ 2, 3, Dec. 11, 2015, 129 Stat. 2201; Pub. L. 116–92, div. A, title XVII, § 1737, Dec. 20, 2019, 133 Stat. 1820.)
 
 **Editorial Notes**
 
@@ -1047,9 +1047,9 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 2019—Subsec. (h). Pub. L. 116–92 substituted “2027” for “2019”.
 
-2015—Subsec. (c)(1). Pub. L. 114–99, § 3, inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
+2015—Subsec. (c)(1). Pub. L. 114–99, § 3, inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
 
-Subsec. (h). Pub. L. 114–99, § 2, substituted “2019” for “2015”.
+Subsec. (h). Pub. L. 114–99, § 2, substituted “2019” for “2015”.
 
 2011—Subsec. (h). Pub. L. 112–80 substituted “2015” for “2011”.
 
@@ -1059,9 +1059,9 @@ Subsec. (h). Pub. L. 114–99, § 2, substituted “2019” for “2015”.
 
 2004—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
 
-2001—Subsec. (b). Pub. L. 107–67, § 650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+2001—Subsec. (b). Pub. L. 107–67, § 650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
-Subsec. (g), (h). Pub. L. 107–67, § 650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
+Subsec. (g), (h). Pub. L. 107–67, § 650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
 
 2000—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
 
@@ -1069,7 +1069,7 @@ Subsec. (g), (h). Pub. L. 107–67, § 650(b)(1), added subsecs. (g) and (h) a
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–67, title VI, § 650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided that:
+Pub. L. 107–67, title VI, § 650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided that:
 
 > “The amendment made by this subsection [amending this section] shall take effect on the earlier of—
 
@@ -1079,13 +1079,13 @@ Pub. L. 107–67, title VI, § 650(b)(2), Nov. 12, 2001, 115 Stat. 557, provid
 
 **Reporting Requirements**
 
-Pub. L. 110–150, § 2, Dec. 21, 2007, 121 Stat. 1820, provided that: “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
+Pub. L. 110–150, § 2, Dec. 21, 2007, 121 Stat. 1820, provided that: “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
 
 **Report by Comptroller General of United States**
 
-Pub. L. 106–253, § 3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 [set out below], and shall address at least the same matters as were required to be included in that earlier report.”
+Pub. L. 106–253, § 3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 [set out below], and shall address at least the same matters as were required to be included in that earlier report.”
 
-Pub. L. 105–41, § 2(b), Aug. 13, 1997, 111 Stat. 1120, provided that:
+Pub. L. 105–41, § 2(b), Aug. 13, 1997, 111 Stat. 1120, provided that:
 
 > “No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in section 414(g) of title 39, United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
 
@@ -1093,19 +1093,19 @@ Pub. L. 105–41, § 2(b), Aug. 13, 1997, 111 Stat. 1120, provided that:
 
 > **“(2)** a description of the monetary and other resources required of the Postal Service in carrying out such section.”
 
-## § 415. Prohibition on restriction or elimination of services
+## § 415. Prohibition on restriction or elimination of services
 
 The Postal Service may not restrict, eliminate, or adversely affect any service provided by the Postal Service as a result of the payment of any penalty imposed under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
 
-(Added Pub. L. 105–241, § 4(a), Sept. 28, 1998, 112 Stat. 1573.)
+(Added Pub. L. 105–241, § 4(a), Sept. 28, 1998, 112 Stat. 1573.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-## § 416. Authority to issue semipostals
+## § 416. Authority to issue semipostals
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -1167,7 +1167,7 @@ For each year before the year in which a semipostal ceases to be offered, any re
 
 **(g) Termination.—** This section shall cease to be effective at the end of the 10-year period beginning on the date on which semipostals are first made available to the public under this section.
 
-(Added Pub. L. 106–253, § 2(a), July 28, 2000, 114 Stat. 634; amended Pub. L. 107–67, title VI, § 652(c)(1), Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–117, div. B, § 1201, Jan. 10, 2002, 115 Stat. 2335.)
+(Added Pub. L. 106–253, § 2(a), July 28, 2000, 114 Stat. 634; amended Pub. L. 107–67, title VI, § 652(c)(1), Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–117, div. B, § 1201, Jan. 10, 2002, 115 Stat. 2335.)
 
 **Editorial Notes**
 
@@ -1181,11 +1181,11 @@ For each year before the year in which a semipostal ceases to be offered, any re
 
 **Effective Date**
 
-Pub. L. 106–253, § 2(d), formerly § 2(e), July 28, 2000, 114 Stat. 636, as renumbered § 2(d) by Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act [July 28, 2000].”
+Pub. L. 106–253, § 2(d), formerly § 2(e), July 28, 2000, 114 Stat. 636, as renumbered § 2(d) by Pub. L. 112–234, § 2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act [July 28, 2000].”
 
 **Multinational Species Conservation Funds Semipostal Stamp**
 
-Pub. L. 111–241, Sept. 30, 2010, 124 Stat. 2605, as amended by Pub. L. 113–165, § 2, Sept. 19, 2014, 128 Stat. 1878; Pub. L. 117–127, § 2(a), May 16, 2022, 136 Stat. 1209, provided that:
+Pub. L. 111–241, Sept. 30, 2010, 124 Stat. 2605, as amended by Pub. L. 113–165, § 2, Sept. 19, 2014, 128 Stat. 1878; Pub. L. 117–127, § 2(a), May 16, 2022, 136 Stat. 1209, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1229,11 +1229,11 @@ Pub. L. 111–241, Sept. 30, 2010, 124 Stat. 2605, as amended by Pub. L. 113–1
 
 > **“(d) Definition.—** For purposes of this Act, the term ‘semipostal stamp’ refers to a stamp described in section 416(a)(1) of title 39, United States Code.”
 
-[Pub. L. 117–127, § 2(b), May 16, 2022, 136 Stat. 1209, provided that: “The amendments made by subsection (a) [amending section 2(c) of Pub. L. 111–241, set out above] shall take effect as if enacted on the day after the date of enactment of the Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 (Public Law 113–165; 128 Stat. 1878) [Sept. 19, 2014].” ]
+[Pub. L. 117–127, § 2(b), May 16, 2022, 136 Stat. 1209, provided that: “The amendments made by subsection (a) [amending section 2(c) of Pub. L. 111–241, set out above] shall take effect as if enacted on the day after the date of enactment of the Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 (Public Law 113–165; 128 Stat. 1878) [Sept. 19, 2014].” ]
 
 **The 9/11 Heroes Stamp**
 
-Pub. L. 107–67, title VI, § 652, Nov. 12, 2001, 115 Stat. 557, as amended by Pub. L. 107–117, div. B, § 1201, Jan. 10, 2002, 115 Stat. 2335, provided that:
+Pub. L. 107–67, title VI, § 652, Nov. 12, 2001, 115 Stat. 557, as amended by Pub. L. 107–117, div. B, § 1201, Jan. 10, 2002, 115 Stat. 2335, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘9/11 Heroes Stamp Act of 2001’.
 
@@ -1269,7 +1269,7 @@ Pub. L. 107–67, title VI, § 652, Nov. 12, 2001, 115 Stat. 557, as amended b
 
 **Domestic Violence Semipostal Stamp**
 
-Pub. L. 107–67, title VI, § 653, Nov. 12, 2001, 115 Stat. 558, provided that:
+Pub. L. 107–67, title VI, § 653, Nov. 12, 2001, 115 Stat. 558, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Stamp Out Domestic Violence Act of 2001’.
 
@@ -1291,7 +1291,7 @@ Pub. L. 107–67, title VI, § 653, Nov. 12, 2001, 115 Stat. 558, provided tha
 
 **Reports by Agencies**
 
-Pub. L. 106–253, § 2(b), July 28, 2000, 114 Stat. 636, provided that:
+Pub. L. 106–253, § 2(b), July 28, 2000, 114 Stat. 636, provided that:
 
 > “Each agency that receives any funding in a year under section 416 of title 39, United States Code (as amended by this section) shall submit a written report under this subsection, with respect to such year, to the congressional committees with jurisdiction over the United States Postal Service. Each such report shall include—
 
@@ -1303,4 +1303,4 @@ Pub. L. 106–253, § 2(b), July 28, 2000, 114 Stat. 636, provided that:
 
 **Reports by the Government Accountability Office**
 
-Pub. L. 106–253, § 2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, § 2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
+Pub. L. 106–253, § 2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, § 2(e)(1), Dec. 28, 2012, 126 Stat. 1624.

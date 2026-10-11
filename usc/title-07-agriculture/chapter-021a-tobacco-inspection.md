@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 21A—TOBACCO INSPECTION
 
-## § 511. Definitions
+## § 511. Definitions
 
 When used in this chapter—
 
@@ -37,31 +37,31 @@ When used in this chapter—
 
 **(i)** “Commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia. For the purposes of this chapter (but not in any wise limiting the foregoing definition) a transaction in respect to tobacco shall be considered to be in commerce if such tobacco is part of that current of commerce usual in the tobacco industry whereby tobacco or products manufactured therefrom are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State or for manufacture within the State and the shipment outside the State of the products resulting from such manufacture. Tobacco normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this paragraph the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nations.
 
-(Aug. 23, 1935, ch. 623, § 1, 49 Stat. 731.)
+(Aug. 23, 1935, ch. 623, § 1, 49 Stat. 731.)
 
-## § 511a. Declaration of purpose
+## § 511a. Declaration of purpose
 
 Transactions in tobacco involving the sale thereof at auction as commonly conducted at auction markets are affected with a public interest; such transactions are carried on by tobacco producers generally and by persons engaged in the business of buying and selling tobacco in commerce; the classification of tobacco according to type, grade, and other characteristics affect the prices received therefor by producers; without uniform standards of classification and inspection the evaluation of tobacco is susceptible to speculation, manipulation, and control, and unreasonable fluctuations in prices and quality determinations occur which are detrimental to producers and persons handling tobacco in commerce; such fluctuations constitute a burden upon commerce and make the use of uniform standards of classification and inspection imperative for the protection of producers and others engaged in commerce and the public interest therein.
 
-(Aug. 23, 1935, ch. 623, § 2, 49 Stat. 731.)
+(Aug. 23, 1935, ch. 623, § 2, 49 Stat. 731.)
 
-## § 511b. Official standards for classification; tentative standards; modification
+## § 511b. Official standards for classification; tentative standards; modification
 
 The Secretary is authorized to investigate the sorting, handling, conditioning, inspection, and marketing of tobacco from time to time, and to establish standards for tobacco by which its type, grade, size, condition, or other characteristics may be determined, which standards shall be the official standards of the United States, and shall become effective immediately or upon a date specified by the Secretary: *Provided*, That the Secretary may issue tentative standards for tobacco prior to the establishment of official standards therefor, and he may modify any standards established under authority of this chapter whenever, in his judgment, such action is advisable.
 
-(Aug. 23, 1935, ch. 623, § 3, 49 Stat. 732.)
+(Aug. 23, 1935, ch. 623, § 3, 49 Stat. 732.)
 
-## § 511c. Demonstration of official standards; samples; cost
+## § 511c. Demonstration of official standards; samples; cost
 
 The Secretary is authorized to demonstrate the official standards; to prepare and distribute, upon request, samples, illustrations, or sets thereof; and to make reasonable charges therefore: *Provided*, That in no event shall charges be in excess of the cost of said samples, illustrations, and services so rendered.
 
-(Aug. 23, 1935, ch. 623, § 4, 49 Stat. 732.)
+(Aug. 23, 1935, ch. 623, § 4, 49 Stat. 732.)
 
-## § 511d. Designation of markets; manner; inspection and related services; fees and charges
+## § 511d. Designation of markets; manner; inspection and related services; fees and charges
 
 The Secretary is authorized to designate those auction markets where tobacco bought and sold thereon at auction, or the products customarily manufactured therefrom, moves in commerce. Before any market is designated by the Secretary under this section he shall determine by referendum the desire of tobacco growers who sold tobacco at auction on such market during the preceding marketing season. The Secretary may at his discretion hold one referendum for two or more markets or for all markets in a type area. No market or group of markets shall be designated by the Secretary unless two-thirds of the growers voting favor it. The Secretary shall have access to the tobacco records of the Collector of Internal Revenue and of the several collectors of internal revenue for the purpose of obtaining the names and addresses of growers who sold tobacco on any auction market, and the Secretary shall determine from said records the eligibility of such grower to vote in such referendum, and no grower shall be eligible to vote in more than one referendum. After public notice of not less than thirty days that any auction market has been so designated by the Secretary, no tobacco shall be offered for sale at auction on such market until it shall have been inspected and certified by an authorized representative of the Secretary according to the standards established under this chapter, except that the Secretary may temporarily suspend the requirement of inspection and certification at any designated market whenever he finds it impracticable to provide for such inspection and certification because competent inspectors are not obtainable or because the quantity of tobacco available for inspection is insufficient to justify the cost of such service: *Provided*, That, in the event competent inspectors are not available, or for other reasons, the Secretary is unable to provide for such inspection and certification at all auction markets within a type area, he shall first designate those auction markets where the greatest number of growers may be served with the facilities available to him. The Secretary shall by regulation fix and collect fees and charges for inspection and certification, the establishment of standards, and other services under this section at designated auction markets. The fees and charges authorized by this section shall, as nearly as practicable, cover the costs of the services, including the administrative and supervisory costs customarily included by the Secretary in user fee calculations. The fees and charges, late payment penalties, and interest earned from the investment of such funds, when collected, shall be credited to the current appropriation account that incurs the cost and shall be available without fiscal year limitation to pay the expenses of the Secretary incident to providing services under this chapter. Any funds realized from the collection of fees or charges authorized under this section and section 511e of this title and credited to the current appropriation account incurring the cost of services provided under this section and section 511e of this title, late payment penalties, and interest earned from the investment of such funds may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any income realized from this activity may be used to pay the expenses of the Secretary of Agriculture incident to providing services under this chapter or reinvested in the manner authorized in the preceding sentence. The fees and charges authorized in this section shall be assessed against the warehouse operator, irrespective of ownership or interest in the tobacco, and shall be collected by the warehouse operator from the sellers of the tobacco. The inspection and related services under this section shall be suspended or denied if the warehouse operator fails to collect or otherwise pay the fees and charges imposed under this section. Tobacco inspection or certification services provided to designated auction markets shall take precedence over such services, other than reinspection, requested under the authority contained in section 511e of this title or any other provision of law. In accordance with chapter 10 of title 5, the Secretary shall establish a national advisory committee of tobacco producers, and advisory subcommittees for each major kind of tobacco, to advise the Secretary with regard to the level of inspection and related services and the fees and charges therefor. The advisory committee and subcommittees established under this section shall be of permanent duration. The committees shall meet at the call of the Secretary.
 
-(Aug. 23, 1935, ch. 623, § 5, 49 Stat. 732; Pub. L. 97–35, title I, § 157(a)(1), Aug. 13, 1981, 95 Stat. 374; Pub. L. 99–272, title I, § 1111, Apr. 7, 1986, 100 Stat. 99; Pub. L. 117–286, § 4(a)(24), Dec. 27, 2022, 136 Stat. 4307.)
+(Aug. 23, 1935, ch. 623, § 5, 49 Stat. 732; Pub. L. 97–35, title I, § 157(a)(1), Aug. 13, 1981, 95 Stat. 374; Pub. L. 99–272, title I, § 1111, Apr. 7, 1986, 100 Stat. 99; Pub. L. 117–286, § 4(a)(24), Dec. 27, 2022, 136 Stat. 4307.)
 
 **Editorial Notes**
 
@@ -77,15 +77,15 @@ The Secretary is authorized to designate those auction markets where tobacco bou
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title I, § 157(b), Aug. 13, 1981, 95 Stat. 375, provided that: “The provisions of this section [amending this section and section 511e of this title] shall become effective October 1, 1981.”
+Pub. L. 97–35, title I, § 157(b), Aug. 13, 1981, 95 Stat. 375, provided that: “The provisions of this section [amending this section and section 511e of this title] shall become effective October 1, 1981.”
 
 **Executive Documents**
 
 **Abolition of Offices and Transfer of Functions**
 
-Offices of Internal Revenue Collector and Deputy Collector abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of Bureau of Internal Revenue since effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to Secretary of the Treasury.
+Offices of Internal Revenue Collector and Deputy Collector abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of Bureau of Internal Revenue since effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to Secretary of the Treasury.
 
-## § 511e. Sampling and weighing; cost; disposition of moneys received; expenses; purpose
+## § 511e. Sampling and weighing; cost; disposition of moneys received; expenses; purpose
 
 The Secretary, independently or in cooperation with other branches of the Government, State agencies, or persons whether operating in one or more jurisdictions, is authorized to employ and/or license competent persons as samplers to take official samples of tobacco, or as weighers to weigh and certify the weight of tobacco, or as inspectors of tobacco to determine and certify, upon the request of the owner or other financially interested person, the type, grade, weight, condition, and/or such other facts as the Secretary may deem necessary.
 
@@ -93,7 +93,7 @@ The Secretary shall fix and collect such fees or charges in the administration o
 
 This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested in tobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
 
-(Aug. 23, 1935, ch. 623, § 6, 49 Stat. 732; Pub. L. 97–35, title I, § 157(a)(2), Aug. 13, 1981, 95 Stat. 375.)
+(Aug. 23, 1935, ch. 623, § 6, 49 Stat. 732; Pub. L. 97–35, title I, § 157(a)(2), Aug. 13, 1981, 95 Stat. 375.)
 
 **Editorial Notes**
 
@@ -107,25 +107,25 @@ This section is intended merely to provide for the furnishing of services upon r
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 157(b) of Pub. L. 97–35, set out as a note under section 511d of this title.
 
-## § 511f. Reinspection and appeal inspection; certificate as evidence
+## § 511f. Reinspection and appeal inspection; certificate as evidence
 
 The Secretary shall provide for such reinspection or appeal inspection of tobacco as he may deem necessary for the confirmation or reversal of certificates issued under this chapter. Each inspection certificate issued under this chapter, unless invalidated or superseded in accordance with the regulations of the Secretary, shall be received in all courts and by all officers and employees of the United States as prima facie evidence of the truth of the statements therein contained.
 
-(Aug. 23, 1935, ch. 623, § 7, 49 Stat. 733.)
+(Aug. 23, 1935, ch. 623, § 7, 49 Stat. 733.)
 
-## § 511g. Placing of grade on warehouse tickets, etc.; form
+## § 511g. Placing of grade on warehouse tickets, etc.; form
 
 Warehousemen shall provide space on warehouse tickets or other tags or labels used by them for showing the grade of the lot covered thereby as determined by an authorized tobacco inspector under this chapter. The Secretary may prescribe, by regulation, the form in which such certification of grade shall be shown, and may require that a copy of such warehouse ticket, tag, or label shall be furnished to the Secretary.
 
-(Aug. 23, 1935, ch. 623, § 8, 49 Stat. 733.)
+(Aug. 23, 1935, ch. 623, § 8, 49 Stat. 733.)
 
-## § 511h. Publication of information relating to tobacco
+## § 511h. Publication of information relating to tobacco
 
 The Secretary is authorized to collect, publish, and distribute, by telegraph, mail, or otherwise without cost to the grower, timely information on the market supply and demand, location, disposition, quality, condition, and market prices for tobacco.
 
-(Aug. 23, 1935, ch. 623, § 9, 49 Stat. 733.)
+(Aug. 23, 1935, ch. 623, § 9, 49 Stat. 733.)
 
-## § 511i. Offenses
+## § 511i. Offenses
 
 It shall be unlawful—
 
@@ -147,41 +147,41 @@ It shall be unlawful—
 
 **(i)** For any person willfully to alter an official sample of tobacco by removing or plucking leaves or otherwise, or for any person knowing that an official sample of tobacco has been so altered, thereafter to represent such sample as an official sample.
 
-(Aug. 23, 1935, ch. 623, § 10, 49 Stat. 733.)
+(Aug. 23, 1935, ch. 623, § 10, 49 Stat. 733.)
 
-## § 511j. Publication of violations
+## § 511j. Publication of violations
 
 The Secretary is authorized to publish the facts regarding any violation of this chapter.
 
-(Aug. 23, 1935, ch. 623, § 11, 49 Stat. 734.)
+(Aug. 23, 1935, ch. 623, § 11, 49 Stat. 734.)
 
-## § 511k. Penalty for violations
+## § 511k. Penalty for violations
 
 Any person violating any provision of sections 511d and 511i of this title shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-(Aug. 23, 1935, ch. 623, § 12, 49 Stat. 734.)
+(Aug. 23, 1935, ch. 623, § 12, 49 Stat. 734.)
 
-## § 511l. Act of agent as that of principal
+## § 511l. Act of agent as that of principal
 
-In construing and enforcing the provisions of this chapter; 1
+In construing and enforcing the provisions of this chapter; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a comma.
+<sup>1</sup> So in original. The semicolon probably should be a comma.
 
-the act; 1 omission, or failure of any agent, officer, or other person acting for or employed by an association, partnership, corporation, or firm, within the scope of his employment or office, shall be deemed to be the act, omission, or failure of the association, partnership, corporation, or firm, as well as that of the person.
+the act; 1 omission, or failure of any agent, officer, or other person acting for or employed by an association, partnership, corporation, or firm, within the scope of his employment or office, shall be deemed to be the act, omission, or failure of the association, partnership, corporation, or firm, as well as that of the person.
 
-(Aug. 23, 1935, ch. 623, § 13, 49 Stat. 734.)
+(Aug. 23, 1935, ch. 623, § 13, 49 Stat. 734.)
 
-## § 511m. Regulation; hearings; employees; expenditures; authorization of appropriations
+## § 511m. Regulation; hearings; employees; expenditures; authorization of appropriations
 
 The Secretary is authorized to make such rules and regulations and hold such hearings as he may deem necessary to effectuate the purposes of this chapter and may cooperate with any other Department or agency of the Government; any State, territory, district, or possession, or department, agency, or political subdivision thereof; purchasing and consuming organizations, boards of trade, chambers of commerce, or other associations of business men or trade organizations; or any person, whether operating in one or more jurisdictions in carrying on the work herein authorized; and he shall have the power to appoint, suspend, remove, and fix the compensation of all officers, employees, and licensees not in conflict with existing law, except that inspectors and supervisors employed thereunder on a seasonal basis and working for periods of six months or less during any twelve-month period may be appointed without reference to the provisions of chapter 51 and subchapter III of chapter 53 of title 5. The Secretary is authorized to make such expenditures for rent outside of the District of Columbia, printing, binding, telegrams, telephones, books of reference, publications, furniture, stationery, office and laboratory equipment, travel, tobacco for use in preparing and demonstrating standards, and other supplies and expenses, including reporting services, as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress; and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for administering this chapter.
 
-(Aug. 23, 1935, ch. 623, § 14, 49 Stat. 734; Oct. 28, 1949, ch. 782, title II, § 202(28), title XI, § 1106(a), 63 Stat. 956, 972.)
+(Aug. 23, 1935, ch. 623, § 14, 49 Stat. 734; Oct. 28, 1949, ch. 782, title II, § 202(28), title XI, § 1106(a), 63 Stat. 956, 972.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -191,35 +191,35 @@ The Secretary is authorized to make such rules and regulations and hold such hea
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-## § 511n. Hearings; examination of witnesses; refusal to testify or produce evidence
+## § 511n. Hearings; examination of witnesses; refusal to testify or produce evidence
 
 In carrying on the work authorized in this chapter, the Secretary, or any officer or employee designated by him for such purpose, shall have power to hold hearings, administer oaths, sign and issue subpenas, examine witnesses, and require the production of books, records, accounts, memoranda, and papers. Upon refusal by any person to appear, testify, or produce books, records, accounts, memoranda, and papers in response to a subpena, the proper United States district court shall have power to compel obedience thereto.
 
-(Aug. 23, 1935, ch. 623, § 15, 49 Stat. 735.)
+(Aug. 23, 1935, ch. 623, § 15, 49 Stat. 735.)
 
-## § 511o. Separability
+## § 511o. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Aug. 23, 1935, ch. 623, § 16, 49 Stat. 735.)
+(Aug. 23, 1935, ch. 623, § 16, 49 Stat. 735.)
 
-## § 511p. Delegation of duties by Secretary of Agriculture
+## § 511p. Delegation of duties by Secretary of Agriculture
 
 Any duties devolving upon the Secretary of Agriculture by virtue of the provisions of this chapter may with like force and effect be executed by such officer or officers, agent or agents, of the Department of Agriculture as the Secretary may designate for the purpose.
 
-(Aug. 23, 1935, ch. 623, § 17, 49 Stat. 735.)
+(Aug. 23, 1935, ch. 623, § 17, 49 Stat. 735.)
 
-## § 511q. Short title
+## § 511q. Short title
 
 This chapter may be cited as “The Tobacco Inspection Act.”
 
-(Aug. 23, 1935, ch. 623, § 18, 49 Stat. 735.)
+(Aug. 23, 1935, ch. 623, § 18, 49 Stat. 735.)
 
-## § 511r. Repealed. Pub. L. 108–357, title VI, § 611(b), Oct. 22, 2004, 118 Stat. 1522
+## § 511r. Repealed. Pub. L. 108–357, title VI, § 611(b), Oct. 22, 2004, 118 Stat. 1522
 
-Section, Pub. L. 98–180, title II, § 213, Nov. 29, 1983, 97 Stat. 1149; Pub. L. 99–198, title XI, §§ 1161, 1166, Dec. 23, 1985, 99 Stat. 1498, 1501; Pub. L. 100–418, title I, § 1214(b), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–508, title I, § 1204(c), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XXV, § 2511, Nov. 28, 1990, 104 Stat. 4073; Pub. L. 103–66, title I, § 1106(c), Aug. 10, 1993, 107 Stat. 323, related to inspection of imported tobacco.
+Section, Pub. L. 98–180, title II, § 213, Nov. 29, 1983, 97 Stat. 1149; Pub. L. 99–198, title XI, §§ 1161, 1166, Dec. 23, 1985, 99 Stat. 1498, 1501; Pub. L. 100–418, title I, § 1214(b), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–508, title I, § 1204(c), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XXV, § 2511, Nov. 28, 1990, 104 Stat. 4073; Pub. L. 103–66, title I, § 1106(c), Aug. 10, 1993, 107 Stat. 323, related to inspection of imported tobacco.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -231,7 +231,7 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 Repeal not to affect the liability of any person under this section with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-## § 511s. Grading of tobacco
+## § 511s. Grading of tobacco
 
 **(1) In general**
 
@@ -251,13 +251,13 @@ To the maximum extent practicable, the Secretary shall establish, collect, and u
 
 A determination by the Secretary under this section shall not be subject to judicial review.
 
-(Pub. L. 107–76, title VII, § 759(a), Nov. 28, 2001, 115 Stat. 741.)
+(Pub. L. 107–76, title VII, § 759(a), Nov. 28, 2001, 115 Stat. 741.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 511q of this title and Tables.
 

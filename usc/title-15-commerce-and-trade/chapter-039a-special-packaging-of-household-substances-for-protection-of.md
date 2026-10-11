@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 39A—SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN
 
-## § 1471. Definitions
+## § 1471. Definitions
 
 For the purpose of this Act—
 
@@ -39,7 +39,7 @@ For the purpose of this Act—
 
 **(5)** The term “labeling” means all labels and other written, printed, or graphic matter (A) upon any household substance or its package, or (B) accompanying such substance.
 
-(Pub. L. 91–601, § 2, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–516, § 3(2), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, § 3(a), May 11, 1976, 90 Stat. 503.)
+(Pub. L. 91–601, § 2, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–516, § 3(2), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, § 3(a), May 11, 1976, 90 Stat. 503.)
 
 **Editorial Notes**
 
@@ -61,25 +61,25 @@ For effective date of amendment by Pub. L. 92–516, see section 4 of Pub. L. 92
 
 **Effective Date**
 
-Pub. L. 91–601, § 8, formerly § 9, Dec. 30, 1970, 84 Stat. 1674, as amended by Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231, and renumbered by Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716, provided that: “This Act [see Short Title note set out below] shall take effect on the date of its enactment [Dec. 30, 1970]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
+Pub. L. 91–601, § 8, formerly § 9, Dec. 30, 1970, 84 Stat. 1674, as amended by Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231, and renumbered by Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716, provided that: “This Act [see Short Title note set out below] shall take effect on the date of its enactment [Dec. 30, 1970]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–116, § 1, Jan. 28, 2016, 130 Stat. 3, provided that: “This Act [enacting section 1472a of this title and provisions set out as a note under section 1472a of this title] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
+Pub. L. 114–116, § 1, Jan. 28, 2016, 130 Stat. 3, provided that: “This Act [enacting section 1472a of this title and provisions set out as a note under section 1472a of this title] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
 
 **Short Title**
 
-Pub. L. 91–601, § 1, Dec. 30, 1970, 84 Stat. 1670, provided that: “This Act [enacting this chapter, section 135(z)(2)(i) of Title 7, Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amending section 1261(p) of this title and section 353(b)(2) of Title 21, and enacting provisions set out as a note under this section] may be cited as the ‘Poison Prevention Packaging Act of 1970’.”
+Pub. L. 91–601, § 1, Dec. 30, 1970, 84 Stat. 1670, provided that: “This Act [enacting this chapter, section 135(z)(2)(i) of Title 7, Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amending section 1261(p) of this title and section 353(b)(2) of Title 21, and enacting provisions set out as a note under this section] may be cited as the ‘Poison Prevention Packaging Act of 1970’.”
 
 **Transfer of Functions**
 
 “Commission” substituted for “Secretary” and “Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” in par. (1) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-## § 1472. Special packaging standards
+## § 1472. Special packaging standards
 
 **(a) Establishment** The Commission,1
 
-<sup>1</sup>  Comma retained in amendment by Pub. L. 97–414.
+<sup>1</sup> Comma retained in amendment by Pub. L. 97–414.
 
 may establish in accordance with the provisions of this Act, by regulation, standards for the special packaging of any household substance if it finds that—
 
@@ -109,7 +109,7 @@ Nothing in this Act shall authorize the Commission to prescribe specific packagi
 
 Nothing in this Act shall be construed to require the Consumer Product Safety Commission, in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
 
-(Pub. L. 91–601, § 3, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–414, § 9(k), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 110–314, title II, § 233, Aug. 14, 2008, 122 Stat. 3073.)
+(Pub. L. 91–601, § 3, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–414, § 9(k), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 110–314, title II, § 233, Aug. 14, 2008, 122 Stat. 3073.)
 
 **Editorial Notes**
 
@@ -121,7 +121,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 2008—Subsec. (e). Pub. L. 110–314 added subsec. (e).
 
-1983—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
+1983—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 “Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in subsecs. (a) to (d) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-## § 1472a. Special packaging for liquid nicotine containers
+## § 1472a. Special packaging for liquid nicotine containers
 
 **(a) Requirement**
 
@@ -173,13 +173,13 @@ The term “liquid nicotine container” does not include a sealed, pre-filled, 
 
 The term “nicotine” means any form of the chemical nicotine, including any salt or complex, regardless of whether the chemical is naturally or synthetically derived.
 
-(Pub. L. 114–116, § 2, Jan. 28, 2016, 130 Stat. 3.)
+(Pub. L. 114–116, § 2, Jan. 28, 2016, 130 Stat. 3.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of Title 21, Food and Drugs, and Tables.
 
@@ -193,9 +193,9 @@ Section was enacted as part of the Child Nicotine Poisoning Prevention Act of 20
 
 **Effective Date**
 
-Pub. L. 114–116, § 3, Jan. 28, 2016, 130 Stat. 5, provided that: “This Act [see Short Title of 2016 Amendment note set out under section 1471 of this title] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 28, 2016].”
+Pub. L. 114–116, § 3, Jan. 28, 2016, 130 Stat. 5, provided that: “This Act [see Short Title of 2016 Amendment note set out under section 1471 of this title] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 28, 2016].”
 
-## § 1473. Conventional packages, marketing
+## § 1473. Conventional packages, marketing
 
 **(a) Noncomplying packages for elderly or handicapped persons; labeling statements** For the purpose of making any household substance which is subject to a standard established under section 1472 of this title readily available to elderly or handicapped persons unable to use such substance when packaged in compliance with such standard, the manufacturer or packer, as the case may be, may package any household substance, subject to such a standard, in packaging of a single size which does not comply with such standard if—
 
@@ -211,7 +211,7 @@ In the case of a household substance which is subject to such a standard and whi
 
 In the case of a household substance subject to such a standard which is packaged under subsection (a) in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
 
-(Pub. L. 91–601, § 4, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 91–601, § 4, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ For classification to the Code of “this Act”, referred to in subsec. (c), se
 
 “Commission” substituted for “Secretary” in subsecs. (a) and (c) and “it” substituted for “he” in subsec. (c) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-## § 1474. Regulations for special packaging standards
+## § 1474. Regulations for special packaging standards
 
 **(a) Rule making procedure; election and application of procedure under section 371 of title 21; publication of election and proposal**
 
@@ -243,7 +243,7 @@ Proceedings to issue, amend, or repeal a regulation prescribing a standard under
 
 **(5)** The judgment of the court affirming or setting aside, in whole or in part, any such standard of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
-(Pub. L. 91–601, § 5, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 91–601, § 5, Dec. 30, 1970, 84 Stat. 1671; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,9 +251,9 @@ Proceedings to issue, amend, or repeal a regulation prescribing a standard under
 
 In subsec. (a), “Commission” substituted for “Secretary” and “it” substituted for “he”; in subsec. (b), “Commission” substituted for “Secretary”, “it” substituted for “him” and “he”, “its” substituted for “his”, and “Commission’s” substituted for “Secretary’s” pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-## § 1475. Repealed. Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716
+## § 1475. Repealed. Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716
 
-Section, Pub. L. 91–601, § 6, Dec. 30, 1970, 84 Stat. 1672, provided for appointment of a technical advisory committee to assist the Secretary in carrying out the purposes of the Poison Prevention Packaging Act of 1970.
+Section, Pub. L. 91–601, § 6, Dec. 30, 1970, 84 Stat. 1672, provided for appointment of a technical advisory committee to assist the Secretary in carrying out the purposes of the Poison Prevention Packaging Act of 1970.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,7 +261,7 @@ Section, Pub. L. 91–601, § 6, Dec. 30, 1970, 84 Stat. 1672, provided for ap
 
 Repeal effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
-## § 1476. Preemption of Federal standards
+## § 1476. Preemption of Federal standards
 
 **(a) Exception for identical State standards**
 
@@ -283,7 +283,7 @@ In determining the burden, if any, of a State or political subdivision standard 
 
 **(2)** A regulation under paragraph (1) granting an exemption for a standard or requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5 notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
 
-(Pub. L. 91–601, § 7, formerly § 8, Dec. 30, 1970, 84 Stat. 1673; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, § 17(c), May 11, 1976, 90 Stat. 513; renumbered § 7, Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716.)
+(Pub. L. 91–601, § 7, formerly § 8, Dec. 30, 1970, 84 Stat. 1673; Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, § 17(c), May 11, 1976, 90 Stat. 513; renumbered § 7, Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716.)
 
 **Editorial Notes**
 
@@ -305,11 +305,11 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 The provisions of this section establishing the extent to which the Poison Prevention Packaging Act of 1970 [15 U.S.C. 1471 et seq.] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Poison Prevention Packaging Act of 1970, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-## § 1477. Enforcement by State Attorneys General
+## § 1477. Enforcement by State Attorneys General
 
 The attorney general of a State, or other authorized State officer, alleging a violation of a standard or rule promulgated under section 1472 of this title that affects or may affect such State or its residents, may bring an action on behalf of the residents of the State in any United States district court for the district in which the defendant is found or transacts business to obtain appropriate injunctive relief. The procedural requirements of section 2073(b) of this title shall apply to any such action.
 
-(Pub. L. 91–601, § 9, as added Pub. L. 110–314, title II, § 218(b)(1), Aug. 14, 2008, 122 Stat. 3062.)
+(Pub. L. 91–601, § 9, as added Pub. L. 110–314, title II, § 218(b)(1), Aug. 14, 2008, 122 Stat. 3062.)
 
 **Editorial Notes**
 

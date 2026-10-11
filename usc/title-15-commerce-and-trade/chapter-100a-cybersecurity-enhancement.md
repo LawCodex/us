@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 100A—CYBERSECURITY ENHANCEMENT
 
-## § 7421. Definitions
+## § 7421. Definitions
 
 In this chapter:
 
@@ -27,7 +27,7 @@ The term “cybersecurity mission” means activities that encompass the full ra
 
 The term “information system” has the meaning given that term in section 3502 of title 44.
 
-(Pub. L. 113–274, § 2, Dec. 18, 2014, 128 Stat. 2971.)
+(Pub. L. 113–274, § 2, Dec. 18, 2014, 128 Stat. 2971.)
 
 **Editorial Notes**
 
@@ -39,7 +39,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 113–274, § 1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: “This Act [enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title] may be cited as the ‘Cybersecurity Enhancement Act of 2014’.”
+Pub. L. 113–274, § 1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: “This Act [enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title] may be cited as the ‘Cybersecurity Enhancement Act of 2014’.”
 
 **Executive Documents**
 
@@ -177,11 +177,11 @@ Sec. 7. *General Provisions*. (a) The Secretary, in consultation with the heads 
 
 Donald J. Trump.
 
-## § 7422. No regulatory authority
+## § 7422. No regulatory authority
 
 Nothing in this chapter shall be construed to confer any regulatory authority on any Federal, State, tribal, or local department or agency.
 
-(Pub. L. 113–274, § 3, Dec. 18, 2014, 128 Stat. 2972.)
+(Pub. L. 113–274, § 3, Dec. 18, 2014, 128 Stat. 2972.)
 
 **Editorial Notes**
 
@@ -189,11 +189,11 @@ Nothing in this chapter shall be construed to confer any regulatory authority on
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2971, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7421 of this title and Tables.
 
-## § 7423. No additional funds authorized
+## § 7423. No additional funds authorized
 
 No additional funds are authorized to carry out this Act, and the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.
 
-(Pub. L. 113–274, § 4, Dec. 18, 2014, 128 Stat. 2972.)
+(Pub. L. 113–274, § 4, Dec. 18, 2014, 128 Stat. 2972.)
 
 **Editorial Notes**
 
@@ -203,7 +203,7 @@ This Act, and the amendments made by this Act, referred to in text, is Pub. L. 1
 
 ## SUBCHAPTER I—CYBERSECURITY RESEARCH AND DEVELOPMENT
 
-### § 7431. Federal cybersecurity research and development
+### § 7431. Federal cybersecurity research and development
 
 **(a) Fundamental cybersecurity research**
 
@@ -279,9 +279,9 @@ In developing, implementing, and updating the strategic plan, the heads of the a
 
 **(4) Definition of applicable agencies and departments**
 
-In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (xi) of section 5511(a)(3)(B) 1
+In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (xi) of section 5511(a)(3)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or designated under clause (xii) of that section.
 
@@ -333,15 +333,15 @@ The Director of the National Science Foundation, in coordination with the Secret
 
 **(f) Research on the science of cybersecurity**
 
-The head of each agency and department identified under section 5511(a)(3)(B) <sup>1</sup> of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+The head of each agency and department identified under section 5511(a)(3)(B) <sup>1</sup> of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
-(Pub. L. 113–274, title II, § 201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, § 105(t), Jan. 6, 2017, 130 Stat. 2985; Pub. L. 116–283, div. H, title XCIV, § 9407(b), Jan. 1, 2021, 134 Stat. 4814.)
+(Pub. L. 113–274, title II, § 201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, § 105(t), Jan. 6, 2017, 130 Stat. 2985; Pub. L. 116–283, div. H, title XCIV, § 9407(b), Jan. 1, 2021, 134 Stat. 4814.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5511(a)(3)(B) of this title, referred to in subsecs. (a)(4) and (f), was redesignated section 5511(a)(3)(C) of this title by Pub. L. 114–329, title I, § 105(f)(2)(D)(i), Jan. 6, 2017, 130 Stat. 2979.
+Section 5511(a)(3)(B) of this title, referred to in subsecs. (a)(4) and (f), was redesignated section 5511(a)(3)(C) of this title by Pub. L. 114–329, title I, § 105(f)(2)(D)(i), Jan. 6, 2017, 130 Stat. 2979.
 
 **Codification**
 
@@ -353,7 +353,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 2017—Subsec. (a)(4). Pub. L. 114–329 substituted “clauses (i) through (xi)” for “clauses (i) through (x)” and “under clause (xii)” for “under clause (xi)”.
 
-### § 7432. National cybersecurity challenges
+### § 7432. National cybersecurity challenges
 
 **(a) Establishment of national cybersecurity challenges**
 
@@ -443,11 +443,11 @@ In carrying out this section, the Secretary of Commerce shall designate an advis
 
 The Secretary may not provide any additional compensation, except for travel expenses, to a member of the advisory council designated under paragraph (1) for participation in the advisory council.
 
-(Pub. L. 113–274, title II, § 205, as added Pub. L. 116–283, div. H, title XCIV, § 9407(a), Jan. 1, 2021, 134 Stat. 4813.)
+(Pub. L. 113–274, title II, § 205, as added Pub. L. 116–283, div. H, title XCIV, § 9407(a), Jan. 1, 2021, 134 Stat. 4813.)
 
 ## SUBCHAPTER II—EDUCATION AND WORKFORCE DEVELOPMENT
 
-### § 7441. Cybersecurity competitions and challenges
+### § 7441. Cybersecurity competitions and challenges
 
 **(a) In general** The Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security, in consultation with the Director of the Office of Personnel Management, shall—
 
@@ -511,7 +511,7 @@ The Secretary may not provide any additional compensation, except for travel exp
 
 The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.
 
-(Pub. L. 113–274, title III, § 301, Dec. 18, 2014, 128 Stat. 2981.)
+(Pub. L. 113–274, title III, § 301, Dec. 18, 2014, 128 Stat. 2981.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ The Director of the Office of Personnel Management may support, as appropriate, 
 
 Section 3719 of this title (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 (124 Stat. 3989)), referred to in subsec. (a)(1), probably means section 3719 of this title as enacted by section 105(a) of Pub. L. 111–358.
 
-### § 7442. Federal Cyber Scholarship-for-Service Program
+### § 7442. Federal Cyber Scholarship-for-Service Program
 
 **(a) In general**
 
@@ -595,13 +595,13 @@ An agency may decline to make the noncompetitive conversion or appointment under
 
 **(4)** be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis;
 
-**(5)** enter into an agreement accepting and acknowledging the post award employment obligations, pursuant to section 1
+**(5)** enter into an agreement accepting and acknowledging the post award employment obligations, pursuant to section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (d);
 
-**(6)** accept and acknowledge the conditions of support under section <sup>1</sup> (g); and
+**(6)** accept and acknowledge the conditions of support under section <sup>1</sup> (g); and
 
 **(7)** accept all terms and conditions of a scholarship under this section.
 
@@ -695,13 +695,13 @@ The Director of the National Science Foundation may provide for the partial or t
 
 **(B)** the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and
 
-**(C)** any recent statistics regarding the size, composition, and educational requirements of the Federal cyber 2
+**(C)** any recent statistics regarding the size, composition, and educational requirements of the Federal cyber 2
 
-<sup>2</sup>  So in original. Probably should be “cybersecurity”. See 2021 Amendment notes below.
+<sup>2</sup> So in original. Probably should be “cybersecurity”. See 2021 Amendment notes below.
 
 workforce..3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 **(3) Resources** The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
 
@@ -709,53 +709,53 @@ workforce..3
 
 **(B)** a modernized description of cybersecurity careers.
 
-(Pub. L. 113–274, title III, § 302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, § 1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§ 9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811; Pub. L. 117–167, div. B, title III, § 10316(b), Aug. 9, 2022, 136 Stat. 1531.)
+(Pub. L. 113–274, title III, § 302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, § 1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§ 9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811; Pub. L. 117–167, div. B, title III, § 10316(b), Aug. 9, 2022, 136 Stat. 1531.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
 2022—Subsec. (b)(1). Pub. L. 117–167 substituted “and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;” for semicolon at end.
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 9403(1)(A), substituted “information technology and cybersecurity” for “information technology”.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 9403(1)(A), substituted “information technology and cybersecurity” for “information technology”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 9403(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in section 105 of title 5); and”.
+Subsec. (b)(3). Pub. L. 116–283, § 9403(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in section 105 of title 5); and”.
 
-Subsec. (b)(4). Pub. L. 116–283, § 9403(1)(C), inserted “, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States,” after “cybersecurity education” in introductory provisions.
+Subsec. (b)(4). Pub. L. 116–283, § 9403(1)(C), inserted “, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States,” after “cybersecurity education” in introductory provisions.
 
-Subsec. (d)(6). Pub. L. 116–283, § 9403(2), added par. (6).
+Subsec. (d)(6). Pub. L. 116–283, § 9403(2), added par. (6).
 
-Subsec. (f)(3). Pub. L. 116–283, § 9401(g)(4)(C), substituted “under section 7443” for “under section 7451”.
+Subsec. (f)(3). Pub. L. 116–283, § 9401(g)(4)(C), substituted “under section 7443” for “under section 7451”.
 
-Subsec. (f)(5) to (7). Pub. L. 116–283, § 9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: “accept the terms of a scholarship under this section.”
+Subsec. (f)(5) to (7). Pub. L. 116–283, § 9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: “accept the terms of a scholarship under this section.”
 
-Subsec. (g)(1). Pub. L. 116–283, § 9404(2)(A), inserted “the Office of Personnel Management (in coordination with the National Science Foundation) and” before “the qualified institution”.
+Subsec. (g)(1). Pub. L. 116–283, § 9404(2)(A), inserted “the Office of Personnel Management (in coordination with the National Science Foundation) and” before “the qualified institution”.
 
-Subsec. (g)(2)(E), (F). Pub. L. 116–283, § 9404(2)(B), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “fails to fulfill the post-award employment obligation of the individual under this section.”
+Subsec. (g)(2)(E), (F). Pub. L. 116–283, § 9404(2)(B), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: “fails to fulfill the post-award employment obligation of the individual under this section.”
 
-Subsec. (h)(2). Pub. L. 116–283, § 9404(3), inserted “and the Director of the Office of Personnel Management” after “Foundation”.
+Subsec. (h)(2). Pub. L. 116–283, § 9404(3), inserted “and the Director of the Office of Personnel Management” after “Foundation”.
 
-Subsec. (k)(1)(A). Pub. L. 116–283, § 9404(4), substituted “, the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed” for “and the Director of the National Science Foundation of the amounts owed”.
+Subsec. (k)(1)(A). Pub. L. 116–283, § 9404(4), substituted “, the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed” for “and the Director of the National Science Foundation of the amounts owed”.
 
-Subsec. (m)(1). Pub. L. 116–283, § 9403(3)(A), substituted “cybersecurity” for “cyber” in introductory provisions.
+Subsec. (m)(1). Pub. L. 116–283, § 9403(3)(A), substituted “cybersecurity” for “cyber” in introductory provisions.
 
-Subsec. (m)(2). Pub. L. 116–283, § 9404(5), substituted “once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—” and subpars. (A) to (C) for “once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cybersecurity workforce”.
+Subsec. (m)(2). Pub. L. 116–283, § 9404(5), substituted “once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—” and subpars. (A) to (C) for “once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cybersecurity workforce”.
 
-Pub. L. 116–283, § 9403(3)(B), substituted “cybersecurity” for “cyber”. Subsequent amendment by Pub. L. 116–283, § 9404(5), reenacted the word “cyber” in subsec. (m)(2)(C).
+Pub. L. 116–283, § 9403(3)(B), substituted “cybersecurity” for “cyber”. Subsequent amendment by Pub. L. 116–283, § 9404(5), reenacted the word “cyber” in subsec. (m)(2)(C).
 
-2017—Subsec. (b)(3), (4). Pub. L. 115–91, § 1649B(a)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “prioritize the employment placement of scholarship recipients in the Federal Government.”
+2017—Subsec. (b)(3), (4). Pub. L. 115–91, § 1649B(a)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “prioritize the employment placement of scholarship recipients in the Federal Government.”
 
-Subsec. (d). Pub. L. 115–91, § 1649B(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enter into an agreement under which the recipient agrees to work in the cybersecurity mission of a Federal, State, local, or tribal agency for a period equal to the length of the scholarship following receipt of the student’s degree.”
+Subsec. (d). Pub. L. 115–91, § 1649B(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enter into an agreement under which the recipient agrees to work in the cybersecurity mission of a Federal, State, local, or tribal agency for a period equal to the length of the scholarship following receipt of the student’s degree.”
 
-Subsec. (f)(3). Pub. L. 115–91, § 1649B(a)(3)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “have demonstrated a high level of proficiency in mathematics, engineering, or computer sciences;”.
+Subsec. (f)(3). Pub. L. 115–91, § 1649B(a)(3)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “have demonstrated a high level of proficiency in mathematics, engineering, or computer sciences;”.
 
-Subsec. (f)(4). Pub. L. 115–91, § 1649B(a)(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation; and”.
+Subsec. (f)(4). Pub. L. 115–91, § 1649B(a)(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation; and”.
 
-Subsec. (m). Pub. L. 115–91, § 1649B(a)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: “The Director of the National Science Foundation shall evaluate and report periodically to Congress on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector workforce.”
+Subsec. (m). Pub. L. 115–91, § 1649B(a)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: “The Director of the National Science Foundation shall evaluate and report periodically to Congress on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector workforce.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,11 +765,11 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Savings Provision**
 
-Pub. L. 115–91, div. A, title XVI, § 1649B(b), Dec. 12, 2017, 131 Stat. 1755, provided that: “Nothing in this section [amending this section], or an amendment made by this section, shall affect any agreement, scholarship, loan, or repayment, under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), in effect on the day before the date of enactment of this subtitle [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title XVI, § 1649B(b), Dec. 12, 2017, 131 Stat. 1755, provided that: “Nothing in this section [amending this section], or an amendment made by this section, shall affect any agreement, scholarship, loan, or repayment, under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), in effect on the day before the date of enactment of this subtitle [Dec. 12, 2017].”
 
 **Community College Cyber Pilot Program and Assessment**
 
-Pub. L. 115–91, div. A, title XVI, § 1649A, Dec. 12, 2017, 131 Stat. 1753, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1649A, Dec. 12, 2017, 131 Stat. 1753, provided that:
 
 > **“(a) Pilot Program.—** Not later than 1 year after the date of enactment of this subtitle [Dec. 12, 2017], as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall develop and implement a pilot program at not more than 10, but at least 5, community colleges to provide scholarships to eligible students who—
 
@@ -783,7 +783,7 @@ Pub. L. 115–91, div. A, title XVI, § 1649A, Dec. 12, 2017, 131 Stat. 1753, 
 
 > **“(b) Assessment.—** Not later than 1 year after the date of enactment of this subtitle, as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall assess the potential benefits and feasibility of providing scholarships through community colleges to eligible students who are pursuing associate degrees, but do not have bachelor’s degrees.”
 
-### § 7443. National cybersecurity awareness and education program
+### § 7443. National cybersecurity awareness and education program
 
 **(a) National cybersecurity awareness and education program** The Director of the National Institute of Standards and Technology (referred to in this section as the “Director”), in consultation with appropriate Federal agencies, industry, educational institutions, National Laboratories, the Networking and Information Technology Research and Development program, and other organizations shall continue to coordinate a national cybersecurity awareness and education program, that includes activities such as—
 
@@ -907,7 +907,7 @@ Upon completion of a cooperative agreement under paragraph (1), the regional all
 
 **(ii)** The metrics used by the regional alliance or partnership to measure the success of the efforts of the regional alliance or partnership under the cooperative agreement.
 
-(Pub. L. 113–274, title III, § 303, formerly title IV, § 401, Dec. 18, 2014, 128 Stat. 2985; renumbered title III, § 303, and amended Pub. L. 116–283, div. H, title XCIV, § 9401(a), (b), (e)–(g)(1), Jan. 1, 2021, 134 Stat. 4805–4807, 4809.)
+(Pub. L. 113–274, title III, § 303, formerly title IV, § 401, Dec. 18, 2014, 128 Stat. 2985; renumbered title III, § 303, and amended Pub. L. 116–283, div. H, title XCIV, § 9401(a), (b), (e)–(g)(1), Jan. 1, 2021, 134 Stat. 4805–4807, 4809.)
 
 **Editorial Notes**
 
@@ -917,19 +917,19 @@ Section was classified to section 7451 of this title prior to renumbering by Pub
 
 **Amendments**
 
-2021—Subsec. (a)(6) to (10). Pub. L. 116–283, § 9401(a), added pars. (6) to (9) and redesignated former par. (6) as (10).
+2021—Subsec. (a)(6) to (10). Pub. L. 116–283, § 9401(a), added pars. (6) to (9) and redesignated former par. (6) as (10).
 
-Subsec. (c). Pub. L. 116–283, § 9401(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (c). Pub. L. 116–283, § 9401(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (e). Pub. L. 116–283, § 9401(e), added subsec. (e).
+Subsec. (e). Pub. L. 116–283, § 9401(e), added subsec. (e).
 
-Subsec. (f). Pub. L. 116–283, § 9401(f), added subsec. (f).
+Subsec. (f). Pub. L. 116–283, § 9401(f), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Cybersecurity Career Pathways**
 
-Pub. L. 116–283, div. H, title XCIV, § 9401(c), Jan. 1, 2021, 134 Stat. 4806, provided that:
+Pub. L. 116–283, div. H, title XCIV, § 9401(c), Jan. 1, 2021, 134 Stat. 4806, provided that:
 
 > **“(1) Identification of multiple cybersecurity career pathways.—** In carrying out subsection (a) of such section [meaning 15 U.S.C. 7451(a), now 15 U.S.C. 7443(a)] and not later than 540 days after the date of the enactment of this Act [Jan. 1, 2021], the Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, the Director of the Office of Personnel Management, and the heads of other appropriate agencies, use a consultative process with other Federal agencies, academia, and industry to identify multiple career pathways for cybersecurity work roles that can be used in the private and public sectors.
 
@@ -943,7 +943,7 @@ Pub. L. 116–283, div. H, title XCIV, § 9401(c), Jan. 1, 2021, 134 Stat. 480
 
 **Proficiency to Perform Cybersecurity Tasks**
 
-Pub. L. 116–283, div. H, title XCIV, § 9401(d), Jan. 1, 2021, 134 Stat. 4806, provided that:
+Pub. L. 116–283, div. H, title XCIV, § 9401(d), Jan. 1, 2021, 134 Stat. 4806, provided that:
 
 > “Not later than 540 days after the date of the enactment of this Act [Jan. 1, 2021], the Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the heads of other appropriate agencies—
 
@@ -961,19 +961,19 @@ Pub. L. 116–283, div. H, title XCIV, § 9401(d), Jan. 1, 2021, 134 Stat. 480
 
 **Codification**
 
-This subchapter was comprised of title IV of Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2985, prior to its repeal by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(2), Jan. 1, 2021, 134 Stat. 4809.
+This subchapter was comprised of title IV of Pub. L. 113–274, Dec. 18, 2014, 128 Stat. 2985, prior to its repeal by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(2), Jan. 1, 2021, 134 Stat. 4809.
 
-### § 7451. Transferred
+### § 7451. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 113–274, title IV, § 401, Dec. 18, 2014, 128 Stat. 2985, which related to national cybersecurity awareness and education program, was renumbered § 303 of title III of Pub. L. 113–274, by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(1), Jan. 1, 2021, 134 Stat. 4809, and transferred to section 7443 of this title.
+Section, Pub. L. 113–274, title IV, § 401, Dec. 18, 2014, 128 Stat. 2985, which related to national cybersecurity awareness and education program, was renumbered § 303 of title III of Pub. L. 113–274, by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(1), Jan. 1, 2021, 134 Stat. 4809, and transferred to section 7443 of this title.
 
 ## SUBCHAPTER IV—ADVANCEMENT OF CYBERSECURITY TECHNICAL STANDARDS
 
-### § 7461. Definitions
+### § 7461. Definitions
 
 In this subchapter:
 
@@ -985,9 +985,9 @@ The term “Director” means the Director of the National Institute of Standard
 
 The term “Institute” means the National Institute of Standards and Technology.
 
-(Pub. L. 113–274, title V, § 501, Dec. 18, 2014, 128 Stat. 2986.)
+(Pub. L. 113–274, title V, § 501, Dec. 18, 2014, 128 Stat. 2986.)
 
-### § 7462. International cybersecurity technical standards
+### § 7462. International cybersecurity technical standards
 
 **(a) In general** The Director, in coordination with appropriate Federal authorities, shall—
 
@@ -999,9 +999,9 @@ The term “Institute” means the National Institute of Standards and Technolog
 
 In carrying out the activities specified in subsection (a)(1), the Director shall ensure consultation with appropriate private sector stakeholders.
 
-(Pub. L. 113–274, title V, § 502, Dec. 18, 2014, 128 Stat. 2986.)
+(Pub. L. 113–274, title V, § 502, Dec. 18, 2014, 128 Stat. 2986.)
 
-### § 7463. Cloud computing strategy
+### § 7463. Cloud computing strategy
 
 **(a) In general**
 
@@ -1023,9 +1023,9 @@ The Director, in coordination with the Office of Management and Budget, in colla
 
 **(D)** to support the development of the automation of continuous monitoring systems.
 
-(Pub. L. 113–274, title V, § 503, Dec. 18, 2014, 128 Stat. 2986.)
+(Pub. L. 113–274, title V, § 503, Dec. 18, 2014, 128 Stat. 2986.)
 
-### § 7464. Identity management research and development
+### § 7464. Identity management research and development
 
 **(a) In general** The Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to—
 
@@ -1067,7 +1067,7 @@ The Director shall develop, and periodically update, in collaboration with other
 
 **(D)** experts with relevant experience in the systems that enable digital identity verification, as determined by the Director.
 
-(Pub. L. 113–274, title V, § 504, Dec. 18, 2014, 128 Stat. 2987; Pub. L. 117–167, div. B, title II, § 10225, Aug. 9, 2022, 136 Stat. 1478.)
+(Pub. L. 113–274, title V, § 504, Dec. 18, 2014, 128 Stat. 2987; Pub. L. 117–167, div. B, title II, § 10225, Aug. 9, 2022, 136 Stat. 1478.)
 
 **Editorial Notes**
 

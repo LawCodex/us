@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 123—PROTECTING AMERICANS’ DATA FROM FOREIGN ADVERSARIES
 
-## § 9901. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries
+## § 9901. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries
 
 **(a) Prohibition** It shall be unlawful for a data broker to sell, license, rent, trade, transfer, release, disclose, provide access to, or otherwise make available personally identifiable sensitive data of a United States individual to—
 
@@ -157,19 +157,19 @@ The term “United States individual” means a natural person residing in the U
 
 This section shall take effect on the date that is 60 days after April 24, 2024.
 
-(Pub. L. 118–50, div. I, § 2, Apr. 24, 2024, 138 Stat. 960.)
+(Pub. L. 118–50, div. I, § 2, Apr. 24, 2024, 138 Stat. 960.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 118–50, div. I, § 1, Apr. 24, 2024, 138 Stat. 960, provided that: “This division [enacting this chapter] may be cited as the ‘Protecting Americans’ Data from Foreign Adversaries Act of 2024’.”
+Pub. L. 118–50, div. I, § 1, Apr. 24, 2024, 138 Stat. 960, provided that: “This division [enacting this chapter] may be cited as the ‘Protecting Americans’ Data from Foreign Adversaries Act of 2024’.”
 
 **Protecting Americans from Foreign Adversary Controlled Applications**
 
@@ -319,4 +319,4 @@ Pub. L. 118–50, div. H, Apr. 24, 2024, 138 Stat. 955, provided that:
 
 **Delegation of Authority Under the Protecting Americans From Foreign Adversary Controlled Applications Act**
 
-Memorandum of President of the United States, July 24, 2024, 89 F.R. 60793, which delegated to the Attorney General the authorities vested in the President by div. H of Pub. L. 118–50 (set out above) and established a Committee for the Review of Foreign Adversary Controlled Applications, was revoked by Ex. Ord. No. 14352, § 4, Sept. 25, 2025, 90 F.R. 47221.
+Memorandum of President of the United States, July 24, 2024, 89 F.R. 60793, which delegated to the Attorney General the authorities vested in the President by div. H of Pub. L. 118–50 (set out above) and established a Committee for the Review of Foreign Adversary Controlled Applications, was revoked by Ex. Ord. No. 14352, § 4, Sept. 25, 2025, 90 F.R. 47221.
